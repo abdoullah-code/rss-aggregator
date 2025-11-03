@@ -117,7 +117,7 @@ async def process_feeds():
         for entry in unique_entries:
             if hasattr(entry, 'published_parsed'):
                 entry_datetime = struct_time_to_datetime(entry.published_parsed)
-                if entry_datetime >= recent_time_threshold:
+                if entry_datetime >= retention_threshold:
                     recent_entries.append(entry)
 
         # Sort entries by published time, most recent first
