@@ -1,16 +1,380 @@
 <rss version="2.0">
   <channel>
     <title>RSS Aggregator Feed</title>
-    <link>https://hitem.github.io/rss-aggregator/aggregated_feed.xml</link>
+    <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 03 Nov 2025 16:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 17:15:12 GMT</lastBuildDate>
     <item>
-      <title>Delivering more threat hunting insights with Microsoft Defender Experts&#8217; newest capabilities</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/delivering-more-threat-hunting-insights-with-microsoft-defender/ba-p/4466047</link>
-      <pubDate>Mon, 03 Nov 2025 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/delivering-more-threat-hunting-insights-with-microsoft-defender/ba-p/4466047</guid>
-      <description>The cybersecurity threat landscape continues to evolve with novel attacks and techniques emerging each day. Microsoft Defender Experts for Hunting, included with Microsoft Defender Experts for XDR, helps security teams stay ahead of evolving attacks by providing proactive threat hunting, powered by Microsoft&#8217;s vast threat intelligence with 100 trillion daily signals processed by over 10,000 experts. &#160;
-To date, our managed threat hunting reports have provided details about the hunts we conduct after observing suspicious activity, with full attack summary details provided for verified threats (a...</description>
+      <title>The AI industry is running on FOMO</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype</link>
+      <pubDate>2025-11-03T12:06:02-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=812455</guid>
+      <description>For Big Tech, a penny invested in AI is a penny earned&#8230; Maybe. After an indeterminate amount of time. Investors hope. On earnings calls last week, Amazon, Google, Microsoft, and Meta reported more than $350 billion this year on capital expenditures, or longer-tail investments in a company's future. All four told investors to expect the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Dia&#8217;s AI browser starts adding Arc&#8217;s &#8216;greatest hits&#8217; to its feature set</title>
+      <link>https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/</link>
+      <pubDate>Mon, 03 Nov 2025 17:01:58 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3064531</guid>
+      <description>Dia's AI browser has a head start on what works for consumers thanks to learnings from its browser experiment, Arc.</description>
+    </item>
+    <item>
+      <title>Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO</title>
+      <link>https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/</link>
+      <pubDate>Mon, 03 Nov 2025 17:00:52 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3064530</guid>
+      <description>The Indian fintech already has a presence in 20 countries worldwide.</description>
+    </item>
+    <item>
+      <title>&#8216;Godzilla Minus Zero&#8217; May Be Coming Sooner Than You Think</title>
+      <link>https://gizmodo.com/godzilla-minus-zero-release-date-toho-2000680766</link>
+      <pubDate>Mon, 03 Nov 2025 17:00:47 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000680766</guid>
+      <description>Takashi Yamazaki's newly named 'Minus One' follow up could be stomping into theaters around the time of Godzilla's 72nd birthday.</description>
+    </item>
+    <item>
+      <title>The Lumix S1 II just took top spot in our video cameras guide, surpassing Canon, Sony and Nikon rivals &#8211; here's why</title>
+      <link>https://www.techradar.com/cameras/video-cameras/the-lumix-s1-ii-just-took-top-spot-in-our-video-cameras-guide-surpassing-canon-sony-and-nikon-rivals-heres-why</link>
+      <pubDate>Mon, 03 Nov 2025 17:00:02 +0000</pubDate>
+      <guid isPermaLink="false">MH4qcWtjPmByPtC6N9ukLA</guid>
+      <description>Superb handling, incredible video quality &#8211; Panasonic's 6K powerhouse is the complete package</description>
+    </item>
+    <item>
+      <title>Microsoft to ship 60,000 Nvidia AI chips to UAE after US approves deal</title>
+      <link>https://www.fastcompany.com/91434237/microsoft-nvidia-ai-chips-uae</link>
+      <pubDate>2025-11-03T17:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91434237/microsoft-nvidia-ai-chips-uae</guid>
+      <description>Microsoft&#8217;s announcement Monday was part of its planned $15.2 billion investment in technology in the UAE, which it says has some of the highest per-capita usage of AI.
+Microsoft said Monday it will be shipping Nvidia&#8216;s most advanced artificial intelligence chips to the United Arab Emirates as part of a deal approved by the U.S. Commerce Department....</description>
+    </item>
+    <item>
+      <title>Xiaomi 15T Pro vs Xiaomi 15T&#160;: comment choisir le meilleur smartphone de chez Xiaomi&#160;?</title>
+      <link>https://www.frandroid.com/versus/2845003_xiaomi-15t-pro-vs-xiaomi-15t-comment-choisir-le-meilleur-smartphone</link>
+      <pubDate>Mon, 03 Nov 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/versus/2845003_xiaomi-15t-pro-vs-xiaomi-15t-comment-choisir-le-meilleur-smartphone</guid>
+      <description>
+Quelles sont les diff&#233;rences entre le Xiaomi 15T et le mod&#232;le Pro&#160;? Surtout, valent-elles forc&#233;ment l'&#233;cart de prix&#160;? C'est les questions que l'on se pose dans ce nouveau versus, pour vous aider &#224;&#160;choisir le meilleur produit pour votre budget.
+</description>
+    </item>
+    <item>
+      <title>Screw Tri-Folds: The Real Innovation Is in Gaming Phones</title>
+      <link>https://gizmodo.com/screw-tri-folds-the-real-innovation-is-in-gaming-phones-2000680736</link>
+      <pubDate>Mon, 03 Nov 2025 16:58:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000680736</guid>
+      <description>Now we just need a mobile game that lets the hardware truly sing.</description>
+    </item>
+    <item>
+      <title>Le Black Friday approche, mais les promotions sur les PC portables sont d&#233;j&#224; l&#224;&#160;! Voici le top 10 des meilleures offres</title>
+      <link>https://www.frandroid.com/bons-plans/2848587_le-black-friday-approche-mais-les-promotions-sur-les-pc-portables-sont-deja-la-voici-les-5-meilleures-offres</link>
+      <pubDate>Mon, 03 Nov 2025 16:55:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2848587_le-black-friday-approche-mais-les-promotions-sur-les-pc-portables-sont-deja-la-voici-les-5-meilleures-offres</guid>
+      <description>
+La p&#233;riode pr&#233;c&#233;dant la Black Week et le Black Friday est elle aussi intense en termes de promotions et de qualit&#233; des offres. Les e-commer&#231;ants ont lanc&#233; le coup d'envoi du pr&#233;-Black Friday depuis le 31 octobre dernier, avec de nombreux bons plans sur les PC portables.
+</description>
+    </item>
+    <item>
+      <title>La Fnac et Darty frappent fort pour ce d&#233;but de pr&#233;-Black Friday : les 12 offres Tech &#224; ne pas rater</title>
+      <link>https://www.frandroid.com/bons-plans/2849237_la-fnac-et-darty-frappent-fort-pour-ce-debut-de-black-friday-les-8-offres-tech-a-ne-pas-rater</link>
+      <pubDate>Mon, 03 Nov 2025 16:55:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2849237_la-fnac-et-darty-frappent-fort-pour-ce-debut-de-black-friday-les-8-offres-tech-a-ne-pas-rater</guid>
+      <description>
+Le pr&#233;-Black Friday a commenc&#233; vendredi dernier chez Boulanger, mais c&#8217;est maintenant au tour de la Fnac et Darty de riposter et de participer &#224; ce marathon de promotions du mois de novembre. Il y a des offres tr&#232;s int&#233;ressantes sur des produits habituellement tr&#232;s on&#233;reux : voici uniquement les meilleures ci-dessous.
+</description>
+    </item>
+    <item>
+      <title>Le premier smartphone d&#8217;Ayaneo ressuscite l&#8217;esprit du Xperia Play, le smartphone culte de Sony</title>
+      <link>https://www.01net.com/actualites/le-premier-smartphone-dayaneo-ressuscite-lesprit-du-xperia-play-le-smartphone-culte-de-sony.html</link>
+      <pubDate>Mon, 03 Nov 2025 16:53:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1304806</guid>
+      <description>Ayaneo, un constructeur chinois sp&#233;cialis&#233; dans les consoles Android, va se lancer sur le terrain des smartphones. Et comme pour ses consoles, ce t&#233;l&#233;phone sort du lot et m&#234;me, glisse du lot !</description>
+    </item>
+    <item>
+      <title>Cette tablette TCL dont l&#8217;&#233;cran 2K imite le papier perd pr&#232;s de 100 &#8364; avant le d&#233;but officiel du Black Friday</title>
+      <link>https://www.frandroid.com/bons-plans/2853325_cette-tablette-tcl-dont-lecran-2k-imite-le-papier-perd-pres-de-100-e-avant-le-debut-officiel-du-black-friday</link>
+      <pubDate>Mon, 03 Nov 2025 16:49:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2853325_cette-tablette-tcl-dont-lecran-2k-imite-le-papier-perd-pres-de-100-e-avant-le-debut-officiel-du-black-friday</guid>
+      <description>
+Polyvalente et confortable pour les yeux, la TCL NxtPaper 11 Plus est dot&#233;e d'un &#233;cran qui peut basculer vers un mode &#171;&#160;papier&#160;&#187; comme sur une liseuse. Pendant le pr&#233;-Black Friday, on la trouve &#224; 203,14 euros au lieu de 299,99 euros sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>TikTok announces its first awards show in the US</title>
+      <link>https://techcrunch.com/2025/11/03/tiktok-announces-its-first-awards-show-in-the-us/</link>
+      <pubDate>Mon, 03 Nov 2025 16:47:49 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3064534</guid>
+      <description>The awards will include "Creator of the Year," "Video of the Year," "Muse of the Year," "Breakthrough Artist of the Year," and more.</description>
+    </item>
+    <item>
+      <title>KVUE stock price: Kenvue soars 19% today, Kimberly-Clark deal offers a win after Trump Tylenol drama</title>
+      <link>https://www.fastcompany.com/91434147/kvue-stock-price-kenvue-soars-19-percent-today-kimberly-clark-deal-offers-a-win-after-trump-tylenol-drama</link>
+      <pubDate>2025-11-03T16:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91434147/kvue-stock-price-kenvue-soars-19-percent-today-kimberly-clark-deal-offers-a-win-after-trump-tylenol-drama</guid>
+      <description>The announcement comes just weeks after President Trump publicly spread debunked claims that Tylenol consumption is linked to autism.
+It&#8217;s been a tough few weeks for the consumer health company Kenvue, after President Trump publicly spread unproven claims about Tylenol, one of its core subsidiary brands. Today, though, it seems like there might finally be some good news for Kenvue....</description>
+    </item>
+    <item>
+      <title>Windows 11 teste une fonction audio Bluetooth bien pratique, mais pas pour tout le monde</title>
+      <link>https://www.frandroid.com/marques/2853569_windows-11-teste-une-fonction-audio-bluetooth-bien-pratique-mais-pas-pour-tout-le-monde</link>
+      <pubDate>Mon, 03 Nov 2025 16:41:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/2853569_windows-11-teste-une-fonction-audio-bluetooth-bien-pratique-mais-pas-pour-tout-le-monde</guid>
+      <description>
+L'audio partag&#233; arrive bient&#244;t sur Windows 11 alors que Microsoft lance un premier test de la fonctionnalit&#233; pour les membres Windows Insider.
+</description>
+    </item>
+    <item>
+      <title>Fin de Windows 10&#160;: m&#233;fiez-vous de cette fausse application pour installer Windows 11 sur un PC non compatible</title>
+      <link>https://www.01net.com/actualites/fin-de-windows-10-mefiez-vous-de-cette-fausse-application-pour-installer-windows-11-sur-un-pc-non-compatible.html</link>
+      <pubDate>Mon, 03 Nov 2025 16:37:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1304772</guid>
+      <description>L&#8217;&#233;diteur de l&#8217;utilitaire Flyoobe, qui permet d&#8217;installer Windows 11 sur un PC non compatible, met en garde contre un site Web proposant une version non v&#233;rifi&#233;e de son utilitaire qui pourrait &#234;tre malveillant.</description>
+    </item>
+    <item>
+      <title>Beware - ransomware gang is tricking victims with fake Microsoft Teams ads</title>
+      <link>https://www.techradar.com/pro/security/ransomware-gang-tricks-victims-with-fake-microsoft-teams-ads</link>
+      <pubDate>Mon, 03 Nov 2025 16:35:00 +0000</pubDate>
+      <guid isPermaLink="false">hWQF9AbgLniLHM5U2qTg3a</guid>
+      <description>Don't trust ads just because they're on a reputable network - sometimes they're tainted too.</description>
+    </item>
+    <item>
+      <title>La fibre sans se ruiner : ce forfait Bouygues Telecom est simple, ultra-rapide et &#224; prix plancher [Sponso]</title>
+      <link>https://www.frandroid.com/telecom/forfait-internet/2853385_la-fibre-sans-se-ruiner-ce-forfait-bouygues-telecom-est-simple-ultra-rapide-et-a-prix-plancher</link>
+      <pubDate>Mon, 03 Nov 2025 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/telecom/forfait-internet/2853385_la-fibre-sans-se-ruiner-ce-forfait-bouygues-telecom-est-simple-ultra-rapide-et-a-prix-plancher</guid>
+      <description>
+Pour travailler &#224; la maison dans de bonnes conditions, une connexion internet fiable et rapide est un pr&#233;requis essentiel. L&#8217;offre Pure Fibre de Bouygues Telecom, c&#8217;est tout cela, mais &#224; un prix plancher.
+</description>
+    </item>
+    <item>
+      <title>Le Black Friday en avant-premi&#232;re casse les prix des tablettes tactiles : voici les meilleures offres qui vont s&#8217;&#233;couler par palettes</title>
+      <link>https://www.frandroid.com/bons-plans/2850637_le-black-friday-en-avant-premiere-casse-les-prix-des-tablettes-tactiles-voici-les-meilleures-offres-qui-vont-secouler-par-palettes</link>
+      <pubDate>Mon, 03 Nov 2025 16:28:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2850637_le-black-friday-en-avant-premiere-casse-les-prix-des-tablettes-tactiles-voici-les-meilleures-offres-qui-vont-secouler-par-palettes</guid>
+      <description>
+Les tablettes tactiles peuvent toujours trouver une place &#224; la maison et certains mod&#232;les sont de vraies alternatives aux PC portables. Envie de succomber. C'est le moment avec l'avant-premi&#232;re du Black Friday qui fait pleuvoir les promotions sur ces appareils &#224; tout faire.
+</description>
+    </item>
+    <item>
+      <title>I put Napster View AI on my MacBook Pro, and I'm now convinced no one needs this much face time</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/i-put-napster-view-ai-on-my-macbook-pro-and-im-now-convinced-no-one-needs-this-much-face-time</link>
+      <pubDate>Mon, 03 Nov 2025 16:24:26 +0000</pubDate>
+      <guid isPermaLink="false">cA3vFTEZ7TMSAQc2DWiHE5</guid>
+      <description>Napster View delivers an AI team that you can tap into from atop your MacBook, and it'll help you generate your own digital twin. The question is, do you want any of that?</description>
+    </item>
+    <item>
+      <title>Don't wait until Black Friday, grab a Nintendo Switch 2 and two of its best games at a mega discount with this early bundle deal</title>
+      <link>https://www.techradar.com/gaming/nintendo/dont-wait-until-black-friday-grab-a-nintendo-switch-2-and-two-of-its-best-games-at-a-mega-discount-with-this-early-bundle-deal</link>
+      <pubDate>Mon, 03 Nov 2025 16:19:56 +0000</pubDate>
+      <guid isPermaLink="false">DtpU2peb8NxGegh9QH9CCX</guid>
+      <description>Get a Nintendo Switch 2, Mario Kart World, and Donkey Kong Bananza at a sizeable discount today.</description>
+    </item>
+    <item>
+      <title>The framework that helped us turn impossible projects into breakthrough work.</title>
+      <link>https://www.fastcompany.com/91433867/the-framework-that-helped-us-turn-impossible-projects-into-breakthrough-work</link>
+      <pubDate>2025-11-03T16:19:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91433867/the-framework-that-helped-us-turn-impossible-projects-into-breakthrough-work</guid>
+      <description>The framework that helped us turn impossible projects into breakthrough work.
+How do you say yes when you have no idea how to deliver? My cofounders and I built Moment Factory by saying yes to projects most people thought were impossible. Long before the technology existed, we designed interactive concerts, illuminated night walks through forests, and towering LED installations in airports. Every project started with the same challenge: Finding the path to make the impossible possible....</description>
+    </item>
+    <item>
+      <title>Une com&#232;te comme les autres ? Pas vraiment. Le comportement de 3I/Atlas d&#233;fie les astronomes</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/objet-interstellaire-comete-comme-autres-pas-vraiment-comportement-3i-atlas-defie-astronomes-127139/#xtor%3DRSS-8</link>
+      <pubDate>Mon, 03 Nov 2025 17:18:55 +0100</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/objet-interstellaire-comete-comme-autres-pas-vraiment-comportement-3i-atlas-defie-astronomes-127139/#xtor%3DRSS-8</guid>
+      <description>Les astronomes attendaient avec impatience de voir comment l&#8217;objet interstellaire qu&#8217;ils ont d&#233;couvert en juillet dernier se comporterait lorsqu&#8217;il passerait au plus pr&#232;s du Soleil. 3I/Atlas ne les a pas d&#233;&#231;us. Nous offrant une fois de plus un spectacle inattendu&#8230;</description>
+    </item>
+    <item>
+      <title>Les produits Samsung sont d&#233;j&#224; &#224; prix cass&#233;s lors du pr&#233;-Black Friday : les 11 deals &#224; ne pas louper</title>
+      <link>https://www.frandroid.com/bons-plans/2852851_les-produits-samsung-sont-deja-a-prix-casses-lors-du-pre-black-friday-les-11-deals-a-ne-pas-louper</link>
+      <pubDate>Mon, 03 Nov 2025 16:18:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2852851_les-produits-samsung-sont-deja-a-prix-casses-lors-du-pre-black-friday-les-11-deals-a-ne-pas-louper</guid>
+      <description>
+Le pr&#233;-Black Friday fait son arriv&#233;e chez plusieurs e-commer&#231;ants avec des offres tr&#232;s int&#233;ressantes sur des produits Tech. Ceux de Samsung ne sont pas &#233;pargn&#233;s : des TV aux smartphones en passant par les tablettes, il y en a pour tous les go&#251;ts&#8201;! Voici notre s&#233;lection des meilleures offres de la marque.
+</description>
+    </item>
+    <item>
+      <title>Black Friday 2025 : voici les meilleures offres en avant-premi&#232;re sur Amazon &amp; Co &#8211; le DIRECT du lundi 3 novembre</title>
+      <link>https://www.frandroid.com/bons-plans/2849105_black-friday-2025-lavant-premiere-fait-le-plein-doffres-ce-dimanche-voici-les-meilleurs-bons-plans-en-direct</link>
+      <pubDate>Mon, 03 Nov 2025 16:17:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2849105_black-friday-2025-lavant-premiere-fait-le-plein-doffres-ce-dimanche-voici-les-meilleurs-bons-plans-en-direct</guid>
+      <description>
+Non, vous ne r&#234;vez pas ! Novembre commence &#224; peine que le Black Friday commence d&#233;j&#224; chez certains e-commer&#231;ants fran&#231;ais. Dans cet article, nous allons vous lister les meilleures offres en temps r&#233;el pour que vous puissiez faire d'excellentes affaires sur les meilleurs produits tech du moment. 
+</description>
+    </item>
+    <item>
+      <title>Le pr&#233;-Black Friday casse d&#233;j&#224; les prix des iPhone, Samsung Galaxy et Google Pixel ! Voici les 11 bons plans smartphones &#224; ne pas louper</title>
+      <link>https://www.frandroid.com/bons-plans/2848295_le-pre-black-friday-lance-les-premieres-promotions-sur-les-smartphones-dont-le-google-pixel-10-voici-les-meilleures-offres</link>
+      <pubDate>Mon, 03 Nov 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2848295_le-pre-black-friday-lance-les-premieres-promotions-sur-les-smartphones-dont-le-google-pixel-10-voici-les-meilleures-offres</guid>
+      <description>
+C'est d&#233;sormais bien connu, les commer&#231;ants n'attendent pas le Black Friday pour mettre en avant leurs promotions avec le label de l'&#233;v&#233;nement. &#199;a a l'avantage de donner plus de temps pour faire ses courses de No&#235;l, et &#224; deux mois du r&#233;veillon on s'appr&#234;te d&#233;j&#224; &#224; craquer pour certains de ces smartphones.
+</description>
+    </item>
+    <item>
+      <title>2025 state and local elections are almost here. Here are the major races on the ballot</title>
+      <link>https://www.fastcompany.com/91434079/2025-state-and-local-elections-are-almost-here-here-are-the-major-races-on-the-ballot</link>
+      <pubDate>2025-11-03T16:04:48</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91434079/2025-state-and-local-elections-are-almost-here-here-are-the-major-races-on-the-ballot</guid>
+      <description>Imminent state and local elections will be a litmus test for Trump&#8217;s second term agenda.
+One year after Donald Trump retook the White House and set into motion a dramatic expansion of executive power, the Republican president figures prominently in state and local elections being held Tuesday.The results of those contests &#8212; the first general election of Trump&#8217;s second term &#8212; will be heralded by the victors as either a major repudiation or resounding stamp of approval of his second-term agenda. That&#8217;s especially true in high-profile races for Virginia and New Jersey governor, New York City mayo...</description>
+    </item>
+    <item>
+      <title>Deezer&#160;: une offre moins ch&#232;re mais avec de la pub pourrait bient&#244;t arriver en France</title>
+      <link>https://www.01net.com/actualites/deezer-une-offre-moins-chere-mais-avec-de-la-pub-pourrait-bientot-arriver-en-france.html</link>
+      <pubDate>Mon, 03 Nov 2025 16:03:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1304746</guid>
+      <description>Deezer pourrait bient&#244;t proposer chez nous un nouvel abonnement &#224; 5,99&#160;euros avec publicit&#233;, d&#233;j&#224; test&#233; au Br&#233;sil sous le nom de Deezer&#160;Now. Une formule interm&#233;diaire pour s&#233;duire ceux qui trouvent l&#8217;offre premium trop ch&#232;re.</description>
+    </item>
+    <item>
+      <title>Traveling to Thailand? We've got your eSIM needs covered with this exclusive deal from Jetpac</title>
+      <link>https://www.techradar.com/pro/traveling-to-thailand-weve-got-your-esim-needs-covered-with-this-exclusive-deal-from-jetpac</link>
+      <pubDate>Mon, 03 Nov 2025 16:03:00 +0000</pubDate>
+      <guid isPermaLink="false">CrhGRQSQuSjshDtf8vWDRT</guid>
+      <description>TechRadar Pro readers can claim 15% discount on all Thailand Jetpac plans.</description>
+    </item>
+    <item>
+      <title>Adobe warns workforces risk being left behind without creative and AI skills</title>
+      <link>https://www.techradar.com/pro/adobe-warns-workforces-risk-being-left-behind-without-creative-and-ai-skills</link>
+      <pubDate>Mon, 03 Nov 2025 16:02:16 +0000</pubDate>
+      <guid isPermaLink="false">B4gzmCEpsXqbf53pCpiQXY</guid>
+      <description>Both employers and employees should be preparing for the future of AI-assisted work, says Adobe.</description>
+    </item>
+    <item>
+      <title>Amazon Haul : voici des accessoires pour iPhone et Apple Watch &#224; moins de 5 euros seulement [Sponso]</title>
+      <link>https://www.frandroid.com/marques/apple/2845063_amazon-haul-voici-des-accessoires-pour-iphone-et-apple-watch-a-moins-de-5-euros-seulement</link>
+      <pubDate>Mon, 03 Nov 2025 16:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/2845063_amazon-haul-voici-des-accessoires-pour-iphone-et-apple-watch-a-moins-de-5-euros-seulement</guid>
+      <description>
+La nouvelle plateforme d&#8217;e-commerce Amazon Haul propose une large s&#233;lection de coques, de bracelets et de supports pour produits Apple &#224; prix mini. Voici quelques p&#233;pites &#224; saisir pour moins de 5 euros.
+</description>
+    </item>
+    <item>
+      <title>Google Traduction vous laisse enfin choisir entre vitesse et pr&#233;cision</title>
+      <link>https://www.frandroid.com/android/applications/google-apps/2853527_google-traduction-vous-laisse-enfin-choisir-entre-vitesse-et-precision</link>
+      <pubDate>Mon, 03 Nov 2025 16:00:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/applications/google-apps/2853527_google-traduction-vous-laisse-enfin-choisir-entre-vitesse-et-precision</guid>
+      <description>
+Envie d&#8217;une traduction rapide ou d&#8217;une version plus sophistiqu&#233;e&#8239;? Google Translate propose maintenant de choisir entre deux modes diff&#233;rents pour s&#8217;adapter &#224; toutes les situations. L&#8217;application affine ainsi ses options avec un nouvel outil qui pourrait bien changer vos habitudes de traduction.
+</description>
+    </item>
+    <item>
+      <title>Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic Waste of Time</title>
+      <link>https://gizmodo.com/microsoft-ai-chief-warns-pursuing-machine-consciousness-is-a-gigantic-waste-of-time-2000680719</link>
+      <pubDate>Mon, 03 Nov 2025 15:50:53 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000680719</guid>
+      <description>Suleyman thinks conscious AI is an "absurd" pursuit.</description>
+    </item>
+    <item>
+      <title>Quelle sera la surprise annonc&#233;e par Free ? Voici nos pr&#233;dictions</title>
+      <link>https://www.frandroid.com/marques/free/2853487_quelle-sera-la-surprise-annoncee-par-free-voici-nos-predictions</link>
+      <pubDate>Mon, 03 Nov 2025 15:49:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/free/2853487_quelle-sera-la-surprise-annoncee-par-free-voici-nos-predictions</guid>
+      <description>
+Free pr&#233;pare une annonce avec Netflix ce mardi 4 novembre. L'op&#233;rateur a commenc&#233; le teasing. Que peut-on esp&#233;rer ?
+</description>
+    </item>
+    <item>
+      <title>Voiture de l&#8217;ann&#233;e 2026&#160;: voici les 7 finalistes, Renault vise un tripl&#233; historique</title>
+      <link>https://www.01net.com/actualites/voiture-de-lannee-2026-voici-les-7-finalistes-renault-vise-un-triple-historique.html</link>
+      <pubDate>Mon, 03 Nov 2025 15:47:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1304612</guid>
+      <description>Les sept finalistes pour la voiture de l'ann&#233;e 2026 sont connus. Domin&#233;e par les SUV et l'&#233;lectrique, la vrai question : Renault peut-il r&#233;ussir la passe de trois ?</description>
+    </item>
+    <item>
+      <title>This ingenious TV bench is secretly an elite projector screen &#8211; with hidden compartments for your home theater speakers or soundbar</title>
+      <link>https://www.techradar.com/televisions/this-ingenious-tv-bench-is-secretly-an-elite-projector-screen-with-hidden-compartments-for-your-home-theater-speakers-or-soundbar</link>
+      <pubDate>Mon, 03 Nov 2025 15:46:21 +0000</pubDate>
+      <guid isPermaLink="false">HfSJEBZ44nZczP5uxmm7CC</guid>
+      <description>Now you can play projector peek-a-boo</description>
+    </item>
+    <item>
+      <title>The Apple Watch SE 3 is on sale for a record low price of $199</title>
+      <link>https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale</link>
+      <pubDate>2025-11-03T10:45:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=812446</guid>
+      <description>If you haven&#8217;t upgraded your Apple Watch in years (or haven&#8217;t tried one at all) the Apple Watch SE 3 (40mm GPS) offers the best bang for your buck, and the Starlight color is down to a new all-time low of $199.99 ($50 off) at Amazon. Verge senior reviewer Victoria Song was impressed with how [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#171;&#160;L&#8217;IA ne peut pas &#234;tre consciente&#160;&#187; pour Microsoft</title>
+      <link>https://www.01net.com/actualites/lia-ne-peut-pas-etre-consciente-pour-microsoft.html</link>
+      <pubDate>Mon, 03 Nov 2025 15:42:46 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1304752</guid>
+      <description>La conscience doit &#234;tre r&#233;serv&#233;e aux &#234;tre humains, affirme Mustafa Suleyman. Le directeur de l&#8217;IA chez Microsoft s'inqui&#232;te des travaux chez les acteurs du secteur qui cherchent &#224; mettre au point une &#171; intelligence artificielle consciente &#187;.</description>
+    </item>
+    <item>
+      <title>Cdiscount propose quelques p&#233;pites lors du pr&#233;-Black Friday : le TOP 8 des offres</title>
+      <link>https://www.frandroid.com/bons-plans/2850059_cdiscount-propose-quelques-pepites-lors-du-pre-black-friday-le-top-3-des-offres</link>
+      <pubDate>Mon, 03 Nov 2025 15:41:46 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2850059_cdiscount-propose-quelques-pepites-lors-du-pre-black-friday-le-top-3-des-offres</guid>
+      <description>
+Cdiscount participe bien &#233;videmment au pr&#233;-Black Friday. L'opportunit&#233; de trouver des produits &#224; prix sacrifi&#233;. Nous vous avons s&#233;lectionn&#233; les meilleurs bons plans pour vous faciliter la t&#226;che.&#160;
+</description>
+    </item>
+    <item>
+      <title>Voici les nouvelles ic&#244;nes pour Google Photos et Google Maps</title>
+      <link>https://www.frandroid.com/marques/google/2853379_voici-les-nouvelles-icones-pour-google-photos-et-google-maps</link>
+      <pubDate>Mon, 03 Nov 2025 15:32:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/2853379_voici-les-nouvelles-icones-pour-google-photos-et-google-maps</guid>
+      <description>
+Google s'appr&#234;te &#224; moderniser les ic&#244;nes de Google Photos et Google Maps, pour marquer leur passage &#224; l'&#232;re de l'IA.
+</description>
+    </item>
+    <item>
+      <title>The timing of elections is crucial to voter turnout. This year, NYC could vote to change it</title>
+      <link>https://www.fastcompany.com/91433477/election-timing-is-crucial-to-voter-turnout-this-year-new-york-city-nyc-ballot-measure-could-vote-to-change-it</link>
+      <pubDate>2025-11-03T15:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91433477/election-timing-is-crucial-to-voter-turnout-this-year-new-york-city-nyc-ballot-measure-could-vote-to-change-it</guid>
+      <description>Amid the closely watched New York City mayoral race this week, a ballot measure aims to increase turnout by shifting odd-numbered election years.
+In addition to voting in the highly anticipated mayoral race this November, New Yorkers will make another consequential decision this election day. They&#8217;ll also decide whether the city will begin holding elections only on even-numbered calendar years....</description>
+    </item>
+    <item>
+      <title>Is that free VPN a security risk? Here's what you need to know</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/is-that-free-vpn-a-security-risk-heres-what-you-need-to-know</link>
+      <pubDate>Mon, 03 Nov 2025 15:26:42 +0000</pubDate>
+      <guid isPermaLink="false">8KPD73ReB5vCuV2tLZrM3A</guid>
+      <description>Is that free VPN a security risk? Here's what you need to know</description>
+    </item>
+    <item>
+      <title>AI belongs to humanity, not superpowers</title>
+      <link>https://www.techradar.com/pro/ai-belongs-to-humanity-not-superpowers</link>
+      <pubDate>Mon, 03 Nov 2025 15:24:23 +0000</pubDate>
+      <guid isPermaLink="false">uwTP6gYmrYWcufbmjssMST</guid>
+      <description>How the U.S. can lead with AI by example in openness, collaboration, and shared stewardship.</description>
+    </item>
+    <item>
+      <title>OpenAI and Amazon ink $38B cloud computing deal</title>
+      <link>https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/</link>
+      <pubDate>Mon, 03 Nov 2025 15:21:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3064514</guid>
+      <description>OpenAI isn't done securing the AI infrastructure it needs to rapidly scale agentic workloads. The ChatGPT-maker on Monday said it has reached a deal with Amazon to buy $38 billion in cloud computing services over the next seven years.</description>
+    </item>
+    <item>
+      <title>12 Essential Vince Gilligan &#8216;X-Files&#8217; Episodes</title>
+      <link>https://gizmodo.com/vince-gilligan-best-x-files-episodes-2000679927</link>
+      <pubDate>Mon, 03 Nov 2025 15:20:28 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000679927</guid>
+      <description>Before 'Breaking Bad' and 'Pluribus,' the acclaimed TV creator cut his teeth on the classic '90s sci-fi series.</description>
+    </item>
+    <item>
+      <title>Flying soon? Delays abound at these U.S. airports still dealing with air traffic controller shortages</title>
+      <link>https://www.fastcompany.com/91434082/flying-soon-delays-abound-u-s-airports-still-dealing-air-traffic-controller-shortages</link>
+      <pubDate>2025-11-03T15:20:22</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91434082/flying-soon-delays-abound-u-s-airports-still-dealing-air-traffic-controller-shortages</guid>
+      <description>Officials say Newark Airport&#8217;s 2&#8211;3 hour delays will impact other airports in the region. 
+Flight delays continued at U.S. airports Sunday amid air traffic controller shortages as the government shutdown entered its second month, with Newark airport in New Jersey experiencing delays of two to three hours.New York City&#8217;s Emergency Management office said on X that Newark delays often ripple out to the region&#8217;s other airports.Travelers flying to, from or through New York &#8220;should expect schedule changes, gate holds, and missed connections. Anyone flying today should check flight status before headi...</description>
+    </item>
+    <item>
+      <title>Chinese hackers target European diplomats with Windows zero-day flaw</title>
+      <link>https://www.techradar.com/pro/security/chinese-hackers-target-european-diplomats-with-windows-zero-day-flaw</link>
+      <pubDate>Mon, 03 Nov 2025 15:19:00 +0000</pubDate>
+      <guid isPermaLink="false">EyrZ5TDzT7TSgou6QCeG6F</guid>
+      <description>Hungarian and Serbian diplomats targeted despite their country's good relationship with China.</description>
+    </item>
+    <item>
+      <title>Waymo&#8217;s robotaxis are coming to three new cities</title>
+      <link>https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch</link>
+      <pubDate>2025-11-03T10:18:28-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=812440</guid>
+      <description>Waymo said it plans on launching commercial robotaxi services in three new cities: San Diego, Las Vegas, and Detroit. The announcement comes after the company said it would begin rapidly scaling to bring its fully driverless technology to more people on a faster timeline. Waymo didn&#8217;t say exactly when it plans on opening up its [&#8230;]</description>
     </item>
   </channel>
 </rss>
