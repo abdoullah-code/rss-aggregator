@@ -3,13 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 04 Nov 2025 04:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 04:42:31 GMT</lastBuildDate>
+    <item>
+      <title>I tested Dell&#8217;s compact Chromebook, and it&#8217;s a great tool for school &#8211; but you&#8217;ll want to pair it with a mouse</title>
+      <link>https://www.techradar.com/computing/chromebooks/dell-chromebook-3120-review</link>
+      <pubDate>Tue, 04 Nov 2025 04:38:49 +0000</pubDate>
+      <guid isPermaLink="false">EMdipvn4Yy9uSMqNSzM7si</guid>
+      <description>The Dell Chromebook 3120 is billed as the perfect companion for educational purposes &#8211; but is it fit for the classroom?</description>
+    </item>
+    <item>
+      <title>I just tested the best cheap Chromebook I&#8217;ve seen so far &#8211; and I&#8217;m amazed by one aspect in particular</title>
+      <link>https://www.techradar.com/computing/chromebooks/asus-chromebook-cx15-review</link>
+      <pubDate>Tue, 04 Nov 2025 04:16:32 +0000</pubDate>
+      <guid isPermaLink="false">TmFkejL8qyc6G6dsEzeh85</guid>
+      <description>The Asus Chromebook CX1505 certainly offers a lot of screen for the money, but has it been compromised elsewhere?</description>
+    </item>
+    <item>
+      <title>Wait, people actually use Facebook Dating?</title>
+      <link>https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/</link>
+      <pubDate>Tue, 04 Nov 2025 04:05:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3064759</guid>
+      <description>Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29.</description>
+    </item>
     <item>
       <title>This might be one of the best value 1080p gaming laptops I&#8217;ve tested &#8211; if you can put up with a few missteps</title>
       <link>https://www.techradar.com/computing/gaming-laptops/medion-erazer-deputy-15-p1-review</link>
       <pubDate>Tue, 04 Nov 2025 03:54:19 +0000</pubDate>
       <guid isPermaLink="false">vBHGJdcZy64KWMahobJQng</guid>
       <description>The Medion Erazer Deputy 15 P1 makes a pitch for superb 1080p gaming at a reasonable price.</description>
+    </item>
+    <item>
+      <title>Augmented reality may be the key to fire safety</title>
+      <link>https://www.fastcompany.com/91433845/augmented-reality-may-be-the-key-to-fire-safety</link>
+      <pubDate>2025-11-04T03:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91433845/augmented-reality-may-be-the-key-to-fire-safety</guid>
+      <description>Immersive, personalized technology can transform how families prepare for emergencies.
+House fires burn hotter and spread faster than ever before, leaving families with as little as two minutes to safely escape their homes. Despite that short window to reach safety, families are startlingly unprepared: Only 26% of American families have developed and practiced a home fire escape plan....</description>
     </item>
     <item>
       <title>&#8216;These Horrible Objects Are Illegal&#8217;: French Authorities Discover Alleged Child Sex Dolls on Shein</title>
@@ -24,14 +53,6 @@
       <pubDate>Tue, 04 Nov 2025 02:46:25 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000680561</guid>
       <description>Palantir had some impressive quarterly earnings. Karp celebrated by publishing a manifesto.</description>
-    </item>
-    <item>
-      <title>Green revolution: The evolving story of biobased products</title>
-      <link>https://www.fastcompany.com/91433858/green-revolution-the-evolving-story-of-biobased-products</link>
-      <pubDate>2025-11-04T02:03:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91433858/green-revolution-the-evolving-story-of-biobased-products</guid>
-      <description>Sustainable alternative products have been around for decades, but the need is ever-growing.
-As the global climate and environmental crisis accelerates, the urgency for sustainable alternatives to fossil fuel-based products has never been greater. Today, biobased products&#8212;derived from renewable agricultural, marine, and forestry materials&#8212;are gaining momentum as critical tools in reducing our reliance on non-renewable resources and mitigating environmental harm. From everyday household goods to advanced industrial materials, biobased alternatives are transforming entire industries and creating...</description>
     </item>
   </channel>
 </rss>
