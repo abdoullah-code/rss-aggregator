@@ -45,6 +45,7 @@ rss_feed_urls = [
 "https://www.futura-sciences.com/rss/espace/actualites.xml",
 "https://www.lapresse.ca/affaires/techno/rss",
 "https://www.frandroid.com/feed",
+"https://www.google.ca/alerts/feeds/00755152892764902535/17839825318026283492",
 ]
 
 # Set the output file name and state file
