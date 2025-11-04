@@ -55,9 +55,6 @@ processed_links_file = "processed_links.txt"
 recent_time_threshold = datetime.datetime.now(
     datetime.timezone.utc) - datetime.timedelta(hours=2)
 
-retention_threshold = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=365*5)
-
-
 # Helper to normalize URLs (remove fragments, queries, and trailing slashes)
 from urllib.parse import urlparse
 
@@ -134,21 +131,6 @@ async def process_feeds():
                     f.write(f"{timestamp} {normalize_url(entry.link)}\n")
                 except Exception:
                     continue  # Skip malformed or missing dates
-
-        try:
-            with open(processed_links_file, "r") as f:
-                lines = [line.strip() for line in f if line.strip()]
-            with open(processed_links_file, "w") as f:
-                for line in lines:
-                    try:
-                        timestamp, link = line.split(" ", 1)
-                        # keep entries newer than 5 years
-                        if datetime.datetime.fromisoformat(timestamp) >= retention_threshold.replace(tzinfo=None):
-                            f.write(line + "\n")
-                    except ValueError:
-                        continue
-        except FileNotFoundError:
-            pass
             
         # Update the aggregated XML feed with the new entries
         update_feed(sorted_entries)
