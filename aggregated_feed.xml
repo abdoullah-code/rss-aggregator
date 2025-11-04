@@ -3,13 +3,135 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 04 Nov 2025 21:32:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 22:40:16 GMT</lastBuildDate>
+    <item>
+      <title>Apple Podcasts is generating automatic links and chapters</title>
+      <link>https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters</link>
+      <pubDate>2025-11-04T17:34:28-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=813817</guid>
+      <description>Apple Podcasts will soon include automatically-generated chapters for shows in English and allow creators to add links at specific timestamps in their episodes. Timed links may also be added to episodes automatically whenever creators mention another podcast.&#160; Creators can opt-out of both features, and chapters will only be generated when creators don&#8217;t add their own. [&#8230;]...</description>
+    </item>
+    <item>
+      <title>People Inc forges AI licensing deal with Microsoft as Google traffic drops</title>
+      <link>https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/</link>
+      <pubDate>Tue, 04 Nov 2025 22:30:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3065066</guid>
+      <description>People Inc. signs an AI licensing deal with Microsoft, which will use its media content in Copilot.</description>
+    </item>
+    <item>
+      <title>Ever Lego &#8216;Ideas&#8217; Project That Is Currently in the Works</title>
+      <link>https://gizmodo.com/every-lego-ideas-project-in-development-2025-2000681461</link>
+      <pubDate>Tue, 04 Nov 2025 22:25:05 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000681461</guid>
+      <description>After a streak of high-profile crossover announcements, from 'X-Files' to 'Power Rangers', here's everything that's currently in development for Lego's crowd-supported line of sets.</description>
+    </item>
+    <item>
+      <title>Beta Technologies ends first day on NYSE in the green and $1B raised</title>
+      <link>https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/</link>
+      <pubDate>Tue, 04 Nov 2025 22:22:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3065077</guid>
+      <description>The electric aviation company Beta Technologies made an impressive showing in its debut on the New York Stock Exchange.</description>
+    </item>
+    <item>
+      <title>Your Stream Deck&#8217;s &#8216;device not supported&#8217; error should fix itself if you log in</title>
+      <link>https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in</link>
+      <pubDate>2025-11-04T17:17:35-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=813814</guid>
+      <description>Did your Stream Deck sprout a red &#8220;Device Not Supported&#8221; badge where a button used to be? If so, you were probably using BarRaider&#8217;s popular plug-ins, which apparently check to see if StreamDeck.exe is digitally signed &#8212; and it just so happens that Elgato&#8217;s digital signature expired yesterday (see image below). But as of 5PM [&#8230;]</description>
+    </item>
+    <item>
+      <title>Acer reveals its fanciest Chromebook yet - but will it be enough to convince your IT team to upgrade you?</title>
+      <link>https://www.techradar.com/pro/acer-reveals-its-fanciest-chromebook-yet-but-will-it-be-enough-to-convince-your-it-team-to-upgrade-you</link>
+      <pubDate>Tue, 04 Nov 2025 22:17:00 +0000</pubDate>
+      <guid isPermaLink="false">98snqP4CQgm9mmiVSjPfSm</guid>
+      <description>Acer Chromebook Plus Enterprise 714 and 514 blend AI tools, long battery life, and rugged builds for serious business use.</description>
+    </item>
+    <item>
+      <title>There's no better PC under $350 than this Ryzen 7 powerhouse with a CPU that's faster than a 10-core Apple M5 CPU, and that's no mistake</title>
+      <link>https://www.techradar.com/pro/theres-no-better-pc-under-usd350-than-this-ryzen-7-powerhouse-with-a-cpu-thats-faster-than-a-10-core-apple-m5-cpu-and-thats-no-mistake</link>
+      <pubDate>Tue, 04 Nov 2025 22:06:00 +0000</pubDate>
+      <guid isPermaLink="false">dNWSCqgq9BcnNFKSxgD4B</guid>
+      <description>$349 Machenike AI Mini PC is one of the best sub-$400 desktops available, powered by an AMD Ryzen 7 8745HS and delivering performance that rivals more expensive systems.</description>
+    </item>
+    <item>
+      <title>The best deals on 4K TVs</title>
+      <link>https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl</link>
+      <pubDate>2025-11-04T17:05:05-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl</guid>
+      <description>Things are looking bright for those who want to nab a great TV in 2025 at a substantial discount. There&#8217;s usually a great deal happening on a mid- or high-end TV from LG, Sony, Roku, Hisense, or Samsung &#8212; even if the biggest discounts remain reserved for Black Friday, Amazon Prime Day, and the lead-up [&#8230;]</description>
+    </item>
+    <item>
+      <title>Kim Kardashian blames ChatGPT for low law class test scores &#8211; even as OpenAI dismisses a rumored ban of legal and medical advice from ChatGPT</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/kim-kardashian-blames-chatgpt-for-low-law-class-test-scores-even-as-openai-dismisses-a-rumored-ban-of-legal-and-medical-advice-from-chatgpt</link>
+      <pubDate>Tue, 04 Nov 2025 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">akBY22JWWnmHLeRB9soob7</guid>
+      <description>Kim Kardashian&#8217;s confession that ChatGPT led to flunking law tests arrives amid confusion over AI&#8217;s legal and medical advice policies.</description>
+    </item>
+    <item>
+      <title>U.S. Immigration Enforcement Apparently Provides Facial Scanning Tech to Local Cops</title>
+      <link>https://gizmodo.com/u-s-immigration-enforcement-apparently-provides-facial-scanning-tech-to-local-cops-2000681475</link>
+      <pubDate>Tue, 04 Nov 2025 21:52:59 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000681475</guid>
+      <description>It's part of a program that essentially deputizes police into the federal mass deportation effort.</description>
+    </item>
+    <item>
+      <title>USDA email warns stores: discounts for SNAP users could violate federal law</title>
+      <link>https://www.fastcompany.com/91435252/usda-email-warns-stores-discounts-for-snap-users-could-violate-federal-law</link>
+      <pubDate>2025-11-04T21:48:32</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91435252/usda-email-warns-stores-discounts-for-snap-users-could-violate-federal-law</guid>
+      <description>The agency says offering discounts exclusively to food-aid recipients violates program rules, sparking backlash during the shutdown.
+Restaurants, food banks, nonprofits, and other organizations have stepped up to offer assistance to the 41 million Americans who have been thrust into limbo this month regarding SNAP benefits that have been halved. But retailers are prohibited from offering discounts on groceries....</description>
+    </item>
+    <item>
+      <title>Microsoft AI&amp;#8217;s first in-house image generator MAI-Image-1 is now available</title>
+      <link>https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1</link>
+      <pubDate>2025-11-04T16:48:09-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=813789</guid>
+      <description>Microsoft&#8217;s first in-house AI image generator, MAI-Image-1, is now available in two products, Bing Image Creator and Copilot Audio Expressions. The company announced the model in October. Microsoft AI chief Mustafa Suleyman wrote in a post on X that the text-to-image model will be &#8220;coming soon&#8221; to the EU.&#160; Suleyman added that the model &#8220;really [&#8230;]</description>
+    </item>
+    <item>
+      <title>Chrysler recalls 320,000 Jeep plug-in hybrids over battery fire risk</title>
+      <link>https://www.fastcompany.com/91435238/chrysler-recalls-jeep-plug-in-hybrids-battery-fire</link>
+      <pubDate>2025-11-04T21:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91435238/chrysler-recalls-jeep-plug-in-hybrids-battery-fire</guid>
+      <description>Chrysler is aware of 19 reports and 1 injury potentially related to the issue.
+Chrysler is recalling more than 320,000 Jeep plug-in hybrid vehicles due to a faulty battery that can fail and lead to a fire, U.S. traffic safety regulators said.</description>
+    </item>
+    <item>
+      <title>Nomad&#8217;s magnetic charging stands now support faster 25W rates</title>
+      <link>https://www.theverge.com/news/813769/nomad-qi2-stand-one-max-wireless-charging-25w-magsafe-pixelsnap</link>
+      <pubDate>2025-11-04T16:42:13-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=813769</guid>
+      <description>Nomad has announced updated versions of its Stand One and Stand One Max hubs that now support the Qi2.2 standard for faster wireless charging rates of up to 25W when used with compatible smartphones like the Pixel 10 Pro XL and the iPhone 16 and 17 series. As with previous versions, the new Stand One [&#8230;]</description>
+    </item>
+    <item>
+      <title>Amazon and Perplexity have kicked off the great AI web browser fight</title>
+      <link>https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block</link>
+      <pubDate>2025-11-04T16:36:41-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=813755</guid>
+      <description>Amazon doesn&#8217;t want to be a part of Perplexity&#8217;s AI-powered shopping experience. In a post on Tuesday, the ecommerce giant says it has &#8220;repeatedly requested&#8221; that Perplexity stop allowing its Comet AI browser to buy products for customers, which Perplexity has responded to by accusing Amazon of &#8220;bullying.&#8221; Perplexity&#8217;s AI browser, Comet, currently offers an [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Why Trump hijacked the .gov domain</title>
+      <link>https://www.theverge.com/column/813499/viral-politics-trump-mamdani-cuomo</link>
+      <pubDate>2025-11-04T16:33:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/813499/what-the-trump-family-stands-to-gain-from-changpeng-zhaos-pardon</guid>
+      <description>Hello and welcome to Regulator. Happy New York City mayoral election day to everyone who's voting, watching from afar, or just here for the memes. And happy 35th day of the federal government shutdown, which, as of today, is tied for the longest shutdown in history. But let's step back for a second, because there's [&#8230;]</description>
+    </item>
     <item>
       <title>OpenAI and AWS team up in potentially one of the biggest tech partnerships ever seen - so what will it mean for you?</title>
       <link>https://www.techradar.com/pro/openai-and-aws-team-up-in-potentially-one-of-the-biggest-tech-partnerships-ever-seen-so-what-will-it-mean-for-you</link>
       <pubDate>Tue, 04 Nov 2025 21:32:00 +0000</pubDate>
       <guid isPermaLink="false">RFoTvXxyUu9KMFFEqxDSXe</guid>
       <description>OpenAI&#8217;s $38 billion partnership with AWS will expand massive AI workloads, deepening cloud hosting dependence and raising sustainability concerns.</description>
+    </item>
+    <item>
+      <title>Transportation Secretary warns of &#8216;mass chaos&#8217; in the skies if the shutdown continues</title>
+      <link>https://www.fastcompany.com/91435235/duffy-shutdown-mass-chaos-skies</link>
+      <pubDate>2025-11-04T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91435235/duffy-shutdown-mass-chaos-skies</guid>
+      <description>Duffy and the head of the air traffic controllers union have&#160;both warned&#160;that the situation will only get worse the longer the shutdown continues.
+Transportation Secretary Sean Duffy predicted Tuesday that there could be&#160;chaos in the skies&#160;next week if the government shutdown drags on and air traffic controllers miss a second paycheck.</description>
     </item>
     <item>
       <title>Spirit and Art the Clown Are Refusing to Let Halloween Go</title>
@@ -26,6 +148,14 @@
       <description>Uber CEO wants physics PhDs using the app for AI gigs.</description>
     </item>
     <item>
+      <title>Big Tesla investor will reject Elon Musk&#8217;s $1 trillion pay package</title>
+      <link>https://www.fastcompany.com/91435231/musk-tesla-pay-package-norway-sovereign-wealth-fund</link>
+      <pubDate>2025-11-04T21:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91435231/musk-tesla-pay-package-norway-sovereign-wealth-fund</guid>
+      <description>Norway&#8217;s sovereign wealth fund has a 1.16% stake in Tesla, the sixth largest holding among institutional investors.
+Norway&#8217;s sovereign wealth fund, one of Tesla&#8217;s biggest investors, said Tuesday that it will vote against a proposed compensation package that could pay CEO Elon Musk as much as&#160;$1 trillion&#160;over a decade.</description>
+    </item>
+    <item>
       <title>A Popular Gourmet Mushroom Is Escaping Gardens and Invading US Forests</title>
       <link>https://gizmodo.com/a-popular-gourmet-mushroom-is-escaping-gardens-and-invading-us-forests-2000681430</link>
       <pubDate>Tue, 04 Nov 2025 21:10:24 +0000</pubDate>
@@ -38,6 +168,14 @@
       <pubDate>Tue, 04 Nov 2025 21:03:43 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3065038</guid>
       <description>It's the second time this year Rivian has spun out a new company, after it created micromobility startup Also in March.</description>
+    </item>
+    <item>
+      <title>Pizza Hut&#8217;s parent company weighs selling the chain</title>
+      <link>https://www.fastcompany.com/91435227/pizza-huts-yum-brands-sale</link>
+      <pubDate>2025-11-04T21:03:13</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91435227/pizza-huts-yum-brands-sale</guid>
+      <description>Yum Brands is conducting a formal review of options for Pizza Hut, which has struggled to compete in a crowded pizza market.
+Pizza Hut could soon be up for sale.</description>
     </item>
     <item>
       <title>I let Gemini watch my family for the weekend &#8212; it got weird</title>
@@ -75,111 +213,6 @@ Apple d&#233;sactive une fonction plut&#244;t que de se conformer au DMA.
       <pubDate>2025-11-04T15:51:49-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
       <description>Apple currently sells MacBooks equipped with its own M-series processors in a wide range of sizes and price points, all of which run the company&#8217;s new operating system, macOS 26. The latest 14-inch MacBook Pro that debuted in October 2025 features the M5 processor, its fastest and most efficient yet, and it&#8217;s already over $50 [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google&#8217;s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments</title>
-      <link>https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/</link>
-      <pubDate>Tue, 04 Nov 2025 20:36:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3064978</guid>
-      <description>For example, you can ask "find me 2 cheap tickets for the Shaboozey concert coming up. prefer standing floor tickets." AI Mode will then search across multiple websites to find real-time ticket options that meet your specific requests.</description>
-    </item>
-    <item>
-      <title>The Arduboy credit card-sized Game Boy now supports multiplayer over USB</title>
-      <link>https://www.theverge.com/news/813661/arduboy-fx-c-handheld-console-arduino-usb-c-multiplayer</link>
-      <pubDate>2025-11-04T15:35:28-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=813661</guid>
-      <description>After debuting a matchbox-sized handheld called the Arduboy Mini and a banana-shaped version of the original Arduboy, creator Kevin Bates has announced a new model of Arduboy FX called the FX-C with some welcome upgrades and new color options. For the first time, the credit card-sized Arduboy now has a USB-C port for charging, syncing, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Sequoia names Alfred Lin and Pat Grady as new Co-Stewards as Roelof Botha steps down</title>
-      <link>https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/</link>
-      <pubDate>Tue, 04 Nov 2025 20:34:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3064983</guid>
-      <description>Just over three years after taking the reins as the steward of the storied firm, Botha passed the leadership baton to Lin and Grady.</description>
-    </item>
-    <item>
-      <title>&#8216;The Mummy&#8217; Is Returning With Original Stars Brendan Fraser and Rachel Weisz</title>
-      <link>https://gizmodo.com/the-mummy-new-sequel-brendan-fraser-and-rachel-weisz-2000681497</link>
-      <pubDate>Tue, 04 Nov 2025 20:30:39 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681497</guid>
-      <description>Stars of the beloved 1999 reboot and its sequel are returning to the Universal Monster franchise.</description>
-    </item>
-    <item>
-      <title>Nvidia is building an "AI Megafactory" for Samsung with 50,000 GPUs - could this be the start of a new AI dawn?</title>
-      <link>https://www.techradar.com/pro/nvidia-is-building-an-ai-megafactory-for-samsung-with-50-000-gpus-could-this-be-the-start-of-a-new-ai-dawn</link>
-      <pubDate>Tue, 04 Nov 2025 20:27:00 +0000</pubDate>
-      <guid isPermaLink="false">GKYvMheLaGd4RiCMHPNCL5</guid>
-      <description>Samsung&#8217;s AI Megafactory aims to unify semiconductor, robotics, and digital twin systems, all powered by Nvidia GPUs.</description>
-    </item>
-    <item>
-      <title>Un ph&#233;nom&#232;ne rare observ&#233; en direct : des anneaux sont en train de na&#238;tre autour d&#8217;un astre du Syst&#232;me solaire !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-phenomene-rare-observe-direct-anneaux-sont-train-naitre-autour-astre-systeme-solaire-127117/#xtor%3DRSS-8</link>
-      <pubDate>Tue, 04 Nov 2025 21:10:05 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-phenomene-rare-observe-direct-anneaux-sont-train-naitre-autour-astre-systeme-solaire-127117/#xtor%3DRSS-8</guid>
-      <description>Galil&#233;e a le premier observ&#233; les anneaux de Saturne avec sa lunette, mais sans comprendre vraiment leur nature. Depuis, on en a trouv&#233; autour de bien des corps c&#233;lestes du Syst&#232;me solaire. Il semblerait que certains sont en cours de formation. Ce qui est s&#251;r, c'est que m&#234;me des astronomes...</description>
-    </item>
-    <item>
-      <title>The Most-Hated MacBook Could Return Without the Same Compromises</title>
-      <link>https://gizmodo.com/most-hated-macbook-could-return-without-the-same-compromises-2000681448</link>
-      <pubDate>Tue, 04 Nov 2025 20:09:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681448</guid>
-      <description>Apple is reportedly working on a do-over.</description>
-    </item>
-    <item>
-      <title>The "class-leading" DJI Osmo Pocket 3 just got a massive $200 discount at Best Buy</title>
-      <link>https://www.techradar.com/cameras/action-cameras/the-class-leading-dji-osmo-pocket-3-just-got-a-massive-usd200-discount-at-best-buy</link>
-      <pubDate>Tue, 04 Nov 2025 20:03:00 +0000</pubDate>
-      <guid isPermaLink="false">6PB6ixfdyjXP9brVgq2zfm</guid>
-      <description>The DJI Osmo Pocket 3 just got a huge saving of $200 in Best Buy&#8217;s early Black Friday deals.</description>
-    </item>
-    <item>
-      <title>12 Classic Cartoons to Stream for Free, and Where to Find Them</title>
-      <link>https://gizmodo.com/12-classic-cartoons-to-stream-for-free-and-where-to-find-them-2000681109</link>
-      <pubDate>Tue, 04 Nov 2025 20:00:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681109</guid>
-      <description>'Looney Tunes,' 'My Little Pony,' 'Transformers,' 'Strawberry Shortcake,' and more are available to watch without a paid subscription.</description>
-    </item>
-    <item>
-      <title>The 55 Best Shows on Disney+ Right Now (November 2025)</title>
-      <link>https://www.wired.com/story/best-shows-disney-plus/</link>
-      <pubDate>Tue, 04 Nov 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">632c75aa74ce5b82a68ef323</guid>
-      <description>Fire And Water: Making The Avatar Films, Marvel Zombies, and Doctor Who are just a few of the shows you should be watching on Disney+ this month.</description>
-    </item>
-    <item>
-      <title>Deck your house in Govee&#8217;s smart string lights, which are cheaper ahead of the holidays</title>
-      <link>https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale</link>
-      <pubDate>2025-11-04T15:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=813488</guid>
-      <description>Now that spooky season&#8217;s over, it&#8217;s time to swap the pumpkins and skeletons for something a little more cheery ahead of the holidays. Govee&#8217;s Christmas Lights 2 are customizable string lights that will add some smart home magic to your tree, with plenty of slack left over to adorn your space. Right now, they&#8217;re discounted [&#8230;]</description>
-    </item>
-    <item>
-      <title>Legendary CD-ROM maker has best value SSD pre-Black Friday: RiDATA 2TB Gen4 SSD costs only $106 and, surprise, surprise, has SLC cache</title>
-      <link>https://www.techradar.com/pro/legendary-cd-rom-maker-has-best-value-ssd-pre-black-friday-ridata-2tb-gen4-ssd-costs-only-usd106-and-surprise-surprise-has-slc-cache</link>
-      <pubDate>Tue, 04 Nov 2025 19:58:00 +0000</pubDate>
-      <guid isPermaLink="false">GUVgtujqY8dSaDdF6NfR57</guid>
-      <description>This $105.99 RiDATA A801 2TB NVMe SSD is one of the best sub-$110 Gen 4 drives available, delivering speeds up to 5000 MB/s and outperforming many pricier models.</description>
-    </item>
-    <item>
-      <title>Walmart's official Black Friday sale starts next week &#8211; here's how to get early access</title>
-      <link>https://www.techradar.com/seasonal-sales/walmarts-official-black-friday-sale-starts-next-week-heres-how-to-get-early-access</link>
-      <pubDate>Tue, 04 Nov 2025 19:43:53 +0000</pubDate>
-      <guid isPermaLink="false">r9vdgTiJvZnaA3jSjjrc3N</guid>
-      <description>Walmart's 2025 Black Friday sale kicks off next week - here's how to get early access, plus preview the official Walmart Black Friday Ad with the top deals I'd buy.</description>
-    </item>
-    <item>
-      <title>Sora is now available on Android in the US, Canada, and other regions</title>
-      <link>https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/</link>
-      <pubDate>Tue, 04 Nov 2025 19:35:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3064977</guid>
-      <description>The Android version of Sora retains all the features of its iOS counterpart, including the &#8220;Cameos&#8221; feature, which allows users to generate videos of themselves performing various activities using their own likeness.</description>
-    </item>
-    <item>
-      <title>Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk</title>
-      <link>https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/</link>
-      <pubDate>Tue, 04 Nov 2025 19:35:49 +0000</pubDate>
-      <guid isPermaLink="false">690a390c8577dab8667c461f</guid>
-      <description>A Turning Point USA official inaccurately claimed a high school's math department wore Halloween costumes that mocked Charlie Kirk. Those teachers are now facing a flood of online attacks and death threats.</description>
     </item>
   </channel>
 </rss>
