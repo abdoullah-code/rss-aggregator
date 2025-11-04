@@ -153,7 +153,7 @@ def update_feed(sorted_entries):
         etree.SubElement(
             channel, "link").text = "https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml"
         etree.SubElement(
-            channel, "description").text = "An aggregated feed of Microsoft blogs"
+            channel, "description").text = "An aggregated feed of Technology-related news"
 
     # Update lastBuildDate element
     last_build_date = channel.find("lastBuildDate")
