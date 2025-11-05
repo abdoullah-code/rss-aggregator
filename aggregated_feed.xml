@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 05 Nov 2025 18:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 19:28:23 GMT</lastBuildDate>
+    <item>
+      <title>8BitDo&#8217;s latest wireless controllers can now shake-to-wake the Switch 2</title>
+      <link>https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2</link>
+      <pubDate>2025-11-05T14:26:37-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=814551</guid>
+      <description>Third-party controller makers that have figured out how to wirelessly wake the Switch 2 from its standby mode are generally loud and proud about that feature. That&#8217;s because there still aren&#8217;t many controllers that can mimic one of the $89.99 Switch 2 Pro&#8217;s biggest selling points, which is letting owners turn the console on from [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Pixel 10 Family Is Marked Down on Amazon</title>
+      <link>https://www.wired.com/story/pixel-10-deal-1125/</link>
+      <pubDate>Wed, 05 Nov 2025 19:06:59 +0000</pubDate>
+      <guid isPermaLink="false">690b8d94b7ad2cb378b59ebc</guid>
+      <description>You can snag a discount on all the Pixel 10 phone varieties if you act fast.</description>
+    </item>
+    <item>
+      <title>The Story Behind the Funniest &#8216;Indiana Jones&#8217; Prop Replica You&#8217;ve Ever Seen</title>
+      <link>https://gizmodo.com/funny-indiana-jones-prop-toht-hanger-regal-robot-2000681469</link>
+      <pubDate>Wed, 05 Nov 2025 19:00:57 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000681469</guid>
+      <description>Idols? Whips? Fedora? No way. Regal Robot has made an iconic 'Indiana Jones' clothes hanger.</description>
+    </item>
+    <item>
+      <title>Pinterest CEO touts open source AI: &#8216;tremendous performance&#8217; with reduced costs</title>
+      <link>https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/</link>
+      <pubDate>Wed, 05 Nov 2025 19:00:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3065289</guid>
+      <description>Pinterest CEO Bill Ready says open source AI is offering cost savings to the company, particularly in visual search.</description>
+    </item>
+    <item>
+      <title>Meet the Chinese Startup Using AI&#8212;and a Small Army of Workers&#8212;to Train Robots</title>
+      <link>https://www.wired.com/story/agibot-robots-manufacturing/</link>
+      <pubDate>Wed, 05 Nov 2025 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">690a169bc79ce08bd865a3d1</guid>
+      <description>AgiBot is using AI-powered robots to do new manufacturing tasks. Smarter machines may transform physical labor in China.</description>
+    </item>
+    <item>
+      <title>Lina Khan to co-chair NYC mayor-elect Zohran Mamdani&#8217;s transition team</title>
+      <link>https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/</link>
+      <pubDate>Wed, 05 Nov 2025 18:56:21 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3065299</guid>
+      <description>Khan's appointment sends a message to the tech industry, whose most powerful players have already been critical of Mamdani, a Democratic socialist.</description>
+    </item>
     <item>
       <title>Millions to receive free electricity in 2026 thanks to Australia&#8217;s solar boom</title>
       <link>https://techcrunch.com/2025/11/05/millions-to-receive-free-electricity-in-2026-thanks-to-australias-solar-boom/</link>
@@ -17,6 +59,14 @@
       <pubDate>Wed, 05 Nov 2025 18:31:30 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000682071</guid>
       <description>Yesterday, the bitcoin price briefly dipped below the $100,000 mark for the first time since June. Many analysts are wondering if this latest crypto bull market is over.</description>
+    </item>
+    <item>
+      <title>You can shop at Shein in Paris&#8212;just not online</title>
+      <link>https://www.fastcompany.com/91435753/you-can-shop-at-shein-in-paris-just-not-online</link>
+      <pubDate>2025-11-05T18:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91435753/you-can-shop-at-shein-in-paris-just-not-online</guid>
+      <description>On the same day Shein opened its first store in Paris, the French government said Wednesday it will suspend Shein&#8217;s website over its alleged online sale of&#160;childlike &#8220;sex dolls&#8221; online until it complies with French law, according to the Associated Press. Fast Company has reached out to Shein for comment. A spokesperson for the company [&#8230;]
+On the same day Shein opened its first store in Paris, the French government said Wednesday it will suspend Shein&#8217;s website over its alleged online sale of&#160;childlike &#8220;sex dolls&#8221; online until it complies with French law, according to the Associated Press....</description>
     </item>
     <item>
       <title>Amazon&amp;#8217;s grocery store dreams are reshaping Whole Foods</title>
@@ -130,13 +180,6 @@ Nothing peaufine sa recette avec les Ear (3), une nouvelle g&#233;n&#233;ration 
 Across the country, Americans have seen their electricity bills spike this year. Energy prices have been rising faster than inflation, and are expected to just keep rising.</description>
     </item>
     <item>
-      <title>Google Cloud updates its AI Agent Builder with new observability dashboard and faster build-and-deploy tools</title>
-      <link>https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into</link>
-      <pubDate>Wed, 05 Nov 2025 17:44:00 GMT</pubDate>
-      <guid isPermaLink="false">3nZXZcROIzSj8O9nq2JwC5</guid>
-      <description>Google Cloud has introduced a big update in a bid to keep AI developers on its Vertex AI platform for concepting, designing, building, testing, deploying and modifying AI agents in enterprise use cases.The new features, announced today, include additional governance tools for enterprises and expanding the capabilities for creating agents with just a few lines of code, moving faster with state-of-the-art context management layers and one-click deployment, as well as managed services for scaling production and evaluation, and support for identifying agents.Agent Builder, released last year durin...</description>
-    </item>
-    <item>
       <title>This free app gives Android phones AirDrop-style file transfer powers &#8211; and it even works with Mac</title>
       <link>https://www.techradar.com/phones/this-free-app-gives-android-phones-airdrop-style-file-transfer-powers-and-it-even-works-with-mac</link>
       <pubDate>Wed, 05 Nov 2025 17:42:12 +0000</pubDate>
@@ -188,181 +231,6 @@ I&#8217;ve been writing professionally since 2002, and in that time, I&#8217;ve 
       <guid isPermaLink="false">https://www.fastcompany.com/91435683/debra-messing-mamdani-crashout-cuomo-instagram-election-new-york-city</guid>
       <description>&#8216;Fascinating albeit kinda scary to watch.&#8217;
 Last night, Zohran Mamdani defeated Andrew Cuomo to become the next mayor of New York City. Cue the online crashouts.&#160;</description>
-    </item>
-    <item>
-      <title>Someone Made the Ultimate Portable CD Player, and I Need It Right Now</title>
-      <link>https://gizmodo.com/someone-made-the-ultimate-portable-cd-player-and-i-need-it-right-now-2000681903</link>
-      <pubDate>Wed, 05 Nov 2025 17:25:50 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681903</guid>
-      <description>It has two headphone jacks, rips CDs in real time, and supports hi-fi wireless audio.</description>
-    </item>
-    <item>
-      <title>Reddit and Kick added to Australia's social media ban as deadline looms &#8211; but critics are increasingly concerned</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/reddit-and-kick-added-to-australias-social-media-ban-as-deadline-looms-but-critics-are-increasingly-concerned</link>
-      <pubDate>Wed, 05 Nov 2025 17:22:56 +0000</pubDate>
-      <guid isPermaLink="false">Uib4JmGRPHYSFKg8DesE4L</guid>
-      <description>Australia's eSafety Commissioner has added online forum Reddit and streaming service Kick to its list of platforms subject to an impending ban for under-16s. The law, which comes into effect soon, raises questions about online privacy and the effectiveness of such widespread restrictions</description>
-    </item>
-    <item>
-      <title>Le nouveau format HDR de Samsung veut sauver le cin&#233;ma &#224; la maison</title>
-      <link>https://www.01net.com/actualites/le-nouveau-format-hdr-de-samsung-veut-sauver-le-cinema-a-la-maison.html</link>
-      <pubDate>Wed, 05 Nov 2025 17:16:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1305518</guid>
-      <description>Deux mois apr&#232;s la pr&#233;sentation du Dolby Vision 2, Samsung r&#233;plique avec une nouvelle version de sa technologie d&#8217;affichage qui en met plein les yeux. Le HDR10+ Advanced, qui fera ses premiers pas l'ann&#233;e prochaine, veut rendre l'image plus lumineuse et pr&#233;cise &#8212; il se propose surtout de r&#233;gler une bonne fois pour toute le probl&#232;me de l'affichage &#171; soap opera &#187; qui bousille les films....</description>
-    </item>
-    <item>
-      <title>Astronomers Are Tracking a Giant Sunspot Cluster That&#8217;s Already Causing Problems</title>
-      <link>https://gizmodo.com/astronomers-are-tracking-a-giant-sunspot-cluster-thats-already-causing-problems-2000681973</link>
-      <pubDate>Wed, 05 Nov 2025 17:15:24 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681973</guid>
-      <description>The region has unleashed at least two powerful solar flares in the last 12 hours, and experts are certain there's more to come.</description>
-    </item>
-    <item>
-      <title>Galaxy S26&#160;: la hausse de prix est &#171;&#160;in&#233;vitable&#160;&#187;</title>
-      <link>https://www.01net.com/actualites/galaxy-s26-la-hausse-de-prix-est-inevitable.html</link>
-      <pubDate>Wed, 05 Nov 2025 17:10:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1305474</guid>
-      <description>Samsung pourrait enfin briser deux ans de stabilit&#233; tarifaire. Selon ET News, le futur Galaxy&#8239;S26 pourrait co&#251;ter plus cher que ses pr&#233;d&#233;cesseurs, cons&#233;quence directe de la flamb&#233;e des prix des composants &#233;lectroniques.</description>
-    </item>
-    <item>
-      <title>Stay charged up with the Bluetti Laptop Battery Power Bank at its lowest price yet</title>
-      <link>https://mashable.com/article/nov-5-bluetti-laptop-battery-power-bank</link>
-      <pubDate>Wed, 05 Nov 2025 17:08:36 +0000</pubDate>
-      <guid isPermaLink="false">02hUTlI6zeabOvsFZyEDTMN</guid>
-      <description>As of Nov. 5, get the Bluetti Laptop Battery Power Bank for its lowest price at Amazon.</description>
-    </item>
-    <item>
-      <title>Cet outil tr&#232;s pratique va simplifier l&#8217;installation de vos applications sur Windows</title>
-      <link>https://www.frandroid.com/marques/microsoft/2856963_cet-outil-tres-pratique-va-simplifier-linstallation-de-vos-applications-sur-windows</link>
-      <pubDate>Wed, 05 Nov 2025 17:06:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/2856963_cet-outil-tres-pratique-va-simplifier-linstallation-de-vos-applications-sur-windows</guid>
-      <description>
-Microsoft met en place un nouvel outil qui devrait devenir tr&#232;s pratique en cas de r&#233;installation de Windows.
-</description>
-    </item>
-    <item>
-      <title>Home Depot's 2025 Black Friday sale is live &#8211; 45% off Christmas decor, tools, appliances, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/home-depots-2025-black-friday-sale-is-live-45-percent-off-christmas-decor-tools-appliances-and-more</link>
-      <pubDate>Wed, 05 Nov 2025 17:06:26 +0000</pubDate>
-      <guid isPermaLink="false">Wkk5Z9Qn8EKTdYJaUBACvW</guid>
-      <description>Home Depot's 2025 Black Friday sale is live, and I'm rounding up today's best deals, featuring up to 45% off appliances, tools, Christmas decor, and more.</description>
-    </item>
-    <item>
-      <title>The Breville The Barista Express is down to its lowest price this year &#8211; and we adore it</title>
-      <link>https://www.techradar.com/home/coffee-machines/the-breville-the-barista-express-is-down-to-its-lowest-price-this-year-and-we-adore-it</link>
-      <pubDate>Wed, 05 Nov 2025 17:05:27 +0000</pubDate>
-      <guid isPermaLink="false">NGzvkBHuAMysXaK4y5pELG</guid>
-      <description>The Breville The Barista Express is one of the best coffee makers around, and it's back down to its lowest price this year for Black Friday</description>
-    </item>
-    <item>
-      <title>France threatens to block Shein over selling childlike sex dolls</title>
-      <link>https://www.fastcompany.com/91435605/shein-france-childlike-sex-dolls</link>
-      <pubDate>2025-11-05T17:04:37</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91435605/shein-france-childlike-sex-dolls</guid>
-      <description>Shein said that it has banned all sex-doll products, and temporarily removed its adult products category for review. 
-French authorities have warned they may block access to&#160;Shein&#160;after it emerged that the online fast fashion giant had been selling sex dolls with a childlike appearance.</description>
-    </item>
-    <item>
-      <title>Three of the biggest cybercrime gangs around appear to be teaming up - which could be bad news for all of us</title>
-      <link>https://www.techradar.com/pro/security/three-of-the-biggest-cybercrime-gangs-around-appear-to-be-teaming-up-which-could-be-bad-news-for-all-of-us</link>
-      <pubDate>Wed, 05 Nov 2025 17:04:00 +0000</pubDate>
-      <guid isPermaLink="false">jxuPZu63ZsDy7QcB4oyrMX</guid>
-      <description>Scattered Lapsus$ Hunters are making it official, and joining forces to terrorize organizations everywhere.</description>
-    </item>
-    <item>
-      <title>Deux nouveaux modes arrivent sur Google traduction pour vous faciliter la vie</title>
-      <link>https://www.01net.com/actualites/deux-nouveaux-modes-arrivent-sur-google-traduction-pour-vous-faciliter-la-vie.html</link>
-      <pubDate>Wed, 05 Nov 2025 17:03:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1304946</guid>
-      <description>Google ajoute deux nouveaux modes de traduction rapide et avanc&#233;e &#224; son application Google Traduction. Ces deux nouvelles fonctionnalit&#233;s, dont une aliment&#233;e par l&#8217;intelligence artificielle, doivent permettre de s&#8217;adapter &#224; un grand nombre de situations pouvant &#234;tre rencontr&#233;es par l&#8217;utilisateur.</description>
-    </item>
-    <item>
-      <title>Black Friday 2025 : les offres sont nombreuses chez Amazon &amp; Co, voici les meilleurs deals en avant-premi&#232;re</title>
-      <link>https://www.frandroid.com/bons-plans/2849105_black-friday-2025-la-braderie-continue-chez-amazon-co-voici-les-meilleures-offres-en-avant-premiere</link>
-      <pubDate>Wed, 05 Nov 2025 17:02:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2849105_black-friday-2025-la-braderie-continue-chez-amazon-co-voici-les-meilleures-offres-en-avant-premiere</guid>
-      <description>
-&#192; peine novembre entam&#233; que le Black Friday pointe d&#233;j&#224; le bout de son nez chez certains e-commer&#231;ants fran&#231;ais. On vous a donc pr&#233;par&#233; une s&#233;lection des meilleures offres du moment, mise &#224; jour en temps r&#233;el, pour vous aider &#224; d&#233;nicher les bons plans tech sans prise de t&#234;te.
-</description>
-    </item>
-    <item>
-      <title>Replika&#160;founder raises $20M pre-seed for Wabi, the&#160;&#8216;YouTube&#160;of apps&#8217;</title>
-      <link>https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/</link>
-      <pubDate>Wed, 05 Nov 2025 17:01:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3064875</guid>
-      <description>Wabi, a startup from the founder of Replika, has just raised a $20 million pre-seed round. Wabi is like "YouTube for apps" -- a social platform where anyone can use prompts to instantly create&#160;mini apps and share them with friends.</description>
-    </item>
-    <item>
-      <title>Nintendo is getting the Switch ready for retirement</title>
-      <link>https://www.theverge.com/news/814273/nintendo-switch-2-console-primary-focus-pivot</link>
-      <pubDate>2025-11-05T12:01:07-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=814273</guid>
-      <description>Nintendo is stepping further away from its original Switch console, with the company now planning to dedicate most of its attention to its successor. In a financial results briefing on Wednesday, Nintendo said that &#8220;going forward, we will shift our primary development focus to Nintendo Switch 2 and expand our business around this new platform.&#8221; [&#8230;]</description>
-    </item>
-    <item>
-      <title>Discord now lets parents control who contacts their teens, but messages stay private</title>
-      <link>https://www.theverge.com/news/814144/discord-family-center-dm-controls</link>
-      <pubDate>2025-11-05T12:01:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=814144</guid>
-      <description>Discord is expanding the safety controls parents and guardians have access to in its Family Center, including increased visibility of their teens&#8217; activity, allowing guardians to control sensitive content filtering and data privacy settings, and giving them more control over who can DM their teens.&#160; New Social Permissions toggles will allow guardians to choose whether [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Remember, Remember, &#8216;V for Vendetta&#8217; Is Back in Theaters Next November</title>
-      <link>https://gizmodo.com/v-for-vendetta-20th-anniversary-re-release-bonfire-night-2000681984</link>
-      <pubDate>Wed, 05 Nov 2025 17:00:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681984</guid>
-      <description>The Hugo Weaving and Natalie Portman graphic novel adaptation will return to theaters November 5, 2026.</description>
-    </item>
-    <item>
-      <title>Les produits Samsung sont d&#233;j&#224; &#224; prix cass&#233;s lors du pr&#233;-Black Friday : les 14 deals &#224; ne pas louper</title>
-      <link>https://www.frandroid.com/bons-plans/2852851_les-produits-samsung-sont-deja-a-prix-casses-lors-du-pre-black-friday-les-11-deals-a-ne-pas-louper</link>
-      <pubDate>Wed, 05 Nov 2025 17:00:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2852851_les-produits-samsung-sont-deja-a-prix-casses-lors-du-pre-black-friday-les-11-deals-a-ne-pas-louper</guid>
-      <description>
-Le pr&#233;-Black Friday d&#233;marre chez plusieurs e-commer&#231;ants avec de belles r&#233;ductions sur de nombreux produits tech. Samsung est aussi de la partie : t&#233;l&#233;viseurs, smartphones, tablettes&#8230; tout y passe. Voici notre s&#233;lection des meilleures offres de la marque.
-</description>
-    </item>
-    <item>
-      <title>The best laptop deals you can get right now</title>
-      <link>https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale</link>
-      <pubDate>2025-11-05T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale</guid>
-      <description>If you want a great laptop, you&#8217;re going to have to fork over a ton of money, right? Not necessarily. There are dozens of good laptops on the market at various price points. However, it can feel overwhelming to find the right one for your needs (some are better suited for, say, college students, whereas [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google makes it easier to access AI Mode in Chrome on iOS and Android</title>
-      <link>https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/</link>
-      <pubDate>Wed, 05 Nov 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3065228</guid>
-      <description>Users will now be able to access AI Mode via a new dedicated shortcut button under the search bar when opening a "New Tab" page in Chrome.</description>
-    </item>
-    <item>
-      <title>Microsoft built a fake marketplace to test AI agents &#8212; they failed in surprising ways</title>
-      <link>https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/</link>
-      <pubDate>Wed, 05 Nov 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3065262</guid>
-      <description>The research raises new questions about how well AI agents will perform when working unsupervised &#8212; and how quickly AI companies can make good on promises of an agentic future.</description>
-    </item>
-    <item>
-      <title>Discord launches new safety features following lawsuits</title>
-      <link>https://mashable.com/article/discord-parental-controls-family-center</link>
-      <pubDate>Wed, 05 Nov 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">06DFowHNrJOdgg4ol3JQkpl</guid>
-      <description>Parents will have more control and visibility of their teen's Discord DM's, conversations, and purchases.</description>
-    </item>
-    <item>
-      <title>You can keep using your iPad as an Apple Home hub until February</title>
-      <link>https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay</link>
-      <pubDate>2025-11-05T11:56:44-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=814287</guid>
-      <description>If you&#8217;ve been reluctant to update to the new Apple Home architecture, you now have a few more months before Apple forces your hand. Apple has pushed back the deadline to February 10, 2026, rather than fall 2025.&#160; The refreshed version of Apple Home has been available for a couple of years now and adds [&#8230;]</description>
-    </item>
-    <item>
-      <title>This AI smart ring lets you record voice notes with a whisper</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable</link>
-      <pubDate>2025-11-05T11:55:55-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=814329</guid>
-      <description>Another AI-powered wearable is coming to market. It&#8217;s not a pendant like Friend, nor a wristband like Amazon&#8217;s Bee. This time, it&#8217;s a smart ring called the Stream Ring from the company Sandbar founded by former employees of the neural interface startup CTRL-Labs that was acquired by Meta. Users can preorder the Stream Ring now [&#8230;]</description>
     </item>
   </channel>
 </rss>
