@@ -3,7 +3,51 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 06 Nov 2025 18:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 19:27:46 GMT</lastBuildDate>
+    <item>
+      <title>Nintendo has too many apps</title>
+      <link>https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music</link>
+      <pubDate>2025-11-06T14:26:47-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=815741</guid>
+      <description>Nintendo has released a new store app on Android and iOS giving users the ability to purchase hardware, accessories, and games for the Switch and Switch 2. When I open my phone and scroll down to the N's, I get a neat, full row dedicated entirely to Nintendo. That's four apps: the Switch app, the [&#8230;]</description>
+    </item>
+    <item>
+      <title>The 15-Inch MacBook Air Is $200 Off</title>
+      <link>https://www.wired.com/story/macbook-air-15-deal-1125/</link>
+      <pubDate>Thu, 06 Nov 2025 19:23:33 +0000</pubDate>
+      <guid isPermaLink="false">690cd1fdb950b4a61e7c40e9</guid>
+      <description>Save hundreds on our preferred MacBook for most people.</description>
+    </item>
+    <item>
+      <title>Aspirateurs robots : nos trois mod&#232;les haut de gamme chouchous en novembre 2025</title>
+      <link>https://www.frandroid.com/guide-dachat/2857389_aspirateurs-robots-nos-trois-modeles-haut-de-gamme-chouchous-en-novembre-2025</link>
+      <pubDate>Thu, 06 Nov 2025 19:16:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/2857389_aspirateurs-robots-nos-trois-modeles-haut-de-gamme-chouchous-en-novembre-2025</guid>
+      <description>
+Chaque mois, la r&#233;daction de Frandroid vous propose son podium de ses aspirateurs robots favoris du moment. Pour novembre, on profite de belles innovations.
+</description>
+    </item>
+    <item>
+      <title>Doctolib condamn&#233; &#224; 4,6 millions d&#8217;euros d&#8217;amende&#160;: tout comprendre &#224; l&#8217;affaire</title>
+      <link>https://www.01net.com/actualites/doctolib-condamne-a-46-millions-deuros-damende-tout-comprendre-a-laffaire.html</link>
+      <pubDate>Thu, 06 Nov 2025 19:12:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1305889</guid>
+      <description>Le couperet est tomb&#233; ce 6 novembre 2025. L'Autorit&#233; de la concurrence a sanctionn&#233; Doctolib, l'une des entreprises pr&#233;f&#233;r&#233;es des Fran&#231;ais, &#224; une amende de 4,6 millions d'euros pour abus de position dominante.</description>
+    </item>
+    <item>
+      <title>Behold Helios, the Most Powerful Quantum Computer on the Planet</title>
+      <link>https://gizmodo.com/behold-helios-the-most-powerful-quantum-computer-on-the-planet-2000682545</link>
+      <pubDate>Thu, 06 Nov 2025 19:05:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000682545</guid>
+      <description>Quantinuum's H2 quantum computer is already a favorite among scientists, but Helios is an impressive upgrade.</description>
+    </item>
+    <item>
+      <title>Going to San Diego Comic-Con Just Became Even More of a Nightmare</title>
+      <link>https://gizmodo.com/san-diego-comic-con-hotels-hotelpocalyse-2026-2000682531</link>
+      <pubDate>Thu, 06 Nov 2025 19:00:53 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000682531</guid>
+      <description>If you thought it was difficult planning a trip to Comic-Con before, things just got even more apocalyptic.</description>
+    </item>
     <item>
       <title>The Strongest Geomagnetic Storm of the Year Is Here. Auroras Could Shine in These States</title>
       <link>https://gizmodo.com/the-strongest-geomagnetic-storm-of-the-year-is-here-heres-where-auroras-could-shine-tonight-2000682500</link>
@@ -31,13 +75,6 @@
       <pubDate>Thu, 06 Nov 2025 18:33:00 +0000</pubDate>
       <guid isPermaLink="false">wMhtxQMQbUNkAbSj2f3dJj</guid>
       <description>Proposal would require companies and federal agencies to disclose AI-related workforce impacts.</description>
-    </item>
-    <item>
-      <title>Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks</title>
-      <link>https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming</link>
-      <pubDate>Thu, 06 Nov 2025 18:27:00 GMT</pubDate>
-      <guid isPermaLink="false">6K6vjMYevvrcKJ4tpuMKDh</guid>
-      <description>Even as concern and skepticism grows over U.S. AI startup OpenAI's buildout strategy and high spending commitments, Chinese open source AI providers are escalating their competition and one has even caught up to OpenAI's flagship, paid proprietary model GPT-5 in key third-party performance benchmarks with a new, free model. The Chinese AI startup Moonshot AI&#8217;s new Kimi K2 Thinking model, released today, has vaulted past both proprietary and open-weight competitors to claim the top position in reasoning, coding, and agentic-tool benchmarks. Despite being fully open-source, the model now outperf...</description>
     </item>
     <item>
       <title>Le Samsung Galaxy XR en France ? On conna&#238;t sa date de sortie</title>
@@ -137,7 +174,7 @@ The average rate on a 30-year U.S. mortgage ticked up for the first time in five
       <link>https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/</link>
       <pubDate>Thu, 06 Nov 2025 17:57:51 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3065594</guid>
-      <description>Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.</description>
+      <description>Subtle Computing has raised $6 million in seed funding to build voice-isolation models. The startup plans to announce a hardware device next year.</description>
     </item>
     <item>
       <title>The Fitbit Charge 6 is back to its lowest price ever for Black Friday</title>
@@ -145,6 +182,27 @@ The average rate on a 30-year U.S. mortgage ticked up for the first time in five
       <pubDate>Thu, 06 Nov 2025 17:51:00 +0000</pubDate>
       <guid isPermaLink="false">9QCZXefcuSr3jR5VjQBK6m</guid>
       <description>The Fitbit Charge 6 is a good all-rounder fitness tracker and it's even more appealing while it's on sale at Amazon for its lowest-ever price.</description>
+    </item>
+    <item>
+      <title>Ikea is venturing into smart home tech with 21 new Matter-over-Thread devices</title>
+      <link>https://mashable.com/article/ikea-new-smart-home-matter-over-thread-devices</link>
+      <pubDate>Thu, 06 Nov 2025 17:50:18 +0000</pubDate>
+      <guid isPermaLink="false">043Rwzc2Xy2JlAHRPl108zL</guid>
+      <description>As of Nov. 6, Ikea has launched a new and redesigned line-up of smart home devices. The collection focuses on lighting, sensors, and controls,</description>
+    </item>
+    <item>
+      <title>Find out when the Samsung Galaxy XR is launching in Canada, the UK, and elsewhere</title>
+      <link>https://mashable.com/article/samsung-galaxy-xr-2026-launch-international-markets</link>
+      <pubDate>Thu, 06 Nov 2025 17:47:27 +0000</pubDate>
+      <guid isPermaLink="false">04DRzNOzi7ZOcnQRHD2bIps</guid>
+      <description>The Samsung Galaxy XR will be hitting more international markets next year. Find out the expected launch dates for Canada, the UK, and more.</description>
+    </item>
+    <item>
+      <title>Spotifys new listening stats keep the Wrapped energy going year round</title>
+      <link>https://mashable.com/article/spotify-listening-stats-new-feature-how-to</link>
+      <pubDate>Thu, 06 Nov 2025 17:46:09 +0000</pubDate>
+      <guid isPermaLink="false">03UR5r8bTJcjYlNgHUAI2N9</guid>
+      <description>Spotify just rolled out weekly listening stats, a fresh feature that turns your past four weeks of plays into a fun, shareable snapshot.</description>
     </item>
     <item>
       <title>T-Mobile just launched a surprise early Black Friday sale - you can already get four free iPhone 17s without a trade-in</title>
@@ -166,171 +224,6 @@ The average rate on a 30-year U.S. mortgage ticked up for the first time in five
       <pubDate>Thu, 06 Nov 2025 17:33:43 +0000</pubDate>
       <guid isPermaLink="false">https://www.01net.com/?p=1305685</guid>
       <description>L'usine Huawei de Brumath, projet &#224; 250 millions d'euros, n'accueillera probablement jamais ses 500 employ&#233;s. Ce &#171; site fant&#244;me &#187; serait m&#234;me d&#233;j&#224; en vente, selon plusieurs sources.</description>
-    </item>
-    <item>
-      <title>The latest Blink Video Doorbell is over 50 percent off</title>
-      <link>https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale</link>
-      <pubDate>2025-11-06T12:25:43-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=815637</guid>
-      <description>With Black Friday and the holiday season approaching, packages will start piling up, making now a good time to take steps to protect your doorstep from porch pirates. Thankfully, multiple retailers are already offering early Black Friday discounts on smart security devices to help you keep tabs on deliveries, with Amazon&#8217;s and Best Buy&#8217;s deal [&#8230;]</description>
-    </item>
-    <item>
-      <title>Battlefield REDSEC is a by-the-numbers battle royale that&#8217;s lacking a sense of character, but there&#8217;s no question that Battlefield fits the genre perfectly</title>
-      <link>https://www.techradar.com/gaming/battlefield-redsec-is-a-by-the-numbers-battle-royale-thats-lacking-a-sense-of-character-but-theres-no-question-that-battlefield-fits-the-genre-perfectly</link>
-      <pubDate>Thu, 06 Nov 2025 17:25:20 +0000</pubDate>
-      <guid isPermaLink="false">LQ7kCwvnh7PHFX9Fk6zG3E</guid>
-      <description>Battlefield REDSEC is a solid foundation made up of the best bits from your other favorite games, though it&#8217;s in danger of being eclipsed by newer, more innovative competitors.</description>
-    </item>
-    <item>
-      <title>Trump admin threatens to cancel thousands of flights if shutdown continues, just in time for Thanksgiving</title>
-      <link>https://mashable.com/article/trump-admin-cancel-flights-shutdown-thanksgiving</link>
-      <pubDate>Thu, 06 Nov 2025 17:22:22 +0000</pubDate>
-      <guid isPermaLink="false">02vmOtbVIodth4MejBp3DaU</guid>
-      <description>The FAA is cancelling flights just in time for Thanksgiving.</description>
-    </item>
-    <item>
-      <title>Here&#8217;s the List of 40 Airports Expected to Be Impacted by Shutdown Flight Reductions</title>
-      <link>https://gizmodo.com/heres-the-list-of-40-airports-expected-to-be-impacted-by-shutdown-flight-reductions-2000682501</link>
-      <pubDate>Thu, 06 Nov 2025 17:20:09 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000682501</guid>
-      <description>The FAA is reducing flights due to the historically long government shutdown.</description>
-    </item>
-    <item>
-      <title>N&#8217;essayez pas d&#8217;effacer les rayures de votre smartphone, c&#8217;est une mauvaise id&#233;e</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/2858987_nessayez-pas-deffacer-les-rayures-de-votre-smartphone-cest-une-mauvaise-idee</link>
-      <pubDate>Thu, 06 Nov 2025 17:15:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2858987_nessayez-pas-deffacer-les-rayures-de-votre-smartphone-cest-une-mauvaise-idee</guid>
-      <description>
-Si vous esp&#233;riez voir dispara&#238;tre les micro-rayures de votre &#233;cran de smartphone gr&#226;ce &#224; une machine de polissage, un expert vient de doucher vos espoirs. 
-</description>
-    </item>
-    <item>
-      <title>Early Black Friday deal alert: MSI&#8217;s 27-inch Full HD monitor now only &#163;68 with a three-year warranty</title>
-      <link>https://www.techradar.com/pro/early-black-friday-deal-alert-msis-27-inch-full-hd-monitor-now-only-gbp68-with-a-three-year-warranty</link>
-      <pubDate>Thu, 06 Nov 2025 17:12:21 +0000</pubDate>
-      <guid isPermaLink="false">pR5YS8TyrYgXj7JQobaiUT</guid>
-      <description>Black Friday savings start now! MSI&#8217;s PRO MP275 monitor hits record-low &#163;68 price point.</description>
-    </item>
-    <item>
-      <title>Stranger Things: Tales From &#8216;85 winds the clock back in new trailer</title>
-      <link>https://www.theverge.com/streaming/815627/stranger-things-tales-from-85-teaser</link>
-      <pubDate>2025-11-06T12:11:44-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=815627</guid>
-      <description>While Stranger Things's upcoming fifth season will bring the Hawkins gang's story to a close, Netflix's new Stranger Things animated spinoff series is about to send the crew on a side quest set in the recent past. Today, Netflix dropped a teaser video for Stranger Things: Tales From '85, a new spinoff that takes place [&#8230;]</description>
-    </item>
-    <item>
-      <title>These Wildly Expensive Wireless Earbuds Go Overboard on Drivers</title>
-      <link>https://gizmodo.com/fokus-prestige-encore-wireless-earbuds-features-release-date-price-2000682422</link>
-      <pubDate>Thu, 06 Nov 2025 17:10:18 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000682422</guid>
-      <description>And they're made partially of real wood, because why not?</description>
-    </item>
-    <item>
-      <title>Black Friday 2025 : les offres sont d&#233;j&#224; nombreuses sur Amazon &amp; Co, mais voici les meilleurs deals en avant-premi&#232;re</title>
-      <link>https://www.frandroid.com/bons-plans/2849105_black-friday-2025-la-braderie-continue-chez-amazon-co-voici-les-meilleures-offres-en-avant-premiere</link>
-      <pubDate>Thu, 06 Nov 2025 17:08:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2849105_black-friday-2025-la-braderie-continue-chez-amazon-co-voici-les-meilleures-offres-en-avant-premiere</guid>
-      <description>
-&#192; peine novembre entam&#233; que le Black Friday pointe d&#233;j&#224; le bout de son nez chez certains e-commer&#231;ants fran&#231;ais. On vous a donc pr&#233;par&#233; une s&#233;lection des meilleures offres du moment, mise &#224; jour en temps r&#233;el, pour vous aider &#224; d&#233;nicher les bons plans tech sans prise de t&#234;te.
-</description>
-    </item>
-    <item>
-      <title>University of Pennsylvania confirms recent cyberattack led to major data theft</title>
-      <link>https://www.techradar.com/pro/security/university-of-pennsylvania-confirms-recent-cyberattack-led-to-major-data-theft</link>
-      <pubDate>Thu, 06 Nov 2025 17:08:00 +0000</pubDate>
-      <guid isPermaLink="false">bG8fAvW7QuZNseLzyLBuJ4</guid>
-      <description>Hackers claim to have stolen 1.2 million records, and have been insulting the University.</description>
-    </item>
-    <item>
-      <title>Keep everything charged up with the Bluetti Elite 30 v2 portable power station for its lowest price ever</title>
-      <link>https://mashable.com/article/nov-6-bluetti-elite30-v2-deal</link>
-      <pubDate>Thu, 06 Nov 2025 17:06:29 +0000</pubDate>
-      <guid isPermaLink="false">04LdlVEuyfBW1739euFCbvi</guid>
-      <description>As of Nov. 6, get the Bluetti Elite 30 v2 portable power station for its lowest price ever.</description>
-    </item>
-    <item>
-      <title>How the attack on trans healthcare affects every American</title>
-      <link>https://www.fastcompany.com/91436692/how-the-attack-on-trans-healthcare-affects-every-american</link>
-      <pubDate>2025-11-06T17:06:18</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91436692/how-the-attack-on-trans-healthcare-affects-every-american</guid>
-      <description>The erosion of freedom rarely happens overnight; it&#8217;s written into law, one ruling at a time. ACLU&#8217;s Chase Strangio lays bare how the U.S. legal system is failing its people under a growing wave of authoritarianism and systemic rollbacks of civil liberties.
-The erosion of freedom rarely happens overnight; it&#8217;s written into law, one ruling at a time. ACLU&#8217;s Chase Strangio lays bare how the U.S. legal system is failing its people under a growing wave of authoritarianism and systemic rollbacks of civil liberties....</description>
-    </item>
-    <item>
-      <title>Rockstar co-founder Dan Houser says Red Dead Redemption 3 'will probably happen' but would be sad not to be part of it</title>
-      <link>https://www.techradar.com/gaming/rockstar-co-founder-dan-houser-says-red-dead-redemption-3-will-probably-happen-but-would-be-sad-not-to-be-part-of-it</link>
-      <pubDate>Thu, 06 Nov 2025 17:04:47 +0000</pubDate>
-      <guid isPermaLink="false">CxTnBL4SVksJYkT2z6Kb8Q</guid>
-      <description>Red Dead Redemption 2 writer Dan Houser believes a third game will eventually be made, but has admitted he would be sad not being involved in its development.</description>
-    </item>
-    <item>
-      <title>Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear</title>
-      <link>https://www.wired.com/gallery/best-adaptogen-drinks/</link>
-      <pubDate>Thu, 06 Nov 2025 17:04:27 +0000</pubDate>
-      <guid isPermaLink="false">68ff567690983867dce5ecc0</guid>
-      <description>I tasted dozens of mushroom teas, kava drinks, and party drinks to find the best. Brez and Juni are the two I recommend for most people looking for focus.</description>
-    </item>
-    <item>
-      <title>La technologie de batterie que l&#8217;on attendait chez Samsung et Apple atterrit dans un Motorola pas cher</title>
-      <link>https://www.01net.com/actualites/la-technologie-de-batterie-que-lon-attendait-chez-samsung-et-apple-atterrit-dans-un-motorola-pas-cher.html</link>
-      <pubDate>Thu, 06 Nov 2025 17:03:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1305827</guid>
-      <description>Vous pensiez que le silicium carbone, nouvelle technologie miracle pour agrandir les batteries, &#233;taient r&#233;serv&#233;e au haut de gamme ? Motorola prouve que non avec son G57 POWER.</description>
-    </item>
-    <item>
-      <title>Ecovacs Goat G1-2000 : cet excellent robot tondeuse est 1 450 &#8364; moins cher qu&#8217;&#224; son lancement gr&#226;ce au pr&#233;-Black Friday</title>
-      <link>https://www.frandroid.com/bons-plans/2858427_ecovacs-goat-g1-2000-cet-excellent-robot-tondeuse-est-1-450-e-moins-cher-qua-son-lancement-grace-au-pre-black-friday</link>
-      <pubDate>Thu, 06 Nov 2025 17:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2858427_ecovacs-goat-g1-2000-cet-excellent-robot-tondeuse-est-1-450-e-moins-cher-qua-son-lancement-grace-au-pre-black-friday</guid>
-      <description>
-Si l&#8217;id&#233;e de passer ses week-ends derri&#232;re une tondeuse n&#8217;a plus vraiment la cote, les robots sont devenus des alli&#233;s de choix. Faciles &#224; configurer, discrets et efficaces et sans fil, &#224; l&#8217;image du Goat G1-2000 d&#8217;Ecovacs. Un mod&#232;le not&#233; 9/10 l&#8217;an dernier, qui voit aujourd&#8217;hui son prix chuter &#224; 549 euros sur Amazon, alors qu'il en valait 2 000 euros &#224; son lancement en novembre 2024. 
-...</description>
-    </item>
-    <item>
-      <title>The 7 Biggest Differences Between the &#8216;Running Man&#8217; Movies</title>
-      <link>https://gizmodo.com/running-man-movies-differences-glen-powell-arnold-schwarzenegger-2000682126</link>
-      <pubDate>Thu, 06 Nov 2025 17:00:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000682126</guid>
-      <description>Arnold Schwarzenegger's 1987 film and Glen Powell's 2025 film are very different, but which has the edge?</description>
-    </item>
-    <item>
-      <title>Google Finance offers Gemini AI tools to stock traders</title>
-      <link>https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search</link>
-      <pubDate>2025-11-06T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=815300</guid>
-      <description>Google&#8217;s well-honed strategy of adding AI to absolutely everything continues: the company announced on Thursday that Google Finance is getting a Deep Search feature to turbocharge its AI chatbot, as well as other upgrades to support traders like prediction market support. The new Deep Search feature will let you get more detailed responses and ask [&#8230;]...</description>
-    </item>
-    <item>
-      <title>New court docs put Sam Altman&#8217;s honesty in spotlight again</title>
-      <link>https://www.fastcompany.com/91436157/court-filing-sam-altman-openai-anthropic</link>
-      <pubDate>2025-11-06T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91436157/court-filing-sam-altman-openai-anthropic</guid>
-      <description>A lot is riding on the AI industry&#8217;s ability to apply AI productively and safely in business and personal life in the next decade. Trust is a major factor.
-Welcome to AI Decoded, Fast Company&#8217;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy....</description>
-    </item>
-    <item>
-      <title>How to restore housing market affordability, according to institutional landlord Amherst</title>
-      <link>https://www.fastcompany.com/91436608/housing-market-affordability-how-to-restore-according-to-institutional-landlord-amherst</link>
-      <pubDate>2025-11-06T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91436608/housing-market-affordability-how-to-restore-according-to-institutional-landlord-amherst</guid>
-      <description>Amherst CEO Sean Dobson believes housing affordability would improve if some of the buyers pushed out of the market after 2008 were brought back into the fold.
-Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
-    </item>
-    <item>
-      <title>Guide d&#8217;achat : les meilleurs v&#233;los cargo longtails &#233;lectriques de 2025</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-velos-electriques/1595501_velo-cargo-electrique-notre-comparatif-des-meilleurs-modeles</link>
-      <pubDate>Thu, 06 Nov 2025 16:57:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-velos-electriques/1595501_velo-cargo-electrique-notre-comparatif-des-meilleurs-modeles</guid>
-      <description>
-Les v&#233;los cargo permettent de transporter beaucoup plus de choses que les v&#233;los &#233;lectriques classiques. Voici notre s&#233;lection des meilleurs v&#233;los cargo &#233;lectriques de type longtails que la r&#233;daction de Frandroid a pu tester.
-</description>
-    </item>
-    <item>
-      <title>Score some sweet pulls with a Magic: The Gathering Tarkir: Dragonstorm - Play Booster Box for its lowest price</title>
-      <link>https://mashable.com/article/nov-6-magic-the-gathering-tarkir-dragonstorm-booster-box-deal</link>
-      <pubDate>Thu, 06 Nov 2025 16:57:33 +0000</pubDate>
-      <guid isPermaLink="false">07aEqjaQXc60HftGrxbqWCy</guid>
-      <description>As of Nov. 6, get a Magic: The Gathering Tarkir: Dragonstorm - Play Booster Box for its lowest price yet.</description>
     </item>
   </channel>
 </rss>
