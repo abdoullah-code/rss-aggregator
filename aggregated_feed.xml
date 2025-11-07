@@ -3,13 +3,56 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 07 Nov 2025 22:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 23:30:38 GMT</lastBuildDate>
+    <item>
+      <title>Halo Infinite is about to get its last major update</title>
+      <link>https://www.theverge.com/news/816960/halo-infinite-end</link>
+      <pubDate>2025-11-07T18:26:31-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=816960</guid>
+      <description>On November 18th, Operation: Infinite will be released for Halo Infinite players with a battle pass and lots of new customizations, but according to the team, that&#8217;s it for this game&#8217;s content updates: With multiple Halo titles in development, we&#8217;ll need our whole team&#8217;s combined focus to deliver new experiences with the same passion and [&#8230;]</description>
+    </item>
+    <item>
+      <title>Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers</title>
+      <link>https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing</link>
+      <pubDate>Fri, 07 Nov 2025 23:25:00 GMT</pubDate>
+      <guid isPermaLink="false">3F9CY5MGXMDKgNwozdCZR5</guid>
+      <description>The developers of Terminal-Bench, a benchmark suite for evaluating the performance of autonomous AI agents on real-world terminal-based tasks, have released version 2.0 alongside Harbor, a new framework for testing, improving and optimizing AI agents in containerized environments. The dual release aims to address long-standing pain points in testing and optimizing AI agents, particularly those built to operate autonomously in realistic developer environments.With a more difficult and rigorously verified task set, Terminal-Bench 2.0 replaces version 1.0 as the standard for assessing frontier mo...</description>
+    </item>
+    <item>
+      <title>Ranking the New &#8216;Five Nights at Freddy&#8217;s 2&#8217; Popcorn Buckets From Cutest to Creepiest</title>
+      <link>https://gizmodo.com/ranking-the-new-five-nights-at-freddys-2-popcorn-buckets-from-cutest-to-creepiest-2000682695</link>
+      <pubDate>Fri, 07 Nov 2025 23:10:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000682695</guid>
+      <description>A new round of eerie Freddy Fazbear's Pizza merch is coming to life at a theater near you.</description>
+    </item>
+    <item>
+      <title>How to get a Fubo TV free trial</title>
+      <link>https://www.techradar.com/streaming/fubo-tv-free-trial</link>
+      <pubDate>Fri, 07 Nov 2025 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yHpGmTyxAFxUpduToFj3k9</guid>
+      <description>You can still get a Fubo TV free trial in 2025 &#8211; here are all the ways you can try out  the live TV streaming service.</description>
+    </item>
+    <item>
+      <title>The Government Shutdown Is a Ticking Cybersecurity Time Bomb</title>
+      <link>https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/</link>
+      <pubDate>Fri, 07 Nov 2025 22:34:26 +0000</pubDate>
+      <guid isPermaLink="false">690cca9f2e32add3a4a02c8c</guid>
+      <description>Many critical systems are still being maintained, and the cloud provides some security cover. But experts say that any lapses in protections like patching and monitoring could expose government systems.</description>
+    </item>
     <item>
       <title>Elon Musk says Tesla is "almost ready" to allow texting when behind the wheel with its Full Self-Driving system</title>
       <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/elon-musk-says-tesla-is-almost-ready-to-allow-texting-when-behind-the-wheel-with-its-full-self-driving-system</link>
       <pubDate>Fri, 07 Nov 2025 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">nkVeNkV9sAd8Qz6GaV2cYf</guid>
       <description>Musk claims Full Self-Driving will soon allow texting when at the wheel, but fails to explain how that will be legal.</description>
+    </item>
+    <item>
+      <title>Sweet news:  Hershey Company announces new treats for the holiday 2025 season</title>
+      <link>https://www.fastcompany.com/91436952/hershey-new-holiday-candy-2025-snickerdoodle-kisses-and-more</link>
+      <pubDate>2025-11-07T22:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91436952/hershey-new-holiday-candy-2025-snickerdoodle-kisses-and-more</guid>
+      <description>Get ready for snickerdoodle-flavored Kisses, peppermint Kit Kats, Grinch chocolates, and more.
+Now that Halloween has come and gone, you might have wrongly assumed that candy season is over. Not if the Hershey Company anything to say about it. In fact, the sweets are just getting started.</description>
     </item>
     <item>
       <title>&#8216;Tatsuki Fujimoto 17-26&#8217; Is a Joyously Unhinged Look Into the Young Mind of Manga&#8217;s Wildest Auteur</title>
@@ -47,91 +90,6 @@ Voici une nouvelle console portable gaming &#224; plus de 1500 &#8364; : AYANEO 
       <pubDate>2025-11-07T16:37:45-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=816352</guid>
       <description>For years - through its pandemic-fueled highs and its post-quarantine malaise - Peloton has held its earnings calls at a bright and bushy 8:30AM ET. Not yesterday. Instead, the company broke different news first thing in the morning: it issued yet another recall for 833,000 of its original Bike Plus units, before posting its Q1 [&#8230;]</description>
-    </item>
-    <item>
-      <title>Watch out, these malicious Android apps have been downloaded 42 million times - and could leave you seriously out of pocket</title>
-      <link>https://www.techradar.com/pro/security/watch-out-these-malicious-android-apps-have-been-downloaded-42-million-times-and-could-leave-you-seriously-out-of-pocket</link>
-      <pubDate>Fri, 07 Nov 2025 21:28:00 +0000</pubDate>
-      <guid isPermaLink="false">kDugVktkx8A8cwoFk3xb35</guid>
-      <description>Threat actors expanded operations using malicious apps, outdated devices, and IoT exploits while global attack volumes surged across key regions.</description>
-    </item>
-    <item>
-      <title>WIRED-Approved Brooklinen Bedding Is on Sale for a Few Days</title>
-      <link>https://www.wired.com/story/brooklinen-flash-sale-november-2025/</link>
-      <pubDate>Fri, 07 Nov 2025 21:23:24 +0000</pubDate>
-      <guid isPermaLink="false">690e2c34566717c98418a93b</guid>
-      <description>Upgrade your sleep setup with up to 20 percent off some of our favorite bedding essentials.</description>
-    </item>
-    <item>
-      <title>Best Packing Cubes for Every Kind of Trip (2025), Tested and Reviewed</title>
-      <link>https://www.wired.com/gallery/best-packing-cubes/</link>
-      <pubDate>Fri, 07 Nov 2025 21:22:01 +0000</pubDate>
-      <guid isPermaLink="false">67e59a0d1152f37cb32e8acd</guid>
-      <description>Whether you&#8217;re a no-frills backpacker or a bag-checking fashionista, there&#8217;s a perfect packing cube out there for you.</description>
-    </item>
-    <item>
-      <title>Branch Sale of the Year: Deals on Office Chairs, Standing Desks, and Home Office Gear</title>
-      <link>https://www.wired.com/story/branch-sale-of-the-year-2025/</link>
-      <pubDate>Fri, 07 Nov 2025 21:18:46 +0000</pubDate>
-      <guid isPermaLink="false">690d14c53de4e195dbe43d3b</guid>
-      <description>Branch is offering up to 15 percent off sitewide now through December 3.</description>
-    </item>
-    <item>
-      <title>$1 Trillion in Tech Stocks Sold Off as Market Grows Skeptical of AI</title>
-      <link>https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226</link>
-      <pubDate>Fri, 07 Nov 2025 21:10:53 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000683226</guid>
-      <description>What do bubbles do?</description>
-    </item>
-    <item>
-      <title>&#8216;Tis the Season for &#8216;Addams Family Values&#8217;</title>
-      <link>https://gizmodo.com/tis-the-season-for-addams-family-values-2000681607</link>
-      <pubDate>Fri, 07 Nov 2025 21:10:47 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000681607</guid>
-      <description>Halloween is over, but the winter holidays haven't quite roared to life&#8212;here's the perfect movie for these in-between times.</description>
-    </item>
-    <item>
-      <title>Rivian gives RJ Scaringe a new pay package worth up to $5B</title>
-      <link>https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/</link>
-      <pubDate>Fri, 07 Nov 2025 21:02:22 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3066151</guid>
-      <description>The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the "unlikeliness" that the associated goals could be met.</description>
-    </item>
-    <item>
-      <title>The best Fitbits for your fitness and health</title>
-      <link>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</link>
-      <pubDate>2025-11-07T16:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</guid>
-      <description>In 2025, you might wonder if Fitbit is still relevant. Despite being acquired by Google, Fitbit remains one of the most recognizable names in the industry. Fitbit trackers aren&#8217;t meant for the most hardcore of athletes, but they&#8217;re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like [&#8230;]...</description>
-    </item>
-    <item>
-      <title>This phenomenal smart lamp is giving serious aurora borealis vibes, and I can&#8217;t get enough of it</title>
-      <link>https://www.techradar.com/home/smart-lights/govee-uplighter-floor-lamp-review</link>
-      <pubDate>Fri, 07 Nov 2025 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">sVfCrm8h6Mi2MWSrUiWayA</guid>
-      <description>Beaming out dynamic color displays as well as practical task lighting, this smart floor lamp has a whole lot to offer.</description>
-    </item>
-    <item>
-      <title>Should I look for Black Friday smartphone deals today or wait for what&#8217;s coming tomorrow? I&#8217;ve previewed the future, here&#8217;s what I&#8217;d wait for</title>
-      <link>https://www.techradar.com/phones/should-i-look-for-black-friday-smartphone-deals-today-or-wait-for-whats-coming-tomorrow-ive-previewed-the-future-heres-what-id-wait-for</link>
-      <pubDate>Fri, 07 Nov 2025 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CgZEJvF9mUXBXqazXJEPHH</guid>
-      <description>I've tested the best smartphones of 2025, and I've seen what's coming in 2026. I can tell you if you should buy now or wait for what's next, depending on your favorite device.</description>
-    </item>
-    <item>
-      <title>Seven more families are now suing OpenAI over ChatGPT&#8217;s role in suicides, delusions</title>
-      <link>https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/</link>
-      <pubDate>Fri, 07 Nov 2025 20:56:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3066140</guid>
-      <description>In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.</description>
-    </item>
-    <item>
-      <title>Tech&#8217;s worst week since April shows the AI boom may be breaking</title>
-      <link>https://www.fastcompany.com/91437732/whats-behind-the-tech-selloff-technology-stocks-nvidia-amd-tesla-ai</link>
-      <pubDate>2025-11-07T20:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91437732/whats-behind-the-tech-selloff-technology-stocks-nvidia-amd-tesla-ai</guid>
-      <description>With layoffs climbing to a 20-year October high and hedge fund icon Michael Burry shorting Nvidia and Palantir, the hype machine is sputtering.
-Technology stocks fell on Friday, amid fears of an AI bubble, a further drawn out federal government shutdown, and economic data that suggests consumer sentiment has&#160;fallen toward record-low levels.</description>
     </item>
   </channel>
 </rss>
