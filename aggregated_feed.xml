@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 08 Nov 2025 03:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 04:40:37 GMT</lastBuildDate>
+    <item>
+      <title>After one and a half playthroughs, Tales of Xillia Remastered has proven that this old RPG was worthy of an upgrade</title>
+      <link>https://www.techradar.com/gaming/tales-of-xillia-remastered-review</link>
+      <pubDate>Sat, 08 Nov 2025 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dpfpwYZNipYR9JV9DpQgpa</guid>
+      <description>Tales of Xillia Remastered is a title worthy of your time, no matter whether you're new to the series or a returning fan. The action-packed RPG combat, fluid gameplay, and endearing characters make it a journey you&#8217;ll want to return to again and again.</description>
+    </item>
     <item>
       <title>Visible Wireless launches early Black Friday deal with an unlimited data plan for just $19/mo</title>
       <link>https://www.techradar.com/phones/network-providers/visible-wireless-launches-early-black-friday-deal-with-an-unlimited-data-plan-for-just-usd19-mo</link>
@@ -19,18 +26,32 @@
       <description>Google is embedding its Nano Banana AI image model into Search and NotebookLM, with Photos to follow.</description>
     </item>
     <item>
-      <title>You can now interrupt ChatGPT as it learns to take feedback on the fly</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/you-can-now-interrupt-chatgpt-as-it-learns-to-take-feedback-on-the-fly</link>
-      <pubDate>Sat, 08 Nov 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">qZ2dX2JWg7KvAppVsoJkUN</guid>
-      <description>OpenAI&#8217;s new mid-response editing feature for GPT-5 Pro allows real-time updates during AI replies.</description>
+      <title>NYT Pips hints, answers for November 8, 2025</title>
+      <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-november-8</link>
+      <pubDate>Sat, 08 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01z0I8XGYTx7dHCoOXEwzyM</guid>
+      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
     </item>
     <item>
-      <title>&#8220;It&#8217;s incredible to revisit this after almost a decade&#8221; &#8211; step inside Zootopia 2 early with Disney&#8217;s new 4D attraction</title>
-      <link>https://www.techradar.com/streaming/entertainment/its-incredible-to-revisit-this-after-almost-a-decade-step-inside-zootopia-2-early-with-disneys-new-4d-attraction</link>
-      <pubDate>Sat, 08 Nov 2025 01:30:00 +0000</pubDate>
-      <guid isPermaLink="false">taFv9xCkaFfNGsGsdq6qW9</guid>
-      <description>TechRadar got an early look at the show and caught up with Zootopia stars Ginnifer Goodwin and Nate Torrence, and Jared Bush, chief creative officer of Walt Disney Animation Studios, to talk about both the attraction and the upcoming sequel.</description>
+      <title>NYT Connections hints today: Clues, answers for November 8, 2025</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-november-8-2025</link>
+      <pubDate>Sat, 08 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">050JaoJw9MJ0L1OHkbsR7U9</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for November 8, 2025</title>
+      <link>https://mashable.com/article/strands-nyt-hint-november-8-2025</link>
+      <pubDate>Sat, 08 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04AJOQSiISEQKfOrCHqPMCl</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for November 8, 2025</title>
+      <link>https://mashable.com/article/wordle-today-answer-november-8-2025</link>
+      <pubDate>Sat, 08 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01gRY2qkzjGuA4Ozq1nwmqR</guid>
+      <description>Here's the answer for "Wordle" #1602 on November 8 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
   </channel>
 </rss>
