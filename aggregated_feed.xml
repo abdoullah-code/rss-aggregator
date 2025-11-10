@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 10 Nov 2025 20:42:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 21:32:13 GMT</lastBuildDate>
+    <item>
+      <title>&#8216;Magic: The Gathering&#8217; Ends the Tyrannical Scourge of This Lil&#8217; Guy</title>
+      <link>https://gizmodo.com/magic-the-gathering-vivi-ban-wotc-final-fantasy-2000683832</link>
+      <pubDate>Mon, 10 Nov 2025 21:25:50 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000683832</guid>
+      <description>Poor Vivi and his reign in the 'Magic' meta is over.</description>
+    </item>
+    <item>
+      <title>Lenovo goes literal with its view of the future of "the cloud" - here's what it thinks future data centers will really look like</title>
+      <link>https://www.techradar.com/pro/lenovo-goes-literal-with-its-view-of-the-future-of-the-cloud-heres-what-it-thinks-future-data-centers-will-really-look-like</link>
+      <pubDate>Mon, 10 Nov 2025 21:24:00 +0000</pubDate>
+      <guid isPermaLink="false">wjHE8KBVhgAcywVpTrmMd6</guid>
+      <description>Lenovo proposes extreme data center designs, from floating clouds to underground bunkers.</description>
+    </item>
+    <item>
+      <title>A&#160;better&#160;way of thinking about the AI bubble</title>
+      <link>https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/</link>
+      <pubDate>Mon, 10 Nov 2025 21:16:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3066596</guid>
+      <description>AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.</description>
+    </item>
+    <item>
+      <title>Rad Power Bikes faces shutdown in January without new funding</title>
+      <link>https://techcrunch.com/2025/11/10/rad-power-bikes-faces-shutdown-in-january-without-new-funding/</link>
+      <pubDate>Mon, 10 Nov 2025 21:14:56 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3066598</guid>
+      <description>The company is "still fighting to find ways to continue" according to an email viewed by TechCrunch.</description>
+    </item>
+    <item>
+      <title>Saudi Arabia&#8217;s Dystopian Futuristic City Project Is Crashing and Burning</title>
+      <link>https://gizmodo.com/saudi-arabias-dystopian-futuristic-city-project-is-crashing-and-burning-2000683752</link>
+      <pubDate>Mon, 10 Nov 2025 21:05:47 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000683752</guid>
+      <description>Who could have seen this coming?</description>
+    </item>
+    <item>
+      <title>Kaltura acquires eSelf, founded by creator of Snap&#8217;s AI, in $27M deal</title>
+      <link>https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/</link>
+      <pubDate>Mon, 10 Nov 2025 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3066374</guid>
+      <description>Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.</description>
+    </item>
+    <item>
+      <title>An annual Walmart Plus membership is half off right now</title>
+      <link>https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale</link>
+      <pubDate>2025-11-10T16:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=817799</guid>
+      <description>If you have a mountain of holiday shopping to tackle over the next few weeks, Walmart is offering a great deal on Walmart Plus. New subscribers can snag an annual Walmart Plus membership for half off through December 2nd. The deal knocks the yearly price down to $49 ($49 off), which will automatically renew at [&#8230;]</description>
+    </item>
+    <item>
+      <title>Apr&#232;s Shein, Amazon est &#233;pingl&#233; pour la vente de poup&#233;es sexuelles enfantines en Su&#232;de</title>
+      <link>https://www.01net.com/actualites/apres-shein-amazon-est-epingle-pour-la-vente-de-poupees-sexuelles-enfantines-en-suede.html</link>
+      <pubDate>Mon, 10 Nov 2025 20:52:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1306833</guid>
+      <description>Apr&#232;s Shein, c'est au tour d'Amazon d'avoir un tr&#232;s s&#233;rieux probl&#232;me de p&#233;dopornographie. L'organisation su&#233;doise ChildX a d&#233;pos&#233; plainte contre le g&#233;ant am&#233;ricain du commerce en ligne en raison de la pr&#233;sence dans ses rayons virtuels de poup&#233;es sexuelles &#224; l'apparence d'enfants. Deux autres plateformes d'e-commerce, non cit&#233;es, sont &#233;galement cibl&#233;es....</description>
+    </item>
     <item>
       <title>The Military&#8217;s Plan for Pennywise on &#8216;It: Welcome to Derry&#8217; Is Completely Unhinged</title>
       <link>https://gizmodo.com/the-militarys-plan-for-pennywise-on-it-welcome-to-derry-is-completely-unhinged-2000683748</link>
@@ -26,18 +82,18 @@
       <description>IMSCAD and Lenovo provide dedicated remote workstations for heavy 3D software, cutting costs and outperforming high-end public cloud services.</description>
     </item>
     <item>
-      <title>Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively</title>
-      <link>https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can</link>
-      <pubDate>Mon, 10 Nov 2025 20:27:00 GMT</pubDate>
-      <guid isPermaLink="false">6gYDuHYeHB4ZtuM0lx3Qi3</guid>
-      <description>Meta has just released a new multilingual automatic speech recognition (ASR) system supporting 1,600+ languages &#8212; dwarfing OpenAI&#8217;s open source Whisper model, which supports just 99. Is architecture also allows developers to extend that support to thousands more. Through a feature called zero-shot in-context learning, users can provide a few paired examples of audio and text in a new language at inference time, enabling the model to transcribe additional utterances in that language without any retraining.In practice, this expands potential coverage to more than 5,400 languages &#8212; roughly every ...</description>
-    </item>
-    <item>
       <title>What if Tamagotchi-Like Toys Were Really Alive? These Researchers Just Made It Happen</title>
       <link>https://gizmodo.com/what-if-tamagotchis-were-really-alive-these-researchers-just-made-it-happen-2000683800</link>
       <pubDate>Mon, 10 Nov 2025 20:20:27 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000683800</guid>
       <description>SquidKid is a small bioreactor housing real, glowing bacteria for children to nurture and raise.</description>
+    </item>
+    <item>
+      <title>Is Maxton Hall the new The Summer I Turned Pretty?</title>
+      <link>https://mashable.com/article/maxton-hall-prime-video-the-summer-i-turned-pretty</link>
+      <pubDate>Mon, 10 Nov 2025 20:14:03 +0000</pubDate>
+      <guid isPermaLink="false">06NvVpQhq0SjzOWOx6n5SWX</guid>
+      <description>"Maxton Hall" Season 2 is now the most popular show on Prime Video, overtaking fellow teen drama "The Summer I Turned Pretty."</description>
     </item>
     <item>
       <title>Google&#160;says its confusing Gemini Home rollout is going just great</title>
@@ -68,7 +124,7 @@
       <description>My Oppo Find X9 Pro's camera is so great it doesn&#8217;t need an upgrade when the 10 drops  &#8211; I do</description>
     </item>
     <item>
-      <title>Did women ruin the workplace? Maybe for the boys&#8217; club</title>
+      <title>Did women ruin the workplace? Maybe for the boys club</title>
       <link>https://www.fastcompany.com/91438475/did-women-ruin-the-workplace-maybe-for-the-boys-club</link>
       <pubDate>2025-11-10T20:00:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91438475/did-women-ruin-the-workplace-maybe-for-the-boys-club</guid>
@@ -118,115 +174,6 @@ Tesla is getting into the rental car market.</description>
       <pubDate>Mon, 10 Nov 2025 14:41:41 -0500</pubDate>
       <guid isPermaLink="false">26cfcab28a833c8ca2f94344ef31ad73</guid>
       <description>TikTok a annonc&#233; lundi un accord avec le g&#233;ant de la radio iHeartMedia pour cr&#233;er des balados film&#233;s d&#8217;influenceurs dont des extraits seront diffus&#233;s sur le r&#233;seau social, une nouvelle illustration de l&#8217;app&#233;tit des plateformes vid&#233;o pour ce m&#233;dia.</description>
-    </item>
-    <item>
-      <title>Healthcare firm apparently hit by major cyberattack exposing over a million medical records - how to find out if you're affected</title>
-      <link>https://www.techradar.com/pro/security/healthcare-firm-apparently-hit-by-major-cyberattack-exposing-over-a-million-medical-records</link>
-      <pubDate>Mon, 10 Nov 2025 19:32:00 +0000</pubDate>
-      <guid isPermaLink="false">D2z4TJstbBUjaFCBQ7cYWk</guid>
-      <description>Hacker claims to have stolen files from Doctor Alliance, but the organization is yet to confirm it.</description>
-    </item>
-    <item>
-      <title>Google brings Gemini to the Google TV Streamer</title>
-      <link>https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/</link>
-      <pubDate>Mon, 10 Nov 2025 19:28:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3066467</guid>
-      <description>The tech giant says the change will enable users to use their voice more naturally to access content and more.</description>
-    </item>
-    <item>
-      <title>AI&#160;PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says</title>
-      <link>https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/</link>
-      <pubDate>Mon, 10 Nov 2025 19:28:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3066533</guid>
-      <description>Gamma&#160;is growing quickly, and profitably, its co-founder CEO Grant Lee says.</description>
-    </item>
-    <item>
-      <title>I review TVs for a living, and these are 9 of the best Black Friday OLED TV deals you'll see this year</title>
-      <link>https://www.techradar.com/televisions/i-review-tvs-for-a-living-and-these-are-9-of-the-best-black-friday-oled-tv-deals-youll-see-this-year</link>
-      <pubDate>Mon, 10 Nov 2025 19:22:57 +0000</pubDate>
-      <guid isPermaLink="false">wxdZD3ofaXRv5SzEJAp9Go</guid>
-      <description>Black Friday may still be a couple of weeks away, but there are already some great deals on top-tier OLED TVs.</description>
-    </item>
-    <item>
-      <title>Even the Stars of &#8216;Breaking Bad&#8217; Have Been Taken on &#8216;Pluribus&#8217;</title>
-      <link>https://gizmodo.com/pluribus-breaking-bad-cameos-trailer-apple-tv-2000683730</link>
-      <pubDate>Mon, 10 Nov 2025 19:11:04 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000683730</guid>
-      <description>Bryan Cranston, Aaron Paul, Bob Odenkirk, and others appear in a new promo for the Apple TV+ sci-fi show.</description>
-    </item>
-    <item>
-      <title>The 35 best early Black Friday Apple deals: We found record prices on AirTags, Apple Watches, and iPads</title>
-      <link>https://mashable.com/article/best-early-black-friday-apple-deals-2025</link>
-      <pubDate>Mon, 10 Nov 2025 19:09:58 +0000</pubDate>
-      <guid isPermaLink="false">014Jb77aJBMaJR4tkMMFiHK</guid>
-      <description>Mashable has dug up the best early Black Friday Apple deals, including year-round lows on AirPods and MacBooks.</description>
-    </item>
-    <item>
-      <title>Tesla turns to rentals as sales continue to spiral</title>
-      <link>https://mashable.com/article/tesla-rental-cars-program</link>
-      <pubDate>Mon, 10 Nov 2025 19:08:49 +0000</pubDate>
-      <guid isPermaLink="false">05skpBQxlDYiXeWG4xxre2A</guid>
-      <description>Tesla is now offering up its cars to rent from its showrooms.</description>
-    </item>
-    <item>
-      <title>Le r&#234;ve de Mars n&#8217;est qu&#8217;un miroir : voici ce qu&#8217;Elon Musk construit vraiment dans l&#8217;espace</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronautique-reve-mars-nest-quun-miroir-voici-ce-quelon-musk-construit-vraiment-espace-127167/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 10 Nov 2025 20:08:12 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronautique-reve-mars-nest-quun-miroir-voici-ce-quelon-musk-construit-vraiment-espace-127167/#xtor%3DRSS-8</guid>
-      <description>Qu&#8217;y a-t-il derri&#232;re les effets d&#8217;annonce d&#8217;Elon Musk&#160;? Difficile de percer le calendrier r&#233;el de SpaceX. Un culte du secret qui &#233;nerve la client&#232;le, y compris la Nasa qui a d&#233;cid&#233; de remettre en cause le Starship comme vaisseau d&#8217;alunissage des astronautes am&#233;ricains. La communication de SpaceX...</description>
-    </item>
-    <item>
-      <title>Fast Company and Johns Hopkins University partner for the first-ever World Changing Ideas Summit</title>
-      <link>https://www.fastcompany.com/91430734/fast-company-johns-hopkins-university-world-changing-ideas-summit</link>
-      <pubDate>2025-11-10T19:01:41</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91430734/fast-company-johns-hopkins-university-world-changing-ideas-summit</guid>
-      <description>The first-ever World Changing Ideas Summit comes to Washington, D.C. this November 19 to explore what&#8217;s next in healthcare, space, and physical AI.
-Think. Create. Change.</description>
-    </item>
-    <item>
-      <title>Cond&#233; Nast fires four for confronting HR: The internet reacts</title>
-      <link>https://www.fastcompany.com/91438481/conde-nast-fires-four-for-confronting-hr-the-internet-reacts</link>
-      <pubDate>2025-11-10T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91438481/conde-nast-fires-four-for-confronting-hr-the-internet-reacts</guid>
-      <description>Social media was divided after the company dismissed workers who demanded answers outside the HR head&#8217;s office following layoffs.
-Last week, four Cond&#233; Nast staffers were abruptly fired after participating in a union protest at the publisher&#8217;s 1 World Trade Center headquarters. The journalists had confronted chief people officer Stan Duncan outside his office, demanding answers on a fresh wave of layoffs that had just hit the company....</description>
-    </item>
-    <item>
-      <title>Emily Sundberg enters the podcast zone</title>
-      <link>https://www.fastcompany.com/91438654/emily-sundberg-podcast-expense-account</link>
-      <pubDate>2025-11-10T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91438654/emily-sundberg-podcast-expense-account</guid>
-      <description>&#8216;There&#8217;s a white space in food media that Feed Me plans to fill: a good podcast about food.&#8217;
-Feed Me&#8217;s Emily Sundberg has launched her first foray into podcasting with Expense Account.&#160;</description>
-    </item>
-    <item>
-      <title>Cava is launching a merch shop with shirts, socks, and hats inspired by its iconic &#8216;slop bowl&#8217; ingredients</title>
-      <link>https://www.fastcompany.com/91438440/cava-merch-shop-sells-shirts-hats-socks-inspired-by-slop-bowls</link>
-      <pubDate>2025-11-10T18:54:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91438440/cava-merch-shop-sells-shirts-hats-socks-inspired-by-slop-bowls</guid>
-      <description>Fast-casual chains are leaning into their identities as lifestyle brands at a time when younger consumers are having a harder time buying what they sell.
-If you work in an office, chances are good that you&#8217;re familiar with the &#8220;slop bowl,&#8221; TikTok&#8217;s term for the ubiquitous lunch of nine-to-fivers that involves a bunch of ingredients mixed together with a base of salad or rice. ...</description>
-    </item>
-    <item>
-      <title>This Bluetooth Speaker Is Also a Charging Hub, and It&#8217;s Discounted to $130</title>
-      <link>https://www.wired.com/story/jbl-charge-6-deal-1125/</link>
-      <pubDate>Mon, 10 Nov 2025 18:48:20 +0000</pubDate>
-      <guid isPermaLink="false">691225c6aba2992fd83fa85d</guid>
-      <description>I&#8217;m at the Bluetooth speaker. I&#8217;m at the power bank. I&#8217;m at the combination Bluetooth speaker and power bank.</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s AirPods 4 just hit their lowest price yet at $85</title>
-      <link>https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale</link>
-      <pubDate>2025-11-10T13:47:53-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=817656</guid>
-      <description>I&#8217;ve seen dozens of solid deals trickle in ahead of Black Friday, but Apple&#8217;s AirPods 4 hitting a new all-time low is the first one that&#8217;s really stood out to me. Right now, you can buy Apple&#8217;s entry-level wireless earbuds for just $84.99 ($44 off) at Amazon, Best Buy, and Walmart, which beats the previous [&#8230;]</description>
-    </item>
-    <item>
-      <title>Very Black Friday sale just got even bigger with up to 60% off tech, toys, appliances, and fashion &#8211; here are 14 deals I'd buy</title>
-      <link>https://www.techradar.com/seasonal-sales/very-black-friday-sale-just-got-even-bigger-with-up-to-60-percent-off-tech-toys-appliances-and-fashion-here-are-14-deals-id-buy</link>
-      <pubDate>Mon, 10 Nov 2025 18:45:00 +0000</pubDate>
-      <guid isPermaLink="false">cnmJx9VkdQseRoJTV6AxoU</guid>
-      <description>Very just expanded its Black Friday sale with up to 60% off tech, toys, appliances and fashion &#8211; plus there's extra discounts of up to 11% for 48 hours.</description>
     </item>
   </channel>
 </rss>
