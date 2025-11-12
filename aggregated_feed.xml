@@ -3,7 +3,65 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 12 Nov 2025 21:34:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 22:35:38 GMT</lastBuildDate>
+    <item>
+      <title>The best budget robot vacuums</title>
+      <link>https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop</link>
+      <pubDate>2025-11-12T17:31:26-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop</guid>
+      <description>Today&#8217;s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it&#8217;s easy to forget that they can just be simple machines that get us from point A to point B. Yes, some bots blow hot air on their bums (mop pads), deftly navigate dog poop, [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#8216;Marvel Rivals&#8217; DPS Mains, Please Just Let Me Play That Nice Cajun Man</title>
+      <link>https://gizmodo.com/marvel-rivals-gambit-strategist-abilities-2000684947</link>
+      <pubDate>Wed, 12 Nov 2025 22:30:23 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000684947</guid>
+      <description>A humble plea from your strategist friends.</description>
+    </item>
+    <item>
+      <title>This superb turntable is so poised and revealing, but its hefty price and lack of a basic ingredient won't please everyone</title>
+      <link>https://www.techradar.com/audio/turntables/technics-sl-1300g-turntable-review</link>
+      <pubDate>Wed, 12 Nov 2025 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">P4PfhYsoyCS6z4SMWAWb7m</guid>
+      <description>The Technics SL-1300G turntable is the latest example of the premium brand delivering a premium product a decade into its second coming...</description>
+    </item>
+    <item>
+      <title>This ARM-based mini PC sports a full x16 PCIe slot for discrete GPUs - Minisforum says "desktop ARM" starts now, but can it live up to the hype?</title>
+      <link>https://www.techradar.com/pro/this-arm-based-mini-pc-sports-a-full-x16-pcie-slot-for-discrete-gpus-minisforum-says-desktop-arm-starts-now-but-can-it-live-up-to-the-hype</link>
+      <pubDate>Wed, 12 Nov 2025 22:28:00 +0000</pubDate>
+      <guid isPermaLink="false">PGAYjXYWpMWJqsRcaiwLeA</guid>
+      <description>Minisforum MS-R1 ARM mini PC offers discrete GPU support, expandable storage, UEFI boot, and 45 TOPS AI performance in compact form.</description>
+    </item>
+    <item>
+      <title>DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules</title>
+      <link>https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/</link>
+      <pubDate>Wed, 12 Nov 2025 22:03:20 +0000</pubDate>
+      <guid isPermaLink="false">690cccd8b950b4a61e7c40e6</guid>
+      <description>The Department of Homeland Security collected data on Chicago residents accused of gang ties to test if police files could feed an FBI watchlist. Months passed before anyone noticed it wasn&#8217;t deleted.</description>
+    </item>
+    <item>
+      <title>MSNBC is changing its name and embracing the ethos of a startup</title>
+      <link>https://www.fastcompany.com/91440761/msnbc-new-name-ms-now</link>
+      <pubDate>2025-11-12T22:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91440761/msnbc-new-name-ms-now</guid>
+      <description>Saturday is when MSNBC&#160;officially becomes&#160;MS NOW, standing for My Source for News, Opinion and the World.
+Asked what viewers should expect when television&#8217;s MSNBC makes its&#160;corporate divorce&#160;from NBC News final this weekend, network president Rebecca Kutler points to a poster on the wall of a conference room at its new offices off Times Square.</description>
+    </item>
+    <item>
+      <title>OpenAI Releases Its &#8216;More Conversational&#8217; GPT-5.1</title>
+      <link>https://gizmodo.com/openai-releases-its-more-conversational-gpt-5-1-2000685152</link>
+      <pubDate>Wed, 12 Nov 2025 21:52:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000685152</guid>
+      <description>Get ready for 'quirky' mode.</description>
+    </item>
+    <item>
+      <title>Anthropic and Microsoft announce new AI data center projects in Texas, New York, and Georgia</title>
+      <link>https://www.fastcompany.com/91440687/anthropic-microsoft-new-ai-data-center-projects</link>
+      <pubDate>2025-11-12T21:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91440687/anthropic-microsoft-new-ai-data-center-projects</guid>
+      <description>The latest deals show that the tech industry is moving forward on huge spending to build energy-hungry AI infrastructure, despite concerns.
+Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York.</description>
+    </item>
     <item>
       <title>New Nvidia DGX Spark competitor shows strong benchmark performance - and at half the price, could it be enough to convince some users to switch?</title>
       <link>https://www.techradar.com/pro/new-nvidia-dgx-spark-competitor-shows-strong-benchmark-performance-and-at-half-the-price-could-it-be-enough-to-convince-some-users-to-switch</link>
@@ -26,12 +84,27 @@
       <description>iPhones get too much hype and are now overrated, according to TechRadar readers, but not as much as you might think.</description>
     </item>
     <item>
+      <title>Michael Caine and Matthew McConaughey are getting AI voice clones with ElevenLabs</title>
+      <link>https://www.fastcompany.com/91440675/elevenlabs-michael-caine-matthew-mcconaughey-ai-voice-clones</link>
+      <pubDate>2025-11-12T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91440675/elevenlabs-michael-caine-matthew-mcconaughey-ai-voice-clones</guid>
+      <description>Caine said in a&#160;statement&#160;that ElevenLabs is &#8216;using innovation not to replace humanity, but to celebrate it.&#8217;
+Oscar-winning actors Michael Caine and Matthew McConaughey have made deals with voice-cloning company ElevenLabs that will allow its artificial intelligence technology to replicate their voices.</description>
+    </item>
+    <item>
+      <title>Flip the camera trend on TikTok: What is it and why are people upset?</title>
+      <link>https://mashable.com/article/flip-the-camera-trend-tiktok-bullying</link>
+      <pubDate>Wed, 12 Nov 2025 21:17:43 +0000</pubDate>
+      <guid isPermaLink="false">03zxaXoZIquaa7Rfj9ElhYN</guid>
+      <description>TikTok's latest trend has some concerned.</description>
+    </item>
+    <item>
       <title>During the government shutdown and SNAP pause, a lot more people turned to strangers to ask for loans</title>
       <link>https://www.fastcompany.com/91440313/government-shutdown-snap-pause-wave-of-loan-requests</link>
       <pubDate>2025-11-12T21:15:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91440313/government-shutdown-snap-pause-wave-of-loan-requests</guid>
       <description>SoLo Funds, a community banking platform in which members fund loans for other members, has seen a surge in requests for loans from federal workers.
-For many Americans, 2025 has been tough economically. Tariffs have raised the price of goods from coffee to clothing, inflation is still rising, and more than 1 million jobs have been cut since January....</description>
+For many Americans, 2025 has been tough economically. Tariffs have raised the price of goods (from coffee to clothing), inflation is still rising, and more than 1 million jobs have been cut since January....</description>
     </item>
     <item>
       <title>A Proposed Federal THC Ban Would &#8216;Wipe Out&#8217; Hemp Products That Get People High</title>
@@ -39,6 +112,13 @@ For many Americans, 2025 has been tough economically. Tariffs have raised the pr
       <pubDate>Wed, 12 Nov 2025 21:13:18 +0000</pubDate>
       <guid isPermaLink="false">6914a4978977eaf374dae1ae</guid>
       <description>The provision, tucked into the spending bill that could end the US government shutdown, would ban intoxicating hemp-derived THC products, including gummies and drinks.</description>
+    </item>
+    <item>
+      <title>Adult industry leaders like Pornhub form a coalition and release code of conduct</title>
+      <link>https://mashable.com/article/adult-studio-alliance-code-of-conduct</link>
+      <pubDate>Wed, 12 Nov 2025 21:05:39 +0000</pubDate>
+      <guid isPermaLink="false">03RerAo9Ct3q6dvhdeUY2Ya</guid>
+      <description>Pornhub and other studios formed the Adult Studio Alliance and released a safety standard for the adult industry.</description>
     </item>
     <item>
       <title>The Cult of the Chatbot Is Rising</title>
@@ -106,180 +186,11 @@ A penny for your thoughts? Well, maybe try a nickel. Though it will remain legal
       <description>The rapid-fire process of killing the penny is already causing some disruption.</description>
     </item>
     <item>
-      <title>The MAHA Movement Has a New Misunderstood Hero: Elizabeth Holmes</title>
-      <link>https://gizmodo.com/the-maha-movement-has-a-new-misunderstood-hero-elizabeth-holmes-2000684876</link>
-      <pubDate>Wed, 12 Nov 2025 20:35:05 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000684876</guid>
-      <description>This tracks.</description>
-    </item>
-    <item>
-      <title>FYI: New &#8216;Avatar&#8217; Movie Long AF</title>
-      <link>https://gizmodo.com/fyi-new-avatar-movie-long-af-2000684936</link>
-      <pubDate>Wed, 12 Nov 2025 20:30:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000684936</guid>
-      <description>Apparently, 'Avatar: Fire and Ash,' out December 19, is 3 hours and 15 minutes long, same as 'Titanic.'</description>
-    </item>
-    <item>
-      <title>Here are the best Kindle deals right now</title>
-      <link>https://www.theverge.com/21539047/best-amazon-kindle-deals</link>
-      <pubDate>2025-11-12T15:29:19-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/21539047/best-amazon-kindle-deals</guid>
-      <description>When it comes to finding a device to read ebooks, you have a few options to choose from. You can always buy a tablet or use your phone, but those devices are multipurpose and can be used for a ton of things, like surfing the web or doomscrolling on X or Bluesky. If you are [&#8230;]</description>
-    </item>
-    <item>
-      <title>Data breach at mysterious Chinese firm reveals state-owned cyber weapons and even a list of targets</title>
-      <link>https://www.techradar.com/pro/data-breach-at-mysterious-chinese-firm-reveals-state-owned-cyber-weapons-and-even-a-list-of-targets</link>
-      <pubDate>Wed, 12 Nov 2025 20:26:00 +0000</pubDate>
-      <guid isPermaLink="false">APY7tYYQoK4bJiyGgnrvgP</guid>
-      <description>Leak at Knownsec exposes over 12,000 files detailing cyber weapons, espionage tools, and international data theft.</description>
-    </item>
-    <item>
-      <title>The Housemaid trailer: Sydney Sweeney, Amanda Seyfried, and WTF</title>
-      <link>https://mashable.com/video/the-housemaid-trailer-2</link>
-      <pubDate>Wed, 12 Nov 2025 20:24:15 +0000</pubDate>
-      <guid isPermaLink="false">06DbvKZ9mSdJk9ZaqQjOUKZ</guid>
-      <description>"A Simple Favor" director Paul Feig has another pair of dueling divas coming soon with "The Housemaid" starring Amanda Seyfried and Sydney Sweeney.</description>
-    </item>
-    <item>
-      <title>Amazon beats Nothing at its own game with this brilliant early Black Friday Nothing Phone 3 deal</title>
-      <link>https://www.techradar.com/phones/nothing-phones/amazon-beats-nothing-at-its-own-game-with-this-brilliant-early-black-friday-nothing-phone-3-deal</link>
-      <pubDate>Wed, 12 Nov 2025 20:22:00 +0000</pubDate>
-      <guid isPermaLink="false">SmngVh3BcuQpJuQ6moiPaP</guid>
-      <description>The Nothing Phone 3 is one of the best value phones on the market, and perhaps the most unique-looking; the company has put it on sale for Black Friday, but Amazon&#8217;s offer is better.</description>
-    </item>
-    <item>
-      <title>Valve&#8217;s new VR streaming trick won&#8217;t just work with its own headset</title>
-      <link>https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link</link>
-      <pubDate>2025-11-12T15:20:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=817993</guid>
-      <description>Valve&#8217;s new streaming-first VR headset&#160;&#8212;&#160;the Steam Frame &#8212; employs a clever trick to help make game streaming feel as low-latency as possible. It&#8217;s called foveated streaming, and it means the headset requests a higher-quality image for the content that&#8217;s right in front of your eyes while lowering the resolution of your peripheral vision to reduce [&#8230;]...</description>
-    </item>
-    <item>
-      <title>600 employees took Paramount Skydance buyouts following RTO mandate</title>
-      <link>https://www.fastcompany.com/91440457/600-employees-took-paramount-skydance-buyouts-following-rto-mandate</link>
-      <pubDate>2025-11-12T20:20:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91440457/600-employees-took-paramount-skydance-buyouts-following-rto-mandate</guid>
-      <description>It cost the company $185 million.
-Six hundred employees just packed up their desks and quit their jobs at Paramount Skydance.&#160;</description>
-    </item>
-    <item>
-      <title>Is Jack Schlossberg the next Zohran Mamdani?</title>
-      <link>https://www.fastcompany.com/91440363/is-jack-schlossberg-the-next-zohran-mamdani-kennedy-jfk-grandson-running-for-congress-new-york-12th-congressional-district</link>
-      <pubDate>2025-11-12T20:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91440363/is-jack-schlossberg-the-next-zohran-mamdani-kennedy-jfk-grandson-running-for-congress-new-york-12th-congressional-district</guid>
-      <description>John F. Kennedy&#8217;s grandson is stepping into the spotlight with a Congressional bid, part of a new wave of young progressive politicians.
-Just a week after self-described democratic socialist Zohran Mamdani made history as New York City&#8217;s first Muslim to be elected mayor, fellow Democrat Jack Schlossberg&#8212;President John F. Kennedy&#8217;s (JFK&#8217;s) grandson&#8212;announced he is also running for office in New York City, in the Empire State&#8217;s 12th Congressional district. If elected, he would represent New York in the U.S. House of Representatives....</description>
-    </item>
-    <item>
-      <title>Microsoft&#8217;s Surface Laptop Is Marked Down by $350</title>
-      <link>https://www.wired.com/story/surface-laptop-deal-1125/</link>
-      <pubDate>Wed, 12 Nov 2025 20:07:17 +0000</pubDate>
-      <guid isPermaLink="false">6914cd4620914ff5509b593f</guid>
-      <description>Scoop this excellent Windows laptop for a fraction of its usual price.</description>
-    </item>
-    <item>
-      <title>Cybersecurity firm Deepwatch lays off dozens, citing move to &#8220;accelerate&#8221; AI investment</title>
-      <link>https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/</link>
-      <pubDate>Wed, 12 Nov 2025 20:05:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3067234</guid>
-      <description>Deepwatch&#8217;s CEO told TechCrunch that the layoffs allow the company to accelerate investments in &#8220;AI and automation.&#8221;</description>
-    </item>
-    <item>
-      <title>We tried Valve&#8217;s new VR headset, PC, and controller &#8212; ask us anything!</title>
-      <link>https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama</link>
-      <pubDate>2025-11-12T15:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=818113</guid>
-      <description>Hi! I'm Jay Peters, a senior reporter here at The Verge. I'm perhaps the site's second-biggest Steam Deck fan, surpassed only by Sean Hollister, our unofficial handheld gaming PC reviewer. So you can imagine how excited we were to visit Valve's headquarters to try the company's three new hardware products: the Steam Frame, a streaming-focused [&#8230;]</description>
-    </item>
-    <item>
-      <title>ElevenLabs strike deals with celebs to create AI audio</title>
-      <link>https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/</link>
-      <pubDate>Wed, 12 Nov 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3067109</guid>
-      <description>ElevenLabs&#160;struck a deal with actors Michael Caine and Matthew&#160;McConaughey&#160;to AI-generate their voices.</description>
-    </item>
-    <item>
-      <title>Apple TV&#8217;s most underrated mystery drama is back with a glitzy first episode that pays homage to &#8217;60s Hollywood icons</title>
-      <link>https://www.techradar.com/streaming/apple-tv-plus/apple-tvs-most-underrated-mystery-drama-is-back-with-a-glitzy-first-episode-that-pays-homage-to-60s-hollywood-icons</link>
-      <pubDate>Wed, 12 Nov 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">puuk2JUx9sQcrzENxxAR8j</guid>
-      <description>Palm Royale creator, Abe Sylvia, reveals how two 60s stars inspired the mystery series&#8217; dazzling season 2 opener.</description>
-    </item>
-    <item>
-      <title>This home theater newcomer just released a serious Sonos Beam rival &#8211; here&#8217;s why I love this small Dolby Atmos soundbar</title>
-      <link>https://www.techradar.com/televisions/soundbars/this-home-theater-newcomer-just-released-a-serious-sonos-beam-rival-heres-why-i-love-this-small-dolby-atmos-soundbar</link>
-      <pubDate>Wed, 12 Nov 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">K8zaxU5TFHqdnQhfXk9z8W</guid>
-      <description>My expectations for the Marshall Heston 60 were already sky-high, but it still met them &#8211; Sonos has some serious competition.</description>
-    </item>
-    <item>
-      <title>Watch this &#8211; the latest humanoid robots are both unnervingly sassy and comfortingly error-prone</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/watch-this-the-latest-humanoid-robots-are-both-unnervingly-sassy-and-comfortingly-error-prone</link>
-      <pubDate>Wed, 12 Nov 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">DXTyhZ8ZCQTobRe7Nahq2R</guid>
-      <description>New robots from China and Russia raise serious questions about the difficulty of creating humanoid robots and what these companies should be building.</description>
-    </item>
-    <item>
-      <title>November Android 16 update and Pixel Feature Drop: Everything new, how to get it</title>
-      <link>https://mashable.com/article/pixel-android-16-november-2025-update-feature-drop</link>
-      <pubDate>Wed, 12 Nov 2025 19:59:03 +0000</pubDate>
-      <guid isPermaLink="false">00AAUg72MIXyV2q1cfE47dB</guid>
-      <description>The November Android 16 update for Pixel finally brings Nano Banana to Google Photos, alongside security patches and Wicked-themed goodies.</description>
-    </item>
-    <item>
-      <title>Valve annonce une Steam Machine et relance la guerre des consoles : un cube pour d&#233;fier PlayStation et Xbox</title>
-      <link>https://www.frandroid.com/marques/2866723_valve-annonce-une-steam-machine-et-relance-la-guerre-des-consoles-un-cube-pour-defier-playstation-et-xbox</link>
-      <pubDate>Wed, 12 Nov 2025 19:50:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/2866723_valve-annonce-une-steam-machine-et-relance-la-guerre-des-consoles-un-cube-pour-defier-playstation-et-xbox</guid>
-      <description>
-Valve ressort une vieille id&#233;e rat&#233;e, mais cette fois avec une arme secr&#232;te : une d&#233;cennie d'apprentissage douloureux. La Steam Machine 2025 pourrait r&#233;ussir l&#224; o&#249; son anc&#234;tre a lamentablement &#233;chou&#233;.
-</description>
-    </item>
-    <item>
-      <title>Yes, You Should Yell at Seagulls</title>
-      <link>https://gizmodo.com/yes-you-should-yell-at-seagulls-2000684978</link>
-      <pubDate>Wed, 12 Nov 2025 19:50:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000684978</guid>
-      <description>New research suggests the annoying birds are sensitive to how we say things.</description>
-    </item>
-    <item>
-      <title>GPT-5.1 est l&#224; : voici ce qui change vraiment pour ChatGPT</title>
-      <link>https://www.frandroid.com/culture-tech/2866783_chatgpt-a-desormais-8-personnalites-voici-ce-qui-change-vraiment-avec-gpt-5-1</link>
-      <pubDate>Wed, 12 Nov 2025 19:49:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/2866783_chatgpt-a-desormais-8-personnalites-voici-ce-qui-change-vraiment-avec-gpt-5-1</guid>
-      <description>
-OpenAI d&#233;voile GPT-5.1, trois mois apr&#232;s GPT-5. Au programme : un ton plus naturel, huit personnalit&#233;s au choix, et des am&#233;liorations cibl&#233;es en raisonnement. 
-</description>
-    </item>
-    <item>
-      <title>Elon Musk&#8217;s X botched its security key switchover, locking users out</title>
-      <link>https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/</link>
-      <pubDate>Wed, 12 Nov 2025 19:40:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3067214</guid>
-      <description>As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll &#8212; but are getting stuck in endless loops and unable to finish.</description>
-    </item>
-    <item>
-      <title>How the Steam Frame compares to other VR headsets</title>
-      <link>https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison</link>
-      <pubDate>2025-11-12T14:40:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=818041</guid>
-      <description>Valve just announced the Steam Frame, a new standalone VR headset that can both stream games from a PC and play games locally thanks to an onboard Arm chip. The headset is quite a bit different from Valve&#8217;s previous model, the Index, which had to be tethered to a gaming computer with a physical wire. [&#8230;]</description>
-    </item>
-    <item>
-      <title>On a compar&#233; la Steam Machine &#224; la PS5 Pro, la Xbox Series X et un PC gaming &#233;quivalent</title>
-      <link>https://www.frandroid.com/produits-android/console/console-de-jeux/2866761_on-a-compare-la-steam-machine-a-la-ps5-pro-la-xbox-series-x-et-un-pc-gaming-equivalent</link>
-      <pubDate>Wed, 12 Nov 2025 19:38:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/console-de-jeux/2866761_on-a-compare-la-steam-machine-a-la-ps5-pro-la-xbox-series-x-et-un-pc-gaming-equivalent</guid>
-      <description>
-Valve d&#233;barque sur le march&#233; console avec une promesse all&#233;chante : la puissance d'un PC gaming, l'&#233;cosyst&#232;me Steam, et un prix "comparable &#224; un PC avec caract&#233;ristiques similaires".
-</description>
-    </item>
-    <item>
-      <title>Viral YouTube show &#8216;Pop the Balloon&#8217; is becoming a dating app</title>
-      <link>https://mashable.com/article/pop-the-balloon-find-love-dating-app-coming-soon</link>
-      <pubDate>Wed, 12 Nov 2025 19:36:19 +0000</pubDate>
-      <guid isPermaLink="false">04hrvWoI6lEiuMcwuo2KYH2</guid>
-      <description>&#8216;Pop the Balloon or Find Love&#8217; is becoming a dating app</description>
+      <title>Waymo to start taking freeway rides in select cities</title>
+      <link>https://mashable.com/article/waymo-freeway-rides-san-francisco-phoenix-los-angeles</link>
+      <pubDate>Wed, 12 Nov 2025 20:38:32 +0000</pubDate>
+      <guid isPermaLink="false">03vPJ3TkvRIG8goeugtoCfk</guid>
+      <description>Riders in San Francisco, Phoenix, and Los Angeles will soon be able to take freeway rides.</description>
     </item>
   </channel>
 </rss>
