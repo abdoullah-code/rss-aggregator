@@ -3,7 +3,70 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 13 Nov 2025 20:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 21:30:24 GMT</lastBuildDate>
+    <item>
+      <title>The 17 Best Gifts for Plant Lovers We&#8217;d Buy Ourselves (2025)</title>
+      <link>https://www.wired.com/gallery/best-gifts-for-plant-lovers/</link>
+      <pubDate>Thu, 13 Nov 2025 21:25:16 +0000</pubDate>
+      <guid isPermaLink="false">68b728958cb239c3e51df20b</guid>
+      <description>Plant parents don&#8217;t always want another plant&#8212;up your gift-giving game with these favorite plant presents we've tested.</description>
+    </item>
+    <item>
+      <title>Forget "can it run Doom?" - hardware buff shows you can run a Minecraft server on a cheap smart LED lightbulb</title>
+      <link>https://www.techradar.com/pro/forget-can-it-run-doom-hardware-buff-shows-you-can-run-a-minecraft-server-on-a-cheap-smart-led-lightbulb</link>
+      <pubDate>Thu, 13 Nov 2025 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">3qjbPX4yeoDZk7M93gicHV</guid>
+      <description>A hacker converted a cheap smart LED bulb into a functioning Minecraft server.</description>
+    </item>
+    <item>
+      <title>One of my favorite Dell laptops is now on sale and it's $430 cheaper than when I gave it 4.5-stars</title>
+      <link>https://www.techradar.com/computing/windows-laptops/one-of-my-favorite-dell-laptops-is-now-on-sale-and-its-usd430-cheaper-than-when-i-gave-it-4-5-stars</link>
+      <pubDate>Thu, 13 Nov 2025 21:17:53 +0000</pubDate>
+      <guid isPermaLink="false">s4cnYX4Tg5rSFKWxAd9BEZ</guid>
+      <description>The Dell 14 Plus is a great laptop for most people, and it's more than $400 off the price it was when I gave it 4.5 stars.</description>
+    </item>
+    <item>
+      <title>Blue Origin lands New Glenn rocket booster on second try</title>
+      <link>https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/</link>
+      <pubDate>Thu, 13 Nov 2025 21:15:06 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3067779</guid>
+      <description>It's an impressive accomplishment for the new mega-rocket launch system, and paves the way for the company to start re-using the boosters in commercial missions.</description>
+    </item>
+    <item>
+      <title>Apple&#8217;s new App Review Guidelines clamp down on apps sharing personal data with &#8216;third-party AI&#8217;</title>
+      <link>https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/</link>
+      <pubDate>Thu, 13 Nov 2025 21:14:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3067790</guid>
+      <description>Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.</description>
+    </item>
+    <item>
+      <title>8 Things We Liked About &#8216;Bat-Fam&#8217; and 2 Things We Didn&#8217;t</title>
+      <link>https://gizmodo.com/8-things-we-liked-about-bat-fam-and-2-things-we-didnt-2000685093</link>
+      <pubDate>Thu, 13 Nov 2025 21:00:31 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000685093</guid>
+      <description>The DC Studios animated show is now streaming on Prime Video and Amazon Kids+.</description>
+    </item>
+    <item>
+      <title>Tesla Reportedly Adding Apple CarPlay, Bucking Industry Trend</title>
+      <link>https://gizmodo.com/tesla-reportedly-adding-apple-carplay-bucking-industry-trend-2000685565</link>
+      <pubDate>Thu, 13 Nov 2025 21:00:06 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000685565</guid>
+      <description>The move would break with Elon Musk's longstanding insistence that its native software is superior to a third-party system.</description>
+    </item>
+    <item>
+      <title>Looking for the best biggest Black Friday cloud storage discounts? These won't disappoint</title>
+      <link>https://www.techradar.com/pro/looking-for-the-best-biggest-black-friday-cloud-storage-discounts-these-wont-disappoint</link>
+      <pubDate>Thu, 13 Nov 2025 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">A7kFPzuDe5kPAHA4vZ6a8c</guid>
+      <description>This Black Friday we've rounded up all the deals that offer 90% off or more.</description>
+    </item>
+    <item>
+      <title>Forget being a &#8216;Meta Quest 3 killer&#8217; I think the Steam Frame could be an &#8216;every XR headset killer&#8217; for two important reasons</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/forget-being-a-meta-quest-3-killer-i-think-the-steam-frame-could-be-an-every-xr-headset-killer-for-two-important-reasons</link>
+      <pubDate>Thu, 13 Nov 2025 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">WsvNZunVqs9BhhgiM3B3nh</guid>
+      <description>The Steam Frame could be the most exciting VR headset in years, unless you're Meta, Apple, and Samsung.</description>
+    </item>
     <item>
       <title>Valve wants Half-Life: Alyx to work well standalone on Steam Frame</title>
       <link>https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr</link>
@@ -26,11 +89,12 @@
       <description>Apple has updated how it handles mini apps with a new App Store Mini Apps Partner Program that may improve the experience and lead to cheaper in-mini-app purchases.</description>
     </item>
     <item>
-      <title>Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more</title>
-      <link>https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts</link>
-      <pubDate>Thu, 13 Nov 2025 20:23:00 GMT</pubDate>
-      <guid isPermaLink="false">60u3P5sAxXDZ7rLs5xCdzl</guid>
-      <description>Mere hours after OpenAI updated its flagship foundation model GPT-5 to GPT-5.1, promising reduced token usage overall and a more pleasant personality with more preset options, Chinese search giant Baidu unveiled its next-generation foundation model, ERNIE 5.0, alongside a suite of AI product upgrades and strategic international expansions.The goal: to position as a global contender in the increasingly competitive enterprise AI market.Announced at the company's Baidu World 2025 event, ERNIE 5.0 is a proprietary, natively omni-modal model designed to jointly process and generate content across t...</description>
+      <title>Neuroscience research says your next anti-aging product should be Duolingo</title>
+      <link>https://www.fastcompany.com/91440567/neuroscientists-say-your-next-anti-aging-product-should-be-duolingo-learning-languages-keeps-brain-young</link>
+      <pubDate>2025-11-13T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91440567/neuroscientists-say-your-next-anti-aging-product-should-be-duolingo-learning-languages-keeps-brain-young</guid>
+      <description>A new study suggests learning languages could help your brain&#8212;and body&#8212;stay younger for longer.
+Speaking multiple languages may protect both your brain and body by slowing down the biological aging process, increasing resilience as you get older, according to a new international study.</description>
     </item>
     <item>
       <title>Deaf Tesla Employee Fired After Complaining Factory&#8217;s Heat Disabled Hearing Aids, Lawsuit Claims</title>
@@ -147,119 +211,20 @@ Google voulait rendre l'installation d'applications Android de d&#233;veloppeurs
       <description>For decades, researchers believed they were looking at fish remains. They were way off the mark.</description>
     </item>
     <item>
-      <title>I discovered 3 criminally underused VPN features &#8211; and they're all on sale right now!</title>
-      <link>https://www.techradar.com/vpn/vpn-services/i-discovered-3-criminally-underused-vpn-features-and-theyre-all-on-sale-right-now</link>
-      <pubDate>Thu, 13 Nov 2025 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">GZPmT8C47Ev5Hdqxfdf4eS</guid>
-      <description>These VPNs can do more than you think, and few people realise!</description>
+      <title>The U.S. penny is discontinued&#8212;but this national grocer is paying double if you exchange your coins. Here&#8217;s how to cash in</title>
+      <link>https://www.fastcompany.com/91441355/us-penny-discontinued-this-national-grocer-is-paying-double-if-you-exchange-your-coins-how-to-cash-in-on-2-for-1-deal</link>
+      <pubDate>2025-11-13T19:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91441355/us-penny-discontinued-this-national-grocer-is-paying-double-if-you-exchange-your-coins-how-to-cash-in-on-2-for-1-deal</guid>
+      <description>The 2-for-1 deal is available in 6 states, and comes as stores are anticipating a shortage after the U.S. Mint pressed its final penny this week.
+A grocery store is offering to buy pennies in a 2-for-1 deal. Sound like pennies from heaven? Too good to be true?</description>
     </item>
     <item>
-      <title>Uber&#8217;s newest button takes you somewhere surprising</title>
-      <link>https://www.fastcompany.com/91441293/uber-ski-epic-pass-vail</link>
-      <pubDate>2025-11-13T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91441293/uber-ski-epic-pass-vail</guid>
-      <description>A seasonal feature hidden inside the app now whisks riders to more than 40 mountains across the U.S. and Europe.
-The headache of planning a ski trip stands in sharp contrast to the freedom of effortlessly slicing down the slopes once you actually get up the mountain.&#160;</description>
-    </item>
-    <item>
-      <title>Now that's a bonus - top camera company gifts solid gold keycaps worth thousands of dollars to its top employees</title>
-      <link>https://www.techradar.com/pro/now-thats-a-bonus-top-camera-company-gifts-solid-gold-keycaps-worth-thousands-of-dollars-to-its-top-employees</link>
-      <pubDate>Thu, 13 Nov 2025 19:29:00 +0000</pubDate>
-      <guid isPermaLink="false">PmapNdLJ8yck2U7uZxjmTL</guid>
-      <description>Insta360&#8217;s lavish gold keycap rewards reflect a growing culture of luxury that blurs the line between motivation and marketing.</description>
-    </item>
-    <item>
-      <title>The New Apple Watch Ultra 3 Is $100 Off</title>
-      <link>https://www.wired.com/story/apple-watch-ultra-3-deal-1125/</link>
-      <pubDate>Thu, 13 Nov 2025 19:16:17 +0000</pubDate>
-      <guid isPermaLink="false">69161883271e0ea0579fedd9</guid>
-      <description>You could save big on Apple's most recently released and most powerful wrist hardware.</description>
-    </item>
-    <item>
-      <title>Uber quietly pilots in-app video recording for drivers in India</title>
-      <link>https://techcrunch.com/2025/11/13/uber-quietly-pilots-in-app-video-recording-for-drivers-in-india/</link>
-      <pubDate>Thu, 13 Nov 2025 19:11:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3067704</guid>
-      <description>Uber's in-app video recording pilot is currently live in 10 cities across India.</description>
-    </item>
-    <item>
-      <title>The best phone to buy right now</title>
-      <link>https://www.theverge.com/22163811/best-phone</link>
-      <pubDate>2025-11-13T14:07:22-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/22163811/best-phone</guid>
-      <description>Editor&#8217;s note:&#160;Black Friday doesn&#8217;t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we&#8217;ve rounded up the&#160;best early Black Friday deals&#160;you can already get. Haven&#8217;t you heard? Phones are boring now. And that&#8217;s just fine! Most people buying a new phone just want something familiar that works better [&#8230;]</description>
-    </item>
-    <item>
-      <title>Les astronomes pensaient conna&#238;tre les Pl&#233;iades : une &#233;tude r&#233;v&#232;le qu&#8217;elles sont 20 fois plus grandes qu&#8217;on ne l&#8217;imaginait !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-astronomes-pensaient-connaitre-pleiades-etude-revele-quelles-sont-20-fois-plus-grandes-quon-ne-imaginait-127467/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 13 Nov 2025 20:03:05 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-astronomes-pensaient-connaitre-pleiades-etude-revele-quelles-sont-20-fois-plus-grandes-quon-ne-imaginait-127467/#xtor%3DRSS-8</guid>
-      <description>Les Pl&#233;iades fascinent Homo sapiens depuis l'Antiquit&#233; sur la vo&#251;te c&#233;leste et encore plus depuis que les t&#233;lescopes en fournissent des photographies en couleur. Mais cet amas d'&#233;toiles n'a pas encore livr&#233; tous ses secrets, comme le prouve une d&#233;couverte r&#233;cente.</description>
-    </item>
-    <item>
-      <title>6 Stephen King Movies We&#8217;d Love to See Remade</title>
-      <link>https://gizmodo.com/6-stephen-king-movies-wed-love-to-see-remade-2000683773</link>
-      <pubDate>Thu, 13 Nov 2025 19:00:30 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000683773</guid>
-      <description>Edgar Wright's 'Running Man' is now in theaters, so are there other King movies that could use a remake?</description>
-    </item>
-    <item>
-      <title>The last-gen Apple Watch Series 10 has returned to its lowest price to date</title>
-      <link>https://www.theverge.com/gadgets/794705/apple-watch-series-10-se-2-amazon-deal-sale</link>
-      <pubDate>2025-11-13T14:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=794705</guid>
-      <description>The Apple Watch Series 11 is only a few months old, so discounts have been hard to come by thus far. However, if you don&#8217;t need the latest tech, the Apple Watch Series 10 delivers nearly the same experience, and the 42mm base model is currently down to an all-time low of $279 ($120 off) [&#8230;]</description>
-    </item>
-    <item>
-      <title>Where have all the TV cameras gone?</title>
-      <link>https://www.theverge.com/column/819878/smart-tv-cameras</link>
-      <pubDate>2025-11-13T14:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=819878</guid>
-      <description>This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Earlier this month, the UK's Comcast-owned pay TV operator Sky announced plans to pull the plug on one of its more ambitious hardware initiatives: Sky Live, a smart camera accessory [&#8230;]</description>
-    </item>
-    <item>
-      <title>Netflix is turning its biggest shows into daily puzzle games</title>
-      <link>https://www.theverge.com/news/820124/netflix-puzzled-daily-puzzle-game-app-ios-android-tudum-web</link>
-      <pubDate>2025-11-13T14:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=820124</guid>
-      <description>Netflix is getting into the daily puzzle games trend in a big new way. As part of a bunch of games announcements, the company revealed it would be releasing a new daily puzzle games app called Netflix Puzzled that will feature a bunch of puzzles themed around Netflix&#8217;s biggest franchises. &#8220;Get ready for a plethora [&#8230;]</description>
-    </item>
-    <item>
-      <title>Netflix&amp;#8217;s new era of TV games starts now</title>
-      <link>https://www.theverge.com/entertainment/820289/netflix-casual-party-game-multiplayer-tetris-pictionary</link>
-      <pubDate>2025-11-13T14:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=820289</guid>
-      <description>Netflix's next stab at gaming is here. Starting today you'll be able to play a number of multiplayer party games on your TV using your phone as a controller. To start, Netflix is offering Boggle Party, Party Crasher: Fool Your Friends, Lego Party, Pictionary: Game Night, and Tetris Time Warp. A social deduction game based [&#8230;]</description>
-    </item>
-    <item>
-      <title>From Barbie to Coach: Adobe is reinventing design with AI</title>
-      <link>https://www.fastcompany.com/91438448/adobe-ai-barbie-coach-design</link>
-      <pubDate>2025-11-13T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91438448/adobe-ai-barbie-coach-design</guid>
-      <description>Adobe&#8217;s agentic AI tools are turbocharging brand creativity, leading to fast, collaborative, and deeply human campaigns.
-For decades, Adobe&#8217;s software tools, including Photoshop, Illustrator, and InDesign, have been the universal language of visual communication, shaping how marketers, artists, and brands build the modern creative world. As artificial intelligence transforms the nature of work and how we define productivity, the 42-year-old creative tech company is reinventing itself once again, transforming the world&#8217;s creative supply chains through its AI ecosystem.&#160;...</description>
-    </item>
-    <item>
-      <title>Verizon to cut about 15,000 jobs as it restructures under new CEO</title>
-      <link>https://www.fastcompany.com/91441513/verizon-job-cuts-15000-restructuring</link>
-      <pubDate>2025-11-13T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91441513/verizon-job-cuts-15000-restructuring</guid>
-      <description>The company&#8217;s largest-ever layoffs, affecting about 15% of its workforce, could take place as soon as next week. 
-Verizon is planning to cut about 15,000 jobs in the telecommunications company&#8217;s largest-ever layoffs as part of a restructuring under its new CEO, a person familiar with the matter told Reuters on Thursday.</description>
-    </item>
-    <item>
-      <title>Newsletter platform beehiiv adds AI website building, creator tools in major expansion</title>
-      <link>https://techcrunch.com/2025/11/13/newsletter-platform-beehiiv-adds-ai-website-building-creator-tools-in-major-expansion/</link>
-      <pubDate>Thu, 13 Nov 2025 18:50:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3067525</guid>
-      <description>Newsletter platform beehiiv announced a massive expansion to its platform on Thursday, including offering real-time analytics and AI website creation.</description>
-    </item>
-    <item>
-      <title>People With Long Covid Have This Freaky-Looking Thing in Their Blood</title>
-      <link>https://gizmodo.com/people-with-long-covid-have-this-freaky-looking-thing-in-their-blood-2000685488</link>
-      <pubDate>Thu, 13 Nov 2025 18:45:32 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000685488</guid>
-      <description>The finding could help scientists better identify and potentially treat these complex cases.</description>
+      <title>Exclusive: Trump administration has yet to implement Elon Musk&#8217;s Grok on flagship AI app</title>
+      <link>https://www.fastcompany.com/91441037/grok-elon-musk-trump-xai</link>
+      <pubDate>2025-11-13T19:39:12</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91441037/grok-elon-musk-trump-xai</guid>
+      <description>The General Services Administration cited internal testing.
+While a deal to make Grok available across the federal government is now in place, the agency facilitating the partnership with Elon Musk&#8217;s controversial chatbot has yet to incorporate it into its own flagship AI platform due to ongoing internal safety testing.Both lawmakers and advocacy groups have criticized the Trump administration&#8217;s interest in Grok, over concerns about Musk&#8217;s deepening relationship with the US government and the chatbot&#8217;s antisemitic and otherwise offensive rants, from back in July. After the company said it fixe...</description>
     </item>
   </channel>
 </rss>
