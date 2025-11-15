@@ -3,41 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 15 Nov 2025 22:33:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 23:30:08 GMT</lastBuildDate>
+    <item>
+      <title>Apple Suffers 2 Defeats in One Day Amid Patent War with Masimo</title>
+      <link>https://gizmodo.com/apple-suffers-2-defeats-in-one-day-amid-patent-war-with-masimo-2000686437</link>
+      <pubDate>Sat, 15 Nov 2025 23:10:33 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000686437</guid>
+      <description>The Apple-Masimo saga is long and has many plot twists.</description>
+    </item>
+    <item>
+      <title>LTO tape storage is still going strong despite Elon Musk's efforts to wipe it out - and there's now even 40TB cartridges for the AI age</title>
+      <link>https://www.techradar.com/pro/lto-tape-storage-is-still-going-strong-despite-elon-musks-efforts-to-wipe-it-out-and-its-now-working-on-40tb-cartridges-for-the-ai-age</link>
+      <pubDate>Sat, 15 Nov 2025 22:33:00 +0000</pubDate>
+      <guid isPermaLink="false">WLMHmN3XNMNV6q4UhU5bCW</guid>
+      <description>LTO&#8217;s 40TB Ultrium tape revives magnetic storage with Aramid film and a roadmap targeting 913TB for AI-scale data.</description>
+    </item>
     <item>
       <title>JPMorgan doesn&#8217;t want to pay Frank founder Charlie Javice&#8217;s legal bills</title>
       <link>https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/</link>
       <pubDate>Sat, 15 Nov 2025 22:01:49 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3068193</guid>
       <description>A lawyer representing JPMorgan said Javice&#8217;s legal team billed for expenses including luxury hotel upgrades, 24 hours of work in a single day, and cellulite butter.</description>
-    </item>
-    <item>
-      <title>Here's another chance to get the Shokz OpenRun Pro for a record-low price</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/heres-another-chance-to-get-the-shokz-openrun-pro-for-a-record-low-price</link>
-      <pubDate>Sat, 15 Nov 2025 21:23:00 +0000</pubDate>
-      <guid isPermaLink="false">kRffXdq7fJKpJNBuxYV8Lh</guid>
-      <description>The Shokz OpenRun Pro are a great alternative to earbuds for exercise and running &#8211; and they're now back to a record-low price on Amazon for Black Friday.</description>
-    </item>
-    <item>
-      <title>Somehow, &#8216;Sharknado&#8217; Will Return With an Origin Movie</title>
-      <link>https://gizmodo.com/somehow-sharknado-will-return-with-an-origin-movie-2000686336</link>
-      <pubDate>Sat, 15 Nov 2025 21:15:33 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000686336</guid>
-      <description>If you've found yourself wondering if 'Sharknado' would come back, it is! And if you didn't, well, it still is, so...surprise?</description>
-    </item>
-    <item>
-      <title>Jury says Apple owes Masimo $634M for patent infringement</title>
-      <link>https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/</link>
-      <pubDate>Sat, 15 Nov 2025 21:07:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3068190</guid>
-      <description>A federal jury in California ruled Friday that Apple must pay medical device maker Masimo $634 million for infringing a patent on blood oxygen monitoring technology.</description>
-    </item>
-    <item>
-      <title>Asus ROG NUC has a major mini PC rival - this new challenger offers fantastic specs for work and gaming, and comes from a company with possibly the greatest name ever</title>
-      <link>https://www.techradar.com/pro/asus-rog-nuc-has-a-major-mini-pc-rival-this-new-challenger-offers-fantastic-specs-for-work-and-gaming-and-comes-from-a-company-with-possibly-the-greatest-name-ever</link>
-      <pubDate>Sat, 15 Nov 2025 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">GFQ9Zbu9pCWQbBx4C2k7fH</guid>
-      <description>Thunderobot Mix G2 compact gaming mini PC offers RTX 50 GPUs, Intel Ultra HX processors, and workstation-level performance.</description>
     </item>
   </channel>
 </rss>
