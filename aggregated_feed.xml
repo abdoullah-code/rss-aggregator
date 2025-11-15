@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 15 Nov 2025 03:30:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 04:41:40 GMT</lastBuildDate>
     <item>
       <title>NYT Pips hints, answers for November 15, 2025</title>
       <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-november-15</link>
@@ -38,13 +38,6 @@
       <pubDate>Sat, 15 Nov 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">06Y2FHiIOv7o2b9jb1X0j9v</guid>
       <description>Hints and answers to today's Hurdle all in one place.</description>
-    </item>
-    <item>
-      <title>Pluribus episode 3: Yes, you can actually stay at that ice hotel. Sort of.</title>
-      <link>https://mashable.com/article/pluribus-episode-3-ice-hotel</link>
-      <pubDate>Sat, 15 Nov 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03wNOTb37MaITa6pfnoHHmi</guid>
-      <description>In "Pluribus" episode 3, a flashback shows Carol and Helen staying in a hotel made of ice in Norway. But can you actually stay there IRL?</description>
     </item>
   </channel>
 </rss>
