@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 16 Nov 2025 22:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 23:30:30 GMT</lastBuildDate>
+    <item>
+      <title>Hackers spin a tedious yarn - fabric supplier behind H&amp;M, Adidas, and more hit by worrying cyber breach</title>
+      <link>https://www.techradar.com/pro/hackers-spin-a-tedious-yarn-fabric-supplier-behind-h-and-m-adidas-and-more-hit-by-worrying-cyber-breach</link>
+      <pubDate>Sun, 16 Nov 2025 23:28:00 +0000</pubDate>
+      <guid isPermaLink="false">XefkNEsVN9MonoiqkHNhx</guid>
+      <description>Fulgar suffers ransomware attack by RansomHouse, leaking financial and operational data to the dark web.</description>
+    </item>
     <item>
       <title>You need to listen to the searing noise pop album Forever in Your Heart</title>
       <link>https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart</link>
@@ -24,20 +31,6 @@
       <pubDate>Sun, 16 Nov 2025 21:34:00 +0000</pubDate>
       <guid isPermaLink="false">vCoeb9o9PnQPbPkYkMqouc</guid>
       <description>Adversarial testing of top AI models revealed vulnerabilities, showing some could be manipulated into unsafe responses despite safety measures.</description>
-    </item>
-    <item>
-      <title>Ruben Fleischer Still Loves What &#8216;Zombieland&#8217; Became</title>
-      <link>https://gizmodo.com/ruben-fleischer-still-loves-what-zombieland-became-2000686627</link>
-      <pubDate>Sun, 16 Nov 2025 21:15:17 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000686627</guid>
-      <description>Fleischer hasn't forgotten his feature film debut, and thinks a third 'Zombieland' could eventually be in the cards.</description>
-    </item>
-    <item>
-      <title>Walmart's first round of Black Friday deals ends tonight &#8211; 50% off AirPods, cheap TVs, air fryers, toys, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/walmarts-first-round-of-black-friday-deals-ends-tonight-50-percent-off-airpods-cheap-tvs-air-fryers-toys-and-more</link>
-      <pubDate>Sun, 16 Nov 2025 20:49:57 +0000</pubDate>
-      <guid isPermaLink="false">yZM9DZRwsdQGpFG4GxxjcM</guid>
-      <description>Walmart's first round of early Black Friday deals ends tonight, and I'm rounding up today's best deals you won't want to miss on AirPods, TVs, appliances, toys, and more.</description>
     </item>
   </channel>
 </rss>
