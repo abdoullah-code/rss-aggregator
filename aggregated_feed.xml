@@ -3,7 +3,50 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 17 Nov 2025 20:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 21:33:16 GMT</lastBuildDate>
+    <item>
+      <title>Google Calendar can finally block off time without faking a meeting</title>
+      <link>https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block</link>
+      <pubDate>2025-11-17T16:15:23-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=822492</guid>
+      <description>The latest feature update for Google Calendar allows you to block off time for tasks and mark yourself as busy, all in one place, expanding the existing Tasks feature in Calendar. It&#8217;s something Workspace users have been specifically requesting and effectively allows tasks to function like meetings, including options to set (and adjust) a specific [&#8230;]...</description>
+    </item>
+    <item>
+      <title>OWC lets you add workstation power to Apple's smallest desktops - Helios 5S expansion means PCI-E finally comes to Thunderbolt 5 Macs</title>
+      <link>https://www.techradar.com/pro/owc-lets-you-add-workstation-power-to-apples-smallest-desktops-helios-5s-expansion-means-pci-e-finally-comes-to-thunderbolt-5-macs</link>
+      <pubDate>Mon, 17 Nov 2025 21:13:00 +0000</pubDate>
+      <guid isPermaLink="false">wY4GKxBqQUidLKfioU3ekR</guid>
+      <description>Thunderbolt 5 drives Helios 5S performance, enabling Mac Studio and mini users to access full PCIe cards externally.</description>
+    </item>
+    <item>
+      <title>Timoth&#233;e Chalamet Breaks Down That Iconic &#8216;Dune Part Two&#8217; Speech</title>
+      <link>https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034</link>
+      <pubDate>Mon, 17 Nov 2025 21:00:22 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000687034</guid>
+      <description>Having just finished filming 'Dune: Part Three,' the star talked about his career with fan and friend, Adam Sandler.</description>
+    </item>
+    <item>
+      <title>NetChoice sues Virginia to block its one-hour social media limit for kids</title>
+      <link>https://www.theverge.com/news/822475/netchoice-virginia-lawsuit-social-media-time-limit-law</link>
+      <pubDate>2025-11-17T15:49:08-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=822475</guid>
+      <description>The tech industry trade group NetChoice is suing Virginia over a new law that will restrict minors from using social media for more than one hour per day. The lawsuit, filed on Monday, asks the court to block the law over claims it violates the First Amendment by putting &#8220;unlawful barriers on how and when [&#8230;]</description>
+    </item>
+    <item>
+      <title>What Sofia and Roman Coppola&#8217;s mother taught them about creativity</title>
+      <link>https://www.fastcompany.com/91443202/what-eleanor-coppola-taught-sofia-and-roman-about-creativity</link>
+      <pubDate>2025-11-17T20:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91443202/what-eleanor-coppola-taught-sofia-and-roman-about-creativity</guid>
+      <description>The filmmaker siblings discussed their mother&#8217;s posthumous memoir, &#8216;Two of Me,&#8217;  and how she influenced their artistic pursuits.&#160;
+Being the children of Francis Ford Coppola had a profound impact on the filmmaking sensibilities of Sofia and Roman Coppola, but their mother, Eleanor Coppola, may have played a larger role in nurturing their creative pursuits.&#160;...</description>
+    </item>
+    <item>
+      <title>Meta releases a new tool to protect reels creators from having their work stolen</title>
+      <link>https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/</link>
+      <pubDate>Mon, 17 Nov 2025 20:43:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3068507</guid>
+      <description>The new Facebook content protection tool extends to Instagram too.</description>
+    </item>
     <item>
       <title>Ford turns to Amazon to give used cars sales a boost</title>
       <link>https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/</link>
@@ -88,18 +131,18 @@ Vous projetiez d'upgrader votre PC cet hiver ? Mauvaise nouvelle : la RAM est de
       <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>NYT Strands hints and answers for Tuesday, November 18 (game #625)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-18-november-2025</link>
-      <pubDate>Mon, 17 Nov 2025 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">q77jhAnmmAkBK4bsXTsp2m</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
       <title>Quordle hints and answers for Tuesday, November 18 (game #1394)</title>
       <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-18-november-2025</link>
       <pubDate>Mon, 17 Nov 2025 20:05:00 +0000</pubDate>
       <guid isPermaLink="false">XBgTLshCMSkqmZDHDDu5cd</guid>
       <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Tuesday, November 18 (game #625)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-18-november-2025</link>
+      <pubDate>Mon, 17 Nov 2025 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">q77jhAnmmAkBK4bsXTsp2m</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
       <title>A Waymo Robotaxi May Have Recorded Footage of a Deadly Shooting in San Francisco</title>
@@ -123,6 +166,22 @@ Vous projetiez d'upgrader votre PC cet hiver ? Mauvaise nouvelle : la RAM est de
       <description>Traveling during the holidays can be chaotic and loud, but a quality pair of over-ear headphones can provide much-needed peace and quiet on your journey. Fortunately, you can currently snag Bose&#8217;s QuietComfort Headphones on sale at Amazon for an all-time low of $169.99 ($180 off) in select colors. That&#8217;s more than 50 percent off the [&#8230;]</description>
     </item>
     <item>
+      <title>GLP-1 price war heats up as Novo Nordisk offers $199 starter doses</title>
+      <link>https://www.fastcompany.com/91443391/glp-1-price-war-heats-up-as-novo-nordisk-offers-199-starter-doses</link>
+      <pubDate>2025-11-17T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91443391/glp-1-price-war-heats-up-as-novo-nordisk-offers-199-starter-doses</guid>
+      <description>The company is lowering costs on its blockbuster drugs to fend off competitors, compounding pharmacies, and mounting political pressure.
+Novo Nordisk, the Danish drug company that makes Ozempic and Wegovy, is now offering the drugs at lower prices for self-pay patients.&#160;</description>
+    </item>
+    <item>
+      <title>Why you can only find the new Starbucks holiday drink at Target</title>
+      <link>https://www.fastcompany.com/91443414/why-you-can-only-find-the-new-starbucks-holiday-drink-at-target</link>
+      <pubDate>2025-11-17T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91443414/why-you-can-only-find-the-new-starbucks-holiday-drink-at-target</guid>
+      <description>The exclusive Frozen Peppermint Hot Chocolate debut follows a record-breaking sales day after the coffee chain launched its 2025 seasonal menu.
+Looking for some holiday cheer? Customers who want to try Starbucks&#8217;s new holiday treat, the Frozen Peppermint Hot Chocolate drink, will have to go to Target, where it will be available exclusively throughout the holiday season at all in-store Starbucks caf&#233;s....</description>
+    </item>
+    <item>
       <title>Googles AI Overview thinks Call of Duty: Black Ops 7 is a fake game</title>
       <link>https://mashable.com/article/google-ai-overviews-think-black-ops-7-is-not-real</link>
       <pubDate>Mon, 17 Nov 2025 19:46:37 +0000</pubDate>
@@ -135,84 +194,6 @@ Vous projetiez d'upgrader votre PC cet hiver ? Mauvaise nouvelle : la RAM est de
       <pubDate>2025-11-17T14:34:23-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=822311</guid>
       <description>On December 11th, 2010, Jeffrey Epstein was fretting about what came up if you Googled him. By this time Epstein had already pleaded guilty to soliciting prostitution with a child and was a registered sex offender, and just a few days earlier he had been photographed in Central Park taking a stroll with Prince Andrew. [&#8230;]</description>
-    </item>
-    <item>
-      <title>Ramp hits $32B valuation, just three months after hitting $22.5B</title>
-      <link>https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/</link>
-      <pubDate>Mon, 17 Nov 2025 19:31:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3068470</guid>
-      <description>In 2025 alone, Ramp has&#160;leapt from&#160;being worth&#160;$13 billion&#160;to&#160;$32 billion with new rounds every few months.</description>
-    </item>
-    <item>
-      <title>&#8216;A parent&#8217;s worst nightmare&#8217;: Lawsuits pile up against ByHeart baby formula startup after wave of infant illnesses</title>
-      <link>https://www.fastcompany.com/91443256/byheart-class-action-lawsuits-baby-formula-recalls-infant-illnesses</link>
-      <pubDate>2025-11-17T19:31:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91443256/byheart-class-action-lawsuits-baby-formula-recalls-infant-illnesses</guid>
-      <description>No fewer than 5 legal complaints have been filed in federal courts since last week in the wake of multiple recalls and an ongoing investigation by the FDA.
-Last week, the baby nutrition company ByHeart recalled all of its infant formula over concerns that it may be contaminated with Clostridium botulinum, the bacterium that causes infant botulism. </description>
-    </item>
-    <item>
-      <title>Jeff Bezos&#8217;s New AI Hardware Startup Isn&#8217;t Even His Biggest Moonshot</title>
-      <link>https://gizmodo.com/jeff-bezoss-new-ai-hardware-startup-isnt-even-his-biggest-moonshot-2000686972</link>
-      <pubDate>Mon, 17 Nov 2025 19:30:25 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000686972</guid>
-      <description>He's not the only one looking up, either.</description>
-    </item>
-    <item>
-      <title>Microsoft unveils its first "AI superfactory" - here's what the future of computing will really look like</title>
-      <link>https://www.techradar.com/pro/microsoft-unveils-its-first-ai-superfactory-heres-what-the-future-of-computing-will-really-look-like</link>
-      <pubDate>Mon, 17 Nov 2025 19:28:00 +0000</pubDate>
-      <guid isPermaLink="false">DxrYqAH9kZd3mcCXZkci9h</guid>
-      <description>Microsoft connects large AI data centers into a single superfactory, using dense hardware, fast fiber, and advanced cooling to handle growing model demands.</description>
-    </item>
-    <item>
-      <title>The first Apple Silicon MacBook Air M1 is five, and it really did change everything</title>
-      <link>https://www.techradar.com/computing/macbooks/the-first-apple-silicon-macbook-air-m1-is-five-and-it-really-did-change-everything</link>
-      <pubDate>Mon, 17 Nov 2025 19:17:37 +0000</pubDate>
-      <guid isPermaLink="false">2TfCXguiB4ic8HGgskbrCo</guid>
-      <description>Five years ago, Apple unveiled Apple silicon, transforming all Macs and luring me away from Windows &#8211; possibly forever.</description>
-    </item>
-    <item>
-      <title>An AI May Be Listening to Your Next Doctor&#8217;s Appointment</title>
-      <link>https://gizmodo.com/an-ai-may-be-listening-to-your-next-doctors-appointment-2000687044</link>
-      <pubDate>Mon, 17 Nov 2025 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000687044</guid>
-      <description>Here's why you shouldn't panic just yet.</description>
-    </item>
-    <item>
-      <title>La carte Vitale va pouvoir s&#8217;installer dans votre smartphone d&#232;s demain</title>
-      <link>https://www.01net.com/actualites/la-carte-vitale-va-pouvoir-sinstaller-dans-votre-smartphone-des-demain.html</link>
-      <pubDate>Mon, 17 Nov 2025 19:03:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1308769</guid>
-      <description>28 millions de Fran&#231;ais vont pouvoir enregistrer leur carte Vitale dans leur smartphone et ce, d&#232;s demain. L'application Carte Vitale devient en effet disponible partout en France.</description>
-    </item>
-    <item>
-      <title>&#8216;The Mandalorian and Grogu&#8217; Is About Making Mando One of the Good Guys</title>
-      <link>https://gizmodo.com/mandalorian-and-grogu-din-hero-star-wars-lucasfilm-2000687045</link>
-      <pubDate>Mon, 17 Nov 2025 19:00:12 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000687045</guid>
-      <description>Din Djarin's arc from murky bounty hunter will climax with him as an explicit hero in the next 'Star Wars' movie.</description>
-    </item>
-    <item>
-      <title>How to watch Sundar Pichai: Running The Google Empire online &#8212; it's FREE</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-sundar-pichai-running-the-google-empire-online-its-free</link>
-      <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Ziw7bekBux2E8WDqvPDPWh</guid>
-      <description>Google&#8217;s CEO breaks his silence on leading tech&#8217;s biggest giant through its most turbulent era. &#8212; and you can watch Sundar Pichai: Running The Google Empire online and for free</description>
-    </item>
-    <item>
-      <title>I'm a headphones expert: these are the 7 Black Friday headphones and earbuds deals I want you to avoid &#8211; and why</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/im-a-headphones-expert-these-are-the-7-black-friday-headphones-and-earbuds-deals-i-want-you-to-avoid-and-why</link>
-      <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">AF6Mn2SSNoijAQZfNpRgd</guid>
-      <description>Most sites might simply pile the deals high and let you click through to buy &#8211; I won't do that, because I'm TechRadar's Audio Editor and I want you to buy better</description>
-    </item>
-    <item>
-      <title>Your online reservations are telling restaurants all about you</title>
-      <link>https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants</link>
-      <pubDate>2025-11-17T13:59:28-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=822110</guid>
-      <description>Are you a red wine drinker? A high spender? Or perhaps you're a slow eater, the sort who takes up a restaurant's table for longer than they'd like. You might not even know - but OpenTable does. Those are just a few of the notes that the reservation platform has started serving up to some [&#8230;]</description>
     </item>
   </channel>
 </rss>
