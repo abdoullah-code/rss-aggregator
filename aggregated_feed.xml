@@ -3,13 +3,90 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 19 Nov 2025 18:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 19:28:10 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI debuts GPT&#8209;5.1-Codex-Max coding model and it already completed a 24-hour task internally</title>
+      <link>https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24</link>
+      <pubDate>Wed, 19 Nov 2025 19:26:00 GMT</pubDate>
+      <guid isPermaLink="false">qmhAiqqbDOrYa2qQWGaMm</guid>
+      <description>OpenAI has introduced GPT&#8209;5.1-Codex-Max, a new frontier agentic coding model now available in its Codex developer environment. The release marks a significant step forward in AI-assisted software engineering, offering improved long-horizon reasoning, efficiency, and real-time interactive capabilities. GPT&#8209;5.1-Codex-Max will now replace GPT&#8209;5.1-Codex as the default model across Codex-integrated surfaces.The new model is designed to serve as a persistent, high-context software development agent, capable of managing complex refactors, debugging workflows, and project-scale tasks across multiple c...</description>
+    </item>
+    <item>
+      <title>Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue</title>
+      <link>https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/</link>
+      <pubDate>Wed, 19 Nov 2025 19:21:34 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3069284</guid>
+      <description>Suno has been the target of multiple AI training lawsuits but it has grown so rapidly, VCs were delighted to invest.</description>
+    </item>
+    <item>
+      <title>Hit the hyperdrive - Lego's UCS Millennium Falcon just crashed to a record-low price for Black Friday</title>
+      <link>https://www.techradar.com/seasonal-sales/hit-the-hyperdrive-legos-ucs-millennium-falcon-just-crashed-to-a-record-low-price-for-black-friday</link>
+      <pubDate>Wed, 19 Nov 2025 19:21:31 +0000</pubDate>
+      <guid isPermaLink="false">UDZ3Vezq7vFx7tbH3QiWCC</guid>
+      <description>Argos might just be offering the best deal we&#8217;ll see on one of the most epic, Lego Star Wars sets that have ever been released. Right now, the Lego Star Wars Millennium Falcon UCS set is just &#163;525 flat.</description>
+    </item>
+    <item>
+      <title>Rising data center electricity use risks blackouts during winter storms</title>
+      <link>https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/</link>
+      <pubDate>Wed, 19 Nov 2025 19:19:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3069314</guid>
+      <description>Data centers are driving record electricity demand, and the North American Electric Reliability Corporation is warning that a sever winter storm could push the grid over the edge.</description>
+    </item>
+    <item>
+      <title>I tested three 5-star OLED TVs from LG and Samsung, and I know which one I&#8217;d buy on Black Friday</title>
+      <link>https://www.techradar.com/televisions/i-tested-three-5-star-oled-tvs-from-lg-and-samsung-and-i-know-which-one-id-buy-on-black-friday</link>
+      <pubDate>Wed, 19 Nov 2025 19:16:55 +0000</pubDate>
+      <guid isPermaLink="false">syzhiV78EZnL4kQQhvgLPk</guid>
+      <description>With Black Friday discounts, is it worth opting for a mid-range OLED over a flagship OLED? I tested LG and Samsung models to find out.</description>
+    </item>
+    <item>
+      <title>Daisy Ridley&#8217;s New Zombie Movie Gives the Genre a Shot in the Head</title>
+      <link>https://gizmodo.com/daisy-ridley-new-zombie-movie-trailer-2000688290</link>
+      <pubDate>Wed, 19 Nov 2025 19:12:30 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000688290</guid>
+      <description>The 'Star Wars' actress stars in 'We Bury the Dead,' which is coming to theaters on January 2, 2026.</description>
+    </item>
+    <item>
+      <title>The Best Wireless Headphones of 2025</title>
+      <link>https://gizmodo.com/the-best-headphones-1851271449</link>
+      <pubDate>Wed, 19 Nov 2025 19:04:00 +0000</pubDate>
+      <guid isPermaLink="false"></guid>
+      <description>Our carefully curated top picks for your next pair of headphones.</description>
+    </item>
+    <item>
+      <title>The Biggest AI Companies Met to Find a Better Path for Chatbot Companions</title>
+      <link>https://www.wired.com/story/the-biggest-ai-companies-met-to-find-a-better-path-for-chatbot-companions/</link>
+      <pubDate>Wed, 19 Nov 2025 19:01:20 +0000</pubDate>
+      <guid isPermaLink="false">691b52aa2aa8bb68abfaaa0a</guid>
+      <description>In a closed-door workshop led by Anthropic and Stanford, leading AI startups and researchers discussed guidelines for chatbot companions, especially for younger users.</description>
+    </item>
+    <item>
+      <title>New Research Shatters Common Claim About Fluoride and Intelligence</title>
+      <link>https://gizmodo.com/new-research-shatters-common-claim-about-fluoride-and-intelligence-2000687573</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:27 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000687573</guid>
+      <description>Fluoride didn't seem to have any effect on children's test scores in high school, researchers found.</description>
+    </item>
+    <item>
+      <title>The US Needs an Open Source AI Intervention to Beat China</title>
+      <link>https://www.wired.com/story/us-needs-open-source-ai-model-intervention-china/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">691b5239bbe46dc3b2b2b775</guid>
+      <description>Depending on foreign-made open models is both a supply chain risk and an innovation problem, experts say.</description>
+    </item>
     <item>
       <title>Meta is spending millions on bug bounties and security tools to boost WhatsApp security</title>
       <link>https://www.techradar.com/pro/security/meta-is-spending-millions-on-bug-bounties-and-security-tools-to-boost-whatsapp-security</link>
       <pubDate>Wed, 19 Nov 2025 18:31:00 +0000</pubDate>
       <guid isPermaLink="false">cbAAG5NpdN6nXXoVLaYoa6</guid>
       <description>New tools, expanded reach and a boosted bug bounty program are coming for WhatsApp.</description>
+    </item>
+    <item>
+      <title>OpenAI board member Larry Summers resigns as Epstein links revealed</title>
+      <link>https://mashable.com/article/larry-summers-steps-down-openai-board-epstein-emails</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:32 +0000</pubDate>
+      <guid isPermaLink="false">00oQIEPBcKJTZJQtP18nNyl</guid>
+      <description>Larry Summers is stepping down from the OpenAI board after the latest Epstein email document release.</description>
     </item>
     <item>
       <title>L&#8217;Europe veut mettre fin au calvaire des banni&#232;res &#224; cookies</title>
@@ -33,6 +110,13 @@
       <description>While everyone&#8217;s chasing the next AI infrastructure play in San Francisco, some of the most defensible AI companies are being built by founders with deep expertise in legacy industries &#8212; and they&#8217;re not getting funded. January Ventures aims to fill that gap, writing pre-seed checks for underrepresented founders transforming healthcare, manufacturing, and supply chain with [&#8230;]...</description>
     </item>
     <item>
+      <title>The best early Black Friday drone deals include DJI, Holy Stone, and more top brands</title>
+      <link>https://mashable.com/article/best-early-black-friday-drone-deals-2025</link>
+      <pubDate>Wed, 19 Nov 2025 18:15:41 +0000</pubDate>
+      <guid isPermaLink="false">03FXkzthWR7F7wt4E2rayMh</guid>
+      <description>Early Black Friday drone deals from DJI, Holy Stone, and more take over 20% off</description>
+    </item>
+    <item>
       <title>Affordable Care Act &#8216;subsidy cliff&#8217;: Here&#8217;s who&#8217;s in danger of falling off with premium tax credits set to expire by 2026</title>
       <link>https://www.fastcompany.com/91444303/affordable-care-act-aca-subsidies-cliff-heres-whos-in-danger-of-falling-off-with-obamacare-premium-tax-credits-set-to-expire-by-2026</link>
       <pubDate>2025-11-19T18:15:00</pubDate>
@@ -48,12 +132,33 @@ Millions of Americans who buy health insurance through the Affordable Care Act (
       <description>Get the Nespresso Vertuo Pop coffee maker and a handy milk frother for a low price with this limited-time bundle deal</description>
     </item>
     <item>
+      <title>Gemini 3 launches: Heres every new feature and how to try them</title>
+      <link>https://mashable.com/article/google-gemini-3-launch-everything-new-how-to-try</link>
+      <pubDate>Wed, 19 Nov 2025 18:07:50 +0000</pubDate>
+      <guid isPermaLink="false">07JzFD9Oy1OiVk0bFKGBTO6</guid>
+      <description>Google has officially launched Gemini 3, its newest and most advanced AI model &#8212; and the company is calling it its "most intelligent" system yet.</description>
+    </item>
+    <item>
       <title>Ford recalls more than 200,000 Bronco and Bronco Sports over instrument panel</title>
       <link>https://www.fastcompany.com/91445239/ford-recall-bronco-sports-instrument-panel</link>
       <pubDate>2025-11-19T18:07:39</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91445239/ford-recall-bronco-sports-instrument-panel</guid>
       <description>Federal auto safety regulators said that the instrument panel may not display at startup, leaving the driver without critical safety information.
 Ford Motor Co. is recalling more than 200,000 Bronco and Bronco Sport vehicles because an instrument panel can fail, increasing the risk of a crash.</description>
+    </item>
+    <item>
+      <title>Microsoft warns Windows 11 AI could put malware on your PC</title>
+      <link>https://mashable.com/article/microsoft-windows-11-agentic-ai-malware-security</link>
+      <pubDate>Wed, 19 Nov 2025 18:05:01 +0000</pubDate>
+      <guid isPermaLink="false">00rJ28Cqyp6PBJR2S5Y9EZg</guid>
+      <description>Windows 11 is leaning into agentic AI, but even Microsoft admits that there are risks.</description>
+    </item>
+    <item>
+      <title>Early Dyson Black Friday deals: Our favorite vacuum, air purifier, and hair tool are already on sale</title>
+      <link>https://mashable.com/article/best-early-black-friday-dyson-deals-2025</link>
+      <pubDate>Wed, 19 Nov 2025 18:04:06 +0000</pubDate>
+      <guid isPermaLink="false">06wXWVO8ddAlHbAmDexljya</guid>
+      <description>Black Friday deals on Dyson products are heating up. Get the V12 Detect Slim for $399.99 or snag a HushJet or Supersonic for $299.99.</description>
     </item>
     <item>
       <title>&#8216;Toy Story 5&#8217; Wants to Be About More Than Just Tech Anxiety</title>
@@ -77,11 +182,18 @@ Ford Motor Co. is recalling more than 200,000 Bronco and Bronco Sport vehicles b
       <description>The key to getting better results in AI chatbots is to perfect the way you write your prompts.</description>
     </item>
     <item>
-      <title>The Google Search of AI agents? Fetch launches ASI:One and Business tier for new era of non-human web</title>
-      <link>https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for</link>
-      <pubDate>Wed, 19 Nov 2025 17:57:00 GMT</pubDate>
-      <guid isPermaLink="false">4CCSrSZ1DiHaD3JTvbycSu</guid>
-      <description>Fetch AI, a startup founded and led by former DeepMind founding investor, Humayun Sheikh, today announced the release of three interconnected products designed to provide the trust, coordination, and interoperability needed for large-scale AI agent ecosystems. The launch includes ASI:One, a personal-AI orchestration platform; Fetch Business, a verification and discovery portal for brand agents; and Agentverse, an open directory hosting more than two million agents. Together, the system positions Fetch as an infrastructure provider for what it calls the &#8220;Agentic Web&#8221;&#8212;a layer where consumer AIs ...</description>
+      <title>OpenAI announces new ChatGPT for Teachers</title>
+      <link>https://mashable.com/article/open-ai-chatgpt-for-k-12-teachers</link>
+      <pubDate>Wed, 19 Nov 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01XmcHFLRKD7WvCodp1OOyU</guid>
+      <description>OpenAI launches ChatGPT for Teachers with educator-specific features and data security.</description>
+    </item>
+    <item>
+      <title>Elon Musks Tesla Diner chef just quit to open a deli</title>
+      <link>https://mashable.com/article/elon-musk-tesla-diner-chef-quits-deli</link>
+      <pubDate>Wed, 19 Nov 2025 17:57:58 +0000</pubDate>
+      <guid isPermaLink="false">00g47o9r7W6Q4eZfg70FuOm</guid>
+      <description>Musk's LA-based, spaceship-shaped Tesla diner has lost its chef, who said he's launching a Jewish deli.</description>
     </item>
     <item>
       <title>This Amazon Fire TV is one of the best budget models I've tested, and it's just hit a record-low price for Black Friday</title>
@@ -98,6 +210,13 @@ Ford Motor Co. is recalling more than 200,000 Bronco and Bronco Sport vehicles b
       <description>Bluesky is making moderation changes, including the addition of new reporting categories, strikes, and more clarity when communicating with users about violations.</description>
     </item>
     <item>
+      <title>Early Black Friday kitchen deals are hot &#8212; shop Ninja, KitchenAid, and Our Place now</title>
+      <link>https://mashable.com/article/best-early-black-friday-kitchen-deals-2025</link>
+      <pubDate>Wed, 19 Nov 2025 17:52:35 +0000</pubDate>
+      <guid isPermaLink="false">06zVq33LpOlJzlDPhE2ZSvv</guid>
+      <description>Ahead of Black Friday, the deals on kitchen appliances and tools are hot. Shop and save on Ninja, Keurig, Our Place, and KitchenAid now.</description>
+    </item>
+    <item>
       <title>Wi-Fi : l&#8217;iPhone 17 progresse fort avec la puce N1 mais un smartphone Android reste devant</title>
       <link>https://www.frandroid.com/os/ios/2877175_wi-fi-liphone-17-progresse-fort-avec-la-puce-n1-mais-un-smartphone-reste-devant</link>
       <pubDate>Wed, 19 Nov 2025 17:45:22 +0000</pubDate>
@@ -105,6 +224,13 @@ Ford Motor Co. is recalling more than 200,000 Bronco and Bronco Sport vehicles b
       <description>
 On l'attendait au tournant, cette fameuse puce maison. Apr&#232;s des ann&#233;es de rumeurs et de retards, Apple a enfin coup&#233; le cordon avec Broadcom pour &#233;quiper ses iPhone 17 et Air. R&#233;sultat ? Vous allez voir.
 </description>
+    </item>
+    <item>
+      <title>60+ early Black Friday deals: Score big savings on MacBooks, Nintendo Switch 2, Keurig, and Garmin</title>
+      <link>https://mashable.com/article/best-early-black-friday-deals-2025</link>
+      <pubDate>Wed, 19 Nov 2025 17:44:01 +0000</pubDate>
+      <guid isPermaLink="false">02qcRU5kEQhykGdtbnTdwiW</guid>
+      <description>We found the latest early Black Friday deals on Apple products, robot vacuums, headphones, power stations, Legos, and tons more goodies.</description>
     </item>
     <item>
       <title>Finally, Vision Pro-Level VR Headsets May Get Cheaper</title>
@@ -128,6 +254,13 @@ On l'attendait au tournant, cette fameuse puce maison. Apr&#232;s des ann&#233;e
       <description>
 C&#8217;est officiel, le service de streaming Paramount+ est d&#233;sormais int&#233;gr&#233; nativement dans l'&#233;cosyst&#232;me Freebox. Accessible depuis hier, cette nouveaut&#233; s'accompagne d'un mois d'essai gratuit pour les abonn&#233;s.
 </description>
+    </item>
+    <item>
+      <title>We&#8217;ve tested them all: The best Black Friday Ninja deals on air fryers, blenders, and more</title>
+      <link>https://mashable.com/article/best-early-black-friday-ninja-deals-2025</link>
+      <pubDate>Wed, 19 Nov 2025 17:35:00 +0000</pubDate>
+      <guid isPermaLink="false">02S83cz1tN98tRKFsOWCVEA</guid>
+      <description>Our team tests Ninja gadgets year-round. Here are the best early Black Friday 2025 deals at Amazon, Walmart, and Target.</description>
     </item>
     <item>
       <title>Amazon brade les &#233;crans PC pour le Black Friday, comme avec ce Samsung Odyssey G8 Oled de 32&#8243; OLED et 240 Hz</title>
@@ -165,173 +298,6 @@ Les &#233;crans gaming ont tourn&#233; la page de la simple dalle LCD. Aujourd&#
       <pubDate>Wed, 19 Nov 2025 12:29:05 -0500</pubDate>
       <guid isPermaLink="false">17ac2ddc2b303d2cad9800a1bf4e056b</guid>
       <description>Un des premiers robots russes dot&#233;s d&#8217;une intelligence artificielle (IA) int&#233;gr&#233;e, d&#233;velopp&#233; par la Sberbank, a dans&#233; pour accueillir le pr&#233;sident russe Vladimir Poutine lors de la 10e&#160;conf&#233;rence internationale AI Journey&#160;2025 &#224; Moscou, en Russie, mercredi.</description>
-    </item>
-    <item>
-      <title>US, UK, and Australia sanction Russian &#8216;bulletproof&#8217; web host used in ransomware attacks</title>
-      <link>https://techcrunch.com/2025/11/19/us-uk-and-australia-sanction-russian-bulletproof-web-host-used-in-ransomware-attacks/</link>
-      <pubDate>Wed, 19 Nov 2025 17:24:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3069222</guid>
-      <description>The newly imposed sanctions target Russian-based web host Media Land, which officials say are linked to LockBit and BlackSuit ransomware attacks.</description>
-    </item>
-    <item>
-      <title>Online scams skyrocket before Black Friday &#8211; NordVPN warns what shoppers should watch out for</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/online-scams-skyrocket-before-black-friday-nordvpn-warns-what-shoppers-should-watch-out-for</link>
-      <pubDate>Wed, 19 Nov 2025 17:20:41 +0000</pubDate>
-      <guid isPermaLink="false">uYUgJpvGemTMPiTh3D3xv</guid>
-      <description>Ready for Black Friday? NordVPN warns against an increase in fake shops and online scams. Here's all you need to know.</description>
-    </item>
-    <item>
-      <title>Buying an iPad? These are the early Black Friday deals I recommend at Amazon</title>
-      <link>https://www.techradar.com/tablets/ipad/buying-an-ipad-these-are-the-early-black-friday-deals-i-recommend-at-amazon</link>
-      <pubDate>Wed, 19 Nov 2025 17:15:08 +0000</pubDate>
-      <guid isPermaLink="false">NatBZ55rwhwwTDWY8m9Tm3</guid>
-      <description>If you're in the market for a cut-price iPad this Black Friday, some early Black Friday iPad deals are already live.</description>
-    </item>
-    <item>
-      <title>The 12 best Bluetooth speakers of 2025</title>
-      <link>https://mashable.com/roundup/best-bluetooth-speakers-2025</link>
-      <pubDate>Wed, 19 Nov 2025 17:13:09 +0000</pubDate>
-      <guid isPermaLink="false">07kMjP3Vi9Sl4Mq0eUaJ6G1</guid>
-      <description>Check out our favorite Bluetooth speakers, with portable options like the JBL Go 4, Marshall Emberton III, and Ultimate Ears Wonderboom 4.</description>
-    </item>
-    <item>
-      <title>20 of the best early Black Friday deals under $50</title>
-      <link>https://mashable.com/article/best-early-black-friday-under-50-dollar-deals-2025</link>
-      <pubDate>Wed, 19 Nov 2025 17:13:05 +0000</pubDate>
-      <guid isPermaLink="false">006XSWL3JjqsbAhzMHtXrNp</guid>
-      <description>Black Friday deals under $50 include Lego sets, JBL speakers, Anker Soundcore earbuds, Amazon Echo devices, Blink home security, and more.</description>
-    </item>
-    <item>
-      <title>The Sony Inzone Buds are must-buy gaming earbuds now that they're 27% off</title>
-      <link>https://www.techradar.com/gaming/the-sony-inzone-buds-are-must-buy-gaming-earbuds-now-that-theyre-27-percent-off</link>
-      <pubDate>Wed, 19 Nov 2025 17:07:53 +0000</pubDate>
-      <guid isPermaLink="false">sstYxpGRxssdHrss3WFnWN</guid>
-      <description>The Sony Inzone Buds are among the best gaming earbuds you can buy, and you should while they're &#163;50 off.</description>
-    </item>
-    <item>
-      <title>60+ early Black Friday deals: Score big savings on MacBooks, Nintendo Switch 2, Keurig, and Garmin</title>
-      <link>https://mashable.com/article/best-early-black-friday-deals-2025</link>
-      <pubDate>Wed, 19 Nov 2025 17:06:26 +0000</pubDate>
-      <guid isPermaLink="false">02qcRU5kEQhykGdtbnTdwiW</guid>
-      <description>We found the latest early Black Friday deals on Apple products, robot vacuums, headphones, power stations, Legos, and tons more goodies.</description>
-    </item>
-    <item>
-      <title>Grok dans Siri ? La proposition d&#8217;Elon Musk alors que l&#8217;iPhone s&#8217;ouvre &#224; la concurrence</title>
-      <link>https://www.frandroid.com/os/2877085_grok-dans-siri-la-proposition-delon-musk-alors-que-liphone-souvre-a-la-concurrence</link>
-      <pubDate>Wed, 19 Nov 2025 17:05:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/os/2877085_grok-dans-siri-la-proposition-delon-musk-alors-que-liphone-souvre-a-la-concurrence</guid>
-      <description>
-Il faut suivre, avec Elon Musk. En ao&#251;t, il tra&#238;nait Apple en justice pour avoir int&#233;gr&#233; ChatGPT. Aujourd'hui ? Il propose gentiment d'int&#233;grer sa propre IA, Grok 4.1, directement dans Siri.
-</description>
-    </item>
-    <item>
-      <title>L&#8217;Australie teste l&#8217;interdiction totale des r&#233;seaux sociaux aux moins de 16 ans</title>
-      <link>https://www.01net.com/actualites/laustralie-teste-linterdiction-totale-des-reseaux-sociaux-aux-moins-de-16-ans.html</link>
-      <pubDate>Wed, 19 Nov 2025 17:03:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1309398</guid>
-      <description>L'Australie a pris le taureau par les cornes : &#224; compter du 10 d&#233;cembre, les mineurs de moins de 16 ans ne pourront tout simplement plus utiliser les r&#233;seaux sociaux comme TikTok, Facebook ou Instagram. Meta, vis&#233; au premier chef, pr&#233;vient que la mesure ne sera pas facile &#224; mettre en &#339;uvre. Pendant ce temps, d'autres pays regardent avec attention ce qui ressemble &#224; un laboratoire....</description>
-    </item>
-    <item>
-      <title>Asus routers across the globe hit by suspected Chinese cyberattack - here's what we know</title>
-      <link>https://www.techradar.com/pro/security/asus-routers-across-the-globe-hit-by-suspected-chinese-cyberattack-heres-what-we-know</link>
-      <pubDate>Wed, 19 Nov 2025 17:02:00 +0000</pubDate>
-      <guid isPermaLink="false">bLyEXnw4haNMUgYYDuVsY8</guid>
-      <description>State-sponsored actors are creating a large operational relay network and are using Taiwanese routers to do so.</description>
-    </item>
-    <item>
-      <title>Amazon Is Bringing &#8216;Stargate&#8217; Back to TV</title>
-      <link>https://gizmodo.com/new-stargate-tv-show-amazon-2000688294</link>
-      <pubDate>Wed, 19 Nov 2025 17:00:57 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000688294</guid>
-      <description>'Stargate' veteran Martin Gero will create the new show, which is based on the hit 1994 film and multiple TV spinoffs.</description>
-    </item>
-    <item>
-      <title>This Home Robot Clears Tables and Loads the Dishwasher All by Itself</title>
-      <link>https://www.wired.com/story/memo-sunday-robotics-home-robot/</link>
-      <pubDate>Wed, 19 Nov 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">691b5944c8deafdbb03653fd</guid>
-      <description>Sunday Robotics has a new way to train robots to do common household tasks. The startup plans to put its fully autonomous robots in homes next year.</description>
-    </item>
-    <item>
-      <title>YC-backed Poly relaunches as a cloud-hosted file storage with AI search</title>
-      <link>https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/</link>
-      <pubDate>Wed, 19 Nov 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3068684</guid>
-      <description>Poly's cloud based file storage system with AI-powered search lets you search through text, images, audio, and video.</description>
-    </item>
-    <item>
-      <title>The WNBA labor fight is the latest in a long history of women-led worker movements</title>
-      <link>https://www.fastcompany.com/91441347/the-wnba-labor-fight-is-the-latest-in-a-the-long-history-of-women-led-worker-movements</link>
-      <pubDate>2025-11-19T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91441347/the-wnba-labor-fight-is-the-latest-in-a-the-long-history-of-women-led-worker-movements</guid>
-      <description>How more than a century of women-led labor activism is influencing the league&#8217;s current collective bargaining negotiations.
-When Minnesota Lynx forward Napheesa Collier calmly sat down and told a group of assembled local media the WNBA is helmed by &#8220;the worst leadership in the world&#8221; on September 30, she likely did so with a full understanding of the potential impact of her words.&#160;...</description>
-    </item>
-    <item>
-      <title>Adobe to buy digital marketing platform Semrush for $1.9 billion</title>
-      <link>https://www.fastcompany.com/91445014/adobe-acquires-semrush-digital-marketing</link>
-      <pubDate>2025-11-19T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91445014/adobe-acquires-semrush-digital-marketing</guid>
-      <description>Semrush designs and develops AI software that helps companies with search engine optimization, social media, and digital advertising.
-Adobe will acquire software platform Semrush for $1.9 billion, the companies said on Wednesday, as the Photoshop maker looks to strengthen its marketing tools and attract brands with generative artificial intelligence products....</description>
-    </item>
-    <item>
-      <title>Verizon's Black Friday iPhone 17 deal gets you a free phone, iPad, and Apple Watch - but read the fine print carefully</title>
-      <link>https://www.techradar.com/phones/iphone/verizons-black-friday-iphone-17-deal-gets-you-a-free-phone-ipad-and-apple-watch-but-read-the-fine-print-carefully</link>
-      <pubDate>Wed, 19 Nov 2025 16:59:52 +0000</pubDate>
-      <guid isPermaLink="false">7rbdM6sMBcmpzkYk8hg9LD</guid>
-      <description>Verizon is throwing in a free iPad and Apple Watch with its Black Friday iPhone 17 deal today - but note, you'll need a</description>
-    </item>
-    <item>
-      <title>I bought this gaming tablet at full price and it was brilliant value &#8211; now it's &#163;120 off for Black Friday</title>
-      <link>https://www.techradar.com/gaming/i-bought-this-gaming-tablet-at-full-price-and-it-was-brilliant-value-now-its-gbp120-off-for-black-friday</link>
-      <pubDate>Wed, 19 Nov 2025 16:56:47 +0000</pubDate>
-      <guid isPermaLink="false">WCFKtXYbQgWFsLfTjbFPNB</guid>
-      <description>The Lenovo Legion Tab (Gen 3) is a fantastic gaming tablet, and now discount for Black Friday.</description>
-    </item>
-    <item>
-      <title>Renault prouve que les camions &#233;lectriques fonctionnent sur longues distances avec ce nouveau mod&#232;le</title>
-      <link>https://www.frandroid.com/marques/renault/2876343_renault-prouve-que-les-camions-electriques-fonctionnent-sur-longues-distances-avec-ce-nouveau-modele</link>
-      <pubDate>Wed, 19 Nov 2025 16:56:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/renault/2876343_renault-prouve-que-les-camions-electriques-fonctionnent-sur-longues-distances-avec-ce-nouveau-modele</guid>
-      <description>
-Renault vient de d&#233;voiler son nouveau camion &#233;lectrique : un semi-remorque avec 600 km d'autonomie, qui se recharge rapidement. De quoi remplacer les camions diesel ?
-</description>
-    </item>
-    <item>
-      <title>US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand</title>
-      <link>https://gizmodo.com/us-approves-1b-loan-to-restart-three-mile-island-as-microsoft-data-centers-drive-demand-2000688138</link>
-      <pubDate>Wed, 19 Nov 2025 16:55:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000688138</guid>
-      <description>The tech giant aims to offset its carbon emissions by bringing back a nuclear reactor in Pennsylvania.</description>
-    </item>
-    <item>
-      <title>How to watch Big Brother Australia 2025 online from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-big-brother-australia-2025-online-from-anywhere</link>
-      <pubDate>Wed, 19 Nov 2025 16:54:54 +0000</pubDate>
-      <guid isPermaLink="false">cVf2MnqfmNWw8GYgJXbH4P</guid>
-      <description>How to watch Big Brother Australia 2025 online - from anywhere</description>
-    </item>
-    <item>
-      <title>Chat Control "brings high risks to society" say privacy experts</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/chat-control-brings-high-risks-to-society-say-privacy-experts</link>
-      <pubDate>Wed, 19 Nov 2025 16:54:25 +0000</pubDate>
-      <guid isPermaLink="false">Zh6eRLvas7nomR5uw5Lw7D</guid>
-      <description>While welcoming voluntary CSAM scanning, scientists warn that some aspects of the revised bill "still bring high risks to society without clear benefits for children."</description>
-    </item>
-    <item>
-      <title>The best early Black Friday speaker deals from our favorite brands</title>
-      <link>https://mashable.com/article/best-early-black-friday-speaker-deals-2025-bose-jbl-sony-marshall-bluetooth</link>
-      <pubDate>Wed, 19 Nov 2025 16:52:47 +0000</pubDate>
-      <guid isPermaLink="false">05mFpuYvRzvJergZnkvlusU</guid>
-      <description>We've curated a list of all the best early Black Friday speaker deals on brands like Bose, Sony, Echo, and JBL.</description>
-    </item>
-    <item>
-      <title>Ahead of the official Black Friday PS5 deals starting on Friday, Walmart has a discount on a PS5 console - but you shouldn't buy it</title>
-      <link>https://www.techradar.com/gaming/ahead-of-the-official-black-friday-ps5-deals-starting-on-friday-walmart-has-a-discount-on-a-ps5-console-but-you-shouldnt-buy-it</link>
-      <pubDate>Wed, 19 Nov 2025 16:51:58 +0000</pubDate>
-      <guid isPermaLink="false">SasfwgrUdoJuG6eYaLMRED</guid>
-      <description>This early Black Friday PS5 deal at Walmart is absolutely not a Black Friday PS5 deal worth buying</description>
     </item>
   </channel>
 </rss>
