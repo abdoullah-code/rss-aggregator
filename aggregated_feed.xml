@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 21 Nov 2025 03:33:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 04:44:11 GMT</lastBuildDate>
+    <item>
+      <title>I&#8217;m a TV reviewer, and these are the 4 Black Friday OLED TV deals I recommend</title>
+      <link>https://www.techradar.com/televisions/im-a-tv-reviewer-and-these-are-the-4-black-friday-oled-tv-deals-i-recommend</link>
+      <pubDate>Fri, 21 Nov 2025 03:36:11 +0000</pubDate>
+      <guid isPermaLink="false">iiBc8UFdaJDWJAd3jsJZwQ</guid>
+      <description>Black Friday OLED TV deals are now live, and there are incredible discounts to be had on 2025's best OLED TVs.</description>
+    </item>
     <item>
       <title>Pluribus episode 4 introduces us to a mysterious new character &#8211; and I think they're key to solving the Apple TV show's big riddle</title>
       <link>https://www.techradar.com/streaming/apple-tv-plus/pluribus-episode-4-introduces-us-to-a-mysterious-new-character-and-i-think-theyre-key-to-solving-the-apple-tv-shows-big-riddle</link>
@@ -12,11 +19,39 @@
       <description>The fourth episode of Pluribus includes a big character reveal &#8211; here's why they might be important to solving The Joining.</description>
     </item>
     <item>
-      <title>What is the release date for Landman season 2 episode 2 on Paramount+?</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/what-is-the-release-date-for-landman-season-2-episode-2-on-paramount</link>
-      <pubDate>Fri, 21 Nov 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">WvH2YUFvzYZdDCVhJY48HG</guid>
-      <description>Landman season 2 episode 2 reveals more about Tommy's relationship with his parents, but when can we watch it?</description>
+      <title>NYT Pips hints, answers for November 21, 2025</title>
+      <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-november-21</link>
+      <pubDate>Fri, 21 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03VIOOUBbexjcinEaLbNQWv</guid>
+      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints today: Clues, answers for November 21, 2025</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-november-21-2025</link>
+      <pubDate>Fri, 21 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00G4tdENp3ijnwMHuE01wZ3</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for November 21, 2025</title>
+      <link>https://mashable.com/article/strands-nyt-hint-november-21-2025</link>
+      <pubDate>Fri, 21 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">056ZQ5IjROmFBqsvmRrH9cn</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for November 21, 2025</title>
+      <link>https://mashable.com/article/wordle-today-answer-november-21-2025</link>
+      <pubDate>Fri, 21 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">009fXqIgYRJcYsXtW9ijTtW</guid>
+      <description>Here's the answer for "Wordle" #1615 on November 21 as well as a few hints, tips, and clues to help you solve it yourself.</description>
+    </item>
+    <item>
+      <title>Hurdle hints and answers for November 21, 2025</title>
+      <link>https://mashable.com/article/hurdle-hints-answers-november-21-2025</link>
+      <pubDate>Fri, 21 Nov 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01etUZCTVp0R6pxms9432qK</guid>
+      <description>Hints and answers to today's Hurdle all in one place.</description>
     </item>
   </channel>
 </rss>
