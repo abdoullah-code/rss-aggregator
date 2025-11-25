@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 25 Nov 2025 03:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 04:48:38 GMT</lastBuildDate>
+    <item>
+      <title>India&#8217;s gig workers win legal status, but access to social security remains elusive</title>
+      <link>https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/</link>
+      <pubDate>Tue, 25 Nov 2025 04:42:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3070253</guid>
+      <description>India is restructuring its gig economy with a new labor law, but much more is needed before gig workers see real benefits.</description>
+    </item>
+    <item>
+      <title>The &#8216;Genesis Mission&#8217;: Here&#8217;s What&#8217;s in Trump&#8217;s Most Grandiose AI Executive Order Yet</title>
+      <link>https://gizmodo.com/trump-genesis-mission-2000691153</link>
+      <pubDate>Tue, 25 Nov 2025 04:14:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000691153</guid>
+      <description>There's a real plan here, of sorts.</description>
+    </item>
     <item>
       <title>NYT Pips hints, answers for November 25, 2025</title>
       <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-november-25</link>
@@ -38,13 +52,6 @@
       <pubDate>Tue, 25 Nov 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">07KF2oxy2uxgwCVD0cxYxfx</guid>
       <description>Here's the answer for "Wordle" #1619 on November 25 as well as a few hints, tips, and clues to help you solve it yourself.</description>
-    </item>
-    <item>
-      <title>Tucker Carlson is Launching His Own Precious Metals Company</title>
-      <link>https://gizmodo.com/tucker-carlson-is-launching-his-own-precious-metals-company-2000690962</link>
-      <pubDate>Tue, 25 Nov 2025 02:00:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000690962</guid>
-      <description>Carlson is expanding his empire.</description>
     </item>
   </channel>
 </rss>
