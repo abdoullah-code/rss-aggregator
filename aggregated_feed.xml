@@ -3,13 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 03 Dec 2025 03:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 04:50:47 GMT</lastBuildDate>
     <item>
-      <title>AWS claims 90% vector cost savings with S3 Vectors GA, calls it 'complementary' - analysts split on what it means for vector databases</title>
-      <link>https://venturebeat.com/data-infrastructure/aws-claims-90-vector-cost-savings-with-s3-vectors-ga-calls-it-complementary</link>
-      <pubDate>Wed, 03 Dec 2025 02:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7zpQXxwbV5wzTrR35AHtxM</guid>
-      <description>Vector databases emerged as a must-have technology foundation at the beginning of the modern gen AI era.&#160;What has changed over the last year, however, is that vectors, the numerical representations of data used by LLMs, have increasingly become just another data type in all manner of different databases. Now, Amazon Web Services (AWS) is taking the next leap forward in the ubiquity of vectors with the general availability of Amazon S3 Vectors.&#160;Amazon S3 is the AWS cloud object storage service widely used by organizations of all sizes to store any and all types of data. More often than not, S3 ...</description>
+      <title>Interdiction des r&#233;seaux sociaux en Australie | Selon YouTube, les enfants seront &#171;&#160;moins en s&#233;curit&#233;&#160;&#187;</title>
+      <link>https://www.lapresse.ca/affaires/techno/2025-12-02/interdiction-des-reseaux-sociaux-en-australie/selon-youtube-les-enfants-seront-moins-en-securite.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Tue, 02 Dec 2025 23:07:01 -0500</pubDate>
+      <guid isPermaLink="false">0bfaf3160767352e81b2ae31598f5dde</guid>
+      <description>Le g&#233;ant du streaming vid&#233;o YouTube a critiqu&#233; mercredi l&#8217;interdiction imminente des r&#233;seaux sociaux pour les moins de 16&#160;ans en Australie, qualifiant ces lois, une premi&#232;re mondiale, de &#171;&#160;pr&#233;cipit&#233;es&#160;&#187; et dangereuses pour les enfants.</description>
+    </item>
+    <item>
+      <title>How much will the Galaxy Z TriFold cost? I&#8217;m a Samsung expert and here&#8217;s my prediction</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/how-much-will-the-galaxy-z-trifold-cost-im-a-samsung-expert-and-heres-my-prediction</link>
+      <pubDate>Wed, 03 Dec 2025 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ri5UPGyXcUyadipffXaU2F</guid>
+      <description>The Galaxy Z TriFold will cost more than any other phone in most markets, but probably not as much as the Huawei Mate XT. My prediction for the launch price is within.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints today: Clues, answers for December 3, 2025</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-december-3-2025</link>
+      <pubDate>Wed, 03 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07GpaEDbpfl9QOSFDjLtI4H</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for December 3, 2025</title>
+      <link>https://mashable.com/article/strands-nyt-hint-december-3-2025</link>
+      <pubDate>Wed, 03 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05lNaaFk3W10F8uhGLIx8jT</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for December 3, 2025</title>
+      <link>https://mashable.com/article/wordle-today-answer-december-3-2025</link>
+      <pubDate>Wed, 03 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01HcUBJFzPrdt9SAlXupu0y</guid>
+      <description>Here's the answer for "Wordle" #1627 on December 3 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
   </channel>
 </rss>
