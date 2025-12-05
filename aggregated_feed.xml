@@ -3,7 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 05 Dec 2025 18:33:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 19:20:24 GMT</lastBuildDate>
+    <item>
+      <title>Softbank CEO Wants to Build &#8216;Trump Industrial Parks&#8217; on Federal Land to Boost AI: Report</title>
+      <link>https://gizmodo.com/softbank-ceo-wants-to-build-trump-industrial-parks-on-federal-land-to-boost-ai-report-2000696243</link>
+      <pubDate>Fri, 05 Dec 2025 19:15:24 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000696243</guid>
+      <description>The idea sounds similar to Trump's "freedom cities" first pitched in 2023.</description>
+    </item>
+    <item>
+      <title>Europol takes down crypto and laundering network worth 700 million</title>
+      <link>https://www.techradar.com/pro/security/europol-takes-down-crypto-and-laundering-network-worth-700-million</link>
+      <pubDate>Fri, 05 Dec 2025 19:10:00 +0000</pubDate>
+      <guid isPermaLink="false">pbFfYwtFKKA25o8WivGGCV</guid>
+      <description>A two-stage campaign resulted in the arrest of nine and the seizure of cash, crypto, and other valuables.</description>
+    </item>
+    <item>
+      <title>Horses is a hit, but its studio might still be in trouble</title>
+      <link>https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship</link>
+      <pubDate>2025-12-05T14:00:31-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=839164</guid>
+      <description>After indie narrative horror game Horses was banned from Steam two years ago, it put the studio, Santa Ragione, at risk of closure. Studio cofounder and Horses producer Pietro Righi Riva had to make a difficult phone call to the game&#8217;s director, Italian filmmaker Andrea Lucco Borlera. &#8220;I was terrified for him,&#8221; Riva said in [&#8230;]</description>
+    </item>
+    <item>
+      <title>Ancient Bird Swallowed 800 Rocks and Choked to Death, Scientists Say</title>
+      <link>https://gizmodo.com/ancient-bird-swallowed-800-rocks-and-choked-to-death-scientists-say-2000696218</link>
+      <pubDate>Fri, 05 Dec 2025 19:00:15 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000696218</guid>
+      <description>&#8220;When birds are sick, they start doing weird things.&#8221;</description>
+    </item>
+    <item>
+      <title>Chrome can now autofill details from your Google account</title>
+      <link>https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet</link>
+      <pubDate>2025-12-05T14:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=838987</guid>
+      <description>Google has announced several autofill improvements being rolled out to the mobile and desktop versions of Chrome. The updates will give autofill access to more of your data from places like Google Wallet and make it easier to select the right info a form is asking for when there are multiple suggestions. Autofill can now [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Best Deals From the Silk &amp; Snow Cyber Week Sale (2025)</title>
+      <link>https://www.wired.com/story/silk-snow-deals-2025/</link>
+      <pubDate>Fri, 05 Dec 2025 18:55:57 +0000</pubDate>
+      <guid isPermaLink="false">692cae76d042757baf0afacf</guid>
+      <description>For a few more days, you can save on mattresses and bed frames from one of our favorite makers.</description>
+    </item>
+    <item>
+      <title>Stock market nears an all-time high</title>
+      <link>https://www.fastcompany.com/91455806/stock-market-nears-all-time-high</link>
+      <pubDate>2025-12-05T18:47:11</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91455806/stock-market-nears-all-time-high</guid>
+      <description>Renewed hopes for a cut to interest rates by the Fed at its meeting next week helped stocks recover some losses.
+The U.S. stock market is flirting with its all-time high on Friday.</description>
+    </item>
+    <item>
+      <title>You can now use Pixel phones as a Switch 2 webcam</title>
+      <link>https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam</link>
+      <pubDate>2025-12-05T13:46:37-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=839133</guid>
+      <description>When it launched the Switch 2&#8217;s compatibility with various webcams was hit or miss. A webcam isn&#8217;t a necessary accessory, but since the Switch 2 lacks one of its own, you need one to take full advantage of the console&#8217;s GameChat feature that can livestream players&#8217; faces during multiplayer matches. Switch 2 webcam compatibility has [&#8230;]</description>
+    </item>
+    <item>
+      <title>New Android malware threat can wipe your bank account</title>
+      <link>https://mashable.com/article/android-malware-bank-account-fake-apps</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:40 +0000</pubDate>
+      <guid isPermaLink="false">02wN2CeuKf7nzJfrubsVjSZ</guid>
+      <description>There's a new malicious way for bad actors to get access to your bank account using Android.</description>
+    </item>
     <item>
       <title>The Luigi Mangione trial is all about narrative control</title>
       <link>https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media</link>
@@ -26,11 +90,19 @@
       <description>React patches a 10/10 flaw that can be used for remote code execution.</description>
     </item>
     <item>
+      <title>BTC price: Bitcoin is seeing a trend that hasn&#8217;t happened since 2014. Here&#8217;s why crypto markets are so unusual right now</title>
+      <link>https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now</link>
+      <pubDate>2025-12-05T18:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now</guid>
+      <description>The stock market is experiencing record gains in 2025, but the crypto market has struggled&#8212;marking a relatively rare phenomenon for investors.
+It is a relatively rare phenomenon: While the stock market continues to experience record gains (the S&amp;P 500 is up over 16% this year),&#160;Bitcoin and other cryptocurrencies continue to struggle, making it the first time the crypto and stock markets have split since 2014, Bloomberg reported....</description>
+    </item>
+    <item>
       <title>AWS re:Invent was an all-in pitch for AI. Customers might not be ready.</title>
       <link>https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/</link>
       <pubDate>Fri, 05 Dec 2025 18:05:35 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3073056</guid>
-      <description>AWS is releasing a lot of new AI tech but the cloud infrastructure giant's enterprise customers may not be ready for it yet.</description>
+      <description>AWS is releasing a lot of new AI tech, but the cloud infrastructure giant's enterprise customers may not be ready for it yet.</description>
     </item>
     <item>
       <title>Sci-Fi Is Already Making a Good Showing This Awards Season</title>
@@ -92,6 +164,13 @@ Sony pr&#233;parerait une mise &#224; jour majeure de sa technologie d'upscaling
 The U.S. Treasury Department imposed a $7.1 million fine on a New York-based property management firm Thursday, accusing it of violating sanctions by managing luxury real estate properties for oligarch&#160;Oleg Deripaska, who has close ties to Russian President Vladimir Putin....</description>
     </item>
     <item>
+      <title>We found the only PS5 console bundles still at Black Friday prices</title>
+      <link>https://mashable.com/article/dec-5-ps5-bundle-deals</link>
+      <pubDate>Fri, 05 Dec 2025 17:36:24 +0000</pubDate>
+      <guid isPermaLink="false">05I5XGaFBqTGdvmqq4wH6zA</guid>
+      <description>As of Dec. 5, get these PS5 console bundles on sale for their Black Friday prices.</description>
+    </item>
+    <item>
       <title>New research reveals older users less likely to find AI useful</title>
       <link>https://www.techradar.com/pro/new-research-reveals-older-users-less-likely-to-find-ai-useful</link>
       <pubDate>Fri, 05 Dec 2025 17:30:00 +0000</pubDate>
@@ -111,7 +190,7 @@ It&#8217;s been less than two months since President Trump began his demolition 
       <link>https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/</link>
       <pubDate>Fri, 05 Dec 2025 17:27:53 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3053933</guid>
-      <description>As a technology, eSIM has been around for a decade now. However, global eSIM adoption was around 3% last year and will only cross 5% this year. Despite these figures, analysts, eSIM-providing startups, and investors are bullish about eSIM&#8217;s upward trajectory, largely thanks to travel. Device compatibility One of the key factors for that is [&#8230;]</description>
+      <description>As a technology, eSIM has been around for a decade now. However, global eSIM adoption was around 3% last year and will only cross 5% this year. Despite these figures, analysts, eSIM-providing startups, and investors are bullish about eSIM's upward trajectory, largely thanks to travel.</description>
     </item>
     <item>
       <title>New &#8216;KnoWay&#8217; robotaxis cause chaos in upcoming Grand Theft Auto Online DLC</title>
@@ -137,120 +216,6 @@ En panique, OpenAI s'appr&#234;terait d&#232;s la semaine prochaine &#224; lance
       <description>
 Avec sa dalle ultra-large et son syst&#232;me webOS, l'&#233;cran PC LG Smart Monitor 34U601SA-W peut aussi bien &#234;tre utilis&#233; pour travailler que pour les moments de d&#233;tente. Actuellement, Amazon le propose &#224; 299,95 euros au lieu de 379,99 euros.
 </description>
-    </item>
-    <item>
-      <title>Netflix is buying Warner Bros: All of the latest updates</title>
-      <link>https://www.theverge.com/news/839007/netflix-warner-acquisition</link>
-      <pubDate>2025-12-05T12:18:24-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=839007</guid>
-      <description>After a bidding war that reportedly also involved Paramount, Comcast, Amazon, and Apple, on December 5th, Netflix struck a deal to buy Warner Bros. for $82.7 billion, buying the studio, HBO / HBO Max, Warner Games, and more, while leaving cable and sports assets, including CNN, TNT Sports, and the Discovery channels out. There are [&#8230;]</description>
-    </item>
-    <item>
-      <title>La France abat 5 drones au-dessus d&#8217;une base nucl&#233;aire ultra-sensible</title>
-      <link>https://www.01net.com/actualites/cinq-drones-ete-abattus-dessus-base-nucleaire-francaise-ultra-sensible.html</link>
-      <pubDate>Fri, 05 Dec 2025 17:01:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1314030</guid>
-      <description>Un essaim de drones non identifi&#233;s a survol&#233; la base nucl&#233;aire de l&#8217;&#206;le Longue, pr&#232;s de Brest. La Marine a promptement r&#233;agi en abattant les cinq engins. Une enqu&#234;te a &#233;t&#233; ouverte.</description>
-    </item>
-    <item>
-      <title>Was 2025 Marvel&#8217;s Comeback Year?</title>
-      <link>https://gizmodo.com/marvel-2025-retrospective-fantastic-four-thunderbolts-daredevil-mcu-2000693102</link>
-      <pubDate>Fri, 05 Dec 2025 17:00:46 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000693102</guid>
-      <description>With 'Thunderbolts,' 'Daredevil,' and more spread throughout 2025, Marvel sure had a bigger year than before. But was it a better one?</description>
-    </item>
-    <item>
-      <title>Wired Earbuds Are Making Phone Dongles a Good Thing</title>
-      <link>https://gizmodo.com/wired-earbuds-are-making-phone-dongles-a-good-thing-2000696179</link>
-      <pubDate>Fri, 05 Dec 2025 17:00:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696179</guid>
-      <description>If you're an audiophile, dongles might be your new best friend.</description>
-    </item>
-    <item>
-      <title>OpenAI&#8217;s GPT-5.2 &#8216;code red&#8217; response to Google is coming next week</title>
-      <link>https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response</link>
-      <pubDate>2025-12-05T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=838857</guid>
-      <description>OpenAI CEO Sam Altman declared a "code red" situation earlier this week, pushing staff to respond quickly to increased competition from Google and Anthropic. Sources familiar with OpenAI's plans tell me that the company is planning its first response to Gemini 3 with its upcoming GPT-5.2 update. I understand GPT-5.2 is ready to be released, [&#8230;]</description>
-    </item>
-    <item>
-      <title>New streaming channel launches to give viewers a peek into city council meetings</title>
-      <link>https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/</link>
-      <pubDate>Fri, 05 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3073247</guid>
-      <description>Hamlet TV is a way to help keep citizens informed of what's happening inside local governments.</description>
-    </item>
-    <item>
-      <title>Eternity's director says it 'doesn't matter' if you disagree with the new A24 film's ending, but I still can't stand it</title>
-      <link>https://www.techradar.com/streaming/entertainment/eternitys-director-says-it-doesnt-matter-if-you-disagree-with-the-new-a24-films-ending-but-i-still-cant-stand-it</link>
-      <pubDate>Fri, 05 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6twXVwGFSeNtPHvvmhFYG4</guid>
-      <description>New A24 movie Eternity is the ultimate afterlife love triangle &#8211; but if you don&#8217;t agree with the ending, it &#8216;doesn&#8217;t matter&#8217; to the director.</description>
-    </item>
-    <item>
-      <title>US security agency urges Android and iPhone users to stop using personal VPNs</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/us-security-agency-urges-android-and-iphone-users-to-stop-using-personal-vpns</link>
-      <pubDate>Fri, 05 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3DWZBodjZDXs3PtYL78kH8</guid>
-      <description>CISA warned that many commercial VPNs could be putting your data at greater risk. But that doesn't mean you should give up on privacy &#8211; here's what you need to know.</description>
-    </item>
-    <item>
-      <title>Chat Control: EU Commissioner backs Parliament line on targeted monitoring</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-commissioner-backs-parliament-line-on-targeted-monitoring</link>
-      <pubDate>Fri, 05 Dec 2025 16:56:33 +0000</pubDate>
-      <guid isPermaLink="false">kdfSSfTsqcs2nd5HDY4wTD</guid>
-      <description>As the trialogue negotiations are set to begin on Tuesday, December 9, the debate on the controversial Child Sexual Abuse Regulation (CSAR) flares up.</description>
-    </item>
-    <item>
-      <title>Discord just dropped its first personalized year-in-review&#8212;and it looks a lot like Spotify Wrapped</title>
-      <link>https://www.fastcompany.com/91455603/discord-wrapped-checkpoint-spotify-wrapped</link>
-      <pubDate>2025-12-05T16:51:08</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91455603/discord-wrapped-checkpoint-spotify-wrapped</guid>
-      <description>The long-requested feature shows your messages, emojis, voice minutes, top servers, and one of 10 personality-style Checkpoint cards.
-The year is quickly coming to an end, and that means tech platforms are tripping over themselves to roll out their year-end recaps&#8212;all hoping to capture the virality that Spotify&#8217;s Wrapped year-in-review recap commands each year....</description>
-    </item>
-    <item>
-      <title>I thought I was tired. Turns out, I was burnt out</title>
-      <link>https://www.fastcompany.com/91451052/i-thought-i-was-tired-turns-out-i-was-burnt-out</link>
-      <pubDate>2025-12-05T16:48:08</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91451052/i-thought-i-was-tired-turns-out-i-was-burnt-out</guid>
-      <description>When your brain is cooked not even a vacation will get you right.
-Being tired is practically a personality trait in corporate America&#8212;especially in 2025. Everybody is exhausted, it seems. Folks are doing fiftyleven jobs. You&#8217;re always juggling tasks, always late for the next meeting because the last one ran long. But when you&#8217;re one of the few Black employees at the gig, there&#8217;s a subconscious fear of looking like you&#8217;re in over your head, especially with the looming fear of layoffs. So you push through, even when you&#8217;re running on fumes. You go harder, telling yourself you&#8217;ll rest once you ge...</description>
-    </item>
-    <item>
-      <title>Wikipedia is getting in on the yearly wrapped game</title>
-      <link>https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped</link>
-      <pubDate>2025-12-05T11:47:19-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=838989</guid>
-      <description>Everyone is doing it, so why not Wikipedia? Everyone&#8217;s favorite free online encyclopedia has decided to launch its own customized Year in Review feature on its mobile app. Of course, you&#8217;ll need the app installed and have been using it for the feature to be of much use. But clearly, the Wikimedia Foundation hopes this [&#8230;]</description>
-    </item>
-    <item>
-      <title>The PS5 Could Receive a Massive AI Upgrade for Games</title>
-      <link>https://gizmodo.com/ps5-playstation-spectral-super-resolution-2-2000696189</link>
-      <pubDate>Fri, 05 Dec 2025 16:44:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696189</guid>
-      <description>And it&#8217;s making us even more excited for the rumored PlayStation 6 handheld.</description>
-    </item>
-    <item>
-      <title>Snag a Google Pixel 10 for its lowest price yet</title>
-      <link>https://mashable.com/article/dec-5-google-pixel-10-deal</link>
-      <pubDate>Fri, 05 Dec 2025 16:41:05 +0000</pubDate>
-      <guid isPermaLink="false">045jJNa9LsN5VgYg7wBBHaI</guid>
-      <description>As of Dec. 5, get the Google Pixel 10 for its lowest price yet at Amazon.</description>
-    </item>
-    <item>
-      <title>Amazon has a huge holiday sale with Black Friday prices &#8211; AirPods, coffee makers, PS5 and more</title>
-      <link>https://www.techradar.com/seasonal-sales/amazon-has-a-huge-holiday-sale-with-black-friday-prices-airpods-coffee-makers-ps5-and-more</link>
-      <pubDate>Fri, 05 Dec 2025 16:40:02 +0000</pubDate>
-      <guid isPermaLink="false">jnJNtP5Zic7hdq4RjFHEH</guid>
-      <description>Amazon has a huge holiday sale with leftover Black Friday prices, and I'm rounding up the 31 best deals featuring AirPods, coffee makers, PS5, and more.</description>
-    </item>
-    <item>
-      <title>The best Christmas gifts we love under $50</title>
-      <link>https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025</link>
-      <pubDate>2025-12-05T11:33:41-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=802969</guid>
-      <description>One of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a [&#8230;]</description>
     </item>
   </channel>
 </rss>
