@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 06 Dec 2025 21:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 22:22:41 GMT</lastBuildDate>
+    <item>
+      <title>Judge puts a one-year limit on Google's contracts for default search placement</title>
+      <link>https://www.engadget.com/big-tech/judge-puts-a-one-year-limit-on-googles-contracts-for-default-search-placement-215549614.html?src=rss</link>
+      <pubDate>Sat, 06 Dec 2025 21:55:49 +0000</pubDate>
+      <guid isPermaLink="false">b2cd03a2-e203-4348-b26e-56ff1b7d02b9</guid>
+      <description>A federal judge has expanded on the remedies decided for the Department of Justice's antitrust case against Google, ruling in favor of putting a one-year limit on the contracts that make Google's search and AI services the default on devices, Bloomberg reports. Judge Amit Mehta's ruling on Friday means Google will have to renegotiate these contacts every year, which would create a fairer playing field for its competitors. The new details come after Mehta ruled in September that Google would not have to sell off Chrome, as the DOJ proposed at the end of 2024.&#160;This all follows the ruling last fa...</description>
+    </item>
+    <item>
+      <title>This Chinese chip giant is boosting production to try and take on Nvidia - but how will Huawei feel?</title>
+      <link>https://www.techradar.com/pro/this-chinese-chip-giant-is-boosting-production-to-try-and-take-on-nvidia-but-how-will-huawei-feel</link>
+      <pubDate>Sat, 06 Dec 2025 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">2gCJYoPSzi34cgpbmRFU6g</guid>
+      <description>Cambricon aims to triple AI chip output in 2026 despite yield issues, resource shortages, and rising competition from Huawei.</description>
+    </item>
+    <item>
+      <title>Meta reportedly delays mixed reality glasses until 2027</title>
+      <link>https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/</link>
+      <pubDate>Sat, 06 Dec 2025 21:24:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3073614</guid>
+      <description>aMeta lready sells VR headsets and Ray-Ban smart glasses, but these new glasses sound a bit different. Their format factor would reportedly be similar to the Apple Vision Pro, with a puck-like power source.</description>
+    </item>
     <item>
       <title>The Extended &#8216;Lord of the Rings&#8217; Trilogy Comes Back to Theaters</title>
       <link>https://gizmodo.com/the-extended-lord-of-the-rings-trilogy-comes-back-to-theaters-2000696414</link>
@@ -17,50 +38,6 @@
       <pubDate>Sat, 06 Dec 2025 20:30:48 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000696487</guid>
       <description>Amid rumors that Tim Cook may leave soon, many of his direct reports are retiring or otherwise moving on.</description>
-    </item>
-    <item>
-      <title>Apple's Johny Srouji could continue the company's executive exodus, according to report</title>
-      <link>https://www.engadget.com/big-tech/apples-johny-srouji-could-continue-the-companys-executive-exodus-according-to-report-200750252.html?src=rss</link>
-      <pubDate>Sat, 06 Dec 2025 20:07:50 +0000</pubDate>
-      <guid isPermaLink="false">2a92d7ba-9a78-48d1-8cef-b6d086d6e472</guid>
-      <description>Apple's Johny Srouji may be the latest company executive to seek greener pastures, according to a report from Bloomberg. The report said that Srouji, Apple's senior vice president of hardware technologies, told Tim Cook that he is "seriously considering leaving in the near future."
-While the report didn't mention if Srouji has another job lined up, Bloomberg's sources claimed that he wants to join another company if he leaves Apple. Srouji joined the company in 2008 to develop Apple's first in-house system-on-a-chip and eventually led the transition to Apple silicon.
-If Srouji leaves Apple, he...</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s chip chief might be the next exec to leave</title>
-      <link>https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave</link>
-      <pubDate>2025-12-06T14:55:52-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=839700</guid>
-      <description>Bloomberg&#8217;s Mark Gurman is reporting that Johny Srouji, senior vice president of hardware technologies, told Tim Cook he is &#8220;seriously considering&#8221; leaving Apple for another company in the near future. It was reported in October that Srouji was &#8220;evaluating his future at the tech giant.&#8221; While nothing is confirmed, it seems the executive is leaning [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The New &#8216;Trigun Stargaze&#8217; Trailer Gets the Band Together</title>
-      <link>https://gizmodo.com/the-new-trigun-stargaze-trailer-gets-the-band-together-2000696484</link>
-      <pubDate>Sat, 06 Dec 2025 19:50:11 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696484</guid>
-      <description>Old friends and new (and old) enemies await when 'Trigun Stargaze' premieres in January.</description>
-    </item>
-    <item>
-      <title>Is it time to &#8216;refound&#8217; your startup?</title>
-      <link>https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/</link>
-      <pubDate>Sat, 06 Dec 2025 19:44:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3073609</guid>
-      <description>Sometimes, founding a startup just once isn&#8217;t enough.</description>
-    </item>
-    <item>
-      <title>You can now buy a 30TB tape drive and connect it to your Apple Mac Mini - and it's almost as fast as an SSD</title>
-      <link>https://www.techradar.com/pro/you-can-now-buy-a-30tb-tape-drive-and-connect-it-to-your-apple-mac-mini-and-its-almost-as-fast-as-an-ssd</link>
-      <pubDate>Sat, 06 Dec 2025 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">xwBt9tKLJ6GDqwpTduHa6F</guid>
-      <description>You can attach a 30TB LTO-10 tape drive to an Apple Mac Mini for SSD like speeds, offline security benefits and high capacity storage.</description>
-    </item>
-    <item>
-      <title>With the Samsung Galaxy Z Trifold on the way, Apple&#8217;s rumored iPhone Fold needs to hit shelves soon</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/with-the-samsung-galaxy-z-trifold-on-the-way-apples-rumored-iphone-fold-needs-to-hit-shelves-soon</link>
-      <pubDate>Sat, 06 Dec 2025 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">pkTeyfo5pnuKz7wmFwKBsS</guid>
-      <description>The Samsung Galaxy Z Trifold has the potential to change how we use phones entirely &#8211; if Apple is going to join the folding phone market, it needs to get in the game quickly or risk being forgotten on arrival.</description>
     </item>
   </channel>
 </rss>
