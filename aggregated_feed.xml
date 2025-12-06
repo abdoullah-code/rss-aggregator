@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 06 Dec 2025 22:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 23:21:58 GMT</lastBuildDate>
+    <item>
+      <title>The bad news continues - server prices set to rise in latest blow to hardware budgets</title>
+      <link>https://www.techradar.com/pro/the-bad-news-continues-server-prices-set-to-rise-in-latest-blow-to-hardware-budgets</link>
+      <pubDate>Sat, 06 Dec 2025 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">YBGqB48WFwVQQM3LKtjtpW</guid>
+      <description>Rising memory costs driven by AI demand are forcing server and PC manufacturers to increase prices and adjust production priorities.</description>
+    </item>
     <item>
       <title>Judge puts a one-year limit on Google's contracts for default search placement</title>
       <link>https://www.engadget.com/big-tech/judge-puts-a-one-year-limit-on-googles-contracts-for-default-search-placement-215549614.html?src=rss</link>
@@ -24,20 +31,6 @@
       <pubDate>Sat, 06 Dec 2025 21:24:35 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3073614</guid>
       <description>aMeta lready sells VR headsets and Ray-Ban smart glasses, but these new glasses sound a bit different. Their format factor would reportedly be similar to the Apple Vision Pro, with a puck-like power source.</description>
-    </item>
-    <item>
-      <title>The Extended &#8216;Lord of the Rings&#8217; Trilogy Comes Back to Theaters</title>
-      <link>https://gizmodo.com/the-extended-lord-of-the-rings-trilogy-comes-back-to-theaters-2000696414</link>
-      <pubDate>Sat, 06 Dec 2025 21:15:45 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696414</guid>
-      <description>Celebrate the 25th anniversary of the first 'Lord of the Rings' by watching the longer versions of the trilogy in theaters next month.</description>
-    </item>
-    <item>
-      <title>Apple Is Hemorrhaging Vice Presidents</title>
-      <link>https://gizmodo.com/apple-is-hemorrhaging-vice-presidents-2000696487</link>
-      <pubDate>Sat, 06 Dec 2025 20:30:48 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696487</guid>
-      <description>Amid rumors that Tim Cook may leave soon, many of his direct reports are retiring or otherwise moving on.</description>
     </item>
   </channel>
 </rss>
