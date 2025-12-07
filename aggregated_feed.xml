@@ -3,34 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 06 Dec 2025 23:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 02:05:50 GMT</lastBuildDate>
     <item>
-      <title>The bad news continues - server prices set to rise in latest blow to hardware budgets</title>
-      <link>https://www.techradar.com/pro/the-bad-news-continues-server-prices-set-to-rise-in-latest-blow-to-hardware-budgets</link>
-      <pubDate>Sat, 06 Dec 2025 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">YBGqB48WFwVQQM3LKtjtpW</guid>
-      <description>Rising memory costs driven by AI demand are forcing server and PC manufacturers to increase prices and adjust production priorities.</description>
-    </item>
-    <item>
-      <title>Judge puts a one-year limit on Google's contracts for default search placement</title>
-      <link>https://www.engadget.com/big-tech/judge-puts-a-one-year-limit-on-googles-contracts-for-default-search-placement-215549614.html?src=rss</link>
-      <pubDate>Sat, 06 Dec 2025 21:55:49 +0000</pubDate>
-      <guid isPermaLink="false">b2cd03a2-e203-4348-b26e-56ff1b7d02b9</guid>
-      <description>A federal judge has expanded on the remedies decided for the Department of Justice's antitrust case against Google, ruling in favor of putting a one-year limit on the contracts that make Google's search and AI services the default on devices, Bloomberg reports. Judge Amit Mehta's ruling on Friday means Google will have to renegotiate these contacts every year, which would create a fairer playing field for its competitors. The new details come after Mehta ruled in September that Google would not have to sell off Chrome, as the DOJ proposed at the end of 2024.&#160;This all follows the ruling last fa...</description>
-    </item>
-    <item>
-      <title>This Chinese chip giant is boosting production to try and take on Nvidia - but how will Huawei feel?</title>
-      <link>https://www.techradar.com/pro/this-chinese-chip-giant-is-boosting-production-to-try-and-take-on-nvidia-but-how-will-huawei-feel</link>
-      <pubDate>Sat, 06 Dec 2025 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">2gCJYoPSzi34cgpbmRFU6g</guid>
-      <description>Cambricon aims to triple AI chip output in 2026 despite yield issues, resource shortages, and rising competition from Huawei.</description>
-    </item>
-    <item>
-      <title>Meta reportedly delays mixed reality glasses until 2027</title>
-      <link>https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/</link>
-      <pubDate>Sat, 06 Dec 2025 21:24:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3073614</guid>
-      <description>aMeta lready sells VR headsets and Ray-Ban smart glasses, but these new glasses sound a bit different. Their format factor would reportedly be similar to the Apple Vision Pro, with a puck-like power source.</description>
+      <title>Pat Gelsinger wants to save Moore&#8217;s Law, with a little help from the Feds</title>
+      <link>https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/</link>
+      <pubDate>Sun, 07 Dec 2025 00:18:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3073604</guid>
+      <description>The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029.</description>
     </item>
   </channel>
 </rss>
