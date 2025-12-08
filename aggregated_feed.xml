@@ -3,7 +3,85 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 08 Dec 2025 18:37:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 19:20:51 GMT</lastBuildDate>
+    <item>
+      <title>Claude Code is coming to Slack, and that&#8217;s a bigger deal than it sounds</title>
+      <link>https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/</link>
+      <pubDate>Mon, 08 Dec 2025 19:18:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3073830</guid>
+      <description>Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.</description>
+    </item>
+    <item>
+      <title>The Apple Watch Series 11 just got a big $100 discount ahead of the holidays</title>
+      <link>https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025</link>
+      <pubDate>2025-12-08T14:17:59-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=840161</guid>
+      <description>We thought Black Friday and Cyber Monday would bring the lowest prices of the year, but apparently not. Right now, you can snag Apple&#8217;s Watch Series 11 in the 42mm configuration with GPS for a new all-time low of $299 ($100 off) at Amazon, Walmart, and Best Buy. That beats the $70 discount we saw [&#8230;]</description>
+    </item>
+    <item>
+      <title>Paramount just trumped Netflix's Warner Bros deal, but I don't see how this will be good news for any of us</title>
+      <link>https://www.techradar.com/streaming/paramount-just-trumped-netflixs-warner-bros-deal-but-i-dont-see-how-this-will-be-good-news-for-any-of-us</link>
+      <pubDate>Mon, 08 Dec 2025 19:15:21 +0000</pubDate>
+      <guid isPermaLink="false">u8H5xEJjeZurbGvCAedvW3</guid>
+      <description>Just when you thought the Netflix plan to acquire Warner Bros. was all but a done deal, Paramount swoops in, and things just got very interesting.</description>
+    </item>
+    <item>
+      <title>National cybercrime network operating for 14 years dismantled in Indonesia</title>
+      <link>https://www.techradar.com/pro/security/national-cybercrime-network-operating-for-14-years-dismantled-in-indonesia</link>
+      <pubDate>Mon, 08 Dec 2025 19:15:00 +0000</pubDate>
+      <guid isPermaLink="false">ysdxEmfSKFXFNYYvaegmMG</guid>
+      <description>A large network of domains, malware, and stolen credentials, has been making rounds for 14 years.</description>
+    </item>
+    <item>
+      <title>Ron DeSantis Proposes AI Bill of Rights as Trump Says He&#8217;ll Kill State AI Laws</title>
+      <link>https://gizmodo.com/ron-desantis-proposes-ai-bill-of-rights-as-trump-says-hell-kill-state-ai-laws-2000696828</link>
+      <pubDate>Mon, 08 Dec 2025 19:10:15 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000696828</guid>
+      <description>A MAGA rift?</description>
+    </item>
+    <item>
+      <title>Anthropic is bringing Claude Code to Slack</title>
+      <link>https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration</link>
+      <pubDate>2025-12-08T14:01:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=839817</guid>
+      <description>Slack users can now access Anthropic's Claude Code directly in Slack by tagging Claude on coding-related messages and threads. The new feature is launching today in beta as a research preview. When Claude is tagged, it will now automatically scan the message to see if it's a coding task and, if so, route it to [&#8230;]</description>
+    </item>
+    <item>
+      <title>ICEBlock Sues White House Over Pressuring Apple for App Store Removal</title>
+      <link>https://gizmodo.com/iceblock-sues-white-house-over-pressuring-apple-for-app-store-removal-2000696820</link>
+      <pubDate>Mon, 08 Dec 2025 19:00:49 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000696820</guid>
+      <description>ICEBlock developer Joshua Aaron claims that the removal is a suppression of free speech</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude Code can now read your Slack messages and write code for you</title>
+      <link>https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for</link>
+      <pubDate>Mon, 08 Dec 2025 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">5qKOrKzspLDUzNNe31dlsC</guid>
+      <description>Anthropic on Monday launched a beta integration that connects its fast-growing Claude Code programming agent directly to Slack, allowing software engineers to delegate coding tasks without leaving the workplace messaging platform where much of their daily communication already happens.The release, which Anthropic describes as a "research preview," is the AI safety company's latest move to embed its technology deeper into enterprise workflows &#8212; and comes as Claude Code has emerged as a surprise revenue engine, generating over $1 billion in annualized revenue just six months after its public deb...</description>
+    </item>
+    <item>
+      <title>For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness</title>
+      <link>https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/</link>
+      <pubDate>Mon, 08 Dec 2025 18:54:05 +0000</pubDate>
+      <guid isPermaLink="false">6936f402d3110ee85b1e13e9</guid>
+      <description>Research links variations in the gene GRIN2A to a higher risk of developing schizophrenia and other forms of mental illness.</description>
+    </item>
+    <item>
+      <title>All you need to know about the increasingly complex sale of Warner Bros. Discovery</title>
+      <link>https://www.fastcompany.com/91456603/warner-brothers-discovery-netflix-paramount-david-ellison-trump</link>
+      <pubDate>2025-12-08T18:50:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456603/warner-brothers-discovery-netflix-paramount-david-ellison-trump</guid>
+      <description>A rundown of the deal, how it will be funded, and whether it stands a chance of clearing regulatory review.
+The long battle over control of Warner Bros. Discovery took another turn Monday when Paramount Skydance announced a hostile bid for the entertainment giant, following Warner&#8217;s acceptance of a competing offer from Netflix last week.</description>
+    </item>
+    <item>
+      <title>Meta will let Facebook and Instagram users in the EU share less data</title>
+      <link>https://www.engadget.com/social-media/meta-will-let-facebook-and-instagram-users-in-the-eu-share-less-data-183535897.html?src=rss</link>
+      <pubDate>Mon, 08 Dec 2025 18:35:35 +0000</pubDate>
+      <guid isPermaLink="false">28146827-8691-41f3-b999-1d94cad68df3</guid>
+      <description>Meta will soon allow Facebook and Instagram users in the European Union to choose to share less data and see less personalized ads on the platform, the European Commission announced. The change will begin to roll out in January, according to the regulator.&#160;"This is the first time that such a choice is offered on Meta's social networks," the commission said in a statement. "Meta will give users the effective choice between: consenting to share all their data and seeing fully personalised advertising, and opting to share less personal data for an experience with more limited personalised adverti...</description>
+    </item>
     <item>
       <title>Amazon retire 40 % de son prix &#224; ce chargeur 2-en-1 compatible MagSafe et Qi2</title>
       <link>https://www.frandroid.com/bons-plans/2902491_amazon-retire-40-de-son-prix-a-ce-chargeur-2-en-1-compatible-magsafe-et-qi2</link>
@@ -35,6 +113,14 @@ Ugreen propose de nombreux accessoires pour t&#233;l&#233;phone, et quelques pro
       <description>At their biggest and most expensive, video games all sort of look the same. The reason often comes down to simple economics: More resources means more costs that need to be recouped, and historically the way publishers have done that is by being comically risk-averse. Hence the glut of semi-realistic rocky wastelands that look like [&#8230;]</description>
     </item>
     <item>
+      <title>National Park Service drops free admission for MLK Day, Juneteenth, and adds Trump&#8217;s birthday</title>
+      <link>https://www.fastcompany.com/91456576/national-parks-free-admission-mlk-day-juneteenth-trump-birthday</link>
+      <pubDate>2025-12-08T18:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456576/national-parks-free-admission-mlk-day-juneteenth-trump-birthday</guid>
+      <description>The Trump administration&#8217;s national parks cut free admission on two of the nation&#8217;s most prominent civil rights holidays.
+The&#160;National Park Service&#160;will offer free admission to U.S. residents on President Donald Trump&#8216;s birthday next year &#8212; which also happens to be Flag Day &#8212; but is eliminating the benefit for Martin Luther King Jr. Day and Juneteenth....</description>
+    </item>
+    <item>
       <title>ICEBlock developer sues Trump administration over App Store removal</title>
       <link>https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal</link>
       <pubDate>2025-12-08T13:25:33-05:00</pubDate>
@@ -47,6 +133,14 @@ Ugreen propose de nombreux accessoires pour t&#233;l&#233;phone, et quelques pro
       <pubDate>Mon, 08 Dec 2025 18:20:00 +0000</pubDate>
       <guid isPermaLink="false">8d2CdKCEv5iJqb8g7Mfxam</guid>
       <description>The number of Apple execs leaving the company continues to rise, but most are being replaced.</description>
+    </item>
+    <item>
+      <title>CFLT stock price: IBM deal to buy Confluent for $11 billion shows investors still think AI is popping</title>
+      <link>https://www.fastcompany.com/91456429/confluent-cflt-stock-price-ibm-11-billion-deal-shows-investors-still-think-ai-is-popping</link>
+      <pubDate>2025-12-08T18:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456429/confluent-cflt-stock-price-ibm-11-billion-deal-shows-investors-still-think-ai-is-popping</guid>
+      <description>News of the acquisition sent the data streaming platform&#8217;s shares up nearly 30% in trading on Monday.
+IBM&#160;announced on Monday it is acquiring&#160;Confluent&#160;for $11 billion, sending shares of the data streaming platform up about 29% in morning trading.</description>
     </item>
     <item>
       <title>Analogue is weaponizing your nostalgia with these translucent versions of its 3D console</title>
@@ -79,6 +173,14 @@ Les voitures &#233;lectriques demeurent une v&#233;ritable attraction pour le gr
       <pubDate>Mon, 08 Dec 2025 18:03:47 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000696835</guid>
       <description>The Analogue 3D now comes in all the transparent colorways you never got as a kid.</description>
+    </item>
+    <item>
+      <title>What Nordic people do to cope with the winter blues</title>
+      <link>https://www.fastcompany.com/91456537/nordic-norway-sweden-finland-winter-blues</link>
+      <pubDate>2025-12-08T18:00:58</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456537/nordic-norway-sweden-finland-winter-blues</guid>
+      <description>From a sunrise alarm clock to morning light therapy, here are some strategies.
+The Nordic countries are no strangers to the long, dark winter.</description>
     </item>
     <item>
       <title>The Fictional Characters and Shows We Lost in 2025</title>
@@ -128,6 +230,30 @@ Les voitures &#233;lectriques demeurent une v&#233;ritable attraction pour le gr
       <pubDate>Mon, 08 Dec 2025 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">721b1f85-0f59-46bb-9f5b-7e2bab08822d</guid>
       <description>Today, during the XR edition of The Android Show, Google showed off a bunch of updates and new features headed to its mixed reality OS. And while most of the news was aimed at developers, I got a chance to demo some of the platform's expanded capabilities on a range of hardware including Samsung's Galaxy XR headset, two different reference designs and an early version of Xreal's Project Aura smart glasses and I came away rather impressed. So here's a rundown of what I saw and how it will impact the rapidly growing ecosystem of head-mounted displays.First up was one of Google's reference design...</description>
+    </item>
+    <item>
+      <title>Letterboxd is now doing video rentals&#8212;and it goes hard on indie films. Here&#8217;s what to expect</title>
+      <link>https://www.fastcompany.com/91456369/letterboxd-video-store-rentals-goes-hard-on-indie-films-heres-what-to-expect</link>
+      <pubDate>2025-12-08T18:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456369/letterboxd-video-store-rentals-goes-hard-on-indie-films-heres-what-to-expect</guid>
+      <description>The movie app&#8217;s new Video Store launches on Wednesday, and its first offerings include festival favorites and deep cuts.
+Letterboxd, the movie tracking app and social media platform for cinephiles, first announced its new online film rental platform earlier this year at Cannes Film Festival. Now, more details about the launch date and titles have been revealed....</description>
+    </item>
+    <item>
+      <title>Louvre December strike adds to post-heist woes: How the museum&#8217;s bad year stacks up</title>
+      <link>https://www.fastcompany.com/91456371/louvre-december-strike-adds-to-post-heist-woes-how-the-museums-bad-year-stacks-up</link>
+      <pubDate>2025-12-08T18:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456371/louvre-december-strike-adds-to-post-heist-woes-how-the-museums-bad-year-stacks-up</guid>
+      <description>A water leak and crumbling infrastructure are just a few of the museum&#8217;s other recent concerns.
+On November 26, a water leak at Paris&#8217; Louvre Museum damaged between 300 and 400 historical books in the Egyptology and scientific documentation section. Then, on December 8, workers at the museum voted to initiate a strike over poor working conditions.</description>
+    </item>
+    <item>
+      <title>Cinnabon worker fired after racist outburst at customers goes viral</title>
+      <link>https://www.fastcompany.com/91456502/cinnabon-worker-fired-racist-outburst-customers-viral-tiktok</link>
+      <pubDate>2025-12-08T18:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91456502/cinnabon-worker-fired-racist-outburst-customers-viral-tiktok</guid>
+      <description>The employee is recorded giving an obscene hand gesture at customers and exchanging expletives.
+A Cinnabon worker in Wisconsin has been fired after a racist outburst directed at two customers went viral, the Georgia-based cinnamon roll chain said.</description>
     </item>
     <item>
       <title>You can buy your Instacart groceries without leaving ChatGPT</title>
@@ -181,6 +307,27 @@ Pebble a publi&#233; une image myst&#233;rieuse annon&#231;ant une nouveaut&#233
       <description>A critical flaw in a WordPress add-on was recently patched, which allows crooks to add a rogue admin account to the site.</description>
     </item>
     <item>
+      <title>Disney+ comes with even more perks this season: Get 6 free months of DashPass and more</title>
+      <link>https://mashable.com/article/dec-8-disney-plus-perks</link>
+      <pubDate>Mon, 08 Dec 2025 17:39:50 +0000</pubDate>
+      <guid isPermaLink="false">04mj0mjH9Q3EqE09Emo9lfg</guid>
+      <description>Disney+ is giving subscribers exclusive perks this season, like six free months of DashPass, discounted Broadway tickets, and more.</description>
+    </item>
+    <item>
+      <title>Four Apple product launches to expect in the near future</title>
+      <link>https://mashable.com/article/apple-product-launches-to-expect-early-2026</link>
+      <pubDate>Mon, 08 Dec 2025 17:36:49 +0000</pubDate>
+      <guid isPermaLink="false">03LTQuZ6FhNjDDNovhw5Dvx</guid>
+      <description>Apple could have some new MacBooks, iPads, and even a new iPhone in the next few months.</description>
+    </item>
+    <item>
+      <title>Gift your content-creator friend the DJI Mic Mini while its on sale for just $45</title>
+      <link>https://mashable.com/article/dec-8-dji-mic-mini-deal</link>
+      <pubDate>Mon, 08 Dec 2025 17:35:39 +0000</pubDate>
+      <guid isPermaLink="false">00xAb7QsbRwh9HnaNp75fCl</guid>
+      <description>The DJI Mic Mini is on sale at Target for $45, down from the normal price of $89. That's a 49% discount.</description>
+    </item>
+    <item>
       <title>Best Buy launches a huge Apple sale &#8212; and it includes AirPods, MacBooks, iPads, and more for record-low prices</title>
       <link>https://www.techradar.com/computing/macbooks/best-buy-launches-a-huge-apple-sale-and-it-includes-airpods-macbooks-ipads-and-more-for-record-low-prices</link>
       <pubDate>Mon, 08 Dec 2025 17:34:15 +0000</pubDate>
@@ -214,236 +361,6 @@ Pebble a publi&#233; une image myst&#233;rieuse annon&#231;ant une nouveaut&#233
       <pubDate>Mon, 08 Dec 2025 17:21:22 +0000</pubDate>
       <guid isPermaLink="false">6vApdhHHVzBcB6n7z4TYKg</guid>
       <description>NordVPN just launched a new email protection feature to stop phishing in its tracks. It scans and flags dodgy links right inside your browser-based email client on macOS and Windows.</description>
-    </item>
-    <item>
-      <title>Ce pack Samsung Galaxy S25 + Chromebook Go est &#224; un super prix chez la Fnac et Darty</title>
-      <link>https://www.frandroid.com/bons-plans/2902337_ce-pack-samsung-galaxy-s25-chromebook-go-est-a-un-super-prix-chez-la-fnac-et-darty</link>
-      <pubDate>Mon, 08 Dec 2025 17:19:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2902337_ce-pack-samsung-galaxy-s25-chromebook-go-est-a-un-super-prix-chez-la-fnac-et-darty</guid>
-      <description>
-Le Samsung Galaxy S25, actuel fleuron de la marque sud-cor&#233;enne, se tient actuellement aux c&#244;t&#233;s d'un laptop Samsung Galaxy Chromebook Go dans un pack dont le prix a consid&#233;rablement chut&#233; : la Fnac et Darty le proposent &#224; 899 euros au lieu de 1 468 euros.
-</description>
-    </item>
-    <item>
-      <title>The ASUS ROG Xbox Ally just hit a new record-low price</title>
-      <link>https://mashable.com/article/dec-8-asus-rog-ally-deal</link>
-      <pubDate>Mon, 08 Dec 2025 17:18:40 +0000</pubDate>
-      <guid isPermaLink="false">03CKskDPcL6P83TCcvUpRvP</guid>
-      <description>Right now, you can score the ASUS ROG Xbox Ally (72 A, 168GB RAM, 512GB SSD) for just $489.99, down from $599.99.</description>
-    </item>
-    <item>
-      <title>TikTok adds a space for organizing content with others, teases &#8216;Shared Feeds&#8217;</title>
-      <link>https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/</link>
-      <pubDate>Mon, 08 Dec 2025 17:18:36 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3073728</guid>
-      <description>Shared Feeds will surface new content tailored to both users' tastes, such as sports, winter activities, and their favorite creators.</description>
-    </item>
-    <item>
-      <title>Analogue is restocking its 4K N64 and making it more colorful</title>
-      <link>https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition</link>
-      <pubDate>2025-12-08T12:18:28-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=840068</guid>
-      <description>As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent "Funtastic" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available "in highly limited quantities," and they'll cost more than the standard model at $299. [&#8230;]</description>
-    </item>
-    <item>
-      <title>Samsung just launched the One UI 8.5 beta with 6 big upgrades &#8211; here&#8217;s how to try it</title>
-      <link>https://www.techradar.com/phones/samsung-just-launched-the-one-ui-8-5-beta-with-6-big-upgrades-heres-how-to-try-it</link>
-      <pubDate>Mon, 08 Dec 2025 17:18:27 +0000</pubDate>
-      <guid isPermaLink="false">ygkwD3Jx2vCFMUrAJW8kKV</guid>
-      <description>The Samsung One UI 8.5 beta is here with new features for all the best Samsung phones &#8211;here's how to give it a spin.</description>
-    </item>
-    <item>
-      <title>Samsung launches One UI 8.5 public beta. How to download it.</title>
-      <link>https://mashable.com/article/samsung-launches-one-ui-public-beta-how-to-download</link>
-      <pubDate>Mon, 08 Dec 2025 17:18:01 +0000</pubDate>
-      <guid isPermaLink="false">05LHtbSwIM0b6NA4k21Gxc5</guid>
-      <description>Samsung launches One UI 8.5 public beta. How to download it.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s EPA Plans to Raise Threshold for &#8216;Safe&#8217; Formaldehyde Exposure</title>
-      <link>https://gizmodo.com/trumps-epa-plans-to-raise-threshold-for-safe-formaldehyde-exposure-2000696735</link>
-      <pubDate>Mon, 08 Dec 2025 17:15:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696735</guid>
-      <description>The EPA has revised its assessment of the health risks posed by the carcinogen, less than a year after the Biden administration issued its own verdict.</description>
-    </item>
-    <item>
-      <title>Uber will start selling trip and takeout data to marketers</title>
-      <link>https://www.engadget.com/big-tech/uber-will-start-selling-trip-and-takeout-data-to-marketers-171011769.html?src=rss</link>
-      <pubDate>Mon, 08 Dec 2025 17:10:11 +0000</pubDate>
-      <guid isPermaLink="false">69b307bb-8954-4fcb-8bde-80fac221f473</guid>
-      <description>Uber will begin selling customer data to marketers, according to a report by Business Insider. The company's ad division just launched a new insights platform called Uber Intelligence that's tasked with hoovering up and selling trip and delivery data.
-The data will technically be anonymous, via the use of a platform called LiveRamp. This will "let advertisers securely combine their customer data with Uber's to help surface insights about their audiences, based on what they eat and where they travel."
-Basically, it'll provide a broad view of local consumer trends based on collected data. Uber g...</description>
-    </item>
-    <item>
-      <title>Trump hosts Kennedy Center Honors, praising honorees and slamming his foes</title>
-      <link>https://www.fastcompany.com/91456470/trump-hosts-kennedy-center-honors-gaynor-stallone-kiss</link>
-      <pubDate>2025-12-08T17:10:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91456470/trump-hosts-kennedy-center-honors-gaynor-stallone-kiss</guid>
-      <description>Since returning to office, Trump has made the center a touchstone in a&#160;broader attack&#160;against &#8216;woke&#8217; anti-American culture.
-President Donald Trump on Sunday hosted the Kennedy Center Honors and praised&#160;Sylvester Stallone,&#160;Kiss,&#160;Gloria Gaynor, Michael Crawford, and George Strait, the slate of honorees he helped choose, as being &#8220;legendary in so many ways.&#8221;...</description>
-    </item>
-    <item>
-      <title>#FrandroidOffreMoi un immense smartphone TCL</title>
-      <link>https://www.frandroid.com/actualites-generales/2901845_frandroidoffremoi-un-immense-smartphone-tcl</link>
-      <pubDate>Mon, 08 Dec 2025 17:06:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/2901845_frandroidoffremoi-un-immense-smartphone-tcl</guid>
-      <description>
-Vous pouvez gagner un smartphone en participant &#224; notre concours #FrandroidOffreMoi. La case 8 de notre calendrier de l'Avent s'ouvre sur le TCL NXTPAPER 60 Ultra !
-</description>
-    </item>
-    <item>
-      <title>This pet hair-friendly cordless vacuum is one of the best budget options I've tested</title>
-      <link>https://www.techradar.com/home/vacuums/bissell-powerclean-furfinder-cordless-vacuum-review</link>
-      <pubDate>Mon, 08 Dec 2025 17:04:42 +0000</pubDate>
-      <guid isPermaLink="false">WoXS7SpEftcAq7WzQYmPBG</guid>
-      <description>The Bissell PowerClean FurFinder delivers capable cleaning without the bells and whistles.</description>
-    </item>
-    <item>
-      <title>Smartphones&#160;: la marque la plus fiable en 2025 ce n&#8217;est ni Samsung ni Apple</title>
-      <link>https://www.01net.com/actualites/smartphones-marque-plus-fiable-2025-samsung-apple.html</link>
-      <pubDate>Mon, 08 Dec 2025 17:04:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1314349</guid>
-      <description>Une nouvelle enqu&#234;te de 60 Millions de Consommateurs met en avant les marques de smartphones les plus fiables, et les r&#233;sultats sont pour le moins surprenants.</description>
-    </item>
-    <item>
-      <title>01net Awards&#160;: le meilleur smartphone pliant de 2025 est&#8230;</title>
-      <link>https://www.01net.com/actualites/01net-awards-le-meilleur-smartphone-pliant-de-lannee-est.html</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1314274</guid>
-      <description>La r&#233;daction de 01net.com d&#233;signe les meilleurs produits de l&#8217;ann&#233;e. D&#233;couvrez tous les jours les vainqueurs de chaque cat&#233;gorie jusqu&#8217;&#224; la remise des prix le 10 d&#233;cembre, en live s&#8217;il vous plait !</description>
-    </item>
-    <item>
-      <title>A New Meta Quest Probably Won&#8217;t Happen in 2026</title>
-      <link>https://gizmodo.com/meta-quest-4-release-date-not-coming-2026-2000696696</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:35 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696696</guid>
-      <description>Don't hold your breath, VR fans.</description>
-    </item>
-    <item>
-      <title>The Gang Is Rough Shape in First Posters for &#8216;Stranger Things 5&#8217; Volume 2</title>
-      <link>https://gizmodo.com/stranger-things-5-volume-2-character-posters-netflix-2000696770</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:12 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696770</guid>
-      <description>Will, Eleven, Mike and the rest are ready to continue the fight on December 25.</description>
-    </item>
-    <item>
-      <title>Skateboarding is better in hell</title>
-      <link>https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5</link>
-      <pubDate>2025-12-08T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=840004</guid>
-      <description>Skate Story is two very different things simultaneously. On the one hand, it's a visceral take on skateboarding, providing a tight, fast, ground-level view as you brute-force your way through tricks and combos. But it's also a surrealist trip through the underworld where you control a skateboarding demon who faces off against the devil. Think [&#8230;]</description>
-    </item>
-    <item>
-      <title>5 great free movies to stream on Tubi, Pluto TV, Samsung TV Plus and more this week (December 8)</title>
-      <link>https://www.techradar.com/streaming/5-great-free-movies-to-stream-on-tubi-pluto-tv-samsung-tv-plus-and-more-this-week-december-8</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">88T7DkGuJEPgoSP2dWbyvB</guid>
-      <description>From box office-smashing comedies to underrated fantasy adventures, there&#8217;s plenty to watch on the best free streaming services this week.</description>
-    </item>
-    <item>
-      <title>12 Pok&#233;mon gift ideas that make up for the lack of TCG stock &#8212; trust me, I have a Pikachu tattoo</title>
-      <link>https://www.techradar.com/gaming/gaming-accessories/12-pokemon-gift-ideas-that-make-up-for-the-lack-of-tcg-stock-trust-me-i-have-a-pikachu-tattoo</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">EAZFFK7MCXmBszDu9hedWe</guid>
-      <description>It's hard to find the right gift for a Pok&#233;mon enthusiast, but don't worry, I've used my 30 years of experience to pick some awesome presents for the holidays.</description>
-    </item>
-    <item>
-      <title>Best Guess Live is Netflix's take on HQ Trivia</title>
-      <link>https://www.engadget.com/entertainment/streaming/best-guess-live-is-netflixs-take-on-hq-trivia-170000030.html?src=rss</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2afd2fec-b868-4681-818e-9623f23eae6f</guid>
-      <description>Netflix has already committed to reviving Star Search for its streaming service, and now the company is turning its attention to a different type of live show: HQ Trivia. Netflix's Best Guess Live is an attempt to revive the late 2010s app-based show with what the company is calling its first "weekday mobile game show."Best Guess Live will be hosted by Howie Mandel (Deal or No Deal, America's Got Talent) and Hunter March (Sugar Rush) and will broadcast Monday through Friday at 8PM ET / 5PM PT. The game seems like it will lean on multiple choice questions much like HQ Trivia did, and will rewar...</description>
-    </item>
-    <item>
-      <title>10 free dating apps to try for winter 2025</title>
-      <link>https://mashable.com/roundup/best-free-dating-sites-apps</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01jPJXtwRdqkk4yJw3b1aGo</guid>
-      <description>We've rounded up the best free dating apps to try this year. Find love, a fling, or anything in between &#8212; no credit card required.</description>
-    </item>
-    <item>
-      <title>Voici quel est le meilleur appareil photo hybride de 2025 &#8211; Frandroid Awards 2025</title>
-      <link>https://www.frandroid.com/produits-android/2894457_voici-quel-est-le-meilleur-appareil-photo-hybride-de-2025-frandroid-awards-2025</link>
-      <pubDate>Mon, 08 Dec 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/2894457_voici-quel-est-le-meilleur-appareil-photo-hybride-de-2025-frandroid-awards-2025</guid>
-      <description>
-Le meilleur appareil photo hybride test&#233; par Frandroid est le Nikon Z5 II. D&#233;couvrez pourquoi ce produit a re&#231;u le Frandroid Awards avec Delos de sa cat&#233;gorie.
-</description>
-    </item>
-    <item>
-      <title>Ariana Grandes viral 6-7 moment in her Adam Sandler conversation shows, yes, shes online</title>
-      <link>https://mashable.com/article/ariana-grande-67-adam-sandler-interview</link>
-      <pubDate>Mon, 08 Dec 2025 16:55:05 +0000</pubDate>
-      <guid isPermaLink="false">03LPlghkFjnVM3v4sPUynlU</guid>
-      <description>Ariana Grande heard Adam Sandler say "6-7" and reacted like a parent wincing, awaiting their kid's response.</description>
-    </item>
-    <item>
-      <title>Petco&#8217;s security lapse affected customers&#8217; SSNs, drivers&#8217; licenses and more</title>
-      <link>https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/</link>
-      <pubDate>Mon, 08 Dec 2025 16:53:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3073736</guid>
-      <description>Petco said the exposure was due to an error in an application, and that it is notifying victims&#8217; whose data was affected.</description>
-    </item>
-    <item>
-      <title>Heat pump startup Quilt raises $20M Series B to expand sales</title>
-      <link>https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/</link>
-      <pubDate>Mon, 08 Dec 2025 16:52:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3073740</guid>
-      <description>Quilt has sold nearly 1,000 units in the U.S. and Canada, and the new funding should help expand sales operations to more states and provinces.</description>
-    </item>
-    <item>
-      <title>Meilleurs ordinateurs portables Acer : notre s&#233;lection de PC en 2025</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-ordinateurs/1532466_quels-sont-les-meilleurs-pc-portables-acer</link>
-      <pubDate>Mon, 08 Dec 2025 16:51:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-ordinateurs/1532466_quels-sont-les-meilleurs-pc-portables-acer</guid>
-      <description>
-La marque Acer est un mastodonte sur le secteur des ordinateurs portables. Vous aimez leurs machines mais vous ne savez pas quel mod&#232;le &#224; choisir ? Voici notre s&#233;lection des meilleurs PC portables Acer &#224; l'heure actuelle.
-</description>
-    </item>
-    <item>
-      <title>The developer behind ICEBlock is suing the federal government</title>
-      <link>https://www.engadget.com/general/the-developer-behind-iceblock-is-suing-the-federal-government-165111674.html?src=rss</link>
-      <pubDate>Mon, 08 Dec 2025 16:51:12 +0000</pubDate>
-      <guid isPermaLink="false">433e863e-b9da-444f-bd51-163b19e87e8e</guid>
-      <description>The makers of ICEBlock, the community-based reporting app for ICE sightings and activity, are suing the federal government, alleging "unlawful threats" made by Trump administration officials led to the app's removal from app stores. The suit centers on free speech violations and accuses the administration of coercing Apple into taking down the app in October. Google began taking down similar apps around the same time.
-Josh Aaron developed ICEBlock in response to the Trump administration's crackdown on illegal immigration. The app allowed users to pin ICE agent locations on a map as well as add...</description>
-    </item>
-    <item>
-      <title>250 Environmental Orgs Ask Congress for Moratorium on New Data Centers</title>
-      <link>https://gizmodo.com/250-environmental-orgs-ask-congress-for-moratorium-on-new-data-centers-2000696685</link>
-      <pubDate>Mon, 08 Dec 2025 16:50:41 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696685</guid>
-      <description>The "AI and crypto frenzy" is threatening American lives, the organizations say.</description>
-    </item>
-    <item>
-      <title>Musk Says Starlink, Not NASA, Is SpaceX&#8217;s Cash Cow</title>
-      <link>https://gizmodo.com/musk-says-starlink-not-nasa-is-spacexs-cash-cow-2000696780</link>
-      <pubDate>Mon, 08 Dec 2025 16:46:59 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000696780</guid>
-      <description>Amid media reports of skyrocketing valuation and a potential IPO for SpaceX, the company could have a lot to lose next year.</description>
-    </item>
-    <item>
-      <title>Trump says Netflix-Warner Bros. deal &#8216;could be a problem&#8217;</title>
-      <link>https://www.fastcompany.com/91456448/trump-netflix-warner-bros-deal-problem-market-share</link>
-      <pubDate>2025-12-08T16:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91456448/trump-netflix-warner-bros-deal-problem-market-share</guid>
-      <description>If approved by regulators, the merger would put two of the world&#8217;s biggest streaming services under the same ownership.
-President Donald Trump said Sunday that a deal struck by&#160;Netflix to buy Warner Bros. Discovery&#160;&#8220;could be a problem&#8221; because of the size of the combined market share.</description>
-    </item>
-    <item>
-      <title>The 47 Best REI Cyber Week Outdoor Deals (2025)</title>
-      <link>https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/</link>
-      <pubDate>Mon, 08 Dec 2025 16:42:20 +0000</pubDate>
-      <guid isPermaLink="false">69135bc29e6e0c240d2d720e</guid>
-      <description>Today is the final day of REI's sale, and deals are disappearing fast. Grab what you need with these great deals on tents, packs, and merino wool.</description>
-    </item>
-    <item>
-      <title>Amazon is bringing back Black Friday prices on its best-selling tech gadgets &#8212; Echo, Ring and Blink from $18</title>
-      <link>https://www.techradar.com/seasonal-sales/amazon-is-bringing-back-black-friday-prices-on-its-best-selling-tech-gadgets-echo-ring-and-blink-from-usd18</link>
-      <pubDate>Mon, 08 Dec 2025 16:38:45 +0000</pubDate>
-      <guid isPermaLink="false">bJtPqxgPRUWSucbBk5VCJh</guid>
-      <description>Amazon is bringing back Black Friday prices on its best-selling devices, and I'm rounding up the best deals on Echo speakers, Ring Doorbells, Blink cameras, and more.</description>
     </item>
   </channel>
 </rss>
