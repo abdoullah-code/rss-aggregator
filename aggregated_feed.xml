@@ -3,35 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 09 Dec 2025 01:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 03:23:54 GMT</lastBuildDate>
     <item>
-      <title>Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning</title>
-      <link>https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for</link>
-      <pubDate>Tue, 09 Dec 2025 01:03:00 GMT</pubDate>
-      <guid isPermaLink="false">yvM1QZYCqWRBWlZocFFCc</guid>
-      <description>Chinese AI startup Zhipu AI aka Z.ai has released its GLM-4.6V series, a new generation of open-source vision-language models (VLMs) optimized for multimodal reasoning, frontend automation, and high-efficiency deployment. The release includes two models in "large" and "small" sizes: GLM-4.6V (106B), a larger 106-billion parameter model aimed at cloud-scale inferenceGLM-4.6V-Flash (9B), a smaller model of only 9 billion parameters designed for low-latency, local applicationsRecall that generally speaking, models with more parameters &#8212; or internal settings governing their behavior, i.e. weights ...</description>
+      <title>OpenAI races Gemini 3 to the top with GPT&#8209;5.2 drop this week</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/openai-races-gemini-3-to-the-top-with-gpt-5-2-drop-this-week</link>
+      <pubDate>Tue, 09 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9J5QFFGWoXa3XqhzQRDjUD</guid>
+      <description>OpenAI is rushing out GPT&#8209;5.2 to regain its lead over Google&#8217;s Gemini 3, aiming to make ChatGPT faster, smarter, and more dependable.</description>
     </item>
     <item>
-      <title>Disney Destiny&#8217;s Hercules musical features a standout projection effect that I can&#8217;t stop talking about</title>
-      <link>https://www.techradar.com/streaming/entertainment/disney-destinys-hercules-musical-features-a-standout-projection-effect-worth-talking-about</link>
-      <pubDate>Tue, 09 Dec 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">fGSAk5i5FNwS2ouXieBaLm</guid>
-      <description>Disney&#8217;s Hercules musical on the Destiny pairs real-time tracking with coordinated projection and lighting to produce an onstage illusion that supports the storytelling.</description>
-    </item>
-    <item>
-      <title>The future of work&#160;can&#8217;t&#160;wait</title>
-      <link>https://www.fastcompany.com/91455920/the-future-of-work-cant-wait</link>
-      <pubDate>2025-12-09T00:10:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91455920/the-future-of-work-cant-wait</guid>
-      <description>AI driven learning can help close the skills gap facing U.S. employers.
-The U.S. workforce is facing a pivotal challenge: A widening skills gap that threatens economic growth and innovation. While demographic trends&#8212;like declining birth rates and a shrinking pipeline of young workers&#8212;are real, the more&#160;actionable issue is the growing mismatch between the skills&#160;employers&#160;need and those available in the labor market.&#160;&#160;...</description>
-    </item>
-    <item>
-      <title>Trump Says Nvidia Can Sell the H200 Chip to China</title>
-      <link>https://gizmodo.com/trump-says-nvidia-can-sell-the-h200-chip-to-china-2000697013</link>
-      <pubDate>Mon, 08 Dec 2025 23:58:49 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000697013</guid>
-      <description>The U.S government will take a 25% cut, according to the president.</description>
+      <title>What is the release date for South Park season 28 episode 5 on Paramount+?</title>
+      <link>https://www.techradar.com/streaming/paramount-plus/south-park-season-28-episode-5-release-date-time</link>
+      <pubDate>Tue, 09 Dec 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xnbqKQ3ej3izaNufbVUhmb</guid>
+      <description>Is Trump going to be on the naughty or nice list in South Park season 28 episode 5? And when will it stream on Paramount+?</description>
     </item>
   </channel>
 </rss>
