@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 10 Dec 2025 22:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 23:21:51 GMT</lastBuildDate>
+    <item>
+      <title>Trump could introduce &#8216;mandatory&#8217; social media reviews for travelers</title>
+      <link>https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers</link>
+      <pubDate>2025-12-10T18:21:05-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=842129</guid>
+      <description>The Trump administration could soon require tourists from dozens of nations to hand over their social media handles before entering the country. Under a proposal from US Customs and Border Protection, the agency would make social media history from the past five years a "mandatory" part of the screening process, as reported earlier by The [&#8230;]</description>
+    </item>
+    <item>
+      <title>Fire Up &#8216;Fallout: The Ghoul Log&#8217; and Irradiate Your Holidays</title>
+      <link>https://gizmodo.com/fire-up-fallout-the-ghoul-log-and-irradiate-your-holidays-2000698035</link>
+      <pubDate>Wed, 10 Dec 2025 23:00:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000698035</guid>
+      <description>Prime Video has released a festive video ahead of 'Fallout' season two, but be warned: that's not a log burning in the fire.</description>
+    </item>
+    <item>
+      <title>Should I abandon my iPhone for a return to Android? Tell me what to do</title>
+      <link>https://www.techradar.com/phones/iphone/should-i-abandon-my-iphone-for-a-return-to-android-tell-me-what-to-do</link>
+      <pubDate>Wed, 10 Dec 2025 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">eQCxCdNfoTELhxCkZDLwTc</guid>
+      <description>Tell me whether I should abandon my iPhone for a return to Android. Or not.</description>
+    </item>
+    <item>
+      <title>The 70% factuality ceiling: why Google&#8217;s new &#8216;FACTS&#8217; benchmark is a wake-up call for enterprise AI</title>
+      <link>https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call</link>
+      <pubDate>Wed, 10 Dec 2025 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">M3mgoBJoOEtdpvWd9JF58</guid>
+      <description>There's no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterprise tasks &#8212; from coding to instruction following to agentic web browsing and tool use. But many of these benchmarks have one major shortcoming: they measure the AI's ability to complete specific problems and requests, not how factual the model is in its outputs &#8212; how well it generates objectively correct information tied to real-world data &#8212; especially when dealing with information contained in imagery or graphics.For industries where accuracy i...</description>
+    </item>
+    <item>
+      <title>Beelink promises a 4-liter, 4-drive NAS that could put 120TB in the palm of your hand</title>
+      <link>https://www.techradar.com/pro/beelink-promises-a-4-liter-4-drive-nas-that-could-hold-120tb-in-the-palm-of-your-hand</link>
+      <pubDate>Wed, 10 Dec 2025 22:45:00 +0000</pubDate>
+      <guid isPermaLink="false">eoctB7zyNs9e4XnJnS4CYj</guid>
+      <description>Beelink&#8217;s ME Pro NAS compresses four drives into four liters, offering 120TB potential, but core specs remain unannounced.</description>
+    </item>
+    <item>
+      <title>Battle of the pivot tables: Diarmuid &#8216;The LeBron James of Excel&#8217; Early defeats three-time champion Andrew Ngai to claim the 2025 Excel World Championship and a $5,000 cash prize</title>
+      <link>https://www.techradar.com/pro/battle-of-the-pivot-tables-diarmuid-the-lebron-james-of-excel-defeats-three-time-champion-andrew-ngai-to-claim-the-2025-title-and-usd5-000-cash-prize</link>
+      <pubDate>Wed, 10 Dec 2025 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6hi6RTzocW44ZVG7MnRVMC</guid>
+      <description>Diarmuid Early won the 2025 Excel World Championship in Las Vegas, completing intense pivot table challenges and securing cash and a trophy.</description>
+    </item>
     <item>
       <title>Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm</title>
       <link>https://www.theverge.com/news/842053/spotify-ai-prompted-playlists</link>
@@ -26,7 +68,7 @@
       <description>Apple Music and Apple TV were briefly down during outage, according to Apple&#8217;s System Status page. The outage was logged on Apple&#8217;s own system at around 2:53PM ET and affected both of the company&#8217;s streaming services, along with Apple TV&#8217;s Channels feature, until the company resolved the issue around 4:31PM ET. On DownDetector, reports of issues with Apple TV and Apple Music first appeared right around 2:33PM ET, a little before Apple officially confirmed the outage on its own site. Only &#8220;some&#8221; users were affected by the outage, according to Apple, and anecdotally, multiple members of Engadget...</description>
     </item>
     <item>
-      <title>Nvidia is&#160;reportedly testing&#160;tracking software as chip smuggling&#160;rumors swirl</title>
+      <title>Nvidia is&#160;reportedly testing&#160;tracking software as chip-smuggling&#160;rumors swirl</title>
       <link>https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/</link>
       <pubDate>Wed, 10 Dec 2025 22:06:47 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3074807</guid>
@@ -52,6 +94,14 @@
       <pubDate>Wed, 10 Dec 2025 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">5XmNRvMEiNDyQZfRq2B3N5</guid>
       <description>McDonald&#8217;s removed an AI-made Christmas commercial after intense public backlash.</description>
+    </item>
+    <item>
+      <title>A brief history of Calibri, the &#8216;woke&#8217; font the Trump administration is replacing</title>
+      <link>https://www.fastcompany.com/91458062/brief-history-of-calibri-the-woke-font-trump-is-replacing</link>
+      <pubDate>2025-12-10T22:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91458062/brief-history-of-calibri-the-woke-font-trump-is-replacing</guid>
+      <description>The type designer behind Calibri says the decision to replace his font with Times New Roman as the official U.S. State Department typeface is &#8216;hilarious and regrettable.&#8217; 
+Calibri and Times New Roman have been at war for years. And now the two fonts are once again pitted against each other after the U.S. State Department declared it will be swapping its current official typeface, Calibri, for Times New Roman. It&#8217;s a full circle moment, considering the State Department ditched Times New Roman for Calibri in just 2023....</description>
     </item>
     <item>
       <title>Meta is reportedly working on a new AI model called 'Avocado' and it might not be open source</title>
@@ -80,70 +130,6 @@
       <pubDate>2025-12-10T16:31:06-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop</guid>
       <description>Today&#8217;s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it&#8217;s easy to forget that they can just be simple machines that get us from point A to point B. Yes, some bots blow hot air on their bums (mop pads), deftly navigate dog poop, [&#8230;]</description>
-    </item>
-    <item>
-      <title>True Classic Tees Deals for the 2025 Holidays: 25 Percent Off Crew Necks</title>
-      <link>https://www.wired.com/story/true-classic-tees-flash-deals-december-2025/</link>
-      <pubDate>Wed, 10 Dec 2025 21:19:28 +0000</pubDate>
-      <guid isPermaLink="false">6939c7358d85d77833f7b8a9</guid>
-      <description>True Classic Tees is running holiday &#8220;flash deals&#8221; with some of the best prices we've seen in months.</description>
-    </item>
-    <item>
-      <title>New study: Women are more likely to be penalized for working remotely than men</title>
-      <link>https://www.fastcompany.com/91458285/new-study-women-are-more-likely-to-be-penalized-for-working-remotely-than-men</link>
-      <pubDate>2025-12-10T21:15:27</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91458285/new-study-women-are-more-likely-to-be-penalized-for-working-remotely-than-men</guid>
-      <description>A new McKinsey and Lean In report shows companies are backsliding on gender equity&#8212;and punishing women for working remotely even as men skate by.
-The consulting firm McKinsey and women&#8217;s nonprofit Lean In just released their annual Women in the Workplace report, which examines how gender disparities are impacting womens&#8217; career prospects. Unfortunately, this year&#8217;s results show that companies are backsliding on their commitment to workplace equity&#8212;and one way that&#8217;s harming women is by making it more difficult for them to work remotely....</description>
-    </item>
-    <item>
-      <title>CEO of South Korean retail giant Coupang resigns after massive data breach</title>
-      <link>https://techcrunch.com/2025/12/10/ceo-of-south-korean-retail-giant-coupang-resigns-after-massive-data-breach/</link>
-      <pubDate>Wed, 10 Dec 2025 21:06:55 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3074924</guid>
-      <description>The massive data breach at the South Korean retail giant Coupang affects more than half of the country's population.</description>
-    </item>
-    <item>
-      <title>This Week&#8217;s &#8216;Mighty Nein&#8217; Inherits the Beef Between Its 2 Best Characters</title>
-      <link>https://gizmodo.com/this-weeks-mighty-nein-inherits-the-beef-between-its-2-best-characters-2000694310</link>
-      <pubDate>Wed, 10 Dec 2025 21:00:23 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000694310</guid>
-      <description>The Mighty Nein will become a great, well-oiled party someday, but first, they've got some kinks to work out.</description>
-    </item>
-    <item>
-      <title>The Verge&#8217;s favorite holiday gifts under $100</title>
-      <link>https://www.theverge.com/tech/800440/best-gifts-under-100-2025</link>
-      <pubDate>2025-12-10T16:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=800440</guid>
-      <description>Between all the new phones, smartwatches, and laptops we see throughout the year, it often feels like we're constantly being nudged toward shinier, more expensive gadgets. And I get it. As a self-professed gadget nerd, few things are more exciting than unboxing and setting up a new device. But the truth is, you can still [&#8230;]</description>
-    </item>
-    <item>
-      <title>Eufy&#8217;s Best Robot Vacuum Is $405 Off (2025)</title>
-      <link>https://www.wired.com/story/the-best-robot-vacuum-deal-2025/</link>
-      <pubDate>Wed, 10 Dec 2025 20:54:00 +0000</pubDate>
-      <guid isPermaLink="false">6939c384ac300a7f1db48d19</guid>
-      <description>Eufy&#8217;s last-season robot vacuum-mop has a crazy price cut. Grab it before it&#8217;s gone.</description>
-    </item>
-    <item>
-      <title>Spotify's new playlist feature gives users more control over their recommendation algorithm</title>
-      <link>https://www.engadget.com/entertainment/music/spotifys-new-playlist-feature-gives-users-more-control-over-their-recommendation-algorithm-203237903.html?src=rss</link>
-      <pubDate>Wed, 10 Dec 2025 20:32:37 +0000</pubDate>
-      <guid isPermaLink="false">d363f959-a9d1-4f31-9725-f863e4fe7a59</guid>
-      <description>Spotify is attempting to give users more control over the music the streaming service recommends with a new playlist feature called "Prompted Playlist." The beta feature is rolling out in New Zealand starting on December 11, and will let users write a custom prompt that Spotify can use &#8212; alongside their listening history &#8212; to create a playlist of new music.By tapping on Prompted Playlist, Spotify subscribers participating in the beta will be presented with a prompt field where they can type exactly what they want to hear and how they want Spotify's algorithm to respond. And while past AI featu...</description>
-    </item>
-    <item>
-      <title>Finally! Another external USB4 SSD hit the market &#8212; and this one is likely to be far more affordable than rivals</title>
-      <link>https://www.techradar.com/pro/finally-another-external-usb4-ssd-hit-the-market-and-this-one-is-likely-to-be-far-more-affordable-than-rivals</link>
-      <pubDate>Wed, 10 Dec 2025 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">QRXjtqQi2wYnPe7Ugt34ta</guid>
-      <description>TeamGroup PD40 is a lightweight, travel-ready USB4 SSD offering strong performance, broad compatibility, and appealing value.</description>
-    </item>
-    <item>
-      <title>The best smart rings for tracking sleep and health</title>
-      <link>https://www.theverge.com/tech/647901/best-smart-rings</link>
-      <pubDate>2025-12-10T15:29:50-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=647901</guid>
-      <description>So, you&#8217;re thinking of buying a smart ring. Well, some good news. Picking the best of the lot is incredibly easy right now. The &#8220;bad&#8221; news is that, as far as trustworthiness and reliability, your choices are somewhat limited, as this is still a niche and emerging gadget category. Smart rings are in the middle [&#8230;]</description>
     </item>
   </channel>
 </rss>
