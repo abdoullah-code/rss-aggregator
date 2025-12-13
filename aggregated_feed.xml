@@ -3,7 +3,55 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 13 Dec 2025 16:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 17:21:21 GMT</lastBuildDate>
+    <item>
+      <title>Slab is the first MIDI controller built exclusively for Serato Studio</title>
+      <link>https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio</link>
+      <pubDate>2025-12-13T12:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=839732</guid>
+      <description>Native Instruments and Ableton have had incredible success with their custom MIDI controllers that integrate with their DAWs (digital audio workstations), Maschine and Live, respectively. Native Instruments' Maschine (yes, it's the name of the hardware and the software) and Ableton's Push are pretty much the gold standard for integration between music-making software and hardware. Serato [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The Bosch Tassimo Finesse Friendly is a super affordable coffee maker, but beware &#8211; there's a catch that means it could cost you in the long run</title>
+      <link>https://www.techradar.com/home/coffee-machines/bosch-tassimo-finesse-friendly-review</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6NbbYbJgJ97fJe9U2aWBg8</guid>
+      <description>Looking for a cheap and cheerful coffee maker? The Finesse Friendly could be the one for you, but mind how much you're spending on pods.</description>
+    </item>
+    <item>
+      <title>Test du Shark StainForce : voici un d&#233;tacheur compact et sans-fil &#224; l&#8217;efficacit&#233; redoutable</title>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/2894315_test-du-shark-stainforce-voici-un-detacheur-compact-et-sans-fil-a-lefficacite-redoutable</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/2894315_test-du-shark-stainforce-voici-un-detacheur-compact-et-sans-fil-a-lefficacite-redoutable</guid>
+      <description>
+Avec le StainForce, Shark propose un d&#233;tacheur bien plus compact que les mod&#232;les traditionnels, convenant particuli&#232;rement pour les usages occasionnels et les petits espaces. Nous l'avons test&#233; sur des taches difficiles, verdict dans ce test complet.
+</description>
+    </item>
+    <item>
+      <title>Cette option m&#233;connue de Windows 11 va vous changer la vie quand un programme plante</title>
+      <link>https://www.frandroid.com/marques/microsoft/2908361_cette-option-meconnue-de-windows-11-va-vous-changer-la-vie-quand-un-programme-plante</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/2908361_cette-option-meconnue-de-windows-11-va-vous-changer-la-vie-quand-un-programme-plante</guid>
+      <description>
+On vous dit comment activer un raccourci tr&#232;s pratique pour forcer la fermeture des applications qui plantent sur Windows 11.
+</description>
+    </item>
+    <item>
+      <title>Voici le meilleur appareil photo compact de l&#8217;ann&#233;e &#8211; Frandroid Awards 2025</title>
+      <link>https://www.frandroid.com/produits-android/2903509_voici-le-meilleur-appareil-photo-compact-de-lannee-frandroid-awards-2025</link>
+      <pubDate>Sat, 13 Dec 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/2903509_voici-le-meilleur-appareil-photo-compact-de-lannee-frandroid-awards-2025</guid>
+      <description>
+Le meilleur bo&#238;tier photo compact de l'ann&#233;e sur Frandroid est le Ricoh GR IV. D&#233;couvrez pourquoi ce produit a re&#231;u le Frandroid Awards avec Delos de sa cat&#233;gorie.
+</description>
+    </item>
+    <item>
+      <title>macOS Tahoe 26.2 has landed, with a helpful new upgrade for your video calls</title>
+      <link>https://www.techradar.com/computing/mac-os/macos-tahoe-26-2-has-landed-with-a-helpful-new-upgrade-for-your-video-calls</link>
+      <pubDate>Sat, 13 Dec 2025 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">MRqU2NfSLpQSVM5QuCQVfM</guid>
+      <description>Once you get the new macOS Tahoe 26.2 update, you can try out Edge Light if you've got an Apple Silicon Mac.</description>
+    </item>
     <item>
       <title>Amazon brade d&#233;j&#224; &#224; moins de 20 &#8364; sa nouvelle cl&#233; HDMI &#233;quip&#233;e de la nouvelle interface Vega OS</title>
       <link>https://www.frandroid.com/bons-plans/2906771_amazon-brade-deja-a-moins-de-20-e-sa-nouvelle-cle-hdmi-equipee-de-la-nouvelle-interface-vega-os</link>
@@ -33,80 +81,6 @@ Le g&#233;ant Amazon, d&#233;j&#224; bien install&#233; dans nos salons via sa b
       <pubDate>Sat, 13 Dec 2025 15:30:33 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000699272</guid>
       <description>Want to know what to expect from 'Avengers: Doomsday'? You'll be waiting in the theater or from your home for a month-long rollout.</description>
-    </item>
-    <item>
-      <title>The Nex Playground and Pixel Buds 2A top our list of the best deals this week</title>
-      <link>https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale</link>
-      <pubDate>2025-12-13T10:16:08-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=844093</guid>
-      <description>The Nex Playground is apparently one of the hottest consoles this holiday season thanks to its kid-friendly games and fun, motion-controlled gameplay. And now through December 14th, the cube-shaped console is on sale for its Black Friday low of around $199 ($50 off) at Amazon. There are some other great deals still available you might [&#8230;]</description>
-    </item>
-    <item>
-      <title>Test de la Coros Pace 4 : une montre de sport l&#233;g&#232;re et accessible, taill&#233;e pour la performance</title>
-      <link>https://www.frandroid.com/marques/coros/2891639_test-de-la-coros-pace-4-une-montre-de-sport-legere-et-accessible-taillee-pour-la-performance</link>
-      <pubDate>Sat, 13 Dec 2025 15:16:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/coros/2891639_test-de-la-coros-pace-4-une-montre-de-sport-legere-et-accessible-taillee-pour-la-performance</guid>
-      <description>
-Nouvelle montre entr&#233;e de gamme de Coros, la Pace 4 promet &#224; la fois pr&#233;cision des donn&#233;es, format l&#233;ger et &#233;cran Amoled lumineux. Voici son test complet. 
-</description>
-    </item>
-    <item>
-      <title>TSA Sending Info on Domestic Travelers to ICE for Deportation Arrests</title>
-      <link>https://gizmodo.com/tsa-sending-info-on-domestic-travelers-to-ice-for-deportation-arrests-2000699352</link>
-      <pubDate>Sat, 13 Dec 2025 15:05:53 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699352</guid>
-      <description>The program has been running since March but we're only learning about it now.</description>
-    </item>
-    <item>
-      <title>The best thing I bought this year: a portable mechanical keyboard</title>
-      <link>https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite</link>
-      <pubDate>2025-12-13T10:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=843455</guid>
-      <description>As a writer, I take the tools of my trade relatively seriously. I&#8217;m not crazy enough to drop $3,600 on a keyboard, but I also find typing on a MacBook for extended periods of time deeply unsatisfying &#8212; and distracting. So this spring, I started looking into distraction-free writing setups, which included an e-reader / [&#8230;]</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Sunday, December 14 (game #651)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-14-december-2025</link>
-      <pubDate>Sat, 13 Dec 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">DjdoQN7SLi3pBha6RS9FTK</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>Quordle hints and answers for Sunday, December 14 (game #1420)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-14-december-2025</link>
-      <pubDate>Sat, 13 Dec 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">PAYKrau7v6asntqRKzL2rL</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>I switched from the iPhone 15 Pro to the iPhone 17 Pro, and I don't regret it &#8211; here's why</title>
-      <link>https://www.techradar.com/phones/iphone/i-switched-from-the-iphone-15-pro-to-the-iphone-17-pro-and-i-dont-regret-it-heres-why</link>
-      <pubDate>Sat, 13 Dec 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">PLsa9THhuFyUPyUKgqQSrM</guid>
-      <description>I upgraded my iPhone when I probably didn't need to &#8211; here are the main changes in two years of Apple development.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Sunday, December 14 (game #917)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-14-december-2025</link>
-      <pubDate>Sat, 13 Dec 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">UicNTiBtEEamECEuM64aqH</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>How to watch Flamengo vs. Pyramids FC online for free</title>
-      <link>https://mashable.com/article/flamengo-pyramids-fc-fifa-intercontinental-cup-2025-live-stream-for-free</link>
-      <pubDate>Sat, 13 Dec 2025 14:45:54 +0000</pubDate>
-      <guid isPermaLink="false">07ca090vfBNffPJJ0qDJ7kh</guid>
-      <description>How to watch FIFA Intercontinental Cup for free. Live stream Flamengo vs. Pyramids FC in the FIFA Intercontinental Cup for free.</description>
-    </item>
-    <item>
-      <title>Reportage vid&#233;o &#8211; Avatar 3 : comment ce film bouleverse la tech dans le cin&#233;ma</title>
-      <link>https://www.frandroid.com/comment-faire/comment-fonctionne-la-technologie/2908895_reportage-dans-les-coulisses-davatar-3-comment-ce-film-bouleverse-la-tech-dans-le-cinema</link>
-      <pubDate>Sat, 13 Dec 2025 14:34:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/comment-fonctionne-la-technologie/2908895_reportage-dans-les-coulisses-davatar-3-comment-ce-film-bouleverse-la-tech-dans-le-cinema</guid>
-      <description>
-Avatar : De feu et de cendres d&#233;barque au cin&#233;ma ce mercredi 17 d&#233;cembre 2025. Plus qu'un blockbuster, c'est un d&#233;fi technologique et nous proposons d'en d&#233;couvrir les coulisses en vid&#233;o.
-</description>
     </item>
   </channel>
 </rss>
