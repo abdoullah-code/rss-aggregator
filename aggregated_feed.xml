@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 14 Dec 2025 21:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 22:22:29 GMT</lastBuildDate>
+    <item>
+      <title>Google pulls AI-generated videos of Disney characters from YouTube in response to cease and desist</title>
+      <link>https://www.engadget.com/ai/google-pulls-ai-generated-videos-of-disney-characters-from-youtube-in-response-to-cease-and-desist-220849629.html?src=rss</link>
+      <pubDate>Sun, 14 Dec 2025 22:08:49 +0000</pubDate>
+      <guid isPermaLink="false">5b284455-8ecd-49e2-958b-def7e2e8ef6e</guid>
+      <description>Google seems to be cracking down on the use of Disney characters in AI-generated videos on YouTube after it was hit with a cease and desist letter. According to reports by Variety and Deadline, the company removed dozens of videos featuring Deadpool, Moana, Mickey Mouse, Star Wars characters and other Disney IP as of Friday, just days after Disney accused it of "infringing Disney&#8217;s copyrights on a massive scale." The letter, seen by both publications earlier this week, called out Google not just for hosting these videos on YouTube, but also for using copyrighted works to train models including...</description>
+    </item>
+    <item>
+      <title>Mesa shuts down credit card that rewarded cardholders for paying their mortgages</title>
+      <link>https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/</link>
+      <pubDate>Sun, 14 Dec 2025 21:37:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3075818</guid>
+      <description>Fintech startup Mesa has shut down its Homeowners Card, which awarded points to cardholders for paying their mortgages.</description>
+    </item>
+    <item>
+      <title>Grok is spreading misinformation about the Bondi Beach shooting</title>
+      <link>https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting</link>
+      <pubDate>2025-12-14T16:24:24-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=844443</guid>
+      <description>Grok's track record is spotty at best. But even by the very low standards of xAI, its failure in the aftermath of the tragic mass shooting at Bondi Beach in Australia is shocking. The AI chatbot has repeatedly misidentified 43-year-old Ahmed al Ahmed, the man who heroically disarmed one of the shooters, and claimed the [&#8230;]</description>
+    </item>
     <item>
       <title>The New &#8216;Paranormal Activity&#8217; May Have Already Found Its Director</title>
       <link>https://gizmodo.com/the-new-paranormal-activity-may-have-already-found-its-director-2000699521</link>
@@ -25,13 +46,6 @@
       <guid isPermaLink="false">6b507a2b-a33d-4f63-9ac6-fa3b5bdc7415</guid>
       <description>In the same month that Grok opted for a second Holocaust over vaporizing Elon Musk's brain, the AI chatbot is on the fritz again. Following the Bondi Beach shooting in Australia during a festival to mark the start of Hanukkah, Grok is responding to user requests with inaccurate or completely unrelated info, as first spotted by Gizmodo.
 Grok's confusion seems to be most apparent with a viral video that shows a 43-year-old bystander, identified as Ahmed al Ahmed, wrestling a gun away from an attacker during the incident, which has left at least 16 dead, according to the latest news reports. Grok...</description>
-    </item>
-    <item>
-      <title>&#8216;Fate of the Republic&#8217; Will (Probably?) Be Out Before Decade&#8217;s End</title>
-      <link>https://gizmodo.com/fate-of-the-republic-will-probably-be-out-before-decades-end-2000699519</link>
-      <pubDate>Sun, 14 Dec 2025 19:50:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699519</guid>
-      <description>If Arcanauts has its way, it won't be too long of a wait for 'Fate of the Old Republic'...but you're gonna do some waiting regardless.</description>
     </item>
   </channel>
 </rss>
