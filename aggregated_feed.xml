@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 14 Dec 2025 22:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 23:22:20 GMT</lastBuildDate>
+    <item>
+      <title>Grok gets the facts wrong about Bondi Beach shooting</title>
+      <link>https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/</link>
+      <pubDate>Sun, 14 Dec 2025 23:17:47 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3075822</guid>
+      <description>Grok, the chatbot built by Elon Musk&#8217;s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today&#8217;s mass shooting at Bondi Beach in Australia.</description>
+    </item>
     <item>
       <title>Google pulls AI-generated videos of Disney characters from YouTube in response to cease and desist</title>
       <link>https://www.engadget.com/ai/google-pulls-ai-generated-videos-of-disney-characters-from-youtube-in-response-to-cease-and-desist-220849629.html?src=rss</link>
@@ -24,28 +31,6 @@
       <pubDate>2025-12-14T16:24:24-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=844443</guid>
       <description>Grok's track record is spotty at best. But even by the very low standards of xAI, its failure in the aftermath of the tragic mass shooting at Bondi Beach in Australia is shocking. The AI chatbot has repeatedly misidentified 43-year-old Ahmed al Ahmed, the man who heroically disarmed one of the shooters, and claimed the [&#8230;]</description>
-    </item>
-    <item>
-      <title>The New &#8216;Paranormal Activity&#8217; May Have Already Found Its Director</title>
-      <link>https://gizmodo.com/the-new-paranormal-activity-may-have-already-found-its-director-2000699521</link>
-      <pubDate>Sun, 14 Dec 2025 21:15:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699521</guid>
-      <description>A fresh new face with similar tastes could take the reigns for the return of 'Paranormal Activity.'</description>
-    </item>
-    <item>
-      <title>Lenny Kravitz&#8217;s pirate king Bawma fronts the villains of IO Interactive&#8217;s bold James Bond reimagining 007 First Light</title>
-      <link>https://www.techradar.com/gaming/lenny-kravitzs-pirate-king-bawma-fronts-the-villains-of-io-interactives-bold-reimagining-of-james-bond-in-007-first-light</link>
-      <pubDate>Sun, 14 Dec 2025 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4W57JBZQKsMMpASqjweSs5</guid>
-      <description>IO Interactive&#8217;s Senior Licensing Producer, Theuns Smit, explains creating the ultimate spy-thriller experience through presentation and gameplay.</description>
-    </item>
-    <item>
-      <title>Grok is spreading inaccurate info again, this time about the Bondi Beach shooting</title>
-      <link>https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss</link>
-      <pubDate>Sun, 14 Dec 2025 20:39:47 +0000</pubDate>
-      <guid isPermaLink="false">6b507a2b-a33d-4f63-9ac6-fa3b5bdc7415</guid>
-      <description>In the same month that Grok opted for a second Holocaust over vaporizing Elon Musk's brain, the AI chatbot is on the fritz again. Following the Bondi Beach shooting in Australia during a festival to mark the start of Hanukkah, Grok is responding to user requests with inaccurate or completely unrelated info, as first spotted by Gizmodo.
-Grok's confusion seems to be most apparent with a viral video that shows a 43-year-old bystander, identified as Ahmed al Ahmed, wrestling a gun away from an attacker during the incident, which has left at least 16 dead, according to the latest news reports. Grok...</description>
     </item>
   </channel>
 </rss>
