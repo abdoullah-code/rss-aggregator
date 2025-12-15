@@ -3,7 +3,77 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 15 Dec 2025 21:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 22:25:22 GMT</lastBuildDate>
+    <item>
+      <title>Valve Has the Secret to Playing Your Games Everywhere, and It&#8217;s Not Streaming</title>
+      <link>https://gizmodo.com/valve-has-the-secret-to-playing-your-games-everywhere-and-its-not-streaming-2000699887</link>
+      <pubDate>Mon, 15 Dec 2025 22:24:28 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000699887</guid>
+      <description>Sorry, Game Pass, but Steam may soon bring your games to every platform.</description>
+    </item>
+    <item>
+      <title>Hasbro&#8217;s New &#8216;Deadpool &amp; Wolverine&#8217; Figures Let Cassandra Nova Do That Horrifying Face Thing</title>
+      <link>https://gizmodo.com/marvel-legends-deadpool-and-wolverine-blade-cassandra-nova-x-23-2000699866</link>
+      <pubDate>Mon, 15 Dec 2025 22:20:07 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000699866</guid>
+      <description>Plus, Wesley Snipe's Blade gets the Marvel Legends action figure he's long deserved.</description>
+    </item>
+    <item>
+      <title>Disney&#8217;s OpenAI deal is exclusive for just one year  &#8212; then it&#8217;s open season</title>
+      <link>https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/</link>
+      <pubDate>Mon, 15 Dec 2025 22:17:36 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3076160</guid>
+      <description>After the one year is up, Disney is free to sign similar deals with other AI companies.</description>
+    </item>
+    <item>
+      <title>World's smallest AI supercomputer achieves world record with 120B-parameter LLM support on-device &#8212; what I don't understand, though, is how it does OTA hardware upgrades</title>
+      <link>https://www.techradar.com/pro/worlds-smallest-ai-supercomputer-achieves-world-record-with-120b-parameter-llm-support-on-device-what-i-dont-understand-though-is-how-it-does-ota-hardware-upgrades</link>
+      <pubDate>Mon, 15 Dec 2025 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">BS5FHWi7kJ6Tj738DDhate</guid>
+      <description>Tiiny AI Pocket Lab is a pocket-sized Mini PC running large language models offline with optimized CPU and NPU performance.</description>
+    </item>
+    <item>
+      <title>Apple TV adds Google Cast streaming, but only on Android</title>
+      <link>https://www.theverge.com/news/844867/apple-tv-google-cast-android</link>
+      <pubDate>2025-12-15T17:11:46-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=844867</guid>
+      <description>Now it will be easier for Android users to watch Apple TV content on their TV with the addition of Google Cast support. However, even after this update, Google Cast is only an option on the Android version of Apple TV, not the iOS version. Likewise, the Android version still doesn't support AirPlay. The addition [&#8230;]</description>
+    </item>
+    <item>
+      <title>Nvidia&#160;bulks up&#160;open source&#160;offerings with an acquisition and new open AI models</title>
+      <link>https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/</link>
+      <pubDate>Mon, 15 Dec 2025 22:00:57 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3076166</guid>
+      <description>Nvidia acquired SchedMD, the lead developer of Slurm, and launched the Nemotron 3 family of open source AI models.</description>
+    </item>
+    <item>
+      <title>I tested 15 cases for the Switch 2 and these are the best</title>
+      <link>https://www.theverge.com/reviews/691319/best-switch-2-cases</link>
+      <pubDate>2025-12-15T16:50:50-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=691319</guid>
+      <description>You might find it kind of sad to put your hard-earned Switch 2 into a protective case. To me, it&#8217;s freeing. Sure, it can take away from the slick design. But using a case relieves me of the worry that the console will accumulate tons of little scratches, or worse. I&#8217;ve tested several types of [&#8230;]</description>
+    </item>
+    <item>
+      <title>LG TVs Get Unremovable Microsoft Copilot App</title>
+      <link>https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870</link>
+      <pubDate>Mon, 15 Dec 2025 21:45:48 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000699870</guid>
+      <description>Users are not thrilled.</description>
+    </item>
+    <item>
+      <title>Chinese Spacecraft Got Disturbingly Close to Smashing Into a Starlink Satellite</title>
+      <link>https://gizmodo.com/chinese-spacecraft-got-disturbingly-close-to-smashing-into-a-starlink-satellite-2000699907</link>
+      <pubDate>Mon, 15 Dec 2025 21:35:30 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000699907</guid>
+      <description>The close call underscores the need for improved coordination between satellite operators, Starlink&#8217;s vice president of engineering said.</description>
+    </item>
+    <item>
+      <title>Talk about a snappy attack - popular photo booth maker allegedly leaves user images at risk</title>
+      <link>https://www.techradar.com/pro/security/talk-about-a-snappy-attack-popular-photo-booth-maker-allegedly-leaves-user-images-at-risk</link>
+      <pubDate>Mon, 15 Dec 2025 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">pif9edbeC8sgDPgzFVp3PF</guid>
+      <description>Photos taken at booths get uploaded on the internet where they can easily be downloaded.</description>
+    </item>
     <item>
       <title>Disney Is Prepping a New Gaston &#8216;Beauty and the Beast&#8217; Spinoff</title>
       <link>https://gizmodo.com/disney-gaston-beauty-and-the-beast-spinoff-2000699896</link>
@@ -23,7 +93,7 @@
       <link>https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/</link>
       <pubDate>Mon, 15 Dec 2025 21:17:45 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3076153</guid>
-      <description>Amid Ford&#8217;s shift away from making large electric vehicles, the automaker is adding a new product line to find a home for its batteries. Ford said Monday that instead of scuttling plans&#160;to build&#160;the&#160;batteries&#160;for those vehicles, it will pivot that&#160;capacity into&#160;a new battery storage business. Those storage systems, which will use cheaper LFP batteries, will be [&#8230;]...</description>
+      <description>Ford will invest about $2 billion into the new business over the next two years.</description>
     </item>
     <item>
       <title>Ford Kills the All-Electric F-150 as It Rethinks Its EV Ambitions</title>
@@ -66,6 +136,14 @@
       <pubDate>Mon, 15 Dec 2025 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">Lu3AbBLow6Gw3BNnDajHJ8</guid>
       <description>I was going to be RPG'ing on my PS5 Pro over the holidays, but now I might play Doom in my browser instead.</description>
+    </item>
+    <item>
+      <title>The 18-to-24 demo is taking over LinkedIn</title>
+      <link>https://www.fastcompany.com/91453762/the-18-to-24-demo-is-taking-over-linkedin</link>
+      <pubDate>2025-12-15T21:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91453762/the-18-to-24-demo-is-taking-over-linkedin</guid>
+      <description>Career pressure is setting in younger and younger.
+LinkedIn is often seen as the purview of recruiters and thought leaders. But the professional networking platform is quietly attracting a rather unexpected audience.</description>
     </item>
     <item>
       <title>I tested out GMKtec NucBox M8 and it's an ideal option for space-restricted offices and packs some serious expansion options</title>
@@ -142,78 +220,12 @@ Alongside the release date and price announcement, Bungie released a 23-minute v
       <description>OneXPlayer&#8217;s Super X is a 14-inch hybrid tablet-laptop with AMD Ryzen AI Max+ 395, 128GB RAM, and liquid cooling.</description>
     </item>
     <item>
-      <title>Marvel&#8217;s Grand &#8216;Avengers: Doomsday&#8217; Plans Have Started Hitting the Web</title>
-      <link>https://gizmodo.com/avengers-doomsday-trailer-leak-reveal-chris-evans-2000699881</link>
-      <pubDate>Mon, 15 Dec 2025 20:20:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699881</guid>
-      <description>A leaked teaser trailer seemingly reveals that another major Avenger is making their return.</description>
-    </item>
-    <item>
-      <title>Samsung's surprising stealth superfast SSD surfaces silently &#8212; PM9E1 turns out to be a mini-9100 Pro measuring just 22 x 42mm with PCIe Gen5 capabilities</title>
-      <link>https://www.techradar.com/pro/samsungs-surprising-stealth-superfast-ssd-surfaces-silently-pm9e1-turns-out-to-be-a-mini-9100-pro-measuring-just-22-x-42mm-with-pcie-gen5-capabilities</link>
-      <pubDate>Mon, 15 Dec 2025 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">uqMmKaSCWLsLZbfVhd3tqD</guid>
-      <description>Samsung&#8217;s PM9E1 combines PCIe Gen5 speeds with an ultra-compact form factor, highlighting technical progress while exposing practical limits.</description>
-    </item>
-    <item>
-      <title>Investors are Using the Same Tool as &#8216;The Big Short&#8217; Guys to Hedge Against an AI Bubble</title>
-      <link>https://gizmodo.com/investors-are-using-the-same-tool-as-the-big-short-guys-to-hedge-against-an-ai-bubble-2000699860</link>
-      <pubDate>Mon, 15 Dec 2025 20:00:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699860</guid>
-      <description>That's a good sign, right?</description>
-    </item>
-    <item>
-      <title>Christianity May Have Brought Face Tattoos to Medieval Nubia</title>
-      <link>https://gizmodo.com/christianity-may-have-brought-face-tattoos-to-medieval-nubia-2000699441</link>
-      <pubDate>Mon, 15 Dec 2025 20:00:52 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699441</guid>
-      <description>Researchers traced tattoos across hundreds of human remains from northeastern Africa.</description>
-    </item>
-    <item>
-      <title>Tom Freston&#8217;s new memoir shows how a &#8216;bebop lifestyle&#8217; can lead to success</title>
-      <link>https://www.fastcompany.com/91460800/tom-freston-memoir-unplugged</link>
-      <pubDate>2025-12-15T19:59:18</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91460800/tom-freston-memoir-unplugged</guid>
-      <description>He hopes readers, especially younger ones, appreciate the musical notes of his life and apply it to their own.
-Tom Freston could easily fill a book with stories from the formative days of MTV and his celebrity encounters &#8212; Bono would merit a few chapters on his own. Ultimately, though, Freston feels that his life has a more valuable lesson to offer....</description>
-    </item>
-    <item>
-      <title>Merriam-Webster names &#8216;slop&#8217; the word of the year</title>
-      <link>https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/</link>
-      <pubDate>Mon, 15 Dec 2025 19:47:53 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3075979</guid>
-      <description>AI-generated content has dominated the internet over the past year, and America's dictionary took note.</description>
-    </item>
-    <item>
-      <title>&#8216;It: Welcome to Derry&#8217; Star Taylour Paige Wasn&#8217;t Happy With Her Character&#8217;s Big Choice</title>
-      <link>https://gizmodo.com/it-welcome-to-derry-star-taylour-paige-wasnt-happy-with-her-characters-big-choice-2000699800</link>
-      <pubDate>Mon, 15 Dec 2025 19:45:31 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699800</guid>
-      <description>The Stephen King adaptation wrapped up its first season on HBO last night with plenty of mayhem and a few plot contortions.</description>
-    </item>
-    <item>
-      <title>How Connecticut became a hot spot for Hallmark holiday movie fans</title>
-      <link>https://www.fastcompany.com/91460788/connecticut-hallmark-holiday-movies-fans-tours</link>
-      <pubDate>2025-12-15T19:33:08</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91460788/connecticut-hallmark-holiday-movies-fans-tours</guid>
-      <description>Connecticut&#8217;s Christmas Movie Trail is part of a multipronged rebranding effort.
-&#8220;Christmas at Pemberley Manor&#8221; and &#8220;Romance at Reindeer Lodge&#8221; may never make it to Oscar night, but legions of fans still love these sweet-yet-predictable holiday movies&#8212;and this season, many are making pilgrimages to where their favorite scenes were filmed.</description>
-    </item>
-    <item>
-      <title>AI&#8217;s $16 trillion problem: It still isn&#8217;t working on the factory floor</title>
-      <link>https://www.fastcompany.com/91446538/ai-manufacturing-factories</link>
-      <pubDate>2025-12-15T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91446538/ai-manufacturing-factories</guid>
-      <description>Why artificial intelligence isn&#8217;t fulfilling its potential in manufacturing and how that could change soon.
-In theory, AI should have transformed manufacturing by now. From predictive maintenance and fatigue detection to real-time quality control, the promise has always been smarter, faster, and safer operations. But in practice, the factory floor is still a place where AI ambitions often run into real-world limitations....</description>
-    </item>
-    <item>
-      <title>New survey reveals this surprising fact about companies that successfully use AI</title>
-      <link>https://www.fastcompany.com/91460733/ai-jobs-layoffs-productivity-new-survey-reveals-this-surprising-fact-about-companies-that-successfully-use-artificial-intelligence</link>
-      <pubDate>2025-12-15T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91460733/ai-jobs-layoffs-productivity-new-survey-reveals-this-surprising-fact-about-companies-that-successfully-use-artificial-intelligence</guid>
-      <description>A lot has been written about AI replacing jobs of human workers, but an EY survey found such layoffs may not be that common.
-A lot has been written about how AI is coming for your job, but EY&#8217;s latest&#160;AI survey found some surprising results.</description>
+      <title>Stretch fabric is nearly impossible to recycle&#8212;but this startup just made it simple</title>
+      <link>https://www.fastcompany.com/91459816/stretch-fabric-is-nearly-impossible-to-recycle-this-startup-reinvented-it</link>
+      <pubDate>2025-12-15T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91459816/stretch-fabric-is-nearly-impossible-to-recycle-this-startup-reinvented-it</guid>
+      <description>Your old yoga pants are a recycling nightmare. A startup called Return to Vendor found a new solution&#8212;by redesigning the molecules in nylon.
+Stretch fabrics are notoriously hard to process. When your old leggings wear out, they will probably end up in a landfill&#8212;even if you try to drop them off for recycling. But a Manhattan startup has developed a new material that could finally make this corner of the apparel industry circular....</description>
     </item>
   </channel>
 </rss>
