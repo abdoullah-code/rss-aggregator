@@ -3,69 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 17 Dec 2025 01:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 03:24:44 GMT</lastBuildDate>
     <item>
-      <title>Even Trump&#8217;s chief of staff was &#8216;aghast&#8217; at Elon Musk&#8217;s deadly USAID cuts</title>
-      <link>https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid</link>
-      <pubDate>2025-12-16T20:23:03-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=846054</guid>
-      <description>Elon Musk, a billionaire who decimated the United States federal workforce using the Department of Government Efficiency, is not remembered fondly by the most powerful woman in Washington: Susie Wiles, White House Chief of Staff and the gatekeeper to President Donald Trump. In several on-the-record interviews with Vanity Fair's Chris Whipple conducted over the past [&#8230;]...</description>
+      <title>Why Google's new Interactions API is such a big deal for AI developers</title>
+      <link>https://venturebeat.com/infrastructure/why-googles-new-interactions-api-is-such-a-big-deal-for-ai-developers</link>
+      <pubDate>Wed, 17 Dec 2025 03:21:00 GMT</pubDate>
+      <guid isPermaLink="false">6BgO0BPQvGpzXTtJvhZD4b</guid>
+      <description>For the last two years, the fundamental unit of generative AI development has been the "completion." You send a text prompt to a model, it sends text back, and the transaction ends. If you want to continue the conversation, you have to send the entire history back to the model again. This "stateless" architecture&#8212;embodied by Google's legacy generateContent endpoint&#8212;was perfect for simple chatbots. But as developers move toward autonomous agents that use tools, maintain complex states, and "think" over long horizons, that stateless model has become a distinct bottleneck.Last week, Google DeepMi...</description>
     </item>
     <item>
-      <title>Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules</title>
-      <link>https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/</link>
-      <pubDate>Wed, 17 Dec 2025 01:14:59 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3076757</guid>
-      <description>The judge ruled Tesla should have to suspend manufacturing and sales in California for 30 days, but the DMV stayed those rulings for 90 days to allow Tesla to comply.</description>
+      <title>Monzo board reportedly pushed out CEO Anil over IPO timing</title>
+      <link>https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/</link>
+      <pubDate>Wed, 17 Dec 2025 03:06:17 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3076787</guid>
+      <description>A key issue, reportedly, was IPO timing.</description>
     </item>
     <item>
-      <title>Arcade1Up isn&amp;#8217;t dead, maybe</title>
-      <link>https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade</link>
-      <pubDate>2025-12-16T20:05:39-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=846034</guid>
-      <description>Days after a rumor circulated that home arcade machine maker Arcade1Up would be shutting down, the company has finally shared a statement about its future. "Select assets" from Arcade1Up have been acquired by toy company Basic Fun, and although Arcade1Up isn't dead, what's next for the brand is still a little murky. Last week, a [&#8230;]</description>
+      <title>Fallout 2 is full of game details. Heres a handy guide.</title>
+      <link>https://mashable.com/article/fallout-2-game-details</link>
+      <pubDate>Wed, 17 Dec 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04jt30Cuy1RldDr6UkEYfPT</guid>
+      <description>"Fallout 2" is full of game details. From Pip-Boys to power armor, the Prime Video series is a fan's Wasteland. Here's a guide.</description>
     </item>
     <item>
-      <title>Investing in this one simple skill in The Witcher 3 has made my 10-year anniversary playthrough so much better &#8212; and it needs to be in The Witcher 4</title>
-      <link>https://www.techradar.com/gaming/investing-in-this-one-simple-skill-in-the-witcher-3-has-made-my-10-year-anniversary-playthrough-so-much-better-and-it-needs-to-be-in-the-witcher-4</link>
-      <pubDate>Wed, 17 Dec 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">mVzs4hp9CYgHFo6uWia9Z6</guid>
-      <description>Ensuring I invested in one particular skill in The Witcher 3 has made my playthrough for its tenth anniversary so much better. Here's how.</description>
-    </item>
-    <item>
-      <title>How Silicon Valley turned Trump into a fellow broligarch</title>
-      <link>https://www.theverge.com/column/845955/donald-trump-big-tech-2025</link>
-      <pubDate>2025-12-16T19:32:50-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/845955/both-sides-of-the-aisle-hate-the-ai-moratorium</guid>
-      <description>Hello and welcome to 2025's last issue of Regulator. If you're not a Verge subscriber, get off the 2026 naughty list by signing up here. And if you're a Verge subscriber - well, dang, that's really nice of you. Last week, I appeared on The Brian Lehrer Show on WNYC to talk about my reporting [&#8230;]</description>
-    </item>
-    <item>
-      <title>X was spooked enough by new Twitter to change its terms of service</title>
-      <link>https://www.engadget.com/social-media/x-was-spooked-enough-by-new-twitter-to-change-its-terms-of-service-231138305.html?src=rss</link>
-      <pubDate>Wed, 17 Dec 2025 00:13:37 +0000</pubDate>
-      <guid isPermaLink="false">5832d6eb-ac4b-4876-a786-5a9e89998c99</guid>
-      <description>Despite changing its name and using decidedly bird-free branding, X is trying to hold on to its original Twitter trademarks, TechCrunch reports. The xAI-owned social media platform has updated its terms of service to include references to Twitter after previously only mentioning X, and seemingly attempted to counter a startup's petition to cancel the company's Twitter trademarks with a petition of its own.The startup X appears to be responding to is Operation Bluebird, a company cofounded by former Twitter general counsel Stephen Coates that went public last week with plans to capture what rem...</description>
-    </item>
-    <item>
-      <title>Fossilized Bee Nests Inside Skeletons Are Unlike Anything We&#8217;ve Seen Before</title>
-      <link>https://gizmodo.com/fossilized-bee-nests-inside-skeletons-are-unlike-anything-weve-seen-before-2000700261</link>
-      <pubDate>Wed, 17 Dec 2025 00:05:11 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000700261</guid>
-      <description>In a first, burrowing bees have been discovered nesting inside the fossil remains of other mammals.</description>
-    </item>
-    <item>
-      <title>Jaguar Type 00 EV First Ride: It Still Looks Odd, but It&#8217;s Seriously Quick</title>
-      <link>https://www.wired.com/story/jaguar-type-00-ev-first-ride-it-still-looks-odd-but-it-is-seriously-quick/</link>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69413d02dacb79584530b432</guid>
-      <description>We took a hair-raising trip around a track in the final four-door GT version of Jaguar's polarizing relaunch concept car. Is just might be good enough to end the British brand's abysmal run of luck.</description>
-    </item>
-    <item>
-      <title>ChatGPT Images just got a major upgrade &#8212; and it could change how we all create</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-just-got-a-major-upgrade-and-it-could-change-how-we-all-create</link>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3T6eF5nn5PsHoh2oRvHb6d</guid>
-      <description>OpenAI&#8217;s new GPT Image 1.5 model transforms ChatGPT into a powerful, user-friendly image editing and creation tool</description>
+      <title>Fallout Season 2, did you just pay homage to David Lynch?</title>
+      <link>https://mashable.com/article/fallout-season-2-twin-peaks-coffee-kyle-maclachlan</link>
+      <pubDate>Wed, 17 Dec 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01YIcJDtQgZIA6IuFeBq2x2</guid>
+      <description>There's moment in "Fallout" Season 2 that isn't directly an ode to the late, great David Lynch, but it absolutely is.</description>
     </item>
   </channel>
 </rss>
