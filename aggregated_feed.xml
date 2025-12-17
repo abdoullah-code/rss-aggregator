@@ -3,13 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 17 Dec 2025 03:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:36:21 GMT</lastBuildDate>
     <item>
-      <title>Why Google's new Interactions API is such a big deal for AI developers</title>
-      <link>https://venturebeat.com/infrastructure/why-googles-new-interactions-api-is-such-a-big-deal-for-ai-developers</link>
-      <pubDate>Wed, 17 Dec 2025 03:21:00 GMT</pubDate>
-      <guid isPermaLink="false">6BgO0BPQvGpzXTtJvhZD4b</guid>
-      <description>For the last two years, the fundamental unit of generative AI development has been the "completion." You send a text prompt to a model, it sends text back, and the transaction ends. If you want to continue the conversation, you have to send the entire history back to the model again. This "stateless" architecture&#8212;embodied by Google's legacy generateContent endpoint&#8212;was perfect for simple chatbots. But as developers move toward autonomous agents that use tools, maintain complex states, and "think" over long horizons, that stateless model has become a distinct bottleneck.Last week, Google DeepMi...</description>
+      <title>Tesla used deceptive language to market Autopilot, California judge rules</title>
+      <link>https://www.engadget.com/transportation/evs/tesla-used-deceptive-language-to-market-autopilot-california-judge-rules-035826786.html?src=rss</link>
+      <pubDate>Wed, 17 Dec 2025 03:58:26 +0000</pubDate>
+      <guid isPermaLink="false">248b6a9f-efad-4aac-8e94-fc5f8161af01</guid>
+      <description>Tesla&#8217;s sales in California should be suspended for 30 days because its marketing around Autopilot and Full Self-Driving misled consumers, a California administrative law judge has ruled. Back in 2022, the California DMV accused the automaker of using deceptive language to advertise those products and making  it seem like its vehicles are capable of level 5 autonomous driving. Tesla has since added the word &#8220;Supervised&#8221; to the name of its Full Self-Driving assistance technology.  As Bloomberg notes, the DMV asked the administrative law judge if a suspension is warranted based on the evidence i...</description>
     </item>
     <item>
       <title>Monzo board reportedly pushed out CEO Anil over IPO timing</title>
@@ -19,18 +19,12 @@
       <description>A key issue, reportedly, was IPO timing.</description>
     </item>
     <item>
-      <title>Fallout 2 is full of game details. Heres a handy guide.</title>
-      <link>https://mashable.com/article/fallout-2-game-details</link>
-      <pubDate>Wed, 17 Dec 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">04jt30Cuy1RldDr6UkEYfPT</guid>
-      <description>"Fallout 2" is full of game details. From Pip-Boys to power armor, the Prime Video series is a fan's Wasteland. Here's a guide.</description>
-    </item>
-    <item>
-      <title>Fallout Season 2, did you just pay homage to David Lynch?</title>
-      <link>https://mashable.com/article/fallout-season-2-twin-peaks-coffee-kyle-maclachlan</link>
-      <pubDate>Wed, 17 Dec 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01YIcJDtQgZIA6IuFeBq2x2</guid>
-      <description>There's moment in "Fallout" Season 2 that isn't directly an ode to the late, great David Lynch, but it absolutely is.</description>
+      <title>Robinhood knows you want to trade on everything</title>
+      <link>https://www.fastcompany.com/91460824/robinhood-gambling-bets-kalshi-polymarket</link>
+      <pubDate>2025-12-17T02:40:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91460824/robinhood-gambling-bets-kalshi-polymarket</guid>
+      <description>Prediction markets boomed in 2025. Now Robinhood wants to cash in.&#160;
+Robinhood is betting that its customers want to trade on absolutely everything.&#160;</description>
     </item>
   </channel>
 </rss>
