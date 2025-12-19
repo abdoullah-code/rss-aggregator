@@ -3,7 +3,100 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 19 Dec 2025 19:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 20:27:53 GMT</lastBuildDate>
+    <item>
+      <title>&#8216;My Hero Academia&#8217; Carried the Shonen Anime Torch to a Triumphant Finish</title>
+      <link>https://gizmodo.com/my-hero-academia-boku-no-anime-review-series-finale-crunchyroll-kohei-horikoshi-2000701820</link>
+      <pubDate>Fri, 19 Dec 2025 20:15:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000701820</guid>
+      <description>'My Hero Academia' earned its flowers as a superhero epic that never lost its way&#8212;and it also elevated the genre to new heights.</description>
+    </item>
+    <item>
+      <title>Hundreds of Cisco customers are vulnerable to new Chinese hacking campaign, researchers say</title>
+      <link>https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/</link>
+      <pubDate>Fri, 19 Dec 2025 20:15:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3077895</guid>
+      <description>Cisco warned that Chinese government hackers are exploiting a zero-day in some of its products. Researchers now say there are hundreds of vulnerable Cisco customers.</description>
+    </item>
+    <item>
+      <title>Businesses are hiring AI specialists instead of data engineers - and its a big problem</title>
+      <link>https://www.techradar.com/pro/businesses-are-hiring-ai-specialists-instead-of-data-engineers-and-its-a-big-problem</link>
+      <pubDate>Fri, 19 Dec 2025 20:15:00 +0000</pubDate>
+      <guid isPermaLink="false">Va6JuvvurdTxocNhDYA2q</guid>
+      <description>Yet again, we're being graced with a report stressing the importance of a solid data foundation to get the most out of AI.</description>
+    </item>
+    <item>
+      <title>Google releases FunctionGemma: a tiny edge model that can control mobile devices with natural language</title>
+      <link>https://venturebeat.com/technology/google-releases-functiongemma-a-tiny-edge-model-that-can-control-mobile</link>
+      <pubDate>Fri, 19 Dec 2025 19:57:00 GMT</pubDate>
+      <guid isPermaLink="false">6G3CmuvbnY1z6vqRdfTeEJ</guid>
+      <description>While Gemini 3 is still making waves, Google's not taking the foot off the gas in terms of releasing new models.Yesterday, the company released FunctionGemma, a specialized 270-million parameter AI model designed to solve one of the most persistent bottlenecks in modern application development: reliability at the edge. Unlike general-purpose chatbots, FunctionGemma is engineered for a single, critical utility&#8212;translating natural language user commands into structured code that apps and devices can actually execute, all without connecting to the cloud.The release marks a significant strategic p...</description>
+    </item>
+    <item>
+      <title>Get up to 78 percent off ExpressVPN two-year plans for the holidays</title>
+      <link>https://www.engadget.com/deals/get-up-to-78-percent-off-expressvpn-two-year-plans-for-the-holidays-194912043.html?src=rss</link>
+      <pubDate>Fri, 19 Dec 2025 19:49:12 +0000</pubDate>
+      <guid isPermaLink="false">e5a0f70e-8a7d-42de-8d3c-2a4f80959c2d</guid>
+      <description>It looks like the holidays aren't a bad time to shop for a VPN subscription. ExpressVPN, Engadget's pick for the best premium provider, currently has a less premium price. This deal gives you two years of the Advanced plan (with a bonus of four free months) for only $101. When it isn't on sale, the same subscription would cost $392.
+Engadget's VPN guru, Sam Chapman, praised ExpressVPN's service. He described it as "high-performing" and having "very few flaws." The service received high marks for its speeds, easy-to-use interface and global network availability. The only significant mark agains...</description>
+    </item>
+    <item>
+      <title>Instacart to Pay $60 Million in Refunds for Allegedly Deceiving Customers</title>
+      <link>https://gizmodo.com/instacart-to-pay-60-million-in-refunds-for-allegedly-deceiving-customers-2000701915</link>
+      <pubDate>Fri, 19 Dec 2025 19:35:38 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000701915</guid>
+      <description>The U.S. Federal Trade Commission accused Instacart of misleading costumers with promises of free deliveries and full refunds.</description>
+    </item>
+    <item>
+      <title>Sign up for a year of Crunchyroll Mega Fan and stream your favorite anime for the lowest price yet</title>
+      <link>https://www.techradar.com/streaming/sign-up-for-a-year-of-crunchyroll-mega-fan-and-stream-your-favorite-anime-for-the-lowest-price-yet</link>
+      <pubDate>Fri, 19 Dec 2025 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">UvZmpB42eA5FMmsNmsg59c</guid>
+      <description>Save $20 / &#163;12 off an annual subscription before the new year</description>
+    </item>
+    <item>
+      <title>Scammers in China Are Using AI-Generated Images to Get Refunds</title>
+      <link>https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/</link>
+      <pubDate>Fri, 19 Dec 2025 19:31:43 +0000</pubDate>
+      <guid isPermaLink="false">69433673a5f88b1c3aabf50b</guid>
+      <description>From dead crabs to shredded bed sheets, fraudsters are using fake photos and videos to get their money back from ecommerce sites.</description>
+    </item>
+    <item>
+      <title>Cisco email security products actively targeted in zero-day campaign</title>
+      <link>https://www.techradar.com/pro/security/cisco-email-security-products-actively-targeted-in-zero-day-campaign</link>
+      <pubDate>Fri, 19 Dec 2025 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">bNkD8ZL6J7fKP3EZXQEJCJ</guid>
+      <description>Two Chinese-nexus groups have been exploiting a newly discovered flaw to establish persistence and launch backdoors.</description>
+    </item>
+    <item>
+      <title>Don't think RAM is expensive enough yet? DDR5 sticks with a triple-fan cooler on top will be shown off at CES 2026</title>
+      <link>https://www.techradar.com/computing/memory/dont-think-ram-is-expensive-enough-yet-ddr5-sticks-with-a-triple-fan-cooler-on-top-will-be-shown-off-at-ces-2026</link>
+      <pubDate>Fri, 19 Dec 2025 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">xZYKzxquZMnFYGX3wZ3kaa</guid>
+      <description>DDR5 memory sticks with a triple-fan cooler on top are going to leave your wallet quaking in fear.</description>
+    </item>
+    <item>
+      <title>YouTube creator&#8217;s finance livestream mysteriously appears on White House website</title>
+      <link>https://www.fastcompany.com/91463929/white-house-website-youtube-creator-finance-livestream</link>
+      <pubDate>2025-12-19T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91463929/white-house-website-youtube-creator-finance-livestream</guid>
+      <description>The livestream was from Matt Farley, who posts as @RealMattMoney.
+The livestream of a YouTube content creator talking about investments mysteriously appeared to take over a White House website, raising questions about whether the site was hacked.</description>
+    </item>
+    <item>
+      <title>A Starlink Satellite Is Tumbling Toward Earth After a Strange Anomaly in Orbit</title>
+      <link>https://gizmodo.com/a-starlink-satellite-is-tumbling-toward-earth-after-a-strange-anomaly-in-orbit-2000701874</link>
+      <pubDate>Fri, 19 Dec 2025 19:25:32 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000701874</guid>
+      <description>The satellite suffered a sudden drop in altitude, suggesting there may have been a small explosion.</description>
+    </item>
+    <item>
+      <title>Yann LeCun confirms his new &#8216;world model&#8217; startup, reportedly seeks $5B+ valuation</title>
+      <link>https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/</link>
+      <pubDate>Fri, 19 Dec 2025 19:23:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3077797</guid>
+      <description>Renowned AI scientist Yann LeCun confirmed on Thursday the worst-kept secret in the tech world: that he had indeed launched a new startup. Although he did say he will not be running the new company as its CEO.</description>
+    </item>
     <item>
       <title>Frank Darabont Reveals the Real Story Behind Why He Didn&#8217;t Take on &#8216;The Dark Tower&#8217;</title>
       <link>https://gizmodo.com/frank-darabont-reveals-the-real-story-behind-why-he-didnt-take-on-the-dark-tower-2000701920</link>
@@ -33,6 +126,14 @@
       <description>The Blacklyte Atlas Lite is a standing desk with hints of the gamer aesthetic and functionality well-suited for business professionals - and it meets those needs with ease.</description>
     </item>
     <item>
+      <title>Yes: The Trump administration is likely to buy more equity in more private companies in 2026</title>
+      <link>https://www.fastcompany.com/91463660/trump-equity-intel-nippon-warren-sanders-chips</link>
+      <pubDate>2025-12-19T19:06:44</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91463660/trump-equity-intel-nippon-warren-sanders-chips</guid>
+      <description>Welcome to the new normal for industrial policy.
+The government took stakes in a number of private companies during 2025, and is likely to continue making equity investments while Donald Trump remains in office. Whether or not this is a wise long-term strategy is an ongoing debate with strong opinions on both sides.&#160;</description>
+    </item>
+    <item>
       <title>Sam Altman&#8217;s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit</title>
       <link>https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/</link>
       <pubDate>Fri, 19 Dec 2025 19:03:11 +0000</pubDate>
@@ -54,6 +155,14 @@
       <description>A very tempting new option from our favorite budget audiophile brand</description>
     </item>
     <item>
+      <title>States are divided on whether to follow Trump&#8217;s tax breaks on tips, overtime, and more</title>
+      <link>https://www.fastcompany.com/91463912/states-trump-tax-breaks-tips-overtime-corporate</link>
+      <pubDate>2025-12-19T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91463912/states-trump-tax-breaks-tips-overtime-corporate</guid>
+      <description>So far, only a few states have taken votes on whether to adopt the tax breaks.
+To tax tips or not? That is a question that will confront lawmakers in states across the U.S. as they convene for work next year.</description>
+    </item>
+    <item>
       <title>Mark Zuckerberg's nonprofit cuts ties with the immigration advocacy group he co-founded</title>
       <link>https://www.engadget.com/big-tech/mark-zuckerbergs-nonprofit-cuts-ties-with-the-immigration-advocacy-group-he-co-founded-183447900.html?src=rss</link>
       <pubDate>Fri, 19 Dec 2025 18:34:47 +0000</pubDate>
@@ -66,7 +175,7 @@
       <pubDate>2025-12-19T18:30:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91463788/used-an-atm-since-2007-visa-and-mastercard-may-owe-you-cash</guid>
       <description>The money would go to customers charged unreimbursed fees at non-bank ATMs nationwide.
-Visa and Mastercard have agreed to pay $167.5 million to settle a long-running class action lawsuit. The suit, which was first filed&#160; back in Oct. 2011, accused the two major credit card companies of conspiring to keep ATM fees artificially high.&#160;</description>
+Visa and Mastercard have agreed to pay $167.5 million to settle a long-running class action lawsuit. The suit, which was first filed&#160;back in October 2011, accused the two major credit card companies of conspiring to keep ATM fees artificially high.&#160;</description>
     </item>
     <item>
       <title>Ford recalls over 270,000 electric and hybrid cars due to parking function issue</title>
@@ -84,143 +193,6 @@ Ford is recalling more than 270,000 electric and hybrid vehicles in the U.S. bec
       <description>
 C'est rare. Tr&#232;s rare. Un CEO qui vous regarde dans les yeux et vous dit : "On s'est plant&#233;s." C'est pourtant ce que vient de faire Gary Cohen. Alors qu'iRobot passe sous pavillon chinois pour &#233;viter la faillite, le patron de la marque embl&#233;matique ne cherche pas d'excuses. Retards technologiques, arrogance, prix d&#233;connect&#233;s... iRobot nous explique tout.
 ...</description>
-    </item>
-    <item>
-      <title>A Suction-Based Wall Mount Is Here to Clean Up Your Hideous TV Cord Spaghetti</title>
-      <link>https://gizmodo.com/a-suction-based-wall-mount-is-here-to-clean-up-your-hideous-tv-cord-spaghetti-2000701816</link>
-      <pubDate>Fri, 19 Dec 2025 18:20:07 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000701816</guid>
-      <description>Displace is back with a hub that makes your regular TV "cordless."</description>
-    </item>
-    <item>
-      <title>Netflix is betting on podcasts to become the new daytime talk show</title>
-      <link>https://techcrunch.com/2025/12/19/netflix-is-betting-on-podcasts-to-become-the-new-daytime-talk-show/</link>
-      <pubDate>Fri, 19 Dec 2025 18:13:26 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3077619</guid>
-      <description>Netflix is making exclusive deals with podcast studios to compete with YouTube, but podcasters have mixed feelings.</description>
-    </item>
-    <item>
-      <title>Netflix is acquiring an avatar company as it moves into party games</title>
-      <link>https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition</link>
-      <pubDate>2025-12-19T13:12:33-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=848252</guid>
-      <description>As Netflix continues to build out its gaming strategy, which has recently included a new era of TV party games, it's going to let people build avatars - with the help of a new acquisition. The company is acquiring avatar company Ready Player Me and its "cross-game avatar tech" to let players "carry their identities [&#8230;]</description>
-    </item>
-    <item>
-      <title>Don&#8217;t expect Trump Media&#8217;s nuclear fusion power plant to generate electricity soon</title>
-      <link>https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae</link>
-      <pubDate>2025-12-19T13:04:52-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=848205</guid>
-      <description>Trump Media - yup, the parent company of Truth Social - is the latest entrant in the near century-long race to develop a nuclear fusion power plant. It announced a merger agreement with fusion company TAE Technologies on Thursday and a bold plan to break ground on the first utility-scale fusion plant some time in [&#8230;]</description>
-    </item>
-    <item>
-      <title>&#8216;Avatar: Fire and Ash&#8217;s&#8217; New Power Couple Discuss Their Trippy Seduction</title>
-      <link>https://gizmodo.com/avatar-fire-and-ash-trippy-seduction-2000701835</link>
-      <pubDate>Fri, 19 Dec 2025 18:00:28 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000701835</guid>
-      <description>Oona Chaplin and Stephen Lang talked to io9 about Varang and Quaritch's intimate scene, in theaters now.</description>
-    </item>
-    <item>
-      <title>The best Christmas gifts for gamers and movie lovers</title>
-      <link>https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025</link>
-      <pubDate>2025-12-19T13:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=780850</guid>
-      <description>Most of us in the Northern Hemisphere spend the holidays indoors, but you can only watch so many TikToks about cute cats and cooking hacks before the need for something a little more substantive kicks in. Choosing the right game or movie to gift is tough, though, especially if you don't have an exact read [&#8230;]</description>
-    </item>
-    <item>
-      <title>Home sales rose in November, but are down from last year</title>
-      <link>https://www.fastcompany.com/91463893/home-sales-november-down-annually</link>
-      <pubDate>2025-12-19T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91463893/home-sales-november-down-annually</guid>
-      <description>Through the first 11 months of this year, home sales are down 0.5% compared to the same period last year.
-Sales of previously occupied U.S. homes rose in November from the previous month, but slowed compared to a year earlier for the first time since May despite average long-term mortgage rates holding near their low point for the year.</description>
-    </item>
-    <item>
-      <title>#FrandroidOffreMoi une trottinette UrbanGlide 100 EVO</title>
-      <link>https://www.frandroid.com/survoltes/trottinette-electrique/2915705_frandroidoffremoi-une-trottinette-urbanglide-100-evo</link>
-      <pubDate>Fri, 19 Dec 2025 17:56:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/trottinette-electrique/2915705_frandroidoffremoi-une-trottinette-urbanglide-100-evo</guid>
-      <description>
-On a r&#233;ussi &#224; cacher une trottinette &#233;lectrique dans la 19e case de notre calendrier de l'Avent. Voici comment gagner l'UrbanGlide 100 EVO avec le concours #FrandroidOffreMoi.
-</description>
-    </item>
-    <item>
-      <title>Apple's USB-C Magic Mouse is back on sale for $68</title>
-      <link>https://www.engadget.com/deals/apples-usb-c-magic-mouse-is-back-on-sale-for-68-175424709.html?src=rss</link>
-      <pubDate>Fri, 19 Dec 2025 17:54:24 +0000</pubDate>
-      <guid isPermaLink="false">cd8fc096-303c-44be-a905-b9c4f8c2af08</guid>
-      <description>Amazon is selling Apple's USB-C Magic Mouse for $68, which is a discount of 14 percent. This isn't a record-low price, but it's darned close. The mouse typically sells for $79, though today's sale only applies to the white model.
-It's rare for official Apple accessories to go on sale, and the USB-C Magic Mouse is pretty much a must-have for those working on desktop computers. It's also fairly handy when combined with a laptop, letting folks avoid the trackpad. 
-
-
-As the name suggests, this mouse charges via USB-C. Apple stuck with replaceable AA batteries for way too long, so this change was m...</description>
-    </item>
-    <item>
-      <title>Proton VPN climbs to third in our updated VPN rankings</title>
-      <link>https://www.techradar.com/vpn/vpn-services/proton-vpn-climbs-to-third-in-our-updated-vpn-rankings</link>
-      <pubDate>Fri, 19 Dec 2025 17:51:35 +0000</pubDate>
-      <guid isPermaLink="false">KftW9SrV2zia7HsWyyW8i7</guid>
-      <description>We've fully retested our recommended VPNs and the results are in...</description>
-    </item>
-    <item>
-      <title>OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors</title>
-      <link>https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/</link>
-      <pubDate>Fri, 19 Dec 2025 17:51:05 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3077799</guid>
-      <description>OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. Still, questions remain about how well policies translate into practice.</description>
-    </item>
-    <item>
-      <title>Scientists Shocked to Discover Microbes &#8216;Colonizing&#8217; Lava Within Hours of Solidifying</title>
-      <link>https://gizmodo.com/scientists-shocked-to-discover-microbes-colonizing-lava-within-hours-of-solidifying-2000701834</link>
-      <pubDate>Fri, 19 Dec 2025 17:50:41 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000701834</guid>
-      <description>Not even the strongest microbes can survive volcanic eruptions, but they are capable of returning surprisingly quickly, according to a new study.</description>
-    </item>
-    <item>
-      <title>J&#8217;ai pris en main le Samsung Galaxy Z TriFold : trois fois plus de plaisir et trois fois plus de questions</title>
-      <link>https://www.frandroid.com/marques/samsung/2915097_jai-pris-en-main-le-samsung-galaxy-z-trifold-trois-fois-plus-de-plaisir-et-trois-fois-plus-de-questions</link>
-      <pubDate>Fri, 19 Dec 2025 17:47:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2915097_jai-pris-en-main-le-samsung-galaxy-z-trifold-trois-fois-plus-de-plaisir-et-trois-fois-plus-de-questions</guid>
-      <description>
-J'ai eu l'occasion de prendre en main le Samsung Galaxy Z TriFold. Voici mes premiers ressentis sur le smartphone tri-pliable, les bons comme les moins bons.
-</description>
-    </item>
-    <item>
-      <title>Ce pack Asus Vivobook 14 sous Snapdragon X accompagn&#233; d&#8217;un sac et d&#8217;une souris sans fil est &#224; un super prix chez Fnac et Darty</title>
-      <link>https://www.frandroid.com/bons-plans/2916277_ce-pack-asus-vivobook-14-sous-snapdragon-x-accompagne-dun-sac-et-dune-souris-sans-fil-est-a-un-super-prix-chez-fnac-et-darty</link>
-      <pubDate>Fri, 19 Dec 2025 17:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2916277_ce-pack-asus-vivobook-14-sous-snapdragon-x-accompagne-dun-sac-et-dune-souris-sans-fil-est-a-un-super-prix-chez-fnac-et-darty</guid>
-      <description>
-Si vous pr&#233;f&#233;rez tout avoir d&#8217;un coup, il existe des packs pr&#234;ts &#224; l&#8217;emploi avec l&#8217;essentiel pour d&#233;marrer sans friction. C&#8217;est le cas de ce bundle autour du PC portable Asus Vivobook 14 sous ARM, accompagn&#233; d&#8217;un sac et d&#8217;une souris sans fil. L&#8217;ensemble est affich&#233; &#224; 649,99 euros au lieu de 699,99 euros chez Darty et &#224; la Fnac, avec l'aide d'un code qui se termine le 21 d&#233;cembre 2025.
-...</description>
-    </item>
-    <item>
-      <title>Make any TV wireless and battery powered with this add-on that also means you can wall-mount anywhere instantly without drilling</title>
-      <link>https://www.techradar.com/televisions/make-any-tv-wireless-and-battery-powered-with-this-add-on-that-also-means-you-can-wall-mount-anywhere-instantly-without-drilling</link>
-      <pubDate>Fri, 19 Dec 2025 17:34:37 +0000</pubDate>
-      <guid isPermaLink="false">zEMRF2q4yUqQw8bQoQckcm</guid>
-      <description>The Displace Hub enables you to wall-mount your TV without drilling, and even to move it &#8211;and it's got a PC inside it</description>
-    </item>
-    <item>
-      <title>No storefront needed &#8212; get paid via DMs and QR codes with Squarespace&#8217;s new tool</title>
-      <link>https://www.techradar.com/pro/website-building/no-storefront-needed-get-paid-via-dms-and-qr-codes-with-squarespaces-new-tool</link>
-      <pubDate>Fri, 19 Dec 2025 17:30:52 +0000</pubDate>
-      <guid isPermaLink="false">ivUFDuvt2JAm2kcdveLsaN</guid>
-      <description>Generate dedicated URLs for payment with Pay Links.</description>
-    </item>
-    <item>
-      <title>Hackers stole data in UK government cyberattack, minister confirms</title>
-      <link>https://www.techradar.com/pro/security/hackers-stole-data-in-uk-government-cyberattack-minister-confirms</link>
-      <pubDate>Fri, 19 Dec 2025 17:25:00 +0000</pubDate>
-      <guid isPermaLink="false">BTcMK5oEaa4CAcAibSEZpP</guid>
-      <description>The attack seems to have happened in October but the risk towards citizens is minimal.</description>
-    </item>
-    <item>
-      <title>Known uses voice AI to help you go on more in-person dates</title>
-      <link>https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/</link>
-      <pubDate>Fri, 19 Dec 2025 17:23:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3076939</guid>
-      <description>In its test phase in San Francisco, Known said it observed 80% of its introductions led to physical dates, which is much higher than swipe-based dating apps.</description>
     </item>
   </channel>
 </rss>
