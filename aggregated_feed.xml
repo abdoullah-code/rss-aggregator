@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 21 Dec 2025 22:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 23:22:40 GMT</lastBuildDate>
+    <item>
+      <title>AI designed this Linux computer with 843 parts and dual-PCBs in just a week - and it even booted the first time</title>
+      <link>https://www.techradar.com/pro/ai-designed-this-linux-computer-with-843-parts-and-dual-pcbs-in-just-a-week-and-it-even-booted-the-first-time</link>
+      <pubDate>Sun, 21 Dec 2025 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">apcGK65AKFimHXfHdCVnv5</guid>
+      <description>Quilter&#8217;s AI designed a Linux computer with 843 components in one week, reducing human workload and accelerating mini PC innovation.</description>
+    </item>
     <item>
       <title>A rough week for hardware companies</title>
       <link>https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/</link>
@@ -17,37 +24,6 @@
       <pubDate>Sun, 21 Dec 2025 22:15:00 +0000</pubDate>
       <guid isPermaLink="false">RNzMbqqnFC6fHmhuvLJSyG</guid>
       <description>WhatsApp GhostPairing attacks let hackers hijack accounts using device-linking, exposing messages and media while bypassing authentication completely.</description>
-    </item>
-    <item>
-      <title>&#8216;The Vampire Lestat&#8217; Showrunner Teases Louis &amp; Claudia&#8217;s Returns</title>
-      <link>https://gizmodo.com/the-vampire-lestat-showrunner-teases-louis-claudias-returns-2000702130</link>
-      <pubDate>Sun, 21 Dec 2025 21:15:49 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702130</guid>
-      <description>'Interview With the Vampire' is shifting focus to Lestat, but it's not forgetting to bring his former family along for the ride.</description>
-    </item>
-    <item>
-      <title>The 12 best last-minute Christmas gifts for 2025 that will arrive by December 24</title>
-      <link>https://www.engadget.com/the-12-best-last-minute-christmas-gifts-for-2025-that-will-arrive-by-december-24-140037753.html?src=rss</link>
-      <pubDate>Sun, 21 Dec 2025 21:00:35 +0000</pubDate>
-      <guid isPermaLink="false">f10f3474-8a9f-4844-b943-494ef9bdc916</guid>
-      <description>We&#8217;re almost out of time &#8212; the holidays are just about here, and if you&#8217;re still doing your holiday shopping, you&#8217;re not alone. Between wrapping things up at work before some well-deserved time off and making sure you have everything you need to host family and friends, it can be hard to find the time to go shop for some gifts. And if you&#8217;re going to physical stores right now, you&#8217;re probably being met with half-empty shelves. But the internet remains an option, even this late in the game: you still have time to buy holiday gifts online.USPS, UPS and FedEx have laid out their holiday shipping ...</description>
-    </item>
-    <item>
-      <title>You can now tweak how warm and enthusiastic ChatGPT's responses are</title>
-      <link>https://www.engadget.com/ai/you-can-now-tweak-how-warm-and-enthusiastic-chatgpts-responses-are-204003009.html?src=rss</link>
-      <pubDate>Sun, 21 Dec 2025 20:40:04 +0000</pubDate>
-      <guid isPermaLink="false">ea9cb7a1-db7e-4b70-ba71-1964d9be097e</guid>
-      <description>OpenAI gave its AI chatbot a professional makeover with the latest GPT-5.2 release, and some users are already complaining about its tone. For anyone who's finding ChatGPT rude or sassy, OpenAI has some welcome news since it's letting users further customize its personality with extra warmth or enthusiasm.&#160;
-You can now adjust specific characteristics in ChatGPT, like warmth, enthusiasm, and emoji use.Now available in your "Personalization" settings. pic.twitter.com/7WSkOQVTKU&#8212; OpenAI (@OpenAI) December 19, 2025
-
-In a post on X, OpenAI revealed that users can adjust characteristics under new Wa...</description>
-    </item>
-    <item>
-      <title>"Tech companies have paid lip service" - US government is asking AI giants why data centers are leading to rising bills</title>
-      <link>https://www.techradar.com/pro/tech-companies-have-paid-lip-service-us-government-is-asking-ai-giants-why-data-centers-are-leading-to-rising-bills</link>
-      <pubDate>Sun, 21 Dec 2025 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">bRtGAPv7Hvx8pivX3LSqqn</guid>
-      <description>US senators challenge tech giants over rising electricity bills as AI data centers strain grids and shift infrastructure costs onto consumers.</description>
     </item>
   </channel>
 </rss>
