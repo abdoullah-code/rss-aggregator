@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 21 Dec 2025 21:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 22:23:46 GMT</lastBuildDate>
+    <item>
+      <title>A rough week for hardware companies</title>
+      <link>https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/</link>
+      <pubDate>Sun, 21 Dec 2025 22:16:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3078165</guid>
+      <description>iRobot, Luminar, and Rad Power Bikes were very different companies, but they faced some similar challenges.</description>
+    </item>
+    <item>
+      <title>WhatsApp user warning - hackers are hijacking accounts without any need to crack the authentication, so be on your guard</title>
+      <link>https://www.techradar.com/pro/whatsapp-user-warning-hackers-are-hijacking-accounts-without-any-need-to-crack-the-authentication-so-be-on-your-guard</link>
+      <pubDate>Sun, 21 Dec 2025 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">RNzMbqqnFC6fHmhuvLJSyG</guid>
+      <description>WhatsApp GhostPairing attacks let hackers hijack accounts using device-linking, exposing messages and media while bypassing authentication completely.</description>
+    </item>
     <item>
       <title>&#8216;The Vampire Lestat&#8217; Showrunner Teases Louis &amp; Claudia&#8217;s Returns</title>
       <link>https://gizmodo.com/the-vampire-lestat-showrunner-teases-louis-claudias-returns-2000702130</link>
@@ -34,36 +48,6 @@ In a post on X, OpenAI revealed that users can adjust characteristics under new 
       <pubDate>Sun, 21 Dec 2025 20:30:00 +0000</pubDate>
       <guid isPermaLink="false">bRtGAPv7Hvx8pivX3LSqqn</guid>
       <description>US senators challenge tech giants over rising electricity bills as AI data centers strain grids and shift infrastructure costs onto consumers.</description>
-    </item>
-    <item>
-      <title>The Razer Kishi V3 Pro converted me to mobile gaming after a decade on consoles</title>
-      <link>https://www.techradar.com/gaming/razer-kishi-v3-pro-review</link>
-      <pubDate>Sun, 21 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4GR2xNR4RZ89grgjQpPGhJ</guid>
-      <description>The Razer Kishi V3 Pro is expensive as mobile gaming controllers come, but offers solid value with its array of remappable controls and fantastic ergonomics.</description>
-    </item>
-    <item>
-      <title>Open Channel: What&#8217;d You Think of &#8216;Avatar: Fire and Ash&#8217;?</title>
-      <link>https://gizmodo.com/open-channel-whatd-you-think-of-avatar-fire-and-ash-2000702245</link>
-      <pubDate>Sun, 21 Dec 2025 19:50:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702245</guid>
-      <description>Was 'Avatar: Fire and Ash' another worthwhile trip to Pandora, or should this be the last of the films?</description>
-    </item>
-    <item>
-      <title>Instacart to pay $60 million to customers in FTC settlement</title>
-      <link>https://mashable.com/article/instacart-60-million-ftc-settlement</link>
-      <pubDate>Sun, 21 Dec 2025 19:47:43 +0000</pubDate>
-      <guid isPermaLink="false">05WyjTVH8YGFo0CnKXsyJXE</guid>
-      <description>The grocery delivery service Instacart will pay $60 million to consumers in an FTC settlement.</description>
-    </item>
-    <item>
-      <title>Windows 11 : cette modification augmente drastiquement les performances des SSD</title>
-      <link>https://www.frandroid.com/os/windows/2917655_windows-11-cette-modification-augmente-drastiquement-les-performances-des-ssd</link>
-      <pubDate>Sun, 21 Dec 2025 19:30:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/os/windows/2917655_windows-11-cette-modification-augmente-drastiquement-les-performances-des-ssd</guid>
-      <description>
-Vous trouviez votre SSD un peu lent ? C'est peut-&#234;tre la faute de Windows. Une modification cach&#233;e dans le registre permet d'activer un nouveau pilote NVMe issu de Windows Server 2025. Sur le papier, les gains sont monstrueux. Mais avant de foncer t&#234;te baiss&#233;e dans le registre, lisez bien l'article.
-</description>
     </item>
   </channel>
 </rss>
