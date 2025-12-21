@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 21 Dec 2025 02:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 04:01:32 GMT</lastBuildDate>
+    <item>
+      <title>NYT Connections hints today: Clues, answers for December 21, 2025</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-december-21-2025</link>
+      <pubDate>Sun, 21 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03BQ5Z4rpVkXOxe4lHEEg5c</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for December 21, 2025</title>
+      <link>https://mashable.com/article/strands-nyt-hint-december-21-2025</link>
+      <pubDate>Sun, 21 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05CdnX98MY4QiTxEToqnSFJ</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for December 21, 2025</title>
+      <link>https://mashable.com/article/wordle-today-answer-december-21-2025</link>
+      <pubDate>Sun, 21 Dec 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02rzFgzd32LARtH8MnmRqrV</guid>
+      <description>Here's the answer for "Wordle" #1645 on December 21 as well as a few hints, tips, and clues to help you solve it yourself.</description>
+    </item>
   </channel>
 </rss>
