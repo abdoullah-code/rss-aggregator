@@ -3,41 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 20 Dec 2025 23:22:21 GMT</lastBuildDate>
-    <item>
-      <title>Governor Hochul signs New York's AI safety act</title>
-      <link>https://www.engadget.com/ai/governor-hochul-signs-new-yorks-ai-safety-act-220503930.html?src=rss</link>
-      <pubDate>Sat, 20 Dec 2025 22:05:03 +0000</pubDate>
-      <guid isPermaLink="false">20ab2d4b-4b4f-4db7-aa28-cd14b50cbae7</guid>
-      <description>New York governor Kathy Hochul signed legislation on Friday aimed at holding large AI developers accountable for the safety of their models. The RAISE Act establishes rules for greater transparency, requiring these companies to publish information about their safety protocols and report any incidents within 72 hours of their occurrence. It comes a few months after California adopted similar legislation.&#160;But, the penalties aren't going to be nearly as steep as they were initially presented when the bill passed back in June. While that version included fines of up to $10 million dollars for a co...</description>
-    </item>
-    <item>
-      <title>Google and Apple reportedly warn employees on visas to avoid international travel</title>
-      <link>https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/</link>
-      <pubDate>Sat, 20 Dec 2025 22:00:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3078151</guid>
-      <description>Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving the country due to longer-than-usual visa processing times.</description>
-    </item>
-    <item>
-      <title>Save 25% on this AMD combo: $116 gets you a 6-Core Ryzen CPU, Wi-Fi motherboard, and cooler</title>
-      <link>https://www.techradar.com/pro/save-25-percent-on-this-amd-combo-usd116-gets-you-a-6-core-ryzen-cpu-wi-fi-motherboard-and-cooler</link>
-      <pubDate>Sat, 20 Dec 2025 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">aZDq34PGWYdikWERH8qxo5</guid>
-      <description>AMD Ryzen 5 mobo combo: $116 gets you a 6-core CPU, Wi-Fi motherboard, and cooler.</description>
-    </item>
-    <item>
-      <title>He Got a Bunch of Money Again</title>
-      <link>https://gizmodo.com/he-got-a-bunch-of-money-again-2000702249</link>
-      <pubDate>Sat, 20 Dec 2025 21:45:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702249</guid>
-      <description>Can you believe it?</description>
-    </item>
-    <item>
-      <title>&#8216;It felt so wrong&#8217;: Colin Angle on iRobot, the FTC, and the Amazon deal that never was</title>
-      <link>https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/</link>
-      <pubDate>Sat, 20 Dec 2025 21:31:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3078141</guid>
-      <description>The iRobot founder opens up about the 18-month regulatory process that he says doomed the Roomba maker -- and what it means for American innovation.</description>
-    </item>
+    <lastBuildDate>Sun, 21 Dec 2025 02:06:23 GMT</lastBuildDate>
   </channel>
 </rss>
