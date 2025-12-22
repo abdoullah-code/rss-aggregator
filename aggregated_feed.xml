@@ -3,20 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 22 Dec 2025 02:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 04:06:24 GMT</lastBuildDate>
     <item>
-      <title>Kogan's 2025 Boxing Day sale has up to 70% off top tech &#8211; prices from just AU$80</title>
-      <link>https://www.techradar.com/seasonal-sales/seasonal-sales/kogans-2025-boxing-day-sale-has-up-to-70-percent-off-top-tech-prices-from-just-au80</link>
-      <pubDate>Mon, 22 Dec 2025 01:45:24 +0000</pubDate>
-      <guid isPermaLink="false">awkdFzW2PannWUAciBn52e</guid>
-      <description>Score savings of up to AU$670 on TVs, vacuums, flagship phones and so much more during Kogan&#8217;s Boxing Day 2025 sale.</description>
+      <title>The newly released Samsung Galaxy Tab A11+ is already 44% off ahead of Boxing Day</title>
+      <link>https://www.techradar.com/tablets/the-newly-released-samsung-galaxy-tab-a11-is-already-44-percent-off-ahead-of-boxing-day</link>
+      <pubDate>Mon, 22 Dec 2025 03:51:53 +0000</pubDate>
+      <guid isPermaLink="false">qoF2KXU5AKwcM92iUPcAK3</guid>
+      <description>The Galaxy Tab A11+, which improves upon the popular Tab A9+ with a better chip and 128GB of base storage, can be yours for just AU$297.</description>
     </item>
     <item>
-      <title>One of the top premium robovacs I tested in 2025 is a whopping 45% off &#8211; grab the Ecovacs Deebot X8 Pro Omni now for only AU$1,378</title>
-      <link>https://www.techradar.com/home/robot-vacuums/one-of-the-top-robot-vacuums-i-tested-in-2025-is-now-a-whopping-45-off-grab-the-ecovacs-deebot-x8-pro-omni-for-aud1-378</link>
-      <pubDate>Mon, 22 Dec 2025 00:50:33 +0000</pubDate>
-      <guid isPermaLink="false">Bsj6eZo8xLXQbzY5QKQECH</guid>
-      <description>My biggest issue with the Ecovacs Deebot X8 Pro Omni was its price tag, and that's not as much of a problem with this huge discount direct from the manufacturer, bringing it to its lowest AU price yet.</description>
+      <title>Honey: all the news about PayPal&#8217;s alleged scam coupon app</title>
+      <link>https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees</link>
+      <pubDate>2025-12-21T22:46:20-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/2800/paypal-honey-megalag-coupon-scam-affiliate-fees</guid>
+      <description>PayPal&#8217;s Honey browser extension has been lauded for years as an easy way to find coupons online. But some are calling it a &#8220;scam&#8221; after a deep dive from YouTuber MegaLag, who accused Honey of &#8220;stealing money from influencers,&#8221; and returned one year later with a second video that says Honey targeted minors, collected data [&#8230;]</description>
+    </item>
+    <item>
+      <title>Waymo resumes service in San Francisco after robotaxis stall during blackout</title>
+      <link>https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/</link>
+      <pubDate>Mon, 22 Dec 2025 03:24:49 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3078155</guid>
+      <description>Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.</description>
+    </item>
+    <item>
+      <title>Frozen Waymos backed up San Francisco traffic during a widespread power outage</title>
+      <link>https://www.theverge.com/news/848843/waymo-san-francisco-power-outage</link>
+      <pubDate>2025-12-21T21:45:10-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=848843</guid>
+      <description>A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams. Some people posted videos [&#8230;]...</description>
     </item>
   </channel>
 </rss>
