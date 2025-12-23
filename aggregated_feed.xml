@@ -3,41 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 23 Dec 2025 02:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:00:43 GMT</lastBuildDate>
     <item>
-      <title>Pentagon Adds Grok-Derived Products to Something Called the &#8216;AI Arsenal&#8217;</title>
-      <link>https://gizmodo.com/pentagon-adds-grok-derived-products-to-something-called-the-ai-arsenal-2000702379</link>
-      <pubDate>Tue, 23 Dec 2025 01:26:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702379</guid>
-      <description>Take that, enemies of the United States.</description>
+      <title>Pirate group Anna's Archive says it has scraped Spotify in its entirety</title>
+      <link>https://www.engadget.com/entertainment/streaming/pirate-group-annas-archive-says-it-has-scraped-spotify-in-its-entirety-211914755.html?src=rss</link>
+      <pubDate>Tue, 23 Dec 2025 03:45:23 +0000</pubDate>
+      <guid isPermaLink="false">b6d44519-fbc3-48af-aa57-80d7b6387beb</guid>
+      <description>Anna's Archive, the open-source search engine for shadow libraries, says it scraped Spotify's entire library of music. The group acquired metadata for around 256 million tracks, with 86 million actual songs, and is just under 300TB in total size."A while ago, we discovered a way to scrape Spotify at scale. We saw a role for us here to build a music archive primarily aimed at preservation," the group said in a blog post. The pirated treasure trove of music represents over 15 million artists with over 58 million albums.The group intends to make all files available for download for anyone with th...</description>
     </item>
     <item>
-      <title>The FCC&#8217;s foreign drone ban is here</title>
-      <link>https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline</link>
-      <pubDate>2025-12-22T20:13:51-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=849460</guid>
-      <description>The Federal Communications Commission has banned new drones made in foreign countries from being imported into the US unless the Department of Defense or the Department of Homeland Security recommends them. Monday's action added drones to the FCC's Covered List, qualifying foreign-made drones and drone parts, like those from DJI, as communications equipment representing "unacceptable [&#8230;]...</description>
-    </item>
-    <item>
-      <title>This superfast 32-core AMD CPU costs under $140 with a 5-year warranty &#8212; but there's a big catch</title>
-      <link>https://www.techradar.com/pro/this-superfast-32-core-amd-cpu-costs-under-usd140-with-a-5-year-warranty-but-theres-a-big-catch</link>
-      <pubDate>Tue, 23 Dec 2025 01:05:00 +0000</pubDate>
-      <guid isPermaLink="false">rZjTxnrQ2RaY7mJcrRoLZd</guid>
-      <description>AMD EPYC 7532 delivers 32 core server performance for a surprisingly low price, but there are some catches to be aware of.</description>
-    </item>
-    <item>
-      <title>Need a new colour ereader for the holiday season? I'd skip the Kindle Coloursoft and grab this discounted Kobo instead</title>
-      <link>https://www.techradar.com/tablets/ereaders/need-a-new-colour-ereader-for-the-holiday-season-id-skip-the-kindle-coloursoft-and-grab-this-discounted-kobo-instead</link>
-      <pubDate>Tue, 23 Dec 2025 01:02:31 +0000</pubDate>
-      <guid isPermaLink="false">pnW79RwpZx5dhV7PmHeaTA</guid>
-      <description>The Kobo Libra Colour offers better value than the Kindle Colorsoft in Australia, and it's currently cheaper than its Amazon counterpart too.</description>
-    </item>
-    <item>
-      <title>The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband</title>
-      <link>https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak</link>
-      <pubDate>2025-12-22T19:06:04-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=849432</guid>
-      <description>Yesterday, Bari Weiss, the new editor-in-chief of CBS News, censored a segment of its newsmagazine 60 Minutes about men who had been deported to an El Salvador prison. Today, it's popping up online. 60 Minutes had already begun promoting the now-censored segment online. Because it was pulled so late, it seems that CBS missed at [&#8230;]</description>
+      <title>Amazon's Boxing Day sale hasn't officially started &#8211; but these 62 deals are a no-nonsense shortlist for (very) last-minute Christmas shopping</title>
+      <link>https://www.techradar.com/live/news/amazon-australia-boxing-day-deals-2025-live</link>
+      <pubDate>Tue, 23 Dec 2025 03:34:01 +0000</pubDate>
+      <guid isPermaLink="false">Mkk5HT58sRrhR6gZkUK2of</guid>
+      <description>Boxing Day sales are here for 2025 is here and you can score a great deal on audio, appliances, tablets and more at Amazon</description>
     </item>
   </channel>
 </rss>
