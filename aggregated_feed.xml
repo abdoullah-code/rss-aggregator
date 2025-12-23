@@ -3,9 +3,44 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 23 Dec 2025 21:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 22:23:59 GMT</lastBuildDate>
     <item>
-      <title>Trump administration&#8217;s ban on foreign-made drones starts this week. You can say goodbye to new DJI models.</title>
+      <title>$300 Intel B50 video card emerges as a surprisingly capable Pro GPU &#8212; but Nvidia's older Ada generation emerges as a bit of a bargain</title>
+      <link>https://www.techradar.com/pro/usd300-intel-b50-video-card-emerges-as-a-surprisingly-capable-pro-gpu-but-nvidias-older-ada-generation-emerges-as-a-bit-of-a-bargain</link>
+      <pubDate>Tue, 23 Dec 2025 22:10:00 +0000</pubDate>
+      <guid isPermaLink="false">gHM6NgAcp5oREDLGiiTsqm</guid>
+      <description>Intel&#8217;s $300 B50 delivers surprisingly capable performance in entry-level AI, 3D rendering, and media editing tasks for compact setups.</description>
+    </item>
+    <item>
+      <title>I love Lego and I've found the 18 best Boxing Day deals on Star Wars, Architecture and Classic sets</title>
+      <link>https://www.techradar.com/live/news/best-lego-boxing-day-deals-2025-au</link>
+      <pubDate>Tue, 23 Dec 2025 22:01:56 +0000</pubDate>
+      <guid isPermaLink="false">sZjVZD2HJLsHiEBtwJrUNa</guid>
+      <description>From starter sets to thousand-piece behemoths, save up to AU$150 on Lego from Amazon, Myer and more.</description>
+    </item>
+    <item>
+      <title>'I can't eat one of those anymore': Percy Jackson star Walker Scobell on the surprising challenge he faced in season 2</title>
+      <link>https://www.techradar.com/streaming/i-cant-eat-one-of-those-anymore-percy-jackson-star-walker-scobell-on-the-surprising-challenge-he-faced-in-season-2</link>
+      <pubDate>Tue, 23 Dec 2025 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">eCrSp6uoSVeC5efU7DcYCW</guid>
+      <description>Percy Jackson and the Olympians has some amazing stunt work this season, but lead star Walker Scobell revealed it came with some challenges.</description>
+    </item>
+    <item>
+      <title>Don&#8217;t wait for Boxing Day &#8211; I&#8217;ve found 15 excellent deals on Apple iPhones, iPads, AirPods and more</title>
+      <link>https://www.techradar.com/live/news/apple-boxing-day-sales-deals-2025-australia</link>
+      <pubDate>Tue, 23 Dec 2025 21:38:19 +0000</pubDate>
+      <guid isPermaLink="false">HM99uoTpDE6kHVfLf2DmsS</guid>
+      <description>Boxing Day sales are a great time to save on Apple tech, including iPhones, MacBooks and AirPods. We're tracking all the best deals so you don't miss a thing.</description>
+    </item>
+    <item>
+      <title>Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025</title>
+      <link>https://gizmodo.com/chainsaw-man-reze-arc-jujutsu-kaisen-demon-slayer-infinity-castle-anime-movies-2000703002</link>
+      <pubDate>Tue, 23 Dec 2025 21:30:02 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000703002</guid>
+      <description>Films like 'Demon Slayer: Infinity Castle' and 'Chainsaw Man &#8211; The Movie: Reze Arc' proved the industry's stitched-episode preview events are overstaying their welcome.</description>
+    </item>
+    <item>
+      <title>Trump administration&#8217;s ban on foreign-made drones starts this week &#8212; you can say goodbye to new DJI models</title>
       <link>https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/</link>
       <pubDate>Tue, 23 Dec 2025 21:16:04 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3078640</guid>
@@ -40,6 +75,13 @@
       <description>If you&#8217;re in the market for a new Android smartphone &#8212; or on the hunt for a solid last-minute gift &#8212; Google&#8217;s Pixel 10 is a great place to look. We consider it the best Android phone you can buy, and right now, you can grab it at Amazon starting at $449 ($350 off) when [&#8230;]</description>
     </item>
     <item>
+      <title>iPhone storage full? Check your System Data.</title>
+      <link>https://mashable.com/article/apple-iphone-ios-system-data-storage-space</link>
+      <pubDate>Tue, 23 Dec 2025 20:58:14 +0000</pubDate>
+      <guid isPermaLink="false">01zpMhjhzAqKnGoCjahRKJf</guid>
+      <description>iPhone's "System Data" can take up a lot of space on your smartphone. Here's what we know.</description>
+    </item>
+    <item>
       <title>ServiceNow to acquire cybersecurity startup Armis for $7.75B</title>
       <link>https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/</link>
       <pubDate>Tue, 23 Dec 2025 20:40:10 +0000</pubDate>
@@ -67,86 +109,6 @@ In a recent meeting with a large retailer, my contact shared that each buyer on 
       <pubDate>Tue, 23 Dec 2025 20:30:00 +0000</pubDate>
       <guid isPermaLink="false">Yok7SYmhErrBYGv3e57Szi</guid>
       <description>The Eufy E25 Omni is a very good vacuum, but it really shines when it comes to mopping.</description>
-    </item>
-    <item>
-      <title>No, it's not a power supply case - this new compact mini PC packs in an Intel Core i9 and a decent Nvidia RTX GPU</title>
-      <link>https://www.techradar.com/pro/no-its-not-a-power-supply-case-this-new-compact-mini-pc-packs-in-an-intel-core-i9-and-a-decent-nvidia-rtx-gpu</link>
-      <pubDate>Tue, 23 Dec 2025 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">LqovfPzDznWZJqTzoZKcxT</guid>
-      <description>Mavsloly MV10 mini PC packs desktop-class CPU, GPU, mobile workstation-style memory, and four-fan cooling into a visually deceptive small chassis.</description>
-    </item>
-    <item>
-      <title>2025 Was the Year I Couldn&#8217;t Believe My Eyes</title>
-      <link>https://gizmodo.com/2025-was-the-year-i-couldnt-believe-my-eyes-2000699072</link>
-      <pubDate>Tue, 23 Dec 2025 20:10:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000699072</guid>
-      <description>Will anything online be real next year?</description>
-    </item>
-    <item>
-      <title>Russia&#8217;s Next Space Station Could Reuse Its ISS Parts&#8212;Leaks and All</title>
-      <link>https://gizmodo.com/russias-next-space-station-could-reuse-its-iss-parts-leaks-and-all-2000702979</link>
-      <pubDate>Tue, 23 Dec 2025 20:10:33 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702979</guid>
-      <description>Reduce, reuse, recycle.</description>
-    </item>
-    <item>
-      <title>The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared</title>
-      <link>https://www.wired.com/story/best-unlimited-phone-plans/</link>
-      <pubDate>Tue, 23 Dec 2025 20:09:13 +0000</pubDate>
-      <guid isPermaLink="false">5ab3f852624d1d6458b7880e</guid>
-      <description>We sifted through the fine print to figure out how to score the best deal on all the major carriers.</description>
-    </item>
-    <item>
-      <title>RAM Prices Are So Bad, PC Builders Are Telling Consumers to BYO Memory</title>
-      <link>https://gizmodo.com/ram-prices-are-so-bad-pc-builders-are-telling-consumers-to-byo-memory-2000702563</link>
-      <pubDate>Tue, 23 Dec 2025 20:00:06 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702563</guid>
-      <description>Hopefully you have a few sticks of DDR5 lying around.</description>
-    </item>
-    <item>
-      <title>The 50 Best Shows on HBO Max, WIRED&#8217;s Picks (January 2026)</title>
-      <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
-      <pubDate>Tue, 23 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">640802cca1c135ecdb12cf5f</guid>
-      <description>Heated Rivalry, Mad Men, and The Pitt are just a few of the shows you need to be watching on HBO Max this month.</description>
-    </item>
-    <item>
-      <title>With some welcome downtime on the horizon, here are the TechRadar Gaming team&#8217;s Christmas games for 2025</title>
-      <link>https://www.techradar.com/gaming/techradar-gamings-christmas-games-for-2025</link>
-      <pubDate>Tue, 23 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">wknFzcqUAcT7yXswJD7eLo</guid>
-      <description>These are the games we&#8217;ll be playing over the holidays this year.</description>
-    </item>
-    <item>
-      <title>Zoox issues software recall over lane crossings</title>
-      <link>https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/</link>
-      <pubDate>Tue, 23 Dec 2025 19:50:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3078672</guid>
-      <description>The company has issued a software update to its autonomous driving system to fix its lane-crossing behavior.</description>
-    </item>
-    <item>
-      <title>IO Interactive's 007 First Light has been delayed until May 27</title>
-      <link>https://www.engadget.com/gaming/io-interactives-007-first-light-has-been-delayed-until-may-27-194809718.html?src=rss</link>
-      <pubDate>Tue, 23 Dec 2025 19:48:09 +0000</pubDate>
-      <guid isPermaLink="false">8cbfa0cf-cca8-46b7-81ff-01a06a737369</guid>
-      <description>IO Interactive's James Bond simulator 007 First Light has been delayed until May 27, 2026. It was supposed to come out in March. The company says two-month delay is for polish and refinement, which is fine by me. I'd always rather wait a bit longer for a better end product.
-IO says the game is already "fully playable from beginning to end" but still needs a bit of attention to ensure "the strongest possible version at launch." The developer promises to share more updates at the beginning of next year.
-For the uninitiated, 007 First Light is the first James Bond game in over a decade. The devel...</description>
-    </item>
-    <item>
-      <title>Wegovy is coming in pill form. Here&#8217;s when, how much, and how well it works</title>
-      <link>https://www.fastcompany.com/91465953/wegovy-is-coming-in-pill-form-heres-when-how-much-and-how-well-it-works</link>
-      <pubDate>2025-12-23T19:41:23</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91465953/wegovy-is-coming-in-pill-form-heres-when-how-much-and-how-well-it-works</guid>
-      <description>People who are squeamish about needles will soon have an alternative, as the Food and Drug Administration has approved a pill version of Wegovy that could be available as soon as next month. Novo Nordisk, maker of the GLP-1 weight-loss drug, announced on Monday that it has received FDA approval for its once-daily pill that [&#8230;]
-People who are squeamish about needles will soon have an alternative, as the Food and Drug Administration has approved a pill version of Wegovy that could be available as soon as next month....</description>
-    </item>
-    <item>
-      <title>The Star of &#8216;Heated Rivalry&#8217; Looks Back on His Wild &#8216;Joker: Folie &#224; Deux&#8217; Debut</title>
-      <link>https://gizmodo.com/heated-rivalry-connor-storrie-joker-folie-a-deux-2000702968</link>
-      <pubDate>Tue, 23 Dec 2025 19:30:32 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702968</guid>
-      <description>Your crush on hockey hottie Connor Storrie is about to ramp up even more when you remember who he played in the Joaquin Phoenix sequel.</description>
     </item>
   </channel>
 </rss>
