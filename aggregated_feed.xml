@@ -3,15 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 24 Dec 2025 19:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 20:27:31 GMT</lastBuildDate>
     <item>
-      <title>Eufy just revealed a tech-heavy baby bottle washer at CES</title>
-      <link>https://www.engadget.com/home/eufy-just-revealed-a-tech-heavy-baby-bottle-washer-at-ces-191458784.html?src=rss</link>
-      <pubDate>Wed, 24 Dec 2025 19:14:58 +0000</pubDate>
-      <guid isPermaLink="false">03f1f698-f922-4d4f-b79a-38d621998fc5</guid>
-      <description>Anker's sub-brand Eufy just revealed a high-tech baby bottle washer at CES 2026. The Bottle Washer S1 is filled to the brim with nifty features that should please frazzled parents.
-It's been designed to clean deeper than rival models. The Bottle Washer S1 features a built-in water softener, a first in the product category, which should help remove stubborn minerals. It also includes proprietary HydroBlast technology that cleans baby bottles from every angle. This is assisted by the inclusion of a multi-layer rotating spray.
-It sterilizes up to 212 degrees Fahrenheit and dries in just 40 minute...</description>
+      <title>The year data centers went from backend to center stage</title>
+      <link>https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/</link>
+      <pubDate>Wed, 24 Dec 2025 20:16:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3077950</guid>
+      <description>Data centers are no longer the boring tech issue they once were.</description>
+    </item>
+    <item>
+      <title>Is the Internet's time wrong? NIST warns servers may have lapsed due to a power outage</title>
+      <link>https://www.techradar.com/pro/is-the-internets-time-wrong-nist-warns-servers-may-have-lapsed-due-to-a-power-outage</link>
+      <pubDate>Wed, 24 Dec 2025 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">exhkNcearXHNuXUc7W64vG</guid>
+      <description>NIST warns specific public time servers may be inaccurate after a power outage disrupted atomic clock distribution.</description>
+    </item>
+    <item>
+      <title>How to watch Midnight Mass 2025 &#8212; live stream First Mass of the Nativity for free</title>
+      <link>https://www.techradar.com/how-to-watch/tv-shows/midnight-mass-2025-olem-church</link>
+      <pubDate>Wed, 24 Dec 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">iWAJHjigK5ma2gWnc3e6xd</guid>
+      <description>The BBC bring live coverage of the First Mass of the Nativity. Here's how to watch Midnight Mass 2025 online and from anywhere.</description>
+    </item>
+    <item>
+      <title>Guess where all the NAND flash components are going? The 8th (yes, eighth) 245TB SSD has been announced amidst race to quench AI storage thirst of hyperscalers</title>
+      <link>https://www.techradar.com/pro/guess-where-all-the-nand-flash-components-are-going-the-8th-yes-eighth-245tb-ssd-has-been-announced-amidst-race-to-quench-ai-storage-thirst-of-hyperscalers</link>
+      <pubDate>Wed, 24 Dec 2025 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">83cPUMPR9u7LzhzZzHe6iK</guid>
+      <description>DapuStor announces a 245TB class SSD as AI workloads continue to shape flash storage priorities in hyperscale data centers.</description>
+    </item>
+    <item>
+      <title>S&amp;P 500 reaches a record high as &#8216;Santa Claus rally&#8217; kicks off</title>
+      <link>https://www.fastcompany.com/91466737/sp-500-record-high-christmas-eve</link>
+      <pubDate>2025-12-24T19:23:17</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91466737/sp-500-record-high-christmas-eve</guid>
+      <description>The S&amp;P 500 gained 10.24 points, or 0.15%, to 6,920.24.
+The S&amp;P 500 hit a record high on Wednesday, with broad-gains across sectors supporting the main indexes during a shortened Christmas Eve session.</description>
     </item>
     <item>
       <title>Steam and Valve's online games are down</title>
@@ -19,6 +46,13 @@ It sterilizes up to 212 degrees Fahrenheit and dries in just 40 minute...</descr
       <pubDate>Wed, 24 Dec 2025 19:10:33 +0000</pubDate>
       <guid isPermaLink="false">196d7c78-67a0-4b74-9074-f7b37a93758a</guid>
       <description>Steam is experiencing an outage that&#8217;s impacting users ability to access the game store and play games online. Valve hasn&#8217;t acknowledged the outage publicly, but SteamDB&#8217;s unofficial Steam Status page reports that the Steam Store, Steam Community, and Steam Web APIs are all offline.DownDetector received over 6,000 outage reports around 1:15PM ET, and Steam is also inaccessible from Valve&#8217;s mobile apps. The outage appears to be affecting APIs for Valve&#8217;s online games, like Team Fortress 2, Dota 2 and Counterstrike 2, as well.Steam&#8217;s last major outage was in October, when the store and online se...</description>
+    </item>
+    <item>
+      <title>Redactions in Epstein files viewable by copying and pasting, reports say</title>
+      <link>https://mashable.com/article/epstein-files-jailbreak</link>
+      <pubDate>Wed, 24 Dec 2025 19:07:16 +0000</pubDate>
+      <guid isPermaLink="false">067QSlpFpKq1mxtjlM61g1h</guid>
+      <description>The Justice Department is struggling to comply with the Epstein Files Transparency Act.</description>
     </item>
     <item>
       <title>Newegg sells this superfast $1,179 Dell mini PC for just $700 &#8212; save 40% on this ultracompact PC and get free NordVPN worth $50</title>
@@ -35,128 +69,11 @@ It sterilizes up to 212 degrees Fahrenheit and dries in just 40 minute...</descr
       <description>We still can't get over that an oddly abridged version of the film actually exists.</description>
     </item>
     <item>
-      <title>As Gambling Apps Grow, Bettors are Slated to Owe More in Taxes This Year</title>
-      <link>https://gizmodo.com/as-gambling-apps-grow-bettors-are-slated-to-owe-more-in-taxes-this-year-2000703073</link>
-      <pubDate>Wed, 24 Dec 2025 18:15:03 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000703073</guid>
-      <description>Hope that 20-leg parlay was worth it.</description>
-    </item>
-    <item>
-      <title>Europe slams U.S. visa bans for targeting allies over &#8216;censorship&#8217;</title>
-      <link>https://www.fastcompany.com/91466730/europe-slams-us-visa-bans-censorship</link>
-      <pubDate>2025-12-24T18:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91466730/europe-slams-us-visa-bans-censorship</guid>
-      <description>The EU will seek answers from Washington, but said it could &#8216;respond swiftly and decisively&#8217; against the &#8216;unjustified measures.&#8217;
-The European Union, France, and Germany condemned U.S. visa bans on five Europeans combating online hate and disinformation on Wednesday, after President Donald Trump&#8216;s administration took its latest swipe at long-standing allies across the Atlantic....</description>
-    </item>
-    <item>
-      <title>Today's the last day to get $100 off the PS5 and PS5 Pro</title>
-      <link>https://www.engadget.com/gaming/playstation/todays-the-last-day-to-get-100-off-the-ps5-and-ps5-pro-181454333.html?src=rss</link>
-      <pubDate>Wed, 24 Dec 2025 18:14:54 +0000</pubDate>
-      <guid isPermaLink="false">a6eba115-9a6b-4ac9-bf33-623b739bc112</guid>
-      <description>Back in November, Sony started selling PS5 consoles at a $100 discount as part of a Black Friday/Cyber Monday promotion. The deal officially sunsets at 3AM ET, so now is a good time to bite the bullet on a gaming console given that prices aren't likely to go down anytime soon.
-You can pick up a regular disc-based PS5 for $450 and a digital model for $400. The beefy PS5 Pro is available for $650. All of these deals are active on Amazon, but also directly from Sony. 
-If the costs here still sound a bit high, that's because Sony raised console prices by $50 back in August. In other words, these $...</description>
-    </item>
-    <item>
-      <title>Anker&#8217;s beefy Laptop Power Bank has returned to its Black Friday low</title>
-      <link>https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale</link>
-      <pubDate>2025-12-24T13:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=849637</guid>
-      <description>As you might expect, things have been relatively quiet on the deals front since Black Friday, particularly when it comes to discounts on charging accessories. Thankfully, Anker&#8217;s aptly titled Laptop Power Bank is once again on sale at Amazon and Walmart for $87.99 ($47 off), which matches the record-low price we last saw at the [&#8230;]</description>
-    </item>
-    <item>
-      <title>The European startup market&#8217;s data doesn&#8217;t match its energy &#8212; yet</title>
-      <link>https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/</link>
-      <pubDate>Wed, 24 Dec 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3077586</guid>
-      <description>Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.</description>
-    </item>
-    <item>
-      <title>Give yourself the gift of digital privacy this Christmas</title>
-      <link>https://www.techradar.com/vpn/vpn-services/give-yourself-the-gift-of-digital-privacy-this-christmas</link>
-      <pubDate>Wed, 24 Dec 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">gqB9H2sbByhWvAcNykDZLW</guid>
-      <description>A VPN is the gift that keeps giving</description>
-    </item>
-    <item>
-      <title>This Disney+, Hulu and ESPN bundle deal is the perfect last-minute Christmas gift for families</title>
-      <link>https://www.techradar.com/streaming/hulu/this-disney-hulu-and-espn-bundle-deal-is-the-perfect-last-minute-christmas-gift-for-families</link>
-      <pubDate>Wed, 24 Dec 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Dud27ikTPozevFu5WJquuL</guid>
-      <description>Unexpected family guests this Christmas? Entertain everyone for less with this Disney+, Hulu and ESPN bundle deal.</description>
-    </item>
-    <item>
-      <title>The case against eminent domain</title>
-      <link>https://www.fastcompany.com/91463687/case-against-eminent-domain</link>
-      <pubDate>2025-12-24T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91463687/case-against-eminent-domain</guid>
-      <description>Should the government really be allowed to take your home to widen a road?
-In many states, you can get kicked out of your home if the local government thinks someone else will generate more tax revenue.</description>
-    </item>
-    <item>
-      <title>NORAD live tracker 2025: How to follow Santa Claus in real-time as he delivers Christmas gifts around the world</title>
-      <link>https://www.fastcompany.com/91466691/norad-santa-tracker-2025-where-is-santa-claus-right-now-call-track-him-live</link>
-      <pubDate>2025-12-24T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91466691/norad-santa-tracker-2025-where-is-santa-claus-right-now-call-track-him-live</guid>
-      <description>While the rest of us are wrapping up work, Santa&#8217;s in the midst of his busiest day of the year. Here&#8217;s where he is right now.
-Bruce Springsteen said it best: &#8220;Santa Claus Is Comin&#8217; to Town.&#8221;</description>
-    </item>
-    <item>
-      <title>France&#8217;s postal service was hit by a major cyberattack right before Christmas. Here are the hackers who did it</title>
-      <link>https://www.fastcompany.com/91466742/frances-postal-service-hit-major-cyberattck-right-before-christmas-hackers-who-did-it</link>
-      <pubDate>2025-12-24T17:53:49</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91466742/frances-postal-service-hit-major-cyberattck-right-before-christmas-hackers-who-did-it</guid>
-      <description>The Russian hacking group known as Noname057 claimed responsibility for the holiday attack on France&#8217;s national postal service.
-A pro-Russian hacking group claimed responsibility for a major cyberattack that halted package deliveries by France&#8217;s national postal service just days before Christmas, prosecutors said Wednesday.After the claim by the cybercrime group known as Noname057, French intelligence agency DGSI took over the investigation into the hacking attack, the Paris prosecutor&#8217;s office said in a statement to The Associated Press.The group has been accused of other cyberattacks in Euro...</description>
-    </item>
-    <item>
-      <title>AI-created ransomware and NFC attacks lead the surge in new cyberattacks - here's how you can stay safe this holidays</title>
-      <link>https://www.techradar.com/pro/security/ai-created-ransomware-and-nfc-attacks-lead-the-surge-in-new-cyberattacks-heres-how-you-can-stay-safe</link>
-      <pubDate>Wed, 24 Dec 2025 17:35:00 +0000</pubDate>
-      <guid isPermaLink="false">eKKbZb26o5t7ogU33XpEc7</guid>
-      <description>AI is no longer being used just to craft convincing phishing emails - it's being used to build ransomware.</description>
-    </item>
-    <item>
-      <title>Why TikTok&#8217;s &#8216;For You&#8217; page is so valuable and what&#8217;s to change for U.S. users</title>
-      <link>https://www.fastcompany.com/91463828/tiktok-for-you-page-value-sale-deal-whats-next</link>
-      <pubDate>2025-12-24T17:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91463828/tiktok-for-you-page-value-sale-deal-whats-next</guid>
-      <description>The value of TikTok&#8217;s algorithm&#8217;s lies in its uncanny capacity to anticipate users&#8217; content preferences.
-Chinese tech giant ByteDance has signed an agreement to sell a majority stake in its video platform TikTok to a group of U.S. investors. President Donald Trump announced a preliminary agreement for the sale on Sept. 19, 2025, following his negotiation with Chinese leader Xi Jinping....</description>
-    </item>
-    <item>
-      <title>Key workforce trends to watch in 2026</title>
-      <link>https://www.fastcompany.com/91466644/key-workforce-trends-to-watch-in-2026</link>
-      <pubDate>2025-12-24T17:29:43</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91466644/key-workforce-trends-to-watch-in-2026</guid>
-      <description>These three trends will redefine collaboration and hiring.
-As 2026 begins, the workplace is rapidly changing due to technological advances, shifting labor dynamics, and evolving employee expectations. Organizations that anticipate and adjust to these changes are more likely to attract top talent, boost productivity, and stay competitive. From embracing artificial intelligence in the workplace to a continued focus on skill-based hiring, the future of work is being shaped by trends that could redefine how we collaborate, learn, and thrive. Here are three top workforce trends to watch in 2026....</description>
-    </item>
-    <item>
-      <title>Brands: Stay true to your core to win</title>
-      <link>https://www.fastcompany.com/91466634/brands-stay-true-to-your-core-to-win</link>
-      <pubDate>2025-12-24T17:27:57</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91466634/brands-stay-true-to-your-core-to-win</guid>
-      <description>Four lessons on building a company that instills loyalty in staff and customers
-</description>
-    </item>
-    <item>
-      <title>Le SSD externe Samsung T7 et ses 2 Go de stockage perdent 15 % sur le site de la marque</title>
-      <link>https://www.frandroid.com/bons-plans/2920813_le-ssd-externe-samsung-t7-et-ses-2-go-de-stockage-perdent-15-sur-le-site-de-la-marque</link>
-      <pubDate>Wed, 24 Dec 2025 17:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2920813_le-ssd-externe-samsung-t7-et-ses-2-go-de-stockage-perdent-15-sur-le-site-de-la-marque</guid>
-      <description>
-Sorti depuis presque six ans, le Samsung T7 reste encore une valeur s&#251;re et il perd 15 % de son prix chez Samsung. Ce SSD est actuellement vendu &#224; 127,50 euros gr&#226;ce au code STORAGE15.
-</description>
-    </item>
-    <item>
-      <title>How to stop punching the clock at work and have more work-life balance</title>
-      <link>https://www.fastcompany.com/91462949/stop-punching-the-clock-work-life-balance</link>
-      <pubDate>2025-12-24T17:20:49</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91462949/stop-punching-the-clock-work-life-balance</guid>
-      <description>If you have a choice in the matter of when and how much you work, should you choose differently?
-About 1 in 3 Americans make at least one New Year&#8217;s resolution, according to Pew Research. While most of these vows focus on weight loss, fitness, and other health-related goals, many fall into a distinct category: work.</description>
+      <title>OpenAI admits prompt injection is here to stay as enterprises lag on defenses</title>
+      <link>https://venturebeat.com/security/openai-admits-that-prompt-injection-is-here-to-stay</link>
+      <pubDate>Wed, 24 Dec 2025 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3l59jGQAUJsDWyeLit408A</guid>
+      <description>It's refreshing when a leading AI company states the obvious. In a detailed post on hardening ChatGPT Atlas against prompt injection, OpenAI acknowledged what security practitioners have known for years: "Prompt injection, much like scams and social engineering on the web, is unlikely to ever be fully 'solved.'"What&#8217;s new isn&#8217;t the risk &#8212; it&#8217;s the admission. OpenAI, the company deploying one of the most widely used AI agents, confirmed publicly that agent mode &#8220;expands the security threat surface&#8221; and that even sophisticated defenses can&#8217;t offer deterministic guarantees. For enterprises alread...</description>
     </item>
   </channel>
 </rss>
