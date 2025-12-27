@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 27 Dec 2025 21:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 22:23:35 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI is hiring a new Head of Preparedness to try to predict and mitigate AI's harms</title>
+      <link>https://www.engadget.com/ai/openai-is-hiring-a-new-head-of-preparedness-to-try-to-predict-and-mitigate-ais-harms-220330486.html?src=rss</link>
+      <pubDate>Sat, 27 Dec 2025 22:03:30 +0000</pubDate>
+      <guid isPermaLink="false">0f08d742-f952-4b3f-a1b5-13ad710de592</guid>
+      <description>OpenAI is looking for a new Head of Preparedness who can help it anticipate the potential harms of its models and how they can be abused, in order to guide the company's safety strategy. It comes at the end of a year that's seen OpenAI hit with numerous accusations about ChatGPT's impacts on users' mental health, including a few wrongful death lawsuits. In a post on X about the position, OpenAI CEO Sam Altman acknowledged that the "potential impact of models on mental health was something we saw a preview of in 2025," along with other "real challenges" that have arisen alongside models' capabi...</description>
+    </item>
+    <item>
+      <title>That's a crossover we never saw coming - Facebook borrows the Linux scheduler from the Steam Deck to help run its data centers</title>
+      <link>https://www.techradar.com/pro/thats-a-crossover-we-never-saw-coming-facebook-borrows-the-linux-scheduler-from-the-steam-deck-to-help-run-its-data-centers</link>
+      <pubDate>Sat, 27 Dec 2025 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">kU56KPzcwAjQiw7azdu369</guid>
+      <description>Meta is testing a Steam Deck Linux scheduler on servers, betting that latency-driven design scales beyond gaming into production infrastructure.</description>
+    </item>
     <item>
       <title>Tim Blake Nelson Wrote a Novel About Superhero Actors</title>
       <link>https://gizmodo.com/tim-blake-nelson-wrote-a-novel-about-superhero-actors-2000703760</link>
@@ -38,43 +52,6 @@
       <pubDate>Sat, 27 Dec 2025 20:25:00 +0000</pubDate>
       <guid isPermaLink="false">kuEY7EY7yXYiTtKsbGAmB6</guid>
       <description>Ten impossibly small Japanese laptops under 1kg - but you'll probably never be able to buy.</description>
-    </item>
-    <item>
-      <title>Trump administration seeks to deport hate speech researcher previously sued by X</title>
-      <link>https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/</link>
-      <pubDate>Sat, 27 Dec 2025 20:13:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079117</guid>
-      <description>A federal judge has temporarily blocked the U.S. Department of State from arresting or deporting Imran Ahmed, CEO of the Center for Countering Digital Hate.</description>
-    </item>
-    <item>
-      <title>Get an Amazon Echo Dot for Christmas? Discover the 3 features that revolutionized my smart home setup</title>
-      <link>https://www.techradar.com/home/smart-speakers/get-an-amazon-echo-dot-for-christmas-discover-the-3-features-that-revolutionized-my-smart-home-setup</link>
-      <pubDate>Sat, 27 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">eqjRj5KaQFTt7a6J8QLjJd</guid>
-      <description>Whether you were on the nice list or just decided to treat yourself, I&#8217;m gifting you with three Alexa features you&#8217;ll be glad you tried.</description>
-    </item>
-    <item>
-      <title>Why Is Wonder Woman Like This?</title>
-      <link>https://gizmodo.com/why-is-wonder-woman-like-this-2000702225</link>
-      <pubDate>Sat, 27 Dec 2025 19:50:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000702225</guid>
-      <description>Between 'Wonder Woman 1984' and her game getting canned, the 2020s haven't been Diana's decade. Maybe that'll change with the 2030s?</description>
-    </item>
-    <item>
-      <title>Here&#8217;s the first real look at the Retroid Pocket 6 running PS2 games</title>
-      <link>https://www.engadget.com/gaming/heres-the-first-real-look-at-the-retroid-pocket-6-running-ps2-games-193624145.html?src=rss</link>
-      <pubDate>Sat, 27 Dec 2025 19:36:26 +0000</pubDate>
-      <guid isPermaLink="false">1f445a19-9886-407e-930f-449bb0e7c2bd</guid>
-      <description>The Retroid Pocket 6 may have gotten off to a rocky start, but the gaming handheld is officially completed and going to see its first shipments soon. The handheld maker revealed the final product shots of the Retroid Pocket 6 in black and orange on X. Along with in-person product pics, Retroid revealed gameplay videos of its handheld, running emulation of PlayStation 2 games.
-
-For those looking to relive some classic Nintendo or PlayStation titles, the Retroid Pocket 6 offers a great entry point into the retro handheld world since it can emulate games up to Nintendo Switch and PS2. However, Re...</description>
-    </item>
-    <item>
-      <title>I&#8217;m TechRadar&#8217;s reviews editor &#8211; here are the 5 best gadgets I&#8217;ve tested all year</title>
-      <link>https://www.techradar.com/tech/im-techradars-reviews-editor-here-are-the-5-best-gadgets-ive-tested-all-year</link>
-      <pubDate>Sat, 27 Dec 2025 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">YH8DQFSiNFJY6Ftt59jD2Z</guid>
-      <description>I&#8217;m in charge of reviews here at TechRadar &#8211; these are the 5 best gadgets I personally tested in 2025.</description>
     </item>
   </channel>
 </rss>
