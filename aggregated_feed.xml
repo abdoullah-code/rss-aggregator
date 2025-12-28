@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 28 Dec 2025 22:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 23:23:49 GMT</lastBuildDate>
+    <item>
+      <title>This Mini-ITX motherboard with four DDR5 slots could end up as rival to Nvidia's Petaflop AI mini PC</title>
+      <link>https://www.techradar.com/pro/this-mini-itx-motherboard-with-four-ddr5-slots-could-end-up-as-rival-to-nvidias-petaflop-ai-mini-pc</link>
+      <pubDate>Sun, 28 Dec 2025 22:35:00 +0000</pubDate>
+      <guid isPermaLink="false">nbmAmFebw3itpqBijHZPkK</guid>
+      <description>Maxsun&#8217;s MS-PC Farm 88601 Mini-ITX motherboard supports four DDR5 slots, PCIe 5.0 expansion, advanced power delivery, and remote management features.</description>
+    </item>
     <item>
       <title>3 new features I want to see from Garmin in 2026</title>
       <link>https://www.techradar.com/health-fitness/smartwatches/3-new-features-i-want-to-see-from-garmin-in-2026</link>
@@ -31,48 +38,6 @@
       <pubDate>Sun, 28 Dec 2025 21:29:59 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3079133</guid>
       <description>Good news for anyone tired of or embarrassed by their current Gmail address.</description>
-    </item>
-    <item>
-      <title>The &#8216;Stranger Things&#8217; Brothers on Resolving Relationships and Character Closure</title>
-      <link>https://gizmodo.com/the-stranger-things-brothers-talk-resolving-relationships-2000703801</link>
-      <pubDate>Sun, 28 Dec 2025 21:15:20 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000703801</guid>
-      <description>Before hitting the endgame, 'Stranger Things' had to tie off some threads and help the Hawkins gang get their heads in the game.</description>
-    </item>
-    <item>
-      <title>Samsung aims to beat Apple's $5000 Display XDR monitor with 6K 3D monitor &#8212; and it doesn't even need glasses</title>
-      <link>https://www.techradar.com/pro/samsung-aims-to-beat-apples-usd5000-display-xdr-monitor-with-6k-3d-monitor-and-it-doesnt-even-need-glasses</link>
-      <pubDate>Sun, 28 Dec 2025 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">udCajKRQjxMZfr4hv7RWEH</guid>
-      <description>Samsung&#8217;s Odyssey 3D G90XH brings glasses-free 6K visuals with eye tracking, while G8 and OLED models offer versatile resolutions.</description>
-    </item>
-    <item>
-      <title>Great news! Nvidia finally has a 72GB graphics card &#8212; but since it's the RTX Pro 5000 Blackwell, it will probably cost you just a bit more than a 64GB DDR5 stick &lt;sarcasm&gt;</title>
-      <link>https://www.techradar.com/pro/great-news-nvidia-finally-has-a-72gb-graphics-card-but-since-its-the-rtx-pro-5000-blackwell-it-will-probably-cost-you-just-a-bit-more-than-a-64gb-ddr5-stick-sarcasm</link>
-      <pubDate>Sun, 28 Dec 2025 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">QbyDWymnU3XDCH3uWhp9q7</guid>
-      <description>Nvidia RTX Pro 5000 Blackwell offers 72GB memory, 14,080 CUDA cores, and high compute throughput, challenging workstation pricing comparisons.</description>
-    </item>
-    <item>
-      <title>Tesla-style retractable door handles will be banned in China</title>
-      <link>https://mashable.com/article/tesla-style-retractable-door-handles-banned-in-china</link>
-      <pubDate>Sun, 28 Dec 2025 20:30:58 +0000</pubDate>
-      <guid isPermaLink="false">07wvvRsZNXORaZjCUBSevFy</guid>
-      <description>China is banning Tesla-style door handles as U.S. regulators look into safety issues too.</description>
-    </item>
-    <item>
-      <title>LG is preparing a 1500-nit 39-inch 5K curved monitor that's almost as bright as Apple's Pro Display XDR &#8212; but at a fraction of the price</title>
-      <link>https://www.techradar.com/pro/lg-is-preparing-a-1500-nit-39-inch-5k-curved-monitor-thats-almost-as-bright-as-apples-pro-display-xdr-but-at-a-fraction-of-the-price</link>
-      <pubDate>Sun, 28 Dec 2025 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">VJzshqtoz8uaFUzB8DXtLW</guid>
-      <description>LG Display&#8217;s 39-inch 5K Tandem WOLED promises high peak brightness, modest pixel density gains, gentler curvature, and unresolved performance details.</description>
-    </item>
-    <item>
-      <title>Asus is set to launch a 2-in-1 convertible rugged laptop for creators with unique dial control, a backlit keyboard, and even a dedicated case</title>
-      <link>https://www.techradar.com/pro/asus-is-set-to-launch-a-2-in-1-convertible-rugged-laptop-for-creators-with-unique-dial-control-a-backlit-keyboard-and-even-a-dedicated-case</link>
-      <pubDate>Sun, 28 Dec 2025 20:25:00 +0000</pubDate>
-      <guid isPermaLink="false">yC3bfjByvYdfyyb798G5M9</guid>
-      <description>Asus ProArt GoPro Edition targets creators with a convertible design, AI StoryCube app integration, dial control, a backlit keyboard, and dedicated GPU support.</description>
     </item>
   </channel>
 </rss>
