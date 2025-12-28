@@ -3,7 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 28 Dec 2025 21:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 22:24:09 GMT</lastBuildDate>
+    <item>
+      <title>3 new features I want to see from Garmin in 2026</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/3-new-features-i-want-to-see-from-garmin-in-2026</link>
+      <pubDate>Sun, 28 Dec 2025 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">WxnS9cZjZiko5PNf3xo5oG</guid>
+      <description>The new features I want to see on Garmin watches during the coming year to compete with the likes of Apple and Samsung.</description>
+    </item>
+    <item>
+      <title>Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok</title>
+      <link>https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/</link>
+      <pubDate>Sun, 28 Dec 2025 21:52:52 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3079136</guid>
+      <description>Local police said they have charged an Illinois driver who struck and killed a pedestrian while she was livestreaming on TikTok.</description>
+    </item>
+    <item>
+      <title>LG announces new UltraGear evo gaming monitors with AI upscaling</title>
+      <link>https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling</link>
+      <pubDate>2025-12-28T16:42:15-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=850572</guid>
+      <description>LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950B, the 27GM950B, and the 52G930B. The first number in the [&#8230;]</description>
+    </item>
+    <item>
+      <title>You may soon be able to change your Gmail address</title>
+      <link>https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/</link>
+      <pubDate>Sun, 28 Dec 2025 21:29:59 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3079133</guid>
+      <description>Good news for anyone tired of or embarrassed by their current Gmail address.</description>
+    </item>
     <item>
       <title>The &#8216;Stranger Things&#8217; Brothers on Resolving Relationships and Character Closure</title>
       <link>https://gizmodo.com/the-stranger-things-brothers-talk-resolving-relationships-2000703801</link>
@@ -12,18 +40,18 @@
       <description>Before hitting the endgame, 'Stranger Things' had to tie off some threads and help the Hawkins gang get their heads in the game.</description>
     </item>
     <item>
-      <title>Great news! Nvidia finally has a 72GB graphics card &#8212; but since it's the RTX Pro 5000 Blackwell, it will probably cost you just a bit more than a 64GB DDR5 stick &lt;sarcasm&gt;</title>
-      <link>https://www.techradar.com/pro/great-news-nvidia-finally-has-a-72gb-graphics-card-but-since-its-the-rtx-pro-5000-blackwell-it-will-probably-cost-you-just-a-bit-more-than-a-64gb-ddr5-stick-sarcasm</link>
-      <pubDate>Sun, 28 Dec 2025 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">QbyDWymnU3XDCH3uWhp9q7</guid>
-      <description>Nvidia RTX Pro 5000 Blackwell offers 72GB memory, 14,080 CUDA cores, and high compute throughput, challenging workstation pricing comparisons.</description>
-    </item>
-    <item>
       <title>Samsung aims to beat Apple's $5000 Display XDR monitor with 6K 3D monitor &#8212; and it doesn't even need glasses</title>
       <link>https://www.techradar.com/pro/samsung-aims-to-beat-apples-usd5000-display-xdr-monitor-with-6k-3d-monitor-and-it-doesnt-even-need-glasses</link>
       <pubDate>Sun, 28 Dec 2025 21:15:00 +0000</pubDate>
       <guid isPermaLink="false">udCajKRQjxMZfr4hv7RWEH</guid>
       <description>Samsung&#8217;s Odyssey 3D G90XH brings glasses-free 6K visuals with eye tracking, while G8 and OLED models offer versatile resolutions.</description>
+    </item>
+    <item>
+      <title>Great news! Nvidia finally has a 72GB graphics card &#8212; but since it's the RTX Pro 5000 Blackwell, it will probably cost you just a bit more than a 64GB DDR5 stick &lt;sarcasm&gt;</title>
+      <link>https://www.techradar.com/pro/great-news-nvidia-finally-has-a-72gb-graphics-card-but-since-its-the-rtx-pro-5000-blackwell-it-will-probably-cost-you-just-a-bit-more-than-a-64gb-ddr5-stick-sarcasm</link>
+      <pubDate>Sun, 28 Dec 2025 21:15:00 +0000</pubDate>
+      <guid isPermaLink="false">QbyDWymnU3XDCH3uWhp9q7</guid>
+      <description>Nvidia RTX Pro 5000 Blackwell offers 72GB memory, 14,080 CUDA cores, and high compute throughput, challenging workstation pricing comparisons.</description>
     </item>
     <item>
       <title>Tesla-style retractable door handles will be banned in China</title>
@@ -45,56 +73,6 @@
       <pubDate>Sun, 28 Dec 2025 20:25:00 +0000</pubDate>
       <guid isPermaLink="false">yC3bfjByvYdfyyb798G5M9</guid>
       <description>Asus ProArt GoPro Edition targets creators with a convertible design, AI StoryCube app integration, dial control, a backlit keyboard, and dedicated GPU support.</description>
-    </item>
-    <item>
-      <title>Apple escalates its appeal of a $2 billion fine from a UK antitrust lawsuit</title>
-      <link>https://www.engadget.com/big-tech/apple-escalates-its-appeal-of-a-2-billion-fine-from-a-uk-antitrust-lawsuit-201922558.html?src=rss</link>
-      <pubDate>Sun, 28 Dec 2025 20:19:22 +0000</pubDate>
-      <guid isPermaLink="false">27e6d8ac-4e0b-4ec9-848d-ab6f4ca1118d</guid>
-      <description>Apple isn't ready to pay a several billion-dollar fine to UK App Store users and is filing an appeal over a major antitrust lawsuit. As first reported by The Guardian, Apple has requested to appeal to the UK's Court of Appeal, which would escalate the case beyond the Competition Appeal Tribunal (CAT).&#160;
-The latest appeal attempt follows an October decision from the CAT, where the court found that Apple engaged in anticompetitive practices by exploiting its dominant market position with the App Store to charge higher fees. The CAT's ruling established a &#163;1.5 billion, or roughly $2 billion, fine,...</description>
-    </item>
-    <item>
-      <title>A guide to choosing the right Apple Watch</title>
-      <link>https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/</link>
-      <pubDate>Sun, 28 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3047850</guid>
-      <description>The gap between Apple's standard and budget smart watches has never felt smaller.</description>
-    </item>
-    <item>
-      <title>In the pantheon of new home appliances, the Roborock F25 Ultra is unequivocally my favorite product of 2025</title>
-      <link>https://www.techradar.com/home/vacuums/in-the-pantheon-of-new-home-appliances-the-roborock-f25-ultra-is-unequivocally-my-favorite-product-of-2025</link>
-      <pubDate>Sun, 28 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">j5Vg6vC3YT64Ur8bs6eviJ</guid>
-      <description>The Roborock F25 Ultra doesn't sound glam, but it has transformed my cleaning game.</description>
-    </item>
-    <item>
-      <title>8GB of VRAM could be all you can find in laptop GPUs soon &#8212; but is it enough? I tested the MSI Katana 15 HX to find out</title>
-      <link>https://www.techradar.com/computing/gaming-laptops/8gb-of-vram-could-be-all-you-can-find-in-laptop-gpus-soon-but-is-it-enough-i-tested-the-msi-katana-15-hx-to-find-out</link>
-      <pubDate>Sun, 28 Dec 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zuvsHShfbcxB9czrFpj4XG</guid>
-      <description>I was left quite surprised at the MSI Katana 15HX B14W's gaming performance, but I'm slightly worried about how long 8GB GPUs will last.</description>
-    </item>
-    <item>
-      <title>Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game</title>
-      <link>https://gizmodo.com/attackers-caused-so-much-havoc-inside-rainbow-six-siege-ubisoft-shut-down-the-whole-game-2000703805</link>
-      <pubDate>Sun, 28 Dec 2025 19:58:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000703805</guid>
-      <description>Let's hope there's no lasting damage to the in-game economy.</description>
-    </item>
-    <item>
-      <title>Prime Video May Expand &#8216;Fallout&#8217; With a Reality Show Spinoff</title>
-      <link>https://gizmodo.com/prime-video-may-expand-fallout-with-a-reality-show-spinoff-2000703777</link>
-      <pubDate>Sun, 28 Dec 2025 19:50:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000703777</guid>
-      <description>Do you like the 'Fallout' games or show enough to watch a competition show based on 'Fallout Shelter'?</description>
-    </item>
-    <item>
-      <title>You need to read the subversive cosmic horror novella The Ballad of Black Tom</title>
-      <link>https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle</link>
-      <pubDate>2025-12-28T14:45:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=850564</guid>
-      <description>Things that HP Lovecraft was good at: Creating a mythos. Building atmosphere. Things that HP Lovecraft was bad at: Writing dialog. Creating compelling characters. Not being a racist. As a fan of horror in general, I can't pretend that Lovecraft isn't an important touchstone. But the man's blatant racism is also impossible to ignore, especially [&#8230;]</description>
     </item>
   </channel>
 </rss>
