@@ -3,22 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 30 Dec 2025 02:01:39 GMT</lastBuildDate>
-    <item>
-      <title>LG to unveil a canvas-style TV at CES 2026</title>
-      <link>https://www.engadget.com/home/home-theater/lg-to-unveil-a-canvas-style-tv-at-ces-2026-010024691.html?src=rss</link>
-      <pubDate>Tue, 30 Dec 2025 01:00:24 +0000</pubDate>
-      <guid isPermaLink="false">015dd3e2-d5eb-49dd-8975-01f44c28af7f</guid>
-      <description>LG will unveil a canvas-style art TV, dubbed the LG Gallery TV, at CES 2026. The new model will be offered in 55-inch and 65-inch variants, and sports a flush-mount design along with customizable magnetic frames.
-The Gallery TV uses a Mini LED display and the company's Alpha 7 AI processor and offers 4K resolution. The new model will also leverage the LG Gallery+ service, a paid subscription with a library of over 4,500 works that users can display on the TV. Users will also be able to create custom images using generative AI or display images from personal photo libraries.
-LG says the TV was ...</description>
-    </item>
-    <item>
-      <title>LG is announcing its own Frame-style TV at CES</title>
-      <link>https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026</link>
-      <pubDate>2025-12-29T20:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=850876</guid>
-      <description>In just the past couple years, the art TV category that's been dominated by Samsung's The Frame has seen growth, with additions from both TCL and Hisense. Now LG has announced its own entry, the LG Gallery TV. The TV will leverage the Gallery+ service that LG released earlier this year, which includes thousands of [&#8230;]</description>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 04:02:24 GMT</lastBuildDate>
   </channel>
 </rss>
