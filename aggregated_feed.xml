@@ -3,90 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 29 Dec 2025 23:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 02:01:39 GMT</lastBuildDate>
     <item>
-      <title>Samsung&#8217;s New Wi-Fi Speaker Has Big Monolith Energy</title>
-      <link>https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920</link>
-      <pubDate>Mon, 29 Dec 2025 23:00:21 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000703920</guid>
-      <description>Playing the theme to '2001: A Space Odyssey' on this thing might feel a little too on-the-nose.</description>
+      <title>LG to unveil a canvas-style TV at CES 2026</title>
+      <link>https://www.engadget.com/home/home-theater/lg-to-unveil-a-canvas-style-tv-at-ces-2026-010024691.html?src=rss</link>
+      <pubDate>Tue, 30 Dec 2025 01:00:24 +0000</pubDate>
+      <guid isPermaLink="false">015dd3e2-d5eb-49dd-8975-01f44c28af7f</guid>
+      <description>LG will unveil a canvas-style art TV, dubbed the LG Gallery TV, at CES 2026. The new model will be offered in 55-inch and 65-inch variants, and sports a flush-mount design along with customizable magnetic frames.
+The Gallery TV uses a Mini LED display and the company's Alpha 7 AI processor and offers 4K resolution. The new model will also leverage the LG Gallery+ service, a paid subscription with a library of over 4,500 works that users can display on the TV. Users will also be able to create custom images using generative AI or display images from personal photo libraries.
+LG says the TV was ...</description>
     </item>
     <item>
-      <title>Ryan Coogler&#8217;s Original Plan for Chadwick Boseman in &#8216;Black Panther 2&#8217; Was So Good</title>
-      <link>https://gizmodo.com/black-panther-2-chadwick-boseman-ryan-coogler-2000704043</link>
-      <pubDate>Mon, 29 Dec 2025 22:30:47 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704043</guid>
-      <description>It involved T'Challa's son, and, somehow, we are now even sadder about it all.</description>
-    </item>
-    <item>
-      <title>New 'serial' tech will significantly reduce the cost of memory &#8212; HBM memory, that is, the sort of RAM only AI hyperscalers can use, but hey, at least they won't go after consumer RAM, or would they?</title>
-      <link>https://www.techradar.com/pro/new-serial-tech-will-significantly-reduce-the-cost-of-memory-hbm-memory-that-is-the-sort-of-ram-only-ai-hyperscalers-can-use-but-hey-at-least-they-wont-go-after-consumer-ram-or-would-they</link>
-      <pubDate>Mon, 29 Dec 2025 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">eYFtYZ8nPqPMxQCjJAPFwL</guid>
-      <description>SPHBM4 uses serialization and organic substrates to lower HBM packaging costs while keeping bandwidth memory exclusive to hyperscale AI systems.</description>
-    </item>
-    <item>
-      <title>China drafting first of its kind emotional safety regulation for AI</title>
-      <link>https://mashable.com/article/china-ai-emotional-safety-measures</link>
-      <pubDate>Mon, 29 Dec 2025 22:24:54 +0000</pubDate>
-      <guid isPermaLink="false">0299h9NLAHJTeLS2zbrmbxh</guid>
-      <description>A draft document by China's Cyberspace Administration outlines sticter oversight of minors and chatbot companions.</description>
-    </item>
-    <item>
-      <title>AI slop and brainrot content now make up 1 in 2 YouTube Shorts recommendations, study reveals</title>
-      <link>https://mashable.com/article/study-ai-slop-youtube</link>
-      <pubDate>Mon, 29 Dec 2025 22:20:39 +0000</pubDate>
-      <guid isPermaLink="false">01z5gAGEVCfUA4FdrOvXTCt</guid>
-      <description>New research shows YouTube&#8217;s algorithm is heavily promoting low-quality AI-generated and &#8220;brainrot&#8221; videos, making up a large share of what new users see.</description>
-    </item>
-    <item>
-      <title>After nearly 10 years, Twist Bioscience spin-off plans Terabyte-scale DNA storage in 2026, intending to store 13TB of data in a 'single drop of water.'</title>
-      <link>https://www.techradar.com/pro/after-nearly-10-years-twist-bioscience-spin-off-plans-terabyte-scale-dna-storage-in-2026-intending-to-store-13tb-of-data-in-a-single-drop-of-water</link>
-      <pubDate>Mon, 29 Dec 2025 22:15:00 +0000</pubDate>
-      <guid isPermaLink="false">GqyYz6kenuHSKgTS4ai6FP</guid>
-      <description>Atlas Data Storage plans terabyte-scale DNA storage by 2026, aiming to store massive data in tiny, highly dense volumes.</description>
-    </item>
-    <item>
-      <title>Memory shortage: Framework raises DDR5 RAM prices again with a per GB price hike</title>
-      <link>https://mashable.com/article/framework-price-hike-ddr5-ram-memory-shortage</link>
-      <pubDate>Mon, 29 Dec 2025 22:01:08 +0000</pubDate>
-      <guid isPermaLink="false">03XrNCkNnyYQWCT4ANLcAg6</guid>
-      <description>Memory shortages driven by the AI boom are causing prices to balloon for consumers, as seen in this price hike from DIY laptop brand Framework</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s Crusade Against &#8216;Woke&#8217; Climate Research Threatens Solar Science</title>
-      <link>https://gizmodo.com/trumps-crusade-against-woke-climate-research-threatens-solar-science-2000704041</link>
-      <pubDate>Mon, 29 Dec 2025 22:00:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704041</guid>
-      <description>The National Center for Atmospheric Research not only investigates weather on Earth, but also in space.</description>
-    </item>
-    <item>
-      <title>No Avian Will Escape This 360-Camera Bird Feeder</title>
-      <link>https://gizmodo.com/no-avian-will-escape-this-360-camera-bird-feeder-2000704031</link>
-      <pubDate>Mon, 29 Dec 2025 21:45:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704031</guid>
-      <description>Why miss a single second of your local birds' feeding frenzy?</description>
-    </item>
-    <item>
-      <title>&#8216;The Last of Us&#8217; Season 3 Is Recasting an &#8216;Avengers&#8217; Actor</title>
-      <link>https://gizmodo.com/the-last-of-us-season-3-danny-ramirez-2000704121</link>
-      <pubDate>Mon, 29 Dec 2025 21:45:35 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704121</guid>
-      <description>Marvel's new Falcon, Danny Ramirez, will not be returning for season 3 of the HBO show.</description>
-    </item>
-    <item>
-      <title>Elizabeth Warren Finally Used ChatGPT</title>
-      <link>https://gizmodo.com/elizabeth-warren-finally-used-chatgpt-2000704050</link>
-      <pubDate>Mon, 29 Dec 2025 21:40:10 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704050</guid>
-      <description>Many are dropping their skepticism. Bernie Sanders isn't.</description>
-    </item>
-    <item>
-      <title>CES 2026 &#8212; What to expect</title>
-      <link>https://www.techradar.com/tech-events/ces-2026-what-to-expect</link>
-      <pubDate>Mon, 29 Dec 2025 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">yJmBXUuGYuXxyC9MPHr5</guid>
-      <description>CES 2026 will be big, busy, and full of AI but with incremental updates across many, many tech categories.</description>
+      <title>LG is announcing its own Frame-style TV at CES</title>
+      <link>https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026</link>
+      <pubDate>2025-12-29T20:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=850876</guid>
+      <description>In just the past couple years, the art TV category that's been dominated by Samsung's The Frame has seen growth, with additions from both TCL and Hisense. Now LG has announced its own entry, the LG Gallery TV. The TV will leverage the Gallery+ service that LG released earlier this year, which includes thousands of [&#8230;]</description>
     </item>
   </channel>
 </rss>
