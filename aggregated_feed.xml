@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 30 Dec 2025 04:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 05:28:05 GMT</lastBuildDate>
+    <item>
+      <title>Les nouveaux milliardaires de l&#8217;IA</title>
+      <link>https://www.lapresse.ca/affaires/techno/2025-12-30/les-nouveaux-milliardaires-de-l-ia.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">9fcc1f3256dd33fc8447c66e10f48dc0</guid>
+      <description>Le boom de l&#8217;intelligence artificielle (IA) a transform&#233; des milliardaires de haut profil comme Jensen Huang, PDG du fabricant de puces Nvidia, et Sam Altman, PDG d&#8217;OpenAI, cr&#233;ateur de ChatGPT, en milliardaires encore plus riches.</description>
+    </item>
   </channel>
 </rss>
