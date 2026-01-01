@@ -3,34 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 01 Jan 2026 22:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 23:24:12 GMT</lastBuildDate>
+    <item>
+      <title>I hope Android phones in 2026 fix Apple's biggest iPhone mistake</title>
+      <link>https://www.techradar.com/phones/iphone/i-hope-android-phones-in-2026-fix-apples-biggest-iphone-mistake</link>
+      <pubDate>Thu, 01 Jan 2026 23:17:52 +0000</pubDate>
+      <guid isPermaLink="false">jC3pbjQhR2hBxnJsJPxTak</guid>
+      <description>The iPhone 16 Pro camera control was a flop, but Android makers have had enough time to cook up their own version and I'm hoping it's great.</description>
+    </item>
     <item>
       <title>There Is Almost Too Much Anime to Watch This Month</title>
       <link>https://gizmodo.com/there-is-almost-too-much-anime-to-watch-this-month-2000704345</link>
       <pubDate>Thu, 01 Jan 2026 22:00:36 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000704345</guid>
       <description>From 'Jujutsu Kaisen' to 'Frieren: Beyond Journey's End,' here are the anime to watch in the new year.</description>
-    </item>
-    <item>
-      <title>A beginner&#8217;s guide to Mastodon, the open source Twitter alternative</title>
-      <link>https://techcrunch.com/2026/01/01/what-is-mastodon/</link>
-      <pubDate>Thu, 01 Jan 2026 21:02:13 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=2437799</guid>
-      <description>Unless if you&#8217;re really in the know about nascent platforms, you probably didn&#8217;t know what Mastodon was until Elon Musk bought Twitter and renamed it X. In the initial aftermath of the acquisition, as users fretted over what direction Twitter would take, millions of users hopped over to Mastodon, a fellow microblogging site. As time [&#8230;]</description>
-    </item>
-    <item>
-      <title>How to watch Wild London on BBC iPlayer (it's FREE)</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/watch-wild-london-on-bbc-iplayer-its-free</link>
-      <pubDate>Thu, 01 Jan 2026 20:33:04 +0000</pubDate>
-      <guid isPermaLink="false">sGAtKkEkMeRSMds7Sx6iR5</guid>
-      <description>David Attenborough reveals the wild heart of London &#8212; here&#8217;s how to watch Wild London online and for free from any country as the urban wildlife doc wows TV viewers.</description>
-    </item>
-    <item>
-      <title>European banks plan to cut 200,000 jobs as AI takes hold</title>
-      <link>https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/</link>
-      <pubDate>Thu, 01 Jan 2026 20:28:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079393</guid>
-      <description>The bloodletting will hit hardest in back-office operations, risk management, and compliance.</description>
     </item>
   </channel>
 </rss>
