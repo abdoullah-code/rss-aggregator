@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 01 Jan 2026 21:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 22:24:51 GMT</lastBuildDate>
+    <item>
+      <title>There Is Almost Too Much Anime to Watch This Month</title>
+      <link>https://gizmodo.com/there-is-almost-too-much-anime-to-watch-this-month-2000704345</link>
+      <pubDate>Thu, 01 Jan 2026 22:00:36 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000704345</guid>
+      <description>From 'Jujutsu Kaisen' to 'Frieren: Beyond Journey's End,' here are the anime to watch in the new year.</description>
+    </item>
     <item>
       <title>A beginner&#8217;s guide to Mastodon, the open source Twitter alternative</title>
       <link>https://techcrunch.com/2026/01/01/what-is-mastodon/</link>
@@ -24,20 +31,6 @@
       <pubDate>Thu, 01 Jan 2026 20:28:20 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3079393</guid>
       <description>The bloodletting will hit hardest in back-office operations, risk management, and compliance.</description>
-    </item>
-    <item>
-      <title>Public Domain Day 2026 list: Betty Boop, Disney cartoons, classic books, and more</title>
-      <link>https://mashable.com/article/public-domain-day-2026-full-list</link>
-      <pubDate>Thu, 01 Jan 2026 20:08:48 +0000</pubDate>
-      <guid isPermaLink="false">00nMj39mPsisRI22VUqzW1f</guid>
-      <description>Early versions of Betty Boop, Pluto, and Mickey and Minnie Mouse are on the list.</description>
-    </item>
-    <item>
-      <title>There Is So Much New Lego You Can Buy in January</title>
-      <link>https://gizmodo.com/lego-january-2026-sets-star-wars-marvel-stranger-things-2000704414</link>
-      <pubDate>Thu, 01 Jan 2026 20:00:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704414</guid>
-      <description>The new year is always a wild time for Lego releases, and 2026 is certainly no exception.</description>
     </item>
   </channel>
 </rss>
