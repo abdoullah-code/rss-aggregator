@@ -3,41 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 02 Jan 2026 04:05:00 GMT</lastBuildDate>
-    <item>
-      <title>Starlink is lowering thousands of satellites' orbits to reduce risk of collisions</title>
-      <link>https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss</link>
-      <pubDate>Fri, 02 Jan 2026 03:05:09 +0000</pubDate>
-      <guid isPermaLink="false">22167783-5fec-4123-a52b-3f5796f95db0</guid>
-      <description>Starlink will lower the orbits of roughly 4,400 satellites this year as a safety measure, according to engineering VP, Michael Nicolls. In a post on X, Nicolls wrote that the company is "beginning a significant reconfiguration of its satellite constellation," in which all satellites orbiting at around 550 kilometers (342 miles) will be lowered to around 480 km (298 miles). The move is intended to reduce the risk of collisions, putting the satellites in a region that's less cluttered and will allow them to deorbit more quickly should an incident occur.&#160;"Lowering the satellites results in conden...</description>
-    </item>
-    <item>
-      <title>NYT Connections hints today: Clues, answers for January 2, 2026</title>
-      <link>https://mashable.com/article/nyt-connections-hint-answer-today-january-2-2026</link>
-      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">06Q0YrxZqMNBf8Mcm9n8eJp</guid>
-      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints, answers for January 2, 2026</title>
-      <link>https://mashable.com/article/strands-nyt-hint-january-2-2026</link>
-      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">07snhyYxX6q1S1AgkRHsZib</guid>
-      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
-    </item>
-    <item>
-      <title>Wordle today: Answer, hints for January 2, 2026</title>
-      <link>https://mashable.com/article/wordle-today-answer-january-2-2026</link>
-      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">06yb9cZ99GDKNpdsdO2Q0Q9</guid>
-      <description>Here's the answer for "Wordle" #1657 on January 2 as well as a few hints, tips, and clues to help you solve it yourself.</description>
-    </item>
-    <item>
-      <title>Hurdle hints and answers for January 2, 2026</title>
-      <link>https://mashable.com/article/hurdle-hints-answers-january-2-2026</link>
-      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">00sv1U0efXYZ4fh3rwmdiQY</guid>
-      <description>Hints and answers to today's Hurdle all in one place.</description>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 05:30:07 GMT</lastBuildDate>
   </channel>
 </rss>
