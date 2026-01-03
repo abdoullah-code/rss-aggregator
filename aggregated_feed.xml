@@ -3,7 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 03 Jan 2026 21:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 22:23:45 GMT</lastBuildDate>
+    <item>
+      <title>What Happens Next in Venezuela&#8212;and the Rest of Latin America?</title>
+      <link>https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/</link>
+      <pubDate>Sat, 03 Jan 2026 22:10:35 +0000</pubDate>
+      <guid isPermaLink="false">695983027d3dc30ea349722d</guid>
+      <description>Donald Trump says that Venezuela's governance will remain in the hands of senior US officials until a "proper and judicious transition" can take place. The rest of the region is on notice.</description>
+    </item>
+    <item>
+      <title>Why &#8220;which API do I call?&#8221; is the wrong question in the LLM era</title>
+      <link>https://venturebeat.com/orchestration/why-which-api-do-i-call-is-the-wrong-question-in-the-llm-era</link>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">6JVWlpvGBuOEGIFmxkBxSY</guid>
+      <description>For decades, we have adapted to software. We learned shell commands, memorized HTTP method names and wired together SDKs. Each interface assumed we would speak its language. In the 1980s, we typed 'grep', 'ssh' and 'ls' into a shell; by the mid-2000s, we were invoking REST endpoints like GET /users; by the 2010s, we imported SDKs (client.orders.list()) so we didn&#8217;t have to think about HTTP. But underlying each of those steps was the same premise: Expose capabilities in a structured form so others can invoke them.But now we are entering the next interface paradigm. Modern LLMs are challenging t...</description>
+    </item>
+    <item>
+      <title>Not exactly a DeepSeek moment for AI accelerators - but this Chinese optical chip may well be 100x faster than Nvidia's A100 on some tasks</title>
+      <link>https://www.techradar.com/pro/not-exactly-a-deepseek-moment-for-ai-accelerators-but-this-chinese-optical-chip-may-well-be-100x-faster-than-nvidias-a100-on-some-tasks</link>
+      <pubDate>Sat, 03 Jan 2026 21:40:00 +0000</pubDate>
+      <guid isPermaLink="false">Ap2ffMUU3oEjWXNdAGj5Ab</guid>
+      <description>Chinese photonic AI chips demonstrate extreme speed and energy efficiency in narrowly defined generative workloads, exceeding conventional GPU performance in lab tests.</description>
+    </item>
+    <item>
+      <title>You Must Stare Into the Heart of the $400 Million Machine</title>
+      <link>https://gizmodo.com/you-must-stare-into-the-heart-of-the-400-million-machine-2000705100</link>
+      <pubDate>Sat, 03 Jan 2026 21:35:52 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000705100</guid>
+      <description>A riveting 55-minute YouTube video will show you where the GPU wafers come from.</description>
+    </item>
     <item>
       <title>How to watch Australia vs England: live stream 5th Ashes Test for *FREE* from anywhere</title>
       <link>https://www.techradar.com/how-to-watch/cricket/australia-vs-england-5th-ashes-test-free</link>
@@ -17,27 +45,6 @@
       <pubDate>2026-01-03T15:44:22-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=853765</guid>
       <description>Shortly before the US military launched an attack on Venezuela and captured President Nicol&#225;s Maduro, an account on Polymarket made some very suspiciously timed investments. The prediction market had been running bets on when or if Maduro would be removed from power, with prices for "out by January 31, 2026" as low as $0.07 late [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Core 9 Ultra 285K is Intel's fastest CPU and costs under $500 - so why is it so much cheaper compared to AMD $679 Ryzen 9 9950X3D?</title>
-      <link>https://www.techradar.com/pro/the-core-9-ultra-285k-is-intels-fastest-cpu-and-costs-under-usd500-so-why-is-it-so-much-cheaper-compared-to-amd-usd679-ryzen-9-9950x3d</link>
-      <pubDate>Sat, 03 Jan 2026 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">xuSTKoFjvjc3H7DV8Wm5RA</guid>
-      <description>Benchmark data places AMD&#8217;s Ryzen 9 9950X3D only slightly ahead of Intel&#8217;s cheaper and more efficient top desktop processor.</description>
-    </item>
-    <item>
-      <title>The &#8216;Stranger Things&#8217; Finale Turned Everyone Back Onto Prince</title>
-      <link>https://gizmodo.com/the-stranger-things-finale-turned-everyone-back-onto-prince-2000705068</link>
-      <pubDate>Sat, 03 Jan 2026 20:00:33 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705068</guid>
-      <description>Gen Z or older, it doesn't matter: the two needle drops in 'Stranger Things' reignited interest in Prince's music catalog.</description>
-    </item>
-    <item>
-      <title>Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison</title>
-      <link>https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/</link>
-      <pubDate>Sat, 03 Jan 2026 19:48:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079515</guid>
-      <description>Ilya Lichtenstein, who pled guilty to money laundering charges tied to his role in the massive hack of crypto exchange Bitfinex, has apparently been released early from prison.</description>
     </item>
   </channel>
 </rss>
