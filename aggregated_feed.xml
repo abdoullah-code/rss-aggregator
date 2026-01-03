@@ -3,13 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 03 Jan 2026 01:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 03:36:00 GMT</lastBuildDate>
     <item>
-      <title>Nvidia just admitted the general-purpose GPU era is ending</title>
-      <link>https://venturebeat.com/infrastructure/inference-is-splitting-in-two-nvidias-usd20b-groq-bet-explains-its-next-act</link>
-      <pubDate>Sat, 03 Jan 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">FTGAPtGL4SbrvyO0mzyR6</guid>
-      <description>Nvidia&#8217;s $20 billion strategic licensing deal with Groq represents one of the first clear moves in a four-front fight over the future AI stack. 2026 is when that fight becomes obvious to enterprise builders.For the technical decision-makers we talk to every day &#8212; the people building the AI applications and the data pipelines that drive them &#8212; this deal is a signal that the era of the one-size-fits-all GPU as the default AI inference answer is ending.We are entering the age of the disaggregated inference architecture, where the silicon itself is being split into two different types to accommoda...</description>
+      <title>NYT Connections Sports Edition today: Hints and answers for January 3, 2026</title>
+      <link>https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-january-3-2026</link>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03iF0E0sD0x88UUNo1EdzJi</guid>
+      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Pips hints, answers for January 3, 2026</title>
+      <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-january-3-2026</link>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02hj7krTnPTR7uVIyrIYllQ</guid>
+      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints today: Clues, answers for January 3, 2026</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-january-3-2026</link>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00Oi0rQT0Ca2c4Bjl05H4H7</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for January 3, 2026</title>
+      <link>https://mashable.com/article/strands-nyt-hint-january-3-2026</link>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00C2GlDrTfWqTCh2MYyyCC2</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Hurdle hints and answers for January 3, 2026</title>
+      <link>https://mashable.com/article/hurdle-hints-answers-january-3-2026</link>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0139GmLxPLbMxedqdJzsgUB</guid>
+      <description>Hints and answers to today's Hurdle all in one place.</description>
     </item>
   </channel>
 </rss>
