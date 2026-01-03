@@ -3,49 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 02 Jan 2026 23:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 01:56:59 GMT</lastBuildDate>
     <item>
-      <title>Prices for an old Star Wars game have ballooned because of its role in a PS5 jailbreak</title>
-      <link>https://www.engadget.com/gaming/playstation/prices-for-an-old-star-wars-game-have-ballooned-because-of-its-role-in-a-ps5-jailbreak-230604276.html?src=rss</link>
-      <pubDate>Fri, 02 Jan 2026 23:06:04 +0000</pubDate>
-      <guid isPermaLink="false">ef903ed8-28dd-49c4-af49-009dde354f12</guid>
-      <description>The price for a PS4 copy of  the relatively obscure Star Wars racing game, Star Wars Racer Revenge, has dramatically increased in the last few days because of the game&#8217;s use in the latest PlayStation 5 jailbreak, Eurogamer reports. The PS2 game was originally released in 2002, and was ported to PS4 by Limited Run Games in 2019. Its role as a key ingredient in the jailbreaking process was announced on December 31.Interested jailbreakers need Racer Revenge to jailbreak PS5 12.00 firmware because of a bug in the game's Hall of Fame feature, according to Eurogamer. The bug makes it possible to inj...</description>
-    </item>
-    <item>
-      <title>Unannounced 32TB Seagate hard drive surfaces in Japan for photoshoot &#8212; but the IronWolf Pro gets a shockingly high $887 price tag</title>
-      <link>https://www.techradar.com/pro/unannounced-32tb-seagate-hard-drive-surfaces-in-japan-for-photoshoot-ironwolf-pro-gets-a-shockingly-high-usd887-price-tag</link>
-      <pubDate>Fri, 02 Jan 2026 22:05:00 +0000</pubDate>
-      <guid isPermaLink="false">nsuYsL2LS2QzEQS4WvMZZg</guid>
-      <description>Seagate&#8217;s unannounced 32TB IronWolf Pro hard drive surfaced in Japanese retail, marking a quiet shift of extreme capacity toward consumers.</description>
-    </item>
-    <item>
-      <title>Hackers Allegedly Steal Access Tokens, Confidential Documents From European Space Agency</title>
-      <link>https://gizmodo.com/hackers-allegedly-steal-access-tokens-confidential-documents-from-european-space-agency-2000704986</link>
-      <pubDate>Fri, 02 Jan 2026 21:55:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000704986</guid>
-      <description>This isn't the first cybersecurity breach to impact the space agency.</description>
-    </item>
-    <item>
-      <title>Tech Companies Show Feet as They Try to Appeal to Gen Z</title>
-      <link>https://gizmodo.com/tech-companies-show-feet-as-they-try-to-appeal-to-gen-z-2000705009</link>
-      <pubDate>Fri, 02 Jan 2026 21:50:10 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705009</guid>
-      <description>You can't work from home, but you can bring your slippers to the office.</description>
-    </item>
-    <item>
-      <title>From boots to Bernie: Zohran Mamdani&#8217;s inauguration served up many viral moments</title>
-      <link>https://www.fastcompany.com/91468643/zohran-mamdani-viral-inauguration-moments-wife-boots-bernie-sanders-jadakiss</link>
-      <pubDate>2026-01-02T21:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91468643/zohran-mamdani-viral-inauguration-moments-wife-boots-bernie-sanders-jadakiss</guid>
-      <description>New York&#8217;s new mayor rose to fame with help from a social media-savvy campaign. It&#8217;s no surprise that his swearing-in has captivated the internet.
-New York City kicked off the new year with a new mayor in democratic socialist Zohran Mamdani, whose inauguration flooded the internet with viral moments.</description>
-    </item>
-    <item>
-      <title>James Gunn Doesn&#8217;t Care If He&#8217;s Not Nominated for Best Director</title>
-      <link>https://gizmodo.com/james-gunn-dc-movies-prestige-awards-2000705028</link>
-      <pubDate>Fri, 02 Jan 2026 21:33:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705028</guid>
-      <description>He wouldn't turn it down, though&#8212;Todd Phillips did get a nod for 'Joker,' after all.</description>
+      <title>Nvidia just admitted the general-purpose GPU era is ending</title>
+      <link>https://venturebeat.com/infrastructure/inference-is-splitting-in-two-nvidias-usd20b-groq-bet-explains-its-next-act</link>
+      <pubDate>Sat, 03 Jan 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">FTGAPtGL4SbrvyO0mzyR6</guid>
+      <description>Nvidia&#8217;s $20 billion strategic licensing deal with Groq represents one of the first clear moves in a four-front fight over the future AI stack. 2026 is when that fight becomes obvious to enterprise builders.For the technical decision-makers we talk to every day &#8212; the people building the AI applications and the data pipelines that drive them &#8212; this deal is a signal that the era of the one-size-fits-all GPU as the default AI inference answer is ending.We are entering the age of the disaggregated inference architecture, where the silicon itself is being split into two different types to accommoda...</description>
     </item>
   </channel>
 </rss>
