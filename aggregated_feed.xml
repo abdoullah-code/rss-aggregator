@@ -3,20 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 03 Jan 2026 22:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 23:23:43 GMT</lastBuildDate>
+    <item>
+      <title>Surprise, surprise: Silksong wins Steam&#8217;s Game of the Year</title>
+      <link>https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year</link>
+      <pubDate>2026-01-03T18:04:09-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=853786</guid>
+      <description>Valve has announced the winners of the 2025 Steam Awards and, unsurprisingly, Hollow Knight: Silksong, took home the Game of the Year honors. It was also given the "Best Game You Suck At" award, which, I'm not sure if that's a good thing or not. Given the relentless fawning over Silksong since its release in [&#8230;]</description>
+    </item>
+    <item>
+      <title>A Newly Created Polymarket Account Made $436,759.61 on Nicol&#225;s Maduro&#8217;s Capture</title>
+      <link>https://gizmodo.com/a-newly-created-polymarket-account-made-436759-61-on-nicolas-maduros-capture-2000705118</link>
+      <pubDate>Sat, 03 Jan 2026 23:01:57 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000705118</guid>
+      <description>Some people have all the luck.</description>
+    </item>
+    <item>
+      <title>California residents can use new tool to demand brokers delete their personal data</title>
+      <link>https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/</link>
+      <pubDate>Sat, 03 Jan 2026 22:25:34 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3079517</guid>
+      <description>A new tool should make it easier for California residents to limit data brokers&#8217; ability to store and sell their personal information.</description>
+    </item>
     <item>
       <title>What Happens Next in Venezuela&#8212;and the Rest of Latin America?</title>
       <link>https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/</link>
       <pubDate>Sat, 03 Jan 2026 22:10:35 +0000</pubDate>
       <guid isPermaLink="false">695983027d3dc30ea349722d</guid>
       <description>Donald Trump says that Venezuela's governance will remain in the hands of senior US officials until a "proper and judicious transition" can take place. The rest of the region is on notice.</description>
-    </item>
-    <item>
-      <title>Why &#8220;which API do I call?&#8221; is the wrong question in the LLM era</title>
-      <link>https://venturebeat.com/orchestration/why-which-api-do-i-call-is-the-wrong-question-in-the-llm-era</link>
-      <pubDate>Sat, 03 Jan 2026 22:00:00 GMT</pubDate>
-      <guid isPermaLink="false">6JVWlpvGBuOEGIFmxkBxSY</guid>
-      <description>For decades, we have adapted to software. We learned shell commands, memorized HTTP method names and wired together SDKs. Each interface assumed we would speak its language. In the 1980s, we typed 'grep', 'ssh' and 'ls' into a shell; by the mid-2000s, we were invoking REST endpoints like GET /users; by the 2010s, we imported SDKs (client.orders.list()) so we didn&#8217;t have to think about HTTP. But underlying each of those steps was the same premise: Expose capabilities in a structured form so others can invoke them.But now we are entering the next interface paradigm. Modern LLMs are challenging t...</description>
     </item>
     <item>
       <title>Not exactly a DeepSeek moment for AI accelerators - but this Chinese optical chip may well be 100x faster than Nvidia's A100 on some tasks</title>
@@ -31,20 +45,6 @@
       <pubDate>Sat, 03 Jan 2026 21:35:52 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000705100</guid>
       <description>A riveting 55-minute YouTube video will show you where the GPU wafers come from.</description>
-    </item>
-    <item>
-      <title>How to watch Australia vs England: live stream 5th Ashes Test for *FREE* from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/cricket/australia-vs-england-5th-ashes-test-free</link>
-      <pubDate>Sat, 03 Jan 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">vGB3yjxJ8A2F8xvPzd362C</guid>
-      <description>All the ways to watch 5th Ashes Test live streams for FREE from anywhere, as Australia and England face off in the series finale at Sydney Cricket Ground.</description>
-    </item>
-    <item>
-      <title>Someone made a ton of money betting on Maduro&#8217;s capture</title>
-      <link>https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture</link>
-      <pubDate>2026-01-03T15:44:22-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=853765</guid>
-      <description>Shortly before the US military launched an attack on Venezuela and captured President Nicol&#225;s Maduro, an account on Polymarket made some very suspiciously timed investments. The prediction market had been running bets on when or if Maduro would be removed from power, with prices for "out by January 31, 2026" as low as $0.07 late [&#8230;]</description>
     </item>
   </channel>
 </rss>
