@@ -3,7 +3,205 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 05 Jan 2026 19:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 20:30:38 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to &#8216;think like a human&#8217;</title>
+      <link>https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/</link>
+      <pubDate>Mon, 05 Jan 2026 20:27:03 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3079883</guid>
+      <description>Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.</description>
+    </item>
+    <item>
+      <title>TII&#8217;s Falcon H1R 7B can out-reason models up to 7x its size &#8212; and it&#8217;s (mostly) open</title>
+      <link>https://venturebeat.com/technology/tiis-falcon-h1r-7b-can-out-reason-models-up-to-7x-its-size-and-its-mostly</link>
+      <pubDate>Mon, 05 Jan 2026 20:27:00 GMT</pubDate>
+      <guid isPermaLink="false">6Xtm5q8aKZPRVAXyxTnV8L</guid>
+      <description>For the last two years, the prevailing logic in generative AI has been one of brute force: if you want better reasoning, you need a bigger model. While "small" models (under 10 billion parameters) have become capable conversationalists, they have historically crumbled when asked to perform multi-step logical deduction or complex mathematical proofs.Today, the Technology Innovation Institute (TII) in Abu Dhabi is challenging that scaling law with the release of Falcon H1R 7B. By abandoning the pure Transformer orthodoxy in favor of a hybrid architecture, TII claims to have built a 7-billion par...</description>
+    </item>
+    <item>
+      <title>How to watch the AMD CES 2026 keynote with CEO Lisa Su live</title>
+      <link>https://www.engadget.com/computing/how-to-watch-the-amd-ces-2026-keynote-with-ceo-lisa-su-live-190012438.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 20:23:55 +0000</pubDate>
+      <guid isPermaLink="false">c864a817-a6e7-423f-ab33-fb69dbcbdab4</guid>
+      <description>AMD is kicking off CES 2026 on Monday, where it'll cover its latest AI developments and perhaps show off its newest Ryzen chips. The company will outline the full scope of its vision for AI implementations across the full spectrum of consumer and enterprise applications. The presentation &#8212; which is the lead keynote for CES 2026 &#8212; will be led by CEO Dr. Lisa Su.
+We'll tell you how to tune in to the livestream and what else you can expect to see.
+How to watch AMD's keynote live
+Dr. Su will deliver a keynote speech from the Palazzo Ballroom at the Venetian on Monday, January 5 at 9:30PM ET (6:30P...</description>
+    </item>
+    <item>
+      <title>Intel at CES 2026: Live updates from the Core Ultra Series 3 Panther Lake launch event</title>
+      <link>https://www.engadget.com/computing/intel-at-ces-2026-live-updates-from-the-core-ultra-series-3-panther-lake-launch-event-130040881.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 20:15:35 +0000</pubDate>
+      <guid isPermaLink="false">f580535b-fd7f-4472-8749-2372604b977f</guid>
+      <description>SOPA Images via Getty Images
+CES 2026 is off and running, and chipmakers enabling the AI moment are one of the big starts of the show. In addition to NVIDIA and AMD taking the stage today, we'll also be getting Intel's 2026 launch event. The chip giant is expected to provide more details on its AI PC initiative and the new processors powering it: The Core Ultra Series 3 CPUs (aka Panther Lake) are made using an 18A process &#8212; that's 18 angstroms, or just under 2nm &#8212; and designed for high-end laptops and gaming devices.
+For Intel, the stakes at CES are higher than ever. In the past 12 months, bo...</description>
+    </item>
+    <item>
+      <title>Hackers claim breach of engineering firm, offer sale of info on three major US utilities</title>
+      <link>https://www.techradar.com/pro/security/hackers-claim-breach-of-engineering-firm-offer-sale-of-info-on-three-major-us-utilities</link>
+      <pubDate>Mon, 05 Jan 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">f29S4NVLd6KmkgvkXdSMxT</guid>
+      <description>Investigations are underway but the data seems to be quite valuable.</description>
+    </item>
+    <item>
+      <title>On a vu la nouvelle batterie solaire d&#8217;Ecoflow capable d&#8217;alimenter toute une maison (et bien plus)</title>
+      <link>https://www.frandroid.com/events/ces/2929783_on-a-vu-la-nouvelle-batterie-solaire-decoflow-capable-dalimenter-toute-une-maison-et-bien-plus</link>
+      <pubDate>Mon, 05 Jan 2026 20:09:04 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/events/ces/2929783_on-a-vu-la-nouvelle-batterie-solaire-decoflow-capable-dalimenter-toute-une-maison-et-bien-plus</guid>
+      <description>
+La nouvelle batterie solaire d'Ecoflow est un monstre de puissance, qui prend tout son sens en France avec les nouvelles r&#233;glementations sur les installations solaires. On a pu approcher la b&#234;te au CES.
+</description>
+    </item>
+    <item>
+      <title>Hurry, you only have a few days to back the world's fastest mini PC &#8212; and it even comes with a translucent touchscreen</title>
+      <link>https://www.techradar.com/pro/hurry-you-have-a-few-days-to-back-the-worlds-fastest-mini-pc-and-it-even-comes-with-a-translucent-touchscreen</link>
+      <pubDate>Mon, 05 Jan 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">rn85nF8RarHLjCZN7JpWMY</guid>
+      <description>The AquaTouch mini PC integrates high-performance Ryzen components, a translucent touchscreen, user-upgradeable hardware, and modern connectivity in a compact 9-liter case.</description>
+    </item>
+    <item>
+      <title>Amazon d&#233;voile l&#8217;Ember Artline : le rival du Samsung The Frame &#224; prix cass&#233;</title>
+      <link>https://www.frandroid.com/marques/amazon/2929785_amazon-devoile-lember-artline-le-rival-du-samsung-the-frame-a-prix-casse</link>
+      <pubDate>Mon, 05 Jan 2026 20:02:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/amazon/2929785_amazon-devoile-lember-artline-le-rival-du-samsung-the-frame-a-prix-casse</guid>
+      <description>
+Un &#233;cran brillant dans un salon lumineux, c'est l'enfer. Amazon l'a compris et lance sa nouvelle gamme Ember Artline. Au programme : une dalle QLED mate trait&#233;e antireflet qui se fond dans le d&#233;cor. L'objectif n'est pas de battre l'OLED sur les noirs, mais de faire dispara&#238;tre la tech de votre mur.
+</description>
+    </item>
+    <item>
+      <title>The Year Ahead in TV</title>
+      <link>https://gizmodo.com/tv-2026-preview-knight-of-the-seven-kingdoms-starfleet-academy-2000704994</link>
+      <pubDate>Mon, 05 Jan 2026 20:00:11 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000704994</guid>
+      <description>Brand-new shows that take place on familiar turf are a big theme for 2026&#8212;a year that's also stuffed full of highly anticipated returns.</description>
+    </item>
+    <item>
+      <title>How 2026 tax changes could leave more money in your paycheck</title>
+      <link>https://www.fastcompany.com/91469276/how-2026-tax-changes-could-leave-more-money-in-your-paycheck</link>
+      <pubDate>2026-01-05T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91469276/how-2026-tax-changes-could-leave-more-money-in-your-paycheck</guid>
+      <description>Inflation-adjusted tax brackets and new withholding rules under Trump&#8217;s tax law may boost take-home pay for some workers.
+Your paycheck could be a little bigger in 2026, even if you didn&#8217;t get a New Year&#8217;s raise. That&#8217;s because, in order to adjust for inflation, the IRS made some major changes to the tax code last year.</description>
+    </item>
+    <item>
+      <title>How to watch the Hyundai CES 2026 press conference live</title>
+      <link>https://www.engadget.com/transportation/how-to-watch-the-hyundai-ces-2026-press-conference-live-190051823.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 19:59:08 +0000</pubDate>
+      <guid isPermaLink="false">37edf748-4f98-43d1-8ee2-27a98b6a0143</guid>
+      <description>Hyundai
+CES has long felt like a full-on auto show, but the car-centric energy seems somewhat muted at CES 2026. Sure, the Afeela electric vehicle from the Sony-Honda joint venture is returning to the show floor, but with the Trump administration yanking most EV incentives from the market, the industry isn't offering a full-court press of new vehicles in Las Vegas this year.
+That includes Hyundai. While the company's Mobis subsidiary will present "more than 30 mobility convergence technologies" during CES week &#8212; including its Holographic Windshield Display &#8212; we're hearing the Korean auto giant...</description>
+    </item>
+    <item>
+      <title>&#171;&#160;30 % plus rapide&#160;&#187;, Amazon repense totalement l&#8217;interface Fire TV : voici ce qui va changer</title>
+      <link>https://www.frandroid.com/marques/amazon/2929767_30-plus-rapide-amazon-repense-totalement-linterface-fire-tv-voici-ce-qui-va-changer</link>
+      <pubDate>Mon, 05 Jan 2026 19:57:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/amazon/2929767_30-plus-rapide-amazon-repense-totalement-linterface-fire-tv-voici-ce-qui-va-changer</guid>
+      <description>
+Si vous avez une Fire TV, vous connaissez ce petit moment de frustration : le lag au d&#233;marrage, les menus charg&#233;s, la lenteur. Amazon semble avoir (enfin) compris le message. L'interface fait peau neuve en ce d&#233;but 2026 avec une promesse forte : 30 % de rapidit&#233; en plus.
+</description>
+    </item>
+    <item>
+      <title>Paris court finds 10 people guilty of cyberbullying Brigitte Macron</title>
+      <link>https://www.engadget.com/social-media/paris-court-finds-10-people-guilty-of-cyberbullying-brigitte-macron-195500994.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 19:55:00 +0000</pubDate>
+      <guid isPermaLink="false">9f9f3597-08dc-42a1-8337-e67318bbf482</guid>
+      <description>A Paris court has found 10 people guilty of cyberbullying Brigitte Macron, wife of President of France Emmanuel Macron, the BBC reports. The judge found that the defendants made false claims about Macron's gender and sexuality, and "malicious remarks" about the 24-year age gap between Macron and her spouse.The defendants, eight men and two women, received a range of sentences, including jail time up to eight months and mandatory online harassment awareness training. Five of the defendants will also lose access to their X accounts for six months, according to The New York Times.Key to the lawsu...</description>
+    </item>
+    <item>
+      <title>Fini les gadgets : j&#8217;ai vu ces deux bagues connect&#233;es Pebble et Vocci qui rendent l&#8217;IA (enfin) utile au quotidien</title>
+      <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/bagues-connectees/2929711_fini-les-gadgets-jai-vu-ces-deux-bagues-connectees-pebble-et-vocci-qui-rendent-lia-enfin-utile-au-quotidien</link>
+      <pubDate>Mon, 05 Jan 2026 19:46:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/bagues-connectees/2929711_fini-les-gadgets-jai-vu-ces-deux-bagues-connectees-pebble-et-vocci-qui-rendent-lia-enfin-utile-au-quotidien</guid>
+      <description>
+Les bagues connect&#233;es entrent dans une nouvelle &#232;re, gr&#226;ce &#224; l'intelligence artificielle. Elles deviennent plus pratique. La preuve avec le Pebble 01 Index et Vocci que nous avons pu voir au CES 2026 de Las Vegas.
+</description>
+    </item>
+    <item>
+      <title>NVIDIA is reportedly bringing back 2021's RTX 3060 GPU because AI is eating all of the newer cards</title>
+      <link>https://www.engadget.com/ai/nvidia-is-reportedly-bringing-back-2021s-rtx-3060-gpu-because-ai-is-eating-all-of-the-newer-cards-194241706.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 19:42:41 +0000</pubDate>
+      <guid isPermaLink="false">2aa3c866-6052-4a61-a7e0-69223c334b85</guid>
+      <description>A reputable leaker has indicated that NVIDIA plans on bringing the RTX 3060 back to market, according to reports by Kotaku and WFCCTech. It first released the GPU at the beginning of 2021. The leaker Hongxing2020 indicates that NVIDIA will resume production of the 3060 sometime in the next few months.
+Why is the world's most valuable company reportedly bringing back such an antiquated graphics card? You know the answer. It's the endless gaping maw known as AI. Tech companies have been hoovering up PC parts for AI applications with reckless abandon. It has become a legitimate challenge for a re...</description>
+    </item>
+    <item>
+      <title>Everything announced at CES 2026</title>
+      <link>https://www.engadget.com/general/everything-announced-at-ces-2026-130124802.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 19:40:29 +0000</pubDate>
+      <guid isPermaLink="false">fd3b4bbf-1b78-4e34-9914-70a2e6f85389</guid>
+      <description>It's the first week of a new year and there's no time for the tech world to slowly ease back into things following the holidays. That's because CES 2026 is in full swing, with all manner of companies descending on Las Vegas to reveal their latest innovations and what they're planning to bring your way in the near future.&#160;Many of the Engadget crew are on the ground to check out as much of the new tech as possible. Of course, we're keeping tabs on all of the major CES press conferences too. Samsung has already held its First Look presentation, which focuses on home products, while LG has shown o...</description>
+    </item>
+    <item>
+      <title>Garmin unveils a new rugged cam designed to cover blind spots &#8212; and it's the safety device truck drivers need</title>
+      <link>https://www.techradar.com/vehicle-tech/dash-cams/garmin-unveils-a-new-rugged-cam-designed-to-cover-blind-spots-and-its-the-safety-device-truck-drivers-need</link>
+      <pubDate>Mon, 05 Jan 2026 19:39:05 +0000</pubDate>
+      <guid isPermaLink="false">4fJEk8QhFUCRxsQGE5brj7</guid>
+      <description>The Garmin d&#275;zl DualView system comprises two rugged exterior cameras and a transmitter, delivering surrounding vehicle alerts and coverage of a truck's remaining blind spots.</description>
+    </item>
+    <item>
+      <title>Microsoft Office, c&#8217;est fini : la d&#233;cision folle et incons&#233;quente de Satya Nadella</title>
+      <link>https://www.frandroid.com/marques/microsoft/2929667_microsoft-office-cest-fini-la-decision-folle-et-inconsequente-de-satya-nadella</link>
+      <pubDate>Mon, 05 Jan 2026 19:37:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/2929667_microsoft-office-cest-fini-la-decision-folle-et-inconsequente-de-satya-nadella</guid>
+      <description>
+Microsoft met fin &#224; l'une des marques les plus reconnues de l'informatique de ces 35 derni&#232;res ann&#233;es. 
+</description>
+    </item>
+    <item>
+      <title>Nvidia's CES 2026 keynote live - all the latest news from the GPU and AI superpower</title>
+      <link>https://www.techradar.com/news/live/nvidia-ces-2026-live</link>
+      <pubDate>Mon, 05 Jan 2026 19:32:24 +0000</pubDate>
+      <guid isPermaLink="false">Xe8Be67Yu5wUraMbCmjysP</guid>
+      <description>What will the GPU giant unveil at CES 2026? We have all the breaking news</description>
+    </item>
+    <item>
+      <title>CES 2026 live updates: See the latest news, surprises, and strange tech from LG, Samsung, Lego, and new startups</title>
+      <link>https://mashable.com/live/ces-2026-news-live-updates</link>
+      <pubDate>Mon, 05 Jan 2026 19:31:44 +0000</pubDate>
+      <guid isPermaLink="false">00HdPGMgSorg1E6HI6usOJ2</guid>
+      <description>CES 2026 is finally here, and Mashable reporters are on the ground looking for the best in show. Get live updates from the showroom floor and behind the scenes.</description>
+    </item>
+    <item>
+      <title>Does self-improvement in 2026 start on TikTok?</title>
+      <link>https://www.fastcompany.com/91469165/tiktok-2026-365-buttons-self-improvement</link>
+      <pubDate>2026-01-05T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91469165/tiktok-2026-365-buttons-self-improvement</guid>
+      <description>The 365 buttons trend, explained.
+How seriously are you taking your 2026 rebrand? Do you have your 365 buttons ready?</description>
+    </item>
+    <item>
+      <title>The UK just banned junk food ads before 9pm and across the internet</title>
+      <link>https://www.fastcompany.com/91469198/the-uk-just-banned-junk-food-ads-before-9pm-and-across-the-internet</link>
+      <pubDate>2026-01-05T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91469198/the-uk-just-banned-junk-food-ads-before-9pm-and-across-the-internet</guid>
+      <description>Even foods perceived as healthy, including some cereals and sandwiches, fall under the new restrictions.
+For Americans, the idea of watching live television without the constant barrage of commercials for prescription medications and junk food might seem foreign. That&#8217;s now the norm in the United Kingdom.</description>
+    </item>
+    <item>
+      <title>LG Sound Suite hands-on at CES 2026: Home theater powered by Dolby Atmos FlexConnect</title>
+      <link>https://www.engadget.com/home/home-theater/lg-sound-suite-hands-on-at-ces-2026-home-theater-powered-by-dolby-atmos-flexconnect-192709499.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 19:27:09 +0000</pubDate>
+      <guid isPermaLink="false">dd3ed876-1529-45da-a2de-070181bb53a8</guid>
+      <description>Dolby introduced its FlexConnect technology a few years ago, vowing that it would allow customers to position soundbars and speakers anywhere in a room. The company said the platform would then reconfigure the sound automatically, taking into account any locations that may be further away from the center sweet spot. At CES 2026, LG is the first to put Dolby Atmos FlexConnect in a soundbar, offering the so-called Sound Suite that also includes satellite speaker options and a subwoofer. You don&#8217;t need every member of the lineup to use Dolby&#8217;s tech, so you can pick and choose which items work bes...</description>
+    </item>
+    <item>
+      <title>Nouveaux LEGO Star Wars avec briques &#171;&#160;Smart Play&#160;&#187; : voici &#171;&#160;la plus grosse &#233;volution depuis 50 ans&#160;&#187;</title>
+      <link>https://www.frandroid.com/events/ces/2929691_nouveaux-lego-star-wars-la-plus-grosse-evolution-depuis-50-ans-ils-integrent-une-technologie-revolutionnaire-de-smart-play</link>
+      <pubDate>Mon, 05 Jan 2026 19:26:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/events/ces/2929691_nouveaux-lego-star-wars-la-plus-grosse-evolution-depuis-50-ans-ils-integrent-une-technologie-revolutionnaire-de-smart-play</guid>
+      <description>
+C'est probablement l'annonce la plus excitante du CES 2026 pour les grands enfants que nous sommes (ou que je suis). LEGO lance le Smart Play. L'id&#233;e ? Une brique intelligente capable de d&#233;tecter les mouvements et de communiquer avec les autres, sans l'horrible design des sets Mario. La marque promet la plus grosse &#233;volution depuis 50 ans. 
+</description>
+    </item>
+    <item>
+      <title>Working on the go? You can no longer activate Windows with your phone</title>
+      <link>https://www.techradar.com/pro/working-on-the-go-you-can-no-longer-activate-windows-with-your-phone</link>
+      <pubDate>Mon, 05 Jan 2026 19:25:00 +0000</pubDate>
+      <guid isPermaLink="false">HUwweXTiRhD3dsFi52iVwd</guid>
+      <description>By all accounts, Microsoft isn't letting you activate Windows from your phone anymore, so make sure you have an internet connection.</description>
+    </item>
     <item>
       <title>More Than 40 Million People Use ChatGPT Daily for Healthcare Advice, OpenAI Claims</title>
       <link>https://gizmodo.com/more-than-40-million-people-use-chatgpt-daily-for-healthcare-advice-openai-claims-2000705509</link>
@@ -48,7 +246,7 @@ La recharge sans fil, par voie optique, sans aucun c&#226;ble, devient une r&#23
       <link>https://www.wired.com/story/beats-solo-4-deal-126/</link>
       <pubDate>Mon, 05 Jan 2026 19:10:55 +0000</pubDate>
       <guid isPermaLink="false">695bf1ae363a90f378f47670</guid>
-      <description>What these headphones lack in active noise-canceling, they make up for with big, bold sound.</description>
+      <description>What these headphones lack in active noise canceling, they make up for with big, bold sound.</description>
     </item>
     <item>
       <title>The biggest TV announcements at CES 2026</title>
@@ -93,11 +291,18 @@ On pensait l'avoir enterr&#233;e fin 2024. C'&#233;tait mal conna&#238;tre Nvidi
       <description>'I'm, like, fried,' Matt Duffer explained in the wake of the Netflix hit's big finale, which we can certainly understand.</description>
     </item>
     <item>
+      <title>Lego debuts Smart Play system that reacts as you play. Heres how it works.</title>
+      <link>https://mashable.com/article/ces-2026-lego-smart-play-system-announced</link>
+      <pubDate>Mon, 05 Jan 2026 19:00:01 +0000</pubDate>
+      <guid isPermaLink="false">06J99aExnJ9iu6rfG9nqEuE</guid>
+      <description>At CES 2026, Lego announced the imminent launch of the Lego Smart Play system, one of the biggest evolutions in brick-building technology in decades.</description>
+    </item>
+    <item>
       <title>Lego&#8217;s Smart Brick Gives the Iconic Analog Toy a New Digital Brain</title>
       <link>https://www.wired.com/story/lego-smart-brick-new-digital-brain/</link>
       <pubDate>Mon, 05 Jan 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">6958076061289fcb0d09c3c1</guid>
-      <description>The new sensor-packed Smart Play Brick will land this spring as part of a special Star Wars collection. The update adds interactive lights and sound to the Lego experience&#8212;including the Minifigs.</description>
+      <description>The new sensor-packed Smart Play Brick will land this spring as part of a special Star Wars collection. The update adds interactive lights and sound to the Lego experience&#8212;including the minifigs.</description>
     </item>
     <item>
       <title>Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years</title>
@@ -114,6 +319,13 @@ On pensait l'avoir enterr&#233;e fin 2024. C'&#233;tait mal conna&#238;tre Nvidi
       <description>Lego bricks come in a ridiculously vast array of sizes and shapes, but the company is unveiling an entirely new take on its classic shape at CES 2026. Meet the Lego Smart Brick, a standard-sized 2 x 4 brick that&#8217;s packed with modern technology to enable sets that can respond to how they&#8217;re played with or the sets you build. It&#8217;s part of a new initiative called Smart Play, which encompasses the Smart Brick as well as Smart Minifigures and Smart Tags. While we obviously don&#8217;t know yet how Lego fans will take to this new system, it&#8217;s still fair to say it&#8217;s the biggest move Lego has every made to ...</description>
     </item>
     <item>
+      <title>Grindr for lesbians? Here are the best dating apps for LGBTQ women.</title>
+      <link>https://mashable.com/roundup/best-dating-apps-for-lesbians</link>
+      <pubDate>Mon, 05 Jan 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05OeYFtDK5qi44fkvKr0KKO</guid>
+      <description>Looking for love, friends, or casual fun? We've curated a list of the best dating apps for lesbians, from HER to Hinge.</description>
+    </item>
+    <item>
       <title>Elon Musk promet un voyage vers Mars en 2026&#8230; mais son Starship est-il vraiment pr&#234;t ?</title>
       <link>https://www.futura-sciences.com/sciences/actualites/astronautique-elon-musk-promet-voyage-vers-mars-2026-mais-son-starship-il-vraiment-pret-129787/#xtor%3DRSS-8</link>
       <pubDate>Mon, 05 Jan 2026 19:59:40 +0100</pubDate>
@@ -121,11 +333,11 @@ On pensait l'avoir enterr&#233;e fin 2024. C'&#233;tait mal conna&#238;tre Nvidi
       <description>Apr&#232;s une ann&#233;e 2025 marqu&#233;e par plusieurs d&#233;convenues pour SpaceX, l'entreprise d'Elon Musk attend beaucoup de son Starship pour 2026. Mais peut-elle r&#233;aliser l'impossible et faire face aux nombreux d&#233;fis techniques qui attendent son lanceur lourd ?</description>
     </item>
     <item>
-      <title>Hacktivist deletes white supremacist websites live on stage during hacker conference</title>
+      <title>Hacktivist deletes white supremacist websites live onstage during hacker conference</title>
       <link>https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/</link>
       <pubDate>Mon, 05 Jan 2026 18:57:31 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3079707</guid>
-      <description>A hacker known as Martha Root broke in and deleted three white supremacists websites at the end of a talk during the annual hacker conference Chaos Communication Congress in Germany.</description>
+      <description>A hacker known as Martha Root broke in and deleted three white supremacist websites at the end of a talk during the annual hacker conference Chaos Communication Congress in Germany.</description>
     </item>
     <item>
       <title>The Lego brick just got its biggest upgrade yet with Smart Play &#8212; and it's coming to Star Wars sets first</title>
@@ -135,11 +347,18 @@ On pensait l'avoir enterr&#233;e fin 2024. C'&#233;tait mal conna&#238;tre Nvidi
       <description>Similar looks, but supercharged internals</description>
     </item>
     <item>
-      <title>Verge announces world-first motorcycle with solid-state batteries for a 370-mile range and 10-minute charge times</title>
+      <title>Verge announces world-first motorcycle with solid-state batteries &#8211;and it promises a 370-mile range with 10-minute charge times</title>
       <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/verge-announces-world-first-motorcycle-with-solid-state-batteries-for-a-370-mile-range-and-10-minute-charge-times</link>
       <pubDate>Mon, 05 Jan 2026 18:48:10 +0000</pubDate>
       <guid isPermaLink="false">Lh8XgM9JuNSwyLBA53end5</guid>
       <description>Verge Motorcycles unlocks ten-minute charge times with world-first all solid-sate battery in a bike.</description>
+    </item>
+    <item>
+      <title>How to watch Nigeria vs. Mozambique online for free</title>
+      <link>https://mashable.com/article/nigeria-mozambique-africa-cup-of-nations-2025-live-stream-for-free</link>
+      <pubDate>Mon, 05 Jan 2026 18:47:47 +0000</pubDate>
+      <guid isPermaLink="false">01curlm1QxIGywxphCwADD3</guid>
+      <description>How to watch AFCON for free. Live stream Nigeria vs. Mozambique in the 2025 Africa Cup of Nations for free.</description>
     </item>
     <item>
       <title>Ce mini PC modulaire r&#233;alise un vieux fantasme et c&#8217;est malin</title>
@@ -165,6 +384,14 @@ La qu&#234;te de l'anneau unique est un vieux fantasme de la tech. Au CES 2026, 
       <description>Au CES 2026, Honor d&#233;voile le Robot Phone, un &#233;tonnant smartphone &#224; cam&#233;ra articul&#233;e. Simple concept ou v&#233;ritable r&#233;volution mobile&#8239;? Cette premi&#232;re prise en main soul&#232;ve de nombreuses questions sur les ambitions de la marque chinoise.</description>
     </item>
     <item>
+      <title>Flu virus tracker: Latest update shows high influenza activity across most states. Watch out for these symptoms</title>
+      <link>https://www.fastcompany.com/91469196/flu-virus-tracker-2026-high-influenza-activity-states-symptoms</link>
+      <pubDate>2026-01-05T18:39:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91469196/flu-virus-tracker-2026-high-influenza-activity-states-symptoms</guid>
+      <description>After reporting was delayed due to the holidays, new CDC data shows the flu is spreading, with 33,000 people hospitalized during the last week of the year.
+As today is the first Monday of 2026, Americans across the country are settling back into their everyday routines after the busy holiday season. </description>
+    </item>
+    <item>
       <title>You Can Play Chess in Hyperbolic Space Now, and It Sucks</title>
       <link>https://gizmodo.com/you-can-play-chess-in-hyperbolic-space-now-and-it-sucks-2000705568</link>
       <pubDate>Mon, 05 Jan 2026 18:36:28 +0000</pubDate>
@@ -172,234 +399,12 @@ La qu&#234;te de l'anneau unique est un vieux fantasme de la tech. Au CES 2026, 
       <description>It may not be particularly fun yet, but it's weird!</description>
     </item>
     <item>
-      <title>Hisense unveils 3 new TV innovations at CES 2026 &#8212; and they&#8217;re all about mind-blowing color</title>
-      <link>https://www.techradar.com/televisions/hisense-unveils-3-new-tv-innovations-at-ces-2026-and-theyre-all-about-mind-blowing-color</link>
-      <pubDate>Mon, 05 Jan 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">wRRKZHFzWLMLcaCDppUsWZ</guid>
-      <description>After revealing RGB mini-LED at CES 2025, Hisense is back with even more RGB TV innovations, including smaller screen sizes.</description>
-    </item>
-    <item>
-      <title>Wegovy pill: Where to find Novo Nordisk&#8217;s new GLP-1 for weight loss&#8212;and how much it costs</title>
-      <link>https://www.fastcompany.com/91469193/wegovy-pill-cost-pricing-retailers-for-new-novo-nordisk-weight-loss-glp1</link>
-      <pubDate>2026-01-05T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91469193/wegovy-pill-cost-pricing-retailers-for-new-novo-nordisk-weight-loss-glp1</guid>
-      <description>The first-ever oral GLP-1 just hit the market. Here&#8217;s what you need to know.
-For years, pharmaceutical companies have been racing to develop a market-ready GLP-1 weight-loss pill to join the ranks of popular injectables. Today, Novo Nordisk&#8217;s oral version of Wegovy is officially available for purchase.</description>
-    </item>
-    <item>
-      <title>Boulanger casse le prix de cet &#233;cran PC Samsung OLED 34&#8243; incurv&#233; &#224; 175 Hz : une affaire en or &#224; saisir pour les gamers</title>
-      <link>https://www.frandroid.com/bons-plans/2928731_boulanger-casse-le-prix-de-cet-ecran-pc-samsung-oled-34-incurve-a-175-hz-une-affaire-en-or-a-saisir-pour-les-gamers</link>
-      <pubDate>Mon, 05 Jan 2026 18:28:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2928731_boulanger-casse-le-prix-de-cet-ecran-pc-samsung-oled-34-incurve-a-175-hz-une-affaire-en-or-a-saisir-pour-les-gamers</guid>
-      <description>
-Le Samsung Odyssey OLED G85SDdevient bien plus accessible avec cette promo &#224; 742 euros au lieu de 1 099 euros chez Boulanger, alors qu&#8217;il offre une dalle OLED ultra&#8209;wide, un affichage tr&#232;s fluide et un temps de r&#233;ponse id&#233;al pour le jeu comp&#233;titif. Une belle opportunit&#233; pour s&#8217;offrir un &#233;cran gaming premium sans payer le prix fort.
-</description>
-    </item>
-    <item>
-      <title>What are Micro RGB TVs and why are they everywhere at CES 2026?</title>
-      <link>https://www.engadget.com/home/home-theater/what-are-micro-rgb-tvs-and-why-are-they-everywhere-at-ces-2026-182441543.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 18:24:42 +0000</pubDate>
-      <guid isPermaLink="false">91b8cbcb-66aa-4a89-8cd3-0d9cd5003a6d</guid>
-      <description>Micro RGB TVs first arrived last year with little fanfare and a confusing name, so you may have mistaken it for other panel tech or not even noticed. That is not likely to be the case this year, though &#8212; it&#8217;s the hot new &#8220;luxury&#8221; display technology and is all over the place at CES 2026. So why do we even need these new TVs and how are they different from OLED, Micro LED and Mini LED models? Here&#8217;s how it works and how it compares.
-A brief history of flat panel display tech
-To better understand Micro RGB, it helps to see how flat panel display technology has evolved over the last 20 years. The ...</description>
-    </item>
-    <item>
-      <title>Anker's new 45W charger from CES is already $10 off</title>
-      <link>https://www.engadget.com/deals/ankers-new-45w-charger-from-ces-is-already-10-off-160707324.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 18:23:23 +0000</pubDate>
-      <guid isPermaLink="false">e5fce599-c299-44cd-983e-1c46fb9819b8</guid>
-      <description>Anker rolled out a bunch of new chargers and other gear at CES 2026, including a cute one that's already on sale. The new 45W Nano charger with smart display, which is an upgrade to the existing Nano charger in Anker's lineup, is on sale for $30 right now while you can pre-order it. That's $10 off the regular MSRP, and shipments will start going out on January 20.
-The 45W charger includes a smart display that shows real-time data like power flow, temperature and charging status. It also features "fun animations to keep things cheerful." Anker says it can recognize what's being charged and auto...</description>
-    </item>
-    <item>
-      <title>Images sexuelles cr&#233;&#233;es par Grok | Le r&#233;gulateur britannique demande &#224; X des explications</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-01-05/images-sexuelles-creees-par-grok/le-regulateur-britannique-demande-a-x-des-explications.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Mon, 05 Jan 2026 13:22:52 -0500</pubDate>
-      <guid isPermaLink="false">9e02b7ecb7e03eecbcd8109fbf528933</guid>
-      <description>Le r&#233;gulateur britannique des m&#233;dias a demand&#233; lundi au r&#233;seau social X d&#8217;expliquer comment il prot&#232;ge ses utilisateurs contre les fausses images de mineurs &#224; caract&#232;re sexuel g&#233;n&#233;r&#233;es par Grok, l&#8217;assistant d&#8217;intelligence artificielle associ&#233; au r&#233;seau.</description>
-    </item>
-    <item>
-      <title>Offshore wind developers sue Trump administration for halting $25B in projects</title>
-      <link>https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/</link>
-      <pubDate>Mon, 05 Jan 2026 18:20:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079751</guid>
-      <description>The lawsuits seek to reverse the Department of the Interior's stop-work order, which affected five offshore wind projects off the Eastern Seaboard.</description>
-    </item>
-    <item>
-      <title>Crypto thief released early thanks to Trump's First Step Act</title>
-      <link>https://www.techradar.com/pro/security/crypto-thief-released-early-thanks-to-trumps-first-step-act</link>
-      <pubDate>Mon, 05 Jan 2026 18:20:00 +0000</pubDate>
-      <guid isPermaLink="false">fCADXsNFjMVjA6SiAGrDP</guid>
-      <description>Ilya Lichtenstein is coming home after serving time for the Bitfinex hack.</description>
-    </item>
-    <item>
-      <title>This AI-Powered Drink Machine Slops You Up Some Generative Booze</title>
-      <link>https://gizmodo.com/this-ai-powered-drink-machine-slops-you-up-some-generative-booze-2000705379</link>
-      <pubDate>Mon, 05 Jan 2026 18:15:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705379</guid>
-      <description>I could use a stiff serving of AI slop right about now.</description>
-    </item>
-    <item>
-      <title>Elon Musk Boasts of Dinner With Jeffrey Epstein&#8217;s &#8216;Best Friend&#8217;</title>
-      <link>https://gizmodo.com/elon-musk-boasts-of-dinner-with-jeffrey-epsteins-best-friend-2000705534</link>
-      <pubDate>Mon, 05 Jan 2026 18:10:52 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705534</guid>
-      <description>"2026 is going to be amazing!" tweeted Musk.</description>
-    </item>
-    <item>
-      <title>GE Appliances' new Smart Refrigerator automates grocery shopping with a barcode scanner and Instacart</title>
-      <link>https://www.engadget.com/home/kitchen-tech/ge-appliances-new-smart-refrigerator-automates-grocery-shopping-with-a-barcode-scanner-and-instacart-194326073.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 18:09:25 +0000</pubDate>
-      <guid isPermaLink="false">fde0a3bb-d76b-45b7-8d70-0ac9df5a8db1</guid>
-      <description>Smart fridges are a dime a dozen at CES, and LG and Samsung have thoroughly explored what's possible when you connect your fridge to the internet or slap a touchscreen on the front. The new GE Profile Smart Refrigerator with Kitchen Assistant GE Appliances is announcing ahead of CES 2026 doesn't reinvent the wheel in that regard, but it does include a first: a built-in barcode scanner for adding items to your shopping list.GE Appliances&#8217; "Scan-to-List" feature uses the barcode scanner to quickly (and precisely) add items to a shareable shopping list in the company&#8217;s SmartHQ app. You can refer ...</description>
-    </item>
-    <item>
-      <title>Crude prices and oil company stocks rise after U.S. raid on Venezuela</title>
-      <link>https://www.fastcompany.com/91469256/crude-prices-oil-company-stocks-rise-venezuela</link>
-      <pubDate>2026-01-05T18:09:20</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91469256/crude-prices-oil-company-stocks-rise-venezuela</guid>
-      <description>The price of U.S. crude jumped 1.4% to $58.13 per barrel. 
-Stocks rose in morning trading on Wall Street Monday to kick off the first full week of the new year, led by energy and technology companies.</description>
-    </item>
-    <item>
-      <title>LG&amp;#8217;s CLOiD robot can load the washer for you, slowly</title>
-      <link>https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote</link>
-      <pubDate>2026-01-05T13:08:58-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=855233</guid>
-      <description>LG's CLOiD robot took the stage at CES 2026 on Monday, offering our first look at the bot in action. During LG's keynote, the company showed how CLOiD can load your washer or dryer - albeit slowly - as part of its goal of creating a "zero labor home." CLOiD waved both of its five-finger [&#8230;]</description>
-    </item>
-    <item>
-      <title>LG launches yet another lighter-than-light 17-inch laptop with an RTX 5050 GPU &#8212; and I am so confused</title>
-      <link>https://www.techradar.com/pro/lg-launches-yet-another-lighter-than-light-17-inch-laptop-with-an-rtx-5050-gpu-and-i-am-so-confused</link>
-      <pubDate>Mon, 05 Jan 2026 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">6Jr3oBV4PEqYQJvfL68Nq7</guid>
-      <description>The latest LG Gram Pro 17 pairs "Aerominum" construction with Nvidia RTX graphics, but with few clear differences from the 2025 model.</description>
-    </item>
-    <item>
-      <title>The Final &#8216;Greenland 2: Migration&#8217; Trailer Promises Gerard Butler Will Save You</title>
-      <link>https://gizmodo.com/greenland-2-final-trailer-gerard-butler-morena-baccarin-2000705552</link>
-      <pubDate>Mon, 05 Jan 2026 18:00:55 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705552</guid>
-      <description>Technically, it's his character saving his family (again), but who better to guide survivors through the post-apocalypse?</description>
-    </item>
-    <item>
-      <title>At $50 off, the Shokz OpenRun Pro helps you stick to your new year&#8217;s goals</title>
-      <link>https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale</link>
-      <pubDate>2026-01-05T13:00:17-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=855202</guid>
-      <description>Getting fit is one of the most popular New Year&#8217;s resolutions, and if we&#8217;re being honest, it&#8217;s also one of the easiest to quit by week two. But with the right support, it doesn&#8217;t have to be that way this year. Earbuds like the last-gen Shokz OpenRun Pro can help keep you motivated, while their [&#8230;]</description>
-    </item>
-    <item>
-      <title>Les meilleurs casques audio Bluetooth en janvier 2026 &#8211; La s&#233;lection Frandroid</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-audio/457173_guide-dachat-les-meilleurs-casques-bluetooth-sans-fil-de-2017</link>
-      <pubDate>Mon, 05 Jan 2026 18:00:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-audio/457173_guide-dachat-les-meilleurs-casques-bluetooth-sans-fil-de-2017</guid>
-      <description>
-Vous ne savez pas quel casque Bluetooth choisir dans cet oc&#233;an de r&#233;f&#233;rences ? Nous avons r&#233;alis&#233; une s&#233;lection des meilleurs casques audio Bluetooth parmi tous ceux que nous avons pu tester.
-</description>
-    </item>
-    <item>
-      <title>China&#8217;s Hesai will double production as lidar sensor industry shakes out</title>
-      <link>https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/</link>
-      <pubDate>Mon, 05 Jan 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079550</guid>
-      <description>Hesai said it now plans to build as many as 4 million lidar sensors in 2026, up from 2 million, as it tries to corner a market with one fewer player after Luminar's bankruptcy.</description>
-    </item>
-    <item>
-      <title>Asus&#8217; new OLED gaming monitors will have sharper text and more accurate colors</title>
-      <link>https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026</link>
-      <pubDate>2026-01-05T12:57:48-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=855247</guid>
-      <description>Asus is announcing three new OLED gaming monitors at CES with "RGB stripe" technology that the company says will bring improvements to "texture clarity and color rendering consistency." With RGB stripes, which Samsung Display and LG Display (the two companies that usually provide the panels for gaming monitors) are also making a big deal about [&#8230;]</description>
-    </item>
-    <item>
-      <title>A Stranger Things making-of documentary hits Netflix next week</title>
-      <link>https://www.engadget.com/entertainment/tv-movies/a-stranger-things-making-of-documentary-hits-netflix-next-week-175539720.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 17:55:39 +0000</pubDate>
-      <guid isPermaLink="false">ed8b1ca5-e18f-44a6-a064-6d16f8479f21</guid>
-      <description>Netflix just announced the pending release of a Stranger Things documentary, hot on the heels of the series finale. It premieres on January 12. One Last Adventure focuses on the making of season five, so it's not a full series retrospective. This seems similar to what Disney+ does a few weeks after a popular Star Wars or Marvel show drops.
-Still, it's a documentary about the very last season of the show, so there's likely to be some tearful goodbyes and all of that jazz. As a matter of fact, the trailer shows plenty of hugs along with sit-down interviews.
-
-It'll shine a light on how some of th...</description>
-    </item>
-    <item>
-      <title>How to watch the Hisense CES 2026 press conference live</title>
-      <link>https://www.engadget.com/home/how-to-watch-the-hisense-ces-2026-press-conference-live-190040504.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 17:55:28 +0000</pubDate>
-      <guid isPermaLink="false">9486b306-eae4-49da-a805-9b5cf78d2fb9</guid>
-      <description>Xinhua News Agency via Getty Images
-Hisense is typically best known for its affordable electronics and home appliances, from TVs to refrigerators. But at CES 2025, the China-based company showed off its premium side with a massive 136-inch micro LED TV &#8212; now available for a jaw-dropping $100,000. So what's in store for this year's show? New leadership, for starters.
-The company has two new hires, including Chief Marketing Officer Sarah Larsen and Chief Commercial Officer James Fishler. In a press release, Hisense said Fishler's experience in home entertainment, appliances and HVAC is important...</description>
-    </item>
-    <item>
-      <title>J&#8217;ai vu &#171; la tablette la plus fine du monde &#187; : c&#8217;est une feuille de papier</title>
-      <link>https://www.frandroid.com/produits-android/tablette/2929279_jai-vu-la-tablette-la-plus-fine-du-monde-cest-une-feuille-de-papier</link>
-      <pubDate>Mon, 05 Jan 2026 17:54:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/tablette/2929279_jai-vu-la-tablette-la-plus-fine-du-monde-cest-une-feuille-de-papier</guid>
-      <description>
-J'ai pris en main une tablette qui pr&#233;tend &#234;tre la plus fine du monde. L'objet attire beaucoup de regards au CES 2026, mais je ne suis pas s&#251;r de son aspect pratique.
-</description>
-    </item>
-    <item>
-      <title>It looks like the end is coming for the Apple Vision Pro &#8212; I&#8217;m not even surprised</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/it-looks-like-the-end-is-coming-for-the-apple-vision-pro-im-not-even-surprised</link>
-      <pubDate>Mon, 05 Jan 2026 17:51:16 +0000</pubDate>
-      <guid isPermaLink="false">3QWt3vQQC4S6satgLoZtTb</guid>
-      <description>Apple is reportedly dialling back on Vision Pro production and marketing.</description>
-    </item>
-    <item>
-      <title>2026 is the perfect year for OnePlus to release another folding phone &#8212; here's why</title>
-      <link>https://www.techradar.com/phones/oneplus-phones/2026-is-the-perfect-year-for-oneplus-to-release-another-folding-phone-heres-why</link>
-      <pubDate>Mon, 05 Jan 2026 17:49:20 +0000</pubDate>
-      <guid isPermaLink="false">ZpoRsfdBmRwcjLsguYvHHa</guid>
-      <description>It&#8217;s going to be an interesting year for folding phones &#8211; here&#8217;s why OnePlus should return to the phone industry&#8217;s most exciting market.</description>
-    </item>
-    <item>
-      <title>Avec les Snapdragon X2 Plus, Qualcomm &#233;largit l&#8217;horizon de Windows ARM</title>
-      <link>https://www.01net.com/actualites/avec-les-snapdragon-x2-plus-qualcomm-elargit-lhorizon-de-windows-arm.html</link>
-      <pubDate>Mon, 05 Jan 2026 17:47:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1318241</guid>
-      <description>Qualcomm veut mettre des puces Snapdragon dans un maximum de PC. Jusqu'&#224; pr&#233;sent, le g&#233;ant am&#233;ricain ne proposait aux constructeurs que des mod&#232;les haut de gamme&#160;; mais la nouvelle famille Snapdragon X2 Plus va permettre de d&#233;mocratiser un peu plus Windows ARM.</description>
-    </item>
-    <item>
-      <title>Fini le chaos des c&#226;bles ? 19 associations exigent un chargeur universel pour tous les v&#233;los &#233;lectriques</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/2928451_fini-le-chaos-des-cables-19-associations-exigent-un-chargeur-universel-pour-tous-les-velos-electriques</link>
-      <pubDate>Mon, 05 Jan 2026 17:44:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/2928451_fini-le-chaos-des-cables-19-associations-exigent-un-chargeur-universel-pour-tous-les-velos-electriques</guid>
-      <description>
-Une vingtaine d'associations ont adress&#233; une lettre &#224; l&#8217;Union europ&#233;enne afin d&#8217;adopter un chargeur universel pour v&#233;los &#233;lectriques. Les raisons invoqu&#233;es : des probl&#232;mes de s&#233;curit&#233;, d&#8217;environnement et de gestion de flottes.
-</description>
-    </item>
-    <item>
-      <title>Hundreds of Earthquakes Are Rocking One of Earth&#8217;s Most Dangerous Glaciers</title>
-      <link>https://gizmodo.com/hundreds-of-earthquakes-are-rocking-one-of-earths-most-dangerous-glaciers-2000705493</link>
-      <pubDate>Mon, 05 Jan 2026 17:30:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705493</guid>
-      <description>Scientists uncover new evidence of undocumented glacial earthquakes in Antarctica.</description>
-    </item>
-    <item>
-      <title>CES 2026 live updates: The latest news, surprises, strange tech, and more</title>
-      <link>https://mashable.com/live/ces-2026-news-live-updates</link>
-      <pubDate>Mon, 05 Jan 2026 17:27:29 +0000</pubDate>
-      <guid isPermaLink="false">00HdPGMgSorg1E6HI6usOJ2</guid>
-      <description>CES 2026 is here. See the latest news on bleeding-edge tech, EV advancements, and more.</description>
-    </item>
-    <item>
-      <title>Anker Nano Power Strip : cette multiprise &#224; pince veut faire dispara&#238;tre vos c&#226;bles sous le bureau</title>
-      <link>https://www.frandroid.com/marques/anker/2929169_anker-nano-power-strip-cette-multiprise-a-pince-veut-faire-disparaitre-vos-cables-sous-le-bureau</link>
-      <pubDate>Mon, 05 Jan 2026 17:25:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/anker/2929169_anker-nano-power-strip-cette-multiprise-a-pince-veut-faire-disparaitre-vos-cables-sous-le-bureau</guid>
-      <description>
-Anker profite du CES 2026 pour d&#233;voiler une solution de charge originale : la Nano Power Strip. &#201;quip&#233;e d'un syst&#232;me de fixation &#224; pince, elle d&#233;porte une partie de ses prises sous le plateau pour lib&#233;rer l'espace de travail.
-</description>
-    </item>
-    <item>
-      <title>Amazon just dropped the Jackery HomePower 3600 Plus to a record-low price</title>
-      <link>https://mashable.com/article/jan-5-jackery-homepower-deal</link>
-      <pubDate>Mon, 05 Jan 2026 17:24:55 +0000</pubDate>
-      <guid isPermaLink="false">01cQoEuVCeLOwhYLRhhBhFi</guid>
-      <description>Get the Jackery HomePower 3600 Plus Solar Generator bundle for just $1,998.99 (46% off) at Amazon. Includes two 200W solar panels.</description>
+      <title>U.S. quietly expands list of countries whose citizens must pay up to $15,000 bonds for visas</title>
+      <link>https://www.fastcompany.com/91469257/us-quietly-expands-countries-list-visa-bonds</link>
+      <pubDate>2026-01-05T18:35:20</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91469257/us-quietly-expands-countries-list-visa-bonds</guid>
+      <description>Bhutan, Botswana, the Central African Republic, Guinea, Guinea-Bissau, Namibia, and Turkmenistan are now on the list. 
+The Trump administration has added seven countries, including five in Africa, to the list of nations whose passport holders are required to post&#160;bonds of up to $15,000&#160;to apply to enter the United States.</description>
     </item>
   </channel>
 </rss>
