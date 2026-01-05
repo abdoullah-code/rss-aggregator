@@ -3,20 +3,85 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 05 Jan 2026 20:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 21:26:22 GMT</lastBuildDate>
     <item>
-      <title>Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to &#8216;think like a human&#8217;</title>
-      <link>https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/</link>
-      <pubDate>Mon, 05 Jan 2026 20:27:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079883</guid>
-      <description>Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.</description>
+      <title>Viral Reddit post critical of food delivery apps may have been AI-generated</title>
+      <link>https://www.engadget.com/apps/viral-reddit-post-critical-of-food-delivery-apps-may-have-been-ai-generated-210558754.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 21:05:58 +0000</pubDate>
+      <guid isPermaLink="false">4c5f536f-7b53-4717-a6ad-f22ae4edd255</guid>
+      <description>A viral Reddit post purportedly from an employee of a "major food delivery app" may actually be an AI-generated hoax, The Verge reports. The post itself, and an image of an employee ID card the poster, u/trowaway_whistleblow, shared with The Verge, where both flagged as being likely AI-generated when run through online AI detectors and AI assistants like Gemini and Claude.Given the inflammatory nature of the post, it's not hard to see why it received over 80,000 upvotes in the four days it's been up in r/confession. The post includes a series of striking claims about the unnamed food delivery ...</description>
     </item>
     <item>
-      <title>TII&#8217;s Falcon H1R 7B can out-reason models up to 7x its size &#8212; and it&#8217;s (mostly) open</title>
-      <link>https://venturebeat.com/technology/tiis-falcon-h1r-7b-can-out-reason-models-up-to-7x-its-size-and-its-mostly</link>
-      <pubDate>Mon, 05 Jan 2026 20:27:00 GMT</pubDate>
-      <guid isPermaLink="false">6Xtm5q8aKZPRVAXyxTnV8L</guid>
-      <description>For the last two years, the prevailing logic in generative AI has been one of brute force: if you want better reasoning, you need a bigger model. While "small" models (under 10 billion parameters) have become capable conversationalists, they have historically crumbled when asked to perform multi-step logical deduction or complex mathematical proofs.Today, the Technology Innovation Institute (TII) in Abu Dhabi is challenging that scaling law with the release of Falcon H1R 7B. By abandoning the pure Transformer orthodoxy in favor of a hybrid architecture, TII claims to have built a 7-billion par...</description>
+      <title>SanDisk enterre les SSD WD Black et WD Blue : voici la nouvelle gamme Optimus</title>
+      <link>https://www.frandroid.com/produits-android/hardware/stockage/2929849_sandisk-enterre-les-ssd-wd-black-et-wd-blue-voici-la-nouvelle-gamme-optimus</link>
+      <pubDate>Mon, 05 Jan 2026 21:05:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/stockage/2929849_sandisk-enterre-les-ssd-wd-black-et-wd-blue-voici-la-nouvelle-gamme-optimus</guid>
+      <description>
+Vous connaissez forc&#233;ment les WD Black, ces SSD noirs l&#233;gendaires ? C'est fini. SanDisk a d&#233;cid&#233; de tout raser au CES 2026. La marque culte dispara&#238;t au profit d'une nouvelle identit&#233; : Optimus. Et derri&#232;re ce changement de nom se cache une r&#233;alit&#233; &#233;conomique bien moins sympathique.
+</description>
+    </item>
+    <item>
+      <title>The Biggest Debate in &#8216;Stranger Things 5&#8217;: Were There 3 Waterfalls?</title>
+      <link>https://gizmodo.com/stranger-things-5-ending-eleven-waterfalls-2000705082</link>
+      <pubDate>Mon, 05 Jan 2026 21:00:35 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000705082</guid>
+      <description>Mike and Eleven wanted to go somewhere with three waterfalls, but did that actually happen?</description>
+    </item>
+    <item>
+      <title>Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors</title>
+      <link>https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/</link>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">695bfb09363a90f378f47673</guid>
+      <description>Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.</description>
+    </item>
+    <item>
+      <title>Boston Dynamics&#8217; Tesla Bot rival Atlas will start building Hyundai cars in 2028</title>
+      <link>https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028</link>
+      <pubDate>2026-01-05T16:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=853973</guid>
+      <description>Boston Dynamics unveiled the latest version of its humanoid Atlas robot Monday at CES in Las Vegas. The robot, with a glowing circle for a face and a fully electric, battery-powered body, is so advanced that it will soon be working alongside human factory workers for parent company Hyundai, the companies claimed. Hyundai said it [&#8230;]</description>
+    </item>
+    <item>
+      <title>Boston Dynamics' Atlas humanoid robot is now a product and heading to factories in 2028</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/boston-dynamics-atlas-humanoid-robot-is-now-a-product-and-heading-to-factories-in-2028</link>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a44ohJRim6QhFXR78Hzepm</guid>
+      <description>A big leap from prototype to coworker &#8211; the robo-future is coming</description>
+    </item>
+    <item>
+      <title>This smart mirror was a menace at CES 2026</title>
+      <link>https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026</link>
+      <pubDate>2026-01-05T15:59:41-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=855540</guid>
+      <description>Imagine walking into CES 2026, sitting down in front of a smart mirror, taking a 30-second selfie, and getting a score for how well you're aging. Well, last night, a bunch of other tech journalists did just that. I witnessed some journalists take critical damage to their self-esteem. Others wiped their brow in relief. Yours [&#8230;]</description>
+    </item>
+    <item>
+      <title>TCL unveils its X11L SQD-Mini LED TVs at CES 2026</title>
+      <link>https://www.engadget.com/home/home-theater/tcl-unveils-its-x11l-sqd-mini-led-tvs-at-ces-2026-205532386.html?src=rss</link>
+      <pubDate>Mon, 05 Jan 2026 20:55:32 +0000</pubDate>
+      <guid isPermaLink="false">0e83a56b-0291-41d4-8b98-474c04534778</guid>
+      <description>TCL introduced the next entry in its flagship line of televisions during CES. The X11L SQD-Mini LED Series is available for pre-order now in three sizes. But like much of the gear on show in Las Vegas this week, it doesn't come cheap. The 75-inch model of the X11L costs $7,000, the 85-inch option is $8,000 and the 98-inch model goes for $10,000.&#160;That&#8217;s more than double the costs of the QD-Mini LED TV the brand unveiled at last year&#8217;s CES. The most notable addition in TCL's latest screen is the company's new Deep Color System. This tech leverages Super Quantum Dots, combined with its CSOT Ultra...</description>
+    </item>
+    <item>
+      <title>Deepfake AI Pastors Are Stealing From Churchgoers: Report</title>
+      <link>https://gizmodo.com/deepfake-ai-pastors-are-stealing-from-churchgoers-report-2000705615</link>
+      <pubDate>Mon, 05 Jan 2026 20:35:54 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000705615</guid>
+      <description>In the name of the Slop God.</description>
+    </item>
+    <item>
+      <title>Lego Smart Bricks introduce a new way to build &#8212; and they don&#8217;t require screens</title>
+      <link>https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/</link>
+      <pubDate>Mon, 05 Jan 2026 20:31:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3079864</guid>
+      <description>Lego developed a custom ASIC chip that allows its new Ssmart Bricks to pick up on signals from surrounding Smart Tags that dictate how it should make sounds or light up.</description>
+    </item>
+    <item>
+      <title>Solar Orbiter Sets Record Watching Sunspot Region That Sparked Global Auroras</title>
+      <link>https://gizmodo.com/solar-orbiter-sets-record-watching-sunspot-region-that-sparked-global-auroras-2000705589</link>
+      <pubDate>Mon, 05 Jan 2026 20:30:21 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000705589</guid>
+      <description>Scientists observed the most active solar region in decades for a record-breaking 94 days.</description>
     </item>
     <item>
       <title>How to watch the AMD CES 2026 keynote with CEO Lisa Su live</title>
@@ -45,7 +110,7 @@ For Intel, the stakes at CES are higher than ever. In the past 12 months, bo...<
       <description>Investigations are underway but the data seems to be quite valuable.</description>
     </item>
     <item>
-      <title>On a vu la nouvelle batterie solaire d&#8217;Ecoflow capable d&#8217;alimenter toute une maison (et bien plus)</title>
+      <title>On a vu la nouvelle batterie solaire d&#8217;EcoFlow capable d&#8217;alimenter toute une maison (et bien plus)</title>
       <link>https://www.frandroid.com/events/ces/2929783_on-a-vu-la-nouvelle-batterie-solaire-decoflow-capable-dalimenter-toute-une-maison-et-bien-plus</link>
       <pubDate>Mon, 05 Jan 2026 20:09:04 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/events/ces/2929783_on-a-vu-la-nouvelle-batterie-solaire-decoflow-capable-dalimenter-toute-une-maison-et-bien-plus</guid>
@@ -168,11 +233,11 @@ Microsoft met fin &#224; l'une des marques les plus reconnues de l'informatique 
       <link>https://www.fastcompany.com/91469165/tiktok-2026-365-buttons-self-improvement</link>
       <pubDate>2026-01-05T19:30:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91469165/tiktok-2026-365-buttons-self-improvement</guid>
-      <description>The 365 buttons trend, explained.
+      <description>The &#8216;365 buttons&#8217; trend, explained.
 How seriously are you taking your 2026 rebrand? Do you have your 365 buttons ready?</description>
     </item>
     <item>
-      <title>The UK just banned junk food ads before 9pm and across the internet</title>
+      <title>The U.K. just banned junk food ads before 9 p.m. and across the internet</title>
       <link>https://www.fastcompany.com/91469198/the-uk-just-banned-junk-food-ads-before-9pm-and-across-the-internet</link>
       <pubDate>2026-01-05T19:30:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91469198/the-uk-just-banned-junk-food-ads-before-9pm-and-across-the-internet</guid>
@@ -185,226 +250,6 @@ For Americans, the idea of watching live television without the constant barrage
       <pubDate>Mon, 05 Jan 2026 19:27:09 +0000</pubDate>
       <guid isPermaLink="false">dd3ed876-1529-45da-a2de-070181bb53a8</guid>
       <description>Dolby introduced its FlexConnect technology a few years ago, vowing that it would allow customers to position soundbars and speakers anywhere in a room. The company said the platform would then reconfigure the sound automatically, taking into account any locations that may be further away from the center sweet spot. At CES 2026, LG is the first to put Dolby Atmos FlexConnect in a soundbar, offering the so-called Sound Suite that also includes satellite speaker options and a subwoofer. You don&#8217;t need every member of the lineup to use Dolby&#8217;s tech, so you can pick and choose which items work bes...</description>
-    </item>
-    <item>
-      <title>Nouveaux LEGO Star Wars avec briques &#171;&#160;Smart Play&#160;&#187; : voici &#171;&#160;la plus grosse &#233;volution depuis 50 ans&#160;&#187;</title>
-      <link>https://www.frandroid.com/events/ces/2929691_nouveaux-lego-star-wars-la-plus-grosse-evolution-depuis-50-ans-ils-integrent-une-technologie-revolutionnaire-de-smart-play</link>
-      <pubDate>Mon, 05 Jan 2026 19:26:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/events/ces/2929691_nouveaux-lego-star-wars-la-plus-grosse-evolution-depuis-50-ans-ils-integrent-une-technologie-revolutionnaire-de-smart-play</guid>
-      <description>
-C'est probablement l'annonce la plus excitante du CES 2026 pour les grands enfants que nous sommes (ou que je suis). LEGO lance le Smart Play. L'id&#233;e ? Une brique intelligente capable de d&#233;tecter les mouvements et de communiquer avec les autres, sans l'horrible design des sets Mario. La marque promet la plus grosse &#233;volution depuis 50 ans. 
-</description>
-    </item>
-    <item>
-      <title>Working on the go? You can no longer activate Windows with your phone</title>
-      <link>https://www.techradar.com/pro/working-on-the-go-you-can-no-longer-activate-windows-with-your-phone</link>
-      <pubDate>Mon, 05 Jan 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">HUwweXTiRhD3dsFi52iVwd</guid>
-      <description>By all accounts, Microsoft isn't letting you activate Windows from your phone anymore, so make sure you have an internet connection.</description>
-    </item>
-    <item>
-      <title>More Than 40 Million People Use ChatGPT Daily for Healthcare Advice, OpenAI Claims</title>
-      <link>https://gizmodo.com/more-than-40-million-people-use-chatgpt-daily-for-healthcare-advice-openai-claims-2000705509</link>
-      <pubDate>Mon, 05 Jan 2026 19:20:40 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705509</guid>
-      <description>OpenAI wants ChatGPT to be a bigger player in healthcare. First, they need regulators to play ball.</description>
-    </item>
-    <item>
-      <title>Pourquoi le nouveau chargeur Anker Nano risque de devenir votre indispensable</title>
-      <link>https://www.frandroid.com/marques/anker/2929669_pourquoi-le-nouveau-chargeur-anker-nano-risque-de-devenir-votre-indispensable</link>
-      <pubDate>Mon, 05 Jan 2026 19:19:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/anker/2929669_pourquoi-le-nouveau-chargeur-anker-nano-risque-de-devenir-votre-indispensable</guid>
-      <description>
-Anker ne s'est pas calm&#233; pour ce CES 2026. La marque vient de l&#226;cher une avalanche d'accessoires, du chargeur minuscule capable d'alimenter un MacBook Air &#224; la station d'accueil qui se transforme en hub nomade.
-</description>
-    </item>
-    <item>
-      <title>Transporter de l&#8217;&#233;lectricit&#233; gr&#226;ce &#224; la lumi&#232;re : c&#8217;est possible avec cette technologie int&#233;gr&#233;e &#224; une serrure connect&#233;e</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/serrures-connectees/2929619_transporter-de-lelectricite-grace-a-la-lumiere-cest-possible-avec-cette-technologie-integree-a-une-serrure-connectee</link>
-      <pubDate>Mon, 05 Jan 2026 19:17:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/serrures-connectees/2929619_transporter-de-lelectricite-grace-a-la-lumiere-cest-possible-avec-cette-technologie-integree-a-une-serrure-connectee</guid>
-      <description>
-La recharge sans fil, par voie optique, sans aucun c&#226;ble, devient une r&#233;alit&#233; avec cette serrure connect&#233;e qu'on a pu voir dans les all&#233;es du CES. L'id&#233;e : pouvoir recharger une batterie &#224; 4 m&#232;tres de distance, uniquement avec de la lumi&#232;re. &#199;a fonctionne vraiment, et c'est bient&#244;t disponible.
-</description>
-    </item>
-    <item>
-      <title>CES 2026 day 1: the 11 best gadgets we've seen so far, from smart lights to LG's new OLEDs</title>
-      <link>https://www.techradar.com/tech-events/the-best-of-ces-2026-day-one</link>
-      <pubDate>Mon, 05 Jan 2026 19:14:56 +0000</pubDate>
-      <guid isPermaLink="false">Ed54sk2YV2TJ6i4yBgpqbb</guid>
-      <description>CES 2026 has kicked off in style, and we've been busy finding the highlights from the show floor in Las Vegas.</description>
-    </item>
-    <item>
-      <title>Samsung CEO Says What We Already Know About the Memory Shortage</title>
-      <link>https://gizmodo.com/samsung-ceo-says-what-we-already-know-about-the-memory-shortage-2000705543</link>
-      <pubDate>Mon, 05 Jan 2026 19:10:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705543</guid>
-      <description>It's a new year. Start pinching those pennies!</description>
-    </item>
-    <item>
-      <title>These On-Ear Beats Headphones Are Marked Down by $70</title>
-      <link>https://www.wired.com/story/beats-solo-4-deal-126/</link>
-      <pubDate>Mon, 05 Jan 2026 19:10:55 +0000</pubDate>
-      <guid isPermaLink="false">695bf1ae363a90f378f47670</guid>
-      <description>What these headphones lack in active noise canceling, they make up for with big, bold sound.</description>
-    </item>
-    <item>
-      <title>The biggest TV announcements at CES 2026</title>
-      <link>https://www.engadget.com/home/home-theater/the-biggest-tv-announcements-at-ces-2026-190929976.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 19:09:29 +0000</pubDate>
-      <guid isPermaLink="false">ecf435a5-d2a0-4321-9064-dcce9611c48e</guid>
-      <description>CES is once again where TV manufacturers lay out their plans for the year ahead, and CES 2026 is shaping up to be a showcase of both familiar rivalries and genuinely new display tech. While OLED and Mini LED remain central to most lineups, Micro RGB has emerged as one of the most talked-about developments at the show so far, especially at the higher end of the market.
-Below are the TV announcements that stood out most from the pre-show events and early press conferences, with more expected as CES continues.
-Samsung Micro RGB TVs
-
-
-
-  Samsung's flagship Micro RGB TV
- 
-
-  Engadget
- 
-
-Samsung&#8217;s M...</description>
-    </item>
-    <item>
-      <title>Cette vieille carte graphique fait son retour en 2026 : Nvidia change ses plans</title>
-      <link>https://www.frandroid.com/marques/nvidia/2929603_cette-vieille-carte-graphique-fait-son-retour-en-2026-nvidia-change-ses-plans</link>
-      <pubDate>Mon, 05 Jan 2026 19:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/2929603_cette-vieille-carte-graphique-fait-son-retour-en-2026-nvidia-change-ses-plans</guid>
-      <description>
-On pensait l'avoir enterr&#233;e fin 2024. C'&#233;tait mal conna&#238;tre Nvidia. Face &#224; une crise de la m&#233;moire vive qui fait exploser les co&#251;ts, le g&#233;ant vert s'appr&#234;te &#224; ressortir sa GeForce RTX 3060 du placard. 
-</description>
-    </item>
-    <item>
-      <title>This Health Band Is Like if Whoop Went Wild With Voice Assistants</title>
-      <link>https://gizmodo.com/this-health-band-is-like-if-whoop-went-wild-with-voice-assistants-2000705329</link>
-      <pubDate>Mon, 05 Jan 2026 19:00:57 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705329</guid>
-      <description>The Luna Band is all about yelling at your wrist.</description>
-    </item>
-    <item>
-      <title>The Duffer Brothers Have No Idea Why They Tried to Answer So Many &#8216;Stranger Things&#8217; Questions Last Week</title>
-      <link>https://gizmodo.com/stranger-things-finale-duffer-brothers-backlash-2000705567</link>
-      <pubDate>Mon, 05 Jan 2026 19:00:23 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705567</guid>
-      <description>'I'm, like, fried,' Matt Duffer explained in the wake of the Netflix hit's big finale, which we can certainly understand.</description>
-    </item>
-    <item>
-      <title>Lego debuts Smart Play system that reacts as you play. Heres how it works.</title>
-      <link>https://mashable.com/article/ces-2026-lego-smart-play-system-announced</link>
-      <pubDate>Mon, 05 Jan 2026 19:00:01 +0000</pubDate>
-      <guid isPermaLink="false">06J99aExnJ9iu6rfG9nqEuE</guid>
-      <description>At CES 2026, Lego announced the imminent launch of the Lego Smart Play system, one of the biggest evolutions in brick-building technology in decades.</description>
-    </item>
-    <item>
-      <title>Lego&#8217;s Smart Brick Gives the Iconic Analog Toy a New Digital Brain</title>
-      <link>https://www.wired.com/story/lego-smart-brick-new-digital-brain/</link>
-      <pubDate>Mon, 05 Jan 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6958076061289fcb0d09c3c1</guid>
-      <description>The new sensor-packed Smart Play Brick will land this spring as part of a special Star Wars collection. The update adds interactive lights and sound to the Lego experience&#8212;including the minifigs.</description>
-    </item>
-    <item>
-      <title>Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years</title>
-      <link>https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years</link>
-      <pubDate>2026-01-05T14:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=854556</guid>
-      <description>On March 1st, 2026, The Lego Group will begin selling the most ambitious brick it's ever made: a tiny computer that fits entirely inside a classic 2&#215;4 Lego brick. When it detects NFC-equipped smart tags nearby, embedded inside new Lego tiles and new Lego minifigures, or when it sees other Smart Bricks, the company claims [&#8230;]</description>
-    </item>
-    <item>
-      <title>Lego unveils a technology-packed Smart Brick at CES 2026</title>
-      <link>https://www.engadget.com/entertainment/lego-unveils-a-technology-packed-smart-brick-at-ces-2026-190000511.html?src=rss</link>
-      <pubDate>Mon, 05 Jan 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6354879d-871a-4410-855d-b4db770893fe</guid>
-      <description>Lego bricks come in a ridiculously vast array of sizes and shapes, but the company is unveiling an entirely new take on its classic shape at CES 2026. Meet the Lego Smart Brick, a standard-sized 2 x 4 brick that&#8217;s packed with modern technology to enable sets that can respond to how they&#8217;re played with or the sets you build. It&#8217;s part of a new initiative called Smart Play, which encompasses the Smart Brick as well as Smart Minifigures and Smart Tags. While we obviously don&#8217;t know yet how Lego fans will take to this new system, it&#8217;s still fair to say it&#8217;s the biggest move Lego has every made to ...</description>
-    </item>
-    <item>
-      <title>Grindr for lesbians? Here are the best dating apps for LGBTQ women.</title>
-      <link>https://mashable.com/roundup/best-dating-apps-for-lesbians</link>
-      <pubDate>Mon, 05 Jan 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">05OeYFtDK5qi44fkvKr0KKO</guid>
-      <description>Looking for love, friends, or casual fun? We've curated a list of the best dating apps for lesbians, from HER to Hinge.</description>
-    </item>
-    <item>
-      <title>Elon Musk promet un voyage vers Mars en 2026&#8230; mais son Starship est-il vraiment pr&#234;t ?</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronautique-elon-musk-promet-voyage-vers-mars-2026-mais-son-starship-il-vraiment-pret-129787/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 05 Jan 2026 19:59:40 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronautique-elon-musk-promet-voyage-vers-mars-2026-mais-son-starship-il-vraiment-pret-129787/#xtor%3DRSS-8</guid>
-      <description>Apr&#232;s une ann&#233;e 2025 marqu&#233;e par plusieurs d&#233;convenues pour SpaceX, l'entreprise d'Elon Musk attend beaucoup de son Starship pour 2026. Mais peut-elle r&#233;aliser l'impossible et faire face aux nombreux d&#233;fis techniques qui attendent son lanceur lourd ?</description>
-    </item>
-    <item>
-      <title>Hacktivist deletes white supremacist websites live onstage during hacker conference</title>
-      <link>https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/</link>
-      <pubDate>Mon, 05 Jan 2026 18:57:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3079707</guid>
-      <description>A hacker known as Martha Root broke in and deleted three white supremacist websites at the end of a talk during the annual hacker conference Chaos Communication Congress in Germany.</description>
-    </item>
-    <item>
-      <title>The Lego brick just got its biggest upgrade yet with Smart Play &#8212; and it's coming to Star Wars sets first</title>
-      <link>https://www.techradar.com/streaming/entertainment/the-lego-brick-just-got-its-biggest-upgrade-yet-with-smart-play-and-its-coming-to-star-wars-sets-first</link>
-      <pubDate>Mon, 05 Jan 2026 18:48:38 +0000</pubDate>
-      <guid isPermaLink="false">Tkg3VrTHxx6kVi7DxVjfLF</guid>
-      <description>Similar looks, but supercharged internals</description>
-    </item>
-    <item>
-      <title>Verge announces world-first motorcycle with solid-state batteries &#8211;and it promises a 370-mile range with 10-minute charge times</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/verge-announces-world-first-motorcycle-with-solid-state-batteries-for-a-370-mile-range-and-10-minute-charge-times</link>
-      <pubDate>Mon, 05 Jan 2026 18:48:10 +0000</pubDate>
-      <guid isPermaLink="false">Lh8XgM9JuNSwyLBA53end5</guid>
-      <description>Verge Motorcycles unlocks ten-minute charge times with world-first all solid-sate battery in a bike.</description>
-    </item>
-    <item>
-      <title>How to watch Nigeria vs. Mozambique online for free</title>
-      <link>https://mashable.com/article/nigeria-mozambique-africa-cup-of-nations-2025-live-stream-for-free</link>
-      <pubDate>Mon, 05 Jan 2026 18:47:47 +0000</pubDate>
-      <guid isPermaLink="false">01curlm1QxIGywxphCwADD3</guid>
-      <description>How to watch AFCON for free. Live stream Nigeria vs. Mozambique in the 2025 Africa Cup of Nations for free.</description>
-    </item>
-    <item>
-      <title>Ce mini PC modulaire r&#233;alise un vieux fantasme et c&#8217;est malin</title>
-      <link>https://www.frandroid.com/produits-android/ordinateurs/2929569_ce-mini-pc-modulaire-realise-un-vieux-fantasme-et-cest-malin</link>
-      <pubDate>Mon, 05 Jan 2026 18:47:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/2929569_ce-mini-pc-modulaire-realise-un-vieux-fantasme-et-cest-malin</guid>
-      <description>
-La qu&#234;te de l'anneau unique est un vieux fantasme de la tech. Au CES 2026, la marque Khadas en propose un aboutissement gr&#226;ce &#224; Intel Panther Lake.
-</description>
-    </item>
-    <item>
-      <title>That viral Reddit post about food delivery apps was an AI scam</title>
-      <link>https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam</link>
-      <pubDate>2026-01-05T13:43:02-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=855328</guid>
-      <description>A viral Reddit confessional about a "major food delivery app" posted January 2nd is most likely AI-generated. The original post by user Trowaway_whistleblow alleged that an unnamed food delivery company regularly delays customer orders, calls couriers "human assets," and exploits their "desperation" for cash, among other indefensible actions. Nearly 90,000 upvotes and four days later, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>J&#8217;ai vu le Honor Robot Phone avec sa cam&#233;ra articul&#233;e et j&#8217;en suis ressorti avec plus de questions que de r&#233;ponses</title>
-      <link>https://www.01net.com/actualites/jai-vu-le-honor-robot-phone-avec-sa-camera-articulee-et-jen-suis-ressorti-avec-plus-de-questions-que-de-reponses.html</link>
-      <pubDate>Mon, 05 Jan 2026 18:42:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1318246</guid>
-      <description>Au CES 2026, Honor d&#233;voile le Robot Phone, un &#233;tonnant smartphone &#224; cam&#233;ra articul&#233;e. Simple concept ou v&#233;ritable r&#233;volution mobile&#8239;? Cette premi&#232;re prise en main soul&#232;ve de nombreuses questions sur les ambitions de la marque chinoise.</description>
-    </item>
-    <item>
-      <title>Flu virus tracker: Latest update shows high influenza activity across most states. Watch out for these symptoms</title>
-      <link>https://www.fastcompany.com/91469196/flu-virus-tracker-2026-high-influenza-activity-states-symptoms</link>
-      <pubDate>2026-01-05T18:39:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91469196/flu-virus-tracker-2026-high-influenza-activity-states-symptoms</guid>
-      <description>After reporting was delayed due to the holidays, new CDC data shows the flu is spreading, with 33,000 people hospitalized during the last week of the year.
-As today is the first Monday of 2026, Americans across the country are settling back into their everyday routines after the busy holiday season. </description>
-    </item>
-    <item>
-      <title>You Can Play Chess in Hyperbolic Space Now, and It Sucks</title>
-      <link>https://gizmodo.com/you-can-play-chess-in-hyperbolic-space-now-and-it-sucks-2000705568</link>
-      <pubDate>Mon, 05 Jan 2026 18:36:28 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000705568</guid>
-      <description>It may not be particularly fun yet, but it's weird!</description>
-    </item>
-    <item>
-      <title>U.S. quietly expands list of countries whose citizens must pay up to $15,000 bonds for visas</title>
-      <link>https://www.fastcompany.com/91469257/us-quietly-expands-countries-list-visa-bonds</link>
-      <pubDate>2026-01-05T18:35:20</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91469257/us-quietly-expands-countries-list-visa-bonds</guid>
-      <description>Bhutan, Botswana, the Central African Republic, Guinea, Guinea-Bissau, Namibia, and Turkmenistan are now on the list. 
-The Trump administration has added seven countries, including five in Africa, to the list of nations whose passport holders are required to post&#160;bonds of up to $15,000&#160;to apply to enter the United States.</description>
     </item>
   </channel>
 </rss>
