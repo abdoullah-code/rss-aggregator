@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 09 Jan 2026 21:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 22:26:10 GMT</lastBuildDate>
+    <item>
+      <title>The Legacy of the &#8216;Stranger Things&#8217; Ending Debate Goes Back to &#8216;Mass Effect&#8217;</title>
+      <link>https://gizmodo.com/stranger-things-conformity-gate-mass-effect-indoctrination-theory-2000708251</link>
+      <pubDate>Fri, 09 Jan 2026 22:20:25 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708251</guid>
+      <description>I remember when Conformity Gate was called the Indoctrination Theory.</description>
+    </item>
+    <item>
+      <title>The Samsung Galaxy Watch Is Discounted on Amazon</title>
+      <link>https://www.wired.com/story/samsung-galaxy-watch8-deal-126/</link>
+      <pubDate>Fri, 09 Jan 2026 22:13:58 +0000</pubDate>
+      <guid isPermaLink="false">69613a804169e08c999c69d6</guid>
+      <description>The Samsung Galaxy Watch8 gets marked down across a variety of colors, sizes, and feature sets.</description>
+    </item>
+    <item>
+      <title>It's time for Apple to reinstate ICEBlock</title>
+      <link>https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html?src=rss</link>
+      <pubDate>Fri, 09 Jan 2026 22:08:02 +0000</pubDate>
+      <guid isPermaLink="false">db1c945f-64db-4519-9c58-c6c65586ef02</guid>
+      <description>In October, Apple caved to pressure from the Trump administration and removed ICEBlock &#8212; and similar apps which crowdsourced the location of Immigrations and Customs Enforcement activity &#8212; from its App Store. Apple's stated rationale? The apps could "be used to harm law enforcement officers."  But armed-to-the-teeth ICE officers don&#8217;t need protection from civilians. Apple had that exactly backward.That became impossible to ignore on Wednesday, when ICE agent Jonathon Ross killed 37-year-old Renee Nicole Good in cold blood. By now, you don't need me to recount her brutal last moments. But the f...</description>
+    </item>
+    <item>
+      <title>Alamo Drafthouse Moves to Mobile Food Ordering in the Movie Theater</title>
+      <link>https://gizmodo.com/alamo-drafthouse-moves-to-mobile-food-ordering-in-the-movie-theater-2000708311</link>
+      <pubDate>Fri, 09 Jan 2026 21:50:09 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708311</guid>
+      <description>The small screen meets the big screen.</description>
+    </item>
+    <item>
+      <title>Solawave Wand Fans: Don't Miss This Buy One, Get One Free Sale</title>
+      <link>https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/</link>
+      <pubDate>Fri, 09 Jan 2026 21:48:34 +0000</pubDate>
+      <guid isPermaLink="false">6961636dc0c7d7edb18e6e76</guid>
+      <description>Double up on LED therapy, because sharing is caring.</description>
+    </item>
+    <item>
+      <title>Orchestral replaces LangChain&#8217;s complexity with reproducible, provider-agnostic LLM orchestration</title>
+      <link>https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider</link>
+      <pubDate>Fri, 09 Jan 2026 21:43:00 GMT</pubDate>
+      <guid isPermaLink="false">75B1rgngQYodzdg5a5mFMq</guid>
+      <description>A new framework from researchers Alexander and Jacob Roman rejects the complexity of current AI tools, offering a synchronous, type-safe alternative designed for reproducibility and cost-conscious science.In the rush to build autonomous AI agents, developers have largely been forced into a binary choice: surrender control to massive, complex ecosystems like LangChain, or lock themselves into single-vendor SDKs from providers like Anthropic or OpenAI. For software engineers, this is an annoyance. For scientists trying to use AI for reproducible research, it is a dealbreaker.Enter Orchestral AI,...</description>
+    </item>
+    <item>
+      <title>Golden Globes Bets Its Credibility on New Polymarket Partnership</title>
+      <link>https://gizmodo.com/golden-globes-bets-its-credibility-on-new-polymarket-partnership-2000708316</link>
+      <pubDate>Fri, 09 Jan 2026 21:35:35 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708316</guid>
+      <description>The awards show is teaming up with a controversial prediction marketplace that is facing growing scrutiny over insider trading concerns.</description>
+    </item>
+    <item>
+      <title>Amazon is apparently planning a big box store in the Chicago suburbs</title>
+      <link>https://www.engadget.com/big-tech/amazon-is-apparently-planning-a-big-box-store-in-the-chicago-suburbs-213451978.html?src=rss</link>
+      <pubDate>Fri, 09 Jan 2026 21:34:51 +0000</pubDate>
+      <guid isPermaLink="false">6fa47371-d78c-4495-8719-c8823bf845ac</guid>
+      <description>Amazon is making a return, of sorts, to physical retail via plans to build a big-box retail store in the Chicago suburbs, The Information reports. The 225,000-square foot retail space will open in Orland Park, Illinois, and give the company the opportunity to sell more than just groceries after it closed most of its physical bookstores and gift shops in 2022.The new store will offer in-store shopping, but also act as a fulfillment center for online orders, which could make it similar to competitors like Target and Walmart, and some of Amazon's existing Whole Foods and Amazon Fresh locations. "...</description>
+    </item>
     <item>
       <title>Tim Cook and Sundar Pichai are cowards</title>
       <link>https://www.theverge.com/policy/859902/apple-google-run-by-cowards</link>
@@ -129,103 +185,6 @@ La strat&#233;gie de Tesla est pr&#233;visible, mais elle fonctionne toujours. P
       <pubDate>Fri, 09 Jan 2026 20:30:45 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000708246</guid>
       <description>People who took both Zepbound and an anti-inflammatory drug saw a greater improvement of their psoriatic arthritis symptoms.</description>
-    </item>
-    <item>
-      <title>Versions of &#8216;Golden&#8217; Will Continue Until Morale Improves</title>
-      <link>https://gizmodo.com/kpop-demon-hunters-golden-new-remix-netflix-2000708253</link>
-      <pubDate>Fri, 09 Jan 2026 20:20:49 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708253</guid>
-      <description>'KPop Demon Hunters' will make fans wait for merch and a sequel, but its breakout bop now has even more alternate versions available.</description>
-    </item>
-    <item>
-      <title>Bill Gates funds many green energy tech solutions, but he says true climate action really needs this to succeed</title>
-      <link>https://www.fastcompany.com/91472162/bill-gates-funds-many-green-energy-tech-solutions-but-he-says-true-climate-action-really-needs-this-to-succeed</link>
-      <pubDate>2026-01-09T20:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91472162/bill-gates-funds-many-green-energy-tech-solutions-but-he-says-true-climate-action-really-needs-this-to-succeed</guid>
-      <description>In his annual look-ahead letter, the billionaire and philanthropist warns that markets alone can&#8217;t save the planet.
-As President Trump takes even more steps to pull back on climate action, Bill Gates is emphasizing how governmental policies are crucial to addressing climate change.</description>
-    </item>
-    <item>
-      <title>GM to take $6 billion charge after EV pullback</title>
-      <link>https://www.fastcompany.com/91472292/gm-6-billion-charge-ev-pullback</link>
-      <pubDate>2026-01-09T20:13:19</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91472292/gm-6-billion-charge-ev-pullback</guid>
-      <description>GM&#8217;s previous&#160;goal&#160;was to make the vast majority of the vehicles electric by 2035, and the entire company carbon neutral five years after that.
-General Motors will be hit with charges of about $6 billion as sales of electric vehicles sputter after the U.S.&#160;cut tax incentives&#160;to buy them and also&#160;eased auto emissions standards.</description>
-    </item>
-    <item>
-      <title>J&#8217;ai vu les futurs TV NXTVision Art Life de TCL, des t&#233;l&#233;viseurs qui se font passer pour des tableaux</title>
-      <link>https://www.frandroid.com/marques/tcl/2938169_jai-vu-les-futurs-tv-nxtvision-art-life-de-tcl-des-televiseurs-qui-se-font-passer-pour-des-tableaux</link>
-      <pubDate>Fri, 09 Jan 2026 20:06:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tcl/2938169_jai-vu-les-futurs-tv-nxtvision-art-life-de-tcl-des-televiseurs-qui-se-font-passer-pour-des-tableaux</guid>
-      <description>
-Pr&#233;sent&#233; comme un t&#233;l&#233;viseur artistique haut de gamme, le TCL A400 Pro associe design type tableau et technologie QD&#8209;Mini LED. Annonc&#233; d&#8217;abord en Chine, il occupe une place de choix sur le stand TCL au CES 2026 de Las Vegas avant d&#8217;arriver en France.
-</description>
-    </item>
-    <item>
-      <title>Peach Bowl 2026 Free Streams: Watch Oregon vs Indiana, TV Channels, Preview</title>
-      <link>https://www.techradar.com/how-to-watch/american-football/peach-bowl-2026-oregon-ducks-vs-indiana-hoosiers-free</link>
-      <pubDate>Fri, 09 Jan 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CQqQ96ddJi7FEUHrs2wpig</guid>
-      <description>As the Oregon Ducks and Indiana Hoosiers go head-to-head in Atlanta, Georgia, here's how to watch Peach Bowl 2026 for free and from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>World&#8217;s Richest Man Says Don&#8217;t Bother Saving for Retirement</title>
-      <link>https://gizmodo.com/worlds-richest-man-says-dont-bother-saving-for-retirement-2000708250</link>
-      <pubDate>Fri, 09 Jan 2026 19:55:04 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708250</guid>
-      <description>"We're in the singularity. We're at the top of the roller coaster, and it's about to go down."</description>
-    </item>
-    <item>
-      <title>I tried a shockingly affordable 9.2.6-channel Dolby Atmos surround soundbar &#8212; and it's instantly addictive</title>
-      <link>https://www.techradar.com/televisions/soundbars/i-tried-a-shockingly-affordable-9-2-6-channel-dolby-atmos-surround-soundbar-and-its-instantly-addictive</link>
-      <pubDate>Fri, 09 Jan 2026 19:51:16 +0000</pubDate>
-      <guid isPermaLink="false">3w9RUF7xXVMXVufrpnwGpL</guid>
-      <description>This elite soundbar offers real side surrounds and huge bass for smaller spaces, and with an astounding early bird price</description>
-    </item>
-    <item>
-      <title>The Morning After: The best of CES 2026</title>
-      <link>https://www.engadget.com/general/the-morning-after-engadget-newsletter-193045065.html?src=rss</link>
-      <pubDate>Fri, 09 Jan 2026 19:44:21 +0000</pubDate>
-      <guid isPermaLink="false">d48c08a6-ff13-4e0c-a71c-3763f7d703ed</guid>
-      <description>We&#8217;re wrapping up coverage of the biggest tech show in the world. CES 2026 is almost over, and while we have more stories and wrap-ups to come, here are the most interesting products we&#8217;ve spotted, written about and critiqued/praised. That includes our picks for the best of CES. We gave out 15 awards as well as our best of show, and you might be surprised by some of our picks &#8212; I know I was.
-Read on for some of the best things to come out of Las Vegas this week, but first up, our Best of the Best winner, which was Lego Smart Play. As Engadget&#8217;s editor-in-chief Aaron Souppouris put it, &#8220;Lego co...</description>
-    </item>
-    <item>
-      <title>ICE Agent&#8217;s Cellphone Video of Renee Good&#8217;s Killing Leaks to Right-Wing Outlet</title>
-      <link>https://gizmodo.com/ice-agents-cellphone-video-of-renee-goods-killing-leaks-to-right-wing-outlet-2000708248</link>
-      <pubDate>Fri, 09 Jan 2026 19:42:32 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708248</guid>
-      <description>Shots were fired just 40 seconds after the ICE agent left his vehicle.</description>
-    </item>
-    <item>
-      <title>Ikea Smartened Up Some of Its Artsy-Fartsy Lights</title>
-      <link>https://gizmodo.com/ikea-smartened-up-some-of-its-artsy-fartsy-lights-2000708087</link>
-      <pubDate>Fri, 09 Jan 2026 19:40:41 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708087</guid>
-      <description>The Swedish meatball restaurant now sells RGB donut-shaped lamps and bendy dimmable pendant lamps with smart home functionality.</description>
-    </item>
-    <item>
-      <title>How the Sleepbuds maker, Ozlo, is building a platform for sleep data</title>
-      <link>https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/</link>
-      <pubDate>Fri, 09 Jan 2026 19:36:04 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3081430</guid>
-      <description>Ozlo Sleepbuds are going to have a big year, with new products, AI features, and more.</description>
-    </item>
-    <item>
-      <title>'It's just a matter of time': Asus suggests integrated GPUs could be the future for gaming laptops sooner than you think</title>
-      <link>https://www.techradar.com/computing/gpu/its-just-a-matter-of-time-asus-suggests-integrated-gpus-could-be-the-future-for-gaming-laptops-sooner-than-you-think</link>
-      <pubDate>Fri, 09 Jan 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">mL88JDS4Hpa5emzKhZKQpP</guid>
-      <description>Ready for integrated graphics to take over from discrete GPUs? Asus believes 'it's just a matter of time' now.</description>
-    </item>
-    <item>
-      <title>Unemployment falls to 4.4% in December, closing out a frustrating year for job seekers</title>
-      <link>https://www.fastcompany.com/91472287/unemployment-december-job-market-economy-growth</link>
-      <pubDate>2026-01-09T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91472287/unemployment-december-job-market-economy-growth</guid>
-      <description>The unemployment rate slipped to 4.4%, its first decline since June, from 4.5% in November.
-Sluggish December hiring concluded a year of&#160;weak employment gains&#160;that have&#160;frustrated job seekers&#160;even though layoffs and unemployment remained low.</description>
     </item>
   </channel>
 </rss>
