@@ -3,7 +3,84 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 09 Jan 2026 22:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:25:03 GMT</lastBuildDate>
+    <item>
+      <title>Reddit Played a Part in Nailing Jesse Plemons&#8217; Suspicious &#8216;Bugonia&#8217; Character</title>
+      <link>https://gizmodo.com/bugonia-jesse-plemons-reddit-2000708365</link>
+      <pubDate>Fri, 09 Jan 2026 23:20:06 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708365</guid>
+      <description>Screenwriter Will Tracy on how he shaped the conspiracy-obsessed Teddy in Yorgos Lanthimos' sci-fi thriller.</description>
+    </item>
+    <item>
+      <title>Amazon is planning a Super Amazon-mart store near Chicago</title>
+      <link>https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans</link>
+      <pubDate>2026-01-09T18:18:41-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=860058</guid>
+      <description>Amazon could be taking another, even bigger swing at physical stores, this time with a Walmart-like supercenter. On Tuesday, the Orland Park Plan Commission in the Chicago suburb Orland Park, Illinois voted 6-1 to approve Amazon's proposal to develop 35 acres of land for a 229,000-square foot retail center, as reported by The Information. The [&#8230;]</description>
+    </item>
+    <item>
+      <title>Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals</title>
+      <link>https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses</link>
+      <pubDate>Fri, 09 Jan 2026 23:14:00 GMT</pubDate>
+      <guid isPermaLink="false">4yqgGWkheba7NIePaBijR8</guid>
+      <description>Anthropic has confirmed the implementation of strict new technical safeguards preventing third-party applications from spoofing its official coding client, Claude Code, in order to access the underlying Claude AI models for more favorably pricing and limits &#8212; a move that has disrupted workflows for users of popular open source coding agent OpenCode. Simultaneously but separately, it has restricted usage of its AI models by rival labs including xAI (through the integrated developer environment Cursor) to train competing systems to Claude Code. The former action was clarified on Friday by Thariq...</description>
+    </item>
+    <item>
+      <title>The Best Automotive Tech at CES 2026</title>
+      <link>https://gizmodo.com/best-automotive-tech-ces-2026-2000708326</link>
+      <pubDate>Fri, 09 Jan 2026 23:00:51 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708326</guid>
+      <description>Robotaxis, concept cars, and a massive touchscreen were just some of the automotive highlights at CES 2026.</description>
+    </item>
+    <item>
+      <title>The Scuf Envision Pro V2 has some of the best buttons and triggers I&#8217;ve ever used, but it&#8217;s massively let down by convoluted software</title>
+      <link>https://www.techradar.com/gaming/scuf-envision-pro-review</link>
+      <pubDate>Fri, 09 Jan 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">943Nw3DxiWhrFhuj7CfBt7</guid>
+      <description>The Scuf Envision Pro V2 is a great PC controller that&#8217;s unfortunately hard to recommend to most. It feels brilliant to use, though most won&#8217;t need 90% of what the device offers in terms of customizability.</description>
+    </item>
+    <item>
+      <title>&#8216;This is an unbelievable moment in the course of human history&#8217;: Sean Astin on how he&#8217;s fighting for humanity against an onslaught of AI actors</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/this-is-an-unbelievable-moment-in-the-course-of-human-history-sean-astin-on-how-hes-fighting-for-humanity-against-an-onslaught-of-ai-actors</link>
+      <pubDate>Fri, 09 Jan 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">85kHG4PvLAPcezC8uDR9d3</guid>
+      <description>We sat down with actor and SAG-AFTRA President Sean Astin to talk about AI and its impact on his industry.</description>
+    </item>
+    <item>
+      <title>X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns</title>
+      <link>https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit</link>
+      <pubDate>2026-01-09T17:59:24-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=860013</guid>
+      <description>X is suing music publishers and their trade group, the National Music Publishers' Association (NMPA), accusing them of attempted coercion in their ongoing battle over licensing, as reported earlier by The Hollywood Reporter. The Elon Musk-owned platform accuses music publishers of colluding with the NMPA to "coerce X into taking licenses to musical works from [&#8230;]...</description>
+    </item>
+    <item>
+      <title>This company could help bring Auracast to an iPhone near you</title>
+      <link>https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026</link>
+      <pubDate>2026-01-09T17:56:41-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=860010</guid>
+      <description>One of the issues holding Auracast back from wider mainstream use is some companies' lack of support for the Bluetooth technology - Apple being a prime example. With iOS having 58 percent of the market share in North America and nearly 28 percent worldwide, a decision by Apple to enable native Auracast support would potentially [&#8230;]</description>
+    </item>
+    <item>
+      <title>AI is coming for collectibles next</title>
+      <link>https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026</link>
+      <pubDate>2026-01-09T17:52:36-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=859994</guid>
+      <description>AI toys, companions, and robots have been everywhere at CES this year, but among the horde of waddling plushies and light-up emoji eyes, two stood out to me. HeyMates and Buddyo are each betting that the collectible figurine boom is going to come back with an AI-powered vengeance, letting us chat to sports stars and [&#8230;]</description>
+    </item>
+    <item>
+      <title>CES 2026: Everything revealed, from Nvidia&#8217;s debuts to AMD&#8217;s new chips to Razer&#8217;s AI oddities</title>
+      <link>https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/</link>
+      <pubDate>Fri, 09 Jan 2026 22:36:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3080516</guid>
+      <description>CES 2026&#160;is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days&#160;occupied by&#160;press conferences from the likes of Nvidia, Sony, and AMD&#160;and previews from Sunday&#8217;s Unveiled event.</description>
+    </item>
+    <item>
+      <title>The battle of the SuperPods: Nvidia challenges Huawei with Vera Rubin powered DGX cluster that can deliver 28.8 Exaflops with only 576 GPUs</title>
+      <link>https://www.techradar.com/pro/the-battle-of-the-superpods-nvidia-challenges-huawei-with-vera-rubin-powered-dgx-cluster-that-can-deliver-28-8-exaflops-with-only-576-gpus</link>
+      <pubDate>Fri, 09 Jan 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">RoGTBRAyRg6cuVT84sZYr4</guid>
+      <description>Nvidia&#8217;s Rubin DGX SuperPOD delivers 28.8 Exaflops using 576 GPUs, combining compute, memory, and software to rival Huawei&#8217;s SuperPOD.</description>
+    </item>
     <item>
       <title>The Legacy of the &#8216;Stranger Things&#8217; Ending Debate Goes Back to &#8216;Mass Effect&#8217;</title>
       <link>https://gizmodo.com/stranger-things-conformity-gate-mass-effect-indoctrination-theory-2000708251</link>
@@ -40,11 +117,11 @@
       <description>Double up on LED therapy, because sharing is caring.</description>
     </item>
     <item>
-      <title>Orchestral replaces LangChain&#8217;s complexity with reproducible, provider-agnostic LLM orchestration</title>
-      <link>https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider</link>
-      <pubDate>Fri, 09 Jan 2026 21:43:00 GMT</pubDate>
-      <guid isPermaLink="false">75B1rgngQYodzdg5a5mFMq</guid>
-      <description>A new framework from researchers Alexander and Jacob Roman rejects the complexity of current AI tools, offering a synchronous, type-safe alternative designed for reproducibility and cost-conscious science.In the rush to build autonomous AI agents, developers have largely been forced into a binary choice: surrender control to massive, complex ecosystems like LangChain, or lock themselves into single-vendor SDKs from providers like Anthropic or OpenAI. For software engineers, this is an annoyance. For scientists trying to use AI for reproducible research, it is a dealbreaker.Enter Orchestral AI,...</description>
+      <title>Character.AI settles lawsuits related to teen deaths</title>
+      <link>https://mashable.com/article/characterai-lawsuits-settled</link>
+      <pubDate>Fri, 09 Jan 2026 21:47:01 +0000</pubDate>
+      <guid isPermaLink="false">07vH37WNJ4sM7vo2rn9Ya13</guid>
+      <description>The lawsuits alleged that Character.AI's chatbot product was defective and dangerous.</description>
     </item>
     <item>
       <title>Golden Globes Bets Its Credibility on New Polymarket Partnership</title>
@@ -61,130 +138,12 @@
       <description>Amazon is making a return, of sorts, to physical retail via plans to build a big-box retail store in the Chicago suburbs, The Information reports. The 225,000-square foot retail space will open in Orland Park, Illinois, and give the company the opportunity to sell more than just groceries after it closed most of its physical bookstores and gift shops in 2022.The new store will offer in-store shopping, but also act as a fulfillment center for online orders, which could make it similar to competitors like Target and Walmart, and some of Amazon's existing Whole Foods and Amazon Fresh locations. "...</description>
     </item>
     <item>
-      <title>Tim Cook and Sundar Pichai are cowards</title>
-      <link>https://www.theverge.com/policy/859902/apple-google-run-by-cowards</link>
-      <pubDate>2026-01-09T16:24:10-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=859902</guid>
-      <description>Since X's users started using Grok to undress women and children using deepfake images, I have been waiting for what I assumed would be inevitable: X getting booted from Apple's and Google's app stores. The fact that it hasn't happened yet tells me something serious about Silicon Valley's leadership: Tim Cook and Sundar Pichai are [&#8230;]</description>
-    </item>
-    <item>
-      <title>If You Love &#8216;Cloud Atlas,&#8217; You&#8217;ve Got to See This New Documentary</title>
-      <link>https://gizmodo.com/cloud-atlas-4k-documentary-tom-hanks-halle-berry-2000707632</link>
-      <pubDate>Fri, 09 Jan 2026 21:20:40 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000707632</guid>
-      <description>The new 4K release has an excellent, star-studded, two-hour look back at the film.</description>
-    </item>
-    <item>
-      <title>Acer launches 40th Ryzen AI Max+ 395 system as it pitches Veriton RA100 mini PC as an AI workstation &#8212; but unless it is keenly priced, it will struggle against better value competitors</title>
-      <link>https://www.techradar.com/pro/acer-launches-40th-ryzen-ai-max-395-system-as-it-pitches-veriton-ra100-mini-pc-as-an-ai-workstation-but-unless-it-is-keenly-priced-it-will-struggle-against-better-value-competitors</link>
-      <pubDate>Fri, 09 Jan 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">f9k4dfV2HRi6gp8CnSzRu8</guid>
-      <description>Acer targets creators and developers building and running local models with its Veriton RA100 Ryzen AI Max+ 395 mini PC.</description>
-    </item>
-    <item>
-      <title>I've looked at every Samsung Galaxy S26 price and release date rumor so far &#8212; here's what I think will happen</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/ive-looked-at-every-samsung-galaxy-s26-price-and-release-date-rumor-so-far-heres-what-i-think-will-happen</link>
-      <pubDate>Fri, 09 Jan 2026 21:07:43 +0000</pubDate>
-      <guid isPermaLink="false">eHYJpEHUuqwxXibneTgzzj</guid>
-      <description>I've predicted the announcement, pre-order, and on-sale dates for the Samsung Galaxy S26 series, along with the possible prices.</description>
-    </item>
-    <item>
-      <title>Facture d&#8217;&#233;lectricit&#233; : une (petite) baisse automatique confirm&#233;e pour le 1er f&#233;vrier, voici ce que vous allez gagner</title>
-      <link>https://www.frandroid.com/survoltes/energie/2936473_facture-delectricite-une-petite-baisse-automatique-confirmee-pour-le-1er-fevrier-voici-ce-que-vous-allez-gagner</link>
-      <pubDate>Fri, 09 Jan 2026 21:05:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/2936473_facture-delectricite-une-petite-baisse-automatique-confirmee-pour-le-1er-fevrier-voici-ce-que-vous-allez-gagner</guid>
-      <description>
-Une baisse automatique sera bient&#244;t appliqu&#233;e sur les factures d&#8217;&#233;lectricit&#233; en France. Le gouvernement a en effet d&#233;cid&#233; de r&#233;duire l&#8217;une des taxes qui les alourdissent. Une bonne nouvelle pour commencer l&#8217;ann&#233;e, certes, mais dont l&#8217;impact restera limit&#233;.
-</description>
-    </item>
-    <item>
-      <title>On a pris en main les batteries solaires et les piles rechargeables en USB-C de Marstek : un prix qui promet de d&#233;fier la concurrence</title>
-      <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/2938175_on-a-pris-en-main-les-batteries-solaires-et-les-piles-rechargeables-en-usb-c-de-marstek-un-prix-qui-promet-de-defier-la-concurrence</link>
-      <pubDate>Fri, 09 Jan 2026 21:01:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/2938175_on-a-pris-en-main-les-batteries-solaires-et-les-piles-rechargeables-en-usb-c-de-marstek-un-prix-qui-promet-de-defier-la-concurrence</guid>
-      <description>
-Le fabricant chinois de batteries, Marstek, d&#233;voile au CES 2026 trois produits, dont un tr&#232;s int&#233;ressant. Une batterie solaire compacte, puissante et plut&#244;t abordable. Nous &#233;tions sur place, voici notre premier avis.
-</description>
-    </item>
-    <item>
-      <title>Ecovacs wants to make self-clean window-bots happen, but I don't think they're going to happen</title>
-      <link>https://www.techradar.com/home/ecovacs-wants-to-make-self-clean-window-bots-happen-but-i-dont-think-theyre-going-to-happen</link>
-      <pubDate>Fri, 09 Jan 2026 20:59:22 +0000</pubDate>
-      <guid isPermaLink="false">TjMKpDYec25Gbe6uTkU9J6</guid>
-      <description>I'm not sure my window bot really needs its own tiny washing machine.</description>
-    </item>
-    <item>
-      <title>Meta Is Making a Big Bet on Nuclear With Oklo</title>
-      <link>https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/</link>
-      <pubDate>Fri, 09 Jan 2026 20:59:12 +0000</pubDate>
-      <guid isPermaLink="false">695fb7f6523ced0d2271f7d9</guid>
-      <description>Meta will finance Oklo&#8217;s purchase of uranium for its reactors. It&#8217;s a massive vote of confidence for both the startup and nuclear power, but challenges remain.</description>
-    </item>
-    <item>
-      <title>The older but still excellent Garmin Vivoactive 5 tumbles to a record-low price on Amazon</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/the-older-but-still-excellent-garmin-vivoactive-5-tumbles-to-a-record-low-price-on-amazon</link>
-      <pubDate>Fri, 09 Jan 2026 20:55:00 +0000</pubDate>
-      <guid isPermaLink="false">ih94n5kpEjBwJPg23VMWJb</guid>
-      <description>The Garmin Vivoactive 5 crashes to $184.99 at Amazon, making it an excellent buy if you're after a cheap running watch.</description>
-    </item>
-    <item>
-      <title>This semi-secret Lego Smart Brick feature gives it even more potential</title>
-      <link>https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential</link>
-      <pubDate>2026-01-09T15:50:57-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=859740</guid>
-      <description>We just gave the Lego Smart Brick our Best In Show award at CES 2026, and I wanted to stop by The Lego Group's suite to get a last glimpse before I left Las Vegas. To my surprise, the company showed off one more feature I didn't see during my first demo, perhaps the most [&#8230;]</description>
-    </item>
-    <item>
-      <title>Monarch Money's budgeting app is 50 percent off for new users</title>
-      <link>https://www.engadget.com/apps/monarch-moneys-budgeting-app-is-50-percent-off-for-new-users-204507740.html?src=rss</link>
-      <pubDate>Fri, 09 Jan 2026 20:45:07 +0000</pubDate>
-      <guid isPermaLink="false">1764214b-3509-4628-8631-8692fa12e904</guid>
-      <description>A new year is the perfect time to get your spending in order, and if you're not trying to build your own spreadsheet, budgeting apps are one of the best ways to do it. To save yourself some money in the process, you can pick up a year-long subscription to Monarch Money, one of Engadget's favorite budgeting apps, for just $50 if you use code NEWYEAR2026 at checkout and you're a new subscriber. That's a 50 percent discount on the service's normal $100 price.
-Monarch Money makes for a capable and detailed budgeting companion. You can use the service via apps for iOS, Android, iPadOS or the web, a...</description>
-    </item>
-    <item>
-      <title>Tesla baisse le prix de la Model 3 jusqu&#8217;au 31 mars 2026 : moins de 33 400 &#8364;, c&#8217;est du jamais vu</title>
-      <link>https://www.frandroid.com/marques/tesla/2938177_tesla-baisse-le-prix-de-la-model-3-jusquau-31-mars-2026-moins-de-34-000-e-cest-du-jamais-vu</link>
-      <pubDate>Fri, 09 Jan 2026 20:44:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/2938177_tesla-baisse-le-prix-de-la-model-3-jusquau-31-mars-2026-moins-de-34-000-e-cest-du-jamais-vu</guid>
-      <description>
-La strat&#233;gie de Tesla est pr&#233;visible, mais elle fonctionne toujours. Pour gonfler ses chiffres du premier trimestre 2026, Elon Musk brade la Model 3. 3500 &#8364; de r&#233;duction imm&#233;diate. Une aubaine pour les acheteurs, un cauchemar pour ceux qui ont achet&#233; le mois dernier.
-</description>
-    </item>
-    <item>
-      <title>Did you know that Gmail has emoji reactions?</title>
-      <link>https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default</link>
-      <pubDate>2026-01-09T15:42:48-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=859865</guid>
-      <description>Google rolled out emoji reactions to personal Gmail accounts a little over two years ago, and I completely forgot about it until now - probably because the option is hidden within a small, smiley face icon beside the Forward button. But now, Google is bringing emoji reactions to all Workspace users by default on February [&#8230;]</description>
-    </item>
-    <item>
-      <title>North Korean hackers using malicious QR codes in spear phishing, FBI warns</title>
-      <link>https://www.techradar.com/pro/security/north-korean-hackers-using-malicious-qr-codes-in-spear-phishing-fbi-warns</link>
-      <pubDate>Fri, 09 Jan 2026 20:40:00 +0000</pubDate>
-      <guid isPermaLink="false">QhztNSoUTTFWPEUPgbf5jY</guid>
-      <description>Kimsuky's latest attacks can bypass email protections and MFA to steal M365 and VPN accounts.</description>
-    </item>
-    <item>
-      <title>The era of 6K monitors has come: after Dell, Acer launches another 20-megapixel screen &#8212; 32-inch PE320QX has 7 ports and a webcam but no KVM</title>
-      <link>https://www.techradar.com/pro/the-era-of-6k-monitors-has-come-after-dell-acer-launches-another-20-megapixel-screen-32-inch-pe320qx-has-7-ports-and-a-webcam-but-no-kvm</link>
-      <pubDate>Fri, 09 Jan 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">KN8PGribBMqYZxBDphwmQR</guid>
-      <description>Acer&#8217;s new ProDesigner PE320QX monitor packs real 6K resolution in a 32-inch display with a generous selection of ports.</description>
-    </item>
-    <item>
-      <title>Scenes from the anti-ICE march in New York City</title>
-      <link>https://www.theverge.com/report/859550/anti-ice-protest-photos-new-york</link>
-      <pubDate>2026-01-09T15:30:45-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=859550</guid>
-      <description>On Thursday evening in Manhattan's Financial District, hundreds of protesters braved the cold to protest US Immigration and Customs Enforcement (ICE), after an agent fatally shot a woman at close range on Wednesday. Earlier that day, Department of Homeland Security Secretary Kristi Noem's visit to One World Trade Center in Lower Manhattan sparked protests outside [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Weight Loss Drugs Like Zepbound Could Help Treat Arthritis, Trial Shows</title>
-      <link>https://gizmodo.com/weight-loss-drugs-like-zepbound-could-help-treat-arthritis-trial-shows-2000708246</link>
-      <pubDate>Fri, 09 Jan 2026 20:30:45 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708246</guid>
-      <description>People who took both Zepbound and an anti-inflammatory drug saw a greater improvement of their psoriatic arthritis symptoms.</description>
+      <title>What NFL coaches could teach the wider business world</title>
+      <link>https://www.fastcompany.com/91472276/what-nfl-coaches-could-teach-the-wider-business-world</link>
+      <pubDate>2026-01-09T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91472276/what-nfl-coaches-could-teach-the-wider-business-world</guid>
+      <description>This week saw Black Monday, the NFL&#8217;s annual axing of low-performing coaches. Is this public, clear-cut accountability good . . . or bad?
+The beginning of a new year ushers in an ominous day in the NFL: Black Monday, the day when coaches are (typically) most at risk of losing their jobs. Black Monday happens the day after the regular season ends, a time when an especially harsh backward review is cast over the wins, losses, and total misses.&#160;...</description>
     </item>
   </channel>
 </rss>
