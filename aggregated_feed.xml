@@ -3,7 +3,57 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 10 Jan 2026 19:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 20:27:26 GMT</lastBuildDate>
+    <item>
+      <title>I tested the Leica Q3 Monochrom &#8211; it's a top digital camera for black-and-white photography purists</title>
+      <link>https://www.techradar.com/cameras/compact-cameras/leica-q3-monochrom-review</link>
+      <pubDate>Sat, 10 Jan 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">i4F6bdeSsC8oEY4yD6FXHa</guid>
+      <description>Leica's third premium compact Q3 model &#8211; the new Q3 Monochrom &#8211; follows the original Q3 and the Q3 43, ditching the sensor's color array filter in favor of optimized black and white-only images.</description>
+    </item>
+    <item>
+      <title>A &#8216;Baldur&#8217;s Gate 3&#8217; Writer Explains Wyll&#8217;s Disappointing Arc</title>
+      <link>https://gizmodo.com/a-baldurs-gate-3-writer-explains-wylls-disappointing-arc-2000708297</link>
+      <pubDate>Sat, 10 Jan 2026 19:50:36 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708297</guid>
+      <description>If you're still sore about Wyll, Larian hears you and absolutely agrees.</description>
+    </item>
+    <item>
+      <title>Indonesia blocks Grok over non-consensual, sexualized deepfakes</title>
+      <link>https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/</link>
+      <pubDate>Sat, 10 Jan 2026 19:37:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3081701</guid>
+      <description>Indonesian officials said Saturday that they are temporarily blocking access to xAI&#8217;s chatbot Grok.</description>
+    </item>
+    <item>
+      <title>Google Photos might soon give you more control over how your photos and videos are backed up</title>
+      <link>https://www.techradar.com/phones/android/google-photos-might-soon-give-you-more-control-over-how-your-photos-and-videos-are-backed-up</link>
+      <pubDate>Sat, 10 Jan 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">mEUPjD5VFtia48MneXPL5R</guid>
+      <description>It looks as though a scheduling feature could be introduced to Google Photos in the near future.</description>
+    </item>
+    <item>
+      <title>I tested the Geekom A7 Max - a mini PC built around a punchy platform, but the installed memory is an issue</title>
+      <link>https://www.techradar.com/computing/geekom-a7-max-mini-pc-review</link>
+      <pubDate>Sat, 10 Jan 2026 19:25:00 +0000</pubDate>
+      <guid isPermaLink="false">BAths56CxPHfxSPrALLHUT</guid>
+      <description>The Geekom A7 Max is a high-quality NUC that needs some extra expenditure on memory to truly shine.</description>
+    </item>
+    <item>
+      <title>An Instagram data breach reportedly exposed the personal info of 17.5 million users</title>
+      <link>https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss</link>
+      <pubDate>Sat, 10 Jan 2026 19:21:05 +0000</pubDate>
+      <guid isPermaLink="false">03a7276f-89bf-4013-8583-e716c9ba37e8</guid>
+      <description>If you received a bunch of password reset requests from Instagram recently, you're not alone. As reported by Malwarebytes, an antivirus software company, there was a data breach revealing the "sensitive information" of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more.
+The company added that the "data is available for sale on the dark web and can be abused by cybercriminals." Malwarebytes noted in an email to its customers that it discovered the breach during its routine dark web scan and tha...</description>
+    </item>
+    <item>
+      <title>Exclusive: Lexar debuts mysterious AI grade stick form factor that promises hot swap, blazing speeds &#8212; and no, I've got absolutely no clue how much it costs and whether device vendors will actually use it</title>
+      <link>https://www.techradar.com/pro/lexar-debuts-mysterious-ai-grade-stick-form-factor-that-promises-hot-swap-blazing-speeds-and-yes-ive-got-absolutely-no-clue-how-much-it-costs-and-whether-device-vendors-will-actually-use-it</link>
+      <pubDate>Sat, 10 Jan 2026 19:20:00 +0000</pubDate>
+      <guid isPermaLink="false">eR2soCHnnjKmGs8oUaTqpP</guid>
+      <description>Lexar debuts a hot-swappable AI-Grade Storage Stick at CES 2026, promising blazing speeds, flexibility, and uncertain adoption by manufacturers.</description>
+    </item>
     <item>
       <title>Bill Gates Warns of a Dark Trend In Depressing Annual Letter So Here&#8217;s a Little Deer Guy Absolutely Owning a Rhinoceros</title>
       <link>https://gizmodo.com/bill-gates-warns-of-a-dark-trend-in-depressing-annual-letter-so-heres-a-little-deer-guy-absolutely-owning-a-rhinoceros-2000708412</link>
@@ -42,58 +92,6 @@ Cette semaine sur Survolt&#233;s, les annonces &#233;lectriques ont &#233;t&#233
       <description>
 Le c&#233;l&#232;bre r&#233;seau priv&#233; virtuel NordVPN fait ses meilleures promotions pendant les Soldes o&#249; l'abonnement basique, par exemple, est &#224; seulement 3,25 euros/mois avec un mois offert.
 </description>
-    </item>
-    <item>
-      <title>Cloud faces some key challenges in 2026 - we spoke to these experts to find out what's next</title>
-      <link>https://www.techradar.com/pro/cloud-faces-some-key-challenges-in-2026-we-spoke-to-these-experts-to-find-out-whats-next</link>
-      <pubDate>Sat, 10 Jan 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">w76oSEYk4xoEFsdUGCNU3h</guid>
-      <description>Experts give us their cloud computing predictions for the new year.</description>
-    </item>
-    <item>
-      <title>Don&#8217;t count on Baldur&#8217;s Gate 3 coming to Switch 2, as least for now</title>
-      <link>https://www.engadget.com/gaming/nintendo/dont-count-on-baldurs-gate-3-coming-to-switch-2-as-least-for-now-180538969.html?src=rss</link>
-      <pubDate>Sat, 10 Jan 2026 18:05:38 +0000</pubDate>
-      <guid isPermaLink="false">b2b94ea4-5319-417d-96e5-b4bb01b68818</guid>
-      <description>Nintendo Switch 2 owners can forget about seeing Baldur&#8217;s Gate 3 in the Nintendo Store, at least as of now. In a Reddit AMA, Larian Studio's CEO, Swen Vicke, said that the team would have loved to bring the title to Switch 2, but "it wasn't our decision to make."
-As cryptic as that may sound, Vicke's response hints that either Wizards of the Coast, which owns the Dungeons and Dragons IP that Baldur's Gate 3 is set in, or Nintendo is behind the lack of a port. When it comes to Wizards of the Coast, rumors have circulated that the game studio and Wizards of the Coast may have a strained relation...</description>
-    </item>
-    <item>
-      <title>Meilleurs PC portables pour &#233;tudiant en 2026 : le comparatif des mod&#232;les recommand&#233;s</title>
-      <link>https://www.frandroid.com/guide-dachat/1052471_comparatif-meilleurs-ordinateurs-pc-portables-pour-etudiants</link>
-      <pubDate>Sat, 10 Jan 2026 18:00:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1052471_comparatif-meilleurs-ordinateurs-pc-portables-pour-etudiants</guid>
-      <description>
-L&#8217;ordinateur portable est le compagnon indispensable de l&#8217;&#233;tudiant moderne. Que ce soit pour prendre des notes en cours ou suivre des cours en visio, un laptop est indispensable pour accompagner des &#233;tudes sup&#233;rieures. Nous avons test&#233; et rassembl&#233; ici les meilleurs PC portables pour &#233;tudiants.
-</description>
-    </item>
-    <item>
-      <title>SpaceX can deploy 7,500 more Starlink Gen2 satellites with FCC approval</title>
-      <link>https://www.engadget.com/science/space/spacex-can-deploy-7500-more-starlink-gen2-satellites-with-fcc-approval-180000843.html?src=rss</link>
-      <pubDate>Sat, 10 Jan 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2c857a1a-aaba-435d-bd70-a21e90b9a762</guid>
-      <description>The Federal Communications Commission has approved SpaceX&#8217;s request to deploy an additional 7,500 Gen2 Starlink satellites, allowing the company to launch 15,000 in all. It has also allowed SpaceX to upgrade its Gen2 satellites with &#8220;advanced form factors and cutting-edge technology,&#8221; to operate across more frequencies and to add more orbital shells to optimize coverage and performance. This approval will give the company&#8217;s fleet a boost and will allow it to offer internet and mobile services to more parts of the globe. The satellites will also enable SpaceX to offer &#8220;direct-to-cell connectivi...</description>
-    </item>
-    <item>
-      <title>The CES companies hoping your brain is the next big thing in computing</title>
-      <link>https://www.engadget.com/wearables/the-ces-companies-hoping-your-brain-is-the-next-big-thing-in-computing-175048601.html?src=rss</link>
-      <pubDate>Sat, 10 Jan 2026 17:50:48 +0000</pubDate>
-      <guid isPermaLink="false">c6055c71-c67d-4457-9ea3-12bcbe63fbf1</guid>
-      <description>At every CES I&#8217;ve ever been to, there&#8217;s been one or two gadgets promising to boost your mental health. In recent years, the number of companies making forays into this space has grown, and will likely continue to do so in the future. Could it be, much like the number of people wearing heart-monitoring wearables today, everyone will be strapping an EEG to their skulls a decade or so down the line? It&#8217;s more likely than you think, so it&#8217;s worth asking what these devices are good for, what benefit they could bring, and where does the science end and the hype begin.An Electroencephalogram (EEG) is...</description>
-    </item>
-    <item>
-      <title>Broadcom reinvents AMD's APU moniker as it launches Wi-Fi 8 chip &#8212; this accelerated processing unit doesn't include a GPU but has 10GbE connectivity</title>
-      <link>https://www.techradar.com/pro/broadcom-reinvents-amds-apu-moniker-as-it-launches-wi-fi-8-chip-this-accelerated-processing-unit-doesnt-include-a-gpu-but-has-10gbe-connectivity</link>
-      <pubDate>Sat, 10 Jan 2026 17:35:00 +0000</pubDate>
-      <guid isPermaLink="false">Qebzq2y4dXhqTXmcrcEV98</guid>
-      <description>Broadcom&#8217;s BCM4918 applies the APU label to a Wi-Fi 8 processor integrating compute, networking, AI, and security without graphics</description>
-    </item>
-    <item>
-      <title>Marvel Has Its Best-Selling Comic in Years Thanks to Robert Downey Jr.</title>
-      <link>https://gizmodo.com/marvel-has-its-best-selling-comic-in-years-thanks-to-robert-downey-jr-2000708440</link>
-      <pubDate>Sat, 10 Jan 2026 17:25:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708440</guid>
-      <description>Things get meta and full circle for Marvel with the 'Ultimate Endgame' event.</description>
     </item>
   </channel>
 </rss>
