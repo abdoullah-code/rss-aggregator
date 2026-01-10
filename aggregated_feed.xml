@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 10 Jan 2026 22:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 23:23:34 GMT</lastBuildDate>
+    <item>
+      <title>Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason</title>
+      <link>https://gizmodo.com/did-you-get-an-instagram-password-reset-email-recently-this-might-be-the-very-unpleasant-reason-2000708667</link>
+      <pubDate>Sat, 10 Jan 2026 22:59:03 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708667</guid>
+      <description>Your info might be for sale on the dark web.</description>
+    </item>
+    <item>
+      <title>Elon Musk says X's new algorithm will be made open source next week</title>
+      <link>https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html?src=rss</link>
+      <pubDate>Sat, 10 Jan 2026 22:57:21 +0000</pubDate>
+      <guid isPermaLink="false">122935f7-59c5-40ba-8091-8b77103b6d6b</guid>
+      <description>X may soon provide more insight into how its algorithm works. On Saturday, Elon Musk posted on the platform to say that the company "will make the new X algorithm, including all code used to determine what organic and advertising posts are recommended to users, open source in 7 days."&#160;X's recommendation algorithm has been the subject of investigations by France and the European Commission, the latter of which recently extended through 2026 a retention order that it sent to the company at the beginning of last year. And scrutiny into the platform, along with demands for accountability, have onl...</description>
+    </item>
     <item>
       <title>SpaceX gets FCC approval to launch 7,500 more Starlink satellites</title>
       <link>https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/</link>
@@ -24,42 +38,6 @@
       <pubDate>2026-01-10T16:30:17-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=860241</guid>
       <description>I picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. It was a banner year for smart home products, but the big trends I saw weren't about new product categories; they [&#8230;]</description>
-    </item>
-    <item>
-      <title>OpenAI is reportedly asking contractors to upload real work from past jobs</title>
-      <link>https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/</link>
-      <pubDate>Sat, 10 Jan 2026 21:18:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3081712</guid>
-      <description>An intellectual property lawyer says OpenAI is "putting itself at great risk" with this approach.</description>
-    </item>
-    <item>
-      <title>SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal</title>
-      <link>https://gizmodo.com/sag-aftra-is-keeping-an-eye-on-the-disney-openai-deal-2000708414</link>
-      <pubDate>Sat, 10 Jan 2026 21:15:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708414</guid>
-      <description>Not everyone liked hearing Disney got into bed with OpenAI, but SAG-AFTRA thinks it could be good for transparency and progress.</description>
-    </item>
-    <item>
-      <title>GameStop reportedly shuts down more than 400 US stores</title>
-      <link>https://www.engadget.com/gaming/gamestop-reportedly-shuts-down-more-than-400-us-stores-210632743.html?src=rss</link>
-      <pubDate>Sat, 10 Jan 2026 21:06:32 +0000</pubDate>
-      <guid isPermaLink="false">c7bbe15a-4721-4b9d-9bc6-a8f532c9fe34</guid>
-      <description>Your neighborhood GameStop might be on the chopping block, along with more than 400 other retail locations across the US. As first reported by Polygon, the retailer is pursuing a severe cost-saving measure by closing up several hundred physical locations. According to a blog that keeps track of GameStop closures, there are 410 locations that are confirmed to be closing or are already closed, along with another 11 that are reportedly also on their way, as of January 10.&#160;
-As Polygon indicated, these closings aren't much of a surprise considering GameStop's SEC filing for December 2025 indicated ...</description>
-    </item>
-    <item>
-      <title>The FCC is letting SpaceX launch 7,500 more Starlink satellites</title>
-      <link>https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites</link>
-      <pubDate>2026-01-10T16:06:30-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=860210</guid>
-      <description>The FCC approved SpaceX's plan to launch an additional 7,500 Gen2 Starlink satellites on Friday. That brings the total number of satellites the company will have in orbit to around 15,000 worldwide. As part of the approval, the government is also waiving previous requirements that prevented overlapping coverage and enhanced capacity. SpaceX originally sought approval [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Elon Musk Says In One Week He Will Fully Reveal Why Your X Timeline Is&#8230; Like That</title>
-      <link>https://gizmodo.com/elon-musk-says-in-one-week-he-will-fully-reveal-why-your-x-timeline-is-like-that-2000708652</link>
-      <pubDate>Sat, 10 Jan 2026 20:51:18 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708652</guid>
-      <description>He&#8217;s been claiming he would make the algorithm open source since 2022.</description>
     </item>
   </channel>
 </rss>
