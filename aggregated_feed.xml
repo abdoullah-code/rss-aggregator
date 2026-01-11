@@ -3,7 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 11 Jan 2026 21:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 22:24:31 GMT</lastBuildDate>
+    <item>
+      <title>Trump Administration Wants to Achieve &#8216;Pax Silica&#8217; Through AI. Here&#8217;s What That Means</title>
+      <link>https://gizmodo.com/trump-administration-wants-to-achieve-pax-silica-through-ai-heres-what-that-means-2000708775</link>
+      <pubDate>Sun, 11 Jan 2026 22:14:08 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000708775</guid>
+      <description>Trump administration's global influence strategy runs through the AI supply chain.</description>
+    </item>
+    <item>
+      <title>Google lance la vente en ligne par l&#8217;IA g&#233;n&#233;rative</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-01-11/google-lance-la-vente-en-ligne-par-l-ia-generative.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Sun, 11 Jan 2026 16:32:31 -0500</pubDate>
+      <guid isPermaLink="false">57316363ae6a3145aac3602fe8d03149</guid>
+      <description>R&#233;aliser des recherches de produits, acheter et &#233;changer avec les services clients des revendeurs, c&#8217;est la promesse de la derni&#232;re version professionnelle de Gemini, pr&#233;sent&#233;e dimanche par Google, qui esp&#232;re ainsi transformer la vente en ligne tout en gardant les utilisateurs sur son outil d&#8217;intelligence artificielle (IA).</description>
+    </item>
+    <item>
+      <title>Google's new commerce framework cranks up the heat on 'agentic shopping'</title>
+      <link>https://www.engadget.com/big-tech/googles-new-commerce-framework-cranks-up-the-heat-on-agentic-shopping-212433122.html?src=rss</link>
+      <pubDate>Sun, 11 Jan 2026 21:24:33 +0000</pubDate>
+      <guid isPermaLink="false">63d67752-5c5a-444c-867c-f6f80df37675</guid>
+      <description>To further push the limits of consumerism, Google has launched a new open standard for agentic commerce that's called Universal Commerce Protocol (UCP). In brief, it's a framework that combines the power of AI agents and online shopping platforms to help customers buy more things.
+Thanks to the introduction of UCP, Google is offering three new online shopping features. To start, Google's AI mode will have a new checkout feature that allows customers to buy eligible products from certain US retailers within Google Search. Currently, this feature works with Google Pay, but it will soon add PayPa...</description>
+    </item>
     <item>
       <title>DC&#8217;s Tournament Arc Comic Adds &#8216;Mortal Kombat&#8217; and Annabelle, Cuz Why Not</title>
       <link>https://gizmodo.com/dcs-tournament-arc-comic-adds-mortal-kombat-and-annabelle-cuz-why-not-2000708692</link>
@@ -31,28 +53,6 @@
       <pubDate>Sun, 11 Jan 2026 20:40:00 +0000</pubDate>
       <guid isPermaLink="false">nitDvPfNfts8mjsUDzDmYT</guid>
       <description>Minisforum beats Dell, HP and Lenovo to unveil first Ryzen AI 9 HX470 mini PC - AI X1 Pro-470 supports 12TB SSD storage and up to 128GB DDR5.</description>
-    </item>
-    <item>
-      <title>Walmart expands drone delivery to hundreds of new locations</title>
-      <link>https://mashable.com/article/walmart-drone-delivery-expansion</link>
-      <pubDate>Sun, 11 Jan 2026 19:56:33 +0000</pubDate>
-      <guid isPermaLink="false">02hSXP5VvQrajAUKtrmP8yW</guid>
-      <description>Walmart partners with Alphabet-owned Wing to add hundreds of new locations and build a coast-to-coast delivery network.</description>
-    </item>
-    <item>
-      <title>California's governor plans to set aside $200 million for state EV tax credits</title>
-      <link>https://www.engadget.com/transportation/evs/californias-governor-plans-to-set-aside-200-million-for-state-ev-tax-credits-194446449.html?src=rss</link>
-      <pubDate>Sun, 11 Jan 2026 19:44:46 +0000</pubDate>
-      <guid isPermaLink="false">ffdae5c4-5f46-45d3-ba72-cf4eedb6c993</guid>
-      <description>The loss of the federal EV tax credits may have been a huge blow to prospective buyers, but California wants to fill that gap for its residents. Governor Gavin Newsom's proposed budget for 2026-2027, which was released on Friday, includes a "light-duty zero-emission vehicle (ZEV) incentive program" that details a one-time infusion of $200 million.
-According to the budget summary, this incentive program is "a critical part of the Administration's strategy to keep ZEVs affordable and accessible for all." The proposed budget still has to make it through the state's legislature later this year, bu...</description>
-    </item>
-    <item>
-      <title>RIP Guy Moon, Composer of &#8216;Fairly Oddparents,&#8217; &#8216;Danny Phantom,&#8217; and More</title>
-      <link>https://gizmodo.com/rip-guy-moon-composer-of-fairly-oddparents-danny-phantom-and-more-2000708777</link>
-      <pubDate>Sun, 11 Jan 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000708777</guid>
-      <description>The music of Guy Moon spanned classic Nick cartoons, 'The Brady Bunch,' and 'Johnny Quest.'</description>
     </item>
   </channel>
 </rss>
