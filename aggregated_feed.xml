@@ -3,7 +3,84 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 12 Jan 2026 18:39:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 19:24:37 GMT</lastBuildDate>
+    <item>
+      <title>Trump&#8217;s EPA plans to ignore health affects of air pollution</title>
+      <link>https://techcrunch.com/2026/01/12/trumps-epa-plans-to-ignore-health-affects-of-air-pollution/</link>
+      <pubDate>Mon, 12 Jan 2026 19:23:13 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3081966</guid>
+      <description>The Trump administration is planning to stop assigning value to human life when analyzing the costs and benefits of air pollution controls.</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg announces new 'Meta Compute' initiative for its data center and AI projects</title>
+      <link>https://www.engadget.com/ai/mark-zuckerberg-announces-new-meta-compute-initiative-for-its-data-center-and-ai-projects-192100086.html?src=rss</link>
+      <pubDate>Mon, 12 Jan 2026 19:21:00 +0000</pubDate>
+      <guid isPermaLink="false">f1fcf9d8-ee66-4654-9d97-97fe34b6f480</guid>
+      <description>On the heels of Mark Zuckerberg announcing that Meta's former board member, Dina Powell McCormick, would be formally joining the company as president and vice chairman, the CEO has shared new details about her purview at the company. The executive will play a key role overseeing Meta's sprawling infrastructure investments as part of a newly announced initiative called Meta Compute."Meta is planning to build tens of gigawatts this decade, and hundreds of gigawatts or more over time," Zuckerberg said in an update. "How we engineer, invest, and partner to build this infrastructure will become a s...</description>
+    </item>
+    <item>
+      <title>Amazon says 97% of its devices can support Alexa+</title>
+      <link>https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/</link>
+      <pubDate>Mon, 12 Jan 2026 19:20:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3081937</guid>
+      <description>Amazon is counting on its Alexa footprint to help it gain traction in the consumer AI race.</description>
+    </item>
+    <item>
+      <title>Snag a Feature-Packed Gaming Headset for Under $100</title>
+      <link>https://www.wired.com/story/corsair-void-wireless-v2-deal-126/</link>
+      <pubDate>Mon, 12 Jan 2026 19:14:52 +0000</pubDate>
+      <guid isPermaLink="false">696530da6954b8e16236c6e6</guid>
+      <description>Corsair's updated Void Wireless sports Dolby Atmos and a lightweight, breathable fit.</description>
+    </item>
+    <item>
+      <title>Trump Administration Takes Stake in Major Critical Mineral Firm</title>
+      <link>https://gizmodo.com/trump-administration-takes-stake-in-major-critical-mineral-firm-2000709109</link>
+      <pubDate>Mon, 12 Jan 2026 19:05:16 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000709109</guid>
+      <description>The Pentagon is investing in Atlantic Alumina in a bid to boost U.S. gallium and alumina production and reduce reliance on China.</description>
+    </item>
+    <item>
+      <title>Right-Wing Influencers Have Flooded Minneapolis</title>
+      <link>https://www.wired.com/story/right-wing-influencers-have-flooded-minneapolis/</link>
+      <pubDate>Mon, 12 Jan 2026 19:03:15 +0000</pubDate>
+      <guid isPermaLink="false">69650e3b99c4d53ac57dbcac</guid>
+      <description>Clips from creators in Minnesota have become primary evidence in attempts from the right-wing to justify ICE's surge on American cities.</description>
+    </item>
+    <item>
+      <title>Hell Yeah, an Action Figure Wave of &#8216;Star Wars&#8217; Freaks</title>
+      <link>https://gizmodo.com/star-wars-black-series-taun-we-watto-geonosian-price-release-date-2000709197</link>
+      <pubDate>Mon, 12 Jan 2026 19:00:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000709197</guid>
+      <description>Dad, Taun We's here&#8212;as a 'Star Wars' Black Series action figure.</description>
+    </item>
+    <item>
+      <title>These are my favorite Switch 2 accessories</title>
+      <link>https://www.theverge.com/buying-guides/720160/best-switch-2-accessories</link>
+      <pubDate>2026-01-12T14:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=720160</guid>
+      <description>The Nintendo Switch 2 can be enjoyed right out of the box, but it&#8217;s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you&#8217;re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scratches, and [&#8230;]</description>
+    </item>
+    <item>
+      <title>Why your LLM bill is exploding &#8212; and how semantic caching can cut it by 73%</title>
+      <link>https://venturebeat.com/orchestration/why-your-llm-bill-is-exploding-and-how-semantic-caching-can-cut-it-by-73</link>
+      <pubDate>Mon, 12 Jan 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">6J2JZYb5Yp5vM3OHBjNm7y</guid>
+      <description>Our LLM API bill was growing 30% month-over-month. Traffic was increasing, but not that fast. When I analyzed our query logs, I found the real problem: Users ask the same questions in different ways."What's your return policy?," "How do I return something?", and "Can I get a refund?" were all hitting our LLM separately, generating nearly identical responses, each incurring full API costs.Exact-match caching, the obvious first solution, captured only 18% of these redundant calls. The same semantic question, phrased differently, bypassed the cache entirely.So, I implemented semantic caching base...</description>
+    </item>
+    <item>
+      <title>GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good</title>
+      <link>https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/</link>
+      <pubDate>Mon, 12 Jan 2026 18:48:22 +0000</pubDate>
+      <guid isPermaLink="false">69650ccc4975e7a7fa43a7b4</guid>
+      <description>The fundraiser for the ICE agent in the Renee Good killing has stayed online in seeming breach of GoFundMe&#8217;s own terms of service, prompting questions about selective enforcement.</description>
+    </item>
+    <item>
+      <title>Democrats should reject tech influence to win elections, Warren says</title>
+      <link>https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren</link>
+      <pubDate>2026-01-12T13:44:21-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=860706</guid>
+      <description>The path forward for the Democratic party after its 2024 defeat includes less tech influence and more populist policies, according to Sen. Elizabeth Warren (D-MA). Warren delivered this message in a speech at the National Press Club in Washington, DC on Monday, where she charted a vision for the future of a party that's still [&#8230;]</description>
+    </item>
     <item>
       <title>Test du Minisforum MS-02 Ultra : voici le PC le plus compact du monde avec une GeForce RTX 5060</title>
       <link>https://www.frandroid.com/test/2909463_test-du-minisforum-ms-02-ultra-voici-le-pc-le-plus-compact-du-monde-avec-une-geforce-rtx-5060</link>
@@ -59,6 +136,13 @@ Avec le HDB630, Sennheiser bouscule le sommet des casques Bluetooth haut de gamm
 Imagine you are searching for a new mattress online and find something surprising. The retailer displays an ad featuring a &#8220;Mattress Comfort Scale&#8221; running from 1 (soft) to 10 (firm), followed by the message that if your firmness preference is at either end, this mattress is not for you. Wait . . . what? A retailer telling someone not to buy its product? No way!...</description>
     </item>
     <item>
+      <title>Apple picks Google Gemini over ChatGPT for Siris AI overhaul</title>
+      <link>https://mashable.com/article/apple-google-gemini-openai-chatgpt-siri-ai-overhaul</link>
+      <pubDate>Mon, 12 Jan 2026 18:08:21 +0000</pubDate>
+      <guid isPermaLink="false">03ia2yaLel5dzqIuWER5oSF</guid>
+      <description>Apple has been trying to infuse AI into Siri for a few years now, and it'll continue with Google Gemini instead of ChatGPT.</description>
+    </item>
+    <item>
       <title>Apple Taps Google Gemini to Give Siri an AI Glow-Up</title>
       <link>https://gizmodo.com/apple-taps-google-gemini-to-give-siri-an-ai-glow-up-2000709013</link>
       <pubDate>Mon, 12 Jan 2026 18:05:02 +0000</pubDate>
@@ -73,6 +157,13 @@ Imagine you are searching for a new mattress online and find something surprisin
       <description>
 Dans le feuilleton du rachat de Warner Bros par Netflix, Paramount aime jouer les trouble-f&#234;tes. Apr&#232;s de multiples surench&#232;res, Paramount choisit d&#233;sormais la voie juridique pour conna&#238;tre les contours de l'accord. 
 </description>
+    </item>
+    <item>
+      <title>The Lego Icons Balrog Book Nook is a dollar away from its lowest price ever</title>
+      <link>https://mashable.com/article/jan-12-lego-icons-balrog-book-nook-deal</link>
+      <pubDate>Mon, 12 Jan 2026 18:03:36 +0000</pubDate>
+      <guid isPermaLink="false">04XS8OVZOZDFNlMlPbMsbf6</guid>
+      <description>The Lego Icons Balrog Book Nook is getting a rare price markdown at Amazon as of Jan. 12.</description>
     </item>
     <item>
       <title>11 Things We Learned From the &#8216;Stranger Things&#8217; Finale Documentary</title>
@@ -94,6 +185,13 @@ Dans le feuilleton du rachat de Warner Bros par Netflix, Paramount aime jouer le
       <pubDate>Mon, 12 Jan 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">9HpqTVgGwcR9Dj3ZjijJBh</guid>
       <description>The Samsung S84F OLED TV plummets in price thanks to Best Buy sale</description>
+    </item>
+    <item>
+      <title>Anker Solix just launched the E10 whole-home backup system, and preorders come with major perks</title>
+      <link>https://mashable.com/article/ces-2026-anker-solix-e10-release-preorder</link>
+      <pubDate>Mon, 12 Jan 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">004ecqhn7vY2BaiF8V6uXZV</guid>
+      <description>The Anker Solix E10 whole-home backup system is available for preorder with prices starting at $4,299.</description>
     </item>
     <item>
       <title>Pourquoi ce trou noir est devenu 30 fois plus lumineux ?</title>
@@ -133,6 +231,13 @@ In a letter to shareholders on Monday, Paramount CEO David Ellison said the comp
       <description>Apple a conclu un partenariat pluri-annuel avec Google, qui va fournir au fabricant de l&#8217;iPhone ses mod&#232;les d&#8217;intelligence artificielle (IA) g&#233;n&#233;rative Gemini pour am&#233;liorer ses fonctionnalit&#233;s d&#8217;IA, notamment une version renouvel&#233;e de l&#8217;assistant vocal Siri, selon une d&#233;claration commune lundi.</description>
     </item>
     <item>
+      <title>Connor Storrie, Hudson Williams, and Seventeens Joshua are the Golden Globes most viral meet-cute</title>
+      <link>https://mashable.com/article/heated-rivalry-hudson-williams-connor-storrie-joshua-hong-seventeen-golden</link>
+      <pubDate>Mon, 12 Jan 2026 17:47:10 +0000</pubDate>
+      <guid isPermaLink="false">00gw0peFMRPE9pWd82x7LjM</guid>
+      <description>'Heated Rivalry' stars Connor Storrie and Hudson Williams snapped a pic with Seventeen's Joshua backstage at the Golden Globes.</description>
+    </item>
+    <item>
       <title>Les soldes frappent cette barre de son Harman Kardon avec -110 &#8364; : pour de l&#8217;audio Dolby Atmos et DTS:X immersif &#224; bon prix</title>
       <link>https://www.frandroid.com/bons-plans/2939605_les-soldes-frappent-cette-barre-de-son-harman-kardon-avec-110-e-pour-de-laudio-dolby-atmos-et-dtsx-immersif-a-bon-prix</link>
       <pubDate>Mon, 12 Jan 2026 17:47:00 +0000</pubDate>
@@ -147,6 +252,13 @@ Gr&#226;ce aux Soldes et &#224; un code de r&#233;duction sur Rakuten, la barre 
       <pubDate>Mon, 12 Jan 2026 17:44:14 +0000</pubDate>
       <guid isPermaLink="false">yfJ3yuqkpypdrSySwZQTjJ</guid>
       <description>Best Buy just launched a massive winter sale, and I'm rounding up every deal worth buying, including up to 50% off TVs, laptops, appliances, headphones, and more.</description>
+    </item>
+    <item>
+      <title>Every foldable phone planned or rumored for 2026</title>
+      <link>https://mashable.com/article/every-foldable-phone-2026</link>
+      <pubDate>Mon, 12 Jan 2026 17:44:14 +0000</pubDate>
+      <guid isPermaLink="false">01vtK0U2mccTcH5OoD1fQ5j</guid>
+      <description>Foldable phones used to be a fantasy, then a niche, and now it's a real market category will lots of options.</description>
     </item>
     <item>
       <title>Developers have made $550 billion on Apple&#8217;s App Store since 2008</title>
@@ -175,229 +287,6 @@ Gr&#226;ce aux Soldes et &#224; un code de r&#233;duction sur Rakuten, la barre 
       <pubDate>Mon, 12 Jan 2026 17:30:59 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000709102</guid>
       <description>An experimental injection could restore the youthfulness of eggs taken from older women.</description>
-    </item>
-    <item>
-      <title>Can a Brain-Sensing Gaming Headset Finally Make Me a Pro Player?</title>
-      <link>https://gizmodo.com/neurable-hyperx-brain-sensing-gaming-headset-make-me-a-pro-player-2000709099</link>
-      <pubDate>Mon, 12 Jan 2026 17:20:54 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000709099</guid>
-      <description>I tried out Neurable and HyperX's new EEG gaming headset to become the best esports player I never wanted to be.</description>
-    </item>
-    <item>
-      <title>Universal Commerce Protocol : retenez ce standard Google, c&#8217;est la fin du shopping en ligne &#224; l&#8217;ancienne</title>
-      <link>https://www.frandroid.com/marques/google/2939731_universal-commerce-protocol-retenez-ce-standard-google-car-cest-la-fin-du-shopping-en-ligne-a-lancienne</link>
-      <pubDate>Mon, 12 Jan 2026 17:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/2939731_universal-commerce-protocol-retenez-ce-standard-google-car-cest-la-fin-du-shopping-en-ligne-a-lancienne</guid>
-      <description>
-Alors qu'OpenAI pousse son propre standard, Google r&#233;plique avec une force de frappe massive : l'int&#233;gration native de boutons d'achat dans Gemini et la Recherche. Google vient de d&#233;gainer l'Universal Commerce Protocol (UCP).
-</description>
-    </item>
-    <item>
-      <title>Paramount sues after Warner Bros. Discovery rejects its latest deal</title>
-      <link>https://www.theverge.com/news/860664/paramount-warner-bros-discovery-lawsuit-netflix-merger</link>
-      <pubDate>2026-01-12T12:19:34-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=860664</guid>
-      <description>Paramount is turning up the pressure on Warner Bros. Discovery in the wake of its merger with Netflix, as it's now suing the David Zaslav-helmed company in an attempt to get more details surrounding the agreement. In addition to the lawsuit, Paramount CEO David Ellison revealed that the company plans to nominate directors to WBD's [&#8230;]</description>
-    </item>
-    <item>
-      <title>Iranians offline for over 90 hours as digital blackout continues for fifth day &#8211; here's everything we know</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/iranians-offline-for-over-90-hours-as-digital-blackout-continues-for-fifth-day-heres-everything-we-know</link>
-      <pubDate>Mon, 12 Jan 2026 17:15:15 +0000</pubDate>
-      <guid isPermaLink="false">oEUu8z2kyc9UN8LL3GYabn</guid>
-      <description>Over 90 million people in Iran have been prevented from staying in touch and accessing news since Thursday as the wave of protests intensifies.</description>
-    </item>
-    <item>
-      <title>Google&#8217;s Gemini to power Apple&#8217;s AI features like Siri</title>
-      <link>https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/</link>
-      <pubDate>Mon, 12 Jan 2026 17:12:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3081878</guid>
-      <description>Apple and Google have embarked on a non-exclusive, multi-year partnership that will involve Apple using Gemini models and Google cloud technology for future foundational models.</description>
-    </item>
-    <item>
-      <title>This $14 DJI accessory is a vlogging and action cam essential &#8211; here's why</title>
-      <link>https://www.techradar.com/cameras/camera-accessories/this-usd14-dji-accessory-is-a-vlogging-and-action-cam-essential-heres-why</link>
-      <pubDate>Mon, 12 Jan 2026 17:10:00 +0000</pubDate>
-      <guid isPermaLink="false">nytJromsm58xLFhZ6TjQEf</guid>
-      <description>The cheap DJI Mic Series Mobile Receiver is a must-buy for levelling up audio quality vlogging with a phone</description>
-    </item>
-    <item>
-      <title>Hacking hub BreachForums hit by data breach - 324,000 accounts exposed</title>
-      <link>https://www.techradar.com/pro/security/hacking-hub-breachforums-hit-by-data-breach-324-000-accounts-exposed</link>
-      <pubDate>Mon, 12 Jan 2026 17:10:00 +0000</pubDate>
-      <guid isPermaLink="false">jHhrJrz4WBF3T8W6ac9gE</guid>
-      <description>Names and IP addresses of BreachForums users leaked - but most cannot be used.</description>
-    </item>
-    <item>
-      <title>&#8216;This is a very robust computer&#8230; but it&#8217;s very, very tiny&#8217; &#8212; it&#8217;s been 21 years since Steve Jobs revealed the Mac mini, and it&#8217;s now the only PC worth buying</title>
-      <link>https://www.techradar.com/computing/macs/this-is-a-very-robust-computer-but-its-very-very-tiny-its-been-21-years-since-steve-jobs-revealed-the-mac-mini-and-its-now-the-only-pc-worth-buying</link>
-      <pubDate>Mon, 12 Jan 2026 17:09:19 +0000</pubDate>
-      <guid isPermaLink="false">6qi3dMMFadXMLTy5ZiaXoX</guid>
-      <description>&#8216;We supply the computer, you supply the rest&#8217; &#8211; why 21 years after Steve Jobs announced the Mac mini it&#8217;s still giving Microsoft nightmares</description>
-    </item>
-    <item>
-      <title>'No company can stop nude AI images &#8211; but we&#8217;re the only ones being honest about it' &#8212; British AI rival to ChatGPT bans under-18s and refuses image generation over safety concerns</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/no-company-can-stop-nude-ai-images-but-were-the-only-ones-being-honest-about-it-british-ai-rival-to-chatgpt-bans-under-18s-and-refuses-image-generation-over-safety-concerns</link>
-      <pubDate>Mon, 12 Jan 2026 17:09:13 +0000</pubDate>
-      <guid isPermaLink="false">8EevPiaC4FNHxKjASFrAic</guid>
-      <description>A UK AI rival to ChatGPT warns that nude image generation can&#8217;t be made safe as Elon Musk&#8217;s Grok faces regulatory backlash over sexualized AI images.</description>
-    </item>
-    <item>
-      <title>Meta wipes over 500,000 Australian teen accounts in a single week &#8211; but says world-first social media crackdown is failing</title>
-      <link>https://www.techradar.com/computing/social-media/meta-wipes-over-500-000-australian-teen-accounts-in-a-single-week-but-says-world-first-social-media-crackdown-is-failing</link>
-      <pubDate>Mon, 12 Jan 2026 17:06:42 +0000</pubDate>
-      <guid isPermaLink="false">cTGYoncdh9sd6WiS634DmR</guid>
-      <description>We're a month into the social media ban in Australia, and Meta is reluctantly complying with it.</description>
-    </item>
-    <item>
-      <title>Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger</title>
-      <link>https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/</link>
-      <pubDate>Mon, 12 Jan 2026 17:06:12 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3081875</guid>
-      <description>Paramount has filed a lawsuit against Warner Bros. Discovery, demanding greater financial disclosure regarding Netflix's $82.7 billion acquisition.</description>
-    </item>
-    <item>
-      <title>Les SoundSticks 5 et l&#8217;Aura Studio 5 passent au Wi-Fi, voici ce que cela change</title>
-      <link>https://www.frandroid.com/marques/harman-kardon/2939959_les-soundsticks-5-et-laura-studio-5-passent-au-wi-fi-voici-ce-que-cela-change</link>
-      <pubDate>Mon, 12 Jan 2026 17:05:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/harman-kardon/2939959_les-soundsticks-5-et-laura-studio-5-passent-au-wi-fi-voici-ce-que-cela-change</guid>
-      <description>
-Harman Kardon a profit&#233; du CES 2026 pour lancer deux versions Wi-Fi de ses enceintes embl&#233;matiques, les SoundSticks 5 Wi-Fi et l&#8217;Aura Studio 5 Wi-Fi. L&#8217;id&#233;e est de proposer des alternatives aux mod&#232;les Bluetooth existants en ajoutant une connectivit&#233; r&#233;seau &#233;tendue.
-</description>
-    </item>
-    <item>
-      <title>Les 10 smartphones les plus populaires de la semaine sur Frandroid : les nouveaux smartphones Android font leur entr&#233;e</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-les-nouveaux-smartphones-android-font-leur-entree</link>
-      <pubDate>Mon, 12 Jan 2026 17:03:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-les-nouveaux-smartphones-android-font-leur-entree</guid>
-      <description>
-Pour notre top 10 des smartphones les plus populaires de la semaine sur Frandroid, les appareils sous Android rebattent les cartes. Xiaomi, OnePlus et Honor viennent titiller Samsung.
-</description>
-    </item>
-    <item>
-      <title>Apple's Siri AI will be powered by Gemini</title>
-      <link>https://www.engadget.com/ai/apples-siri-ai-will-be-powered-by-gemini-153636649.html?src=rss</link>
-      <pubDate>Mon, 12 Jan 2026 17:03:13 +0000</pubDate>
-      <guid isPermaLink="false">0c137b86-3266-40ef-84b5-5072d6f289af</guid>
-      <description>Apple and Google have confirmed reports that it will use Google Gemini&#8217;s models to help it power the new version of Siri and other generative AI features. CNBC first reported the news;  Apple and Google subsequently released a joint statement which reads:&#8220;Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google's Gemini models and cloud technology. These models will help power future Apple Intelligence features, including a more personalized Siri coming this year.After careful evaluation, Apple determined t...</description>
-    </item>
-    <item>
-      <title>As U.S-Canada relations strain, P.M. Mark Carney looks to rebuild ties with China</title>
-      <link>https://www.fastcompany.com/91472918/u-s-canada-relations-strain-p-m-mark-carney-looks-rebuild-ties-china</link>
-      <pubDate>2026-01-12T17:01:09</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91472918/u-s-canada-relations-strain-p-m-mark-carney-looks-rebuild-ties-china</guid>
-      <description>Prime Minister Mark Carney is scheduled to visit China this week, the first from a Canadian leader in almost 10 years.
-A leader of the Canadian government is visiting China this week for the first time in nearly a decade, a bid to rebuild his country&#8217;s fractured relations with the world&#8217;s second-largest economy &#8212; and reduce Canada&#8217;s dependence on the United States, its neighbor and until recently one of its most supportive and unswerving allies.The push by Prime Minster Mark Carney, who arrives Wednesday, is part of a major rethink as ties sour with the United States &#8212; the world&#8217;s No. 1 econom...</description>
-    </item>
-    <item>
-      <title>&#8216;Lee Cronin&#8217;s The Mummy&#8217; Takes the Monster Franchise In a Creepy New Direction</title>
-      <link>https://gizmodo.com/lee-cronin-mummy-trailer-2000709135</link>
-      <pubDate>Mon, 12 Jan 2026 17:00:50 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000709135</guid>
-      <description>From producer James Wan and Jason Blum comes a new vision of the Universal Monster.</description>
-    </item>
-    <item>
-      <title>Winter Olympics Free Streams: How to watch Milano Cortina 2026 from anywhere in the world, schedule, preview</title>
-      <link>https://www.techradar.com/how-to-watch/sport/winter-olympics-2026-live-stream-milano-cortina-2026</link>
-      <pubDate>Mon, 12 Jan 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LmPVNa8dMDsmABLPjijQ7N</guid>
-      <description>All the ways to watch Winter Olympics 2026 live streams online from anywhere for FREE, as Milano Cortina in north Italy hosts the biggest deal in winter sport.</description>
-    </item>
-    <item>
-      <title>La F&#233;d&#233;ration Fran&#231;aise de Tennis (FFT) victime d&#8217;une cyberattaque, les donn&#233;es de milliers de licenci&#233;s sont dans la nature</title>
-      <link>https://www.01net.com/actualites/la-federation-francaise-de-tennis-fft-victime-dun-cyberattaque-les-donnees-de-milliers-de-licencies-sont-dans-la-nature.html</link>
-      <pubDate>Mon, 12 Jan 2026 16:59:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1319553</guid>
-      <description>Une cyberattaque a touch&#233; les syst&#232;mes informatiques de la F&#233;d&#233;ration Fran&#231;aise de Tennis. Les donn&#233;es personnelles des adh&#233;rents ont &#233;t&#233; d&#233;rob&#233;es.</description>
-    </item>
-    <item>
-      <title>DJI&#8217;s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103</title>
-      <link>https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale</link>
-      <pubDate>2026-01-12T11:53:39-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=860590</guid>
-      <description>If you&#8217;ve got a recent smartphone, chances are it&#8217;s got a really good camera &#8212; and don&#8217;t you want to take the best photos you can? One way to do that is via the DJI Osmo Mobile 7P Gimbal Stabilizer, a selfie stick that includes a tripod, a telescoping arm, and (perhaps best of all) [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Nikon Z6 III is now $700 cheaper than the Sony A7 V and Canon EOS R6 Mark III with this record-breaking deal</title>
-      <link>https://www.techradar.com/cameras/mirrorless-cameras/the-nikon-z6-iii-is-now-usd700-cheaper-than-the-sony-a7-v-and-canon-eos-r6-mark-iii-with-this-record-breaking-deal</link>
-      <pubDate>Mon, 12 Jan 2026 16:53:33 +0000</pubDate>
-      <guid isPermaLink="false">S8HJqnt3hYFfxJ2XkH92tU</guid>
-      <description>The Nikon Z6 III returns to a record-low price at Adorama</description>
-    </item>
-    <item>
-      <title>Fnac et Darty vendent au rabais de nombreux produits Tech lors des soldes d&#8217;hiver 2026</title>
-      <link>https://www.frandroid.com/bons-plans/2930751_fnac-et-darty-vendent-au-rabais-de-nombreux-produits-tech-lors-des-soldes-dhiver-2026</link>
-      <pubDate>Mon, 12 Jan 2026 16:50:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2930751_fnac-et-darty-vendent-au-rabais-de-nombreux-produits-tech-lors-des-soldes-dhiver-2026</guid>
-      <description>
-Fnac et Darty n'h&#233;sitent pas &#224; brader de nombreux produits Tech pendant les soldes d'hiver 2026. Les deux enseignes pratiquent des prix bien bas sur des produits populaires. Pour vous y retrouver, voici les offres qui valent r&#233;ellement le coup. 
-</description>
-    </item>
-    <item>
-      <title>Soldes d&#8217;hiver 2026 : voici les meilleures offres en DIRECT avant la fin de la premi&#232;re d&#233;marque</title>
-      <link>https://www.frandroid.com/bons-plans/2931731_soldes-dhiver-2026-voici-les-meilleures-offres-en-direct-avant-la-fin-de-la-premiere-demarque</link>
-      <pubDate>Mon, 12 Jan 2026 16:49:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2931731_soldes-dhiver-2026-voici-les-meilleures-offres-en-direct-avant-la-fin-de-la-premiere-demarque</guid>
-      <description>
-Les soldes d'hiver 2026 ont d&#233;but&#233; la semaine derni&#232;re et les offres continuent de tomber sur Amazon, Fnac, Darty ou encore Cdiscount et Boulanger. Smartphones, PC portables, t&#233;l&#233;viseurs, tablettes ou encore casques et &#233;couteurs sans fil&#8230; Voici les meilleures offres Tech s&#233;lectionn&#233;es par la r&#233;daction pour l'occasion.
-</description>
-    </item>
-    <item>
-      <title>ExpressVPN deal: Two-year plans are up to 78 percent off</title>
-      <link>https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-78-percent-off-180602243.html?src=rss</link>
-      <pubDate>Mon, 12 Jan 2026 16:45:35 +0000</pubDate>
-      <guid isPermaLink="false">ad6bc22c-2c6b-4ec4-832c-d6d9af119838</guid>
-      <description>If you're looking to up your privacy game on the internet in the new year, you can do so for a little less than usual thanks to ExpressVPN's latest deal. Its two-year plans are up to 78 percent off right now: the Advanced tier is on sale for $101 for two years, plus four additional free months. That works out to $3.59 per month during the promotional period.
-We&#8217;ve consistently liked ExpressVPN because it&#8217;s fast, easy to use and widely available across a large global server network. In fact, it's our current pick for best premium VPN. One of the biggest drawbacks has always been its high cost, ...</description>
-    </item>
-    <item>
-      <title>Le Samsung Galaxy S25 FE profite des soldes d&#8217;hiver pour s&#8217;afficher &#224; un super prix</title>
-      <link>https://www.frandroid.com/bons-plans/2850197_le-samsung-galaxy-s25-fe-profite-des-soldes-dhiver-pour-safficher-a-un-super-prix</link>
-      <pubDate>Mon, 12 Jan 2026 16:45:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2850197_le-samsung-galaxy-s25-fe-profite-des-soldes-dhiver-pour-safficher-a-un-super-prix</guid>
-      <description>
-Lanc&#233; en fin d'ann&#233;e derni&#232;re, le Samsung Galaxy S25 FE profite actuellement des soldes d'hiver pour se faire brader : 529 euros au lieu de 749 euros chez Boulanger, via reprise. Il y a aussi un pack tr&#232;s int&#233;ressant, avec une Galaxy Fit 3 offerte.
-</description>
-    </item>
-    <item>
-      <title>Amazon lance une vague de promotions juste avant la 2e d&#233;marque des soldes</title>
-      <link>https://www.frandroid.com/bons-plans/2933045_amazon-lance-une-vague-de-promotions-juste-avant-la-2e-demarque-des-soldes</link>
-      <pubDate>Mon, 12 Jan 2026 16:44:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2933045_amazon-lance-une-vague-de-promotions-juste-avant-la-2e-demarque-des-soldes</guid>
-      <description>
-Les soldes d&#8217;hiver battent leur plein et, m&#234;me si Amazon n'indique pas clairement sa participation, le g&#233;ant am&#233;ricain continue de brader un tas de produits Tech alors que la deuxi&#232;me d&#233;marque approche. C&#8217;est le moment id&#233;al pour en profiter et bien lancer l&#8217;ann&#233;e 2026.
-</description>
-    </item>
-    <item>
-      <title>Rhea Seehorn won her first Golden Globe for Pluribus &#8211; but she should have won it for this Netflix show instead</title>
-      <link>https://www.techradar.com/streaming/apple-tv-plus/rhea-seehorn-won-her-first-golden-globe-for-pluribus-but-she-should-have-won-it-for-this-netflix-show-instead</link>
-      <pubDate>Mon, 12 Jan 2026 16:44:22 +0000</pubDate>
-      <guid isPermaLink="false">BhLHudKb6KEdJ2crTMEN5e</guid>
-      <description>Rhea Seehorn won her first Golden Globe in 2026, but it should've happened a lot sooner.</description>
-    </item>
-    <item>
-      <title>DS a fait n&#8217;importe quoi avec sa derni&#232;re voiture &#233;lectrique, et &#231;a m&#8217;a plu</title>
-      <link>https://www.frandroid.com/marques/ds-automobiles/2939593_ds-a-fait-nimporte-quoi-avec-sa-derniere-voiture-electrique-et-ca-ma-plu</link>
-      <pubDate>Mon, 12 Jan 2026 16:43:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/ds-automobiles/2939593_ds-a-fait-nimporte-quoi-avec-sa-derniere-voiture-electrique-et-ca-ma-plu</guid>
-      <description>
-Pour soutenir le lancement de sa derni&#232;re voiture &#233;lectrique et capitaliser sur sa participation au championnat de Formula E, DS a pr&#233;sent&#233; le concept &#171; Taylor made N&#176;4&#160;Concept &#187;, vision r&#234;v&#233;e de la N&#176;4 E-Tense par un des pilotes de l'&#233;curie. Un concept aussi d&#233;lirant que sans lendemain, mais qui nous a plu.
-</description>
-    </item>
-    <item>
-      <title>En 2000, la puissance de la PlayStation 2 faisait peur &#224; l&#8217;arm&#233;e am&#233;ricaine</title>
-      <link>https://www.frandroid.com/marques/sony/2939405_en-2000-la-puissance-de-la-playstation-2-faisait-peur-a-larmee-americaine</link>
-      <pubDate>Mon, 12 Jan 2026 16:42:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/2939405_en-2000-la-puissance-de-la-playstation-2-faisait-peur-a-larmee-americaine</guid>
-      <description>
-Le cr&#233;ateur des &#233;v&#233;nements de Final Fantasy 9 r&#233;v&#232;le qu'il a eu un mal fou &#224; recevoir une PS2 pendant le d&#233;veloppement du jeu.
-</description>
-    </item>
-    <item>
-      <title>Just Days From SLS Rollout, Here&#8217;s the Latest Update for NASA&#8217;s Artemis 2 Mission</title>
-      <link>https://gizmodo.com/just-days-from-sls-rollout-heres-the-latest-update-for-nasas-artemis-2-mission-2000709107</link>
-      <pubDate>Mon, 12 Jan 2026 16:40:38 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000709107</guid>
-      <description>With launch potentially just three weeks away, the agency is working tirelessly to get the SLS rocket, Orion spacecraft, and the Artemis 2 crew ready for liftoff.</description>
     </item>
   </channel>
 </rss>
