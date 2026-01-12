@@ -3,6 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 12 Jan 2026 04:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 05:33:56 GMT</lastBuildDate>
+    <item>
+      <title>inDrive turns to ads and groceries to diversify revenue</title>
+      <link>https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/</link>
+      <pubDate>Mon, 12 Jan 2026 05:30:13 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3081767</guid>
+      <description>Advertising on inDrive is being rolled out across its top 20 markets following mid-2025 tests.</description>
+    </item>
+    <item>
+      <title>Hurdle hints and answers for January 12, 2026</title>
+      <link>https://mashable.com/article/hurdle-hints-answers-january-12-2026</link>
+      <pubDate>Mon, 12 Jan 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05PTHG6K5Mb2CYhdoHEobIp</guid>
+      <description>Hints and answers to today's Hurdle all in one place.</description>
+    </item>
+    <item>
+      <title>Moon phase today: What the Moon will look like on January 12</title>
+      <link>https://mashable.com/article/moon-phase-today-jan-12</link>
+      <pubDate>Mon, 12 Jan 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01Bg6XCanhj5X1VEsfBnh3W</guid>
+      <description>See the Moon phase expected for January 12, 2025 as well as when the next Full Moon is expected.</description>
+    </item>
   </channel>
 </rss>
