@@ -3,34 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 15 Jan 2026 04:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 05:30:28 GMT</lastBuildDate>
+    <item>
+      <title>Verizon outage may be impacting 911 calls</title>
+      <link>https://mashable.com/article/verizon-outage-911-down-call-emergency</link>
+      <pubDate>Thu, 15 Jan 2026 04:07:24 +0000</pubDate>
+      <guid isPermaLink="false">06vO9QTQ8KcWtv2KbwKLoNk</guid>
+      <description>The Verizon network outage may be impacting 911 calls, with multiple emergency services warning that such calls may not connect.</description>
+    </item>
     <item>
       <title>Verizon says its service is back after a 10-hour outage</title>
       <link>https://www.engadget.com/big-tech/verizon-says-its-service-is-back-after-a-10-hour-outage-183048229.html?src=rss</link>
       <pubDate>Thu, 15 Jan 2026 03:39:40 +0000</pubDate>
       <guid isPermaLink="false">d17d0339-fd27-40dc-a0a2-c153c9fb8655</guid>
       <description>Verizon&#8217;s network is experiencing technical issues that are impacting calls and wireless data. Verizon customers on X have reported seeing &#8220;SOS&#8221; rather than the traditional network bars on their smartphones, and even the network provider&#8217;s own status page struggled to load, likely due to the number of customers trying to access it.Based on the experience of Verizon users on Engadget&#8217;s staff, the services that are impacted appear to be calls and wireless data. Text messages continue to be delivered normally, at least for some users. On DownDetector, reports of a Verizon outage started growing a...</description>
-    </item>
-    <item>
-      <title>Forget the remaster &#8212; 2000's Deus Ex is still a masterpiece that you should play in its original form</title>
-      <link>https://www.techradar.com/gaming/forget-the-remaster-2000s-deus-ex-is-still-a-masterpiece-that-you-should-play-in-its-original-form</link>
-      <pubDate>Thu, 15 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">xgNCL2aPm5s88fQVQugsni</guid>
-      <description>And it runs on Valve's Steam Deck</description>
-    </item>
-    <item>
-      <title>X dit bloquer le &#171;&#160;d&#233;shabillage&#160;&#187; des &#171;&#160;personnes r&#233;elles&#160;&#187; avec Grok</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-01-14/x-dit-bloquer-le-deshabillage-des-personnes-reelles-avec-grok.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 14 Jan 2026 21:56:52 -0500</pubDate>
-      <guid isPermaLink="false">18dcb2f5474633ffa9e3ba0180858137</guid>
-      <description>Le r&#233;seau social X d&#8217;Elon Musk a annonc&#233; mercredi avoir d&#233;ploy&#233; des mesures pour &#171;&#160;emp&#234;cher&#160;&#187; son outil d&#8217;intelligence artificielle (IA) Grok de &#171;&#160;d&#233;shabiller&#160;&#187; des &#171;&#160;personnes r&#233;elles&#160;&#187;, mais doit encore convaincre les autorit&#233;s de plusieurs pays qui ont ouvert des enqu&#234;tes.</description>
-    </item>
-    <item>
-      <title>Mira Murati&#8217;s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI</title>
-      <link>https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/</link>
-      <pubDate>Thu, 15 Jan 2026 02:16:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3082941</guid>
-      <description>The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive.</description>
     </item>
   </channel>
 </rss>
