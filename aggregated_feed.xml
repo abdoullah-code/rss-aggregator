@@ -3,7 +3,85 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 15 Jan 2026 19:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:31:37 GMT</lastBuildDate>
+    <item>
+      <title>Digg Relaunches From the Grave With Some &#8216;AI Enhancements&#8217;</title>
+      <link>https://gizmodo.com/digg-relaunches-from-the-grave-with-some-ai-enhancements-2000710736</link>
+      <pubDate>Thu, 15 Jan 2026 20:25:58 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000710736</guid>
+      <description>For all the people who've abandoned or been kicked off Reddit, your Bluesky moment has arrived.</description>
+    </item>
+    <item>
+      <title>Verizon Is Slipping Customers 20 Bucks to Pay for Yesterday&#8217;s Outage</title>
+      <link>https://gizmodo.com/verizon-is-slipping-customers-20-bucks-to-pay-for-yesterdays-outage-2000710778</link>
+      <pubDate>Thu, 15 Jan 2026 20:00:20 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000710778</guid>
+      <description>The carrier is offering a $20 credit to customers affected by a widespread and hours-long service outage on Wednesday.</description>
+    </item>
+    <item>
+      <title>This is the most interesting automotive tech I saw at CES &#8212; and the ones you should be watching in 2026</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/this-is-the-most-interesting-automotive-tech-i-saw-at-ces-and-the-ones-you-should-be-watching-in-2026</link>
+      <pubDate>Thu, 15 Jan 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">XoNLrP5EjmpTorwAobkiuG</guid>
+      <description>From Qualcomm to Waymo, car companies and their partners are doing autos differently in 2026.</description>
+    </item>
+    <item>
+      <title>Les astronomes pensent enfin savoir ce que sont les &#171; points rouges &#187; rep&#233;r&#233;s par le t&#233;lescope James-Webb</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/cosmologie-astronomes-pensent-enfin-savoir-ce-sont-points-rouges-reperes-telescope-james-webb-130212/#xtor%3DRSS-8</link>
+      <pubDate>Thu, 15 Jan 2026 20:59:31 +0100</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/cosmologie-astronomes-pensent-enfin-savoir-ce-sont-points-rouges-reperes-telescope-james-webb-130212/#xtor%3DRSS-8</guid>
+      <description>Des &#171; petits points rouges &#187; dans les images renvoy&#233;es par le t&#233;lescope spatial James-Webb. Plusieurs mois que les astronomes s&#8217;y cassent les dents. Mais de nouvelles donn&#233;es pourraient enfin lever le voile. Ou laisser &#233;clore le papillon cosmique&#8201;?</description>
+    </item>
+    <item>
+      <title>Amazon&#8217;s New World: Aeternum MMO will shut down next year</title>
+      <link>https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted</link>
+      <pubDate>2026-01-15T14:52:25-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=862892</guid>
+      <description>Amazon has announced that the servers for New World: Aeternum, one of the company's MMOs, will be shut down on January 31st, 2027. The game will also be delisted and no longer available for purchase starting today, January 15th. Last year, Amazon announced that it would be pivoting away from MMOs to put more of [&#8230;]</description>
+    </item>
+    <item>
+      <title>Flaw in 17 Google Fast Pair audio devices could let hackers eavesdrop</title>
+      <link>https://www.engadget.com/cybersecurity/flaw-in-17-google-fast-pair-audio-devices-could-let-hackers-eavesdrop-194613456.html?src=rss</link>
+      <pubDate>Thu, 15 Jan 2026 19:46:13 +0000</pubDate>
+      <guid isPermaLink="false">8404957d-0b0f-4df4-be02-abfa15084dd2</guid>
+      <description>Now would be a good time to update all your Bluetooth audio devices. On Thursday, Wired reported on a security flaw in 17 headphone and speaker models that could allow hackers to access your devices, including their microphones. The vulnerability stems from a faulty implementation of Google's one-tap (Fast Pair) protocol.Security researchers at Belgium's KU Leuven University Computer Security and Industrial Cryptography group, who discovered the security hole, named the flaw WhisperPair. They say a hacker within Bluetooth range would only require the accessory's (easily attainable) device mode...</description>
+    </item>
+    <item>
+      <title>Claude Code just got updated with one of the most-requested user features</title>
+      <link>https://venturebeat.com/orchestration/claude-code-just-got-updated-with-one-of-the-most-requested-user-features</link>
+      <pubDate>Thu, 15 Jan 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="false">7J6Mc1KRAJv7cWPQwJSCRq</guid>
+      <description>Anthropic's open source standard, the Model Context Protocol (MCP), released in late 2024, allows users to connect AI models and the agents atop them to external tools in a structured, reliable format. It is the engine behind Anthropic's hit AI agentic programming harness, Claude Code, allowing it to access numerous functions like web browsing and file creation immediately when asked.But there was one problem: Claude Code typically had to "read" the instruction manual for every single tool available, regardless of whether it was needed for the immediate task, using up the available context tha...</description>
+    </item>
+    <item>
+      <title>Elon Musk&#8217;s Grok &#8216;Undressing&#8217; Problem Isn&#8217;t Fixed</title>
+      <link>https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/</link>
+      <pubDate>Thu, 15 Jan 2026 19:30:14 +0000</pubDate>
+      <guid isPermaLink="false">6968fedb43f4ea26029fe444</guid>
+      <description>X has placed more restrictions on Grok&#8217;s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue.</description>
+    </item>
+    <item>
+      <title>AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation</title>
+      <link>https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/</link>
+      <pubDate>Thu, 15 Jan 2026 19:28:45 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3083094</guid>
+      <description>Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares.</description>
+    </item>
+    <item>
+      <title>Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech</title>
+      <link>https://www.wired.com/story/oneplus-watch-3-deal-126/</link>
+      <pubDate>Thu, 15 Jan 2026 19:24:56 +0000</pubDate>
+      <guid isPermaLink="false">6969252258f4df04883f0e19</guid>
+      <description>Save some cash on this Wear OS smartwatch with a revolutionary battery that can go for five days on a charge (16 days on low-power mode).</description>
+    </item>
+    <item>
+      <title>A &#8216;chilling effect&#8217;: Press freedom advocates denounce the raid on a Washington Post journalist&#8217;s home</title>
+      <link>https://www.fastcompany.com/91475709/raid-washington-post-journalist-press-advocates</link>
+      <pubDate>2026-01-15T19:18:36</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91475709/raid-washington-post-journalist-press-advocates</guid>
+      <description>The action &#8216;signals a growing assault on independent reporting and undermines the First Amendment.&#8217;
+If the byproduct of a raid on a Washington Post journalist&#8217;s home is to deter probing reporting of government action, the Trump administration could hardly have chosen a more compelling target.</description>
+    </item>
     <item>
       <title>Save a massive $400 on the powerful and four-star-rated Dell 16 Plus laptop at Best Buy</title>
       <link>https://www.techradar.com/computing/windows-laptops/save-a-massive-usd400-on-the-powerful-and-four-star-rated-dell-16-plus-laptop-at-best-buy</link>
@@ -24,6 +102,13 @@
       <pubDate>Thu, 15 Jan 2026 19:07:27 +0000</pubDate>
       <guid isPermaLink="false">fcc3c5c6-3d7d-4c24-b666-590fd12d156f</guid>
       <description>YouTube channel Hardware Unboxed is reporting that NVIDIA has &#8220;effectively&#8221; discontinued the RTX 5070 Ti and 5060 Ti 16GB due to the ongoing memory crunch. In its most recent video, the channel states ASUS &#8220;explicitly&#8221; told it the RTX 5070 Ti is &#8220;currently facing a supply shortage.&#8221; As a result, the company has &#8220;placed the model into end of life status,&#8221; and no longer plans to produce it. Hardware Unboxed also spoke to retailers in Australia, who told the channel the 5070 Ti is &#8220;no longer available to purchase from partners and distributors,&#8221; adding they expect that to be the case throughout a...</description>
+    </item>
+    <item>
+      <title>Instagram is nostalgic for 2016 again (yes, really)</title>
+      <link>https://mashable.com/article/2016-instagram-tiktok-trend-nostalgia-photo-dumps</link>
+      <pubDate>Thu, 15 Jan 2026 19:02:18 +0000</pubDate>
+      <guid isPermaLink="false">05BsIugagoeSK0SW0GRHyWV</guid>
+      <description>Everyone seems to miss 2016. And that's why you're seeing old photo dumps all over your Instagram feed.</description>
     </item>
     <item>
       <title>Amazon is making a Fallout Shelter competition reality TV show</title>
@@ -59,248 +144,6 @@
       <pubDate>Thu, 15 Jan 2026 18:47:52 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3083123</guid>
       <description>Iran&#8217;s government-imposed internet shutdown enters its second week as authorities continue their violent crackdown on protesters.</description>
-    </item>
-    <item>
-      <title>Pixel 10a&#160;: Google r&#233;serverait une surprise qu&#8217;on n&#8217;attendait plus</title>
-      <link>https://www.01net.com/actualites/pixel-10a-google-reserverait-une-surprise-quon-nattendait-plus.html</link>
-      <pubDate>Thu, 15 Jan 2026 18:31:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1320454</guid>
-      <description>Alors qu'on s'habituait aux hausses de tarifs, Google s'appr&#234;terait &#224; baisser le prix de son futur smartphone et &#224; avancer sa sortie. Malheureusement, cette g&#233;n&#233;rosit&#233; cacherait des compromis techniques.</description>
-    </item>
-    <item>
-      <title>The Dogbert Puppet From the Lost &#8216;Dilbert&#8217; Live-Action TV Show Is Haunting</title>
-      <link>https://gizmodo.com/the-dogbert-puppet-from-the-lost-dilbert-live-action-tv-show-is-haunting-2000710684</link>
-      <pubDate>Thu, 15 Jan 2026 18:30:18 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000710684</guid>
-      <description>"I think they spent upwards of $20, $25 on it," Scott Adams complained in 1999.</description>
-    </item>
-    <item>
-      <title>OpenAI Invests in Sam Altman&#8217;s New Brain-Tech Startup Merge Labs</title>
-      <link>https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/</link>
-      <pubDate>Thu, 15 Jan 2026 18:24:51 +0000</pubDate>
-      <guid isPermaLink="false">69690b5f02bfb33402ce33e6</guid>
-      <description>Merge Labs has emerged from stealth with $252 million in funding from OpenAI and others. It aims to use ultrasound to read from and write to the brain.</description>
-    </item>
-    <item>
-      <title>Democrats push FTC to investigate Trump Mobile</title>
-      <link>https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter</link>
-      <pubDate>2026-01-15T13:23:56-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=862821</guid>
-      <description>Elizabeth Warren and other Democrat lawmakers have written an open letter to the Federal Trade Commission (FTC) asking for an investigation into alleged "false advertising and deceptive practices" from Trump Mobile. The company first announced its T1 Phone more than six months ago, but is yet to ship a single phone to buyers. The letter [&#8230;]</description>
-    </item>
-    <item>
-      <title>Verizon outage today: Verizon reveals how to fix ongoing issues, offers $20 credit</title>
-      <link>https://mashable.com/article/verizon-outage-today-phone-fix-account-credit-claim-app</link>
-      <pubDate>Thu, 15 Jan 2026 18:23:24 +0000</pubDate>
-      <guid isPermaLink="false">06yRAwfVH9GG13xdk2GJtT1</guid>
-      <description>Verizon issues an apology following mass outage, offers $20 credit to affected customers to cover lost service time.</description>
-    </item>
-    <item>
-      <title>Minnesota Is Just the Beginning. California and New York Are &#8216;Next&#8217;</title>
-      <link>https://www.wired.com/story/california-and-new-york-are-next/</link>
-      <pubDate>Thu, 15 Jan 2026 18:22:33 +0000</pubDate>
-      <guid isPermaLink="false">69650f4fe5052945f8ff47e1</guid>
-      <description>The Trump administration appears to be planning to leverage the same playbook used in Minnesota to go after other blue states.</description>
-    </item>
-    <item>
-      <title>Verizon outage cause revealed</title>
-      <link>https://mashable.com/article/verizon-outage-cause-revealed</link>
-      <pubDate>Thu, 15 Jan 2026 18:16:43 +0000</pubDate>
-      <guid isPermaLink="false">04AvUolKa31Ky3RlQalD1tv</guid>
-      <description>Verizon issues first statement about the cause of massive, countrywide outage.</description>
-    </item>
-    <item>
-      <title>Google Meet can now automatically detect when you're in a conference room</title>
-      <link>https://www.techradar.com/pro/google-meet-can-now-automatically-detect-when-youre-in-a-conference-room</link>
-      <pubDate>Thu, 15 Jan 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">HdGuAyArR36YEtVyWuXkpM</guid>
-      <description>Google plans on stopping all unnecessary echoes in Meet by getting users to join via Companion Mode automatically.</description>
-    </item>
-    <item>
-      <title>Here are the best AirPods deals you can get right now</title>
-      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
-      <pubDate>2026-01-15T13:14:25-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
-      <description>If you know where to look, you can often score deals on Apple&#8217;s ever-expanding AirPods lineup. Both the AirPods Max and AirPods 4 (with and without ANC) now consistently receive discounts, as do the newer AirPods Pro 3. And while recent shopping events like Black Friday and Cyber Monday delivered some of the steepest discounts [&#8230;]</description>
-    </item>
-    <item>
-      <title>Amazon is buying copper harvested by bacteria for its data centers</title>
-      <link>https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers</link>
-      <pubDate>2026-01-15T13:13:49-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=862820</guid>
-      <description>Amazon's data centers will reportedly utilize copper from a mine in Arizona that's leaching metal from ores using microorganisms, the Wall Street Journal reports. Amazon Web Services will be the first customer for Nuton Technologies, which developed the "bioleaching" technology. AWS will also be providing "cloud-based data and analytics support," helping to optimize Nuton's mining [&#8230;]...</description>
-    </item>
-    <item>
-      <title>2026 will be the year of the AI living companion</title>
-      <link>https://www.fastcompany.com/91475769/2026-will-be-the-year-of-the-ai-living-companion</link>
-      <pubDate>2026-01-15T18:13:03</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91475769/2026-will-be-the-year-of-the-ai-living-companion</guid>
-      <description>When designed thoughtfully for the home, it can be a true partner in daily life.
-2025 unleashed the enormous potential of AI. According to Pew Research, 62% of adults say they interact with AI at least several times a week, and 73% of U.S. adults say they are at least a little bit willing to let AI assist with their day-to-day activities.</description>
-    </item>
-    <item>
-      <title>Freebox Delta&#160;: le player Devialet n&#8217;est plus remplac&#233; en cas de panne</title>
-      <link>https://www.01net.com/actualites/freebox-delta-le-player-devialet-nest-plus-remplace-en-cas-de-panne.html</link>
-      <pubDate>Thu, 15 Jan 2026 18:06:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1320504</guid>
-      <description>C'en est bel et bien termin&#233; pour le player Devialet fourni avec la Freebox Delta. Si l'appareil tombe en panne, le fournisseur d'acc&#232;s n'en propose plus le remplacement &#8212; du moins chez ceux qui l'avaient achet&#233; plein pot. Il faudra s'orienter sur un autre produit.</description>
-    </item>
-    <item>
-      <title>Pijama wants to bring more indie films to a global audience</title>
-      <link>https://www.theverge.com/entertainment/862676/pijama-streaming-movies</link>
-      <pubDate>2026-01-15T13:05:48-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=862676</guid>
-      <description>Every year, countless independent films without distribution deals make their debuts on the festival circuit only to disappear into the ether before the general public has had a chance to see them. Pijama, a new VOD streaming service, is trying to change that. Created by filmmakers (and brothers) Juan de Dio and Pablo Larra&#237;n - [&#8230;]</description>
-    </item>
-    <item>
-      <title>007 First Light : quelle configuration pr&#233;voir sur PC ?</title>
-      <link>https://www.frandroid.com/guide-dachat/2944025_007-first-light-quelle-configuration-prevoir-sur-pc</link>
-      <pubDate>Thu, 15 Jan 2026 18:02:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/2944025_007-first-light-quelle-configuration-prevoir-sur-pc</guid>
-      <description>
-Un nouvel action-aventure dans l'univers James Bond, &#231;a vous dit ? Le prochain AAA de IO Interactive sortira ce printemps et d&#233;voile d&#232;s maintenant les configurations n&#233;cessaires pour y jouer sur PC.
-</description>
-    </item>
-    <item>
-      <title>&#8216;Starfleet Academy&#8217; Begins With Something Old and Something New</title>
-      <link>https://gizmodo.com/starfleet-academy-premiere-recap-holly-hunter-paul-giamatti-2000710349</link>
-      <pubDate>Thu, 15 Jan 2026 18:00:27 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000710349</guid>
-      <description>'Kids These Days' and 'Beta Test' reflect the push and pull between 'Starfleet Academy' and its twin desires of feeling like 'Star Trek' while also trying something new.</description>
-    </item>
-    <item>
-      <title>An OpenAI safety research lead departed for Anthropic</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone</link>
-      <pubDate>2026-01-15T13:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=862402</guid>
-      <description>One of the most controversial issues in the AI industry over the past year was what to do when a user displays signs of mental health struggles in a chatbot conversation. OpenAI's head of that type of safety research, Andrea Vallone, has now joined Anthropic. "Over the past year, I led OpenAI's research on a [&#8230;]</description>
-    </item>
-    <item>
-      <title>These nine hidden Nintendo Switch 2 features can help your console last longer, save you money, and more</title>
-      <link>https://www.techradar.com/gaming/nintendo/these-nine-hidden-nintendo-switch-2-features-can-help-your-console-last-longer-save-you-money-and-more</link>
-      <pubDate>Thu, 15 Jan 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">mkhZro4verPbXwiRgcf8iK</guid>
-      <description>Make the most of your Nintendo Switch 2 with this selection of top tips from someone that has been testing the console since launch.</description>
-    </item>
-    <item>
-      <title>The hidden iPhone setting that instantly turns your phone into a sleep machine</title>
-      <link>https://www.techradar.com/phones/iphone/the-hidden-iphone-setting-that-instantly-turns-your-phone-into-a-sleep-machine</link>
-      <pubDate>Thu, 15 Jan 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">JdhTVJZhp7wXfCP8Hpb9gn</guid>
-      <description>The iPhone has a hidden sound library that not enough people know about. Here's how you can use it to help sleep better and work more efficiently.</description>
-    </item>
-    <item>
-      <title>My employee didn&#8217;t tell anyone she was pregnant</title>
-      <link>https://www.fastcompany.com/91469735/my-employee-didnt-tell-anyone-she-was-pregnant</link>
-      <pubDate>2026-01-15T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91469735/my-employee-didnt-tell-anyone-she-was-pregnant</guid>
-      <description>Until she was about to give birth!
-A reader asks:</description>
-    </item>
-    <item>
-      <title>How to claim Verizon's $20 credit for Wednesday's service outage</title>
-      <link>https://www.engadget.com/mobile/how-to-claim-verizons-20-credit-for-wednesdays-service-outage-171909695.html?src=rss</link>
-      <pubDate>Thu, 15 Jan 2026 17:59:03 +0000</pubDate>
-      <guid isPermaLink="false">531aea65-d6fb-4bdd-83f9-a0f1edab49a2</guid>
-      <description>Verizon is offering a very small mea culpa after Wednesday's massive outage, which drew more than 1.5 million reports on Downdetector and lasted hours. The carrier posted on X that it will offer a $20 credit, but customers must redeem it in the myVerizon app.
-"This credit isn&#8217;t meant to make up for what happened. No credit really can," the company wrote. "But it&#8217;s a way of acknowledging your time and showing that this matters to us." Incensed customers have largely replied with incredulity, both at the miniscule amount, and that it isn't being applied automatically.
-Engadget has reached out to...</description>
-    </item>
-    <item>
-      <title>Just how good can an &#163;89 Android phone be? I tested one to find out</title>
-      <link>https://www.techradar.com/phones/motorola-phones/motorola-moto-g06-power-review</link>
-      <pubDate>Thu, 15 Jan 2026 17:56:16 +0000</pubDate>
-      <guid isPermaLink="false">ENSYgjcZa9eZQvmL7EJ778</guid>
-      <description>I tested an incredibly cheap Motorola phone, and in spite of some serious limitations, it still offers solid bang for your buck.</description>
-    </item>
-    <item>
-      <title>Stay prepared with $600 off the DJI Power 2000 Portable Power Station</title>
-      <link>https://mashable.com/article/jan-15-dji-power-2000-deal</link>
-      <pubDate>Thu, 15 Jan 2026 17:55:11 +0000</pubDate>
-      <guid isPermaLink="false">03qraNUfobgnU3qNqDg7NqY</guid>
-      <description>As of Jan. 15, get $600 off the DJI Power 2000 Portable Power Station.</description>
-    </item>
-    <item>
-      <title>The RAM Shortage Is Killing Nvidia&#8217;s Cheapest GPU for 4K Gaming</title>
-      <link>https://gizmodo.com/the-ram-shortage-is-killing-nvidias-cheapest-gpu-for-4k-gaming-2000710662</link>
-      <pubDate>Thu, 15 Jan 2026 17:55:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000710662</guid>
-      <description>We can already tell 16GB graphics cards will become an exclusive commodity in 2026.</description>
-    </item>
-    <item>
-      <title>I&#8217;ve tested the latest Switch 2 controllers, and this one is the best</title>
-      <link>https://www.theverge.com/tech/791574/best-switch-2-controllers</link>
-      <pubDate>2026-01-15T12:51:34-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=791574</guid>
-      <description>If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot &#8212; and get a lot in return. Buying Nintendo&#8217;s own $89 Switch 2 Pro Controller, for instance, will net you the console&#8217;s only wireless controller with a 3.5mm headphone jack for private listening, not to mention great-feeling [&#8230;]</description>
-    </item>
-    <item>
-      <title>La Manta &#233;lectrique d&#8217;Opel : la douche froide pour ceux qui l&#8217;attendaient, mais le projet n&#8217;est pas enterr&#233;</title>
-      <link>https://www.frandroid.com/marques/opel/2944579_la-manta-electrique-dopel-la-douche-froide-pour-ceux-qui-lattendaient-mais-le-projet-nest-pas-enterre</link>
-      <pubDate>Thu, 15 Jan 2026 17:42:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/opel/2944579_la-manta-electrique-dopel-la-douche-froide-pour-ceux-qui-lattendaient-mais-le-projet-nest-pas-enterre</guid>
-      <description>
-Si vous gardiez vos &#233;conomies pour la future Opel Manta &#233;lectrique, craquez pour autre chose. Le couperet est tomb&#233; : alors qu'on l'attendait pour 2025, le patron d'Opel vient de confirmer qu'elle ne verra pas le jour avant 2030. 
-</description>
-    </item>
-    <item>
-      <title>Hands On With Anthropic&#8217;s Claude Cowork, an AI Agent That Actually Works</title>
-      <link>https://www.wired.com/story/anthropic-claude-cowork-agent/</link>
-      <pubDate>Thu, 15 Jan 2026 17:40:41 +0000</pubDate>
-      <guid isPermaLink="false">6967e9a5585d9a70fc535834</guid>
-      <description>Cowork is a user-friendly version of Anthropic&#8217;s Claude Code AI-powered tool that&#8217;s built for file management and basic computing tasks. Here&#8217;s what it's like to use it.</description>
-    </item>
-    <item>
-      <title>The premium Ozlo Sleepbuds are back down to a record-low price at Amazon &#8212; make sleep your top priority this year</title>
-      <link>https://mashable.com/article/jan-15-ozlo-sleepbuds-deal</link>
-      <pubDate>Thu, 15 Jan 2026 17:38:49 +0000</pubDate>
-      <guid isPermaLink="false">01EGqSoc2xGGEAkkypI6fLt</guid>
-      <description>The Ozlo Sleepbuds are on sale at Amazon for $274, down from the list price of $349. That's a 21% discount that matches the lowest on record at Amazon.</description>
-    </item>
-    <item>
-      <title>Roland's new Bluetooth speaker is designed for performers and instruments as much as music listening &#8212; and is a pretty amazing price for something so well-connected</title>
-      <link>https://www.techradar.com/audio/wireless-bluetooth-speakers/rolands-new-bluetooth-speaker-is-designed-for-performers-and-instruments-as-much-as-music-listening-and-is-a-pretty-amazing-price-for-something-so-well-connected</link>
-      <pubDate>Thu, 15 Jan 2026 17:38:45 +0000</pubDate>
-      <guid isPermaLink="false">B2Pg44JmtpU7smHeNUhgxP</guid>
-      <description>The Roland Cube Street Mini looks like the perfect portable PA for street musicians and smaller spaces</description>
-    </item>
-    <item>
-      <title>Vid&#233;o : ce drone imprim&#233; en 3D est officiellement le plus rapide du monde</title>
-      <link>https://www.frandroid.com/produits-android/photo/drones/2944561_video-ce-drone-imprime-en-3d-est-officiellement-le-plus-rapide-du-monde</link>
-      <pubDate>Thu, 15 Jan 2026 17:35:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/photo/drones/2944561_video-ce-drone-imprime-en-3d-est-officiellement-le-plus-rapide-du-monde</guid>
-      <description>
-Vous trouviez votre DJI Avata rapide en mode Sport ? Oubliez tout. Luke et Mike Bell, deux Youtubers, viennent de reprendre le record du monde avec le Peregreen V4. Vitesse enregistr&#233;e : 657 km/h. 
-</description>
-    </item>
-    <item>
-      <title>Heist game Relooted gets a release date</title>
-      <link>https://www.engadget.com/gaming/heist-game-relooted-gets-a-release-date-173456541.html?src=rss</link>
-      <pubDate>Thu, 15 Jan 2026 17:34:56 +0000</pubDate>
-      <guid isPermaLink="false">600afb80-701f-41d3-86ae-34262608f9fd</guid>
-      <description>The intriguing Africanfuturist heist game, Relooted, is out on February 10. Developed by independent South African studio Nyamakop, the game focuses on a ragtag crew from Johannesburg that liberates real-life African artifacts from a series of fictionalized Western museums.
-Relooted&#160;is best described as a 2.5d side-scrolling action platformer with stealth and puzzle elements. You have to carefully plan each heist with your fellow teammates, knowing where to place each crew member and how you&#8217;re going to get in and out in one piece. Once you&#8217;ve grabbed the artifact you&#8217;re looking for in each mi...</description>
-    </item>
-    <item>
-      <title>If you ever doubted SteamOS, think again &#8211; this new Decky Loader plugin is possibly the best one yet</title>
-      <link>https://www.techradar.com/gaming/steam-deck/if-you-ever-doubted-steamos-think-again-this-new-decky-loader-plugin-is-possibly-the-best-one-yet</link>
-      <pubDate>Thu, 15 Jan 2026 17:33:21 +0000</pubDate>
-      <guid isPermaLink="false">3a6i8YXQVMwGoNSphfksRV</guid>
-      <description>Gaming on SteamOS has just been made much easier, thanks to a new Decky Loader plugin that fits multiple game libraries into one.</description>
-    </item>
-    <item>
-      <title>AI Tool Reportedly Sent ICE Recruits Into the Field Without Proper Training</title>
-      <link>https://gizmodo.com/ai-tool-reportedly-sent-ice-recruits-into-the-field-without-proper-training-2000710651</link>
-      <pubDate>Thu, 15 Jan 2026 17:30:53 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000710651</guid>
-      <description>Department of Homeland Security's AI initiatives in action...</description>
-    </item>
-    <item>
-      <title>Raspberry Pi&amp;#8217;s new add-on board has 8GB of RAM for running gen AI models</title>
-      <link>https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram</link>
-      <pubDate>2026-01-15T12:30:15-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=862748</guid>
-      <description>Raspberry Pi is launching a new add-on board capable of running generative AI models locally on the Raspberry Pi 5. Announced on Thursday, the $130 AI HAT+ 2 is an upgraded - and more expensive - version of the module launched last year, now offering 8GB of RAM and a Hailo 10H chip with 40 [&#8230;]</description>
     </item>
   </channel>
 </rss>
