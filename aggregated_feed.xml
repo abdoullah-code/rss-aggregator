@@ -3,27 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 16 Jan 2026 04:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 05:30:37 GMT</lastBuildDate>
+    <item>
+      <title>Casting is dead. Long live casting!</title>
+      <link>https://www.theverge.com/column/861948/casting-netflix-dead</link>
+      <pubDate>2026-01-15T23:30:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=861948</guid>
+      <description>This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Last month, Netflix made the surprising decision to kill off a key feature: With no prior warning, the company removed the ability to cast videos from its mobile apps to [&#8230;]</description>
+    </item>
     <item>
       <title>Ray's Blocked Engadget Test Article</title>
       <link>https://www.engadget.com/general/rays-blocked-engadget-test-article-031847986.html?src=rss</link>
       <pubDate>Fri, 16 Jan 2026 03:57:03 +0000</pubDate>
       <guid isPermaLink="false">d8583094-a88e-41a5-9e5c-eacbdc93ec49</guid>
       <description>This article is blocked.This article originally appeared on Engadget at https://www.engadget.com/general/rays-blocked-engadget-test-article-031847986.html?src=rss</description>
-    </item>
-    <item>
-      <title>What is the release date for Landman season 2 episode 10 on Paramount+?</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/landman-season-2-episode-10-release-date-time</link>
-      <pubDate>Fri, 16 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Ew9KoLHEisrDhtLCDEydqn</guid>
-      <description>We're only a few days away from an explosive season finale, but when does Landman season 2 episode 10 drop on Paramount+?</description>
-    </item>
-    <item>
-      <title>28 Years Later: The Bone Temple: How does Cillian Murphy return as Jim?</title>
-      <link>https://mashable.com/article/28-years-later-the-bone-temple-cillian-murphy-ending-explained</link>
-      <pubDate>Fri, 16 Jan 2026 02:30:00 +0000</pubDate>
-      <guid isPermaLink="false">00UpnCIeUlSlv9OyBBjv0xa</guid>
-      <description>Cillian Murphy returns to the 28 Days Later franchise in "28 Years Later: The Bone Temple." Here's how.</description>
     </item>
   </channel>
 </rss>
