@@ -3,27 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 17 Jan 2026 06:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 07:23:36 GMT</lastBuildDate>
+    <item>
+      <title>Arnaques en ligne&#160;: cet outil d&#8217;Orange est capable de rep&#233;rer les liens pi&#233;g&#233;s</title>
+      <link>https://www.01net.com/actualites/arnaques-ligne-outil-orange-capable-reperer-liens-pieges.html</link>
+      <pubDate>Sat, 17 Jan 2026 07:01:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1319463</guid>
+      <description>Cybersecure, la solution de cybers&#233;curit&#233; d&#8217;Orange ouverte &#224; tous les Fran&#231;ais, s'offre un outil gratuit capable d&#8217;analyser n&#8217;importe quel lien re&#231;u par SMS, mail ou messagerie instantan&#233;e. L'outil permet en quelques secondes de savoir si une URL est d&#233;j&#224; connue comme frauduleuse.</description>
+    </item>
+    <item>
+      <title>Soldes d&#8217;hiver : entre un iPad Pro &#224; -50 % et des tablettes pas ch&#232;res encore moins ch&#232;res, c&#8217;est la foire aux offres dans ce top des deals</title>
+      <link>https://www.frandroid.com/bons-plans/2941463_soldes-dhiver-entre-un-ipad-pro-a-50-et-des-tablettes-pas-cheres-encore-moins-cheres-cest-la-foire-aux-offres-dans-ce-top-des-deals</link>
+      <pubDate>Sat, 17 Jan 2026 06:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2941463_soldes-dhiver-entre-un-ipad-pro-a-50-et-des-tablettes-pas-cheres-encore-moins-cheres-cest-la-foire-aux-offres-dans-ce-top-des-deals</guid>
+      <description>
+Il n'y a pas que les smartphones et les TV 4K qui profitent des soldes d'hiver, les tablettes tactiles aussi bien entendu. On peut s'attendre &#224; ce que seuls les mod&#232;les pas chers soient concern&#233;s, mais m&#234;me la tranche premium est frapp&#233;e de plein fouet par les r&#233;ductions. Voici notre top des meilleurs deals.
+</description>
+    </item>
     <item>
       <title>Petlibro Discount Codes and Deals: Save Up to 50%</title>
       <link>https://www.wired.com/story/petlibro-discount-code/</link>
       <pubDate>Sat, 17 Jan 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">696a9f4eb35feb809a8fe080</guid>
       <description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
-    </item>
-    <item>
-      <title>More than messages! Here are 7 hidden features that make Apple Messages an essential app</title>
-      <link>https://www.techradar.com/phones/iphone/more-than-messages-here-are-7-hidden-features-that-makes-apple-messages-an-essential-app</link>
-      <pubDate>Sat, 17 Jan 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">nFPiqWtX2DxGJE7yieWBsB</guid>
-      <description>Send money, doodles, safety check-ins, and much more</description>
-    </item>
-    <item>
-      <title>La m&#232;re d&#8217;un des enfants d&#8217;Elon Musk poursuit son entreprise d&#8217;intelligence artificielle</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-01-16/la-mere-d-un-des-enfants-d-elon-musk-poursuit-son-entreprise-d-intelligence-artificielle.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Fri, 16 Jan 2026 23:59:10 -0500</pubDate>
-      <guid isPermaLink="false">47eca73a372c39499cbc0d97ecf73f63</guid>
-      <description>La m&#232;re d&#8217;un des enfants d&#8217;Elon Musk poursuit en justice son entreprise d&#8217;intelligence artificielle, affirmant que son robot conversationnel Grok a permis &#224; des utilisateurs de g&#233;n&#233;rer des hypertrucages &#224; caract&#232;re sexuel la mettant en sc&#232;ne, ce qui lui a caus&#233; une humiliation et une d&#233;tresse &#233;motionnelle.</description>
     </item>
   </channel>
 </rss>
