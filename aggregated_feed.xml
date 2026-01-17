@@ -3,7 +3,37 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 17 Jan 2026 08:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 09:25:21 GMT</lastBuildDate>
+    <item>
+      <title>Data sovereignty: an existential issue for nations and enterprises</title>
+      <link>https://www.techradar.com/pro/data-sovereignty-an-existential-issue-for-nations-and-enterprises</link>
+      <pubDate>Sat, 17 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">eKttzH2UvuXRDdJH63jJKo</guid>
+      <description>As data sovereignty becomes a board-level priority, how can enterprises contain their risk.</description>
+    </item>
+    <item>
+      <title>A 3D printed drone is probably the world's fastest DIY plane ever, quicker than even the legendary P38 Lightning &#8212; but at 408mph, it has some way to go to catch up with the 575mph TU-95</title>
+      <link>https://www.techradar.com/pro/a-3d-printed-drone-is-probably-the-worlds-fastest-diy-plane-ever-quicker-than-even-the-legendary-p38-lightning-but-at-408mph-it-has-some-way-to-go-to-catch-up-with-the-575mph-tu-95</link>
+      <pubDate>Sat, 17 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">TzykHgoDCwZ2FqPRYbr4Ua</guid>
+      <description>A fully 3D printed drone reaches 408mph and retakes the Guinness World Record for fastest quadcopter ever flown by a DIY team.</description>
+    </item>
+    <item>
+      <title>TCL&#8217;s PlayCube projector is more fun than a Rubik&#8217;s Cube</title>
+      <link>https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery</link>
+      <pubDate>2026-01-17T03:55:35-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/863910/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work</guid>
+      <description>The best all-in-one portable projector is the one that makes all the right compromises. It needs to balance image and sound quality with battery life and responsiveness in a device that's not too expensive and small enough to take anywhere. TCL's fun little PlayCube delivers the right mix to justify paying $800 for a 1080p [&#8230;]</description>
+    </item>
+    <item>
+      <title>MSI MEG X : cet &#233;cran OLED vous aide &#224; tricher dans vos jeux avec une panoplie de fonctions ind&#233;tectables</title>
+      <link>https://www.frandroid.com/marques/msi/2946415_msi-meg-x-cet-ecran-oled-vous-aide-a-tricher-dans-vos-jeux-avec-une-panoplie-de-fonctions-indetectables</link>
+      <pubDate>Sat, 17 Jan 2026 08:49:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/msi/2946415_msi-meg-x-cet-ecran-oled-vous-aide-a-tricher-dans-vos-jeux-avec-une-panoplie-de-fonctions-indetectables</guid>
+      <description>
+Avec son nouveau MEG X, MSI ne se contente pas de proposer une dalle performante : il int&#232;gre un processeur d&#233;di&#233; pour assister directement les joueurs, quitte &#224; flirter avec les limites de l'&#233;quit&#233; sportive.
+</description>
+    </item>
     <item>
       <title>Got a new Apple Watch? Here are 3 hidden features you're probably not using (but should be)</title>
       <link>https://www.techradar.com/health-fitness/smartwatches/got-a-new-apple-watch-here-are-3-hidden-features-youre-probably-not-using-but-should-be</link>
@@ -35,6 +65,14 @@ La Galaxy Watch 7 sous Android Wear arbore, comme &#224; l'habitude de Samsung, 
 </description>
     </item>
     <item>
+      <title>Should AI be allowed to &#8216;see everything&#8217; at work?</title>
+      <link>https://www.fastcompany.com/91472817/the-ethics-of-ai-seeing-everything-at-work-ai-boundaries</link>
+      <pubDate>2026-01-17T08:12:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91472817/the-ethics-of-ai-seeing-everything-at-work-ai-boundaries</guid>
+      <description>The central question for leaders is not what AI agents are capable of doing; it is what they should be allowed to see
+For years, AI at work felt like a quiet helper in the background. It summarized meetings, suggested text, and answered questions when we asked. That era is ending.</description>
+    </item>
+    <item>
       <title>Peugeot casse le prix de son e-3008 &#233;lectrique&#160;: il co&#251;te 10&#160;000 euros de moins</title>
       <link>https://www.01net.com/actualites/peugeot-casse-le-prix-de-son-e-3008-electrique-il-coute-10-000-euros-de-moins.html</link>
       <pubDate>Sat, 17 Jan 2026 08:02:15 +0000</pubDate>
@@ -47,30 +85,6 @@ La Galaxy Watch 7 sous Android Wear arbore, comme &#224; l'habitude de Samsung, 
       <pubDate>Sat, 17 Jan 2026 07:30:17 +0000</pubDate>
       <guid isPermaLink="false">https://www.01net.com/?p=1320805</guid>
       <description>Si Nvidia a assur&#233; que deux de ses GPU milieu de gamme &#8212; les GeForce RTX 5070 Ti et la RTX 5060 Ti (16 Go) &#8212; ne sont pas en fin de vie, il n'emp&#234;che : se procurer les cartes graphiques du fabricant &#224; un prix honn&#234;te est mission impossible. Et &#231;a ne va pas aller en s'arrangeant, &#224; en croire un fuiteur bien inform&#233;.</description>
-    </item>
-    <item>
-      <title>Arnaques en ligne&#160;: cet outil d&#8217;Orange est capable de rep&#233;rer les liens pi&#233;g&#233;s</title>
-      <link>https://www.01net.com/actualites/arnaques-ligne-outil-orange-capable-reperer-liens-pieges.html</link>
-      <pubDate>Sat, 17 Jan 2026 07:01:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1319463</guid>
-      <description>Cybersecure, la solution de cybers&#233;curit&#233; d&#8217;Orange ouverte &#224; tous les Fran&#231;ais, s'offre un outil gratuit capable d&#8217;analyser n&#8217;importe quel lien re&#231;u par SMS, mail ou messagerie instantan&#233;e. L'outil permet en quelques secondes de savoir si une URL est d&#233;j&#224; connue comme frauduleuse.</description>
-    </item>
-    <item>
-      <title>Do you have these 5 emotional intelligence traits that are key for building trust?</title>
-      <link>https://www.fastcompany.com/91472061/do-you-have-these-5-emotional-intelligence-traits-important-for-trust</link>
-      <pubDate>2026-01-17T07:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91472061/do-you-have-these-5-emotional-intelligence-traits-important-for-trust</guid>
-      <description>Developing trust among team members is crucial for success. These five traits emotional intelligence traits can help leaders do this.
-In today&#8217;s rapidly changing work environment, developing trust among team members is crucial for success. Yet, many organizations struggle to foster an atmosphere of collaboration and understanding, often resulting in communication breakdowns, conflicts, and a decrease in productivity. The inability to trust can be the result of misunderstanding, conflicting values, or misjudging others because they trigger us and remind us of a negative situation or experience ...</description>
-    </item>
-    <item>
-      <title>Soldes d&#8217;hiver : entre un iPad Pro &#224; -50 % et des tablettes pas ch&#232;res encore moins ch&#232;res, c&#8217;est la foire aux offres dans ce top des deals</title>
-      <link>https://www.frandroid.com/bons-plans/2941463_soldes-dhiver-entre-un-ipad-pro-a-50-et-des-tablettes-pas-cheres-encore-moins-cheres-cest-la-foire-aux-offres-dans-ce-top-des-deals</link>
-      <pubDate>Sat, 17 Jan 2026 06:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2941463_soldes-dhiver-entre-un-ipad-pro-a-50-et-des-tablettes-pas-cheres-encore-moins-cheres-cest-la-foire-aux-offres-dans-ce-top-des-deals</guid>
-      <description>
-Il n'y a pas que les smartphones et les TV 4K qui profitent des soldes d'hiver, les tablettes tactiles aussi bien entendu. On peut s'attendre &#224; ce que seuls les mod&#232;les pas chers soient concern&#233;s, mais m&#234;me la tranche premium est frapp&#233;e de plein fouet par les r&#233;ductions. Voici notre top des meilleurs deals.
-</description>
     </item>
   </channel>
 </rss>
