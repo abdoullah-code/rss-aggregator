@@ -3,13 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 17 Jan 2026 01:58:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 03:36:55 GMT</lastBuildDate>
     <item>
-      <title>Thinking Machines Cofounder&#8217;s Office Relationship Preceded His Termination</title>
-      <link>https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/</link>
-      <pubDate>Sat, 17 Jan 2026 00:40:41 +0000</pubDate>
-      <guid isPermaLink="false">696a8a91923bd5a5b73b232c</guid>
-      <description>Leaders at Mira Murati&#8217;s startup believe Barret Zoph engaged in an incident of &#8220;serious misconduct.&#8221; The details are now coming to light.</description>
+      <title>Nia DaCosta and Jack OConnell on that epic Bone Temple musical number</title>
+      <link>https://mashable.com/article/28-years-later-bone-temple-number-of-the-beast-iron-maiden</link>
+      <pubDate>Sat, 17 Jan 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02EUfO3paEFd7DpvA5tl5IG</guid>
+      <description>Nia DaCosta and Jack O'Connell on that epic musical number in "28 Years Later: The Bone Temple."</description>
+    </item>
+    <item>
+      <title>What Bone Temple reveals about Jimmy Crystal</title>
+      <link>https://mashable.com/article/28-years-later-bone-temple-jimmy-crystal</link>
+      <pubDate>Sat, 17 Jan 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04DZ9bWobCETPyF6913qIqA</guid>
+      <description>Jack O'Connell and Nia DaCosta on "28 Years Later: The Bone Temple"</description>
     </item>
   </channel>
 </rss>
