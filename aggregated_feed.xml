@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 17 Jan 2026 22:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 23:23:31 GMT</lastBuildDate>
+    <item>
+      <title>This retro-style Bluetooth speaker is trying to outdo Marshall at its own game, but is it up to the task?</title>
+      <link>https://www.techradar.com/audio/wireless-bluetooth-speakers/edifier-es60-review</link>
+      <pubDate>Sat, 17 Jan 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NuYLyNnVRd34gzAembybE3</guid>
+      <description>The Edifier ES60 is a decent retro-style speaker, but its audio performance and underwhelming battery life hold it back from brilliance.</description>
+    </item>
+    <item>
+      <title>Who gets to inherit the stars? A space ethicist on what we&#8217;re not talking about</title>
+      <link>https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/</link>
+      <pubDate>Sat, 17 Jan 2026 22:45:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3083653</guid>
+      <description>While it's easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it&#8217;s worth remembering there are no oceans or mountains or chirpy birds in space. It's &#8220;not nice up there,&#8221; said Rubenstein. &#8220;It is not nice at all."</description>
+    </item>
+    <item>
+      <title>Deepseek may have found a way to solve the RAM crisis by eliminating the need for expensive HBM for AI inference and training &#8212; yes, the very reason why DRAM prices went up by 5X in 10 weeks</title>
+      <link>https://www.techradar.com/pro/deepseek-may-have-found-a-way-to-solve-the-ram-crisis-by-eliminating-the-need-for-expensive-hbm-for-ai-inference-and-training-yes-the-very-reason-why-dram-prices-went-up-by-5x-in-10-weeks</link>
+      <pubDate>Sat, 17 Jan 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">NC59EdBhe2K3PFCN4dKxFU</guid>
+      <description>DeepSeek&#8217;s Engram decouples memory from computation, enabling AI models to scale efficiently while alleviating costly HBM constraints globally.</description>
+    </item>
     <item>
       <title>Quordle hints and answers for Sunday, January 18 (game #1455)</title>
       <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-18-january-2026</link>
@@ -12,18 +33,18 @@
       <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
     <item>
-      <title>NYT Connections hints and answers for Sunday, January 18 (game #952)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-18-january-2026</link>
-      <pubDate>Sat, 17 Jan 2026 22:20:00 +0000</pubDate>
-      <guid isPermaLink="false">8n8uoiP8LZ7kQJdGQQUiST</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
       <title>NYT Strands hints and answers for Sunday, January 18 (game #686)</title>
       <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-18-january-2026</link>
       <pubDate>Sat, 17 Jan 2026 22:20:00 +0000</pubDate>
       <guid isPermaLink="false">nTL7ai2eMvv7hddSSb8VLP</guid>
       <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Sunday, January 18 (game #952)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-18-january-2026</link>
+      <pubDate>Sat, 17 Jan 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">8n8uoiP8LZ7kQJdGQQUiST</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
       <title>What exactly is a canister vacuum, and what are they good for?</title>
@@ -45,27 +66,6 @@
       <pubDate>Sat, 17 Jan 2026 21:30:00 +0000</pubDate>
       <guid isPermaLink="false">cBJM3ZWBbgPPzQPgZbQL54</guid>
       <description>Researchers demonstrate a laser-based method that alters heat flow in thin silicon films using scalable nanoscale surface patterning techniques.</description>
-    </item>
-    <item>
-      <title>&#8216;Fallout&#8217; Returns to &#8216;Magic: The Gathering&#8217; and Secret Lair</title>
-      <link>https://gizmodo.com/fallout-returns-to-magic-the-gathering-and-secret-lair-2000711431</link>
-      <pubDate>Sat, 17 Jan 2026 21:15:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000711431</guid>
-      <description>For the 'Magic' fans, Secret Lair is dropping some new 'Fallout'-themed card packs at the end of the month.</description>
-    </item>
-    <item>
-      <title>Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest</title>
-      <link>https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457</link>
-      <pubDate>Sat, 17 Jan 2026 20:47:27 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000711457</guid>
-      <description>Turns out people might like to circumvent centralized financial infrastructure in times of political upheaval.</description>
-    </item>
-    <item>
-      <title>DRAM prices set to almost double by March 2026, and yes, we all have our AI overlords to thank for that wonderful news</title>
-      <link>https://www.techradar.com/pro/dram-prices-set-to-almost-double-by-march-2026-and-yes-we-all-have-to-thank-our-ai-overlords-for-that-wonderful-news</link>
-      <pubDate>Sat, 17 Jan 2026 20:25:00 +0000</pubDate>
-      <guid isPermaLink="false">2RQDZLMHMVDHKvbkKrVJPM</guid>
-      <description>AI-driven data center demand has intensified DDR5 DRAM prices, while server memory prioritization reduces availability for PC-focused products globally.</description>
     </item>
   </channel>
 </rss>
