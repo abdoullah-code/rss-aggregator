@@ -3,13 +3,39 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 18 Jan 2026 07:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 08:32:31 GMT</lastBuildDate>
+    <item>
+      <title>E.Leclerc se fait plaisir et casse le prix de nombreux produits Tech &#224; la 2e d&#233;marque des soldes</title>
+      <link>https://www.frandroid.com/bons-plans/2945683_e-leclerc-se-fait-plaisir-et-casse-le-prix-de-nombreux-produits-tech-a-la-2e-demarque-des-soldes</link>
+      <pubDate>Sun, 18 Jan 2026 08:17:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2945683_e-leclerc-se-fait-plaisir-et-casse-le-prix-de-nombreux-produits-tech-a-la-2e-demarque-des-soldes</guid>
+      <description>
+Les soldes d&#8217;hiver 2026 entament leur 2e d&#233;marque et E.Leclerc casse les prix des produits Tech. Smartphones, TV OLED, montres connect&#233;es, tablettes&#8230; On a retenu uniquement les offres vraiment int&#233;ressantes.
+</description>
+    </item>
+    <item>
+      <title>Pourquoi ce forfait eSIM RED &#224; 1 &#8364; peut remplacer les eSIM de voyage (m&#234;me en Suisse et aux USA) [Sponso]</title>
+      <link>https://www.frandroid.com/telecom/forfait-mobile/2903279_pourquoi-ce-forfait-esim-red-a-1-e-peut-remplacer-les-esim-de-voyage-meme-en-suisse-et-aux-usa</link>
+      <pubDate>Sun, 18 Jan 2026 07:31:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/telecom/forfait-mobile/2903279_pourquoi-ce-forfait-esim-red-a-1-e-peut-remplacer-les-esim-de-voyage-meme-en-suisse-et-aux-usa</guid>
+      <description>
+RED by SFR combine deux avantages rarement r&#233;unis : une astuce &#171; voyage &#187; tr&#232;s rentable (SIM/eSIM &#224; 1&#8364; + option internationale) et une activation eSIM ultra simplifi&#233;e via l&#8217;EID, sans d&#233;pendre des apps d&#8217;eSIM internationales. Voici comment en profiter, &#233;tape par &#233;tape.
+</description>
+    </item>
     <item>
       <title>I stopped using Garmin Connect's easily-forgotten gear tracking feature &#8212; but I've just fallen back in love with it</title>
       <link>https://www.techradar.com/health-fitness/i-stopped-using-garmin-connects-easily-forgotten-gear-tracking-feature-but-ive-just-fallen-back-in-love-with-it</link>
       <pubDate>Sun, 18 Jan 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">8ckXhcG5xZiWnbm3bPzubN</guid>
       <description>Garmin's gear tracking is a hidden feature worth using, especially for runners and cyclists.</description>
+    </item>
+    <item>
+      <title>This common security measure is draining your workforce</title>
+      <link>https://www.fastcompany.com/91473333/this-common-security-measure-is-draining-your-workforce</link>
+      <pubDate>2026-01-18T07:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91473333/this-common-security-measure-is-draining-your-workforce</guid>
+      <description>Here&#8217;s how and why your company should break free.
+You sit down at your desk, ready to start the day. Before you can even open your first email, you&#8217;ve already typed in three different passwords&#8212;each more complex than the last. By lunchtime, you&#8217;ve repeated the ritual half a dozen times. It&#8217;s frustrating, it&#8217;s slow, and it&#8217;s happening to millions of employees every single day....</description>
     </item>
     <item>
       <title>Les immanquables de la semaine : pourquoi payer son forfait mobile 20 &#8364; quand ces offres &#224; moins de 9&#8364; existent ?</title>
@@ -19,13 +45,6 @@
       <description>
 Avec trois offres affich&#233;es sous la barre des 9 euros, cette s&#233;lection permet de r&#233;duire drastiquement la facture mobile face aux forfaits standards co&#251;tant g&#233;n&#233;ralement entre 15 et 20 euros.
 </description>
-    </item>
-    <item>
-      <title>'The new era of Infinite Flight begins': Novel tech can wireless charge drones almost 2Km away using a kilowatt-class laser and a lightweight charger</title>
-      <link>https://www.techradar.com/pro/the-new-era-of-infinite-flight-begins-novel-tech-can-wireless-charge-drones-almost-2km-away-using-a-kilowatt-class-laser-and-a-lightweight-charger</link>
-      <pubDate>Sun, 18 Jan 2026 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">pzNTSQ6pYgcbquwxdGwDob</guid>
-      <description>Laser based charging system aims to keep drones airborne indefinitely by delivering kilowatt class power over long distances.</description>
     </item>
   </channel>
 </rss>
