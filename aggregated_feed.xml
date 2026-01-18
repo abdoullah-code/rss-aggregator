@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 18 Jan 2026 21:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 22:24:13 GMT</lastBuildDate>
+    <item>
+      <title>Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT</title>
+      <link>https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/</link>
+      <pubDate>Sun, 18 Jan 2026 22:15:17 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3083680</guid>
+      <description>Sequoia Capital is reportedly joining a blockbuster funding round for Anthropic, the AI startup behind Claude, according to the Financial Times. It&#8217;s a move sure to turn heads in Silicon Valley. Why? Because venture capital firms have historically avoided backing competing companies in the same sector, preferring to place their bets on a single winner. [&#8230;]...</description>
+    </item>
+    <item>
+      <title>EPA Rule Clarification Hits a Significant Source of Grok&#8217;s Electricity</title>
+      <link>https://gizmodo.com/epa-rule-clarification-hits-a-significant-source-of-groks-electricity-2000711569</link>
+      <pubDate>Sun, 18 Jan 2026 21:40:07 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000711569</guid>
+      <description>It seems xAI has been taking liberties with gas turbines that federal rules don&#8217;t actually tolerate.</description>
+    </item>
+    <item>
+      <title>The memory shortage reaches a ridiculous new high - thieves hit South Korean design office, apparently just to steal DDR5 memory</title>
+      <link>https://www.techradar.com/pro/the-memory-shortage-reaches-a-ridiculous-new-high-thieves-hit-south-korean-design-office-apparently-just-to-steal-ddr5-memory</link>
+      <pubDate>Sun, 18 Jan 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">mU6xAKJ9znRKatJuE54uWn</guid>
+      <description>Soaring DDR5 memory prices turn high-capacity modules into small, valuable targets, prompting specific thefts in exposed office systems.</description>
+    </item>
     <item>
       <title>Games Workshop Is Finally Making Female Custodes Models</title>
       <link>https://gizmodo.com/warhammer-40k-female-custodes-models-games-workshop-2000711356</link>
@@ -35,41 +56,6 @@ In our review we were...</description>
       <pubDate>2026-01-18T15:30:00-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=864078</guid>
       <description>It's relatively rare for a podcast to last 14 years, especially a fiction one. In fact, as far as I can tell, Welcome to Night Vale is the longest continually running fiction podcast out there. (Some will argue it's actually We're Alive, but that has taken a few significant breaks between seasons.) The story of [&#8230;]</description>
-    </item>
-    <item>
-      <title>Quordle hints and answers for Monday, January 19 (game #1456)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-19-january-2026</link>
-      <pubDate>Sun, 18 Jan 2026 20:05:15 +0000</pubDate>
-      <guid isPermaLink="false">gbgUxciDrxUXjXk34GNQW3</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Monday, January 19 (game #687)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-19-january-2026</link>
-      <pubDate>Sun, 18 Jan 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">G2P5JqHUWuR297zubEtkri</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Monday, January 19 (game #953)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-19-january-2026</link>
-      <pubDate>Sun, 18 Jan 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LZqpwBBwXqvzjTXcVTf6Pg</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>Warner Bros. Revs Up a Speedy Gonzales Solo Movie</title>
-      <link>https://gizmodo.com/warner-bros-revs-up-a-speedy-gonzales-solo-movie-2000711426</link>
-      <pubDate>Sun, 18 Jan 2026 19:50:31 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000711426</guid>
-      <description>'El Tigre' creator Jorge R. Guti&#233;rrez will give the popular 'Looney Tunes' character his time in the spotlight.</description>
-    </item>
-    <item>
-      <title>'Apple went in, Nvidia went in, a lot of smart people went in': Did Apple join Nvidia in investing in Intel? Trump seems to suggest so - or was it just a slip of the tongue?</title>
-      <link>https://www.techradar.com/pro/apple-went-in-nvidia-went-in-a-lot-of-smart-people-went-in-did-apple-join-nvidia-in-investing-in-intel-trump-seems-to-suggest-so-or-was-it-just-a-slip-of-the-tongue</link>
-      <pubDate>Sun, 18 Jan 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">knPt8HGoYCpxQjbSNwuoQJ</guid>
-      <description>President Trump implies Apple may have joined Nvidia in investing in Intel.</description>
     </item>
   </channel>
 </rss>
