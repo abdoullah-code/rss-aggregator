@@ -3,69 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 17 Jan 2026 23:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 02:12:25 GMT</lastBuildDate>
     <item>
-      <title>This retro-style Bluetooth speaker is trying to outdo Marshall at its own game, but is it up to the task?</title>
-      <link>https://www.techradar.com/audio/wireless-bluetooth-speakers/edifier-es60-review</link>
-      <pubDate>Sat, 17 Jan 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NuYLyNnVRd34gzAembybE3</guid>
-      <description>The Edifier ES60 is a decent retro-style speaker, but its audio performance and underwhelming battery life hold it back from brilliance.</description>
+      <title>Why Silicon Valley is really talking about fleeing California (it&#8217;s not the 5%)</title>
+      <link>https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/</link>
+      <pubDate>Sun, 18 Jan 2026 01:17:11 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3083671</guid>
+      <description>If you&#8217;ve been following the billionaire exodus from California with some confusion, here&#8217;s what&#8217;s actually driving the nervousness: it&#8217;s not the 5% rate. As highlighted Friday in the New York Post, the proposed wealth tax would hit founders on their voting shares rather than the actual equity they own. Take Larry Page, who about 3% [&#8230;]</description>
     </item>
     <item>
-      <title>Who gets to inherit the stars? A space ethicist on what we&#8217;re not talking about</title>
-      <link>https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/</link>
-      <pubDate>Sat, 17 Jan 2026 22:45:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3083653</guid>
-      <description>While it's easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it&#8217;s worth remembering there are no oceans or mountains or chirpy birds in space. It's &#8220;not nice up there,&#8221; said Rubenstein. &#8220;It is not nice at all."</description>
+      <title>I test Wi-Fi speakers for a living &#8212; if you&#8217;re switching away from Sonos, this one feature is an absolute must-have</title>
+      <link>https://www.techradar.com/audio/wireless-bluetooth-speakers/i-test-wi-fi-speakers-for-a-living-if-youre-switching-away-from-sonos-this-one-feature-is-an-absolute-must-have</link>
+      <pubDate>Sun, 18 Jan 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QtJBNsbq4Bg8XwuS6qKSpX</guid>
+      <description>Don't worry about Spatial Audio, eARC or built-in phono stages &#8211; this is the most essential Wi-Fi speaker feature in my book.</description>
     </item>
     <item>
-      <title>Deepseek may have found a way to solve the RAM crisis by eliminating the need for expensive HBM for AI inference and training &#8212; yes, the very reason why DRAM prices went up by 5X in 10 weeks</title>
-      <link>https://www.techradar.com/pro/deepseek-may-have-found-a-way-to-solve-the-ram-crisis-by-eliminating-the-need-for-expensive-hbm-for-ai-inference-and-training-yes-the-very-reason-why-dram-prices-went-up-by-5x-in-10-weeks</link>
-      <pubDate>Sat, 17 Jan 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">NC59EdBhe2K3PFCN4dKxFU</guid>
-      <description>DeepSeek&#8217;s Engram decouples memory from computation, enabling AI models to scale efficiently while alleviating costly HBM constraints globally.</description>
-    </item>
-    <item>
-      <title>Quordle hints and answers for Sunday, January 18 (game #1455)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-18-january-2026</link>
-      <pubDate>Sat, 17 Jan 2026 22:20:00 +0000</pubDate>
-      <guid isPermaLink="false">TiSGfS6FvV4chQKGmSR9KM</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Sunday, January 18 (game #686)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-18-january-2026</link>
-      <pubDate>Sat, 17 Jan 2026 22:20:00 +0000</pubDate>
-      <guid isPermaLink="false">nTL7ai2eMvv7hddSSb8VLP</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Sunday, January 18 (game #952)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-18-january-2026</link>
-      <pubDate>Sat, 17 Jan 2026 22:20:00 +0000</pubDate>
-      <guid isPermaLink="false">8n8uoiP8LZ7kQJdGQQUiST</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>What exactly is a canister vacuum, and what are they good for?</title>
-      <link>https://www.techradar.com/home/what-exactly-is-a-canister-vacuum-and-what-are-they-good-for</link>
-      <pubDate>Sat, 17 Jan 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">c72dEkuoP7jNDdXA95KoxN</guid>
-      <description>This flexible type of vacuum goes where uprights can't reach.</description>
-    </item>
-    <item>
-      <title>The plan for a gaming-themed Atari hotel in Las Vegas has reportedly been scrapped</title>
-      <link>https://www.engadget.com/gaming/the-plan-for-a-gaming-themed-atari-hotel-in-las-vegas-has-reportedly-been-scrapped-214212269.html?src=rss</link>
-      <pubDate>Sat, 17 Jan 2026 21:42:12 +0000</pubDate>
-      <guid isPermaLink="false">ee574e38-b6ad-4b84-bd36-bf42e11b7d55</guid>
-      <description>Six years after the announcement of plans to build Atari Hotels in eight cities across the US, including Las Vegas, only one now seems to be moving forward, in Phoenix, Arizona. The Las Vegas deal ultimately "didn't come to fruition," spokesperson Sara Collins told Las Vegas Sun this week, and Atari Hotels is putting its focus into the Phoenix site "for the time being."Phoenix was always meant to be the first site, followed by other hotels in Austin, Chicago, Denver, Las Vegas, San Francisco, San Jose and Seattle. But Las Vegas is now apparently off the table, and there haven't been any signs ...</description>
-    </item>
-    <item>
-      <title>A laser that can fire light pulses in one billionth of a second is set to produce structures 1000 times stronger, 1000 times faster &#8212; novel technique has applications for high-performance computing, quantum devices, and AI chip cooling</title>
-      <link>https://www.techradar.com/pro/a-laser-that-can-fire-light-pulses-in-one-billionth-of-a-second-is-set-to-produce-structures-1000-times-stronger-1000-times-faster-novel-technique-has-applications-for-high-performance-computing-quantum-devices-and-ai-chip-cooling</link>
-      <pubDate>Sat, 17 Jan 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">cBJM3ZWBbgPPzQPgZbQL54</guid>
-      <description>Researchers demonstrate a laser-based method that alters heat flow in thin silicon films using scalable nanoscale surface patterning techniques.</description>
+      <title>I tested the Huawei MatePad 12X 2025 and loved its bright, paperlike display and smart productivity features &#8212; but this tablet hero is undone by a single tragic flaw</title>
+      <link>https://www.techradar.com/tablets/i-tested-the-huawei-matepad-12x-2025-and-loved-its-bright-paperlike-display-and-smart-productivity-features-but-this-tablet-hero-is-undone-by-a-single-tragic-flaw</link>
+      <pubDate>Sun, 18 Jan 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">mCBXLki28s5WqU9MmdHvqg</guid>
+      <description>Huawei&#8217;s slate aced most of the tests I threw at it &#8212; but there's one shortcoming that makes it miss the mark for me.</description>
     </item>
   </channel>
 </rss>
