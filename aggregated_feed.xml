@@ -3,13 +3,220 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 23 Jan 2026 15:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 16:36:49 GMT</lastBuildDate>
+    <item>
+      <title>Vimeo Lays Off &#8216;Most&#8217; of Its Staff, Allegedly Includes &#8216;the Entire Video Team&#8217;</title>
+      <link>https://gizmodo.com/vimeo-lays-off-most-of-its-staff-allegedly-includes-the-entire-video-team-2000713416</link>
+      <pubDate>Fri, 23 Jan 2026 16:35:50 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713416</guid>
+      <description>Employees reported major job cuts this week, just months after the video hosting site was bought by Bending Spoons.</description>
+    </item>
+    <item>
+      <title>Elle cartonne sur Spotify&#8230; mais c&#8217;est une IA</title>
+      <link>https://www.01net.com/actualites/elle-cartonne-sur-spotify-mais-cest-une-ia.html</link>
+      <pubDate>Fri, 23 Jan 2026 16:35:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1322245</guid>
+      <description>Ils sont des millions &#224; &#234;tre tomb&#233;s sous le charme de la voix soul de Sienna Rose. La chanteuse classe plusieurs de ses titres dans les classements des plateformes de streaming. Seul probl&#232;me : Sienna Rose n'existe sans doute pas, Deezer l'ayant catalogu&#233; comme une IA.</description>
+    </item>
+    <item>
+      <title>Huge data leak of 149 million credentials exposed without any protection &#8211; 98GB of unique usernames and passwords from financial services, social media accounts and dating apps</title>
+      <link>https://www.techradar.com/pro/security/huge-data-leak-of-149-million-credentials-exposed-without-any-protection-98gb-of-unique-usernames-and-passwords-from-financial-services-social-media-accounts-and-dating-apps</link>
+      <pubDate>Fri, 23 Jan 2026 16:31:01 +0000</pubDate>
+      <guid isPermaLink="false">FeZXwZ92A2jPYNKxHPRMBX</guid>
+      <description>98GB cloud storage container left exposed online and remained exposed for almost a month after discovery.</description>
+    </item>
+    <item>
+      <title>Carrefour : les 12 meilleures offres des soldes qui valent le coup ce week-end</title>
+      <link>https://www.frandroid.com/bons-plans/2941339_carrefour-les-12-meilleures-offres-des-soldes-qui-valent-le-coup-ce-week-end</link>
+      <pubDate>Fri, 23 Jan 2026 16:20:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2941339_carrefour-les-12-meilleures-offres-des-soldes-qui-valent-le-coup-ce-week-end</guid>
+      <description>
+Ce week-end, Carrefour lance une avalanche de bonnes affaires &#224; l&#8217;occasion de la 3&#7497; d&#233;marque des soldes d&#8217;hiver&#8239;! Les offres se multiplient sur une large s&#233;lection de produits Tech&#8239;: TV OLED &#224; prix r&#233;duits, smartphones &#224; petits prix et PC portables en promo&#8230; de quoi se faire plaisir sans se ruiner.
+</description>
+    </item>
+    <item>
+      <title>Here&#8217;s what you should know about the US TikTok deal</title>
+      <link>https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/</link>
+      <pubDate>Fri, 23 Jan 2026 16:17:19 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=2966426</guid>
+      <description>A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion.</description>
+    </item>
+    <item>
+      <title>Custom-made 'vishing' kits are attacking SSO accounts across the world - Google, Microsoft and Okta under threat, here's what we know</title>
+      <link>https://www.techradar.com/pro/security/custom-made-vishing-kits-are-attacking-sso-accounts-across-the-world-google-microsoft-and-okta-under-threat-heres-what-we-know</link>
+      <pubDate>Fri, 23 Jan 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="false">CufYU4hd7RXF2mkXUozqQo</guid>
+      <description>The kits are so good that vishing is growing more popular, but there is a solution.</description>
+    </item>
+    <item>
+      <title>Age Verification Is Reaching a Global Tipping Point. Is TikTok&#8217;s Strategy a Good Compromise?</title>
+      <link>https://www.wired.com/story/age-verification-is-reaching-a-global-tipping-point-is-tiktoks-strategy-a-good-compromise/</link>
+      <pubDate>Fri, 23 Jan 2026 16:11:29 +0000</pubDate>
+      <guid isPermaLink="false">696fcd7cca96f83356758b10</guid>
+      <description>TikTok&#8217;s new age-detection tech seems like a better solution than automatically banning youth accounts. But experts say it still requires social platforms to surveil users more closely.</description>
+    </item>
+    <item>
+      <title>Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea</title>
+      <link>https://www.theverge.com/report/866683/chatgpt-health-sharing-data</link>
+      <pubDate>2026-01-23T11:07:24-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=866683</guid>
+      <description>Every week, more than 230 million people ask ChatGPT for health and wellness advice, according to OpenAI. The company says that many see the chatbot as an "ally" to help navigate the maze of insurance, file paperwork, and become better self-advocates. In exchange, it hopes you will trust its chatbot with details about your diagnoses, [&#8230;]</description>
+    </item>
+    <item>
+      <title>AdGuard goes open-source with its custom VPN protocol that can mimic web traffic</title>
+      <link>https://www.techradar.com/vpn/vpn-services/adguard-goes-open-source-with-its-custom-vpn-protocol-that-can-mimic-web-traffic</link>
+      <pubDate>Fri, 23 Jan 2026 16:03:11 +0000</pubDate>
+      <guid isPermaLink="false">pp8zaLUpiHnxUjAe9WD4cM</guid>
+      <description>AdGuard VPN's TrustTunnel is already being used across AdGuard VPN apps and is now available to "use, run, tweak, extend, and build upon," said the provider.</description>
+    </item>
+    <item>
+      <title>The Math on AI Agents Doesn&#8217;t Add Up</title>
+      <link>https://www.wired.com/story/ai-agents-math-doesnt-add-up/</link>
+      <pubDate>Fri, 23 Jan 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">696fc66418b82b3267d015a4</guid>
+      <description>A research paper suggests AI agents are mathematically doomed to fail. The industry doesn&#8217;t agree.</description>
+    </item>
+    <item>
+      <title>Why this winter storm will likely be a wild one</title>
+      <link>https://www.theverge.com/science/866624/winter-storm-forecast-drivers-climate</link>
+      <pubDate>2026-01-23T11:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=866624</guid>
+      <description>Most of the US is bracing for a prolonged stretch of frigid weather and a massive winter storm that could wreak havoc on roads and power grids over the next several days. At least 170 million Americans are under winter weather alerts. "Bitterly cold temperatures and dangerously cold wind chills" will linger even after the [&#8230;]</description>
+    </item>
+    <item>
+      <title>This startup will send 1,000 people&#8217;s ashes to space &#8212; affordably &#8212; in 2027</title>
+      <link>https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/</link>
+      <pubDate>Fri, 23 Jan 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085000</guid>
+      <description>Started by an engineer who worked on the space shuttle program, and at Blue Origin, Space Beyond has a spot on a 2027 Falcon 9 flight.</description>
+    </item>
+    <item>
+      <title>The PlayStation Portal has been my favorite PS5 accessory since it launched &#8212; here are 8 ways Sony could make a new version even better</title>
+      <link>https://www.techradar.com/gaming/the-playstation-portal-has-been-my-favorite-ps5-accessory-since-it-launched-here-are-8-ways-sony-could-make-a-new-version-even-better</link>
+      <pubDate>Fri, 23 Jan 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">S85eM2Q4oSd3p7YMEDY4za</guid>
+      <description>I&#8217;m a huge fan of the PlayStation Portal, but I think a newer version could make it even better. Here are the upgrades in a new model I&#8217;d love to see.</description>
+    </item>
+    <item>
+      <title>Thinking about revisiting The Witcher 3 ahead of The Witcher 4? This Witcher Online mode might keep you busy in the meantime</title>
+      <link>https://www.techradar.com/gaming/thinking-about-revisiting-the-witcher-3-ahead-of-the-witcher-4-this-witcher-online-mode-might-keep-you-busy-in-the-meantime</link>
+      <pubDate>Fri, 23 Jan 2026 15:59:36 +0000</pubDate>
+      <guid isPermaLink="false">ASuhYizWXSvmXLzkpnEfpT</guid>
+      <description>If you're thinking about diving back into The Witcher 3: Wild Hunt ahead of The Witcher 4, someone has released a multiplayer mod that may tide you over.</description>
+    </item>
+    <item>
+      <title>Get the Xreal One Pro AR Glasses for $170 less at Amazon</title>
+      <link>https://mashable.com/article/jan-23-xreal-one-pro-ar-glasses-deal</link>
+      <pubDate>Fri, 23 Jan 2026 15:58:32 +0000</pubDate>
+      <guid isPermaLink="false">00SXdl11J6ILklxxogMB4UD</guid>
+      <description>As of Jan. 23, the Xreal One Pro AR Glasses are on sale for $599, down from$769, at Amazon. That's a 22% discount or $170 in savings.</description>
+    </item>
+    <item>
+      <title>How to watch all of the 2026 Best Picture Oscar nominees</title>
+      <link>https://mashable.com/article/how-to-watch-2026-oscar-nominees-best-picture</link>
+      <pubDate>Fri, 23 Jan 2026 15:57:14 +0000</pubDate>
+      <guid isPermaLink="false">055UeTtRKb3TgbdFyDzb3Rb</guid>
+      <description>Here's how to watch every nominee for Best Picture at the 2026 Oscars: "One Battle After Another," "Sinners," "Hamnet," and more.</description>
+    </item>
+    <item>
+      <title>50 ans apr&#232;s Apollo, pourquoi ce retour historique vers la Lune d&#233;pend de quelques jours cl&#233;s</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/artemis-ii-50-ans-apres-apollo-ce-retour-historique-vers-lune-depend-quelques-jours-cles-130455/#xtor%3DRSS-8</link>
+      <pubDate>Fri, 23 Jan 2026 16:57:02 +0100</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/artemis-ii-50-ans-apres-apollo-ce-retour-historique-vers-lune-depend-quelques-jours-cles-130455/#xtor%3DRSS-8</guid>
+      <description>La fus&#233;e d&#8217;Artemis II est d&#233;sormais sur son pas de tir en Floride&#160;et le compte &#224; rebours technique a commenc&#233;. Mais contrairement aux apparences, la date de lancement ne d&#233;pend pas seulement de l&#8217;&#233;tat du SLS : m&#233;canique orbitale, s&#233;curit&#233; des astronautes, &#233;nergie solaire et m&#234;me m&#233;t&#233;o imposent &#224;...</description>
+    </item>
+    <item>
+      <title>Cette puissante barre de son JBL &#224; moiti&#233; prix est l&#8217;affaire en or des soldes d&#8217;hiver</title>
+      <link>https://www.frandroid.com/bons-plans/2474056_cette-puissante-barre-de-son-jbl-a-moitie-prix-est-laffaire-en-or-des-soldes-dhiver</link>
+      <pubDate>Fri, 23 Jan 2026 15:56:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2474056_cette-puissante-barre-de-son-jbl-a-moitie-prix-est-laffaire-en-or-des-soldes-dhiver</guid>
+      <description>
+Compacte et puissante, la JBL SB560 est une barre de son id&#233;ale pour un t&#233;l&#233;viseur. Compatible Bluetooth, elle se transforme en enceinte traditionnelle pour diffuser de la musique depuis un smartphone. Durant les soldes d'hiver 2026, elle voit son prix chuter de 249 euros &#224; seulement 129 euros gr&#226;ce &#224; un code promo.
+</description>
+    </item>
+    <item>
+      <title>Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects&#8217; laptops: reports</title>
+      <link>https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/</link>
+      <pubDate>Fri, 23 Jan 2026 15:54:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085478</guid>
+      <description>The FBI served Microsoft a warrant requesting encryption recovery keys to decrypt the hard drives of people involved in an alleged fraud case in Guam.</description>
+    </item>
+    <item>
+      <title>TikTok-like microdramas are going to make billions this year, even though they kind of suck</title>
+      <link>https://techcrunch.com/2026/01/23/tiktok-like-microdramas-are-going-to-make-billions-this-year-even-though-they-kind-of-suck/</link>
+      <pubDate>Fri, 23 Jan 2026 15:50:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085463</guid>
+      <description>The business model behind these apps replicates the same dark patterns as mobile games.</description>
+    </item>
+    <item>
+      <title>&#8216;Jujutsu Kaisen&#8217; Peaked With Maki Zenin&#8217;s Rebirth</title>
+      <link>https://gizmodo.com/jujutsu-kaisen-spoilers-culling-game-episode-4-maki-2000713310</link>
+      <pubDate>Fri, 23 Jan 2026 15:45:35 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713310</guid>
+      <description>Mappa's adaptation of Maki Zenin's big moment deserves to be hung in the rafters of generational anime beatdowns.</description>
+    </item>
+    <item>
+      <title>Bezos&#8217;s Next Rocket Launch Might Be the Most Crucial Yet for Blue Origin</title>
+      <link>https://gizmodo.com/bezoss-next-rocket-launch-might-be-the-most-crucial-yet-for-blue-origin-2000713329</link>
+      <pubDate>Fri, 23 Jan 2026 15:45:20 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713329</guid>
+      <description>The company will reuse a New Glenn rocket booster for the first time.</description>
+    </item>
+    <item>
+      <title>TikTok finalizes deal to create new US entity and avoid ban</title>
+      <link>https://techcrunch.com/2026/01/23/tiktok-finalizes-deal-to-create-new-us-entity-and-avoid-ban/</link>
+      <pubDate>Fri, 23 Jan 2026 15:44:18 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085468</guid>
+      <description>The deal ends a six-year long political saga that that&#160;started in 2020 when President&#160;Donald Trump&#160;tried to ban the app over national security concerns during his first term.</description>
+    </item>
+    <item>
+      <title>Tesla Optimus&#160;: le robot humano&#239;de chez vous d&#232;s 2027&#160;? Elon Musk y croit</title>
+      <link>https://www.01net.com/actualites/tesla-optimus-le-robot-humanoide-chez-vous-des-2027-elon-musk-y-croit.html</link>
+      <pubDate>Fri, 23 Jan 2026 15:43:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1322202</guid>
+      <description>Invit&#233; surprise &#224; Davos, Elon Musk a l&#226;ch&#233; une information capitale pour l'avenir de Tesla. Le robot Optimus pourrait d&#233;barquer dans les foyers d'ici la fin 2027. Un pari risqu&#233;, mais vital pour la marque.</description>
+    </item>
+    <item>
+      <title>Snag a Magic: The Gathering March of the Machine booster box for below market value</title>
+      <link>https://mashable.com/article/jan-23-magic-the-gathering-march-of-the-machine-booster-box-deal</link>
+      <pubDate>Fri, 23 Jan 2026 15:42:16 +0000</pubDate>
+      <guid isPermaLink="false">06YGN1Mqd6rucYq3DRz6VFG</guid>
+      <description>As of Jan. 23, get the Magic: The Gathering March of the Machine booster box for below market value.</description>
+    </item>
+    <item>
+      <title>Get the Anker Solix C1000 Gen 2 portable power station for nearly half price</title>
+      <link>https://mashable.com/article/jan-23-anker-solix-c1000-gen-2-deal</link>
+      <pubDate>Fri, 23 Jan 2026 15:32:09 +0000</pubDate>
+      <guid isPermaLink="false">00yxJUg7B7U66jYTQvXfA31</guid>
+      <description>The Anker Solix C1000 Gen 2 is on sale at Amazon for only $429. That's 46% or $370 off its list price.</description>
+    </item>
+    <item>
+      <title>How to watch Skyscraper Live: See Alex Honnold climb one of the worlds tallest buildings in real time</title>
+      <link>https://mashable.com/article/how-to-watch-skyscraper-live</link>
+      <pubDate>Fri, 23 Jan 2026 15:30:17 +0000</pubDate>
+      <guid isPermaLink="false">00v3Bsr4aTxQEHlgAEO8h6H</guid>
+      <description>Alex Honnold will climb Taipei 101 skyscraper live on Netflix in 'Skyscraper Live.' Here are the streaming details.</description>
+    </item>
+    <item>
+      <title>Iran Shows Why America&#8217;s Embrace of Stablecoins Is a Double-Edged Sword</title>
+      <link>https://gizmodo.com/iran-shows-why-americas-embrace-of-stablecoins-is-a-double-edged-sword-2000713342</link>
+      <pubDate>Fri, 23 Jan 2026 15:30:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713342</guid>
+      <description>Lawmakers are propping up the sanction-avoidance industry in the name of the almighty dollar.</description>
+    </item>
     <item>
       <title>OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources</title>
       <link>https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/</link>
       <pubDate>Fri, 23 Jan 2026 15:30:09 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3085456</guid>
       <description>Sam Altman is set for his first India visit in nearly a year.</description>
+    </item>
+    <item>
+      <title>Anbernic&#8217;s New Controller Has a Screen and Built-In Heartbeat Sensor, for Some Reason</title>
+      <link>https://gizmodo.com/anbernics-new-controller-has-a-screen-and-built-in-heartbeat-sensor-for-some-reason-2000713347</link>
+      <pubDate>Fri, 23 Jan 2026 15:30:07 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713347</guid>
+      <description>The retro Game Boy maker's first pro-level controller may still be enticing even to non-hypochondriacs.</description>
     </item>
     <item>
       <title>Fortinet FortiGate devices hit in automated attacks which create rogue accounts and steal firewall data</title>
@@ -42,6 +249,13 @@ Quelques utilisateurs sont touch&#233;s par un probl&#232;me tr&#232;s &#233;tra
       <description>AI's role in finance is evolving, and finance teams must now focus on delivering tangible results.</description>
     </item>
     <item>
+      <title>Super Marios Wonder is coming to life &#8212; heres where to preorder Nintendos Talking Flower</title>
+      <link>https://mashable.com/article/where-to-preorder-talking-flower</link>
+      <pubDate>Fri, 23 Jan 2026 15:17:37 +0000</pubDate>
+      <guid isPermaLink="false">05JAVK8fOwpE9vnLaW6OhIU</guid>
+      <description>Nintendo is bringing 'Super Mario Bros. Wonder' to life with the Talking Flower. Preorder now at Nintendo before its March 12 arrival.</description>
+    </item>
+    <item>
       <title>Raspberry Pi d&#233;gaine un nouveau produit, et ce n&#8217;est pas un PC</title>
       <link>https://www.frandroid.com/produits-android/ordinateurs/2953615_raspberry-pi-degaine-un-nouveau-produit-et-ce-nest-pas-un-pc</link>
       <pubDate>Fri, 23 Jan 2026 15:17:25 +0000</pubDate>
@@ -58,6 +272,13 @@ Loin est le temps de la simple petite carte PC &#224; 40 dollars, Raspberry cont
       <description>
 Apr&#232;s avoir annonc&#233; l'arriv&#233;e de publicit&#233;s suppl&#233;mentaires dans l'App Store, Apple d&#233;voile quand nous y aurons droit.
 </description>
+    </item>
+    <item>
+      <title>Tesla cars in the U.S. no longer come with Autopilot</title>
+      <link>https://mashable.com/article/tesla-discontinues-autopilot</link>
+      <pubDate>Fri, 23 Jan 2026 15:15:16 +0000</pubDate>
+      <guid isPermaLink="false">05hTO4CxhknU0XcjHeV70V0</guid>
+      <description>Tesla has discontinued its Autopilot set of driving assistance features in the U.S.</description>
     </item>
     <item>
       <title>Gaze Deeply Into Nature With These Award-Winning Ecology Photos</title>
@@ -86,6 +307,13 @@ Apr&#232;s avoir annonc&#233; l'arriv&#233;e de publicit&#233;s suppl&#233;menta
       <pubDate>Fri, 23 Jan 2026 15:10:12 +0000</pubDate>
       <guid isPermaLink="false">https://www.01net.com/?p=1322216</guid>
       <description>Les grandes entreprises de la tech ont d&#233;pens&#233; sans compter pour &#234;tre dans les petits papiers de l'administration Trump. Les d&#233;penses de lobbying ont &#233;t&#233; d&#233;voil&#233;es et elles sont globalement en hausse. Meta, Amazon et Google ont &#233;t&#233; les plus d&#233;pensiers l'an dernier.</description>
+    </item>
+    <item>
+      <title>Microsoft 365 outage cause revealed</title>
+      <link>https://mashable.com/article/microsoft-365-outage-cause-revealed-what-we-know</link>
+      <pubDate>Fri, 23 Jan 2026 15:08:58 +0000</pubDate>
+      <guid isPermaLink="false">02T22EaKPTpJP68hPiJUeAj</guid>
+      <description>Microsoft shed some light on what caused its major 365 outage on Jan. 22.</description>
     </item>
     <item>
       <title>1348: Ex Voto, an action game featuring a female knight on a quest to save Jennifer English in medieval Italy, sounds like just the game for me, and it's launching in March</title>
@@ -132,27 +360,6 @@ Tent&#233; par l'effet vintage du Fujifilm X Half ? Ce petit bo&#238;tier au ren
       <description>Register now&#160;to&#160;save up to $680 on your TechCrunch Disrupt 2026 pass and get a second ticket at 50% off.&#160;This offer ends&#160;next week on January 30, or once the first&#160;500 tickets&#160;are claimed &#8212; whichever comes first.</description>
     </item>
     <item>
-      <title>Quordle hints and answers for Saturday, January 24 (game #1461)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-24-january-2026</link>
-      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LG7eRrvKQ73FS6y7P693ZR</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Saturday, January 24 (game #692)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-24-january-2026</link>
-      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ptgH89a2kcjQiGpLRrcU5L</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Saturday, January 24 (game #958)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-january-2026</link>
-      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9vThBWefGqvjV4QcMhyGVH</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
       <title>Die My Love missing a best cinematography nod is the most outrageous 2026 Oscars snub &#8212; but Seamus McGarvey's starter camera kit is exactly what any budding filmmaker needs</title>
       <link>https://www.techradar.com/streaming/entertainment/die-my-love-missing-a-best-cinematography-nod-is-the-most-outrageous-2026-oscars-snub-but-seamus-mcgarveys-starter-camera-kit-is-exactly-what-any-budding-filmmaker-needs</link>
       <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
@@ -167,6 +374,27 @@ Tent&#233; par l'effet vintage du Fujifilm X Half ? Ce petit bo&#238;tier au ren
       <description>From anticipated new shows to the streaming debut of two movie biopics, here's what you'll want to watch this weekend.</description>
     </item>
     <item>
+      <title>NYT Connections hints and answers for Saturday, January 24 (game #958)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-january-2026</link>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9vThBWefGqvjV4QcMhyGVH</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Saturday, January 24 (game #692)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-24-january-2026</link>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ptgH89a2kcjQiGpLRrcU5L</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Saturday, January 24 (game #1461)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-24-january-2026</link>
+      <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LG7eRrvKQ73FS6y7P693ZR</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
       <title>Trois c&#226;bles sous-marins sabot&#233;s en Europe&#160;: la Finlande soup&#231;onne la Russie</title>
       <link>https://www.01net.com/actualites/trois-cables-sous-marins-ete-sabotes-un-apres-autre-europe.html</link>
       <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
@@ -179,6 +407,13 @@ Tent&#233; par l'effet vintage du Fujifilm X Half ? Ce petit bo&#238;tier au ren
       <pubDate>Fri, 23 Jan 2026 14:56:52 +0000</pubDate>
       <guid isPermaLink="false">KGCviFNB34Dps3hhKfYw7m</guid>
       <description>Human workers are key to preventing cyberattacks and operating alongside AI to enhance cyber resilience.</description>
+    </item>
+    <item>
+      <title>How to watch college basketball without cable</title>
+      <link>https://mashable.com/article/how-to-watch-college-basketball-live-streams</link>
+      <pubDate>Fri, 23 Jan 2026 14:51:20 +0000</pubDate>
+      <guid isPermaLink="false">02T23KPyxLY6FIIVpOJ0KSu</guid>
+      <description>How to watch college basketball without cable. Watch college basketball live streams and get the best streaming deals.</description>
     </item>
     <item>
       <title>On a vu la premi&#232;re voiture &#233;lectrique chinoise qui conduit seule &#224; 120 km/h : la GAC Hyptec A800</title>
@@ -237,187 +472,6 @@ La notion de prix conseill&#233; n'a d&#233;cid&#233;ment plus aucun sens alors 
       <description>
 Samsung a laiss&#233; appara&#238;tre un indice explicite sur une fonctionnalit&#233; tr&#232;s attendue de son prochain smartphone haut de gamme. Une capture publi&#233;e sur son propre site montre en effet la pr&#233;sence de l&#8217;&#171; Affichage confidentiel &#187; pour One UI 8.5. 
 </description>
-    </item>
-    <item>
-      <title>Get the 512GB Samsung P9 microSD Express card for 33 percent off right now</title>
-      <link>https://www.engadget.com/deals/get-the-512gb-samsung-p9-microsd-express-card-for-33-percent-off-right-now-143849920.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 14:35:36 +0000</pubDate>
-      <guid isPermaLink="false">b7c1c9b1-8762-4b3b-bd34-558e13eba66f</guid>
-      <description>MicroSD Express cards are still a little hard to find, considering they're pretty new and only really started becoming popular last year once the Switch 2 came out. These upgraded versions of microSD cards are the only ones compatible with the Switch 2 for expanding its storage, so if you're already starting to feel the crunch on your console, it's worth picking one up. Samsung's P9 microSD Express card is on sale right now &#8212; you can grab the 512GB version of $80, which is 33 percent off and one of the best prices we've seen.
-
-
-The P9 boasts transfer speeds of up to 800MB/s, making moving game...</description>
-    </item>
-    <item>
-      <title>Linux users targeted as crypto-stealing malware hits Snap packages - here's how to stay safe</title>
-      <link>https://www.techradar.com/pro/security/linux-users-targeted-as-crypto-stealing-malware-hits-snap-packages-heres-how-to-stay-safe</link>
-      <pubDate>Fri, 23 Jan 2026 14:35:00 +0000</pubDate>
-      <guid isPermaLink="false">GBsAWUHUfTiLwV9iFqQ29k</guid>
-      <description>There's a "relentless" campaign on the Ubuntu app store, and people are losing their crypto, experts warn.</description>
-    </item>
-    <item>
-      <title>Tesla finally kills Autopilot in a bid to boost FSD subscriptions</title>
-      <link>https://www.theverge.com/transportation/866586/tesla-kills-autopilot-autosteer-fsd-subscription</link>
-      <pubDate>2026-01-23T09:34:21-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=866586</guid>
-      <description>Tesla scrapped its Autopilot driver assist feature that used to come standard in new vehicles, as it attempts to steer customers to its newly subscription-only Full Self-Driving (FSD) system. According to Electrek, the company removed Basic Autopilot as a standard feature from new Model 3 and Model Y vehicles in North America. That means in [&#8230;]</description>
-    </item>
-    <item>
-      <title>Quel forfait mobile pour le Japon&#8201;? Nos conseils pour communiquer et rester connect&#233;</title>
-      <link>https://www.frandroid.com/telecom/forfait-mobile/1945544_quel-forfait-mobile-pour-le-japon-nos-conseils-pour-communiquer-et-rester-connecte</link>
-      <pubDate>Fri, 23 Jan 2026 14:30:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/forfait-mobile/1945544_quel-forfait-mobile-pour-le-japon-nos-conseils-pour-communiquer-et-rester-connecte</guid>
-      <description>
-Vous avez pr&#233;vu un voyage au Japon, mais vous souhaitez savoir comment vous allez pouvoir communiquer avec vos proches rest&#233;s en France sans en payer le prix fort ? Voici les meilleurs forfaits pour le Japon.
-</description>
-    </item>
-    <item>
-      <title>This reduction would 'offset the initial cost of the device': New research argues for health services giving out Apple Watches to patients for free &#8212; here's why</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/this-reduction-would-offset-the-initial-cost-of-the-device-new-research-argues-for-health-services-giving-out-apple-watches-to-patients-for-free-heres-why</link>
-      <pubDate>Fri, 23 Jan 2026 14:29:20 +0000</pubDate>
-      <guid isPermaLink="false">RtS3knQHS9bfpdJUDjp59K</guid>
-      <description>Science confirms what we knew all along: smartwatches are literal lifesavers.</description>
-    </item>
-    <item>
-      <title>Gemini peut d&#233;sormais vraiment vous aider &#224; r&#233;viser le bac</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2953351_gemini-peut-desormais-vraiment-vous-aider-a-reviser-le-bac</link>
-      <pubDate>Fri, 23 Jan 2026 14:26:12 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2953351_gemini-peut-desormais-vraiment-vous-aider-a-reviser-le-bac</guid>
-      <description>
-Google n'en finit plus d'ajouter des fonctions &#224; son IA Gemini. Bien consciente que ChatGPT est tr&#232;s utilis&#233; pour les r&#233;visions, la firme propose d&#233;sormais un mode sp&#233;cial pour Gemini.
-</description>
-    </item>
-    <item>
-      <title>Le Tesla Model Y vient de s&#8217;am&#233;liorer : voici ce qui change (et ce qu&#8217;il manque encore)</title>
-      <link>https://www.frandroid.com/marques/tesla/2953415_le-tesla-model-y-vient-de-sameliorer-voici-ce-qui-change-et-ce-quil-manque-encore</link>
-      <pubDate>Fri, 23 Jan 2026 14:22:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/2953415_le-tesla-model-y-vient-de-sameliorer-voici-ce-qui-change-et-ce-quil-manque-encore</guid>
-      <description>
-Ce n'&#233;tait qu'une question de temps : apr&#232;s la Chine et les &#201;tats-Unis, le Tesla Model Y s'am&#233;liore subtilement en Europe, notamment en qualit&#233; per&#231;ue. Dommage : les versions 7 places et les nouvelles batteries, dont l'arriv&#233;e semble imminente, manquent &#224; l'appel.
-</description>
-    </item>
-    <item>
-      <title>Soldes montres connect&#233;es : les 14 promotions pour &#234;tre &#224; l&#8217;heure &#224; ses s&#233;ances de sport ! Voici notre top des meilleurs bons plans</title>
-      <link>https://www.frandroid.com/bons-plans/2937331_soldes-montres-connectees-les-14-promotions-pour-etre-a-lheure-a-ses-seances-de-sport-voici-notre-top-des-meilleurs-bons-plans</link>
-      <pubDate>Fri, 23 Jan 2026 14:19:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2937331_soldes-montres-connectees-les-14-promotions-pour-etre-a-lheure-a-ses-seances-de-sport-voici-notre-top-des-meilleurs-bons-plans</guid>
-      <description>
-Les soldes d'hiver permettent de faire de bonnes affaires sur de nombreux produits Tech, dont les montres connect&#233;es ! Ces accessoires lifestyle &amp; sport profitent eux aussi d&#8217;une vague de promotions : voici les offres &#224; retenir.  
-</description>
-    </item>
-    <item>
-      <title>Apple pourrait d&#233;voiler tr&#232;s rapidement de nouveaux MacBook Pro</title>
-      <link>https://www.01net.com/actualites/apple-pourrait-devoiler-tres-rapidement-de-nouveaux-macbook-pro.html</link>
-      <pubDate>Fri, 23 Jan 2026 14:15:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1322197</guid>
-      <description>Apple pr&#233;pare tr&#232;s certainement de nouveaux MacBook Pro. Le constructeur organise non pas une keynote, mais une &#171;&#160;Apple Experience &#187; la semaine prochaine, durant laquelle seront convi&#233;s des cr&#233;ateurs. Un moment id&#233;al pour leur pr&#233;senter le nouvel abonnement Creator Studio&#8230; et pourquoi pas des portables in&#233;dits.</description>
-    </item>
-    <item>
-      <title>Le Galaxy S26 Ultra pourrait bien signer l&#8217;arr&#234;t de mort des protections d&#8217;&#233;cran</title>
-      <link>https://www.frandroid.com/marques/samsung/2953359_le-galaxy-s26-ultra-pourrait-bien-signer-larret-de-mort-des-protections-decran</link>
-      <pubDate>Fri, 23 Jan 2026 14:14:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2953359_le-galaxy-s26-ultra-pourrait-bien-signer-larret-de-mort-des-protections-decran</guid>
-      <description>
-Vous faites partie de ceux qui passent dix minutes &#224; chasser la moindre bulle d'air sous un film plastique hors de prix ? Samsung pourrait bient&#244;t rendre ce rituel obsol&#232;te avec le Galaxy S26 Ultra, dont les nouvelles technologies d'affichage promettent d&#8217;&#233;nerver les fabricants d'accessoires.
-</description>
-    </item>
-    <item>
-      <title>One Familiar Face Isn&#8217;t Back for &#8216;The Mummy 4&#8217; Yet</title>
-      <link>https://gizmodo.com/the-mummy-4-oded-fehr-ardeth-bay-2000713209</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:32 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000713209</guid>
-      <description>Plus, somehow 'Primitive War' returned, and is bringing 'secret Cold War agendas' with it.</description>
-    </item>
-    <item>
-      <title>Comment transf&#233;rer une eSIM entre deux smartphones ?</title>
-      <link>https://www.frandroid.com/telecom/2733813_transfert-desim-voici-le-guide-pour-transferer-facilement-une-sim-virtuelle-entre-deux-smartphones</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/2733813_transfert-desim-voici-le-guide-pour-transferer-facilement-une-sim-virtuelle-entre-deux-smartphones</guid>
-      <description>
-L'eSIM est aujourd'hui disponible aupr&#232;s des quatre grands op&#233;rateurs et de quelques op&#233;rateurs virtuels. Si elle est pratique &#224; installer, son transfert d'un smartphone &#224; l'autre n'est pas forc&#233;ment &#233;vident. La d&#233;marche n'est pourtant pas compliqu&#233;e une fois qu'on la conna&#238;t, d'o&#249; ce guide.
-</description>
-    </item>
-    <item>
-      <title>How to watch NBA live streams online for free</title>
-      <link>https://mashable.com/article/nba-live-stream-for-free</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:02 +0000</pubDate>
-      <guid isPermaLink="false">00g25aEcur2kjg9jd7L05SO</guid>
-      <description>How to watch NBA for free. Live stream NBA games for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>The Best Paper Notebooks and Journals, Tested and Reviewed (2026): Leuchttherm, Midori, Field Notes</title>
-      <link>https://www.wired.com/gallery/the-best-paper-notebook-and-journals/</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">66c37ae6bfbc1f252e6030c1</guid>
-      <description>Celebrate National Handwriting Day (I did not make that up) with new notebooks, a journal, or sketchbooks.</description>
-    </item>
-    <item>
-      <title>Spartacus: House of Ashur episode 8 reveals the most distressing gladiator death in the Starz show to date &#8212; and its cast 'felt completely shaken' after filming</title>
-      <link>https://www.techradar.com/streaming/entertainment/spartacus-house-of-ashur-episode-8-interview</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">SuUp2TzkGuQHRmnsWLPr7c</guid>
-      <description>The final scene of a Spartacus: House of Ashur episode is always a shocker, but episode 8 is the most deeply upsetting yet... even for its cast.</description>
-    </item>
-    <item>
-      <title>What is the release date for A Knight of the Seven Kingdoms episode 2 on HBO Max?</title>
-      <link>https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-for-a-knight-of-the-seven-kingdoms-episode-2-on-hbo-max</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">qJNic2xGRJia56wdRSTSwh</guid>
-      <description>Find out when and where you can watch episode 2 of A Knight of the Seven Kingdoms.</description>
-    </item>
-    <item>
-      <title>Samsung Bespoke Fridge with AI review: All the bells and whistles</title>
-      <link>https://www.engadget.com/home/kitchen-tech/samsung-bespoke-fridge-with-ai-review-all-the-bells-and-whistles-140000099.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1511d80f-6cd2-4573-bcf8-da54b7c99e56</guid>
-      <description>At their core, refrigerators are relatively simple devices. If you're the type of person to view every extra feature as a component that could potentially go wrong, basic iceboxes are probably the kind you go for. But for those on the other end of the spectrum, Samsung's latest Bespoke Refrigerators with AI inside have more bells and whistles than you might think possible &#8212; including an optional 32-inch screen.
-Editor's note: The model we tested for this review came out in the second half of 2025 and will continue to be on sale throughout 2026. Hardware will remain the same, the only changes w...</description>
-    </item>
-    <item>
-      <title>Ring can now verify if a video has been altered</title>
-      <link>https://www.engadget.com/home/smart-home/ring-can-now-verify-if-a-video-has-been-altered-140000140.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9d4563e0-3185-47a5-a9a4-8c4221e5d167</guid>
-      <description>Ring has launched a new tool that can tell you if a video clip captured by its camera has been altered or not. The company says that every video downloaded from Ring starting in December 2025 going forward will come with a digital security seal. &#8220;Think of it like the tamper-evident seal on a medicine bottle,&#8221; it explained. Its new tool, called Ring Verify, can tell you if a video has been altered in any way. Even adjusting a video clip&#8217;s brightness or trimming a few seconds off will break that seal, and the tool will tell you that it cannot be verified. All you have to do is visit the tool&#8217;s w...</description>
-    </item>
-    <item>
-      <title>Minnesota economic blackout: List of stores closed today, schedule of events, where to donate as anti-ICE protest kicks off</title>
-      <link>https://www.fastcompany.com/91480026/minnesota-day-of-truth-and-freedom-anti-ice-protest-economic-blackout-today-list-of-stores-closing-where-to-donate-event-schedule</link>
-      <pubDate>2026-01-23T14:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91480026/minnesota-day-of-truth-and-freedom-anti-ice-protest-economic-blackout-today-list-of-stores-closing-where-to-donate-event-schedule</guid>
-      <description>Hundreds of businesses across the state are closing their doors on January 23 for the Day of Truth and Freedom.
-Minnesota continues to be the beating heart of nationwide anti-ICE movements with The Day of Truth and Freedom. Today, January 23, hundreds of businesses across the state are closing their doors in protest after community groups, faith-based organizations, and unions came together to call for an &#8220;economic blackout.&#8221;&#160;...</description>
-    </item>
-    <item>
-      <title>Professor Reports That OpenAI Deleted His Work, World Laughs in His Face</title>
-      <link>https://gizmodo.com/professor-reports-that-openai-deleted-his-work-world-laughs-in-his-face-2000713196</link>
-      <pubDate>Fri, 23 Jan 2026 13:55:24 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000713196</guid>
-      <description>"Amazing sob story: 'ChatGPT deleted all the work I hadn't done.'"</description>
-    </item>
-    <item>
-      <title>TurboTax Deluxe is on sale for only $45 ahead of tax season</title>
-      <link>https://www.engadget.com/deals/turbotax-deluxe-is-on-sale-for-only-45-ahead-of-tax-season-204848111.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 13:46:27 +0000</pubDate>
-      <guid isPermaLink="false">8d4b28c6-34f1-44bb-800a-eec732a96ded</guid>
-      <description>With the spring approaching, it's time to start thinking about how you'll file your taxes. Unfortunately, with the recent demise of Direct File, there isn't a free, government-provided alternative to TurboTax in 2026, and you'll need to look to other federal programs, including IRS Free File, to file your paperwork. If you don't qualify for Free File, chances are you'll need to dish out cash for Intuit's software. And while we hate to suggest you give money to a company that has spent decades lobbying to ensure America's tax system remains a nightmare, we can at least save you some money if Tu...</description>
-    </item>
-    <item>
-      <title>Il est encore temps d&#8217;acheter un puissant laptop sous RTX 5070 + 32 Go de RAM &#224; bon prix pendant les soldes</title>
-      <link>https://www.frandroid.com/bons-plans/2804861_il-est-encore-temps-dacheter-un-puissant-laptop-sous-rtx-5070-32-go-de-ram-a-bon-prix-pendant-les-soldes</link>
-      <pubDate>Fri, 23 Jan 2026 13:44:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2804861_il-est-encore-temps-dacheter-un-puissant-laptop-sous-rtx-5070-32-go-de-ram-a-bon-prix-pendant-les-soldes</guid>
-      <description>
-En ce moment, vous avez le PC portable gaming Lenovo Legion 5 15IRX10 pour 1 299,99 euros alors qu'il &#233;tait propos&#233; &#224; 1 799,99 euros &#224; sa sortie. Il y a d&#233;j&#224; eu moins cher, mais &#231;a reste un tr&#232;s bon prix compte tenu de la p&#233;nurie des composants. 
-</description>
-    </item>
-    <item>
-      <title>3 things to know about Trump&#8217;s &#8216;Golden Dome&#8217; and Greenland&#8217;s role in nuclear defense</title>
-      <link>https://www.fastcompany.com/91480010/3-things-know-about-trumps-golden-dome-greenlands-role-nuclear-defense</link>
-      <pubDate>2026-01-23T13:33:19</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91480010/3-things-know-about-trumps-golden-dome-greenlands-role-nuclear-defense</guid>
-      <description>Trump says U.S. ownership of Greenland is crucial for his &#8216;Golden Dome&#8217; missile defense system.
-In a hypothetical nuclear war involving Russia, China and the United States, the island of Greenland would be in the middle of Armageddon.The strategic importance of the Arctic territory &#8212; under the flight paths that nuclear-armed missiles from China and Russia could take on their way to incinerating targets in the United States, and vice versa &#8212; is one of the reasons U.S. President Donald Trump has cited in his disruptive campaign to wrest control of Greenland from Denmark, alarming Greenlanders an...</description>
     </item>
   </channel>
 </rss>
