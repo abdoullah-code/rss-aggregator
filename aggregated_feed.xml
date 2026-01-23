@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 23 Jan 2026 20:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:26:24 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Reportedly Turned Over BitLocker Encryption Keys to the FBI</title>
+      <link>https://gizmodo.com/microsoft-reportedly-turned-over-bitlocker-encryption-keys-to-the-fbi-2000713550</link>
+      <pubDate>Fri, 23 Jan 2026 21:25:45 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713550</guid>
+      <description>Microsoft claims it receives about 20 requests for BitLocker keys a year.</description>
+    </item>
+    <item>
+      <title>I'm not sure anyone expected this - an unlikely new entrant enters the flash drive market, and it's one for true Raspberry Pi fans</title>
+      <link>https://www.techradar.com/pro/im-not-sure-anyone-expected-this-an-unlikely-new-entrant-enters-the-flash-drive-market-and-its-one-for-the-true-raspberry-pi-fans</link>
+      <pubDate>Fri, 23 Jan 2026 21:15:00 +0000</pubDate>
+      <guid isPermaLink="false">CUfj8aXQantZvF4M6j949K</guid>
+      <description>The Raspberry Pi Flash Drive is a compact USB 3.0 device offering fast speeds, durability, and flexibility for Pi projects..</description>
+    </item>
+    <item>
+      <title>The Rippling/Deel corporate spying scandal may have taken another wild turn</title>
+      <link>https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/</link>
+      <pubDate>Fri, 23 Jan 2026 21:13:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085598</guid>
+      <description>The Department of Justice may be conducting a criminal investigation. This is arguably the biggest drama between two HR startups ever.</description>
+    </item>
+    <item>
+      <title>I watched Disneyland Handcrafted &#8212; and it&#8217;s the kind of documentary you want to rewatch</title>
+      <link>https://www.techradar.com/streaming/entertainment/i-watched-disneyland-handcrafted-and-its-the-kind-of-documentary-you-want-to-rewatch</link>
+      <pubDate>Fri, 23 Jan 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">StrBTqDMXYM72kYiPfQE28</guid>
+      <description>Using raw archival footage restored with the Walt Disney Archives, Disneyland Handcrafted &#8211; directed by Leslie Iwerks and now streaming on Disney+ and YouTube &#8211; explores how Disneyland was built and why the ideas behind the original park still matter today.</description>
+    </item>
+    <item>
+      <title>There's a sneaky way to watch UFC 324 for FREE</title>
+      <link>https://www.techradar.com/how-to-watch/theres-a-sneaky-way-to-watch-ufc-324-for-free</link>
+      <pubDate>Fri, 23 Jan 2026 20:50:00 +0000</pubDate>
+      <guid isPermaLink="false">ZsLKK7RH4LXWsoFancKZ6K</guid>
+      <description>We uncovered a sneaky way to watch UFC 324 for FREE &#8211; from anywhere in the world, without coughing up for a Premium streaming subscription. Here's the trick...</description>
+    </item>
+    <item>
+      <title>A rival smart glasses company is suing Meta over its Ray-Ban products</title>
+      <link>https://www.engadget.com/wearables/a-rival-smart-glasses-company-is-suing-meta-over-its-ray-ban-products-205000997.html?src=rss</link>
+      <pubDate>Fri, 23 Jan 2026 20:50:00 +0000</pubDate>
+      <guid isPermaLink="false">5998982e-0cd6-462c-a0ee-418106e6e5d6</guid>
+      <description>Meta is being sued by Solos, a rival smart glasses maker, for infringing on its patents, Bloomberg reports. Solos is seeking "multiple billions of dollars" in damages and an injunction that could prevent Meta from selling its Ray-Ban Meta smart glasses as part of the lawsuit.Solos claims that Meta's Ray-Ban Meta Wayfarer Gen 1 smart glasses violate multiple patents covering "core technologies in the field of smart eyewear." While less well known than Meta and its partner EssilorLuxottica, Solos sells multiple pairs of glasses with similar features to what Meta offers. For example, the company'...</description>
+    </item>
+    <item>
+      <title>How to Prep for This Weekend&#8217;s Big Winter Storm: Power, Heat, and Underwear</title>
+      <link>https://www.wired.com/story/how-to-prep-for-a-winter-storm/</link>
+      <pubDate>Fri, 23 Jan 2026 20:34:19 +0000</pubDate>
+      <guid isPermaLink="false">6972acf52144cba86fd9342f</guid>
+      <description>Bitter cold, power outages, and impassible roads are a terrible cocktail. Here&#8217;s how to prep and bunker in for an extreme winter storm.</description>
+    </item>
+    <item>
+      <title>What to know about Netflix&#8217;s landmark acquisition of Warner Bros.</title>
+      <link>https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/</link>
+      <pubDate>Fri, 23 Jan 2026 20:31:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085519</guid>
+      <description>Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.</description>
+    </item>
     <item>
       <title>A Brief History of Fictional &#8216;Star Trek&#8217; Sports</title>
       <link>https://gizmodo.com/star-trek-fake-sports-calica-starfleet-academy-2000713435</link>
@@ -61,11 +117,19 @@
       <description>Meta CTO Andrew Bosworth has explained the company's new approach to VR, the metaverse, and XR glasses.</description>
     </item>
     <item>
-      <title>Researchers broke every AI defense they tested. Here are 7 questions to ask vendors.</title>
-      <link>https://venturebeat.com/security/12-ai-defenses-claimed-near-zero-attack-success-researchers-broke-all-of-them</link>
+      <title>How OpenAI is scaling the PostgreSQL database to 800 million users</title>
+      <link>https://venturebeat.com/data/how-openai-is-scaling-the-postgresql-database-to-800-million-users</link>
       <pubDate>Fri, 23 Jan 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5kKkMrejOtAGuZyavRmPjA</guid>
-      <description>Security teams are buying AI defenses that don't work. Researchers from OpenAI, Anthropic, and Google DeepMind published findings in October 2025 that should stop every CISO mid-procurement. Their paper, "The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Injections," tested 12 published AI defenses, with most claiming near-zero attack success rates. The research team achieved bypass rates above 90% on most defenses. The implication for enterprises is stark: Most AI security products are being tested against attackers that don&#8217;t behave like r...</description>
+      <guid isPermaLink="false">1YZEzpmzcG7fxNsFJPRBuX</guid>
+      <description>While vector databases still have many valid use cases, organizations including OpenAI are leaning on PostgreSQL to get things done.In a blog post on Thursday, OpenAI disclosed how it is using the open-source PostgreSQL database.OpenAI runs ChatGPT and its API platform for 800 million users on a single-primary PostgreSQL instance &#8212; not a distributed database, not a sharded cluster. One Azure PostgreSQL Flexible Server handles all writes. Nearly 50 read replicas spread across multiple regions handle reads. The system processes millions of queries per second while maintaining low double-digit mi...</description>
+    </item>
+    <item>
+      <title>The workplace just got even less friendly for LGBTQ+ workers</title>
+      <link>https://www.fastcompany.com/91479483/the-workplace-just-got-even-less-friendly-for-lgbtq-workers</link>
+      <pubDate>2026-01-23T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91479483/the-workplace-just-got-even-less-friendly-for-lgbtq-workers</guid>
+      <description>The EEOC just struck down its harassment guidance, which outlined protections for trans and gender-nonconforming workers. 
+This week, the Equal Employment Opportunity Commission rescinded its guidance on workplace harassment, in a move that could significantly undermine protections for all workers, but especially those who identify as LGBTQ+. The agency, which plays a crucial role as the federal watchdog that enforces anti-discrimination laws governing the workplace, voted on Thursday to strike down guidance that had been codified in 2024, during the Biden administration.&#160;...</description>
     </item>
     <item>
       <title>La Nasa met en sc&#232;ne le retour des Am&#233;ricains sur la Lune comme un film&#8230; et le message est clair</title>
@@ -101,108 +165,6 @@
       <pubDate>Fri, 23 Jan 2026 19:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000713485</guid>
       <description>SLS is ready to fly and will feature three shuttle-era engines that have already flown to space.</description>
-    </item>
-    <item>
-      <title>From privacy screens to variable apertures and beyond, how likely are these Samsung Galaxy S26 series rumors?</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/from-privacy-screens-to-variable-apertures-and-beyond-how-likely-are-these-samsung-galaxy-s26-series-rumors</link>
-      <pubDate>Fri, 23 Jan 2026 19:25:56 +0000</pubDate>
-      <guid isPermaLink="false">scjmE9kb2XJ4PuNotJ3YWM</guid>
-      <description>I've rated all the biggest Samsung Galaxy S26 series rumors to tell you how likely I think they are.</description>
-    </item>
-    <item>
-      <title>How America&#8217;s WHO exit could affect flu shots, outbreaks, and future pandemics</title>
-      <link>https://www.fastcompany.com/91480154/how-americas-who-exit-could-affect-flu-shots-outbreaks-and-future-pandemics</link>
-      <pubDate>2026-01-23T19:20:38</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91480154/how-americas-who-exit-could-affect-flu-shots-outbreaks-and-future-pandemics</guid>
-      <description>The WHO played a quiet but critical role in how the U.S. prepared for emerging health threats. That connection is now gone.
-The U.S. is no longer part of the World Health Organization. After the Trump administration declared its intention to pull the country out of the global public health agency one year ago, on Thursday it formally followed through, ending its commitment to the organization after 78 years....</description>
-    </item>
-    <item>
-      <title>Apple will begin showing more App Store ads starting in March</title>
-      <link>https://www.engadget.com/apps/apple-will-begin-showing-more-app-store-ads-starting-in-march-192031226.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 19:20:31 +0000</pubDate>
-      <guid isPermaLink="false">2ef6bd4d-733e-429e-a8fc-c6186fee4583</guid>
-      <description>More ads are coming to App Store search results starting in March, Apple shared on an advertising help page. The company first said that it would increase the number of App Store ads last month, and this new rollout of search ads will begin on Tuesday, March 3, according to a developer email viewed by MacRumors."Search is the way most people find and download apps on the App Store, with nearly 65 percent of downloads happening directly after a search," Apple says. "To help give advertisers more opportunities to drive downloads from search results, Apple Ads will introduce additional ads across...</description>
-    </item>
-    <item>
-      <title>Our Favorite Earbuds for Most People Are Over 25 Percent Off</title>
-      <link>https://www.wired.com/story/nothing-ear-a-deal-126/</link>
-      <pubDate>Fri, 23 Jan 2026 19:12:43 +0000</pubDate>
-      <guid isPermaLink="false">6973ba07d13cc77db79fc8d2</guid>
-      <description>These excellent earbuds were already a good deal before the discount.</description>
-    </item>
-    <item>
-      <title>What TikTok&#8217;s new owners mean for your feed</title>
-      <link>https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained</link>
-      <pubDate>2026-01-23T14:10:51-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=866868</guid>
-      <description>TikTok is officially under new ownership in the US, and that could spell big changes for the video-sharing app. On January 22nd, ByteDance - TikTok's Chinese parent company - and a group of investors closed a $14 billion deal to spin off the platform's US operations, introducing a new slate of American executives. The Silver [&#8230;]</description>
-    </item>
-    <item>
-      <title>This Lamp Visualizes the Perpetual Electromagnetic Storm in Which We Live</title>
-      <link>https://gizmodo.com/this-lamp-visualizes-the-perpetual-electromagnetic-storm-in-which-we-live-2000713462</link>
-      <pubDate>Fri, 23 Jan 2026 19:10:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000713462</guid>
-      <description>"We live surrounded by ghosts of our own making."</description>
-    </item>
-    <item>
-      <title>How to watch The Traitors UK S4 finale on BBC iPlayer (it's FREE)</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/watch-the-traitors-uk-s4-finale-on-bbc-iplayer-its-free</link>
-      <pubDate>Fri, 23 Jan 2026 19:10:00 +0000</pubDate>
-      <guid isPermaLink="false">QcbUmsZ7ZZHfAgMjwnjXEi</guid>
-      <description>Set up by a cliffhanger involving Faithful James Baker and Traitor Rachel Duffy, here's how to watch The Traitors UK S4 finale on BBC iPlayer.</description>
-    </item>
-    <item>
-      <title>Is this the future of trading? NYSE reportedly building a venue for 24/7 tokenized stock and EDF settling</title>
-      <link>https://www.techradar.com/pro/is-this-the-future-of-trading-nyse-reportedly-building-a-venue-for-24-7-tokenized-stock-and-edf-settling</link>
-      <pubDate>Fri, 23 Jan 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">UL8TDdmYRGnTyBRqGFUbRA</guid>
-      <description>NYSE plans a blockchain-based 24/7 trading platform for tokenized stocks and ETFs with instant settlement and stablecoin support.</description>
-    </item>
-    <item>
-      <title>Amazon's cheapest 4K streaming stick just dropped to its lowest price since Black Friday</title>
-      <link>https://www.techradar.com/televisions/streaming-devices/amazons-cheapest-4k-streaming-stick-just-dropped-to-its-lowest-price-since-black-friday</link>
-      <pubDate>Fri, 23 Jan 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">dNv4dG6LsC4jRXZmFyr7U7</guid>
-      <description>Amazon has slashed the Fire TV Stick 4K Select to its lowest price since Black Friday.</description>
-    </item>
-    <item>
-      <title>TikTok finalizes deal for its US entity</title>
-      <link>https://www.engadget.com/big-tech/tiktok-finalizes-deal-for-its-us-entity-010543484.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 18:58:12 +0000</pubDate>
-      <guid isPermaLink="false">1d3cfa14-12c1-47e1-9d03-97449ad65157</guid>
-      <description>After years of uncertainty over TikTok's future in the United States, a deal for the app's US business has been finalized. The new US entity is called TikTok USDS Joint Venture. ByteDance has retained a 19.9 percent percent stake in the new business, with the rest controlled by a group of non-Chinese investors, including Oracle, Silver Lake and MGX, an Emirati-state owned investment firm, all of which have a 15 percent stake. Dell CEO Michael Dell and other investors have smaller stakes in the new company.&#160;The terms of the deal were first leaked last month, after TikTok CEO Shou Chew reportedl...</description>
-    </item>
-    <item>
-      <title>Cette d&#233;couverte pourrait enfin expliquer la naissance des trous noirs g&#233;ants</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/trou-noir-cette-decouverte-pourrait-enfin-expliquer-naissance-trous-noirs-geants-130435/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 23 Jan 2026 19:58:05 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/trou-noir-cette-decouverte-pourrait-enfin-expliquer-naissance-trous-noirs-geants-130435/#xtor%3DRSS-8</guid>
-      <description>Ils contiennent entre un million et&#160;plusieurs milliards de masses solaires. Les trous noirs supermassifs sont des enfants de la physique d'Einstein mais, depuis des d&#233;cennies, on a bien du mal &#224; dire comment ils sont n&#233;s et plus encore en raison des derni&#232;res observations du James-Webb. Des...</description>
-    </item>
-    <item>
-      <title>Cet &#233;cran gaming incurv&#233; de 34 pouces devient la bonne op&#233;ration de ces soldes d&#8217;hiver gr&#226;ce &#224; une r&#233;duction de pr&#232;s de 50 % par rapport &#224; son prix de lancement</title>
-      <link>https://www.frandroid.com/produits-android/2952749_cet-ecran-gaming-incurve-de-34-pouces-devient-la-bonne-operation-de-ces-soldes-dhiver-grace-a-une-reduction-de-pres-de-50-par-rapport-a-son-prix-de-lancement</link>
-      <pubDate>Fri, 23 Jan 2026 18:49:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/2952749_cet-ecran-gaming-incurve-de-34-pouces-devient-la-bonne-operation-de-ces-soldes-dhiver-grace-a-une-reduction-de-pres-de-50-par-rapport-a-son-prix-de-lancement</guid>
-      <description>
-Pour vous immerger au maximum dans vos jeux favoris, comptez sur le MSI MAG 341CQP QD-OLED qui poss&#232;de notamment une dalle incurv&#233;e de 34 pouces. Chez Amazon, vous pourrez le retrouver pour 599 euros contre 1 299,99 euros au moment de son lancement en 2024.
-</description>
-    </item>
-    <item>
-      <title>Vimeo lays off most of its staff just months after being bought by private equity firm</title>
-      <link>https://www.engadget.com/big-tech/vimeo-lays-off-most-of-its-staff-just-months-after-being-bought-by-private-equity-firm-184556023.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 18:45:56 +0000</pubDate>
-      <guid isPermaLink="false">141850da-dc1d-4c95-b098-d03c49952bba</guid>
-      <description>Vimeo just got hit by a brutal round of layoffs, according to a report by Business Insider. Staffers are posting on various social media sites that the layoffs have impacted most of the company, including the entire video team. Vimeo is a video-hosting platform, so that sounds bad.
-&#8220;Yesterday, following Vimeo&#8217;s recent acquisition by a private equity firm, I learned that I, along with a large portion of the company, was impacted by layoffs,&#8221; wrote the company&#8217;s former vice president of Global Brand &amp; Creative, Dave Brown. He is referring to a firm called Bending Spoons that bought Vimeo for $1....</description>
-    </item>
-    <item>
-      <title>Tesla paywalls lane centering on new Model 3 and Model Y purchases</title>
-      <link>https://www.engadget.com/transportation/evs/tesla-paywalls-lane-centering-on-new-model-3-and-model-y-purchases-184000707.html?src=rss</link>
-      <pubDate>Fri, 23 Jan 2026 18:40:00 +0000</pubDate>
-      <guid isPermaLink="false">78d0f273-b3ff-45b7-8e9a-76c3fa45d9fd</guid>
-      <description>Tesla just objectively decreased the value of the Model 3 and Model Y. On Thursday, the company said it&#8217;s paywalling its lane-centering feature, Autosteer, for new purchases of the two EVs in the US and Canada. This was previously a standard feature. Lane centering is now part of the Full Self-Driving Supervised (FSD) package, which costs $99 per month.Speculating on why Tesla would do this doesn't require much imagination. Remember the pay package Tesla shareholders approved for Musk in November? One of his requirements for receiving up to $1 trillion is reaching 10 million active FSD subscri...</description>
     </item>
   </channel>
 </rss>
