@@ -3,56 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 24 Jan 2026 21:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 22:24:14 GMT</lastBuildDate>
+    <item>
+      <title>ICE Asks Companies About &#8216;Ad Tech and Big Data&#8217; Tools It Could Use in Investigations</title>
+      <link>https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/</link>
+      <pubDate>Sat, 24 Jan 2026 22:14:57 +0000</pubDate>
+      <guid isPermaLink="false">6975200625b7e04e4a4a1d02</guid>
+      <description>A new federal filing from ICE demonstrates how commercial tools are increasingly being considered by the government for law enforcement and surveillance.</description>
+    </item>
+    <item>
+      <title>OpenAI Partners with Major Government Contractor to &#8216;Transform Federal Operations&#8217;</title>
+      <link>https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751</link>
+      <pubDate>Sat, 24 Jan 2026 21:30:42 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713751</guid>
+      <description>Leidos is a prolific government contractor with a "strong relationship with DHS."</description>
+    </item>
     <item>
       <title>UFC 324 live stream: how to watch Gaethje vs Pimblett, start time, preview, full card</title>
       <link>https://www.techradar.com/how-to-watch/sport/ufc-324-justin-gaethje-vs-paddy-pimblett</link>
       <pubDate>Sat, 24 Jan 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">5RsVbyrAPFpWN2YvXczRg6</guid>
       <description>As UFC makes Paramount Plus debut with much-anticipated main event, follow our guide to watch a UFC 324 live stream online from anywhere.</description>
-    </item>
-    <item>
-      <title>Hasbro Suit Alleges Overprinted &#8216;Magic: The Gathering&#8217; Cards</title>
-      <link>https://gizmodo.com/hasbro-suit-alleges-overprinted-magic-the-gathering-cards-2000713744</link>
-      <pubDate>Sat, 24 Jan 2026 20:15:27 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000713744</guid>
-      <description>Accusations of 'gross mismanagement' have been levvied against Hasbro, owing to its ongoing success and production of 'Magic' cards.</description>
-    </item>
-    <item>
-      <title>Tech CEOs boast and bicker about AI at Davos</title>
-      <link>https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/</link>
-      <pubDate>Sat, 24 Jan 2026 20:00:46 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3085845</guid>
-      <description>There were times at this week&#8217;s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.</description>
-    </item>
-    <item>
-      <title>I field-tested the best-selling Wandrd PRVKE backpack, and the hype is real &#8212; it's my new favorite camera bag that doesn't look like one</title>
-      <link>https://www.techradar.com/cameras/camera-accessories/wandrd-prvke-v4-review</link>
-      <pubDate>Sat, 24 Jan 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">c6doHATLqz45FW3DoXYm4L</guid>
-      <description>My month-long test of the stylish Wandrd PRVKE V4 camera bag covers the mid-size 21L version.</description>
-    </item>
-    <item>
-      <title>Un chasseur d&#8217;aurores bor&#233;ales d&#233;voile comment se pr&#233;parer pour les prochaines temp&#234;tes solaires et ne rien manquer</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/aurore-boreale-chasseur-aurores-boreales-devoile-preparer-prochaines-tempetes-solaires-ne-rien-manquer-130421/#xtor%3DRSS-8</link>
-      <pubDate>Sat, 24 Jan 2026 20:51:26 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/aurore-boreale-chasseur-aurores-boreales-devoile-preparer-prochaines-tempetes-solaires-ne-rien-manquer-130421/#xtor%3DRSS-8</guid>
-      <description>Ce mois de janvier a encore une fois &#233;t&#233; particuli&#232;rement dynamique pour les aurores bor&#233;ales. Avec l'activit&#233; solaire actuelle, ce type de ph&#233;nom&#232;ne fascine les scientifiques et le grand public. L'occasion d'apprendre &#224; mieux les &#171; chasser &#187; avec des professionnels.</description>
-    </item>
-    <item>
-      <title>Report reveals that OpenAI's GPT-5.2 model cites Grokipedia</title>
-      <link>https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html?src=rss</link>
-      <pubDate>Sat, 24 Jan 2026 19:25:32 +0000</pubDate>
-      <guid isPermaLink="false">8a06d7a4-8d1a-4f37-b989-e8d881283bd9</guid>
-      <description>OpenAI may have called GPT-5.2 its "most advanced frontier model for professional work," but tests conducted by the Guardian cast doubt on its credibility. According to the report, OpenAI's GPT-5.2 model cited Grokipedia, the online encyclopedia powered by xAI, when it came to specific, but controversial topics related to Iran or the Holocaust.
-As seen in the Guardian's report, ChatGPT used Grokipedia as a source for claims about the Iranian government being tied to telecommunications company MTN-Irancell and questions related to Richard Evans, a British historian who served as an expert witne...</description>
-    </item>
-    <item>
-      <title>'Tesla's chip game is no joke': Elon Musk confirms it has restarted work on its biggest supercomputer yet - but what will it actually be used for?</title>
-      <link>https://www.techradar.com/pro/teslas-chip-game-is-no-joke-elon-musk-confirms-it-has-restarted-work-on-its-biggest-supercomputer-yet-but-what-will-it-actually-be-used-for</link>
-      <pubDate>Sat, 24 Jan 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">9zX6CaNc4wVSn8x3q8nkrU</guid>
-      <description>Tesla restarts Dojo 3 with AI5-AI7 chips, aiming to power autonomous vehicles, humanoid robots, data centers, and space-based AI compute.</description>
     </item>
   </channel>
 </rss>
