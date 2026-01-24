@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 24 Jan 2026 22:24:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 23:24:15 GMT</lastBuildDate>
+    <item>
+      <title>Gmail is having issues with spam and misclassification</title>
+      <link>https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/</link>
+      <pubDate>Sat, 24 Jan 2026 22:58:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085848</guid>
+      <description>If your Gmail account doesn&#8217;t seem to be working properly today, you&#8217;re not alone.</description>
+    </item>
+    <item>
+      <title>Microsoft handed the government encryption keys for customer data</title>
+      <link>https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi</link>
+      <pubDate>2026-01-24T17:39:57-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=867244</guid>
+      <description>The FBI went to Microsoft last year with a warrant, asking them to hand over keys to unlock encrypted data stored on three laptops as part of an investigation into potential fraud involving the COVID unemployment assistance program in Guam - and Microsoft complied. Typically, companies resist handing over encryption keys to authorities. Most famously, [&#8230;]...</description>
+    </item>
     <item>
       <title>ICE Asks Companies About &#8216;Ad Tech and Big Data&#8217; Tools It Could Use in Investigations</title>
       <link>https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/</link>
@@ -12,18 +26,18 @@
       <description>A new federal filing from ICE demonstrates how commercial tools are increasingly being considered by the government for law enforcement and surveillance.</description>
     </item>
     <item>
+      <title>If you don&#8217;t want to pay a subscription, you can now get Microsoft Office for life for under $100</title>
+      <link>https://mashable.com/article/jan-24-microsoft-office-2024-home-business-for-mac-or-pc</link>
+      <pubDate>Sat, 24 Jan 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03Q0v7dngZc33I8yZI8UWBf</guid>
+      <description>Microsoft Office 2024 now comes as a lifetime license on sale for $100</description>
+    </item>
+    <item>
       <title>OpenAI Partners with Major Government Contractor to &#8216;Transform Federal Operations&#8217;</title>
       <link>https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751</link>
       <pubDate>Sat, 24 Jan 2026 21:30:42 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000713751</guid>
       <description>Leidos is a prolific government contractor with a "strong relationship with DHS."</description>
-    </item>
-    <item>
-      <title>UFC 324 live stream: how to watch Gaethje vs Pimblett, start time, preview, full card</title>
-      <link>https://www.techradar.com/how-to-watch/sport/ufc-324-justin-gaethje-vs-paddy-pimblett</link>
-      <pubDate>Sat, 24 Jan 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">5RsVbyrAPFpWN2YvXczRg6</guid>
-      <description>As UFC makes Paramount Plus debut with much-anticipated main event, follow our guide to watch a UFC 324 live stream online from anywhere.</description>
     </item>
   </channel>
 </rss>
