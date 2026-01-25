@@ -3,41 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 24 Jan 2026 23:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 02:22:07 GMT</lastBuildDate>
     <item>
-      <title>Gmail is having issues with spam and misclassification</title>
-      <link>https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/</link>
-      <pubDate>Sat, 24 Jan 2026 22:58:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3085848</guid>
-      <description>If your Gmail account doesn&#8217;t seem to be working properly today, you&#8217;re not alone.</description>
+      <title>The day of the second killing</title>
+      <link>https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing</link>
+      <pubDate>2026-01-24T21:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=867410</guid>
+      <description>Steven Garcia, as told to Gaby Del Valle: I was in the middle of a frozen lake when I got the notification from the Minnesota Star Tribune that there had been a shooting. I was at a pond hockey event, and someone who was supposed to play later that evening said he probably wouldn't be [&#8230;]</description>
     </item>
     <item>
-      <title>Microsoft handed the government encryption keys for customer data</title>
-      <link>https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi</link>
-      <pubDate>2026-01-24T17:39:57-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=867244</guid>
-      <description>The FBI went to Microsoft last year with a warrant, asking them to hand over keys to unlock encrypted data stored on three laptops as part of an investigation into potential fraud involving the COVID unemployment assistance program in Guam - and Microsoft complied. Typically, companies resist handing over encryption keys to authorities. Most famously, [&#8230;]...</description>
+      <title>WiiM Sound Lite vs Sonos Era 100: I let these Wi-Fi speakers slug it out, and the showdown was far closer than I ever would have imagined</title>
+      <link>https://www.techradar.com/audio/wireless-bluetooth-speakers/wiim-sound-lite-vs-sonos-era-100-i-let-these-wi-fi-speakers-slug-it-out-and-the-showdown-was-far-closer-than-i-ever-would-have-imagined</link>
+      <pubDate>Sun, 25 Jan 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dWKmec8AdcZABH479XFM4H</guid>
+      <description>I pit WiiM&#8217;s Lite Wi-Fi speaker against the Sonos Era 100, but which will come out on top: spacious sound or outrageous bass?</description>
     </item>
     <item>
-      <title>ICE Asks Companies About &#8216;Ad Tech and Big Data&#8217; Tools It Could Use in Investigations</title>
-      <link>https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/</link>
-      <pubDate>Sat, 24 Jan 2026 22:14:57 +0000</pubDate>
-      <guid isPermaLink="false">6975200625b7e04e4a4a1d02</guid>
-      <description>A new federal filing from ICE demonstrates how commercial tools are increasingly being considered by the government for law enforcement and surveillance.</description>
-    </item>
-    <item>
-      <title>If you don&#8217;t want to pay a subscription, you can now get Microsoft Office for life for under $100</title>
-      <link>https://mashable.com/article/jan-24-microsoft-office-2024-home-business-for-mac-or-pc</link>
-      <pubDate>Sat, 24 Jan 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03Q0v7dngZc33I8yZI8UWBf</guid>
-      <description>Microsoft Office 2024 now comes as a lifetime license on sale for $100</description>
-    </item>
-    <item>
-      <title>OpenAI Partners with Major Government Contractor to &#8216;Transform Federal Operations&#8217;</title>
-      <link>https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751</link>
-      <pubDate>Sat, 24 Jan 2026 21:30:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000713751</guid>
-      <description>Leidos is a prolific government contractor with a "strong relationship with DHS."</description>
+      <title>The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti</title>
+      <link>https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/</link>
+      <pubDate>Sun, 25 Jan 2026 00:37:56 +0000</pubDate>
+      <guid isPermaLink="false">6975209452e7ddd9341e5367</guid>
+      <description>Within minutes of the shooting, the Trump administration and right-wing influencers began disparaged the man shot by a federal immigration officer on Saturday in Minneapolis.</description>
     </item>
   </channel>
 </rss>
