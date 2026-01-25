@@ -3,13 +3,36 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 25 Jan 2026 06:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 07:25:43 GMT</lastBuildDate>
     <item>
-      <title>Hurdle hints and answers for January 25, 2026</title>
-      <link>https://mashable.com/article/hurdle-hints-answers-january-25-2026</link>
-      <pubDate>Sun, 25 Jan 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01kYmkjsvzXKUtXDW7EVHh2</guid>
-      <description>Hints and answers to today's Hurdle all in one place.</description>
+      <title>Taiwan study finds 80% of startups focus on AI, big data</title>
+      <link>https://www.techinasia.com/ai-inference-startup-baseten-raises-300m-valued-at-5b</link>
+      <pubDate>Sun, 25 Jan 2026 07:03:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.techinasia.com/?post_type=short&amp;p=977527</guid>
+      <description>Over 80 percent of surveyed startups are involved in AI-related activities.</description>
+    </item>
+    <item>
+      <title>Series SEA: Who&#8217;s investing in the region&#8217;s health startups?</title>
+      <link>https://www.techinasia.com/top-sea-investors-health</link>
+      <pubDate>Sun, 25 Jan 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.techinasia.com/?p=706789</guid>
+      <description>We've compiled a list of investors that are pouring money into Southeast Asia&#8217;s health startups.</description>
+    </item>
+    <item>
+      <title>Forfait mobile : ces 3 offres &#224; 6,99 euros sont les stars de la semaine sur notre comparateur</title>
+      <link>https://www.frandroid.com/bons-plans/2953133_forfait-mobile-ces-3-offres-a-699-euros-sont-les-stars-de-la-semaine-sur-notre-comparateur</link>
+      <pubDate>Sun, 25 Jan 2026 06:39:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2953133_forfait-mobile-ces-3-offres-a-699-euros-sont-les-stars-de-la-semaine-sur-notre-comparateur</guid>
+      <description>
+Trois forfaits mobile s'alignent sur un tarif identique. Syma, Auchan T&#233;l&#233;com et Coriolis proposent la m&#234;me enveloppe, mais des diff&#233;rences subsistent sur le r&#233;seau et la data &#224; l'&#233;tranger.
+</description>
+    </item>
+    <item>
+      <title>Xiaomi SU7 overtakes Tesla Model 3 as China&#8217;s top premium EV</title>
+      <link>https://www.techinasia.com/ev-sales-growth-to-slow-in-2026-after-20-rise-in-2025-report</link>
+      <pubDate>Sun, 25 Jan 2026 05:53:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.techinasia.com/?post_type=short&amp;p=977524</guid>
+      <description>The Xiaomi SU7, launched in March 2024, features advance digital and autonomous system.</description>
     </item>
   </channel>
 </rss>
