@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 25 Jan 2026 22:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 23:25:05 GMT</lastBuildDate>
+    <item>
+      <title>This founder cracked firefighting &#8212; now he&#8217;s creating an AI gold mine</title>
+      <link>https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/</link>
+      <pubDate>Sun, 25 Jan 2026 23:20:36 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085902</guid>
+      <description>The nozzle is just the beginning &#8211; what company founder Sunny Sethi calls "the muscle on the ground.&#8221;</description>
+    </item>
+    <item>
+      <title>ChatGPT is pulling answers from Elon Musk&#8217;s Grokipedia</title>
+      <link>https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/</link>
+      <pubDate>Sun, 25 Jan 2026 22:35:53 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085903</guid>
+      <description>Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk&#8217;s xAI is beginning to appear in answers from ChatGPT.</description>
+    </item>
     <item>
       <title>Humans&amp; thinks coordination is the next frontier for AI, and they&#8217;re building a model to prove it</title>
       <link>https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/</link>
@@ -39,27 +53,6 @@
       <guid isPermaLink="false">45e41df8-9e21-404b-9610-aae416206da9</guid>
       <description>Never underestimate the chilling powers of grainy grayscale imagery and ethereal whooshing sounds. Outside Parties asks, "What if I Spy, but in an alien hell dimension?", and it is impressively unnerving despite the fact that nothing's really happening at any given time. It goes all in on atmosphere, to great effect. This is the Playdate horror game that I've been waiting for.&#160;
 Adams Immersive's Outside Parties is a sort of scavenger hunt across a massive image of a realm called the Outside, which can only be visited by astral travel, according to the lore. There are lots of unknowns about wha...</description>
-    </item>
-    <item>
-      <title>'Put plainly...some countries are already using AI to solve harder problems and move faster': OpenAI wants to make AI usage more equal between countries - but will it actually work?</title>
-      <link>https://www.techradar.com/pro/put-plainly-some-countries-are-already-using-ai-to-solve-harder-problems-and-move-faster-openai-wants-to-make-ai-usage-more-equal-between-countries-but-will-it-actually-work</link>
-      <pubDate>Sun, 25 Jan 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">mDgkE4AeBSndvvEpr8VxPb</guid>
-      <description>OpenAI highlights uneven AI adoption across countries and launches Education for Countries to improve skills, access, and workforce readiness globally.</description>
-    </item>
-    <item>
-      <title>The era of agentic AI demands a data constitution, not better prompts</title>
-      <link>https://venturebeat.com/infrastructure/the-era-of-agentic-ai-demands-a-data-constitution-not-better-prompts</link>
-      <pubDate>Sun, 25 Jan 2026 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7qTMitTbv8MzmPBArH7kb</guid>
-      <description>The industry consensus is that 2026 will be the year of "agentic AI." We are rapidly moving past chatbots that simply summarize text. We are entering the era of autonomous agents that execute tasks. We expect them to book flights, diagnose system outages, manage cloud infrastructure and personalize media streams in real-time.As a technology executive overseeing platforms that serve 30 million concurrent users during massive global events like the Olympics and the Super Bowl, I have seen the unsexy reality behind the hype: Agents are incredibly fragile.Executives and VCs obsess over model bench...</description>
-    </item>
-    <item>
-      <title>IKEA kitchen trends for 2026: cozy up with warm petrol blue and walnut accessories, from $2.50</title>
-      <link>https://www.techradar.com/home/small-appliances/ikea-kitchen-trends-2026-cozy-up-with-warm-petrol-blue-and-walnut-accessories-from-usd2-50</link>
-      <pubDate>Sun, 25 Jan 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">hfMkAA7SrBzsHPLkprUbqK</guid>
-      <description>Add some winter warmth to your home with natural wood and ceramics for a look that's modern but snug.</description>
     </item>
   </channel>
 </rss>
