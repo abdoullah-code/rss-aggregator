@@ -3,7 +3,53 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 25 Jan 2026 18:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 19:20:28 GMT</lastBuildDate>
+    <item>
+      <title>Samsung's 12 best Super Bowl TV deals that I recommend buying &#8212; up to $1,200 off 4K, QLED, and OLED TVs</title>
+      <link>https://www.techradar.com/tech/samsungs-12-best-super-bowl-tv-deals-that-i-recommend-buying-up-to-usd1-200-off-4k-qled-and-oled-tvs</link>
+      <pubDate>Sun, 25 Jan 2026 19:09:51 +0000</pubDate>
+      <guid isPermaLink="false">FhxboQtaUMLXx7sKZPjQ8H</guid>
+      <description>Samsung's Super Bowl TV sale is live, and I'm rounding up today's 12 best deals I recommend for watching the big game, including up to $1,500 off 4K, QLED, and OLED TVs.</description>
+    </item>
+    <item>
+      <title>Test ViewSonic M1B Max : le mini vid&#233;oprojecteur portable Google TV &#224; moins de 500 euros</title>
+      <link>https://www.frandroid.com/marques/viewsonic/2946091_test-du-videoprojecteur-viewsonic-m1b-max-le-mini-projecteur-led-sur-batterie-qui-veut-tout-faire</link>
+      <pubDate>Sun, 25 Jan 2026 19:02:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/viewsonic/2946091_test-du-videoprojecteur-viewsonic-m1b-max-le-mini-projecteur-led-sur-batterie-qui-veut-tout-faire</guid>
+      <description>
+Le ViewSonic M1B Max est un vid&#233;oprojecteur Full HD 1080p portable avec batterie, Google TV et pied inclinable sur 360 degr&#233;s. Voici notre test complet pour savoir s&#8217;il peut devenir votre compagnon cin&#233;ma du quotidien.
+</description>
+    </item>
+    <item>
+      <title>I tested the three most popular Nintendo Switch 2 cameras, and this is the only one I&#8217;d recommend</title>
+      <link>https://www.techradar.com/gaming/nintendo-switch/i-tested-the-three-most-popular-nintendo-switch-2-cameras-and-this-is-the-only-one-id-recommend</link>
+      <pubDate>Sun, 25 Jan 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">vsRVMoFkdvrtQuDC7gWrK5</guid>
+      <description>I&#8217;ve tested three cameras for Nintendo Switch 2, but there&#8217;s only one model I&#8217;d spend my own money on.</description>
+    </item>
+    <item>
+      <title>I used to ignore my bank account but with this app I&#8217;m in control of every cent</title>
+      <link>https://www.techradar.com/computing/websites-apps/ynab</link>
+      <pubDate>Sun, 25 Jan 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">grgBDW4QBD6YPhzR8tvmjV</guid>
+      <description>Homescreen Heroes: YNAB has rewired my relationship with money</description>
+    </item>
+    <item>
+      <title>&#8216;Jujutsu Kaisen&#8217; Keeps Looking So Damn Good</title>
+      <link>https://gizmodo.com/jujutsu-kaisen-keeps-looking-so-damn-good-2000713456</link>
+      <pubDate>Sun, 25 Jan 2026 18:50:04 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000713456</guid>
+      <description>An evolving art style has helped each 'Jujutsu Kaisen' season feel distinct and stun viewers during its many, *many* fights.</description>
+    </item>
+    <item>
+      <title>Ce pack tout en 1 permet de voir qui est &#224; la porte, de surveiller son int&#233;rieur et son ext&#233;rieur avec 62 % de remise pour les soldes</title>
+      <link>https://www.frandroid.com/produits-android/2952013_ce-pack-tout-en-1-permet-de-voir-qui-est-a-la-porte-de-surveiller-son-interieur-et-son-exterieur-avec-62-de-remise-pour-les-soldes</link>
+      <pubDate>Sun, 25 Jan 2026 18:41:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/2952013_ce-pack-tout-en-1-permet-de-voir-qui-est-a-la-porte-de-surveiller-son-interieur-et-son-exterieur-avec-62-de-remise-pour-les-soldes</guid>
+      <description>
+Si l'id&#233;e d'&#233;quiper son logement en cam&#233;ras de surveillance tra&#238;ne dans un coin de la t&#234;te, les soldes sont le bon moment de passer &#224; l'action. C'est le cas de ce pack sign&#233; Arlo, qui r&#233;unit une sonnette connect&#233;e et deux cam&#233;ras, dont une est pens&#233;e pour l'int&#233;rieur et l'autre pour l'ext&#233;rieur. Avec 62 % de r&#233;duction chez Darty, le prix de ce bundle passe de 399,99 euros &#224; 149,99 euros.
+...</description>
+    </item>
     <item>
       <title>Why Minnesota Can't Do More to Stop ICE</title>
       <link>https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/</link>
@@ -35,6 +81,13 @@ Vous voulez craquer sur une smartwatch ? Galaxy Watch, Pixel Watch, Apple Watch,
 </description>
     </item>
     <item>
+      <title>Conversational AI doesn&#8217;t understand users &#8212; 'Intent First' architecture does</title>
+      <link>https://venturebeat.com/orchestration/conversational-ai-doesnt-understand-users-intent-first-architecture-does</link>
+      <pubDate>Sun, 25 Jan 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">79olQEbWjylsGA4fgxsy7U</guid>
+      <description>The modern customer has just one need that matters: Getting the thing they want when they want it. The old standard RAG model embed+retrieve+LLM misunderstands intent, overloads context and misses freshness, repeatedly sending customers down the wrong paths. Instead, intent-first architecture uses a lightweight language model to parse the query for intent and context, before delivering to the most relevant content sources (documents, APIs, people).Enterprise AI is a speeding train headed for a cliff. Organizations are deploying LLM-powered search applications at a record pace, while a fundamen...</description>
+    </item>
+    <item>
       <title>Apple reportedly plans to reveal its Gemini-powered Siri in February</title>
       <link>https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss</link>
       <pubDate>Sun, 25 Jan 2026 17:43:56 +0000</pubDate>
@@ -55,43 +108,6 @@ After this reveal, Gurman reported that the new Siri will make its way to iOS 26
       <pubDate>2026-01-25T12:21:43-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=867451</guid>
       <description>It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire towards ICE. But something different has been happening over the week or so, following the most recent shootings of civilians by federal agents - even accounts that stay laser focused [&#8230;]</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo</title>
-      <link>https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/</link>
-      <pubDate>Sun, 25 Jan 2026 17:06:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3085785</guid>
-      <description>Welcome back to TechCrunch Mobility &#8212; your central hub for news and insights on the future of transportation.</description>
-    </item>
-    <item>
-      <title>It doesn&#8217;t matter if Alex Pretti had a gun</title>
-      <link>https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti</link>
-      <pubDate>2026-01-25T12:01:38-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=867455</guid>
-      <description>Shortly after federal agents killed Alex Pretti Saturday morning, the Department of Homeland Security began to run with the story that the dead man had been armed and dangerous. He had a gun, DHS said. (A Bellingcat analysis of the video concludes that Pretti was unarmed when he was shot.) He had approached the agents [&#8230;]</description>
-    </item>
-    <item>
-      <title>Ils l&#8217;ont retrouv&#233;e : la mati&#232;re manquante de l&#8217;Univers refait surface apr&#232;s 30 ans de myst&#232;re</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/univers-ils-ont-retrouvee-matiere-manquante-univers-refait-surface-apres-30-ans-mystere-w2t8-130458/#xtor%3DRSS-8</link>
-      <pubDate>Sun, 25 Jan 2026 18:00:00 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/univers-ils-ont-retrouvee-matiere-manquante-univers-refait-surface-apres-30-ans-mystere-w2t8-130458/#xtor%3DRSS-8</guid>
-      <description>Les astronomes la cherchaient depuis longtemps. R&#233;cemment, ils en avaient retrouv&#233; la trace. Et voici qu&#8217;ils sont enfin parvenus &#224; mettre la main dessus : la mati&#232;re ordinaire manquante de notre Univers. Le tout gr&#226;ce &#224; un myst&#233;rieux indic.</description>
-    </item>
-    <item>
-      <title>Honor Magic 8 Lite vs Xiaomi Redmi Note 15 Pro 5G&#160;: comment choisir le meilleur t&#233;l&#233;phone milieu de gamme&#160;?</title>
-      <link>https://www.frandroid.com/versus/2953167_honor-magic-8-lite-vs-xiaomi-redmi-note-15-pro-5g-comment-choisir-le-meilleur-telephone-milieu-de-gamme</link>
-      <pubDate>Sun, 25 Jan 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/versus/2953167_honor-magic-8-lite-vs-xiaomi-redmi-note-15-pro-5g-comment-choisir-le-meilleur-telephone-milieu-de-gamme</guid>
-      <description>
-Ce sont les deux smartphones de milieu de gamme les plus enthousiasmants de ce d&#233;but d'ann&#233;e&#160;: comment faire pour bien choisir entre le Honor Magic 8 Lite et Xiaomi Redmi Note 15 Pro 5G&#160;?
-</description>
-    </item>
-    <item>
-      <title>Apple will reportedly unveil its Gemini-powered Siri assistant in February</title>
-      <link>https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/</link>
-      <pubDate>Sun, 25 Jan 2026 16:56:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3085862</guid>
-      <description>We&#8217;re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.</description>
     </item>
   </channel>
 </rss>
