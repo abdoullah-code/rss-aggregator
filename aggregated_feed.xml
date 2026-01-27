@@ -3,41 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 27 Jan 2026 04:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 05:31:57 GMT</lastBuildDate>
     <item>
       <title>How to use AI image tools to explain ideas visually</title>
       <link>https://www.techradar.com/ai-platforms-assistants/how-to-use-ai-image-tools-to-explain-ideas-visually</link>
       <pubDate>Tue, 27 Jan 2026 04:00:00 +0000</pubDate>
       <guid isPermaLink="false">Vfbhk8zaZCVX2gGgb4K9VG</guid>
       <description>Creative prompt-writing techniques to turn AI image tools into fun, powerful systems.</description>
-    </item>
-    <item>
-      <title>&#8216;I can&#8217;t actually keep working on a long, manual task like this in the background once a message turn ends&#8217;  &#8212; ChatGPT has a major limitation that needs to be addressed, and fast</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-cant-actually-keep-working-on-a-long-manual-task-like-this-in-the-background-once-a-message-turn-ends-chatgpt-has-a-major-limitation-that-needs-to-be-addressed-and-fast</link>
-      <pubDate>Tue, 27 Jan 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2sSnSqbmUiAWcLFfaoG3US</guid>
-      <description>ChatGPT can appear to handle long, complex jobs, but a hidden limitation means it can&#8217;t actually work on tasks once a reply window closes.</description>
-    </item>
-    <item>
-      <title>Thanks But No Thanks on the Claudeswarms, Kevin Roose</title>
-      <link>https://gizmodo.com/thanks-but-no-thanks-on-the-claudeswarms-kevin-roose-2000714238</link>
-      <pubDate>Tue, 27 Jan 2026 02:35:27 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000714238</guid>
-      <description>The New York Times columnist and Hard Fork podcast co-host might be a little too jazzed about vibecoding.</description>
-    </item>
-    <item>
-      <title>Shameful: Tech leaders react to ICE killing of Alex Pretti</title>
-      <link>https://mashable.com/article/tech-leaders-react-ice-alex-pretti-killing</link>
-      <pubDate>Tue, 27 Jan 2026 02:11:09 +0000</pubDate>
-      <guid isPermaLink="false">043o89KTHHcBEQthBy3v5iI</guid>
-      <description>As social media exploded, some tech voices spoke out.</description>
-    </item>
-    <item>
-      <title>All the ways TikTok is broken:&#160;here&#8217;s&#160;what&#8217;s real&#160;and what&#8217;s&#160;not</title>
-      <link>https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage</link>
-      <pubDate>2026-01-26T21:10:25-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=868379</guid>
-      <description>While social media rumors have suggested the errors are examples of censorship, more than a day after the issues began, TikTok USDS says the problems are the result of a power outage at a data center that it is working to resolve. Rumors of censorship targeting anti-ICE protesting or attempting to block discussion of Jeffrey [&#8230;]</description>
     </item>
   </channel>
 </rss>
