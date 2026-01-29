@@ -3,7 +3,175 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 29 Jan 2026 17:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 18:55:15 GMT</lastBuildDate>
+    <item>
+      <title>AI models that simulate internal debate dramatically improve accuracy on complex tasks</title>
+      <link>https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on</link>
+      <pubDate>Fri, 30 Jan 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">6ZOpQtqzcdkyNR2LXBbvmu</guid>
+      <description>A new study by Google suggests that advanced reasoning models achieve high performance by simulating multi-agent-like debates involving diverse perspectives, personality traits, and domain expertise.Their experiments demonstrate that this internal debate, which they dub &#8220;society of thought,&#8221; significantly improves model performance in complex reasoning and planning tasks. The researchers found that leading reasoning models such as DeepSeek-R1 and QwQ-32B, which are trained via reinforcement learning (RL), inherently develop this ability to engage in society of thought conversations without exp...</description>
+    </item>
+    <item>
+      <title>Music publishers sue Anthropic for $3 billion over &#8216;flagrant piracy&#8217;</title>
+      <link>https://www.engadget.com/ai/music-publishers-sue-anthropic-for-3-billion-over-flagrant-piracy-185459358.html?src=rss</link>
+      <pubDate>Thu, 29 Jan 2026 18:54:59 +0000</pubDate>
+      <guid isPermaLink="false">b36a85f5-9da9-43ed-a659-a3e7e91afb88</guid>
+      <description>A group of music publishers led by Concord Music Group and Universal Music Group are suing Anthropic, according to a report by Reuters. The suit accuses the AI company of illegally downloading more than 20,000 copyrighted songs, including sheet music, lyrics and compositions.
+These songs were then allegedly fed into the chatbot Claude for training purposes. There are some iconic tunes named by Universal in the suit, including tracks by The Rolling Stones, Neil Diamond and Elton John, among many others. Concord is an independent publisher that handles artists like Common, Killer Mike and Korn.
+...</description>
+    </item>
+    <item>
+      <title>Our Favorite Open Earbuds Are $60 Off</title>
+      <link>https://www.wired.com/story/anker-soundcore-aeroclip-deal-126/</link>
+      <pubDate>Thu, 29 Jan 2026 18:44:11 +0000</pubDate>
+      <guid isPermaLink="false">697b97a22ba10bfd0b8ed14d</guid>
+      <description>The Anker Soundcore Aeroclip boast great sound without cutting you off from the outside world.</description>
+    </item>
+    <item>
+      <title>Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi</title>
+      <link>https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood</link>
+      <pubDate>2026-01-29T13:42:54-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=868238</guid>
+      <description>Prediction markets will let you bet on just about anything, from how many tweets Elon Musk will post this week to the next president of the United States, with predictions sometimes showing shockingly (or suspiciously) spot-on accuracy. Polymarket&#8217;s CEO Shayne Copland has even claimed that prediction markets are &#8220;the most accurate thing we have as [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Google's Project Genie lets you generate your own interactive worlds</title>
+      <link>https://www.engadget.com/ai/googles-project-genie-lets-you-generate-your-own-interactive-worlds-183646186.html?src=rss</link>
+      <pubDate>Thu, 29 Jan 2026 18:36:46 +0000</pubDate>
+      <guid isPermaLink="false">f96776b3-9f86-4da3-a49e-ab792ecdecfc</guid>
+      <description>This past summer, Google DeepMind debuted Genie 3. It&#8217;s what&#8217;s known as a world world, an AI system capable of generating images and reacting as the user moves through the environment the software is simulating. At the time, DeepMind positioned Genie 3 as a tool for training AI agents. Now, it&#8217;s making the model available to people outside of Google to try with Project Genie. To start, you&#8217;ll need Google&#8217;s $250 per month AI Ultra plan to check out Project Genie. You&#8217;ll also need to live in the US and be 18 years or older. At launch, Project Genie offers three different modes of interaction: Wo...</description>
+    </item>
+    <item>
+      <title>Top antivirus hacked to push out a malicious update - find out if you're affected</title>
+      <link>https://www.techradar.com/pro/security/top-antivirus-hacked-to-push-out-a-malicious-update-find-out-if-youre-affected</link>
+      <pubDate>Thu, 29 Jan 2026 18:35:00 +0000</pubDate>
+      <guid isPermaLink="false">G2zkXwL53gbroCAY4DAGbW</guid>
+      <description>Popular antivirus program eScan was used as a malware launchpad, deploying a backdoor to a small subset of users.</description>
+    </item>
+    <item>
+      <title>Apple ach&#232;te pour 2 milliards une IA qui lit sur les visages</title>
+      <link>https://www.01net.com/actualites/apple-achete-pour-2-milliards-une-ia-qui-lit-sur-les-visages.html</link>
+      <pubDate>Thu, 29 Jan 2026 18:32:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1323375</guid>
+      <description>Contrairement &#224; d'autres grandes entreprises de la tech, Apple s'abstient de d&#233;penser sans compter pour acqu&#233;rir des soci&#233;t&#233;s. Mais il arrive de temps en temps que la firme &#224; la pomme signe des ch&#232;ques qui d&#233;passent le milliard de dollars pour s'offrir des technologies et des talents indispensables &#224; ses projets. C'est le cas aujourd'hui avec Q.AI.</description>
+    </item>
+    <item>
+      <title>The Garmin Venu X1 is back down to its lowest-ever price, with 25% shaved off Garmin's slimmest smartwatch</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/the-garmin-venu-x1-is-back-down-to-its-lowest-ever-price-with-25-percent-shaved-off-garmins-slimmest-smartwatch</link>
+      <pubDate>Thu, 29 Jan 2026 18:11:13 +0000</pubDate>
+      <guid isPermaLink="false">KXRmxifkwTnvcaV7i8zBEJ</guid>
+      <description>Save a fat $200 on a slim Garmin Venu X1 &#8212; at this price, I'd get it over an Apple Watch Ultra 3.</description>
+    </item>
+    <item>
+      <title>Major baby food company recalls &#8216;crawler snacks&#8217; nationwide. Watch out for these products</title>
+      <link>https://www.fastcompany.com/91483255/major-baby-food-company-recalls-crawler-snacks-nationwide-watch-out-for-these-products</link>
+      <pubDate>2026-01-29T18:10:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91483255/major-baby-food-company-recalls-crawler-snacks-nationwide-watch-out-for-these-products</guid>
+      <description>The cookie-like snacks are being yanked from shelves after it was discovered that they may contain soft plastic or pieces of paper. Here&#8217;s what to know.
+Virginia-based Gerber Products Company is voluntarily recalling limited batches of Gerber Arrowroot Biscuits, a cookie-like snack meant for children 10 months or older. </description>
+    </item>
+    <item>
+      <title>The Computer History Museum&#8217;s New Online Portal Is a Nerd&#8217;s Dream Come True</title>
+      <link>https://gizmodo.com/the-computer-history-museums-new-online-portal-is-a-nerds-dream-come-true-2000715455</link>
+      <pubDate>Thu, 29 Jan 2026 18:05:13 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715455</guid>
+      <description>It's the next best thing to an IRL visit.</description>
+    </item>
+    <item>
+      <title>ICE Pretends It&#8217;s a Military Force. Its Tactics Would Get Real Soldiers Killed</title>
+      <link>https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/</link>
+      <pubDate>Thu, 29 Jan 2026 18:04:13 +0000</pubDate>
+      <guid isPermaLink="false">69783a35fc0e68ec73ab4bea</guid>
+      <description>WIRED asked an active military officer to break down immigration enforcement actions in Minneapolis and elsewhere.</description>
+    </item>
+    <item>
+      <title>'It&#8217;s an awesome robot. It looks like a human. People could be easily confused that it&#8217;s a human' &#8212; Tesla exec on why Optimus 3 is a game changer</title>
+      <link>https://www.techradar.com/computing/its-an-awesome-robot-it-looks-like-a-human-people-could-be-easily-confused-that-its-a-human-tesla-exec-on-why-optimus-3-is-a-game-changer</link>
+      <pubDate>Thu, 29 Jan 2026 18:04:07 +0000</pubDate>
+      <guid isPermaLink="false">27M57y96LeVkeVw7AGJUDX</guid>
+      <description>Tesla makes big shift to focus on AI and robotics, promising a very human-like Optimus 3 by March &#8212; but what does that really mean?</description>
+    </item>
+    <item>
+      <title>You&#8217;re not alone in feeling unprepared for the AI boom</title>
+      <link>https://www.fastcompany.com/91480132/youre-not-alone-in-feeling-unprepared-for-the-ai-boom</link>
+      <pubDate>2026-01-29T18:01:17</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91480132/youre-not-alone-in-feeling-unprepared-for-the-ai-boom</guid>
+      <description>Even Dario Amodei, the co-founder and CEO of Anthropic, has been shaken by the increasing power of AI tools.
+Journalist Ira Glass, who hosts the NPR show &#8220;This American Life,&#8221; is not a computer scientist. He doesn&#8217;t work at Google, Apple, or Nvidia. But he does have a great ear for useful phrases, and in 2024, he organized an entire episode around one that might resonate with anyone who feels blindsided by the pace of AI development: &#8220;Unprepared for what has already happened.&#8221;...</description>
+    </item>
+    <item>
+      <title>&#8216;Absolute Batman&#8217; Is the Batman We Deserve in 2026</title>
+      <link>https://gizmodo.com/absolute-batman-scott-snyder-nick-dragotta-dc-comics-2000714980</link>
+      <pubDate>Thu, 29 Jan 2026 18:00:04 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000714980</guid>
+      <description>Now is the perfect time to dive into Scott Snyder and Nick Dragotta's generational DC Comics run in 'Absolute Batman.'</description>
+    </item>
+    <item>
+      <title>Napster&#8217;s back &#8212; and its new AI-first app wants you to help create the music, not just listen to it</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/napsters-back-and-its-new-ai-first-app-wants-you-to-help-create-the-music-not-just-listen-to-it</link>
+      <pubDate>Thu, 29 Jan 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">y3kAERE78idymR462GRS5J</guid>
+      <description>Napster is back and this time as an AI-powered music platform betting that the future of audio is co-creation, not passive listening.</description>
+    </item>
+    <item>
+      <title>Infostealers added Clawdbot to their target lists before most security teams knew it was running</title>
+      <link>https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke</link>
+      <pubDate>Thu, 29 Jan 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">7zyuBaekbIiptJa4NpmVJg</guid>
+      <description>Clawdbot's MCP implementation has no mandatory authentication, allows prompt injection, and grants shell access by design. Monday's VentureBeat article documented these architectural flaws. By Wednesday, security researchers had validated all three attack surfaces and found new ones.Commodity infostealers are already exploiting this. RedLine, Lumma, and Vidar added the AI agent to their target lists before most security teams knew it was running in their environments. Shruti Gandhi, general partner at Array VC, reported 7,922 attack attempts on her firm's Clawdbot instance.The reporting prompt...</description>
+    </item>
+    <item>
+      <title>Une &#171; tour &#187; de panneaux solaires va enfin alimenter une base lunaire</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/exploration-tour-panneaux-solaires-va-enfin-alimenter-base-lunaire-w2t8-130539/#xtor%3DRSS-8</link>
+      <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/exploration-tour-panneaux-solaires-va-enfin-alimenter-base-lunaire-w2t8-130539/#xtor%3DRSS-8</guid>
+      <description>Pour r&#233;pondre aux enjeux &#233;nerg&#233;tiques croissants des missions lunaires, la Nasa s'associe &#224; Astrobotic pour d&#233;velopper le VSAT-XL (Extra Large Vertical Solar Array Technology). Con&#231;u pour le p&#244;le sud de la Lune, ce syst&#232;me de panneaux solaires promet de r&#233;volutionner la production d'&#233;nergie...</description>
+    </item>
+    <item>
+      <title>How to watch the 2026 Super Bowl: Patriots vs. Seahawks channel, start time, where to stream and more</title>
+      <link>https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-patriots-vs-seahawks-channel-start-time-where-to-stream-and-more-175759610.html?src=rss</link>
+      <pubDate>Thu, 29 Jan 2026 17:57:59 +0000</pubDate>
+      <guid isPermaLink="false">f3d4e4b2-2273-433c-87e7-fbfb4424f573</guid>
+      <description>
+
+
+  The New England Patriots are headed to the 2026 Super Bowl. (Lauren Leigh Bacho via Getty Images)
+ 
+
+  Lauren Leigh Bacho via Getty Images
+ 
+
+Drake Maye and the New England Patriots face Sam Darnold and the Seattle Seahawks at Super Bowl LX, which will be held at Levi's Stadium in Santa Clara, CA this year. For those of you who don't have your calendars blocked off already, the game is on February 8, with kickoff scheduled for 6:30 p.m. ET.&#160;
+Like all other Sunday Night Football games this season, the championship game will be broadcast on NBC, and will stream live on Peacock. (Oh, and in ...</description>
+    </item>
+    <item>
+      <title>Waymo robotaxis are now giving rides to and from San Francisco International Airport</title>
+      <link>https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/</link>
+      <pubDate>Thu, 29 Jan 2026 17:55:43 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3087816</guid>
+      <description>Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.</description>
+    </item>
+    <item>
+      <title>This Fire TV offers all you need if you want a basic 4K TV for under $300</title>
+      <link>https://www.techradar.com/televisions/this-fire-tv-offers-all-you-need-if-you-want-a-basic-4k-tv-for-under-usd300</link>
+      <pubDate>Thu, 29 Jan 2026 17:50:00 +0000</pubDate>
+      <guid isPermaLink="false">pn4TmbMfmXWX8wHv6NY2tG</guid>
+      <description>Amazon&#8217;s 4K Fire TV hits an all-time low price</description>
+    </item>
+    <item>
+      <title>Maingear's latest retro gaming desktop takes you back to the Quake era</title>
+      <link>https://www.engadget.com/gaming/pc/maingears-latest-retro-gaming-desktop-takes-you-back-to-the-quake-era-174958445.html?src=rss</link>
+      <pubDate>Thu, 29 Jan 2026 17:49:58 +0000</pubDate>
+      <guid isPermaLink="false">3fbc11cf-f0e2-42ee-a70d-45393ba50331</guid>
+      <description>Maingear is back with another nostalgia-fueled gaming PC. The Retro98 may look like it's made for playing Quake while you wait for The Phantom Menace trailer to drop. But on the inside, the beige box is powerful enough to slay today's most demanding AAA games. "You're not going to find this PC at your local Radio Shack," Maingear promises.If you're at least middle-aged, the Retro98's exterior is instantly familiar. The hand-built tower includes an LED fan-speed display, a working turbo button and a power-lockout key. Sticking with the nostalgic motif, its front I/O is hidden behind the Maingea...</description>
+    </item>
+    <item>
+      <title>OpenAI Working on Social Media Network That Could Require Creepy Eye Scans: Report</title>
+      <link>https://gizmodo.com/openai-working-on-social-media-network-that-could-require-creepy-eye-scans-report-2000715588</link>
+      <pubDate>Thu, 29 Jan 2026 17:45:25 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715588</guid>
+      <description>Signing up for the bot-free platform will reportedly require submitting some biometric data.</description>
+    </item>
     <item>
       <title>Spotify has a group messaging feature now</title>
       <link>https://www.engadget.com/entertainment/streaming/spotify-has-a-group-messaging-feature-now-173734450.html?src=rss</link>
@@ -48,6 +216,15 @@ The in-app messaging feature, which was released last August, works to keep user
       <description>The light from MoM-z14 galaxy has been traveling through space for about 13.5 billion years.</description>
     </item>
     <item>
+      <title>Les SSD vont co&#251;ter bien plus cher : cette promo Amazon est probablement la meilleure &#224; saisir</title>
+      <link>https://www.frandroid.com/bons-plans/2960523_les-ssd-vont-couter-bien-plus-cher-cette-promo-amazon-est-probablement-la-meilleure-a-saisir</link>
+      <pubDate>Thu, 29 Jan 2026 17:23:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2960523_les-ssd-vont-couter-bien-plus-cher-cette-promo-amazon-est-probablement-la-meilleure-a-saisir</guid>
+      <description>
+&#192; 80 euros seulement, ce SSD Transcend MTS820S au format M.2 s&#8217;impose comme une&#160;belle&#160;opportunit&#233; pour doper un PC portable sans se ruiner. Une promotion d&#8217;autant plus int&#233;ressante que les SSD font partie des prochains composants touch&#233;s par la p&#233;nurie, ce qui laisse pr&#233;sager une remont&#233;e des prix dans les mois &#224; venir.
+</description>
+    </item>
+    <item>
       <title>Samsung veut remplacer le papier avec cet &#233;cran en plancton</title>
       <link>https://www.frandroid.com/marques/samsung/2960595_samsung-veut-remplacer-le-papier-avec-cet-ecran-en-plancton</link>
       <pubDate>Thu, 29 Jan 2026 17:19:10 +0000</pubDate>
@@ -55,6 +232,14 @@ The in-app messaging feature, which was released last August, works to keep user
       <description>
 Samsung vient de pr&#233;senter un produit pour le moins insolite : un &#233;cran Color E-Paper de 13 pouces. Sa particularit&#233; ? Il abandonne le plastique traditionnel pour une bio-r&#233;sine issue du phytoplancton.
 </description>
+    </item>
+    <item>
+      <title>This AI startup wants to be your virtual &#8216;computer for business&#8217;</title>
+      <link>https://www.fastcompany.com/91482690/adapt-ai-cloud-systems</link>
+      <pubDate>2026-01-29T17:18:17</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91482690/adapt-ai-cloud-systems</guid>
+      <description>Adapt&#8217;s&#160;AI can pull data from a wide range of cloud systems, writing code to crunch numbers and automate tedious tasks.&#160;
+A startup called&#160;Adapt&#160;is betting that it can be an AI hub connecting other software tools to help answer questions and get things done.&#160;</description>
     </item>
     <item>
       <title>Forfait Free 2&#8364; : l&#8217;option illimit&#233;e devient enfin la norme (et c&#8217;est gratuit)</title>
@@ -78,11 +263,34 @@ Samsung vient de pr&#233;senter un produit pour le moins insolite : un &#233;cra
       <description>Heated competition, legal drama, and the future of tech on the line? Start writing the movie now, I guess.</description>
     </item>
     <item>
+      <title>An inventory boomerang just hit the housing market</title>
+      <link>https://www.fastcompany.com/91483441/housing-market-inventory-boomerang-just-hit</link>
+      <pubDate>2026-01-29T17:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91483441/housing-market-inventory-boomerang-just-hit</guid>
+      <description>Last year&#8217;s 10-year high in delistings is turning into a relistings jump. Here&#8217;s what that means for homebuyers.
+Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
+    </item>
+    <item>
+      <title>How to dial down the AI slop on platforms</title>
+      <link>https://www.fastcompany.com/91483260/ai-content-slop-pinterest-tiktok-deezer</link>
+      <pubDate>2026-01-29T17:10:51</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91483260/ai-content-slop-pinterest-tiktok-deezer</guid>
+      <description>Here&#8217;s a guide on using app settings and tools to minimize the amount of AI content you see.
+AI&#160;slop&#160;seems to be everywhere. Low-quality digital content made with artificial intelligence has flooded our feeds, screens and speakers. Is there anything we can do about it?</description>
+    </item>
+    <item>
       <title>Fake Moltbot AI assistant just spreads malware - so AI fans, watch out for scams</title>
       <link>https://www.techradar.com/pro/security/fake-moltbot-ai-assistant-just-spreads-malware-so-ai-fans-watch-out-for-scams</link>
       <pubDate>Thu, 29 Jan 2026 17:10:00 +0000</pubDate>
       <guid isPermaLink="false">6zemN2xqba5n8zwohqAxi5</guid>
       <description>Crooks are impersonating popular Moltbot AI assistant to deploy trojan malware, so be on your guard.</description>
+    </item>
+    <item>
+      <title>The Heated Rivalry fleece is coming &#8212; we all begged for Canada to release the fleece and theyre delivering</title>
+      <link>https://mashable.com/article/jan-29-heated-rivalry-fleece</link>
+      <pubDate>Thu, 29 Jan 2026 17:08:48 +0000</pubDate>
+      <guid isPermaLink="false">00fg9JWA2sAvbqjK7S6lMr9</guid>
+      <description>Sign up for alerts on the official 'Heated Rivalry' fleece coming soon from Province of Canada.</description>
     </item>
     <item>
       <title>Is it finally happening? Ubisoft appears to respond to new Assassin's Creed: Black Flag remake leak with everyone's favorite GTA meme</title>
@@ -117,7 +325,7 @@ Samsung vient de pr&#233;senter un produit pour le moins insolite : un &#233;cra
       <link>https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/</link>
       <pubDate>Thu, 29 Jan 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">6978fda85780318e8dc1728c</guid>
-      <description>AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals.</description>
+      <description>AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company&#8217;s stuffed animals.</description>
     </item>
     <item>
       <title>Half of developers think gen AI is bad for the gaming industry</title>
@@ -146,6 +354,22 @@ Samsung vient de pr&#233;senter un produit pour le moins insolite : un &#233;cra
       <pubDate>2026-01-29T12:00:00-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=870102</guid>
       <description>Waymo has finally broken through its SFO logjam. The company announced today that it will start offering robotaxi rides to a select group of passengers traveling to and from the San Francisco International Airport, a major step in Waymo's effort to increase its footprint in the Bay Area. The company plans on gradually growing the [&#8230;]</description>
+    </item>
+    <item>
+      <title>AI face swapping video could be a bonanza for scammers</title>
+      <link>https://www.fastcompany.com/91482342/ai-face-swapping-tim-cook-trump-minneapolis-pretti-altman</link>
+      <pubDate>2026-01-29T17:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91482342/ai-face-swapping-tim-cook-trump-minneapolis-pretti-altman</guid>
+      <description>A new class of video generation tools could fool phishing victims, especially the elderly, into divulging information or sending money.&#160;
+Welcome to AI Decoded, Fast Company&#8217;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company,covering emerging tech, AI, and tech policy.</description>
+    </item>
+    <item>
+      <title>A big Starbucks Rewards overhaul is coming. What it means for your stars</title>
+      <link>https://www.fastcompany.com/91483407/a-big-starbucks-rewards-overhaul-is-coming-what-it-means-for-your-stars</link>
+      <pubDate>2026-01-29T17:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91483407/a-big-starbucks-rewards-overhaul-is-coming-what-it-means-for-your-stars</guid>
+      <description>The coffee chain is reintroducing three loyalty tiers and new perks as part of its turnaround strategy.
+Coffee giant Starbucks just announced its rewards program is about to get a major overhaul.&#160;</description>
     </item>
     <item>
       <title>Une sym&#233;trie trop parfaite pour &#234;tre naturelle ? Ce cercle g&#233;ant d&#233;range la science</title>
@@ -178,219 +402,6 @@ Il ne faut pas se le cacher, la derni&#232;re d&#233;marque des soldes est souve
       <pubDate>Thu, 29 Jan 2026 16:55:15 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000715590</guid>
       <description>The agency has bumped up the wet dress rehearsal to increase its chances of launching within the February window, but could an Arctic blast interfere?</description>
-    </item>
-    <item>
-      <title>Google Maps devient encore plus pratique &#224; v&#233;lo gr&#226;ce &#224; cette nouvelle int&#233;gration Gemini</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/2960489_google-maps-devient-encore-plus-rapide-a-velo-grace-a-cette-nouvelle-integration-gemini</link>
-      <pubDate>Thu, 29 Jan 2026 16:50:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/2960489_google-maps-devient-encore-plus-rapide-a-velo-grace-a-cette-nouvelle-integration-gemini</guid>
-      <description>
-L&#8217;int&#233;gration pouss&#233;e de l'IA Gemini dans Google Maps ouvre la possibilit&#233; de demander des t&#226;ches ou d&#8217;ajouter une &#233;tape &#224; v&#233;lo sans l&#226;cher le guidon. Si cela semble &#234;tre disponible sur iOS, il faudra attendre pour les utilisateurs d&#8217;Android.
-</description>
-    </item>
-    <item>
-      <title>On a vu le Xgimi Titan Noir&#160;: le vid&#233;oprojecteur qui promet des contrastes ph&#233;nom&#233;naux</title>
-      <link>https://www.01net.com/actualites/on-a-vu-le-xgimi-titan-noir-le-videoprojecteur-qui-promet-des-contrastes-phenomenaux.html</link>
-      <pubDate>Thu, 29 Jan 2026 16:50:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1323305</guid>
-      <description>Apr&#232;s un Titan ambitieux qui visait d&#233;j&#224; le segment semi-pro, Xgimi d&#233;cline son vid&#233;oprojecteur phare dans une version &#171;&#8239;Noir&#8239;&#187; cens&#233;e pousser plus loin le contraste et la pr&#233;cision des couleurs. Nous avons pu le voir &#224; Paris avant sa sortie pr&#233;vue &#224; l&#8217;&#233;t&#233;&#8239;2026. le Titan&#8239;Noir promet une image encore plus spectaculaire gr&#226;ce &#224; un taux de contraste annonc&#233; &#224; 10&#8239;000:1. De quoi justifier ses concessions techniques &#233;videntes par rapport au Titan&#8239;? Premi&#232;res impressions....</description>
-    </item>
-    <item>
-      <title>OpenAI&#8217;s Sora app is struggling after its stellar launch</title>
-      <link>https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/</link>
-      <pubDate>Thu, 29 Jan 2026 16:48:44 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3087814</guid>
-      <description>Sora's mobile app downloads fell 45% in January, and consumer spending dropped.</description>
-    </item>
-    <item>
-      <title>Linux gaming developers join forces to form the Open Gaming Collective</title>
-      <link>https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite</link>
-      <pubDate>2026-01-29T11:36:51-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870159</guid>
-      <description>Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to take it even further. Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the [&#8230;]...</description>
-    </item>
-    <item>
-      <title>&#8216;Hardware launches will ramp up&#8217;: Sonos is apparently ready to release new products throughout 2026, after a year of cancelations and no-shows</title>
-      <link>https://www.techradar.com/audio/multi-room/hardware-launches-will-ramp-up-sonos-is-apparently-ready-to-release-new-products-throughout-2026-after-a-year-of-cancelations-and-no-shows</link>
-      <pubDate>Thu, 29 Jan 2026 16:34:29 +0000</pubDate>
-      <guid isPermaLink="false">chn7jFF8B7FsN2DPfriKDe</guid>
-      <description>Sonos reportedly plans multiple hardware launches throughout 2026.</description>
-    </item>
-    <item>
-      <title>143-Year-Old Shipwreck Emerges on a New Jersey Beach</title>
-      <link>https://gizmodo.com/143-year-old-shipwreck-emerges-on-a-new-jersey-beach-2000715512</link>
-      <pubDate>Thu, 29 Jan 2026 16:30:59 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715512</guid>
-      <description>The unfortunate ship, along with its cargo of oranges, sank in 1890 while en route to New York City.</description>
-    </item>
-    <item>
-      <title>Music publishers sue Anthropic for $3B over &#8216;flagrant piracy&#8217; of 20,000 works</title>
-      <link>https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/</link>
-      <pubDate>Thu, 29 Jan 2026 16:30:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3087790</guid>
-      <description>Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.</description>
-    </item>
-    <item>
-      <title>What Netflix&amp;#8217;s Warner Bros. deal could mean for TVs and remotes</title>
-      <link>https://www.theverge.com/column/869847/warner-bros-netflix-remote</link>
-      <pubDate>2026-01-29T11:30:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=869847</guid>
-      <description>This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, ranging from display technologies (OLED vs. QLED vs. micro RGB) to styles (shiny [&#8230;]</description>
-    </item>
-    <item>
-      <title>L&#8217;industrie du jeu vid&#233;o commence &#224; prendre Linux au s&#233;rieux</title>
-      <link>https://www.01net.com/actualites/lindustrie-du-jeu-video-commence-a-prendre-linux-au-serieux.html</link>
-      <pubDate>Thu, 29 Jan 2026 16:21:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1323353</guid>
-      <description>On assiste &#224; une v&#233;ritable offensive en faveur du jeu sur Linux. La boutique GOG pr&#233;voit le support de la plateforme libre, Nvidia vient de lancer un client d&#233;di&#233; pour GeForce Now, et une nouvelle initiative regroupe plusieurs grands acteurs sous une m&#234;me banni&#232;re afin d'acc&#233;l&#233;rer et d'am&#233;liorer la prise en charge des jeux sur Linux.</description>
-    </item>
-    <item>
-      <title>Pok&#233;mon Legends: Z-A is 20 percent off at Best Buy today only</title>
-      <link>https://www.theverge.com/gadgets/870030/pokemon-legends-za-switch-2-apple-airtags-deal-sale</link>
-      <pubDate>2026-01-29T11:18:16-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870030</guid>
-      <description>If you&#8217;ve been considering picking up the latest Pok&#233;mon game for the Switch 2, there&#8217;s good reason to do it today, as Best Buy is knocking $14 off the physical version. Pok&#233;mon Legends: Z-A normally costs $69.99, but you can snag it for $55.99 for the rest of the day &#8212; a price that other [&#8230;]</description>
-    </item>
-    <item>
-      <title>Tomodachi Life: Living the Dream gets an official launch date for Nintendo Switch and Switch 2 alongside a hilariously chaotic trailer</title>
-      <link>https://www.techradar.com/gaming/nintendo/tomodachi-life-living-the-dream-gets-an-official-launch-date-for-nintendo-switch-and-switch-2-alongside-a-hilariously-chaotic-trailer</link>
-      <pubDate>Thu, 29 Jan 2026 16:18:08 +0000</pubDate>
-      <guid isPermaLink="false">JWJVrQ8CqyLskND4xgAu2G</guid>
-      <description>Nintendo has released a brand new gameplay overview for Tomodachi Life: Living the Dream, alongside an April 16 release date for the Switch and Switch 2.</description>
-    </item>
-    <item>
-      <title>Garmin Connect is breaking smartwatches for iPhone users, but these fixes have worked for some</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/garmin-connect-is-breaking-smartwatches-on-ios-but-these-fixes-have-worked-for-some</link>
-      <pubDate>Thu, 29 Jan 2026 16:17:46 +0000</pubDate>
-      <guid isPermaLink="false">sjmZNnEiAjKCXniW8rUA3</guid>
-      <description>A Garmin Connect update has caused some wearables to disconnect from iOS devices, but there might be a fix.</description>
-    </item>
-    <item>
-      <title>Can Xbox Outlast the AI Bubble?</title>
-      <link>https://gizmodo.com/can-xbox-outlast-the-ai-bubble-2000715526</link>
-      <pubDate>Thu, 29 Jan 2026 16:15:23 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715526</guid>
-      <description>Microsoft is pouring money into AI, but Xbox is dragging down the company's entire hardware business.</description>
-    </item>
-    <item>
-      <title>Nvidia&#8217;s Campaign to Sell AI Chips to China Finally Pays Off</title>
-      <link>https://www.wired.com/story/made-in-china-china-nvidia-h200-beijing-approval/</link>
-      <pubDate>Thu, 29 Jan 2026 16:10:53 +0000</pubDate>
-      <guid isPermaLink="false">697a6ff734d8eaf7d47f8800</guid>
-      <description>Beijing reportedly approved the sale of hundreds of thousands of Nvidia H200 chips to Chinese AI companies&#8212;the culmination of a dramatic shift in US tech policy.</description>
-    </item>
-    <item>
-      <title>DJI in disguise? These drone and action cam lookalikes are appearing on Amazon US &#8212; and I'm not surprised</title>
-      <link>https://www.techradar.com/cameras/drones/dji-in-disguise-these-drone-and-action-cam-lookalikes-are-appearing-on-amazon-us-and-im-not-surprised</link>
-      <pubDate>Thu, 29 Jan 2026 16:10:48 +0000</pubDate>
-      <guid isPermaLink="false">yGQaKShNd9UJM6Q55sfruW</guid>
-      <description>DJI may be using shell companies in an attempt to sell its camera and drone technology to consumers in the US</description>
-    </item>
-    <item>
-      <title>Deezer opens its AI music detection tool to other platforms</title>
-      <link>https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available</link>
-      <pubDate>2026-01-29T11:07:53-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870186</guid>
-      <description>The music streaming service Deezer is giving other companies access to its AI song-detecting tool. The tool, which identifies, tags, and excludes AI-generated music from algorithmic recommendations, is now available for businesses to purchase and use, according to an announcement on Wednesday. Deezer launched its AI music detection tool last year as part of efforts [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Don't miss these payday Dell laptop deals - Amazon just price-cut my favourite laptops for business professionals and students</title>
-      <link>https://www.techradar.com/pro/dont-miss-these-payday-dell-laptop-deals-amazon-just-price-cut-my-favourite-laptops-for-business-professionals-and-students</link>
-      <pubDate>Thu, 29 Jan 2026 16:06:18 +0000</pubDate>
-      <guid isPermaLink="false">HpijAWDo64gQ7KPmm59dUj</guid>
-      <description>January may be nearly over but it's not too late to kick start your 2026 productivity with a new laptop with these time-limited Dell Deal Days offers.</description>
-    </item>
-    <item>
-      <title>Doctors Kept a Man Alive Without Lungs for 2 Days</title>
-      <link>https://gizmodo.com/doctors-kept-a-man-alive-without-lungs-for-2-days-2000715481</link>
-      <pubDate>Thu, 29 Jan 2026 16:00:28 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715481</guid>
-      <description>The team's total artificial lung system, or TAL, bought the man precious time until a double lung transplant was viable.</description>
-    </item>
-    <item>
-      <title>SS Rajamouli&#8217;s &#8216;RRR&#8217; Follow Up Is Coming Next Year</title>
-      <link>https://gizmodo.com/ss-rajamoulis-rrr-follow-up-is-coming-next-year-2000715186</link>
-      <pubDate>Thu, 29 Jan 2026 16:00:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715186</guid>
-      <description>'Varanasi,' starring Mahesh Babu and Priyanka Chopra-Jonas, finally has a release date.</description>
-    </item>
-    <item>
-      <title>The rise of the slopagandist</title>
-      <link>https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda</link>
-      <pubDate>2026-01-29T11:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=869824</guid>
-      <description>The violent federal occupation of Minneapolis - and the subsequent killings of two residents at the hands of immigration agents - began with a vlog. Nick Shirley, a roving 23-year-old with a smartphone and a taste for outrage, made a YouTube video with unfounded allegations of fraud at daycares operated by the local Somali American [&#8230;]</description>
-    </item>
-    <item>
-      <title>How big is too big for a new Super Bowl TV? Use our tool to find the perfect size, and get the best buy for your budget</title>
-      <link>https://www.techradar.com/televisions/how-big-is-too-big-for-a-new-super-bowl-tv-use-our-tool-to-find-the-perfect-size-and-get-the-best-buy-for-your-budget</link>
-      <pubDate>Thu, 29 Jan 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">mLmiuXVdV2MgafwNpNLcJj</guid>
-      <description>Find the idea TV for your setup &#8211; even if you want to go REALLY big with it</description>
-    </item>
-    <item>
-      <title>The Apprentice Season 20 Free Streams: How to watch online from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/the-apprentice-season-20-free</link>
-      <pubDate>Thu, 29 Jan 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">MprxeL8H4B8Qcgvv4N9Tfi</guid>
-      <description>Here's how you can watch The Apprentice season 20 online from anywhere in the world as Lord Sugar puts a new batch of candidates through their paces.</description>
-    </item>
-    <item>
-      <title>Workers fear this even more than burnout</title>
-      <link>https://www.fastcompany.com/91482720/workers-fear-this-even-more-than-burnout</link>
-      <pubDate>2026-01-29T16:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91482720/workers-fear-this-even-more-than-burnout</guid>
-      <description>A new Indeed survey found that a third of workers are concerned that AI will negatively impact their job opportunities and career growth. 
-In its latest round of mass layoffs, Amazon is eliminating 16,000 jobs&#8212;following a round of 14,000 cuts back in the fall. The tech giant did not cite artificial intelligence in a memo to employees, and Amazon CEO Andy Jassy has previously denied that the company is slashing headcount due to AI. But there&#8217;s no denying AI plays a role, whether or not these layoffs can actually be attributed to it.&#160;...</description>
-    </item>
-    <item>
-      <title>Coffre g&#233;ant et prix cass&#233; : on en sait plus sur les voitures &#233;lectriques abordables de Volkswagen avec le Skoda Epiq</title>
-      <link>https://www.frandroid.com/marques/skoda/2960417_coffre-geant-et-prix-casse-on-en-sait-plus-sur-les-voitures-electriques-abordables-de-volkswagen-avec-le-skoda-epiq</link>
-      <pubDate>Thu, 29 Jan 2026 15:58:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/skoda/2960417_coffre-geant-et-prix-casse-on-en-sait-plus-sur-les-voitures-electriques-abordables-de-volkswagen-avec-le-skoda-epiq</guid>
-      <description>
-&#192; quelques semaines de sa pr&#233;sentation, Skoda d&#233;voile des informations suppl&#233;mentaires sur sa nouvelle voiture &#233;lectrique : l'Epiq. Ce petit SUV, concurrent direct des Renault 4 E-Tech et Peugeot E-2008, s'av&#232;re redoutable.
-</description>
-    </item>
-    <item>
-      <title>L&#8217;h&#233;ritier de Nokia surprend tout le monde : voici ses deux premi&#232;res montres connect&#233;es</title>
-      <link>https://www.frandroid.com/marques/hmd/2960251_lheritier-de-nokia-surprend-tout-le-monde-voici-ses-deux-premieres-montres-connectees</link>
-      <pubDate>Thu, 29 Jan 2026 15:57:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/hmd/2960251_lheritier-de-nokia-surprend-tout-le-monde-voici-ses-deux-premieres-montres-connectees</guid>
-      <description>
-La marque finlandaise HMD a annonc&#233; le lancement de ses deux premi&#232;res montres connect&#233;es, la HMD Watch X1 et la HMD Watch P1.
-</description>
-    </item>
-    <item>
-      <title>Amazon profite de la derni&#232;re d&#233;marque des soldes pour d&#233;stocker ses produits phares (Kindle, Echo Show, Fire TV&#8230;)</title>
-      <link>https://www.frandroid.com/bons-plans/2956391_amazon-profite-de-la-derniere-demarque-des-soldes-pour-destocker-ses-produits-phares-kindle-echo-show-fire-tv</link>
-      <pubDate>Thu, 29 Jan 2026 15:55:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2956391_amazon-profite-de-la-derniere-demarque-des-soldes-pour-destocker-ses-produits-phares-kindle-echo-show-fire-tv</guid>
-      <description>
-Alors que la derni&#232;re d&#233;marque sonne bient&#244;t la fin des soldes, Amazon profite de cette derni&#232;re occasion pour brader une bonne partie de ses produits : Echo Show, Echo Dot, Kindle, Fire TV Stick ou encore cam&#233;ras Blink&#8230; Retrouvez ici les meilleures offres en promo !
-</description>
-    </item>
-    <item>
-      <title>U.S. life expectancy hit this all-time high in 2024, CDC data shows</title>
-      <link>https://www.fastcompany.com/91483273/u-s-life-expectancy-hit-all-time-high-2024-cdc-data-shows</link>
-      <pubDate>2026-01-29T15:54:37</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91483273/u-s-life-expectancy-hit-all-time-high-2024-cdc-data-shows</guid>
-      <description>In 2024, life expectancy went up to 79 years.
-U.S. life expectancy rose to 79 years in 2024 &#8212; the highest mark in American history.It&#8217;s the result of not only the dissipation of the COVID-19 pandemic, but also waning death rates from all the nation&#8217;s top killers, including heart disease, cancer and drug overdoses.What&#8217;s more, preliminary statistics suggest a continued improvement in 2025.&#8220;It&#8217;s pretty much good news all the way around,&#8221; said Robert Anderson, of the National Center for Health Statistics at the Centers for Disease Control and Prevention, which released the 2024 data on Thursday.L...</description>
-    </item>
-    <item>
-      <title>The iPhone 18 could be a bargain compared to the Galaxy S26 &#8211; new reports say Apple will &#8216;absorb&#8217; RAM crisis costs unlike Samsung</title>
-      <link>https://www.techradar.com/phones/the-iphone-18-could-be-a-bargain-compared-to-the-galaxy-s26-new-reports-say-apple-will-absorb-ram-crisis-costs-unlike-samsung</link>
-      <pubDate>Thu, 29 Jan 2026 15:43:34 +0000</pubDate>
-      <guid isPermaLink="false">FmgyKfcFk5uBS2yXaqruJL</guid>
-      <description>Samsung could raise its prices in response to rising RAM costs, while Apple might choose to keep prices the same in order to increase its market share.</description>
-    </item>
-    <item>
-      <title>Meta teases &#8216;future headsets&#8217; despite VR troubles, and an AI upgrade straight from science fiction</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-teases-future-headsets-despite-vr-troubles-and-an-ai-upgrade-straight-from-science-fiction</link>
-      <pubDate>Thu, 29 Jan 2026 15:43:15 +0000</pubDate>
-      <guid isPermaLink="false">og8gAHbtKQTxYBUYLTddh5</guid>
-      <description>Maybe VR isn&#8217;t dead, as Meta teases &#8216;future headsets&#8217; and video you can &#8216;jump into&#8217;.</description>
     </item>
   </channel>
 </rss>
