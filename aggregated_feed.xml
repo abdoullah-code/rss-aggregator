@@ -3,13 +3,90 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 29 Jan 2026 18:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 19:33:50 GMT</lastBuildDate>
     <item>
-      <title>AI models that simulate internal debate dramatically improve accuracy on complex tasks</title>
-      <link>https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on</link>
-      <pubDate>Fri, 30 Jan 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">6ZOpQtqzcdkyNR2LXBbvmu</guid>
-      <description>A new study by Google suggests that advanced reasoning models achieve high performance by simulating multi-agent-like debates involving diverse perspectives, personality traits, and domain expertise.Their experiments demonstrate that this internal debate, which they dub &#8220;society of thought,&#8221; significantly improves model performance in complex reasoning and planning tasks. The researchers found that leading reasoning models such as DeepSeek-R1 and QwQ-32B, which are trained via reinforcement learning (RL), inherently develop this ability to engage in society of thought conversations without exp...</description>
+      <title>Elon Musk&#8217;s SpaceX and xAI in talks to merge, report says</title>
+      <link>https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/</link>
+      <pubDate>Thu, 29 Jan 2026 19:30:59 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3087906</guid>
+      <description>This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.</description>
+    </item>
+    <item>
+      <title>Apple&#8217;s second biggest acquisition ever is an AI company that listens to &#8216;silent speech&#8217;</title>
+      <link>https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech</link>
+      <pubDate>2026-01-29T14:22:27-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=870353</guid>
+      <description>Apple's biggest acquisition ever is still its $3 billion Beats buy in 2014, but now the second biggest deal is bringing in Q.ai, a four-year-old AI audio startup. Apple did not disclose the terms, but Financial Times reports that Apple is spending $2 billion on the company. It also mentioned Q.ai patents for optical sensor [&#8230;]</description>
+    </item>
+    <item>
+      <title>Tesla Applies for Trademarks on &#8216;Cybercar&#8217; and &#8216;Cybervehicle,&#8217; But What Do They Mean?</title>
+      <link>https://gizmodo.com/tesla-applies-for-trademarks-on-cybercar-and-cybervehicle-but-what-do-they-mean-2000715677</link>
+      <pubDate>Thu, 29 Jan 2026 19:15:56 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715677</guid>
+      <description>Place your bets now.</description>
+    </item>
+    <item>
+      <title>Obsbot&#8217;s new gimbal webcam doesn&#8217;t justify its $350 price</title>
+      <link>https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions</link>
+      <pubDate>2026-01-29T14:14:27-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=867950</guid>
+      <description>Webcam company Obsbot recently launched two new gimbal-equipped webcams, the $349 Tiny 3 and the $199 Tiny 3 Lite. It claims that the priciest model is the smallest pan, tilt, zoom (PTZ) 4K webcam ever made, weighing 63 grams. Ironically, the Tiny 3 Lite is heavier and bigger. I've been testing the Tiny 3 for [&#8230;]</description>
+    </item>
+    <item>
+      <title>AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment</title>
+      <link>https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/</link>
+      <pubDate>Thu, 29 Jan 2026 19:07:14 +0000</pubDate>
+      <guid isPermaLink="false">6977e8dfe4802fe5f44062e2</guid>
+      <description>Across Instagram and Facebook, AI-generated videos show people of color putting ICE agents in their place. Are they cathartic or just adding to a stew of misinformation?</description>
+    </item>
+    <item>
+      <title>Dating apps Bumble and Match reportedly hit in cyberattack - user data potentially stolen, here's what we know</title>
+      <link>https://www.techradar.com/pro/security/dating-apps-bumble-and-match-reportedly-hit-in-cyberattack</link>
+      <pubDate>Thu, 29 Jan 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">3XNriKVTQLnvtp3vWUQwcn</guid>
+      <description>ShinyHunters strike again, and this time they're targeting dating apps.</description>
+    </item>
+    <item>
+      <title>New &#8216;Masters of the Universe&#8217; Toys Will Power You Up for the Movie</title>
+      <link>https://gizmodo.com/new-masters-of-the-universe-toys-will-prepare-you-for-the-movie-2000715591</link>
+      <pubDate>Thu, 29 Jan 2026 19:00:22 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715591</guid>
+      <description>While you're getting excited to see He-Man on the big screen this summer, Mattel hopes you'll keep that love going for its action figures.</description>
+    </item>
+    <item>
+      <title>Apple acquires Q.ai for a reported $2 billion</title>
+      <link>https://www.engadget.com/big-tech/apple-acquires-qai-for-a-reported-2-billion-190017949.html?src=rss</link>
+      <pubDate>Thu, 29 Jan 2026 19:00:17 +0000</pubDate>
+      <guid isPermaLink="false">36d8c2a9-e419-4fa7-b145-7a354cf53a25</guid>
+      <description>Apple has acquired Israel-based startup Q.ai, a move that could provide a much-needed boost to the tech giant's capabilities in artificial intelligence. Although Apple has not disclosed terms of the deal, sources told Financial Times that the arrangement is reportedly valued at nearly $2 billion. If that figure is accurate, the Q.ai acquisition marks Apple's second largest acquisition to date, followed by its purchase of Beats for $3 billion back in 2014.Johny Srouji, Apple&#8217;s senior vice president of hardware technologies, said in a statement that Q.ai "is a remarkable company that is pioneeri...</description>
+    </item>
+    <item>
+      <title>A Yann LeCun&#8211;Linked Startup Charts a New Path to AGI</title>
+      <link>https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/</link>
+      <pubDate>Thu, 29 Jan 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6977cfe9b627b9f5229f08f0</guid>
+      <description>As the world&#8217;s largest companies pour hundreds of billions of dollars into large language models, San Francisco-based Logical Intelligence is trying something different in pursuit of AI that can mimic the human brain.</description>
+    </item>
+    <item>
+      <title>It's not a myth &#8211; Capcom has fixed Monster Hunter Wilds, and I even tested it to find out</title>
+      <link>https://www.techradar.com/gaming/pc-gaming/its-not-a-myth-capcom-has-fixed-monster-hunter-wilds-and-i-even-tested-it-to-find-out</link>
+      <pubDate>Thu, 29 Jan 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">aCq56AGmKFqS7Bo82xETTY</guid>
+      <description>Capcom's Monster Hunter Wilds performance patch fixes the game's frustrating stuttering issues, but don't expect a miraculous frame rate hike.</description>
+    </item>
+    <item>
+      <title>Apple buys Israeli startup Q.ai as the AI race heats up</title>
+      <link>https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/</link>
+      <pubDate>Thu, 29 Jan 2026 18:58:07 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3087901</guid>
+      <description>Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.</description>
+    </item>
+    <item>
+      <title>It&#8217;s a Big Week for Google Privacy Violation Settlements</title>
+      <link>https://gizmodo.com/its-a-big-week-for-google-privacy-violation-settlements-2000715678</link>
+      <pubDate>Thu, 29 Jan 2026 18:55:14 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715678</guid>
+      <description>Get your money since you can't have your privacy.</description>
     </item>
     <item>
       <title>Music publishers sue Anthropic for $3 billion over &#8216;flagrant piracy&#8217;</title>
@@ -25,7 +102,7 @@ These songs were then allegedly fed into the chatbot Claude for training purpose
       <link>https://www.wired.com/story/anker-soundcore-aeroclip-deal-126/</link>
       <pubDate>Thu, 29 Jan 2026 18:44:11 +0000</pubDate>
       <guid isPermaLink="false">697b97a22ba10bfd0b8ed14d</guid>
-      <description>The Anker Soundcore Aeroclip boast great sound without cutting you off from the outside world.</description>
+      <description>The Anker Soundcore Aeroclip earbuds boast great sound without cutting you off from the outside world.</description>
     </item>
     <item>
       <title>Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi</title>
@@ -71,6 +148,13 @@ These songs were then allegedly fed into the chatbot Claude for training purpose
 Virginia-based Gerber Products Company is voluntarily recalling limited batches of Gerber Arrowroot Biscuits, a cookie-like snack meant for children 10 months or older. </description>
     </item>
     <item>
+      <title>Bitcoin price plunge: Why are crypto prices dropping this time?</title>
+      <link>https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29</link>
+      <pubDate>Thu, 29 Jan 2026 18:06:52 +0000</pubDate>
+      <guid isPermaLink="false">02opBn1puWFr6b2Sn9tzpfO</guid>
+      <description>Cryptocurrencies took a big hit on Thursday with Bitcoin reaching its lowest point of the year so far.</description>
+    </item>
+    <item>
       <title>The Computer History Museum&#8217;s New Online Portal Is a Nerd&#8217;s Dream Come True</title>
       <link>https://gizmodo.com/the-computer-history-museums-new-online-portal-is-a-nerds-dream-come-true-2000715455</link>
       <pubDate>Thu, 29 Jan 2026 18:05:13 +0000</pubDate>
@@ -114,13 +198,6 @@ Journalist Ira Glass, who hosts the NPR show &#8220;This American Life,&#8221; i
       <description>Napster is back and this time as an AI-powered music platform betting that the future of audio is co-creation, not passive listening.</description>
     </item>
     <item>
-      <title>Infostealers added Clawdbot to their target lists before most security teams knew it was running</title>
-      <link>https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke</link>
-      <pubDate>Thu, 29 Jan 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7zyuBaekbIiptJa4NpmVJg</guid>
-      <description>Clawdbot's MCP implementation has no mandatory authentication, allows prompt injection, and grants shell access by design. Monday's VentureBeat article documented these architectural flaws. By Wednesday, security researchers had validated all three attack surfaces and found new ones.Commodity infostealers are already exploiting this. RedLine, Lumma, and Vidar added the AI agent to their target lists before most security teams knew it was running in their environments. Shruti Gandhi, general partner at Array VC, reported 7,922 attack attempts on her firm's Clawdbot instance.The reporting prompt...</description>
-    </item>
-    <item>
       <title>Une &#171; tour &#187; de panneaux solaires va enfin alimenter une base lunaire</title>
       <link>https://www.futura-sciences.com/sciences/actualites/exploration-tour-panneaux-solaires-va-enfin-alimenter-base-lunaire-w2t8-130539/#xtor%3DRSS-8</link>
       <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
@@ -150,6 +227,13 @@ Like all other Sunday Night Football games this season, the championship game wi
       <pubDate>Thu, 29 Jan 2026 17:55:43 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3087816</guid>
       <description>Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.</description>
+    </item>
+    <item>
+      <title>Stay prepared in any emergency with over $1,000 off the Anker Solix F2000</title>
+      <link>https://mashable.com/article/jan-29-anker-solix-f2000-deal</link>
+      <pubDate>Thu, 29 Jan 2026 17:52:11 +0000</pubDate>
+      <guid isPermaLink="false">07yy7wIkTblGmLvUqNHxVVq</guid>
+      <description>As of Jan. 29, get over $1,000 off the Anker Solix F2000 at Amazon.</description>
     </item>
     <item>
       <title>This Fire TV offers all you need if you want a basic 4K TV for under $300</title>
@@ -188,220 +272,11 @@ The in-app messaging feature, which was released last August, works to keep user
       <description>Spotify is expanding its in-app messaging feature with group chats. Now you can add up to 10 friends and family members to your discussion about your new favorite song, podcast, or audiobook, as reported earlier by TechCrunch. The music streaming platform launched direct messaging last August, allowing you to share what you're listening to without [&#8230;]...</description>
     </item>
     <item>
-      <title>How I reclaimed 5+ hours a week &#8212; my 12 essential productivity tools of 2026</title>
-      <link>https://www.techradar.com/shop/pro/how-i-reclaimed-5-hours-a-week-my-12-essential-productivity-tools</link>
-      <pubDate>Thu, 29 Jan 2026 17:31:09 +0000</pubDate>
-      <guid isPermaLink="false">ffwuy3FK5fmXoZg64VhRA9</guid>
-      <description>Spare time feels like a luxury in 2026, I used these productivity tools to reclaim hours every week. Now I'm not sure what to do with that time.</description>
-    </item>
-    <item>
-      <title>Graines, capteurs, plats fran&#231;ais : le contenu surprenant des bagages de Sophie Adenot pour la Station spatiale</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/sophie-adenot-graines-capteurs-plats-francais-contenu-surprenant-bagages-sophie-adenot-station-spatiale-130273/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 29 Jan 2026 18:29:43 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/sophie-adenot-graines-capteurs-plats-francais-contenu-surprenant-bagages-sophie-adenot-station-spatiale-130273/#xtor%3DRSS-8</guid>
-      <description>Que met-on dans sa valise quand on part huit mois dans l&#8217;espace ? Pour sa toute premi&#232;re mission &#224; bord de l&#8217;ISS, Sophie Adenot, premi&#232;re femme astronaute fran&#231;aise depuis Claudie Haigner&#233;, n&#8217;emportera pas seulement des effets personnels. Graines &#224; faire germer, capteurs m&#233;dicaux, exp&#233;riences de...</description>
-    </item>
-    <item>
-      <title>I built marshmallow castles in Google&#8217;s new AI world generator</title>
-      <link>https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/</link>
-      <pubDate>Thu, 29 Jan 2026 17:29:11 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3087840</guid>
-      <description>Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google&#8217;s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.</description>
-    </item>
-    <item>
-      <title>The Age of the Most Distant Galaxy Ever Seen Barely Makes Any Sense</title>
-      <link>https://gizmodo.com/the-age-of-the-most-distant-galaxy-ever-seen-barely-makes-any-sense-2000715503</link>
-      <pubDate>Thu, 29 Jan 2026 17:25:03 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715503</guid>
-      <description>The light from MoM-z14 galaxy has been traveling through space for about 13.5 billion years.</description>
-    </item>
-    <item>
-      <title>Les SSD vont co&#251;ter bien plus cher : cette promo Amazon est probablement la meilleure &#224; saisir</title>
-      <link>https://www.frandroid.com/bons-plans/2960523_les-ssd-vont-couter-bien-plus-cher-cette-promo-amazon-est-probablement-la-meilleure-a-saisir</link>
-      <pubDate>Thu, 29 Jan 2026 17:23:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2960523_les-ssd-vont-couter-bien-plus-cher-cette-promo-amazon-est-probablement-la-meilleure-a-saisir</guid>
-      <description>
-&#192; 80 euros seulement, ce SSD Transcend MTS820S au format M.2 s&#8217;impose comme une&#160;belle&#160;opportunit&#233; pour doper un PC portable sans se ruiner. Une promotion d&#8217;autant plus int&#233;ressante que les SSD font partie des prochains composants touch&#233;s par la p&#233;nurie, ce qui laisse pr&#233;sager une remont&#233;e des prix dans les mois &#224; venir.
-</description>
-    </item>
-    <item>
-      <title>Samsung veut remplacer le papier avec cet &#233;cran en plancton</title>
-      <link>https://www.frandroid.com/marques/samsung/2960595_samsung-veut-remplacer-le-papier-avec-cet-ecran-en-plancton</link>
-      <pubDate>Thu, 29 Jan 2026 17:19:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2960595_samsung-veut-remplacer-le-papier-avec-cet-ecran-en-plancton</guid>
-      <description>
-Samsung vient de pr&#233;senter un produit pour le moins insolite : un &#233;cran Color E-Paper de 13 pouces. Sa particularit&#233; ? Il abandonne le plastique traditionnel pour une bio-r&#233;sine issue du phytoplancton.
-</description>
-    </item>
-    <item>
-      <title>This AI startup wants to be your virtual &#8216;computer for business&#8217;</title>
-      <link>https://www.fastcompany.com/91482690/adapt-ai-cloud-systems</link>
-      <pubDate>2026-01-29T17:18:17</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91482690/adapt-ai-cloud-systems</guid>
-      <description>Adapt&#8217;s&#160;AI can pull data from a wide range of cloud systems, writing code to crunch numbers and automate tedious tasks.&#160;
-A startup called&#160;Adapt&#160;is betting that it can be an AI hub connecting other software tools to help answer questions and get things done.&#160;</description>
-    </item>
-    <item>
-      <title>Forfait Free 2&#8364; : l&#8217;option illimit&#233;e devient enfin la norme (et c&#8217;est gratuit)</title>
-      <link>https://www.01net.com/actualites/forfait-free-2e-loption-illimitee-devient-enfin-la-norme-et-cest-gratuit.html</link>
-      <pubDate>Thu, 29 Jan 2026 17:17:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1323292</guid>
-      <description>Free Mobile revoit sa copie pour son offre historique. Le forfait 2&#8364; int&#232;gre d&#233;sormais par d&#233;faut l'option booster 1 Go et les appels illimit&#233;s, sans surco&#251;t. Une modernisation n&#233;cessaire.</description>
-    </item>
-    <item>
-      <title>RAM is the new gold &#8211; why Costco is pulling memory from display PCs to halt a shoplifting surge</title>
-      <link>https://www.techradar.com/computing/memory/ram-is-the-new-gold-why-costco-is-pulling-memory-from-display-pcs-to-halt-a-shoplifting-surge</link>
-      <pubDate>Thu, 29 Jan 2026 17:16:28 +0000</pubDate>
-      <guid isPermaLink="false">hus7mhXdmgFXvmeH9iyEMo</guid>
-      <description>It used to be GPUs that might be shoplifted from display PCs on retailer shelves &#8211; now it's high-end RAM.</description>
-    </item>
-    <item>
-      <title>2026 Is About to Be a Blockbuster Year for Smart Glasses</title>
-      <link>https://gizmodo.com/2026-is-about-to-be-a-blockbuster-year-for-smart-glasses-2000715511</link>
-      <pubDate>Thu, 29 Jan 2026 17:15:23 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715511</guid>
-      <description>Heated competition, legal drama, and the future of tech on the line? Start writing the movie now, I guess.</description>
-    </item>
-    <item>
-      <title>An inventory boomerang just hit the housing market</title>
-      <link>https://www.fastcompany.com/91483441/housing-market-inventory-boomerang-just-hit</link>
-      <pubDate>2026-01-29T17:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91483441/housing-market-inventory-boomerang-just-hit</guid>
-      <description>Last year&#8217;s 10-year high in delistings is turning into a relistings jump. Here&#8217;s what that means for homebuyers.
-Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
-    </item>
-    <item>
-      <title>How to dial down the AI slop on platforms</title>
-      <link>https://www.fastcompany.com/91483260/ai-content-slop-pinterest-tiktok-deezer</link>
-      <pubDate>2026-01-29T17:10:51</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91483260/ai-content-slop-pinterest-tiktok-deezer</guid>
-      <description>Here&#8217;s a guide on using app settings and tools to minimize the amount of AI content you see.
-AI&#160;slop&#160;seems to be everywhere. Low-quality digital content made with artificial intelligence has flooded our feeds, screens and speakers. Is there anything we can do about it?</description>
-    </item>
-    <item>
-      <title>Fake Moltbot AI assistant just spreads malware - so AI fans, watch out for scams</title>
-      <link>https://www.techradar.com/pro/security/fake-moltbot-ai-assistant-just-spreads-malware-so-ai-fans-watch-out-for-scams</link>
-      <pubDate>Thu, 29 Jan 2026 17:10:00 +0000</pubDate>
-      <guid isPermaLink="false">6zemN2xqba5n8zwohqAxi5</guid>
-      <description>Crooks are impersonating popular Moltbot AI assistant to deploy trojan malware, so be on your guard.</description>
-    </item>
-    <item>
-      <title>The Heated Rivalry fleece is coming &#8212; we all begged for Canada to release the fleece and theyre delivering</title>
-      <link>https://mashable.com/article/jan-29-heated-rivalry-fleece</link>
-      <pubDate>Thu, 29 Jan 2026 17:08:48 +0000</pubDate>
-      <guid isPermaLink="false">00fg9JWA2sAvbqjK7S6lMr9</guid>
-      <description>Sign up for alerts on the official 'Heated Rivalry' fleece coming soon from Province of Canada.</description>
-    </item>
-    <item>
-      <title>Is it finally happening? Ubisoft appears to respond to new Assassin's Creed: Black Flag remake leak with everyone's favorite GTA meme</title>
-      <link>https://www.techradar.com/gaming/is-it-finally-happening-ubisoft-appears-to-respond-to-new-assassins-creed-black-flag-remake-leak-with-everyones-favorite-gta-meme</link>
-      <pubDate>Thu, 29 Jan 2026 17:06:24 +0000</pubDate>
-      <guid isPermaLink="false">DLvZhHXXvfxaWbsFgde8rn</guid>
-      <description>Ubisoft has finally acknowledged the ongoing Assassin's Creed: Black Flag remake rumors with a GTA meme after another leak appeared online.</description>
-    </item>
-    <item>
-      <title>15 genius Amazon tech finds under $40 that will make everyday life easier &#8212; shop deals starting at just $7.99</title>
-      <link>https://www.techradar.com/tech/15-genius-amazon-tech-finds-under-usd40-that-will-make-everyday-life-easier-shop-deals-starting-at-just-usd7-99</link>
-      <pubDate>Thu, 29 Jan 2026 17:05:38 +0000</pubDate>
-      <guid isPermaLink="false">fXxXkm9BzZATcqopwSHtRc</guid>
-      <description>I'm rounding up my 15 favorite cheap tech gadgets from Amazon that will make your everyday life easier without breaking the bank.</description>
-    </item>
-    <item>
-      <title>Stop paying full price for Photoshop: Adobe slashes Creative Cloud Pro subscriptions by 40% for your first year</title>
-      <link>https://www.techradar.com/pro/stop-paying-full-price-for-photoshop-adobe-slashes-creative-cloud-pro-subscriptions-by-40-percent-for-your-first-year</link>
-      <pubDate>Thu, 29 Jan 2026 17:02:22 +0000</pubDate>
-      <guid isPermaLink="false">RdjfwjWY2VMBCGsuy5ooSj</guid>
-      <description>If you're a creator, these Adobe deals are worth definitely checking out.</description>
-    </item>
-    <item>
-      <title>&#8216;Inception&#8217; and &#8216;The Incredibles&#8217; Among 2025&#8217;s National Film Registry Inductees</title>
-      <link>https://gizmodo.com/national-film-registry-library-of-congress-inception-the-thing-2000715469</link>
-      <pubDate>Thu, 29 Jan 2026 17:00:38 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715469</guid>
-      <description>The Library of Congress deemed 'Inception', the original 'Karate Kid', and 'The Thing' worth preserving for their 'cultural, historic, or aesthetic importance.'</description>
-    </item>
-    <item>
-      <title>An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account</title>
-      <link>https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/</link>
-      <pubDate>Thu, 29 Jan 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6978fda85780318e8dc1728c</guid>
-      <description>AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company&#8217;s stuffed animals.</description>
-    </item>
-    <item>
-      <title>Half of developers think gen AI is bad for the gaming industry</title>
-      <link>https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey</link>
-      <pubDate>2026-01-29T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=869386</guid>
-      <description>While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of respondents said that gen AI is having a "negative" impact on the games industry, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google&#8217;s AI helped me make bad Nintendo knockoffs</title>
-      <link>https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on</link>
-      <pubDate>2026-01-29T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=869726</guid>
-      <description>This week, a new generative AI tool from Google let me create bad knockoffs of 3D Nintendo worlds. Check out my version of something like Super Mario 64: I didn't like Metroid Prime 4: Beyond, but it's better than my version of a Metroid Prime experience: Or how about my take on The Legend of [&#8230;]</description>
-    </item>
-    <item>
-      <title>Microsoft is working to rebuild trust in Windows</title>
-      <link>https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad</link>
-      <pubDate>2026-01-29T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870045</guid>
-      <description>Windows is in a weird spot. In its 40-year history, the operating system has weathered its fair share of missteps, but Windows 11 is testing the patience of its users in new ways. Persistent bugs, performance issues, intrusive prompts, ads, and bloatware have eroded the core Windows experience. Early system requirement decisions have also damaged [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Waymo is finally starting passenger trips at SFO &#8212;&#160;but not to the terminals</title>
-      <link>https://www.theverge.com/news/870102/waymo-sfo-passenger-trip-approval-airport</link>
-      <pubDate>2026-01-29T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870102</guid>
-      <description>Waymo has finally broken through its SFO logjam. The company announced today that it will start offering robotaxi rides to a select group of passengers traveling to and from the San Francisco International Airport, a major step in Waymo's effort to increase its footprint in the Bay Area. The company plans on gradually growing the [&#8230;]</description>
-    </item>
-    <item>
-      <title>AI face swapping video could be a bonanza for scammers</title>
-      <link>https://www.fastcompany.com/91482342/ai-face-swapping-tim-cook-trump-minneapolis-pretti-altman</link>
-      <pubDate>2026-01-29T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91482342/ai-face-swapping-tim-cook-trump-minneapolis-pretti-altman</guid>
-      <description>A new class of video generation tools could fool phishing victims, especially the elderly, into divulging information or sending money.&#160;
-Welcome to AI Decoded, Fast Company&#8217;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company,covering emerging tech, AI, and tech policy.</description>
-    </item>
-    <item>
-      <title>A big Starbucks Rewards overhaul is coming. What it means for your stars</title>
-      <link>https://www.fastcompany.com/91483407/a-big-starbucks-rewards-overhaul-is-coming-what-it-means-for-your-stars</link>
-      <pubDate>2026-01-29T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91483407/a-big-starbucks-rewards-overhaul-is-coming-what-it-means-for-your-stars</guid>
-      <description>The coffee chain is reintroducing three loyalty tiers and new perks as part of its turnaround strategy.
-Coffee giant Starbucks just announced its rewards program is about to get a major overhaul.&#160;</description>
-    </item>
-    <item>
-      <title>Une sym&#233;trie trop parfaite pour &#234;tre naturelle ? Ce cercle g&#233;ant d&#233;range la science</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-symetrie-trop-parfaite-etre-naturelle-ce-cercle-geant-derange-science-w2t8-130536/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 29 Jan 2026 18:00:00 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-symetrie-trop-parfaite-etre-naturelle-ce-cercle-geant-derange-science-w2t8-130536/#xtor%3DRSS-8</guid>
-      <description>Cet objet vient d&#8217;&#234;tre d&#233;couvert dans les donn&#233;es de&#160;l&#8217;Australian Square Kilometre Array Pathfinder (Askap). Et sa forme presque parfaitement sph&#233;rique d&#233;route les astronomes.</description>
-    </item>
-    <item>
-      <title>Quelle est la meilleure voiture Tesla &#224; choisir en 2026&#8201;?</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-voitures/1333657_quelle-est-la-meilleure-tesla-a-choisir</link>
-      <pubDate>Thu, 29 Jan 2026 16:59:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-voitures/1333657_quelle-est-la-meilleure-tesla-a-choisir</guid>
-      <description>
-Si la marque Tesla vous attire, mais que vous avez du mal &#224; vous y retrouver entre les diff&#233;rentes versions disponibles, ce guide est fait pour vous. D&#233;couvrez les diff&#233;rents v&#233;hicules de la gamme pour y voir plus clair et d&#233;terminer quelle Tesla choisir.
-</description>
-    </item>
-    <item>
-      <title>Derni&#232;re d&#233;marque des soldes d&#8217;hiver : les 50 meilleures offres &#224; ne surtout pas rater</title>
-      <link>https://www.frandroid.com/bons-plans/2957561_les-meilleures-offres-tombent-pour-la-derniere-demarque-des-soldes-dhiver-voici-le-top-25</link>
-      <pubDate>Thu, 29 Jan 2026 16:59:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2957561_les-meilleures-offres-tombent-pour-la-derniere-demarque-des-soldes-dhiver-voici-le-top-25</guid>
-      <description>
-Il ne faut pas se le cacher, la derni&#232;re d&#233;marque des soldes est souvent le moment o&#249; l'on trouve les meilleures offres, car les e-commer&#231;ants comme Amazon, Fnac, Darty ou encore Boulanger veulent &#233;couler les derniers stocks. Avec cet article, vous serez s&#251;rs de ne manquer aucun deal Tech int&#233;ressant. 
-</description>
-    </item>
-    <item>
-      <title>Shit&#8217;s Getting Real: NASA Aims for Artemis 2 Fueling Test on Saturday</title>
-      <link>https://gizmodo.com/shits-getting-real-nasa-aims-for-artemis-2-fueling-test-on-saturday-2000715590</link>
-      <pubDate>Thu, 29 Jan 2026 16:55:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715590</guid>
-      <description>The agency has bumped up the wet dress rehearsal to increase its chances of launching within the February window, but could an Arctic blast interfere?</description>
+      <title>The powerful M5 iPad Pro is sitting at its lowest price ever &#8212; save $100 at Amazon</title>
+      <link>https://mashable.com/article/jan-29-ipad-pro-deal</link>
+      <pubDate>Thu, 29 Jan 2026 17:35:36 +0000</pubDate>
+      <guid isPermaLink="false">05PFhFG19f6QIGwgXOU6OGM</guid>
+      <description>The 11-inch M5 iPad Pro is on sale at Amazon for $899, down from the list price of $999. That's a 10% discount.</description>
     </item>
   </channel>
 </rss>
