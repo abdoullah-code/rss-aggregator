@@ -3,7 +3,130 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 30 Jan 2026 17:37:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 18:51:20 GMT</lastBuildDate>
+    <item>
+      <title>Dyson&#8217;s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today</title>
+      <link>https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale</link>
+      <pubDate>2026-01-30T13:48:52-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=870256</guid>
+      <description>In case you missed it, we recently overhauled our guides to the best budget robot vacuums and the best mopping vacs, both of which feature a slate of new picks from Roborock, Narwal, Dreame, and others. Dyson&#8217;s 360 Vis Nav Robot Vacuum didn&#8217;t technically make the cut, though it was once one of our top [&#8230;]</description>
+    </item>
+    <item>
+      <title>This Robot Hand Pops Off and Crawls. I Hate It So Much.</title>
+      <link>https://gizmodo.com/this-robot-hand-pops-off-and-crawls-i-hate-it-so-much-2000715991</link>
+      <pubDate>Fri, 30 Jan 2026 18:45:13 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715991</guid>
+      <description>Like a robotic spider! But somehow worse!</description>
+    </item>
+    <item>
+      <title>The biggest DDoS attack ever has been detected - but fortunately you probably barely noticed it</title>
+      <link>https://www.techradar.com/pro/security/the-biggest-ddos-attack-ever-has-been-detected-but-fortunately-you-probably-barely-noticed-it</link>
+      <pubDate>Fri, 30 Jan 2026 18:35:00 +0000</pubDate>
+      <guid isPermaLink="false">GgzmLyZmN3jpLHhXCKY6fL</guid>
+      <description>Cloudflare mitigated a major attack on a telco which broke all previous records.</description>
+    </item>
+    <item>
+      <title>This tree search framework hits 98.7% on documents where vector search fails</title>
+      <link>https://venturebeat.com/infrastructure/this-tree-search-framework-hits-98-7-on-documents-where-vector-search-fails</link>
+      <pubDate>Fri, 30 Jan 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">1yaxE5ZdnN779Pf8JlHBpU</guid>
+      <description>A new open-source framework called PageIndex solves one of the old problems of retrieval-augmented generation (RAG): handling very long documents.The classic RAG workflow (chunk documents, calculate embeddings, store them in a vector database, and retrieve the top matches based on semantic similarity) works well for basic tasks such as Q&amp;A over small documents.PageIndex abandons the standard "chunk-and-embed" method entirely and treats document retrieval not as a search problem, but as a navigation problem. But as enterprises try to move RAG into high-stakes workflows &#8212; auditing financial stat...</description>
+    </item>
+    <item>
+      <title>L&#8217;app France Identit&#233; teste une fonction pour prouver son &#226;ge en ligne</title>
+      <link>https://www.01net.com/actualites/lapp-france-identite-teste-une-fonction-pour-prouver-son-age-en-ligne.html</link>
+      <pubDate>Fri, 30 Jan 2026 18:23:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1323541</guid>
+      <description>Prouver son &#226;ge va devenir une contrainte de plus en plus pr&#233;sente &#224; mesure que les r&#233;gulateurs &#233;largissent la liste des sites et services en ligne tenus de v&#233;rifier que leurs utilisateurs sont bien des adultes certifi&#233;s. L'application France Identit&#233; pourrait avoir une carte &#224; jouer.</description>
+    </item>
+    <item>
+      <title>Tim Cook is destroying his own legacy</title>
+      <link>https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast</link>
+      <pubDate>2026-01-30T13:09:24-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=870717</guid>
+      <description>What responsibility do you have to speak up about bad things happening in the world? Does that responsibility change when speaking up might affect your business? What about if you're a sports creator, or the moderator of a deeply NSFW subreddit? What about if you're just a little ol' phone website? Ultimately, everyone has to [&#8230;]</description>
+    </item>
+    <item>
+      <title>Waiting for the Galaxy S26? I have the perfect T-Mobile deal to tempt you into picking up a Google Pixel 10 Pro XL instead</title>
+      <link>https://www.techradar.com/phones/network-providers/waiting-for-the-galaxy-s26-i-have-the-perfect-t-mobile-deal-to-tempt-you-into-picking-up-a-google-pixel-10-pro-xl-instead</link>
+      <pubDate>Fri, 30 Jan 2026 18:08:21 +0000</pubDate>
+      <guid isPermaLink="false">7wEZTYwXz8irtHFm3BQ8VJ</guid>
+      <description>T-Mobile's current deal on the Google Pixel 10 Pro XL gets you this superb device for free with a new unlimited line - without a trade-in needed, either.</description>
+    </item>
+    <item>
+      <title>Sundance doc 'Ghost in the Machine' draws a damning line between AI and eugenics</title>
+      <link>https://www.engadget.com/entertainment/tv-movies/sundance-doc-ghost-in-the-machine-draws-a-damning-line-between-ai-and-eugenics-180613367.html?src=rss</link>
+      <pubDate>Fri, 30 Jan 2026 18:06:13 +0000</pubDate>
+      <guid isPermaLink="false">11f3334f-4881-48b9-97e7-07f459eda8bd</guid>
+      <description>The Sundance documentary Ghost in the Machine boldly declares that the pursuit of artificial intelligence, and Silicon Valley itself, is rooted in eugenics.&#160;Director Valerie Veatch makes the case that the rise of techno-fascism from the likes of Elon Musk and Peter Thiel is a feature, not a bug. That may sound hyperbolic, but Ghost in the Machine, which is built around interviews with philosophers, AI researchers, historians and computer scientists, leaves little room for doubt.If you've been following the meteoric rise of AI, or Silicon Valley in general, Veatch's methodical deconstruction of...</description>
+    </item>
+    <item>
+      <title>The Next &#8216;Fast and Furious&#8217; Movie Finally Has an Official Title and Release Date</title>
+      <link>https://gizmodo.com/the-next-fast-and-furious-movie-finally-has-an-official-title-and-release-date-2000716061</link>
+      <pubDate>Fri, 30 Jan 2026 18:00:14 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000716061</guid>
+      <description>It's called 'Fast Forever' and will be in theaters on March 17, 2028.</description>
+    </item>
+    <item>
+      <title>Anthropic brings agentic plug-ins to Cowork</title>
+      <link>https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/</link>
+      <pubDate>Fri, 30 Jan 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3087918</guid>
+      <description>The company says you can use plug-ins to "tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes."</description>
+    </item>
+    <item>
+      <title>February 2026&#8217;s full &#8216;snow&#8217; moon comes with a side of free chips and queso: How and when to get yours</title>
+      <link>https://www.fastcompany.com/91482836/february-1-2026-full-moon-snow-free-chips-queso-dip-qdoba-when-what-day-to-see-it-tonight</link>
+      <pubDate>2026-01-30T18:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91482836/february-1-2026-full-moon-snow-free-chips-queso-dip-qdoba-when-what-day-to-see-it-tonight</guid>
+      <description>A major fast-food chain has a special deal to celebrate the &#8216;big cheese,&#8217; and stargazers can grab it this weekend.
+This Sunday&#8217;s full moon, or &#8220;big cheese,&#8221; as it&#8217;s sometimes called, comes with a side of queso and chips.</description>
+    </item>
+    <item>
+      <title>The JBL Charge 5 is my most loyal travel buddy &#8212; and now this trusty Bluetooth speaker can be yours for almost &#163;90 off</title>
+      <link>https://www.techradar.com/audio/wireless-bluetooth-speakers/the-jbl-charge-5-is-my-most-loyal-travel-buddy-and-now-this-trusty-bluetooth-speaker-can-be-yours-for-almost-gbp90-off</link>
+      <pubDate>Fri, 30 Jan 2026 17:52:03 +0000</pubDate>
+      <guid isPermaLink="false">8EfnweYXSm6eUAGucKGSxa</guid>
+      <description>My fave Bluetooth speaker for taking on adventures is at its lowest price yet &#8211; so grab it for nearly half off.</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy Unpacked 2026: The Galaxy S26 lineup and everything else we expect</title>
+      <link>https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-the-galaxy-s26-lineup-and-everything-else-we-expect-130000999.html?src=rss</link>
+      <pubDate>Fri, 30 Jan 2026 17:49:21 +0000</pubDate>
+      <guid isPermaLink="false">7b516dbb-4749-48f0-b5c0-b244aed8b2b9</guid>
+      <description>Samsung&#8217;s 2025 was filled with new foldables, an ultra-thin new form factor and the launch of Google's XR platform. After making some announcements at CES 2026, the company is expected to host its first Galaxy Unpacked of the year in February to introduce the Galaxy S26 lineup.Engadget will be covering Galaxy Unpacked live, and we'll most likely have hands-on coverage of Samsung's new smartphones soon after they're announced. While we wait for an official invite, here's everything we expect Samsung will introduce at the first Galaxy Unpacked event of 2026.What is Unpacked 2026 taking place?But...</description>
+    </item>
+    <item>
+      <title>OpenAI IPO: What to know about the most anticipated stock listing in years amid rumors of a 2026 date</title>
+      <link>https://www.fastcompany.com/91484259/openai-ipo-chatgpt-maker-rumored-stock-listing-2026-date</link>
+      <pubDate>2026-01-30T17:48:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91484259/openai-ipo-chatgpt-maker-rumored-stock-listing-2026-date</guid>
+      <description>The ChatGPT maker and world&#8217;s most valuable startup could go public as soon as this year, according to a WSJ report.
+It&#8217;s shaping up to be a busy year for initial public offerings from some of the most closely watched companies.</description>
+    </item>
+    <item>
+      <title>Google's Project Genie lets you create your own 3D interactive worlds</title>
+      <link>https://www.engadget.com/ai/googles-project-genie-lets-you-create-your-own-3d-interactive-worlds-183646428.html?src=rss</link>
+      <pubDate>Fri, 30 Jan 2026 17:41:48 +0000</pubDate>
+      <guid isPermaLink="false">f96776b3-9f86-4da3-a49e-ab792ecdecfc</guid>
+      <description>This past summer, Google DeepMind debuted Genie 3. It&#8217;s what&#8217;s known as a world world, an AI system capable of generating images and reacting as the user moves through the environment the software is simulating. At the time, DeepMind positioned Genie 3 as a tool for training AI agents. Now, it&#8217;s making the model available to people outside of Google to try with Project Genie. To start, you&#8217;ll need Google&#8217;s $250 per month AI Ultra plan to check out Project Genie. You&#8217;ll also need to live in the US and be 18 years or older. At launch, Project Genie offers three different modes of interaction: Wo...</description>
+    </item>
+    <item>
+      <title>Sonos home theater gear is up to 20 percent off ahead of Super Bowl LX</title>
+      <link>https://www.engadget.com/deals/sonos-home-theater-gear-is-up-to-20-percent-off-ahead-of-super-bowl-lx-174053619.html?src=rss</link>
+      <pubDate>Fri, 30 Jan 2026 17:40:58 +0000</pubDate>
+      <guid isPermaLink="false">d95ac4b9-448d-4c43-906a-61793dfa0aef</guid>
+      <description>Like many other companies during Super Bowl season, Sonos is discounting its home theater gear. Today, you can save $130 on the Beam (Gen 2) soundbar, bringing its price down to $369. You'll also find deals on the flagship Arc Ultra Soundbar, Sonos subwoofers, and more.
+The Sonos Beam is the company's sub-$500 soundbar. Engadget's pick for the best midrange model, the compact speaker has impressive sound for its size. Part of that is its Dolby Atmos support. Although the soundbar lacks upward-firing speakers, it uses software tricks to compensate. Audio timing and frequency adjustments make so...</description>
+    </item>
+    <item>
+      <title>Save up to 81 percent on ExpressVPN two-year plans right now</title>
+      <link>https://www.engadget.com/deals/save-up-to-81-percent-on-expressvpn-two-year-plans-right-now-180602273.html?src=rss</link>
+      <pubDate>Fri, 30 Jan 2026 17:36:28 +0000</pubDate>
+      <guid isPermaLink="false">ad6bc22c-2c6b-4ec4-832c-d6d9af119838</guid>
+      <description>If you're looking to up your privacy game on the internet in the new year, you can do so for a little less than usual thanks to ExpressVPN's latest deal. Its two-year plans are up to 81 percent off right now: the Advanced tier is on sale for $88 for two years, plus four additional free months. The Basic plan is where you'll see the biggest discount: it's $68 for two years, plus the same four additional free months.
+We&#8217;ve consistently liked ExpressVPN because it&#8217;s fast, easy to use and widely available across a large global server network. In fact, it's our current pick for best premium VPN. On...</description>
+    </item>
     <item>
       <title>Over 175,000 publicly exposed Ollama AI servers discovered worldwide - so fix now</title>
       <link>https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now</link>
@@ -12,11 +135,26 @@
       <description>Exposed servers are being used for LLMjacking, creating malicious content and being sold on the black market.</description>
     </item>
     <item>
+      <title>The trust paradox killing AI at scale: 76% of data leaders can't govern what employees already use</title>
+      <link>https://venturebeat.com/data/the-trust-paradox-killing-ai-at-scale-76-of-data-leaders-cant-govern-what</link>
+      <pubDate>Fri, 30 Jan 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="false">6A87OcEOazEOVNdwwB8oSb</guid>
+      <description>The chief data officer (CDO) has evolved from a niche compliance role into one of the most critical positions for AI deployment. These executives now sit at the intersection of data governance, AI strategy, and workforce readiness. Their decisions determine whether enterprises move from AI pilots to production scale or remain stuck in experimentation mode.That's why Informatica's third annual survey &#8212; the largest survey yet of CDOs specifically on AI readiness, spanning 600 executives globally &#8212; carries particular weight. The findings expose a dangerous disconnect that explains why so many org...</description>
+    </item>
+    <item>
       <title>ICE invades Minnesota and Minnesotans fight back</title>
       <link>https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back</link>
       <pubDate>2026-01-30T12:32:40-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=870315</guid>
       <description>The Trump administration has flooded Minneapolis and other parts of Minnesota with federal agents as part of its immigration crackdown, Operation Metro Surge &#8212;&#160;detaining children, intimidating protestors and community organizers, and killing multiple people. Minnesotans have responded with mass community-level resistance, including mutual aid and tracking ICE operations, despite threats and surveillance &#8212;&#160;including through systems [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Europe is growing again, but the weaker dollar looms as a threat</title>
+      <link>https://www.fastcompany.com/91484360/europe-economy-q4-dollar-euro</link>
+      <pubDate>2026-01-30T17:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91484360/europe-economy-q4-dollar-euro</guid>
+      <description>Moderate growth has defied recession fears from earlier in the year.
+The European economy recorded modest growth at the end of last year, pushing past&#160;turmoil over higher U.S. tariffs.&#160;Now the economy faces another hurdle: a stronger euro against the dollar that could weigh on exports.</description>
     </item>
     <item>
       <title>Disgraced Crypto CEO Sam Bankman-Fried Seeks Trump Pardon With Republican Pivot</title>
@@ -30,7 +168,7 @@
       <link>https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/</link>
       <pubDate>Fri, 30 Jan 2026 17:25:00 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3088209</guid>
-      <description>Bluesky's first transparency reports tackles moderation, regulatory compliance, account takedowns and more. The number of government legal requests went up by fivefold.</description>
+      <description>Bluesky's first transparency reports tackle moderation, regulatory compliance, account takedowns, and more. The number of government legal requests went up fivefold.</description>
     </item>
     <item>
       <title>La tablette Honor Pad X8a qui chute sous les 100 &#8364; est une belle surprise de fin des soldes</title>
@@ -77,6 +215,14 @@ Joybuy d&#233;barque dans le paysage des e-marchands et attise la curiosit&#233;
       <description>
 Il ne faut pas se le cacher, la derni&#232;re d&#233;marque des soldes est souvent le moment o&#249; l'on trouve les meilleures offres, car les e-commer&#231;ants comme Amazon, Fnac, Darty ou encore Boulanger veulent &#233;couler les derniers stocks. Avec cet article, vous serez s&#251;rs de ne manquer aucun deal Tech int&#233;ressant. 
 </description>
+    </item>
+    <item>
+      <title>Trump threatens tariffs on any country selling oil to Cuba</title>
+      <link>https://www.fastcompany.com/91484338/oil-cuba-tariffs-trump-mexico</link>
+      <pubDate>2026-01-30T17:06:31</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91484338/oil-cuba-tariffs-trump-mexico</guid>
+      <description>Since the Venezuela operation, Trump has said no more Venezuelan oil will go to Cuba and the Cuban government is ready to fall.
+President Donald Trump on Thursday signed an executive order that would impose a tariff on any goods from countries that sell or provide oil to Cuba, a move that could&#160;further cripple an island&#160;plagued by a deepening energy crisis....</description>
     </item>
     <item>
       <title>Amazon se montre g&#233;n&#233;reux pour les derniers jours des soldes : voici les 20 meilleures offres qui valent le coup</title>
@@ -149,273 +295,6 @@ Plus que quelques jours avant la fin des soldes d&#8217;hiver&#8239;! Les bonnes
       <pubDate>Fri, 30 Jan 2026 16:51:39 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3088202</guid>
       <description>Some Valley CEOs have condemned recent border patrol events, but Hoffman urges them to wield their influence more powerfully.</description>
-    </item>
-    <item>
-      <title>Think brewing coffee with fresh beans is too much hassle? The new Philips Baristina might just change your mind with its 'one swipe' system</title>
-      <link>https://www.techradar.com/home/coffee-machines/think-brewing-coffee-with-fresh-beans-is-too-much-hassle-the-new-philips-baristina-might-just-change-your-mind-with-its-one-swipe-system</link>
-      <pubDate>Fri, 30 Jan 2026 16:50:28 +0000</pubDate>
-      <guid isPermaLink="false">dR7ptEF7tNeXsLXVV7mUYN</guid>
-      <description>Freshly-brewed espresso in a flash, without the expense or waste of coffee pods.</description>
-    </item>
-    <item>
-      <title>Russian hackers breached Polish power grid thanks to bad security, report says</title>
-      <link>https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/</link>
-      <pubDate>Fri, 30 Jan 2026 16:50:24 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3088239</guid>
-      <description>The Polish government accused a Russian government hacking group of hacking into energy facilities taking advantage of default usernames and passwords.</description>
-    </item>
-    <item>
-      <title>RFK Jr. Stacks Key Autism Panel With Vaccine Skeptics</title>
-      <link>https://gizmodo.com/rfk-jr-stacks-key-autism-panel-with-vaccine-skeptics-2000715978</link>
-      <pubDate>Fri, 30 Jan 2026 16:50:18 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715978</guid>
-      <description>Several new members of the Interagency Autism Coordinating Committee have pushed unproven therapies for autism or misrepresented the safety of vaccines.</description>
-    </item>
-    <item>
-      <title>This dangerous North Korean malware has now split into three entities for maximum impact</title>
-      <link>https://www.techradar.com/pro/security/this-dangerous-north-korean-malware-has-now-split-into-three-entities-for-maximum-impact</link>
-      <pubDate>Fri, 30 Jan 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="false">L4sqakA7F9hJv7HATmgEvZ</guid>
-      <description>Labyrinth Chollima is morphing into three separate entities, engaging in cyber-espionage, and crypto theft, against firms in the west.</description>
-    </item>
-    <item>
-      <title>Soldes smartphones : les marchands liquident les stocks de smartphones dont ceux d&#8217;iPhone Air pour la derni&#232;re d&#233;marque</title>
-      <link>https://www.frandroid.com/bons-plans/2931029_les-marchands-liquident-leurs-stocks-de-smartphones-pour-la-derniere-demarque-des-soldes-dhiver-le-top-20-des-offres</link>
-      <pubDate>Fri, 30 Jan 2026 16:41:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2931029_les-marchands-liquident-leurs-stocks-de-smartphones-pour-la-derniere-demarque-des-soldes-dhiver-le-top-20-des-offres</guid>
-      <description>
-La derni&#232;re d&#233;marque des soldes d'hiver est lanc&#233;e ! Il ne reste donc plus qu'une semaine avant la fin des promotions programm&#233;e pour le 3 f&#233;vrier. Il reste donc encore un peu de temps pour se d&#233;cider sur le nouveau smartphone qu'on souhaiterait avoir en poche.
-</description>
-    </item>
-    <item>
-      <title>Perfect minimalism: I found 32 crisp white home office finds for a calming 'clean desk' aesthetic</title>
-      <link>https://www.techradar.com/pro/perfect-minimalism-i-found-32-crisp-white-home-office-finds-for-a-calming-clean-desk-aesthetic</link>
-      <pubDate>Fri, 30 Jan 2026 16:35:00 +0000</pubDate>
-      <guid isPermaLink="false">qpBqqysndNrvr6MgPBGffT</guid>
-      <description>Create an ocean of calm in your home office with all-white home-working tech and decor.</description>
-    </item>
-    <item>
-      <title>The best smart rings for tracking sleep and health</title>
-      <link>https://www.theverge.com/tech/647901/best-smart-rings</link>
-      <pubDate>2026-01-30T11:34:32-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=647901</guid>
-      <description>So, you&#8217;re thinking of buying a smart ring. Well, some good news. Picking the best of the lot is incredibly easy right now. The &#8220;bad&#8221; news is that, as far as trustworthiness and reliability, your choices are somewhat limited, as this is still a niche and emerging gadget category. Smart rings are in the middle [&#8230;]</description>
-    </item>
-    <item>
-      <title>Le Tank X est un monstrueux smartphone avec une batterie XXL et&#8230; un projecteur</title>
-      <link>https://www.01net.com/actualites/le-tank-x-est-un-monstrueux-smartphone-avec-une-batterie-xxl-et-un-projecteur.html</link>
-      <pubDate>Fri, 30 Jan 2026 16:30:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1323526</guid>
-      <description>Au beau milieu de nulle part, on peut quand m&#234;me avoir envie de profiter d'un film comme au cin&#233;ma. Le nouveau smartphone durci du constructeur 8849, le Tank X, est non seulement adapt&#233; aux environnements les plus hostiles, mais il int&#232;gre aussi&#8230; un projecteur.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26 Ultra : admirez deux de ses coloris dans ces visuels tr&#232;s affin&#233;s</title>
-      <link>https://www.frandroid.com/marques/samsung/2961913_samsung-galaxy-s26-ultra-admirez-deux-de-ses-coloris-dans-ces-visuels-tres-affines</link>
-      <pubDate>Fri, 30 Jan 2026 16:29:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2961913_samsung-galaxy-s26-ultra-admirez-deux-de-ses-coloris-dans-ces-visuels-tres-affines</guid>
-      <description>
-Une nouvelle fourn&#233;e de visuels montrent le Samsung Galaxy S26 Ultra dans deux coloris tout confirmant quelques caract&#233;ristiques.
-</description>
-    </item>
-    <item>
-      <title>Belkin&#8217;s Wemo smart devices will go offline on Saturday</title>
-      <link>https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down</link>
-      <pubDate>2026-01-30T11:29:47-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870890</guid>
-      <description>As of Saturday, nearly all of Belkin's Wemo smart home devices will lose access to cloud services, including features like remote access and integrations with Google Home and Alexa. Belkin will also end app updates for the Wemo app beginning on January 31st. The shut down was first announced in July and impacts most Wemo [&#8230;]</description>
-    </item>
-    <item>
-      <title>The first season of Amazon's Fallout show is now free on Youtube</title>
-      <link>https://www.engadget.com/entertainment/streaming/the-first-season-of-amazons-fallout-show-is-now-free-on-youtube-162920615.html?src=rss</link>
-      <pubDate>Fri, 30 Jan 2026 16:29:21 +0000</pubDate>
-      <guid isPermaLink="false">0fd94004-2449-4945-8eb6-3bac797c75d9</guid>
-      <description>Fallout&#8217;s second season is coming to a close, and it&#8217;s been well worth the wait. But if a reluctance to add yet another subscription to your streaming rotation means you haven&#8217;t watched Amazon&#8217;s surprisingly excellent adaptation yet, you might be interested to know that the company is currently releasing season one for free on the Prime Video YouTube channel.
-Whether driven by Amazon wanting even more people to watch what has become one of its biggest TV success stories, or a move that speaks to how few people are actually signed up for Prime Video, it&#8217;s good news for anyone who hasn&#8217;t seen th...</description>
-    </item>
-    <item>
-      <title>If GTA 6 gets delayed again, it may never live up to its hype &#8211; here's exactly why</title>
-      <link>https://www.techradar.com/gaming/if-gta-6-gets-delayed-again-it-may-never-live-up-to-its-hype-heres-exactly-why</link>
-      <pubDate>Fri, 30 Jan 2026 16:22:28 +0000</pubDate>
-      <guid isPermaLink="false">DapddN2nxg9usZoAVaYyN8</guid>
-      <description>Another delay for GTA 6 might leave fans losing interest in the game, and our recent poll indicates that.</description>
-    </item>
-    <item>
-      <title>The best robot vacuum and mop to buy right now</title>
-      <link>https://www.theverge.com/tech/625409/best-robot-vacuum-mops</link>
-      <pubDate>2026-01-30T11:20:11-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=625409</guid>
-      <description>Robot vacuums that can both mop and sweep your floors have improved significantly in recent years. While they are still not as effective as good ol&#8217; manual labor, if you run them regularly, they will help keep your floors cleaner with much less effort on your part. The difference is that newer &#8220;combo&#8221; robot vacuum-and-mop [&#8230;]</description>
-    </item>
-    <item>
-      <title>In a Sea of Melting Ice, These Polar Bears Are Doing Something Unexpected</title>
-      <link>https://gizmodo.com/in-a-sea-of-melting-ice-these-polar-bears-are-doing-something-unexpected-2000716012</link>
-      <pubDate>Fri, 30 Jan 2026 16:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000716012</guid>
-      <description>Can&#8217;t remember the last time you heard good news about this threatened species? Well, here you go.</description>
-    </item>
-    <item>
-      <title>The iPhone just got 10x optical zoom &#8211; this impressive teleconverter kit previously seen on Vivo phones just landed for Apple fans</title>
-      <link>https://www.techradar.com/phones/iphone/the-iphone-just-got-10x-optical-zoom-this-impressive-teleconverter-kit-previously-seen-on-vivo-phones-just-landed-for-apple-fans</link>
-      <pubDate>Fri, 30 Jan 2026 16:18:12 +0000</pubDate>
-      <guid isPermaLink="false">K4JGxMZKuLqb2c7DREtWUn</guid>
-      <description>A new Kickstarter campaign gives you a much higher zoom option for your iPhone 17 Pro or iPhone 16 Pro.</description>
-    </item>
-    <item>
-      <title>Windscribe promises users in Iran and Russia "solutions" to ongoing VPN crackdown &#8212; here's everything we know</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/windscribe-promises-users-in-iran-and-russia-solutions-to-ongoing-vpn-crackdown-heres-everything-we-know</link>
-      <pubDate>Fri, 30 Jan 2026 16:08:44 +0000</pubDate>
-      <guid isPermaLink="false">Wq8gLY8TQiq2n6N9qgSVHm</guid>
-      <description>As Iran and Russia double down their VPN crackdown, Windscribe confirms it's working on solutions, with wider support for the AmneziaWG protocol being the "highest priority."</description>
-    </item>
-    <item>
-      <title>Redmi Note 15 Pro+ 5G : voici la marche &#224; suivre exacte pour en profiter &#224; prix plancher [Sponso]</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/2958515_redmi-note-15-pro-5g-voici-la-marche-a-suivre-exacte-pour-en-profiter-a-prix-plancher</link>
-      <pubDate>Fri, 30 Jan 2026 16:08:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2958515_redmi-note-15-pro-5g-voici-la-marche-a-suivre-exacte-pour-en-profiter-a-prix-plancher</guid>
-      <description>
-&#192; peine sorti, le Redmi Note 15 Pro+ 5G s'affiche d&#233;j&#224; avec une belle offre de lancement chez SFR, accompagn&#233; d'un forfait 5G tout illimit&#233;. 
-</description>
-    </item>
-    <item>
-      <title>Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from</title>
-      <link>https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html?src=rss</link>
-      <pubDate>Fri, 30 Jan 2026 16:05:02 +0000</pubDate>
-      <guid isPermaLink="false">7ddb2cb0-004b-40bb-b045-57c0b0313211</guid>
-      <description>The National Center for Missing and Exploited Children said it received more than 1 million reports of AI-related child sexual abuse material (CSAM) in 2025. The "vast majority" of that content was reported by Amazon, which found the material in its training data, according to an investigation by Bloomberg. In addition, Amazon said only that it obtained the inappropriate content from external sources used to train its AI services and claimed it could not provide any further details about where the CSAM came from.&#160;Amazon provided Engadget with the following statement to explain why it doesn&#8217;t h...</description>
-    </item>
-    <item>
-      <title>Hugging Face platform hijacked to send out Android malware - here's what we know so far</title>
-      <link>https://www.techradar.com/pro/security/hugging-face-platform-hijacked-to-send-out-android-malware-heres-what-we-know-so-far</link>
-      <pubDate>Fri, 30 Jan 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">QZPFKidUfpEHbqnoaDZ7fi</guid>
-      <description>Popular AI platform Hugging Face is being used for Android malware which can take over compromised devices.</description>
-    </item>
-    <item>
-      <title>Owala Tattoos add a new layer of customization to our favorite emotional support FreeSip bottle</title>
-      <link>https://mashable.com/article/owala-tattoos-customization</link>
-      <pubDate>Fri, 30 Jan 2026 16:03:13 +0000</pubDate>
-      <guid isPermaLink="false">01ZAt6twkZ29tbj00exPAII</guid>
-      <description>Owala Tattoos allow you to customize your water bottle with engraving, an artistic print, a full sleeve, or your own art. Customizations are $10 and are available for the viral Owala FreeSip bottle.</description>
-    </item>
-    <item>
-      <title>This 65-inch LG Mini LED 4K TV is the ultimate upgrade at over $400 off</title>
-      <link>https://mashable.com/article/jan-30-lg-65-inch-qned-tv-deal</link>
-      <pubDate>Fri, 30 Jan 2026 16:03:05 +0000</pubDate>
-      <guid isPermaLink="false">05DNH7AnfxaYEaSYx2MgXPT</guid>
-      <description>The LG 65-inch QNED85A Mini LED 4K TV is on sale for just $796.99 at both Amazon and Best Buy. That's a savings of over $400.</description>
-    </item>
-    <item>
-      <title>Monarch Money deal: New users get one year of access for only $50</title>
-      <link>https://www.engadget.com/deals/monarch-money-deal-new-users-get-one-year-of-access-for-only-50-204507285.html?src=rss</link>
-      <pubDate>Fri, 30 Jan 2026 16:01:27 +0000</pubDate>
-      <guid isPermaLink="false">1764214b-3509-4628-8631-8692fa12e904</guid>
-      <description>The start of the new year is a great time to get your finances in order, and a good budgeting app can help with that. Instead of laboring over a spreadsheet, you can try one of our favorite budgeting apps for less than usual. Monarch Money is running a sale that gives new users 50 percent off one year of the service, bringing the final cost down to just $50. Just use the code NEWYEAR2026 at checkout to get the discount.
-Monarch Money makes for a capable and detailed budgeting companion. You can use the service via apps for iOS, Android, iPadOS or the web, and Monarch also offers a Chrome exten...</description>
-    </item>
-    <item>
-      <title>The Films and Shows You Should Be Streaming in February 2026</title>
-      <link>https://gizmodo.com/best-streaming-tv-movies-february-2026-release-dates-2000715245</link>
-      <pubDate>Fri, 30 Jan 2026 16:00:23 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715245</guid>
-      <description>We've picked out the best horror, sci-fi, and genre titles coming to Netflix, Hulu, Disney+, and beyond.</description>
-    </item>
-    <item>
-      <title>After Minneapolis, Tech CEOs Are Struggling to Stay Silent</title>
-      <link>https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/</link>
-      <pubDate>Fri, 30 Jan 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6977ce9692c9e19f26b6c459</guid>
-      <description>Silicon Valley&#8217;s power brokers spent the past year currying favor with President Trump. Two deadly shootings in Minneapolis are now exposing the price of that bargain.</description>
-    </item>
-    <item>
-      <title>Un amas g&#233;ant, cach&#233; par la poussi&#232;re, vient d&#8217;&#234;tre d&#233;couvert aux confins du cosmos et d&#233;range les mod&#232;les actuels</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/univers-amas-geant-cache-poussiere-vient-etre-decouvert-confins-cosmos-derange-modeles-actuels-130716/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 30 Jan 2026 16:59:41 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/univers-amas-geant-cache-poussiere-vient-etre-decouvert-confins-cosmos-derange-modeles-actuels-130716/#xtor%3DRSS-8</guid>
-      <description>Des astronomes ont pouss&#233; le radiot&#233;lescope le plus sensible du monde jusqu&#8217;&#224; un record. Ils ont ainsi perc&#233; le voile d&#8217;une r&#233;gion du ciel pourtant d&#233;j&#224; bien balay&#233;e par le t&#233;lescope spatial Hubble. Ce qu&#8217;ils ont d&#233;couvert alors que notre Univers n&#8217;avait qu&#8217;un milliard d&#8217;ann&#233;es d&#233;fie toutes les...</description>
-    </item>
-    <item>
-      <title>Don Lemon has been arrested for covering an anti-ICE protest</title>
-      <link>https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest</link>
-      <pubDate>2026-01-30T10:59:22-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870765</guid>
-      <description>Don Lemon, a former CNN anchor turned independent journalist, was arrested on Thursday night by federal agents in Los Angeles, who alleged that he had violated federal law while covering an anti-ICE protest in Minnesota. Notably, Lemon was not the only journalist targeted by law enforcement for their presence at the Minnesota protest. On Thursday [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Cold weather in Florida is pushing back the Artemis II launch</title>
-      <link>https://www.theverge.com/science/870767/nasa-artemis-ii-mission-launch-delay-sls-space-launch-system-orion-moon</link>
-      <pubDate>2026-01-30T10:59:03-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870767</guid>
-      <description>As a result of cold weather and windy conditions moving through Florida, NASA is now targeting Monday, February 2nd for a wet dress rehearsal of the Artemis II Space Launch System (SLS) rocket. Depending on how Monday's rehearsal goes, NASA will potentially set a launch date for Artemis II. But as a result of the [&#8230;]</description>
-    </item>
-    <item>
-      <title>Miss Windows 10's movable taskbar? You still can't relocate it in Windows 11, but a new PowerToys feature could be the next best thing</title>
-      <link>https://www.techradar.com/computing/windows/miss-windows-10s-movable-taskbar-you-still-cant-relocate-it-in-windows-11-but-new-powertoys-feature-could-be-the-next-best-thing</link>
-      <pubDate>Fri, 30 Jan 2026 15:57:00 +0000</pubDate>
-      <guid isPermaLink="false">ncr9cQpBYcKu6PuA6nsDMM</guid>
-      <description>PowerToys is a nifty suite of add-ons for Windows 11, and a potential new feature could be a welcome addition.</description>
-    </item>
-    <item>
-      <title>Former CNN anchor Don Lemon arrested by federal agents after covering an anti-ICE protest in Minnesota</title>
-      <link>https://www.fastcompany.com/91484278/former-cnn-anchor-don-lemon-arrested-federal-agents-after-covering-anti-ice-protest-minnesota</link>
-      <pubDate>2026-01-30T15:53:43</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91484278/former-cnn-anchor-don-lemon-arrested-federal-agents-after-covering-anti-ice-protest-minnesota</guid>
-      <description>Lemon&#8217;s attorney, Abbe Lowell, said the journalist was arrested by federal agents in Los Angeles.
-Journalist Don Lemon and three other people were arrested Friday in connection with an anti-immigration protest that disrupted a service at a Minnesota church and increased tensions between residents and the Trump administration, officials said.Lemon was arrested by federal agents in Los Angeles, where he had been covering the Grammy Awards, his attorney Abbe Lowell said. It is unclear what charge or charges Lemon and the others are facing in the Jan. 18 protest at the Cities Church in St. Paul. L...</description>
-    </item>
-    <item>
-      <title>De l&#8217;Apple Watch lifestyle &#224; la smartwatch Garmin sportive, voici les meilleures offres des soldes d&#8217;hiver sur les montres connect&#233;es</title>
-      <link>https://www.frandroid.com/bons-plans/2937331_de-lapple-watch-lifestyle-a-la-smartwatch-garmin-sportive-voici-les-meilleures-offres-des-soldes-dhiver-sur-les-montres-connectees</link>
-      <pubDate>Fri, 30 Jan 2026 15:53:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2937331_de-lapple-watch-lifestyle-a-la-smartwatch-garmin-sportive-voici-les-meilleures-offres-des-soldes-dhiver-sur-les-montres-connectees</guid>
-      <description>
-Pour celles et ceux qui ont pris la bonne r&#233;solution de se remettre au sport et qui comptent bien s'y tenir, les montres connect&#233;es font office de v&#233;ritables coachs virtuels. Pour la derni&#232;re ligne droite des soldes d'hiver, voici les ultimes offres sur ces accessoires aussi sportifs que lifestyle.
-</description>
-    </item>
-    <item>
-      <title>Tesla throws in the towel on car sales</title>
-      <link>https://www.theverge.com/transportation/870332/tesla-throws-in-the-towel-on-car-sales</link>
-      <pubDate>2026-01-30T10:51:12-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=870332</guid>
-      <description>Is Tesla still a car company? It's a question we've been asking ourselves more frequently over the past year, especially as the company's car business shrinks and Elon Musk continues to push the message that Tesla should be seen more as an AI and robotics leader and less so as a mere seller of four-wheeled [&#8230;]</description>
-    </item>
-    <item>
-      <title>&#171;&#160;Les VPN, c&#8217;est le prochain sujet sur ma liste&#160;&#187; : le gouvernement compte d&#233;clarer la guerre aux VPN</title>
-      <link>https://www.01net.com/actualites/les-vpn-cest-le-prochain-sujet-sur-ma-liste-le-gouvernement-compte-declarer-la-guerre-aux-vpn.html</link>
-      <pubDate>Fri, 30 Jan 2026 15:47:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1323511</guid>
-      <description>L'interdiction des r&#233;seaux sociaux aux moins de 15 ans vient d'&#234;tre vot&#233;e, mais la question du contournement technique se pose d&#233;j&#224;. Lucide, la ministre Anne Le H&#233;nanff pr&#233;vient : la r&#233;gulation des VPN est la prochaine bataille de l'ex&#233;cutif.</description>
-    </item>
-    <item>
-      <title>Tragic Death of Canadian Backpacker Prompts Dingo Cull. Here&#8217;s Why It&#8217;s the Wrong Move</title>
-      <link>https://gizmodo.com/tragic-death-of-canadian-backpacker-prompts-dingo-cull-heres-why-its-the-wrong-move-2000715993</link>
-      <pubDate>Fri, 30 Jan 2026 15:45:47 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715993</guid>
-      <description>Will killing dingoes on Australia&#8217;s K&#8217;gari Island make visitors safer? These experts say it&#8217;s unlikely.</description>
-    </item>
-    <item>
-      <title>Les Apple AirPods Pro 2 sont &#224; leur meilleur prix pour la fin des soldes</title>
-      <link>https://www.frandroid.com/bons-plans/2960935_les-apple-airpods-pro-2-sont-a-leur-meilleur-prix-pour-la-fin-des-soldes</link>
-      <pubDate>Fri, 30 Jan 2026 15:40:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2960935_les-apple-airpods-pro-2-sont-a-leur-meilleur-prix-pour-la-fin-des-soldes</guid>
-      <description>
-Les AirPods Pro 2 incarnent l'ancienne vitrine du savoir-faire audio d'Apple, &#233;quip&#233;s de la puce H2 et d'une r&#233;duction toujours parmi les meilleures du march&#233;. Pour le dernier week-end des soldes, leur prix tombe &#224; 188 euros au lieu de 249&#160;euros, gr&#226;ce &#224; une remise cumul&#233;e &#224; un code promo chez Son-Vid&#233;o.com.
-</description>
-    </item>
-    <item>
-      <title>Elon Musk Considers Merging SpaceX With xAI, as He Races to Beat Sam Altman to IPO</title>
-      <link>https://gizmodo.com/elon-musk-considers-merging-spacex-with-xai-as-he-races-to-beat-sam-altman-to-ipo-2000715942</link>
-      <pubDate>Fri, 30 Jan 2026 15:40:51 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000715942</guid>
-      <description>The race for the first major AI IPO is on.</description>
-    </item>
-    <item>
-      <title>Les meilleures consoles r&#233;trogaming et les jeux r&#233;tro incontournables en 2026</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-gaming/1560760_retrogaming-les-meilleures-consoles-retro-et-jeux-accessibles</link>
-      <pubDate>Fri, 30 Jan 2026 15:38:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-gaming/1560760_retrogaming-les-meilleures-consoles-retro-et-jeux-accessibles</guid>
-      <description>
-Le r&#233;trogaming est un pan de l&#8217;univers des jeux vid&#233;o qui passionne beaucoup de joueurs. Nostalgie ou red&#233;couverte de grands classiques, on a tous une bonne raison de se faire plaisir ou d&#8217;offrir un voyage dans le temps avec une console r&#233;trogaming : suivez le guide.
-</description>
     </item>
   </channel>
 </rss>
