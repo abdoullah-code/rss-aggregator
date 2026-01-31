@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 31 Jan 2026 19:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 20:31:01 GMT</lastBuildDate>
+    <item>
+      <title>&#8220;No more Minnesota nice, Minneapolis will strike&#8221;</title>
+      <link>https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest</link>
+      <pubDate>2026-01-31T15:30:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=871606</guid>
+      <description>It was too cold to take off my mittens and check Google Maps so I put my faith in the trickle of bundled-up people ahead of me. All of them were carrying signs and wearing whistles around their necks on top of layers and layers of winter clothing. At first there were dozens of us [&#8230;]</description>
+    </item>
+    <item>
+      <title>Study: Used EVs Are The Cheapest Vehicles To Own</title>
+      <link>https://gizmodo.com/study-used-evs-are-the-cheapest-vehicles-to-own-2000716344</link>
+      <pubDate>Sat, 31 Jan 2026 20:15:36 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000716344</guid>
+      <description>A lot of people leased EVs three years ago, and now they're turning them in. You should probably buy one.</description>
+    </item>
+    <item>
+      <title>Onnit's Instant Melatonin Spray Keeps Bedtime Uncomplicated</title>
+      <link>https://www.wired.com/story/onnit-instant-melatonin-spray-rave/</link>
+      <pubDate>Sat, 31 Jan 2026 19:56:12 +0000</pubDate>
+      <guid isPermaLink="false">696ab3009304e3b3b8d16217</guid>
+      <description>Just spritz and sleep&#8212;no melatonin tablets or pills necessary.</description>
+    </item>
+    <item>
+      <title>HBO Knows &#8216;It: Welcome to Derry&#8217; Should Get a Season 2</title>
+      <link>https://gizmodo.com/hbo-knows-it-welcome-to-derry-should-get-a-season-2-2000716115</link>
+      <pubDate>Sat, 31 Jan 2026 19:50:42 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000716115</guid>
+      <description>If you're wanting more 'Welcome to Derry,' you better hope the Muschiettis come up with a good enough reason to take you back to town.</description>
+    </item>
+    <item>
+      <title>Don&#8217;t You Dare &#8216;Misinterpret&#8217; Elon Musk&#8217;s Epstein Emails. Just the Facts Are Bad Enough</title>
+      <link>https://gizmodo.com/dont-you-dare-misinterpret-elon-musks-epstein-emails-just-the-facts-are-bad-enough-2000715313</link>
+      <pubDate>Sat, 31 Jan 2026 19:38:58 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000715313</guid>
+      <description>Sorry, but what is the correct interpretation supposed to be?</description>
+    </item>
+    <item>
+      <title>SpaceX wants to put 1 million solar-powered data centers into orbit</title>
+      <link>https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit</link>
+      <pubDate>2026-01-31T14:38:36-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=871641</guid>
+      <description>SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, SpaceX's strategy has been to request approval for unrealistically large numbers of satellites as a starting point for negotiations. The filing [&#8230;]</description>
+    </item>
+    <item>
+      <title>No, it&#8217;s not the latest games console - AtomMan G7 Pro mini PC from Minisforum goes on sale with a Core i9-14900HX and RTX 5070 in a super slim chassis, but you might be better off buying a Dell</title>
+      <link>https://www.techradar.com/pro/no-its-not-the-latest-games-console-atomman-g7-pro-mini-pc-from-minisforum-goes-on-sale-with-a-core-i9-14900hx-and-rtx-5070-in-a-super-slim-chassis-but-you-might-be-better-off-buying-a-dell</link>
+      <pubDate>Sat, 31 Jan 2026 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">6jVQu8mWkjWf6hCXga8ws6</guid>
+      <description>Minisforum AtomMan G7 Pro delivers Core i9-14900HX performance in a super slim mini PC design.</description>
+    </item>
+    <item>
+      <title>Microsoft has finally fixed a bizarre issue that saw it reroute traffic to an obscure Japanese company - so what exactly went wrong?</title>
+      <link>https://www.techradar.com/pro/microsoft-has-finally-fixed-a-bizarre-issue-that-saw-it-reroute-traffic-to-an-obscure-japanese-company-so-what-exactly-went-wrong</link>
+      <pubDate>Sat, 31 Jan 2026 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">7E8cZHT5oiP8XEXGruknam</guid>
+      <description>Microsoft&#8217;s email autoconfiguration routed example.com traffic to Japanese servers, exposing long-standing gaps in oversight and configuration control.</description>
+    </item>
     <item>
       <title>OnlyFans is reportedly in talks to sell a 60 percent stake to a San Francisco investment firm</title>
       <link>https://www.engadget.com/social-media/onlyfans-is-reportedly-in-talks-to-sell-a-60-percent-stake-to-a-san-francisco-investment-firm-191842666.html?src=rss</link>
@@ -29,6 +85,13 @@ La semaine du 26 janvier 2026 fut dense dans l'actualit&#233; des v&#233;los et 
       <description>This collection of sunny tableware and lighting accessories will chase away the winter blues, with prices starting from just $1.99.</description>
     </item>
     <item>
+      <title>Most RAG systems don&#8217;t understand sophisticated documents &#8212; they shred them</title>
+      <link>https://venturebeat.com/orchestration/most-rag-systems-dont-understand-documents-they-shred-them</link>
+      <pubDate>Sat, 31 Jan 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">270xuWmOsgpUQcPtNa8C0f</guid>
+      <description>By now, many enterprises have deployed some form of RAG. The promise is seductive: index your PDFs, connect an LLM and instantly democratize your corporate knowledge.But for industries dependent on heavy engineering, the reality has been underwhelming. Engineers ask specific questions about infrastructure, and the bot hallucinates.The failure isn't in the LLM. The failure is in the&#160;preprocessing.Standard RAG pipelines treat documents as flat strings of text. They use "fixed-size chunking" (cutting a document every 500 characters). This works for prose, but it destroys the logic of technical ma...</description>
+    </item>
+    <item>
       <title>Avis aux joueurs occasionnels, cet &#233;cran PC MSI de 24,5&#8243; et 100 Hz est sold&#233; &#224; moins de 70 &#8364;</title>
       <link>https://www.frandroid.com/marques/2961639_avis-aux-joueurs-occasionnels-cet-ecran-pc-msi-de-245-et-100-hz-est-solde-a-moins-de-70-e</link>
       <pubDate>Sat, 31 Jan 2026 18:40:00 +0000</pubDate>
@@ -36,51 +99,6 @@ La semaine du 26 janvier 2026 fut dense dans l'actualit&#233; des v&#233;los et 
       <description>
 Le MSI Pro MP252 est un &#233;cran pr&#233;sent&#233; comme un moniteur bureautique, pourtant il cache quelques atouts capables de s&#233;duire les joueurs au budget serr&#233;. Simple et efficace, il fait le job l&#224; o&#249; on l'attend. Et pour la derni&#232;re ligne droite des soldes, son prix chute de 99,99 euros &#224; 69,99 euros sur Amazon.
 </description>
-    </item>
-    <item>
-      <title>Comparatif : quelles sont les meilleures enceintes Bluetooth en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-audio/722626_guide-meilleures-enceintes-portables</link>
-      <pubDate>Sat, 31 Jan 2026 18:00:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-audio/722626_guide-meilleures-enceintes-portables</guid>
-      <description>
-Compactes et nomades, les enceintes Bluetooth s'invitent partout : du salon &#224; la plage, elles sont devenues indispensables. Bienvenue sur notre s&#233;lection des meilleurs mod&#232;les test&#233;s par nos soins.
-</description>
-    </item>
-    <item>
-      <title>SpaceX wants to launch a constellation of a million satellites to power AI needs</title>
-      <link>https://www.engadget.com/science/space/spacex-wants-to-launch-a-constellation-of-a-million-satellites-to-power-ai-needs-175607771.html?src=rss</link>
-      <pubDate>Sat, 31 Jan 2026 17:56:07 +0000</pubDate>
-      <guid isPermaLink="false">8157e4a8-80fe-448b-b150-9465cfaecc57</guid>
-      <description>Elon Musk and his aerospace company have requested to build a network that's 100 times the number of satellites that are currently in orbit. On Friday, SpaceX filed an application with the Federal Communications Commission (FCC) to launch a million satellites meant to create an "orbital data center." This isn't the first time we're hearing of Musk's plans to build an orbital data center, as it was mentioned by company insiders following the news that the CEO was reportedly preparing to take SpaceX public.
-According to the filing spotted by PCMag, this data center would run off solar power and ...</description>
-    </item>
-    <item>
-      <title>Nvidia CEO pushes back against report that his company&#8217;s $100B OpenAI investment has stalled</title>
-      <link>https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/</link>
-      <pubDate>Sat, 31 Jan 2026 17:54:12 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3088494</guid>
-      <description>Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was &#8220;nonsense.&#8221;</description>
-    </item>
-    <item>
-      <title>Liverpool vs Newcastle Live Streams: TV Channels, Preview &amp; Team News for Premier League 2025/26 clash at Anfield</title>
-      <link>https://www.techradar.com/how-to-watch/football/liverpool-vs-newcastle-live-premier-league-2025-26</link>
-      <pubDate>Sat, 31 Jan 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">Cj63LWEATSDviMvPnsj3Yi</guid>
-      <description>All the ways to watch Liverpool vs Newcastle as the Reds eye a first Premier League win of 2026 against Eddie Howe's Mags.</description>
-    </item>
-    <item>
-      <title>WWE Royal Rumble 2026 &#8212; Stream it *FREE* from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/sport/wwe-royal-rumble-2026-free-anywhere</link>
-      <pubDate>Sat, 31 Jan 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">cSdKj6WzZTjAnSzsYadxEW</guid>
-      <description>Here's a quick guide on how to watch Royal Rumble 2026 for free as WWE's premium event hits our screens this weekend.</description>
-    </item>
-    <item>
-      <title>The Original &#8216;Saw&#8217; Team Is Leading the Franchise&#8217;s Return</title>
-      <link>https://gizmodo.com/the-original-saw-team-is-leading-the-franchises-return-2000716238</link>
-      <pubDate>Sat, 31 Jan 2026 17:25:38 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000716238</guid>
-      <description>James Wan and Leigh Whannell are reuniting to revitalize 'Saw' and make it scary franchise again.</description>
     </item>
   </channel>
 </rss>
