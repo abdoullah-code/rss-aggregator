@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 03 Feb 2026 22:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 23:33:01 GMT</lastBuildDate>
+    <item>
+      <title>India&#8217;s Varaha bags $20M to scale carbon removal from the Global South</title>
+      <link>https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/</link>
+      <pubDate>Tue, 03 Feb 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3089090</guid>
+      <description>Varaha's fresh funding is part of a $45 million Series B round led by WestBridge Capital.</description>
+    </item>
+    <item>
+      <title>AMD hints Microsoft could launch its next-gen Xbox in 2027</title>
+      <link>https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd</link>
+      <pubDate>2026-02-03T18:22:37-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=873490</guid>
+      <description>Microsoft confirmed last year that it's working on a next-gen Xbox console in partnership with AMD. Now, AMD is hinting that the next Xbox console, which will use custom AMD chips, could be launching in 2027. "Development of Microsoft's next-gen Xbox, featuring an AMD semi-custom SoC, is progressing well to support a launch in 2027," [&#8230;]</description>
+    </item>
+    <item>
+      <title>ChatGPT is back up after an outage disrupted use this afternoon</title>
+      <link>https://www.engadget.com/ai/chatgpt-is-back-up-after-an-outage-disrupted-use-this-afternoon-210238686.html?src=rss</link>
+      <pubDate>Tue, 03 Feb 2026 23:17:28 +0000</pubDate>
+      <guid isPermaLink="false">d4d88f72-a1b8-4f16-b13d-8dfe2dc59834</guid>
+      <description>If you had trouble using ChatGPT today, you aren't alone. The AI chatbot experienced a partial outage for many users this afternoon, with Down Detector saw reports reaching more than 12,000 reports around the peak point of the issue today.. OpenAI issued a status update shortly after noting that "elevated error rates" were occurring for ChatGPT and Platform users. That problem was marked as resolved at 5:14PM ET.While the initial outage may be repaired, OpenAI does still have an active status alert up. It's only for the fine-tuning component of its API service. But the end may also be in sight...</description>
+    </item>
+    <item>
+      <title>The Scripts for David Lynch&#8217;s Never-Made Netflix Pitch May Soon Be Published</title>
+      <link>https://gizmodo.com/the-scripts-for-david-lynchs-never-made-netflix-pitch-may-soon-be-published-2000717427</link>
+      <pubDate>Tue, 03 Feb 2026 23:15:35 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717427</guid>
+      <description>The director's daughter, Jennifer Lynch, said the scripts for 'Unrecorded Night' could be made public soon.</description>
+    </item>
+    <item>
+      <title>I&#8217;ve spent 15 hours in Highguard, but I'm not desperate to play any more</title>
+      <link>https://www.techradar.com/gaming/highguard-review</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rpZMexG2dcN2Ez7MM4WWxg</guid>
+      <description>Highguard feels fantastic to play, but it's a few major updates away from being the online shooter it wants to be.</description>
+    </item>
+    <item>
+      <title>Qwen3-Coder-Next offers vibe coders a powerful open source, ultra-sparse model with 10x higher throughput for repo tasks</title>
+      <link>https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse</link>
+      <pubDate>Tue, 03 Feb 2026 22:47:00 GMT</pubDate>
+      <guid isPermaLink="false">6ZoSefBKKEqtBvKTuSuh2I</guid>
+      <description>Chinese e-commerce giant Alibaba's Qwen team of AI researchers has emerged in the last year as one of the global leaders of open source AI development, releasing a host of powerful large language models and specialized multimodal models that approach, and in some cases, surpass the performance of the proprietary U.S. leaders such as OpenAI, Anthropic, Google and xAI.Now the Qwen team is back again this week with a compelling release that matches the "vibe coding" frenzy that has arisen in recent months: Qwen3-Coder-Next, a specialized 80-billion-parameter model designed to deliver elite agenti...</description>
+    </item>
+    <item>
+      <title>Everything we know about Chris Pratts Way of the Warrior Kid</title>
+      <link>https://mashable.com/article/way-of-the-warrior-kid-apple-tv</link>
+      <pubDate>Tue, 03 Feb 2026 22:45:00 +0000</pubDate>
+      <guid isPermaLink="false">03czPWHx3rxFZ2pk6whMz3u</guid>
+      <description>Chris Pratt stars in "Way of the Warrior Kid," about a Navy SEAL who teaches his nephew to defend himself.</description>
+    </item>
+    <item>
+      <title>Department of Justice appeals Google search monopoly ruling</title>
+      <link>https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal</link>
+      <pubDate>2026-02-03T17:40:47-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=873438</guid>
+      <description>On Tuesday, the Department of Justice and the plaintiffs in the antitrust case against Google filed a cross-appeal, as the DOJ Antitrust Division announced in a post on X: "Today, the DOJ Antitrust Division filed notice that it will cross-appeal from the remedies decisions in its case against Google's unlawful monopolization of internet search and [&#8230;]...</description>
+    </item>
     <item>
       <title>Take-Two hit pause on the Switch 2 port of Borderlands 4</title>
       <link>https://www.engadget.com/gaming/take-two-hit-pause-on-the-switch-2-port-of-borderlands-4-222546776.html?src=rss</link>
@@ -24,6 +80,13 @@
       <pubDate>Tue, 03 Feb 2026 22:17:45 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3089192</guid>
       <description>Founders and investors in the Minneapolis tech industry told TechCrunch they've put much of their work on hold to help out their community.</description>
+    </item>
+    <item>
+      <title>Its official: The Switch is Nintendos highest-selling console ever</title>
+      <link>https://mashable.com/article/nintendo-switch-best-selling-console-history-ds-ps2</link>
+      <pubDate>Tue, 03 Feb 2026 22:17:30 +0000</pubDate>
+      <guid isPermaLink="false">012rold1ZnVkW9sxwCmu4bb</guid>
+      <description>Nintendo's latest earnings report confirmed something we suspected: The original Switch is its most successful hardware ever.</description>
     </item>
     <item>
       <title>Jonah Hill says his new Apple TV movie &#8216;uses fame as a metaphor for what we all go through on social media&#8217; &#8211; here&#8217;s what we know so far about Outcome</title>
@@ -47,11 +110,25 @@
       <description>Spain, Australia, and other countries are pushing social media age crackdowns to protect kids from the internet.</description>
     </item>
     <item>
+      <title>Everything we know about pickleball comedy The Dink</title>
+      <link>https://mashable.com/article/the-dink-apple-tv</link>
+      <pubDate>Tue, 03 Feb 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">07aayzOX5hbBqq7BYkfaonH</guid>
+      <description>Jake Johnson and Mary Steenburgen play pickleball players in "The Dink," out July 24 on Apple TV.</description>
+    </item>
+    <item>
       <title>Meta&#8217;s Quest 3 Has the First VR Keyboard That Doesn&#8217;t Totally Suck</title>
       <link>https://gizmodo.com/metas-quest-3-has-the-first-vr-keyboard-that-doesnt-totally-suck-2000717467</link>
       <pubDate>Tue, 03 Feb 2026 22:10:37 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000717467</guid>
       <description>A new experimental feature actually makes typing in XR feel doable.</description>
+    </item>
+    <item>
+      <title>Firefox browser to add AI off-switch, bucking industry trend</title>
+      <link>https://mashable.com/article/mozilla-announces-firefox-ai-controls</link>
+      <pubDate>Tue, 03 Feb 2026 22:06:23 +0000</pubDate>
+      <guid isPermaLink="false">047RH0yYs7pvJ5kX39KWD4H</guid>
+      <description>Mozilla will add a new AI control panel to Firefox &#8212; giving AI haters the option to turn off generative AI features.</description>
     </item>
     <item>
       <title>The 3-Body Problem Just Got an Upgrade&#8212;and You Can Thank Einstein</title>
@@ -101,112 +178,6 @@
       <pubDate>Tue, 03 Feb 2026 21:40:24 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000717434</guid>
       <description>"I had to leave my marriage," Melinda Gates told NPR after being asked about the newly released emails.</description>
-    </item>
-    <item>
-      <title>The Best Gadgets for Throwing a Kick-Ass Super Bowl LX Party</title>
-      <link>https://gizmodo.com/best-gadgets-for-throwing-kick-ass-super-bowl-lx-party-2000716968</link>
-      <pubDate>Tue, 03 Feb 2026 21:30:09 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000716968</guid>
-      <description>Sure, TVs and sound systems are the crux of any good Super Bowl party, but there's so much more you could do to upgrade the NFL's Big Game.</description>
-    </item>
-    <item>
-      <title>ChatGPT was down for many, as OpenAI confirmed an issue &#8212; here's everything we know</title>
-      <link>https://www.techradar.com/news/live/chatgpt-open-ai-down-outage-february-3-2026</link>
-      <pubDate>Tue, 03 Feb 2026 21:26:42 +0000</pubDate>
-      <guid isPermaLink="false">2LtYjRs7ZgiUnmCUmPqwc3</guid>
-      <description>If you couldn't log in or get a conversation with ChatGPT going, you weren't alone</description>
-    </item>
-    <item>
-      <title>The four best Super Bowl TV deals we found</title>
-      <link>https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale</link>
-      <pubDate>2026-02-03T16:23:36-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873160</guid>
-      <description>The Super Bowl is not only one of the biggest sporting events in the world, it&#8217;s also one of the best times of year to find a deal on a big TV. For major events in particular, a large TV makes sense because it provides a more immersive experience and allows for groups of friends [&#8230;]</description>
-    </item>
-    <item>
-      <title>ChatGPT was down for many &#8212; here's everything we know</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/live/chatgpt-is-down-for-many-as-openai-confirms-an-active-issue-heres-everything-we-know</link>
-      <pubDate>Tue, 03 Feb 2026 21:15:27 +0000</pubDate>
-      <guid isPermaLink="false">5k7pgXLxMPQH27t4zMUBTZ</guid>
-      <description>If you can't log in or get a conversation with ChatGPT going, you're not alone</description>
-    </item>
-    <item>
-      <title>Universal Successfully Bullied Into Letting Olympian Use &#8216;Minions&#8217; Music</title>
-      <link>https://gizmodo.com/winter-olympics-minions-skater-music-universal-2000717421</link>
-      <pubDate>Tue, 03 Feb 2026 21:15:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717421</guid>
-      <description>A Spanish figure skater thought he wasn't going to be able to use the music, until the fans stepped in.</description>
-    </item>
-    <item>
-      <title>X's Paris HQ raided by French prosecutors</title>
-      <link>https://www.engadget.com/social-media/xs-paris-hq-raided-by-french-prosecutors-110411170.html?src=rss</link>
-      <pubDate>Tue, 03 Feb 2026 21:03:18 +0000</pubDate>
-      <guid isPermaLink="false">06a0419b-a1f3-4338-aaa7-b5442b1f07a4</guid>
-      <description>Paris prosecutors announced that a search was underway at offices belong to Elon Musk&#8217;s X platform as part of an ongoing investigation first launched in January 2025. The raid is being conducted by Paris and national cybercrime units, with support from Interpol, according to post from Paris prosecutors on X. Officials from X have yet to comment on the matter.  At the same time, Paris prosecutors issued summonses to Elon Musk and Linda Yaccarino for &#8220;voluntary interviews&#8221; on April 20, 2026 in Paris. The prosecutors also announced they would no longer use X and would only communicate on LinkedIn...</description>
-    </item>
-    <item>
-      <title>ChatGPT is down for many users this afternoon</title>
-      <link>https://www.engadget.com/ai/chatgpt-is-down-for-many-users-this-afternoon-210238573.html?src=rss</link>
-      <pubDate>Tue, 03 Feb 2026 21:02:38 +0000</pubDate>
-      <guid isPermaLink="false">d4d88f72-a1b8-4f16-b13d-8dfe2dc59834</guid>
-      <description>If you've had trouble using ChatGPT today, you aren't alone. The AI chatbot is experiencing a partial outage for many users this afternoon. Down Detector reports of issues with the service leapt from almost nothing to more than 12,000 around 3PM ET.&#160;Down DetectorOpenAI issued a status update noting that "elevated error rates" are occurring for ChatGPT and Platform users. All 13 components of ChatGPT are marked as having &#8220;degraded performance&#8221; on the OpenAI status page. "We are working on implementing a mitigation," the company said, although it didn't provide an anticipated timeline for when t...</description>
-    </item>
-    <item>
-      <title>Intel will start making GPUs, a market dominated by Nvidia</title>
-      <link>https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/</link>
-      <pubDate>Tue, 03 Feb 2026 21:01:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3089319</guid>
-      <description>Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.</description>
-    </item>
-    <item>
-      <title>Elon Musk is merging SpaceX and xAI to build data centers in space &#8212; or so he says</title>
-      <link>https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo</link>
-      <pubDate>2026-02-03T16:01:03-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873203</guid>
-      <description>On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. AI relies on "large terrestrial data centers" that run [&#8230;]</description>
-    </item>
-    <item>
-      <title>Sam Altman Expects to Get What He Wants</title>
-      <link>https://gizmodo.com/sam-altman-expects-to-get-what-he-wants-2000717277</link>
-      <pubDate>Tue, 03 Feb 2026 21:00:49 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717277</guid>
-      <description>He wants you to have AI whether you want it or not.</description>
-    </item>
-    <item>
-      <title>Capcom's new Resident Evil Requiem trailer might have two massive hints you missed</title>
-      <link>https://www.techradar.com/gaming/capcoms-new-resident-evil-requiem-trailer-might-have-two-massive-hints-you-missed</link>
-      <pubDate>Tue, 03 Feb 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">f76PugEAFpXzg5QMCBFqZF</guid>
-      <description>It's still speculative at this stage, but the new Resident Evil live-action trailer may have just given us new hints for Requiem.</description>
-    </item>
-    <item>
-      <title>China has banned concealed car door handles &#8211; as Tesla&#8217;s trend-setting design turns into a safety nightmare</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/china-bans-concealed-car-door-handles-as-teslas-trend-setting-design-turns-into-a-safety-nightmare</link>
-      <pubDate>Tue, 03 Feb 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">yXzSjfDHH8KtRMAGgLVt8R</guid>
-      <description>Tesla's one-innovative door handle design comes under scrutiny by safety experts, as China bans the technology altogether.</description>
-    </item>
-    <item>
-      <title>Dyson's new launches are proof that branching out isn't always a good thing</title>
-      <link>https://www.techradar.com/home/vacuums/dysons-new-launches-are-proof-that-branching-out-isnt-always-a-good-thing</link>
-      <pubDate>Tue, 03 Feb 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">KUsc3fTmX6ZV6ZhbPps23c</guid>
-      <description>After reviewing Dyson's three new launches, I'm even more convinced that it should stick to what it's good at.</description>
-    </item>
-    <item>
-      <title>This one statistic clearly shows the housing market&#8217;s post-boom recalibration</title>
-      <link>https://www.fastcompany.com/91486218/housing-market-this-one-statistic-clearly-shows-post-boom-recalibration</link>
-      <pubDate>2026-02-03T21:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91486218/housing-market-this-one-statistic-clearly-shows-post-boom-recalibration</guid>
-      <description>At the height of the Pandemic Housing Boom, only 38% of U.S. homes in 2021 sold for less than their original list price. By 2025, that figure had risen to 62%&#8212;roughly on par with its 2019 level of 64%.
-Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
-    </item>
-    <item>
-      <title>Zohran Mamdani is set to kill off New York's 'functionally unusable' business chatbot, which often gave out illegal advice</title>
-      <link>https://www.techradar.com/pro/zohran-mamdani-is-set-to-kill-off-new-yorks-functionally-unusable-business-chatbot-which-often-gave-out-illegal-advice</link>
-      <pubDate>Tue, 03 Feb 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">YfGDPUjeJ8zTEp5uxLjVS9</guid>
-      <description>Mayor Zohran Mamdani plans to remove NYC business chatbot after repeated illegal advice, high costs, and inefficiencies exposed by testing.</description>
     </item>
   </channel>
 </rss>
