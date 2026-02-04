@@ -3,13 +3,90 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 04 Feb 2026 20:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 21:38:20 GMT</lastBuildDate>
     <item>
-      <title>Kilo CLI 1.0 brings open source vibe coding to your terminal with support for 500+ models</title>
-      <link>https://venturebeat.com/orchestration/kilo-cli-1-0-brings-open-source-vibe-coding-to-your-terminal-with-support</link>
-      <pubDate>Wed, 04 Feb 2026 20:27:00 GMT</pubDate>
-      <guid isPermaLink="false">72XBkemR17bcKGCv5miIla</guid>
-      <description>Remote-first AI coding startup Kilo doesn't think software developers should have to pledge their undying allegiance to any one development environment &#8212; and certainly not any one model or harness. This week, the startup &#8212; backed by GitLab co-founder Sid Sijbrandij &#8212; unveiled Kilo CLI 1.0, a complete rebuild of its command-line tool that offers support for more than 500 different underlying AI models from proprietary leaders and open source rivals like Alibaba's Qwen. It comes just weeks after Kilo launched a Slackbot allowing developers to ship code directly from Salesforce's popular messagin...</description>
+      <title>Nintendo&#8217;s new Virtual Boy is more fun to look at than to play</title>
+      <link>https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions</link>
+      <pubDate>2026-02-04T16:37:50-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=873755</guid>
+      <description>Though the Virtual Boy was both a commercial and critical failure, the console's infamy is part of what has made it such a fascinating piece of Nintendo's history. Original units are still going for hundreds of dollars on bidding sites, and hobbyists have spent years keeping the Virtual Boy alive through emulation and homebrew games. [&#8230;]</description>
+    </item>
+    <item>
+      <title>Gigantic Headphone Speakers Are the Goofiest Thing I&#8217;ve Ever Seen</title>
+      <link>https://gizmodo.com/gigantic-headphone-speakers-are-the-goofiest-thing-ive-ever-seen-2000718047</link>
+      <pubDate>Wed, 04 Feb 2026 21:30:31 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000718047</guid>
+      <description>JLab's Blue XL are making my brain hurt.</description>
+    </item>
+    <item>
+      <title>Amazon to begin testing AI tools for film and TV production next month</title>
+      <link>https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/</link>
+      <pubDate>Wed, 04 Feb 2026 21:26:43 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3089604</guid>
+      <description>Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.</description>
+    </item>
+    <item>
+      <title>Even McDonald's thinks you need to change your passwords - especially if they're burger-related</title>
+      <link>https://www.techradar.com/pro/even-mcdonalds-thinks-you-need-to-change-your-passwords-especially-if-theyre-burger-related</link>
+      <pubDate>Wed, 04 Feb 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">keh2JADsDxbgWFvavwRrH3</guid>
+      <description>McDonald warns common passwords like 'bigmac' and 'happymeal' remain highly vulnerable, urging stronger, randomized credentials for all users.</description>
+    </item>
+    <item>
+      <title>Measles Is Causing Brain Swelling in Children in South Carolina</title>
+      <link>https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/</link>
+      <pubDate>Wed, 04 Feb 2026 21:15:18 +0000</pubDate>
+      <guid isPermaLink="false">69838e38627fba3400739269</guid>
+      <description>In the ongoing measles outbreak in South Carolina that has infected more than 800 people, some children have developed a rare but serious complication called encephalitis.</description>
+    </item>
+    <item>
+      <title>Will an Nvidia Laptop Even Matter?</title>
+      <link>https://gizmodo.com/will-an-nvidia-laptop-even-matter-2000718055</link>
+      <pubDate>Wed, 04 Feb 2026 21:10:21 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000718055</guid>
+      <description>Who is going to save Nvidia&#8217;s first CPU from Nvidia?</description>
+    </item>
+    <item>
+      <title>Bipartisan SCAM Act would require online platforms to crack down on fraudulent ads</title>
+      <link>https://www.engadget.com/big-tech/bipartisan-scam-act-would-require-online-platforms-to-crack-down-on-fraudulent-ads-210316594.html?src=rss</link>
+      <pubDate>Wed, 04 Feb 2026 21:03:16 +0000</pubDate>
+      <guid isPermaLink="false">97a6fc10-dcf2-4949-8e6e-2bb33526fe98</guid>
+      <description>Without meaningful deterrents, Big Tech companies will do what's profitable, regardless of the cost to consumers. But a new bipartisan bill could add a check that would make them think twice, at least in one area. On Wednesday, Senators Ruben Gallego (D-AZ) and Bernie Moreno (R-OH) introduced legislation that would require social platforms to crack down on scam ads.The Safeguarding Consumers from Advertising Misconduct (SCAM) Act would require platforms to take reasonable steps to prevent fraudulent or deceptive ads that they profit from. If they don't, the Federal Trade Commission (FTC) and s...</description>
+    </item>
+    <item>
+      <title>Sam Altman responds to Anthropic&#8217;s &#8216;funny&#8217; Super Bowl ads</title>
+      <link>https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic</link>
+      <pubDate>2026-02-04T16:03:05-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=874084</guid>
+      <description>Sam Altman responded to Anthropic's new Super Bowl ad in an X post on Wednesday, saying the OpenAI competitor's campaign is "clearly dishonest," and called it "on brand" for Anthropic to "doublespeak." "We would obviously never run ads in the way Anthropic depicts them," he wrote. "We are not stupid and we know our users [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#8216;Overwatch 2&#8217; Rebrands, and Its Messy Arc Is Complete</title>
+      <link>https://gizmodo.com/overwatch-2-rebrands-and-its-messy-arc-is-complete-2000717981</link>
+      <pubDate>Wed, 04 Feb 2026 21:00:46 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717981</guid>
+      <description>Blizzard has become its own Infinity Gauntlet as it's tried to evolve and expand 'Overwatch' in interesting, often compromised ways.</description>
+    </item>
+    <item>
+      <title>The Western US Is in a Snow Drought. What Comes Next Is Even Scarier</title>
+      <link>https://gizmodo.com/the-western-us-is-in-a-snow-drought-what-comes-next-is-even-scarier-2000718095</link>
+      <pubDate>Wed, 04 Feb 2026 20:55:03 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000718095</guid>
+      <description>Major snowpack deficits could set the stage for widespread water scarcity and heightened wildfire risk across the American West this summer.</description>
+    </item>
+    <item>
+      <title>Why the Epstein Files Are Reviving a Conspiracy Theory About Wayfair and Human Trafficking</title>
+      <link>https://gizmodo.com/jeffrey-epstein-files-wayfair-ashley-woody-allen-2000717900</link>
+      <pubDate>Wed, 04 Feb 2026 20:40:42 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717900</guid>
+      <description>Sometimes a receipt for furniture is just a receipt for furniture.</description>
+    </item>
+    <item>
+      <title>Mistral drops Voxtral Transcribe 2, an open-source speech model that runs on-device for pennies</title>
+      <link>https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on</link>
+      <pubDate>Wed, 04 Feb 2026 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">6vzBtpWvGxAJ0mf6yEJUy</guid>
+      <description>Mistral AI, the Paris-based startup positioning itself as Europe's answer to OpenAI, released a pair of speech-to-text models on Wednesday that the company says can transcribe audio faster, more accurately, and far more cheaply than anything else on the market &#8212; all while running entirely on a smartphone or laptop.The announcement marks the latest salvo in an increasingly competitive battle over voice AI, a technology that enterprise customers see as essential for everything from automated customer service to real-time translation. But unlike offerings from American tech giants, Mistral's new ...</description>
     </item>
     <item>
       <title>A16z just raised $1.7B for AI infrastructure. Here&#8217;s where it&#8217;s going.</title>
@@ -38,6 +115,22 @@
       <pubDate>Wed, 04 Feb 2026 20:15:27 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000718027</guid>
       <description>The paper is reportedly cutting roughly a third of its staff while its billionaire owner sits on a $261 billion fortune.</description>
+    </item>
+    <item>
+      <title>Doritos, Lays, Cheetos, and more popular snacks are getting a major discount ahead of the Super Bowl</title>
+      <link>https://www.fastcompany.com/91486830/doritos-lays-cheetos-super-bowl-snacks-get-major-price-cut-discount-deal-pepsi-co</link>
+      <pubDate>2026-02-04T20:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91486830/doritos-lays-cheetos-super-bowl-snacks-get-major-price-cut-discount-deal-pepsi-co</guid>
+      <description>PepsiCo is slashing prices on chips and other products by up to 15% after customer complaints about rising costs.
+Just in time for the Super Bowl, PepsiCo is cutting the price of Doritos, Cheetos, Lay&#8217;s, Tostitos, and other snacks by up to 15%.</description>
+    </item>
+    <item>
+      <title>Some renters should be wary of &#8216;rent now, pay later&#8217; services. Here&#8217;s why</title>
+      <link>https://www.fastcompany.com/91486966/rent-now-pay-later-paycheck</link>
+      <pubDate>2026-02-04T20:08:01</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91486966/rent-now-pay-later-paycheck</guid>
+      <description>Economists and renters&#8217; advocates argue that none of these financing options address the fundamental issue of affordability in the rental market. 
+Rent can eat up an entire paycheck at the start of the month, so a growing number of renters are turning to a financial product that promises relief by letting them split the bill &#8212; for a price.</description>
     </item>
     <item>
       <title>&#8217;What will people do in the year 2050, given the enormous intellectual power computers are likely to have?&#8217;: The man Google calls the spiritual father of AI asked big questions in 1991 &#8212; 35 years later, we&#8217;re still wrestling with the answers</title>
@@ -93,8 +186,8 @@
       <link>https://www.fastcompany.com/91486821/amazon-wants-alexa-to-be-the-reason-you-keep-prime</link>
       <pubDate>2026-02-04T19:45:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91486821/amazon-wants-alexa-to-be-the-reason-you-keep-prime</guid>
-      <description>Alexa+ costs $19.99 a month, but Amazon is bundling it into Prime at no extra charge, giving members a powerful new perk.
-Amazon is rolling out a new feature in hopes of retaining, or perhaps attracting, new Prime members.</description>
+      <description>The next-gen virtual assistant costs $19.99 a month, but Amazon is bundling it into Prime at no extra charge, giving members a powerful new perk.
+Amazon is rolling out a new feature in hopes of retaining&#8212;or perhaps attracting&#8212;new Prime members.</description>
     </item>
     <item>
       <title>Games Done Quick's Back to Black 2026 event kicks off tomorrow</title>
@@ -102,92 +195,6 @@ Amazon is rolling out a new feature in hopes of retaining, or perhaps attracting
       <pubDate>Wed, 04 Feb 2026 19:41:47 +0000</pubDate>
       <guid isPermaLink="false">d02d88d9-a76b-4f41-9cab-c50afe458869</guid>
       <description>Hot on the heels of AGDQ in January, Games Done Quick is hosting its second speedrunning event of the year, Back to Black 2026, starting tomorrow, February 5. The four-day event is organized by Black in a Flash and is raising money for Race Forward, a nonprofit that works across communities to address systemic racism.Back to Black is timed to the start of Black History Month and highlights the deep bench of talent in the Black speedrunning community. A few runs, like ones for Hades II, Donkey Kong Country and Silent Hill 4, were teased when Back to Black 2026 was announced last year. The full ...</description>
-    </item>
-    <item>
-      <title>Ikea&amp;#8217;s cheap new smart home gear is struggling to get connected</title>
-      <link>https://www.theverge.com/tech/873973/ikea-matter-thread-smart-home-connectivity-issues</link>
-      <pubDate>2026-02-04T14:35:19-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873973</guid>
-      <description>I've spent the last couple of weeks trying - and mostly failing - to test Ikea's new Matter-over-Thread gear. These highly anticipated smart home devices include programmable buttons, smart bulbs, plugs, and temperature and motion sensors - all of which should work with any smart home platform and start at just $6. But I've hit [&#8230;]</description>
-    </item>
-    <item>
-      <title>Rent-a-Human Site Lets AI Agents Hire an IRL Set of Opposable Thumbs</title>
-      <link>https://gizmodo.com/rent-a-human-site-lets-ai-agents-hire-an-irl-set-of-opposable-thumbs-2000717958</link>
-      <pubDate>Wed, 04 Feb 2026 19:35:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717958</guid>
-      <description>Welcome to the future, where you can do TaskRabbit for robots.</description>
-    </item>
-    <item>
-      <title>Massive Chinese data breach allegedly spills 8.7 billion records - here's what we know</title>
-      <link>https://www.techradar.com/pro/security/massive-chinese-data-breach-allegedly-spills-8-7-billion-records-heres-what-we-know</link>
-      <pubDate>Wed, 04 Feb 2026 19:35:00 +0000</pubDate>
-      <guid isPermaLink="false">PMfySdbANPMEewEir54GC9</guid>
-      <description>Someone kept a gigantic database unlocked on the internet, allowing researchers (and likely, hackers, too) to find it.</description>
-    </item>
-    <item>
-      <title>Hinge tests facial recognition scans in these countries</title>
-      <link>https://mashable.com/article/hinge-testing-face-check-facial-recognition-scan</link>
-      <pubDate>Wed, 04 Feb 2026 19:15:52 +0000</pubDate>
-      <guid isPermaLink="false">02EW3PAUEb6sGwb5jUSE6P8</guid>
-      <description>Dating app Hinge is testing Face Check, the facial recognition scan already launched on Tinder.</description>
-    </item>
-    <item>
-      <title>Roblox&#8217;s '4D' creation toolset is now available in open beta</title>
-      <link>https://www.engadget.com/gaming/robloxs-4d-creation-toolset-is-now-available-in-open-beta-191510664.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 19:15:11 +0000</pubDate>
-      <guid isPermaLink="false">1b9344a8-8b2a-4411-86f0-2bfe848750c6</guid>
-      <description>Roblox launched an open-source AI model that generates 3D objects on the fly early last year and now that toolset is getting a massive boost. The platform has introduced a model that whips up "4D" objects. I put 4D in quotes because it doesn't actually allow access to the fourth dimension, but rather lets users make interactive 3D objects via prompts.
-As suggested, these aren't static 3D models. They are fully functional and interactive objects that move and react to players. The beta toolset can't be used to make anything, as it's rather limited for now. There are just two templates for users...</description>
-    </item>
-    <item>
-      <title>Sam Altman unloads on Elon Musk in latest X posts</title>
-      <link>https://mashable.com/article/sam-altman-elon-musk-feud-continues</link>
-      <pubDate>Wed, 04 Feb 2026 19:05:18 +0000</pubDate>
-      <guid isPermaLink="false">07aqtKFD65itrnYb6QPVJjF</guid>
-      <description>Sam Altman is unloading on Elon Musk in latest X posts</description>
-    </item>
-    <item>
-      <title>OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare</title>
-      <link>https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare</link>
-      <pubDate>2026-02-04T14:03:38-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=874011</guid>
-      <description>OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted "skill" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason Meller says OpenClaw's skill hub has become "an attack surface," with the most-downloaded add-on serving [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The Oscar-Nominated &#8216;Avatar&#8217; Costume Designer Explains That Yes, Those Na&#8217;vi Outfits Are Real</title>
-      <link>https://gizmodo.com/the-oscar-nominated-avatar-costume-designer-explains-that-yes-those-navi-outfits-are-real-2000717959</link>
-      <pubDate>Wed, 04 Feb 2026 19:00:25 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717959</guid>
-      <description>James Cameron's 'Avatar: Fire and Ash' scored two Academy Award nominations: Best Visual Effects and Best Costume Design.</description>
-    </item>
-    <item>
-      <title>Wardrobe malfunctions to caged kids: A look at the most controversial Super Bowl halftime moments</title>
-      <link>https://www.fastcompany.com/91486961/super-bowl-controversial-halftime-moments</link>
-      <pubDate>2026-02-04T19:00:05</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91486961/super-bowl-controversial-halftime-moments</guid>
-      <description>The NFL has long maintained guardrails around the halftime show, particularly when performances edge toward political commentary.
-For a show that lasts roughly 13 minutes, the&#160;Super Bowl&#160;halftime performance has fueled decades of conversation.</description>
-    </item>
-    <item>
-      <title>A New AI Math Startup Just Cracked 4 Previously Unsolved Problems</title>
-      <link>https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/</link>
-      <pubDate>Wed, 04 Feb 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">697cf0067c721427569fbace</guid>
-      <description>Axiom says its AI found solutions to several long-standing math problems, a sign of the technology&#8217;s steadily advancing reasoning capabilities.</description>
-    </item>
-    <item>
-      <title>This Ring Video Doorbell changed how I monitor my home &#8212; and 10,000+ people bought it last month</title>
-      <link>https://www.techradar.com/home/home-security/this-ring-video-doorbell-changed-how-i-monitor-my-home-and-10-000-people-bought-it-last-month</link>
-      <pubDate>Wed, 04 Feb 2026 18:57:32 +0000</pubDate>
-      <guid isPermaLink="false">E5JSiRxBCSxeaV3pjgdUbY</guid>
-      <description>The best-selling Ring Battery Doorbell has changed how I monitor my home, and over 10,000 people have bought it this month &#8211; it can be yours for just $59.99.</description>
-    </item>
-    <item>
-      <title>Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10</title>
-      <link>https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 18:45:00 +0000</pubDate>
-      <guid isPermaLink="false">57a5ae71-c6f4-445a-a600-118a0f6f9ada</guid>
-      <description>Blizzard is running a series of showcases for several of its major franchises and on Wednesday, it was time for Overwatch to step up to the plate. That&#8217;s Overwatch, by the way, and not Overwatch 2. The studio is formally nixing the number from the game's name.&#160;"Overwatch is more than just a digit: it's a living universe that keeps growing, keeps surprising, and keeps bringing players together from around the world," the Overwatch team said in a statement. "This year marks a huge turning point in how the development team envisions the future of Overwatch, so we are officially dropping the '2' a...</description>
     </item>
   </channel>
 </rss>
