@@ -3,7 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 04 Feb 2026 18:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 19:41:47 GMT</lastBuildDate>
+    <item>
+      <title>The &#8216;brownie recipe problem&#8217;: why LLMs must have fine-grained context to deliver real-time results</title>
+      <link>https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to</link>
+      <pubDate>Wed, 04 Feb 2026 21:04:00 GMT</pubDate>
+      <guid isPermaLink="false">2L8TMkdfo41YikwZzPJg4Z</guid>
+      <description>Today&#8217;s LLMs excel at reasoning, but can still struggle with context. This is particularly true in real-time ordering systems like Instacart.&#160;Instacart CTO Anirban Kundu calls it the "brownie recipe problem." It's not as simple as telling an LLM &#8216;I want to make brownies.&#8217; To be truly assistive when planning the meal, the model must go beyond that simple directive to understand what&#8217;s available in the user&#8217;s market based on their preferences &#8212; say, organic eggs versus regular eggs &#8212; and factor that into what&#8217;s deliverable in their geography so food doesn&#8217;t spoil. This among other critical facto...</description>
+    </item>
+    <item>
+      <title>Ikea&amp;#8217;s cheap new smart home gear is struggling to get connected</title>
+      <link>https://www.theverge.com/tech/873973/ikea-matter-thread-smart-home-connectivity-issues</link>
+      <pubDate>2026-02-04T14:35:19-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=873973</guid>
+      <description>I've spent the last couple of weeks trying - and mostly failing - to test Ikea's new Matter-over-Thread gear. These highly anticipated smart home devices include programmable buttons, smart bulbs, plugs, and temperature and motion sensors - all of which should work with any smart home platform and start at just $6. But I've hit [&#8230;]</description>
+    </item>
+    <item>
+      <title>Rent-a-Human Site Lets AI Agents Hire an IRL Set of Opposable Thumbs</title>
+      <link>https://gizmodo.com/rent-a-human-site-lets-ai-agents-hire-an-irl-set-of-opposable-thumbs-2000717958</link>
+      <pubDate>Wed, 04 Feb 2026 19:35:13 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717958</guid>
+      <description>Welcome to the future, where you can do TaskRabbit for robots.</description>
+    </item>
+    <item>
+      <title>Massive Chinese data breach allegedly spills 8.7 billion records - here's what we know</title>
+      <link>https://www.techradar.com/pro/security/massive-chinese-data-breach-allegedly-spills-8-7-billion-records-heres-what-we-know</link>
+      <pubDate>Wed, 04 Feb 2026 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">PMfySdbANPMEewEir54GC9</guid>
+      <description>Someone kept a gigantic database unlocked on the internet, allowing researchers (and likely, hackers, too) to find it.</description>
+    </item>
+    <item>
+      <title>Roblox&#8217;s '4D' creation toolset is now available in open beta</title>
+      <link>https://www.engadget.com/gaming/robloxs-4d-creation-toolset-is-now-available-in-open-beta-191510664.html?src=rss</link>
+      <pubDate>Wed, 04 Feb 2026 19:15:11 +0000</pubDate>
+      <guid isPermaLink="false">1b9344a8-8b2a-4411-86f0-2bfe848750c6</guid>
+      <description>Roblox launched an open-source AI model that generates 3D objects on the fly early last year and now that toolset is getting a massive boost. The platform has introduced a model that whips up "4D" objects. I put 4D in quotes because it doesn't actually allow access to the fourth dimension, but rather lets users make interactive 3D objects via prompts.
+As suggested, these aren't static 3D models. They are fully functional and interactive objects that move and react to players. The beta toolset can't be used to make anything, as it's rather limited for now. There are just two templates for users...</description>
+    </item>
+    <item>
+      <title>OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare</title>
+      <link>https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare</link>
+      <pubDate>2026-02-04T14:03:38-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=874011</guid>
+      <description>OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted "skill" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason Meller says OpenClaw's skill hub has become "an attack surface," with the most-downloaded add-on serving [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The Oscar-Nominated &#8216;Avatar&#8217; Costume Designer Explains That Yes, Those Na&#8217;vi Outfits Are Real</title>
+      <link>https://gizmodo.com/the-oscar-nominated-avatar-costume-designer-explains-that-yes-those-navi-outfits-are-real-2000717959</link>
+      <pubDate>Wed, 04 Feb 2026 19:00:25 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717959</guid>
+      <description>James Cameron's 'Avatar: Fire and Ash' scored two Academy Award nominations: Best Visual Effects and Best Costume Design.</description>
+    </item>
+    <item>
+      <title>A New AI Math Startup Just Cracked 4 Previously Unsolved Problems</title>
+      <link>https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/</link>
+      <pubDate>Wed, 04 Feb 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">697cf0067c721427569fbace</guid>
+      <description>Axiom says its AI found solutions to several long-standing math problems, a sign of the technology&#8217;s steadily advancing reasoning capabilities.</description>
+    </item>
+    <item>
+      <title>This Ring Video Doorbell changed how I monitor my home &#8212; and 10,000+ people bought it last month</title>
+      <link>https://www.techradar.com/home/home-security/this-ring-video-doorbell-changed-how-i-monitor-my-home-and-10-000-people-bought-it-last-month</link>
+      <pubDate>Wed, 04 Feb 2026 18:57:32 +0000</pubDate>
+      <guid isPermaLink="false">E5JSiRxBCSxeaV3pjgdUbY</guid>
+      <description>The best-selling Ring Battery Doorbell has changed how I monitor my home, and over 10,000 people have bought it this month &#8211; it can be yours for just $59.99.</description>
+    </item>
     <item>
       <title>Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10</title>
       <link>https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss</link>
@@ -181,237 +245,11 @@ Avec ses premiers &#233;couteurs ouverts &#224; clip, realme s'invite sur un seg
       <description>OpenAI CEO unsurprisingly positive about AI adoption - except if these headwinds spring up.</description>
     </item>
     <item>
-      <title>ChatGPT is having some issues, as OpenAI confirms an active issue &#8212; here's everything we know</title>
+      <title>ChatGPT was having some issues &#8212; here's everything we know</title>
       <link>https://www.techradar.com/news/live/chatgpt-openai-outage-down-february-4-2026</link>
       <pubDate>Wed, 04 Feb 2026 17:44:39 +0000</pubDate>
       <guid isPermaLink="false">iwNngPyUv8ZtnwHpUFGDFA</guid>
       <description>Just a day after issues, ChatGPT is again experiencing a disruption with OpenAI confirming an active issue.</description>
-    </item>
-    <item>
-      <title>Microsoft's next-gen Xbox console may land in 2027, according to AMD &#8211; but the console wars are over</title>
-      <link>https://www.techradar.com/gaming/xbox/microsofts-next-gen-xbox-console-may-land-in-2027-according-to-amd-but-the-console-wars-are-over</link>
-      <pubDate>Wed, 04 Feb 2026 17:39:16 +0000</pubDate>
-      <guid isPermaLink="false">ha3mKTVjADdcCFHJJLzSGj</guid>
-      <description>As gamers prepare for Valve's Steam Machine, AMD has just hinted at Microsoft's next-gen Xbox console coming in 2027.</description>
-    </item>
-    <item>
-      <title>Last call, folks &#8212; today is the final day you can get an unlimited data plan for just $10/mo at this popular carrier</title>
-      <link>https://www.techradar.com/phones/network-providers/last-call-folks-today-is-the-final-day-you-can-get-an-unlimited-data-plan-for-just-usd10-mo-at-this-popular-carrier</link>
-      <pubDate>Wed, 04 Feb 2026 17:35:57 +0000</pubDate>
-      <guid isPermaLink="false">WNvH67AXKuLGYyXz8MuxhF</guid>
-      <description>Mint Mobile's incredible coupon code for discounted three-month plans ends tonight, so be quick if you're interested in seriously cheap unlimited plans.</description>
-    </item>
-    <item>
-      <title>Hear me out! Instead of buying a mini PC, get MSI&#8217;s Claw handheld gaming console &#8211; it&#8217;s powered by a Core Ultra 7 with 1TB SSD and 16GB RAM, and priced under &#163;300 (no, that&#8217;s not a typo)</title>
-      <link>https://www.techradar.com/pro/hear-me-out-instead-of-buying-a-mini-pc-get-msis-claw-handheld-gaming-console-its-powered-by-a-core-ultra-7-with-1tb-ssd-and-16gb-ram-and-priced-under-gbp300-no-thats-not-a-typo</link>
-      <pubDate>Wed, 04 Feb 2026 17:33:07 +0000</pubDate>
-      <guid isPermaLink="false">Rik8uxeFSz37aSc4uSpBSN</guid>
-      <description>MSI&#8217;s Claw handheld gaming console is powered by a Core Ultra 7 CPU with 1TB SSD and 16GB RAM, and priced under &#163;300.</description>
-    </item>
-    <item>
-      <title>La Banque Postale fait aussi un geste contre Visa et Mastercard</title>
-      <link>https://www.frandroid.com/culture-tech/2966257_la-banque-postale-fait-aussi-un-geste-contre-visa-et-mastercard</link>
-      <pubDate>Wed, 04 Feb 2026 17:31:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/2966257_la-banque-postale-fait-aussi-un-geste-contre-visa-et-mastercard</guid>
-      <description>
-La Banque Postale va basculer sur le r&#233;seau fran&#231;ais CB pour les paiements sans contact r&#233;alis&#233;s avec Samsung Pay. Un petit geste qui permet de r&#233;duire la d&#233;pendance &#224; Visa et Mastercard.
-</description>
-    </item>
-    <item>
-      <title>I was detained by federal agents in Minneapolis</title>
-      <link>https://www.theverge.com/policy/873656/alex-pretti-protester-detained-dhs-ice-whipple</link>
-      <pubDate>2026-02-04T12:30:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873656</guid>
-      <description>In late 2025, the Department of Homeland Security zeroed in on the Twin Cities in Minnesota, supposedly in response to fraud allegations made by a right-wing influencer. In the months since, thousands of immigrants have been swept up by Immigrations and Customs Enforcement. In January alone, two American citizens were killed while documenting ICE operations [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Apple TV details its 2026 streaming lineup with big list of announcements</title>
-      <link>https://www.theverge.com/streaming/873862/apple-tv-2026-streaming-lineup</link>
-      <pubDate>2026-02-04T12:30:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873862</guid>
-      <description>For much of its existence, Apple's streaming service has seemed intent to focus on quality over quantity, offering some great shows but often feeling barren in comparison to competitors like Netflix and Disney. But as Apple TV looks to expand its reach to hit a larger audience, it appears the "quantity" part of that equation [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google Cloud&#8217;s customer chief returns to Microsoft as head of security</title>
-      <link>https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security</link>
-      <pubDate>2026-02-04T12:27:30-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873930</guid>
-      <description>Microsoft has a new head of security. Hayete Gallot, who left Microsoft in October 2024 to become the president of Google Cloud's customer experience, is returning to the software giant as the executive vice president of security, reporting directly to CEO Satya Nadella. The move means Charlie Bell, formerly Microsoft's security chief, is taking on [&#8230;]...</description>
-    </item>
-    <item>
-      <title>How to watch The Real Strictly Come Dancing online from anywhere &#8212; it's *FREE*</title>
-      <link>https://www.techradar.com/how-to-watch/the-real-strictly-come-dancing-free</link>
-      <pubDate>Wed, 04 Feb 2026 17:27:11 +0000</pubDate>
-      <guid isPermaLink="false">PtfSN4dLzY3SfS9HMoFCRb</guid>
-      <description>Witness dedication, nerves, and dreams collide under the spotlight. Here's how to watch The Real Strictly Come Dancing for FREE.</description>
-    </item>
-    <item>
-      <title>New Mexico Newborn Dies After Mother Drank Raw Milk, Prompting Fresh Warnings</title>
-      <link>https://gizmodo.com/new-mexico-newborn-dies-after-mother-drank-raw-milk-prompting-fresh-warnings-2000717846</link>
-      <pubDate>Wed, 04 Feb 2026 17:25:17 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717846</guid>
-      <description>A recent death in New Mexico has tragically highlighted the dangers of drinking raw milk.</description>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s Pixel 10A will be revealed on February 18th</title>
-      <link>https://www.theverge.com/news/873923/google-pixel-10a-launch-date-reveal-teaser</link>
-      <pubDate>2026-02-04T12:24:53-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873923</guid>
-      <description>Google has taken the wraps off the Pixel 10A, the latest in its line of budget-friendly smartphones. A teaser shared on Wednesday shows off the new device in a powdery blue color, which will be available for preorder on February 18th. Based on the teaser shared by Google, the Pixel 10A looks a lot like [&#8230;]</description>
-    </item>
-    <item>
-      <title>Ce neutrino 100 000 fois plus puissant que le LHC met les physiciens sur la piste d&#8217;un trou noir primordial !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/trou-noir-ce-neutrino-100-000-fois-plus-puissant-lhc-met-physiciens-piste-trou-noir-primordial-130897/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 04 Feb 2026 18:23:06 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/trou-noir-ce-neutrino-100-000-fois-plus-puissant-lhc-met-physiciens-piste-trou-noir-primordial-130897/#xtor%3DRSS-8</guid>
-      <description>En f&#233;vrier 2023, un neutrino d&#8217;une &#233;nergie folle a &#233;t&#233; d&#233;tect&#233; dans les profondeurs de la M&#233;diterran&#233;e. D&#8217;une &#233;nergie&#160;m&#234;me qu&#8217;aucun neutrino ne devrait atteindre. Sauf si&#8230;</description>
-    </item>
-    <item>
-      <title>Tracking Jeffrey Epstein&#8217;s influence on the cutting edge of tech research</title>
-      <link>https://www.fastcompany.com/91486736/how-jeffrey-epstein-influenced-the-tech-industry</link>
-      <pubDate>2026-02-04T17:21:39</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91486736/how-jeffrey-epstein-influenced-the-tech-industry</guid>
-      <description>A new tranche of files from the DOJ reveals new details and relationships between the disgraced financier and prominent researchers and academics.
-Jeffrey Epstein&#8217;s network of money and influence often intersected with scientific and academic communities. The disgraced financier spent years cultivating relationships with researchers at elite universities, frequently dangling the promise of funding. Some of the work he supported has had, and may still have, direct and indirect impacts on Silicon Valley&#8217;s most powerful technologies.&#160;...</description>
-    </item>
-    <item>
-      <title>The Insta360 Flow 2 Pro gimbal is back at a record-low price at Amazon: Save over $30</title>
-      <link>https://mashable.com/article/feb-4-insta360-flow-2-pro-deal</link>
-      <pubDate>Wed, 04 Feb 2026 17:17:19 +0000</pubDate>
-      <guid isPermaLink="false">06cBAiEtppfs1AyjTzX8v5o</guid>
-      <description>The Insta360 Flow 2 Pro foldable gimbal is on sale at Amazon for $126.98, down from the list price of $159.99. That's a 21% discount.</description>
-    </item>
-    <item>
-      <title>Deep layoffs hit &#8216;The Washington Post,&#8217; sparking sharp criticism for owner Jeff Bezos</title>
-      <link>https://www.fastcompany.com/91486746/washington-post-layoffs-today-jeff-bezos-criticized-after-job-cuts</link>
-      <pubDate>2026-02-04T17:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91486746/washington-post-layoffs-today-jeff-bezos-criticized-after-job-cuts</guid>
-      <description>The job cuts reportedly include hundreds of journalists, with the paper cutting down its Metro desk and doing away with its sports desk entirely.
-The Washington Post informed its team on Wednesday morning that it was starting a round of mass layoffs, according to multiple media reports and a memo seen by Fast Company. Multiple sections are being shut down completely, while others are being shrunk significantly....</description>
-    </item>
-    <item>
-      <title>La version 512 Go de ce r&#233;cent smartphone OnePlus perd d&#233;j&#224; plus de 100 &#8364; de son prix</title>
-      <link>https://www.frandroid.com/bons-plans/2966293_la-version-512-go-de-ce-recent-smartphone-oneplus-perd-deja-plus-de-100-e-de-son-prix</link>
-      <pubDate>Wed, 04 Feb 2026 17:14:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2966293_la-version-512-go-de-ce-recent-smartphone-oneplus-perd-deja-plus-de-100-e-de-son-prix</guid>
-      <description>
-&#201;cran bien fluide, puce puissante, design plus sobre que celui de son pr&#233;d&#233;cesseur : le OnePlus Nord 5 est un smartphone solide sur ses appuis qui a encore de beaux jours devant lui. Actuellement, PC Componentes le propose &#224; un excellent prix : 418 euros au lieu de 519 euros.
-</description>
-    </item>
-    <item>
-      <title>&#8216;Dropping this while there&#8217;s still a month left is torture&#8217;: Bridgerton fans are hot for new season 4 part 2 bathtub teaser &#8212; but they&#8217;re forgetting a huge issue</title>
-      <link>https://www.techradar.com/streaming/netflix/dropping-this-while-theres-still-a-month-left-is-torture-bridgerton-fans-are-hot-for-new-season-4-part-2-bathtub-teaser-but-theyre-forgetting-a-huge-issue</link>
-      <pubDate>Wed, 04 Feb 2026 17:13:43 +0000</pubDate>
-      <guid isPermaLink="false">AciaKnKPWmkYAZQLTodVY9</guid>
-      <description>Bridgerton season 4 part 2 first teaser confirms the long-awaited bathtub scene from original books &#8212; but I&#8217;m still not over Benedict and Sophie&#8217;s biggest issue.</description>
-    </item>
-    <item>
-      <title>Anthropic says it won't bring ads to Claude, unlike rival ChatGPT</title>
-      <link>https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 17:12:44 +0000</pubDate>
-      <guid isPermaLink="false">c124f638-1c62-4f92-b703-e91ffe4a7c88</guid>
-      <description>Anthropic has announced that its chatbot Claude will remain ad-free. This is in direct contrast to rival company OpenAI, which recently brought ads to ChatGPT for many users.
-The company says that "including ads in conversations with Claude would be incompatible" with the chatbot becoming a "genuinely helpful assistant for work and for deep thinking." The reasoning here is rather simple. People tend to share personal details with chatbots, for better or for worse, and getting ads based on that stuff would be creepy. Imagine asking for mental health advice and getting an ad for St. John's wort ...</description>
-    </item>
-    <item>
-      <title>Get $600 off the Bluetti Elite 400 portable power station and stay prepared for emergencies</title>
-      <link>https://mashable.com/article/feb-4-bluetti-elite-400-power-station-deal</link>
-      <pubDate>Wed, 04 Feb 2026 17:10:17 +0000</pubDate>
-      <guid isPermaLink="false">01aREs4ZauWYhFGgV809sDM</guid>
-      <description>As of Feb. 4, get $600 off the Bluetti Elite 400 portable power station.</description>
-    </item>
-    <item>
-      <title>Elon Musk wants to put 1 million satellites in orbit. Can Earth handle it?</title>
-      <link>https://www.fastcompany.com/91486343/elon-musk-wants-to-put-1-million-satellites-in-orbit-can-earth-handle-it</link>
-      <pubDate>2026-02-04T17:10:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91486343/elon-musk-wants-to-put-1-million-satellites-in-orbit-can-earth-handle-it</guid>
-      <description>SpaceX has asked the FCC to approve a constellation of space-based data centers for AI training, a move that could overwhelm orbit and redefine what &#8216;infrastructure&#8217; means in space.
-Low Earth orbit is already getting crowded. Around 14,500 active satellites are circling Earth, and roughly two-thirds of them are run by SpaceX. Now, in filings connected to Elon Musk&#8217;s plan to fold SpaceX and his AI firm xAI together ahead of an IPO, the company has asked the Federal Communications Commission (FCC) for permission to launch up to one million more....</description>
-    </item>
-    <item>
-      <title>Exclusive: Disney+ just added We Call It Imagineering &#8212; and more episodes are coming soon</title>
-      <link>https://www.techradar.com/streaming/entertainment/exclusive-disney-just-added-we-call-it-imagineering-and-more-episodes-are-coming-soon</link>
-      <pubDate>Wed, 04 Feb 2026 17:01:58 +0000</pubDate>
-      <guid isPermaLink="false">YRgqdhTBC4CoducZvJZWXF</guid>
-      <description>We Call It Imagineering brings its behind-the-scenes look at Disney Imagineering to a bigger audience, with new episodes on Disney+.</description>
-    </item>
-    <item>
-      <title>The 11 best gifts under $25 for 2026</title>
-      <link>https://www.engadget.com/computing/accessories/the-11-best-gifts-under-25-for-2026-140042019.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:37 +0000</pubDate>
-      <guid isPermaLink="false">ed1a9e09-5eb8-4f57-9f1c-a7a202af8266</guid>
-      <description>The most hyped tech is often also the most expensive: flagship smartphones, ultra-powerful gaming laptops, immersive VR headsets and the like. But it would be wrong to assume that those are the only pieces of technology worth gifting. You don&#8217;t have to drain your wallet to get someone a cool gadget that will both be useful and make their lives easier. There are more solid, affordable gadgets out there now more than ever, but that also means you&#8217;ll discover some junk along the way. We&#8217;ve collected our favorite pieces of tech under $25 that make great gifts and help you to stick to a budget.
-Bes...</description>
-    </item>
-    <item>
-      <title>A24 Will Revive &#8216;Texas Chainsaw Massacre&#8217; With a TV Show and Movie</title>
-      <link>https://gizmodo.com/a24-will-revive-texas-chainsaw-massacre-with-a-tv-show-and-movie-2000717875</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:26 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717875</guid>
-      <description>The future of 'Texas Chainsaw Massacre' belongs to television, Glen Powell, and an eventual movie.</description>
-    </item>
-    <item>
-      <title>Copilot peine toujours &#224; convaincre face &#224; Gemini et ChatGPT</title>
-      <link>https://www.01net.com/actualites/copilot-peine-toujours-a-convaincre-face-a-gemini-et-chatgpt.html</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1324182</guid>
-      <description>Microsoft se r&#234;ve en champion de l'IA, en num&#233;ro 1 d'un secteur en plein bouillonnement&#8230; mais dans les faits, ses solutions Copilot sont parmi les moins populaires. Pire, les utilisateurs s'en d&#233;tournent au profit de la concurrence.</description>
-    </item>
-    <item>
-      <title>GitHub adds Claude and Codex AI coding agents</title>
-      <link>https://www.theverge.com/news/873665/github-claude-codex-ai-agents</link>
-      <pubDate>2026-02-04T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873665</guid>
-      <description>GitHub is making Claude by Anthropic and OpenAI's Codex AI coding agents directly available inside GitHub today. A new public preview adds Claude and Codex to GitHub, GitHub Mobile, and Visual Studio Code, for users with a Copilot Pro Plus or Copilot Enterprise subscription. The move is part of Agent HQ, GitHub's vision to make [&#8230;]</description>
-    </item>
-    <item>
-      <title>Roblox calls its take on AI world models &#8216;real-time dreaming&#8217;</title>
-      <link>https://www.theverge.com/games/873777/roblox-ai-world-models-real-time-dreaming-4d-creation-tools</link>
-      <pubDate>2026-02-04T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873777</guid>
-      <description>Less than a week after Google showed off Project Genie, a tool powered by an AI world model that lets users generate interactive 3D experiences from prompts, Roblox is sharing some early ideas about how it wants to use AI world models and prompts to let creators generate experiences and change them in real time [&#8230;]</description>
-    </item>
-    <item>
-      <title>Fallout&#8217;s season 2 finale left plenty unanswered as it expanded in scope</title>
-      <link>https://www.theverge.com/entertainment/873816/fallout-season-2-finale-review</link>
-      <pubDate>2026-02-04T12:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=873816</guid>
-      <description>There's been a clear shift over Fallout's second season. While the show started out as a relatively goofy introduction to the postapocalyptic wasteland, one that nailed the vibes of the games perfectly, season 2 has been intent on making the world even bigger. And nowhere was that more clear than in the season finale, in [&#8230;]</description>
-    </item>
-    <item>
-      <title>Roblox&#8217;s 4D creation feature is now available in open beta</title>
-      <link>https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3088892</guid>
-      <description>Roblox's highly anticipated 4D creation feature has officially arrived in open beta.</description>
-    </item>
-    <item>
-      <title>Man City vs Newcastle Free Streams: How to watch Carabao Cup 2025-26 semi-final online from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/football/man-city-vs-newcastle-free-streams-how-to-watch-carabao-cup-2025-26-semi-final-online-from-anywhere</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CJt6kSaTjez3AYopAXYRcA</guid>
-      <description>All the ways to watch Man City vs Newcastle live streams, with the home side holding a two-goal advantage as they bid to reach the Carabao Cup final.</description>
-    </item>
-    <item>
-      <title>Fallout season 3: everything we know so far about the hit Prime Video show's next chapter</title>
-      <link>https://www.techradar.com/streaming/amazon-prime-video/fallout-season-3-hub</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">jQB5YgPNVRdFV9FLmGRThk</guid>
-      <description>Fallout season 3 was announced in May 2025 &#8211; and this is everything we know about the Amazon TV show's next entry.</description>
-    </item>
-    <item>
-      <title>Saturday Night Live UK announces 11 cast members</title>
-      <link>https://mashable.com/article/saturday-night-live-uk-cast</link>
-      <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">001UjbUrMUGFpQWIolgCmvF</guid>
-      <description>"Saturday Night Live UK", the spinoff the the long-running U.S. comedy sketch show, has announced its cast.</description>
-    </item>
-    <item>
-      <title>&#171; Nous avons une preuve &#187; : un scientifique de Harvard relance l&#8217;hypoth&#232;se extraterrestre</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/civilisations-extraterrestres-nous-avons-preuve-scientifique-harvard-relance-hypothese-extraterrestre-w2t8-130775/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/civilisations-extraterrestres-nous-avons-preuve-scientifique-harvard-relance-hypothese-extraterrestre-w2t8-130775/#xtor%3DRSS-8</guid>
-      <description>Sommes-nous seuls ? C&#8217;est probablement la question la plus profonde qui se pose aujourd&#8217;hui encore &#224; l&#8217;humanit&#233;. Et si la r&#233;ponse &#224; cette question &#233;tait non ? Serions-nous pr&#234;ts &#224; l&#8217;accepter ? Pour Avi Loeb, astrophysicien &#224; l&#8217;universit&#233; de Harvard (&#201;tats-Unis), une technologie extraterrestre a...</description>
     </item>
   </channel>
 </rss>
