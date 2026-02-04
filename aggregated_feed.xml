@@ -3,13 +3,105 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 04 Feb 2026 19:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 20:40:07 GMT</lastBuildDate>
     <item>
-      <title>The &#8216;brownie recipe problem&#8217;: why LLMs must have fine-grained context to deliver real-time results</title>
-      <link>https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to</link>
-      <pubDate>Wed, 04 Feb 2026 21:04:00 GMT</pubDate>
-      <guid isPermaLink="false">2L8TMkdfo41YikwZzPJg4Z</guid>
-      <description>Today&#8217;s LLMs excel at reasoning, but can still struggle with context. This is particularly true in real-time ordering systems like Instacart.&#160;Instacart CTO Anirban Kundu calls it the "brownie recipe problem." It's not as simple as telling an LLM &#8216;I want to make brownies.&#8217; To be truly assistive when planning the meal, the model must go beyond that simple directive to understand what&#8217;s available in the user&#8217;s market based on their preferences &#8212; say, organic eggs versus regular eggs &#8212; and factor that into what&#8217;s deliverable in their geography so food doesn&#8217;t spoil. This among other critical facto...</description>
+      <title>Kilo CLI 1.0 brings open source vibe coding to your terminal with support for 500+ models</title>
+      <link>https://venturebeat.com/orchestration/kilo-cli-1-0-brings-open-source-vibe-coding-to-your-terminal-with-support</link>
+      <pubDate>Wed, 04 Feb 2026 20:27:00 GMT</pubDate>
+      <guid isPermaLink="false">72XBkemR17bcKGCv5miIla</guid>
+      <description>Remote-first AI coding startup Kilo doesn't think software developers should have to pledge their undying allegiance to any one development environment &#8212; and certainly not any one model or harness. This week, the startup &#8212; backed by GitLab co-founder Sid Sijbrandij &#8212; unveiled Kilo CLI 1.0, a complete rebuild of its command-line tool that offers support for more than 500 different underlying AI models from proprietary leaders and open source rivals like Alibaba's Qwen. It comes just weeks after Kilo launched a Slackbot allowing developers to ship code directly from Salesforce's popular messagin...</description>
+    </item>
+    <item>
+      <title>A16z just raised $1.7B for AI infrastructure. Here&#8217;s where it&#8217;s going.</title>
+      <link>https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</link>
+      <pubDate>Wed, 04 Feb 2026 20:24:12 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3089607</guid>
+      <description>Andreessen Horowitz just raised&#160;a whopping&#160;&#8288;new&#160;$15 billion&#160;in funding&#8288;.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;&#8288;infrastructure&#160;team&#8288;,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;&#8288;ElevenLabs&#8288;, Ideogram,&#160;&#8288;Fal&#8288;&#160;and dozens of others.&#160;&#160; A16z&#160;&#8288;general partner&#160;with the infra team Jennifer Li&#8288;&#160;(who oversees such&#160;investments&#160;as&#160;ElevenLabs&#160;&#8211; just valued at&#160;$11 billion);&#160;Ideagram&#160;and Fal, has a clear thesis on where&#160;the team is looking [&#8230;]...</description>
+    </item>
+    <item>
+      <title>This Town, 2.0</title>
+      <link>https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto</link>
+      <pubDate>2026-02-04T15:20:56-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/874050/the-crypto-bill-is-falling-apart-in-congress</guid>
+      <description>Hello and welcome to Regulator, a newsletter for Verge subscribers about the most ambitious crossover event of all time: the infinity war between technology and politics. Not subscribed yet? Come on, do it! Washington might seem slower than Silicon Valley. But that's because it's more turbulent. In order to achieve anything, one has to navigate [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#8216;Crown&#8217; Star Claire Foy Quit Caffeine After Living With Gut Parasite for Half a Decade</title>
+      <link>https://gizmodo.com/crown-star-claire-foy-quit-caffeine-after-living-with-a-gut-parasite-for-years-2000717999</link>
+      <pubDate>Wed, 04 Feb 2026 20:20:37 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717999</guid>
+      <description>The British actor claims to have struggled with gut parasites for at least five years.</description>
+    </item>
+    <item>
+      <title>Washington Post Lays Off Its Amazon Beat Reporter as Bezos Brings the Hammer Down</title>
+      <link>https://gizmodo.com/washington-post-lays-off-its-amazon-beat-reporter-as-bezos-brings-the-hammer-down-2000718027</link>
+      <pubDate>Wed, 04 Feb 2026 20:15:27 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000718027</guid>
+      <description>The paper is reportedly cutting roughly a third of its staff while its billionaire owner sits on a $261 billion fortune.</description>
+    </item>
+    <item>
+      <title>&#8217;What will people do in the year 2050, given the enormous intellectual power computers are likely to have?&#8217;: The man Google calls the spiritual father of AI asked big questions in 1991 &#8212; 35 years later, we&#8217;re still wrestling with the answers</title>
+      <link>https://www.techradar.com/pro/what-will-people-do-in-the-year-2050-given-the-enormous-intellectual-power-computers-are-likely-to-have-the-man-google-calls-the-spiritual-father-of-ai-asked-big-questions-in-1991-35-years-later-were-still-wrestling-with-the-answers</link>
+      <pubDate>Wed, 04 Feb 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">7H57F2P3hLcHFFJm5BNVdH</guid>
+      <description>Ray Kurzweil&#8217;s 1991 AI predictions feel strikingly familiar today, revealing how progress advanced faster than our understanding of intelligence and purpose.</description>
+    </item>
+    <item>
+      <title>The best digital frames for 2026</title>
+      <link>https://www.engadget.com/home/smart-home/best-digital-frame-120046051.html?src=rss</link>
+      <pubDate>Wed, 04 Feb 2026 20:01:26 +0000</pubDate>
+      <guid isPermaLink="false">1c6bd8ad-dfb7-4195-af8b-c278a7b1c8d7</guid>
+      <description>A digital photo frame shouldn&#8217;t be complicated. At its best, it&#8217;s just a good-looking screen that can be set up quickly that reliably shows the photos you care about. Unfortunately, that&#8217;s not always how things play out. The market is flooded with cheap digital frames that promise simplicity but end up delivering washed-out displays, clunky apps and a frustrating experience &#8212; leading you to abandon it after a week.That&#8217;s a shame, because a good digital frame can be really enjoyable. Most of us have thousands of photos sitting on our phones that never make it beyond the camera roll, even though...</description>
+    </item>
+    <item>
+      <title>It's Bridgerton! It's Medieval Dynasty! No, it's The Sims 4 Royalty and Legacy, and I think it&#8217;s the best of both worlds</title>
+      <link>https://www.techradar.com/gaming/its-bridgerton-its-medieval-dynasty-no-its-the-sims-4-royalty-and-legacy-and-i-think-its-the-best-of-both-worlds</link>
+      <pubDate>Wed, 04 Feb 2026 20:01:00 +0000</pubDate>
+      <guid isPermaLink="false">XT4Kri4NShf7FYzFFWYVSK</guid>
+      <description>Scandals, dynasties and swordfighting make The Sims 4 Royalty and Legacy one of the most exciting storytelling packs in a while</description>
+    </item>
+    <item>
+      <title>&#8216;Fallout&#8217; Season 2 Ends Pointing at the Big Bad You Already Knew Was Coming</title>
+      <link>https://gizmodo.com/fallout-season-2-ending-explained-colorado-liberty-prime-enclave-2000717889</link>
+      <pubDate>Wed, 04 Feb 2026 20:00:38 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717889</guid>
+      <description>Amazon's video game adaptation wraps up its sophomore season with plenty of nods to the 'Fallout' lore.</description>
+    </item>
+    <item>
+      <title>Overwatch: all the news about Blizzard&#8217;s hit hero shooter</title>
+      <link>https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news</link>
+      <pubDate>2026-02-04T14:53:54-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/2022/6/14/603/overwatch-2-activision-blizzard-news</guid>
+      <description>Overwatch 2, the sequel to Activision Blizzard&#8217;s hit hero shooter Overwatch, was announced in 2019 but didn&#8217;t arrive for another three years, eventually bringing a shift to five-on-five matches in PVP, and a few new characters, including Overwatch&#8217;s first Black female hero. After canceling planned PvE content and unlocking its hero pool, the game&#8217;s developers [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Notepad++ Users, You May Have Been Hacked by China</title>
+      <link>https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/</link>
+      <pubDate>Wed, 04 Feb 2026 19:52:59 +0000</pubDate>
+      <guid isPermaLink="false">69836805afde988bb6796bae</guid>
+      <description>Suspected Chinese state-backed hackers hijacked the Notepadd++ update infrastructure to deliver a backdoored version of the popular free source code editor and note-taking app for Windows.</description>
+    </item>
+    <item>
+      <title>Crypto Market in Shambles as Bitcoin Price Down 40% Since October High</title>
+      <link>https://gizmodo.com/crypto-market-in-shambles-as-bitcoin-price-down-40-since-october-high-2000717957</link>
+      <pubDate>Wed, 04 Feb 2026 19:45:09 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000717957</guid>
+      <description>All muh apes, gone.</description>
+    </item>
+    <item>
+      <title>Amazon wants Alexa+ to be the reason you keep Prime</title>
+      <link>https://www.fastcompany.com/91486821/amazon-wants-alexa-to-be-the-reason-you-keep-prime</link>
+      <pubDate>2026-02-04T19:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91486821/amazon-wants-alexa-to-be-the-reason-you-keep-prime</guid>
+      <description>Alexa+ costs $19.99 a month, but Amazon is bundling it into Prime at no extra charge, giving members a powerful new perk.
+Amazon is rolling out a new feature in hopes of retaining, or perhaps attracting, new Prime members.</description>
+    </item>
+    <item>
+      <title>Games Done Quick's Back to Black 2026 event kicks off tomorrow</title>
+      <link>https://www.engadget.com/gaming/games-done-quicks-back-to-black-2026-event-kicks-off-tomorrow-194147068.html?src=rss</link>
+      <pubDate>Wed, 04 Feb 2026 19:41:47 +0000</pubDate>
+      <guid isPermaLink="false">d02d88d9-a76b-4f41-9cab-c50afe458869</guid>
+      <description>Hot on the heels of AGDQ in January, Games Done Quick is hosting its second speedrunning event of the year, Back to Black 2026, starting tomorrow, February 5. The four-day event is organized by Black in a Flash and is raising money for Race Forward, a nonprofit that works across communities to address systemic racism.Back to Black is timed to the start of Black History Month and highlights the deep bench of talent in the Black speedrunning community. A few runs, like ones for Hades II, Donkey Kong Country and Silent Hill 4, were teased when Back to Black 2026 was announced last year. The full ...</description>
     </item>
     <item>
       <title>Ikea&amp;#8217;s cheap new smart home gear is struggling to get connected</title>
@@ -33,12 +125,26 @@
       <description>Someone kept a gigantic database unlocked on the internet, allowing researchers (and likely, hackers, too) to find it.</description>
     </item>
     <item>
+      <title>Hinge tests facial recognition scans in these countries</title>
+      <link>https://mashable.com/article/hinge-testing-face-check-facial-recognition-scan</link>
+      <pubDate>Wed, 04 Feb 2026 19:15:52 +0000</pubDate>
+      <guid isPermaLink="false">02EW3PAUEb6sGwb5jUSE6P8</guid>
+      <description>Dating app Hinge is testing Face Check, the facial recognition scan already launched on Tinder.</description>
+    </item>
+    <item>
       <title>Roblox&#8217;s '4D' creation toolset is now available in open beta</title>
       <link>https://www.engadget.com/gaming/robloxs-4d-creation-toolset-is-now-available-in-open-beta-191510664.html?src=rss</link>
       <pubDate>Wed, 04 Feb 2026 19:15:11 +0000</pubDate>
       <guid isPermaLink="false">1b9344a8-8b2a-4411-86f0-2bfe848750c6</guid>
       <description>Roblox launched an open-source AI model that generates 3D objects on the fly early last year and now that toolset is getting a massive boost. The platform has introduced a model that whips up "4D" objects. I put 4D in quotes because it doesn't actually allow access to the fourth dimension, but rather lets users make interactive 3D objects via prompts.
 As suggested, these aren't static 3D models. They are fully functional and interactive objects that move and react to players. The beta toolset can't be used to make anything, as it's rather limited for now. There are just two templates for users...</description>
+    </item>
+    <item>
+      <title>Sam Altman unloads on Elon Musk in latest X posts</title>
+      <link>https://mashable.com/article/sam-altman-elon-musk-feud-continues</link>
+      <pubDate>Wed, 04 Feb 2026 19:05:18 +0000</pubDate>
+      <guid isPermaLink="false">07aqtKFD65itrnYb6QPVJjF</guid>
+      <description>Sam Altman is unloading on Elon Musk in latest X posts</description>
     </item>
     <item>
       <title>OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare</title>
@@ -53,6 +159,14 @@ As suggested, these aren't static 3D models. They are fully functional and inter
       <pubDate>Wed, 04 Feb 2026 19:00:25 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000717959</guid>
       <description>James Cameron's 'Avatar: Fire and Ash' scored two Academy Award nominations: Best Visual Effects and Best Costume Design.</description>
+    </item>
+    <item>
+      <title>Wardrobe malfunctions to caged kids: A look at the most controversial Super Bowl halftime moments</title>
+      <link>https://www.fastcompany.com/91486961/super-bowl-controversial-halftime-moments</link>
+      <pubDate>2026-02-04T19:00:05</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91486961/super-bowl-controversial-halftime-moments</guid>
+      <description>The NFL has long maintained guardrails around the halftime show, particularly when performances edge toward political commentary.
+For a show that lasts roughly 13 minutes, the&#160;Super Bowl&#160;halftime performance has fueled decades of conversation.</description>
     </item>
     <item>
       <title>A New AI Math Startup Just Cracked 4 Previously Unsolved Problems</title>
@@ -74,182 +188,6 @@ As suggested, these aren't static 3D models. They are fully functional and inter
       <pubDate>Wed, 04 Feb 2026 18:45:00 +0000</pubDate>
       <guid isPermaLink="false">57a5ae71-c6f4-445a-a600-118a0f6f9ada</guid>
       <description>Blizzard is running a series of showcases for several of its major franchises and on Wednesday, it was time for Overwatch to step up to the plate. That&#8217;s Overwatch, by the way, and not Overwatch 2. The studio is formally nixing the number from the game's name.&#160;"Overwatch is more than just a digit: it's a living universe that keeps growing, keeps surprising, and keeps bringing players together from around the world," the Overwatch team said in a statement. "This year marks a huge turning point in how the development team envisions the future of Overwatch, so we are officially dropping the '2' a...</description>
-    </item>
-    <item>
-      <title>More than 40,000 WordPress sites affected by new malware flaw - find out if you're affected</title>
-      <link>https://www.techradar.com/pro/security/more-than-40-000-wordpress-sites-affected-by-new-malware-flaw-find-out-if-youre-affected</link>
-      <pubDate>Wed, 04 Feb 2026 18:35:00 +0000</pubDate>
-      <guid isPermaLink="false">7iNKYKMiBizGKW2JcZz85M</guid>
-      <description>A popular WordPress quiz plugin can be abused to mount SQL injection attacks, but a patch is available.</description>
-    </item>
-    <item>
-      <title>I hand-picked 33 home office finds for creating a serene mint green workspace</title>
-      <link>https://www.techradar.com/pro/i-hand-picked-33-home-office-finds-for-creating-a-serene-mint-green-workspace</link>
-      <pubDate>Wed, 04 Feb 2026 18:34:17 +0000</pubDate>
-      <guid isPermaLink="false">CciSBqnuW85gW3BGj9hx3j</guid>
-      <description>Bring soothing calm to your workspace.</description>
-    </item>
-    <item>
-      <title>The best VPN deals: Up to 87 percent off ProtonVPN, Surfshark, ExpressVPN, NordVPN and more</title>
-      <link>https://www.engadget.com/deals/the-best-vpn-deals-up-to-87-percent-off-protonvpn-surfshark-expressvpn-nordvpn-and-more-120056484.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 18:32:58 +0000</pubDate>
-      <guid isPermaLink="false">3820f07f-0c5e-4a96-baba-d6d9ea0510c3</guid>
-      <description>The groundhog has predicted six more weeks of winter, which means more time indoors on our devices &#8212; and that means it's a great time to improve your cybersecurity. By subscribing to a virtual private network (VPN) and connecting every time you get online, you can keep your activity hidden from your ISP and any advertisers it may sell that data to &#8212; all while streaming sporting events and TV dramas from all across the globe.
-We strongly recommend using a VPN, but shopping for one takes some care. If you jump on the very first deal you see, you might get stuck with a substandard app. It's also ...</description>
-    </item>
-    <item>
-      <title>Our Favorite Pixel Phone Is $100 Off</title>
-      <link>https://www.wired.com/story/pixel-9a-deal-226/</link>
-      <pubDate>Wed, 04 Feb 2026 18:31:16 +0000</pubDate>
-      <guid isPermaLink="false">698374653476900f4f235657</guid>
-      <description>While the Pixel 9a isn't the fanciest offering, it is the best value, and it gets even better with a discount.</description>
-    </item>
-    <item>
-      <title>Amazon casse le prix de cet &#233;cran PC QD-OLED de 32&#8243; &#224; 240 Hz, l&#8217;&#233;cran ultime pour les gamers</title>
-      <link>https://www.frandroid.com/bons-plans/2966507_amazon-casse-le-prix-de-cet-ecran-pc-qd-oled-de-32-a-240-hz-lecran-ultime-pour-les-gamers</link>
-      <pubDate>Wed, 04 Feb 2026 18:28:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2966507_amazon-casse-le-prix-de-cet-ecran-pc-qd-oled-de-32-a-240-hz-lecran-ultime-pour-les-gamers</guid>
-      <description>
-En choisissant le Philips Evnia 32M2N8900AM, vous avez un moniteur par&#233; pour les jeux comp&#233;titifs gr&#226;ce &#224; ses caract&#233;ristiques haut de gamme. Et, pour en profiter, il faut d&#233;bourser 749 euros contre 1 199 euros au d&#233;part.
-</description>
-    </item>
-    <item>
-      <title>X's 'open source' algorithm isn't a win for transparency, researchers say</title>
-      <link>https://www.engadget.com/social-media/xs-open-source-algorithm-isnt-a-win-for-transparency-researchers-say-181836233.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 18:18:36 +0000</pubDate>
-      <guid isPermaLink="false">e4ac20e8-4a59-4d95-a2bf-fb298c2d47a4</guid>
-      <description>When X's engineering team published the code that powers the platform's "for you" algorithm last month, Elon Musk said the move was a victory for transparency. "We know the algorithm is dumb and needs massive improvements, but at least you can see us struggle to make it better in real-time and with transparency," Musk wrote. "No other social media companies do this."&#160;While it's true that X is the only major social network to make elements of its recommendation algorithm open source, researchers say that what the company has published doesn't offer the kind of transparency that would actually b...</description>
-    </item>
-    <item>
-      <title>The best iPad deals you can get right now</title>
-      <link>https://www.theverge.com/21280354/best-ipad-deals-apple</link>
-      <pubDate>2026-02-04T13:12:22-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/21280354/best-ipad-deals-apple</guid>
-      <description>While the best iPad deals usually land during major sale events like Black Friday,&#160;many great iPad deals are available outside of those times. The day-to-day discounts come and go like changing winds, so there&#8217;s often some amount to be saved, particularly on Apple&#8217;s most affordable iPad, the iPad Mini, and the latest iPad Air. Hell, [&#8230;]</description>
-    </item>
-    <item>
-      <title>7 privacy tips for your Android device to avoid prying eyes online and in person</title>
-      <link>https://www.techradar.com/phones/android/7-privacy-tips-for-your-android-device-to-avoid-prying-eyes-online-and-in-person</link>
-      <pubDate>Wed, 04 Feb 2026 18:11:12 +0000</pubDate>
-      <guid isPermaLink="false">y7KJ9czomF2DSdAwKPXBuV</guid>
-      <description>There are all sorts of tools available on Android to help protect your privacy, from VPNs to secure folders and beyond.</description>
-    </item>
-    <item>
-      <title>Tinder looks to AI to help fight &#8216;swipe fatigue&#8217; and dating app burnout</title>
-      <link>https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/</link>
-      <pubDate>Wed, 04 Feb 2026 18:08:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3089496</guid>
-      <description>Tinder is testing AI recommendations and insight from your Camera Roll for better matches.</description>
-    </item>
-    <item>
-      <title>You can pre-order the Pixel 10a on February 18</title>
-      <link>https://www.engadget.com/mobile/smartphones/you-can-pre-order-the-pixel-10a-on-february-18-180712018.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 18:07:12 +0000</pubDate>
-      <guid isPermaLink="false">e4f8c6e1-86f6-4eb6-8637-c5d65f1618d5</guid>
-      <description>The Pixel 10a is official, though details are limited. On Wednesday, Google posted a teaser video showing the mid-range phone dancing around colorful backgrounds. You can pre-order the Pixel 10a on February 18.
-Google hasn't yet revealed the phone's specs. In the short video, we can see a blue model that's virtually indistinguishable on the outside from the Pixel 9a. And alleged leaks point to a phone with few changes on the inside. That (unconfirmed) list includes a 6.285-inch display, dual rear cameras (48MP wide and 13MP ultra-wide) and a 5,100mAh battery. 
-
-
-
-
-  Google
- 
-
-The teaser's tagl...</description>
-    </item>
-    <item>
-      <title>Enormous Pair of Deep-Earth Hot &#8216;Blobs&#8217; Shape Earth&#8217;s Magnetic Field, Scientists Say</title>
-      <link>https://gizmodo.com/enormous-pair-of-deep-earth-hot-blobs-shape-earths-magnetic-field-scientists-say-2000717926</link>
-      <pubDate>Wed, 04 Feb 2026 18:05:16 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717926</guid>
-      <description>Without the blobs, Earth would be &#8220;magnetically dead,&#8221; the researchers said.</description>
-    </item>
-    <item>
-      <title>Google confirme le Pixel 10a et la date des pr&#233;commandes</title>
-      <link>https://www.01net.com/actualites/google-confirme-le-pixel-10a-et-la-date-des-precommandes.html</link>
-      <pubDate>Wed, 04 Feb 2026 18:01:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1324216</guid>
-      <description>Fid&#232;le &#224; sa r&#233;putation, Google a d&#233;cid&#233; de couper l'herbe sous le pied de la rumeur en d&#233;voilant le design du Pixel 10a et sa date de pr&#233;commande !</description>
-    </item>
-    <item>
-      <title>ExpressVPN deal: Two-year plans are up to 81 percent off</title>
-      <link>https://www.engadget.com/deals/expressvpn-deal-two-year-plans-are-up-to-81-percent-off-180602860.html?src=rss</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:35 +0000</pubDate>
-      <guid isPermaLink="false">ad6bc22c-2c6b-4ec4-832c-d6d9af119838</guid>
-      <description>If you're looking to up your privacy game on the internet in the new year, you can do so for a little less than usual thanks to ExpressVPN's latest deal. Its two-year plans are up to 81 percent off right now: the Advanced tier is on sale for $88 for two years, plus four additional free months. The Basic plan is where you'll see the biggest discount: it's $68 for two years, plus the same four additional free months.
-We&#8217;ve consistently liked ExpressVPN because it&#8217;s fast, easy to use and widely available across a large global server network. In fact, it's our current pick for best premium VPN. On...</description>
-    </item>
-    <item>
-      <title>Jacob Elordi&#8217;s Mom Told Him to Never Work With Guillermo del Toro for a Very Mom Reason</title>
-      <link>https://gizmodo.com/jacob-elordis-mom-told-him-to-never-work-with-guillermo-del-toro-for-a-very-mom-reason-2000717877</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717877</guid>
-      <description>Who among us hasn't broken a promise made to their own mother as a career move?</description>
-    </item>
-    <item>
-      <title>Test des realme Buds Clip : l&#8217;open-ear accessible qui ne manque pas de punch</title>
-      <link>https://www.frandroid.com/marques/2965263_test-des-realme-buds-clip-lopen-ear-accessible-qui-ne-manque-pas-de-punch</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/2965263_test-des-realme-buds-clip-lopen-ear-accessible-qui-ne-manque-pas-de-punch</guid>
-      <description>
-Avec ses premiers &#233;couteurs ouverts &#224; clip, realme s'invite sur un segment en pleine effervescence et propose une alternative &#233;conomique aux mastodontes du march&#233;. Mission accomplie.
-</description>
-    </item>
-    <item>
-      <title>Lunar Energy raises $232M to deploy home batteries that prop up the grid</title>
-      <link>https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/</link>
-      <pubDate>Wed, 04 Feb 2026 17:56:40 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3089505</guid>
-      <description>The startup has raised more than $500 million, to date, from investors to build a massive, distributed power plant supported by residential batteries.</description>
-    </item>
-    <item>
-      <title>Hackers publish personal information stolen during Harvard, UPenn data breaches</title>
-      <link>https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/</link>
-      <pubDate>Wed, 04 Feb 2026 17:56:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3089513</guid>
-      <description>The prolific cybercrime group ShinyHunters took responsibility for hacking Harvard and the University of Pennsylvania, and published the stolen data on its extortion website.</description>
-    </item>
-    <item>
-      <title>LG's new Dolby Atmos FlexConnect soundbar and speakers make Sonos' equivalents look stuck in the past &#8212; and now a price cut in some countries just hammers that fact home</title>
-      <link>https://www.techradar.com/televisions/soundbars/lgs-new-dolby-atmos-flexconnect-soundbar-and-speakers-make-sonos-equivalents-look-stuck-in-the-past-and-now-a-price-cut-in-some-countries-just-hammers-that-fact-home</link>
-      <pubDate>Wed, 04 Feb 2026 17:54:43 +0000</pubDate>
-      <guid isPermaLink="false">FvqCyyi5voF8kVTes4nVZ</guid>
-      <description>LG has announced a Suite price cut for its Dolby Atmos FlexConnect speakers in some locations</description>
-    </item>
-    <item>
-      <title>Can you cook eggs with an espresso machine? I tested 5 popular steam wand hacks to see how well they work &#8212; and how much mess they make</title>
-      <link>https://www.techradar.com/home/coffee-machines/can-you-cook-eggs-with-an-espresso-machine-i-tested-5-popular-steam-wand-hacks-to-see-how-well-they-work-and-how-much-mess-they-make</link>
-      <pubDate>Wed, 04 Feb 2026 17:54:33 +0000</pubDate>
-      <guid isPermaLink="false">y6mRt6XsJyKn9mmWeRbpAS</guid>
-      <description>How do you like your eggs in the morning? I tried these steam wand hacks, so you don't have to.</description>
-    </item>
-    <item>
-      <title>Dassault Syst&#232;mes lance 3 agents IA qui promettent de &#171;&#160;profond&#233;ment transformer l&#8217;industrie&#160;&#187;</title>
-      <link>https://www.01net.com/actualites/dassault-systemes-lance-3-agents-ia-qui-promettent-de-profondement-transformer-lindustrie.html</link>
-      <pubDate>Wed, 04 Feb 2026 17:53:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1323997</guid>
-      <description>Lundi 2 f&#233;vrier, la multinationale fran&#231;aise de logiciels lan&#231;ait sa grand-messe annuelle &#224; Houston au Texas : l'occasion d'acter le tournant du champion du &#171; jumeau num&#233;rique &#187; vers l'intelligence artificielle. La soci&#233;t&#233; va lancer trois &#171; compagnons IA &#187; qui permettront de &#171;&#160;virtualiser le savoir-faire d'une entreprise &#187;. Ils assisteront les ing&#233;nieurs et designers... sans les remplacer....</description>
-    </item>
-    <item>
-      <title>Ancient &#8216;Dial-a-Poem&#8217; Service Rises From the Grave, Lets You Use Your Phone as a Phone</title>
-      <link>https://gizmodo.com/ancient-dial-a-poem-service-rises-from-the-grave-lets-you-use-your-phone-as-a-phone-2000717930</link>
-      <pubDate>Wed, 04 Feb 2026 17:50:16 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000717930</guid>
-      <description>There's something rather poetic about a service designed to breathe life back into poetry getting resurrected after all these years.</description>
-    </item>
-    <item>
-      <title>'Companies that are not set up to quickly adopt AI workers will be at a huge disadvantage': OpenAI Sam Altman warns firms not to fall behind on AI - but notes 'it&#8217;s going to take a lot of work and some risk'</title>
-      <link>https://www.techradar.com/pro/companies-that-are-not-set-up-to-quickly-adopt-ai-workers-will-be-at-a-huge-disadvantage-openai-sam-altman-warns-firms-not-to-fall-behind-on-ai-but-notes-its-going-to-take-a-lot-of-work-and-some-risk</link>
-      <pubDate>Wed, 04 Feb 2026 17:50:00 +0000</pubDate>
-      <guid isPermaLink="false">8ApJUQjbAgP9bdDFteUXUG</guid>
-      <description>OpenAI CEO unsurprisingly positive about AI adoption - except if these headwinds spring up.</description>
-    </item>
-    <item>
-      <title>ChatGPT was having some issues &#8212; here's everything we know</title>
-      <link>https://www.techradar.com/news/live/chatgpt-openai-outage-down-february-4-2026</link>
-      <pubDate>Wed, 04 Feb 2026 17:44:39 +0000</pubDate>
-      <guid isPermaLink="false">iwNngPyUv8ZtnwHpUFGDFA</guid>
-      <description>Just a day after issues, ChatGPT is again experiencing a disruption with OpenAI confirming an active issue.</description>
     </item>
   </channel>
 </rss>
