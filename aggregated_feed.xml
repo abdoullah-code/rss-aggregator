@@ -3,13 +3,104 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 10 Feb 2026 21:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 22:46:30 GMT</lastBuildDate>
     <item>
-      <title>Fitbit expands access to its AI health coach</title>
+      <title>An ice dance duo skated to AI music at the Olympics</title>
+      <link>https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/</link>
+      <pubDate>Tue, 10 Feb 2026 22:31:13 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3091561</guid>
+      <description>Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.</description>
+    </item>
+    <item>
+      <title>Trump&#8217;s new &#8216;Buy American&#8217; requirement for EV charging would dramatically curtail build-out</title>
+      <link>https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds</link>
+      <pubDate>2026-02-10T17:30:54-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=876703</guid>
+      <description>It seems clear at this point to say that Donald Trump does not want to spend a single dime on EV charging. He tried to freeze $5 billion in funding for the National Electric Vehicle Infrastructure (NEVI) program, which was approved as part of the Bipartisan Infrastructure Law. And when a federal judge ordered the [&#8230;]</description>
+    </item>
+    <item>
+      <title>I tested the Philips turntable with a CD player squirrelled away in its plinth and honestly, for this money it's hard to argue with the versatility</title>
+      <link>https://www.techradar.com/audio/turntables/i-tested-the-philips-turntable-with-a-cd-player-squirrelled-away-in-its-plinth-and-honestly-for-this-money-its-hard-to-argue-with-the-versatility</link>
+      <pubDate>Tue, 10 Feb 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">yPLwiaxiAqaK9ECcgbLwaB</guid>
+      <description>In which Philips piles on the functionality without charging an arm and a leg &#8211;but is the Fidelio FT1 a music center for the 21st century?</description>
+    </item>
+    <item>
+      <title>Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE</title>
+      <link>https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/</link>
+      <pubDate>Tue, 10 Feb 2026 22:25:34 +0000</pubDate>
+      <guid isPermaLink="false">698b9c4b3b8fbecbbb8fcffc</guid>
+      <description>The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash.</description>
+    </item>
+    <item>
+      <title>OpenAI upgrades its Responses API to support agent skills and a complete terminal shell</title>
+      <link>https://venturebeat.com/orchestration/openai-upgrades-its-responses-api-to-support-agent-skills-and-a-complete</link>
+      <pubDate>Tue, 10 Feb 2026 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">1FJWgwlHKZ1jaa9voxzQJZ</guid>
+      <description>Until recently, the practice of building AI agents has been a bit like training a long-distance runner with a thirty-second memory. Yes, you could give your AI models tools and instructions, but after a few dozen interactions &#8212; several laps around the track, to extend our running analogy &#8212; it would inevitably lose context and start hallucinating. With OpenAI's latest updates to its Responses API &#8212; the application programming interface that allows developers on OpenAI's platform to access multiple agentic tools like web search and file search with a single call &#8212; the company is signaling that t...</description>
+    </item>
+    <item>
+      <title>Barely any Microsoft 365 users are actually paying for Copilot - despite Microsoft CEO Satya Nadella claiming it is 'a true daily habit.'</title>
+      <link>https://www.techradar.com/pro/barely-any-microsoft-365-users-are-actually-paying-for-copilot-despite-microsoft-ceo-satya-nadella-claiming-it-is-a-true-daily-habit</link>
+      <pubDate>Tue, 10 Feb 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">Y5TMx3fRMD9qsjsteAzGYa</guid>
+      <description>Microsoft claims rapid Copilot growth, yet only 3.3% of Microsoft 365 users pay, which raises questions over long-term AI investment returns.</description>
+    </item>
+    <item>
+      <title>Checking in on Polymarket: Bets on Christ&#8217;s Return Jump on Bets That Bets on Christ&#8217;s Return Will Jump</title>
+      <link>https://gizmodo.com/checking-in-on-polymarket-bets-on-christs-return-jump-on-bets-that-bets-on-christs-return-will-jump-2000720298</link>
+      <pubDate>Tue, 10 Feb 2026 22:15:35 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000720298</guid>
+      <description>Here's a prediction: this ends poorly.</description>
+    </item>
+    <item>
+      <title>Discord will soon require age verification to access adult content</title>
+      <link>https://www.engadget.com/social-media/discord-will-soon-require-age-verification-to-access-adult-content-140000218.html?src=rss</link>
+      <pubDate>Tue, 10 Feb 2026 22:08:11 +0000</pubDate>
+      <guid isPermaLink="false">16e72251-2944-4c39-8a63-dfa62eea200a</guid>
+      <description>Discord is the latest company looking to bolster its child safety (again). Starting in March, all users will have a "teen-appropriate experience" by default. Unlocking adult content and age-gated spaces will require a (usually one-time) verification process. However, following blowback, the company appears to have pivoted. It now says its age prediction AI will verify the identities of &#8220;the majority of adult users&#8221; without requiring a manual age check.The platform's big safety update encompasses communication settings, restricted access to age-gated spaces and content filtering. Users who aren...</description>
+    </item>
+    <item>
+      <title>Spotify Founder&#8217;s Drone Startup Wins German Military Contracts</title>
+      <link>https://gizmodo.com/spotify-favorite-drone-startup-wins-german-military-contracts-2000720249</link>
+      <pubDate>Tue, 10 Feb 2026 22:05:23 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000720249</guid>
+      <description>A Peter Thiel-backed drone maker is also in the contracts.</description>
+    </item>
+    <item>
+      <title>&#8216;Knight of the Seven Kingdoms&#8217; Is Using the &#8216;Game of Thrones&#8217; Theme Better Than &#8216;House of the Dragon&#8217; Ever Did</title>
+      <link>https://gizmodo.com/knight-of-the-seven-kingdoms-game-of-thrones-theme-2-2000720200</link>
+      <pubDate>Tue, 10 Feb 2026 22:00:27 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000720200</guid>
+      <description>Even with the poop joke. Especially with the poop joke, even.</description>
+    </item>
+    <item>
+      <title>Short-Track Speed Skating at Winter Olympics 2026 Free Streams: TV Channels, Schedule, Preview</title>
+      <link>https://www.techradar.com/how-to-watch/sport/short-track-speed-skating-at-winter-olympics-2026-free</link>
+      <pubDate>Tue, 10 Feb 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">CCFeQ6bEbZPz2fFD3VDfVA</guid>
+      <description>All the ways to watch Winter Olympics Short-Track Speed Skating 2026 live streams for FREE, with William Dandjinou and Arianna Fontana headlining the action.</description>
+    </item>
+    <item>
+      <title>Struggling to get started with your spring clean? IKEA has the perfect sunny accessories to give you the motivation you need &#8211; from $2</title>
+      <link>https://www.techradar.com/tech/struggling-to-get-started-with-your-spring-clean-ikea-has-the-perfect-sunny-accessories-to-give-you-the-motivation-you-need-from-usd2</link>
+      <pubDate>Tue, 10 Feb 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5tYsm89jWNgPiZzG4F5zZc</guid>
+      <description>Kit yourself out with these colorful caddies, cloths and cleaners to get your home in ship shape.</description>
+    </item>
+    <item>
+      <title>The NLRB just gave up on SpaceX workers who claim they were illegally fired</title>
+      <link>https://www.engadget.com/big-tech/the-nlrb-just-gave-up-on-spacex-workers-who-claim-they-were-illegally-fired-215332847.html?src=rss</link>
+      <pubDate>Tue, 10 Feb 2026 21:53:32 +0000</pubDate>
+      <guid isPermaLink="false">73857ef4-b7ce-4232-8a6e-c99d0551893a</guid>
+      <description>The National Labor Review Board (NLRB) has dropped a case accusing SpaceX of illegally firing eight employees who criticized the company's CEO Elon Musk, The New York Times. The employees were originally fired in 2022 after circulating a letter that referenced reports of Musk's sexual misconduct and called the executive "a frequent source of distraction and embarrassment." The NLRB filed a complaint claiming the firing was illegal in 2024.Originally, SpaceX's opposition to the NLRB's case was that the agency is unconstitutional, The New York Times writes. Complaints about the NLRB's independen...</description>
+    </item>
+    <item>
+      <title>Fitbit&#8217;s AI health coach is now available on your iPhone</title>
       <link>https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios</link>
       <pubDate>2026-02-10T16:42:19-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=876692</guid>
-      <description>Google announced on Tuesday that the public preview of Fitbit's AI personal health coach is rolling out to iOS users in the U.S. as well as both iOS and Android users in the UK, Canada, Australia, New Zealand, and Singapore. It initially launched in October, when it was only available in the U.S. on Android [&#8230;]</description>
+      <description>Google announced on Tuesday that the public preview of Fitbit's AI personal health coach is rolling out to iOS users in the U.S. as well as both iOS and Android users in the UK, Canada, Australia, New Zealand, and Singapore. The update tests a major overhaul of Fitbit's app, introducing a conversational interface with a [&#8230;]</description>
     </item>
     <item>
       <title>Arm's owner and Intel say their Z-Angle Memory, HBM-rival, will hit the market in 2029 - but I hope it won't be another Optane/3D-Xpoint, which caused Micron to lose millions</title>
@@ -33,11 +124,26 @@
       <description>The search giant announced new tools aimed at giving people more control over how their information appears online.</description>
     </item>
     <item>
+      <title>'Observational memory' cuts AI agent costs 10x and outscores RAG on long-context benchmarks</title>
+      <link>https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long</link>
+      <pubDate>Tue, 10 Feb 2026 21:30:00 GMT</pubDate>
+      <guid isPermaLink="false">6VCkpGbTP1RX96miGVFRMw</guid>
+      <description>RAG isn't always fast enough or intelligent enough for modern agentic AI workflows. As teams move from short-lived chatbots to long-running, tool-heavy agents embedded in production systems, those limitations are becoming harder to work around.In response, teams are experimenting with alternative memory architectures &#8212; sometimes called contextual memory or agentic memory &#8212; that prioritize persistence and stability over dynamic retrieval.One of the more recent implementations of this approach is "observational memory," an open-source technology developed by Mastra, which was founded by the engi...</description>
+    </item>
+    <item>
       <title>Boston Dynamics CEO&#160;Robert Playter&#160;steps&#160;down after 30 years at the company</title>
       <link>https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/</link>
       <pubDate>Tue, 10 Feb 2026 21:20:10 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3091693</guid>
       <description>Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.</description>
+    </item>
+    <item>
+      <title>TikTok&#8217;s trinket trading trend taps into the joy of being offline</title>
+      <link>https://www.fastcompany.com/91490547/tiktok-trinket-trading-trend-joy-being-offline</link>
+      <pubDate>2026-02-10T21:14:36</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91490547/tiktok-trinket-trading-trend-joy-being-offline</guid>
+      <description>The viral swap boxes echo a broader push toward analog hobbies and small moments of surprise beyond the screen.
+On a sidewalk, an unassuming junction box sits strapped to a fence. Inside, dozens of keychains, stickers, mini figurines, and other novelties wait to be discovered by eagle-eyed passersby or trinket traders who have traveled across the city to exchange their treasure....</description>
     </item>
     <item>
       <title>VC Masha Bucher, Epstein associate and Day One founder, explains herself</title>
@@ -66,170 +172,6 @@
       <pubDate>2026-02-10T15:49:40-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=876521</guid>
       <description>Ayaneo opened preorders for its next Windows 11 handheld and it looks like a powerhouse. The Ayaneo Next 2 is 13.45 inches wide, 10.3-inches tall, and weighs 3.14 pounds. That's more than twice as heavy as the original Ayaneo Next that launched back in 2022, and it easily outweighs the Steam Deck and Switch 2. [&#8230;]</description>
-    </item>
-    <item>
-      <title>Olympic Figure Skaters Get Heat for Using AI-Generated Music</title>
-      <link>https://gizmodo.com/olympic-figure-skaters-get-heat-for-using-ai-generated-music-2000720192</link>
-      <pubDate>Tue, 10 Feb 2026 20:45:10 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000720192</guid>
-      <description>"So you want the world to respect your art but don't give a shit about the art of music that helps you do it?"</description>
-    </item>
-    <item>
-      <title>The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating</title>
-      <link>https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/</link>
-      <pubDate>Tue, 10 Feb 2026 20:45:00 +0000</pubDate>
-      <guid isPermaLink="false">698b3cd301ac8aa5897ea131</guid>
-      <description>Are you speechless watching US figure skater Ilia Malinin on the ice? Science explains how it&#8217;s possible the Quad God can do more than four full rotations in the air.</description>
-    </item>
-    <item>
-      <title>Google sent personal and financial information of student journalist to ICE</title>
-      <link>https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/</link>
-      <pubDate>Tue, 10 Feb 2026 20:41:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3091670</guid>
-      <description>The tech giant handed over the personal information of a journalist and student who attended a pro-Palestinian protest in 2024. This is the latest example of ICE using its controversial subpoena powers to target people critical of the Trump administration.</description>
-    </item>
-    <item>
-      <title>Dan Trachtenberg&#8217;s Paramount Deal Doesn&#8217;t Kill His &#8216;Predator&#8217; Plans</title>
-      <link>https://gizmodo.com/dan-trachtenbergs-paramount-deal-doesnt-kill-his-predator-plans-2000720290</link>
-      <pubDate>Tue, 10 Feb 2026 20:32:54 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000720290</guid>
-      <description>The director of 'Prey' and 'Predator: Badlands' spoke to io9 about his filmmaking future.</description>
-    </item>
-    <item>
-      <title>Nearly half of xAI&#8217;s founding team has now left the company</title>
-      <link>https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/</link>
-      <pubDate>Tue, 10 Feb 2026 20:31:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3091548</guid>
-      <description>Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.</description>
-    </item>
-    <item>
-      <title>RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees</title>
-      <link>https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/</link>
-      <pubDate>Tue, 10 Feb 2026 20:30:28 +0000</pubDate>
-      <guid isPermaLink="false">6989ff959814f92797042bfb</guid>
-      <description>The site Realfood.gov uses Elon Musk&#8217;s Grok chatbot to dispense nutrition information&#8212;some of which contradicts the government&#8217;s new guidelines.</description>
-    </item>
-    <item>
-      <title>My favorite Switch 2 controller is 30 percent off for today only</title>
-      <link>https://www.theverge.com/gadgets/876544/easysmx-s10-switch-2-wireless-controller-deal-sale</link>
-      <pubDate>2026-02-10T15:27:22-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=876544</guid>
-      <description>The EasySMX S10 is a fantastic wireless controller for the Switch 2 that offers nearly as many features as Nintendo&#8217;s $90 gamepad. I ranked it as the best Switch 2 controller you can buy, thanks to its satisfying rumble sensation in games, support for motion controls as well as Nintendo&#8217;s amiibo NFC figures, plus the [&#8230;]</description>
-    </item>
-    <item>
-      <title>Largest Dictionary of English Slang Is Now Free Online to Help You Talk Like a Zoomer</title>
-      <link>https://gizmodo.com/largest-dictionary-of-english-slang-is-now-free-online-to-help-you-talk-like-a-zoomer-2000720203</link>
-      <pubDate>Tue, 10 Feb 2026 20:25:50 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000720203</guid>
-      <description>It'd probably help the New York Times, too.</description>
-    </item>
-    <item>
-      <title>'As adoption grows, confidence in safeguards must rise with it': Microsoft reveals new tool which can track backdoors in LLMs - and it's hoping this will restore trust in AI across the world</title>
-      <link>https://www.techradar.com/pro/as-adoption-grows-confidence-in-safeguards-must-rise-with-it-microsoft-reveals-new-tool-which-can-track-backdoors-in-llms-and-its-hoping-this-will-restore-trust-in-ai-across-the-world</link>
-      <pubDate>Tue, 10 Feb 2026 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">JyJCCcHGCogw63uCopmyWG</guid>
-      <description>Microsoft introduced a scanner that detects poisoned open-weight language models by analyzing attention behavior, memorization leaks, and trigger flexibility.</description>
-    </item>
-    <item>
-      <title>Bumble quietly removes option for men to message first in Mexico and Australia</title>
-      <link>https://mashable.com/article/bumble-quietly-removes-option-for-men-to-message-first-mexico-australia</link>
-      <pubDate>Tue, 10 Feb 2026 20:17:36 +0000</pubDate>
-      <guid isPermaLink="false">00ilEEjCC0MzTjHPgNDZLh3</guid>
-      <description>Bumble removes Opening Moves in Mexico and Australia, amid legal threats in the U.S.</description>
-    </item>
-    <item>
-      <title>Discord says &amp;#8216;vast majority&amp;#8217; of users won&amp;#8217;t see its new age verification setup</title>
-      <link>https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference</link>
-      <pubDate>2026-02-10T15:17:27-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=876575</guid>
-      <description>On Tuesday, Discord released an update clarifying that the "vast majority of people can continue using Discord exactly as they do today," without needing to use a face scan or ID to verify their age so they can use the platform without restrictions. Discord states in the post that "age prediction" using information Discord already [&#8230;]</description>
-    </item>
-    <item>
-      <title>Meta AI can now animate your Facebook profile picture</title>
-      <link>https://mashable.com/article/facebook-ai-profile-picture-meta</link>
-      <pubDate>Tue, 10 Feb 2026 20:15:59 +0000</pubDate>
-      <guid isPermaLink="false">02lPJ7W1L6o1crmSeDqn0z3</guid>
-      <description>Facebook will now let AI animate your profile picture. This one's for the Boomers.</description>
-    </item>
-    <item>
-      <title>Facebook is offering Meta AI-powered animations for profile photos</title>
-      <link>https://www.engadget.com/social-media/facebook-is-offering-meta-ai-powered-animations-for-profile-photos-201022506.html?src=rss</link>
-      <pubDate>Tue, 10 Feb 2026 20:10:22 +0000</pubDate>
-      <guid isPermaLink="false">17919990-988c-428f-8773-4eb8806058e9</guid>
-      <description>Meta has been going all in on AI, whether people want it or not, and now it's bringing more features in that vein to Facebook. The network's latest move is to let people use Meta AI to animate their profile photos. Because what better way to express your individuality than to use a pre-canned AI-generated animation on your own face?Meta AI is also coming for your Facebook Stories and Memories. The network's Restyle lets you use gen-AI to change up the aesthetic of your posts. You can once again use pre-canned stylings or give the AI assistant your own prompt.In the company's own words, the new...</description>
-    </item>
-    <item>
-      <title>Get two years of Surfshark VPN for up to 87 percent off</title>
-      <link>https://www.engadget.com/deals/get-two-years-of-surfshark-vpn-for-up-to-87-percent-off-123000309.html?src=rss</link>
-      <pubDate>Tue, 10 Feb 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">7b286225-32f8-41dc-9bc9-bf699f554c51</guid>
-      <description>If you&#8217;ve been thinking about signing up for a VPN, Surfshark has solid deals on its two-year plans right now. Surfshark&#8217;s One plan is 87 percent off right now when you pay for two years upfront, plus you&#8217;ll get three extra months free. That comes out to a total of $62 for the first 27 months of access.
-We&#8217;ve generally liked Surfshark as a straightforward, speedy service for everyday use, and it&#8217;s one of the picks in our guide to the best VPNs. In our Surfshark review, we found it delivered excellent speeds overall and reliably unblocked Netflix across most of our test servers, which makes thi...</description>
-    </item>
-    <item>
-      <title>Einstein avait donn&#233; la cl&#233; de l'&#233;nigme des exoplan&#232;tes Tatooines de Star Wars</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-einstein-avait-donne-cle-enigme-exoplanetes-tatooines-star-wars-130931/#xtor%3DRSS-8</link>
-      <pubDate>Tue, 10 Feb 2026 21:03:46 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-einstein-avait-donne-cle-enigme-exoplanetes-tatooines-star-wars-130931/#xtor%3DRSS-8</guid>
-      <description>Quand on pense &#224; la th&#233;orie de la relativit&#233; g&#233;n&#233;rale d'Einstein, on pense imm&#233;diatement aux trous noirs, aux trous de ver, et bien s&#251;r aux ondes gravitationnelles et au Big Bang. Pourtant, la premi&#232;re application de la th&#233;orie d'Einstein a &#233;t&#233; en m&#233;canique c&#233;leste, avec le mouvement des...</description>
-    </item>
-    <item>
-      <title>Pornhub traffic dipped during Bad Bunnys halftime show</title>
-      <link>https://mashable.com/article/pornhub-traffic-dipped-during-bad-bunny-super-bowl-halftime</link>
-      <pubDate>Tue, 10 Feb 2026 20:01:52 +0000</pubDate>
-      <guid isPermaLink="false">009ddBsPzaxk3tHgl0wTLx0</guid>
-      <description>Pornhub traffic dropped below average during the Super Bowl halftime show, hinting that viewers watched Bad Bunny instead.</description>
-    </item>
-    <item>
-      <title>The Brendan Fraser-Rachel Weisz &#8216;Mummy&#8217; Reunion Is Coming in 2028</title>
-      <link>https://gizmodo.com/mummy-4-release-date-brendan-fraser-rachel-weisz-2000720240</link>
-      <pubDate>Tue, 10 Feb 2026 20:00:11 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000720240</guid>
-      <description>The much-anticipated fourth 'Mummy' film will be directed by Matt Bettinelli-Olpin and Tyler Gillett and now has a release date to look forward to.</description>
-    </item>
-    <item>
-      <title>A cure for the memory crisis? John Carmack envisions fiber cables replacing RAM for AI usage, which would mean a better future for us all</title>
-      <link>https://www.techradar.com/computing/memory/a-cure-for-the-memory-crisis-john-carmack-envisions-fiber-cables-replacing-ram-for-ai-usage-which-would-mean-a-better-future-for-us-all</link>
-      <pubDate>Tue, 10 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">UjW4yFuQ8sp94CWcce8i9a</guid>
-      <description>Fiber aside, there could be a nearer-term way of alleviating the memory crisis, too.</description>
-    </item>
-    <item>
-      <title>4 bargain-priced soundbars that will instantly upgrade your TV's disappointing built-in sound &#8212; without breaking the bank</title>
-      <link>https://www.techradar.com/televisions/soundbars/4-bargain-priced-soundbars-that-will-instantly-upgrade-your-tvs-disappointing-built-in-sound-without-breaking-the-bank</link>
-      <pubDate>Tue, 10 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dobCKMwWRiGya2zCUgX38K</guid>
-      <description>Put more boom in your room with these cut-price soundbar deals, including Dolby Atmos options</description>
-    </item>
-    <item>
-      <title>SmarterTools network breached using auth-bypass attack against single unpatched virtual machine</title>
-      <link>https://www.techradar.com/pro/security/smartertools-network-breached-using-auth-bypass-attack-against-single-unpatched-virtual-machine</link>
-      <pubDate>Tue, 10 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">U8r9evWkPHukY5LyxZuHGe</guid>
-      <description>Just one neglected server was enough to suffer a ransomware infection but this time, the damage was minimal.</description>
-    </item>
-    <item>
-      <title>Target CEO shuffles leadership team as his first big move after taking over</title>
-      <link>https://www.fastcompany.com/91490437/target-michael-fiddelke-sales</link>
-      <pubDate>2026-02-10T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91490437/target-michael-fiddelke-sales</guid>
-      <description>It is the first substantial change under CEO Michael Fiddelke, a 20-year company veteran who took over for Brian Cornell this month. 
-Target CEO Michael Fiddelke is reshuffling his leadership team and making other changes shortly after stepping into the top job at the retailer that has struggled operationally.</description>
-    </item>
-    <item>
-      <title>Palantir CEO Alex Karp Recorded a Video About ICE for His Employees</title>
-      <link>https://www.wired.com/story/palantir-ceo-alex-karp-employee-questions-on-ice/</link>
-      <pubDate>Tue, 10 Feb 2026 19:53:58 +0000</pubDate>
-      <guid isPermaLink="false">6986287b89651d97f0bdbbac</guid>
-      <description>In a video shared with Palantir employees, Alex Karp did not explain how ICE is utilizing the company&#8217;s products. Instead, workers were told they can sign NDAs if they want detailed information.</description>
-    </item>
-    <item>
-      <title>Paramount sweetens its bid for Warner Bros. Discovery with &#8216;additional benefits&#8217;</title>
-      <link>https://www.fastcompany.com/91490430/warner-bros-netflix-paramount-hollywood</link>
-      <pubDate>2026-02-10T19:49:46</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91490430/warner-bros-netflix-paramount-hollywood</guid>
-      <description>The new March 2 deadline marks the third time Paramount has pushed back the expiration of its tender offer.
-Paramount is again sweetening its&#160;hostile takeover bid&#160;for Warner Bros. Discovery, while again extending the deadline for its tender offer as it scrambles for more shareholder support.</description>
     </item>
   </channel>
 </rss>
