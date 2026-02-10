@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 10 Feb 2026 20:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 21:48:41 GMT</lastBuildDate>
+    <item>
+      <title>Fitbit expands access to its AI health coach</title>
+      <link>https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios</link>
+      <pubDate>2026-02-10T16:42:19-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=876692</guid>
+      <description>Google announced on Tuesday that the public preview of Fitbit's AI personal health coach is rolling out to iOS users in the U.S. as well as both iOS and Android users in the UK, Canada, Australia, New Zealand, and Singapore. It initially launched in October, when it was only available in the U.S. on Android [&#8230;]</description>
+    </item>
+    <item>
+      <title>Arm's owner and Intel say their Z-Angle Memory, HBM-rival, will hit the market in 2029 - but I hope it won't be another Optane/3D-Xpoint, which caused Micron to lose millions</title>
+      <link>https://www.techradar.com/pro/arms-owner-and-intel-say-their-z-angle-memory-hbm-rival-will-hit-the-market-in-2029-but-i-hope-it-wont-be-another-optane-3d-xpoint-one-that-caused-micron-to-lose-millions</link>
+      <pubDate>Tue, 10 Feb 2026 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">PG4xgo5RyucDhdAtTqRPdg</guid>
+      <description>Z-Angle Memory could rival HBM, yet previous failures like Optane show hundreds of millions in potential financial losses.</description>
+    </item>
+    <item>
+      <title>My most anticipated upcoming phone isn't this year's iPhone, it's a Chinese flagship filled with one-of-a-kind features</title>
+      <link>https://www.techradar.com/phones/xiaomi-phones/my-most-anticipated-upcoming-phone-isnt-this-years-iphone-its-a-chinese-flagship-filled-with-one-of-a-kind-features</link>
+      <pubDate>Tue, 10 Feb 2026 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">ctCMzLQuj48dHNiDCDMziR</guid>
+      <description>I'm not looking forward to the next iPhone, but this Chinese flagship has really caught my eye.</description>
+    </item>
+    <item>
+      <title>Google Now Lets Users Remove Explicit Images and Other Personal Info From Search Results</title>
+      <link>https://gizmodo.com/google-now-lets-users-remove-explicit-images-and-other-personal-info-from-search-results-2000720317</link>
+      <pubDate>Tue, 10 Feb 2026 21:30:25 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000720317</guid>
+      <description>The search giant announced new tools aimed at giving people more control over how their information appears online.</description>
+    </item>
+    <item>
+      <title>Boston Dynamics CEO&#160;Robert Playter&#160;steps&#160;down after 30 years at the company</title>
+      <link>https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/</link>
+      <pubDate>Tue, 10 Feb 2026 21:20:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3091693</guid>
+      <description>Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.</description>
+    </item>
+    <item>
+      <title>VC Masha Bucher, Epstein associate and Day One founder, explains herself</title>
+      <link>https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/</link>
+      <pubDate>Tue, 10 Feb 2026 21:07:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3091632</guid>
+      <description>After numerous news reports documented Masha Bucher's close business and personal relationship with convicted sex offender Jeffrey Epstein, Bucher took to X to explain.</description>
+    </item>
+    <item>
+      <title>The Trump Phone Looks as Bad as It Sounds</title>
+      <link>https://gizmodo.com/the-trump-phone-looks-as-bad-as-it-sounds-2000720184</link>
+      <pubDate>Tue, 10 Feb 2026 21:00:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000720184</guid>
+      <description>The first real glimpse of the Trump phone confirms what we already suspected.</description>
+    </item>
+    <item>
+      <title>F1 2026 Bahrain pre-season testing live streams: how to watch online from anywhere in the world</title>
+      <link>https://www.techradar.com/how-to-watch/formula-one/f1-2026-bahrain-pre-season-testing-live-streams</link>
+      <pubDate>Tue, 10 Feb 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">p2ofJGp7wJjzCEyk6stP9B</guid>
+      <description>Here's how to watch the F1 2026 Bahrain pre-season testing. Stream all the live action from the two three-day tests at the Bahrain International Circuit.</description>
+    </item>
     <item>
       <title>Ayaneo&#8217;s new Windows handheld will cost up to $4,299 with maxed out specs</title>
       <link>https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder</link>
@@ -44,14 +100,14 @@
       <link>https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/</link>
       <pubDate>Tue, 10 Feb 2026 20:31:51 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3091548</guid>
-      <description>Out of the twelve-person founding team, only seven are still at the company (counting Elon).</description>
+      <description>Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.</description>
     </item>
     <item>
       <title>RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees</title>
       <link>https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/</link>
       <pubDate>Tue, 10 Feb 2026 20:30:28 +0000</pubDate>
       <guid isPermaLink="false">6989ff959814f92797042bfb</guid>
-      <description>The site Realfood.gov uses Elon Musk's Grok chatbot to dispense nutrition information&#8212;some of which contradicts the government&#8217;s new guidelines.</description>
+      <description>The site Realfood.gov uses Elon Musk&#8217;s Grok chatbot to dispense nutrition information&#8212;some of which contradicts the government&#8217;s new guidelines.</description>
     </item>
     <item>
       <title>My favorite Switch 2 controller is 30 percent off for today only</title>
@@ -75,11 +131,25 @@
       <description>Microsoft introduced a scanner that detects poisoned open-weight language models by analyzing attention behavior, memorization leaks, and trigger flexibility.</description>
     </item>
     <item>
+      <title>Bumble quietly removes option for men to message first in Mexico and Australia</title>
+      <link>https://mashable.com/article/bumble-quietly-removes-option-for-men-to-message-first-mexico-australia</link>
+      <pubDate>Tue, 10 Feb 2026 20:17:36 +0000</pubDate>
+      <guid isPermaLink="false">00ilEEjCC0MzTjHPgNDZLh3</guid>
+      <description>Bumble removes Opening Moves in Mexico and Australia, amid legal threats in the U.S.</description>
+    </item>
+    <item>
       <title>Discord says &amp;#8216;vast majority&amp;#8217; of users won&amp;#8217;t see its new age verification setup</title>
       <link>https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference</link>
       <pubDate>2026-02-10T15:17:27-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=876575</guid>
       <description>On Tuesday, Discord released an update clarifying that the "vast majority of people can continue using Discord exactly as they do today," without needing to use a face scan or ID to verify their age so they can use the platform without restrictions. Discord states in the post that "age prediction" using information Discord already [&#8230;]</description>
+    </item>
+    <item>
+      <title>Meta AI can now animate your Facebook profile picture</title>
+      <link>https://mashable.com/article/facebook-ai-profile-picture-meta</link>
+      <pubDate>Tue, 10 Feb 2026 20:15:59 +0000</pubDate>
+      <guid isPermaLink="false">02lPJ7W1L6o1crmSeDqn0z3</guid>
+      <description>Facebook will now let AI animate your profile picture. This one's for the Boomers.</description>
     </item>
     <item>
       <title>Facebook is offering Meta AI-powered animations for profile photos</title>
@@ -104,6 +174,13 @@ We&#8217;ve generally liked Surfshark as a straightforward, speedy service for e
       <description>Quand on pense &#224; la th&#233;orie de la relativit&#233; g&#233;n&#233;rale d'Einstein, on pense imm&#233;diatement aux trous noirs, aux trous de ver, et bien s&#251;r aux ondes gravitationnelles et au Big Bang. Pourtant, la premi&#232;re application de la th&#233;orie d'Einstein a &#233;t&#233; en m&#233;canique c&#233;leste, avec le mouvement des...</description>
     </item>
     <item>
+      <title>Pornhub traffic dipped during Bad Bunnys halftime show</title>
+      <link>https://mashable.com/article/pornhub-traffic-dipped-during-bad-bunny-super-bowl-halftime</link>
+      <pubDate>Tue, 10 Feb 2026 20:01:52 +0000</pubDate>
+      <guid isPermaLink="false">009ddBsPzaxk3tHgl0wTLx0</guid>
+      <description>Pornhub traffic dropped below average during the Super Bowl halftime show, hinting that viewers watched Bad Bunny instead.</description>
+    </item>
+    <item>
       <title>The Brendan Fraser-Rachel Weisz &#8216;Mummy&#8217; Reunion Is Coming in 2028</title>
       <link>https://gizmodo.com/mummy-4-release-date-brendan-fraser-rachel-weisz-2000720240</link>
       <pubDate>Tue, 10 Feb 2026 20:00:11 +0000</pubDate>
@@ -111,18 +188,18 @@ We&#8217;ve generally liked Surfshark as a straightforward, speedy service for e
       <description>The much-anticipated fourth 'Mummy' film will be directed by Matt Bettinelli-Olpin and Tyler Gillett and now has a release date to look forward to.</description>
     </item>
     <item>
-      <title>4 bargain-priced soundbars that will instantly upgrade your TV's disappointing built-in sound &#8212; without breaking the bank</title>
-      <link>https://www.techradar.com/televisions/soundbars/4-bargain-priced-soundbars-that-will-instantly-upgrade-your-tvs-disappointing-built-in-sound-without-breaking-the-bank</link>
-      <pubDate>Tue, 10 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dobCKMwWRiGya2zCUgX38K</guid>
-      <description>Put more boom in your room with these cut-price soundbar deals, including Dolby Atmos options</description>
-    </item>
-    <item>
       <title>A cure for the memory crisis? John Carmack envisions fiber cables replacing RAM for AI usage, which would mean a better future for us all</title>
       <link>https://www.techradar.com/computing/memory/a-cure-for-the-memory-crisis-john-carmack-envisions-fiber-cables-replacing-ram-for-ai-usage-which-would-mean-a-better-future-for-us-all</link>
       <pubDate>Tue, 10 Feb 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">UjW4yFuQ8sp94CWcce8i9a</guid>
       <description>Fiber aside, there could be a nearer-term way of alleviating the memory crisis, too.</description>
+    </item>
+    <item>
+      <title>4 bargain-priced soundbars that will instantly upgrade your TV's disappointing built-in sound &#8212; without breaking the bank</title>
+      <link>https://www.techradar.com/televisions/soundbars/4-bargain-priced-soundbars-that-will-instantly-upgrade-your-tvs-disappointing-built-in-sound-without-breaking-the-bank</link>
+      <pubDate>Tue, 10 Feb 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dobCKMwWRiGya2zCUgX38K</guid>
+      <description>Put more boom in your room with these cut-price soundbar deals, including Dolby Atmos options</description>
     </item>
     <item>
       <title>SmarterTools network breached using auth-bypass attack against single unpatched virtual machine</title>
@@ -153,96 +230,6 @@ Target CEO Michael Fiddelke is reshuffling his leadership team and making other 
       <guid isPermaLink="false">https://www.fastcompany.com/91490430/warner-bros-netflix-paramount-hollywood</guid>
       <description>The new March 2 deadline marks the third time Paramount has pushed back the expiration of its tender offer.
 Paramount is again sweetening its&#160;hostile takeover bid&#160;for Warner Bros. Discovery, while again extending the deadline for its tender offer as it scrambles for more shareholder support.</description>
-    </item>
-    <item>
-      <title>Le robot humano&#239;de de Xpeng chute lourdement lors d&#8217;une d&#233;monstration &#224; Shenzhen</title>
-      <link>https://www.frandroid.com/marques/2973023_le-robot-humanoide-de-xpeng-chute-lourdement-lors-dune-demonstration-a-shenzhen</link>
-      <pubDate>Tue, 10 Feb 2026 19:47:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/2973023_le-robot-humanoide-de-xpeng-chute-lourdement-lors-dune-demonstration-a-shenzhen</guid>
-      <description>
-&#192; Shenzhen, le robot Iron de Xpeng s'est effondr&#233; en pleine d&#233;monstration devant une foule compacte.
-</description>
-    </item>
-    <item>
-      <title>FBI releases recovered footage from Nancy Guthrie&amp;#8217;s Nest cam</title>
-      <link>https://www.theverge.com/tech/876542/fbi-nancy-guthrie-nest-cam-video</link>
-      <pubDate>2026-02-10T14:43:46-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=876542</guid>
-      <description>More than a week after Nancy Guthrie disappeared, the FBI has released footage from a Nest camera by Guthrie's front door. FBI Director Kash Patel says on X that law enforcement has been working with "private sector partners" and that the video was "recovered from residual data located in backend systems." Google spokesperson Patrick Seybold [&#8230;]</description>
-    </item>
-    <item>
-      <title>Here&#8217;s how Rivian changed the rear door manual release on the R2</title>
-      <link>https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/</link>
-      <pubDate>Tue, 10 Feb 2026 19:38:54 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3091502</guid>
-      <description>Rivian, along with other automakers, has been under pressure to make the manual door releases easier to access. The new R2 SUV does that &#8212; here's how.</description>
-    </item>
-    <item>
-      <title>Facebook adds new AI features, animated profile photos, and backgrounds for text posts</title>
-      <link>https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/</link>
-      <pubDate>Tue, 10 Feb 2026 19:34:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3091608</guid>
-      <description>Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add  backgrounds to text posts.</description>
-    </item>
-    <item>
-      <title>Pensions Bet That Google Will Still Be Raking in Cash a Hundred Years From Now</title>
-      <link>https://gizmodo.com/pensions-bet-that-google-will-still-be-raking-in-cash-a-hundred-years-from-now-2000720177</link>
-      <pubDate>Tue, 10 Feb 2026 19:30:14 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000720177</guid>
-      <description>Long live Google. Your pension might depend on it.</description>
-    </item>
-    <item>
-      <title>Here are 15 last-minute tech gadgets from Amazon that I'd actually want to receive for Valentine's Day</title>
-      <link>https://www.techradar.com/tech/here-are-15-last-minute-tech-gadgets-from-amazon-that-id-actually-want-to-receive-for-valentines-day</link>
-      <pubDate>Tue, 10 Feb 2026 19:25:48 +0000</pubDate>
-      <guid isPermaLink="false">qKuQwZQV6UPrrnCY8jhNRW</guid>
-      <description>Forget flowers and chocolates - I'm rounding up 15 last-minute tech gadget gifts for Valentine's Day that I'd actually want to receive this year.</description>
-    </item>
-    <item>
-      <title>Mike Flanagan Has His Next Stephen King Adaptation: &#8216;The Mist&#8217;</title>
-      <link>https://gizmodo.com/mike-flanagan-has-his-next-stephen-king-adaptation-the-mist-2000720205</link>
-      <pubDate>Tue, 10 Feb 2026 19:10:32 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000720205</guid>
-      <description>Yes, there was already a movie and a show, but now we're getting a new take on the story.</description>
-    </item>
-    <item>
-      <title>This Itch.io bundle to help Minnesota includes over 1,200 games and costs just $10</title>
-      <link>https://www.engadget.com/gaming/this-itchio-bundle-to-help-minnesota-includes-over-1200-games-and-costs-just-10-190643987.html?src=rss</link>
-      <pubDate>Tue, 10 Feb 2026 19:06:43 +0000</pubDate>
-      <guid isPermaLink="false">8a962fc9-017d-499a-974f-a47c5fe9dfc2</guid>
-      <description>You have likely heard about the masked agents of ICE mucking around in Minnesota for the past few months, resulting in numerous violent incidents and deaths. Itch.io is hosting a bundle to help raise money for the Immigrant Law Center of Minnesota, which was organized by charity creator Jes Wade.
-The No ICE in Minnesota bundle includes nearly 1,300 video games and tabletop games and costs just $10, though those with deep pockets can certainly donate more than that. It has a goal of $100,000, which it certainly is on pace to meet.
-
-There are some nifty titles here, particularly for those intere...</description>
-    </item>
-    <item>
-      <title>I made the switch to 4K Blu-ray and have never looked back &#8212; these are the discs I'd recommend above all others</title>
-      <link>https://www.techradar.com/televisions/blu-ray/i-made-the-switch-to-4k-blu-ray-and-have-never-looked-back-these-are-the-discs-id-recommend-above-all-others</link>
-      <pubDate>Tue, 10 Feb 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Wi6eLJD3ELudwTFLsofm5d</guid>
-      <description>These six 4K UHD Blu-ray discs will make excellent additions to anyone's collection &#8211; whether you're new to the format or not.</description>
-    </item>
-    <item>
-      <title>Commerce Secretary Howard Lutnick admits to meeting Epstein, reversing previous claims</title>
-      <link>https://www.fastcompany.com/91490422/jeffrey-epstein-files-howard-lutnick</link>
-      <pubDate>2026-02-10T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91490422/jeffrey-epstein-files-howard-lutnick</guid>
-      <description>Lutnick is the highest-profile U.S. official to face bipartisan calls for his resignation amid revelations of his ties to Epstein.
-Under questioning from Democrats Tuesday, Commerce Secretary&#160;Howard Lutnick&#160;acknowledged that he had met with&#160;Jeffrey Epstein&#160;twice after his 2008 conviction for soliciting prostitution from a child, reversing Lutnick&#8217;s previous claim that he had cut ties with the late financier after 2005....</description>
-    </item>
-    <item>
-      <title>Sam Bankman-Fried wants a re-trial for fraud charges</title>
-      <link>https://www.engadget.com/big-tech/sam-bankman-fried-wants-a-re-trial-for-fraud-charges-185910093.html?src=rss</link>
-      <pubDate>Tue, 10 Feb 2026 18:59:10 +0000</pubDate>
-      <guid isPermaLink="false">80604916-f793-44fc-bef5-f2557d9766d3</guid>
-      <description>Former cryptocurrency poster boy Sam Bankman-Fried is trying to get another chance in court. He has filed a request that for a new trial on claims that new witness testimony could alter the case made against him by prosecutors, according to Bloomberg. His odds for getting the re-trial, where he'd be representing himself, seem pretty slim. This is a separate motion from a formal appeal of his previous conviction.Bankman-Fried is one of many cryptocurrency leaders who have since been prosecuted for fraud. After being jailed for witness tampering, he was found guilty of seven charges of fraud and...</description>
-    </item>
-    <item>
-      <title>La Russie annonce des restrictions sur Telegram pour &#171;&#160;violation&#160;&#187; de la loi</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-02-10/la-russie-annonce-des-restrictions-sur-telegram-pour-violation-de-la-loi.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Tue, 10 Feb 2026 13:55:53 -0500</pubDate>
-      <guid isPermaLink="false">c1a9f7de2d4732e987e38a5d142717f6</guid>
-      <description>Le fondateur de l&#8217;application Telegram a d&#233;nonc&#233; mardi les restrictions annonc&#233;es par les autorit&#233;s russes sur la messagerie, y voyant une atteinte &#224; la &#171;&#160;libert&#233; des citoyens&#160;&#187; et une tentative de forcer les Russes &#224; migrer vers une messagerie locale plus facile &#224; contr&#244;ler.</description>
     </item>
   </channel>
 </rss>
