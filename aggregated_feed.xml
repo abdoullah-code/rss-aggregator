@@ -3,13 +3,114 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 12 Feb 2026 21:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 22:36:44 GMT</lastBuildDate>
+    <item>
+      <title>&#8216;Uncanny Valley&#8217;: ICE&#8217;s Secret Expansion Plans, Palantir Workers&#8217; Ethical Concerns, and AI Assistants</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/</link>
+      <pubDate>Thu, 12 Feb 2026 22:12:42 +0000</pubDate>
+      <guid isPermaLink="false">698ba3e7357c15b942accd54</guid>
+      <description>In this episode of Uncanny Valley, our hosts dive into WIRED&#8217;s scoop about a secret Trump administration campaign extending right into your backyard.</description>
+    </item>
+    <item>
+      <title>Bafflingly, over half of Aussie households have said 'no thanks' to NBN Co's speedy new tiers</title>
+      <link>https://www.techradar.com/computing/wi-fi-broadband/bafflingly-over-half-of-aussie-households-have-said-no-thanks-to-nbn-cos-speedy-new-tiers</link>
+      <pubDate>Thu, 12 Feb 2026 22:11:30 +0000</pubDate>
+      <guid isPermaLink="false">XfZNvTmS8ZfqXVj489JoAN</guid>
+      <description>Despite NBN Co making it easier than ever to upgrade to a fast NBN plan, it seems millions of Australians have yet to jump on the bandwagon.</description>
+    </item>
+    <item>
+      <title>Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.</title>
+      <link>https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/</link>
+      <pubDate>Thu, 12 Feb 2026 22:10:55 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3092509</guid>
+      <description>"I really want to see a mass driver on the moon that is shooting AI satellites into deep space."</description>
+    </item>
+    <item>
+      <title>OpenAI President Defends Trump Donations, Refuses to Comment on ICE</title>
+      <link>https://gizmodo.com/openai-president-defends-trump-donations-refuses-to-comment-on-ice-2000721451</link>
+      <pubDate>Thu, 12 Feb 2026 22:10:41 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000721451</guid>
+      <description>Are you just an apolitical defender of AI if you give money to fascists?</description>
+    </item>
+    <item>
+      <title>NASA Puts 21-Year-Old Spacecraft on Pause to Keep It From Crashing Into Earth</title>
+      <link>https://gizmodo.com/nasa-puts-21-year-old-spacecraft-on-pause-to-keep-it-from-crashing-into-earth-2000721058</link>
+      <pubDate>Thu, 12 Feb 2026 22:00:15 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000721058</guid>
+      <description>A rescue mission could reach the gamma-ray observatory this summer.</description>
+    </item>
+    <item>
+      <title>&#8216;Scarlet&#8217; Is a Ravishing Vision Undercut by a Glib &#8216;Hamlet&#8217; Reimagining</title>
+      <link>https://gizmodo.com/scarlet-is-a-ravishing-vision-undercut-by-a-glib-hamlet-reimagining-2000720766</link>
+      <pubDate>Thu, 12 Feb 2026 22:00:09 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000720766</guid>
+      <description>Mamoru Hosoda&#8217;s medieval, isekai-adjacent epic about a princess&#8217;s brutal quest for revenge is now playing in theaters.</description>
+    </item>
+    <item>
+      <title>The iRobot takeover is complete &#8211; but it looks like the Roomba brand is clinging on to its US roots</title>
+      <link>https://www.techradar.com/home/robot-vacuums/the-irobot-takeover-is-complete-but-it-looks-like-the-roomba-brand-is-clinging-on-to-its-us-roots</link>
+      <pubDate>Thu, 12 Feb 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">heEhdzpLRTgght49LQnAFe</guid>
+      <description>Roomba's parent brand might have a new Chinese owner, but it's still a 'US-based global consumer robotics company'.</description>
+    </item>
+    <item>
+      <title>Nvidia&#8217;s new technique cuts LLM reasoning costs by 8x without losing accuracy</title>
+      <link>https://venturebeat.com/orchestration/nvidias-new-technique-cuts-llm-reasoning-costs-by-8x-without-losing-accuracy</link>
+      <pubDate>Thu, 12 Feb 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">4uwiSulnuX2fbk5g51xa4x</guid>
+      <description>Researchers at Nvidia have developed a technique that can reduce the memory costs of large language model reasoning by up to eight times. Their technique, called dynamic memory sparsification (DMS), compresses the key value (KV) cache, the temporary memory LLMs generate and store as they process prompts and reason through problems and documents.While researchers have proposed various methods to compress this cache before, most struggle to do so without degrading the model's intelligence. Nvidia's approach manages to discard much of the cache while maintaining (and in some cases improving) the ...</description>
+    </item>
+    <item>
+      <title>This Tiny Comet Pulled Off a First-of-Its-Kind Spin Flip</title>
+      <link>https://gizmodo.com/this-tiny-comet-pulled-off-a-first-of-its-kind-spin-flip-2000721172</link>
+      <pubDate>Thu, 12 Feb 2026 21:45:16 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000721172</guid>
+      <description>A fresh analysis of Comet 41P/Tuttle-Giacobini-Kres&#225;k observations suggests it abruptly reversed its spin after its last Earth flyby&#8212;an extreme and unprecedented change.</description>
+    </item>
+    <item>
+      <title>PlayStation State of Play February 2026: all the news and trailers</title>
+      <link>https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers</link>
+      <pubDate>2026-02-12T16:45:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=877875</guid>
+      <description>Strap in, because the next PlayStation event is going to be a long one. Sony&#8217;s latest State of Play &#8212; a showcase event for upcoming PS5 games &#8212; kicks off on February 12th at 5PM ET and it&#8217;ll last more than an hour. We don&#8217;t know what exactly will be shown. Sony says that the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Cursor claims more than 30,000 Nvidia engineers commit 3x more code and make coding 'a lot more fun than it used to be', but is it too good to be true?</title>
+      <link>https://www.techradar.com/pro/cursor-claims-more-than-30-000-nvidia-engineers-commit-3x-more-code-and-make-coding-a-lot-more-fun-than-it-used-to-be-but-is-it-too-good-to-be-true</link>
+      <pubDate>Thu, 12 Feb 2026 21:40:00 +0000</pubDate>
+      <guid isPermaLink="false">nyNWC3cHzKqpR76Zivt6JF</guid>
+      <description>Cursor claims Nvidia engineers produce three times more code using AI tools, yet industry observers remain skeptical about the quality and stability of the code.</description>
+    </item>
+    <item>
+      <title>Anthropic has vowed to pay for electricity price hikes from its data centers. Its plan is short on details</title>
+      <link>https://www.fastcompany.com/91492080/anthropic-has-vowed-to-pay-for-electricity-price-hikes-from-its-data-centers-its-plan-is-short-on-details</link>
+      <pubDate>2026-02-12T21:40:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91492080/anthropic-has-vowed-to-pay-for-electricity-price-hikes-from-its-data-centers-its-plan-is-short-on-details</guid>
+      <description>The Claude AI chatbot maker has joined a growing crop of tech companies that are promising to cover the rising costs of their power needs. 
+If you live near an AI data center, you may already be seeing higher electricity bills. But if that data center is for Anthropic, the AI company now says it will cover the price hikes consumers face.&#160;</description>
+    </item>
     <item>
       <title>Waymo Announces Its Next Generation of Robotaxis</title>
       <link>https://gizmodo.com/waymo-announces-its-next-generation-of-robotaxis-2000721463</link>
       <pubDate>Thu, 12 Feb 2026 21:30:12 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000721463</guid>
       <description>The company's newest driving system is key to its pans to expand into more cities this year.</description>
+    </item>
+    <item>
+      <title>Trump&#8217;s anti-DEI policies are hurting college-educated Black women</title>
+      <link>https://www.fastcompany.com/91490412/trumps-anti-dei-policies-are-hurting-college-educated-black-women</link>
+      <pubDate>2026-02-12T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91490412/trumps-anti-dei-policies-are-hurting-college-educated-black-women</guid>
+      <description>A new analysis captures how Black women have been impacted by Trump&#8217;s cuts to the federal workforce and attacks on diversity, equity, and inclusion.
+Faced with a sluggish job market, American workers got a bit of good news yesterday, with the release of the latest jobs report. Employers added 130,000 jobs in January&#8212;more job growth than the economy has seen in months&#8212;and the unemployment rate dropped ever-so-slightly to 4.3%. But not all workers stand to benefit equally from this surge in job creation.&#160;...</description>
+    </item>
+    <item>
+      <title>An AI agent just tried to shame a software engineer after he rejected its code</title>
+      <link>https://www.fastcompany.com/91492228/matplotlib-scott-shambaugh-opencla-ai-agent</link>
+      <pubDate>2026-02-12T21:21:27</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91492228/matplotlib-scott-shambaugh-opencla-ai-agent</guid>
+      <description>When a Matplotlib volunteer declined its pull request, the bot published a personal attack.
+Sign of the times: An AI agent autonomously wrote and published a personalized attack article against an open-source software maintainer after he rejected its code contribution. It might be the first documented case of an AI publicly shaming a person as retribution.&#160;...</description>
     </item>
     <item>
       <title>Researchers Jailbreak ChatGPT to Find Out Which State Has the Laziest People</title>
@@ -26,11 +127,11 @@
       <description>The absorbing new documentary draws on retro movies and vintage TV specials to give context to Britain&#8217;s fascination with folk horror.</description>
     </item>
     <item>
-      <title>More Americans than ever love being single. They feel penalized for it by our financial system</title>
+      <title>More Americans than ever love being single. But they feel penalized for it by our financial system</title>
       <link>https://www.fastcompany.com/91491830/single-people-want-financial-benefits-like-tax-breaks-and-healthcare</link>
       <pubDate>2026-02-12T20:45:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91491830/single-people-want-financial-benefits-like-tax-breaks-and-healthcare</guid>
-      <description>Being single is becoming a lifestyle, according to a new survey, with many saying they want &#8220;single-friendly&#8221; benefits like tax breaks.
+      <description>Being a &#8216;free agent&#8217; is becoming a lifestyle, according to a new survey, with many saying they want &#8216;single-friendly&#8217; benefits like tax breaks.
 Single this Valentine&#8217;s Day? You&#8217;re not alone. New research from The Harris Poll shows that nearly half of Americans (46%) are not in relationships&#8212;many of them on purpose.</description>
     </item>
     <item>
@@ -39,194 +140,6 @@ Single this Valentine&#8217;s Day? You&#8217;re not alone. New research from The
       <pubDate>Thu, 12 Feb 2026 20:37:43 +0000</pubDate>
       <guid isPermaLink="false">RoRfWFhJsgGjTKcUrnMZXU</guid>
       <description>Lego sets you can build together!</description>
-    </item>
-    <item>
-      <title>Didero lands $30M to put manufacturing procurement on &#8216;agentic&#8217; autopilot</title>
-      <link>https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/</link>
-      <pubDate>Thu, 12 Feb 2026 20:31:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3092627</guid>
-      <description>Didero functions as an agentic AI layer that sits on top of a company&#8217;s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.</description>
-    </item>
-    <item>
-      <title>After Two Years, the Apple Vision Pro Finally Has a YouTube App</title>
-      <link>https://gizmodo.com/after-two-years-the-apple-vision-pro-finally-has-a-youtube-app-2000721238</link>
-      <pubDate>Thu, 12 Feb 2026 20:30:07 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000721238</guid>
-      <description>It's been a long road, but the Vision Pro finally has the one thing you'd expect it to have at launch.</description>
-    </item>
-    <item>
-      <title>Apple Vision Pro finally gets an official YouTube app</title>
-      <link>https://mashable.com/article/apple-vision-pro-youtube-app</link>
-      <pubDate>Thu, 12 Feb 2026 20:21:15 +0000</pubDate>
-      <guid isPermaLink="false">03gYtpjra9HrVj2sPjBv0Dz</guid>
-      <description>Apple's augmented reality headset got a YouTube app only two years after launch.</description>
-    </item>
-    <item>
-      <title>World's largest monitor company designed a 4K 48-inch OLED dual-sided smart gaming display with metal feet, a magnetic power socket, and an Alienware-inspired sound system - but who will actually use it?</title>
-      <link>https://www.techradar.com/pro/worlds-largest-monitor-company-designed-a-4k-48-inch-oled-dual-sided-smart-gaming-display-with-metal-feet-a-magnetic-power-socket-and-an-alienware-inspired-sound-system-but-who-will-actually-use-it</link>
-      <pubDate>Thu, 12 Feb 2026 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">CebZPZsEZ2Qqve96EsJYTY</guid>
-      <description>GP TV introduces dual-sided 4K OLED display combining gaming design, immersive audio, safety features, and uncertain real-world practicality.</description>
-    </item>
-    <item>
-      <title>Anthropic raises another $30B in Series G, with a new value of $380B</title>
-      <link>https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/</link>
-      <pubDate>Thu, 12 Feb 2026 20:18:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3092578</guid>
-      <description>The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.</description>
-    </item>
-    <item>
-      <title>Long-term mortgage rate dips back to just above 6%</title>
-      <link>https://www.fastcompany.com/91492112/mortgage-rates-housing-interest-financing-home</link>
-      <pubDate>2026-02-12T20:17:15</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91492112/mortgage-rates-housing-interest-financing-home</guid>
-      <description>Mortgage rates have been trending lower for months.
-The average long-term U.S. mortgage rate is holding at just above 6% after reversing a modest uptick in recent weeks, just as the housing market closes in on the spring homebuying season.</description>
-    </item>
-    <item>
-      <title>These popular air purifiers are being recalled over a fire risk</title>
-      <link>https://www.fastcompany.com/91492028/aroeve-these-popular-air-purifiers-are-being-recalled-over-fire-risk</link>
-      <pubDate>2026-02-12T20:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91492028/aroeve-these-popular-air-purifiers-are-being-recalled-over-fire-risk</guid>
-      <description>About 191,000 units that were sold online are included in the recall.
-Airova is recalling 191,390 Aroeve air purifiers over concerns that they could &#8220;overheat and ignite, posing fire and burn hazards to consumers,&#8221; according to a recent&#160;notice&#160;from the Consumer Product Safety Commission (CPSC).</description>
-    </item>
-    <item>
-      <title>YouTube finally launches a dedicated app for Apple Vision Pro</title>
-      <link>https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/</link>
-      <pubDate>Thu, 12 Feb 2026 20:14:15 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3092625</guid>
-      <description>When Apple Vision Pro first came out two years ago, YouTube hesitated to release a dedicated app. Today is the day they officially launch one.</description>
-    </item>
-    <item>
-      <title>How to watch Latvia vs. USA in mens ice hockey online for free</title>
-      <link>https://mashable.com/article/latvia-usa-winter-ice-hockey-2026-live-stream-for-free</link>
-      <pubDate>Thu, 12 Feb 2026 20:01:14 +0000</pubDate>
-      <guid isPermaLink="false">027vHWoEI6tZ1m4V6kgFYeu</guid>
-      <description>How to watch ice hockey for free. Live stream Latvia vs. USA in men's ice hockey for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>The best wireless earbuds for 2026</title>
-      <link>https://www.engadget.com/audio/headphones/best-wireless-earbuds-120058222.html?src=rss</link>
-      <pubDate>Thu, 12 Feb 2026 20:00:35 +0000</pubDate>
-      <guid isPermaLink="false">52299dcd-39b7-3f30-8524-2c7d79d13daa</guid>
-      <description>Wireless earbuds are now the default option for everyday listening, whether you&#8217;re heading out for a commute, fitting in a workout or just watching videos at home. The best wireless earbuds combine reliable connectivity, comfortable fits and sound quality that holds up across music, calls and podcasts, all without the hassle of cables. Most are small enough to disappear into a pocket and pair quickly with phones, tablets and laptops.What sets one pair apart from another often comes down to priorities. Some earbuds lean heavily on active noise cancellation, while others focus on long battery li...</description>
-    </item>
-    <item>
-      <title>&#8216;Starfleet Academy&#8217; Decides Everyone Needs a Harsh Lesson</title>
-      <link>https://gizmodo.com/star-trek-starfleet-academy-episode-6-recap-2000721081</link>
-      <pubDate>Thu, 12 Feb 2026 20:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000721081</guid>
-      <description>'Come, Let's Away' brings 'Starfleet Academy' back to a more classically 'Star Trek' place, leveraging its young heroes in a compelling way.</description>
-    </item>
-    <item>
-      <title>Waymo Asks the DC Public to Pressure Their City Officials</title>
-      <link>https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/</link>
-      <pubDate>Thu, 12 Feb 2026 20:00:15 +0000</pubDate>
-      <guid isPermaLink="false">698e1bc7b5b458763ed07ddb</guid>
-      <description>Stuck in regulatory limbo, the self-driving-vehicle developer is encouraging residents of Washington, DC, to message public officials to help get its robotaxis onto roads.</description>
-    </item>
-    <item>
-      <title>Eureka Ergonomic Axion office chair review: an attractive mid-range throne with great ergonomic features</title>
-      <link>https://www.techradar.com/pro/eureka-ergonomic-axion-office-chair-review</link>
-      <pubDate>Thu, 12 Feb 2026 20:00:11 +0000</pubDate>
-      <guid isPermaLink="false">snEufawQjGn8DuWiAx7LAX</guid>
-      <description>The Axion office chair from Eureka is is a great do-it-all option, suitable for executives and gamers alike</description>
-    </item>
-    <item>
-      <title>Stranger Things: The First Shadow might finally stream on Netflix this year &#8212; here&#8217;s why it&#8217;s required watching for the next chapter in the series</title>
-      <link>https://www.techradar.com/streaming/netflix/stranger-things-the-first-shadow-might-finally-stream-on-netflix-this-year-heres-why-its-required-watching-for-the-next-chapter-in-the-series</link>
-      <pubDate>Thu, 12 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">f7dCkntd9gowKLNbt3duPV</guid>
-      <description>Stranger Things: The First Shadow is superb, and it might be coming Netflix.</description>
-    </item>
-    <item>
-      <title>CEOs are finally speaking out about ICE. Is corporate activism back?</title>
-      <link>https://www.fastcompany.com/91486110/ceos-are-finally-speaking-out-about-ice-is-corporate-activism-back</link>
-      <pubDate>2026-02-12T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91486110/ceos-are-finally-speaking-out-about-ice-is-corporate-activism-back</guid>
-      <description>A USC business professor explains the current landscape.
-For weeks, corporate leaders across the country largely stayed silent as immigration officers descended on the city of Minneapolis, eventually killing two civilians. In recent days, however, CEOs and prominent tech figures have slowly raised their voices in protest&#8212;though many of them have been careful not to mention President Trump by name or directly criticize ICE agents.&#160;...</description>
-    </item>
-    <item>
-      <title>Homes sales fell 8.4% in January despite lower mortgage rates</title>
-      <link>https://www.fastcompany.com/91492107/housing-home-sales-real-estate-home-prices</link>
-      <pubDate>2026-02-12T19:59:50</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91492107/housing-home-sales-real-estate-home-prices</guid>
-      <description>Sales fell 4.4% compared with January last year. 
-Sales of previously occupied U.S. homes fell sharply in January as higher home prices and possibly harsh winter weather kept many prospective homebuyers on the sidelines despite easing mortgage rates.</description>
-    </item>
-    <item>
-      <title>AI-generated docs arent covered by attorney-client privilege, judge says</title>
-      <link>https://mashable.com/article/ai-attorney-client-privilege-court-evidence</link>
-      <pubDate>Thu, 12 Feb 2026 19:58:34 +0000</pubDate>
-      <guid isPermaLink="false">00gtOoIqbyaT7k6DqCZjtom</guid>
-      <description>A district judge is allowing federal investigators to submit AI chat prompts and documents later sent to a lawyer, deciding they aren't protected by attorney-client privilege.</description>
-    </item>
-    <item>
-      <title>Cette com&#232;te va bient&#244;t fr&#244;ler le Soleil et pourrait devenir visible en plein jour</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-cette-comete-va-bientot-froler-soleil-pourrait-devenir-visible-plein-jour-131165/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 12 Feb 2026 20:57:59 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-cette-comete-va-bientot-froler-soleil-pourrait-devenir-visible-plein-jour-131165/#xtor%3DRSS-8</guid>
-      <description>La com&#232;te C/2026 A1 devrait passer pr&#232;s du Soleil d&#233;but avril et pourrait &#234;tre d&#233;truite &#224; cette occasion. Ce&#160;qui sera surtout l'opportunit&#233; de mener de nombreuses observations astronomiques sur un ph&#233;nom&#232;ne rarement vu par les t&#233;lescopes.</description>
-    </item>
-    <item>
-      <title>The best Presidents Day deals already live: Shop TVs, mattresses, Apple, streaming, and more</title>
-      <link>https://mashable.com/article/best-presidents-day-deals-2026</link>
-      <pubDate>Thu, 12 Feb 2026 19:53:38 +0000</pubDate>
-      <guid isPermaLink="false">07tYel4xRM9gau4PmpmtzjV</guid>
-      <description>Presidents' Day is one of the first major sales of the year and already we've spotted a ton of savings. Here are all the best deals from Amazon, Best Buy, and Walmart.</description>
-    </item>
-    <item>
-      <title>A Wave of Unexplained Bot Traffic Is Sweeping the Web</title>
-      <link>https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/</link>
-      <pubDate>Thu, 12 Feb 2026 19:50:44 +0000</pubDate>
-      <guid isPermaLink="false">698a90a4fbb792360a1da892</guid>
-      <description>From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.</description>
-    </item>
-    <item>
-      <title>These digital tools are stepping up the global fight against wildlife trafficking</title>
-      <link>https://www.fastcompany.com/91488633/these-digital-tools-are-stepping-up-the-global-fight-against-wildlife-trafficking</link>
-      <pubDate>2026-02-12T19:47:15</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91488633/these-digital-tools-are-stepping-up-the-global-fight-against-wildlife-trafficking</guid>
-      <description>No single technology will end wildlife trafficking, but these digital tools can enable a shift.
-In late 2025, Interpol coordinated a global operation across 134 nations, seizing roughly 30,000 live animals, confiscating illegal plant and timber products, and identifying about 1,100 suspected wildlife traffickers for national police to investigate.</description>
-    </item>
-    <item>
-      <title>27 beautiful beige-inspired home office finds for creating your calming, neutral workspace</title>
-      <link>https://www.techradar.com/pro/27-beautiful-beige-inspired-home-office-finds-for-creating-your-calming-neutral-workspace</link>
-      <pubDate>Thu, 12 Feb 2026 19:46:36 +0000</pubDate>
-      <guid isPermaLink="false">v35zbCwFRTTTXvPZx9RNK6</guid>
-      <description>From champagne beige to stone oat, this is the office furniture, desk accessories, and essential gadgets and decor to create the right vibe.</description>
-    </item>
-    <item>
-      <title>Est&#233;e Lauder tested products sold on Walmart&#8217;s site. What it found led to a lawsuit</title>
-      <link>https://www.fastcompany.com/91491776/estee-lauder-tested-products-sold-on-walmarts-site-what-it-found-led-to-a-lawsuit</link>
-      <pubDate>2026-02-12T19:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91491776/estee-lauder-tested-products-sold-on-walmarts-site-what-it-found-led-to-a-lawsuit</guid>
-      <description>The beauty giant alleges Walmart sold counterfeit skincare and fragrances online, including products from La Mer and Tom Ford.
-Est&#233;e Lauder has accused Walmart of selling counterfeit beauty goods on its website in a lawsuit filed in California federal court earlier this week that namechecks celebrities including Taylor Swift and Beyonc&#233;.&#160;</description>
-    </item>
-    <item>
-      <title>How to watch Hull City vs. Chelsea online for free</title>
-      <link>https://mashable.com/article/hull-city-chelsea-fa-cup-2026-live-stream-for-free</link>
-      <pubDate>Thu, 12 Feb 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">06rTB83V3cOJnvm8EmMPCQH</guid>
-      <description>How to watch FA Cup for free. Live stream Hull City vs. Chelsea in the FA Cup for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>EU reportedly opens another probe into Google's ads pricing</title>
-      <link>https://www.engadget.com/big-tech/eu-reportedly-opens-another-probe-into-googles-ads-pricing-194435095.html?src=rss</link>
-      <pubDate>Thu, 12 Feb 2026 19:44:35 +0000</pubDate>
-      <guid isPermaLink="false">e6edcaf1-ef18-4049-936c-6b1ee50f980c</guid>
-      <description>The European Commission has opened a new probe into Google, this time focused on the company's massive online advertising business, Bloomberg reports. European Union regulators have already fined Google billions for violating the Digital Markets Act, and being found guilty of anticompetitive behavior in online advertising could add to that total.While the Commission has yet to announce a formal investigation, Bloomberg writes that it has started contacting Google's customers and competitors for information about its dominance across multiple online advertising markets. Regulators are particula...</description>
-    </item>
-    <item>
-      <title>Romance scam red flags to look out for</title>
-      <link>https://mashable.com/article/romance-scammer-red-flags-to-look-out-for</link>
-      <pubDate>Thu, 12 Feb 2026 19:39:07 +0000</pubDate>
-      <guid isPermaLink="false">03Q2Dn1xWjs1PkKAqs4WxbX</guid>
-      <description>Romance cons are on the rise online, especially due to AI. Here are tips to avoid them.</description>
     </item>
   </channel>
 </rss>
