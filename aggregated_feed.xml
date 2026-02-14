@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 14 Feb 2026 22:29:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 23:29:39 GMT</lastBuildDate>
+    <item>
+      <title>Jikipedia turns Epstein&#8217;s emails into an encyclopedia of his powerful friends</title>
+      <link>https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia</link>
+      <pubDate>2026-02-14T17:33:02-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=879508</guid>
+      <description>The folks behind Jmail are at it again with a clone of Wikipedia that turns the treasure trove of data in Epstein's emails into detailed dossiers on his associates. Entries include known visits to Epstein's properties, possible knowledge of Epstein's crimes, and laws that they might have broken. The reports are dense, listing how many [&#8230;]</description>
+    </item>
+    <item>
+      <title>Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0</title>
+      <link>https://gizmodo.com/disney-sends-bytedance-an-ai-trophy-in-the-form-of-a-cease-and-desist-letter-over-seedance-2-0-2000722261</link>
+      <pubDate>Sat, 14 Feb 2026 22:30:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000722261</guid>
+      <description>ByteDance's video generator wins the prize for being the splashiest new AI model of the past few weeks.</description>
+    </item>
+    <item>
+      <title>Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts</title>
+      <link>https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/</link>
+      <pubDate>Sat, 14 Feb 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3093205</guid>
+      <description>The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.</description>
+    </item>
     <item>
       <title>Who remembers IRC? Clearly some hackers, as a new Linux botnet uses some incredibly old-school methods to cut costs</title>
       <link>https://www.techradar.com/pro/does-anyone-even-remember-irc-a-new-linux-botnet-uses-some-incredibly-old-school-methods-to-cut-costs</link>
@@ -17,35 +38,6 @@
       <pubDate>Sat, 14 Feb 2026 21:55:44 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3093200</guid>
       <description>Elon Musk is &#8220;actively&#8221; working to make xAI&#8217;s Grok chatbot &#8220;more unhinged, according to a former employee.</description>
-    </item>
-    <item>
-      <title>Holographic tape inches closer to mass market ahead of silica, ceramic media - 200TB WORM tech set to debut in 2027 after successful dry run in an LTO tape library</title>
-      <link>https://www.techradar.com/pro/holographic-tape-inches-closer-to-mass-market-ahead-of-silica-ceramic-media-200tb-worm-tech-set-to-debut-in-2027-after-successful-dry-run-in-an-lto-tape-library</link>
-      <pubDate>Sat, 14 Feb 2026 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">P4RzcPpLQQXgp77ZHz8E5h</guid>
-      <description>A live LTO library trial showed holographic tape can integrate into existing infrastructure, shifting credibility from theory toward deployable archival storage.</description>
-    </item>
-    <item>
-      <title>Tubi Becomes the New Cartoon Network Next Month</title>
-      <link>https://gizmodo.com/tubi-becomes-the-new-cartoon-network-next-month-2000722242</link>
-      <pubDate>Sat, 14 Feb 2026 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000722242</guid>
-      <description>If you've been nostalgic for some Cartoon Network classics like 'Kids Next Door' and 'Foster's,' Tubi's got you covered starting in March.</description>
-    </item>
-    <item>
-      <title>In a changed VC landscape, this exec is doubling down on overlooked founders</title>
-      <link>https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/</link>
-      <pubDate>Sat, 14 Feb 2026 20:37:42 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3092452</guid>
-      <description>As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days</description>
-    </item>
-    <item>
-      <title>Airbnb is testing out AI search with a 'small percentage' of users</title>
-      <link>https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html?src=rss</link>
-      <pubDate>Sat, 14 Feb 2026 20:30:54 +0000</pubDate>
-      <guid isPermaLink="false">774e5b92-56ca-4665-b558-c44ebe776ea9</guid>
-      <description>Airbnb plans to double down on artificial intelligence to improve its user experience for both guests and hosts. During a fourth-quarter earnings call, Airbnb's CEO, Brian Chesky, said the company is building an "AI-native experience" aimed at helping guests book trips, assisting hosts with their listings, and running the company more efficiently. According to Chesky, there's an AI search tool to help guests book trips that's live for a small percentage of users right now.
-In a shareholder letter posted on Airbnb's website, the company said it's conducting early testing with an AI-powered sear...</description>
     </item>
   </channel>
 </rss>
