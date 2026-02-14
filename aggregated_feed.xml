@@ -3,7 +3,53 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 14 Feb 2026 07:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 08:39:01 GMT</lastBuildDate>
+    <item>
+      <title>Adoption d&#8217;iOS 26&#160;: Apple confirme un l&#233;ger retard</title>
+      <link>https://www.01net.com/actualites/adoption-dios-26-apple-confirme-un-leger-retard.html</link>
+      <pubDate>Sat, 14 Feb 2026 08:30:04 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1326008</guid>
+      <description>C'est officiel : l'adoption d"iOS 26 est bien en retrait par rapport &#224; son pr&#233;d&#233;cesseur, iOS 18. De peu, mais la diff&#233;rence demeure tout de m&#234;me assez sensible.</description>
+    </item>
+    <item>
+      <title>Huawei fait perdre 100 &#8364; &#224; sa montre ultra haut gamme et corrige son gros d&#233;faut, le prix</title>
+      <link>https://www.frandroid.com/bons-plans/2974907_huawei-fait-perdre-100-e-a-sa-montre-ultra-haut-gamme-et-corrige-son-gros-defaut-le-prix</link>
+      <pubDate>Sat, 14 Feb 2026 08:28:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2974907_huawei-fait-perdre-100-e-a-sa-montre-ultra-haut-gamme-et-corrige-son-gros-defaut-le-prix</guid>
+      <description>
+Huawei renouvelle sa montre ultra haut de gamme : avec son design massif et &#233;l&#233;gant, ses fonctions pouss&#233;es pour la sant&#233; et son suivi sportif avanc&#233;, la Watch Ultimate 2 devient plus int&#233;ressante maintenant qu'elle passe de 899 euros &#224; 799 euros. 
+</description>
+    </item>
+    <item>
+      <title>Cyberattaques chinoises et Gemini&#160;: Google s&#8217;attend &#224; un &#171;&#160;coup dur&#160;&#187;</title>
+      <link>https://www.01net.com/actualites/cyberattaques-chinoises-gemini-google-sattend-coup-dur.html</link>
+      <pubDate>Sat, 14 Feb 2026 08:04:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1325541</guid>
+      <description>Les cyberattaques chinoises reposant sur Gemini se multiplient. Google a remarqu&#233; qu'un gang d'espions chinois avait pris l'habitude d'utiliser l'IA g&#233;n&#233;rative pour d&#233;busquer des failles de s&#233;curit&#233;. L&#8217;entreprise met en garde contre un &#171; prochain coup dur &#187; pour la cybers&#233;curit&#233;.</description>
+    </item>
+    <item>
+      <title>Meta pr&#233;pare une fonction secr&#232;te pour ses lunettes Ray-Ban, et c&#8217;est aussi impressionnant qu&#8217;inqui&#233;tant</title>
+      <link>https://www.frandroid.com/marques/meta/2977953_meta-prepare-une-fonction-secrete-pour-ses-lunettes-ray-ban-et-cest-aussi-impressionnant-quinquietant</link>
+      <pubDate>Sat, 14 Feb 2026 08:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/2977953_meta-prepare-une-fonction-secrete-pour-ses-lunettes-ray-ban-et-cest-aussi-impressionnant-quinquietant</guid>
+      <description>
+D'apr&#232;s les informations du New York Times, Meta compterait ajouter des fonctions de reconnaissance faciale sur ses lunettes connect&#233;es. La firme miserait sur le tumulte politique pour que cette nouveaut&#233; ne fasse pas de vagues. 
+</description>
+    </item>
+    <item>
+      <title>DJI&#8217;s first robovac is an autonomous cleaning drone you can&#8217;t trust</title>
+      <link>https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop</link>
+      <pubDate>2026-02-14T03:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/877012/the-latest-instax-printer-is-a-pricey-but-worthy-upgrade</guid>
+      <description>It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, DJI launched its very first robovacs in Europe. I've been testing the top-of-the-line Romo P model, which doesn't yet have a [&#8230;]</description>
+    </item>
+    <item>
+      <title>The DJI Romo robovac had security so poor, this man remotely accessed thousands of them</title>
+      <link>https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt</link>
+      <pubDate>2026-02-14T03:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=879088</guid>
+      <description>Sammy Azdoufal claims he wasn't trying to hack every robot vacuum in the world. He just wanted to remote control his brand-new DJI Romo vacuum with a PS5 gamepad, he tells The Verge, because it sounded fun. But when his homegrown remote control app started talking to DJI's servers, it wasn't just one vacuum cleaner [&#8230;]</description>
+    </item>
     <item>
       <title>Top 6 des applications pour identifier les plantes et mieux les conna&#238;tre</title>
       <link>https://www.01net.com/actualites/top-6-des-applications-pour-identifier-les-plantes-et-mieux-les-connaitre.html</link>
@@ -17,51 +63,6 @@
       <pubDate>Sat, 14 Feb 2026 07:20:00 +0000</pubDate>
       <guid isPermaLink="false">XJEhsE95XeWJurdCYH4Dr4</guid>
       <description>Designed for the development of and use of AI models, the Acer Veriton GN100 uses the Nvidia Blackwell architecture to deliver ultimate performance.</description>
-    </item>
-    <item>
-      <title>Avec son bonus d&#8217;hiver, EDF vous fait gagner jusqu&#8217;&#224; 100 euros sur votre facture d&#8217;&#233;nergie</title>
-      <link>https://www.frandroid.com/bons-plans/2975279_avec-son-bonus-dhiver-edf-vous-fait-gagner-jusqua-100-euros-sur-votre-facture-denergie</link>
-      <pubDate>Sat, 14 Feb 2026 06:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2975279_avec-son-bonus-dhiver-edf-vous-fait-gagner-jusqua-100-euros-sur-votre-facture-denergie</guid>
-      <description>
-Difficile de refuser de faire des &#233;conomies sur sa facture d'&#233;nergie. EDF l'a bien compris et propose son bonus d'hiver : jusqu'&#224; 100 euros rembours&#233;s pour tout nouveau contrat d'&#233;lectricit&#233; en offre de march&#233; et de gaz.
-</description>
-    </item>
-    <item>
-      <title>Nothing opens its first retail store in India</title>
-      <link>https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/</link>
-      <pubDate>Sat, 14 Feb 2026 06:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3092800</guid>
-      <description>The two-story location will sell products from Nothing and the more affordable, mass-market brand CMF.</description>
-    </item>
-    <item>
-      <title>How to watch England vs Scotland: Free Streams, TV Channels &amp; Preview for T20 World Cup 2026 match</title>
-      <link>https://www.techradar.com/how-to-watch/cricket/england-vs-scotland-t20-world-cup-2026-free</link>
-      <pubDate>Sat, 14 Feb 2026 06:15:00 +0000</pubDate>
-      <guid isPermaLink="false">mvSuuQrPBAmEqEN5R75Z9S</guid>
-      <description>Here's how to watch England vs Scotland T20 World Cup streams as qualification hopes are on the line.</description>
-    </item>
-    <item>
-      <title>Sony Promo Codes and Discounts: 45% Off</title>
-      <link>https://www.wired.com/story/sony-promo-code/</link>
-      <pubDate>Sat, 14 Feb 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">698f495a35011a6870d1abf0</guid>
-      <description>Upgrade your setup with Sony&#8217;s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.</description>
-    </item>
-    <item>
-      <title>'Our work for Milano-Cortina is helping create a new generation of network': HPE tells us what it takes to be the network backbone of the 2026 Winter Olympics</title>
-      <link>https://www.techradar.com/pro/our-work-for-milano-cortina-is-helping-create-a-new-generation-of-network-hpe-tells-us-what-it-takes-to-be-the-network-backbone-of-the-2026-winter-olympics</link>
-      <pubDate>Sat, 14 Feb 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R4exxeQoKyqXZBZMzU5p9T</guid>
-      <description>The most geographically-widespread Winter Olympics ever needs a next-gen network - HPE tells us why it is the only choice.</description>
-    </item>
-    <item>
-      <title>3 research-backed improv tricks to help manage stress</title>
-      <link>https://www.fastcompany.com/91484545/3-research-backed-improv-tricks-to-help-manage-stress</link>
-      <pubDate>2026-02-14T06:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91484545/3-research-backed-improv-tricks-to-help-manage-stress</guid>
-      <description>Here&#8217;s how improv-inspired practices can help regulate your nervous system, quiet your inner critic, and meet chaos with curiosity.
-Stress isn&#8217;t just an occasional visitor in our lives&#8212;it&#8217;s more the houseguest who never got the hint to leave. Between economic uncertainty, workplace upheaval, rounds of layoffs, and the delightful unpredictability of daily life (surprise traffic jams, anyone?), most of us are living in a near-constant state of low-grade panic....</description>
     </item>
   </channel>
 </rss>
