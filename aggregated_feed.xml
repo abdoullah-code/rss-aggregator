@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 14 Feb 2026 06:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:37:17 GMT</lastBuildDate>
+    <item>
+      <title>Top 6 des applications pour identifier les plantes et mieux les conna&#238;tre</title>
+      <link>https://www.01net.com/actualites/top-6-des-applications-pour-identifier-les-plantes-et-mieux-les-connaitre.html</link>
+      <pubDate>Sat, 14 Feb 2026 07:25:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1324621</guid>
+      <description>Balade improvis&#233;e avec des enfants ou v&#233;ritable f&#233;ru de randonn&#233;es en pleine nature, il est toujours int&#233;ressant de se documenter sur les plantes qui nous entourent. Petit tour d&#8217;horizon des meilleures applications qui permettent d&#8217;identifier les plantes.</description>
+    </item>
+    <item>
+      <title>Acer Veriton GN100 AI mini PC workstation - another AI development system using the same Nvidia Grace Blackwell foundations</title>
+      <link>https://www.techradar.com/computing/acer-veriton-gn100-ai-mini-pc-workstation-review</link>
+      <pubDate>Sat, 14 Feb 2026 07:20:00 +0000</pubDate>
+      <guid isPermaLink="false">XJEhsE95XeWJurdCYH4Dr4</guid>
+      <description>Designed for the development of and use of AI models, the Acer Veriton GN100 uses the Nvidia Blackwell architecture to deliver ultimate performance.</description>
+    </item>
     <item>
       <title>Avec son bonus d&#8217;hiver, EDF vous fait gagner jusqu&#8217;&#224; 100 euros sur votre facture d&#8217;&#233;nergie</title>
       <link>https://www.frandroid.com/bons-plans/2975279_avec-son-bonus-dhiver-edf-vous-fait-gagner-jusqua-100-euros-sur-votre-facture-denergie</link>
@@ -40,6 +54,14 @@ Difficile de refuser de faire des &#233;conomies sur sa facture d'&#233;nergie. 
       <pubDate>Sat, 14 Feb 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">R4exxeQoKyqXZBZMzU5p9T</guid>
       <description>The most geographically-widespread Winter Olympics ever needs a next-gen network - HPE tells us why it is the only choice.</description>
+    </item>
+    <item>
+      <title>3 research-backed improv tricks to help manage stress</title>
+      <link>https://www.fastcompany.com/91484545/3-research-backed-improv-tricks-to-help-manage-stress</link>
+      <pubDate>2026-02-14T06:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91484545/3-research-backed-improv-tricks-to-help-manage-stress</guid>
+      <description>Here&#8217;s how improv-inspired practices can help regulate your nervous system, quiet your inner critic, and meet chaos with curiosity.
+Stress isn&#8217;t just an occasional visitor in our lives&#8212;it&#8217;s more the houseguest who never got the hint to leave. Between economic uncertainty, workplace upheaval, rounds of layoffs, and the delightful unpredictability of daily life (surprise traffic jams, anyone?), most of us are living in a near-constant state of low-grade panic....</description>
     </item>
   </channel>
 </rss>
