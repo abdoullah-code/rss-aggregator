@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 15 Feb 2026 21:29:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 22:30:14 GMT</lastBuildDate>
+    <item>
+      <title>OpenClaw creator Peter Steinberger joins OpenAI</title>
+      <link>https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/</link>
+      <pubDate>Sun, 15 Feb 2026 22:28:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3093271</guid>
+      <description>OpenAI said OpenClaw will live on as an open source project.</description>
+    </item>
+    <item>
+      <title>Longtime NPR host David Greene sues Google over NotebookLM voice</title>
+      <link>https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/</link>
+      <pubDate>Sun, 15 Feb 2026 22:07:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3093266</guid>
+      <description>The longtime host of NPR&#8217;s &#8220;Morning Edition,&#8221; is suing Google, alleging that the male podcast voice in the company&#8217;s NotebookLM tool is based on him.</description>
+    </item>
     <item>
       <title>Samsung unveils new premium OLED monitor technology - but will 'tandem OLED' really make all that much difference?</title>
       <link>https://www.techradar.com/pro/samsung-unveils-new-premium-oled-monitor-technology-but-will-tandem-oled-really-make-all-the-difference</link>
@@ -46,20 +60,6 @@
       <guid isPermaLink="false">fa9d5417-97c2-49f7-af1b-e37ed1cc0197</guid>
       <description>At a staggering starting price of $6,999, you have a better chance of buying a bicycle in Cerulean City than getting your hands on the official Pok&#233;mon pinball machine. The collaboration between The Pok&#233;mon Company International and Stern Pinball is undoubtedly nostalgic, letting you battle with a team that includes Bulbasaur, Charmander, Squirtle and Pikachu, as well as catch up to 182 different Pok&#233;mon, mostly from the Kanto region, with more to be added.
 Besides catching 'em all and tracking your growing Pok&#233;dex on Stern Pinball's dedicated app, you can do Gym Battles in four different biom...</description>
-    </item>
-    <item>
-      <title>Programme Desir : vers une autonomie strat&#233;gique dans l'imagerie radar spatiale</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronautique-programme-desir-vers-autonomie-strategique-imagerie-radar-spatiale-130412/#xtor%3DRSS-8</link>
-      <pubDate>Sun, 15 Feb 2026 20:59:04 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronautique-programme-desir-vers-autonomie-strategique-imagerie-radar-spatiale-130412/#xtor%3DRSS-8</guid>
-      <description>Dans un monde en constante &#233;volution g&#233;opolitique, la France lance le programme Desir, une initiative strat&#233;gique visant &#224; renforcer sa souverainet&#233; technologique dans le domaine de l'imagerie radar. Ce programme repr&#233;sente une avanc&#233;e significative dans la technologie militaire SAR pour...</description>
-    </item>
-    <item>
-      <title>Emerald Fennell Dishes On Her &#8216;Really Dark&#8217; Zatanna Script</title>
-      <link>https://gizmodo.com/emerald-fennell-dishes-on-her-really-dark-zatanna-script-2000722293</link>
-      <pubDate>Sun, 15 Feb 2026 19:50:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000722293</guid>
-      <description>The 'Wuthering Heights' director doesn't think her take on Zatanna would've fit in with superhero movies back then, but could it now?</description>
     </item>
   </channel>
 </rss>
