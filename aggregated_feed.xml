@@ -3,42 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 15 Feb 2026 23:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 02:38:34 GMT</lastBuildDate>
     <item>
-      <title>Announcing the 2026 TechRadar Australian PC Awards finalists</title>
-      <link>https://www.techradar.com/computing/announcing-the-2026-techradar-australian-pc-awards-finalists</link>
-      <pubDate>Sun, 15 Feb 2026 23:22:18 +0000</pubDate>
-      <guid isPermaLink="false">9RRqijYtPz22ESxVLNWBSN</guid>
-      <description>We reveal the gear that got shortlisted as the best in every category!</description>
+      <title>As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck</title>
+      <link>https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/</link>
+      <pubDate>Mon, 16 Feb 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3093187</guid>
+      <description>C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.</description>
     </item>
     <item>
-      <title>Hideki Sato, known as the father of Sega hardware, has reportedly died</title>
-      <link>https://www.engadget.com/gaming/hideki-sato-known-as-the-father-of-sega-hardware-has-reportedly-died-230634768.html?src=rss</link>
-      <pubDate>Sun, 15 Feb 2026 23:06:34 +0000</pubDate>
-      <guid isPermaLink="false">59366644-70aa-4e31-b3ef-5f579574c19c</guid>
-      <description>Hideki Sato, who led the design of Sega's beloved consoles from the '80s and '90s, died on Friday, according to the Japanese gaming site Beep21. He was 77. Sato worked with Sega from 1971 until the early 2000s, but he's best known for his involvement in the development of the Sega arcade games and home consoles that defined many late Gen X and early millennial childhoods, starting with the SG-1000 to the Genesis, Saturn and Dreamcast.&#160;&#160;https://t.co/hClrxLODFU&#8212; Beep21 (@Beep2021) February 14, 2026
-Sato went on to serve as Sega's president from 2001 to 2003. In the post announcing his death, Bee...</description>
-    </item>
-    <item>
-      <title>OpenClaw founder Peter Steinberger is joining OpenAI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai</link>
-      <pubDate>2026-02-15T17:56:16-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=879623</guid>
-      <description>Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has "a lot of amazing ideas" about getting AI agents to interact with each other, saying "the future is going to be extremely multi-agent." He also said that this ability for agents [&#8230;]</description>
-    </item>
-    <item>
-      <title>OpenClaw creator Peter Steinberger joins OpenAI</title>
-      <link>https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/</link>
-      <pubDate>Sun, 15 Feb 2026 22:28:02 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3093271</guid>
-      <description>OpenAI said OpenClaw will live on as an open source project.</description>
-    </item>
-    <item>
-      <title>Longtime NPR host David Greene sues Google over NotebookLM voice</title>
-      <link>https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/</link>
-      <pubDate>Sun, 15 Feb 2026 22:07:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3093266</guid>
-      <description>The longtime host of NPR&#8217;s &#8220;Morning Edition,&#8221; is suing Google, alleging that the male podcast voice in the company&#8217;s NotebookLM tool is based on him.</description>
+      <title>I tested the Miofive Mirror 1 for a month &#8211; it&#8217;s the 4K dash cam could replace your rearview mirror (if it fits)</title>
+      <link>https://www.techradar.com/vehicle-tech/dash-cams/miofive-mirror-1-dash-cam-review</link>
+      <pubDate>Mon, 16 Feb 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">MSE4T8F9ctczYe7DW3ByFN</guid>
+      <description>The Miofive Mirror 1 Dash cam comes packed with features and functions while offering much more versatility than standard rear-view glass</description>
     </item>
   </channel>
 </rss>
