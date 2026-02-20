@@ -3,7 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 20 Feb 2026 22:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 23:33:10 GMT</lastBuildDate>
+    <item>
+      <title>James Cameron Has Entered the Paramount-Netflix-Warner Bros. War on the Side of James Cameron</title>
+      <link>https://gizmodo.com/james-cameron-warner-bros-netflix-paramount-deal-2000724819</link>
+      <pubDate>Fri, 20 Feb 2026 23:25:48 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000724819</guid>
+      <description>The 'humble movie farmer' is deeply concerned about the future of theaters.</description>
+    </item>
+    <item>
+      <title>Your next device will be an AI PC, if Intel has anything to do with it &#8212; chipmaker predicts more than half of PCs shipped this year will be AI-enabled</title>
+      <link>https://www.techradar.com/pro/your-next-device-will-be-an-ai-pc-if-intel-has-anything-to-do-with-it-chipmaker-predicts-more-than-half-of-pcs-shipped-this-year-will-be-ai-enabled</link>
+      <pubDate>Fri, 20 Feb 2026 23:05:00 +0000</pubDate>
+      <guid isPermaLink="false">oUesF486RrG3NA3exvn2KC</guid>
+      <description>Intel forecasts more than half of PCs shipped in 2026 will include AI processing, impacting laptops, workstations, and mini PCs.</description>
+    </item>
+    <item>
+      <title>The creator economy&#8217;s ad revenue problem and India&#8217;s AI ambitions</title>
+      <link>https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/</link>
+      <pubDate>Fri, 20 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3095239</guid>
+      <description>The&#160;creator&#160;economy is evolving fast, and ad revenue alone&#160;isn&#8217;t&#160;cutting it anymore.&#160;YouTubers are launching product lines,&#160;acquiring&#160;startups, and building actual business empires.&#160;In fact,&#160;MrBeast&#8217;s company&#160;bought fintech startup Step, and his chocolate business is outearning his media arm. This&#160;isn&#8217;t&#160;just&#160;one&#160;creator&#8217;s&#160;strategy.&#160;For&#160;many,&#160;it&#8217;s&#160;the&#160;new playbook.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Want to binge the best new Hulu shows? Love Story is just one of three must-watch hits you won&#8217;t want to miss</title>
+      <link>https://www.techradar.com/streaming/hulu/want-to-binge-the-best-new-hulu-shows-love-story-is-just-one-of-three-must-watch-hits-you-wont-want-to-miss</link>
+      <pubDate>Fri, 20 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">EGvsAiRZSy5eim3itHTK7H</guid>
+      <description>Looking for some great new shows to binge? Stream three of this year's best new series, including Ryan Murphy's Love Story.</description>
+    </item>
+    <item>
+      <title>ChatGPT search trail becomes central evidence in South Korea double murder probe</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt-search-trail-becomes-central-evidence-in-south-korea-double-murder-probe</link>
+      <pubDate>Fri, 20 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yTDXcEUMxi2HZetwfqAXaE</guid>
+      <description>A Seoul murder investigation now centers on the suspect&#8217;s ChatGPT search history, which police argue shows clear intent behind two fatal poisonings</description>
+    </item>
     <item>
       <title>Venom&#8217;s Cinematic Future Is a Brand New Animated Movie</title>
       <link>https://gizmodo.com/venom-animated-movie-sony-marvel-2000724847</link>
@@ -17,13 +52,6 @@
       <pubDate>2026-02-20T17:19:29-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/23769068/best-ebook-readers</guid>
       <description>Any ebook reader will let you cram a Beauty and the Beast-sized library&#8217;s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. Some really are pocketable. Others are waterproof [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Runlayer is now offering secure OpenClaw agentic capabilities for large enterprises</title>
-      <link>https://venturebeat.com/orchestration/runlayer-is-now-offering-secure-openclaw-agentic-capabilities-for-large</link>
-      <pubDate>Fri, 20 Feb 2026 22:05:00 GMT</pubDate>
-      <guid isPermaLink="false">4MNmiUi3RxVR9ZVGXtTMcX</guid>
-      <description>OpenClaw, the open source AI agent that excels at autonomous tasks on computers and which users can communicate with through popular messaging apps, has undoubtedly become a phenomena since its launch in November 2025, and especially in the last few months.Lured by the promise of greater business automation, solopreneurs and employees of large enterprises are increasingly installing it on their work machines &#8212; despite a number of documented security risks.Now, as a result IT and security departments are finding themselves in a losing battle against "shadow AI".But New York City-based enterpris...</description>
     </item>
     <item>
       <title>Forget solid-state batteries &#8211; researchers have made a lithium-ion breakthrough that could boost range and drastically lower costs</title>
@@ -88,121 +116,6 @@ The Supreme Court struck down&#160;President Donald Trump&#8217;s&#160;far-reach
       <pubDate>Fri, 20 Feb 2026 21:35:09 +0000</pubDate>
       <guid isPermaLink="false">01B5qM3z45MP4XL07nlLihq</guid>
       <description>An investigation has uncovered unsecured AI apps hosted on the Google Play store have been slowly leaking customer data, including emails, IDs, and personal videos and photos.</description>
-    </item>
-    <item>
-      <title>The Sony WF-1000XM6 are the most feature-packed earbuds I&#8217;ve ever tested &#8212; here are 3 hidden functions you shouldn't miss</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/the-sony-wf-1000xm6-are-the-most-feature-packed-earbuds-ive-ever-tested-here-are-3-hidden-functions-you-shouldnt-miss</link>
-      <pubDate>Fri, 20 Feb 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">acPdHgqTeweiYMzuqzwde7</guid>
-      <description>Wish controlling your music was less hassle? My three favorite features from the new Sony WF-1000XM6 earbuds make spinning your spot-on tunes or having a quick convo a breeze.</description>
-    </item>
-    <item>
-      <title>Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft</title>
-      <link>https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out</link>
-      <pubDate>2026-02-20T16:29:01-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=882363</guid>
-      <description>After nearly 40 years at Microsoft, Xbox chief and Microsoft Gaming CEO Phil Spencer is leaving the company, along with Xbox president Sarah Bond. Spencer&#8217;s retirement was announced in a memo from Microsoft CEO Satya Nadella on February 20th, stating, &#8220;Last year, Phil Spencer made the decision to retire from the company, and since then [&#8230;]</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Unpacked 2026: The Galaxy S26 and other devices that might launch on February 25</title>
-      <link>https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-the-galaxy-s26-and-other-devices-that-might-launch-on-february-25-130000063.html?src=rss</link>
-      <pubDate>Fri, 20 Feb 2026 21:27:06 +0000</pubDate>
-      <guid isPermaLink="false">7b516dbb-4749-48f0-b5c0-b244aed8b2b9</guid>
-      <description>Samsung&#8217;s 2025 was filled with new foldables, an ultra-thin new form factor and the launch of Google's XR platform. After making some announcements at CES 2026, the company has announced its first Galaxy Unpacked of the year will take place on February 25, where it is expected to introduce the Galaxy S26 lineup. Official invites have  been shared, but actual information on what devices are arriving then is still not completely confirmed. But as usual, we know a lot about what&#8217;s expected at Unpacked.Engadget will be covering Galaxy Unpacked live from San Francisco next week, and we'll most like...</description>
-    </item>
-    <item>
-      <title>S&#233;isme chez Microsoft : Phil Spencer prend sa retraite, Sarah Bond s&#8217;en va et une experte de l&#8217;IA prend les r&#234;nes d&#8217;Xbox</title>
-      <link>https://www.frandroid.com/marques/microsoft/2985357_seisme-chez-microsoft-phil-spencer-prend-sa-retraite-sarah-bond-sen-va-et-une-experte-de-lia-prend-les-renes-dxbox</link>
-      <pubDate>Fri, 20 Feb 2026 21:23:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/2985357_seisme-chez-microsoft-phil-spencer-prend-sa-retraite-sarah-bond-sen-va-et-une-experte-de-lia-prend-les-renes-dxbox</guid>
-      <description>
-C&#8217;est une annonce choc que vient de faire Microsoft.
-</description>
-    </item>
-    <item>
-      <title>Disney Didn&#8217;t Want Tony Gilroy to Say &#8216;Fascism&#8217; While Promoting &#8216;Andor&#8217;</title>
-      <link>https://gizmodo.com/disney-didnt-want-tony-gilroy-to-say-fascism-while-promoting-andor-2000724719</link>
-      <pubDate>Fri, 20 Feb 2026 21:20:41 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000724719</guid>
-      <description>A new interview with the 'Star Wars' series creator digs deep into its political parallels.</description>
-    </item>
-    <item>
-      <title>Nintendo Virtual Boy for Switch 2 Review: An Incredible Recreation of a Terrible Console</title>
-      <link>https://gizmodo.com/nintendo-virtual-boy-for-switch-2-review-an-incredible-recreation-of-a-terrible-console-2000724146</link>
-      <pubDate>Fri, 20 Feb 2026 21:15:19 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000724146</guid>
-      <description>You'll enjoy Nintendo's $100 Virtual Boy if you enjoy digging through gaming history.</description>
-    </item>
-    <item>
-      <title>Huge shakeup at Xbox as CEO and president both leave</title>
-      <link>https://mashable.com/article/xbox-phil-spencer-retiring-sarah-bond-asha-sharma-ai</link>
-      <pubDate>Fri, 20 Feb 2026 21:11:51 +0000</pubDate>
-      <guid isPermaLink="false">02MqLNia3QfBcxy8fAt1m0C</guid>
-      <description>Xbox CEO Phil Spencer and President Sarah Bond are both leaving the company, with AI exec Asha Sharma replacing Spencer.</description>
-    </item>
-    <item>
-      <title>They Bet Against Trump&#8217;s Tariffs. Now They Stand to Make Millions</title>
-      <link>https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/</link>
-      <pubDate>Fri, 20 Feb 2026 21:05:44 +0000</pubDate>
-      <guid isPermaLink="false">69989bb06dc08b373371fbb4</guid>
-      <description>After the US Supreme Court struck down President Donald Trump&#8217;s tariff regime, investment firms are in line for a whopping return on a niche trade.</description>
-    </item>
-    <item>
-      <title>Remember HQ? &#8216;Quiz Daddy&#8217; Scott Rogowsky is back with TextSavvy, a daily mobile game show</title>
-      <link>https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/</link>
-      <pubDate>Fri, 20 Feb 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3094936</guid>
-      <description>The former HQ host Scott Rogowsky is back with TextSavvy, a live mobile game show that he's building on his own terms.</description>
-    </item>
-    <item>
-      <title>Microsoft says today&#8217;s Xbox shake-up doesn&#8217;t mean game studio layoffs</title>
-      <link>https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs</link>
-      <pubDate>2026-02-20T15:58:27-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=882377</guid>
-      <description>Xbox has new leaders today, now that Phil Spencer and Sarah Bond are out - and you'd be forgiven for assuming that means yet another round of layoffs and shuttered studios, especially one day after Sony jettisoned a beloved developer. Not yet, it seems. "To be clear, there are no organizational changes underway for our [&#8230;]</description>
-    </item>
-    <item>
-      <title>More fun, shorter waits: Disneyland says it added 1.5 million ride experiences in 2025 without new builds</title>
-      <link>https://www.techradar.com/streaming/entertainment/disneyland-says-it-added-1-5-million-ride-experiences-in-2025-without-new-builds</link>
-      <pubDate>Fri, 20 Feb 2026 20:55:00 +0000</pubDate>
-      <guid isPermaLink="false">vNPN47iJkibwiQLTxr4VTN</guid>
-      <description>Disneyland is investing heavily in reliability upgrades that are already delivering more rides, shorter waits, and smoother visits &#8211; even as major new attractions remain years away.</description>
-    </item>
-    <item>
-      <title>Anthropic-funded group backs candidate attacked by rival AI super PAC</title>
-      <link>https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/</link>
-      <pubDate>Fri, 20 Feb 2026 20:52:48 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3095184</guid>
-      <description>Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.</description>
-    </item>
-    <item>
-      <title>&#8216;I didn&#8217;t get a graduation&#8217;: How the Class of 2020 turned their pandemic loss into a running joke on TikTok</title>
-      <link>https://www.fastcompany.com/91496234/class-of-2020-tiktok-pandemic</link>
-      <pubDate>2026-02-20T20:48:18</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91496234/class-of-2020-tiktok-pandemic</guid>
-      <description>Five years later, Gen Z is still joking about its most defining COVID-era rite of passage.
-The Class of 2020 still aren&#8217;t over the COVID-19 pandemic cancelling their graduation. Apparently they never stop bringing it up, according to TikTok. Now their complaints are being used as a punchline.</description>
-    </item>
-    <item>
-      <title>Our Reviewers&#8217; Top TV Pick for Gamers Is at Its Lowest Price in Months</title>
-      <link>https://www.wired.com/story/samsung-s90f-deal-226/</link>
-      <pubDate>Fri, 20 Feb 2026 20:46:54 +0000</pubDate>
-      <guid isPermaLink="false">6998a20f3e8bc0874c1c64ac</guid>
-      <description>This Samsung OLED comes loaded with features specifically for gamers.</description>
-    </item>
-    <item>
-      <title>SCOTUS rules Trump&#8217;s tariffs are illegal &#8212; but the fight is far from over</title>
-      <link>https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds</link>
-      <pubDate>2026-02-20T15:45:44-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=882227</guid>
-      <description>The US Supreme Court struck down some of Donald Trump's tariffs on foreign imports, which have become a hallmark of the chaos of the second Trump administration. The court's ruling deals specifically with duties levied using a law called the International Emergency Economic Powers Act (IEEPA), something no other president has done - the 1977 [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Pentagon wants swarms of voice-controlled AI drones, and is offering a $100 million prize as a reward &#8212; and Elon Musk's SpaceX is taking pole position</title>
-      <link>https://www.techradar.com/pro/the-pentagon-wants-swarms-of-voice-controlled-ai-drones-and-is-offering-a-usd100-million-prize-as-a-reward-and-elon-musks-spacex-is-taking-pole-position</link>
-      <pubDate>Fri, 20 Feb 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">iLnKp6cVdA9wJXnvKcciDD</guid>
-      <description>The Pentagon has launched a $100 million contest to develop voice-controlled autonomous drone swarms amid unresolved technical challenges.</description>
     </item>
   </channel>
 </rss>
