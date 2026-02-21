@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 21 Feb 2026 21:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 22:29:30 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI celebrates 10 years of existence &#8212; but how has it lived up to its promise of AGI which 'benefits all of humanity'?</title>
+      <link>https://www.techradar.com/pro/10-years-of-openai</link>
+      <pubDate>Sat, 21 Feb 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">7bujcBLWQQkXu7a2NnhCJo</guid>
+      <description>OpenAI officially launched as a non-profit 10 years ago, and it's come a long way</description>
+    </item>
+    <item>
+      <title>An Unbothered Jimmy Wales Calls Grokipedia a &#8216;Cartoon Imitation&#8217; of Wikipedia</title>
+      <link>https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070</link>
+      <pubDate>Sat, 21 Feb 2026 22:01:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000725070</guid>
+      <description>Speaking at India's AI Impact Summit, Wales went in on the hallucinating pretender to the throne.</description>
+    </item>
+    <item>
+      <title>Sam Altman would like remind you that humans use a lot of energy, too</title>
+      <link>https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/</link>
+      <pubDate>Sat, 21 Feb 2026 21:38:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3095339</guid>
+      <description>"It also takes a lot of energy to train a human."</description>
+    </item>
     <item>
       <title>A new era for storage? Researchers crack world record for smallest QR code, which could be &#8220;indefinitely&#8221; durable and require no energy or cooling</title>
       <link>https://www.techradar.com/pro/a-new-era-for-storage-researchers-crack-world-record-for-smallest-qr-code-which-could-be-indefinitely-durable-and-require-no-energy-or-cooling</link>
@@ -48,27 +69,6 @@ Regardez bien votre &#233;cran la prochaine fois que vous cherchez une adresse s
       <pubDate>Sat, 21 Feb 2026 20:30:46 +0000</pubDate>
       <guid isPermaLink="false">6998b9449043220668a7e861</guid>
       <description>Sony&#8217;s WH-CH720N headphones offer excellent value at full price, but right now they're a steal.</description>
-    </item>
-    <item>
-      <title>Wikipedia blacklists Archive.today after alleged DDoS attack</title>
-      <link>https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/</link>
-      <pubDate>Sat, 21 Feb 2026 20:20:15 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3095336</guid>
-      <description>Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.</description>
-    </item>
-    <item>
-      <title>The Legend That Defined the Music of &#8216;Final Fantasy&#8217; Is Getting the Biography He Deserves</title>
-      <link>https://gizmodo.com/nobuo-uematsu-final-fantasy-biography-2000724768</link>
-      <pubDate>Sat, 21 Feb 2026 19:50:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000724768</guid>
-      <description>Read the story of longtime 'Final Fantasy' composer Nobuo Uematsu when his 'On the Record' biography hit stores this fall.</description>
-    </item>
-    <item>
-      <title>'No one deploys AI at Meta&#8217;s scale': Meta signs up Nvidia to power its next big AI projects &#8212; so what exactly do Mark Zuckerberg and Jensen Huang have planned?</title>
-      <link>https://www.techradar.com/pro/no-one-deploys-ai-at-metas-scale-meta-signs-up-nvidia-to-power-its-next-big-ai-projects-so-what-exactly-do-mark-zuckerberg-and-jensen-huang-have-planned</link>
-      <pubDate>Sat, 21 Feb 2026 19:35:00 +0000</pubDate>
-      <guid isPermaLink="false">7H9WcxjYMAn4e9L3zMhqMF</guid>
-      <description>Meta partners with Nvidia to deploy millions of GPUs and CPUs, building scalable, privacy-focused AI infrastructure for global applications.</description>
     </item>
   </channel>
 </rss>
