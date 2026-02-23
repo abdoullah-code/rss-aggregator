@@ -3,34 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 22 Feb 2026 23:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 02:38:54 GMT</lastBuildDate>
     <item>
-      <title>NASA's crewed Artemis II launch gets pushed back again, this time due to a helium issue</title>
-      <link>https://www.engadget.com/science/space/nasas-crewed-artemis-ii-launch-gets-pushed-back-again-this-time-due-to-a-helium-issue-231010042.html?src=rss</link>
-      <pubDate>Sun, 22 Feb 2026 23:10:10 +0000</pubDate>
-      <guid isPermaLink="false">8732d0fa-9b2e-4de8-90c6-5b95e1d3ac31</guid>
-      <description>It looks like a March launch is no longer in the cards for Artemis II, NASA's first crewed trip to the moon's vicinity since the final Apollo mission over 50 years ago. While preparations were underway at the Kennedy Space Center for a launch as soon as March 6, the space agency says it ran into an issue with the flow of helium to its SLS rocket's upper stage this weekend and it now has to roll the rocket from the launch pad back to the Vehicle Assembly Building (VAB) to figure out what's wrong and fix it. A media briefing is planned for sometime this week to discuss the problem and what's nex...</description>
+      <title>A Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car</title>
+      <link>https://gizmodo.com/a-recent-3d-printing-breakthrough-brings-us-one-step-closer-to-you-downloading-a-car-2000725178</link>
+      <pubDate>Mon, 23 Feb 2026 01:33:56 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000725178</guid>
+      <description>Researchers at MIT successfully printed a working motor in a just few hours.</description>
     </item>
     <item>
-      <title>Apple might take a new approach to announcing its next products</title>
-      <link>https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/</link>
-      <pubDate>Sun, 22 Feb 2026 23:08:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3095539</guid>
-      <description>Apple has invited the tech press to a &#8220;special Apple experience&#8221; on March 4, but it might unfold a bit differently than the company's standard press event.</description>
-    </item>
-    <item>
-      <title>Can the creator economy stay afloat in a flood of AI slop?</title>
-      <link>https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/</link>
-      <pubDate>Sun, 22 Feb 2026 22:15:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3095534</guid>
-      <description>On the latest episode of Equity, we debated what&#8217;s next for the creator economy, and whether there will be any room for the next generation of creators to stand out.</description>
-    </item>
-    <item>
-      <title>Samsung is adding Perplexity to Galaxy AI</title>
-      <link>https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai</link>
-      <pubDate>2026-02-22T17:15:30-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=882921</guid>
-      <description>In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying "hey, Plex." The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a "multi-agent ecosystem." Often, people will use different AI agents for different tasks, depending on where their strengths [&#8230;]</description>
+      <title>NASA Delays Launch of Artemis II Lunar Mission Once Again</title>
+      <link>https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/</link>
+      <pubDate>Mon, 23 Feb 2026 00:42:06 +0000</pubDate>
+      <guid isPermaLink="false">699b9a09a1d205b8bd7fd1f1</guid>
+      <description>A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April.</description>
     </item>
   </channel>
 </rss>
