@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 24 Feb 2026 04:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:03:14 GMT</lastBuildDate>
+    <item>
+      <title>Dyson just unveiled a new floor-care gadget &#8212; here are the 3 coolest things about the new PencilWash</title>
+      <link>https://www.techradar.com/home/vacuums/dyson-just-unveiled-a-new-floorcare-gadget-here-are-the-3-coolest-things-about-the-new-pencilwash</link>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">r9NunMpowL9XEepGFQ3rq5</guid>
+      <description>It's unlike any hard-floor cleaner I've seen before.</description>
+    </item>
+    <item>
+      <title>Stripe, PayPal Ventures bet on India&#8217;s Xflow to fix cross-border B2B payments</title>
+      <link>https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/</link>
+      <pubDate>Tue, 24 Feb 2026 05:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3095724</guid>
+      <description>Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million.</description>
+    </item>
     <item>
       <title>C&#8217;est confirm&#233;, Volkswagen adopte la technologie de conduite autonome VLA 2.0 de Xpeng</title>
       <link>https://www.frandroid.com/marques/xpeng/2987125_cest-confirme-volkswagen-adopte-la-technologie-de-conduite-autonome-vla-2-0-de-xpeng</link>
@@ -30,20 +44,6 @@ La fonctionnalit&#233; la plus utile du prochain Galaxy S26 Ultra n'est m&#234;m
       <description>
 Alors qu'une bonne partie de l'industrie mobile se r&#233;unit &#224; Barcelone pour le MWC, Apple a d&#233;cid&#233; de siffler la fin de la r&#233;cr&#233;ation. Pas de conf&#233;rence en ligne, mais un "blitz" d'annonces sur trois jours qui promet de chambouler tout le catalogue, du Mac &#224; l'iPad.
 </description>
-    </item>
-    <item>
-      <title>Nikon reveals new 70-200mm f/2.8 zoom for its Z-series mirrorless cameras &#8212; and it might just be the perfect second lens</title>
-      <link>https://www.techradar.com/cameras/camera-lenses/nikon-reveals-new-70-200mm-f-2-8-zoom-for-its-z-series-mirrorless-cameras-and-it-might-just-be-the-perfect-second-lens</link>
-      <pubDate>Tue, 24 Feb 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">jnkTjgyscqtiXzENWsZqHJ</guid>
-      <description>Need a new telephoto zoom for your Nikon mirrorless camera? Nikon's new Nikkor Z 70-200mm f/2.8 VR S II could fit the bill &#8211;if you're prepared to pay for it.</description>
-    </item>
-    <item>
-      <title>OpenClaw should terrify anyone who thinks AI agents are ready for real responsibility</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility</link>
-      <pubDate>Tue, 24 Feb 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">W2Wh4FNcMG9FUWP6AKRWAb</guid>
-      <description>Recent mishaps involving OpenClaw and other AI assistants highlight why entrusting too much authority to automated AI agents is a serious mistake</description>
     </item>
   </channel>
 </rss>
