@@ -3,13 +3,124 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 25 Feb 2026 20:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 21:39:13 GMT</lastBuildDate>
     <item>
-      <title>Trump claims he&#8217;ll make data centers pay for their own power supply</title>
+      <title>8 billion tokens a day forced AT&amp;T to rethink AI orchestration &#8212; and cut costs by 90%</title>
+      <link>https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut</link>
+      <pubDate>Thu, 26 Feb 2026 21:30:00 GMT</pubDate>
+      <guid isPermaLink="false">7BND9iiQlzpkzhHFbu182m</guid>
+      <description>When your average daily token usage is 8 billion a day, you have a massive scale problem. 
+
+This was the case at AT&amp;T, and chief data officer Andy Markus and his team recognized that it simply wasn&#8217;t feasible (or economical) to push everything through large reasoning models. 
+
+So, when building out an internal Ask AT&amp;T personal assistant, they reconstructed the orchestration layer. The result: A multi-agent stack built on LangChain where large language model &#8220;super agents&#8221; direct smaller, underlying &#8220;worker&#8221; agents performing more concise, purpose-driven work. 
+
+This flexible orchestration lay...</description>
+    </item>
+    <item>
+      <title>Teens Declare: Superheroes Are Out, Daddy Energy Is In</title>
+      <link>https://gizmodo.com/teens-declare-superheroes-are-out-daddy-energy-is-in-2000726710</link>
+      <pubDate>Wed, 25 Feb 2026 21:30:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000726710</guid>
+      <description>According to a new study, kids are moving on from stoic heroes&#8212;and want more compassionate portrayals of masculinity in their lives.</description>
+    </item>
+    <item>
+      <title>Samsung hikes price of Galaxy S26 lineup over S25, but it won't say the RAM crisis is to blame &#8212; even though it almost certainly is</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/samsung-hikes-price-of-galaxy-s26-lineup-over-s25-but-it-wont-say-the-ram-crisis-is-to-blame-even-though-it-almost-certainly-is</link>
+      <pubDate>Wed, 25 Feb 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">rDgZmKQYsrNjK5jQwcXL7T</guid>
+      <description>Samsung won't blame the RAM crisis for its S26 price hikes, but I will.</description>
+    </item>
+    <item>
+      <title>Sam Altman says plans for data centers in space are 'ridiculous' &#8212; is this the start of a new war of words with Elon Musk?</title>
+      <link>https://www.techradar.com/pro/sam-altman-says-plans-for-data-centers-in-space-are-ridiculous-is-this-the-start-of-a-new-war-of-words-with-elon-musk</link>
+      <pubDate>Wed, 25 Feb 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">j8MNf5HqNtWADH7r5C7dck</guid>
+      <description>Sam Altman dismisses current plans for orbital data centers, citing high launch costs, hardware fragility, and infrastructure limitations.</description>
+    </item>
+    <item>
+      <title>Used Teslas Are Getting More Expensive While Other EVs Get Cheaper</title>
+      <link>https://gizmodo.com/used-teslas-are-getting-more-expensive-while-other-evs-get-cheaper-2000726699</link>
+      <pubDate>Wed, 25 Feb 2026 21:10:18 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000726699</guid>
+      <description>If you want a used EV, you might have to pay the Elon tax.</description>
+    </item>
+    <item>
+      <title>The next Assassin's Creed game loses its creative director</title>
+      <link>https://www.engadget.com/gaming/the-next-assassins-creed-game-loses-its-creative-director-210119005.html?src=rss</link>
+      <pubDate>Wed, 25 Feb 2026 21:01:19 +0000</pubDate>
+      <guid isPermaLink="false">17eb1259-d9e2-48f1-a61a-ad2f7d8a34cf</guid>
+      <description>Ubisoft's shakeups continue unabated. The creative director of the next Assassin's Creed game, codenamed Hexe, has left the company. The departure of Clint Hocking, a 20-year veteran of the company over two stints, was reportedly announced in a staff meeting this week.Hocking's resume at Ubisoft included serving as creative director on Splinter Cell: Chaos Theory, Far Cry 2 and Watch Dogs: Legion. The details of why he's leaving the company haven't been reported.Ubisoft told VGC, which first reported on Hocking's exit, that development on Hexe will continue. Jean Guedson, one of three new lead...</description>
+    </item>
+    <item>
+      <title>I can't believe I'm actually excited to sit in virtual traffic in the 'most ambitious and content-rich Bus Simulator to date'</title>
+      <link>https://www.techradar.com/gaming/i-cant-believe-im-actually-excited-to-sit-in-virtual-traffic-in-the-most-ambitious-and-content-rich-bus-simulator-to-date</link>
+      <pubDate>Wed, 25 Feb 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jcpTJ6V7PDmFKDtAxi7azk</guid>
+      <description>Publisher Astragon Entertainment has announced Bus Simulator 27.</description>
+    </item>
+    <item>
+      <title>&#8216;There&#8217;s possibility for another partner to join the ecosystem&#8217; &#8212; as Perplexity lands on Samsung Galaxy S26 phones a Samsung head is already teasing the next AI addition</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/theres-possibility-for-another-partner-to-join-the-ecosystem-as-perplexity-lands-on-samsung-galaxy-s26-phones-a-samsung-head-is-already-teasing-the-next-ai-addition</link>
+      <pubDate>Wed, 25 Feb 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">x5vduHDbt8VwWPdfrdTNBC</guid>
+      <description>As Samsung adds Perplexity to its S26 smartphones it's already teasing the next AI addition.</description>
+    </item>
+    <item>
+      <title>Everyone Speaks Incel Now</title>
+      <link>https://www.wired.com/story/everyone-speaks-incel-now/</link>
+      <pubDate>Wed, 25 Feb 2026 20:59:50 +0000</pubDate>
+      <guid isPermaLink="false">6994a3670520b9cafe8c9c5c</guid>
+      <description>After migrating from misogynist forums to social media feeds, terms like &#8220;looksmaxxing&#8221; and &#8220;mogged&#8221; are now impossible to avoid.</description>
+    </item>
+    <item>
+      <title>9 things we learned from Samsung&#8217;s big Galaxy Unpacked 2026 event &#8212; from the S26 Ultra to the Buds4 Pro</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/9-things-we-learned-from-samsungs-big-galaxy-unpacked-2026-event-from-the-s26-ultra-to-the-buds4-pro</link>
+      <pubDate>Wed, 25 Feb 2026 20:52:46 +0000</pubDate>
+      <guid isPermaLink="false">QAJjXUX782iShGvmdTBADE</guid>
+      <description>Samsung has wrapped up it first big Galaxy Unpacked event of 2026 &#8212; here's everything it announced in one handy place.</description>
+    </item>
+    <item>
+      <title>The &#8216;Overdue&#8217; West Coast Mega-Earthquake May Not Be Looming After All</title>
+      <link>https://gizmodo.com/the-overdue-west-coast-mega-earthquake-may-not-be-looming-after-all-2000726724</link>
+      <pubDate>Wed, 25 Feb 2026 20:50:24 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000726724</guid>
+      <description>Make no mistake&#8212;this doesn&#8217;t mean there is no danger. The researchers urge policymakers to treat seismic risk as a constant.</description>
+    </item>
+    <item>
+      <title>Canadian government demands safety changes from OpenAI</title>
+      <link>https://www.engadget.com/ai/canadian-government-demands-safety-changes-from-openai-204924604.html?src=rss</link>
+      <pubDate>Wed, 25 Feb 2026 20:49:24 +0000</pubDate>
+      <guid isPermaLink="false">7143f0a0-5eab-4993-93a8-6fe1c88c1ff1</guid>
+      <description>Canadian officials summoned leaders from OpenAI to Ottawa this week to address safety concerns about ChatGPT. The crux of the government concerns was that OpenAI did not notify authorities when it banned the account of a user who allegedly committed a mass shooting in British Columbia earlier this month.&#160;"The message that we delivered, in no uncertain terms, was that we have &#8204;an expectation that there are going to &#8288;be changes implemented, and if they're not forthcoming very quickly, the government is going to be making changes," Justice Minister Sean Fraser said of the company and its AI chatb...</description>
+    </item>
+    <item>
+      <title>The Peace Corps is recruiting volunteers to sell AI to developing nations</title>
+      <link>https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai</link>
+      <pubDate>2026-02-25T15:45:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=884625</guid>
+      <description>For more than six decades, the Peace Corps has represented itself as an agency focused on helping underserved communities around the globe. But a new initiative, called the "Tech Corps," threatens to unravel the agency's original mission by recruiting de facto Silicon Valley salespeople to promote the biggest names in AI - many of which [&#8230;]</description>
+    </item>
+    <item>
+      <title>The White House wants AI companies to cover rate hikes. Most have already said they would.</title>
+      <link>https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/</link>
+      <pubDate>Wed, 25 Feb 2026 20:42:14 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3096961</guid>
+      <description>Many of hyperscalers have already made public commitments in to cover electricity cost increases.</description>
+    </item>
+    <item>
+      <title>Xbox consoles now support 1440p streaming</title>
+      <link>https://www.engadget.com/gaming/xbox/xbox-consoles-now-support-1440p-streaming-204115304.html?src=rss</link>
+      <pubDate>Wed, 25 Feb 2026 20:41:15 +0000</pubDate>
+      <guid isPermaLink="false">b2924601-b0fe-41ec-b482-be0d7169a2d8</guid>
+      <description>Microsoft has announced that its rolling out support for streaming games at 1440p on Xbox consoles. Game streaming is a key benefit of paying for a Game Pass subscription, and as of 2025, now also includes games players own that aren't part of the larger Game Pass library.The higher bitrate streaming option will let subscribers with an Xbox Series X or S, Xbox One X or Xbox One play their games at a higher resolution, provided the game and their display supports it. Microsoft previously only offered 1440p streams on select Fire TVs, LG TVs, Samsung TVs, web browsers and the Xbox PC app. At lea...</description>
+    </item>
+    <item>
+      <title>Trump claims tech companies will sign deals next week to pay for their own power supply</title>
       <link>https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump</link>
       <pubDate>2026-02-25T15:37:25-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=884191</guid>
-      <description>President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech by claiming that he's negotiated a "rate payer protection pledge" with major tech companies, which would see them build out or pay for new electricity generation for their data centers. Leaders from Amazon, Google, Meta, Microsoft, [&#8230;]...</description>
+      <description>President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. Trump claimed that he's negotiated a "rate payer protection pledge" with major tech companies, which would see them build out or pay [&#8230;]</description>
     </item>
     <item>
       <title>The Most Messed-Up-Looking &#8216;Absolute Batman&#8217; Villains, Ranked</title>
@@ -40,6 +151,21 @@
       <description>Crypto is creeping back into the startup conversation, but at&#160;ETHDenver&#160;last week, the buzz was as much about Washington as it was about tokens. Policy shifts are rippling through the market as&#160;Tether&#160;and stablecoins face scrutiny,&#160;players like Stripe&#160;re-enter the&#160;conversation, and startups either find traction or flame out. The hype cycle is&#160;over, or&#160;at least taking a&#160;break.&#160;So&#160;what&#160;comes next?&#160; On [&#8230;]...</description>
     </item>
     <item>
+      <title>Samsung Galaxy S26 phone cases: Where to get fun ones right now</title>
+      <link>https://mashable.com/article/samsung-galaxy-s26-phone-cases-where-to-buy</link>
+      <pubDate>Wed, 25 Feb 2026 20:20:07 +0000</pubDate>
+      <guid isPermaLink="false">02REE2i9sWSkcipKupyhg5p</guid>
+      <description>At Samsung Unpacked, the brand released the new Samsung Galaxy S26 phone. If you've already preordered your new phones, start shopping for a new case from Samsung, Burga, and more.</description>
+    </item>
+    <item>
+      <title>The surge of video podcasts raises an awkward question for the industry: Why do we still call them &#8216;podcasts&#8217;?</title>
+      <link>https://www.fastcompany.com/91498688/why-still-called-podcasts-video-pods-new-medium</link>
+      <pubDate>2026-02-25T20:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91498688/why-still-called-podcasts-video-pods-new-medium</guid>
+      <description>As Netflix builds out its visual-podcasting slate, some media watchers say we need new language to describe the medium. It might not be that easy.
+With Netflix now streaming original podcasts and Apple announcing a &#8220;category-leading video experience&#8221; on its app this spring, the meaning of the word &#8220;podcast&#8221; has grown increasingly diffuse.</description>
+    </item>
+    <item>
       <title>Why This Part of Antarctica Bleeds Blood Red</title>
       <link>https://gizmodo.com/why-this-part-of-antarctica-bleeds-blood-red-2000726530</link>
       <pubDate>Wed, 25 Feb 2026 20:10:14 +0000</pubDate>
@@ -52,6 +178,13 @@
       <pubDate>2026-02-25T15:09:14-05:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=884281</guid>
       <description>Samsung unveiled its Galaxy S26 lineup at its recent Unpacked event in San Francisco. As expected, the new series consists of the baseline S26, which starts at $899.99, and the bigger S26 Plus, which starts at $1,099.99. At the high end, there's also the $1,299.99 S26 Ultra, which is the largest in the lineup and [&#8230;]</description>
+    </item>
+    <item>
+      <title>Samsung to auto-tag AI-generated photos in Galaxy S26</title>
+      <link>https://mashable.com/article/samsung-autotag-ai-generated-photos-galaxy-s26</link>
+      <pubDate>Wed, 25 Feb 2026 20:04:40 +0000</pubDate>
+      <guid isPermaLink="false">01jUDhyQfJNdNidrfgaxrBf</guid>
+      <description>When you make AI-generated images with your Galaxy S26 camera app, Samsung will apply an AI label.</description>
     </item>
     <item>
       <title>Alphabet-owned robotics software company Intrinsic joins Google</title>
@@ -68,6 +201,14 @@
       <description>
 Samsung vient d'annoncer les Galaxy S26, S26 Plus et S26 Ultra. Au milieu de plusieurs qualit&#233;s, certains d&#233;fauts retiennent aussi notre attention sur ces smartphones.
 </description>
+    </item>
+    <item>
+      <title>This hotline is letting fans congratulate the U.S. women&#8217;s hockey team after its gold medal win</title>
+      <link>https://www.fastcompany.com/91498742/womens-hockey-gold-medal-hotline</link>
+      <pubDate>2026-02-25T19:59:34</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91498742/womens-hockey-gold-medal-hotline</guid>
+      <description>The 1-833-SHE-WON1 hotline has already received hundreds of emotional messages.
+A new hotline is inviting Americans to congratulate the U.S. women&#8217;s hockey team after its historic Olympic gold medal win&#8212;and it&#8217;s already flooded with messages.</description>
     </item>
     <item>
       <title>Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI</title>
@@ -91,6 +232,13 @@ Samsung vient d'annoncer les Galaxy S26, S26 Plus et S26 Ultra. Au milieu de plu
       <description>Snapchat is the latest social media platform to launch awards for creators, joining TikTok and Instagram.</description>
     </item>
     <item>
+      <title>Samsung Galaxy Unpacked live blog: See the latest updates</title>
+      <link>https://mashable.com/live/samsung-galaxy-unpacked-live-blog-s26-updates</link>
+      <pubDate>Wed, 25 Feb 2026 19:53:46 +0000</pubDate>
+      <guid isPermaLink="false">03IxQBaXFXkzLsx80GSuNbN</guid>
+      <description>Check out the latest Samsung Galaxy phones and products released during the February Unpacked event.</description>
+    </item>
+    <item>
       <title>Tecno just unveiled a ridiculously thin modular smartphone concept design</title>
       <link>https://www.engadget.com/mobile/smartphones/tecno-just-unveiled-a-ridiculously-thin-modular-smartphone-concept-design-194741776.html?src=rss</link>
       <pubDate>Wed, 25 Feb 2026 19:47:42 +0000</pubDate>
@@ -106,169 +254,11 @@ Of course, the size increases with each attached module. However, snapping on th
       <description>Ask Intel is an AI-powered assistant replacing phone-based support and centralizing warranty, troubleshooting, and case management online.</description>
     </item>
     <item>
-      <title>An accountant won a big jackpot on Kalshi by betting against DOGE</title>
-      <link>https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/</link>
-      <pubDate>Wed, 25 Feb 2026 19:36:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096863</guid>
-      <description>A tax accountant saw Elon Musk fans bidding up a Kalshi prediction market and saw a sure bet to make easy money.</description>
-    </item>
-    <item>
-      <title>Inside the story of the US defense contractor who leaked hacking tools to Russia</title>
-      <link>https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/</link>
-      <pubDate>Wed, 25 Feb 2026 19:30:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096822</guid>
-      <description>The former boss of a U.S. hacking tools maker was jailed for selling highly sensitive software exploits to a Russian broker. This is how we first learned of his arrest, reported the story, and some of the unanswered questions we still have.</description>
-    </item>
-    <item>
-      <title>&#8216;The brightness does not change&#8217; &#8212; Samsung answers our 5 biggest Galaxy S26 Ultra Privacy Display questions</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/the-brightness-does-not-change-samsung-answers-our-5-biggest-galaxy-s26-ultra-privacy-display-questions</link>
-      <pubDate>Wed, 25 Feb 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">YV5iaDNnp2zxWFLKwGJ5Pm</guid>
-      <description>Samsung just unveiled the Galaxy S26 Ultra, and its new Privacy Display feature is one of its most valuable upgrades in recent years.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26 Ultra : comment activer l&#8217;affichage confidentiel ? Voici toutes les options &#224; conna&#238;tre</title>
-      <link>https://www.frandroid.com/marques/samsung/2985541_samsung-galaxy-s26-ultra-comment-activer-laffichage-confidentiel-voici-toutes-les-options-a-connaitre</link>
-      <pubDate>Wed, 25 Feb 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2985541_samsung-galaxy-s26-ultra-comment-activer-laffichage-confidentiel-voici-toutes-les-options-a-connaitre</guid>
-      <description>
-Voici comment activer l'option d'affichage confidentiel du Samsung Galaxy S26 Ultra ainsi que toutes les fonctions pratiques de cette technologie.
-</description>
-    </item>
-    <item>
-      <title>HP says RAM now accounts for more than a third of its PC costs</title>
-      <link>https://www.engadget.com/gaming/pc/hp-says-ram-now-accounts-for-more-than-a-third-of-its-pc-costs-192914150.html?src=rss</link>
-      <pubDate>Wed, 25 Feb 2026 19:29:14 +0000</pubDate>
-      <guid isPermaLink="false">88a6a211-afc4-4d0b-b1bc-76a26a7aa121</guid>
-      <description>The cost of PC components has been skyrocketing as AI infrastructure buildout creates extraordinary demand amid limited supply. HP says that squeeze is now hitting PC memory especially hard, with RAM now accounting for 35 percent of a system&#8217;s overall cost.
-"We did share last quarter that memory and storage costs made up roughly 15 percent to 18 percent of our PC bill of materials, and we now currently estimate this to be roughly 35 percent for the year," said CFO Karen Parkhill on the company's latest earnings call. She also confirmed that part of the company's response will be price increase...</description>
-    </item>
-    <item>
-      <title>Le Galaxy S26 Ultra a un mode Oc&#233;an pour photographier et filmer les profondeurs comme un Pro</title>
-      <link>https://www.frandroid.com/marques/samsung/2990858_le-galaxy-s26-ultra-a-un-mode-ocean-pour-photographier-et-filmer-les-profondeurs-comme-un-pro</link>
-      <pubDate>Wed, 25 Feb 2026 19:25:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2990858_le-galaxy-s26-ultra-a-un-mode-ocean-pour-photographier-et-filmer-les-profondeurs-comme-un-pro</guid>
-      <description>
-&#192; la toute fin de son Galaxy Unpacked, Samsung a jet&#233; en p&#226;ture un tout nouveau mode photo/vid&#233;o pour son Galaxy S26 Ultra : le mode oc&#233;an.
-</description>
-    </item>
-    <item>
-      <title>Samsung shows off new display tech that adds a privacy screen to apps and notifications</title>
-      <link>https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications/</link>
-      <pubDate>Wed, 25 Feb 2026 19:23:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096892</guid>
-      <description>The new privacy tech uses different types of pixels to let you block certain apps and notifications from being viewed by others.</description>
-    </item>
-    <item>
-      <title>Anthropic Rolls Back Safety Protocols as It Waits to Find Out If It&#8217;s Being Drafted by the Army</title>
-      <link>https://gizmodo.com/anthropic-rolls-back-safety-protocols-as-it-waits-to-find-out-if-its-being-drafted-by-the-army-2000726567</link>
-      <pubDate>Wed, 25 Feb 2026 19:15:59 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726567</guid>
-      <description>Launching missiles for defense is fine, apparently.</description>
-    </item>
-    <item>
-      <title>Galaxy S26, S26 Plus et S26 Ultra : tout ce qu&#8217;il faut savoir pour pr&#233;commander au meilleur prix les nouveaux fleurons de Samsung</title>
-      <link>https://www.frandroid.com/bons-plans/2987675_galaxy-s26-s26-plus-et-s26-ultra-tout-ce-quil-faut-savoir-pour-precommander-au-meilleur-prix-les-nouveaux-fleurons-de-samsung</link>
-      <pubDate>Wed, 25 Feb 2026 19:15:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2987675_galaxy-s26-s26-plus-et-s26-ultra-tout-ce-quil-faut-savoir-pour-precommander-au-meilleur-prix-les-nouveaux-fleurons-de-samsung</guid>
-      <description>
-Ce mercredi 25 f&#233;vrier 2026 l&#232;ve enfin le voile sur les nouveaux fleurons de Samsung : les Galaxy S26, Galaxy S26 Plus et Galaxy S26 Ultra. Les pr&#233;commandes sont d&#233;j&#224; ouvertes et il y a m&#234;me des r&#233;ductions. 
-</description>
-    </item>
-    <item>
-      <title>Kalshi fined a MrBeast editor for insider trading</title>
-      <link>https://www.engadget.com/big-tech/kalshi-fined-a-mrbeast-editor-for-insider-trading-191027814.html?src=rss</link>
-      <pubDate>Wed, 25 Feb 2026 19:10:27 +0000</pubDate>
-      <guid isPermaLink="false">aa2f8551-4e8b-47ae-9488-f85f6f280629</guid>
-      <description>Kalshi, one of several online prediction markets that have exploded in popularity in the last few years, has suspended one of YouTube MrBeast's video editors for insider trading, NPR reports. Besides being suspended from the platform for two years, Kalshi says the editor will also be required to pay a financial penalty that's five times his initial trade size.The editor, Artem Kaptur, traded in markets related to YouTube and specifically, MrBeast. Kalshi says his transactions were initially flagged because of his "near-perfect trading success on markets with low odds, which were statistically ...</description>
-    </item>
-    <item>
-      <title>Wearable startup CUDIS launches a new health ring line with an AI-fueled &#8216;coach&#8217;</title>
-      <link>https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/</link>
-      <pubDate>Wed, 25 Feb 2026 19:10:04 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096560</guid>
-      <description>The wearable incentivizes healthy behavior with points that can be redeemed for health products.</description>
-    </item>
-    <item>
-      <title>Preorders for Samsung&#8217;s S26 phones come with up to $200 in gift cards</title>
-      <link>https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date</link>
-      <pubDate>2026-02-25T14:09:29-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=883829</guid>
-      <description>As expected, Samsung has taken the wraps off its flagship lineup for 2026. Introduced during the company's recent Unpacked event, the new Galaxy devices - which include the standard S26, the larger S26 Plus, and the high-end S26 Ultra - will be available on March 11th. Preorders are now open ahead of launch, with pricing [&#8230;]</description>
-    </item>
-    <item>
-      <title>Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star</title>
-      <link>https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/</link>
-      <pubDate>Wed, 25 Feb 2026 19:08:04 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096827</guid>
-      <description>Kalshi fined the MrBeast editor, Artem Kaptur, for over $20,000.</description>
-    </item>
-    <item>
-      <title>The public opposition to AI infrastructure is heating up</title>
-      <link>https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/</link>
-      <pubDate>Wed, 25 Feb 2026 19:03:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3085804</guid>
-      <description>Public backlash over the data center boom is leading to a variety of draconian policies &#8212; including bans on new construction.</description>
-    </item>
-    <item>
-      <title>Firing Melissa Barrera Was Very Costly &#8216;Scream&#8217; Decision</title>
-      <link>https://gizmodo.com/firing-melissa-barrera-was-very-costly-scream-decision-2000726534</link>
-      <pubDate>Wed, 25 Feb 2026 19:00:27 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726534</guid>
-      <description>A new report reveals how much it cost to rewrite the script and how much Neve Campbell was paid to return.</description>
-    </item>
-    <item>
-      <title>OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems</title>
-      <link>https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/</link>
-      <pubDate>Wed, 25 Feb 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">699ca7bc7af267bad382dacb</guid>
-      <description>An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.</description>
-    </item>
-    <item>
-      <title>This new Hitman crossover mission features a blockbuster star from the Resident Evil movies</title>
-      <link>https://www.techradar.com/gaming/this-new-hitman-crossover-mission-features-a-blockbuster-star-from-the-resident-evil-movies</link>
-      <pubDate>Wed, 25 Feb 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">eCVUajYnEonHNtfuhqyTxf</guid>
-      <description>The latest celebrity Elusive Target mission has arrived in Hitman World of Assassination.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26, S26 Ultra et Buds 4 Pro : voici le r&#233;sum&#233; des annonces</title>
-      <link>https://www.frandroid.com/marques/samsung/2989759_comment-suivre-le-samsung-unpacked-pour-decouvrir-en-direct-les-nouveaux-smartphones-galaxy</link>
-      <pubDate>Wed, 25 Feb 2026 18:52:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2989759_comment-suivre-le-samsung-unpacked-pour-decouvrir-en-direct-les-nouveaux-smartphones-galaxy</guid>
-      <description>
-On y est. C'est aujourd'hui, mercredi 25 f&#233;vrier, que Samsung abat ses cartes pour l'ann&#233;e 2026. Entre le Galaxy S26 Ultra qui a fait une cure d'amincissement et les promesses de l'IA agentique, il y a de quoi dire. Voici comment ne rien rater.
-</description>
-    </item>
-    <item>
-      <title>Samsung has unveiled its newest earbuds, the Galaxy Buds Pro 4 &#8212; and Best Buy is already offering a free gift card with your purchase</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/samsung-has-unveiled-its-newest-earbuds-the-galaxy-buds-pro-4-and-best-buy-is-already-offering-a-free-gift-card-with-your-purchase</link>
-      <pubDate>Wed, 25 Feb 2026 18:50:41 +0000</pubDate>
-      <guid isPermaLink="false">SU2it3UHsZZnSRw7FuQybY</guid>
-      <description>Samsung's Galaxy Unpacked event unveiled the Galaxy Buds Pro 4, and I've found the best preorder deal: a free $30 gift card with your purchase at Best Buy.</description>
-    </item>
-    <item>
-      <title>&#8216;We are getting it ready': Samsung explains why the Galaxy S26 didn't get a silicon carbon battery upgrade</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/we-are-getting-it-ready-samsung-explains-why-the-galaxy-s26-didnt-get-a-silicon-carbon-battery-upgrade</link>
-      <pubDate>Wed, 25 Feb 2026 18:45:00 +0000</pubDate>
-      <guid isPermaLink="false">o7XPiv2jLvuZbvTseX75s3</guid>
-      <description>A Samsung exec claims the company is getting silicon carbon batteries ready, but that they're still not quite ready for prime-time.</description>
-    </item>
-    <item>
-      <title>Une commande &#224; passer ? Laissez votre t&#233;l&#233;phone faire, Gemini s&#8217;occupe de tout</title>
-      <link>https://www.frandroid.com/marques/samsung/2990676_une-commande-a-passer-laissez-votre-telephone-faire-gemini-soccupe-de-tout</link>
-      <pubDate>Wed, 25 Feb 2026 18:42:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2990676_une-commande-a-passer-laissez-votre-telephone-faire-gemini-soccupe-de-tout</guid>
-      <description>
-Google a pr&#233;sent&#233; le futur de son IA mobile lors du Galaxy Unpacked de Samsung.
-</description>
-    </item>
-    <item>
-      <title>Senate Grills MAHA Influencer Pick for Surgeon General Over Vaccines, Autism, and Financial Ties</title>
-      <link>https://gizmodo.com/trumps-surgeon-general-pick-a-maha-influencer-dodges-autism-question-during-tense-senate-hearing-2000726443</link>
-      <pubDate>Wed, 25 Feb 2026 18:40:33 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726443</guid>
-      <description>Casey Means refused to state her opinion on whether vaccines cause autism and suggested most women are not getting informed consent about the birth control pill.</description>
+      <title>4 things you can do with Galaxy S26 Ultras Privacy Display</title>
+      <link>https://mashable.com/article/samsung-s26-ultra-privacy-display-features-4-things-you-can-do</link>
+      <pubDate>Wed, 25 Feb 2026 19:39:34 +0000</pubDate>
+      <guid isPermaLink="false">05ehUZmXCd5uPvAPXWBxWwP</guid>
+      <description>Samsung's new Galaxy S26 Ultra has Privacy Display, which can do a lot of things to keep your screen's secrets safe.</description>
     </item>
   </channel>
 </rss>
