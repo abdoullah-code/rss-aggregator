@@ -3,19 +3,83 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 25 Feb 2026 21:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 22:38:42 GMT</lastBuildDate>
     <item>
-      <title>8 billion tokens a day forced AT&amp;T to rethink AI orchestration &#8212; and cut costs by 90%</title>
-      <link>https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut</link>
-      <pubDate>Thu, 26 Feb 2026 21:30:00 GMT</pubDate>
-      <guid isPermaLink="false">7BND9iiQlzpkzhHFbu182m</guid>
-      <description>When your average daily token usage is 8 billion a day, you have a massive scale problem. 
-
-This was the case at AT&amp;T, and chief data officer Andy Markus and his team recognized that it simply wasn&#8217;t feasible (or economical) to push everything through large reasoning models. 
-
-So, when building out an internal Ask AT&amp;T personal assistant, they reconstructed the orchestration layer. The result: A multi-agent stack built on LangChain where large language model &#8220;super agents&#8221; direct smaller, underlying &#8220;worker&#8221; agents performing more concise, purpose-driven work. 
-
-This flexible orchestration lay...</description>
+      <title>GL.iNet Slate 7 portable Wi-Fi 7 travel router review: A brilliant travel router with a few strategic flaws that the makers need to fix</title>
+      <link>https://www.techradar.com/pro/gl-inet-slate-7-portable-wi-fi-7-travel-router-review</link>
+      <pubDate>Wed, 25 Feb 2026 22:34:36 +0000</pubDate>
+      <guid isPermaLink="false">MJ62vrD2YA6kvFU7Q9at4j</guid>
+      <description>The GL.iNet Slate 7 is a Wi-Fi 7-capable router designed for home and small-business use that punches above its weight.</description>
+    </item>
+    <item>
+      <title>Guy Bets Entire Life Savings Against Elon Musk, Wins</title>
+      <link>https://gizmodo.com/guy-bets-entire-life-savings-against-elon-musk-wins-2000726731</link>
+      <pubDate>Wed, 25 Feb 2026 22:30:45 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000726731</guid>
+      <description>How to succeed in gambling without really trying.</description>
+    </item>
+    <item>
+      <title>How the new Galaxy S26 phones stack up against each other on paper</title>
+      <link>https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison</link>
+      <pubDate>2026-02-25T17:26:31-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=883733</guid>
+      <description>Samsung has just announced its new Galaxy S26 lineup, which includes the S26, S26 Plus, and S26 Ultra. While they aren't radical departures from last year's models, they bring a handful of notable upgrades. All three run on Qualcomm's Galaxy-centric Snapdragon 8 Elite Gen 5, which delivers improved performance and powers a slew of new [&#8230;]</description>
+    </item>
+    <item>
+      <title>VPN deal of the week: NordVPN&#8217;s birthday sale offers a free way to upgrade your phone&#8217;s privacy to Samsung Galaxy S26 Ultra levels</title>
+      <link>https://www.techradar.com/vpn/vpn-services/vpn-deal-of-the-week-nordvpns-birthday-sale-offers-a-free-way-to-upgrade-your-phones-privacy-to-samsung-galaxy-s26-ultra-levels</link>
+      <pubDate>Wed, 25 Feb 2026 22:20:38 +0000</pubDate>
+      <guid isPermaLink="false">Qb4KGGNuz9bg6mfKCGV6iK</guid>
+      <description>Avoid forking out on an entirely new phone while boosting your phone's privacy</description>
+    </item>
+    <item>
+      <title>Samsung's new super-powered meeting room displays want to make your video calls far more interactive, whether you like it or not</title>
+      <link>https://www.techradar.com/pro/samsungs-new-super-powered-meeting-room-displays-want-to-make-your-video-calls-far-more-interactive-whether-you-like-it-or-not</link>
+      <pubDate>Wed, 25 Feb 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">59htsgRY9TVajgLkbhkJqV</guid>
+      <description>Samsung&#8217;s WAFX-P interactive display combines AI tools, dual-pen input, live captions, and multi-device integration for collaborative business environments.</description>
+    </item>
+    <item>
+      <title>Snap is hosting its own creator awards show</title>
+      <link>https://www.engadget.com/social-media/snap-is-hosting-its-own-creator-awards-show-221859681.html?src=rss</link>
+      <pubDate>Wed, 25 Feb 2026 22:18:59 +0000</pubDate>
+      <guid isPermaLink="false">c6591965-cb46-4241-9796-e655a0a22362</guid>
+      <description>It seems like any and every industry can have its own awards show these days. And why not? Most of us appreciate a chance to bust out the sequins and satin from time to time. If you can celebrate excellent work or make some extra biz dev bucks at the same time, all the better. Snap is the latest social media company to launch its own take on the glitz and glam. The Snappy Awards Show will be held at the company's headquarters on March 31. Comedian and content creator Matt Friend will host the event.Snapchat has been adding more tools for influencers to build audiences, most recently launching ...</description>
+    </item>
+    <item>
+      <title>The AI Arms Race Joins Forces With the Literal Arms Race, Fueling $348 Trillion in Debt</title>
+      <link>https://gizmodo.com/the-ai-arms-race-joins-forces-with-the-literal-arms-race-fueling-348-trillion-in-debt-2000726772</link>
+      <pubDate>Wed, 25 Feb 2026 22:10:32 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000726772</guid>
+      <description>It's the biggest annual increase since the pandemic.</description>
+    </item>
+    <item>
+      <title>Skate's developer is laying off staff before the game leaves early access</title>
+      <link>https://www.engadget.com/gaming/skates-developer-is-laying-off-staff-before-the-game-leaves-early-access-220916797.html?src=rss</link>
+      <pubDate>Wed, 25 Feb 2026 22:09:16 +0000</pubDate>
+      <guid isPermaLink="false">ec20d13f-03e8-4d7f-836c-a5ee7cb325e1</guid>
+      <description>Full Circle, the developer behind the new Skate game, has announced that it is restructuring and laying off staff. It's not yet clear how many roles will be impacted by the changes, but the restructuring is happening less than six months after skate. launched in early access on September 15, 2025."We&#8217;re reshaping Full Circle to better support skate.&#8217;s long-term future," Full Circle says. "These shifts mean making changes to our team structure, and some roles will be impacted. The teammates affected are talented colleagues and friends who helped build the foundation of skate. Their creativity a...</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy S26 vs. iPhone 17: Is It All About AI?</title>
+      <link>https://gizmodo.com/samsung-galaxy-s26-vs-iphone-17-is-it-all-about-ai-2000726526</link>
+      <pubDate>Wed, 25 Feb 2026 22:00:20 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000726526</guid>
+      <description>On paper, the Apple and Samsung's latest phones are nearly neck and neck on all major features.</description>
+    </item>
+    <item>
+      <title>Corsair is halting Drop sales after March 25th</title>
+      <link>https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site</link>
+      <pubDate>2026-02-25T16:58:53-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=884824</guid>
+      <description>The Drop store, which was acquired by gaming gear giant Corsair in 2023, was a haven for mechanical keyboard enthusiasts and audiophiles to discover and buy hard-to-find gear - sometimes at surprisingly good prices. The company will cease sales after March 25th at 11:59PM PT, which is also the cut off to redeem Drop Rewards. [&#8230;]</description>
+    </item>
+    <item>
+      <title>Everything announced at Samsung Unpacked: The Galaxy S26 Ultra, Galaxy Buds 4 and more</title>
+      <link>https://www.engadget.com/mobile/everything-announced-at-samsung-unpacked-the-galaxy-s26-ultra-galaxy-buds-4-and-more-180000530.html?src=rss</link>
+      <pubDate>Wed, 25 Feb 2026 21:38:05 +0000</pubDate>
+      <guid isPermaLink="false">aa960099-5089-40d9-a330-75f5056aaa69</guid>
+      <description>Mobile World Congress is right around the corner, but Samsung got out ahead of many rivals that will be showing off new handsets at that event by running the latest edition of Unpacked on Wednesday. At its event in San Francisco&#8217;s Palace of Fine Arts, the company revealed the Galaxy S26 lineup, which includes the base S26, the S26+ and the S26 Ultra. We've got some hands-on time with all three handsets as well, and you can read about our in-person experience with the Galaxy S26 Ultra, as well as our S26 and S26+ impressions in those articles.In addition to those, Samsung announced the Galaxy B...</description>
     </item>
     <item>
       <title>Teens Declare: Superheroes Are Out, Daddy Energy Is In</title>
@@ -114,151 +178,6 @@ This flexible orchestration lay...</description>
       <pubDate>Wed, 25 Feb 2026 20:41:15 +0000</pubDate>
       <guid isPermaLink="false">b2924601-b0fe-41ec-b482-be0d7169a2d8</guid>
       <description>Microsoft has announced that its rolling out support for streaming games at 1440p on Xbox consoles. Game streaming is a key benefit of paying for a Game Pass subscription, and as of 2025, now also includes games players own that aren't part of the larger Game Pass library.The higher bitrate streaming option will let subscribers with an Xbox Series X or S, Xbox One X or Xbox One play their games at a higher resolution, provided the game and their display supports it. Microsoft previously only offered 1440p streams on select Fire TVs, LG TVs, Samsung TVs, web browsers and the Xbox PC app. At lea...</description>
-    </item>
-    <item>
-      <title>Trump claims tech companies will sign deals next week to pay for their own power supply</title>
-      <link>https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump</link>
-      <pubDate>2026-02-25T15:37:25-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=884191</guid>
-      <description>President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. Trump claimed that he's negotiated a "rate payer protection pledge" with major tech companies, which would see them build out or pay [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Most Messed-Up-Looking &#8216;Absolute Batman&#8217; Villains, Ranked</title>
-      <link>https://gizmodo.com/the-most-messed-up-looking-absolute-batman-villains-ranked-2000726415</link>
-      <pubDate>Wed, 25 Feb 2026 20:30:33 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726415</guid>
-      <description>A hero is only as good as his villains&#8212;and so far DC's blockbuster new take on the Dark Knight is knocking it out of the park.</description>
-    </item>
-    <item>
-      <title>US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs</title>
-      <link>https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/</link>
-      <pubDate>Wed, 25 Feb 2026 20:26:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096990</guid>
-      <description>Under the first year of the Trump administration, the U.S. cyber agency CISA has faced cuts, layoffs, and furloughs, as bipartisan lawmakers and cybersecurity industry sources say the agency is unprepared to handle a crisis.</description>
-    </item>
-    <item>
-      <title>Kalshi Bans MrBeast Video Editor and Political Candidate Over Insider Trading</title>
-      <link>https://gizmodo.com/kalshi-bans-mrbeast-video-editor-and-political-candidate-over-insider-trading-2000726520</link>
-      <pubDate>Wed, 25 Feb 2026 20:24:47 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726520</guid>
-      <description>This is the first known action that the prediction market has taken against users for alleged insider trading.</description>
-    </item>
-    <item>
-      <title>Welcome to the post-hype crypto market</title>
-      <link>https://techcrunch.com/video/welcome-to-the-post-hype-crypto-market/</link>
-      <pubDate>Wed, 25 Feb 2026 20:22:11 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3096986</guid>
-      <description>Crypto is creeping back into the startup conversation, but at&#160;ETHDenver&#160;last week, the buzz was as much about Washington as it was about tokens. Policy shifts are rippling through the market as&#160;Tether&#160;and stablecoins face scrutiny,&#160;players like Stripe&#160;re-enter the&#160;conversation, and startups either find traction or flame out. The hype cycle is&#160;over, or&#160;at least taking a&#160;break.&#160;So&#160;what&#160;comes next?&#160; On [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26 phone cases: Where to get fun ones right now</title>
-      <link>https://mashable.com/article/samsung-galaxy-s26-phone-cases-where-to-buy</link>
-      <pubDate>Wed, 25 Feb 2026 20:20:07 +0000</pubDate>
-      <guid isPermaLink="false">02REE2i9sWSkcipKupyhg5p</guid>
-      <description>At Samsung Unpacked, the brand released the new Samsung Galaxy S26 phone. If you've already preordered your new phones, start shopping for a new case from Samsung, Burga, and more.</description>
-    </item>
-    <item>
-      <title>The surge of video podcasts raises an awkward question for the industry: Why do we still call them &#8216;podcasts&#8217;?</title>
-      <link>https://www.fastcompany.com/91498688/why-still-called-podcasts-video-pods-new-medium</link>
-      <pubDate>2026-02-25T20:20:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91498688/why-still-called-podcasts-video-pods-new-medium</guid>
-      <description>As Netflix builds out its visual-podcasting slate, some media watchers say we need new language to describe the medium. It might not be that easy.
-With Netflix now streaming original podcasts and Apple announcing a &#8220;category-leading video experience&#8221; on its app this spring, the meaning of the word &#8220;podcast&#8221; has grown increasingly diffuse.</description>
-    </item>
-    <item>
-      <title>Why This Part of Antarctica Bleeds Blood Red</title>
-      <link>https://gizmodo.com/why-this-part-of-antarctica-bleeds-blood-red-2000726530</link>
-      <pubDate>Wed, 25 Feb 2026 20:10:14 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726530</guid>
-      <description>Perhaps surprisingly, the answer isn't climate change.</description>
-    </item>
-    <item>
-      <title>Here&#8217;s how the new Samsung Galaxy S26 compares with last year&#8217;s S25</title>
-      <link>https://www.theverge.com/gadgets/884281/samsung-galaxy-s26-plus-ultra-vs-s25-specs-features</link>
-      <pubDate>2026-02-25T15:09:14-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=884281</guid>
-      <description>Samsung unveiled its Galaxy S26 lineup at its recent Unpacked event in San Francisco. As expected, the new series consists of the baseline S26, which starts at $899.99, and the bigger S26 Plus, which starts at $1,099.99. At the high end, there's also the $1,299.99 S26 Ultra, which is the largest in the lineup and [&#8230;]</description>
-    </item>
-    <item>
-      <title>Samsung to auto-tag AI-generated photos in Galaxy S26</title>
-      <link>https://mashable.com/article/samsung-autotag-ai-generated-photos-galaxy-s26</link>
-      <pubDate>Wed, 25 Feb 2026 20:04:40 +0000</pubDate>
-      <guid isPermaLink="false">01jUDhyQfJNdNidrfgaxrBf</guid>
-      <description>When you make AI-generated images with your Galaxy S26 camera app, Samsung will apply an AI label.</description>
-    </item>
-    <item>
-      <title>Alphabet-owned robotics software company Intrinsic joins Google</title>
-      <link>https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/</link>
-      <pubDate>Wed, 25 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096871</guid>
-      <description>Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.</description>
-    </item>
-    <item>
-      <title>Ce qui cloche avec les Samsung Galaxy S26</title>
-      <link>https://www.frandroid.com/marques/samsung/2987095_ce-qui-cloche-avec-les-samsung-galaxy-s26</link>
-      <pubDate>Wed, 25 Feb 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/2987095_ce-qui-cloche-avec-les-samsung-galaxy-s26</guid>
-      <description>
-Samsung vient d'annoncer les Galaxy S26, S26 Plus et S26 Ultra. Au milieu de plusieurs qualit&#233;s, certains d&#233;fauts retiennent aussi notre attention sur ces smartphones.
-</description>
-    </item>
-    <item>
-      <title>This hotline is letting fans congratulate the U.S. women&#8217;s hockey team after its gold medal win</title>
-      <link>https://www.fastcompany.com/91498742/womens-hockey-gold-medal-hotline</link>
-      <pubDate>2026-02-25T19:59:34</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91498742/womens-hockey-gold-medal-hotline</guid>
-      <description>The 1-833-SHE-WON1 hotline has already received hundreds of emotional messages.
-A new hotline is inviting Americans to congratulate the U.S. women&#8217;s hockey team after its historic Olympic gold medal win&#8212;and it&#8217;s already flooded with messages.</description>
-    </item>
-    <item>
-      <title>Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI</title>
-      <link>https://www.wired.com/story/openai-hires-riley-walz/</link>
-      <pubDate>Wed, 25 Feb 2026 19:59:26 +0000</pubDate>
-      <guid isPermaLink="false">699e08ff458686361c3c0d20</guid>
-      <description>The software engineer is famous for his online stunts. Now he&#8217;s joining the company behind ChatGPT to work on new ways for humans to use AI systems.</description>
-    </item>
-    <item>
-      <title>Google and Samsung just launched the AI features Apple couldn&#8217;t with Siri</title>
-      <link>https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri</link>
-      <pubDate>2026-02-25T14:56:55-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=884703</guid>
-      <description>Google just announced that Gemini will soon be able to take care of some multi-step tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the just-announced Samsung Galaxy S26 phones. It all sounds a bit like features Apple announced for Siri way back [&#8230;]</description>
-    </item>
-    <item>
-      <title>Snapchat announces &#8216;The Snappys,&#8217; its first-ever creator awards show</title>
-      <link>https://techcrunch.com/2026/02/25/snapchat-announces-the-snappys-its-first-ever-creator-awards-show/</link>
-      <pubDate>Wed, 25 Feb 2026 19:54:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3096864</guid>
-      <description>Snapchat is the latest social media platform to launch awards for creators, joining TikTok and Instagram.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Unpacked live blog: See the latest updates</title>
-      <link>https://mashable.com/live/samsung-galaxy-unpacked-live-blog-s26-updates</link>
-      <pubDate>Wed, 25 Feb 2026 19:53:46 +0000</pubDate>
-      <guid isPermaLink="false">03IxQBaXFXkzLsx80GSuNbN</guid>
-      <description>Check out the latest Samsung Galaxy phones and products released during the February Unpacked event.</description>
-    </item>
-    <item>
-      <title>Tecno just unveiled a ridiculously thin modular smartphone concept design</title>
-      <link>https://www.engadget.com/mobile/smartphones/tecno-just-unveiled-a-ridiculously-thin-modular-smartphone-concept-design-194741776.html?src=rss</link>
-      <pubDate>Wed, 25 Feb 2026 19:47:42 +0000</pubDate>
-      <guid isPermaLink="false">e3f8f8ca-6771-42a1-a5f0-26e1ee8704e5</guid>
-      <description>Tecno just unveiled a rather intriguing modular smartphone concept design at MWC 2026. The standout feature here is likely the size. Most modular smartphone concepts start bulky and only get bulkier once attaching accessories. Tecno's base smartphone is just 4.9mm thin, which is significantly thinner than a pencil and the iPhone Air.
-Of course, the size increases with each attached module. However, snapping on the power bank module makes the thickness comparable to a standard modern smartphone. Another key feature here is how these various modular components stick together. Tecno has developed...</description>
-    </item>
-    <item>
-      <title>Intel ditches human customer support for 'one of the first of its kind in the semiconductor industry' system made up of Copilot-powered AI agents</title>
-      <link>https://www.techradar.com/pro/intel-ditches-human-customer-support-for-one-of-the-first-of-its-kind-in-the-semiconductor-industry-system-made-of-copilot-powered-ai-agents</link>
-      <pubDate>Wed, 25 Feb 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">xmBtpT933EEoFPpkQo9tVE</guid>
-      <description>Ask Intel is an AI-powered assistant replacing phone-based support and centralizing warranty, troubleshooting, and case management online.</description>
-    </item>
-    <item>
-      <title>4 things you can do with Galaxy S26 Ultras Privacy Display</title>
-      <link>https://mashable.com/article/samsung-s26-ultra-privacy-display-features-4-things-you-can-do</link>
-      <pubDate>Wed, 25 Feb 2026 19:39:34 +0000</pubDate>
-      <guid isPermaLink="false">05ehUZmXCd5uPvAPXWBxWwP</guid>
-      <description>Samsung's new Galaxy S26 Ultra has Privacy Display, which can do a lot of things to keep your screen's secrets safe.</description>
     </item>
   </channel>
 </rss>
