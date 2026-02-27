@@ -3,13 +3,104 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 27 Feb 2026 22:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 23:29:36 GMT</lastBuildDate>
+    <item>
+      <title>Google's Opal just quietly showed enterprise teams the new blueprint for building AI agents</title>
+      <link>https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for</link>
+      <pubDate>Fri, 27 Feb 2026 23:25:00 GMT</pubDate>
+      <guid isPermaLink="false">4iJkfcY0aKLYI45Wq1I6ZZ</guid>
+      <description>For the past year, the enterprise AI community has been locked in a debate about how much freedom to give AI agents. Too little, and you get expensive workflow automation that barely justifies the "agent" label. Too much, and you get the kind of data-wiping disasters that plagued early adopters of tools like OpenClaw. This week, Google Labs released an update to Opal, its no-code visual agent builder, that quietly lands on an answer &#8212; and it carries lessons that every IT leader planning an agent strategy should study carefully.The update introduces what Google calls an "agent step" that transf...</description>
+    </item>
     <item>
       <title>Trump orders federal agencies to drop Anthropic services amid Pentagon feud</title>
       <link>https://www.engadget.com/ai/trump-orders-federal-agencies-to-drop-anthropic-services-amid-pentagon-feud-222029306.html?src=rss</link>
-      <pubDate>Fri, 27 Feb 2026 22:20:29 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 23:12:20 +0000</pubDate>
       <guid isPermaLink="false">2dbf0d01-bed8-4724-80e0-86c32ff84976</guid>
       <description>President Donald Trump has ordered all US government agencies to stop using Claude and other Anthropic services, escalating an already volatile feud between the Department of Defense and company over AI safeguards. Taking to Truth Social on Friday afternoon, the president said there would be a six-month phase out period for federal agencies, including the Defense Department, to migrate off of Anthropic's products.&#160;&#8220;The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War, and force them to obey their Terms of Service instead of our Constituti...</description>
+    </item>
+    <item>
+      <title>OpenAI's big investment from AWS comes with something else: new 'stateful' architecture for enterprise agents</title>
+      <link>https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful</link>
+      <pubDate>Fri, 27 Feb 2026 23:12:00 GMT</pubDate>
+      <guid isPermaLink="false">2vq3O9OnSC3RJXGlvvjiaZ</guid>
+      <description>The landscape of enterprise artificial intelligence shifted fundamentally today as OpenAI announced $110 billion in new funding from three of tech's largest firms: $30 billion from SoftBank, $30 billion from Nvidia, and $50 billion from Amazon.But while the former two players are providing money, OpenAI is going further with Amazon in a new direction, establishing an upcoming fully "Stateful Runtime Environment" on Amazon Web Services (AWS), the world's most used cloud environment.This signals OpenAI's and Amazon's vision of the next phase of the AI economy &#8212; moving from chatbots to autonomous...</description>
+    </item>
+    <item>
+      <title>NASA is pushing back its plans for a Moon landing</title>
+      <link>https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028</link>
+      <pubDate>2026-02-27T18:11:40-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=886656</guid>
+      <description>NASA announced at a press conference on Friday that it's delaying its plans for a Moon landing until Artemis IV in 2028. The Artemis III mission, scheduled for 2027, was originally going to attempt to land on the Moon but will now be a test flight instead. NASA also says it's "increasing its cadence of [&#8230;]</description>
+    </item>
+    <item>
+      <title>Defense secretary Pete Hegseth designates Anthropic a supply chain risk</title>
+      <link>https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff</link>
+      <pubDate>2026-02-27T18:06:02-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=886632</guid>
+      <description>Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a "supply-chain risk". The decision could immediately impact numerous major tech companies that [&#8230;]...</description>
+    </item>
+    <item>
+      <title>FCC approves the merger of cable giants Cox and Charter</title>
+      <link>https://www.engadget.com/big-tech/fcc-approves-the-merger-of-cable-giants-cox-and-charter-230258865.html?src=rss</link>
+      <pubDate>Fri, 27 Feb 2026 23:02:58 +0000</pubDate>
+      <guid isPermaLink="false">b48ab486-64d5-426a-9cf7-ef2d740f2365</guid>
+      <description>The Federal Communications Commission has given the go ahead for two of the US' biggest cable providers, Charter Communications and Cox Communications, to merge. Charter announced its intention to acquire Cox for $34.5 billion in May 2025, with specific plans to inherit Cox's managed IT, commercial fiber and cloud businesses, while folding the company's residential cable service into a subsidiary.&#8220;By approving this deal, the FCC ensures big wins for Americans," FCC Chairman Brendan Carr said in a statement. "This deal means that jobs are coming back to America that had been shipped overseas. I...</description>
+    </item>
+    <item>
+      <title>OpenAI fires employee for using confidential info on prediction markets</title>
+      <link>https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/</link>
+      <pubDate>Fri, 27 Feb 2026 23:00:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3098116</guid>
+      <description>The company said such trades violates its internal company policies about using confidential information for personal gain.</description>
+    </item>
+    <item>
+      <title>From season 4: everything we know so far about the hit sci-fi horror show's return to MGM+</title>
+      <link>https://www.techradar.com/streaming/from-season-4</link>
+      <pubDate>Fri, 27 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Rw5m23r2fVcqEQjADHZoVM</guid>
+      <description>From season 4 arrives on April 19 &#8211; here's everything we know so far, including the sci-fi horror show's confirmed release date, cast, plot rumors, news and more.</description>
+    </item>
+    <item>
+      <title>LG's OLED TVs get certified as the contrast king even over RGB TV tech in tests, though we have some questions &#8212; including why LG says this makes them 'the optimal choice in the AI era'</title>
+      <link>https://www.techradar.com/televisions/lgs-oled-tvs-get-certified-as-the-contrast-king-even-over-rgb-tv-tech-in-tests-though-we-have-some-questions-including-why-lg-says-this-makes-them-the-optimal-choice-in-the-ai-era</link>
+      <pubDate>Fri, 27 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">KgAQw3cKmbZeLQbrWA265h</guid>
+      <description>LG Display has been awarded '100% dimming consistency' by a third-party assessor to show that OLEDs are more consistent than LCD</description>
+    </item>
+    <item>
+      <title>'Tiny brewers that pack a punch' &#8212; I test kitchen appliances for a living, and these are my top 3 compact coffee makers for small spaces</title>
+      <link>https://www.techradar.com/home/coffee-machines/tiny-brewers-that-pack-a-punch-i-test-kitchen-appliances-for-a-living-and-these-are-my-top-3-compact-coffee-makers-for-small-spaces</link>
+      <pubDate>Fri, 27 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2FutZxg7RQ9nveXEeHxffS</guid>
+      <description>I test coffee makers for a living, and these are my top-rated espresso machines for small kitchens.</description>
+    </item>
+    <item>
+      <title>A Dish of Neurons Playing DOOM Is the Wildest Thing I&#8217;ve Seen in Ages</title>
+      <link>https://gizmodo.com/a-dish-of-neurons-playing-doom-is-the-wildest-thing-ive-seen-in-ages-2000727674</link>
+      <pubDate>Fri, 27 Feb 2026 22:50:47 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000727674</guid>
+      <description>Coming soon to a LAN party near you: a Petri dish.</description>
+    </item>
+    <item>
+      <title>&#8216;Mars Express&#8217; Is Phenomenal Because It Remembers What Cyberpunk Actually Means</title>
+      <link>https://gizmodo.com/mars-express-is-phenomenal-because-it-remembers-what-cyberpunk-actually-means-2000727011</link>
+      <pubDate>Fri, 27 Feb 2026 22:30:12 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000727011</guid>
+      <description>The criminally slept-on sci-fi noir animated film understands that its genre is a warning, not an aspiration.</description>
+    </item>
+    <item>
+      <title>The Great Insider Trading Reckoning Reportedly Hits OpenAI</title>
+      <link>https://gizmodo.com/the-great-insider-trading-reckoning-reportedly-hits-openai-2000727838</link>
+      <pubDate>Fri, 27 Feb 2026 22:30:01 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000727838</guid>
+      <description>Apparently the paycheck isn't enough.</description>
+    </item>
+    <item>
+      <title>'From the first visit to our website to the final tram ride home' &#8212; Disneyland&#8217;s plan to make your trip easier</title>
+      <link>https://www.techradar.com/streaming/entertainment/from-the-first-visit-to-our-website-to-the-final-tram-ride-home-disneylands-plan-to-make-your-trip-easier</link>
+      <pubDate>Fri, 27 Feb 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">js3fYJQsod7abEng8PBacb</guid>
+      <description>Disneyland Resort President Thomas Mazloum said the parks are being simplified from trip planning to departure, aiming to make visits smoother now, even as major new attractions are built.</description>
     </item>
     <item>
       <title>Minisforum MS-S1 Max Mini Workstation, with AMD Ryzen AI Max+ 395 processor, 128GB LPDDR5 RAM and 2TB SSD is almost half price right now</title>
@@ -61,7 +152,7 @@
       <description>This week, Lockout Supplements issued a voluntary recall of its "Boner Bears Chocolate Syrup" for having unlabeled amounts of sildenafil.</description>
     </item>
     <item>
-      <title>President Trump orders federal agencies to stop using Anthropic after Pentagon dispute</title>
+      <title>Pentagon moves to designate Anthropic as a supply-chain risk</title>
       <link>https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/</link>
       <pubDate>Fri, 27 Feb 2026 21:53:14 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3098106</guid>
@@ -101,48 +192,6 @@
       <pubDate>Fri, 27 Feb 2026 21:30:30 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000727690</guid>
       <description>Who is Ghostface? What was their objective? Did any of it make sense? Let's dig in.</description>
-    </item>
-    <item>
-      <title>How to watch The Turkish Detective from anywhere &#8211; it's *FREE*</title>
-      <link>https://www.techradar.com/how-to-watch/the-turkish-detective-free</link>
-      <pubDate>Fri, 27 Feb 2026 21:10:09 +0000</pubDate>
-      <guid isPermaLink="false">vkqiePUjj6WMuQcExFWtPA</guid>
-      <description>Here's how to watch The Turkish Detective online from anywhere in the world, completely FREE.</description>
-    </item>
-    <item>
-      <title>'Modernizing a COBOL system once required armies of consultants spending years mapping workflows... AI changes this': Anthropic says AI could help keep COBOL running for a long time to come &#8212; but IBM won't be happy</title>
-      <link>https://www.techradar.com/pro/modernizing-a-cobol-system-once-required-armies-of-consultants-spending-years-mapping-workflows-ai-changes-this-anthropic-says-ai-could-help-keep-cobol-running-for-a-long-time-to-come-but-ibm-wont-be-happy</link>
-      <pubDate>Fri, 27 Feb 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">L3pjUimzePXCt3JA3Taat6</guid>
-      <description>AI now allows engineers to modernize complex COBOL systems efficiently, automating code analysis, testing, and incremental implementation for long-term operation.</description>
-    </item>
-    <item>
-      <title>Jupiter Mission Captures Rare Shot of Interstellar Comet 3I/Atlas on Its Way Out</title>
-      <link>https://gizmodo.com/jupiter-probe-spots-interstellar-comet-spewing-gas-and-dust-2000727797</link>
-      <pubDate>Fri, 27 Feb 2026 20:50:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727797</guid>
-      <description>The JUICE mission snapped photos of Comet 3I/Atlas after surviving its closest approach to the Sun.</description>
-    </item>
-    <item>
-      <title>The Best Roku Is $20 Off</title>
-      <link>https://www.wired.com/story/roku-ultra-deal-226/</link>
-      <pubDate>Fri, 27 Feb 2026 20:38:58 +0000</pubDate>
-      <guid isPermaLink="false">69a1de67a1f07be8b2d1f004</guid>
-      <description>The Roku Ultra isn&#8217;t just speedier, it also offers some advanced features that some viewers will find really handy.</description>
-    </item>
-    <item>
-      <title>The Tech Elite Aren&#8217;t on the Secret Guest List at Bohemian Grove: Report</title>
-      <link>https://gizmodo.com/the-tech-elite-arent-on-the-secret-guest-list-at-bohemian-grove-report-2000727408</link>
-      <pubDate>Fri, 27 Feb 2026 20:35:03 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727408</guid>
-      <description>A leaked list of Bohemian Grove camp attendee list shows some surprising guests and a noticeable absence of tech titans.</description>
-    </item>
-    <item>
-      <title>The Films and Shows You Should Be Streaming in March 2026</title>
-      <link>https://gizmodo.com/the-films-and-shows-you-should-be-streaming-in-march-2026-2000726198</link>
-      <pubDate>Fri, 27 Feb 2026 20:30:04 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000726198</guid>
-      <description>We've picked out the best horror, sci-fi, and genre titles coming to Netflix, Hulu, Disney+, and beyond.</description>
     </item>
   </channel>
 </rss>
