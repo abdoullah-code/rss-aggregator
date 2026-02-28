@@ -3,195 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 27 Feb 2026 23:29:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:20:45 GMT</lastBuildDate>
     <item>
-      <title>Google's Opal just quietly showed enterprise teams the new blueprint for building AI agents</title>
-      <link>https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for</link>
-      <pubDate>Fri, 27 Feb 2026 23:25:00 GMT</pubDate>
-      <guid isPermaLink="false">4iJkfcY0aKLYI45Wq1I6ZZ</guid>
-      <description>For the past year, the enterprise AI community has been locked in a debate about how much freedom to give AI agents. Too little, and you get expensive workflow automation that barely justifies the "agent" label. Too much, and you get the kind of data-wiping disasters that plagued early adopters of tools like OpenClaw. This week, Google Labs released an update to Opal, its no-code visual agent builder, that quietly lands on an answer &#8212; and it carries lessons that every IT leader planning an agent strategy should study carefully.The update introduces what Google calls an "agent step" that transf...</description>
+      <title>Defense secretary Pete Hegseth designates Anthropic a supply chain risk</title>
+      <link>https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff</link>
+      <pubDate>2026-02-27T21:19:16-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=886632</guid>
+      <description>Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a "supply-chain risk," which Anthropic says it is willing to challenge in court. [&#8230;]</description>
     </item>
     <item>
       <title>Trump orders federal agencies to drop Anthropic services amid Pentagon feud</title>
       <link>https://www.engadget.com/ai/trump-orders-federal-agencies-to-drop-anthropic-services-amid-pentagon-feud-222029306.html?src=rss</link>
-      <pubDate>Fri, 27 Feb 2026 23:12:20 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 02:08:49 +0000</pubDate>
       <guid isPermaLink="false">2dbf0d01-bed8-4724-80e0-86c32ff84976</guid>
       <description>President Donald Trump has ordered all US government agencies to stop using Claude and other Anthropic services, escalating an already volatile feud between the Department of Defense and company over AI safeguards. Taking to Truth Social on Friday afternoon, the president said there would be a six-month phase out period for federal agencies, including the Defense Department, to migrate off of Anthropic's products.&#160;&#8220;The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War, and force them to obey their Terms of Service instead of our Constituti...</description>
     </item>
     <item>
-      <title>OpenAI's big investment from AWS comes with something else: new 'stateful' architecture for enterprise agents</title>
-      <link>https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful</link>
-      <pubDate>Fri, 27 Feb 2026 23:12:00 GMT</pubDate>
-      <guid isPermaLink="false">2vq3O9OnSC3RJXGlvvjiaZ</guid>
-      <description>The landscape of enterprise artificial intelligence shifted fundamentally today as OpenAI announced $110 billion in new funding from three of tech's largest firms: $30 billion from SoftBank, $30 billion from Nvidia, and $50 billion from Amazon.But while the former two players are providing money, OpenAI is going further with Amazon in a new direction, establishing an upcoming fully "Stateful Runtime Environment" on Amazon Web Services (AWS), the world's most used cloud environment.This signals OpenAI's and Amazon's vision of the next phase of the AI economy &#8212; moving from chatbots to autonomous...</description>
+      <title>I tested Turtle Beach&#8217;s Mario-infused Nintendo Switch 2 controller, and its combination of a flashy design with TMR thumbsticks won me over &#8212; even if it does omit a few too many features</title>
+      <link>https://www.techradar.com/gaming/nintendo/turtle-beach-rematch-wireless-controller-for-nintendo-switch-2-review</link>
+      <pubDate>Sat, 28 Feb 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">H4VnUHNSk2uGwPygYLSnEC</guid>
+      <description>I reviewed the new Rematch controller for Nintendo Switch 2, and while it impressed me with TMR thumbsticks and a fun design, I wish Turtle Beach added a few more features.</description>
     </item>
     <item>
-      <title>NASA is pushing back its plans for a Moon landing</title>
-      <link>https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028</link>
-      <pubDate>2026-02-27T18:11:40-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=886656</guid>
-      <description>NASA announced at a press conference on Friday that it's delaying its plans for a Moon landing until Artemis IV in 2028. The Artemis III mission, scheduled for 2027, was originally going to attempt to land on the Moon but will now be a test flight instead. NASA also says it's "increasing its cadence of [&#8230;]</description>
+      <title>&#8216;The sonic gap is narrowing fast&#8217; &#8211; after pitting my TCL TV&#8217;s built-in Bang &amp; Olufsen sound against an external soundbar, I&#8217;m starting to doubt whether every set needs an aural upgrade</title>
+      <link>https://www.techradar.com/televisions/the-sonic-gap-is-narrowing-fast-after-pitting-my-tcl-tvs-built-in-bang-and-olufsen-sound-against-an-external-soundbar-im-starting-to-doubt-whether-every-set-needs-an-aural-upgrade</link>
+      <pubDate>Sat, 28 Feb 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jNabqH3PvHcf2a2DyjpNFU</guid>
+      <description>Since testing this modern, mid-range TV, I&#8217;m beginning to doubt whether every screen requires a soundbar by default.</description>
     </item>
     <item>
-      <title>Defense secretary Pete Hegseth designates Anthropic a supply chain risk</title>
-      <link>https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff</link>
-      <pubDate>2026-02-27T18:06:02-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=886632</guid>
-      <description>Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a "supply-chain risk". The decision could immediately impact numerous major tech companies that [&#8230;]...</description>
+      <title>5 prompts that show how powerful Nano Banana 2 is</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/gemini/5-prompts-that-show-how-powerful-nano-banana-2-is</link>
+      <pubDate>Sat, 28 Feb 2026 01:30:00 +0000</pubDate>
+      <guid isPermaLink="false">Tkx5mfqKbe2kGMwg5kLAW6</guid>
+      <description>Nano Banana 2 image prompts that showcase its powerful enhancements</description>
     </item>
     <item>
-      <title>FCC approves the merger of cable giants Cox and Charter</title>
-      <link>https://www.engadget.com/big-tech/fcc-approves-the-merger-of-cable-giants-cox-and-charter-230258865.html?src=rss</link>
-      <pubDate>Fri, 27 Feb 2026 23:02:58 +0000</pubDate>
-      <guid isPermaLink="false">b48ab486-64d5-426a-9cf7-ef2d740f2365</guid>
-      <description>The Federal Communications Commission has given the go ahead for two of the US' biggest cable providers, Charter Communications and Cox Communications, to merge. Charter announced its intention to acquire Cox for $34.5 billion in May 2025, with specific plans to inherit Cox's managed IT, commercial fiber and cloud businesses, while folding the company's residential cable service into a subsidiary.&#8220;By approving this deal, the FCC ensures big wins for Americans," FCC Chairman Brendan Carr said in a statement. "This deal means that jobs are coming back to America that had been shipped overseas. I...</description>
+      <title>I tested this compact drip-coffee machine and it&#8217;s a fantastically fuss-free way to brew small batches of coffee &#8212; even if it can&#8217;t quite reach the intense flavor of more methodical methods</title>
+      <link>https://www.techradar.com/home/coffee-machines/i-tested-this-compact-drip-coffee-machine-and-its-a-fantastically-fuss-free-way-to-brew-small-batches-of-coffee-even-if-it-cant-quite-reach-the-intense-flavor-of-more-methodical-methods</link>
+      <pubDate>Sat, 28 Feb 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ySCkDpbWwDpc5Fi4C6GEma</guid>
+      <description>The Ratio Four drip-coffee machine offers solid, small-batch brews with absolutely minimal hassle &#8211;it's great for couples or coffee fans that are flying solo.</description>
     </item>
     <item>
-      <title>OpenAI fires employee for using confidential info on prediction markets</title>
-      <link>https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/</link>
-      <pubDate>Fri, 27 Feb 2026 23:00:54 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3098116</guid>
-      <description>The company said such trades violates its internal company policies about using confidential information for personal gain.</description>
+      <title>Ford is charging customers to add a 'frunk' to its 2026 Mustang &#8211; and it isn't going down well</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ford-is-charging-customers-to-add-a-frunk-to-its-2026-mustang-and-it-isnt-going-down-well</link>
+      <pubDate>Sat, 28 Feb 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">srVsqBaELuGFaGXbJ7KHpZ</guid>
+      <description>Ford has started making the 'frunk', or front trunk, a paid-for option on its 2026 Mustang Mach-E. And it isn't going down well.</description>
     </item>
     <item>
-      <title>From season 4: everything we know so far about the hit sci-fi horror show's return to MGM+</title>
-      <link>https://www.techradar.com/streaming/from-season-4</link>
-      <pubDate>Fri, 27 Feb 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Rw5m23r2fVcqEQjADHZoVM</guid>
-      <description>From season 4 arrives on April 19 &#8211; here's everything we know so far, including the sci-fi horror show's confirmed release date, cast, plot rumors, news and more.</description>
-    </item>
-    <item>
-      <title>LG's OLED TVs get certified as the contrast king even over RGB TV tech in tests, though we have some questions &#8212; including why LG says this makes them 'the optimal choice in the AI era'</title>
-      <link>https://www.techradar.com/televisions/lgs-oled-tvs-get-certified-as-the-contrast-king-even-over-rgb-tv-tech-in-tests-though-we-have-some-questions-including-why-lg-says-this-makes-them-the-optimal-choice-in-the-ai-era</link>
-      <pubDate>Fri, 27 Feb 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">KgAQw3cKmbZeLQbrWA265h</guid>
-      <description>LG Display has been awarded '100% dimming consistency' by a third-party assessor to show that OLEDs are more consistent than LCD</description>
-    </item>
-    <item>
-      <title>'Tiny brewers that pack a punch' &#8212; I test kitchen appliances for a living, and these are my top 3 compact coffee makers for small spaces</title>
-      <link>https://www.techradar.com/home/coffee-machines/tiny-brewers-that-pack-a-punch-i-test-kitchen-appliances-for-a-living-and-these-are-my-top-3-compact-coffee-makers-for-small-spaces</link>
-      <pubDate>Fri, 27 Feb 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2FutZxg7RQ9nveXEeHxffS</guid>
-      <description>I test coffee makers for a living, and these are my top-rated espresso machines for small kitchens.</description>
-    </item>
-    <item>
-      <title>A Dish of Neurons Playing DOOM Is the Wildest Thing I&#8217;ve Seen in Ages</title>
-      <link>https://gizmodo.com/a-dish-of-neurons-playing-doom-is-the-wildest-thing-ive-seen-in-ages-2000727674</link>
-      <pubDate>Fri, 27 Feb 2026 22:50:47 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727674</guid>
-      <description>Coming soon to a LAN party near you: a Petri dish.</description>
-    </item>
-    <item>
-      <title>&#8216;Mars Express&#8217; Is Phenomenal Because It Remembers What Cyberpunk Actually Means</title>
-      <link>https://gizmodo.com/mars-express-is-phenomenal-because-it-remembers-what-cyberpunk-actually-means-2000727011</link>
-      <pubDate>Fri, 27 Feb 2026 22:30:12 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727011</guid>
-      <description>The criminally slept-on sci-fi noir animated film understands that its genre is a warning, not an aspiration.</description>
-    </item>
-    <item>
-      <title>The Great Insider Trading Reckoning Reportedly Hits OpenAI</title>
-      <link>https://gizmodo.com/the-great-insider-trading-reckoning-reportedly-hits-openai-2000727838</link>
-      <pubDate>Fri, 27 Feb 2026 22:30:01 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727838</guid>
-      <description>Apparently the paycheck isn't enough.</description>
-    </item>
-    <item>
-      <title>'From the first visit to our website to the final tram ride home' &#8212; Disneyland&#8217;s plan to make your trip easier</title>
-      <link>https://www.techradar.com/streaming/entertainment/from-the-first-visit-to-our-website-to-the-final-tram-ride-home-disneylands-plan-to-make-your-trip-easier</link>
-      <pubDate>Fri, 27 Feb 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">js3fYJQsod7abEng8PBacb</guid>
-      <description>Disneyland Resort President Thomas Mazloum said the parks are being simplified from trip planning to departure, aiming to make visits smoother now, even as major new attractions are built.</description>
-    </item>
-    <item>
-      <title>Minisforum MS-S1 Max Mini Workstation, with AMD Ryzen AI Max+ 395 processor, 128GB LPDDR5 RAM and 2TB SSD is almost half price right now</title>
-      <link>https://www.techradar.com/pro/minisforum-ms-s1-max-mini-workstation-with-amd-ryzen-ai-max-395-processor-128gb-lpddr5-ram-and-2tb-ssd-is-almost-half-price-right-now</link>
-      <pubDate>Fri, 27 Feb 2026 22:15:00 +0000</pubDate>
-      <guid isPermaLink="false">TwuAWRczsydVQQnwC3Q9gA</guid>
-      <description>Powered by the AMD Ryzen AI Max+ 395, the MS-S1 Max is built for intensive multitasking and demanding professional workloads.</description>
-    </item>
-    <item>
-      <title>IKEA just released a whole heap of smart new kitchen lighting and storage solutions &#8212; with prices starting at just $2</title>
-      <link>https://www.techradar.com/home/smart-home/ikea-just-released-a-whole-heap-of-smart-new-kitchen-lighting-and-storage-solutions-with-prices-starting-at-just-usd2</link>
-      <pubDate>Fri, 27 Feb 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RU6fx9tqQhaJ3q72K3cS8G</guid>
-      <description>It's the perfect time to start spring cleaning and brighten up your cooking space with these bargain storage and lighting options.</description>
-    </item>
-    <item>
-      <title>A new Stuff Your Kindle Day is live for 1 day only &#8212; score dark romance books for free</title>
-      <link>https://mashable.com/article/stuff-your-kindle-day-dark-romance-books-for-free</link>
-      <pubDate>Fri, 27 Feb 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">07E480Z455ePSP3dXuQjTgM</guid>
-      <description>The latest Stuff Your Kindle Day is live on Feb. 28. Indulge in the Darkness is offering free dark romance books for one day only.</description>
-    </item>
-    <item>
-      <title>This $20 lifetime ad blocker gives the whole family a more peaceful internet experience</title>
-      <link>https://mashable.com/article/feb-27-adguard-family-plan-lifetime-subscription</link>
-      <pubDate>Fri, 27 Feb 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">02fYYdu7Rma3cZhXpeKd9Yv</guid>
-      <description>Give your family a more peaceful internet experience with this lifetime subscription to AdGuard Family Plan, on sale now for just $19.97 through March 1.</description>
-    </item>
-    <item>
-      <title>Paramount agrees to buy Warner Bros. Discovery, pays Netflix $2.8 billion for breakup</title>
-      <link>https://www.engadget.com/entertainment/paramount-agrees-to-buy-warner-bros-discovery-pays-netflix-28-billion-for-breakup-215936514.html?src=rss</link>
-      <pubDate>Fri, 27 Feb 2026 21:59:36 +0000</pubDate>
-      <guid isPermaLink="false">868aa77b-0e56-4b37-af60-1b569fcf2e5a</guid>
-      <description>Paramount Skydance and Warner Bros. Discovery are officially merging. The studio paid Netflix the $2.8 billion termination fee it was owed for breaking its original deal to buy Warner Bros. earlier today, and the historic film studio has now formally accepted Paramount&#8217;s offer.Along with the deal, which values Warner Bros. Discovery at $31 per share, Paramount is making several commitments to assuage the fears of regulators and the entertainment community. Those include a guarantee that the new company will produce 30 theatrical films annually, that theatrical releases will have a minimum 45-d...</description>
-    </item>
-    <item>
-      <title>These Deals Can Have You Zipping Around on a New E-Scooter This Spring</title>
-      <link>https://www.wired.com/story/electric-scooters-spring-deals-2026/</link>
-      <pubDate>Fri, 27 Feb 2026 21:55:44 +0000</pubDate>
-      <guid isPermaLink="false">69a1ce0651e2b656613d587c</guid>
-      <description>With spring just around the corner, now's the smart time to snag an electric scooter.</description>
-    </item>
-    <item>
-      <title>Chocolate &#8216;Boner&#8217; Syrup Recalled for Actually Containing Viagra Ingredient</title>
-      <link>https://gizmodo.com/chocolate-boner-syrup-recalled-for-actually-containing-viagra-ingredient-2000727848</link>
-      <pubDate>Fri, 27 Feb 2026 21:55:24 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727848</guid>
-      <description>This week, Lockout Supplements issued a voluntary recall of its "Boner Bears Chocolate Syrup" for having unlabeled amounts of sildenafil.</description>
-    </item>
-    <item>
-      <title>Pentagon moves to designate Anthropic as a supply-chain risk</title>
-      <link>https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/</link>
-      <pubDate>Fri, 27 Feb 2026 21:53:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3098106</guid>
-      <description>"We don't need it, we don't want it, and will not do business with them again," the president wrote in the post.</description>
-    </item>
-    <item>
-      <title>Warner Bros. Discovery agrees to $110 billion Paramount merger</title>
-      <link>https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement</link>
-      <pubDate>2026-02-27T16:43:37-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=886478</guid>
-      <description>Warner Bros. Discovery and Paramount Skydance's merger agreement is now official. On Friday, the two companies announced plans to merge into a massive media company that will fold WBD's studio, linear channels, streaming service, and gaming segment into Paramount. Though WBD initially signed onto an $83 billion agreement to merge part of Warner Bros. with [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Trump Says US Is Cutting Off Anthropic for Refusing to Drop AI Safeguards</title>
-      <link>https://gizmodo.com/trump-threatens-criminal-consequences-for-anthropic-over-ai-safety-guard-fight-2000727947</link>
-      <pubDate>Fri, 27 Feb 2026 21:37:06 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727947</guid>
-      <description>The President said the AI startup is filled with "leftwing nut jobs."</description>
-    </item>
-    <item>
-      <title>Trump Moves to Ban Anthropic From the US Government</title>
-      <link>https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/</link>
-      <pubDate>Fri, 27 Feb 2026 21:36:31 +0000</pubDate>
-      <guid isPermaLink="false">69a093144a77d405a1150272</guid>
-      <description>President Donald Trump&#8217;s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.</description>
-    </item>
-    <item>
-      <title>Trump orders federal agencies to drop Anthropic&#8217;s AI</title>
-      <link>https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod</link>
-      <pubDate>2026-02-27T16:30:47-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=886489</guid>
-      <description>On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to "STRONG-ARM" the Pentagon and directing federal agencies to "IMMEDIATELY CEASE" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to "any lawful use" of [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Let&#8217;s Talk About the Ending of &#8216;Scream 7&#8217;</title>
-      <link>https://gizmodo.com/lets-talk-about-the-ending-of-scream-7-2000727690</link>
-      <pubDate>Fri, 27 Feb 2026 21:30:30 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727690</guid>
-      <description>Who is Ghostface? What was their objective? Did any of it make sense? Let's dig in.</description>
+      <title>The best instant cameras you can buy right now</title>
+      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
+      <pubDate>2026-02-27T19:32:11-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
+      <description>Even with the ability to take excellent photos with our phones and instantly share them across the world, there&#8217;s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured by an instant camera [&#8230;]</description>
     </item>
   </channel>
 </rss>
