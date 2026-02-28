@@ -3,27 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 28 Feb 2026 04:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 05:35:47 GMT</lastBuildDate>
     <item>
       <title>India disrupts access to popular developer platform Supabase with blocking order</title>
       <link>https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/</link>
       <pubDate>Sat, 28 Feb 2026 03:51:52 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3098082</guid>
       <description>India, one of Supabase&#8217;s biggest markets, is seeing patchy access after a government block order.</description>
-    </item>
-    <item>
-      <title>Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'</title>
-      <link>https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/</link>
-      <pubDate>Sat, 28 Feb 2026 03:30:41 +0000</pubDate>
-      <guid isPermaLink="false">69a22ffab6112f3ba234df67</guid>
-      <description>Anthropic says it would be &#8220;legally unsound&#8221; for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.</description>
-    </item>
-    <item>
-      <title>Defense secretary Pete Hegseth designates Anthropic a supply chain risk</title>
-      <link>https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff</link>
-      <pubDate>2026-02-27T21:19:16-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=886632</guid>
-      <description>Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a "supply-chain risk," which Anthropic says it is willing to challenge in court. [&#8230;]</description>
     </item>
   </channel>
 </rss>
