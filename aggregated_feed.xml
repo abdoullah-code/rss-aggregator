@@ -3,7 +3,43 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 01 Mar 2026 19:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 20:32:51 GMT</lastBuildDate>
+    <item>
+      <title>Portable Sonos Play speaker leaks on Canadian Best Buy</title>
+      <link>https://www.theverge.com/tech/887220/sonos-play-leak</link>
+      <pubDate>2026-03-01T15:10:10-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=887220</guid>
+      <description>An unannounced Sonos speaker called Play has been spotted on the Canadian Best Buy site. The Sonos Play looks like a slightly shrunk-down version of the Move 2 with a loop on the back for toting it around. While nothing is confirmed yet, it's listed at CAD $399.99 with a release date of March 31st, [&#8230;]</description>
+    </item>
+    <item>
+      <title>AMD is taking the fight to Intel with its most powerful Epyc chips yet &#8212; Sorano packs in 84 Zen5 cores and could supercharge the next generation of mobile networks</title>
+      <link>https://www.techradar.com/pro/amd-is-taking-the-fight-to-intel-with-its-most-powerful-epyc-chips-yet-sorano-packs-in-84-zen5-cores-and-could-supercharge-the-next-generation-of-mobile-networks</link>
+      <pubDate>Sun, 01 Mar 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">RBBuAcqCDkbso9RqCXcoab</guid>
+      <description>AMD introduces 84-core Sorano Epyc chip for telecom networks, emphasizing efficiency and challenging Intel&#8217;s entrenched presence in virtualized infrastructure.</description>
+    </item>
+    <item>
+      <title>The Pentagon&#8217;s Claude Use in Iran Is a Reminder that Anthropic Never Objected to Military Use</title>
+      <link>https://gizmodo.com/the-pentagons-claude-use-in-iran-is-a-reminder-that-anthropic-never-objected-to-military-use-2000728150</link>
+      <pubDate>Sun, 01 Mar 2026 20:05:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000728150</guid>
+      <description>The company objected to hypothetical future use cases, not anything the military is currently doing.</description>
+    </item>
+    <item>
+      <title>Blumhouse Wants to Be Perfectly Balanced for Horror Fans</title>
+      <link>https://gizmodo.com/blumhouse-wants-to-be-perfectly-balanced-for-horror-fans-2000728153</link>
+      <pubDate>Sun, 01 Mar 2026 19:50:52 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000728153</guid>
+      <description>Jason Blum knows IP is the lifeblood of entertainment right now, but Blumhouse will keep pumping out originals on a regular basis.</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude grabs top spot in App Store after Trump's ban</title>
+      <link>https://www.engadget.com/big-tech/anthropics-claude-grabs-top-spot-in-app-store-after-trumps-ban-193610130.html?src=rss</link>
+      <pubDate>Sun, 01 Mar 2026 19:36:10 +0000</pubDate>
+      <guid isPermaLink="false">1688b9b5-b570-4afb-9311-cb9078f326a7</guid>
+      <description>Anthropic may have lost out on doing business with the US government, but it's gained enough popularity to earn the number one spot on the App Store's Top Free Apps leaderboard. At the top, Claude beat out both ChatGPT and Google Gemini, which respectively sit at the second and third spots on Apple's free apps charts.
+The sudden surge in user downloads isn't random. It follows news that President Trump has barred any federal agency from using Anthropic's Claude or other AI tools after the AI company refused to concede on certain guardrails. After declining to have its AI models be used for mas...</description>
+    </item>
     <item>
       <title>Polymarket saw $529M traded on bets tied to bombing of Iran</title>
       <link>https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/</link>
@@ -40,95 +76,6 @@ La PlayStation 5 est avant tout pens&#233;e pour &#234;tre utilis&#233;e avec un
       <pubDate>Sun, 01 Mar 2026 18:41:07 +0000</pubDate>
       <guid isPermaLink="false">03xnKENUN7GMIF35Ayz1ZJg</guid>
       <description>'Skate' developer Full Circle announces layoffs ahead of new game release</description>
-    </item>
-    <item>
-      <title>Seulement 56 &#8364; pour cette barre barre de son 2.0 Hisense compatible Dolby Audio</title>
-      <link>https://www.frandroid.com/bons-plans/2992433_seulement-56-e-pour-cette-barre-barre-de-son-2-0-hisense-compatible-dolby-audio</link>
-      <pubDate>Sun, 01 Mar 2026 18:26:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2992433_seulement-56-e-pour-cette-barre-barre-de-son-2-0-hisense-compatible-dolby-audio</guid>
-      <description>
-Le Hisense HS1000 est une barre de son qui ne paie pas de mine au premier abord, mais qui peut d&#233;livrer une puissance audio de 120 W. Chez Amazon, il chute &#224; 56,05 euros.
-</description>
-    </item>
-    <item>
-      <title>Kalshi voids some bets on Khamenei&#8217;s ouster because it&#8217;s &#8216;directly tied to death&#8217;</title>
-      <link>https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death</link>
-      <pubDate>2026-03-01T13:06:10-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=887210</guid>
-      <description>In a statement on X, Kalshi CEO Tarek Mansour said his company would pay out positions on "Ali Khamenei out as Supreme Leader?" at the last trading price before his death. Mansour said that Kalshi doesn't "list markets directly tied to death" and that its rules are designed to "prevent people from profiting from death." [&#8230;]</description>
-    </item>
-    <item>
-      <title>Quels sont les meilleurs &#233;crans portables pour PC, Mac, smartphones et Switch 2 en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/687242_guide-dachat-les-meilleurs-moniteurs-portables-pour-pc-mac-smartphones-et-switch-en-2020</link>
-      <pubDate>Sun, 01 Mar 2026 18:00:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/687242_guide-dachat-les-meilleurs-moniteurs-portables-pour-pc-mac-smartphones-et-switch-en-2020</guid>
-      <description>
-Assez m&#233;connus, les &#233;crans portables (ou &#171;  moniteurs externes  &#187;) ont de plus en plus le vent en poupe. Il faut dire que les caract&#233;ristiques de leurs dalles se sont am&#233;lior&#233;es et que la connectique USB-C avec DisplayPort a ouvert des possibilit&#233;s. Voici notre s&#233;lection des meilleurs &#233;crans portables.
-</description>
-    </item>
-    <item>
-      <title>Expert responsiveness and weighing next to nothing, the Razer Kitsune is very easy to recommend &#8212; though I would suggest waiting for a sale</title>
-      <link>https://www.techradar.com/gaming/razer-kitsune-review</link>
-      <pubDate>Sun, 01 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">oiqRPHJvRFdDTXDZjmRGsF</guid>
-      <description>The Razer Kitsune is a top-shelf leverless controller from a brand familiar with luxury; just expect to be paying a luxurious price as a result.</description>
-    </item>
-    <item>
-      <title>The 7 best movies and shows I've been streaming, including one of Netflix&#8217;s juiciest reveal-all series</title>
-      <link>https://www.techradar.com/streaming/these-are-the-7-best-movies-and-shows-i-streamed-this-month-including-one-of-netflixs-juiciest-reveal-all-docuseries</link>
-      <pubDate>Sun, 01 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">YwCmPZRWsubTGCMEnyqVq6</guid>
-      <description>Netflix's latest docuseries is the best new show I've watched recently &#8211; here's what else I've been streaming.</description>
-    </item>
-    <item>
-      <title>Rivian Announces &#8216;RAD&#8217; Engineering Team That Tests the Extremes of the Company&#8217;s EVs</title>
-      <link>https://gizmodo.com/rivian-announces-rad-engineering-team-that-tests-the-extremes-of-the-companys-evs-2000728179</link>
-      <pubDate>Sun, 01 Mar 2026 17:56:17 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000728179</guid>
-      <description>RAD puts vehicles in places and situations they'll probably never see in most customers' hands.</description>
-    </item>
-    <item>
-      <title>This cheap 65-inch 4K TV from Samsung is now under $350 at Walmart</title>
-      <link>https://www.techradar.com/televisions/this-cheap-65-inch-4k-tv-from-samsung-is-now-under-usd350-at-walmart</link>
-      <pubDate>Sun, 01 Mar 2026 17:55:00 +0000</pubDate>
-      <guid isPermaLink="false">LmbCXQV6Jf8LzsVaXQYVaX</guid>
-      <description>A cheap big screen TV from a top manufacturer</description>
-    </item>
-    <item>
-      <title>MWC 2026: We're live in Barcelona ahead of the world's biggest mobile show</title>
-      <link>https://www.techradar.com/pro/live/mwc-2026-were-live-in-barcelona-ahead-of-the-worlds-biggest-mobile-show</link>
-      <pubDate>Sun, 01 Mar 2026 17:49:53 +0000</pubDate>
-      <guid isPermaLink="false">PGgNbjHUwJNByW9X7Uk5NC</guid>
-      <description>I'm on the ground at MWC 2026 &#8211;here's what I've seen so far.</description>
-    </item>
-    <item>
-      <title>The 5 Big &#8216;Known Unknowns&#8217; of Donald Trump&#8217;s New War With Iran</title>
-      <link>https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/</link>
-      <pubDate>Sun, 01 Mar 2026 17:47:31 +0000</pubDate>
-      <guid isPermaLink="false">69a395aab0935ac67e7e680b</guid>
-      <description>The all-out air assault on the Islamic Republic might be the biggest gamble of the president&#8217;s career.</description>
-    </item>
-    <item>
-      <title>Google looks to tackle longstanding RCS spam in India &#8212; but not alone</title>
-      <link>https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/</link>
-      <pubDate>Sun, 01 Mar 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3098313</guid>
-      <description>Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.</description>
-    </item>
-    <item>
-      <title>The new Nvidia age has begun &#8212; first Vera Rubin AI chips are rolling out to customers, now let's see what they can do with it</title>
-      <link>https://www.techradar.com/pro/the-new-nvidia-age-has-begun-first-vera-rubin-ai-chips-are-rolling-out-to-customers-now-lets-see-what-they-can-do-with-it</link>
-      <pubDate>Sun, 01 Mar 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">aLWEvnU2UwqNy8mUdFtUYY</guid>
-      <description>Nvidia&#8217;s Vera Rubin AI chips reach first customers, combining CPU, GPU, and networking for high-performance AI workloads in data centers.</description>
-    </item>
-    <item>
-      <title>The US reportedly used Anthropic's AI for its attack on Iran, just after banning it</title>
-      <link>https://www.engadget.com/ai/the-us-reportedly-used-anthropics-ai-for-its-attack-on-iran-just-after-banning-it-172908929.html?src=rss</link>
-      <pubDate>Sun, 01 Mar 2026 17:29:08 +0000</pubDate>
-      <guid isPermaLink="false">e8d51c63-fecf-4b53-baa3-30715b7855af</guid>
-      <description>In a lengthy post on Truth Social on February 27, President Trump ordered all federal agencies to "immediately cease all use of Anthropic's technology" following strong disagreements between the Department of Defense and the AI company. A few hours later, the US conducted a major air attack on Iran with the help of Anthropic's AI tools, according to a report from The Wall Street Journal.
-The president noted in his post that there would be a "six-month phase-out period for agencies like the Department of War who are using Anthropic&#8217;s products," so federal agencies are still expected to eventual...</description>
     </item>
   </channel>
 </rss>
