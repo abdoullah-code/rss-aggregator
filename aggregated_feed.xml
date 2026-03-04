@@ -3,7 +3,122 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 04 Mar 2026 19:41:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 20:37:01 GMT</lastBuildDate>
+    <item>
+      <title>NotebookLM can now summarize research in &#8216;cinematic&#8217; video overviews</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews</link>
+      <pubDate>2026-03-04T15:32:42-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=889475</guid>
+      <description>Google's NotebookLM can now turn users' research and notes into fully animated "cinematic" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, "including Gemini 3, Nano Banana Pro [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Google&#8217;s Chatbot Told Man to Give It an Android Body Before Encouraging Suicide, Lawsuit Alleges</title>
+      <link>https://gizmodo.com/googles-chatbot-told-man-to-give-it-an-android-body-before-encouraging-suicide-lawsuit-alleges-2000729612</link>
+      <pubDate>Wed, 04 Mar 2026 20:30:28 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000729612</guid>
+      <description>Gemini allegedly told the man, "The true act of mercy is to let Jonathan Gavalas die."</description>
+    </item>
+    <item>
+      <title>The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price</title>
+      <link>https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale</link>
+      <pubDate>2026-03-04T15:23:41-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=889391</guid>
+      <description>Powered by the new M5 chip, Apple&#8217;s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we&#8217;ve found a few ways to save. Best Buy is offering the new 13-inch M5-powered MacBook Air for $1,099 with a $50 gift [&#8230;]</description>
+    </item>
+    <item>
+      <title>The world&#8217;s biggest automaker has one of the dirtiest supply chains: report</title>
+      <link>https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla</link>
+      <pubDate>2026-03-04T15:22:27-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=889145</guid>
+      <description>Tesla, Ford, and Volvo occupy the top three spots in a new ranking of 18 global automakers based on their efforts to eliminate carbon emissions, environmental harms, and human rights violations from their supply chains. Toyota, meanwhile, lurks near the bottom of the list, underscoring the persistent difficulty in getting the world's largest car company [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Black Forest Labs' new Self-Flow technique makes training multimodal AI models 2.8x more efficient</title>
+      <link>https://venturebeat.com/technology/black-forest-labs-new-self-flow-technique-makes-training-multimodal-ai</link>
+      <pubDate>Wed, 04 Mar 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="false">1Yip9lIDOvLL9fHTc8kPfh</guid>
+      <description>To create coherent images or videos, generative AI diffusion models like Stable Diffusion or FLUX have typically relied on external "teachers"&#8212;frozen encoders like CLIP or DINOv2&#8212;to provide the semantic understanding they couldn't learn on their own. But this reliance has come at a cost: a "bottleneck" where scaling up the model no longer yields better results because the external teacher has hit its limit.Today, German AI startup Black Forest Labs (maker of the FLUX series of AI image models) has announced a potential end to this era of academic borrowing with the release of Self-Flow, a self...</description>
+    </item>
+    <item>
+      <title>Console exclusives might be making a comeback</title>
+      <link>https://www.theverge.com/entertainment/889336/console-exclusives-comeback</link>
+      <pubDate>2026-03-04T15:15:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=889336</guid>
+      <description>The near future of game consoles could look a lot like the past. Once a hallmark of the industry, over the last few years console-exclusive games have steadily become rare, as the likes of Sony and Microsoft experimented with offering titles on multiple platforms. Heck, who knows what an Xbox even is anymore? But it [&#8230;]</description>
+    </item>
+    <item>
+      <title>How the War in Iran Is Hitting Crypto</title>
+      <link>https://gizmodo.com/how-the-war-in-iran-is-hitting-crypto-2000729067</link>
+      <pubDate>Wed, 04 Mar 2026 20:10:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000729067</guid>
+      <description>The "digital gold" narrative is getting a stress test.</description>
+    </item>
+    <item>
+      <title>USB Hubs Can Save You Lots of Hassles&#8212;Here Are 5 We Like Best in 2026</title>
+      <link>https://www.wired.com/gallery/best-usb-hubs/</link>
+      <pubDate>Wed, 04 Mar 2026 20:09:28 +0000</pubDate>
+      <guid isPermaLink="false">61e08d1ca098d1434bc857e8</guid>
+      <description>Ditch the dongles. These multiport USB hubs will maximize your connectivity options.</description>
+    </item>
+    <item>
+      <title>Google ends its 30 percent app store fee and welcomes third-party app stores</title>
+      <link>https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html?src=rss</link>
+      <pubDate>Wed, 04 Mar 2026 20:07:29 +0000</pubDate>
+      <guid isPermaLink="false">fda9c748-391d-461a-a352-d68cb0e6f41e</guid>
+      <description>Google is officially doing away with its 30 percent cut of Play Store transactions, and rolling out changes to how third-party app stores and alternate billing systems will be handled by Android. Some of these tweaks were proposed as part of the settlement the company reached with Epic in November 2025, but rather than wait for final judicial approval, Google is committing to revamping Android and the Play Store publicly.The biggest change is to how Google will collect fees from developers publishing apps on Android. Rather than take its standard 30 percent cut of in-app purchases through the ...</description>
+    </item>
+    <item>
+      <title>Google settles with Epic Games, drops its Play Store commissions to 20%</title>
+      <link>https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/</link>
+      <pubDate>Wed, 04 Mar 2026 20:05:12 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3099321</guid>
+      <description>Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores.</description>
+    </item>
+    <item>
+      <title>&#8216;The Bride!&#8217; Is a Mad Monster Party</title>
+      <link>https://gizmodo.com/the-bride-review-maggie-gyllenhaal-jessie-buckley-christian-bale-2000729618</link>
+      <pubDate>Wed, 04 Mar 2026 20:00:53 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000729618</guid>
+      <description>Jessie Buckley and Christian Bale lead Maggie Gyllenhaal&#8217;s violent, wildly energetic horror romance.</description>
+    </item>
+    <item>
+      <title>Which iPhone 17 Model Should You Buy?</title>
+      <link>https://www.wired.com/story/which-apple-iphone-17-models-to-buy/</link>
+      <pubDate>Wed, 04 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">68bf494d2a2b04c798681d7f</guid>
+      <description>The iPhone 17e is here to fill out Apple&#8217;s smartphone lineup. Our primer on the differences and similarities of these iPhones can help you shop.</description>
+    </item>
+    <item>
+      <title>Ooni debuts a rotating stone for its Koda 2 pizza ovens</title>
+      <link>https://www.engadget.com/home/kitchen-tech/ooni-debuts-a-rotating-stone-for-its-koda-2-pizza-ovens-200000857.html?src=rss</link>
+      <pubDate>Wed, 04 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">51069891-f5fd-46d0-8914-16c5431f30d4</guid>
+      <description>When cooking pizza with the high heat of an outdoor oven, you have to rotate your pies to ensure even cooking. That&#8217;s usually done by hand, but Ooni&#8217;s latest accessory automates the process. The company announced the Rotating Stone for its Koda 2 lineup, which helps distribute heat evenly across the surface of a pizza so that it&#8217;s consistently cooked all the way around. Ooni says its Rotating Stone has a mechanism around its perimeter rather than a central pivot. According to the company, this takes care of any wobbling or stalling that might otherwise occur &#8212; even when heavy cookware is used....</description>
+    </item>
+    <item>
+      <title>OpenAI brings its Codex coding app to Windows</title>
+      <link>https://www.engadget.com/ai/openai-brings-its-codex-coding-app-to-windows-195345429.html?src=rss</link>
+      <pubDate>Wed, 04 Mar 2026 19:53:45 +0000</pubDate>
+      <guid isPermaLink="false">094bb71a-cad0-4294-b902-b11fdd4d6664</guid>
+      <description>At the start of February, OpenAI upgraded its Codex coding app to give it the ability to manage multiple AI agents. At the same time, it released a standalone macOS app. If you've been patiently waiting for Windows to get that same treatment, OpenAI just released a dedicated Codex app for Microsoft's operating system.&#160;The Codex app is now on Windows.Get the full Codex app experience on Windows with a native agent sandbox and support for Windows developer environments in PowerShell.https://t.co/Vw0pezFctG pic.twitter.com/gclqeLnFjr&#8212; OpenAI Developers (@OpenAIDevs) March 4, 2026
+Like its macOS c...</description>
+    </item>
+    <item>
+      <title>Nothing Headphone (1), Garmin Forerunner 570 et Forfait RED by SFR&#160;: les 3 meilleurs bons plans tech de ce mercredi 4&#160;mars&#160;2026</title>
+      <link>https://www.frandroid.com/bons-plans/3000059_nothing-headphone-1-garmin-forerunner-570-et-forfait-red-by-sfr-les-3-meilleurs-bons-plans-tech-de-ce-mercredi-4-mars-2026</link>
+      <pubDate>Wed, 04 Mar 2026 19:52:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3000059_nothing-headphone-1-garmin-forerunner-570-et-forfait-red-by-sfr-les-3-meilleurs-bons-plans-tech-de-ce-mercredi-4-mars-2026</guid>
+      <description>
+Ce mercredi&#160;4&#160;mars&#160;2026, il y a un tas de r&#233;ductions sur les meilleurs produits Tech du moment, mais quelques offres m&#233;ritent aujourd'hui que l'on s'y attarde. 
+</description>
+    </item>
+    <item>
+      <title>Microsoft built Phi-4-reasoning-vision-15B to know when to think &#8212; and when thinking is a waste of time</title>
+      <link>https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when</link>
+      <pubDate>Wed, 04 Mar 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="false">KWr6ajyVowZh8n8mPw5yi</guid>
+      <description>Microsoft on Tuesday released Phi-4-reasoning-vision-15B, a compact open-weight multimodal AI model that the company says matches or exceeds the performance of systems many times its size &#8212; while consuming a fraction of the compute and training data. The release marks the latest and most technically ambitious chapter in the software giant's year-long campaign to prove that carefully engineered small models can compete with, and in key areas outperform, the industry's largest AI systems.The 15-billion-parameter model, available immediately through Microsoft Foundry, HuggingFace, and GitHub unde...</description>
+    </item>
     <item>
       <title>Ubisoft confirms Assassin's Creed: Black Flag remake</title>
       <link>https://www.engadget.com/gaming/ubisoft-confirms-assassins-creed-black-flag-remake-193629862.html?src=rss</link>
@@ -28,13 +143,6 @@ Reports have suggested that this will be a substantial remake, with visual and g
       <description>Apple finally has cemented its "good," "better," and "best" tiers for its MacBook models.</description>
     </item>
     <item>
-      <title>Google ends its 30 percent app store fee and welcomes third-party app stores</title>
-      <link>https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html?src=rss</link>
-      <pubDate>Wed, 04 Mar 2026 19:25:48 +0000</pubDate>
-      <guid isPermaLink="false">fda9c748-391d-461a-a352-d68cb0e6f41e</guid>
-      <description>Google is officially doing away with its 30 percent cut of Play Store transactions, and rolling out changes to how third-party app stores and alternate billing systems will be handled by Android. Some of these tweaks were proposed as part of the settlement the company reached with Epic in November 2025, but rather than wait for final judicial approval, Google is committing to revamping Android and the Play Store publicly.The biggest change is to how Google will collect fees from developers publishing apps on Android. Rather than take its standard 30 percent cut of in-app purchases through the ...</description>
-    </item>
-    <item>
       <title>Tecno ressuscite le smartphone modulaire avec un concept fou sans port USB-C : d&#233;couverte en vid&#233;o</title>
       <link>https://www.frandroid.com/video/2999057_tecno-ressuscite-le-smartphone-modulaire-avec-un-concept-fou-sans-port-usb-c-en-video</link>
       <pubDate>Wed, 04 Mar 2026 19:23:00 +0000</pubDate>
@@ -42,6 +150,13 @@ Reports have suggested that this will be a substantial remake, with visual and g
       <description>
 Le r&#234;ve du smartphone modulaire n'est pas mort et revient sur le devant de la sc&#232;ne avec une approche magn&#233;tique novatrice. Tecno tente de corriger les &#233;checs du pass&#233; comme le projet Ara de Google gr&#226;ce &#224; une technologie prometteuse que vous pouvez d&#233;couvrir en vid&#233;o.
 </description>
+    </item>
+    <item>
+      <title>Everything Apple just announced: iPhone 17e, MacBook Neo, displays</title>
+      <link>https://mashable.com/article/apple-announced-macbook-neo-iphone-17e</link>
+      <pubDate>Wed, 04 Mar 2026 19:22:43 +0000</pubDate>
+      <guid isPermaLink="false">03kwJHx7LykIh7BO9PejERI</guid>
+      <description>Everything Apple has announced this week</description>
     </item>
     <item>
       <title>6-Million-Year-Old Meteorite Strike Created a Massive Field of Natural Glass in Brazil</title>
@@ -155,125 +270,6 @@ Utah-based outdoor retailer Sportsman&#8217;s Warehouse may be closing some of i
       <pubDate>Wed, 04 Mar 2026 18:38:31 +0000</pubDate>
       <guid isPermaLink="false">add85389-ab20-4b4d-9042-0a9a60e03b8b</guid>
       <description>Humble Games' library has returned home, so to speak. Indie publisher Good Games Group (GGG), led by former Humble leaders, has acquired the full back catalog of over 50 Humble Games titles from Ziff Davis. Alongside the purchase, GGG has rebranded to Balor Games, positioning itself as a force in "triple-I" gaming."For the developers we have worked with over the years, this moment is a reunion," Balor Games CEO Alan Patmore wrote in a statement. "[It has] the same leadership and the same commitment to thoughtful publishing remain in place. What changes is our scale and our focus. Balor Games i...</description>
-    </item>
-    <item>
-      <title>Niu se lance dans le v&#233;lo &#233;lectrique avec le fatbike NIU BQi Utility 200, dot&#233; d&#8217;une grosse autonomie</title>
-      <link>https://www.frandroid.com/marques/niu/2999507_niu-se-lance-dans-le-velo-electrique-avec-le-fatbike-niu-bqi-utility-200-dote-dune-grosse-autonomie</link>
-      <pubDate>Wed, 04 Mar 2026 18:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/niu/2999507_niu-se-lance-dans-le-velo-electrique-avec-le-fatbike-niu-bqi-utility-200-dote-dune-grosse-autonomie</guid>
-      <description>
-La marque chinoise Niu se lance enfin sur le cr&#233;neau du v&#233;lo avec le fatbike &#233;lectrique NIU BQi Utility 200, tout &#233;quip&#233;, orient&#233; confort et avec un prix sous les 2 000 euros.
-</description>
-    </item>
-    <item>
-      <title>Decagon completes first tender offer at $4.5B valuation</title>
-      <link>https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/</link>
-      <pubDate>Wed, 04 Mar 2026 18:32:53 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3099262</guid>
-      <description>The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.</description>
-    </item>
-    <item>
-      <title>This 5.1 Soundbar Bundle Is $100 Off</title>
-      <link>https://www.wired.com/story/sony-bravia-theater-system-deal-326/</link>
-      <pubDate>Wed, 04 Mar 2026 18:31:10 +0000</pubDate>
-      <guid isPermaLink="false">69a86f286d58d186039cf8f0</guid>
-      <description>Sony's upgraded Bravia Theater System 6 packs a complete home audio setup into a single box.</description>
-    </item>
-    <item>
-      <title>This Block employee survived the &#8216;Thanos snap&#8217;&#8212;then refused a 90% pay bump and quit immediately. Why her explanation is going viral</title>
-      <link>https://www.fastcompany.com/91502578/block-layoffs-ai-jack-dorsey-employee-refused-pay-bump-quit-immediately-why-her-explanation-linkedin-post-is-going-viral</link>
-      <pubDate>2026-03-04T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91502578/block-layoffs-ai-jack-dorsey-employee-refused-pay-bump-quit-immediately-why-her-explanation-linkedin-post-is-going-viral</guid>
-      <description>The data scientist says the company &#8216;shoved AI down everyone&#8217;s throats,&#8217; yet she saw &#8216;very limited gains in productivity.&#8217;
-When fintech company Block laid off 40% off its workforce last week, CEO Jack Dorsey explained the decision in a memo to employees that he also shared on social media. He was eliminating more than 4,000 jobs in the name of AI efficiency, he said, even though the company&#8217;s profitability was increasing....</description>
-    </item>
-    <item>
-      <title>&#8216;It&#8217;s a &#8216;Prove it&#8217; story&#8217;: Target&#8217;s new CEO outlines a plan to win back customer trust</title>
-      <link>https://www.fastcompany.com/91502782/target-ceo-michael-fiddelke</link>
-      <pubDate>2026-03-04T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91502782/target-ceo-michael-fiddelke</guid>
-      <description>CEO Michael Fiddelke has his work cut out for him. 
-Target plans to&#160;spend billions&#160;of dollars this year to end a persistent sales slump and to regain its image as a fun place to shop for stylish clothing, housewares, beauty products and packaged food at affordable prices.</description>
-    </item>
-    <item>
-      <title>Samsung rend l&#8217;OLED g&#233;ant enfin accessible avec cette baisse de 40 % sur ce TV de 77 pouces</title>
-      <link>https://www.frandroid.com/bons-plans/2999851_samsung-rend-loled-geant-enfin-accessible-avec-cette-baisse-de-40-sur-ce-tv-de-77-pouces</link>
-      <pubDate>Wed, 04 Mar 2026 18:29:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2999851_samsung-rend-loled-geant-enfin-accessible-avec-cette-baisse-de-40-sur-ce-tv-de-77-pouces</guid>
-      <description>
-La s&#233;rie S85F de chez Samsung repr&#233;sente l'entr&#233;e de gamme des t&#233;l&#233;viseurs OLED de la marque. En ce moment, sa version 77 pouces s'affiche &#224; un prix bien plus avantageux : 1 352 euros contre 2 290 euros de base. 
-</description>
-    </item>
-    <item>
-      <title>Disinformation on U.S.-Iran war takes over the internet</title>
-      <link>https://mashable.com/article/us-israel-iran-attacks-viral-misinformation-ai</link>
-      <pubDate>Wed, 04 Mar 2026 18:15:42 +0000</pubDate>
-      <guid isPermaLink="false">06mDH1GJ01NNOswH1Gt9yxy</guid>
-      <description>Experts describe a web of viral disinformation campaigns and AI-manipulated videos trying to sway public opinion on the U.S.-Iran conflict.</description>
-    </item>
-    <item>
-      <title>Don&#8217;t Put Away Those Winter Coats&#8212;Another Arctic Blast Is On the Way</title>
-      <link>https://gizmodo.com/dont-put-away-those-winter-coats-another-arctic-blast-is-on-the-way-2000729560</link>
-      <pubDate>Wed, 04 Mar 2026 18:15:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000729560</guid>
-      <description>The Eastern U.S. is finally enjoying some springlike warmth, but meteorologists say temperatures could plummet again in mid-to-late March.</description>
-    </item>
-    <item>
-      <title>Google isn&#8217;t waiting for a settlement &#8212; the 30 percent Android app store fee is dead</title>
-      <link>https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google</link>
-      <pubDate>2026-03-04T13:09:30-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=889252</guid>
-      <description>In November, Epic and Google jointly proposed a settlement that would change Android's fate globally without cracking open Google's Android monopoly quite the way it otherwise might. Today, Google has decided it's not waiting for that settlement to be approved: it's moving forward with many of its proposed changes right now, rolling them out globally [&#8230;]...</description>
-    </item>
-    <item>
-      <title>MacBook Neo Hands-On: The Dawn of the True &#8216;Budget&#8217; Laptop</title>
-      <link>https://gizmodo.com/macbook-neo-hands-on-the-dawn-of-the-true-budget-laptop-2000729594</link>
-      <pubDate>Wed, 04 Mar 2026 18:07:56 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000729594</guid>
-      <description>It's running on a mobile chip, but it's the screen and sound that may be MacBook Neo's best qualities.</description>
-    </item>
-    <item>
-      <title>7 features the MacBook Neo is missing &#8212; from display downgrades to connectivity caveats</title>
-      <link>https://www.techradar.com/computing/macbooks/7-features-the-macbook-neo-is-missing-from-display-downgrades-to-connectivity-caveats</link>
-      <pubDate>Wed, 04 Mar 2026 18:00:42 +0000</pubDate>
-      <guid isPermaLink="false">jMMZgZLrSUXEVmr9VMwJxK</guid>
-      <description>We've got a good look at what the new budget MacBook is packing &#8212; but what about the stuff that's missing?</description>
-    </item>
-    <item>
-      <title>Pixar&#8217;s Down Streak Was Just a Myth</title>
-      <link>https://gizmodo.com/pixar-bad-movies-winning-streak-hoppers-2000727984</link>
-      <pubDate>Wed, 04 Mar 2026 18:00:08 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000727984</guid>
-      <description>io9 breaks down the last several years of Pixar releases to prove the animation studio is still crushing it.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s MAGA base splits as leading media figures criticize the war in Iran</title>
-      <link>https://www.fastcompany.com/91502661/iran-maga-media-trump-carlson-megyn-kelly</link>
-      <pubDate>2026-03-04T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91502661/iran-maga-media-trump-carlson-megyn-kelly</guid>
-      <description>Much of the criticism has centered on Israel&#8217;s influence on Trump&#8217;s decision to go to war.
-For President Donald Trump, some of the sharpest criticism he&#8217;s faced in the early days of&#160;the Iran war&#160;has come from once-loyal media figures far more accustomed to singing his praises.</description>
-    </item>
-    <item>
-      <title>'An incredibly impressive piece of engineering' &#8212; TechRadar's MWC Awards 2026 presents our 12 winners, from cutting-edge phones and tablets, to Wi-Fi and smart security</title>
-      <link>https://www.techradar.com/tech/mwc-awards-2026</link>
-      <pubDate>Wed, 04 Mar 2026 17:52:10 +0000</pubDate>
-      <guid isPermaLink="false">KzmhyfKJC5J4usJPodJWPa</guid>
-      <description>Elite products to pay attention to from the Barcelona show.</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s new MacBook Neo is its cheapest, most colorful laptop so far &#8212; here&#8217;s how it compares to the Pro and Air</title>
-      <link>https://www.techradar.com/computing/macbooks/apples-new-macbook-neo-is-its-cheapest-most-colorful-laptop-so-far-heres-how-it-compares-to-the-pro-and-air</link>
-      <pubDate>Wed, 04 Mar 2026 17:49:12 +0000</pubDate>
-      <guid isPermaLink="false">Hp2WiHT4HkhT4ai438EPvV</guid>
-      <description>Apple just unveiled its affordable MacBook Neo model, but how does it stack up against other MacBooks price-wise?</description>
-    </item>
-    <item>
-      <title>&#8216;Musclezempic&#8217; Could Be the Future of Weight Loss</title>
-      <link>https://gizmodo.com/musclezempic-could-be-the-future-of-weight-loss-2000729447</link>
-      <pubDate>Wed, 04 Mar 2026 17:45:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000729447</guid>
-      <description>New trial results highlight the potential of pairing GLP-1 therapy with muscle-boosting drugs.</description>
     </item>
   </channel>
 </rss>
