@@ -3,62 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 05 Mar 2026 02:32:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 04:48:34 GMT</lastBuildDate>
     <item>
-      <title>Did Live Nation punish a venue by taking Billie Eilish away?</title>
-      <link>https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats</link>
-      <pubDate>2026-03-04T21:21:41-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=889720</guid>
-      <description>John Abbamondi had orders to let the CEO of Ticketmaster down easy. In April 2021, Abbamondi was the CEO of BSE Global, the company that ran Brooklyn arena the Barclays Center. BSE Global's existing Ticketmaster contract would expire at the end of September, and Abbamondi and his team had evaluated proposals from SeatGeek, AXS, and [&#8230;]</description>
-    </item>
-    <item>
-      <title>I've been hands-on with the Google Pixel 10a, and the 9a for AU$570 is looking like the better buy &#8212; here's why</title>
-      <link>https://www.techradar.com/phones/google-pixel-phones/ive-been-hands-on-with-the-google-pixel-10a-and-the-9a-for-au570-is-looking-like-the-better-buy-heres-why</link>
-      <pubDate>Thu, 05 Mar 2026 02:03:27 +0000</pubDate>
-      <guid isPermaLink="false">GkVwRFgiCKDVrTUxDB3Ux5</guid>
-      <description>Google&#8217;s Pixel A-series has historically provided great value for money &#8212; but with the Pixel 10a almost identical to its predecessor, a discounted Pixel 9a is the clear choice.</description>
-    </item>
-    <item>
-      <title>Apple says 'life is just better on a Mac' &#8212; and the $599 MacBook Neo may be its smartest pitch yet</title>
-      <link>https://www.techradar.com/computing/macbooks/apple-says-life-is-just-better-on-a-mac-and-the-usd599-macbook-neo-may-be-its-smartest-pitch-yet</link>
-      <pubDate>Thu, 05 Mar 2026 02:02:02 +0000</pubDate>
-      <guid isPermaLink="false">fgJuaz7pfmD6NLhonsved9</guid>
-      <description>Just as polished, but a much, much lower price</description>
-    </item>
-    <item>
-      <title>A new video from the White House mixes Call of Duty footage with actual video of Iran strikes</title>
-      <link>https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran</link>
-      <pubDate>2026-03-04T20:09:54-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=889701</guid>
-      <description>On Wednesday, the White House posted a video of actual military strikes on Iran in the style usually seen in Call of Duty highlight videos, and started the video with a clip from Call of Duty. The real-life footage of missiles and other munitions hitting targets in Iran shows clips seen in other Trump administration [&#8230;]</description>
-    </item>
-    <item>
-      <title>Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers</title>
-      <link>https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/</link>
-      <pubDate>Thu, 05 Mar 2026 01:08:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3099362</guid>
-      <description>Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last &#8212; but his explanation may not tell the whole story.</description>
-    </item>
-    <item>
-      <title>Hundreds of Google and OpenAI employees sign open letter urging limits on military AI</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/gemini/hundreds-of-google-and-openai-employees-sign-open-letter-urging-limits-on-military-ai</link>
-      <pubDate>Thu, 05 Mar 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Kqe5aczLbRFBbjE5WzLNTT</guid>
-      <description>Hundreds of employees at Google and OpenAI have signed a public letter urging their companies to set firm boundaries on how AI can be used by the military</description>
-    </item>
-    <item>
-      <title>AI treated nuclear threats as a routine strategy in 95% of war games, according to new research</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/ai-treated-nuclear-threats-as-a-routine-strategy-in-95-percent-of-war-games-according-to-new-research</link>
-      <pubDate>Thu, 05 Mar 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CKfL4YhTTqbGs8tcNoDdKV</guid>
-      <description>A new study suggests AI models frequently escalate to nuclear threats in simulated conflicts, likely mirroring the strategic thinking and war game scenarios that dominate their training data.</description>
-    </item>
-    <item>
-      <title>Google hit with shocking wrongful death lawsuit over Gemini AI chatbot</title>
-      <link>https://mashable.com/article/google-sued-gemini-ai-chatbot-wrongful-death-lawsuit</link>
-      <pubDate>Thu, 05 Mar 2026 00:53:27 +0000</pubDate>
-      <guid isPermaLink="false">063lhOltsrtTAB9p2OlAA34</guid>
-      <description>Google is being sued after Gemini sent a user down a delusional rabbit hole which ended with their death.</description>
+      <title>Dario Amodei Is Reportedly Taking One More Stab at Making Nice with the Pentagon</title>
+      <link>https://gizmodo.com/dario-amodei-is-reportedly-taking-one-more-stab-at-making-nice-with-the-pentagon-2000729907</link>
+      <pubDate>Thu, 05 Mar 2026 04:11:27 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000729907</guid>
+      <description>The most bizarre story in the history of tech policy refuses to end.</description>
     </item>
   </channel>
 </rss>
