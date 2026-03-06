@@ -3,7 +3,84 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 06 Mar 2026 20:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 21:34:01 GMT</lastBuildDate>
+    <item>
+      <title>Dunk and Tanselle Could Reunite If &#8216;A Knight of the Seven Kingdoms&#8217; Goes Beyond the Books</title>
+      <link>https://gizmodo.com/knight-of-the-seven-kingdoms-tanselle-return-game-of-thrones-2000730761</link>
+      <pubDate>Fri, 06 Mar 2026 21:30:35 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000730761</guid>
+      <description>Star Peter Claffey has hopes the very tall pair might meet again if the show gets more seasons.</description>
+    </item>
+    <item>
+      <title>72 'Buy It for Life' Products: Cast-Iron, Tools, Speakers, Chairs, and More</title>
+      <link>https://www.wired.com/story/buy-it-for-life/</link>
+      <pubDate>Fri, 06 Mar 2026 21:27:19 +0000</pubDate>
+      <guid isPermaLink="false">646cf1ea9d819fb102d006cc</guid>
+      <description>From cast-iron pans to mechanical watches, we&#8217;ve rounded up products that are made to last for decades.</description>
+    </item>
+    <item>
+      <title>Valve&#8217;s Steam Machine may not launch this year</title>
+      <link>https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory</link>
+      <pubDate>2026-03-06T16:26:41-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=890986</guid>
+      <description>Valve still can't reveal details about the Steam Machine, Steam Frame, and Steam Controller launch dates, which were originally scheduled for early 2026. In a new post, the company now says "we hope to ship in 2026" - a vaguer timeline than the first half of 2026 goal Valve shared last month - which it [&#8230;]</description>
+    </item>
+    <item>
+      <title>Netflix's version of Overcooked lets you play as Huntr/x</title>
+      <link>https://www.engadget.com/gaming/netflixs-version-of-overcooked-lets-you-play-as-huntrx-212515187.html?src=rss</link>
+      <pubDate>Fri, 06 Mar 2026 21:25:15 +0000</pubDate>
+      <guid isPermaLink="false">745ecc61-7a6c-42a6-b26c-18c23059d6cc</guid>
+      <description>Netflix's library of streamable party games is expanding today with a custom version of Overcooked! All You Can Eat. Netflix launched its cloud gaming program with games like Lego Party and Tetris Time Warp, but Overcooked feels a bit unique because it features a roster of Netflix-affiliated characters from KPop Demon Hunters and Stranger Things.For the uninitiated, Overcooked plays like a more manic version of Diner Dash, where teams attempt to prepare food together in increasingly elaborate kitchens filled with obstacles. The original version of Overcooked! All You Can Eat was released in 20...</description>
+    </item>
+    <item>
+      <title>Everyone was mad at the Galaxy S26 Ultra &#8212; but Samsung just told us why it's all been a big misunderstanding</title>
+      <link>https://www.techradar.com/phones/everyone-was-mad-at-the-galaxy-s26-ultra-but-samsung-just-told-us-why-its-all-been-a-big-misunderstanding</link>
+      <pubDate>Fri, 06 Mar 2026 21:06:05 +0000</pubDate>
+      <guid isPermaLink="false">EwJNDKiBENqTDnmWyB8Fd</guid>
+      <description>The Galaxy S26 Ultra recently found itself at the center of an controversy about its screen specs &#8212; but Samsung's now explained what happened.</description>
+    </item>
+    <item>
+      <title>24 hours with the MacBook Air M5 &#8212; it's already faster than the M4 MacBook Air</title>
+      <link>https://www.techradar.com/computing/macbooks/24-hours-with-the-macbook-air-m5-its-already-faster-than-the-m4-macbook-air</link>
+      <pubDate>Fri, 06 Mar 2026 21:02:57 +0000</pubDate>
+      <guid isPermaLink="false">c754FEUNCRPMSmtr9iJPoY</guid>
+      <description>We unboxed the MacBook Air M5 and instantly put it to the test &#8212; and now we have the first benchmark numbers.</description>
+    </item>
+    <item>
+      <title>The Curious Case of the Block &#8216;AI Layoffs&#8217;</title>
+      <link>https://gizmodo.com/the-curious-case-of-the-block-ai-layoffs-2000730673</link>
+      <pubDate>Fri, 06 Mar 2026 21:00:48 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000730673</guid>
+      <description>So was it AI or not?</description>
+    </item>
+    <item>
+      <title>New KV cache compaction technique cuts LLM memory 50x without accuracy loss</title>
+      <link>https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss</link>
+      <pubDate>Fri, 06 Mar 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">5AFiKp7LsuKhnTAcJLY3ut</guid>
+      <description>Enterprise AI applications that handle large documents or long-horizon tasks face a severe memory bottleneck. As the context grows longer, so does the KV cache, the area where the model&#8217;s working memory is stored.A new technique developed by researchers at MIT addresses this challenge with a fast compression method for the KV cache. The technique, called Attention Matching, manages to compact the context by up to 50x with very little loss in quality.While it is not the only memory compaction technique available, Attention Matching stands out for its execution speed and impressive information-p...</description>
+    </item>
+    <item>
+      <title>Grammarly is using our identities without permission</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews</link>
+      <pubDate>2026-03-06T15:58:24-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=890921</guid>
+      <description>Grammarly's "expert review" feature offers to give users writing advice "inspired by" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included [&#8230;]...</description>
+    </item>
+    <item>
+      <title>A Brain-Invading Worm Spread By Rats and Snails Has Reached California</title>
+      <link>https://gizmodo.com/a-brain-invading-worm-spread-by-rats-and-snails-has-reached-california-2000730657</link>
+      <pubDate>Fri, 06 Mar 2026 20:50:50 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000730657</guid>
+      <description>Researchers have found evidence the rat lungworm is now endemic in southern California</description>
+    </item>
+    <item>
+      <title>Motorola quietly teams up with GrapheneOS to deliver true business smartphones with a supersafe version of Android, but it won't happen anytime soon</title>
+      <link>https://www.techradar.com/pro/motorola-quietly-teams-up-with-grapheneos-to-deliver-true-business-smartphones-with-a-supersafe-version-of-android-but-it-wont-happen-anytime-soon</link>
+      <pubDate>Fri, 06 Mar 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="false">HXCfybKrexkyAHuxQtYvV</guid>
+      <description>Motorola partners with GrapheneOS to advance business smartphone security while expanding enterprise analytics and privacy tools for professional organizations.</description>
+    </item>
     <item>
       <title>&#8216;Kagurabachi&#8217; Went From Being a Meme to One of Shonen Jump&#8217;s Must-Read Powerhouses</title>
       <link>https://gizmodo.com/kagurabachi-went-from-a-meme-to-one-of-shonen-jumps-must-read-powerhouses-2000730605</link>
@@ -19,11 +96,19 @@
       <description>Unlike the original Switch, the Nintendo Switch 2 requires microSD Express cards for storing and playing games. While physically identical to microSD cards (aside from a small, easy-to-miss &#8220;EX&#8221; emblem etched onto the front of the card, as highlighted in the main image above), microSD Express cards are significantly faster. They advertise a 4.4x increase [&#8230;]...</description>
     </item>
     <item>
+      <title>Jet fuel prices just jumped 80%. Will airline tickets get more expensive next?</title>
+      <link>https://www.fastcompany.com/91504509/jet-fuel-prices-just-jumped-80-will-airline-tickets-get-more-expensive-next</link>
+      <pubDate>2026-03-06T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91504509/jet-fuel-prices-just-jumped-80-will-airline-tickets-get-more-expensive-next</guid>
+      <description>Fuel typically accounts for up to 40% of an airline&#8217;s operating costs. With jet fuel prices soaring, some carriers warn the financial impact could arrive quickly.
+Get ready to pay more to fly.</description>
+    </item>
+    <item>
       <title>OSHA probing fatality at Rivian warehouse</title>
       <link>https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/</link>
       <pubDate>Fri, 06 Mar 2026 20:23:08 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3100163</guid>
-      <description>A 61-year-old worker died on Thursday after reportedly getting stuck between a truck trailer and a loading dock.</description>
+      <description>A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock.</description>
     </item>
     <item>
       <title>The Trump administration says it can&#8217;t process tariff refunds because of computer problems</title>
@@ -89,13 +174,6 @@
       <description>Nokian's new tire tech can automatically deploy studs when the mercury drops below freezing for improved traction without the fuss of swapping rubber.</description>
     </item>
     <item>
-      <title>Google PM open-sources Always On Memory Agent, ditching vector databases for LLM-driven persistent memory</title>
-      <link>https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for</link>
-      <pubDate>Fri, 06 Mar 2026 19:56:00 GMT</pubDate>
-      <guid isPermaLink="false">46ChMi0KynRtxnreN6Iz3A</guid>
-      <description>Google senior AI product manager Shubham Saboo has turned one of the thorniest problems in agent design into an open-source engineering exercise: persistent memory.This week, he published an open-source &#8220;Always On Memory Agent&#8221; on the official Google Cloud Platform Github page under a permissive MIT License, allowing for commercial usage.It was built with Google's Agent Development Kit, or ADK introduced last Spring in 2025, and Gemini 3.1 Flash-Lite, a low-cost model Google introduced on March 3, 2026 as its fastest and most cost-efficient Gemini 3 series model. The project serves as a practi...</description>
-    </item>
-    <item>
       <title>Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers</title>
       <link>https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/</link>
       <pubDate>Fri, 06 Mar 2026 19:50:10 +0000</pubDate>
@@ -125,106 +203,6 @@ Unfortunately, a shallow, unresponsive and hilariously error-prone keyboard kept
       <description>
 Le Lenovo Legion 27-10 s&#8217;adresse clairement aux joueurs qui ne veulent pas faire de compromis sur la qualit&#233;. Avec une fiche technique muscl&#233;e et de belles performances, il vient de voir son prix chuter &#224; 139&#8239;euros au lieu de 199&#8239;euros, ce qui en fait une belle opportunit&#233; pour ceux qui cherchent un bon &#233;cran gaming sans se ruiner.
 </description>
-    </item>
-    <item>
-      <title>The Author Behind &#8216;The Social Network&#8217; Has an Asteroid Movie Coming Out</title>
-      <link>https://gizmodo.com/the-author-behind-the-social-network-has-an-asteroid-movie-coming-out-2000730674</link>
-      <pubDate>Fri, 06 Mar 2026 19:30:28 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000730674</guid>
-      <description>'The Last Orbit,' written by Ben Mezrich, will hit the screen directed by 'Fantastic Four' helmer Matt Shakman.</description>
-    </item>
-    <item>
-      <title>Nintendo is suing the US government for a refund of Trump&amp;#8217;s illegal tariffs</title>
-      <link>https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump</link>
-      <pubDate>2026-03-06T14:22:39-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=890861</guid>
-      <description>Nintendo of America is suing the US government over President Trump's tariffs and is demanding a "prompt refund, with interest" of any duties that it has paid, according to a complaint filed in the US Court of International Trade, as reported previously by Aftermath. The Supreme Court ruled last month that Trump's use of the [&#8230;]</description>
-    </item>
-    <item>
-      <title>McDonald&#8217;s knew what it was doing all along with this week&#8217;s &#8216;Burgergate&#8217;</title>
-      <link>https://www.fastcompany.com/91504063/mcdonalds-knew-what-it-was-doing-all-along-with-burgergate</link>
-      <pubDate>2026-03-06T19:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91504063/mcdonalds-knew-what-it-was-doing-all-along-with-burgergate</guid>
-      <description>The last, best, and only story you need to read about the McDonald&#8217;s CEO burger bite that was heard &#8217;round the world.
-By now, anyone who follows major brands has seen it or heard of it: The small bite that went &#8216;round the world.</description>
-    </item>
-    <item>
-      <title>The best deals on MacBooks right now</title>
-      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
-      <pubDate>2026-03-06T14:13:45-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
-      <description>It&#8217;s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company now offers a wider range of options with more sizes and price points than ever before, all of which run [&#8230;]</description>
-    </item>
-    <item>
-      <title>Some AI users are starting to consider themselves AI-sexual</title>
-      <link>https://mashable.com/article/ai-sexual-emerging-orientation</link>
-      <pubDate>Fri, 06 Mar 2026 19:13:40 +0000</pubDate>
-      <guid isPermaLink="false">04KlrvJ4LQ3OHtiTjJhFTpE</guid>
-      <description>AI companion company Joi AI releases a survey about people's sexual habits with AI.</description>
-    </item>
-    <item>
-      <title>Une extraordinaire &#233;toile quadruple d&#233;fie les mod&#232;les actuels de formation stellaire !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-extraordinaire-etoile-quadruple-defie-modeles-actuels-formation-stellaire-132509/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 06 Mar 2026 20:07:57 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-extraordinaire-etoile-quadruple-defie-modeles-actuels-formation-stellaire-132509/#xtor%3DRSS-8</guid>
-      <description>On conna&#238;t des &#233;toiles multiples dans la Voie lact&#233;e et on sait qu'elles naissent conjointement avec d'autres &#233;toiles dans des nuages mol&#233;culaires pour former des amas ouverts d'&#233;toiles transitoires, comme celui des Pl&#233;iades dans la constellation du Taureau. Une de ces &#233;toiles multiples d&#233;route...</description>
-    </item>
-    <item>
-      <title>The AI Doc is an overwrought hype piece for doomers and accelerationists alike</title>
-      <link>https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review</link>
-      <pubDate>2026-03-06T14:05:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=890806</guid>
-      <description>We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole [&#8230;]</description>
-    </item>
-    <item>
-      <title>NASA&#8217;s DART Mission Did More Than Just Nudge an Asteroid, Study Says</title>
-      <link>https://gizmodo.com/nasas-dart-mission-did-more-than-just-nudge-an-asteroid-study-says-2000730638</link>
-      <pubDate>Fri, 06 Mar 2026 19:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000730638</guid>
-      <description>With these new findings, researchers are closer than ever to validating a key planetary defense technique.</description>
-    </item>
-    <item>
-      <title>Anthropic&#8217;s Claude found 22 vulnerabilities in Firefox over two weeks</title>
-      <link>https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/</link>
-      <pubDate>Fri, 06 Mar 2026 19:00:22 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3100101</guid>
-      <description>In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox &#8212; 14 of them classified as "high-severity."</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Buds 4 and 4 Pro review: Impressive audio, imperfect ANC</title>
-      <link>https://www.engadget.com/audio/headphones/samsung-galaxy-buds-4-and-4-pro-review-impressive-audio-imperfect-anc-190000202.html?src=rss</link>
-      <pubDate>Fri, 06 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">a7bc7902-bd48-4483-b97f-5eed90b1eeb3</guid>
-      <description>Samsung caught flak for the Galaxy Buds 3. The company&#8217;s mimicry of Apple&#8217;s AirPods was all too obvious last year when it opted for a stem or &#8220;blade&#8221; design after several generations of putting touch controls on the main housing of its earbuds. The Galaxy Buds 4 and Galaxy Buds 4 Pro continue that trajectory, as Samsung keeps adding new features with direct parallels to AirPods. The good news is, both models have been improved in various ways, all while&#160; their prices stay the same.&#160;
-
-
-
-
-A refined design that&#8217;s still too familiar
-On last year&#8217;s Galaxy Buds models, Samsung introduced its &#8220;blade&#8221;...</description>
-    </item>
-    <item>
-      <title>AI is the new workplace issue dividing managers and employees</title>
-      <link>https://www.fastcompany.com/91503009/ai-is-the-new-workplace-issue-dividing-managers-and-employees</link>
-      <pubDate>2026-03-06T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91503009/ai-is-the-new-workplace-issue-dividing-managers-and-employees</guid>
-      <description>A new report from background check company Checkr suggests that workers can&#8217;t agree on AI use in the workplace.
-As companies ramp up pressure on their workers to embrace AI, a new source of workplace conflict has emerged. A report released this week by background check company Checkr suggests that managers and employees are increasingly at odds over AI use in the workplace....</description>
-    </item>
-    <item>
-      <title>The U.S. just unexpectedly lost 92,000 jobs. Here&#8217;s how that could affect Fed interest rates, gas prices, and the Iran war</title>
-      <link>https://www.fastcompany.com/91504441/us-jobs-report-today-unemployment-rate-february-effect-on-fed-interest-rates-gas-prices-iran-war</link>
-      <pubDate>2026-03-06T18:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91504441/us-jobs-report-today-unemployment-rate-february-effect-on-fed-interest-rates-gas-prices-iran-war</guid>
-      <description>The February labor and unemployment report is out, and it isn&#8217;t pretty. So now what?
-The latest U.S. jobs report is out and it isn&#8217;t pretty. The economy lost 92,000 jobs in February, missing expectations, as unemployment rose to 4.4%, according to data from the Labor Department. Economists had expected 60,000 new jobs in February.</description>
-    </item>
-    <item>
-      <title>This new prepaid carrier will literally pay you up to $20 per month to use your phone less</title>
-      <link>https://www.techradar.com/phones/network-providers/this-new-prepaid-carrier-will-literally-pay-you-up-to-usd20-per-month-to-use-your-phone-less</link>
-      <pubDate>Fri, 06 Mar 2026 18:40:12 +0000</pubDate>
-      <guid isPermaLink="false">XCLXQQqsbfi49qfc54wyxY</guid>
-      <description>The new carrier Noble Wireless will pay you up to $20/mo per month for using less data thanks to a unique cashback system.</description>
     </item>
   </channel>
 </rss>
