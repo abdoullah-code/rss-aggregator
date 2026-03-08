@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 08 Mar 2026 04:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 05:47:44 GMT</lastBuildDate>
+    <item>
+      <title>Push for $40 smartphones builds momentum, but still faces cost hurdles</title>
+      <link>https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/</link>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3100281</guid>
+      <description>A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan.</description>
+    </item>
   </channel>
 </rss>
