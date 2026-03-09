@@ -3,7 +3,36 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 09 Mar 2026 22:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:32:46 GMT</lastBuildDate>
+    <item>
+      <title>Micron launches a 256GB SOCAMM2 memory module using 64 32GB LPDDR5x chips &#8212; and yes, hyperscalers can shove 8 in an AI server to reach 2TB capacity: mere mortals need not apply</title>
+      <link>https://www.techradar.com/pro/micron-launched-a-256gb-socamm2-memory-module-using-64-32gb-lpddr5x-chips-and-yes-hyperscalers-can-shove-8-in-an-ai-server-to-reach-2tb-capacity-mere-mortals-need-not-apply</link>
+      <pubDate>Mon, 09 Mar 2026 23:25:00 +0000</pubDate>
+      <guid isPermaLink="false">7SGhZ9VkMVxgvTmjPcXsqJ</guid>
+      <description>Micron introduces a 256GB SOCAMM2 LPDDR5x memory module designed for AI servers, enabling configurations up to 2TB while reducing power consumption.</description>
+    </item>
+    <item>
+      <title>Nvidia Is Planning to Launch an Open-Source AI Agent Platform</title>
+      <link>https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/</link>
+      <pubDate>Mon, 09 Mar 2026 23:11:34 +0000</pubDate>
+      <guid isPermaLink="false">69aa096639c55d5733bbae8c</guid>
+      <description>Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.</description>
+    </item>
+    <item>
+      <title>Rode&#8217;s Rodecaster Video Core makes livestreaming even cheaper</title>
+      <link>https://www.engadget.com/entertainment/rodes-rodecaster-video-core-makes-livestreaming-even-cheaper-230053061.html?src=rss</link>
+      <pubDate>Mon, 09 Mar 2026 23:00:53 +0000</pubDate>
+      <guid isPermaLink="false">813e53cc-0fa5-4128-a567-9c885f7da89f</guid>
+      <description>Rode&#8217;s not done releasing trimmed-down versions of its production tools with an eye on budget conscious creators. Today, it&#8217;s launching Rodecaster Video Core, an all-in-one studio setup which sits below its flagship Rodecaster Video and its (now) mid-range Video S. It&#8217;s aimed at folks who are either dipping a toe into this world, or already have audio gear and just want to broaden out to HD video as well. Arguably, the biggest change is the lack of any controls on the hardware itself, as you&#8217;ll be running the show entirely from inside the Rodecaster App.
+In terms of connectivity, you&#8217;ll find t...</description>
+    </item>
+    <item>
+      <title>&#8216;Flying Cars&#8217; Will Take Off in American Skies This Summer</title>
+      <link>https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/</link>
+      <pubDate>Mon, 09 Mar 2026 22:39:12 +0000</pubDate>
+      <guid isPermaLink="false">69af225ec18afc2c24a71713</guid>
+      <description>The federal government announced a new pilot program designed to get new kinds of ultralight vehicles and &#8220;eVTOLs&#8221; up and running around the country&#8212;even if they're not fully FAA-certified.</description>
+    </item>
     <item>
       <title>Electric air taxis are about to take flight in 26 states</title>
       <link>https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/</link>
@@ -60,113 +89,6 @@
       <guid isPermaLink="false">https://www.fastcompany.com/91505685/your-ai-slop-bores-me-website-game-makes-humans-larp-chatgpt</guid>
       <description>Part parody game, part social commentary, this new people-powered chatbot is out to prove that human slop beats AI slop every time.    
 In the middle of a Monday workday, I found myself writing fanfiction for a stranger on the internet who wanted to read a scenario of themselves with a pit of quicksand.</description>
-    </item>
-    <item>
-      <title>Everything from the last week of everything is gambling now</title>
-      <link>https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets</link>
-      <pubDate>2026-03-09T17:18:26-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=891676</guid>
-      <description>Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would leave or be removed from office. Khamenei was killed in strikes on Iran last month, but according to the [&#8230;]</description>
-    </item>
-    <item>
-      <title>Most Self-Respecting X Users Are Probably Going to Want to Change This New Setting</title>
-      <link>https://gizmodo.com/most-self-respecting-x-users-are-probably-going-to-want-to-change-this-new-setting-2000731564</link>
-      <pubDate>Mon, 09 Mar 2026 21:17:06 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000731564</guid>
-      <description>If you don't like being deepfaked, this honestly won't do much to help. But it will at least fix the lowest-hanging fruit.</description>
-    </item>
-    <item>
-      <title>OpenAI and Google employees rush to Anthropic&#8217;s defense in DOD lawsuit</title>
-      <link>https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/</link>
-      <pubDate>Mon, 09 Mar 2026 21:15:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3100705</guid>
-      <description>More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.</description>
-    </item>
-    <item>
-      <title>&#8216;The Super Mario Galaxy Movie&#8217; Powers Up With One Final Trailer</title>
-      <link>https://gizmodo.com/the-super-mario-galaxy-movie-powers-up-with-one-final-trailer-2000731547</link>
-      <pubDate>Mon, 09 Mar 2026 21:10:33 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000731547</guid>
-      <description>Chris Pratt, Charlie Day, and the Nintendo gang return to theaters on April 1.</description>
-    </item>
-    <item>
-      <title>Qwant lance &#171;&#160;R&#233;ponse Flash&#160;&#187;, sa riposte aux AI Overviews de Google</title>
-      <link>https://www.01net.com/actualites/qwant-lance-reponse-flash-sa-riposte-aux-ai-overviews-de-google.html</link>
-      <pubDate>Mon, 09 Mar 2026 21:00:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1330697</guid>
-      <description>Les &#233;diteurs de presse fran&#231;ais redoutent le lancement dans l'Hexagone des AI Overviews de Google. Ces r&#233;sum&#233;s g&#233;n&#233;r&#233;s par IA ont en effet cette f&#226;cheuse tendance &#224; parfois raconter n'importe quoi, mais surtout ils privent les sites web d'un trafic et de revenus pr&#233;cieux. Qwant, le petit Poucet europ&#233;en, veut faire figure d'alternative avec R&#233;ponse Flash, une exp&#233;rimentation lanc&#233;e en partenariat avec des m&#233;dias....</description>
-    </item>
-    <item>
-      <title>Nintendo is demanding a refund for tariffs it paid in the US, but don't expect to see the refund passed on to you</title>
-      <link>https://www.techradar.com/gaming/nintendo-is-demanding-a-refund-for-tariffs-it-paid-in-the-us-but-dont-expect-to-see-the-refund-passed-on-to-you</link>
-      <pubDate>Mon, 09 Mar 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">kXdLnPJzPZexGE3VEE2WMB</guid>
-      <description>Nintendo is demanding a refund for the tariffs it paid, and the result could open up a can of worms for the US government.</description>
-    </item>
-    <item>
-      <title>Elon Musk Wants a Do-Over on Twitter Trial After Jury Pool Couldn&#8217;t Hide Its Disdain</title>
-      <link>https://gizmodo.com/elon-musk-wants-a-do-over-twitter-trial-after-jury-pool-couldnt-hide-its-disdain-2000731598</link>
-      <pubDate>Mon, 09 Mar 2026 20:55:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000731598</guid>
-      <description>Elon Musk&#8217;s legal team filed a motion for a mistrial in the case, a move that often hints the defense thinks the trial isn&#8217;t going its way.</description>
-    </item>
-    <item>
-      <title>Anthropic Claims Pentagon Feud Could Cost It Billions</title>
-      <link>https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/</link>
-      <pubDate>Mon, 09 Mar 2026 20:49:29 +0000</pubDate>
-      <guid isPermaLink="false">69af17fe0d5d062ffbaeb4d1</guid>
-      <description>Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.</description>
-    </item>
-    <item>
-      <title>Employees across OpenAI and Google support Anthropic&#8217;s lawsuit against the Pentagon</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google</link>
-      <pubDate>2026-03-09T16:45:24-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=891514</guid>
-      <description>On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's [&#8230;]...</description>
-    </item>
-    <item>
-      <title>How to watch Big Brother Manzsi season 6 online from anywhere [clone]</title>
-      <link>https://www.techradar.com/how-to-watch/big-brother-manzsi-season-6-online</link>
-      <pubDate>Mon, 09 Mar 2026 20:44:31 +0000</pubDate>
-      <guid isPermaLink="false">cYeQfk64kLv4CNjuGGQWoT</guid>
-      <description>Here&#8217;s how you can watch Big Brother Mzansi season 6 from anywhere in the world, and potentially for FREE.</description>
-    </item>
-    <item>
-      <title>Microsoft CEO Satya Nadella says company is &#8216;long on gaming&#8217; amid rumors of &#8216;sunsetting&#8217; Xbox due to AI</title>
-      <link>https://www.fastcompany.com/91505532/microsoft-ceo-satya-nadella-says-company-is-long-on-gaming-amid-rumors-of-sunsetting-xbox-due-to-ai</link>
-      <pubDate>2026-03-09T20:43:37</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91505532/microsoft-ceo-satya-nadella-says-company-is-long-on-gaming-amid-rumors-of-sunsetting-xbox-due-to-ai</guid>
-      <description>It&#8217;s the latest example of how AI threatens to upend industries and forces CEOs to do damage control.
-Xbox employees and players can rest assured that the console&#8217;s future is safe from the threat of artificial intelligence, Microsoft CEO Satya Nadella says. That&#8217;s per an internal Q&amp;A with incoming Xbox CEO Asha Sharma, Windows Central reported Sunday....</description>
-    </item>
-    <item>
-      <title>Why Bluesky&#8217;s CEO is stepping down at a critical moment for the platform</title>
-      <link>https://www.fastcompany.com/91505759/why-blueskys-ceo-is-stepping-down-at-a-critical-moment-for-the-platform</link>
-      <pubDate>2026-03-09T20:40:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91505759/why-blueskys-ceo-is-stepping-down-at-a-critical-moment-for-the-platform</guid>
-      <description>Jay Graber will remain at Bluesky as chief innovation officer, focusing on the platform&#8217;s technology as the company hires a new CEO to run its business operations.
-Blue skies ahead?</description>
-    </item>
-    <item>
-      <title>OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government</title>
-      <link>https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/</link>
-      <pubDate>Mon, 09 Mar 2026 20:38:12 +0000</pubDate>
-      <guid isPermaLink="false">69af030b66cd6250765aff28</guid>
-      <description>Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.</description>
-    </item>
-    <item>
-      <title>Dutch intelligence services warn of Russian hackers targeting Signal and WhatsApp</title>
-      <link>https://www.engadget.com/cybersecurity/dutch-intelligence-services-warn-of-russian-hackers-targeting-signal-and-whatsapp-203707202.html?src=rss</link>
-      <pubDate>Mon, 09 Mar 2026 20:37:07 +0000</pubDate>
-      <guid isPermaLink="false">9d0998ec-9867-4959-a53f-2b4ccc2b4a36</guid>
-      <description>The Netherlands&#8217; military intelligence service and domestic intelligence agency have issued a join warning claiming that Russian hackers have launched "a large-scale global cyber campaign to gain access to Signal and WhatsApp accounts belonging to dignitaries, military personnel and civil servants." According to the Dutch alert, hackers are imitating support chatbots to trick key targets into revealing their PINs for those communication platforms, which allows the bad actors to access incoming messages.Last year in the US, the Pentagon advised members not to use Signal after the platform was s...</description>
-    </item>
-    <item>
-      <title>&#8216;We must do more to protect our credentials&#8217;: Password security has barely changed since 2015 &#8212; and that's a big problem for everyone</title>
-      <link>https://www.techradar.com/pro/security/we-must-do-more-to-protect-our-credentials-password-security-has-barely-changed-since-2015-and-thats-a-big-problem-for-everyone</link>
-      <pubDate>Mon, 09 Mar 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">Aqj4tyhZFr7dLCns2VK548</guid>
-      <description>Password habits are improving, but not fast enough to keep accounts secure, experts warn.</description>
     </item>
   </channel>
 </rss>
