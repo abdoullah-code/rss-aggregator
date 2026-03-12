@@ -3,7 +3,107 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 12 Mar 2026 19:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 20:40:41 GMT</lastBuildDate>
+    <item>
+      <title>Agents need vector search more than RAG ever did</title>
+      <link>https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right</link>
+      <pubDate>Thu, 12 Mar 2026 21:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2RdwFN4osZXqbDtSFpaz5n</guid>
+      <description>What's the role of vector databases in the agentic AI world? That's a question that organizations have been coming to terms with in recent months.
+
+The narrative had real momentum. As large language models scaled to million-token context windows, a credible argument circulated among enterprise architects: purpose-built vector search was a stopgap, not infrastructure. Agentic memory would absorb the retrieval problem. Vector databases were a RAG-era artifact.The production evidence is running the other way.Qdrant, the Berlin-based open source vector search company, announced a $50 million Serie...</description>
+    </item>
+    <item>
+      <title>A &#8216;Super El Ni&#241;o&#8217; Could Be Coming&#8212;Here&#8217;s What That Means for You</title>
+      <link>https://gizmodo.com/a-super-el-nino-could-be-coming-heres-what-that-means-for-you-2000733022</link>
+      <pubDate>Thu, 12 Mar 2026 20:35:59 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000733022</guid>
+      <description>Climate models suggest this year could bring one of the strongest El Ni&#241;o events on record, driving more extreme weather and smashing global temperature records.</description>
+    </item>
+    <item>
+      <title>'It's been 20 years, it's surprising to me how little has changed': Sonos CEO and former Pandora exec Tom Conrad reveals what he thinks is 'holding us back' from more music streaming innovation</title>
+      <link>https://www.techradar.com/audio/spotify/its-been-20-years-its-surprising-to-me-how-little-has-changed-sonos-ceo-and-former-pandora-exec-tom-conrad-reveals-what-he-thinks-is-holding-us-back-from-more-music-streaming-innovation</link>
+      <pubDate>Thu, 12 Mar 2026 20:30:36 +0000</pubDate>
+      <guid isPermaLink="false">4b3izuXpyEkL4WcwZNA4YM</guid>
+      <description>'No one is motivated by making an innovative music discovery experience'</description>
+    </item>
+    <item>
+      <title>When an Anime Can&#8217;t Quite Live Up to Its Incredible Trailer</title>
+      <link>https://gizmodo.com/when-an-anime-cant-quite-live-up-to-its-incredible-trailer-2000732882</link>
+      <pubDate>Thu, 12 Mar 2026 20:30:27 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732882</guid>
+      <description>A fleeting glimpse of 'Origin: Spirits of the Past' had no business being a spiritual experience outshining 'Dragon Ball Z.'</description>
+    </item>
+    <item>
+      <title>Channel Surfer lets you watch YouTube like it&#8217;s old-school cable TV</title>
+      <link>https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/</link>
+      <pubDate>Thu, 12 Mar 2026 20:27:17 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3102159</guid>
+      <description>The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.</description>
+    </item>
+    <item>
+      <title>Why Rivian is holding the $45,000 base model R2 until &#8216;late 2027&#8217;</title>
+      <link>https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/</link>
+      <pubDate>Thu, 12 Mar 2026 20:24:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3101713</guid>
+      <description>Rivian spent the last two years promoting the R2 as a $45,000 SUV. But buyers won't be able to pay that price until late next year -- if at all.</description>
+    </item>
+    <item>
+      <title>Palantir CEO Insists He Doesn&#8217;t Support Regime Change Wars (But Supports Iran War)</title>
+      <link>https://gizmodo.com/palantir-ceo-insists-he-doesnt-support-regime-change-wars-but-supports-iran-war-2000732971</link>
+      <pubDate>Thu, 12 Mar 2026 20:20:43 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732971</guid>
+      <description>"No one believes it, but Palantir is the most important protector of the Fourth Amendment..." said Alex Karp.</description>
+    </item>
+    <item>
+      <title>John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job</title>
+      <link>https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/</link>
+      <pubDate>Thu, 12 Mar 2026 20:15:41 +0000</pubDate>
+      <guid isPermaLink="false">69b1dd5f8620a5777c7688e1</guid>
+      <description>A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.</description>
+    </item>
+    <item>
+      <title>M5 MacBook Air Review: A Laptop With Real Middle Child Energy</title>
+      <link>https://gizmodo.com/m5-macbook-air-review-a-laptop-with-real-middle-child-energy-2000732830</link>
+      <pubDate>Thu, 12 Mar 2026 20:10:02 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732830</guid>
+      <description>Apple's thinnest laptop is powerful for most tasks. Still, there may be better options above and below it.</description>
+    </item>
+    <item>
+      <title>Your Corporate Jargon&#8211;Loving Coworker Might Actually Be as Stupid as You Think, Study Shows</title>
+      <link>https://gizmodo.com/your-corporate-jargon-loving-coworker-might-actually-be-as-stupid-as-you-think-study-shows-2000732901</link>
+      <pubDate>Thu, 12 Mar 2026 20:05:30 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732901</guid>
+      <description>We all know that guy, and yes, your suspicions are true: Advocates of corporate speech aren't the sharpest pencils in the office.</description>
+    </item>
+    <item>
+      <title>Honda Cancels Plans for Three News EVs as It Scrambles to Rethink Strategy</title>
+      <link>https://gizmodo.com/honda-cancels-plans-for-three-news-evs-as-it-scrambles-to-rethink-strategy-2000732996</link>
+      <pubDate>Thu, 12 Mar 2026 20:00:55 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732996</guid>
+      <description>The company says shifting U.S. policies and rising competition from Chinese EV makers forced it to scrap three upcoming EV models.</description>
+    </item>
+    <item>
+      <title>RAMaggedon not expected to ease this year as IDC cuts 2026 PC market forecast again</title>
+      <link>https://www.engadget.com/computing/ramaggedon-not-expected-to-ease-this-year-as-idc-cuts-2026-pc-market-forecast-again-200000498.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d419088f-67ef-4430-8345-eba3b2fd407f</guid>
+      <description>We've been seeing all sorts of warnings about how RAMaggedon is nigh. The latest horseman signalling a disaster is the International Data Corporation, which had already cautioned that things were looking bad at the end of 2025. Today, the organization further cut its forecasts for the PC market in 2026, anticipating that global shipments would fall 11.6 percent. The previous report projected that this year would see a falloff of up to 8.9 percent due to ongoing memory shortages. And the new figure was set before the escalation of conflicts in Iran and across the Middle East, which could furthe...</description>
+    </item>
+    <item>
+      <title>KPop Demon Hunters is officially getting a sequel</title>
+      <link>https://www.engadget.com/entertainment/streaming/kpop-demon-hunters-is-officially-getting-a-sequel-195038954.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 19:50:38 +0000</pubDate>
+      <guid isPermaLink="false">0cf836af-b439-4d76-bfdb-67cc6308cdb4</guid>
+      <description>KPop Demon Hunters is getting a sequel, Netflix and Sony have announced. Sony Pictures Animation handed the rights to the film to Netflix in 2021 as part of a larger licensing deal, but neither company could have expected how much of a hit it would ultimately become. Besides being Netflix's "most-watched movie of all time," KPop Demon Hunters is also nominated for Best Animated Feature and Best Original Song at the 98th Academy Awards, and stands a good chance of winning.Maggie Kang and Chris Appelhans, the directors of the first film, are returning to direct the sequel. The project will be th...</description>
+    </item>
+    <item>
+      <title>&#8216;Uncanny Valley&#8217;: Anthropic&#8217;s DOD Lawsuit, War Memes, and AI Coming for VC Jobs</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/</link>
+      <pubDate>Thu, 12 Mar 2026 19:48:21 +0000</pubDate>
+      <guid isPermaLink="false">69b1aaf9a225b84c1169f179</guid>
+      <description>In today&#8217;s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.</description>
+    </item>
     <item>
       <title>&#8216;Starfleet Academy&#8217; Puts Itself on Trial, and Finds Its Old Generations Wanting</title>
       <link>https://gizmodo.com/star-trek-starfleet-academy-recap-episode-10-2000732676</link>
@@ -24,6 +124,21 @@
       <pubDate>Thu, 12 Mar 2026 19:23:07 +0000</pubDate>
       <guid isPermaLink="false">QXNwkJTGUC6wbhgd2yxZyM</guid>
       <description>A global 'memory crisis' has seen the price of SD cards shoot up in 2026, typically by over 200%. Here's my buying advice, and which genuine models I still recommend</description>
+    </item>
+    <item>
+      <title>Trader Joe&#8217;s is bringing back its viral mini tote bags. Here&#8217;s when to start looking</title>
+      <link>https://www.fastcompany.com/91508008/trader-joes-is-bringing-back-its-viral-mini-tote-bags-heres-when-to-start-looking</link>
+      <pubDate>2026-03-12T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91508008/trader-joes-is-bringing-back-its-viral-mini-tote-bags-heres-when-to-start-looking</guid>
+      <description>The miniature canvas totes will return in delicate pink, baby blue, mint green, and lavender&#8212;the same pastel shades shoppers snapped up last year.
+Nothing says springtime like a canvas tote drop from Trader Joe&#8217;s. That&#8217;s right. The highly anticipated shopping bags are back and ready to fly off the shelves (and, probably, the resale sites) once again.&#160;...</description>
+    </item>
+    <item>
+      <title>Tinder drops a slew of updates, including an AI way to cut through dating fatigue</title>
+      <link>https://mashable.com/article/tinder-updates-ai-chemistry-astrology-irl-events</link>
+      <pubDate>Thu, 12 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02dKqoSaNkhJefSzTQRpcuD</guid>
+      <description>Tinder announces several features and product updates, including the Chemistry AI feature and Events.</description>
     </item>
     <item>
       <title>What it was like to watch grieving parents stare down Mark Zuckerberg in court</title>
@@ -73,194 +188,6 @@
       <pubDate>Thu, 12 Mar 2026 18:43:25 +0000</pubDate>
       <guid isPermaLink="false">86d310b0-1315-414e-b0e7-b5a347701a29</guid>
       <description>European regulators are continuing to crack down on loot boxes and gaming features it classifies as "interactive risk categories." The Pan-European Game Information, better known as PEGI, is rolling out new rules that will apply age ratings based on the presence of loot boxes and other in-game purchases or systems that could be tied to gambling or addictive behavior. The exact policies are as follows:Purchases of in-game content: games with time-limited or quantity-limited offers will be classified with a PEGI 12, games with NFTs or blockchain-related mechanisms will be PEGI 18.Paid random ite...</description>
-    </item>
-    <item>
-      <title>Amazon Spring Sale: This &#163;92 HP 100Hz IPS monitor is the perfect budget upgrade for your home office</title>
-      <link>https://www.techradar.com/pro/amazon-spring-sale-this-gbp92-hp-100hz-ips-monitor-is-the-perfect-budget-upgrade-for-your-home-office</link>
-      <pubDate>Thu, 12 Mar 2026 18:34:10 +0000</pubDate>
-      <guid isPermaLink="false">dJARfxpASmcNtCtuDGnC6S</guid>
-      <description>HP&#8217;s 23.8-inch business monitor has a 100Hz refresh, vibrant colour, a height-adjustable stand, and a &#163;58 saving in the Amazon Spring Deal Days sale.</description>
-    </item>
-    <item>
-      <title>Netflix Makes the &#8216;KPop Demon Hunters&#8217; Sequel You Knew Was Coming Official</title>
-      <link>https://gizmodo.com/kpop-demon-hunters-2-official-netflix-release-date-2000732951</link>
-      <pubDate>Thu, 12 Mar 2026 18:30:18 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732951</guid>
-      <description>As the smash-hit animated film prepares to (probably) win an Oscar (or two), the streamer has confirmed Huntr/x will return.</description>
-    </item>
-    <item>
-      <title>Women are less likely to apply for jobs with a huge pay range. Here&#8217;s what companies can do about it</title>
-      <link>https://www.fastcompany.com/91499649/women-are-less-likely-to-apply-for-jobs-with-a-huge-pay-range-heres-what-companies-can-do-about-it</link>
-      <pubDate>2026-03-12T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91499649/women-are-less-likely-to-apply-for-jobs-with-a-huge-pay-range-heres-what-companies-can-do-about-it</guid>
-      <description>New research out of Cornell University indicates that pay transparency laws have not been as effective as intended&#8212;in part because many employers fail to truly comply with them. 
-Pay transparency laws were supposed to address the pay disparities that tend to impact women and people of color in the workplace. Over the last decade, 15 states have introduced laws that require varying degrees of disclosure from employers&#8212;from including explicit salary ranges in job postings to verbally sharing those details with prospective employees during the interview process.&#160;...</description>
-    </item>
-    <item>
-      <title>Uber says you can request champagne in its new Elite rides. Here&#8217;s how the service works</title>
-      <link>https://www.fastcompany.com/91507965/uber-says-you-can-request-champagne-in-its-new-elite-rides-heres-how-the-service-works</link>
-      <pubDate>2026-03-12T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91507965/uber-says-you-can-request-champagne-in-its-new-elite-rides-heres-how-the-service-works</guid>
-      <description>The new luxury chauffeur service requires riders to schedule trips at least one hour in advance and as far as 90 days ahead.
-Fancy a chauffeur? Uber is courting the well-heeled with a new ride option that will see it extend its reach from a taxi alternative to offering a more exclusive, limousine-style service.</description>
-    </item>
-    <item>
-      <title>&#8216;No Michelin stars for violence&#8217;: What&#8217;s happening with Noma? Rene Redzepi resigns amid protests and bombshell allegations</title>
-      <link>https://www.fastcompany.com/91507971/noma-restaurant-rene-redzepi-steps-down-employee-abuse-allegations-la-popup-protest</link>
-      <pubDate>2026-03-12T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91507971/noma-restaurant-rene-redzepi-steps-down-employee-abuse-allegations-la-popup-protest</guid>
-      <description>The celebrity chef of the iconic Copenhagen spot is facing serious accusations from former employees.
-Ren&#233; Redzepi, the chef behind Copenhagen&#8217;s Noma, has resigned from the iconic restaurant he co-founded and its food non-profit MAD, amid abuse allegations. The move comes after protesters gathered outside Noma&#8217;s 16-week Los Angeles pop-up Wednesday....</description>
-    </item>
-    <item>
-      <title>Substack launches a built-in recording studio</title>
-      <link>https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/</link>
-      <pubDate>Thu, 12 Mar 2026 18:24:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3102127</guid>
-      <description>Substack creators can pre-record video conversations with up to two guests, then publish directly on the platform.</description>
-    </item>
-    <item>
-      <title>Gemini Is Now Your Permanent Passenger in Google Maps</title>
-      <link>https://gizmodo.com/gemini-is-now-your-permanent-passenger-in-google-maps-2000732868</link>
-      <pubDate>Thu, 12 Mar 2026 18:20:45 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732868</guid>
-      <description>Hopefully it doesn't hallucinate directions.</description>
-    </item>
-    <item>
-      <title>Facebook Marketplace now lets Meta AI respond to buyers&#8217; messages</title>
-      <link>https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/</link>
-      <pubDate>Thu, 12 Mar 2026 18:20:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3102101</guid>
-      <description>When buyers inquire about an item&#8217;s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.</description>
-    </item>
-    <item>
-      <title>Bumble is the latest dating app to add an AI assistant</title>
-      <link>https://www.engadget.com/apps/bumble-is-the-latest-dating-app-to-add-an-ai-assistant-181729994.html?src=rss</link>
-      <pubDate>Thu, 12 Mar 2026 18:17:29 +0000</pubDate>
-      <guid isPermaLink="false">016eeca4-4dae-43be-b532-cc5b086cc942</guid>
-      <description>Bumble is testing an AI dating assistant called "Bee" that it hopes will get users on dates without them having to swipe through profiles, Bloomberg writes. The company announced the AI assistant during its fourth quarter earnings, and intends to use the AI in a new experience it calls "Dates."When a user opts in to Bumble's Dates feature, Bee performs an onboarding chat where it learns about the users' "values, relationship goals, communications style, lifestyle and dating intentions," and then attempts to find other users who share some or all of those traits. Once Bee finds someone compatib...</description>
-    </item>
-    <item>
-      <title>Tesla wins energy licence to supply your electricity in the UK &#8212; but experts don't think it'll get a smooth ride</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-wins-uk-energy-licence-to-supply-your-electricity-in-the-uk-but-experts-dont-think-itll-get-a-smooth-ride</link>
-      <pubDate>Thu, 12 Mar 2026 18:16:15 +0000</pubDate>
-      <guid isPermaLink="false">JVixRmDs2awhkEWvpahWJc</guid>
-      <description>UK energy regulator grants Tesla license to supply electricity, as it moves beyond EVs and into the energy market.</description>
-    </item>
-    <item>
-      <title>Phoenix has lived with Waymos longer than any U.S. city. Here&#8217;s what its mayor learned</title>
-      <link>https://www.fastcompany.com/91507709/kate-gallego-interview-waymo-phoenix</link>
-      <pubDate>2026-03-12T18:15:34</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91507709/kate-gallego-interview-waymo-phoenix</guid>
-      <description>Mayor Kate Gallego talks about working with Waymo, redesigning cities for autonomous vehicles, and why robotaxis may reshape everything from parking to public transit.
-In 2020, Waymo began offering fully driverless rides to the public in Phoenix, turning the city into the closest thing the U.S. has to a real-world laboratory for autonomous vehicles. What began as a cautious pilot has since grown into a sprawling robotaxi network that now includes freeway travel and service to Phoenix Sky Harbor International Airport....</description>
-    </item>
-    <item>
-      <title>Google Is Not Ruling Out Ads in Gemini</title>
-      <link>https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/</link>
-      <pubDate>Thu, 12 Mar 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">69aef82366cd6250765aff05</guid>
-      <description>WIRED spoke with Nick Fox, Google&#8217;s SVP of knowledge and information, about how AI is changing the company&#8217;s advertising business.</description>
-    </item>
-    <item>
-      <title>Comfortable and more affordable: Steelcase's Amia ergonomic office chair is nearly &#163;300 off for Amazon's Spring Deal Days sale</title>
-      <link>https://www.techradar.com/pro/comfortable-and-more-affordable-steelcases-amia-ergonomic-office-chair-is-nearly-gbp300-off-for-amazons-spring-deal-days-sale</link>
-      <pubDate>Thu, 12 Mar 2026 18:14:36 +0000</pubDate>
-      <guid isPermaLink="false">MKEvroKKbBuEjxYRadHufJ</guid>
-      <description>Steelcase's Amia ergonomic office chair is nearly &#163;300 off for Amazon's Spring Deal Days sale.</description>
-    </item>
-    <item>
-      <title>Galaxy A37 et A57 : la douche froide sur les prix est confirm&#233;e pour la France</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/3012015_galaxy-a37-et-a57-la-douche-froide-sur-les-prix-est-confirmee-pour-la-france</link>
-      <pubDate>Thu, 12 Mar 2026 18:09:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/3012015_galaxy-a37-et-a57-la-douche-froide-sur-les-prix-est-confirmee-pour-la-france</guid>
-      <description>
-On sait enfin combien vont co&#251;ter les prochains best-sellers de Samsung. Les Galaxy A37 et A57 arrivent en France le 10 avril 2026 avec une mauvaise surprise.
-</description>
-    </item>
-    <item>
-      <title>Why smaller portions are the biggest restaurant trend right now</title>
-      <link>https://www.fastcompany.com/91508158/restaurants-smaller-portions-weight-loss-drugs</link>
-      <pubDate>2026-03-12T18:08:54</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91508158/restaurants-smaller-portions-weight-loss-drugs</guid>
-      <description>Some restaurants are even adding menus to court users of GLP-1&#160;drugs.
-The biggest new&#160;restaurant trend&#160;is small.</description>
-    </item>
-    <item>
-      <title>'The prevailing wisdom used to be that macOS was at lower risk of malware infection compared to Windows...that&#8217;s no longer the case': Experts warn Mac infostealers are on the rise - here's how to stay safe</title>
-      <link>https://www.techradar.com/pro/security/the-prevailing-wisdom-used-to-be-that-macos-was-at-lower-risk-of-malware-infection-compared-to-windows-thats-no-longer-the-case-experts-warn-mac-infostealers-are-on-the-rise-heres-how-to-stay-safe</link>
-      <pubDate>Thu, 12 Mar 2026 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">KFBv4RPs4EZbthscKKGD4g</guid>
-      <description>Three distinct campaigns recently spotted by Sophos, all targeting MacOS users with infostealers.</description>
-    </item>
-    <item>
-      <title>MacBook Neo: Heres everything reviewers didn&#8217;t like</title>
-      <link>https://mashable.com/article/macbook-neo-everything-reviewers-didnt-like</link>
-      <pubDate>Thu, 12 Mar 2026 18:03:47 +0000</pubDate>
-      <guid isPermaLink="false">05uk01HVxBXbJDIyYJzydpH</guid>
-      <description>Here's a look at some of the drawbacks to Apple's newest laptop, the MacBook Neo.</description>
-    </item>
-    <item>
-      <title>DJI Avata 360 : voici la fiche technique monstrueuse pour un drone qui s&#8217;annonce lourd</title>
-      <link>https://www.frandroid.com/marques/dji/3011985_dji-avata-360-voici-la-fiche-technique-monstrueuse-pour-un-drone-qui-sannonce-lourd</link>
-      <pubDate>Thu, 12 Mar 2026 18:01:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/dji/3011985_dji-avata-360-voici-la-fiche-technique-monstrueuse-pour-un-drone-qui-sannonce-lourd</guid>
-      <description>
-DJI se d&#233;cide enfin &#224; regarder partout en m&#234;me temps. Avec l'Avata 360, la marque chinoise r&#233;pond &#224; l'offensive d'Insta360 avec des arguments techniques.
-</description>
-    </item>
-    <item>
-      <title>A Green Lantern Is Joining &#8216;Man of Tomorrow,&#8217; but Not the One You&#8217;d Expect</title>
-      <link>https://gizmodo.com/a-green-lantern-is-joining-man-of-tomorrow-but-not-the-one-youd-expect-2000732935</link>
-      <pubDate>Thu, 12 Mar 2026 18:01:05 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732935</guid>
-      <description>Aaron Pierre's John Stewart, soon to be seen on DC's HBO Max series 'Lanterns,' will be a part of James Gunn's next Superman film.</description>
-    </item>
-    <item>
-      <title>Soundcore Nebula P1i projector review: An affordable option with accurate color and loud sound</title>
-      <link>https://www.engadget.com/home/home-theater/soundcore-nebula-p1i-projector-review-an-affordable-option-with-accurate-color-and-loud-sound-180034925.html?src=rss</link>
-      <pubDate>Thu, 12 Mar 2026 18:00:34 +0000</pubDate>
-      <guid isPermaLink="false">4edd2502-1dda-41a8-b0cd-e4e1337b6ff8</guid>
-      <description>Anker&#8217;s Soundcore projectors have become an attractive option for buyers thanks to models like the P1 and Nebula X1 that combine performance and portability. Now, the company has added "affordability" to that equation with its latest model, the $369 P1i. Instead of being detachable like on the P1, its speakers fold out toward listeners, promising better and louder sound than most cheap projectors.
-The P1i also delivers 1080p video, Google TV for streaming and the same easy screen fit setup as other Anker projectors. However, unlike some portable models, it lacks a built-in battery for true por...</description>
-    </item>
-    <item>
-      <title>US Lawmakers Move to Kill the FBI&#8217;s Warrantless Wiretap Access</title>
-      <link>https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/</link>
-      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69b2d1551547599c3cff0a6c</guid>
-      <description>A bipartisan bill would force the FBI to get a warrant to read Americans&#8217; messages and ban the federal purchase of commercial data on US residents ahead of a critical April deadline.</description>
-    </item>
-    <item>
-      <title>Tinder tries to lure people back to online dating with IRL events, virtual speed dating</title>
-      <link>https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/</link>
-      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3101549</guid>
-      <description>Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.</description>
-    </item>
-    <item>
-      <title>Quince copied its way to a $10 billion empire. Now it&#8217;s looking for a new story</title>
-      <link>https://www.fastcompany.com/91506645/quince-copied-its-way-to-a-10-billion-empire-now-its-looking-for-a-new-story</link>
-      <pubDate>2026-03-12T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91506645/quince-copied-its-way-to-a-10-billion-empire-now-its-looking-for-a-new-story</guid>
-      <description>The dupe-culture darling just raised $500 million. I ask its first head of brand and narrative how she&#8217;s positioning the brand for hyper growth.
-There&#8217;s a $298 midi dress on Reformation&#8217;s website with delicate lace detailing throughout and a button front that allows you to show some leg&#8212;it&#8217;s the kind of dress the brand is known for, versatile and a little seductive. On Quince, there&#8217;s what appears to be the same dress: It has the same silhouette, the same fabric, the same drape. The Quince version costs $69.90....</description>
-    </item>
-    <item>
-      <title>Facebook Marketplace adds AI auto-replies for annoying &#8216;Is this still available?&#8217; messages</title>
-      <link>https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings</link>
-      <pubDate>2026-03-12T13:59:32-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=893907</guid>
-      <description>Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying "Is this still available?" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI [&#8230;]</description>
-    </item>
-    <item>
-      <title>Le prix des composants flambe, mais ce laptop Lenovo avec 24 Go de RAM et 1 To de SSD chute &#224; 549 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3011221_le-prix-des-composants-flambe-mais-ce-laptop-lenovo-avec-24-go-de-ram-et-1-to-de-ssd-chute-a-549-e</link>
-      <pubDate>Thu, 12 Mar 2026 17:57:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3011221_le-prix-des-composants-flambe-mais-ce-laptop-lenovo-avec-24-go-de-ram-et-1-to-de-ssd-chute-a-549-e</guid>
-      <description>
-Le Lenovo IdeaPad Slim 3 15IRH10, dot&#233; d&#8217;un processeur i5 de 13&#7497; g&#233;n&#233;ration, 24&#8239;Go de RAM et 1&#8239;To de SSD, voit son prix chuter de 799&#8239;euros &#224; seulement 549 euros sur Cdiscount. Une affaire particuli&#232;rement int&#233;ressante dans un contexte o&#249; la RAM et les SSD voient leurs prix flamber.
-</description>
     </item>
   </channel>
 </rss>
