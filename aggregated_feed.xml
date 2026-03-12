@@ -3,15 +3,76 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 12 Mar 2026 20:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 21:38:06 GMT</lastBuildDate>
     <item>
-      <title>Agents need vector search more than RAG ever did</title>
-      <link>https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right</link>
-      <pubDate>Thu, 12 Mar 2026 21:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2RdwFN4osZXqbDtSFpaz5n</guid>
-      <description>What's the role of vector databases in the agentic AI world? That's a question that organizations have been coming to terms with in recent months.
-
-The narrative had real momentum. As large language models scaled to million-token context windows, a credible argument circulated among enterprise architects: purpose-built vector search was a stopgap, not infrastructure. Agentic memory would absorb the retrieval problem. Vector databases were a RAG-era artifact.The production evidence is running the other way.Qdrant, the Berlin-based open source vector search company, announced a $50 million Serie...</description>
+      <title>'The tools SMBs need to stay productive, connected and ready for the future': Dell's latest SMB laptops promise high performance and decent hardware</title>
+      <link>https://www.techradar.com/pro/dell-pro-essential-devices-provide-the-tools-smbs-need-to-stay-productive-connected-and-ready-for-the-future-dells-latest-smb-laptops-promise-high-performance-and-decent-hardware</link>
+      <pubDate>Thu, 12 Mar 2026 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">aY5UYsg68PWGPBBFZstcsG</guid>
+      <description>Dell Pro Essential laptops, desktops, and mobile workstations combine performance, durability, and remote management to support SMB hybrid productivity and scalability.</description>
+    </item>
+    <item>
+      <title>Google Chrome is coming to Arm-powered Linux devices later this year</title>
+      <link>https://www.theverge.com/tech/894095/google-chrome-for-arm-linux</link>
+      <pubDate>2026-03-12T17:33:04-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=894095</guid>
+      <description>You can download Chrome for Linux, and you can download Chrome for Arm devices - but if you've got a computer running Linux on Arm, not so much! Now, Google says it's finally bringing Chrome to ARM64 Linux machines in Q2 2026, following Chrome for Arm Macs in 2020 and Chrome for Windows on Arm [&#8230;]</description>
+    </item>
+    <item>
+      <title>We Accidentally Just Got Our First Look at the Grown-Up Heroes of the &#8216;Last Airbender&#8217; Movie</title>
+      <link>https://gizmodo.com/avatar-last-airbender-aang-movie-first-look-katara-zuko-toph-sokka-2000732933</link>
+      <pubDate>Thu, 12 Mar 2026 21:30:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732933</guid>
+      <description>'The Legend of Aang: The Last Airbender' comes to Paramount+ this fall, but you can get a peek at its characters thanks to... a T-shirt?</description>
+    </item>
+    <item>
+      <title>Adobe CEO Shantanu Narayen plans to step down after 18 years</title>
+      <link>https://www.engadget.com/big-tech/adobe-ceo-shantanu-narayen-plans-to-step-down-after-18-years-212705623.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 21:27:05 +0000</pubDate>
+      <guid isPermaLink="false">5e12d200-f539-48c2-8ff3-fcf5009d5299</guid>
+      <description>Adobe's long-time CEO has shared that he plans to step down. Shantanu Narayen has been the chief exec at the tech company for 18 years, a tenure where he led Adobe in the major shift to become a software-as-a-service provider. The exact timeline for his exit is still up in the air, as Narayen will depart when the board of directors names his successor. He will remain on the board as its chair after leaving the CEO post.&#160;While Adobe was not the first to take the SaaS route, it was one of the first major tech operations to do so. Software such as Photoshop, Illustrator, Premiere and Lightroom fr...</description>
+    </item>
+    <item>
+      <title>Tinder&#8217;s Solution to Dating App Burnout Is More AI</title>
+      <link>https://gizmodo.com/tinders-solution-to-dating-app-burnout-is-more-ai-2000732990</link>
+      <pubDate>Thu, 12 Mar 2026 21:20:16 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732990</guid>
+      <description>When all you have is a hammer...</description>
+    </item>
+    <item>
+      <title>Your Off-Brand GLP-1 Is Dirtier Than You Think</title>
+      <link>https://gizmodo.com/your-off-brand-glp-1-is-dirtier-than-you-think-2000732906</link>
+      <pubDate>Thu, 12 Mar 2026 21:05:50 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732906</guid>
+      <description>Eli Lilly has issued a new warning against buying compounded versions of its drug tirzepatide, claiming to have found potentially dangerous impurities.</description>
+    </item>
+    <item>
+      <title>NASA will try its Artemis II launch again in early April</title>
+      <link>https://www.engadget.com/science/space/nasa-will-try-its-artemis-ii-launch-again-in-early-april-205714288.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 20:57:14 +0000</pubDate>
+      <guid isPermaLink="false">09f358fd-b13d-4e35-82d7-853870413818</guid>
+      <description>NASA will soon give it another go on April Fools' Day. On Thursday, NASA said it's targeting April 1 at 6:24 PM ET for the Artemis II mission's next launch attempt.In case that date doesn't pan out, NASA added April 2 at 7:22 PM as a secondary launch opportunity. If necessary, the agency foresees several more openings between April 1 and 6 to get the Orion rocket into space. "Within those six days between the first and the sixth, we can't always turn around every day for an attempt," NASA acting associate administrator Lori Glaze said at a press conference. "We would anticipate [&#8230;] about four ...</description>
+    </item>
+    <item>
+      <title>Sam Altman Says Intelligence Will Be a Utility, and He&#8217;s Just the Man to Collect the Bills</title>
+      <link>https://gizmodo.com/sam-altman-says-intelligence-will-be-a-utility-and-hes-just-the-man-to-collect-the-bills-2000732953</link>
+      <pubDate>Thu, 12 Mar 2026 20:55:04 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732953</guid>
+      <description>"Intelligence too cheap to meter" doesn't quite come across the way Altman might intend.</description>
+    </item>
+    <item>
+      <title>Can We Interest You in a $400 AI Keychain That &#8216;Behaves Like a Real Pet&#8217;?</title>
+      <link>https://gizmodo.com/can-we-interest-you-in-a-400-ai-keychain-that-behaves-like-a-real-pet-2000732919</link>
+      <pubDate>Thu, 12 Mar 2026 20:50:20 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732919</guid>
+      <description>This $400 digital pet might be peak AI gadget.</description>
+    </item>
+    <item>
+      <title>Disclosure Day trailer: Steven Spielberg and aliens remain a match made in heaven</title>
+      <link>https://mashable.com/video/disclosure-day-trailer</link>
+      <pubDate>Thu, 12 Mar 2026 20:41:58 +0000</pubDate>
+      <guid isPermaLink="false">07qDtz8Eys5ysYJ2f6nUS2c</guid>
+      <description>Josh O'Connor and Emily Blunt star in Steven Spielberg's sci-fi film "Disclosure Day," out June 12.</description>
     </item>
     <item>
       <title>A &#8216;Super El Ni&#241;o&#8217; Could Be Coming&#8212;Here&#8217;s What That Means for You</title>
@@ -33,6 +94,22 @@ The narrative had real momentum. As large language models scaled to million-toke
       <pubDate>Thu, 12 Mar 2026 20:30:27 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000732882</guid>
       <description>A fleeting glimpse of 'Origin: Spirits of the Past' had no business being a spiritual experience outshining 'Dragon Ball Z.'</description>
+    </item>
+    <item>
+      <title>AI companies fighting with the U.S. government over safety? &#8216;The X-Files&#8217; predicted it in 1993</title>
+      <link>https://www.fastcompany.com/91507279/x-files-episode-eerily-predicted-anthropic-pentagon-ai-fight-1993</link>
+      <pubDate>2026-03-12T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91507279/x-files-episode-eerily-predicted-anthropic-pentagon-ai-fight-1993</guid>
+      <description>One episode of the paranoia-packed TV show presciently explored the very real AI debates we&#8217;re having more than 30 years later.
+With its many extraterrestrial guest stars, The X-Files was always meant to be a spooky show. One of its earliest episodes, however, is now eerie in a way its creators likely never intended.</description>
+    </item>
+    <item>
+      <title>Noma chef Ren&#233; Redzepi resigns over abuse allegations: What it says about the workplace nearly a decade after #MeToo</title>
+      <link>https://www.fastcompany.com/91508006/noma-chef-rene-redzepi-resigns-over-abuse-allegations-what-it-says-about-the-workplace-nearly-a-decade-after-metoo</link>
+      <pubDate>2026-03-12T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91508006/noma-chef-rene-redzepi-resigns-over-abuse-allegations-what-it-says-about-the-workplace-nearly-a-decade-after-metoo</guid>
+      <description>The restaurant industry was riled by the reckoning years ago, but toxic behavior still skates by longer than it should.
+James Beard Award-winning chef Ren&#233; Redzepi, who co-founded the iconic, Michelin Starred Noma restaurant in Copenhagen, announced his resignation on Wednesday. The announcement comes following years of allegations of abuse, assault, and the creation of a toxic work environment at the restaurant which is one of the world&#8217;s most famous, influential and acclaimed dining spots....</description>
     </item>
     <item>
       <title>Channel Surfer lets you watch YouTube like it&#8217;s old-school cable TV</title>
@@ -103,91 +180,6 @@ The narrative had real momentum. As large language models scaled to million-toke
       <pubDate>Thu, 12 Mar 2026 19:48:21 +0000</pubDate>
       <guid isPermaLink="false">69b1aaf9a225b84c1169f179</guid>
       <description>In today&#8217;s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.</description>
-    </item>
-    <item>
-      <title>&#8216;Starfleet Academy&#8217; Puts Itself on Trial, and Finds Its Old Generations Wanting</title>
-      <link>https://gizmodo.com/star-trek-starfleet-academy-recap-episode-10-2000732676</link>
-      <pubDate>Thu, 12 Mar 2026 19:30:08 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732676</guid>
-      <description>'Rubincon' ends the first season of 'Starfleet Academy' with an interesting twist on its belief in the next generation&#8212;with some repuditation of the ones that came before them.</description>
-    </item>
-    <item>
-      <title>Researchers Say AI Is Homogenizing Human Expression and Thought</title>
-      <link>https://gizmodo.com/researchers-say-ai-is-homogenizing-human-expression-and-thought-2000732610</link>
-      <pubDate>Thu, 12 Mar 2026 19:25:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732610</guid>
-      <description>For a "large" language model, the diversity of outputs is pretty small.</description>
-    </item>
-    <item>
-      <title>Buy now or wait? SD card prices are shooting through the roof &#8211; here&#8217;s how to navigate the &#8216;memory crisis&#8217;</title>
-      <link>https://www.techradar.com/computing/memory/buy-now-or-wait-sd-card-prices-are-shooting-through-the-roof-heres-how-to-navigate-the-memory-crisis</link>
-      <pubDate>Thu, 12 Mar 2026 19:23:07 +0000</pubDate>
-      <guid isPermaLink="false">QXNwkJTGUC6wbhgd2yxZyM</guid>
-      <description>A global 'memory crisis' has seen the price of SD cards shoot up in 2026, typically by over 200%. Here's my buying advice, and which genuine models I still recommend</description>
-    </item>
-    <item>
-      <title>Trader Joe&#8217;s is bringing back its viral mini tote bags. Here&#8217;s when to start looking</title>
-      <link>https://www.fastcompany.com/91508008/trader-joes-is-bringing-back-its-viral-mini-tote-bags-heres-when-to-start-looking</link>
-      <pubDate>2026-03-12T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91508008/trader-joes-is-bringing-back-its-viral-mini-tote-bags-heres-when-to-start-looking</guid>
-      <description>The miniature canvas totes will return in delicate pink, baby blue, mint green, and lavender&#8212;the same pastel shades shoppers snapped up last year.
-Nothing says springtime like a canvas tote drop from Trader Joe&#8217;s. That&#8217;s right. The highly anticipated shopping bags are back and ready to fly off the shelves (and, probably, the resale sites) once again.&#160;...</description>
-    </item>
-    <item>
-      <title>Tinder drops a slew of updates, including an AI way to cut through dating fatigue</title>
-      <link>https://mashable.com/article/tinder-updates-ai-chemistry-astrology-irl-events</link>
-      <pubDate>Thu, 12 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">02dKqoSaNkhJefSzTQRpcuD</guid>
-      <description>Tinder announces several features and product updates, including the Chemistry AI feature and Events.</description>
-    </item>
-    <item>
-      <title>What it was like to watch grieving parents stare down Mark Zuckerberg in court</title>
-      <link>https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube</link>
-      <pubDate>2026-03-12T14:58:58-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=893930</guid>
-      <description>Around a dozen parents huddled in the dim hallway outside the courtroom in February, nervously gripping paper tickets. They were glaring at a gray tote bag held by a member of the court staff - the one who'd determine, by lottery, if they made it inside. Pinned on bags and coats, butterfly clips honored children [&#8230;]</description>
-    </item>
-    <item>
-      <title>Save &#163;150 on this 32GB Asus Core 7 mini PC in Amazon&#8217;s Spring Sale</title>
-      <link>https://www.techradar.com/pro/save-gbp150-on-this-32gb-asus-core-7-mini-pc-in-amazons-spring-sale</link>
-      <pubDate>Thu, 12 Mar 2026 18:56:53 +0000</pubDate>
-      <guid isPermaLink="false">YSJy6ca4YcbHeCwr9weeP5</guid>
-      <description>Save over &#163;150 on this Asus Core 7 mini PC with 32GB DDR5 and Windows 11 Pro in Amazon's Spring Deal Days sale</description>
-    </item>
-    <item>
-      <title>The original AirTag is the cheapest it&#8217;s ever been</title>
-      <link>https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale</link>
-      <pubDate>2026-03-12T14:50:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=894007</guid>
-      <description>Despite the fact Apple released a new AirTag in January, the first-generation AirTag is still a top-notch tracker if you&#8217;re embedded in Apple&#8217;s ecosystem. And right now, it&#8217;s on sale for $13.91 ($15.09 off) at Walmart, which marks a new low price.&#160; If you&#8217;re an iPhone owner, the original AirTag still delivers a level of [&#8230;]</description>
-    </item>
-    <item>
-      <title>Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions</title>
-      <link>https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794</link>
-      <pubDate>Thu, 12 Mar 2026 18:50:11 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732794</guid>
-      <description>Silicon Valley promised AI would make work less intense. Employees would beg to differ.</description>
-    </item>
-    <item>
-      <title>Meta is testing clickable links in Instagram captions for verified subscribers</title>
-      <link>https://www.engadget.com/social-media/meta-is-testing-clickable-links-in-instagram-captions-for-verified-subscribers-184555406.html?src=rss</link>
-      <pubDate>Thu, 12 Mar 2026 18:45:55 +0000</pubDate>
-      <guid isPermaLink="false">0e047155-8060-4a4e-ab9f-d043e3a29d80</guid>
-      <description>Instagram has long limited users' ability to share links, restricting link-sharing to Stories, Reels and user profiles. But that might now be changing. The company has started to test clickable links inside of post captions for subscribers to Meta Verified.&#160;The new feature, which has been a long-requested update from creators, was spotted by blogger Andrea Valeria, who posted screenshots of a clickable Substack link she was able to add to an Instagram post. According to Valeria, an in-app message indicated she could share up to 10 links a month.Meta confirmed to Engadget that it's testing link...</description>
-    </item>
-    <item>
-      <title>KPop Demon Hunters is getting a sequel, obviously</title>
-      <link>https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel</link>
-      <pubDate>2026-03-12T14:45:32-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=894014</guid>
-      <description>Get ready to get even more K-pop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunters is returning for a sequel, with the fictional Korean girl group HUNTR/X coming back to lay down pop hits and smash evil boy bands (and/or other demons). Maggie Kang and Chris Appelhans will once [&#8230;]</description>
-    </item>
-    <item>
-      <title>PEGI ratings for game releases in Europe will be age-restricted if they contain loot boxes</title>
-      <link>https://www.engadget.com/gaming/pegi-ratings-for-game-releases-in-europe-will-be-age-restricted-if-they-contain-loot-boxes-184325819.html?src=rss</link>
-      <pubDate>Thu, 12 Mar 2026 18:43:25 +0000</pubDate>
-      <guid isPermaLink="false">86d310b0-1315-414e-b0e7-b5a347701a29</guid>
-      <description>European regulators are continuing to crack down on loot boxes and gaming features it classifies as "interactive risk categories." The Pan-European Game Information, better known as PEGI, is rolling out new rules that will apply age ratings based on the presence of loot boxes and other in-game purchases or systems that could be tied to gambling or addictive behavior. The exact policies are as follows:Purchases of in-game content: games with time-limited or quantity-limited offers will be classified with a PEGI 12, games with NFTs or blockchain-related mechanisms will be PEGI 18.Paid random ite...</description>
     </item>
   </channel>
 </rss>
