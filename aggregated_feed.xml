@@ -3,13 +3,276 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 12 Mar 2026 11:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:11:54 GMT</lastBuildDate>
+    <item>
+      <title>&#8216;Your AI Slop Bores Me&#8217; Gives You a Chance to See How the Sausage Is Made</title>
+      <link>https://gizmodo.com/your-ai-slop-bores-me-gives-you-a-chance-to-see-how-the-sausage-is-made-2000732431</link>
+      <pubDate>Thu, 12 Mar 2026 13:10:29 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732431</guid>
+      <description>These days, you don't even need to be good at chess to be a Mechanical Turk.</description>
+    </item>
+    <item>
+      <title>'An unprecedented blow': US medtech giant Stryker suffers global outage after apparent Iranian cyberattack</title>
+      <link>https://www.techradar.com/pro/security/an-unprecedented-blow-us-medtech-giant-stryker-suffers-global-outage-after-apparent-iranian-cyberattack</link>
+      <pubDate>Thu, 12 Mar 2026 13:05:00 +0000</pubDate>
+      <guid isPermaLink="false">eCLnxAnPxCJ7mtWo6sKeUQ</guid>
+      <description>Handala allegedly wipes thousands of mobile phones, computers, and servers belonging to Stryker.</description>
+    </item>
+    <item>
+      <title>Comment Perplexity transforme votre Mac mini en v&#233;ritable J.A.R.V.I.S</title>
+      <link>https://www.frandroid.com/marques/apple/3010159_comment-perplexity-transforme-votre-mac-mini-en-veritable-j-a-r-v-i-s</link>
+      <pubDate>Thu, 12 Mar 2026 13:02:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3010159_comment-perplexity-transforme-votre-mac-mini-en-veritable-j-a-r-v-i-s</guid>
+      <description>
+L'IA de Perplexity semble avoir trouv&#233; un &#233;crin id&#233;al : le Mac mini. Le petit ordinateur de bureau d'Apple sert d&#233;sormais de machine d'accueil toute trouv&#233;e pour l'assistant IA personnel de l'entreprise am&#233;ricaine, au travers de son nouveau projet &#171; Personal Computer &#187; d&#233;voil&#233; cette semaine.
+</description>
+    </item>
+    <item>
+      <title>Microsoft&#8217;s Copilot Health can connect to your medical records and wearables</title>
+      <link>https://www.theverge.com/tech/893594/microsoft-copilot-health-launch</link>
+      <pubDate>2026-03-12T09:01:07-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=893594</guid>
+      <description>Microsoft announced on Thursday that it's launching Copilot Health, a "separate, secure space" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats. The feature will have a phased rollout, so it won't be available to everyone immediately, but users can join a [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Netflix Has a Great Looking New Shark-Based Weather Disaster Movie</title>
+      <link>https://gizmodo.com/netflix-has-a-great-looking-new-shark-based-weather-disaster-movie-2000732639</link>
+      <pubDate>Thu, 12 Mar 2026 13:00:28 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732639</guid>
+      <description>Jaws swims through the streets in 'Thrash,' starring Phoebe Dynevor, Whitney Peak, and Djimon Hounsou.</description>
+    </item>
+    <item>
+      <title>Google is using old news reports and AI to predict flash floods</title>
+      <link>https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/</link>
+      <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3101750</guid>
+      <description>A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.</description>
+    </item>
+    <item>
+      <title>As if Leica wasn&#8217;t exclusive enough already, a US price hike is imminent &#8211; adding hundreds of dollars to popular models</title>
+      <link>https://www.techradar.com/cameras/as-if-leica-wasnt-exclusive-enough-already-a-us-price-hike-is-imminent-adding-hundreds-of-dollars-to-popular-models</link>
+      <pubDate>Thu, 12 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">afgt5skeLKqUTFd3PPioMC</guid>
+      <description>Leica has announced a host of moderate price increases across its M, SL and Q ranges of cameras and lenses.</description>
+    </item>
+    <item>
+      <title>The team behind continuous batching says your idle GPUs should be running inference, not sitting dark</title>
+      <link>https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-your-idle-gpus-should-be-running</link>
+      <pubDate>Thu, 12 Mar 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2cp2xrSFooB7JP3S1K2Zfq</guid>
+      <description>Every GPU cluster has dead time. Training jobs finish, workloads shift and hardware sits dark while power and cooling costs keep running. For neocloud operators, those empty cycles are lost margin.The obvious workaround is spot GPU markets &#8212; renting spare capacity to whoever needs it. But spot instances mean the cloud vendor is still the one doing the renting, and engineers buying that capacity are still paying for raw compute with no inference stack attached. FriendliAI's answer is different: run inference directly on the unused hardware, optimize for token throughput, and split the revenue w...</description>
+    </item>
+    <item>
+      <title>Whoop calls its new clothing range a 'technical garment system' and I honestly don't know what else I expected</title>
+      <link>https://www.techradar.com/health-fitness/whoop-calls-its-new-clothing-range-a-technical-garment-system-and-i-honestly-dont-know-what-else-i-expected</link>
+      <pubDate>Thu, 12 Mar 2026 12:58:33 +0000</pubDate>
+      <guid isPermaLink="false">vu9ZxWym6eYHSiV3ivF9DN</guid>
+      <description>Whoop courts the hypebeasts with a predictable take on high-fashion athleisure.</description>
+    </item>
+    <item>
+      <title>Google is adding major optimizations to Android to make your phone run faster and improve battery life</title>
+      <link>https://www.techradar.com/phones/android/google-is-adding-major-optimizations-to-android-to-make-your-phone-run-faster-and-improve-battery-life</link>
+      <pubDate>Thu, 12 Mar 2026 12:50:44 +0000</pubDate>
+      <guid isPermaLink="false">GjsLevAkhnpt3kvuVRbaDP</guid>
+      <description>Thanks to a tool called AutoFDO, Google is promising that your Android phone will soon be working better than ever.</description>
+    </item>
+    <item>
+      <title>&#171; Steam Machine Verified &#187; : Valve pr&#233;cise les conditions requises pour obtenir ce s&#233;same</title>
+      <link>https://www.frandroid.com/produits-android/console/console-de-jeux/3010715_steam-machine-verified-valve-precise-les-conditions-requises-pour-obtenir-ce-sesame</link>
+      <pubDate>Thu, 12 Mar 2026 12:36:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/console-de-jeux/3010715_steam-machine-verified-valve-precise-les-conditions-requises-pour-obtenir-ce-sesame</guid>
+      <description>
+Valve a profit&#233; de la GDC 2026 pour pr&#233;ciser les conditions requises pour l'obtention du badge &#171; Steam Machine Verified &#187;, cens&#233; attester qu'un jeu tournera correctement sur la future console de salon du constructeur.
+</description>
+    </item>
+    <item>
+      <title>Spotify&#8217;s SongDNA feature doesn&#8217;t officially exist yet, but beta users are already calling it the &#8216;best Spotify feature&#8217; to date</title>
+      <link>https://www.techradar.com/audio/spotify/spotifys-songdna-feature-doesnt-officially-exist-yet-but-beta-users-are-already-calling-it-the-best-spotify-feature-to-date</link>
+      <pubDate>Thu, 12 Mar 2026 12:32:44 +0000</pubDate>
+      <guid isPermaLink="false">AnCzotSRRzVZJwuWMwmZS6</guid>
+      <description>Users are already loving SongDNA for its in-depth song credits, and it's looking to be a handy new way to discover new artists.</description>
+    </item>
+    <item>
+      <title>Black Ops Royale launches in Warzone today to try and help the 'stagnant' with 'the nostalgia of Blackout'</title>
+      <link>https://www.techradar.com/gaming/black-ops-royale-launches-in-warzone-today-to-try-and-help-the-stagnant-with-the-nostalgia-of-blackout</link>
+      <pubDate>Thu, 12 Mar 2026 12:31:47 +0000</pubDate>
+      <guid isPermaLink="false">hz9PkvJq4ZstnXBrsGk56f</guid>
+      <description>The next big Call of Duty Warzone mode is set to launch soon.</description>
+    </item>
+    <item>
+      <title>Google Maps Gets Chatty With a New Gemini-Powered Interface</title>
+      <link>https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/</link>
+      <pubDate>Thu, 12 Mar 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">69b1cfea1ad844cfc274660f</guid>
+      <description>&#8220;Ask Maps,&#8221; rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.</description>
+    </item>
+    <item>
+      <title>You can now ask Google Maps &#8216;complex, real-world questions&#8217; &#8212; and Gemini will answer</title>
+      <link>https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation</link>
+      <pubDate>2026-03-12T08:30:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=893262</guid>
+      <description>Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered "Ask Maps" feature that allows for "complex, real-world questions" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like "where can I charge my phone [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Google Maps is getting an AI &#8216;Ask Maps&#8217; feature and upgraded &#8216;immersive&#8217; navigation</title>
+      <link>https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/</link>
+      <pubDate>Thu, 12 Mar 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3101561</guid>
+      <description>The tech giant says the "Immersive Navigation" launch is the biggest update to Maps in over a decade.</description>
+    </item>
+    <item>
+      <title>&#8216;Our biggest navigation upgrade in over a decade&#8217;: Google Maps gets two massive Gemini-powered features that you&#8217;re going to use all the time</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/our-biggest-navigation-upgrade-in-over-a-decade-google-maps-gets-two-massive-gemini-powered-features-that-youre-going-to-use-all-the-time</link>
+      <pubDate>Thu, 12 Mar 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">Fhu4WfoUZ7KXFV2N9YqUt9</guid>
+      <description>Google Maps is getting two major Gemini-powered upgrades, including a conversational travel assistant and a major upgrade to its driving navigation &#8212; here's what's new.</description>
+    </item>
+    <item>
+      <title>Google Maps brings a 3D map to your driving directions</title>
+      <link>https://www.engadget.com/ai/google-maps-brings-a-3d-map-to-your-driving-directions-123000843.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">b72e40ed-9454-4e94-9783-74b9fd87943a</guid>
+      <description>In recent weeks, Google has been busy adding AI features to all of its most popular apps. Following Gmail and Chrome, Maps is now the latest service to get a Gemini makeover, with a redesign of the driving experience headlining the update.&#160;&#160;&#160;&#160;&#160;&#160;&#160;Google is billing the new "Immersive Navigation" mode as the most significant update to driving directions in Maps in about a decade. Now instead of displaying a 2D map of the area around your car, Maps will render the surroundings in 3D. Google believes this transformation will make it easier for drivers to orient themselves, with the new view giving ...</description>
+    </item>
+    <item>
+      <title>'It&#8217;s a WordPress that stays with you': WordPress can now run within your browser, letting you build private websites not on the public web</title>
+      <link>https://www.techradar.com/pro/its-a-wordpress-that-stays-with-you-wordpress-can-now-run-within-your-browser-letting-you-build-private-websites-not-on-the-public-web</link>
+      <pubDate>Thu, 12 Mar 2026 12:25:00 +0000</pubDate>
+      <guid isPermaLink="false">KkKf5QZrbVMzv86umEHsyH</guid>
+      <description>You can now build your fully private, local website with WordPress that's stored directly within your browser.</description>
+    </item>
+    <item>
+      <title>L&#8217;influenceuse militaire pro-Trump qui cartonne sur Instagram n&#8217;est qu&#8217;une IA f&#233;tichiste</title>
+      <link>https://www.01net.com/actualites/linfluenceuse-militaire-pro-trump-qui-cartonne-sur-instagram-nest-quune-ia-fetichiste.html</link>
+      <pubDate>Thu, 12 Mar 2026 12:22:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1331457</guid>
+      <description>Elle pose fi&#232;rement avec Donald Trump et Lionel Messi depuis le Bureau ovale, arborant un uniforme de l'arm&#233;e am&#233;ricaine et un sourire ravageur. Pourtant, Jessica Foster n'existe pas. Cette fausse influenceuse g&#233;n&#233;r&#233;e par l'intelligence artificielle a dup&#233; plus d'un million de patriotes sur Instagram dans le seul but de les rediriger vers une plateforme pour adultes....</description>
+    </item>
+    <item>
+      <title>Amazon propose ce PC portable de Dell (&#233;cran IPS, 16 Go de RAM) pour 30 % de moins durant ses Ventes Flash de Printemps</title>
+      <link>https://www.frandroid.com/bons-plans/3010531_amazon-propose-ce-pc-portable-de-dell-ecran-ips-16-go-de-ram-pour-30-de-moins-durant-ses-ventes-flash-de-printemps</link>
+      <pubDate>Thu, 12 Mar 2026 12:14:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3010531_amazon-propose-ce-pc-portable-de-dell-ecran-ips-16-go-de-ram-pour-30-de-moins-durant-ses-ventes-flash-de-printemps</guid>
+      <description>
+&#192; premi&#232;re vue, ce Dell 14 semble tout &#224; fait classique, mais ses principales qualit&#233;s se trouvent sous le capot avec ses 16 Go de RAM et il perd 200 euros chez Amazon pendant les Ventes Flash de Printemps.
+</description>
+    </item>
+    <item>
+      <title>Corsair's 32GB Vengeance RGB Pro deal is a rare win for PC builders - it's on sale for just $230 when you use this promo code</title>
+      <link>https://www.techradar.com/pro/corsairs-32gb-vengeance-rgb-pro-deal-is-a-rare-win-for-pc-builders-its-on-sale-for-just-usd230-when-you-use-this-promo-code</link>
+      <pubDate>Thu, 12 Mar 2026 12:12:09 +0000</pubDate>
+      <guid isPermaLink="false">e3cfVwsyYeyrMz2EBtcNeA</guid>
+      <description>Save 25% on the 32GB Corsair Vengeance RGB Pro kit right now, a big win for RAM buyers.</description>
+    </item>
+    <item>
+      <title>10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic</title>
+      <link>https://www.wired.com/gallery/best-meal-kit-services-1/</link>
+      <pubDate>Thu, 12 Mar 2026 12:03:00 +0000</pubDate>
+      <guid isPermaLink="false">5de67c19b4ac1c00080cd50b</guid>
+      <description>Here are the best meal kits in 2026, from Martha Stewart&#8217;s meal kit to the best meal delivery on a budget.</description>
+    </item>
+    <item>
+      <title>I use these 5 clever Claude prompts every day &#8212; they make me feel like a genius</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/claude/i-use-these-5-clever-claude-prompts-every-day-they-make-me-feel-like-a-genius</link>
+      <pubDate>Thu, 12 Mar 2026 12:02:56 +0000</pubDate>
+      <guid isPermaLink="false">5AHD9RciZeLN76YXGgKDkF</guid>
+      <description>Clever prompts can reveal Claude&#8217;s strengths and insightful responses.</description>
+    </item>
+    <item>
+      <title>JBL's two new Live headphones offer 80 hours of battery each</title>
+      <link>https://www.engadget.com/audio/headphones/jbls-two-new-live-headphones-offer-80-hours-of-battery-each-120044416.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 12:00:44 +0000</pubDate>
+      <guid isPermaLink="false">7b83ad1e-dcc6-49c8-9048-8964f31a3ce8</guid>
+      <description>JBL just released two new pairs of headphones in its pre-existing Live line. There's the over-ear Live 780NC and the on-ear Live 680NC.
+Both sets of headphones have similar specs, despite the difference in design. The biggest news here is likely the battery life. They max out at 80 hours per charge with regular use, which is a fantastic metric. This shrinks to 50 hours when using ANC, but that's still fairly remarkable. We truly live in a golden age of wireless headphone batteries.
+JBL's new headphones can also fully charge in just two hours, which is nice. They also offer the option for multi...</description>
+    </item>
+    <item>
+      <title>The best eco-friendly phone cases for 2026</title>
+      <link>https://www.engadget.com/computing/accessories/best-eco-friendly-phone-cases-150016494.html?src=rss</link>
+      <pubDate>Thu, 12 Mar 2026 12:00:35 +0000</pubDate>
+      <guid isPermaLink="false">5bc4c2eb-f2c4-4c4f-9898-9a41efeac7f4</guid>
+      <description>We're all holding onto our phones for longer now, and in order to do that, you'll need some protection. Now, with so many good phone cases on the market, you don't have to compromise if you're also trying to live a more eco-conscious life. The best eco-friendly phone cases offer a great blend of durability and sustainability, helping to reduce plastic waste and better the planet.Made from natural materials like biodegradable plastics, recycled ocean waste or even sustainable bamboo, eco-friendly phone cases and compostable phone covers prove that you don&#8217;t have to sacrifice style or protection...</description>
+    </item>
+    <item>
+      <title>Perplexity&amp;#8217;s Personal Computer turns your spare Mac into an AI agent</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent</link>
+      <pubDate>2026-03-12T08:00:34-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=893536</guid>
+      <description>Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as "a digital proxy for you." Personal Computer will run 24/7 on a dedicated device on your local network, have [&#8230;]</description>
+    </item>
+    <item>
+      <title>Hasbro&#8217;s CEO Says &#8216;Magic: The Gathering&#8217; and &#8216;Dungeons &amp; Dragons&#8217; Will Never Use Generative AI</title>
+      <link>https://gizmodo.com/wizards-of-the-coast-dnd-magic-no-ai-2000732646</link>
+      <pubDate>Thu, 12 Mar 2026 12:00:05 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000732646</guid>
+      <description>Both brands already have guidelines in place barring the use of the technology.</description>
+    </item>
+    <item>
+      <title>JBL&#8217;s new party speaker comes with a karaoke mic that helps you hit those high notes</title>
+      <link>https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic</link>
+      <pubDate>2026-03-12T08:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=890868</guid>
+      <description>Karaoke is more fun for everyone when the person holding the mic sounds as good as a song's original performer. So the latest addition to JBL's PartyBox Bluetooth speaker line, the On-the-Go 2 Plus, comes with one of the company's new EasySing wireless microphones, which use an algorithm to silence a song's vocals while also [&#8230;]</description>
+    </item>
+    <item>
+      <title>Group14 opens factory to produce battery materials for flash charging EVs</title>
+      <link>https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/</link>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3101814</guid>
+      <description>The startup's new BAM-3 facility can make enough silicon anode material annually to supply about 100,000 long-range EVs.</description>
+    </item>
+    <item>
+      <title>How to watch Europa League 2025/26 Round of 16: live stream options, free games, TV channels</title>
+      <link>https://www.techradar.com/how-to-watch/football/watch-europa-league-2025-26-round-of-16-free</link>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Jbzo42GeRV5ZyhXSLTgh8h</guid>
+      <description>All the ways to watch the 2025/26 Europa League Round of 16 live streams online and from anywhere, as Lille vs Aston Villa headlines eight games.</description>
+    </item>
+    <item>
+      <title>This new foldable phone may have upstaged Apple in the &#8216;zero-crease&#8217; wars</title>
+      <link>https://www.fastcompany.com/91507039/this-new-foldable-phone-may-have-upstaged-apple-zero-crease-wars</link>
+      <pubDate>2026-03-12T11:53:07</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91507039/this-new-foldable-phone-may-have-upstaged-apple-zero-crease-wars</guid>
+      <description>Oppo&#8217;s Find N6 isn&#8217;t fully creaseless, but it&#8217;s close.
+For some time now, reporting around Apple&#8217;s folding phone has coalesced around two beliefs: the device is set to drop this fall, and it will have a significantly less visible display crease than previous folding devices.</description>
+    </item>
+    <item>
+      <title>iPhone Fold : design, ergonomie, puissance&#8230; tout ce que l&#8217;on sait du smartphone pliant d&#8217;Apple pour le moment</title>
+      <link>https://www.frandroid.com/marques/apple/2739977_iphone-pliant-design-ergonomie-puissance-tout-ce-que-lon-sait-pour-le-moment</link>
+      <pubDate>Thu, 12 Mar 2026 11:52:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/2739977_iphone-pliant-design-ergonomie-puissance-tout-ce-que-lon-sait-pour-le-moment</guid>
+      <description>
+L'iPhone pliant d'Apple (iPhone Fold) n'en finit plus de faire causer sans avoir pour le moment plus d'informations &#224; fournir. Nous avons r&#233;uni tous les &#233;l&#233;ments d&#233;j&#224; disponibles et voici ce qu'il faut savoir. 
+</description>
+    </item>
+    <item>
+      <title>Xbox mode is rolling out to all Windows 11 PCs next month &#8212; and some gamers are excited, while others are worried</title>
+      <link>https://www.techradar.com/gaming/pc-gaming/xbox-mode-is-rolling-out-to-all-windows-11-pcs-next-month-and-some-gamers-are-excited-while-others-are-worried</link>
+      <pubDate>Thu, 12 Mar 2026 11:48:14 +0000</pubDate>
+      <guid isPermaLink="false">8bfjbVGh5LTEtDptN6yTPa</guid>
+      <description>The rollout of Windows 11's new Xbox mode has been met with both excitement and skepticism.</description>
+    </item>
+    <item>
+      <title>When startups become a family business</title>
+      <link>https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/</link>
+      <pubDate>Thu, 12 Mar 2026 11:38:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3101759</guid>
+      <description>This season on Build Mode, we&#8217;re diving into what it takes to build a world-class founding team.&#160;This week we&#8217;re exploring different kinds of co-founder dynamics and what it takes to build a startup with your family.</description>
+    </item>
     <item>
       <title>Ces 4 nouveaut&#233;s arrivent sur votre Mac avec macOS 26.4</title>
       <link>https://www.01net.com/actualites/ces-4-nouveautes-arrivent-sur-mac-avec-macos-26-4.html</link>
       <pubDate>Thu, 12 Mar 2026 11:32:29 +0000</pubDate>
       <guid isPermaLink="false">https://www.01net.com/?p=1331465</guid>
       <description>macOS Tahoe 26.4 n'est plus tr&#232;s loin, et avec lui ces quatre nouveaut&#233;s pour votre Mac.</description>
+    </item>
+    <item>
+      <title>This Geekom A5 mini PC deal is an ideal office upgrade, packing Ryzen performance into a compact design, and it's 15% off in Amazon&#8217;s Spring Deal sale</title>
+      <link>https://www.techradar.com/pro/this-geekom-a5-mini-pc-deal-is-an-ideal-office-upgrade-packing-ryzen-performance-into-a-compact-design-and-its-15-percent-off-in-amazons-spring-deal-sale</link>
+      <pubDate>Thu, 12 Mar 2026 11:32:10 +0000</pubDate>
+      <guid isPermaLink="false">PrnaeET7nUGeGRGLkauHhm</guid>
+      <description>With lots to recommend it, and at a price you can't complain about, the Geekom A5 (2026) with Windows 11 Pro is a very capable mini PC.</description>
     </item>
     <item>
       <title>Les balais et robots aspirateurs les plus premium deviennent enfin abordables pendant les Ventes Flash Amazon</title>
@@ -120,232 +383,6 @@ Volkswagen vient d'annoncer le restylage de son ID.3, sa voiture &#233;lectrique
       <description>
 Apr&#232;s plusieurs ann&#233;es d'attente et d'&#233;preuves r&#233;glementaires, la n&#233;obanque Revolut devient une v&#233;ritable banque dans son pays d'origine et son premier march&#233; en nombre de clients : le Royaume-Uni. Une &#233;tape essentielle pour Revolut qui vise d&#233;sormais une expansion mondiale.
 </description>
-    </item>
-    <item>
-      <title>Amazon : voici les meilleures configurations gaming et bureautiques &#224; prix cass&#233;s pendant les Ventes Flash</title>
-      <link>https://www.frandroid.com/bons-plans/3009353_les-pc-portables-bureautiques-et-gamers-sont-vendus-au-rabais-durant-les-ventes-flash-damazon</link>
-      <pubDate>Thu, 12 Mar 2026 11:11:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3009353_les-pc-portables-bureautiques-et-gamers-sont-vendus-au-rabais-durant-les-ventes-flash-damazon</guid>
-      <description>
-Les Ventes Flash d&#8217;Amazon 2026, c&#8217;est le bon moment pour changer d&#8217;ordinateur portable sans se ruiner. Que vous cherchiez une machine de gaming, un PC pour le boulot ou un ultrabook l&#233;ger, plein de mod&#232;les affichent des prix vraiment int&#233;ressants en ce moment. Voici ceux qui valent le d&#233;tour !
-</description>
-    </item>
-    <item>
-      <title>Amazon fait son d&#233;stockage de printemps avec des ventes flash exceptionnelles : voici les meilleures offres en DIRECT</title>
-      <link>https://www.frandroid.com/bons-plans/3006141_amazon-fait-son-menage-de-printemps-avec-ses-ventes-flash-voici-les-meilleures-offres-en-direct</link>
-      <pubDate>Thu, 12 Mar 2026 11:09:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3006141_amazon-fait-son-menage-de-printemps-avec-ses-ventes-flash-voici-les-meilleures-offres-en-direct</guid>
-      <description>
-Comme chaque ann&#233;e, Amazon f&#234;te l'arriv&#233;e du printemps avec des ventes flash &#233;tal&#233;es sur plusieurs jours, l'occasion pour les petits f&#233;rus de Tech que nous sommes de d&#233;nicher les meilleurs bons plans sur les smartphones, tablettes, PC portables... Voici nos recommandations !
-</description>
-    </item>
-    <item>
-      <title>Apple MacBook Pro Review (M5 Max, 16-inch): The Fastest MacBook Yet</title>
-      <link>https://www.wired.com/review/macbook-pro-16-inch-m5-max/</link>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69af5e5db0b5e6fecb82b983</guid>
-      <description>A more exciting MacBook Pro is waiting in the wings, but the M5 Max shows the continued success of Apple Silicon.</description>
-    </item>
-    <item>
-      <title>How to Watch the Oscars (2026)</title>
-      <link>https://www.wired.com/story/how-to-watch-the-oscars-2026/</link>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69a8d203d11aac3069d1a33d</guid>
-      <description>The 98th Annual Academy Awards will happen on Sunday, March 15. Here's how to make sure you catch every speech, joke, dress, and song.</description>
-    </item>
-    <item>
-      <title>The Best Large TVs (Best Over 75 Inches): Samsung, LG, and More</title>
-      <link>https://www.wired.com/gallery/best-large-tvs/</link>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69a8b5ba5c52c978c4b3f2ab</guid>
-      <description>TVs are bigger and better than ever. These are my favorite screens that come in extra-large sizes, from affordable to ostentatious.</description>
-    </item>
-    <item>
-      <title>I tested the Aura Ink over months, and it &#8216;captures the spirit of photo frames more authentically&#8217; than LCD &#8212; but it's not perfect</title>
-      <link>https://www.techradar.com/home/smart-home/aura-ink-frame-review</link>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zx4sYyy3d6yvmB9wsVnvvB</guid>
-      <description>An altogether different type of digital photo frame, the Aura Ink features a natural E Ink display and 3-month battery life.</description>
-    </item>
-    <item>
-      <title>The X algorithm really is trying to radicalize you&#8212;researchers just proved it</title>
-      <link>https://www.fastcompany.com/91507338/x-algorithm-for-you-radicalize-users</link>
-      <pubDate>2026-03-12T11:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91507338/x-algorithm-for-you-radicalize-users</guid>
-      <description>A new study shows that X&#8217;s &#8216;For you&#8217; algorithm promotes conservative content and demotes traditional media, effectively shifting users&#8217; opinions.
-In the months following Elon Musk&#8217;s $44 billion acquisition of Twitter in 2022, my experience with the platform (and perhaps yours too) got quickly, dramatically worse. My algorithmic timeline, better known as the &#8220;For you&#8221; tab, devolved into a broken fire hydrant of tweets from blue-checked engagement farmers, shameless meme thieves, clout-chasing Republican politicians, and pseudonymous YouTubers posting weird, uncanny rage-bait. For a brief period...</description>
-    </item>
-    <item>
-      <title>Brandon Sanderson Is Cribbing From the Cinematic Universe Best for His &#8216;Mistborn&#8217; Movie</title>
-      <link>https://gizmodo.com/brandon-sanderson-mistborn-movie-influences-james-gunn-kevin-feige-2000732640</link>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732640</guid>
-      <description>The author said he'll be looking to both DC's James Gunn and Marvel's Kevin Feige as he brings the world of the Cosmere to Apple TV.</description>
-    </item>
-    <item>
-      <title>Le Soleil serait n&#233; bien plus pr&#232;s du centre de la Voie lact&#233;e&#8230; voici comment il aurait fini ici</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/soleil-soleil-serait-ne-bien-plus-pres-centre-voie-lactee-voici-il-aurait-fini-ici-132793/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 12 Mar 2026 11:58:00 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/soleil-soleil-serait-ne-bien-plus-pres-centre-voie-lactee-voici-il-aurait-fini-ici-132793/#xtor%3DRSS-8</guid>
-      <description>Notre Soleil navigue actuellement &#224; un peu moins de 30&#8201;000&#160;ann&#233;es-lumi&#232;re du centre de notre Galaxie. Mais &#231;a n&#8217;a pas toujours &#233;t&#233; le cas. Il a vu le jour dans une autre r&#233;gion de la Voie lact&#233;e. Des astronomes viennent de d&#233;couvrir qu&#8217;il est loin d&#8217;&#234;tre le seul dans ce cas.</description>
-    </item>
-    <item>
-      <title>Wi-Fi 8 : on a vu des d&#233;bits fr&#244;lant les 10 Gbps, mais la r&#233;alit&#233; rattrape tr&#232;s vite la th&#233;orie</title>
-      <link>https://www.frandroid.com/marques/3010649_wi-fi-8-on-a-vu-des-debits-frolant-les-10-gbps-mais-la-realite-rattrape-tres-vite-la-theorie</link>
-      <pubDate>Thu, 12 Mar 2026 10:55:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3010649_wi-fi-8-on-a-vu-des-debits-frolant-les-10-gbps-mais-la-realite-rattrape-tres-vite-la-theorie</guid>
-      <description>
-Qualcomm a profit&#233; du MWC 2026 pour d&#233;gainer son impressionnant catalogue Wi-Fi 8, taill&#233; sur mesure pour l'&#232;re de l'intelligence artificielle. Si la nouvelle puce mobile FastConnect 8800 promet des d&#233;bits th&#233;oriques mirobolants, la d&#233;monstration sur le salon prouve que les interf&#233;rences environnementales dictent toujours leur loi.
-</description>
-    </item>
-    <item>
-      <title>'AI is the Computer': Perplexity reveals Personal Computer, a cloud-based AI agent running on your Mac</title>
-      <link>https://www.techradar.com/pro/ai-is-the-computer-perplexity-reveals-personal-computer-a-cloud-based-ai-agent-running-on-your-mac</link>
-      <pubDate>Thu, 12 Mar 2026 10:53:39 +0000</pubDate>
-      <guid isPermaLink="false">xcchEihaVpXshVG6mtK9Tf</guid>
-      <description>Perplexity has announced its Mac mini-based Personal Computer AI assistant, and it can run your computer for you.</description>
-    </item>
-    <item>
-      <title>De nombreux TV 4K et vid&#233;oprojecteurs sont en cours de d&#233;stockage lors des Ventes Flash d&#8217;Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3007645_de-nombreux-tv-4k-et-videoprojecteurs-sont-en-cours-de-destockage-lors-des-ventes-flash-damazon</link>
-      <pubDate>Thu, 12 Mar 2026 10:47:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3007645_de-nombreux-tv-4k-et-videoprojecteurs-sont-en-cours-de-destockage-lors-des-ventes-flash-damazon</guid>
-      <description>
-Les Ventes Flash d&#8217;Amazon se poursuivent, et les t&#233;l&#233;viseurs comme les vid&#233;oprojecteurs profitent toujours de belles remises. Des TV 4K grand format aux vid&#233;oprojecteurs qui transforment votre salon en vraie salle de cin&#233;ma, plusieurs mod&#232;les voient encore leur prix fondre pendant l&#8217;&#233;v&#233;nement.
-</description>
-    </item>
-    <item>
-      <title>Project Helix : AMD d&#233;voile &#171; FSR Diamond &#187;, l&#8217;arme secr&#232;te pour doubler les performances de la prochaine Xbox en ray tracing</title>
-      <link>https://www.frandroid.com/marques/amd/3010679_project-helix-amd-devoile-fsr-diamond-larme-secrete-pour-doubler-les-performances-de-la-prochaine-xbox-en-ray-tracing</link>
-      <pubDate>Thu, 12 Mar 2026 10:44:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/amd/3010679_project-helix-amd-devoile-fsr-diamond-larme-secrete-pour-doubler-les-performances-de-la-prochaine-xbox-en-ray-tracing</guid>
-      <description>
-AMD d&#233;veloppe une version de sa technologie FSR optimis&#233;e sp&#233;cifiquement pour la prochaine Xbox. Voici ce qu'on pourrait attendre de cette mise &#224; jour majeure en 2027.
-</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S25 vs Galaxy S26 : la nouvelle g&#233;n&#233;ration vaut-elle 500 euros de diff&#233;rence ? [Sponso]</title>
-      <link>https://www.frandroid.com/marques/samsung/3003617_samsung-galaxy-s25-vs-galaxy-s26-la-nouvelle-generation-vaut-elle-500-euros-de-difference</link>
-      <pubDate>Thu, 12 Mar 2026 10:44:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3003617_samsung-galaxy-s25-vs-galaxy-s26-la-nouvelle-generation-vaut-elle-500-euros-de-difference</guid>
-      <description>
-Le Samsung Galaxy S26 vient tout juste d'&#234;tre lanc&#233; en France. Il dispose d'une nouvelle fiche technique, de quelques &#233;volutions de design et d'un appareil photo l&#233;g&#232;rement am&#233;lior&#233;. Mais alors, est-ce que ces diff&#233;rences valent bien 500 euros par rapport &#224; l'ancienne g&#233;n&#233;ration ?
-</description>
-    </item>
-    <item>
-      <title>Nvidia et Apple s&#8217;allient pour cr&#233;er le cockpit virtuel ultime sur le Vision Pro avec CloudXR et X-Plane</title>
-      <link>https://www.frandroid.com/marques/nvidia/3010537_nvidia-et-apple-sallient-pour-creer-le-cockpit-virtuel-ultime-sur-le-vision-pro-avec-cloudxr-et-x-plane</link>
-      <pubDate>Thu, 12 Mar 2026 10:39:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3010537_nvidia-et-apple-sallient-pour-creer-le-cockpit-virtuel-ultime-sur-le-vision-pro-avec-cloudxr-et-x-plane</guid>
-      <description>
-Nvidia et Apple viennent de d&#233;voiler ce que pourrait &#234;tre le futur de la simulation automobile et a&#233;ronautique. De quoi donner un coup de vieux &#224; Flight Simulator et am&#233;liorer grandement l'immersion dans un cockpit de voiture ou d'avion. Les premi&#232;res d&#233;monstrations sont bluffantes.
-</description>
-    </item>
-    <item>
-      <title>Xbox relance son c&#233;l&#232;bre programme de r&#233;trocompatibilit&#233;</title>
-      <link>https://www.frandroid.com/marques/microsoft/3010239_xbox-relance-son-celebre-programme-de-retrocompatibilite</link>
-      <pubDate>Thu, 12 Mar 2026 10:37:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3010239_xbox-relance-son-celebre-programme-de-retrocompatibilite</guid>
-      <description>
-&#192; l&#8217;occasion des 25 ans de la Xbox, Microsoft rebranche son programme de r&#233;trocompatibilit&#233; avec une promesse pour les quatre g&#233;n&#233;rations de Xbox.
-</description>
-    </item>
-    <item>
-      <title>Xbox mode : Microsoft prive l&#8217;Europe de sa grosse nouveaut&#233; Windows 11 pour les joueurs</title>
-      <link>https://www.frandroid.com/marques/microsoft/3010271_xbox-mode-microsoft-prive-leurope-de-sa-grosse-nouveaute-windows-11-pour-les-joueurs</link>
-      <pubDate>Thu, 12 Mar 2026 10:32:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3010271_xbox-mode-microsoft-prive-leurope-de-sa-grosse-nouveaute-windows-11-pour-les-joueurs</guid>
-      <description>
-Microsoft a annonc&#233; hier l'arriv&#233;e d'un tout nouveau Xbox mode, une exp&#233;rience plein &#233;cran optimis&#233;e pour le jeu sur Windows 11. Si la premi&#232;re phase de test d&#233;bute en avril, elle ne concerne malheureusement pas l'Europe pour le moment.
-</description>
-    </item>
-    <item>
-      <title>A fresh Spider-Man: Brand New Day trailer release date rumor is gathering pace &#8212; and it would be the perfect time for Sony to show off its new Marvel movie</title>
-      <link>https://www.techradar.com/streaming/entertainment/a-fresh-spider-man-brand-new-day-trailer-release-date-rumor-is-gathering-pace-and-it-would-be-the-perfect-time-for-sony-to-show-off-its-new-marvel-movie</link>
-      <pubDate>Thu, 12 Mar 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">LTKi3wAggqpaCLRBYphC4S</guid>
-      <description>The first trailer for Spider-Man 4 might be released very soon &#8212; here's why I'm cautiously optimistic that this rumor has some weight to it.</description>
-    </item>
-    <item>
-      <title>Your employees aren&#8217;t lazy, they&#8217;re afraid</title>
-      <link>https://www.fastcompany.com/91493774/your-employees-arent-lazy-theyre-afraid-leadership-motivating-employees-fear-neurohacking</link>
-      <pubDate>2026-03-12T10:27:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91493774/your-employees-arent-lazy-theyre-afraid-leadership-motivating-employees-fear-neurohacking</guid>
-      <description>How to neurohack fear to fight apathy and resistance
-The town halls didn&#8217;t work. The twelve month wellness program didn&#8217;t work. The pricey motivational speaker definitely didn&#8217;t work. Your team looks busy, but is still very, very stuck.</description>
-    </item>
-    <item>
-      <title>Google Play Store&#160;: vous pourrez bient&#244;t essayer des jeux avant de les acheter</title>
-      <link>https://www.01net.com/actualites/google-play-store-vous-pourrez-bientot-essayer-des-jeux-avant-de-les-acheter.html</link>
-      <pubDate>Thu, 12 Mar 2026 10:21:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1331469</guid>
-      <description>Google veut renforcer sa strat&#233;gie sur la mani&#232;re dont les consommateurs d&#233;couvrent, essaient et ach&#232;tent des jeux sur le Play Store. Vous pourrez bient&#244;t les essayer avant de les payer, et aurez m&#234;me la possibilit&#233; de profiter d&#8217;un m&#234;me jeu sur mobile et PC pour un achat unique.</description>
-    </item>
-    <item>
-      <title>The Kindle Colorsoft is our favourite model by far - and it's just hit a new record-low price at Amazon</title>
-      <link>https://www.techradar.com/tablets/ereaders/the-kindle-colorsoft-is-our-favourite-model-by-far-and-its-just-hit-a-new-record-low-price-at-amazon</link>
-      <pubDate>Thu, 12 Mar 2026 10:00:35 +0000</pubDate>
-      <guid isPermaLink="false">BiY3RW8cpiRXNmYEVukAJ</guid>
-      <description>The outstanding Amazon Kindle Colorsoft has just hit a new record-low price thanks to the retailer's Spring sale.</description>
-    </item>
-    <item>
-      <title>Astronomers Just Found a Monster Cosmic Explosion in the Last Place They Expected</title>
-      <link>https://gizmodo.com/astronomers-just-found-a-monster-cosmic-explosion-in-the-last-place-they-expected-2000732567</link>
-      <pubDate>Thu, 12 Mar 2026 10:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000732567</guid>
-      <description>&#8220;We got a rare glimpse into how destruction can be a catalyst for creation."</description>
-    </item>
-    <item>
-      <title>Get 60+ Spanish channels for $29.99 with DIRECTV's new deal</title>
-      <link>https://www.techradar.com/streaming/get-60-spanish-channels-for-usd29-99-with-directvs-new-deal</link>
-      <pubDate>Thu, 12 Mar 2026 10:00:27 +0000</pubDate>
-      <guid isPermaLink="false">AeC3Az6nENRZFWSuz3yHKf</guid>
-      <description>Score big with Spanish TV! Save on DIRECTV&#8217;s MiEspa&#241;ol Pack + Free ViX Premium</description>
-    </item>
-    <item>
-      <title>Google is using old news reports and AI to predict flash floods</title>
-      <link>https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/</link>
-      <pubDate>Thu, 12 Mar 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3101750</guid>
-      <description>A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.</description>
-    </item>
-    <item>
-      <title>Why women over 50 are the future of work in the age of AI</title>
-      <link>https://www.fastcompany.com/91505607/why-women-over-50-are-the-future-of-work-in-the-age-of-ai</link>
-      <pubDate>2026-03-12T10:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91505607/why-women-over-50-are-the-future-of-work-in-the-age-of-ai</guid>
-      <description>And why you should hire them to survive in a world of chaos.
-For years, companies have been told to prepare for the future by chasing youth, digital fluency, and technical skills. They have been urged to bet on &#8220;high potentials&#8221; and to focus on the next generation. At the same time, they have spent years overlooking one of the most strategic talent pools already available to them: women over 50....</description>
-    </item>
-    <item>
-      <title>A simple reason it&#8217;s getting harder to build rental housing</title>
-      <link>https://www.fastcompany.com/91506526/the-simple-reason-its-getting-harder-to-build-rental-housing</link>
-      <pubDate>2026-03-12T10:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91506526/the-simple-reason-its-getting-harder-to-build-rental-housing</guid>
-      <description>The pandemic, tariffs, and the war in Iran are just a few of the factors spiking construction material costs.
-Rental housing construction is slowing down in the United States. The cost of common construction materials is a big reason why.</description>
-    </item>
-    <item>
-      <title>Prada&#8217;s NYC store turns scaffolding into high art</title>
-      <link>https://www.fastcompany.com/91507516/prada-store-scaffolding-high-art</link>
-      <pubDate>2026-03-12T10:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91507516/prada-store-scaffolding-high-art</guid>
-      <description>Fashion brands are transforming a utilitarian construction requirement into a building-scale branding opportunity.
-New York City&#8217;s famed Fifth Avenue is best known for its sparkling, fantastical holiday windows. Now, luxury brands are transforming an often overlooked, sometimes maligned part of city architecture&#8212;scaffolding&#8212;into artful branding displays.&#160;...</description>
-    </item>
-    <item>
-      <title>Bouygues Telecom&#160;: le prix des abonnements Bbox pourra augmenter chaque ann&#233;e, pour tous les abonn&#233;s</title>
-      <link>https://www.01net.com/actualites/bouygues-telecom-prix-abonnements-bbox-pourra-augmenter-chaque-annee-pour-tous-abonnes.html</link>
-      <pubDate>Thu, 12 Mar 2026 09:54:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1331428</guid>
-      <description>Bouygues Telecom g&#233;n&#233;ralise une clause permettant d'ajuster le prix de ses abonnements Bbox sur l'inflation d&#232;s 2027.</description>
-    </item>
-    <item>
-      <title>Samsung d&#233;tr&#244;n&#233;&#160;? Ce constructeur s&#8217;empare de la moiti&#233; du march&#233; am&#233;ricain des smartphones pliants</title>
-      <link>https://www.01net.com/actualites/samsung-detrone-ce-constructeur-sempare-de-la-moitie-du-marche-americain-des-smartphones-pliants.html</link>
-      <pubDate>Thu, 12 Mar 2026 09:52:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1331412</guid>
-      <description>Le march&#233; des smartphones pliants conna&#238;t un bouleversement majeur outre-Atlantique. Alors que tout le monde pensait Samsung ind&#233;tr&#244;nable, les derni&#232;res analyses d&#233;voilent qu'une marque historique a secr&#232;tement rafl&#233; la moiti&#233; des parts de march&#233;. Une performance r&#233;alis&#233;e avec une gamme de produits tr&#232;s restreinte.</description>
     </item>
   </channel>
 </rss>
