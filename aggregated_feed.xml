@@ -3,7 +3,29 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 13 Mar 2026 04:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:52:44 GMT</lastBuildDate>
+    <item>
+      <title>I've been using the Dreame Z50 Station self-emptying cordless vacuum for weeks &#8211; its performance should have Dyson and Shark worried</title>
+      <link>https://www.techradar.com/home/vacuums/dreame-z50-station-review</link>
+      <pubDate>Fri, 13 Mar 2026 05:21:18 +0000</pubDate>
+      <guid isPermaLink="false">ewqGBwd4Voo6Ks7fEsk9rn</guid>
+      <description>The Dreame Z50 Station has an industry-leading 330AW of suction and it puts every bit of it to excellent use. Its weight is its only downfall.</description>
+    </item>
+    <item>
+      <title>Before quantum computing arrives, this startup wants enterprises already running on it</title>
+      <link>https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/</link>
+      <pubDate>Fri, 13 Mar 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3102179</guid>
+      <description>After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.</description>
+    </item>
+    <item>
+      <title>Why your best ideas get ignored during meetings</title>
+      <link>https://www.fastcompany.com/91503706/why-your-best-ideas-get-ignored-during-meetings</link>
+      <pubDate>2026-03-13T05:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91503706/why-your-best-ideas-get-ignored-during-meetings</guid>
+      <description>Great ideas don&#8217;t fail because they&#8217;re wrong. They fail because they arrive at the wrong moment or threaten the group dynamic.
+You&#8217;re at your usual weekly team meeting. The team leader asks for ideas, and you immediately come up with the best one. It&#8217;s not just clever. It&#8217;s perfect. You rush to say it, glowing with anticipation. Silence. Nobody reacts. You walk out deflated, wondering how a group of smart people could ignore the obvious answer....</description>
+    </item>
     <item>
       <title>Truecaller now lets you hang up on scammers &#8212; on behalf of your family</title>
       <link>https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/</link>
@@ -24,41 +46,6 @@
       <pubDate>Fri, 13 Mar 2026 03:55:09 +0000</pubDate>
       <guid isPermaLink="false">05ZwZ2BOO9mYZOlOBEMUfvK</guid>
       <description>'A Safe Distance' review: Influenced by Patricia Highsmith, this sexy, sapphic thriller is the directorial debut of Gloria Mercer.</description>
-    </item>
-    <item>
-      <title>Someone tested the MacBook Neo&#8217;s gaming chops, and the results ranged from &#8216;miracle&#8217; scores to &#8216;completely unplayable&#8217;</title>
-      <link>https://www.techradar.com/computing/someone-tested-the-macbook-neos-gaming-chops-and-the-results-ranged-from-miracle-scores-to-completely-unplayable</link>
-      <pubDate>Fri, 13 Mar 2026 03:30:00 +0000</pubDate>
-      <guid isPermaLink="false">gxoGWFU8JEztfWjnosy23C</guid>
-      <description>The MacBook Neo performs surprisingly well in some Mac games, while others remain &#8216;completely unplayable.&#8217;</description>
-    </item>
-    <item>
-      <title>I tried Claude's new interactive visuals feature  &#8212; and it&#8217;s one of the most fun AI tricks I&#8217;ve seen</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/claude/i-tried-claudes-new-interactive-visuals-feature-and-its-one-of-the-most-fun-ai-tricks-ive-seen</link>
-      <pubDate>Fri, 13 Mar 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">erYAMTyU5QdYSuEoHrnVhU</guid>
-      <description>Claude&#8217;s new interactive visuals feature lets the chatbot generate dynamic diagrams and tools inside chat.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints today: Clues, answers for March 13, 2026</title>
-      <link>https://mashable.com/article/nyt-connections-hint-answer-today-march-13-2026</link>
-      <pubDate>Fri, 13 Mar 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03L678XYdIC2BtFhdDgdt3i</guid>
-      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints, answers for March 13, 2026</title>
-      <link>https://mashable.com/article/strands-nyt-hint-march-13-2026</link>
-      <pubDate>Fri, 13 Mar 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">04NzQvngn5djoF9Bn8EHAhv</guid>
-      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
-    </item>
-    <item>
-      <title>Wordle today: Answer, hints for March 13, 2026</title>
-      <link>https://mashable.com/article/wordle-today-answer-march-13-2026</link>
-      <pubDate>Fri, 13 Mar 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">065LyIetJYsiVknWIiHfV4Q</guid>
-      <description>Here's the answer for "Wordle" #1728 on March 13 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
   </channel>
 </rss>
