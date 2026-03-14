@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 14 Mar 2026 21:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 22:31:42 GMT</lastBuildDate>
+    <item>
+      <title>I tested the tiny Russell Hobbs coffee maker that uses grounds or Nespresso pods &#8212; but I discovered one infuriating drawback</title>
+      <link>https://www.techradar.com/home/coffee-machines/russell-hobbs-everyday-espresso-machine-review</link>
+      <pubDate>Sat, 14 Mar 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">mEmJpB2hAscTyWTN2A8PVh</guid>
+      <description>Forget creamy cappuccinos, the Everyday Espresso Machine makes so many bubbles you'll have a personal foam party in your kitchen.</description>
+    </item>
+    <item>
+      <title>Trump administration is allegedly collecting $10 billion on the TikTok deal</title>
+      <link>https://www.theverge.com/policy/895039/trump-10-billion-tiktok</link>
+      <pubDate>2026-03-14T17:57:07-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=895039</guid>
+      <description>In September, Donald Trump claimed that "the United States is getting a tremendous fee" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by new investors, including Oracle and [&#8230;]</description>
+    </item>
     <item>
       <title>The MacBook Neo is &#8216;the most repairable MacBook&#8217; in years, according to iFixit</title>
       <link>https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/</link>
@@ -24,13 +38,6 @@
       <pubDate>Sat, 14 Mar 2026 20:47:47 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3102603</guid>
       <description>The Army described this as a single enterprise contract consolidating more than 120 separate "procurement actions."</description>
-    </item>
-    <item>
-      <title>ByteDance&#8217;s Controversial AI Video Model Reportedly on Hold Globally Due to Copyright Disputes</title>
-      <link>https://gizmodo.com/bytedances-controversial-ai-video-model-reportedly-on-hold-globally-due-to-copyright-disputes-2000733748</link>
-      <pubDate>Sat, 14 Mar 2026 19:42:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000733748</guid>
-      <description>If you have your heart set on AI-generating some John Wick-style action scenes starring celebrities with weird voices, we have some bad news.</description>
     </item>
   </channel>
 </rss>
