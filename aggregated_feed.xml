@@ -3,20 +3,15 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 15 Mar 2026 05:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:04:44 GMT</lastBuildDate>
     <item>
-      <title>How to watch The Other Bennet Sister from anywhere &#8211; it's *FREE*</title>
-      <link>https://www.techradar.com/how-to-watch/the-other-bennet-sister-free</link>
-      <pubDate>Sun, 15 Mar 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3fsUsREziJTY22m4DsJSii</guid>
-      <description>Here's how to watch The Other Bennet Sister online from anywhere in the world, completely FREE.</description>
-    </item>
-    <item>
-      <title>Moon phase today: What the Moon will look like on March 15</title>
-      <link>https://mashable.com/article/moon-phase-today-march-15</link>
-      <pubDate>Sun, 15 Mar 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03tXrGyP6TfkQMT4PhshdeX</guid>
-      <description>See the Moon phase expected for March 15, 2026 as well as when the next Full Moon is expected.</description>
+      <title>Ce bo&#238;ter Matter contr&#244;le les objets connect&#233;s de la maison : on a test&#233; le SwitchBot Hub Mini</title>
+      <link>https://www.frandroid.com/marques/switchbot/2570979_switchbot-hub-mini-une-telecommande-maison-connecte-et-un-hub-matter-pour-lecosysteme-switchbot</link>
+      <pubDate>Sun, 15 Mar 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/switchbot/2570979_switchbot-hub-mini-une-telecommande-maison-connecte-et-un-hub-matter-pour-lecosysteme-switchbot</guid>
+      <description>
+Le SwitchBot Hub Mini Matter a un double usage : il apporte la connectivit&#233; Matter et l&#8217;acc&#232;s &#224; Internet aux objets connect&#233;s SwitchBot, et fait de m&#234;me pour les appareils &#224; t&#233;l&#233;commande infrarouge qu&#8217;il peut facilement commander et rendre &#171; connect&#233;s &#187;.
+</description>
     </item>
   </channel>
 </rss>
