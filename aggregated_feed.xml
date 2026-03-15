@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 15 Mar 2026 21:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 22:33:46 GMT</lastBuildDate>
+    <item>
+      <title>This is probably the most powerful external GPU enclosure around right now &#8212; Pluggable's TBT5-AI is the first to explicitly target local LLM and workstation GPU</title>
+      <link>https://www.techradar.com/pro/this-is-probably-the-most-powerful-external-gpu-enclosure-pluggables-tbt5-ai-is-the-first-one-that-explicitly-targets-local-llm-and-workstation-gpu</link>
+      <pubDate>Sun, 15 Mar 2026 22:10:00 +0000</pubDate>
+      <guid isPermaLink="false">nDsTVx6RGXokrbQ3Fwe7VQ</guid>
+      <description>Plugable introduces a Thunderbolt 5 GPU enclosure allowing laptops to run large AI models locally using desktop graphics cards.</description>
+    </item>
+    <item>
+      <title>Oscars 2026 LIVE: Where to watch, Nominees, Cheapest ways to stream the 98th Academy Awards</title>
+      <link>https://www.techradar.com/how-to-watch/live/oscars-2026-live-where-to-watch-nominees-cheapest-ways-to-stream-the-98th-academy-awards</link>
+      <pubDate>Sun, 15 Mar 2026 22:03:16 +0000</pubDate>
+      <guid isPermaLink="false">AbXxUphGr3bnwfCsBtUfti</guid>
+      <description>Lights, camera, Oscars! Follow every win, surprise, and red-carpet moment live tonight with us</description>
+    </item>
+    <item>
+      <title>The 2026 TechRadar Australian PC Awards &#8212; all the winners revealed!</title>
+      <link>https://www.techradar.com/computing/the-2026-techradar-australian-pc-awards-all-the-winners-revealed</link>
+      <pubDate>Sun, 15 Mar 2026 21:51:04 +0000</pubDate>
+      <guid isPermaLink="false">P4vHjyWZYgbsWKFME5f3gg</guid>
+      <description>Across 40 categories, our PC experts pick the gear we rate as the very best you can get</description>
+    </item>
     <item>
       <title>ByteDance reportedly pauses global launch of its Seedance 2.0 video generator</title>
       <link>https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/</link>
@@ -17,41 +38,6 @@
       <pubDate>Sun, 15 Mar 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">vJbCqTTuarAZCLHqNsE7uX</guid>
       <description>We uncovered a sneaky way to watch the 2026 Oscars for FREE &#8211; from anywhere in the world, without coughing up for a premium streaming subscription. Here's the trick.</description>
-    </item>
-    <item>
-      <title>Marvel Wants to Remind You &#8216;X-Men &#8217;97&#8217; Season 2 Is Really Close</title>
-      <link>https://gizmodo.com/marvel-wants-to-remind-you-x-men-97-season-2-is-really-close-2000733562</link>
-      <pubDate>Sun, 15 Mar 2026 20:15:15 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000733562</guid>
-      <description>Why not spend part of your summer reading the exploits of the 'X-Men '97' cast before the show returns in full?</description>
-    </item>
-    <item>
-      <title>New studies find Brits are the most anxious when it comes to robots &#8212; and they don't want data centers in their back yards either</title>
-      <link>https://www.techradar.com/pro/new-studies-find-brits-are-the-most-anxious-when-it-comes-to-robots-and-they-dont-want-data-centers-in-their-back-yards-either</link>
-      <pubDate>Sun, 15 Mar 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">MjoYmxQa7JtDsA7hn4evzZ</guid>
-      <description>UK adults show widespread unease around robots and local data centers, driven by security, environmental concerns, and limited firsthand exposure.</description>
-    </item>
-    <item>
-      <title>How to watch Oscars 2026 for *FREE* &#8212; stream 98th Academy Awards from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/oscars-2026</link>
-      <pubDate>Sun, 15 Mar 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">TUnNP2ynTtopqo8JSNHD93</guid>
-      <description>With Sinners and One Battle After Another set to win big at the 98th Academy Awards at the Dolby Theatre in LA, here's how to watch Oscars 2026 for free.</description>
-    </item>
-    <item>
-      <title>ARC Raiders opts to replace AI-generated dialogue with professional voice actors</title>
-      <link>https://mashable.com/article/arc-raiders-studio-replaces-ai-dialogue-with-voice-actors</link>
-      <pubDate>Sun, 15 Mar 2026 19:47:51 +0000</pubDate>
-      <guid isPermaLink="false">014o2g5szYboQaEBdR06RLA</guid>
-      <description>ARC Raiders opts to replace AI-generated dialogue with professional voice actors</description>
-    </item>
-    <item>
-      <title>Aether OS is a computer in a browser built for the AT Protocol</title>
-      <link>https://www.theverge.com/tech/895083/aether-os-browser-at-protocol</link>
-      <pubDate>2026-03-15T15:35:57-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=895083</guid>
-      <description>Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, covering text editing, task management, and social media. There's even a rudimentary tracker for making chiptunes, [&#8230;]</description>
     </item>
   </channel>
 </rss>
