@@ -3,13 +3,133 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 18 Mar 2026 19:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 20:42:22 GMT</lastBuildDate>
+    <item>
+      <title>A new iPhone hacking tool puts anyone still on iOS 18 at risk</title>
+      <link>https://www.engadget.com/cybersecurity/a-new-iphone-hacking-tool-puts-anyone-still-on-ios-18-at-risk-203745949.html?src=rss</link>
+      <pubDate>Wed, 18 Mar 2026 20:37:45 +0000</pubDate>
+      <guid isPermaLink="false">b9ddde10-8d6b-41b8-9abf-bb9fd8ba0175</guid>
+      <description>Google and cybersecurity companies Lookout and iVerify have detailed a new hacking technique that potentially puts a significant portion of iPhone users in danger, just by visiting the wrong web page. The hack is called "DarkSword" and since it specifically targets several different versions of iOS 18, it could affect "close to a quarter of iPhones," Wired writes.DarkSword is a "fileless" hack that leverages a collection of exploits to access sensitive data when an iPhone visits an infected website. Rather than install spyware that hangs around on a user's phone after messages and other privat...</description>
+    </item>
+    <item>
+      <title>Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place</title>
+      <link>https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/</link>
+      <pubDate>Wed, 18 Mar 2026 20:30:52 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3103772</guid>
+      <description>Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.</description>
+    </item>
+    <item>
+      <title>Senator Blackburn introduces the first draft of a federal AI bill</title>
+      <link>https://www.engadget.com/ai/senator-blackburn-introduces-the-first-draft-of-a-federal-ai-bill-202509852.html?src=rss</link>
+      <pubDate>Wed, 18 Mar 2026 20:25:09 +0000</pubDate>
+      <guid isPermaLink="false">20b33cf0-2bd4-42a7-abba-0d273b40646b</guid>
+      <description>The White House has been promising a set of national rules to guide artificial intelligence since late last year, and today Sen. Marsha Blackburn (R-Tenn.) fired the first volley. The senator shared a discussion draft for codifying the executive order signed by President Donald Trump in December calling for an AI bill. Her stated goal is a policy that "protects children, creators, conservatives and communities from harm." Blackburn has called for tougher policies for AI safety, and one of the core messages in this discussion draft is that it "places a duty of care on AI developers in the desig...</description>
+    </item>
+    <item>
+      <title>The Story Behind the Death of the &#8216;Buffy&#8217; Reboot Just Keeps Getting Weirder</title>
+      <link>https://gizmodo.com/buffy-reboot-cancelation-backlash-chloe-zhao-2000735235</link>
+      <pubDate>Wed, 18 Mar 2026 20:12:11 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735235</guid>
+      <description>A new report brings more allegations and damage control regarding Chlo&#233; Zhao's update of the Sarah Michelle Gellar series.</description>
+    </item>
+    <item>
+      <title>Hoto&#8217;s powerful PixelDrive electric screwdriver is 25 percent off</title>
+      <link>https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal</link>
+      <pubDate>2026-03-18T16:10:05-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=897056</guid>
+      <description>Hoto makes electric screwdrivers for different budgets. If you don&#8217;t want to spend much, you can get its most basic model, which we&#8217;ve recommended many times. That one comes with 25 bits, and has three levels of torque for $29.99 (usually $59.99). But if you want more power and versatility, its PixelDrive model might be [&#8230;]</description>
+    </item>
+    <item>
+      <title>Amazon will reportedly cut its USPS shipments by at least two-thirds</title>
+      <link>https://www.engadget.com/big-tech/amazon-will-reportedly-cut-its-usps-shipments-by-at-least-two-thirds-200915702.html?src=rss</link>
+      <pubDate>Wed, 18 Mar 2026 20:09:15 +0000</pubDate>
+      <guid isPermaLink="false">82a9da7c-4e82-4786-9dcf-7ec59e39a90b</guid>
+      <description>A recent change in how the US Postal Service handles shipping partners appears to have forced Amazon to make alternative plans. The company reportedly plans to cut the number of packages it ships through USPS by at least two-thirds later this year. It says the decision came after USPS ended negotiations &#8220;at the eleventh hour&#8221; in favor of a new bidding process.On Tuesday, the Wall Street Journal reported that Amazon plans to reduce the shipments it hands off to USPS. Last year, the company accounted for nearly 15 percent of the Postal Service&#8217;s package deliveries. Cutting that by nearly two-thi...</description>
+    </item>
+    <item>
+      <title>Google is testing Search Live in more markets</title>
+      <link>https://www.engadget.com/ai/google-is-testing-search-live-in-more-markets-150000316.html?src=rss</link>
+      <pubDate>Wed, 18 Mar 2026 20:05:07 +0000</pubDate>
+      <guid isPermaLink="false">f49ec3f9-07f2-412a-b047-baa78a9be169</guid>
+      <description>Update, 4:05PM ET: A few hours after this story was published, Google reached out to retract the news. The company provided Engadget with the following statement:"Search Live has not rolled out globally to all users. It remains available in the US and India, with testing currently underway in additional markets. We apologize for the earlier miscommunication."Given that the company says it is testing in more markets, it seems entirely possible that the global Search Live release will happen sooner than later. But, for now, it&#8217;s on hold.The original, unedited article follows below:After rolling ...</description>
+    </item>
+    <item>
+      <title>Inventive laptop maker comes out with a concept laptop that you&#8217;ll definitely never need &#8212; VeilBook has a removable keyboard to free up &#8220;space to integrate cooling fans&#8221;</title>
+      <link>https://www.techradar.com/pro/inventive-laptop-maker-comes-out-with-a-concept-laptop-that-youll-definitely-never-need-veilbook-has-a-removable-keyboard-to-free-space-to-integrate-cooling-fans</link>
+      <pubDate>Wed, 18 Mar 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">h9pk2PyADZRsgYhMZPUkhR</guid>
+      <description>Inventec VeilBook concept laptop introduces a sliding keyboard that covers the touchpad.</description>
+    </item>
+    <item>
+      <title>Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business</title>
+      <link>https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/</link>
+      <pubDate>Wed, 18 Mar 2026 20:01:19 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3102415</guid>
+      <description>Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.</description>
+    </item>
+    <item>
+      <title>Of Course, Asus ROG Makes the Best Open-Ear Wireless Earbuds for Gaming</title>
+      <link>https://gizmodo.com/asus-rog-cetra-open-wireless-gaming-earbuds-review-2000734672</link>
+      <pubDate>Wed, 18 Mar 2026 20:00:47 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000734672</guid>
+      <description>The Cetra Open Wireless Gaming Earbuds might be better than wearing a wireless headset.</description>
+    </item>
+    <item>
+      <title>Trump administration says Anthropic refusal was 'not protected speech' in US court</title>
+      <link>https://www.techradar.com/pro/security/trump-administration-says-anthropic-refusal-was-not-protected-speech-in-us-court</link>
+      <pubDate>Wed, 18 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">PWBwiJoKsnLTTpK52ryFwH</guid>
+      <description>In a new filing, the Trump administration backs Hegseth's designation of Anthropic as a national supply chain risk.</description>
+    </item>
+    <item>
+      <title>'The most important BMW in recent history': BMW reveals new i3 EV with 560-mile range &#8212; but its design is splitting opinion</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-most-important-bmw-in-recent-history-bmw-reveals-new-i3-ev-with-560-mile-range-but-its-design-is-splitting-opinion</link>
+      <pubDate>Wed, 18 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">oTiTZZEnwJE6P5xPKu6bng</guid>
+      <description>Internet opinions come pouring in as BMW unveils its upcoming electric i3 &#8212; arguably one of the most important cars for the German brand in years</description>
+    </item>
+    <item>
+      <title>Federal Cyber Experts Thought Microsoft&#8217;s Cloud Was Garbage. They Approved It Anyway.</title>
+      <link>https://gizmodo.com/federal-cyber-experts-thought-microsofts-cloud-was-garbage-they-approved-it-anyway-2000735237</link>
+      <pubDate>Wed, 18 Mar 2026 19:35:36 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735237</guid>
+      <description>The government relies, in part, on third-party firms to vet cloud technology, but those firms are hired and paid by the company being assessed.</description>
+    </item>
+    <item>
+      <title>The best deals on MacBooks right now</title>
+      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
+      <pubDate>2026-03-18T15:35:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
+      <description>It&#8217;s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company now offers a wider range of options with more sizes and price points than ever before, all of which run [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Best Outdoor Deals From the REI Member Days Sale (2026)</title>
+      <link>https://www.wired.com/story/rei-member-days-sale-2026/</link>
+      <pubDate>Wed, 18 Mar 2026 19:34:39 +0000</pubDate>
+      <guid isPermaLink="false">69b2d7d5462d71631c0d9293</guid>
+      <description>REI&#8217;s Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.</description>
+    </item>
+    <item>
+      <title>Peter Thiel&#8217;s &#8216;Steroid Olympics&#8217; Startup Wants to Sell You the Sketchy Peptides</title>
+      <link>https://gizmodo.com/peter-thiels-steroid-olympics-startup-wants-to-sell-you-the-sketchy-peptides-2000735156</link>
+      <pubDate>Wed, 18 Mar 2026 19:20:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735156</guid>
+      <description>The company behind the &#8220;Enhanced Games&#8221; plans to market eight out of the 14 experimental peptides currently banned by the FDA.</description>
+    </item>
     <item>
       <title>'AI can be relentless in a way that a human is not': With too few experts to go around, this startup is chasing a Matrix-style idea of &#8220;copying and pasting&#8221; expertise</title>
       <link>https://www.techradar.com/pro/ai-can-be-relentless-in-a-way-that-a-human-is-not-with-too-few-experts-to-go-around-this-startup-is-chasing-a-matrix-style-idea-of-copying-and-pasting-expertise</link>
       <pubDate>Wed, 18 Mar 2026 19:05:00 +0000</pubDate>
       <guid isPermaLink="false">pRFdZqGAhW5YUaBKMLYcoG</guid>
       <description>With too few human experts, this AI startup is chasing a Matrix-style idea of &#8220;copying and pasting&#8221; expertise.</description>
+    </item>
+    <item>
+      <title>How companies can prioritize the mental health of their employees and take steps to address chronic burnout</title>
+      <link>https://www.fastcompany.com/91510474/how-companies-can-prioritize-the-mental-health-of-their-employees-and-take-steps-to-address-chronic-burnout</link>
+      <pubDate>2026-03-18T19:01:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91510474/how-companies-can-prioritize-the-mental-health-of-their-employees-and-take-steps-to-address-chronic-burnout</guid>
+      <description>Speaking with Fast Company at SXSW, experts on workplace mental health shared how leaders can help employees navigate upheaval.
+Unlike on the popular TV series Severance, most people don&#8217;t get to disconnect from what&#8217;s happening in the rest of their lives when they arrive at work each day. </description>
     </item>
     <item>
       <title>Disney Just Locked in Its First Summer 2028 Blockbusters</title>
@@ -26,6 +146,13 @@
       <description>Improve your sleep and your security in one, easy subscription</description>
     </item>
     <item>
+      <title>'Further &#8288;proceedings might not be necessary': Elon Musk and SEC in talks to settle Twitter deal lawsuit</title>
+      <link>https://www.techradar.com/pro/further-proceedings-might-not-be-necessary-elon-musk-and-sec-in-talks-to-settle-twitter-deal-lawsuit</link>
+      <pubDate>Wed, 18 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7sxqykw4Wz8pAvxjGBLu6B</guid>
+      <description>Elon Musk and the SEC want to settle this lawsuit outside of court, and have asked for a two-week extension to reach an agreement.</description>
+    </item>
+    <item>
       <title>Prime Video's Scarpetta invites viewers to solve a gripping case &#8212; but butchering the source material is the show's worst crime of all</title>
       <link>https://www.techradar.com/streaming/amazon-prime-video/prime-videos-scarpetta-invites-viewers-to-solve-a-gripping-case-but-butchering-the-source-material-is-the-shows-worst-crime-of-all</link>
       <pubDate>Wed, 18 Mar 2026 19:00:00 +0000</pubDate>
@@ -33,11 +160,12 @@
       <description>Scarpetta is Prime Video's take on an iconic Patricia Cornwell character but it's nothing like the books.</description>
     </item>
     <item>
-      <title>'Further &#8288;proceedings might not be necessary': Elon Musk and SEC in talks to settle Twitter deal lawsuit</title>
-      <link>https://www.techradar.com/pro/further-proceedings-might-not-be-necessary-elon-musk-and-sec-in-talks-to-settle-twitter-deal-lawsuit</link>
-      <pubDate>Wed, 18 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7sxqykw4Wz8pAvxjGBLu6B</guid>
-      <description>Elon Musk and the SEC want to settle this lawsuit outside of court, and have asked for a two-week extension to reach an agreement.</description>
+      <title>Does the public comment system have an AI problem?</title>
+      <link>https://www.fastcompany.com/91510885/does-the-public-comment-system-have-an-ai-problem</link>
+      <pubDate>2026-03-18T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91510885/does-the-public-comment-system-have-an-ai-problem</guid>
+      <description>Fake comments are easy. Proving them isn&#8217;t.
+Last year, when an air quality agency in Southern California proposed a new rule to encourage consumers to buy heat pumps instead of gas heaters, the agency was flooded with 20,000 comments opposing the idea&#8212;many more than usual. &#8220;Due to the volume and nature of these submissions, South Coast AQMD had concerns about their authenticity,&#8221; says Rainbow Yeung, an agency spokesperson. The agency&#8217;s executive director got an email thanking him for his &#8220;opposition&#8221; to a rule that his own team had drafted....</description>
     </item>
     <item>
       <title>Ligue 1 et IPTV ill&#233;gale&#160;: des utilisateurs condamn&#233;s &#224; des amendes en France</title>
@@ -70,353 +198,11 @@ Mozilla a visiblement entendu les sifflets des derniers mois. Apr&#232;s avoir t
       <description>Who could have seen this coming?</description>
     </item>
     <item>
-      <title>New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow</title>
-      <link>https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50</link>
-      <pubDate>Wed, 18 Mar 2026 18:47:00 GMT</pubDate>
-      <guid isPermaLink="false">6BLeSZ68bnDe19rSor9pXr</guid>
-      <description>In the last few years, Chinese AI startup MiniMax has become one of the most exciting in the crowded global AI marketplace, carving out a reputation for delivering frontier-level large language models (LLMs) with open source licenses and before that, high-quality AI video generation models (Hailuo).  The release of MiniMax M2.7 today &#8212; a new proprietary LLM designed to perform well powering AI agents and as the backend to third-party harnesses and tools like Claude Code, Kilo Code and OpenClaw &#8212; marks yet a new milestone: Rather than relying solely on human-led fine-tuning, MiniMax has leverag...</description>
-    </item>
-    <item>
-      <title>Trump&amp;#8217;s AI chief&amp;#8217;s big Iran warning gets big time ignored</title>
+      <title>David Sacks&#8217; big Iran warning gets big time ignored</title>
       <link>https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket</link>
       <pubDate>2026-03-18T14:44:21-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/896949/ai-is-now-part-of-the-culture-wars-and-real-wars</guid>
       <description>Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]</description>
-    </item>
-    <item>
-      <title>J&#8217;ai essay&#233; la Nio ET5 Touring &#233;lectrique qui se &#171;&#160;recharge&#160;&#187; en 3 minutes : une exp&#233;rience hors du commun</title>
-      <link>https://www.frandroid.com/marques/nio/2973045_jai-essaye-la-nio-et5-touring-electrique-qui-se-recharge-en-3-minutes-une-experience-hors-du-commun</link>
-      <pubDate>Wed, 18 Mar 2026 18:40:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nio/2973045_jai-essaye-la-nio-et5-touring-electrique-qui-se-recharge-en-3-minutes-une-experience-hors-du-commun</guid>
-      <description>
-J'ai pu essayer en Chine la Nio ET5 Touring, la voiture &#233;lectrique chinoise qui se &#171; recharge &#187; en 3 minutes gr&#226;ce &#224; l'&#233;change de batterie, et avec une autonomie de 700 km. Voici mon avis.
-</description>
-    </item>
-    <item>
-      <title>Perplexity's Comet AI browser is now available for iPhones</title>
-      <link>https://www.engadget.com/apps/perplexitys-comet-ai-browser-is-now-available-for-iphones-183947569.html?src=rss</link>
-      <pubDate>Wed, 18 Mar 2026 18:39:48 +0000</pubDate>
-      <guid isPermaLink="false">bd6f109f-be2d-4fe8-9bc4-b9ae2090673d</guid>
-      <description>Perplexity's Comet AI browser is now available as a standalone app for iPhone users. The tool initially debuted last summer on PCs, but cost $200 a month. The new app is free, as is the recently-released Android version.
-Comet is an AI-powered browser, which has become a hot product category throughout the past year or so. This is basically a web browser combined with a chatbot that can perform some tasks on a user's behalf. Like related tools, people can ask it to summarize a webpage or conduct additional research for more context about a subject.
-Comet is now available for iOS.Download on th...</description>
-    </item>
-    <item>
-      <title>Realme 16 Pro+ : ce nouveau smartphone dot&#233; d&#8217;une batterie XXL et d&#8217;un &#233;cran AMOLED &#224; 144 Hz s&#8217;offre d&#233;j&#224; une remise de 110 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3031603_realme-16-pro-ce-nouveau-smartphone-dote-dune-batterie-xxl-et-dun-ecran-amoled-a-144-hz-soffre-deja-une-remise-de-110-e</link>
-      <pubDate>Wed, 18 Mar 2026 18:33:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3031603_realme-16-pro-ce-nouveau-smartphone-dote-dune-batterie-xxl-et-dun-ecran-amoled-a-144-hz-soffre-deja-une-remise-de-110-e</guid>
-      <description>
-Avec le Realme 16 Pro+, la marque chinoise propose un smartphone qui m&#234;le autonomie et puissance gr&#226;ce &#224; l'int&#233;gration du Snapdragon 7 Gen 4, absente sur la version Pro traditionnelle. Le tout tombe &#224; 419 euros gr&#226;ce aux codes ASFR60 ou FRAS60 disponibles chez AliExpress.
-</description>
-    </item>
-    <item>
-      <title>FBI is buying location data to track US citizens, director confirms</title>
-      <link>https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/</link>
-      <pubDate>Wed, 18 Mar 2026 18:32:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103731</guid>
-      <description>FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.</description>
-    </item>
-    <item>
-      <title>Robinhood is making a social network</title>
-      <link>https://www.theverge.com/tech/896989/robinhood-social-network-beta</link>
-      <pubDate>2026-03-18T14:32:18-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=896989</guid>
-      <description>Robinhood is now beta testing a Twitter-like social media platform it calls Robinhood Social. The trading-focused platform was announced last September at the company's HOOD Summit, but it's rolling out to 1,000 people who attended the event and will expand to "an additional 10,000 customers over the coming weeks," according to Robinhood. On Robinhood Social, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The new iPad Air M4 'remains the iPad most people should buy' &#8212; and it's already on sale at Walmart</title>
-      <link>https://www.techradar.com/tablets/ipad/the-new-ipad-air-m4-remains-the-ipad-most-people-should-buy-and-its-already-on-sale-at-walmart</link>
-      <pubDate>Wed, 18 Mar 2026 18:30:02 +0000</pubDate>
-      <guid isPermaLink="false">7hHz5GQVjGPnyrufZ274DL</guid>
-      <description>The all-new iPad Air M4 is the best iPad for most people, and you can find the 11-inch tablet already discounted at Walmart.</description>
-    </item>
-    <item>
-      <title>Mars : la Nasa d&#233;tecte sous la surface des structures qui relancent l&#8217;histoire de l&#8217;eau !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/mars-mars-nasa-detecte-sous-surface-structures-relancent-histoire-eau-132976/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 18 Mar 2026 19:27:40 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/mars-mars-nasa-detecte-sous-surface-structures-relancent-histoire-eau-132976/#xtor%3DRSS-8</guid>
-      <description>Gr&#226;ce &#224; ses &#233;quipements, le rover Perseverance a sond&#233; les profondeurs du sous-sol martien et mis au jour des structures enfouies t&#233;moignant d&#8217;anciens syst&#232;mes fluviaux. Ces d&#233;couvertes sugg&#232;rent que l&#8217;eau a fa&#231;onn&#233; la r&#233;gion bien avant la formation du c&#233;l&#232;bre delta martien, renfor&#231;ant...</description>
-    </item>
-    <item>
-      <title>ChatGPT did not cure a dog&#8217;s cancer</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer</link>
-      <pubDate>2026-03-18T14:14:39-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=896878</guid>
-      <description>When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]</description>
-    </item>
-    <item>
-      <title>Exclusive: $599 MacBook Neo easily beats $1,119 Dell laptop on Windows 11 benchmarks - yes, macOS may well be the best platform ever for Microsoft's OS</title>
-      <link>https://www.techradar.com/pro/exclusive-usd599-macbook-neo-easily-beats-usd1-119-dell-laptop-on-windows-11-benchmarks-yes-macos-may-well-be-the-best-platform-ever-for-microsofts-os</link>
-      <pubDate>Wed, 18 Mar 2026 18:13:46 +0000</pubDate>
-      <guid isPermaLink="false">2MFyJUWjMticgkEUzLmYUB</guid>
-      <description>Despite running a mobile CPU and Windows in a virtual machine, the MacBook laptop excelled in single-core CPU performance.</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s MacBook Pro M5 laptop is massively discounted at Amazon - and it's a better choice for creators than the MacBook Neo</title>
-      <link>https://www.techradar.com/pro/apples-macbook-pro-m5-laptop-is-massively-discounted-at-amazon-and-its-a-better-choice-for-creators-than-the-macbook-neo</link>
-      <pubDate>Wed, 18 Mar 2026 18:02:16 +0000</pubDate>
-      <guid isPermaLink="false">JmYwJwjxoq9A2CpftQ4Duh</guid>
-      <description>Forget the Apple Neo &#8212; the more powerful MacBook Pro with M5 chip is nearly $200 off right now on Amazon.</description>
-    </item>
-    <item>
-      <title>Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal</title>
-      <link>https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/</link>
-      <pubDate>Wed, 18 Mar 2026 18:01:18 +0000</pubDate>
-      <guid isPermaLink="false">69b9a94a8332a5b66668179d</guid>
-      <description>After OpenAI&#8217;s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.</description>
-    </item>
-    <item>
-      <title>The Cast of &#8216;Dune: Part Three&#8217; Tiptoed Around Its Biggest Mysteries</title>
-      <link>https://gizmodo.com/the-cast-of-dune-part-three-tiptoed-around-its-biggest-mysteries-2000735069</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:10 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735069</guid>
-      <description>Jason Momoa and Florence Pugh are back and asking the 'Dune' questions fans want answered.</description>
-    </item>
-    <item>
-      <title>The US Grossly Undercounted Covid Deaths Early On, Updated Toll Shows</title>
-      <link>https://gizmodo.com/updated-death-toll-shows-the-us-grossly-undercounted-covid-deaths-early-on-2000734587</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:07 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000734587</guid>
-      <description>The official death toll of covid-19 between 2020 and 2021 was off by nearly 20%, new research finds.</description>
-    </item>
-    <item>
-      <title>What should you evolve Eevee into on Pok&#233;mon XD: Gale of Darkness for Nintendo Switch 2? Here&#8217;s my opinion as a life-long Pok&#233;mon fan</title>
-      <link>https://www.techradar.com/gaming/what-should-you-evolve-eevee-into-on-pokemon-xd-gale-of-darkness-for-nintendo-switch-2-heres-my-opinion-as-a-life-long-pokemon-fan</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Yk3fo7vHQQWQp5pKyQDsRk</guid>
-      <description>Pok&#233;mon XD: Gale of Darkness has landed on Nintendo Switch 2 &#8212; here&#8217;s what you should evolve your Eevee into.</description>
-    </item>
-    <item>
-      <title>Which Amazon Echo Show should I buy? Here are the key differences to know</title>
-      <link>https://www.techradar.com/home/smart-home/which-amazon-echo-show-should-i-buy-here-are-the-key-differences-to-know</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9BLFDkMSiZAE4eXSjxyQ34</guid>
-      <description>There are lots of Echo Show discounts right now &#8212; here's how to figure out which one you want.</description>
-    </item>
-    <item>
-      <title>Only 9% of global firms are ready to handle AI-driven threats, and many are dangerously overconfident</title>
-      <link>https://www.techradar.com/pro/security/only-9-percent-of-global-firms-are-ready-to-handle-ai-driven-threats-and-many-are-dangerously-overconfident</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">e34eVtncUYux57roVg6Jab</guid>
-      <description>Constantly verifying user identities is the way forward - but many are unrealistic about their efforts.</description>
-    </item>
-    <item>
-      <title>Scientists tracked coffee drinkers for dementia risk over 43 years. Here&#8217;s what they found</title>
-      <link>https://www.fastcompany.com/91511286/scientists-tracked-coffee-drinkers-for-dementia-risk-over-43-years-heres-what-they-found</link>
-      <pubDate>2026-03-18T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91511286/scientists-tracked-coffee-drinkers-for-dementia-risk-over-43-years-heres-what-they-found</guid>
-      <description>A team of researchers investigated a previously inconclusive link between caffeinated coffee and tea with cognitive function.
-There&#8217;s long been debate as to whether coffee is good for you. But this new study suggests that caffeinated coffee, as well as caffeinated tea, could lead to lower incidence of dementia. So if your morning routine involves making a bleary-eyed beeline to the coffee maker immediately upon waking&#8212;you may be doing something right....</description>
-    </item>
-    <item>
-      <title>Northern lights tonight: Don&#8217;t miss your chance to catch a visible aurora borealis in 19 states. Here&#8217;s the forecast for where and when</title>
-      <link>https://www.fastcompany.com/91511334/northern-lights-aurora-borealis-visible-in-19-states-tonight-forecast-where-when</link>
-      <pubDate>2026-03-18T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91511334/northern-lights-aurora-borealis-visible-in-19-states-tonight-forecast-where-when</guid>
-      <description>NOAA is predicting a spectacular show thanks to a geomagnetic storm, above states from Washington to Michigan to Pennsylvania.
-The&#160;Northern Lights, also known as aurora borealis,&#160;may be visible in nearly 19 U.S. states tonight, Wednesday, March 18 into Thursday, March 19, according to the&#160;National Oceanic and Atmospheric Administration&#8217;s (NOAA) Space Weather Prediction Center....</description>
-    </item>
-    <item>
-      <title>Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes</title>
-      <link>https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/</link>
-      <pubDate>Wed, 18 Mar 2026 17:58:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103721</guid>
-      <description>He told the Wall Street Journal he thinks autonomous planes will be "10 times harder than Nikola ever was."</description>
-    </item>
-    <item>
-      <title>UK reverses course on AI copyright position after backlash</title>
-      <link>https://www.engadget.com/ai/uk-reverses-course-on-ai-copyright-position-after-backlash-175630732.html?src=rss</link>
-      <pubDate>Wed, 18 Mar 2026 17:56:30 +0000</pubDate>
-      <guid isPermaLink="false">215e66e6-8d05-4681-8e48-978ebfc0e221</guid>
-      <description>Chalk up a win for creative artists against AI companies. On Wednesday, the UK government abandoned its previous position on copyrighted works. It&#8217;s currently working on a data bill that, if unaltered, would have allowed AI companies like Google and OpenAI to train models on copyrighted materials without consent. Artists and other copyright holders would only have been offered a mere opt-out clause.After significant backlash, the UK backed off from that position. "We have listened," Technology Secretary Liz Kendall said on Wednesday. However, the government&#8217;s new stance is, well, not a stance ...</description>
-    </item>
-    <item>
-      <title>Si vous utilisez un clavier SwiftKey, nous avons une mauvaise nouvelle</title>
-      <link>https://www.frandroid.com/android/3032005_si-vous-utilisez-un-clavier-swiftkey-nous-avons-une-mauvaise-nouvelle</link>
-      <pubDate>Wed, 18 Mar 2026 17:55:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/3032005_si-vous-utilisez-un-clavier-swiftkey-nous-avons-une-mauvaise-nouvelle</guid>
-      <description>
-Si vous utilisez SwiftKey pour sa pr&#233;diction redoutable, pr&#233;parez-vous &#224; passer &#224; la caisse&#8230; en donn&#233;es. Microsoft vient d'annoncer que d&#232;s le 31 mai 2026, poss&#233;der un compte maison sera l'unique ticket d'entr&#233;e pour son clavier star sur Android et iOS.
-</description>
-    </item>
-    <item>
-      <title>Patreon CEO calls AI companies&#8217; fair use argument &#8216;bogus,&#8217; says creators should be paid</title>
-      <link>https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/</link>
-      <pubDate>Wed, 18 Mar 2026 17:54:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103690</guid>
-      <description>Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.</description>
-    </item>
-    <item>
-      <title>Robot Losing Its Mind in a California Restaurant Is Just as Fed Up as Everyone Else</title>
-      <link>https://gizmodo.com/robot-losing-its-mind-in-a-california-restaurant-is-just-as-fed-up-as-everyone-else-2000735088</link>
-      <pubDate>Wed, 18 Mar 2026 17:50:20 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735088</guid>
-      <description>Dance like no one's watching.</description>
-    </item>
-    <item>
-      <title>This HP EliteBook laptop deal is massively discounted at Best Buy &#8212; but I found a mini PC with much better specs for far less</title>
-      <link>https://www.techradar.com/pro/this-hp-elitebook-laptop-deal-is-massively-discounted-at-best-buy-but-i-found-a-mini-pc-with-much-better-specs-for-far-less</link>
-      <pubDate>Wed, 18 Mar 2026 17:48:30 +0000</pubDate>
-      <guid isPermaLink="false">9iHpzAkm9WeeNTefLpK6Sk</guid>
-      <description>14-inch HP EliteBook laptop gets a huge $2,360 price cut, but at $1,399, it&#8217;s still way more expensive than the Minisforum UM890 Pro mini PC with far better specs.</description>
-    </item>
-    <item>
-      <title>Mini PC : faut-il acheter maintenant avant l&#8217;augmentation des prix ? Voici deux conseils &#224; suivre</title>
-      <link>https://www.frandroid.com/marques/3031945_mini-pc-faut-il-acheter-maintenant-avant-laugmentation-des-prix-voici-deux-conseils-a-suivre</link>
-      <pubDate>Wed, 18 Mar 2026 17:47:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3031945_mini-pc-faut-il-acheter-maintenant-avant-laugmentation-des-prix-voici-deux-conseils-a-suivre</guid>
-      <description>
-La f&#234;te est finie pour les prix planchers sur les mini PC performants. Entre la demande folle pour l'IA et les p&#233;nuries de m&#233;moire DDR5, Minisforum ajuste ses &#233;tiquettes vers le haut. Et c'est loin d'&#234;tre le seul.
-</description>
-    </item>
-    <item>
-      <title>Microsoft will finally let you turn off Quick Resume for individual games</title>
-      <link>https://www.engadget.com/gaming/xbox/microsoft-will-finally-let-you-turn-off-quick-resume-for-individual-games-174639730.html?src=rss</link>
-      <pubDate>Wed, 18 Mar 2026 17:46:39 +0000</pubDate>
-      <guid isPermaLink="false">b2553641-11f0-4b0b-8879-7181b7e2db25</guid>
-      <description>Microsoft is rolling out a number of Xbox Series X|S updates to those on its Xbox Insiders program, and one of them has been requested by the community for years. You&#8217;ll soon be able to disable the Quick Resume feature for specific games, meaning they'll boot up fresh each time you launch them.
-As a reminder, Quick Resume is a feature that Microsoft introduced with its current generation of consoles. It lets you suspend a number of games simultaneously so they&#8217;re running in the background even when the console is turned off. When you want to return to a game that supports Quick Resume, it'll d...</description>
-    </item>
-    <item>
-      <title>Traders flocked to prediction markets&#8212;now a criminal case is testing the model</title>
-      <link>https://www.fastcompany.com/91511284/traders-flocked-to-prediction-markets-now-a-criminal-case-is-testing-the-model</link>
-      <pubDate>2026-03-18T17:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91511284/traders-flocked-to-prediction-markets-now-a-criminal-case-is-testing-the-model</guid>
-      <description>The outcome could determine whether betting on real-world events remains a viable strategy.
-Kalshi made headlines last month over allowing people to place wagers on the Iran war. Now the prediction market platform is being sued by the state of Arizona, the first state to file criminal charges against the controversial company.&#160;</description>
-    </item>
-    <item>
-      <title>Kasa&#8217;s Matter-compatible smart plugs are on sale for $11 a pop</title>
-      <link>https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale</link>
-      <pubDate>2026-03-18T13:43:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=896899</guid>
-      <description>If you&#8217;re looking for an easy and affordable way to add smarts to your home, you can buy two Kasa Smart Wi-Fi Plug Slim smart plugs on sale for $21.99 ($8 off) at Amazon and B&amp;H Photo. That&#8217;s the bundle&#8217;s best price in months and a good opportunity to upgrade things you already own instead [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Best Sonos Bluetooth Speaker Is $40 Off</title>
-      <link>https://www.wired.com/story/sonos-roam-2-deal-326/</link>
-      <pubDate>Wed, 18 Mar 2026 17:34:52 +0000</pubDate>
-      <guid isPermaLink="false">69bad57248cfa1aefb91884d</guid>
-      <description>Add the Sonos Roam 2 to your existing home setup, or take it to go with Bluetooth.</description>
-    </item>
-    <item>
-      <title>Surfshark boosts its ultimate security bundle with $1 million identity theft protection</title>
-      <link>https://www.techradar.com/vpn/vpn-services/surfshark-boosts-its-ultimate-security-bundle-with-usd1-million-identity-theft-protection</link>
-      <pubDate>Wed, 18 Mar 2026 17:32:58 +0000</pubDate>
-      <guid isPermaLink="false">vYHkCLomhqbdgs3d7ETdv7</guid>
-      <description>Cybercrime is soaring, and Surfshark wants to foot the bill. The provider just added a massive $1 million identity theft insurance policy to its top-tier bundle for US users. Here is what you need to know.</description>
-    </item>
-    <item>
-      <title>The U.S. is temporarily waiving the Jones Act. Here&#8217;s what to know</title>
-      <link>https://www.fastcompany.com/91511502/jones-act-trump-trade</link>
-      <pubDate>2026-03-18T17:30:33</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91511502/jones-act-trump-trade</guid>
-      <description>The Jones Act mandates that ships carrying cargo and passengers between U.S. ports must be built in the U.S. and owned by Americans.
-As the U.S. and Israel&#8217;s&#160;war against Iran&#160;continues to upend&#160;energy markets&#160;and&#160;supply chains&#160;worldwide, the Trump administration says it will&#160;temporarily waive&#160;maritime shipping requirements under a more than century-old law known as the Jones Act....</description>
-    </item>
-    <item>
-      <title>My favorite robot vacuum now supports Matter</title>
-      <link>https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter</link>
-      <pubDate>2026-03-18T13:30:07-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=896775</guid>
-      <description>Matic, my current top pick for the best robot vacuum, just got a big update. The unique-looking floor bot now works with Google Home and Apple Home, with support coming through the smart home standard Matter. This enables voice control and smart home integrations, features that have been missing from the robot since launch. Now [&#8230;]</description>
-    </item>
-    <item>
-      <title>The best AirPods deals you can get right now</title>
-      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
-      <pubDate>2026-03-18T13:29:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
-      <description>If you know where to look, you can often score deals on Apple&#8217;s ever-expanding AirPods lineup. Both the first-gen AirPods Max and the AirPods 4 (with and without ANC) now consistently receive discounts, as do the newer AirPods Pro 3. And while major shopping events like Black Friday and Prime Day have delivered some of [&#8230;]</description>
-    </item>
-    <item>
-      <title>The best boring (but essential) deals to shop during Amazons Big Spring Sale</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-boring-but-essential-deals-2026</link>
-      <pubDate>Wed, 18 Mar 2026 17:26:47 +0000</pubDate>
-      <guid isPermaLink="false">040SfF2QtHe5C70DA2u3QfG</guid>
-      <description>From paper towels to dishwasher pods, here are the best early deals on boring but essential household goods ahead of Amazon's 2026 Big Spring Sale.</description>
-    </item>
-    <item>
-      <title>On a enfin trouv&#233; le PC portable ultime pour les cr&#233;atifs : test du Samsung Galaxy Book 6 Ultra</title>
-      <link>https://www.frandroid.com/marques/samsung/3011353_on-a-enfin-trouve-le-pc-portable-ultime-pour-les-creatifs-test-du-samsung-galaxy-book-6-ultra</link>
-      <pubDate>Wed, 18 Mar 2026 17:20:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3011353_on-a-enfin-trouve-le-pc-portable-ultime-pour-les-creatifs-test-du-samsung-galaxy-book-6-ultra</guid>
-      <description>
-Samsung veut profiter des Intel Core Ultra 300 et de la g&#233;n&#233;ration RTX 50 pour faire revenir le Book 6 Ultra en France, &#224; un tarif qui le fait entrer clairement dans le haut de gamme du g&#233;ant cor&#233;en : voici le r&#233;sultat.
-</description>
-    </item>
-    <item>
-      <title>Google Pixel 10a vs Pixel 10: which Pixel phone should you buy?</title>
-      <link>https://www.techradar.com/phones/google-pixel-phones/google-pixel-10a-vs-google-pixel-10</link>
-      <pubDate>Wed, 18 Mar 2026 17:20:43 +0000</pubDate>
-      <guid isPermaLink="false">yXTK6rrsniDJCYvHySkk6V</guid>
-      <description>The Google Pixel 10a and Pixel 10 offer identical software and similar specs, but which mid-range Pixel phone should you buy?</description>
-    </item>
-    <item>
-      <title>PS5 Slim, trottinette premium Xiaomi et forfait 5G : les 3 bons plans tech &#224; ne pas manquer ce mercredi 18 mars 2026</title>
-      <link>https://www.frandroid.com/bons-plans/3031593_playstation-5-slim-trottinette-electrique-xiaomi-et-forfait-free-5g-les-3-bons-plans-tech-a-ne-pas-manquer-ce-mercredi-18-mars-2026</link>
-      <pubDate>Wed, 18 Mar 2026 17:19:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3031593_playstation-5-slim-trottinette-electrique-xiaomi-et-forfait-free-5g-les-3-bons-plans-tech-a-ne-pas-manquer-ce-mercredi-18-mars-2026</guid>
-      <description>
-Ce mercredi 18 mars 2026, la s&#233;lection des meilleurs bons plans du jour fait la part belle aux produits qui font battre le c&#339;ur des technophiles. 
-</description>
-    </item>
-    <item>
-      <title>&#8216;The people have been waiting!&#8217; &#8212; GoPro teases a mysterious cinematic camera, which could have DJI and Insta360 worried</title>
-      <link>https://www.techradar.com/cameras/action-cameras/the-people-have-been-waiting-gopro-teases-a-mysterious-cinematic-camera-which-could-have-dji-and-insta360-worried</link>
-      <pubDate>Wed, 18 Mar 2026 17:18:02 +0000</pubDate>
-      <guid isPermaLink="false">hqRQvGK4nMLof7d7UaUZEK</guid>
-      <description>Following the announcement of a new, twice the power processor, GoPro has teased its next all-new kind of camera with cinematic shots</description>
-    </item>
-    <item>
-      <title>Rebel Audio is a new AI podcasting tool aimed at first-time creators</title>
-      <link>https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/</link>
-      <pubDate>Wed, 18 Mar 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103590</guid>
-      <description>Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.</description>
-    </item>
-    <item>
-      <title>The head of NASA, members of Congress, and Elon Musk want to make Pluto a planet again. Will Trump do it?</title>
-      <link>https://www.fastcompany.com/91511276/nasa-congress-elon-musk-want-to-make-pluto-a-planet-again-will-trump-do-it-administrator-jared-isaacman</link>
-      <pubDate>2026-03-18T17:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91511276/nasa-congress-elon-musk-want-to-make-pluto-a-planet-again-will-trump-do-it-administrator-jared-isaacman</guid>
-      <description>NASA administrator Jared Isaacman just urged the president to &#8216;make Pluto great again&#8217;&#8212;but Trump doesn&#8217;t have the power to do it alone.
-President Donald Trump first ran on a campaign to &#8220;make America great again.&#8221; Whether he&#8217;s been successful in doing so (or if America was ever great to begin with) is hotly contested&#8212;but even as the work continues on our home planet, one NASA leader is encouraging Trump to set his sights even further....</description>
-    </item>
-    <item>
-      <title>Double Fine&#8217;s Kiln pops out of the oven and onto PC, Xbox and PS5 on April 23</title>
-      <link>https://www.engadget.com/gaming/xbox/double-fines-kiln-pops-out-of-the-oven-and-onto-pc-xbox-and-ps5-on-april-23-171433966.html?src=rss</link>
-      <pubDate>Wed, 18 Mar 2026 17:14:33 +0000</pubDate>
-      <guid isPermaLink="false">21dea232-5b52-4845-9324-ca6836b46a8d</guid>
-      <description>Double Fine is following up on Keeper &#8212; one of our favorite games of 2025 &#8212; with Kiln, a &#8220;multiplayer online pottery party brawler.&#8221; The game was showcased during Xbox&#8217;s Developer Direct stream in January and now it has a release date. It&#8217;s coming to Xbox Series X/S, Xbox on PC, Xbox Cloud, PlayStation 5 and Steam on April 23. Xbox said Kiln will be Handheld Optimized from the jump.&#160;In Kiln, you'll use a virtual pottery wheel to shape a piece of clay into a vessel and then decorate it. The size and shape will determine how much health you have, the water capacity of your vessel and your speed....</description>
-    </item>
-    <item>
-      <title>Spotify rolls out a huge Wear OS upgrade including new album art and handy tap gestures, giving you &#8216;even more control from your wrist&#8217;</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/spotify-rolls-out-a-huge-wear-os-upgrade-including-new-album-art-and-handy-tap-gestures-giving-you-even-more-control-from-your-wrist</link>
-      <pubDate>Wed, 18 Mar 2026 17:14:15 +0000</pubDate>
-      <guid isPermaLink="false">kXko7nbpkqxPhsLtnSi88J</guid>
-      <description>Spotify's Wear OS upgrade is truly stunning, but its pretty new visuals are just the beginning.</description>
-    </item>
-    <item>
-      <title>10+ Ninja kitchen deals to shop before the Amazon Big Spring Sale</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-ninja-deals-2026</link>
-      <pubDate>Wed, 18 Mar 2026 17:12:05 +0000</pubDate>
-      <guid isPermaLink="false">06a1XFFobBt7ycDeWOCePJb</guid>
-      <description>Take up to 41% off Ninja Kitchen appliances like air fryers, blenders, and countertop ovens before the Amazon Big Spring Sale.</description>
-    </item>
-    <item>
-      <title>Frozen Food Item From Aldi Recalled Over &#8216;Rodent Hair&#8217; Worries</title>
-      <link>https://gizmodo.com/frozen-food-item-from-aldi-recalled-over-rodent-hair-worries-2000735063</link>
-      <pubDate>Wed, 18 Mar 2026 17:10:56 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735063</guid>
-      <description>Check your freezers.</description>
-    </item>
-    <item>
-      <title>Meta is pulling the plug on its VR metaverse and Meta Quest 3 fans don't know how to respond</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-is-pulling-the-plug-on-its-vr-metaverse-and-meta-quest-3-fans-dont-know-how-to-respond</link>
-      <pubDate>Wed, 18 Mar 2026 17:10:55 +0000</pubDate>
-      <guid isPermaLink="false">2BgZhWA4nh5nxHgZicVNtg</guid>
-      <description>Meta&#8217;s VR scale-back is heading into phase two as the company has revealed its timeline for the full closure of its Meta Horizon Worlds metaverse.</description>
     </item>
   </channel>
 </rss>
