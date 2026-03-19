@@ -3,13 +3,92 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 19 Mar 2026 20:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 21:40:38 GMT</lastBuildDate>
     <item>
-      <title>Why enterprises are replacing generic AI with tools that know their users</title>
-      <link>https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users</link>
-      <pubDate>Thu, 19 Mar 2026 21:10:00 GMT</pubDate>
-      <guid isPermaLink="false">7Iy4xl5tE8QBqCgiNueOGr</guid>
-      <description>The future of AI isn&#8217;t just agentic; it&#8217;s deep personalization.&#160;Rather than simple recommender systems that correlate user behavior to identify patterns and apply those to individual workflows, large language models (LLMs) and AI agents can analyze users directly to create deeply personalized experiences.&#160;It&#8217;s this kind of aggressive customization users are increasingly demanding &#8212; and the savviest enterprises who provide it (and soon) will win.&#160;The goal is: &#8220;Don't try to randomize, or guess who I am. I tell you, this is what I care about,&#8221; Lijuan Qin, head of product, at Zoom AI, explains in ...</description>
+      <title>Meta After Killing the Metaverse: &#8216;Just Kidding&#8217;</title>
+      <link>https://gizmodo.com/meta-after-killing-the-metaverse-just-kidding-2000735795</link>
+      <pubDate>Thu, 19 Mar 2026 21:30:57 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735795</guid>
+      <description>There's a reason Meta can't let the metaverse die so easily.</description>
+    </item>
+    <item>
+      <title>Quantum Computers Will Tap Out Before Breaking Encryption, Theory Claims</title>
+      <link>https://gizmodo.com/quantum-computers-will-tap-out-before-breaking-encryption-theory-claims-2000735809</link>
+      <pubDate>Thu, 19 Mar 2026 21:30:56 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735809</guid>
+      <description>A small mathematical revision to quantum mechanics could effectively limit the purported infinite capacities of quantum computers&#8212;if validated, that is.</description>
+    </item>
+    <item>
+      <title>Amazon acquires autonomous robotics startup Rivr</title>
+      <link>https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 21:28:39 +0000</pubDate>
+      <guid isPermaLink="false">c20027d6-7d09-4b53-9bf2-0814bc72d979</guid>
+      <description>Amazon has acquired Rivr, a startup focused on autonomous robotics. Rivr is based in Zurich and was valued at $110 million in a funding round from August 2024, which both Amazon and its CEO's Bezos Expeditions participated in. Financial details of the acquisition were not disclosed.&#160;Rivr's robots have four legs and wheels that allow it to maneuver on stairs and other potentially uneven surfaces. The company just released its second generation of the robot. The purchase will likely further Amazon's capabilities for ever-faster and more efficient package deliveries.&#160;"This acquisition reflects ou...</description>
+    </item>
+    <item>
+      <title>What to Know About &#8216;JoJo&#8217;s Bizarre Adventure&#8217; Before Starting &#8216;Steel Ball Run&#8217;</title>
+      <link>https://gizmodo.com/what-to-know-about-jojos-bizarre-adventure-before-starting-steel-ball-run-2000735563</link>
+      <pubDate>Thu, 19 Mar 2026 21:25:52 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735563</guid>
+      <description>A newcomer&#8217;s guide to the seventh part of 'JoJo's Bizarre Adventure' and an answer to the eternal question of part&#8209;skipping.</description>
+    </item>
+    <item>
+      <title>Sony&#8217;s WF-1000XM6 wireless earbuds are on sale for the first time</title>
+      <link>https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale</link>
+      <pubDate>2026-03-19T17:25:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=897668</guid>
+      <description>Sony&#8217;s WF-1000XM6 are the best noise-canceling wireless earbuds you can buy, but they&#8217;ve been hard to recommend over the last-gen model because of the price. While the older version is often on sale for $248, the update costs $329 &#8212; and has never before been marked down. That&#8217;s why this deal is worth paying attention [&#8230;]</description>
+    </item>
+    <item>
+      <title>Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant</title>
+      <link>https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/</link>
+      <pubDate>Thu, 19 Mar 2026 21:13:50 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3104168</guid>
+      <description>A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.</description>
+    </item>
+    <item>
+      <title>No Nvidia, No AMD, No Intel, No ARM: Meta plans inference-led RISC-y future without friends as 1700w superchip emerges with 30 PFLOPs performance and half Terabyte (yes 512GB) HBM</title>
+      <link>https://www.techradar.com/pro/no-nvidia-no-amd-no-intel-no-arm-meta-plans-inference-led-risc-y-future-without-friends-as-1700w-superchip-emerges-with-30-pflops-performance-and-half-terabyte-yes-512gb-hbm</link>
+      <pubDate>Thu, 19 Mar 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">LNU5HUWwZNa6Ubbzj7r7aD</guid>
+      <description>Meta develops MTIA custom chips and a 1700W superchip to run GenAI inference efficiently without relying on mainstream silicon vendors.</description>
+    </item>
+    <item>
+      <title>Concerns Over Meta&#8217;s Smart Glasses Have Reached the U.S. Senate</title>
+      <link>https://gizmodo.com/concerns-over-metas-smart-glasses-have-reached-the-u-s-senate-2000735746</link>
+      <pubDate>Thu, 19 Mar 2026 21:00:58 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735746</guid>
+      <description>Turns out you're not the only one who thinks adding facial recognition to smart glasses is a bad idea.</description>
+    </item>
+    <item>
+      <title>Test du Roborock F25 Ace Pro : j&#8217;ai pulv&#233;ris&#233; de la mousse sur mon carrelage</title>
+      <link>https://www.frandroid.com/marques/roborock/3026713_test-du-roborock-f25-ace-pro-jai-pulverise-de-la-mousse-sur-mon-carrelage</link>
+      <pubDate>Thu, 19 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/roborock/3026713_test-du-roborock-f25-ace-pro-jai-pulverise-de-la-mousse-sur-mon-carrelage</guid>
+      <description>
+Et voil&#224; un aspirateur-balais laveur 3-en-1, c'est Roborock qui continue &#224; enrichir sa gamme F25... ici, aec le Roborock F25 Ace Pro. On va surtout s'int&#233;resser au fait qu'il&#160;pulv&#233;rise une mousse ultra-dense via sa technologie JetFoaming. En maintenant la g&#226;chette, il m&#233;lange air et solution nettoyante et la projette par la buse frontale pour dissoudre taches et graisses avant aspiration... &#231;a fait r&#234;ver, non ? Testons-&#231;a.
+...</description>
+    </item>
+    <item>
+      <title>This Translator Will Help You Parse Your Boss&#8217;s Mind-Numbing LinkedIn Speak</title>
+      <link>https://gizmodo.com/this-translator-will-help-you-parse-your-bosss-mind-numbing-linkedin-speak-2000735741</link>
+      <pubDate>Thu, 19 Mar 2026 20:55:29 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735741</guid>
+      <description>Turn that corpo gibberish into actionable communication, because someone has to actually run this place.</description>
+    </item>
+    <item>
+      <title>Meta Is Building an Encrypted Chatbot After AI Agents Went Rogue and Expose Sensitive Data</title>
+      <link>https://gizmodo.com/meta-is-building-an-encrypted-chatbot-after-ai-agents-went-rogue-and-expose-sensitive-data-2000735696</link>
+      <pubDate>Thu, 19 Mar 2026 20:45:07 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735696</guid>
+      <description>Late is better than never.</description>
+    </item>
+    <item>
+      <title>DoorDash will start paying gig workers for creating content to train AI models</title>
+      <link>https://www.engadget.com/ai/doordash-will-start-paying-gig-workers-for-creating-content-to-train-ai-models-204048743.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 20:40:48 +0000</pubDate>
+      <guid isPermaLink="false">5ba13c12-fbe6-4d18-b956-7c72741b4f82</guid>
+      <description>DoorDash has launched a new option for its gig economy workers to earn some extra cash. The delivery service introduced Tasks, which it describes as "short activities Dashers can complete between deliveries or in their own time." It gives taking pictures of restaurant dishes or recording video of unscripted conversations in languages other than English as examples. These materials will be used to train artificial intelligence and robotics models.&#160;A representative from DoorDash told Bloomberg News that it will use Tasks content for evaluating its in-house AI models as well as those made by its ...</description>
     </item>
     <item>
       <title>Google is reportedly testing a Gemini app for Mac</title>
@@ -19,11 +98,12 @@
       <description>Google is testing a version of its Gemini app for macOS, Bloomberg reports. The app would bring the AI assistant to uncharted territory, and in more direct competition with OpenAI's ChatGPT and Anthropic's Claude, both of which offer standalone Mac apps.Gemini remains accessible through the web, and it sounds like the macOS app offers the same set of features, with the ability to respond to prompts, search the web and generate text, images and code. The major differentiator of the Mac app could be a feature called "Desktop Intelligence," which gives Gemini a new source of information and conte...</description>
     </item>
     <item>
-      <title>Cursor&#8217;s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4</title>
-      <link>https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but</link>
-      <pubDate>Thu, 19 Mar 2026 20:31:00 GMT</pubDate>
-      <guid isPermaLink="false">3LecP0Nstf70ThJ8MHWqZZ</guid>
-      <description>Cursor, a San Francisco AI coding platform from startup Anysphere valued at $29.3 billion, has launched Composer 2, a new in-house coding model now available inside its agentic AI coding environment, and it offers drastically improved benchmarks from its prior in-house model.It's also launching and making Composer 2 Fast, a higher-priced but faster variant, the default experience for users.Here's the cost breakdown:Composer 2 Standard: $0.50/$2.50  per 1 million input/output tokens Composer 2 Fast: at $1.50/$7.50 per 1 million input/output tokensThat's a big drop from Cursor's predecessor in-h...</description>
+      <title>Washington state has no income tax. It just passed one for millionaires that could be a model for other states</title>
+      <link>https://www.fastcompany.com/91512154/washington-state-has-no-income-tax-it-just-passed-one-for-millionaires-that-could-be-a-model-for-other-states</link>
+      <pubDate>2026-03-19T20:35:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91512154/washington-state-has-no-income-tax-it-just-passed-one-for-millionaires-that-could-be-a-model-for-other-states</guid>
+      <description>The bill would tax earnings over $1 million at 9.9%, which could raise billions annually. Expect a big fight from the &#8220;wealth defense industry.&#8221;
+People who live and work in Washington state don&#8217;t currently pay any income tax. But in a few years, a small group of residents will be subject to one: Washington lawmakers recently passed a bill that would impose a 9.9% tax on income earned above $1 million, which goes into effect on January 1, 2028....</description>
     </item>
     <item>
       <title>Amazon's preview Spring Sale is slashing up to 45% off some of my favorite robot vacuums &#8212; these are the 7 best deals</title>
@@ -102,132 +182,6 @@
       <guid isPermaLink="false">https://www.fastcompany.com/91510495/ai-is-rewriting-business-in-real-time-and-most-leaders-arent-ready</guid>
       <description>Speaking with Fast Company at SXSW, experts share how business leaders can be more agile in the face of technological disruption.
 With AI capabilities doubling in a matter of months, agility is no longer a competitive advantage for business leaders&#8212;it&#8217;s now become a survival skill.</description>
-    </item>
-    <item>
-      <title>Another win for Intel as GMKTec demos Openclaw-capable mini PC that reaches 180 TOPS, supports 10GbE Ethernet, USB4, and OCuLink &#8212; oh, and there's a nifty pseudo-memory feature as well that will help you forget RAM nightmares</title>
-      <link>https://www.techradar.com/pro/another-win-for-intel-as-gmktec-demos-openclaw-capable-mini-pc-that-reaches-180-tops-supports-10gbe-ethernet-usb4-and-oculink-oh-and-theres-a-nifty-pseudo-memory-feature-as-well-that-will-help-you-forget-ram-nightmares</link>
-      <pubDate>Thu, 19 Mar 2026 19:40:00 +0000</pubDate>
-      <guid isPermaLink="false">mPqyYXYZrt3oL73Gb2w8Af</guid>
-      <description>GMKtec introduces EVO-T2 mini PC with 180 TOPS performance, fast PCIe storage, and SSD-assisted memory to handle large AI models locally.</description>
-    </item>
-    <item>
-      <title>Higher Oil Prices From Trump&#8217;s Iran War Risk Killing the AI Boom, WTO Says</title>
-      <link>https://gizmodo.com/higher-oil-prices-from-trumps-iran-war-risk-killing-the-ai-boom-wto-says-2000735678</link>
-      <pubDate>Thu, 19 Mar 2026 19:30:17 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735678</guid>
-      <description>President Deals seems to be setting the global economy on fire.</description>
-    </item>
-    <item>
-      <title>Are you seeing viral &#8216;hacks&#8217; for skipping long TSA airport security lines? Here&#8217;s what works&#8212;and what doesn&#8217;t</title>
-      <link>https://www.fastcompany.com/91512195/viral-hacks-for-beating-long-tsa-wait-times-airport-security-lines-what-works-and-what-doesnt-precheck-touchless-id</link>
-      <pubDate>2026-03-19T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512195/viral-hacks-for-beating-long-tsa-wait-times-airport-security-lines-what-works-and-what-doesnt-precheck-touchless-id</guid>
-      <description>Frustrated passengers are taking to social media as wait times spike amid staffing shortages. Here are some tips and tricks for getting through the chaos.
-Some frustrated passengers are waiting hours in line at airports around the country, due to a stalemate over Department of Homeland Security funding, which has resulted in many TSA officers working without pay to walk off the job....</description>
-    </item>
-    <item>
-      <title>&#8216;The Wheel of Time&#8217; Might Return to TV as an Animated Show</title>
-      <link>https://gizmodo.com/wheel-of-time-animated-series-2000735751</link>
-      <pubDate>Thu, 19 Mar 2026 19:28:20 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735751</guid>
-      <description>Prime Video's live-action series is no more, but Robert Jordan's fantasy books could live on in other media.</description>
-    </item>
-    <item>
-      <title>Apple vous demande de mettre &#224; jour votre iPhone imm&#233;diatement&#160;: voici pourquoi c&#8217;est important</title>
-      <link>https://www.01net.com/actualites/pourquoi-apple-vous-demande-de-mettre-a-jour-votre-iphone-immediatement.html</link>
-      <pubDate>Thu, 19 Mar 2026 19:24:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1333405</guid>
-      <description>L'alerte est inhabituelle, il faut donc la prendre tr&#232;s au s&#233;rieux : Apple demande aux utilisateurs d'iPhone fonctionnant sous des versions obsol&#232;tes d'iOS de mettre &#224; jour les appareils s&#233;ance tenante. Des pirates pourraient s'en prendre &#224; leurs donn&#233;es.</description>
-    </item>
-    <item>
-      <title>Historique, c&#8217;est notre premier 10/10 : test en vid&#233;o du Samsung Galaxy Book 6 Ultra</title>
-      <link>https://www.frandroid.com/video/3033389_test-en-video-du-samsung-galaxy-book-6-ultra-notre-premier-10-10</link>
-      <pubDate>Thu, 19 Mar 2026 19:13:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/video/3033389_test-en-video-du-samsung-galaxy-book-6-ultra-notre-premier-10-10</guid>
-      <description>
-Nous avons test&#233; le Samsung Galaxy Book 6 Ultra, le tout premier produit &#224; obtenir la note maximale au sein de notre r&#233;daction. Dans notre vid&#233;o, d&#233;couvrez comment cet ordinateur portable parvient &#224; concilier un format d'ultrabook avec des composants internes de pointe.
-</description>
-    </item>
-    <item>
-      <title>Gold and silver prices are tumbling again today: What&#8217;s happening with safe-haven assets?</title>
-      <link>https://www.fastcompany.com/91512162/gold-silver-prices-going-down-today-why-falling-safe-haven-assets</link>
-      <pubDate>2026-03-19T19:10:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512162/gold-silver-prices-going-down-today-why-falling-safe-haven-assets</guid>
-      <description>While investors tend to flock to precious metals during geopolitical conflicts like the Iran war, other factors are inserting themselves this week.
-Gold and silver prices are plunging again. </description>
-    </item>
-    <item>
-      <title>Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says</title>
-      <link>https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/</link>
-      <pubDate>Thu, 19 Mar 2026 19:09:02 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3104097</guid>
-      <description>AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.</description>
-    </item>
-    <item>
-      <title>Herm&#232;s doesn&#8217;t include a power adapter with its $5,150 charging case</title>
-      <link>https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury</link>
-      <pubDate>2026-03-19T15:08:03-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897474</guid>
-      <description>Over a decade after Apple first partnered with Herm&#232;s for a special Apple Watch collaboration, the French luxury goods maker has released a new collection of leather-wrapped charging accessories for Apple's mobile devices. The most expensive option is a multi-device wireless charger in a case made from the brand's signature gold-colored calfskin leather that will [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Bluesky announces $100M Series B after CEO transition</title>
-      <link>https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/</link>
-      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103986</guid>
-      <description>The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it.</description>
-    </item>
-    <item>
-      <title>iPhone Air at 6 months &#8212; here&#8217;s what I love, what I hate, and why it&#8217;s &#8216;the most conflicted I&#8217;ve ever been about a phone&#8217;</title>
-      <link>https://www.techradar.com/phones/iphone/iphone-air-at-6-months-heres-what-i-love-what-i-hate-and-why-its-the-most-conflicted-ive-ever-been-about-a-phone</link>
-      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">UP8So6HPeYcNWB2DPJoqZb</guid>
-      <description>Apple's iPhone Air has been out for six months &#8212; here's everything I've come to love and hate about the device in that time.</description>
-    </item>
-    <item>
-      <title>Apple TV fans will get a great free upgrade for discovering movies and TV shows soon, but there's a catch</title>
-      <link>https://www.techradar.com/streaming/apple-tv-plus/apple-tv-fans-will-get-a-great-free-upgrade-for-discovering-movies-and-tv-shows-soon-but-theres-a-catch</link>
-      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">AVArczusTJqsyf35PxntAC</guid>
-      <description>Apple TV is changing the way it recommends movies and shows to you &#8212; say hello to 'Genius Browse'.</description>
-    </item>
-    <item>
-      <title>Sprite&#8217;s brand refresh is juicy, crispy, and ready to drink</title>
-      <link>https://www.fastcompany.com/91510415/sprite-rebrand-lymon</link>
-      <pubDate>2026-03-19T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91510415/sprite-rebrand-lymon</guid>
-      <description>The iconic &#8216;Lymon&#8217; is back.
-If you&#8217;ve ever cracked open an ice-cold Sprite on a hot summer day, or taken a sip of the soda fresh from a McDonald&#8217;s machine, you&#8217;ve probably experienced that eye-widening first moment that the extra-fizzy, citrusy beverage hits your tongue. </description>
-    </item>
-    <item>
-      <title>FDA approves higher-dose version of Wegovy shots</title>
-      <link>https://www.fastcompany.com/91512351/wegovy-weight-loss-high-dose-novo-nordisk</link>
-      <pubDate>2026-03-19T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512351/wegovy-weight-loss-high-dose-novo-nordisk</guid>
-      <description>Called Wegovy HD, the higher-dose drug helped participants in a study lose about 19% of their body weight.
-Federal regulators on Thursday approved a new higher-dose version of the&#160;blockbuster obesity drug Wegovy&#160;that may help users lose more weight and keep it off.</description>
-    </item>
-    <item>
-      <title>How to watch Cagliari vs. Napoli online for free</title>
-      <link>https://mashable.com/article/cagliari-napoli-serie-a-2026-live-stream-for-free</link>
-      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">008trEecxCO5AJH7BTXXS2F</guid>
-      <description>How to watch Serie A for free. Watch Cagliari vs. Napoli in Serie A for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>Android will hide some app sideloading behind a new one-time security process</title>
-      <link>https://www.engadget.com/apps/android-will-hide-app-sideloading-behind-a-new-one-time-security-process-184651171.html?src=rss</link>
-      <pubDate>Thu, 19 Mar 2026 18:46:51 +0000</pubDate>
-      <guid isPermaLink="false">c7dfe805-016a-4b82-9a56-566bcb2f306f</guid>
-      <description>Google has detailed how users will be able to sideload apps from unverified developers once it implements its more restrictive policy towards downloading software on Android. The company originally planned to require all developers to be "verified" to distribute on Android, but softened its stance in November 2025 to allow carveouts for Android power-users and hobbyist developers.
-For the average Android users, the ability to sideload apps will now be locked behind a multi-step one-time process. Users will first have to enable developer mode in settings, confirm they're not being coached into ...</description>
-    </item>
-    <item>
-      <title>Installer des apps Android en dehors du Play Store va devenir beaucoup plus long et compliqu&#233;</title>
-      <link>https://www.01net.com/actualites/installer-des-apps-android-en-dehors-du-play-store-va-devenir-beaucoup-plus-long-et-complique.html</link>
-      <pubDate>Thu, 19 Mar 2026 18:43:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1333400</guid>
-      <description>La grande diff&#233;rence entre Android et iOS, c'est que le premier permet depuis toujours d'installer des applications en dehors de la boutique officielle. Une souplesse qui se paie par des probl&#232;mes de s&#233;curit&#233;. Google n'a cess&#233; de poser des barri&#232;res aux utilisateurs d&#233;sirant marcher en dehors des clous, mais le nouveau dispositif se montre particuli&#232;rement contraignant....</description>
     </item>
   </channel>
 </rss>
