@@ -3,407 +3,296 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 19 Mar 2026 17:07:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 19:04:46 GMT</lastBuildDate>
+    <item>
+      <title>Meta's rogue AI agent passed every identity check &#8212; four gaps in enterprise IAM explain why</title>
+      <link>https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix</link>
+      <pubDate>Thu, 19 Mar 2026 19:20:00 GMT</pubDate>
+      <guid isPermaLink="false">1PcB4xi2BSP2007A4vQfca</guid>
+      <description>A rogue AI agent at Meta took action without approval and exposed sensitive company and user data to employees who were not authorized to access it. Meta confirmed the incident to The Information on March 18 but said no user data was ultimately mishandled. The exposure still triggered a major security alert internally.The available evidence suggests the failure occurred after authentication, not during it. The agent held valid credentials, operated inside authorized boundaries, passing every identity check.Summer Yue, director of alignment at Meta Superintelligence Labs, described a different ...</description>
+    </item>
+    <item>
+      <title>Bluesky announces $100M Series B after CEO transition</title>
+      <link>https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/</link>
+      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3103986</guid>
+      <description>Bluesky's Series B closed last April but is being shared now, the week after its CEO stepped down.</description>
+    </item>
+    <item>
+      <title>Apple TV fans will get a great free upgrade for discovering movies and TV shows soon, but there's a catch</title>
+      <link>https://www.techradar.com/streaming/apple-tv-plus/apple-tv-fans-will-get-a-great-free-upgrade-for-discovering-movies-and-tv-shows-soon-but-theres-a-catch</link>
+      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">AVArczusTJqsyf35PxntAC</guid>
+      <description>Apple TV is changing the way it recommends movies and shows to you &#8212; say hello to 'Genius Browse'.</description>
+    </item>
+    <item>
+      <title>iPhone Air at 6 months &#8212; here&#8217;s what I love, what I hate, and why it&#8217;s &#8216;the most conflicted I&#8217;ve ever been about a phone&#8217;</title>
+      <link>https://www.techradar.com/phones/iphone/iphone-air-at-6-months-heres-what-i-love-what-i-hate-and-why-its-the-most-conflicted-ive-ever-been-about-a-phone</link>
+      <pubDate>Thu, 19 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">UP8So6HPeYcNWB2DPJoqZb</guid>
+      <description>Apple's iPhone Air has been out for six months &#8212; here's everything I've come to love and hate about the device in that time.</description>
+    </item>
+    <item>
+      <title>Android will hide app sideloading behind a new one-time security process</title>
+      <link>https://www.engadget.com/apps/android-will-hide-app-sideloading-behind-a-new-one-time-security-process-184651171.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 18:46:51 +0000</pubDate>
+      <guid isPermaLink="false">c7dfe805-016a-4b82-9a56-566bcb2f306f</guid>
+      <description>Google has detailed how users will be able to sideload apps from unverified developers once it implements its more restrictive policy towards downloading software on Android. The company originally planned to require all developers to be "verified" to distribute on Android, but softened its stance in November 2025 to allow carveouts for Android power-users and hobbyist developers.For the average Android users, the ability to sideload apps will now be locked behind a multi-step one-time process. Users will first have to enable developer mode in settings, confirm they're not being coached into d...</description>
+    </item>
+    <item>
+      <title>Installer des apps Android en dehors du Play Store va devenir beaucoup plus long et compliqu&#233;</title>
+      <link>https://www.01net.com/actualites/installer-des-apps-android-en-dehors-du-play-store-va-devenir-beaucoup-plus-long-et-complique.html</link>
+      <pubDate>Thu, 19 Mar 2026 18:43:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1333400</guid>
+      <description>La grande diff&#233;rence entre Android et iOS, c'est que le premier permet depuis toujours d'installer des applications en dehors de la boutique officielle. Une souplesse qui se paie par des probl&#232;mes de s&#233;curit&#233;. Google n'a cess&#233; de poser des barri&#232;res aux utilisateurs d&#233;sirant marcher en dehors des clous, mais le nouveau dispositif se montre particuli&#232;rement contraignant....</description>
+    </item>
+    <item>
+      <title>The Steam Spring Sale is here with discounts on Arc Raiders, Hades 2 and much more</title>
+      <link>https://www.engadget.com/gaming/the-steam-spring-sale-is-here-with-discounts-on-arc-raiders-hades-2-and-much-more-184000691.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 18:40:00 +0000</pubDate>
+      <guid isPermaLink="false">6064a3ee-bf38-4580-9555-aaa80fac5ab4</guid>
+      <description>The Steam Spring Sale is underway and as usual, there's plenty of good stuff to add to your library. The seasonal discounts will run through Thursday, March 26 at 1PM ET. If there's anything you've been waiting to buy, it's worth checking to see if it's on sale now, because huge chunks of the Steam catalog are at least a little bit off.&#160;Recent releases don't usually receive big price cuts during Steam sales, but you can save at least a couple bucks on several 2025 hits this time. The excellent Arc Raiders is $32, Doom: The Dark Ages is about $23 and Battlefield 6 is $42. Silent Hill f is half ...</description>
+    </item>
+    <item>
+      <title>Mini PC vendors jump on the OpenClaw bandwagon as Minisforum&#8217;s M2 Pro arrives with Intel&#8217;s Core Ultra X9 388H CPU and 96GB of RAM &#8212; but it won&#8217;t be cheap</title>
+      <link>https://www.techradar.com/pro/mini-pc-vendors-jumping-on-the-open-claw-bandwagon-with-minisforums-m2-pro-the-latest-to-offer-intels-core-ultra-x9-388h-cpu-with-96gb-of-ram-but-it-wont-be-cheap</link>
+      <pubDate>Thu, 19 Mar 2026 18:35:00 +0000</pubDate>
+      <guid isPermaLink="false">2nwSLoGJmcL7sa2CcmGKCX</guid>
+      <description>Minisforum M2 Pro offers powerful local AI processing with hybrid mode, balancing privacy, cloud use, and addressing concerns over OpenClaw vulnerabilities.</description>
+    </item>
+    <item>
+      <title>Python Blood Could Kickstart the Next Big Thing in Weight Loss</title>
+      <link>https://gizmodo.com/python-blood-could-kickstart-the-next-big-thing-in-weight-loss-2000735667</link>
+      <pubDate>Thu, 19 Mar 2026 18:30:31 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735667</guid>
+      <description>Researchers have found a metabolite in Burmese pythons that suppresses appetite in mice without some of GLP-1's side effects. And humans make it, too.</description>
+    </item>
+    <item>
+      <title>Meta will move away from human content moderators in favor of  more AI</title>
+      <link>https://www.engadget.com/social-media/meta-will-move-away-from-human-content-moderators-in-favor-of-more-ai-183000435.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">79968708-d997-414c-a9c2-5e49f2973b75</guid>
+      <description>A little more than a year after ditching third-party fact checkers and rolling back much of its proactive content moderation, the company says it will further "transform" its approach by drastically reducing the number of human moderators in favor of AI-based systems. The company says the change will happen "over the next few years," and will allow the company to catch more issues faster than its current approach.&#160;Meta didn't say how much of its contract workforce might be cut as it makes this transition. The company employs thousands of contractors around the world to review content flagged b...</description>
+    </item>
+    <item>
+      <title>Figma takes a hit as Google doubles down on &#8216;vibe design&#8217;</title>
+      <link>https://www.fastcompany.com/91512139/google-doubles-down-on-vibe-design</link>
+      <pubDate>2026-03-19T18:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91512139/google-doubles-down-on-vibe-design</guid>
+      <description>Google Labs announced new features for its vibe design tool Stitch, as competition in the interface design tool space grows.
+This week, Google announced new features for its AI-powered interface tool Stitch&#8212;in the process, it signaled that it&#8217;s going all-in on &#8220;vibe design.&#8221;</description>
+    </item>
+    <item>
+      <title>Geothermal startup Fervo catapults itself over the &#8216;valley of death&#8217;</title>
+      <link>https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/</link>
+      <pubDate>Thu, 19 Mar 2026 18:26:26 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3104104</guid>
+      <description>Fervo landed a large new loan with terms that strongly suggest the company's most turbulent days are behind it.</description>
+    </item>
+    <item>
+      <title>Revisiting &#8216;The Other&#8217;, the Comics Story That May Unlock the Secrets to &#8216;Spider-Man: Brand New Day&#8217;</title>
+      <link>https://gizmodo.com/spider-man-brand-new-day-the-other-explained-marvel-comics-2000735377</link>
+      <pubDate>Thu, 19 Mar 2026 18:25:24 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735377</guid>
+      <description>This week's first look at the new Spider-Man movie drops a lot of hints that it's taking some influences from a time of change for Peter Parker in the comics.</description>
+    </item>
+    <item>
+      <title>Don&#8217;t be surprised that the FBI is buying your location data</title>
+      <link>https://www.engadget.com/cybersecurity/dont-be-surprised-that-the-fbi-is-buying-your-location-data-182047627.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 18:20:47 +0000</pubDate>
+      <guid isPermaLink="false">0d685d0d-754e-44c3-89c1-d184d7e765ab</guid>
+      <description>The FBI has confirmed to the Senate it is once again buying data which can be used to track the locations of US citizens. That may have surprised the people who thought the precedent in Carpenter v. United States prohibited it. But while that case examined if it was legal for law enforcement to obtain location data from mobile networks without a warrant, here the FBI and other agencies have found a way to skirt the Fourth Amendment entirely. Over the last few years, they have taken to just buying location data from the same companies which power the enormous online advertising ecosystem.
+Where...</description>
+    </item>
+    <item>
+      <title>A rogue AI led to a serious security incident at Meta</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident</link>
+      <pubDate>2026-03-19T14:20:05-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=897528</guid>
+      <description>For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that "no user data was mishandled" during the incident. A [&#8230;]</description>
+    </item>
+    <item>
+      <title>Microsoft&#8217;s go-to Xbox controller is selling at its best price of the year</title>
+      <link>https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal</link>
+      <pubDate>2026-03-19T14:16:33-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=897334</guid>
+      <description>Microsoft&#8217;s Xbox console strategy needs work, but its Bluetooth-ready controller that shipped alongside the Xbox Series X and Series S is fantastic. We think it&#8217;s one of the best Xbox controllers out there, thanks to its comfortable design, multiplatform compatibility (it works great on the Steam Deck and PC, too), and its textured grips and [&#8230;]</description>
+    </item>
+    <item>
+      <title>This is the most overlooked hour in a solopreneur&#8217;s week</title>
+      <link>https://www.fastcompany.com/91507035/this-is-the-most-overlooked-hour-in-a-solopreneurs-week</link>
+      <pubDate>2026-03-19T18:11:05</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91507035/this-is-the-most-overlooked-hour-in-a-solopreneurs-week</guid>
+      <description>Why we need dedicated time for admin work.
+I&#8217;m obsessive about my to-do lists. Everything I need to get done goes on my list so I don&#8217;t lose sight of it.</description>
+    </item>
+    <item>
+      <title>FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show</title>
+      <link>https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/</link>
+      <pubDate>Thu, 19 Mar 2026 18:10:54 +0000</pubDate>
+      <guid isPermaLink="false">69babb98a0aeef8ebeecdff5</guid>
+      <description>Last year, as FCC chair Brendan Carr threatened ABC over a Jimmy Kimmel monolog, a civil servant overseeing West Coast stations privately pledged support, according to emails obtained by WIRED.</description>
+    </item>
+    <item>
+      <title>New Research Challenges One of Archaeology&#8217;s Most Important Discoveries</title>
+      <link>https://gizmodo.com/new-research-challenges-one-of-archaeologys-most-important-discoveries-2000735599</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:14 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000735599</guid>
+      <description>Monte Verde, the 'oldest site in the Americas,' may not be as old as believed.</description>
+    </item>
+    <item>
+      <title>Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze</title>
+      <link>https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69bbfe9b32d17161ad16193a</guid>
+      <description>As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.</description>
+    </item>
+    <item>
+      <title>Google signs data center deal which includes a 20-year commitment to add new clean power</title>
+      <link>https://www.techradar.com/pro/googles-signs-data-center-deal-that-comes-with-a-20-year-commitment-to-add-new-clean-power</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Taqzg4KULX2ytuLxbsmbTN</guid>
+      <description>Google's prospective Michigan-based data center could give the Detroit area access to clean energy.</description>
+    </item>
+    <item>
+      <title>All the wrong EVs are getting canceled</title>
+      <link>https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled</link>
+      <pubDate>2026-03-19T13:44:12-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=897399</guid>
+      <description>These past few weeks have been particularly brutal for the EV industry - and anyone who believes that electric vehicles are the future. Thanks to slowing demand and policy whiplashes, automakers are on an EV murder spree, killing a host of promising new models. The EV graveyard grows bigger by the minute. And unfortunately, as [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Original AirPods Max Are $100 Off</title>
+      <link>https://www.wired.com/story/airpods-max-deal-326/</link>
+      <pubDate>Thu, 19 Mar 2026 17:36:55 +0000</pubDate>
+      <guid isPermaLink="false">69bc24c315c68719e69389b0</guid>
+      <description>Save big on Apple&#8217;s previous-generation premium over-ear headset.</description>
+    </item>
+    <item>
+      <title>Feeling the heat? I tried the Shark ChillPill &#8212; a portable fan with misting spray for instant relief &#8212; and I'm not going anywhere without it this summer</title>
+      <link>https://www.techradar.com/home/air-quality/feeling-the-heat-i-tried-the-shark-chillpill-a-portable-fan-with-misting-spray-for-instant-relief-and-im-not-going-anywhere-without-it-this-summer</link>
+      <pubDate>Thu, 19 Mar 2026 17:34:05 +0000</pubDate>
+      <guid isPermaLink="false">Awu8eFeu79CAhgjs5RQWVZ</guid>
+      <description>The ChillPill is small enough to keep in your bag, and has three different cooling attachments for instant relief from summer stickiness.</description>
+    </item>
+    <item>
+      <title>Meta Will Keep Horizon Worlds Alive in VR &#8216;for the Foreseeable Future&#8217;</title>
+      <link>https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/</link>
+      <pubDate>Thu, 19 Mar 2026 17:33:56 +0000</pubDate>
+      <guid isPermaLink="false">69bc2277ed181388f67ad281</guid>
+      <description>A day after saying it would shut down its metaverse, Meta CTO Andrew Bosworth announced the service will remain available in VR&#8212;with limited support.</description>
+    </item>
+    <item>
+      <title>&#8216;I&#8217;m not political&#8217;: Tim Cook says his 24-karat gift to Trump wasn&#8217;t a political statement, but that Apple is a &#8216;proud American company&#8217;</title>
+      <link>https://www.techradar.com/phones/iphone/im-not-political-tim-cook-says-his-24-karat-gift-to-trump-wasnt-a-political-statement-but-that-apple-is-a-proud-american-company</link>
+      <pubDate>Thu, 19 Mar 2026 17:30:16 +0000</pubDate>
+      <guid isPermaLink="false">Wq5ZhmGsG9dbLyrYbfe3Em</guid>
+      <description>Apple CEO Tim Cook set the record straight on his relationship with the Trump administration &#8212; and put to rest questions about his future at the company.</description>
+    </item>
+    <item>
+      <title>Happiness ranking 2026: What unhappy people have in common as English-speaking countries are shut out of the top 10</title>
+      <link>https://www.fastcompany.com/91512150/happiness-2026-world-report-ranking-countries-what-unhappy-people-have-in-common-united-states-social-media</link>
+      <pubDate>2026-03-19T17:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91512150/happiness-2026-world-report-ranking-countries-what-unhappy-people-have-in-common-united-states-social-media</guid>
+      <description>The annual World Happiness Report analyzes every nation&#8217;s life satisfaction. Why is the United States so far down?
+Happiness may be hard to quantify, but for the data-obsessed, the World Happiness Report is as close as you can get.</description>
+    </item>
+    <item>
+      <title>&#8216;Ready or Not 2&#8217; Offers Gory Fun But Doesn&#8217;t Quite Level Up</title>
+      <link>https://gizmodo.com/ready-or-not-2-offers-gory-fun-but-doesnt-quite-level-up-2000734653</link>
+      <pubDate>Thu, 19 Mar 2026 17:25:11 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000734653</guid>
+      <description>Samara Weaving gets hunted by a whole new set of creepy elites in Matt Bettinelli-Olpin and Tyler Gillett&#8217;s &#8216;Ready or Not 2: Here I Come.&#8217;</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy S24 FE, Shokz OpenFit 2 Plus et forfait NRJ Mobile&#160;: les 3 meilleurs bons plans Tech du jeudi 19 mars&#160;2026</title>
+      <link>https://www.frandroid.com/bons-plans/3033367_samsung-galaxy-s24-fe-shokz-openfit-2-plus-et-forfait-nrj-mobile-les-3-meilleurs-bons-plans-tech-du-jeudi-19-mars-2026</link>
+      <pubDate>Thu, 19 Mar 2026 17:25:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3033367_samsung-galaxy-s24-fe-shokz-openfit-2-plus-et-forfait-nrj-mobile-les-3-meilleurs-bons-plans-tech-du-jeudi-19-mars-2026</guid>
+      <description>
+Chaque jour, Frandroid scrute le web &#224; la recherche des meilleures r&#233;ductions sur les produits high-tech. 
+</description>
+    </item>
+    <item>
+      <title>Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors</title>
+      <link>https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/</link>
+      <pubDate>Thu, 19 Mar 2026 17:24:13 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3104051</guid>
+      <description>Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.</description>
+    </item>
+    <item>
+      <title>HBO Max renews Neighbors for season 2 &#8212; and I can't wait to watch more of the 'hilariously absurd' documentary</title>
+      <link>https://www.techradar.com/streaming/hbo-max/hbo-max-renews-neighbors-for-season-2-and-i-cant-wait-to-watch-more-of-the-hilariously-absurd-documentary</link>
+      <pubDate>Thu, 19 Mar 2026 17:23:09 +0000</pubDate>
+      <guid isPermaLink="false">H5Uh54bEeqCbvvTUCMbWaQ</guid>
+      <description>Neighbors is a very binge worthy documentary series, and it's just been confirmed that we're getting even more.</description>
+    </item>
+    <item>
+      <title>The complete Stranger Things DVD set includes 25 discs and costs around $200</title>
+      <link>https://www.engadget.com/entertainment/the-complete-stranger-things-dvd-set-includes-25-discs-and-costs-around-200-172222577.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 17:22:22 +0000</pubDate>
+      <guid isPermaLink="false">2f659189-dffa-4227-8ac2-e7205e4d109e</guid>
+      <description>Stranger Things fans will soon have permanent access to the Upside Down, as a full DVD set is now available to preorder. Stranger Things: The Complete Series comes in Blu-Ray and 4K UHD editions.
+This collection includes all five seasons of the hit show, which totals 25 discs. It'll be available at brick-and-mortar and online retailers beginning on July 28. Prices range from $200 to $260, depending on the media type and edition.
+Return to Hawkins this July with STRANGER THINGS: THE COMPLETE SERIES, available in Special and Deluxe Editions on Blu-ray and 4K UHD.  Pre-order in the US via Arrow: ...</description>
+    </item>
+    <item>
+      <title>Macy&#8217;s store closures update: Doomed locations will shutter over a longer timeline than previously planned</title>
+      <link>https://www.fastcompany.com/91512000/macys-stores-closing-doomed-locations-list-extended-timeline</link>
+      <pubDate>2026-03-19T17:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91512000/macys-stores-closing-doomed-locations-list-extended-timeline</guid>
+      <description>The retailer&#8217;s ongoing plan to close roughly 150 stores will now continue through 2028. &#8216;We can be flexible,&#8217; CFO Tom Edwards said this week.
+Your local Macy&#8217;s might not be closing its doors as soon as previously expected.&#160;</description>
+    </item>
+    <item>
+      <title>Meta&#8217;s latest smart glasses feature would have been perfect at the Winter Olympics &#8212; but I&#8217;m frustrated it can&#8217;t be used by everyone</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/metas-latest-smart-glasses-feature-would-have-been-perfect-at-the-winter-olympics-but-im-frustrated-it-cant-be-used-by-everyone</link>
+      <pubDate>Thu, 19 Mar 2026 17:15:04 +0000</pubDate>
+      <guid isPermaLink="false">CUBgfMGimsERWgS3ZCQrtm</guid>
+      <description>Meta&#8217;s smart glasses are getting their v23 update right now &#8212; and the standout upgrade would have been perfect for the Winter Olympics.</description>
+    </item>
+    <item>
+      <title>Ubisoft continues with its cost-cutting program as it cuts 100+ jobs and ends game development at its Tom Clancy studio Red Storm Entertainment</title>
+      <link>https://www.techradar.com/gaming/gaming-industry/ubisoft-continues-with-its-cost-cutting-program-as-it-cuts-100-jobs-and-ends-game-development-at-its-tom-clancy-studio-red-storm-entertainment</link>
+      <pubDate>Thu, 19 Mar 2026 17:13:38 +0000</pubDate>
+      <guid isPermaLink="false">cVqyVy3Qf85rxZJzTXzoUk</guid>
+      <description>Ubisoft has reportedly ended game development at its Tom Clancy studio, Red Storm Entertainment, and laid off more than 100 staff members.</description>
+    </item>
+    <item>
+      <title>Problems with your Android VPN? Proton VPN warns it's Google's fault</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/problems-with-your-android-vpn-proton-vpn-warns-its-googles-fault</link>
+      <pubDate>Thu, 19 Mar 2026 17:11:38 +0000</pubDate>
+      <guid isPermaLink="false">YUwGakj9ndD9U8xqRzU3u6</guid>
+      <description>If your Android VPN suddenly stopped working, you're not alone. Proton VPN has called out Google over a seven-month-old Android 16 bug that breaks internet connections after an app update, leaving users exposed and frustrated.</description>
+    </item>
+    <item>
+      <title>Ubisoft ends development at Tom Clancy studio Red Storm</title>
+      <link>https://www.engadget.com/gaming/ubisoft-ends-development-at-tom-clancy-studio-red-storm-170847892.html?src=rss</link>
+      <pubDate>Thu, 19 Mar 2026 17:08:48 +0000</pubDate>
+      <guid isPermaLink="false">11657294-3a2e-4006-bed1-452d00268521</guid>
+      <description>Ubisoft is ceasing game development at its studio, Red Storm Entertainment, best known for its work on the Tom Clancy&#8217;s series. While the studio is set to remain open, 105 people will be laid off, a Ubisoft source told GamesIndustry.biz.
+Those who survive the cull will reportedly continue to work on the Snowdrop engine, used in many of Ubisoft&#8217;s tentpole games over the last decade, including Star Wars Outlaws&#160;and Avatar: Frontiers of Pandora more recently. Red Storm had been working on an untitled Splinter Cell VR game that was canceled in 2022, as well as the also-canceled The Division Heartl...</description>
+    </item>
+    <item>
+      <title>I saw Loewe's new small 4K TVs with high-end image quality and sound, and they look very tempting for cineasts in a small space</title>
+      <link>https://www.techradar.com/televisions/i-saw-loewes-new-small-4k-tvs-with-high-end-image-quality-and-sound-and-they-look-very-tempting-for-cineasts-in-a-small-space</link>
+      <pubDate>Thu, 19 Mar 2026 17:08:26 +0000</pubDate>
+      <guid isPermaLink="false">Hh7BXXXmre5A7AhyPj3KFY</guid>
+      <description>Small and mighty when it comes to both sound and pictures</description>
+    </item>
+    <item>
+      <title>The best laptop deals live ahead of Amazons Big Spring Sale: Its a MacBook show so far</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-laptop-deals-2026</link>
+      <pubDate>Thu, 19 Mar 2026 17:06:03 +0000</pubDate>
+      <guid isPermaLink="false">021IgmiSROMyW2dytdynsEd</guid>
+      <description>The best laptop deals live ahead of Amazon's Big Spring Sale include discounts on M4 MacBooks and an Asus gaming convertible.</description>
+    </item>
     <item>
       <title>Nvidia's Earth-2 models, including 'climate in a bottle', want to change weather forecasting for everyone across the world</title>
       <link>https://www.techradar.com/pro/nvidias-earth-2-models-want-to-change-weather-forecasting-for-ever</link>
       <pubDate>Thu, 19 Mar 2026 17:05:00 +0000</pubDate>
       <guid isPermaLink="false">M7WB9nyNUoa3mJctJbp6uH</guid>
       <description>We hear how Nvidia's Earth-2 weather models could revolutionize the future of forecasting.</description>
-    </item>
-    <item>
-      <title>Le Samsung Galaxy Z Flip 8 ne ferait pas mieux que le Z Flip 4 sur un point crucial</title>
-      <link>https://www.frandroid.com/marques/samsung/3033219_le-samsung-galaxy-z-flip-8-ne-ferait-pas-mieux-que-le-z-flip-4-sur-un-point-crucial</link>
-      <pubDate>Thu, 19 Mar 2026 17:02:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3033219_le-samsung-galaxy-z-flip-8-ne-ferait-pas-mieux-que-le-z-flip-4-sur-un-point-crucial</guid>
-      <description>
-&#192; quelques mois de son annonce officielle, une information concernant le Galaxy Z Flip 8 d&#233;&#231;oit d&#233;j&#224;.
-</description>
-    </item>
-    <item>
-      <title>Prediction markets are trying to lure journalists with partnership deals</title>
-      <link>https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals</link>
-      <pubDate>2026-03-19T13:00:42-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897388</guid>
-      <description>Prediction markets are working to ingratiate themselves with mainstream news and culture: The Golden Globes broadcast in January was plastered with Polymarket odds, the AP is licensing election data to Kalshi, and a partnership between Polymarket and Substack means more prediction market data in newsletters. Some prediction market exchanges are now attempting to strike deals [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Google reveals its solution for true Android sideloading: a mandatory waiting period</title>
-      <link>https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process</link>
-      <pubDate>2026-03-19T13:00:33-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897420</guid>
-      <description>Google has revealed the "advanced flow" that will be required to install certain Android apps once the company introduces mandatory developer verification later this year. The company had initially announced that it would no longer be possible to install apps from unverified developers, and the process announced today is its concession to critics who accused [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Google introduces a new way for users to sideload Android apps that still protects against scams</title>
-      <link>https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/</link>
-      <pubDate>Thu, 19 Mar 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3104027</guid>
-      <description>Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multi-step security process.</description>
-    </item>
-    <item>
-      <title>Marquis confirms sensitive personal data of 672,000 people stolen in ransomware attack</title>
-      <link>https://www.techradar.com/pro/security/marquis-confirms-sensitive-personal-data-of-672-000-people-stolen-in-ransomware-attack</link>
-      <pubDate>Thu, 19 Mar 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">EPh4rEi3VZcEPad3DucXcg</guid>
-      <description>The August 2025 SonicWall breach keeps getting worse, as Marquis sues SonicWall for negligence.</description>
-    </item>
-    <item>
-      <title>A New Game Turns the H-1B Visa System Into a Surreal Simulation</title>
-      <link>https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/</link>
-      <pubDate>Thu, 19 Mar 2026 16:59:50 +0000</pubDate>
-      <guid isPermaLink="false">69badfbb490221c281b2be77</guid>
-      <description>Inspired by real immigrant stories, H1B.Life captures the uncertainty, trade-offs, and pure luck that shape the lives of people trying to build a future in the US.</description>
-    </item>
-    <item>
-      <title>Test du Tineco Pure One A90S : un vrai Dyson-killer</title>
-      <link>https://www.frandroid.com/marques/tineco/3027437_test-du-tineco-pure-one-a90s-un-vrai-dyson-killer</link>
-      <pubDate>Thu, 19 Mar 2026 16:59:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tineco/3027437_test-du-tineco-pure-one-a90s-un-vrai-dyson-killer</guid>
-      <description>
-Quand on dit aspirateur-balais sans-fil... on pense &#224; Dyson, Rowenta... mais rarement &#224; Tineco, les sp&#233;cialistes des aspirateurs-robots. Justement, on a test&#233; le Pure One A90S.
-</description>
-    </item>
-    <item>
-      <title>L&#8217;app Apple TV envahie par les vid&#233;os en lecture automatique&#160;: voici comment les d&#233;sactiver</title>
-      <link>https://www.01net.com/actualites/lapp-apple-tv-envahie-par-les-videos-en-lecture-automatique-voici-comment-les-desactiver.html</link>
-      <pubDate>Thu, 19 Mar 2026 16:57:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1333365</guid>
-      <description>Les applications de streaming vid&#233;o ont pris la (mauvaise ?) habitude d'imposer la lecture automatique des extraits et des bande-annonces quand on navigue dans leur contenu. Il en va aussi de l'application Apple TV, mais heureusement il existe une parade un peu cach&#233;e.</description>
-    </item>
-    <item>
-      <title>Meta isn't shutting down its VR metaverse after all</title>
-      <link>https://www.engadget.com/ar-vr/meta-isnt-shutting-down-its-vr-metaverse-after-all-165520696.html?src=rss</link>
-      <pubDate>Thu, 19 Mar 2026 16:55:20 +0000</pubDate>
-      <guid isPermaLink="false">49caeb62-84a3-4170-a725-aa2c3cbf0a77</guid>
-      <description>Meta is backtracking on its plans to shut down the VR version of its metaverse. The company now plans to support Horizon Worlds in VR for the "foreseeable future," though users shouldn't expect new games, CTO Andrew Bosworth said in an update."We will keep horizon worlds working in VR for existing games, to support the fans who've reached out," Bosworth said in a post on Instagram. "For people who already have games they like that they're using in Horizon Worlds, [they] will be able to download the Horizon Worlds app and use it in VR for the foreseeable future."The reversal comes after Meta sa...</description>
-    </item>
-    <item>
-      <title>Nvidia DLSS : avantages, fonctionnement, performances&#8230; Quand l&#8217;IA vient au secours de vos jeux</title>
-      <link>https://www.frandroid.com/marques/nvidia/1789919_nvidia-dlss-avantages-fonctionnement-performances-quand-lia-vient-au-secours-de-vos-jeux</link>
-      <pubDate>Thu, 19 Mar 2026 16:45:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/1789919_nvidia-dlss-avantages-fonctionnement-performances-quand-lia-vient-au-secours-de-vos-jeux</guid>
-      <description>
-Gr&#226;ce &#224; sa technologie d'upscaling par l'IA, Nvidia vous offre une augmentation notable des performances de vos jeux. D&#233;couvrez dans notre dossier tout ce que vous devez savoir sur le DLSS : son fonctionnement, ses avantages, ses r&#233;glages et les diff&#233;rences avec les solutions concurrentes de chez AMD et Intel.
-</description>
-    </item>
-    <item>
-      <title>Meilleures TV pas ch&#232;res : quel mod&#232;le choisir &#224; moins de 600 &#8364; ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-tv/1669623_quelle-tv-pas-chere-choisir-notre-selection-de-petit-prix</link>
-      <pubDate>Thu, 19 Mar 2026 16:44:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-tv/1669623_quelle-tv-pas-chere-choisir-notre-selection-de-petit-prix</guid>
-      <description>
-Vous &#234;tes &#224; la recherche d&#8217;un TV pas cher pour vous &#233;quiper correctement sans exploser votre budget&#8201;? Voici une s&#233;lection des meilleurs mod&#232;les disponibles &#224; petit prix, c'est-&#224;-dire 600 euros maximum.
-</description>
-    </item>
-    <item>
-      <title>Meta is actually keeping its VR metaverse running, for now</title>
-      <link>https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth</link>
-      <pubDate>2026-03-19T12:36:21-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897396</guid>
-      <description>Meta is reversing its plans to shut down its VR metaverse - sort of. On Monday, the company announced that it would be shutting down the VR version of its 3D social platform Horizon Worlds on June 15th in favor of a new focus on the mobile version of the app. But in a Wednesday [&#8230;]</description>
-    </item>
-    <item>
-      <title>Kena: Bridge of Spirits launches for Switch 2 on March 26</title>
-      <link>https://www.engadget.com/gaming/nintendo/kena-bridge-of-spirits-launches-for-switch-2-on-march-26-163540229.html?src=rss</link>
-      <pubDate>Thu, 19 Mar 2026 16:35:40 +0000</pubDate>
-      <guid isPermaLink="false">b44a4e7f-4eac-4388-a5ca-824e1d0273d9</guid>
-      <description>The Switch 2 ports keep on coming. This time it's Kena: Bridge of Spirits, the award-winning 2021 title from Ember Lab. Previously announced for spring 2026, the visually striking title now has an official release date of March 26.Kena: Bridge of Spirits won Best Independent Game and Best Debut Indie Game at The Game Awards 2021. It's already available for PS5 / PS4, PC (Steam and Epic) and Xbox Series X/S and One.You play as Kena, a young spirit guide on a quest to a sacred mountain shrine. Gameplay has a Zelda-like flair. (That could make it a solid next play after Breath of the Wild and Tea...</description>
-    </item>
-    <item>
-      <title>NymVPN's latest update brings crucial anti-censorship and usability boost &#8212; but Apple users will have to be patient</title>
-      <link>https://www.techradar.com/vpn/vpn-services/nymvpns-latest-update-brings-crucial-anti-censorship-and-usability-boost-but-apple-users-will-have-to-be-patient</link>
-      <pubDate>Thu, 19 Mar 2026 16:26:04 +0000</pubDate>
-      <guid isPermaLink="false">ZD6GKpNErLDdjofGBbVUWn</guid>
-      <description>NymVPN's v2026.5 update is here, rolling out a shiny new UI for tracking data usage and beefed-up DNS tools to fight censorship. But if you're on a Mac or iPhone, you're going to be waiting a little longer for the goods.</description>
-    </item>
-    <item>
-      <title>&#8216;Stranger Things&#8217; Is Getting the Physical Media Release of Your Dreams</title>
-      <link>https://gizmodo.com/stranger-things-is-getting-the-physical-media-release-of-your-dreams-2000735607</link>
-      <pubDate>Thu, 19 Mar 2026 16:25:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735607</guid>
-      <description>The complete series is getting a beastly, 25-disc set including special features to turn you Upside Down.</description>
-    </item>
-    <item>
-      <title>Aura breach confirmed as over 900,000 customer records accessed in phishing attack</title>
-      <link>https://www.techradar.com/pro/security/aura-breach-confirmed-as-over-900-000-customer-records-accessed-in-phishing-attack</link>
-      <pubDate>Thu, 19 Mar 2026 16:25:00 +0000</pubDate>
-      <guid isPermaLink="false">TPyRR5rDBt2GMXKPUVquQP</guid>
-      <description>Around 20,000 current, and 15,000 former customers affected</description>
-    </item>
-    <item>
-      <title>Pourquoi le printemps commence-t-il le 20 mars alors qu&#8217;on nous a toujours dit le 21 ?</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/equinoxe-printemps-printemps-commence-t-il-20-mars-alors-quon-nous-toujours-dit-21-133024/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 19 Mar 2026 17:23:25 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/equinoxe-printemps-printemps-commence-t-il-20-mars-alors-quon-nous-toujours-dit-21-133024/#xtor%3DRSS-8</guid>
-      <description>Cet hiver vous a sembl&#233; long&#8201;? Sachez que ce n&#8217;est qu&#8217;une impression. Car il aura &#233;t&#233; un peu plus court que la moyenne&#160;: 88&#160;jours, 23&#160;heures et 43&#160;minutes. Et il se termine d&#232;s ce vendredi&#8201;! Mais pourquoi le printemps ne commence pas ce samedi 21 mars ?</description>
-    </item>
-    <item>
-      <title>La Sonos Beam 2 et le Sub Mini boostent le son de votre TV et se retrouvent dans un pack &#224; moins de 800 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3033177_la-sonos-beam-2-et-le-sub-mini-boostent-le-son-de-votre-tv-et-se-retrouvent-dans-un-pack-a-moins-de-800-e</link>
-      <pubDate>Thu, 19 Mar 2026 16:18:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3033177_la-sonos-beam-2-et-le-sub-mini-boostent-le-son-de-votre-tv-et-se-retrouvent-dans-un-pack-a-moins-de-800-e</guid>
-      <description>
-Compacte et compatible Dolby Atmos, la Sonos Beam 2 est une tr&#232;s bonne barre de son. Elle est encore plus convaincante quand elle s'associe au Sub Mini, un caisson de basses lui aussi tr&#232;s compact. Actuellement, ces deux produits sont propos&#233;s dans un pack &#224; 769,98 euros au lieu de 998 euros &#224; la Fnac.
-</description>
-    </item>
-    <item>
-      <title>Level up your video calls with Logitech&#8217;s $25 Brio 100 Full HD webcam deal at Best Buy</title>
-      <link>https://www.techradar.com/pro/level-up-your-video-calls-with-logitechs-usd25-brio-100-full-hd-webcam-deal-at-best-buy</link>
-      <pubDate>Thu, 19 Mar 2026 16:16:17 +0000</pubDate>
-      <guid isPermaLink="false">wvyV2eWZw36r4ErMDzeemg</guid>
-      <description>Logitech Brio 100 Full HD webcam with built-in mic, privacy shutter, and auto-light balance is $15 off right now.</description>
-    </item>
-    <item>
-      <title>DoorDash launches a new &#8216;Tasks&#8217; app that pays couriers to submit videos to train AI</title>
-      <link>https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/</link>
-      <pubDate>Thu, 19 Mar 2026 16:14:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3104019</guid>
-      <description>Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.</description>
-    </item>
-    <item>
-      <title>ChatGPT&#8217;s &#8216;Adult Mode&#8217; Could Spark a New Era of Intimate Surveillance</title>
-      <link>https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/</link>
-      <pubDate>Thu, 19 Mar 2026 16:06:49 +0000</pubDate>
-      <guid isPermaLink="false">69bbfd18fd75ae0f6f7d15f8</guid>
-      <description>OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.</description>
-    </item>
-    <item>
-      <title>Astronomers Pinpoint the Best 45 Places in the Galaxy to Look For Alien Life</title>
-      <link>https://gizmodo.com/astronomers-pinpoint-the-best-45-places-in-the-galaxy-to-look-for-alien-life-2000735521</link>
-      <pubDate>Thu, 19 Mar 2026 16:05:39 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735521</guid>
-      <description>Out of the 6,000 known exoplanets, it's these rocky worlds that are most worthy of attention in the search for life beyond our planet.</description>
-    </item>
-    <item>
-      <title>NordVPN&#8217;s new tool helps you spot online scams &#8212; and it&#8217;s free for everyone</title>
-      <link>https://www.techradar.com/vpn/vpn-services/nordvpns-new-tool-helps-you-spot-online-scams-and-its-free-for-everyone</link>
-      <pubDate>Thu, 19 Mar 2026 16:02:13 +0000</pubDate>
-      <guid isPermaLink="false">FcEBMJer25ETT6swzRpfRC</guid>
-      <description>While for subscribers the roll-out enriches the Threat Protection Pro suite, anyone can use NordVPN's new scam checker tool without spending a penny.</description>
-    </item>
-    <item>
-      <title>Think the RAM Crisis Is Bad Now? It Just Keeps Getting Worse</title>
-      <link>https://gizmodo.com/think-the-ram-crisis-is-bad-now-it-just-keeps-getting-worse-2000735579</link>
-      <pubDate>Thu, 19 Mar 2026 16:00:20 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735579</guid>
-      <description>With relief now not expected until 2030, PCs and smartphones will just keep getting more expensive.</description>
-    </item>
-    <item>
-      <title>New Exodus trailer spotlights first look at explosive combat as Wizards of the Coast teases additional 'moment-to-moment gameplay' and focused deep dives later this year</title>
-      <link>https://www.techradar.com/gaming/new-exodus-trailer-spotlights-first-look-at-explosive-combat-as-wizards-of-the-coast-teases-additional-moment-to-moment-gameplay-and-focused-deep-dives-later-this-year</link>
-      <pubDate>Thu, 19 Mar 2026 16:00:14 +0000</pubDate>
-      <guid isPermaLink="false">QygC5Kb55xWZ8nFihjhLgd</guid>
-      <description>Wizards of the Coast has released the first gameplay footage for Exodus, showcasing its work-in-progress combat and traversal systems.</description>
-    </item>
-    <item>
-      <title>Epic and Disney now let Fortnite creators make Star Wars games</title>
-      <link>https://www.theverge.com/games/897163/fortnite-star-wars-creators-uefn-epic-games-disney</link>
-      <pubDate>2026-03-19T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897163</guid>
-      <description>Epic Games and Disney are making a big announcement as part of their continually deepening relationship. In June, Epic announced that Fortnite creators would "soon" be able to make custom Star Wars-themed games and experiences, and starting Thursday that feature is finally launching. While creators can start making experiences now, they'll be able to publish [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Three high-risk AI vulnerabilities discovered in Claude.ai &#8211; end-to-end attack chain exfiltrates sensitive info without user knowing</title>
-      <link>https://www.techradar.com/pro/security/three-high-risk-ai-vulnerabilities-discovered-in-claude-ai-end-to-end-attack-chain-exfiltrates-sensitive-info-without-user-knowing</link>
-      <pubDate>Thu, 19 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">k6smYo7meNBzXie5ok3pB3</guid>
-      <description>A legitimate Google ad could lead to data exfiltration through a chain of Claude flaws.</description>
-    </item>
-    <item>
-      <title>Small but mighty: Lenovo IdeaCentre Mini Desktop with Core Ultra 7 and 16GB RAM gets a welcome $110 price cut at Best Buy</title>
-      <link>https://www.techradar.com/pro/small-but-mighty-lenovo-ideacentre-mini-desktop-with-core-ultra-7-and-16gb-ram-gets-a-welcome-usd110-price-cut-at-best-buy</link>
-      <pubDate>Thu, 19 Mar 2026 15:57:36 +0000</pubDate>
-      <guid isPermaLink="false">iJjJV8bosaUcohaSZVWiiG</guid>
-      <description>Lenovo IdeaCentre Mini Desktop with Core Ultra 7 and 16GB RAM gets a welcome price cut.</description>
-    </item>
-    <item>
-      <title>Avec sa transmission automatique dop&#233;e &#224; l&#8217;IA, le nouveau v&#233;lo &#233;lectrique Lemmo n&#8217;a jamais &#233;t&#233; aussi technologique</title>
-      <link>https://www.frandroid.com/marques/lemmo/3032987_avec-sa-transmission-automatique-dopee-a-lia-le-nouveau-velo-electrique-lemmo-na-jamais-ete-aussi-technologique</link>
-      <pubDate>Thu, 19 Mar 2026 15:54:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/lemmo/3032987_avec-sa-transmission-automatique-dopee-a-lia-le-nouveau-velo-electrique-lemmo-na-jamais-ete-aussi-technologique</guid>
-      <description>
-Nouvelle transmission par d&#233;railleur automatique ajustable via l'IA et programme d&#8217;entra&#238;nement avec modes personnalis&#233;s : le Lemmo One renforce sa position de v&#233;lo &#233;lectrique technologique et connect&#233;, tout en augmentant ses performances moteur.
-</description>
-    </item>
-    <item>
-      <title>L&#8217;IA de Tinder veut fouiller la galerie photo de votre smartphone pour cr&#233;er votre profil</title>
-      <link>https://www.01net.com/actualites/lia-de-tinder-veut-fouiller-la-galerie-photo-de-votre-smartphone-pour-creer-votre-profil.html</link>
-      <pubDate>Thu, 19 Mar 2026 15:48:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1333338</guid>
-      <description>Tinder teste actuellement en Australie une dr&#244;le de fonction IA. L'application propose d'analyser le contenu de la galerie photo de l'utilisateur pour identifier ses centres d'int&#233;r&#234;t et am&#233;liorer son profil. Des protections sont pr&#233;vues pour prot&#233;ger la vie priv&#233;e, et le traitement est r&#233;alis&#233; en local. Il n'emp&#234;che que cette nouveaut&#233; pose des questions de confidentialit&#233;....</description>
-    </item>
-    <item>
-      <title>Are you in a competitive creative career? Oscar-winning director Barry Jenkins has advice on what it takes to find success</title>
-      <link>https://www.fastcompany.com/91511456/creative-career-job-advice-how-to-find-success-oscar-winner-director-barry-jenkins</link>
-      <pubDate>2026-03-19T15:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91511456/creative-career-job-advice-how-to-find-success-oscar-winner-director-barry-jenkins</guid>
-      <description>Jenkins&#8217; back-and-forth journey in the film industry reminds us that progress isn&#8217;t linear.
-It&#8217;s a tough time out there for creatives. Whether you&#8217;re a writer, director, actor, or artist of any kind, the world is short on opportunities&#8212;particuarly the kind that pay.</description>
-    </item>
-    <item>
-      <title>Uber and Rivian Team Up to Deploy 50,000 Robotaxis</title>
-      <link>https://gizmodo.com/uber-and-rivian-team-up-to-deploy-50000-robotaxis-2000735594</link>
-      <pubDate>Thu, 19 Mar 2026 15:43:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735594</guid>
-      <description>Uber has agreed to invest $1.25 billion in Rivian through 2031.</description>
-    </item>
-    <item>
-      <title>Voici la solution radicale de Xiaomi pour &#233;viter le cauchemar des portes bloqu&#233;es sur sa nouvelle SU7 &#233;lectrique</title>
-      <link>https://www.frandroid.com/actualites-generales/3033351_voici-la-solution-radicale-de-xiaomi-pour-eviter-le-cauchemar-des-portes-bloquees-sur-sa-nouvelle-su7-electrique</link>
-      <pubDate>Thu, 19 Mar 2026 15:42:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3033351_voici-la-solution-radicale-de-xiaomi-pour-eviter-le-cauchemar-des-portes-bloquees-sur-sa-nouvelle-su7-electrique</guid>
-      <description>
-La nouvelle Xiaomi SU7 &#233;lectrique fait fort avec ses 902 km d'autonomie. Mais c'est aussi l'une des premi&#232;res voitures &#233;lectriques &#224; int&#233;grer les nouvelles poignets de portes qui pourront sauver des vies, gr&#226;ce &#224; une astuce toute simple.
-</description>
-    </item>
-    <item>
-      <title>Rivian will provide 50,000 robotaxis to Uber in a deal worth $1.25 billion</title>
-      <link>https://www.engadget.com/transportation/evs/rivian-will-provide-50000-robotaxis-to-uber-in-a-deal-worth-125-billion-153856638.html?src=rss</link>
-      <pubDate>Thu, 19 Mar 2026 15:38:56 +0000</pubDate>
-      <guid isPermaLink="false">35c0c4da-d038-4d29-adf7-ca45b8d8a284</guid>
-      <description>Rivian and Uber have entered into a major partnership, with the former to provide the latter with 50,000 robotaxis in a deal worth $1.25 billion in funding. This starts with Uber purchasing 10,000 Rivian R2 robotaxis, which will be deployed in San Francisco and Miami by 2028.
-If all goes well, Uber will scoop up 40,000 more robotaxis by 2030. The company plans to scale the initiative to 25 major cities by 2031. The full $1.25 billion investment is contingent on several autonomous milestones, according to a report by Yahoo Finance. However, Uber has already committed $300 million as an initial ...</description>
-    </item>
-    <item>
-      <title>Meta decides not to shut down Horizon Worlds on VR after all</title>
-      <link>https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/</link>
-      <pubDate>Thu, 19 Mar 2026 15:36:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103555</guid>
-      <description>Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down.</description>
-    </item>
-    <item>
-      <title>This &#8216;Portable&#8217; Party Speaker Gets as Loud as an Actual Chainsaw</title>
-      <link>https://gizmodo.com/this-portable-party-speaker-gets-as-loud-as-an-actual-chainsaw-2000735535</link>
-      <pubDate>Thu, 19 Mar 2026 15:35:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735535</guid>
-      <description>Soundboks is back with another ridiculously loud speaker.</description>
-    </item>
-    <item>
-      <title>The case for giving yourself permission to breathe, according to neuroscience</title>
-      <link>https://www.fastcompany.com/91496774/case-giving-yourself-permission-breathe-according-neuroscience</link>
-      <pubDate>2026-03-19T15:34:26</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91496774/case-giving-yourself-permission-breathe-according-neuroscience</guid>
-      <description>Three things you can try this week.
-Most organizations genuinely want to support their people. We invest in wellness apps, coaching programs, and leadership development, all with good intentions. Yet burnout rates keep climbing. Aflac&#8217;s WorkForces Report from November 2024 referenced that burnout affected nearly 3 in 5 American workers with employees experiencing high levels of stress rising to 38% in 2024, up from 33% in 2023. The issue isn&#8217;t effort or resources. It may simply be that we&#8217;re solving for the wrong problem....</description>
-    </item>
-    <item>
-      <title>Darty retire 600 &#8364; au Lenovo Yoga Slim 7x, un excellent laptop avec un &#233;cran OLED et une puce Snapdragon X Elite sous le capot</title>
-      <link>https://www.frandroid.com/bons-plans/3032813_darty-retire-600-e-au-lenovo-yoga-slim-7x-un-excellent-laptop-avec-un-ecran-oled-et-une-puce-snapdragon-x-elite-sous-le-capot</link>
-      <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3032813_darty-retire-600-e-au-lenovo-yoga-slim-7x-un-excellent-laptop-avec-un-ecran-oled-et-une-puce-snapdragon-x-elite-sous-le-capot</guid>
-      <description>
-Le Lenovo Yoga Slim 7x se pr&#233;sente avec une solide fiche technique entre sa dalle OLED de 14 pouces et un puissant Snapdragon X Elite pour donner du peps &#224; la machine. Actuellement, le laptop est en promotion chez Darty &#224; 1 199,99 euros au lieu de 1 799,99 euros.
-</description>
-    </item>
-    <item>
-      <title>La b&#234;ta de Samsung One UI 8.5 arrive sur les Galaxy S24 (mais pas que)</title>
-      <link>https://www.frandroid.com/marques/samsung/3033117_la-beta-de-samsung-one-ui-8-5-arrive-sur-les-galaxy-s24-mais-pas-que</link>
-      <pubDate>Thu, 19 Mar 2026 15:32:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3033117_la-beta-de-samsung-one-ui-8-5-arrive-sur-les-galaxy-s24-mais-pas-que</guid>
-      <description>
-Une version test de One UI, l'interface Android de Samsung, s'appr&#234;te &#224; &#234;tre d&#233;ploy&#233;e sur des smartphones Galaxy de la gamme FE. Ce n'est jamais arriv&#233; auparavant.
-</description>
-    </item>
-    <item>
-      <title>When confidence becomes a risk: The gap between cyber resilience readiness and reality</title>
-      <link>https://www.techradar.com/pro/when-confidence-becomes-a-risk-the-gap-between-cyber-resilience-readiness-and-reality</link>
-      <pubDate>Thu, 19 Mar 2026 15:32:10 +0000</pubDate>
-      <guid isPermaLink="false">WVsjKXSjnEWd6n7ZCfnvni</guid>
-      <description>Most organizations believe they're cyber-ready, but data on their recovery capabilities tells a different story.</description>
-    </item>
-    <item>
-      <title>iOS 26.4 arrives in days. Heres 3 features we&#8217;re excited about</title>
-      <link>https://mashable.com/article/apple-ios-26-4-release-new-features</link>
-      <pubDate>Thu, 19 Mar 2026 15:31:28 +0000</pubDate>
-      <guid isPermaLink="false">072Gv8N9MgE1EnlWvcXPb1J</guid>
-      <description>Apple's next iOS update brings new emoji and some other fun features with it next week.</description>
-    </item>
-    <item>
-      <title>Harlowe has a cheaper solution for lighting 360-degree shoots</title>
-      <link>https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light</link>
-      <pubDate>2026-03-19T11:30:20-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897360</guid>
-      <description>Companies like Bushman already sell omnidirectional camera lights for 360-degree shoots, but they start at over $300, which is more than half the price of popular 360-degree cameras from companies like DJI and Insta360. Harlowe, a company known for lighting accessories that cater to influencers and amateurs, has released a $95 alternative called the Omni [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Paid streaming for cheapskates is having a moment</title>
-      <link>https://www.theverge.com/column/897098/cheap-streaming-howdy-roku</link>
-      <pubDate>2026-03-19T11:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897098</guid>
-      <description>This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Streaming is getting expensive: This week, Amazon Prime Video became the latest streaming service to increase prices. In addition to the annual $139 fee for Prime, consumers now have to [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Google unveils new &#8216;vibe design&#8217; tool to help anyone design a high-fidelity UI using natural language</title>
-      <link>https://www.techradar.com/pro/google-unveils-new-vibe-design-tool-to-help-anyone-design-a-high-fidelity-ui-using-natural-language</link>
-      <pubDate>Thu, 19 Mar 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">FLtr4iYcPaMYDfafKK64ci</guid>
-      <description>You've heard of vibe coding, but Google wants you to think of the entire software design process as a 'vibe' with new AI tools.</description>
-    </item>
-    <item>
-      <title>Android 16 : un bug sournois d&#233;branche votre VPN (et Google l&#8217;ignore depuis des mois)</title>
-      <link>https://www.frandroid.com/marques/google/3033297_android-16-un-bug-sournois-debranche-votre-vpn-et-google-lignore-depuis-des-mois</link>
-      <pubDate>Thu, 19 Mar 2026 15:26:12 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3033297_android-16-un-bug-sournois-debranche-votre-vpn-et-google-lignore-depuis-des-mois</guid>
-      <description>
-Vous pensiez naviguer incognito, &#224; l'abri des regards indiscrets ? D&#233;trompez-vous. Un dysfonctionnement particuli&#232;rement furtif frappe actuellement Android 16, coupant l'acc&#232;s &#224; Internet de votre VPN sans jamais vous en avertir. Une faille exasp&#233;rante qui fait s'arracher les cheveux aux fournisseurs de s&#233;curit&#233;, d'autant que Google semble jouer la montre.
-...</description>
-    </item>
-    <item>
-      <title>SpaceX Fires Up Its Biggest, Baddest Rocket Yet: Starship V3</title>
-      <link>https://gizmodo.com/spacex-fires-up-its-biggest-baddest-rocket-yet-starship-v3-2000735580</link>
-      <pubDate>Thu, 19 Mar 2026 15:25:52 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735580</guid>
-      <description>It now appears Starship Version 3 is on track for an inaugural launch in April.</description>
-    </item>
-    <item>
-      <title>A new iPhone hacking tool puts some iOS 18 users at risk</title>
-      <link>https://www.engadget.com/cybersecurity/a-new-iphone-hacking-tool-puts-some-ios-18-users-at-risk-203745666.html?src=rss</link>
-      <pubDate>Thu, 19 Mar 2026 15:19:08 +0000</pubDate>
-      <guid isPermaLink="false">b9ddde10-8d6b-41b8-9abf-bb9fd8ba0175</guid>
-      <description>Google and cybersecurity companies Lookout and iVerify have detailed a new hacking technique that potentially puts a significant portion of iPhone users in danger, just by visiting the wrong web page. The hack is called "DarkSword" and it currently targets iOS 18 releases between iOS 18.4 and iOS 18.6.2. For its part, an Apple spokesperson told Engadget that the company had patched the underlying vulnerabilities in iOS versions 15 through 26 last year; the company also issued an emergency update for devices running iOS 15 and 16 that are unable to run newer versions of iOS. The company does no...</description>
-    </item>
-    <item>
-      <title>Norouz : la f&#234;te du printemps en Iran qui a d&#233;fi&#233; empires, conqu&#234;tes et si&#232;cles</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/histoire-norouz-fete-printemps-iran-defie-empires-conquetes-siecles-133011/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 19 Mar 2026 16:15:33 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/histoire-norouz-fete-printemps-iran-defie-empires-conquetes-siecles-133011/#xtor%3DRSS-8</guid>
-      <description>H&#233;rit&#233;e de la Perse antique et du zoroastrisme, Norouz a surv&#233;cu &#224; toutes les turbulences politiques et religieuses qui ont agit&#233; l'Iran depuis presque trois mill&#233;naires.</description>
-    </item>
-    <item>
-      <title>Lina Khan was right</title>
-      <link>https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust</link>
-      <pubDate>2026-03-19T11:12:45-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=896820</guid>
-      <description>In 2021, the virtual world was the future of the internet. The pandemic had sequestered everyone indoors, heightening the appeal of digital communities. Facebook rebranded to Meta - a sign of the tech giant's investment in and commitment to the metaverse as the future of the internet. Despite losing billions in VR, Meta released an [&#8230;]</description>
-    </item>
-    <item>
-      <title>Vampire Survivors spinoff Vampire Crawlers is coming to PC and consoles on April 21</title>
-      <link>https://www.engadget.com/gaming/vampire-survivors-spinoff-vampire-crawlers-is-coming-to-pc-and-consoles-on-april-21-151217962.html?src=rss</link>
-      <pubDate>Thu, 19 Mar 2026 15:12:17 +0000</pubDate>
-      <guid isPermaLink="false">f8205858-df38-416f-b4cd-da832d0d73f4</guid>
-      <description>Poncle could be about to ruin the planet&#8217;s productivity all over again now that Vampire Crawlers has a release date for PC and consoles. The dungeon-crawling roguelike deckbuilder &#8212; which is a Vampire Survivors spinoff &#8212; is coming to Steam, Xbox Series X/S, PS5 and Nintendo Switch on April 21. It&#8217;ll cost $10. Alternatively, you&#8217;ll be able to check it out via Xbox Game Pass on day one. Vampire Crawlers is on the way to iOS and Android as well. However, you&#8217;ll have to wait until sometime later this year to play it on mobile devices.Vampire Crawlers is set in the same world as Vampire Survivors a...</description>
-    </item>
-    <item>
-      <title>FBI seizes pro-Iranian hacking group&#8217;s websites after destructive Stryker hack</title>
-      <link>https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/</link>
-      <pubDate>Thu, 19 Mar 2026 15:10:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103998</guid>
-      <description>The FBI and the Justice Department took down two websites linked to the pro-Iranian hacktivist group Handala, which last week hacked medical tech giant Stryker.</description>
-    </item>
-    <item>
-      <title>Closing AI learning gaps between leaders and employees</title>
-      <link>https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees</link>
-      <pubDate>Thu, 19 Mar 2026 15:10:17 +0000</pubDate>
-      <guid isPermaLink="false">qWFXrHjdSwPztnu8gNrUxb</guid>
-      <description>How organizations can reduce AI learning gaps between leaders and employees to.</description>
-    </item>
-    <item>
-      <title>CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices</title>
-      <link>https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/</link>
-      <pubDate>Thu, 19 Mar 2026 15:08:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3103995</guid>
-      <description>The U.S. cybersecurity agency urged companies to prevent access to systems used for remotely managing their fleets of employee devices after hackers broke into a major U.S. medical tech giant and remotely wiped thousands of phones and computers.</description>
     </item>
   </channel>
 </rss>
