@@ -3,20 +3,111 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 20 Mar 2026 19:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 20:38:03 GMT</lastBuildDate>
+    <item>
+      <title>Solar-Eclipsing Probe Back From the Dead After a Month of Silence</title>
+      <link>https://gizmodo.com/solar-eclipsing-probe-back-from-the-dead-after-a-month-of-silence-2000736236</link>
+      <pubDate>Fri, 20 Mar 2026 20:35:46 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736236</guid>
+      <description>An anomaly caused ESA's Proba-3 to ghost ground control, but now the spacecraft has finally made contact.</description>
+    </item>
+    <item>
+      <title>Sounds Like the &#8216;KPop Demon Hunters&#8217; Directors Scored a Huge Payday for the Sequel</title>
+      <link>https://gizmodo.com/kpop-demon-hunters-sequel-netflix-deal-2000736106</link>
+      <pubDate>Fri, 20 Mar 2026 20:30:25 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736106</guid>
+      <description>Netflix is digging deep to reward Maggie Kang and Chris Appelhans, the Oscar-winning directors of its biggest-ever movie.</description>
+    </item>
+    <item>
+      <title>Three ways AI is learning to understand the physical world</title>
+      <link>https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world</link>
+      <pubDate>Fri, 20 Mar 2026 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">60Hbb3r71pH2YBtVuVjTBD</guid>
+      <description>Large language models are running into limits in domains that require an understanding of the physical world &#8212; from robotics to autonomous driving to manufacturing. That constraint is pushing investors toward world models, with AMI Labs raising a $1.03 billion seed round shortly after World Labs secured $1 billion.Large language models (LLMs) excel at processing abstract knowledge through next-token prediction, but they fundamentally lack grounding in physical causality. They cannot reliably predict the physical consequences of real-world actions.&#160;AI researchers and thought leaders are increas...</description>
+    </item>
+    <item>
+      <title>Microsoft will yank Copilot from some Windows apps and let you move the taskbar again</title>
+      <link>https://www.engadget.com/computing/microsoft-will-yank-copilot-from-some-windows-apps-and-let-you-move-the-taskbar-again-202857203.html?src=rss</link>
+      <pubDate>Fri, 20 Mar 2026 20:28:57 +0000</pubDate>
+      <guid isPermaLink="false">b74ba1b7-3672-4bb4-8821-a9dbf1b58d5b</guid>
+      <description>After one too many of you threatened to switch to Linux, Microsoft has published a long list of changes it plans to make to Windows 11. In a lengthy blog titled "Our commitment to Windows quality," Pavan Davuluri, the executive vice president of Windows and Devices, said the company has spent a "great deal" of time in recent months reading feedback from users. "What came through was the voice of people who care deeply about Windows and want it to be better," he said. To that end, Windows Insiders can expect to see some of the changes Microsoft plans in response to all criticism begin rolling o...</description>
+    </item>
+    <item>
+      <title>Strava&#8217;s Fitness App Exposed the Real-Time Location of a French Aircraft Carrier</title>
+      <link>https://gizmodo.com/stravas-fitness-app-exposed-the-real-time-location-of-a-french-aircraft-carrier-2000736266</link>
+      <pubDate>Fri, 20 Mar 2026 20:25:00 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736266</guid>
+      <description>A sailor&#8217;s publicly shared workout made it possible to pinpoint the ship&#8217;s movements in the Mediterranean sea.</description>
+    </item>
+    <item>
+      <title>The White House proposes new AI policy framework that supersedes state laws</title>
+      <link>https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss</link>
+      <pubDate>Fri, 20 Mar 2026 20:19:26 +0000</pubDate>
+      <guid isPermaLink="false">f0f7aadf-9d18-4bd1-9a68-81b49a467b36</guid>
+      <description>The White House has announced a new AI policy framework that calls for Congress to craft federal regulation that overrules state AI laws. The Trump administration has made multiple attempts to overrule more restrictive state-level AI regulation, but has failed so far, most notably in the passing of the &#8220;One Big Beautiful Bill.&#8221;The framework focuses on a variety of topics, covering everything from child privacy to the use of AI in the workforce. &#8220;Importantly, this framework can succeed only if it is applied uniformly across the United States,&#8221; The White House writes. &#8220;A patchwork of conflicting...</description>
+    </item>
+    <item>
+      <title>Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People</title>
+      <link>https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053</link>
+      <pubDate>Fri, 20 Mar 2026 20:10:56 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736053</guid>
+      <description>At GTC, Jensen Huang was on damage control for AI.</description>
+    </item>
+    <item>
+      <title>Physicists Say They&#8217;ve Cracked the Mystery of Volcanic Lightning</title>
+      <link>https://gizmodo.com/physicists-say-theyve-cracked-the-mystery-of-volcanic-lightning-2000736209</link>
+      <pubDate>Fri, 20 Mar 2026 20:10:47 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736209</guid>
+      <description>No divine sign, just science.</description>
+    </item>
+    <item>
+      <title>What happened at Nvidia GTC:&#160;NemoClaw, Robot Olaf, and a&#160;$1 trillion&#160;bet</title>
+      <link>https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/</link>
+      <pubDate>Fri, 20 Mar 2026 20:02:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3104584</guid>
+      <description>CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an &#8220;OpenClaw strategy,&#8221; and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia [&#8230;]...</description>
+    </item>
+    <item>
+      <title>A new Nintendo Switch 2 could be the poster child for replaceable batteries</title>
+      <link>https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery</link>
+      <pubDate>2026-03-20T15:59:05-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=898313</guid>
+      <description>Nintendo plans to release a Switch 2 revision in the European Union that will let users replace their own batteries, Nikkei reports. The current version of the Switch 2 has a glued-in battery. But Nintendo apparently plans to make the change in order to comply with EU rules going into effect in February 2027 that [&#8230;]</description>
+    </item>
+    <item>
+      <title>Microsoft a eu une illumination&#160;: Windows 11 va enfin int&#233;grer ce que les utilisateurs r&#233;clament depuis des ann&#233;es</title>
+      <link>https://www.01net.com/actualites/microsoft-a-eu-une-illumination-windows-11-va-enfin-integrer-ce-que-les-utilisateurs-reclament-depuis-des-annees.html</link>
+      <pubDate>Fri, 20 Mar 2026 19:57:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1333701</guid>
+      <description>Windows 11 tel qu'on le connait aujourd'hui pourrait bien &#234;tre tr&#232;s diff&#233;rent dans quelques mois. Microsoft a en effet annonc&#233; une batterie impressionnante de changements et d'am&#233;liorations r&#233;clam&#233;s depuis des ann&#233;es par les utilisateurs.</description>
+    </item>
+    <item>
+      <title>Nevada Bans Kalshi for at Least the Next Two Weeks</title>
+      <link>https://gizmodo.com/nevada-bans-kalshi-for-at-least-the-next-two-weeks-2000736211</link>
+      <pubDate>Fri, 20 Mar 2026 19:50:22 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736211</guid>
+      <description>The ban comes at a time when regulators and lawmakers are on high alert over prediction markets.</description>
+    </item>
+    <item>
+      <title>Future Sony PlayStation games will use AI to imagine new frames</title>
+      <link>https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames</link>
+      <pubDate>2026-03-20T15:46:23-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=898283</guid>
+      <description>Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to "PlayStation platforms" in the future, letting the game console use AI to imagine new frames between the ones it's actually rendering, which can create smoother perceived image quality while (typically) introducing some [&#8230;]...</description>
+    </item>
+    <item>
+      <title>New Study Highlights Carbon Fiber Weakness That Sounds All Too Familiar After Titan Fiasco</title>
+      <link>https://gizmodo.com/new-study-highlights-carbon-fiber-weakness-that-sounds-all-too-familiar-after-titan-fiasco-2000736168</link>
+      <pubDate>Fri, 20 Mar 2026 19:40:51 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736168</guid>
+      <description>Researchers planned to test how carbon fiber reacted to intense heat and humidity, but they found out something else entirely.</description>
+    </item>
     <item>
       <title>Could Agentic AI be the killer app for the 40-year old PC? AMD thinks so &#8212; and wants you to jump on the Agent Computer bandwagon before it is too late</title>
       <link>https://www.techradar.com/pro/could-agentic-ai-be-the-killer-app-for-the-40-year-old-pc-amd-thinks-so-and-wants-you-to-jump-on-the-agent-computer-bandwagon-before-it-is-too-late</link>
       <pubDate>Fri, 20 Mar 2026 19:35:00 +0000</pubDate>
       <guid isPermaLink="false">N3BbPGbzFGoLucCHtbehpD</guid>
       <description>AMD introduces Agentic AI on PCs, enabling autonomous task execution, persistent local models, and enhanced productivity for professionals and organizations.</description>
-    </item>
-    <item>
-      <title>The White House proposes new AI policy framework that supersedes state laws</title>
-      <link>https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss</link>
-      <pubDate>Fri, 20 Mar 2026 19:32:11 +0000</pubDate>
-      <guid isPermaLink="false">f0f7aadf-9d18-4bd1-9a68-81b49a467b36</guid>
-      <description>The White House has announced a new AI policy framework that calls for Congress to craft federal regulation that overrules state AI laws. The Trump administration has made multiple attempts to overrule more restrictive state-level AI regulation, but has failed so far, most notably in the passing of the &#8220;One Big Beautiful Bill.&#8221;The framework focuses on a variety of topics, covering everything from child privacy to the use of AI in the workforce. &#8220;Importantly, this framework can succeed only if it is applied uniformly across the United States,&#8221; The White House writes. &#8220;A patchwork of conflicting...</description>
     </item>
     <item>
       <title>Everything We Know About the Future of &#8216;Star Trek&#8217;</title>
@@ -33,11 +124,27 @@
       <description>The RAM crisis is having a knock-on effect on the memory industry in general - but there could be an unlikely hero.</description>
     </item>
     <item>
+      <title>Why some brands are choosing slower, more expensive growth on purpose</title>
+      <link>https://www.fastcompany.com/91512611/why-some-brands-are-choosing-slower-more-expensive-growth-on-purpose</link>
+      <pubDate>2026-03-20T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91512611/why-some-brands-are-choosing-slower-more-expensive-growth-on-purpose</guid>
+      <description>Founders say sticking to their mission&#8212;even when it costs more&#8212;is what keeps customers coming back.
+When Rare Beauty, Bogg, and Goodles arrived in stores, they had to vie for shelf space with well-established brands making beauty products or beach bags or boxes of macaroni and cheese. But these brands quickly amassed cult-like followings by being very intentional with their missions to foster a sense of loyalty with customers....</description>
+    </item>
+    <item>
       <title>Amidst legal turmoil, Kalshi is temporarily banned in Nevada</title>
       <link>https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/</link>
       <pubDate>Fri, 20 Mar 2026 19:15:55 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3104465</guid>
       <description>It's the latest escalation in a regulatory battle over the future of prediction markets.</description>
+    </item>
+    <item>
+      <title>The &#8216;bestie-fication&#8217; of media is doing a disservice to everyone</title>
+      <link>https://www.fastcompany.com/91512917/jake-shane-oscars-julia-fox-journalism-celeb-media</link>
+      <pubDate>2026-03-20T19:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91512917/jake-shane-oscars-julia-fox-journalism-celeb-media</guid>
+      <description>Jake Shane&#8217;s awkwardness on the Oscars red carpet showed the shortcomings of using influencers as stand-ins for real journalists. 
+If you tuned into the red carpet for the Academy Awards, you may have seen actress Julia Fox being interviewed by influencers Quen Blackwell and Jake Shane, who were at the awards show reporting for Vanity Fair.</description>
     </item>
     <item>
       <title>Gamers Hate Nvidia's DLSS 5. Developers Aren&#8217;t Crazy About It, Either</title>
@@ -103,130 +210,6 @@
       <description>
 Les joueurs aguerris visent toujours des &#233;crans PC bien r&#233;actifs et fluides. Ceux-l&#224; devraient donc &#234;tre satisfaits de l'Acer Predator X27UW3bmiiprx, qui coche bien des cases, et qu&#8217;on trouve &#224; 449 euros au lieu de 599 euros de base.&#160;
 </description>
-    </item>
-    <item>
-      <title>Here's how not to leak military information with your Strava run</title>
-      <link>https://www.engadget.com/apps/heres-how-not-to-leak-military-information-with-your-strava-run-183635879.html?src=rss</link>
-      <pubDate>Fri, 20 Mar 2026 18:36:35 +0000</pubDate>
-      <guid isPermaLink="false">67b631c6-dee4-410e-b9ed-68226c067e95</guid>
-      <description>A French officer recently leaked the location of an aircraft carrier because of a run on the sports app Strava. This is not the first time this has happened, as the app tracks location data.
-It was used to access the location of US military bases back in 2018 and members of the Secret Service accidentally shared their whereabouts while protecting then-US President Joe Biden. The same has happened to President Trump and other world leaders.
-&#128680;&#127467;&#127479; NEW: The location of the French aircraft carrier, FS Charles de Gaulle, has been given away by a sailor using Strava whilst jogging on the ship deck[@le...</description>
-    </item>
-    <item>
-      <title>Grid Down? Scientists Say Your EV Could Provide the Needed Backup Power</title>
-      <link>https://gizmodo.com/grid-down-scientists-say-your-ev-could-provide-the-needed-backup-power-2000736063</link>
-      <pubDate>Fri, 20 Mar 2026 18:35:25 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000736063</guid>
-      <description>If EVs survive the ongoing political fiasco, here&#8217;s how we could get the most bang for our buck.</description>
-    </item>
-    <item>
-      <title>Marvel&#8217;s Upcoming Movies Now Almost Extend Until the Next Decade</title>
-      <link>https://gizmodo.com/marvels-upcoming-movies-now-almost-extend-until-the-next-decade-2000736176</link>
-      <pubDate>Fri, 20 Mar 2026 18:30:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000736176</guid>
-      <description>The studio must feel good about its post-'Doomsday'' and 'Secret Wars' world as films now go into 2029.</description>
-    </item>
-    <item>
-      <title>Getting to the Airport 3 Hours Early Is No Guarantee You&#8217;ll Make Your Flight, as TSA Crisis Worsens</title>
-      <link>https://gizmodo.com/getting-to-the-airport-3-hours-early-is-no-guarantee-youll-make-your-flight-as-tsa-crisis-worsens-2000736098</link>
-      <pubDate>Fri, 20 Mar 2026 18:25:46 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000736098</guid>
-      <description>"I've NEVER seen Hartsfield Jackson this bad," one local reporter in Atlanta wrote.</description>
-    </item>
-    <item>
-      <title>Google shares 5 tools to help avoid tax scams</title>
-      <link>https://mashable.com/article/google-tools-to-avoid-tax-season-scams</link>
-      <pubDate>Fri, 20 Mar 2026 18:22:13 +0000</pubDate>
-      <guid isPermaLink="false">00zMBPL8c9M8dLmmXkTU288</guid>
-      <description>Google shares its tools to help users avoid scams this tax season.</description>
-    </item>
-    <item>
-      <title>Trump takes another shot at dismantling state AI regulation</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework</link>
-      <pubDate>2026-03-20T14:17:02-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=898055</guid>
-      <description>The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the "national strategy to achieve global AI dominance." The plan advises [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Pok&#233;mon Pokopia event: How to get Hoppip while you can</title>
-      <link>https://mashable.com/article/pokemon-pokopia-hoppip-event</link>
-      <pubDate>Fri, 20 Mar 2026 18:09:36 +0000</pubDate>
-      <guid isPermaLink="false">04GI2om0RfiteGuiPZ0D8sR</guid>
-      <description>If you want Hoppip to show up in your town, all you have to do is be in the right place at the right time.</description>
-    </item>
-    <item>
-      <title>These electronic Polaroids are powered by your phone&#8217;s NFC chip</title>
-      <link>https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet</link>
-      <pubDate>2026-03-20T14:05:07-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=898162</guid>
-      <description>E Ink displays have expanded beyond e-readers. They're now used in digital photo frames, smartphones, and even the price tags found on grocery store shelves. VidaBay's Classic Plus NFC E-Ink Fridge Magnet - which looks like a Polaroid photo - features the same low power color E Ink screens used in those electronic price tags, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Why societal change and technology may be key to Americans regaining trust in the news media</title>
-      <link>https://www.fastcompany.com/91512617/why-societal-change-and-technology-may-be-key-to-americans-regaining-trust-in-the-media-again</link>
-      <pubDate>2026-03-20T18:01:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512617/why-societal-change-and-technology-may-be-key-to-americans-regaining-trust-in-the-media-again</guid>
-      <description>Speaking with Fast Company at SXSW, two media experts shared their philosophies on the &#8220;future of truth.&#8221;
-Is all hope lost for the future of the news media in the U.S.? </description>
-    </item>
-    <item>
-      <title>The MacBook Air M4 might be the best laptop buy today for you, despite the Air M5 being so impressive &#8212; here&#8217;s why</title>
-      <link>https://www.techradar.com/computing/macbooks/the-macbook-air-m4-might-be-the-best-laptop-buy-today-for-you-despite-the-air-m5-being-so-impressive-heres-why</link>
-      <pubDate>Fri, 20 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">T5JMhwpPc7wT7hAbeT3qYH</guid>
-      <description>Just when I'd decided to grab the MacBook Air M5, something came along that made the Air M4 much better value.</description>
-    </item>
-    <item>
-      <title>Test du Roborock Qrevo Curv 2 Flow : le roi des aspirateurs frappe-t-il encore un grand coup ?</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/robot-aspirateur/3004403_test-roborock-qrevo-curv-2-flow</link>
-      <pubDate>Fri, 20 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/robot-aspirateur/3004403_test-roborock-qrevo-curv-2-flow</guid>
-      <description>
-En troquant ses traditionnelles serpilli&#232;res contre un rouleau de lavage ultra-hygi&#233;nique, le Roborock Qrevo Curv 2 Flow signe un virage technologique. Est-ce que c'est r&#233;ussi ? R&#233;ponse dans ce test.
-</description>
-    </item>
-    <item>
-      <title>NASA Is Exploring a Reduced Role for SLS as It Gets Cozier With SpaceX</title>
-      <link>https://gizmodo.com/nasa-is-exploring-a-reduced-role-for-sls-as-it-gets-cozier-with-spacex-2000736049</link>
-      <pubDate>Fri, 20 Mar 2026 17:55:19 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000736049</guid>
-      <description>The Starship rocket could take on a central role in the Artemis missions, propelling astronauts to lunar orbit and landing them on the surface.</description>
-    </item>
-    <item>
-      <title>Look ma, no hands! Jony Ive's design firm invents a hands-free, hard-to-read, costly clock &#8212; but it plays sounds, too, at least!</title>
-      <link>https://www.techradar.com/home/look-ma-no-hands-jony-ives-design-firm-invents-a-hands-free-hard-to-read-costly-clock-but-it-plays-sounds-too-at-least</link>
-      <pubDate>Fri, 20 Mar 2026 17:53:12 +0000</pubDate>
-      <guid isPermaLink="false">6qem6isFJgZvzouRrDL7vN</guid>
-      <description>Famous designer Jonathan Ive has created The Clock, a bedside clock that uses light instead of an analog mechanism to tell the time</description>
-    </item>
-    <item>
-      <title>I tested the beginner-friendly Anycubic Kobra X - a 4-color 3D printer that's surprisingly good</title>
-      <link>https://www.techradar.com/pro/anycubic-kobra-x-3d-printer-review</link>
-      <pubDate>Fri, 20 Mar 2026 17:51:35 +0000</pubDate>
-      <guid isPermaLink="false">SU9WRv4MuDSy3BexK9pTdM</guid>
-      <description>Affordable high-speed multi-color printing on a budget.</description>
-    </item>
-    <item>
-      <title>Nine months later, the Trump phone still doesn&#8217;t exist</title>
-      <link>https://www.theverge.com/tech/898110/trump-phone-t1-release-certification</link>
-      <pubDate>2026-03-20T13:46:49-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=898110</guid>
-      <description>Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. Once again, we're waiting for a response. It's been more than a month since two Trump Mobile executives showed me what they claimed was the T1 Phone, and in the [&#8230;]</description>
-    </item>
-    <item>
-      <title>This Compact Bose Soundbar Is $80 Off</title>
-      <link>https://www.wired.com/story/bose-smart-soundbar-deal-326/</link>
-      <pubDate>Fri, 20 Mar 2026 17:45:31 +0000</pubDate>
-      <guid isPermaLink="false">69bd79dc1bc46e58ab3f670d</guid>
-      <description>Bose might be known for its noise-canceling headphones, but the brand&#8217;s soundbars are pretty solid too.</description>
-    </item>
-    <item>
-      <title>'It has to go beyond a display company': I spoke to the CEO of a TV manufacturer about AI, the monetization of TVs software, and how TV needs to evolve</title>
-      <link>https://www.techradar.com/televisions/it-has-to-go-beyond-a-display-company-i-spoke-to-the-ceo-of-a-tv-manufacturer-about-ai-the-monetization-of-tvs-software-and-how-tv-needs-to-evolve</link>
-      <pubDate>Fri, 20 Mar 2026 17:43:47 +0000</pubDate>
-      <guid isPermaLink="false">JdG3GBBTdoGua8s5dMyXKG</guid>
-      <description>Just how can TV evolve? I spoke to to Balaji Krishnan, CEO of Displace to get his thoughts on what needs to happen in the TV market.</description>
     </item>
   </channel>
 </rss>
