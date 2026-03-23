@@ -3,100 +3,84 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 23 Mar 2026 07:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 09:03:24 GMT</lastBuildDate>
     <item>
-      <title>Apple M5 et le M5 Pro&#160;: quelles sont les vraies diff&#233;rences de puissance&#160;? On a compar&#233;</title>
+      <title>The U.K. Has a New Partner in the Fight Against White Collar Crime: Palantir</title>
+      <link>https://gizmodo.com/the-u-k-has-a-new-partner-in-the-fight-against-white-collar-crime-palantir-2000736622</link>
+      <pubDate>Mon, 23 Mar 2026 09:00:09 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000736622</guid>
+      <description>Not everyone in the relevant agency is thrilled.</description>
+    </item>
+    <item>
+      <title>The AI Race Is Pressuring Utilities to Squeeze More From Europe&#8217;s Power Grids</title>
+      <link>https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/</link>
+      <pubDate>Mon, 23 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69b983dcd7f42fd192ce3930</guid>
+      <description>As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.</description>
+    </item>
+    <item>
+      <title>L&#8217;iPad 12 arrive&#160;: voici ce que l&#8217;on sait sur la tablette la moins ch&#232;re d&#8217;Apple</title>
+      <link>https://www.01net.com/actualites/ipad-12-arrive-ce-que-on-sait-tablette-moins-chere-apple.html</link>
+      <pubDate>Mon, 23 Mar 2026 08:59:40 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1333933</guid>
+      <description>Malgr&#233; un mois de mars riche en annonces, Apple pr&#233;voit toujours de sortir l'iPad 12 prochainement. Voici ce qu'on sait sur la tablette.</description>
+    </item>
+    <item>
+      <title>Nouveau week-end noir pour le Bitcoin et les cryptos&#160;: des centaines de millions de dollars &#233;vapor&#233;s</title>
+      <link>https://www.01net.com/actualites/nouveau-week-end-noir-bitcoin-cryptos-centaines-millions-dollars-evapores.html</link>
+      <pubDate>Mon, 23 Mar 2026 08:30:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1333919</guid>
+      <description>Le Bitcoin replonge sous les 69 900 dollars, rattrap&#233; par la guerre en Iran. Apr&#232;s avoir bri&#232;vement d&#233;pass&#233; les 75 000 dollars &#224; la mi-mars, la cryptomonnaie a brutalement d&#233;viss&#233; &#224; la suite des nouvelles menaces lanc&#233;es par Donald Trump au sujet du d&#233;troit d&#8217;Ormuz.</description>
+    </item>
+    <item>
+      <title>Duolingo a du souci &#224; se faire avec cette nouvelle fonction de Google Traduction</title>
+      <link>https://www.frandroid.com/marques/google/3036065_duolingo-a-du-souci-a-se-faire-avec-cette-nouvelle-fonction-de-google-traduction</link>
+      <pubDate>Mon, 23 Mar 2026 08:29:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3036065_duolingo-a-du-souci-a-se-faire-avec-cette-nouvelle-fonction-de-google-traduction</guid>
+      <description>
+Les &#233;quipes de Google pr&#233;parent un nouveau mode d&#8217;apprentissage pour Google Traduction. Une fonctionnalit&#233; qui devrait permettre &#224; ses utilisateurs d&#8217;avoir une prononciation aux petits oignons.
+</description>
+    </item>
+    <item>
+      <title>Nvidia GeForce Now s&#8217;offre du 90 FPS sur les casques VR</title>
+      <link>https://www.frandroid.com/marques/nvidia/3036047_nvidia-geforce-now-soffre-du-90-fps-sur-les-casques-vr</link>
+      <pubDate>Mon, 23 Mar 2026 08:22:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3036047_nvidia-geforce-now-soffre-du-90-fps-sur-les-casques-vr</guid>
+      <description>
+Nvidia continue de s&#8217;imposer comme l&#8217;une des r&#233;f&#233;rences du cloud gaming et renforce sa prise en charge des casques de r&#233;alit&#233; virtuelle ainsi que de r&#233;alit&#233; augment&#233;e. Les amoureux de l&#8217;immersion vont pouvoir profiter d&#8217;une diffusion &#224; 90 images par seconde.
+</description>
+    </item>
+    <item>
+      <title>Windows 11&#160;: Microsoft publie un correctif pour r&#233;parer ses applis cass&#233;es par le Patch Tuesday</title>
+      <link>https://www.01net.com/actualites/windows-11-microsoft-publie-un-correctif-pour-reparer-ses-applis-cassees-par-le-patch-tuesday.html</link>
+      <pubDate>Mon, 23 Mar 2026 08:09:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1333920</guid>
+      <description>Le tr&#232;s probl&#233;matique bug caus&#233; par le dernier Patch Tuesday est en cours de r&#233;solution. Microsoft vient de pousser une mise &#224; jour hors bande pour r&#233;parer le probl&#232;me de connexion dans ses applications.</description>
+    </item>
+    <item>
+      <title>Le MacBook Neo bat des nouveaux records de vente chez Apple</title>
+      <link>https://www.frandroid.com/marques/apple/3036067_le-macbook-neo-bat-des-nouveaux-records-de-vente-chez-apple</link>
+      <pubDate>Mon, 23 Mar 2026 08:06:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3036067_le-macbook-neo-bat-des-nouveaux-records-de-vente-chez-apple</guid>
+      <description>
+Au milieu des nombreux produits annonc&#233;s lors de ce mois de mars chez Apple, un semble avoir largement captur&#233; l&#8217;attention du grand public&#160;: le MacBook Neo, qui rencontre un joli succ&#232;s commercial, semblerait-il.
+</description>
+    </item>
+    <item>
+      <title>Dreame s&#8217;attaque aux t&#233;l&#233;viseurs et lance un TV QLED de 55&#8243; &#224; 120 Hz d&#233;j&#224; &#224; prix cass&#233; chez Boulanger</title>
+      <link>https://www.frandroid.com/bons-plans/3034863_dreame-sattaque-aux-televiseurs-et-lance-un-tv-qled-de-55-a-120-hz-deja-a-prix-casse-chez-boulanger</link>
+      <pubDate>Mon, 23 Mar 2026 07:26:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3034863_dreame-sattaque-aux-televiseurs-et-lance-un-tv-qled-de-55-a-120-hz-deja-a-prix-casse-chez-boulanger</guid>
+      <description>
+Avec ce TV QLED de 55 pouces compatible avec le HDR10+, Dreame propose un t&#233;l&#233;viseur soign&#233;, disponible pour 200 euros de moins chez Boulanger.
+</description>
+    </item>
+    <item>
+      <title>Apple M5 et M5 Pro&#160;: quelles sont les vraies diff&#233;rences de puissance&#160;? On a compar&#233;</title>
       <link>https://www.01net.com/actualites/apple-m5-et-le-m5-pro-quelles-sont-les-vraies-differences-de-puissance-on-a-compare.html</link>
       <pubDate>Mon, 23 Mar 2026 07:05:24 +0000</pubDate>
       <guid isPermaLink="false">https://www.01net.com/?p=1333666</guid>
       <description>Le 01lab a fait chauffer les bancs d'essai pour &#233;valuer les derni&#232;res puces d'Apple. Nous avons oppos&#233; la M5 classique d'un MacBook Pro 14 pouces &#224; la nouvelle M5 Pro qui &#233;quipe le MacBook Pro 16 pouces.</description>
-    </item>
-    <item>
-      <title>Google Messages ne plaisante plus&#160;: les mentions et la corbeille arrivent enfin</title>
-      <link>https://www.01net.com/actualites/google-messages-plaisante-plus-mentions-corbeille-arrivent-enfin.html</link>
-      <pubDate>Mon, 23 Mar 2026 07:01:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1333906</guid>
-      <description>Google Messages d&#233;ploie officiellement les mentions dans les discussions de groupe, ainsi qu&#8217;une Corbeille. Voici &#224; quoi cela ressemble.</description>
-    </item>
-    <item>
-      <title>Comment Android&#160;17 va vous faire oublier votre code PIN</title>
-      <link>https://www.frandroid.com/marques/google/3036051_comment-android-17-va-vous-faire-oublier-votre-code-pin</link>
-      <pubDate>Mon, 23 Mar 2026 07:00:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3036051_comment-android-17-va-vous-faire-oublier-votre-code-pin</guid>
-      <description>
-C&#8217;est un m&#233;canisme de double authentification vieux comme Android qui pourrait dispara&#238;tre bient&#244;t. La prochaine version de l&#8217;OS pourrait vous &#233;viter d&#8217;avoir &#224; rentrer votre code PIN &#224; chaque fois que vous red&#233;marrez votre t&#233;l&#233;phone.
-</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy A17 5G vs CMF Phone 2 Pro&#160;: comment choisir le meilleur smartphone &#224; petit prix&#160;?</title>
-      <link>https://www.frandroid.com/versus/2828933_samsung-galaxy-a17-5g-vs-cmf-phone-2-pro-comment-choisir-le-meilleur-smartphone-a-petit-prix</link>
-      <pubDate>Mon, 23 Mar 2026 06:40:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/versus/2828933_samsung-galaxy-a17-5g-vs-cmf-phone-2-pro-comment-choisir-le-meilleur-smartphone-a-petit-prix</guid>
-      <description>
-CMF a redynamis&#233; (pour ne pas dire dynamiter) l'entr&#233;e de gamme cette ann&#233;e. Mais, le Phone 2 Pro a-t-il pour autant les &#233;paules pour affronter l'un des t&#233;nors du march&#233;, le Samsung Galaxy A17 5G&#160;? Voyons &#231;a, dans ce nouveau versus.
-</description>
-    </item>
-    <item>
-      <title>We called Samsung's Galaxy Tab S10 Plus "the best of both worlds between a phone and a laptop" and it's still our favourite premium Android tablet &#8211; and it's even more appealing with this AU$600 discount</title>
-      <link>https://www.techradar.com/tablets/we-called-samsungs-galaxy-tab-s10-plus-the-best-of-both-worlds-between-a-phone-and-a-laptop-and-its-still-our-favourite-premium-android-tablet-and-its-even-more-appealing-with-this-au-usd600-discount</link>
-      <pubDate>Mon, 23 Mar 2026 06:33:16 +0000</pubDate>
-      <guid isPermaLink="false">wYnAtkNDBAYhdAvYwkyBLU</guid>
-      <description>Samsung&#8217;s Galaxy Tab range includes some of our favourite Android tablets, and some of its latest offerings are discounted for a limited time, with savings of up to AU$1,000.</description>
-    </item>
-    <item>
-      <title>01net morning&#160;: pourquoi Renault emp&#234;che l&#8217;ouverture du capot de la Twingo &#233;lectrique, test de l&#8217;Oppo Reno 15, nouvelle arnaque Leboncoin</title>
-      <link>https://www.01net.com/actualites/01net-morning-pourquoi-renault-empeche-louverture-du-capot-de-la-twingo-electrique-test-de-loppo-reno-15-nouvelle-arnaque-leboncoin.html</link>
-      <pubDate>Mon, 23 Mar 2026 06:30:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1333895</guid>
-      <description>Bonjour &#224; tous, voici la matinale de 01net ! Qu&#8217;avez-vous manqu&#233; ce week-end ? Retrouvez toute l&#8217;actu &#224; connaitre pour d&#233;marrer la semaine du bon pied !</description>
-    </item>
-    <item>
-      <title>Nakamura Crossover GT : on l&#8217;a not&#233; 8/10 et il est actuellement 500 &#8364; moins cher gr&#226;ce &#224; cette offre chez Intersport</title>
-      <link>https://www.frandroid.com/bons-plans/3034911_nakamura-crossover-gt-on-la-note-8-10-et-il-est-actuellement-500-e-moins-cher-grace-a-cette-offre-chez-intersport</link>
-      <pubDate>Mon, 23 Mar 2026 06:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3034911_nakamura-crossover-gt-on-la-note-8-10-et-il-est-actuellement-500-e-moins-cher-grace-a-cette-offre-chez-intersport</guid>
-      <description>
-Le Nakamura Crossover GT est un VTC confortable qui se distingue par sa transmission automatique &#224; trois vitesses, son moteur puissant et une autonomie solide pour les balades urbaines. Not&#233; 8/10 par nos soins, le voil&#224; encore plus recommandable &#224; 1 599 euros au lieu de 2 099 euros &#224; sa sortie.  
-</description>
-    </item>
-    <item>
-      <title>Comment les astronautes d&#8217;Artemis II se pr&#233;parent &#224; passer 10 jours dans 9 m&#232;tres cubes !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/artemis-ii-astronautes-artemis-ii-preparent-passer-10-jours-9-metres-cubes-131003/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 23 Mar 2026 07:23:56 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/artemis-ii-astronautes-artemis-ii-preparent-passer-10-jours-9-metres-cubes-131003/#xtor%3DRSS-8</guid>
-      <description>Quatre astronautes, dix jours de voyage et &#224; peine quelques m&#232;tres cubes pour vivre, travailler et dormir : la mission Artemis II&#160;sera non seulement un exploit technologique, mais aussi un d&#233;fi humain. &#192; bord de la capsule Orion, direction la Lune&#8230; dans une promiscuit&#233; digne d&#8217;un camping...</description>
-    </item>
-    <item>
-      <title>0 euro pendant 3 mois : La Poste Mobile vous offre gratuitement ses forfaits sans engagement [Sponso]</title>
-      <link>https://www.frandroid.com/telecom/forfait-mobile/3027779_0-euro-pendant-3-mois-la-poste-mobile-vous-offre-gratuitement-ses-forfaits-sans-engagement</link>
-      <pubDate>Mon, 23 Mar 2026 06:18:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/forfait-mobile/3027779_0-euro-pendant-3-mois-la-poste-mobile-vous-offre-gratuitement-ses-forfaits-sans-engagement</guid>
-      <description>
-Un forfait gratuit durant trois mois, c&#8217;est une occasion &#224; ne pas laisser passer. La Poste Mobile prolonge sa tr&#232;s bonne offre jusqu&#8217;au 29 mars, non pas sur un seul, mais sur tous ses forfaits mobiles sans engagement.&#160;
-</description>
-    </item>
-    <item>
-      <title>Les Samsung Galaxy&#160;S26 vont aussi gagner leur compatibilit&#233; AirDrop</title>
-      <link>https://www.frandroid.com/marques/samsung/3036039_les-samsung-galaxy-s26-vont-aussi-gagner-leur-compatibilite-airdrop</link>
-      <pubDate>Mon, 23 Mar 2026 06:16:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3036039_les-samsung-galaxy-s26-vont-aussi-gagner-leur-compatibilite-airdrop</guid>
-      <description>
-Apr&#232;s les Pixel de Google et quelques promesses de la part d&#8217;autres constructeurs, Samsung d&#233;ploie la compatibilit&#233; AirDrop sur ses Galaxy&#160;S26. Une mani&#232;re de se rapprocher de l&#8217;&#233;cosyst&#232;me Apple.
-</description>
-    </item>
-    <item>
-      <title>NYT Pips hints, answers for March 23, 2026</title>
-      <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-march-23-2026</link>
-      <pubDate>Mon, 23 Mar 2026 05:35:40 +0000</pubDate>
-      <guid isPermaLink="false">04vPMKHdapka2qbgFli5jnm</guid>
-      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
-    </item>
-    <item>
-      <title>NYT Connections Sports Edition today: Hints and answers for March 23, 2026</title>
-      <link>https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-march-23-2026</link>
-      <pubDate>Mon, 23 Mar 2026 05:25:06 +0000</pubDate>
-      <guid isPermaLink="false">05zDyC5RnRwYx5DHEYZoAgu</guid>
-      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
     </item>
   </channel>
 </rss>
