@@ -3,97 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 23 Mar 2026 23:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 02:33:28 GMT</lastBuildDate>
     <item>
-      <title>Bengaluru food delivery startup Swish raises $38M: its third round in 18 months</title>
-      <link>https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/</link>
-      <pubDate>Mon, 23 Mar 2026 23:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3104957</guid>
-      <description>Swish has more than doubled its valuation in a year as its full-stack, hyperlocal model positions ultra-fast food delivery as a high-frequency habit.</description>
+      <title>What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?</title>
+      <link>https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai</link>
+      <pubDate>Tue, 24 Mar 2026 02:16:00 GMT</pubDate>
+      <guid isPermaLink="false">4cde7nmnfavUDfAAWv4r8d</guid>
+      <description>ByteDance, the Chinese tech giant behind TikTok, last month released what may be one of the most ambitious open-source AI agent frameworks to date: DeerFlow 2.0. It's now going viral across the machine learning community on social media. But is it safe and ready for enterprise use?This is a so-called "SuperAgent harness" that orchestrates multiple AI sub-agents to autonomously complete complex, multi-hour tasks. Best of all: it is available under the permissive, enterprise-friendly standard MIT License, meaning anyone can use, modify, and build on it commercially at no cost. DeerFlow 2.0 is de...</description>
     </item>
     <item>
-      <title>I want to love Marathon but can already see why players are falling off its miserable grind</title>
-      <link>https://www.techradar.com/gaming/marathon-review</link>
-      <pubDate>Mon, 23 Mar 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7G7pA8RhbffbaQwULHxcDB</guid>
-      <description>Marathon looks great and has some strong moment-to-moment action, but it lacks compelling reasons to keep playing.</description>
-    </item>
-    <item>
-      <title>Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund</title>
-      <link>https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/</link>
-      <pubDate>Mon, 23 Mar 2026 22:57:53 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3105138</guid>
-      <description>As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.</description>
-    </item>
-    <item>
-      <title>Gas Prices Are So High That DoorDash Is Providing &#8216;Emergency Relief&#8217;</title>
-      <link>https://gizmodo.com/gas-prices-are-so-high-that-doordash-is-providing-emergency-relief-2000737114</link>
-      <pubDate>Mon, 23 Mar 2026 22:52:48 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737114</guid>
-      <description>The platform will give cash back on gas for its drivers.</description>
-    </item>
-    <item>
-      <title>The US government just banned consumer routers made outside the US</title>
-      <link>https://www.theverge.com/news/899172/fcc-foreign-router-ban</link>
-      <pubDate>2026-03-23T18:47:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899172</guid>
-      <description>In December, the Federal Communications Commission banned all future drones made in foreign countries from being imported into the United States, unless or until their maker gets an exemption. Now, the FCC has done the exact same for consumer networking gear, citing "an unacceptable risk to the national security of the United States and to [&#8230;]</description>
-    </item>
-    <item>
-      <title>FCC Bans All New Routers Not Made in America</title>
-      <link>https://gizmodo.com/fcc-bans-all-new-routers-not-made-in-america-2000737176</link>
-      <pubDate>Mon, 23 Mar 2026 22:39:56 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737176</guid>
-      <description>Routers the FCC has already approved can still be sold, but further approvals of foreign-made routers will not be issued.</description>
-    </item>
-    <item>
-      <title>Air Street becomes one of the largest solo VCs in Europe with $232M fund</title>
-      <link>https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/</link>
-      <pubDate>Mon, 23 Mar 2026 22:36:39 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3105120</guid>
-      <description>London&#8217;s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.</description>
-    </item>
-    <item>
-      <title>The US bans all new foreign-made network routers</title>
-      <link>https://www.engadget.com/big-tech/the-us-bans-all-new-foreign-made-network-routers-223622966.html?src=rss</link>
-      <pubDate>Mon, 23 Mar 2026 22:36:22 +0000</pubDate>
-      <guid isPermaLink="false">a0b7bde9-29a4-4b6c-8660-1eae850de167</guid>
-      <description>The Federal Communications Commission has released a notice today designating any consumer routers manufactured outside the US as a security risk. The rule states that new foreign-made product models for network routers will land on the Covered List, a set of communications equipment seen as having an unacceptable risk to national security. Previously purchased routers can still be used and retailers can still sell models that were approved by the prior FCC policies. In an exception to the usual rule, routers included on the Covered List can continue to receive updates at least through March 1...</description>
-    </item>
-    <item>
-      <title>Apple Maps may be about to get ads</title>
-      <link>https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/</link>
-      <pubDate>Mon, 23 Mar 2026 22:33:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3104989</guid>
-      <description>Apple Maps may soon serve ads in top results when users search on terms like "restaurants."</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg Is Building an AI CEO. Will He Lay Himself Off?</title>
-      <link>https://gizmodo.com/mark-zuckerberg-is-building-an-ai-ceo-will-he-lay-himself-off-2000737065</link>
-      <pubDate>Mon, 23 Mar 2026 22:00:07 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737065</guid>
-      <description>After the metaverse fiasco, maybe it would be for the best.</description>
-    </item>
-    <item>
-      <title>This lightweight and portable Lenovo Chromebook is now 70% off</title>
-      <link>https://mashable.com/article/march-23-lenovo-11-6-chromebook-100e-gen-2-2019</link>
-      <pubDate>Mon, 23 Mar 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01tOBEpCpFiZZxUthOObqnd</guid>
-      <description>The Lenovo Chromebook 100E Gen 2 is on sale for $60, a 70% discount on a compact laptop for daily use and online work.</description>
-    </item>
-    <item>
-      <title>Hackers says they breached Crunchyroll, stole nearly 7 million users data</title>
-      <link>https://mashable.com/article/crunchyroll-investigating-breach-hacker-claims-stole-6-8-million-users</link>
-      <pubDate>Mon, 23 Mar 2026 21:46:37 +0000</pubDate>
-      <guid isPermaLink="false">01Dg8WnmzVZoCFNQ2GSQ6ag</guid>
-      <description>Crunchyroll is investigating a potential breach after a hacker made shocking claims.</description>
-    </item>
-    <item>
-      <title>The Next PlayStation May Rely on AI More Than Any Console Before Before It</title>
-      <link>https://gizmodo.com/playstation-6-may-rely-on-ai-more-than-any-console-before-before-it-2000737105</link>
-      <pubDate>Mon, 23 Mar 2026 21:45:59 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737105</guid>
-      <description>Get ready for "fake frames" on the PlayStation 6, or whatever Sony is cooking up next.</description>
+      <title>What is the release date for The Pitt season 2 episode 12 on HBO Max?</title>
+      <link>https://www.techradar.com/streaming/hbo-max/the-pitt-season-2-episode-12-release-date-time</link>
+      <pubDate>Tue, 24 Mar 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NwvmHVKQoW7U3MVHxxNWKD</guid>
+      <description>Last week's episode was by far the most difficult to stomach. But when is The Pitt season 2 episode 12 airing on HBO Max?</description>
     </item>
   </channel>
 </rss>
