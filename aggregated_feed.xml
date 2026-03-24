@@ -3,517 +3,248 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 24 Mar 2026 17:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 19:10:28 GMT</lastBuildDate>
     <item>
-      <title>Amazon Says Its Cloud Facilities Were Disrupted Again Due to War in Iran</title>
-      <link>https://gizmodo.com/amazon-says-its-cloud-facilities-were-disrupted-again-due-to-war-in-iran-2000737374</link>
-      <pubDate>Tue, 24 Mar 2026 17:00:04 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737374</guid>
-      <description>Iran has said American big tech is a new target.</description>
+      <title>Tether, the World&#8217;s Biggest Stablecoin, Is Finally Getting Its First Full Audit</title>
+      <link>https://gizmodo.com/tether-the-worlds-biggest-stablecoin-is-finally-getting-its-first-full-audit-2000737537</link>
+      <pubDate>Tue, 24 Mar 2026 19:05:54 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000737537</guid>
+      <description>After more than a decade of accusations, the company claims it will submit to a legitimate review of its finances.</description>
     </item>
     <item>
-      <title>Arm Is Now Making Its Own Chips</title>
-      <link>https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/</link>
-      <pubDate>Tue, 24 Mar 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69c1d09f26e816f1e502518e</guid>
-      <description>The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.</description>
+      <title>This tax-themed malvertising attack can blind security software before it arrives &#8212; and then unleashes ransomware</title>
+      <link>https://www.techradar.com/pro/security/this-tax-themed-malvertising-attack-can-blind-security-software-before-it-arrives-and-then-unleashes-ransomware</link>
+      <pubDate>Tue, 24 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">EpMSiKstXBZhUSgpWsQiAR</guid>
+      <description>If you're rushing to file your taxes, be extra careful - crooks are betting on your sloppiness.</description>
     </item>
     <item>
-      <title>Welp, I bought an iPhone again</title>
-      <link>https://www.theverge.com/tech/899602/best-phone-android-ios-app-store</link>
-      <pubDate>2026-03-24T13:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899602</guid>
-      <description>It takes a week to switch phones. First, there's the technical process of moving eSIMs across devices, which takes either a few minutes (if you're switching from one Android phone to another) or two days, a half-dozen calls to Verizon, a verification text message sent to your mom, and approximately 11,000 restarts of your phone [&#8230;]</description>
+      <title>Good luck, Americans, your Wi-Fi choices are about to get worse &#8212; we&#8217;ve tested hundreds of routers and every single one of our favorites is made outside of the US</title>
+      <link>https://www.techradar.com/computing/wi-fi-broadband/good-luck-americans-your-wi-fi-choices-are-about-to-get-worse-weve-tested-hundreds-of-routers-and-every-single-one-of-our-favorites-are-made-outside-of-the-us</link>
+      <pubDate>Tue, 24 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">BF2N5hvQ2q9XCxuUWDd6DF</guid>
+      <description>Judging by our best routers guide, if the FCC does ban non-US-made devices, Americans could be in for a rough ride.</description>
     </item>
     <item>
-      <title>Apple Music partners with Ticketmaster to power its concert discovery feature</title>
-      <link>https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/</link>
-      <pubDate>Tue, 24 Mar 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3105314</guid>
-      <description>Apple Music teamed up with Ticketmaster to power its Concert Discovery feature, which recommends live music events based on users' listening habits.</description>
+      <title>What You Need to Know About the Foreign-Made Router Ban in the US</title>
+      <link>https://www.wired.com/story/us-government-foreign-made-router-ban-explained/</link>
+      <pubDate>Tue, 24 Mar 2026 18:59:10 +0000</pubDate>
+      <guid isPermaLink="false">69c2b2ed091b67bde20865bb</guid>
+      <description>The FCC just banned the sale of new consumer-grade Wi-Fi routers manufactured outside the US. Here&#8217;s what it means for you.</description>
     </item>
     <item>
-      <title>'Traces of unauthorized access': Mazda confirms data breach exposing employee and partner data &#8212; here's what we know</title>
-      <link>https://www.techradar.com/pro/security/traces-of-unauthorized-access-mazda-confirms-data-breach-that-exposed-employee-and-partner-data</link>
-      <pubDate>Tue, 24 Mar 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zF5sLSXLhLDS5pY4C9g9pV</guid>
-      <description>A handful of Mazda records were exfiltrated - but no one has claimed responsibility yet.</description>
+      <title>The Moon Has Far Less Water Than Previously Thought, Study Suggests</title>
+      <link>https://gizmodo.com/the-moon-has-far-less-water-than-previously-thought-study-suggests-2000737449</link>
+      <pubDate>Tue, 24 Mar 2026 18:55:21 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000737449</guid>
+      <description>A recent search for water ice has turned up empty, casting doubt on the abundance of the valuable resource on the lunar surface.</description>
     </item>
     <item>
-      <title>This Chip Could Fix the Fukushima Plant&#8217;s Wi-Fi Problem</title>
-      <link>https://gizmodo.com/this-chip-could-fix-the-fukushima-plants-wi-fi-problem-2000737409</link>
-      <pubDate>Tue, 24 Mar 2026 16:57:49 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737409</guid>
-      <description>The ultimate goal is to devise a fully wireless, durable communication device that functions deep within a nuclear plant, the team said.</description>
+      <title>Samsung reveals its cheaper mini-LED TVs for 2026 &#8212; and it&#8217;s dropping QLED on some of them, I kid you not</title>
+      <link>https://www.techradar.com/televisions/samsung-reveals-its-cheaper-mini-led-tvs-for-2026-and-its-dropping-qled-on-some-of-them-i-kid-you-not</link>
+      <pubDate>Tue, 24 Mar 2026 18:42:23 +0000</pubDate>
+      <guid isPermaLink="false">gHD4sZhsTP7QuhnvebkpR5</guid>
+      <description>New Neo QLED TVs, and two more affordable mini-LED models with no quantum dots mentioned</description>
     </item>
     <item>
-      <title>Pok&#233;mon Champions will hit Switch and Switch 2 on April 8</title>
-      <link>https://www.engadget.com/gaming/nintendo/pokemon-champions-will-hit-switch-and-switch-2-on-april-8-165737121.html?src=rss</link>
-      <pubDate>Tue, 24 Mar 2026 16:57:37 +0000</pubDate>
-      <guid isPermaLink="false">bb0e0b8f-e5d8-40e6-9385-749c04b380b1</guid>
-      <description>Pok&#233;mon Champions &#8212; a battle-focused game along the lines of Pok&#233;mon Stadium &#8212; now has a release date, and it's pretty darn soon. It will hit Nintendo Switch and Switch 2 on April 8. A mobile version is in the works with support for cross-play with Nintendo's consoles.Nintendo released a new overview video that shows how the game works. You can recruit Pok&#233;mon in the game or transfer those you've found in previous titles and Pok&#233;mon Go via Pok&#233;mon Home. Then you'll be able to take half a dozen of your Pok&#233;mon into strategic turn-based fights with other players. It's definitely a Pok&#233;mon battle...</description>
+      <title>OpenAI adds open source tools to help developers build for teen safety</title>
+      <link>https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/</link>
+      <pubDate>Tue, 24 Mar 2026 18:41:34 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3105471</guid>
+      <description>Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.</description>
     </item>
     <item>
-      <title>Un miracle &#224; 60&#160;000 km de la Terre&#160;: le satellite europ&#233;en Proba-3 r&#233;tablit le contact apr&#232;s un mois d&#8217;errance</title>
-      <link>https://www.01net.com/actualites/un-miracle-a-60-000-km-de-la-terre-le-satellite-europeen-proba-3-retablit-le-contact-apres-un-mois-derrance.html</link>
-      <pubDate>Tue, 24 Mar 2026 16:57:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334339</guid>
-      <description>L'Agence spatiale europ&#233;enne retient son souffle. Perdu depuis la mi-f&#233;vrier suite &#224; une grave anomalie technique, l'un des deux satellites de la mission solaire Proba-3 a finalement repris contact avec la Terre. Une op&#233;ration de sauvetage inesp&#233;r&#233;e qui relance l'espoir de poursuivre cette mission scientifique in&#233;dite.</description>
+      <title>Talat&#8217;s AI meeting notes stay on your machine, not in the cloud</title>
+      <link>https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/</link>
+      <pubDate>Tue, 24 Mar 2026 18:41:33 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3105411</guid>
+      <description>The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.</description>
     </item>
     <item>
-      <title>Fine, I'll buy another copy of Clair Obscur Expedition 33 to snag this special Mirror Edition</title>
-      <link>https://www.techradar.com/gaming/fine-ill-buy-another-copy-of-clair-obscur-expedition-33-to-snag-this-special-mirror-edition</link>
-      <pubDate>Tue, 24 Mar 2026 16:34:03 +0000</pubDate>
-      <guid isPermaLink="false">MAdLcEAQvERuqhsJB46iZk</guid>
-      <description>The Clair Obscur: Expedition 33 &#8211; Mirror Edition is now available to pre-order in the UK exclusively at Amazon, and as a huge fan of the game, I'm unable to resist.</description>
+      <title>The Lego Game Boy makes for a great gift, and it&#8217;s $10 off today</title>
+      <link>https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale</link>
+      <pubDate>2026-03-24T14:38:35-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=899688</guid>
+      <description>Deals on the Lego Game Boy are virtually nonexistent, save for the $10 discount that&#160;Costco and Sam&#8217;s Club&#160;offered their members when the set launched late last year. The deal is back &#8212; this time, at Kohl&#8217;s &#8212; and no membership is required to get $10 off. You can purchase the Lego Game Boy and have [&#8230;]</description>
     </item>
     <item>
-      <title>On a conduit la nouvelle Xiaomi SU7 &#233;lectrique : la pire ennemie de Tesla devient encore meilleure avec 900 km d&#8217;autonomie</title>
-      <link>https://www.frandroid.com/marques/xiaomi/3034043_on-a-conduit-la-nouvelle-xiaomi-su7-electrique-la-pire-ennemie-de-tesla-devient-encore-meilleure-avec-900-km-dautonomie</link>
-      <pubDate>Tue, 24 Mar 2026 16:33:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3034043_on-a-conduit-la-nouvelle-xiaomi-su7-electrique-la-pire-ennemie-de-tesla-devient-encore-meilleure-avec-900-km-dautonomie</guid>
+      <title>The Next &#8216;Gundam&#8217; Movie Is Finally Coming Stateside</title>
+      <link>https://gizmodo.com/gundam-hathaway-sorcery-of-nymph-circe-us-release-date-2000737526</link>
+      <pubDate>Tue, 24 Mar 2026 18:35:03 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000737526</guid>
+      <description>'Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe' has been out in Japan since the start of the year, but U.S. audiences will finally get to see it May 15.</description>
+    </item>
+    <item>
+      <title>Figure AI Founder and iPhone Air Designer Team Up on Mystery AI Product</title>
+      <link>https://gizmodo.com/figure-ai-founder-and-iphone-air-designer-team-up-on-ai-mystery-product-2000737198</link>
+      <pubDate>Tue, 24 Mar 2026 18:31:07 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000737198</guid>
+      <description>A new company called Hark is building an ambitious-sounding AI lab, with a physical product of some sort in the works.</description>
+    </item>
+    <item>
+      <title>Cyberattaque contre le Crous&#160;: les donn&#233;es de 774&#160;000 &#233;tudiants ont &#233;t&#233; siphonn&#233;es</title>
+      <link>https://www.01net.com/actualites/cyberattaque-contre-le-crous-les-donnees-de-774-000-etudiants-ont-ete-siphonnees.html</link>
+      <pubDate>Tue, 24 Mar 2026 18:20:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1334445</guid>
+      <description>Les donn&#233;es de 774 000 &#233;tudiants et ex-&#233;tudiants ont &#233;t&#233; siphonn&#233;es par des cybercriminels. Le Cnous r&#233;v&#232;le qu'une cyberattaque s'est sold&#233;e par le vol des informations d&#233;tenues par les services sociaux des Crous.</description>
+    </item>
+    <item>
+      <title>Peter Thiel&#8217;s Cowgorithm-Powered Cattle Collar Company Raises $220 Million</title>
+      <link>https://gizmodo.com/peter-thiels-cowgorithm-powered-cattle-collar-company-raises-220-million-2000737447</link>
+      <pubDate>Tue, 24 Mar 2026 18:05:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000737447</guid>
+      <description>Moo-ve over, human tracking. We're doing cows.</description>
+    </item>
+    <item>
+      <title>J&#8217;ai install&#233; SteamOS sur ma ROG Xbox Ally : pourquoi je ne reviendrai plus en arri&#232;re</title>
+      <link>https://www.frandroid.com/produits-android/console/console-de-jeux/3036177_jai-installe-steamos-sur-ma-rog-xbox-ally-pourquoi-je-ne-reviendrai-plus-en-arriere</link>
+      <pubDate>Tue, 24 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/console-de-jeux/3036177_jai-installe-steamos-sur-ma-rog-xbox-ally-pourquoi-je-ne-reviendrai-plus-en-arriere</guid>
       <description>
-Nous avons eu la chance de conduire la nouvelle Xiaomi SU7 restyl&#233;e, la voiture &#233;lectrique aux 900 km d'autonomie au compteur. Apr&#232;s 220 km parcourus autour de P&#233;kin, voici notre premier avis sur cette concurrente hors normes aux Tesla Model 3 &#224; la nouvelle BMW S&#233;rie 3 &#233;lectrique.
+Avec SteamOS 3.8, Valve commence &#224; supporter officiellement la Xbox Ally. J'ai voulu profiter de cette version pour franchir le cap et tester le syst&#232;me d'exploitation de Valve sur ma machine. Voici pourquoi je ne reviendrai plus en arri&#232;re.
 </description>
     </item>
     <item>
-      <title>5 Questions We Need Answered in the &#8216;Paradise&#8217; Season 2 Finale</title>
-      <link>https://gizmodo.com/5-questions-we-need-answered-in-the-paradise-season-2-finale-2000735851</link>
-      <pubDate>Tue, 24 Mar 2026 16:30:22 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735851</guid>
-      <description>All hell's breaking loose inside the bunker, and there's only one episode left to sort everything out and set up season three.</description>
+      <title>Three new Gemini features come to Google TV</title>
+      <link>https://www.engadget.com/entertainment/streaming/three-new-gemini-features-come-to-google-tv-175724155.html?src=rss</link>
+      <pubDate>Tue, 24 Mar 2026 17:57:25 +0000</pubDate>
+      <guid isPermaLink="false">9e021262-3818-49f2-980c-7e034ce26bca</guid>
+      <description>Google has announced a trio of new AI-powered features for its Google TV platform, after showing off smarter Gemini integration at CES back in January.
+Google TV can now provide "richer visual help" when you ask it a question. Request the current sports scores, for example, and Gemini will bring up not only a live updating scorecard, but also where you can watch the game. If you&#8217;re looking for a recipe, it&#8217;ll pair its results with a video tutorial where possible.
+If you&#8217;d rather learn something new than binge away at your latest Netflix fix, Google TV can also now do visual "deep dives" on top...</description>
     </item>
     <item>
-      <title>Stop telling AI it's an expert programmer, you're making it worse at its job &#8212; new research shows the best results need specific prompts</title>
-      <link>https://www.techradar.com/pro/stop-telling-ai-its-an-expert-programmer-youre-making-it-worse-at-its-job-new-research-shows-the-best-results-need-specific-prompts</link>
-      <pubDate>Tue, 24 Mar 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">FmSig62h9UJmPRhNAZRjYB</guid>
-      <description>Stop telling AI how it should generate answers &#8211; focus more on asking what you want of it, and giving it the necessary context.</description>
-    </item>
-    <item>
-      <title>'Welcome back, Frank': Marvel confirms the official title for The Punisher TV Special on Disney+ &#8212; and it'll be released a week after the Daredevil: Born Again season 2 finale</title>
-      <link>https://www.techradar.com/streaming/disney-plus/welcome-back-frank-marvel-confirms-the-official-title-for-the-punisher-tv-special-on-disney-and-itll-be-released-a-week-after-the-daredevil-born-again-season-2-finale</link>
-      <pubDate>Tue, 24 Mar 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">ThBXYncHs7ttimHbqRtVGg</guid>
-      <description>The launch date and official title for the Jon Bernthal-starring Disney+ special presentation have been unveiled.</description>
-    </item>
-    <item>
-      <title>Is the live-action &#8216;Moana&#8217; a new low for Disney remakes? Why the internet dubbed it &#8216;the most insulting one so far&#8217;</title>
-      <link>https://www.fastcompany.com/91514660/moana-live-action-2026-dwayne-johnson-the-rock-trailer-new-low-for-disney-remakes</link>
-      <pubDate>2026-03-24T16:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91514660/moana-live-action-2026-dwayne-johnson-the-rock-trailer-new-low-for-disney-remakes</guid>
-      <description>The trailer just dropped for the upcoming movie starring Dwayne &#8216;The Rock&#8217; Johnson&#8212;and critics are pointing out questionable choices.
-In 2015, Disney discovered a new way to cash in on nostalgia: live-action remakes of its classic animated films. That started with Cinderella, brought back to the big screen 65 years after the original movie premiered. In the decade since, Disney has released 12 more of those remakes, with the gap between the original films&#8217; release dates and the remakes growing shorter and shorter. The next entry is a remake of 2016&#8217;s Moana coming to theaters this July, a few m...</description>
-    </item>
-    <item>
-      <title>Best website builders</title>
-      <link>https://www.techradar.com/best/best-website-builders</link>
-      <pubDate>Tue, 24 Mar 2026 16:28:17 +0000</pubDate>
-      <guid isPermaLink="false">FafoJeC6DwNV8n2Ri96s3D</guid>
-      <description>We have everything you'll possibly need to know about the best website builders available on the market.</description>
-    </item>
-    <item>
-      <title>A BlackBerry you might actually want just landed on Kickstarter</title>
-      <link>https://www.theverge.com/tech/899632/unihertz-titan-2-elite-pro-android-blackberry-smartphone-pricing-kickstarter-preorder</link>
-      <pubDate>2026-03-24T12:27:36-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899632</guid>
-      <description>When The Verge's Allison Johnson went hands-on with the company's Titan 2 Elite phone at MWC 2026, Unihertz didn't divulge pricing info. But the compact Android phone with a BlackBerry-inspired keyboard is now available for preorder through a Kickstarter crowdfunding campaign and starts at $489, with a discount for early backers bringing it down to [&#8230;]...</description>
-    </item>
-    <item>
-      <title>D&#233;c&#232;s de Lionel Jospin&#160;: comment il a initi&#233; la transition du Minitel vers Internet</title>
-      <link>https://www.01net.com/actualites/deces-de-lionel-jospin-comment-il-a-initie-la-transition-du-minitel-vers-internet.html</link>
-      <pubDate>Tue, 24 Mar 2026 16:23:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334288</guid>
-      <description>D&#233;c&#233;d&#233; le 22 mars 2026, l'ancien Premier ministre a men&#233; une politique active d&#232;s 1997 pour faciliter le passage du Minitel &#224; Internet en France.</description>
-    </item>
-    <item>
-      <title>The Punisher's one-off TV special hits Disney+ on May 12</title>
-      <link>https://www.engadget.com/entertainment/tv-movies/the-punishers-one-off-tv-special-hits-disney-on-may-12-162208769.html?src=rss</link>
-      <pubDate>Tue, 24 Mar 2026 16:22:08 +0000</pubDate>
-      <guid isPermaLink="false">c7ce02f0-67a4-4914-a268-c006a05317c5</guid>
-      <description>We knew Disney+ was prepping a standalone special for The Punisher, but we didn't know it was coming so soon. The Punisher: One Last Kill premieres on May 12. This is just one week after the season two finale of Daredevil: Born Again, which starts up this week. It's possible The Punisher will be featured in that, so we could be in for eight straight weeks of skull-shirted shenanigans.
-Frank Castle returns in A Marvel Television Special Presentation: The Punisher: One Last Kill May 12, only on @DisneyPlus. pic.twitter.com/4I3H10grXz&#8212; The Punisher (@ThePunisher) March 24, 2026
-
-One Last Kill was...</description>
-    </item>
-    <item>
-      <title>I&#8217;m a big fan of FlexiSpot&#8217;s single monitor arm for freeing up desk space, and it&#8217;s just $30 in Amazon&#8217;s Spring Sale</title>
-      <link>https://www.techradar.com/pro/im-a-big-fan-of-flexispots-single-monitor-arm-for-freeing-up-desk-space-and-its-just-usd30-in-amazons-spring-sale</link>
-      <pubDate>Tue, 24 Mar 2026 16:22:01 +0000</pubDate>
-      <guid isPermaLink="false">d8kyJLveFXQ2ztVHPMkZM</guid>
-      <description>Forget buying a bigger desk, FlexiSpot&#8217;s single monitor arm frees up space and it's half-price in Amazon&#8217;s Spring sale, now just $30.</description>
-    </item>
-    <item>
-      <title>Xbox indie program lead says Project Helix will be 'easier' for developers and that Microsoft is 'working hard so developers can make one Xbox build in the future' that will run on everything</title>
-      <link>https://www.techradar.com/gaming/xbox-indie-program-lead-says-project-helix-will-be-easier-for-developers-and-that-microsoft-is-working-hard-so-developers-can-make-one-xbox-build-in-the-future-that-will-run-on-everything</link>
-      <pubDate>Tue, 24 Mar 2026 16:19:57 +0000</pubDate>
-      <guid isPermaLink="false">QMsvtGPvrtGLjSBbHyq5eJ</guid>
-      <description>Xbox portfolio and programs general manager Chris Charla has said Project Helix will be easier for developers to work with, but advises studios to prioritize developing their games for current gen and PC first.</description>
-    </item>
-    <item>
-      <title>I trapped a clone of my boss on a desert island in Tomodachi Life: Living the Dream &#8212; and it only got weirder from there</title>
-      <link>https://www.techradar.com/gaming/tomodachi-life-living-the-dream-preview</link>
-      <pubDate>Tue, 24 Mar 2026 16:19:36 +0000</pubDate>
-      <guid isPermaLink="false">Y7jK9dEgSs5nnQwo5CqmnA</guid>
-      <description>Tomodachi Life: Living the Dream had me tormenting a virtual version of my TechRadar boss.</description>
-    </item>
-    <item>
-      <title>C&#8217;est un Steam Deck ? Non, c&#8217;est l&#8217;AYN Odin 2, une console portable en promo &#224; -28 % qui est capable d&#8217;&#233;muler jusqu&#8217;&#224; la Nintendo Switch</title>
-      <link>https://www.frandroid.com/bons-plans/3038189_cest-un-steam-deck-non-cest-layn-odin-2-une-console-portable-en-promo-a-28-qui-est-capable-demuler-jusqua-la-nintendo-switch</link>
-      <pubDate>Tue, 24 Mar 2026 16:17:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3038189_cest-un-steam-deck-non-cest-layn-odin-2-une-console-portable-en-promo-a-28-qui-est-capable-demuler-jusqua-la-nintendo-switch</guid>
+      <title>Honor 400, Nakamura Crossover LTD et forfaits gratuits jusqu&#8217;&#224; l&#8217;&#233;t&#233;&#160;: les 3 bons plans incontournables du mardi 24&#160;mars&#160;2026</title>
+      <link>https://www.frandroid.com/bons-plans/3038367_smartphone-honor-400-vtc-electrique-nakamura-crossover-ltd-et-forfait-la-poste-mobile-les-3-bons-plans-incontournables-du-mardi-24-mars-2026</link>
+      <pubDate>Tue, 24 Mar 2026 17:57:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3038367_smartphone-honor-400-vtc-electrique-nakamura-crossover-ltd-et-forfait-la-poste-mobile-les-3-bons-plans-incontournables-du-mardi-24-mars-2026</guid>
       <description>
-Si vous cherchez une console pour jouer &#224; tous les jeux qui ont berc&#233; votre enfance, qu'elle soit dans les ann&#233;es 80, 90 ou m&#234;me 2000, vous avez la AYN Odin 2 en promo pour 287,17 euros au lieu de 399 euros sur AliExpress.
+En ce mardi 24&#160;mars&#160;2026, plusieurs offres m&#233;ritent toute votre attention si vous cherchez &#224; &#233;conomiser sur des produits technologiques et mobilit&#233;. 
 </description>
     </item>
     <item>
-      <title>Elon Musk Will Have to Face the Music in Lawsuit Over DOGE&#8217;s Government Overreach</title>
-      <link>https://gizmodo.com/elon-musk-will-have-to-face-the-music-in-lawsuit-over-doges-government-overreach-2000737413</link>
-      <pubDate>Tue, 24 Mar 2026 16:15:55 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737413</guid>
-      <description>A federal judge allowed key parts of a lawsuit accusing Musk of wielding significant government power without Senate confirmation to move forward.</description>
+      <title>Apple confirms ads are coming to Apple Maps</title>
+      <link>https://www.engadget.com/apps/apple-confirms-ads-are-coming-to-apple-maps-175613751.html?src=rss</link>
+      <pubDate>Tue, 24 Mar 2026 17:56:13 +0000</pubDate>
+      <guid isPermaLink="false">5900fd89-68ff-49e7-9644-255cdec7dbfc</guid>
+      <description>Apple Maps will soon have ads, Apple confirmed in a blog post announcing the company's new Apple Business platform. Reports that Apple planned to expand its ad business outside of the App Store and Apple News broke as recently as yesterday, but the company has been rumored to be exploring putting ads in its navigation app as far back as 2022.Ads in Maps, as the new advertising program is called, will allow businesses to create ads that can appear "when users search in Maps," at the top of search results and "at the top of a new Suggested Places experience in Maps, which will display recommenda...</description>
     </item>
     <item>
-      <title>Two streaming services are better than one &#8212; this is your last chance to score this Disney+ and Hulu bundle and pay $15 for three months</title>
-      <link>https://www.techradar.com/streaming/disney-plus/two-streaming-services-are-better-than-one-this-is-your-last-chance-to-score-this-disney-and-hulu-bundle-and-pay-usd15-for-three-months</link>
-      <pubDate>Tue, 24 Mar 2026 16:14:49 +0000</pubDate>
-      <guid isPermaLink="false">7m37x4xqyCnTDmZQj8n86A</guid>
-      <description>This Disney+ and Hulu bundle ends today, so grab it while you can!</description>
+      <title>BKR Capital raises $14.5M (so far) to  invest in Black founders</title>
+      <link>https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/</link>
+      <pubDate>Tue, 24 Mar 2026 17:47:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3105281</guid>
+      <description>BKR Capital announced Monday that its Fund II closed $20 million Canadian toward its $50 million target.</description>
     </item>
     <item>
-      <title>How the best cultures operate like open kitchens</title>
-      <link>https://www.fastcompany.com/91512743/how-best-cultures-operate-like-open-kitchens</link>
-      <pubDate>2026-03-24T16:13:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512743/how-best-cultures-operate-like-open-kitchens</guid>
-      <description>The &#8216;backstage&#8217; and &#8216;front stage&#8217; should operate as one.
-There&#8217;s a restaurant in New York City called Rosa Mexicana that positions itself as a fresh take on Mexican cuisine. It&#8217;s upscale, well curated, and delicious. However, my favorite part about the dining experience is when you order guacamole, the wait-staff wheels out a little cart, draped in the traditional Mexican cloth, a vibrant sarape, and staked with fresh ingredients&#8212;avocados, lime, onion, salt, all the things. And as they arrive at your table, they make the guacamole right there in front of you. It&#8217;s quite the show, and it makes ...</description>
-    </item>
-    <item>
-      <title>The Tiny SIM Card Powering Smart &lt;b&gt;Farming&lt;/b&gt;, And Why It's Becoming a Must-Have on U.S. Fields</title>
-      <link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://larevuetech.fr/the-tiny-sim-card-powering-smart-farming-and-why-its-becoming-a-must-have-on-u-s-fields/&amp;ct=ga&amp;cd=CAIyGzA4ZDkxYzY5ODJkMjYxZTE6Y2E6ZnI6Q0E6TA&amp;usg=AOvVaw2rXj1i5QyAxip6zvHq0VWJ</link>
-      <pubDate>2026-03-24T16:08:53Z</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17573972146457682671</guid>
-      <description>... farming, linking sensors, irrigation, and ... The Internet of Things, IoT, in industry shorthand, has moved from hype to hardware in agriculture.</description>
-    </item>
-    <item>
-      <title>Arnaque au faux conseiller bancaire&#160;: ces faux pas &#224; &#233;viter pour se faire rembourser</title>
-      <link>https://www.01net.com/actualites/arnaque-au-faux-conseiller-bancaire-ces-faux-pas-a-eviter-pour-se-faire-rembourser.html</link>
-      <pubDate>Tue, 24 Mar 2026 16:05:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334239</guid>
-      <description>En cas d'escroquerie bancaire, les banques sont bien contraintes de rembourser les victimes sauf si ces derni&#232;res ont fait preuve de n&#233;gligence grave... ce qui est le cas lorsqu'un client va jusqu'&#224; donner sa carte bancaire et son code confidentiel &#224; un faux coursier, a rappel&#233; un jugement du 11 mars dernier du tribunal judiciaire de Paris. Il en est de m&#234;me si on valide une op&#233;ration de paiement pr&#233;sent&#233;e par l'escroc comme une annulation. Ce m&#234;me si l'arnaque a d&#233;but&#233; avec le num&#233;ro de t&#233;l&#233;phone usurp&#233; de la banque....</description>
-    </item>
-    <item>
-      <title>Louisiana researchers have made a nail polish that turns your fingernail into a phone stylus to solve &#8216;zombie finger&#8217; problems</title>
-      <link>https://www.techradar.com/phones/louisiana-researchers-have-made-a-nail-polish-that-turns-your-fingernail-into-a-phone-stylus-to-solve-zombie-finger-problems</link>
-      <pubDate>Tue, 24 Mar 2026 16:02:44 +0000</pubDate>
-      <guid isPermaLink="false">LqhabZbtJwxn5ERG2eigAH</guid>
-      <description>Two Louisiana researchers made a nail polish that turns your fingernail into a phone stylus.</description>
-    </item>
-    <item>
-      <title>Boost internet speeds from $87 with 6 super-fast TP-Link Wi-Fi 7 router deals in Amazon's early Spring Sale</title>
-      <link>https://www.techradar.com/pro/boost-internet-speeds-from-usd87-with-6-super-fast-tp-link-wi-fi-7-router-deals-in-amazons-early-spring-sale</link>
-      <pubDate>Tue, 24 Mar 2026 16:02:40 +0000</pubDate>
-      <guid isPermaLink="false">bH8y849FVDbqpUYwhmANeK</guid>
-      <description>From compact single-router upgrades to advanced whole-home mesh systems, Amazon's Spring Prime Day sale has a wealth of Wi-Fi router deals.</description>
-    </item>
-    <item>
-      <title>There's a new Payday game, this time in VR</title>
-      <link>https://www.engadget.com/gaming/theres-a-new-payday-game-this-time-in-vr-160051276.html?src=rss</link>
-      <pubDate>Tue, 24 Mar 2026 16:00:51 +0000</pubDate>
-      <guid isPermaLink="false">283fb745-5542-4175-be41-d153de295662</guid>
-      <description>The popular co-op heist franchise Payday is coming to VR. Payday: Aces High will release for the Meta Quest platform and SteamVR later this year. It looks like it has everything people love about the series, but with some of that VR-style immersion.
-Just like the mainline games, this version tasks players with planning and then pulling off elaborate heists. It offers four-player co-op, with each person filling a particular role within the group. These are your standard heist movie archetypes. There's the planner, the brawler, the gadget nerd and the silent but deadly assassin.
-
-The developer a...</description>
-    </item>
-    <item>
-      <title>How Many Times Can You Clone a Clone? New Research Offers a Surprising Answer</title>
-      <link>https://gizmodo.com/how-many-times-can-you-clone-a-clone-science-finally-hits-the-wall-2000737412</link>
-      <pubDate>Tue, 24 Mar 2026 16:00:44 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737412</guid>
-      <description>The practice of cloning clones indefinitely appears to be a reproductive dead end, for now.</description>
-    </item>
-    <item>
-      <title>Life is Strange: Reunion is a full-circle moment for its stars</title>
-      <link>https://www.theverge.com/entertainment/897984/life-is-strange-reunion-cast-interview</link>
-      <pubDate>2026-03-24T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=897984</guid>
-      <description>Fans thought they were done with the original Life is Strange duo of Max and Chloe. Following the first game and its 2017 prequel, players said their tearful goodbyes to these beloved characters - or so they thought. Following Max Caulfield's abrupt return in 2024's Double Exposure, this week sees the unlikely return of Chloe [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google&#8217;s Android Automotive is moving from the dashboard to the &#8216;brain&#8217; of the car</title>
-      <link>https://www.theverge.com/tech/899034/google-android-automotive-os-software-defined-vehicle</link>
-      <pubDate>2026-03-24T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899034</guid>
-      <description>Google announced a new version of its Android Automotive open-source operating system for software-defined vehicles. Whereas previously Android Automotive operated exclusively in the car's infotainment system, Google is now expanding its "open infrastructure" to the non-safety parts of the car's internal computer system. As cars have swiftly become "computers on wheels," there is still a [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Meet the former Apple designer building a new AI interface at Hark</title>
-      <link>https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/</link>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3105050</guid>
-      <description>The company said it would design models, hardware, and interfaces in tandem to deliver a "seamless end-to-end personal intelligence product."</description>
-    </item>
-    <item>
-      <title>Nvidia RTX 5090 buyer is literally cleaned out as box contains no GPU, just laundry detergent &#8212; a reminder to be careful out there</title>
-      <link>https://www.techradar.com/computing/gpu/nvidia-rtx-5090-buyer-is-literally-cleaned-out-as-box-contains-no-gpu-just-laundry-detergent-a-reminder-to-be-careful-out-there</link>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">qwQr5Sssar5Fp4CNx9UsF8</guid>
-      <description>GPU scams have involved replacing the graphics card with rocks or lumps of metal in the past, but this is a new one.</description>
-    </item>
-    <item>
-      <title>How to watch Power: The Downfall of Huw Edwards online from anywhere &#8212; it's *FREE*</title>
-      <link>https://www.techradar.com/how-to-watch/power-the-downfall-of-huw-edwards-free</link>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">xE85PTCX8hkUCtyRsXZTWF</guid>
-      <description>A real-life story of abuse, power, and the fight for justice from the victim's perspective. Here's how to watch Power: The Downfall of Huw Edwards for FREE.</description>
-    </item>
-    <item>
-      <title>Spotify : la fonction SongDNA d&#233;voile les liens entre les chansons que vous aimez</title>
-      <link>https://www.frandroid.com/services/streaming-musical/3038173_spotify-la-fonction-songdna-devoile-les-liens-entre-les-chansons-que-vous-aimez</link>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/streaming-musical/3038173_spotify-la-fonction-songdna-devoile-les-liens-entre-les-chansons-que-vous-aimez</guid>
+      <title>Samsung Galaxy Z Fold 8 : on sait d&#233;j&#224; &#224; quoi il va ressembler</title>
+      <link>https://www.frandroid.com/marques/samsung/3038753_samsung-galaxy-z-fold-8-on-sait-deja-a-quoi-il-va-ressembler</link>
+      <pubDate>Tue, 24 Mar 2026 17:44:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3038753_samsung-galaxy-z-fold-8-on-sait-deja-a-quoi-il-va-ressembler</guid>
       <description>
-D'abord disponible pour les artistes, Spotify d&#233;ploie SongDNA &#224; d'autres utilisateurs. L'occasion de comprendre ce qui relie vos musiques pr&#233;f&#233;r&#233;es.
+Le design du Samsung Galaxy Z Fold 8 se montre d&#233;j&#224; gr&#226;ce &#224; des rendus publi&#233;s par OnLeaks. Une question se pose d&#233;j&#224; sur la finesse du smartphone. 
 </description>
     </item>
     <item>
-      <title>This Ford recall involves a feature you probably rely on every day</title>
-      <link>https://www.fastcompany.com/91514773/this-ford-recall-involves-a-feature-you-probably-rely-on-every-day</link>
-      <pubDate>2026-03-24T15:53:23</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91514773/this-ford-recall-involves-a-feature-you-probably-rely-on-every-day</guid>
-      <description>The issue can be repaired over the air, but only if drivers know their vehicle is affected.
-Another day, another Ford Motor Co. recall. This time, the company is recalling 254,640 vehicles due to a potential issue with the rearview camera image.&#160;</description>
+      <title>Our Favorite Turntable Is $51 Off Before Record Store Day</title>
+      <link>https://www.wired.com/story/atlp120x-deal-326/</link>
+      <pubDate>Tue, 24 Mar 2026 17:41:44 +0000</pubDate>
+      <guid isPermaLink="false">69c2be59dc234bb60593777d</guid>
+      <description>Audio-Technica is a leading name in home and professional audio, and the AT-LP120XUSB is a great turntable for most listeners.</description>
     </item>
     <item>
-      <title>Epic Games licencie 1 000 employ&#233;s, son patron s&#8217;explique</title>
-      <link>https://www.frandroid.com/produits-android/console/3038359_epic-games-licencie-1-000-employes-son-patron-sexplique</link>
-      <pubDate>Tue, 24 Mar 2026 15:46:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3038359_epic-games-licencie-1-000-employes-son-patron-sexplique</guid>
+      <title>OpenAIs new open-source prompts take aim at sexual content for teens</title>
+      <link>https://mashable.com/article/open-ai-new-developer-policies-to-protect-teens</link>
+      <pubDate>Tue, 24 Mar 2026 17:39:44 +0000</pubDate>
+      <guid isPermaLink="false">01N8uvLMrIP8A19XDFZaZ1r</guid>
+      <description>ChatGPT parent company OpenAI launches new developer-level policies to ensure teen protections across model ecosystem.</description>
+    </item>
+    <item>
+      <title>Who Was the Worst Targaryen to Rule Westeros?</title>
+      <link>https://gizmodo.com/who-was-the-worst-targaryen-to-rule-westeros-game-of-thrones-2000737043</link>
+      <pubDate>Tue, 24 Mar 2026 17:39:02 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000737043</guid>
+      <description>Unsurprisingly, there are a lot of candidates among the House of the Dragon.</description>
+    </item>
+    <item>
+      <title>For All Mankind is returning for a sixth and final season</title>
+      <link>https://www.engadget.com/entertainment/tv-movies/for-all-mankind-is-returning-for-a-sixth-and-final-season-173859683.html?src=rss</link>
+      <pubDate>Tue, 24 Mar 2026 17:38:59 +0000</pubDate>
+      <guid isPermaLink="false">6c6b8400-c7c1-47cd-9740-47c826786bd7</guid>
+      <description>Apple TV's long-running sci-fi show For All Mankind has just been renewed for a sixth and final season, ahead of this week's season five premiere. This seems more like the natural endpoint of the story instead of a cancellation, according to remarks made by some of the creators.
+"Getting to explore the For All Mankind universe over six seasons has been an amazing privilege, and we&#8217;re thrilled to have the opportunity to finish the story the way we&#8217;ve always hoped," co-creators and showrunners Matt Wolpert and Ben Nedivi said. "We&#8217;re incredibly proud of what this series has become, and grateful ...</description>
+    </item>
+    <item>
+      <title>&#201;tat, entretien, localisation : comment Bosch va rendre beaucoup plus simple la gestion des v&#233;los &#233;lectriques pour les professionnels</title>
+      <link>https://www.frandroid.com/marques/bosch/3038757_etat-entretien-localisation-comment-bosch-va-rendre-beaucoup-plus-simple-la-gestion-des-velos-electriques-pour-les-professionnels</link>
+      <pubDate>Tue, 24 Mar 2026 17:27:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/bosch/3038757_etat-entretien-localisation-comment-bosch-va-rendre-beaucoup-plus-simple-la-gestion-des-velos-electriques-pour-les-professionnels</guid>
       <description>
-Coup dur pour les salari&#233;s d'Epic Games. Apr&#232;s les licenciements de 2023, voici que 1 000 postes suppl&#233;mentaires sont supprim&#233;s.
+En partageant ses donn&#233;es et des fonctionnalit&#233;s suppl&#233;mentaires, la plateforme Bosch Connected Biking veut favoriser la gestion des loueurs, assureurs ou entreprises sp&#233;cialis&#233;es dans le v&#233;lo &#233;lectrique.
 </description>
     </item>
     <item>
-      <title>Quelles ampoules connect&#233;es choisir pour votre &#233;clairage en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-objets-connectes/637570_meilleures-ampoules-connectees-choisir</link>
-      <pubDate>Tue, 24 Mar 2026 15:45:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-objets-connectes/637570_meilleures-ampoules-connectees-choisir</guid>
-      <description>
-Les ampoules connect&#233;es repr&#233;sentent le point de d&#233;part id&#233;al pour s&#8217;initier &#224; la domotique. Installer un &#233;clairage intelligent chez soi est bien plus facile qu&#8217;on ne l&#8217;imagine. D&#233;couvrez dans notre comparatif les diff&#233;rentes ampoules intelligentes disponibles sur le march&#233;.
-</description>
+      <title>Acer Swift Edge 14 AI laptop review: Another lightweight wonder from the Acer stable</title>
+      <link>https://www.techradar.com/pro/acer-swift-edge-14-ai-laptop-review-another-lightweight-wonder-from-the-acer-stable</link>
+      <pubDate>Tue, 24 Mar 2026 17:22:58 +0000</pubDate>
+      <guid isPermaLink="false">TaPZ6MndhsUs2ziitEPGgP</guid>
+      <description>The Acer Swift Edge 14 AI is a lightweight laptop that leverages a 200-series Core Ultra processor and LPDDR5X memory.</description>
     </item>
     <item>
-      <title>Economists calculated exactly how much Trump tariffs will cost you in 2026&#8212;and who is paying the most</title>
-      <link>https://www.fastcompany.com/91514824/economists-calculate-exactly-how-much-2026-trump-tariffs-will-cost-you-and-who-is-paying-the-most</link>
-      <pubDate>2026-03-24T15:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91514824/economists-calculate-exactly-how-much-2026-trump-tariffs-will-cost-you-and-who-is-paying-the-most</guid>
-      <description>The total cost depends heavily on several factors, including your income level, your household size, and where you live in the country.
-The majority of President Trump&#8217;s tariffs were struck down earlier this year by the Supreme Court, but a number remain in place, with the threat of higher tariffs still to come. While the importers of tariffed goods are the ones who pay the actual tariff costs up front, they generally pass the cost of those tariffs onto you, the consumer, through higher prices....</description>
+      <title>Crunchyroll confirms data breach after hacker claims unauthorized access</title>
+      <link>https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/</link>
+      <pubDate>Tue, 24 Mar 2026 17:20:07 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3105375</guid>
+      <description>Crunchyroll said it continues to investigate the data breach involving its users' personal information.</description>
     </item>
     <item>
-      <title>Apple Maps will introduce ads this summer</title>
-      <link>https://www.theverge.com/tech/899597/apple-maps-ads-launch-summer-2026</link>
-      <pubDate>2026-03-24T11:44:59-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899597</guid>
-      <description>Apple will soon allow businesses to buy advertisements in its Maps app. In an announcement on Tuesday, Apple says ads may appear at the top of your search results in Maps, as well as in a new "Suggested Places" list. They will arrive in-app in the US and Canada this summer. The company describes its [&#8230;]</description>
+      <title>iOS 26.4 est enfin l&#224;, voici les principales nouveaut&#233;s &#224; retenir</title>
+      <link>https://www.01net.com/actualites/ios-26-4-est-presque-la-voici-les-principales-nouveautes-a-retenir.html</link>
+      <pubDate>Tue, 24 Mar 2026 17:19:46 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1333167</guid>
+      <description>Apple vient de publier la version finale d&#8217;iOS 26.4. La nouvelle mise &#224; jour de l&#8217;iPhone est arriv&#233;e chez tout le monde, avec quelques nouveaut&#233;s int&#233;ressantes.</description>
     </item>
     <item>
-      <title>Encore un mauvais signe pour OnePlus : celui qui niait un d&#233;mant&#232;lement ne travaille plus chez OnePlus</title>
-      <link>https://www.frandroid.com/marques/oneplus/3038253_encore-un-mauvais-signe-pour-oneplus-celui-qui-niait-un-demantelement-ne-travaille-plus-chez-oneplus</link>
-      <pubDate>Tue, 24 Mar 2026 15:44:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/oneplus/3038253_encore-un-mauvais-signe-pour-oneplus-celui-qui-niait-un-demantelement-ne-travaille-plus-chez-oneplus</guid>
-      <description>
-Le patron de OnePlus Inde qui niait les rumeurs d'un d&#233;mant&#232;lement de la marque a quitt&#233; ses fonctions. En parall&#232;le, sa pr&#233;sence m&#233;diatique en France s'amoindrit.
-</description>
+      <title>Doss raises $55M for AI inventory management that plugs into ERP</title>
+      <link>https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/</link>
+      <pubDate>Tue, 24 Mar 2026 17:18:29 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3105367</guid>
+      <description>Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.</description>
     </item>
     <item>
-      <title>Publicit&#233; dans l&#8217;app Plans&#160;: Apple vend d&#233;sormais les meilleures places</title>
-      <link>https://www.01net.com/actualites/publicite-dans-lapp-plans-apple-vend-desormais-les-meilleures-places.html</link>
-      <pubDate>Tue, 24 Mar 2026 15:44:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334348</guid>
-      <description>La rumeur disait vrai : la pub va bien faire son apparition dans l'application Plans. Apple en profite pour d&#233;voiler une nouvelle offre de services &#224; destination des entreprises, enti&#232;rement gratuite, pour faciliter le d&#233;ploiement d'appareils de la marque&#8230; et acheter de la r&#233;clame dans Plans, donc.</description>
+      <title>The Apple Watch SE 3 is even easier to recommend at $50 off</title>
+      <link>https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale</link>
+      <pubDate>2026-03-24T13:18:10-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=899671</guid>
+      <description>When Apple released the latest Apple Watch SE, it surprised us, outshining Apple&#8217;s more expensive models while improving on the basics. Now that it&#8217;s on sale, it&#8217;s even easier to recommend. The LTE-enabled model has dropped back to its all-time low of $249 ($50 off) at Amazon for the first time since December, while the [&#8230;]</description>
     </item>
     <item>
-      <title>Epic is laying off more than 1,000 workers, citing a downturn in Fortnite engagement</title>
-      <link>https://www.engadget.com/gaming/epic-is-laying-off-more-than-1000-workers-citing-a-downturn-in-fortnite-engagement-154436905.html?src=rss</link>
-      <pubDate>Tue, 24 Mar 2026 15:44:36 +0000</pubDate>
-      <guid isPermaLink="false">4347ed29-e834-4adf-9f8d-5e28f9d6f518</guid>
-      <description>Epic Games has announced sweeping layoffs of more than 1,000 employees. &#8220;The downturn in Fortnite engagement that started in 2025 means we're spending significantly more than we're making, and we have to make major cuts to keep the company funded,&#8221; CEO Tim Sweeney said in a memo to workers on Tuesday. Sweeney wrote that, combined with &#8220;over $500 million of identified cost savings in contracting, marketing, and closing some open roles,&#8221; the layoffs will give Epic more stability. He added that the layoffs are not related to AI.  Back in 2023, Epic laid off 830 employees. At the time, that was 16...</description>
+      <title>Stick vacuums on sale ahead of Amazons spring sale: Shark is dunking on Dyson right now</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-cordless-vacuum-deals-2026</link>
+      <pubDate>Tue, 24 Mar 2026 17:17:10 +0000</pubDate>
+      <guid isPermaLink="false">03xOl2FACqYQUzuCElmdqwv</guid>
+      <description>Ahead of Amazon's Big Spring Sale, get the most powerful Shark vacuum for under $400 or get a self-emptying stick vacuum under $250.</description>
     </item>
     <item>
-      <title>Exclusive: Get 4 months extra + up to $50 Amazon gift card with NordVPN</title>
-      <link>https://www.techradar.com/vpn/vpn-services/exclusive-get-4-months-extra-up-to-usd50-amazon-gift-card-with-nordvpn</link>
-      <pubDate>Tue, 24 Mar 2026 15:42:37 +0000</pubDate>
-      <guid isPermaLink="false">C5nnhAp7VgGU89UQzirVRN</guid>
-      <description>Lowest price of 2026: Lock in our exclusive rate before it expires.</description>
+      <title>iOS 26.4 is here, with Playlist Playground and new emoji</title>
+      <link>https://www.engadget.com/mobile/ios-264-is-here-with-playlist-playground-and-new-emoji-171343120.html?src=rss</link>
+      <pubDate>Tue, 24 Mar 2026 17:13:43 +0000</pubDate>
+      <guid isPermaLink="false">0bb84973-60e6-498b-a9a4-5df148982e0f</guid>
+      <description>iOS and iPadOS 26.4 are here, with a surprising number of new features for a point release. Chief among them is a new AI playlist generator, similar to one Spotify launched in 2024.Playlist Playground is Apple's branding for the song list generator. It works as you'd expect: Type a prompt, and it spits out tracks that match it. As MacRumors noted, your prompts can relate to mood, feelings, activities and more.Also new in iOS 26.4, an ambient music widget puts background sounds on your home screen. Like the corresponding Control Center tool, it brings up (Apple-curated) sounds for sleep, chill,...</description>
     </item>
     <item>
-      <title>Oura&#8217;s Next Smart Ring Just Leaked a Year Early</title>
-      <link>https://gizmodo.com/ouras-next-smart-ring-just-leaked-a-year-early-2000737357</link>
-      <pubDate>Tue, 24 Mar 2026 15:40:39 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737357</guid>
-      <description>If these images are real, this is the first look at the Oura Ring 5.</description>
+      <title>ChatGPT and Gemini are fighting to be the AI bot that sells you stuff</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features</link>
+      <pubDate>2026-03-24T13:13:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=899677</guid>
+      <description>The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana [&#8230;]</description>
     </item>
     <item>
-      <title>Shark devices on sale ahead of Amazons Big Spring Sale: Stick vacuums, stain removers, hair tools</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-shark-deals-2026</link>
-      <pubDate>Tue, 24 Mar 2026 15:36:07 +0000</pubDate>
-      <guid isPermaLink="false">07slAcizKsFEK0LgBs5Hz2k</guid>
-      <description>Some of our favorite Shark products are on sale at Amazon ahead of the Big Spring Sale: Get 25% off the Shark StainForce or Shark FlexStyle.</description>
-    </item>
-    <item>
-      <title>FDA Recalls Nearly 90,000 Children&#8217;s Ibuprofen Bottles Over &#8216;Gel-Like Mass&#8217;</title>
-      <link>https://gizmodo.com/fda-recalls-nearly-90000-childrens-ibuprofen-bottles-over-gel-like-mass-2000737398</link>
-      <pubDate>Tue, 24 Mar 2026 15:35:14 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737398</guid>
-      <description>The recalled products come in a berry flavor and were distributed nationwide.</description>
-    </item>
-    <item>
-      <title>Cet antivol en acier de 500 grammes va devenir le pire cauchemar des voleurs de batterie de v&#233;los &#233;lectriques</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3038123_cette-antivol-en-acier-de-500-grammes-va-devenir-le-pire-cauchemar-des-voleurs-de-batterie-de-velos-electriques</link>
-      <pubDate>Tue, 24 Mar 2026 15:33:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3038123_cette-antivol-en-acier-de-500-grammes-va-devenir-le-pire-cauchemar-des-voleurs-de-batterie-de-velos-electriques</guid>
-      <description>
-Le Katt&#8217;fix ajoute une couche de s&#233;r&#233;nit&#233; pour les cyclistes peureux de laisser leurs v&#233;los &#233;lectriques dehors, par le biais d&#8217;un antivol de batterie compatible avec de tr&#232;s nombreux mod&#232;les.
-</description>
-    </item>
-    <item>
-      <title>How AI is reshaping compliance: Why governance still matters</title>
-      <link>https://www.techradar.com/pro/how-ai-is-reshaping-compliance-why-governance-still-matters</link>
-      <pubDate>Tue, 24 Mar 2026 15:31:48 +0000</pubDate>
-      <guid isPermaLink="false">eypkiSFQrtMWpaiuChYqgh</guid>
-      <description>As AI introduces regulatory and governance challenges, compliance frameworks are critical to managing enterprise risk.</description>
-    </item>
-    <item>
-      <title>&#8216;Avatar: Fire and Ash&#8217; Is Finally Coming Home Next Week</title>
-      <link>https://gizmodo.com/avatar-fire-and-ash-home-release-date-streaming-blu-ray-2000737397</link>
-      <pubDate>Tue, 24 Mar 2026 15:30:21 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000737397</guid>
-      <description>The third entry in James Cameron's sci-fi saga will be available digitally March 31, ahead of its Blu-ray release in May.</description>
-    </item>
-    <item>
-      <title>This Microsoft security team stress-tests AI for its worst-case scenarios</title>
-      <link>https://www.fastcompany.com/91513979/microsoft-red-team-stress-testing-ai</link>
-      <pubDate>2026-03-24T15:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91513979/microsoft-red-team-stress-testing-ai</guid>
-      <description>The company&#8217;s Red Team simulates attacks to uncover risks before bad actors do.
-As soon as new AI products are released, security researchers and pranksters begin probing them for weaknesses, trying to push systems to violate their own safety precautions and coax them into producing anything from offensive content to instructions for building weapons....</description>
-    </item>
-    <item>
-      <title>Il aspire, d&#233;m&#234;le et lave : ce Dyson V12s Detect Submarine perd de 270 &#8364; pour nettoyer vos int&#233;rieurs de fond en comble</title>
-      <link>https://www.frandroid.com/bons-plans/2924407_il-aspire-demele-et-lave-ce-dyson-v12s-detect-submarine-perd-plus-de-200-pour-nettoyer-vos-interieurs-de-fond-en-comble</link>
-      <pubDate>Tue, 24 Mar 2026 15:29:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2924407_il-aspire-demele-et-lave-ce-dyson-v12s-detect-submarine-perd-plus-de-200-pour-nettoyer-vos-interieurs-de-fond-en-comble</guid>
-      <description>
-Le Dyson V12s Detect Submarine propose une bonne puissance d'aspiration et permet non seulement d'aspirer mais aussi de laver. Son prix passe de 719 euros &#224; 449 euros sur Rakuten.
-</description>
-    </item>
-    <item>
-      <title>The best deals under $25 ahead of Amazons Big Spring Sale &#8212; save on Lego, Fire Sticks, and more</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-deals-under-25-2026</link>
-      <pubDate>Tue, 24 Mar 2026 15:24:00 +0000</pubDate>
-      <guid isPermaLink="false">05BNG2XfAOgm3j6Lvu3O5bV</guid>
-      <description>Have a look through our selection of the best deals under $25 available to shop now at Amazon ahead of its 2026 Big Spring Sale.</description>
-    </item>
-    <item>
-      <title>Oracle is revamping how businesses procure AI agents &#8212; leave the invoices to AI while you handle the negotiations</title>
-      <link>https://www.techradar.com/pro/oracle-is-revamping-how-businesses-procure-ai-agents-leave-the-invoices-to-ai-while-you-handle-the-negotiations</link>
-      <pubDate>Tue, 24 Mar 2026 15:22:55 +0000</pubDate>
-      <guid isPermaLink="false">QSaJF49QM3T3WdiaQ8BajA</guid>
-      <description>Oracle has just added 22 new Fusion Agentic Applications to help finance, HR, supply chain and customer experience leaders.</description>
-    </item>
-    <item>
-      <title>14 kg et USB-C : on a roul&#233; avec l&#8217;Ampler Curt, un v&#233;lo &#233;lectrique qui se recharge avec le c&#226;ble de votre smartphone</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3037911_14-kg-et-usb-c-on-a-roule-avec-lampler-curt-un-velo-electrique-qui-se-recharge-avec-le-cable-de-votre-smartphone</link>
-      <pubDate>Tue, 24 Mar 2026 15:22:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3037911_14-kg-et-usb-c-on-a-roule-avec-lampler-curt-un-velo-electrique-qui-se-recharge-avec-le-cable-de-votre-smartphone</guid>
-      <description>
-Modernis&#233;, l&#8217;Ampler Curt 2026 participe &#224; la progressive d&#233;mocratisation de la recharge USB-C chez la marque estonienne, et se bonifie gr&#226;ce &#224; une nouvelle fourche carbone ainsi qu&#8217;un nouvel univers connect&#233;. Nous avons pu rouler avec au salon CyclingWorld 2026.
-</description>
-    </item>
-    <item>
-      <title>Crimson Desert fonctionne avec les cartes graphiques Intel finalement, mais avec plein de bugs</title>
-      <link>https://www.frandroid.com/marques/intel/3038235_crimson-desert-fonctionne-avec-les-cartes-graphiques-intel-finalement-mais-avec-plein-de-bugs</link>
-      <pubDate>Tue, 24 Mar 2026 15:18:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/intel/3038235_crimson-desert-fonctionne-avec-les-cartes-graphiques-intel-finalement-mais-avec-plein-de-bugs</guid>
-      <description>
-Nouvelles excuses de la part des d&#233;veloppeurs de Crimson Desert apr&#232;s le toll&#233; des joueurs poss&#233;dant un PC avec une carte graphique Intel.
-</description>
-    </item>
-    <item>
-      <title>Epic Games cuts 1,000 jobs, says Fortnite engagement is down</title>
-      <link>https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/</link>
-      <pubDate>Tue, 24 Mar 2026 15:17:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3105300</guid>
-      <description>Epic Games also increased the price of V-Bucks, the Fortnite in-game currency.</description>
-    </item>
-    <item>
-      <title>How AI will collide with data readiness</title>
-      <link>https://www.techradar.com/pro/how-ai-will-collide-with-data-readiness</link>
-      <pubDate>Tue, 24 Mar 2026 15:16:35 +0000</pubDate>
-      <guid isPermaLink="false">9rCu7D4x3bxTjvG4U7eweR</guid>
-      <description>Generative and agentic AI hype has convinced many organizations to invest big and jump headfirst into the latest advances of the technology without necessarily considering the big picture.</description>
-    </item>
-    <item>
-      <title>Asus s&#8217;appr&#234;te &#224; faire flamber le prix de ses PC portables (et ils ne seront pas les seuls)</title>
-      <link>https://www.frandroid.com/marques/asus/3038331_asus-sapprete-a-faire-flamber-le-prix-de-ses-pc-portables-et-ils-ne-seront-pas-les-seuls</link>
-      <pubDate>Tue, 24 Mar 2026 15:13:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/asus/3038331_asus-sapprete-a-faire-flamber-le-prix-de-ses-pc-portables-et-ils-ne-seront-pas-les-seuls</guid>
-      <description>
-Si vous comptiez changer d'ordinateur cette ann&#233;e, ne tra&#238;nez pas. Les g&#233;ants de la tech, Asus en t&#234;te, pr&#233;parent une hausse historique de leurs tarifs pouvant atteindre les 30 %. En cause : une p&#233;nurie f&#233;roce de composants qui vide dangereusement les stocks des constructeurs.
-</description>
-    </item>
-    <item>
-      <title>&#201;trangl&#233; par le prix de la m&#233;moire, Ayaneo suspend les pr&#233;commandes de sa prochaine console portable</title>
-      <link>https://www.01net.com/actualites/etrangle-par-le-prix-de-la-memoire-ayaneo-suspend-les-precommandes-de-sa-prochaine-console-portable.html</link>
-      <pubDate>Tue, 24 Mar 2026 15:11:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334314</guid>
-      <description>La hausse vertigineuse des prix des composants m&#233;moire oblige Ayaneo &#224; suspendre les pr&#233;commandes de sa nouvelle console portable sous Windows, la Next 2. Un appareil qui n'&#233;tait pourtant pas donn&#233; : le prix de la version de base &#233;tait en effet de&#8230; 1&#160;799&#160;$.</description>
-    </item>
-    <item>
-      <title>Pok&#233;mon Champions is coming to the Nintendo Switch on April 8th</title>
-      <link>https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th</link>
-      <pubDate>2026-03-24T11:10:25-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899535</guid>
-      <description>Right now, Pokopia has everyone busy building houses and beautifying the world, but next month, we'll be making our pocket monster friends fight for sport in Pok&#233;mon Champions. Today, Nintendo and The Pok&#233;mon Company announced that Pok&#233;mon Champions is set to make its debut on the Nintendo Switch family of consoles on April 8th before [&#8230;]</description>
-    </item>
-    <item>
-      <title>Regional data sovereignty in the age of AI: Balancing innovation and regulation</title>
-      <link>https://www.techradar.com/pro/regional-data-sovereignty-in-the-age-of-ai-balancing-innovation-and-regulation</link>
-      <pubDate>Tue, 24 Mar 2026 15:09:15 +0000</pubDate>
-      <guid isPermaLink="false">wVcAPvHzhxRHk8GrXixj9R</guid>
-      <description>Navigating innovation, regulation, and sovereignty as enterprises build resilient AI-ready data architectures worldwide.</description>
-    </item>
-    <item>
-      <title>Neuroscience says this is what really happens to your brain when you don&#8217;t get enough sleep</title>
-      <link>https://www.fastcompany.com/91508722/neuroscience-says-this-what-really-happens-your-brain-when-you-dont-get-enough-sleep</link>
-      <pubDate>2026-03-24T15:07:47</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91508722/neuroscience-says-this-what-really-happens-your-brain-when-you-dont-get-enough-sleep</guid>
-      <description>Don&#8217;t sleep on sleep. It&#8217;s part of what makes everything else possible.
-I&#8217;m so tired.&#160;However, the reasons are good:&#160;</description>
-    </item>
-    <item>
-      <title>15+ Ninja kitchen deals to shop before the Amazon Big Spring Sale</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-ninja-deals-2026</link>
-      <pubDate>Tue, 24 Mar 2026 15:07:29 +0000</pubDate>
-      <guid isPermaLink="false">06a1XFFobBt7ycDeWOCePJb</guid>
-      <description>Take up to 41% off Ninja Kitchen appliances like air fryers, blenders, and countertop ovens before the Amazon Big Spring Sale.</description>
-    </item>
-    <item>
-      <title>This new FCC rule could upend the router market</title>
-      <link>https://www.fastcompany.com/91514788/fcc-foreign-made-routers-security-risks</link>
-      <pubDate>2026-03-24T15:07:17</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91514788/fcc-foreign-made-routers-security-risks</guid>
-      <description>Citing national security risks, regulators plan to block new foreign-made devices, even as most U.S. routers are built overseas.
-Finding additional memory for your PC is already a challenge. Now, connecting to the internet could get tougher, too.</description>
-    </item>
-    <item>
-      <title>Flighty&#8217;s new update gives you real-time alerts about airport disturbances</title>
-      <link>https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/</link>
-      <pubDate>Tue, 24 Mar 2026 15:05:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3105254</guid>
-      <description>Flighty's new feature will give users real-time updates about why operations at an airport are disrupted.</description>
+      <title>Epic Games is laying off more than 1,000 employees just weeks after raising Fortnite V-Buck prices 'to help pay the bills'</title>
+      <link>https://www.techradar.com/gaming/gaming-industry/epic-games-is-laying-off-more-than-1-000-employees-just-weeks-after-raising-fortnite-v-buck-prices-to-help-pay-the-bills</link>
+      <pubDate>Tue, 24 Mar 2026 17:10:44 +0000</pubDate>
+      <guid isPermaLink="false">nx6wVFsdL46fG6sF22CR79</guid>
+      <description>Epic Games is laying off more than 1,000 employees.</description>
     </item>
   </channel>
 </rss>
