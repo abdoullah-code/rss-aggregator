@@ -3,105 +3,434 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 26 Mar 2026 07:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 09:03:19 GMT</lastBuildDate>
     <item>
-      <title>Firefox 149&#160;: un VPN gratuit pour surfer en toute confidentialit&#233;</title>
-      <link>https://www.01net.com/actualites/firefox-149-un-vpn-gratuit-pour-surfer-en-toute-confidentialite.html</link>
-      <pubDate>Thu, 26 Mar 2026 07:01:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334858</guid>
-      <description>La derni&#232;re version de Firefox contient un outil bien pratique pour surfer sans laisser de trace : un VPN int&#233;gr&#233; et gratuit ! Attention cependant, il y a une limite mensuelle de 50&#160;Go, et puis ce n'est pas un VPN qui permettra d'acc&#233;der &#224; des contenus indisponibles dans son pays. &#199;a n'en reste pas moins une bonne id&#233;e.</description>
+      <title>&#171;&#160;Un v&#233;ritable fant&#244;me&#160;&#187; : ce virus s&#8217;attaque &#224; 850 extensions de navigateur &#171;&#160;sans laisser de traces&#160;&#187;</title>
+      <link>https://www.01net.com/actualites/un-veritable-fantome-ce-virus-sattaque-a-850-extensions-de-navigateur-sans-laisser-de-traces.html</link>
+      <pubDate>Thu, 26 Mar 2026 09:01:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1334890</guid>
+      <description>&#171; Un v&#233;ritable fant&#244;me &#187; s'attaque actuellement &#224; votre navigateur. Capable de siphonner toutes vos donn&#233;es, le malware Torg Grabber vise 850 extensions, dont des gestionnaires de mots de passe, des outils d&#8217;authentification et des portefeuilles crypto.</description>
     </item>
     <item>
-      <title>VPN logging: what data does your VPN need to collect?</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/vpn-logging-what-data-does-your-vpn-need-to-collect</link>
-      <pubDate>Thu, 26 Mar 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">p5juBA3dKZJygqzsGMUG5Q</guid>
-      <description>VPNs are supposed to keep your data safe, but what data do they need to achieve this?</description>
+      <title>Google Issues New Warning About the Quantum Computing Security Apocalypse</title>
+      <link>https://gizmodo.com/google-issues-new-warning-about-the-quantum-computing-security-apocalypse-2000738326</link>
+      <pubDate>Thu, 26 Mar 2026 09:00:01 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000738326</guid>
+      <description>The theoretical eventuality known as Q-Day may arrive much sooner than previously thought.</description>
     </item>
     <item>
-      <title>Engo3 : ces lunettes de sport affichent vos donn&#233;es face &#224; vous pour ne plus jamais quitter la route des yeux</title>
-      <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/3034455_engo3-ces-lunettes-de-sport-affichent-vos-donnees-face-a-vous-pour-ne-plus-jamais-quitter-la-route-des-yeux</link>
-      <pubDate>Thu, 26 Mar 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/3034455_engo3-ces-lunettes-de-sport-affichent-vos-donnees-face-a-vous-pour-ne-plus-jamais-quitter-la-route-des-yeux</guid>
+      <title>The Government&#8217;s Shittiest Website</title>
+      <link>https://www.wired.com/story/the-governments-shittiest-website/</link>
+      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69b9838401bf26238490b0ff</guid>
+      <description>For more than 30 years, the US Postal Service has sent people who need to change their addresses to MyMove. Experts say the site uses dark patterns to trap visitors in an online purgatory of &#8220;deals.&#8221;</description>
+    </item>
+    <item>
+      <title>Jo Nesb&#248;'s Detective Hole ending is too disturbing for words &#8212; but you couldn't have paid me to reveal the unhinged real-life inspiration behind the Netflix scene</title>
+      <link>https://www.techradar.com/streaming/netflix/jo-nesbo-detective-hole-ending</link>
+      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Bv2jWGTmQPKXYXM5sgwHYW</guid>
+      <description>Episode 10 of Detective Hole on Netflix reveals one fate that's too grim for words &#8212; but Jo Nesb&#248;'s real-life story behind it is even more ridiculous than the onscreen scene.</description>
+    </item>
+    <item>
+      <title>Need a new Apple Pencil? Here are 7 cheap alternatives to boost your iPad creativity, tried and tested by experts</title>
+      <link>https://www.techradar.com/tablets/ipad/need-a-new-apple-pencil-here-are-7-cheap-alternatives-to-boost-your-ipad-creativity-tried-and-tested-by-experts</link>
+      <pubDate>Thu, 26 Mar 2026 08:47:49 +0000</pubDate>
+      <guid isPermaLink="false">eGqdCndTQxDgtRfEAyBkU7</guid>
+      <description>Unlock your iPad's creative potential with our pick of the best Apple Pencil alternatives, many of which are now on sale.</description>
+    </item>
+    <item>
+      <title>Un fonctionnement entre -40&#176;C &#224; +60&#176;C et une recharge en 11 minutes : cette batterie sodium pourrait ringardiser celles au lithium</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3040535_un-fonctionnement-entre-40c-a-60c-et-une-recharge-en-11-minutes-cette-batterie-sodium-pourrait-ringardiser-celles-au-lithium</link>
+      <pubDate>Thu, 26 Mar 2026 08:44:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3040535_un-fonctionnement-entre-40c-a-60c-et-une-recharge-en-11-minutes-cette-batterie-sodium-pourrait-ringardiser-celles-au-lithium</guid>
       <description>
-La marque fran&#231;aise Engo a d&#233;voil&#233; ses nouvelles lunettes connect&#233;es avec affichage t&#234;te haute con&#231;ues pour le sport, les Engo3. 
+Le constructeur chinois Beijing Automotive Group, plus connu sous le diminutif de BAIC, l&#232;ve le voile sur les caract&#233;ristiques de sa batterie sodium "Aurora", pr&#233;sent&#233;e comme une alternative cr&#233;dible au lithium, notamment en termes de prix.
 </description>
     </item>
     <item>
-      <title>Samsung One UI 9 (Android 17) : voici les premi&#232;res images de la nouvelle interface</title>
-      <link>https://www.01net.com/actualites/samsung-one-ui-9-android-17-premieres-images-nouvelle-interface.html</link>
-      <pubDate>Thu, 26 Mar 2026 06:57:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334871</guid>
-      <description>Alors que One UI 8.5 commence &#224; peine son d&#233;ploiement, des fuites r&#233;v&#232;lent d&#233;j&#224; les contours de la future interface One UI 9 de Samsung.</description>
-    </item>
-    <item>
-      <title>Le Galaxy Z Fold&#160;8 &#171;&#8201;Wide&#8201;&#187; se d&#233;voile tout en rendus 3D</title>
-      <link>https://www.frandroid.com/marques/samsung/3040551_le-galaxy-z-fold-8-wide-se-devoile-tout-en-rendus-3d</link>
-      <pubDate>Thu, 26 Mar 2026 06:42:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3040551_le-galaxy-z-fold-8-wide-se-devoile-tout-en-rendus-3d</guid>
+      <title>Avec sa voiture &#233;lectrique, Xiaomi a r&#233;alis&#233; en 2 ans ce qui a demand&#233; 10 ans &#224; Tesla</title>
+      <link>https://www.frandroid.com/marques/xiaomi/3040567_avec-sa-voiture-electrique-xiaomi-a-realise-en-2-ans-ce-qui-a-demande-10-ans-a-tesla</link>
+      <pubDate>Thu, 26 Mar 2026 08:41:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3040567_avec-sa-voiture-electrique-xiaomi-a-realise-en-2-ans-ce-qui-a-demande-10-ans-a-tesla</guid>
       <description>
-Avec la concurrence d&#8217;Apple qui se rapproche, Samsung devrait sortir cette ann&#233;e un troisi&#232;me smartphone pliable. Le Z Fold&#160;8 &#171;&#8201;Wide&#8201;&#187; se veut &#234;tre une r&#233;ponse &#224; l&#8217;iPhone Fold et des rendus 3&#160;d nous montrent &#224; quoi l&#8217;appareil pourrait ressembler.
+La division automobile de Xiaomi, officiellement lanc&#233;e fin 2023, vient de gagner de l&#8217;argent pour la premi&#232;re fois. Une tr&#232;s belle performance pour le constructeur de voitures &#233;lectriques, qui rejoint un club tr&#232;s ferm&#233;.
 </description>
     </item>
     <item>
-      <title>Samsung browser arrive officiellement sur Windows 11</title>
-      <link>https://www.01net.com/actualites/samsung-browser-arrive-officiellement-sur-windows-11.html</link>
-      <pubDate>Thu, 26 Mar 2026 06:33:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334872</guid>
-      <description>Samsung vient d&#8217;officialiser l&#8217;arriv&#233;e de son navigateur Web maison sur Windows. Samsung Browser, qui int&#232;gre une IA agentique, doit offrir aux utilisateurs une transition fluide entre leur smartphone et leur PC.</description>
+      <title>Galaxy Z Fold 8 Wide&#160;: le design du smartphone anti-Apple de Samsung se d&#233;voile en rendus 3D</title>
+      <link>https://www.01net.com/actualites/galaxy-z-fold-8-wide-le-design-du-smartphone-anti-apple-de-samsung-se-devoile-en-rendus-3d.html</link>
+      <pubDate>Thu, 26 Mar 2026 08:32:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1334886</guid>
+      <description>Le constructeur sud-cor&#233;en pr&#233;pare une offensive majeure pour conserver sa place sur le march&#233; des smartphones pliables. Afin de contrer frontalement le futur iPhone pliant d'Apple, Samsung s'appr&#234;te &#224; lancer un tout nouveau mod&#232;le in&#233;dit au format &#233;largi.</description>
     </item>
     <item>
-      <title>01net morning&#160;: prise en main des nouveaux Galaxy A37 et A57, test de l&#8217;iPhone 17e, Windows 11 aurait pu &#234;tre bien d&#232;s le d&#233;part</title>
-      <link>https://www.01net.com/actualites/01net-morning-prise-en-main-des-nouveaux-galaxy-a37-et-a57-test-de-liphone-17e-windows-11-aurait-pu-etre-bien-des-le-depart.html</link>
-      <pubDate>Thu, 26 Mar 2026 06:30:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1334868</guid>
-      <description>Bonjour &#224; tous, voici la matinale de 01net ! Qu&#8217;avez-vous manqu&#233; hier ? Retrouvez toute l&#8217;actu &#224; connaitre pour d&#233;marrer la journ&#233;e du bon pied !</description>
+      <title>Uber aims to launch Europe&#8217;s first robotaxi service with Pony AI and Verne</title>
+      <link>https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe</link>
+      <pubDate>2026-03-26T04:15:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=900656</guid>
+      <description>Uber is joining forces with two companies, China's Pony AI and Croatia's Verne, to launch what it claims will be Europe's first commercially available robotaxi service. The vehicles are already being tested in Zagreb, Croatia, where Verne is headquartered, and will soon be available to customers on Uber's ridehail network. The announcement is the latest [&#8230;]...</description>
     </item>
     <item>
-      <title>Cette box internet sans engagement combine 8 Gb/s, Wi&#8209;Fi 7 et 48 euros de frais rembours&#233;s</title>
-      <link>https://www.frandroid.com/bons-plans/3040081_cette-box-internet-sans-engagement-combine-8-gb-s-wi-fi-7-et-48-euros-de-frais-rembourses</link>
-      <pubDate>Thu, 26 Mar 2026 06:25:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3040081_cette-box-internet-sans-engagement-combine-8-gb-s-wi-fi-7-et-48-euros-de-frais-rembourses</guid>
-      <description>
-Bouygues Telecom fait &#233;voluer sa gamme d'offres sans engagement avec la B&amp;You Pure Fibre Plus. En supprimant le d&#233;codeur TV et la ligne fixe, cette box internet se concentre sur des vitesses pouvant atteindre 8 Gb/s de d&#233;bit et le Wi-Fi 7 pour 25,99 euros par mois, avec les frais de mise en service offerts.
-</description>
-    </item>
-    <item>
-      <title>NYT Pips hints, answers for March 26, 2026</title>
-      <link>https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-march-26-2026</link>
-      <pubDate>Thu, 26 Mar 2026 06:23:50 +0000</pubDate>
-      <guid isPermaLink="false">02hcOGdPS9ICxSHi3u6geUz</guid>
-      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
+      <title>A little-known Croatian startup is coming for the robotaxi market with help from Uber</title>
+      <link>https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/</link>
+      <pubDate>Thu, 26 Mar 2026 08:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3106379</guid>
+      <description>Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia.</description>
     </item>
     <item>
       <title>Amazon Big Spring Sale 2026: Live updates on Apple, Samsung, DJI, and Kindle deals</title>
       <link>https://mashable.com/live/amazon-big-spring-sale-live-deal-updates-2026</link>
-      <pubDate>Thu, 26 Mar 2026 06:23:45 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 08:13:33 +0000</pubDate>
       <guid isPermaLink="false">016iQPAmiRoYBtR793L3Yyo</guid>
       <description>Get live updates on the Amazon Big Spring Sale 2026. We found record-low prices on Apple MacBooks, DJI drones, Kindles, Sony XM6 headphones, and more.</description>
     </item>
     <item>
-      <title>NYT Connections Sports Edition today: Hints and answers for March 26, 2026</title>
-      <link>https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-march-26-2026</link>
-      <pubDate>Thu, 26 Mar 2026 06:09:31 +0000</pubDate>
-      <guid isPermaLink="false">01RynyPTm0XUERZ2k3tJXiP</guid>
-      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
+      <title>La surprise d&#8217;Apple : un capteur de 200 Mpx pour ses futurs iPhone ?</title>
+      <link>https://www.frandroid.com/marques/apple/3040599_la-surprise-dapple</link>
+      <pubDate>Thu, 26 Mar 2026 08:07:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3040599_la-surprise-dapple</guid>
+      <description>
+Apple serait en train de tester un capteur de 200 Mpx pour l'installer sur de futurs iPhone et ainsi tenir t&#234;te aux meilleurs smartphones en photo du c&#244;t&#233; d'Android.
+</description>
     </item>
     <item>
-      <title>Why some Gen Z women are putting work over love and family</title>
-      <link>https://www.fastcompany.com/91512219/why-some-gen-z-women-are-putting-work-over-love-and-family</link>
-      <pubDate>2026-03-26T06:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512219/why-some-gen-z-women-are-putting-work-over-love-and-family</guid>
-      <description>Economic instability, career ambition, and advancements in fertility treatment are keeping young women focused on their careers first.
-With the high career costs associated with motherhood, and in a challenging economy, more young women are choosing to put work ahead of love and family.&#160;</description>
+      <title>Addiction, sant&#233; mentale des jeunes&#160;: Meta encha&#238;ne les revers judiciaires</title>
+      <link>https://www.01net.com/actualites/addiction-sante-mentale-des-jeunes-meta-enchaine-les-revers-judiciaires.html</link>
+      <pubDate>Thu, 26 Mar 2026 08:01:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1334866</guid>
+      <description>Mauvaise semaine pour Meta, mais un signal fort pour les victimes des r&#233;seaux sociaux. Le groupe de Mark Zuckerberg a &#233;t&#233; condamn&#233; &#224; deux reprises par la justice am&#233;ricaine pour ses manquements dans la protection des mineurs face aux contenus et comportements dangereux.</description>
     </item>
     <item>
-      <title>3 hidden taxes women pay at meetings</title>
-      <link>https://www.fastcompany.com/91512935/3-hidden-taxes-women-pay-at-meetings</link>
-      <pubDate>2026-03-26T06:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91512935/3-hidden-taxes-women-pay-at-meetings</guid>
-      <description>From invisible labor to stolen credit, everyday meetings quietly tax women&#8217;s time, energy, and advancement&#8212;and most organizations don&#8217;t even notice.
-Meetings look neutral on the calendar. Everyone&#8217;s calendar is stamped with the same blue 30-minute block. Everyone gets a seat at the table, and&#8212;supposedly&#8212;the same shot to contribute. But the moment you click &#8220;Join,&#8221; the pecking order kicks in.&#160;...</description>
+      <title>5 small shifts to turn creativity into a daily wellness practice</title>
+      <link>https://www.fastcompany.com/91511735/5-small-shifts-to-turn-creativity-into-a-daily-wellness-practice</link>
+      <pubDate>2026-03-26T08:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91511735/5-small-shifts-to-turn-creativity-into-a-daily-wellness-practice</guid>
+      <description>Creativity doesn&#8217;t have to be impressive to be effective.
+Below, coauthors Blythe Harris and Mallory May share five key insights from their new book,&#160;Daily Creative: The 5-Minute Habit to Rewire Your Brain.</description>
+    </item>
+    <item>
+      <title>Spring cleaning deals in Amazons Spring Sale: Save on kitchen, bathroom, and laundry supplies</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-spring-cleaning-live-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01dVIokGs8SNBpbyOVwlG2B</guid>
+      <description>Amazon's Big Spring Sale has cleaning deals to deep clean every room: Save on disinfectant sprays, shower scrubbers, vacuums, and more.</description>
+    </item>
+    <item>
+      <title>35+ Amazon device deals in the Big Spring Sale: Echo, Fire TV, Kindle, and Blink</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-amazon-device-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01dLjx93zGxUhOrQYEPkLKj</guid>
+      <description>Shop the best live Amazon device deals during the Big Spring Sale &#8212; big discounts on Echo devices, Fire TVs, Kindles, and more.</description>
+    </item>
+    <item>
+      <title>The best power station deals in the Amazon Big Spring Sale: Record lows on Jackery, Anker, and Bluetti</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-power-station-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01OwE5X94eJazoT15uSUsNN</guid>
+      <description>Portable power stations from Bluetti, Anker Solix, Jackery, and more are over 50% off during the Amazon Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>The best drone deals to shop in Amazons Big Spring Sale &#8212; DJI drones are hitting best-ever prices</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-drone-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00uAd3nP7ojwsYj8JfohteI</guid>
+      <description>Shop the best drone deals from top brands during Amazon's 2026 Big Spring Sale. Save on DJI, Skyrover, and more.</description>
+    </item>
+    <item>
+      <title>The best cordless tool deals from the Amazon Big Spring Sale &#8212; score record-low prices on DeWalt</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-cordless-tool-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01aWcbCp6ycNu2QhTNt15os</guid>
+      <description>The cordless tool deals you can buy in the Amazon Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>The best Amazon Echo deals to shop in the 2026 Amazon Big Spring Sale &#8212; smart speakers and displays on sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-echo-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06ODfgUOWu19GbjoaC6ungy</guid>
+      <description>Shop the best deals on Amazon Echo smart speakers and displays during the 2026 Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>The best Pok&#233;mon deals in Amazons Big Spring Sale: Perfect Order and Ascended Heroes at record-low prices</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-pokemon-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">029iwf3kYUMsXcw50hUOodu</guid>
+      <description>Shop Pok&#233;mon deals in Amazon's Big Spring Sale, from TCG boxes and tins to discounted Nintendo Switch games.</description>
+    </item>
+    <item>
+      <title>The best Lego deals from Amazons Big Spring Sale &#8212; save on Star Wars and Super Mario</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-lego-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03lJMqDjWYYSCzrx8MMYLVQ</guid>
+      <description>Shop the best Lego deals during Amazon's 2026 Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>The best gaming deals in the Amazon Big Spring Sale: Shop PS5, Xbox, and Nintendo Switch</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-gaming-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00lwbJwE7o2we1eN1IVN38z</guid>
+      <description>Shop gaming deals live Amazon's Big Spring Sale, including gaming monitors and video games for PS5, Xbox, Nintendo Switch.</description>
+    </item>
+    <item>
+      <title>The best TV deals in the Amazon Spring Sale &#8212; score budget QLED TVs at record-low prices</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-tv-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04bE8Cd3BeBsH9ZZoWXlKyX</guid>
+      <description>Shop the best TV deals live during Amazon's Big Spring Sale. Save on affordable QLED TVs from Hisense and TCL.</description>
+    </item>
+    <item>
+      <title>The best unlocked phone deals in the Amazon Spring Sale &#8212; iPhones starting at $287</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-unlocked-phone-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03ZAjIfBDfhM6KwmqguY1p8</guid>
+      <description>Shop the best unlocked phone deals from Apple, Google, and Samsung during the Amazon Big Spring Sale. Find offers for free iPhone 17 smartphones.</description>
+    </item>
+    <item>
+      <title>The best beauty deals in Amazons Spring Sale &#8212; nows a great time to stock up on skincare and K-beauty favorites</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-beauty-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02auTT4x3T8CjjkNLilJeae</guid>
+      <description>The Shark FlexStyle, Dyson Airwrap, K-beauty favorites, Ouai hair products and more are discounted during Amazon's spring sale.</description>
+    </item>
+    <item>
+      <title>The best DJI deals from the Amazon Big Spring Sale: Drones, mics, and power stations at record lows</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-dji-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04T0Fb27lpgJNSqpkinEVBY</guid>
+      <description>These are the best DJI deals to shop during the Amazon Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>The best deals under $25 in Amazons Big Spring Sale &#8212; save on Lego, Fire Sticks, and more</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-under-25-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07wx6P35fkGufRMWHhOZ8JV</guid>
+      <description>Have a look through our selection of the best deals under $25 available to shop now at Amazon ahead of its 2026 Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>30+ deals under $50 from Amazons Big Spring Sale &#8212; Amazon devices, earbuds, video games</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-under-50-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03UFI3NTSJbGSr6oTx1xvOI</guid>
+      <description>Amzon's Big Spring Sale has deals under $50 that include Amazon devices, Nintendo Switch games, Soundcore earbuds, Dreo fans, and more.</description>
+    </item>
+    <item>
+      <title>The best headphones deals in the Amazon Big Spring Sale &#8212; Sony leads the pack</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-headphones-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02vkNiRLtQi3FUsLMDYXa2d</guid>
+      <description>We've spotted over 20 worthwhile headphones and earbuds deals live already ahead of Amazon's Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>The best Kindle deals in the Amazon Big Spring Sale &#8212; Kindle Colorsoft, Paperwhite, and Scribe on sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-kindle-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05w5fkaHsmFXeXCgFVegFhO</guid>
+      <description>During Amazon's Big Spring Sale, the Kindle Colorsoft is back down to its lowest price ever. Get it now for just $169.99, saving you $80 off. Plus, save $150 on the Kindle Scribe.</description>
+    </item>
+    <item>
+      <title>The best tablet deals in the Amazon Big Spring Sale 2026: Score deals on the new iPad Air</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-tablet-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">070rKsajwfPKOMYb08QuIaG</guid>
+      <description>Amazon's Big Spring Sale is here, and tablets are pretty good. Save on Apple iPads, Samsung Galaxy Tabs, and Amazon Fire Kids tablets.</description>
+    </item>
+    <item>
+      <title>The best laptop deals from Amazons Big Spring Sale: MacBooks are down to record-low prices</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-laptop-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01vNe7H5gMMQEu6K8MvxIy6</guid>
+      <description>The best laptop deals live during Amazon's Big Spring Sale include discounts on M4 MacBook Airs and an Asus gaming convertible.</description>
+    </item>
+    <item>
+      <title>20+ fitness tracker deals to shop in the Amazon Big Spring Sale &#8212; Garmin, Apple, and Google on sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-fitness-tracker-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">076D9dkCgyrUZuyb0QkFr27</guid>
+      <description>Fitness tracker deals are rolling in for the Amazon Big Spring Sale. Here's the best deals on Apple, Garmin, and more.</description>
+    </item>
+    <item>
+      <title>The best kitchen deals in Amazons Big Spring Sale &#8212; 30+ deals on Breville, Ninja, Nespresso, and more</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-kitchen-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04g3oAJW5lQSE82owiuCeyX</guid>
+      <description>Blenders, espresso machines, air fryers, and more make up some of the best kitchen deals live during Amazon's Big Spring Sale.</description>
+    </item>
+    <item>
+      <title>Stick vacuums on sale in Amazons Spring Sale: Shark is dunking on Dyson so far</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-cordless-vacuum-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05VWWpk7ar9RQXu2PpBBI8w</guid>
+      <description>Ahead of Amazon's Big Spring Sale, get the most powerful Shark vacuum for under $400 or get a self-emptying stick vacuum under $250.</description>
+    </item>
+    <item>
+      <title>Shark devices on sale in Amazons Big Spring Sale: Stick vacuums, stain removers, and hair tools</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-shark-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">053CUOSnVgNhKo8Zkre4asI</guid>
+      <description>Some of our favorite Shark products are on sale at Amazon ahead of the Big Spring Sale: Get 25% off the Shark StainForce or Shark FlexStyle.</description>
+    </item>
+    <item>
+      <title>The best self-emptying robot vacuum deals in Amazons Big Spring Sale: Top picks from Dreame and Eufy on sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-self-emptying-robot-vacuums-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07HCUOltNsW2Djwte4hqYH6</guid>
+      <description>Yes, it's worth it to get a self-emptying robot vacuum. Top picks from Dreame and Eufy are majorly discounted ahead of Amazon's spring sale.</description>
+    </item>
+    <item>
+      <title>The best robot vacuum deals in the Amazon Big Spring Sale: Our Dreame, Roborock, and Eufy favorites on sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-robot-vacuums-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02aAMbQQL2mP2Hcd3orn0jW</guid>
+      <description>Top robot vacuums are on sale in Amazon's Big Spring Sale, like the Eufy C28 and Dreame X60 Max Ultra Complete.</description>
+    </item>
+    <item>
+      <title>40+ home deals from Amazons Big Spring Sale &#8212; save on cooling sheets, air purifiers, and robot vacuums</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-home-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04TR4PAvP1QjCyrkhig8Sda</guid>
+      <description>Amazon's Big Spring Sale has some great home deals. We spotted savings on air purifiers, carpet cleaners, cooling bedding, and more.</description>
+    </item>
+    <item>
+      <title>25+ Amazon spring sale deals on outdoor gear: Owala water bottles, Anker power stations, Solo Stoves, more</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-outdoor-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">006WRWTuibvzFLfKoCkdTjn</guid>
+      <description>The Amazon Big Spring Sale has outdoor deals on Ninja coolers, Solo Stoves, Jackery power stations, Owala water bottles, and more.</description>
+    </item>
+    <item>
+      <title>Best Buy&#8217;s Tech Fest is over, but these deals are still worth your money</title>
+      <link>https://mashable.com/article/best-buy-spring-sale-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01fx8zidERtSkTW4KWYGMiJ</guid>
+      <description>Best Buy's Tech Fest ended on Sunday, but you can still score serious discounts on Apple products, OLED TVs, and laptops.</description>
+    </item>
+    <item>
+      <title>Walmart is running its own Spring Sale &#8212; save on Apple, Shark, Ninja, and more top brands</title>
+      <link>https://mashable.com/article/walmart-spring-sale-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02zaXvzLOo9cCo2QgPN0uia</guid>
+      <description>Walmart has launched its spring sale to compete against Amazon's Big Spring Sale. The savings aren't as good as Amazon's, but we've plucked the best deals of out the weeds.</description>
+    </item>
+    <item>
+      <title>Im a tech editor, and I found 37 Big Spring Sale tech deals at Amazon Id actually buy</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-tech-live-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05vLH2gt3mOEgrtuzGpk6TE</guid>
+      <description>I'm a tech editor, and I found the top tech deals from Amazon's Big Spring Sale. Grab Sony headphones for $48, Kindles for $94, and $250 off MacBooks.</description>
+    </item>
+    <item>
+      <title>The best iPad deals in Amazons Big Spring Sale: Save up to $200 on Apple tablets</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-ipad-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00Ub9NBgKRqTcOm3aq9pxpv</guid>
+      <description>Shop the best iPad deals from Apple during Amazon's 2026 Big Spring Sale. One M3 iPad Air has never been cheaper.</description>
+    </item>
+    <item>
+      <title>The best Apple AirTags deals from Amazons Big Spring Sale &#8212; record-low prices live now</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-airtags-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03xyHJW9XP6MGU6KDq2iRA6</guid>
+      <description>Amazon's Big Spring Sale is live. Score discounts on Apple AirTags to keep track of your luggage, keys, and wallet.</description>
+    </item>
+    <item>
+      <title>The best AirPods deals to shop in Amazons Big Spring Sale &#8212; AirPods 4 and AirPods Pro 3 on sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-airpods-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00MZPGCDp6HQEp0SGBB0Zbz</guid>
+      <description>The best AirPods deals to shop in Amazon's Big Spring Sale 2026. Save on AirPods 4 and AirPods Pro 3.</description>
+    </item>
+    <item>
+      <title>The best Apple Watch deals in Amazons Big Spring Sale &#8212; score record-low deals on Series 9 and Series 11</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-apple-watch-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01XllzyI1x8CgFyFiqkHlrj</guid>
+      <description>Check out the best Apple Watch deals to shop during Amazon's 2026 Big Spring Sale. Score discounts on Series 11 and SE 3 models.</description>
+    </item>
+    <item>
+      <title>The best MacBook deals in Amazons Big Spring Sale &#8212; best-ever prices, including the MacBook Neo</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-macbook-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04qokn70MDI1t8jo4vQvB9m</guid>
+      <description>We found the best MacBook deals at Amazon during the Big Spring Sale. Grab the MacBook Neo for $689 and M4 MacBook Airs for $899.</description>
+    </item>
+    <item>
+      <title>Streaming for less: Score Spring Sale deals on Paramount+, Spotify, Starz, and more.</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-streaming-live-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03RmgZ1bTFYQw9dYNOls1vu</guid>
+      <description>The best Big Spring Sale streaming deals include free offers on Spotify and Amazon Music Unlimited, plus $22 off Paramount+.</description>
+    </item>
+    <item>
+      <title>Amazon is clearing out last-gen tech for the Big Spring Sale: Apples M4 MacBook Air hits best-ever price</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-last-gen-tech-live-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03h4O3K7FFanZsWUkB2h1Tv</guid>
+      <description>We found the best deals on last-gen tech during Amazon's Big Spring Sale, with discounts on M4 MacBook Airs and Sony WF-1000XM5 earbuds.</description>
+    </item>
+    <item>
+      <title>We found the best Apple deals from Amazons Spring Sale &#8212; save on AirPods, iPads, and MacBooks</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-apple-deals-live-now-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01fXo19oGbpXBXNISjLwdg7</guid>
+      <description>See all the best Apple deals from the Amazon Big Spring Sale, including $50 off AirPods Pro 3 and $250 off M4 MacBook Air laptops.</description>
+    </item>
+    <item>
+      <title>Amazons Big Spring Sale is actually good: We found 100+ deals on Apple, DJI, Sony, and Shark</title>
+      <link>https://mashable.com/article/best-amazon-big-spring-sale-live-deals-2026</link>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07K3rC56OqvOqLFHWikPM6o</guid>
+      <description>Amazon's Big Spring Sale is back from March 25 to 31. Shop the best deals on Apple, headphones, TVs, and more.</description>
+    </item>
+    <item>
+      <title>Le navigateur web Samsung arrive officiellement sur Windows pour concurrencer Google Chrome</title>
+      <link>https://www.frandroid.com/marques/samsung/3040603_le-navigateur-web-samsung-arrive-officiellement-sur-windows-pour-concurrencer-google-chrome</link>
+      <pubDate>Thu, 26 Mar 2026 07:44:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3040603_le-navigateur-web-samsung-arrive-officiellement-sur-windows-pour-concurrencer-google-chrome</guid>
+      <description>
+Apr&#232;s &#234;tre rest&#233; un long moment en version b&#234;ta, le navigateur web de Samsung est enfin disponible en mouture stable pour les ordinateurs Windows. Un nouveau concurrent &#224; Chrome qui se veut int&#233;gr&#233; &#224; l&#8217;&#233;cosyst&#232;me Samsung.
+</description>
+    </item>
+    <item>
+      <title>DreamWorks Forgotten Island trailer teases spectacular Filipino-inspired 90s adventure</title>
+      <link>https://mashable.com/video/forgotten-island-trailer-dreamworks</link>
+      <pubDate>Thu, 26 Mar 2026 07:41:46 +0000</pubDate>
+      <guid isPermaLink="false">03P31PuY04XGvcA3qEESFA9</guid>
+      <description>Dreamworks has released the trailer for 'Forgotten Island,' and it looks like a spectacular, magical tale of friendship.</description>
+    </item>
+    <item>
+      <title>20 secondes pour r&#233;gler sa longueur : on a roul&#233; avec cet &#233;tonnant v&#233;lo cargo &#233;lectrique</title>
+      <link>https://www.frandroid.com/survoltes/velo-electrique/3039945_20-secondes-pour-regler-sa-longueur-on-a-roule-avec-cet-etonnant-velo-cargo-electrique</link>
+      <pubDate>Thu, 26 Mar 2026 07:34:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3039945_20-secondes-pour-regler-sa-longueur-on-a-roule-avec-cet-etonnant-velo-cargo-electrique</guid>
+      <description>
+Con&#231;u et fabriqu&#233; en Allemagne, ce biporteur Qemeo n&#8217;est pas seulement bien &#233;quip&#233; et haut de gamme : il est aussi et surtout r&#233;glable en longueur pour &#234;tre aussi pratique que compact.
+</description>
+    </item>
+    <item>
+      <title>Samsung One UI 9 : regardez ces petits changements sur l&#8217;interface (galerie, widgets, Now Bar)</title>
+      <link>https://www.frandroid.com/marques/samsung/3040557_samsung-one-ui-9-regardez-ces-petits-changements-sur-linterface-galerie-widgets-now-bar</link>
+      <pubDate>Thu, 26 Mar 2026 07:29:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3040557_samsung-one-ui-9-regardez-ces-petits-changements-sur-linterface-galerie-widgets-now-bar</guid>
+      <description>
+Des captures d'&#233;cran de Samsung One UI 9 (Android 17) montrent les petites &#233;volutions de design &#224; attendre sur la galerie photo, les widgets ou encore la Now Bar.
+</description>
+    </item>
+    <item>
+      <title>On a vu la premi&#232;re voiture &#233;lectrique &#224; batterie semi-solide&#160;: surprise, c&#8217;est la moins ch&#232;re des MG</title>
+      <link>https://www.01net.com/actualites/on-a-vu-la-premiere-voiture-electrique-a-batterie-semi-solide-surprise-cest-la-moins-chere-des-mg.html</link>
+      <pubDate>Thu, 26 Mar 2026 07:27:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1334725</guid>
+      <description>MG est le premier constructeur &#224; commercialiser en Europe une voiture &#233;lectrique &#224; batterie semi-solide. En attendant la batterie solide, la MG4 Urban sera l'une des attractions de l'ann&#233;e. Pour la voir rouler, rendez-vous fin 2026.</description>
+    </item>
+    <item>
+      <title>Ce kit de d&#233;marrage Philips Hue ultra complet est brad&#233; &#224; moins de 150 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3039897_ce-kit-de-demarrage-philips-hue-ultra-complet-est-brade-a-moins-de-150-e</link>
+      <pubDate>Thu, 26 Mar 2026 07:16:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3039897_ce-kit-de-demarrage-philips-hue-ultra-complet-est-brade-a-moins-de-150-e</guid>
+      <description>
+Si vous souhaitez &#233;quiper votre cocon avec un &#233;clairage intelligent, alors le kit de d&#233;marrage Philips Hue comprenant deux ampoules, deux barres lumineuses, une t&#233;l&#233;commande et un pont de connexion devrait tout &#224; fait vous convenir. Un pack que Darty et la Fnac proposent d'ailleurs &#224; 149,99 euros au lieu de 289,99 euros.
+</description>
     </item>
   </channel>
 </rss>
