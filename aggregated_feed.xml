@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 29 Mar 2026 21:37:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 22:36:05 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky&#8217;s new app is an AI for customizing your feed</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds</link>
+      <pubDate>2026-03-29T17:44:41-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=903190</guid>
+      <description>The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]</description>
+    </item>
     <item>
       <title>'Weekend work increased more than 40%': How AI is quietly expanding the work week as Saturday starts shift to 7:11 am</title>
       <link>https://www.techradar.com/pro/weekend-work-increased-more-than-40-how-ai-is-quietly-expanding-the-work-week-as-saturday-starts-shift-to-7-11-a-m</link>
@@ -31,27 +38,6 @@
       <pubDate>Sun, 29 Mar 2026 20:52:22 +0000</pubDate>
       <guid isPermaLink="false">bm7ZayKBX6NxjhoxTKEw7R</guid>
       <description>Samsung has a massive sale on its best-rated TVs to celebrate the Final Four, and I've rounded up the 9 best deals that I'd spend my own money on.</description>
-    </item>
-    <item>
-      <title>Even the &#8216;Avatar&#8217; Fighting Game Is Disrespecting &#8216;Legend of Korra&#8217;</title>
-      <link>https://gizmodo.com/even-the-avatar-fighting-game-is-disrespecting-legend-of-korra-2000739485</link>
-      <pubDate>Sun, 29 Mar 2026 20:15:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000739485</guid>
-      <description>The roster for 'Avatar Legends' doesn't play favorites, but at launch, it doesn't really care for 'Legend of Korra.'</description>
-    </item>
-    <item>
-      <title>&#8216;Project Hail Mary&#8217; becomes Amazon MGM&#8217;s biggest box office hit</title>
-      <link>https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/</link>
-      <pubDate>Sun, 29 Mar 2026 19:50:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3107386</guid>
-      <description>Amazon&#8217;s bet on &#8220;Project Hail Mary&#8221; has paid off handsomely.</description>
-    </item>
-    <item>
-      <title>Red Rooms makes online poker as thrilling as its serial killer</title>
-      <link>https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web</link>
-      <pubDate>2026-03-29T15:45:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=903174</guid>
-      <description>It's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly gets it. Nothing takes me out of a film quicker than a tech MacGuffin that might as well be literal [&#8230;]</description>
     </item>
   </channel>
 </rss>
