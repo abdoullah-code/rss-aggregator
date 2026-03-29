@@ -3,13 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 28 Mar 2026 23:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 02:52:06 GMT</lastBuildDate>
     <item>
-      <title>Bluesky leans into AI with Attie, an app for building custom feeds</title>
-      <link>https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/</link>
-      <pubDate>Sat, 28 Mar 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3107020</guid>
-      <description>Bluesky&#8217;s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.</description>
+      <title>NYT Connections hints today: Clues, answers for March 29, 2026</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-march-29-2026</link>
+      <pubDate>Sun, 29 Mar 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06G3kmB886N3VD1gSOsYVqE</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for March 29, 2026</title>
+      <link>https://mashable.com/article/strands-nyt-hint-march-29-2026</link>
+      <pubDate>Sun, 29 Mar 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00LZty3999GEfkYrtDZmRxz</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for March 29, 2026</title>
+      <link>https://mashable.com/article/wordle-today-answer-march-29-2026</link>
+      <pubDate>Sun, 29 Mar 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02i7mdnNwL8b8RQIbzA00tY</guid>
+      <description>Here's the answer for "Wordle" #1744 on March 29 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
   </channel>
 </rss>
