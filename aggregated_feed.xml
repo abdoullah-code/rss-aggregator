@@ -3,41 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 29 Mar 2026 22:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 23:38:18 GMT</lastBuildDate>
+    <item>
+      <title>Gigabyte Radeon RX 9070 XT Gaming OC Ice 16GB review: excellent performance from a standout graphics card</title>
+      <link>https://www.techradar.com/computing/gpu/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16gb-review-excellent-performance-from-a-standout-graphics-card</link>
+      <pubDate>Sun, 29 Mar 2026 23:13:46 +0000</pubDate>
+      <guid isPermaLink="false">XeTzW2WcxzLupLJPLg8UCD</guid>
+      <description>The Gigabyte Radeon RX 9070 XT Gaming OC Ice 16GB offers excellent performance, a clean white aesthetic, capable cooling and a factory overclock &#8212; making it a very likeable GPU.</description>
+    </item>
     <item>
       <title>Bluesky&#8217;s new app is an AI for customizing your feed</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds</link>
       <pubDate>2026-03-29T17:44:41-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=903190</guid>
       <description>The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]</description>
-    </item>
-    <item>
-      <title>'Weekend work increased more than 40%': How AI is quietly expanding the work week as Saturday starts shift to 7:11 am</title>
-      <link>https://www.techradar.com/pro/weekend-work-increased-more-than-40-how-ai-is-quietly-expanding-the-work-week-as-saturday-starts-shift-to-7-11-a-m</link>
-      <pubDate>Sun, 29 Mar 2026 21:35:00 +0000</pubDate>
-      <guid isPermaLink="false">KeGPZR528QBignA3Q4RVF9</guid>
-      <description>AI is increasing workplace intensity, weekend activity, and multitasking while focus time drops, and organizational alignment struggles to keep pace.</description>
-    </item>
-    <item>
-      <title>The Pixel 10a doesn&#8217;t have a camera bump, and it&#8217;s great</title>
-      <link>https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/</link>
-      <pubDate>Sun, 29 Mar 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3098757</guid>
-      <description>The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.</description>
-    </item>
-    <item>
-      <title>YouTube CEO says the best YouTubers will &#8216;never leave their home&#8217;</title>
-      <link>https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/</link>
-      <pubDate>Sun, 29 Mar 2026 21:17:52 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3107396</guid>
-      <description>CEO Neal Mohan insisted that he isn&#8217;t worried about Netflix luring away YouTube's most popular creators.</description>
-    </item>
-    <item>
-      <title>Samsung has a massive TV sale to celebrate the Final Four &#8212; here are 9 TVs that I'd spend my own money on</title>
-      <link>https://www.techradar.com/tech/samsung-has-a-massive-tv-sale-to-celebrate-the-final-four-here-are-9-tvs-that-id-spend-my-own-money-on</link>
-      <pubDate>Sun, 29 Mar 2026 20:52:22 +0000</pubDate>
-      <guid isPermaLink="false">bm7ZayKBX6NxjhoxTKEw7R</guid>
-      <description>Samsung has a massive sale on its best-rated TVs to celebrate the Final Four, and I've rounded up the 9 best deals that I'd spend my own money on.</description>
     </item>
   </channel>
 </rss>
