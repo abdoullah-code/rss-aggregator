@@ -3,7 +3,44 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 29 Mar 2026 16:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 17:36:26 GMT</lastBuildDate>
+    <item>
+      <title>Apple pushes 'critical' software alerts to iPhones running out-of-date versions of iOS &#8212; here's how to stay safe</title>
+      <link>https://www.techradar.com/phones/iphone/apple-pushes-critical-software-alerts-to-iphones-running-out-of-date-versions-of-ios-heres-how-to-stay-safe</link>
+      <pubDate>Sun, 29 Mar 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">C9jwWdmVcn5SahQTtjfUui</guid>
+      <description>Apple is taking an additional step to keep older iPhones protected from the latest exploits.</description>
+    </item>
+    <item>
+      <title>Save up to $300 on this RTX 5070Ti-powered gaming PC with 32GB RAM and a free copy of Resident Evil Requiem</title>
+      <link>https://www.techradar.com/computing/gaming-pcs/save-up-to-usd300-on-this-rtx-5070ti-powered-gaming-pc-with-32gb-ram-and-a-free-copy-of-resident-evil-requiem</link>
+      <pubDate>Sun, 29 Mar 2026 17:25:00 +0000</pubDate>
+      <guid isPermaLink="false">dY7F5D5knNa7x4GcYvJY7H</guid>
+      <description>It's your last chance to shop this clearance sale</description>
+    </item>
+    <item>
+      <title>Whatever Just Happened with &#8216;Fruit Love Island,&#8217; Nobody Won</title>
+      <link>https://gizmodo.com/whatever-just-happened-with-fruit-love-island-nobody-won-2000739498</link>
+      <pubDate>Sun, 29 Mar 2026 17:07:19 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000739498</guid>
+      <description>It appears the anonymous creator deleted their account. Is there anything to learn from all this?</description>
+    </item>
+    <item>
+      <title>Quel ordinateur portable choisir pour moins de 1000 euros en 2026 ?</title>
+      <link>https://www.frandroid.com/guide-dachat/638396_quels-sont-les-meilleurs-pc-portables-a-moins-de-1000-euros-en-2019</link>
+      <pubDate>Sun, 29 Mar 2026 17:00:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/638396_quels-sont-les-meilleurs-pc-portables-a-moins-de-1000-euros-en-2019</guid>
+      <description>
+On trouve aujourd'hui d'excellents ordinateurs portables avec un rapport qualit&#233;/prix int&#233;ressant. Mais l'offre est tr&#232;s vari&#233;e, alors comment choisir ? Voici nos recommandations des meilleurs mod&#232;les de PC portables sous les 1 000 euros.
+</description>
+    </item>
+    <item>
+      <title>Amazons Big Spring Sale has the Soundcore Sleep A30 Special earbuds down to a record-low price</title>
+      <link>https://mashable.com/article/march-29-best-amazon-spring-sale-soundcore-sleep-deal</link>
+      <pubDate>Sun, 29 Mar 2026 16:50:57 +0000</pubDate>
+      <guid isPermaLink="false">02hYaXhAmlPDXyD9ck2HL08</guid>
+      <description>The Soundcore Sleep A30 Special earbuds are on sale for $179.99 at Amazon, down from the normal price of $199.99. The older Soundcore Sleep A20 earbuds are on sale for $119.99.</description>
+    </item>
     <item>
       <title>Bluesky's next product is an AI assistant that helps build custom social media feeds</title>
       <link>https://www.engadget.com/ai/blueskys-next-product-is-an-ai-assistant-that-helps-build-custom-social-media-feeds-163140902.html?src=rss</link>
@@ -41,6 +78,20 @@ To use Attie, users can punch in prompts in natural language to generate social 
       <description>Welcome back to TechCrunch Mobility &#8212; your central hub for news and insights on the future of transportation.</description>
     </item>
     <item>
+      <title>Ive tracked TV prices for years &#8212; the best Amazon Spring Sale TV deals are from Hisense and TCL</title>
+      <link>https://mashable.com/article/best-amazon-big-spring-sale-tv-deals-2026</link>
+      <pubDate>Sun, 29 Mar 2026 16:00:54 +0000</pubDate>
+      <guid isPermaLink="false">01brJ8WimdMhUrEAp5hp2zV</guid>
+      <description>Amazon Big Spring Sale TV deals go past its own Fire TVs. Now that 2026 TVs are out, Amazon is putting top 2025 QLED TVs on sale.</description>
+    </item>
+    <item>
+      <title>When product managers ship code: AI just broke the software org chart</title>
+      <link>https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart</link>
+      <pubDate>Sun, 29 Mar 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">15UabG5u8y17NzHQ3Plcns</guid>
+      <description>Last week, one of our product managers (PMs) built and shipped a feature. Not spec'd it. Not filed a ticket for it. Built it, tested it, and shipped it to production. In a day.A few days earlier, our designer noticed that the visual appearance of our IDE plugins had drifted from the design system. In the old world, that meant screenshots, a JIRA ticket, a conversation to explain the intent, and a sprint slot. Instead, he opened an agent, adjusted the layout himself, experimented, iterated, and tuned in real time, then pushed the fix. The person with the strongest design intuition fixed the des...</description>
+    </item>
+    <item>
       <title>Xiaomi 17 Ultra vs Google Pixel 10 Pro XL&#160;: comment choisir le meilleur smartphone haut de gamme&#160;?</title>
       <link>https://www.frandroid.com/versus/3035053_xiaomi-17-ultra-vs-google-pixel-10-pro-xl-comment-choisir-le-meilleur-smartphone-haut-de-gamme</link>
       <pubDate>Sun, 29 Mar 2026 16:00:00 +0000</pubDate>
@@ -50,71 +101,11 @@ Si Google produit d'excellents smartphones, il peine toujours &#224; se d&#233;m
 </description>
     </item>
     <item>
-      <title>Comment optimiser la dur&#233;e de vie votre batterie sur Mac ?</title>
-      <link>https://www.frandroid.com/marques/3044185_comment-optimiser-la-duree-de-vie-votre-batterie-sur-mac</link>
-      <pubDate>Sun, 29 Mar 2026 15:26:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3044185_comment-optimiser-la-duree-de-vie-votre-batterie-sur-mac</guid>
-      <description>
-La mise &#224; jour 26.4 de macOS Tahoe apporte enfin deux fonctionnalit&#233;s attendues depuis longtemps sur Mac : la limite de recharge et la recharge optimis&#233;e. Voici comment les activer.
-</description>
-    </item>
-    <item>
-      <title>I test new vacuums every month. Here are the robot vacuum deals worth buying in Amazons Spring Sale.</title>
-      <link>https://mashable.com/article/best-amazon-big-spring-sale-robot-vacuums-deals-2026</link>
-      <pubDate>Sun, 29 Mar 2026 15:21:10 +0000</pubDate>
-      <guid isPermaLink="false">00kxr7rMkIvKKzKnNo52w9M</guid>
-      <description>Newly released 2026 robot vacuums are on sale for Amazon's Big Spring Sale, like the Eufy C28 and Roborock Qrevo Curv 2 Flow.</description>
-    </item>
-    <item>
-      <title>Weve found the best AirPods deals in Amazons Big Spring Sale &#8212; $99 AirPods are still live</title>
-      <link>https://mashable.com/article/best-amazon-big-spring-sale-airpods-deals-live-2026</link>
-      <pubDate>Sun, 29 Mar 2026 15:13:54 +0000</pubDate>
-      <guid isPermaLink="false">05zI5Yjeqjrkjv6f6jJZnAv</guid>
-      <description>We found the best AirPods deals to shop during Amazon's Big Spring Sale. Grab AirPods 4 for $99, and save $60 on AirPods Pro 3.</description>
-    </item>
-    <item>
-      <title>Ce nouveau smartphone Oppo ultra-r&#233;sistant et &#224; l&#8217;autonomie XXL vient de sortir et tombe d&#233;j&#224; &#224; moins de 250 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3043155_ce-nouveau-smartphone-oppo-ultra-resistant-et-a-lautonomie-xxl-vient-de-sortir-et-tombe-deja-a-moins-de-250-e</link>
-      <pubDate>Sun, 29 Mar 2026 15:09:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3043155_ce-nouveau-smartphone-oppo-ultra-resistant-et-a-lautonomie-xxl-vient-de-sortir-et-tombe-deja-a-moins-de-250-e</guid>
-      <description>
-Avec son A6 5G, Oppo mise sur la durabilit&#233; avec un smartphone qui affiche une solide batterie de 6 550 mAh. Carrefour retire 30 euros &#224; la version 256 Go de ce smartphone qui tombe &#224; 239 euros.
-</description>
-    </item>
-    <item>
-      <title>Were tracking the best Apple deals in the Amazon Spring Sale &#8212; new lows on AirPods, iPads, and MacBooks</title>
-      <link>https://mashable.com/article/best-amazon-big-spring-sale-apple-deals-live-2026</link>
-      <pubDate>Sun, 29 Mar 2026 15:07:12 +0000</pubDate>
-      <guid isPermaLink="false">00u6j5q521Da6RzPl5bb54K</guid>
-      <description>See all the best Apple deals from the Amazon Big Spring Sale, including $50 off AirPods Pro 3 and $250 off M4 MacBook Air laptops.</description>
-    </item>
-    <item>
-      <title>'A career can be just as strong in these fields of plumbing and electricians': Blackrock boss says getting an AI job shouldn't be the end goal for everyone</title>
-      <link>https://www.techradar.com/pro/a-career-can-be-just-as-strong-in-these-fields-of-plumbing-and-electricians-blackrock-boss-says-getting-an-ai-job-shouldnt-be-the-end-goal-for-everyone</link>
-      <pubDate>Sun, 29 Mar 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">LVJeTf3w3aVJjWasJZLMqB</guid>
-      <description>Larry Fink urges society to value skilled trades as AI reshapes jobs, warns that energy costs and oil risks threaten economies.</description>
-    </item>
-    <item>
-      <title>Aqara Smart Lock U400 Review: Hands-free Unlocking at Its Best</title>
-      <link>https://gizmodo.com/aqara-smart-lock-u400-review-hands-free-unlocking-at-its-best-2000735549</link>
-      <pubDate>Sun, 29 Mar 2026 15:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000735549</guid>
-      <description>Aqara&#8217;s newest smart lock gets universal tap-to-unlock, but only iPhones and Apple Watches let you skip that step and just walk on in.</description>
-    </item>
-    <item>
-      <title>Can my favorite Game Boy gadget tell fake cartridges from real?</title>
-      <link>https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection</link>
-      <pubDate>2026-03-29T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=902910</guid>
-      <description>The $50 Epilogue GB Operator has a brand-new trick up its sleeve. In addition to backing up Game Boy, Game Boy Color and Game Boy Advance cartridges and saves to a PC, it can now plug into your phone with a brand-new Retrace app for Android and iOS. The idea: check if cartridges are legit, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Im a tech editor. I found 45+ tech deals Id actually buy in the Amazon Big Spring Sale.</title>
-      <link>https://mashable.com/article/best-amazon-big-spring-sale-tech-deals-live-2026</link>
-      <pubDate>Sun, 29 Mar 2026 14:58:25 +0000</pubDate>
-      <guid isPermaLink="false">00Ngj7WBHaaZQ5qj5eMiis0</guid>
-      <description>I'm a tech editor, and I found the top tech deals from Amazon's Big Spring Sale. Grab Sony headphones for $48, Kindles for $94, and $250 off MacBooks.</description>
+      <title>The best iPad deals in Amazons Spring Sale: iPads are selling out fast, get the deals while theyre still live</title>
+      <link>https://mashable.com/article/best-amazon-big-spring-sale-ipad-deals-live-2026</link>
+      <pubDate>Sun, 29 Mar 2026 15:36:53 +0000</pubDate>
+      <guid isPermaLink="false">05pdWwBLqEAQPpirKeguubG</guid>
+      <description>Shop the best iPad deals from Apple during Amazon's 2026 Big Spring Sale. But shop fast because deals are selling out.</description>
     </item>
   </channel>
 </rss>
