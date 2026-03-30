@@ -3,20 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 29 Mar 2026 23:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:54:41 GMT</lastBuildDate>
     <item>
-      <title>Gigabyte Radeon RX 9070 XT Gaming OC Ice 16GB review: excellent performance from a standout graphics card</title>
-      <link>https://www.techradar.com/computing/gpu/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16gb-review-excellent-performance-from-a-standout-graphics-card</link>
-      <pubDate>Sun, 29 Mar 2026 23:13:46 +0000</pubDate>
-      <guid isPermaLink="false">XeTzW2WcxzLupLJPLg8UCD</guid>
-      <description>The Gigabyte Radeon RX 9070 XT Gaming OC Ice 16GB offers excellent performance, a clean white aesthetic, capable cooling and a factory overclock &#8212; making it a very likeable GPU.</description>
+      <title>I just saw United Airlines big plans for the future and, yes, it wants to fly like Apple</title>
+      <link>https://www.techradar.com/tech/i-just-saw-united-airlines-big-plans-for-the-future-and-yes-it-wants-to-fly-like-apple</link>
+      <pubDate>Mon, 30 Mar 2026 02:30:00 +0000</pubDate>
+      <guid isPermaLink="false">4VFvFh8MrKqHEsxdTaTgyV</guid>
+      <description>After testing United&#8217;s latest upgrades, from Starlink Wi-Fi to its new &#8220;Elevated&#8221; cabins, a clearer strategy emerges: a push toward a more connected, consistent airline experience that increasingly echoes Apple&#8217;s ecosystem approach ahead of its 100th year.</description>
     </item>
     <item>
-      <title>Bluesky&#8217;s new app is an AI for customizing your feed</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds</link>
-      <pubDate>2026-03-29T17:44:41-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=903190</guid>
-      <description>The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]</description>
+      <title>Some of the best Lego deals I've seen are at Amazon right now &#8212; Star Wars, Technic, and Botanicals sets from $13.49</title>
+      <link>https://www.techradar.com/streaming/entertainment/some-of-the-best-lego-deals-ive-seen-are-at-amazon-right-now-star-wars-technic-and-botanicals-sets-from-usd13-49</link>
+      <pubDate>Mon, 30 Mar 2026 01:59:36 +0000</pubDate>
+      <guid isPermaLink="false">SySSEC3Ta2MuUREwtvgSYb</guid>
+      <description>Amazon's Big Spring Sale is in full swing, and with nearly every product category included, it should be no surprise that some excellent deals on Lego sets are available.</description>
+    </item>
+    <item>
+      <title>All the latest in AI &amp;#8216;music&amp;#8217;</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit</link>
+      <pubDate>2026-03-29T21:32:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=903196</guid>
+      <description>AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]</description>
     </item>
   </channel>
 </rss>
