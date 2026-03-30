@@ -3,352 +3,233 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 30 Mar 2026 17:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 19:06:07 GMT</lastBuildDate>
     <item>
-      <title>Cohere's open-weight ASR model hits 5.4% word error rate &#8212; low enough to replace speech APIs in production pipelines</title>
-      <link>https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace</link>
-      <pubDate>Mon, 30 Mar 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">29XmNMKUGxjVJ1LXVIvahE</guid>
-      <description>Enterprises building voice-enabled workflows have had limited options for production-grade transcription: closed APIs with data residency risks, or open models that trade accuracy for deployability. Cohere's new open-weight ASR model, Transcribe, is built to compete on all four key differentiators &#8212; contextual accuracy, latency, control and cost.Cohere says that Transcribe outperforms current leaders on accuracy &#8212; and unlike closed APIs, it can run on an organization's own infrastructure.Cohere, which can be accessed via an API or in Cohere&#8217;s Model Vault as cohere-transcribe-03-2026, has 2 bil...</description>
+      <title>RSAC 2026 shipped five agent identity frameworks and left three critical gaps open</title>
+      <link>https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps</link>
+      <pubDate>Mon, 30 Mar 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="false">S6PnANX0bYg5jLV44vaVY</guid>
+      <description>&#8220;You can deceive, manipulate, and lie. That&#8217;s an inherent property of language. It&#8217;s a feature, not a flaw,&#8221; CrowdStrike CTO Elia Zaitsev told VentureBeat in an exclusive interview at RSA Conference 2026. If deception is baked into language itself, every vendor trying to secure AI agents by analyzing their intent is chasing a problem that cannot be conclusively solved. Zaitsev is betting on context instead. CrowdStrike&#8217;s Falcon sensor walks the process tree on an endpoint and tracks what agents did, not what agents appeared to intend. &#8220;Observing actual kinetic actions is a structured, solvable...</description>
     </item>
     <item>
-      <title>iOS 27 : toutes les nouveaut&#233;s attendues pour Siri sur vos iPhone</title>
-      <link>https://www.frandroid.com/marques/apple/3045741_ios-27-toutes-les-nouveautes-attendues-pour-siri-sur-vos-iphone</link>
-      <pubDate>Mon, 30 Mar 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3045741_ios-27-toutes-les-nouveautes-attendues-pour-siri-sur-vos-iphone</guid>
+      <title>Publicit&#233; sur les smartphones Honor : la mauvaise id&#233;e qui va braquer les utilisateurs</title>
+      <link>https://www.frandroid.com/marques/honor/3046179_publicite-sur-les-smartphones-honor-la-mauvaise-idee-qui-va-braquer-les-utilisateurs</link>
+      <pubDate>Mon, 30 Mar 2026 19:01:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/honor/3046179_publicite-sur-les-smartphones-honor-la-mauvaise-idee-qui-va-braquer-les-utilisateurs</guid>
       <description>
-Voici un petit aper&#231;u des avanc&#233;es IA attendues du c&#244;t&#233; d'Apple avec la mise &#224; jour iOS 27 pour les iPhone.
+Plusieurs utilisateurs europ&#233;ens rapportent l'apparition de publicit&#233;s intrusives au sein m&#234;me de l'interface Honor.
 </description>
     </item>
     <item>
-      <title>Le Vivo X300 Ultra est l&#224;, voici une grosse concurrence pour Samsung et Xiaomi</title>
-      <link>https://www.frandroid.com/marques/vivo/3046095_le-vivo-x300-ultra-est-la-voici-une-grosse-concurrence-pour-samsung-et-xiaomi</link>
-      <pubDate>Mon, 30 Mar 2026 16:44:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/vivo/3046095_le-vivo-x300-ultra-est-la-voici-une-grosse-concurrence-pour-samsung-et-xiaomi</guid>
+      <title>&#8216;Scream 7&#8217; Comes Home With Deleted Scenes We Hope Will Improve the Movie</title>
+      <link>https://gizmodo.com/scream-7-comes-home-with-deleted-scenes-we-hope-will-improve-the-movie-2000739858</link>
+      <pubDate>Mon, 30 Mar 2026 19:00:26 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000739858</guid>
+      <description>The hit slasher sequel starring Neve Campbell is out digitally on March 31 before a physical release in June.</description>
+    </item>
+    <item>
+      <title>I've tried more Nintendo Switch 2 accessories than I can count, but these six are simply the best</title>
+      <link>https://www.techradar.com/gaming/gaming-accessories/ive-tried-more-nintendo-switch-2-accessories-than-i-can-count-but-these-six-are-simply-the-best</link>
+      <pubDate>Mon, 30 Mar 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZrD8yNmwmteSdAMWQqmA8S</guid>
+      <description>After testing more than 20 Nintendo Switch 2 accessories, these are some of my true favorites.</description>
+    </item>
+    <item>
+      <title>What we&#8217;re looking for in Startup Battlefield 2026 and how to put your best application forward</title>
+      <link>https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/</link>
+      <pubDate>Mon, 30 Mar 2026 18:57:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3107547</guid>
+      <description>Here's what we're looking for in your Startup Battlefield 200 application and how to make sure your application reflects it.</description>
+    </item>
+    <item>
+      <title>A QR Code Too Small to See Hints at a New, Non-Annoying Use for the Format</title>
+      <link>https://gizmodo.com/a-qr-code-too-small-to-see-hints-at-a-new-non-annoying-use-for-the-format-2000739827</link>
+      <pubDate>Mon, 30 Mar 2026 18:55:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000739827</guid>
+      <description>Data storage? Yes! A replacement for printed menus? No!</description>
+    </item>
+    <item>
+      <title>These are the best USB flash drive deals we found for World Backup Day</title>
+      <link>https://www.techradar.com/pro/these-are-the-best-usb-flash-drive-deals-we-found-for-world-backup-day</link>
+      <pubDate>Mon, 30 Mar 2026 18:54:43 +0000</pubDate>
+      <guid isPermaLink="false">MQJ95XEbh5ZdPHvHg2rWem</guid>
+      <description>These are the best USB flash drive deals we found for World Backup Day, with savings on our favorite models.</description>
+    </item>
+    <item>
+      <title>Your smartphone could get its signal from the sky &#8212; thanks to an amazing drone armada that complements traditional cell towers</title>
+      <link>https://www.techradar.com/pro/your-smartphone-could-get-its-signal-from-the-sky-thanks-to-an-amazing-drone-armada-that-complements-traditional-cell-towers</link>
+      <pubDate>Mon, 30 Mar 2026 18:40:00 +0000</pubDate>
+      <guid isPermaLink="false">MFyq8QCEqvoTAw3quDzvE4</guid>
+      <description>Researchers propose a drone-based system that supports mobile networks by improving coverage, reducing delays, and maintaining fresher data during congestion or outages.</description>
+    </item>
+    <item>
+      <title>Delve whistleblower strikes again, with alleged receipts about &#8216;fake compliance&#8217;</title>
+      <link>https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/</link>
+      <pubDate>Mon, 30 Mar 2026 18:26:07 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3107542</guid>
+      <description>Shortly after Delve's founder published a lengthy denial of allegations, while promising changes, the accuser came forward with more alleged details.</description>
+    </item>
+    <item>
+      <title>Llama.cpp int&#232;gre Google TurboQuant : quels gains pour votre PC ou Mac ?</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3046165_llama-cpp-integre-google-turboquant-quels-gains-pour-votre-pc-ou-mac</link>
+      <pubDate>Mon, 30 Mar 2026 18:22:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3046165_llama-cpp-integre-google-turboquant-quels-gains-pour-votre-pc-ou-mac</guid>
       <description>
-Regardez bien ce bloc optique massif. Vivo a pr&#233;sent&#233; son nouveau X300 Ultra, son nouveau porte-&#233;tendard arm&#233; de deux capteurs de 200 Mpx. 
+L'IA locale a un probl&#232;me de place, pas seulement de muscle. Avec TurboQuant, Google propose une solution pour faire tenir des contextes &#233;normes dans de petites cartes graphiques.
 </description>
     </item>
     <item>
-      <title>Uber to acquire Berlin-based chauffeur hailing app to ramp up its luxury travel efforts</title>
-      <link>https://www.engadget.com/transportation/uber-to-acquire-berlin-based-chauffeur-hailing-app-to-ramp-up-its-luxury-travel-efforts-163855603.html?src=rss</link>
-      <pubDate>Mon, 30 Mar 2026 16:38:55 +0000</pubDate>
-      <guid isPermaLink="false">35602042-35ae-4ee7-9eba-5d1dfb9a2b7d</guid>
-      <description>Uber has acquired Blacklane, a Berlin-based startup that offers chauffeur services and bookings through its app, with plans to expand further into the luxury travel industry. Blacklane, founded in 2011, acts as a liaison between independent local chauffeur services and travelers looking for a more premium ride. According to Uber, the deal is subject to regulatory approvals but is expected to close by the end of 2026.
-"This partnership marks a significant milestone in Blacklane&#8217;s next chapter and is a powerful step-change in introducing our service to new markets globally," Jens Wohltorf, found...</description>
+      <title>Meta is testing an Instagram Plus subscription service with exclusive features</title>
+      <link>https://www.engadget.com/social-media/meta-is-testing-an-instagram-plus-subscription-service-with-exclusive-features-181215180.html?src=rss</link>
+      <pubDate>Mon, 30 Mar 2026 18:12:15 +0000</pubDate>
+      <guid isPermaLink="false">87bdd034-b73b-470e-aa09-8da385e617c1</guid>
+      <description>Meta is testing a new subscription service for Instagram that offers users "exclusive" features like the ability to post Stories for longer than 24 hours. Screenshots promoting "Instagram Plus" have been spotted by users in the Philippines and Mexico in recent days.&#160;According to screenshots shared by social media consultant Matt Navarra, a subscription to Instagram Plus comes with a number of Story-focused features not otherwise available to Instagram users. This includes the ability to create multiple "audiences" for Stories posts, see info about who has rewatched your Story, search the list ...</description>
     </item>
     <item>
-      <title>L&#8217;usure des batteries de voitures &#233;lectriques s&#8217;acc&#233;l&#232;re pass&#233; ce cap kilom&#233;trique pr&#233;cis</title>
-      <link>https://www.01net.com/actualites/lusure-des-batteries-de-voitures-electriques-saccelere-passe-ce-cap-kilometrique-precis.html</link>
-      <pubDate>Mon, 30 Mar 2026 16:33:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1335756</guid>
-      <description>L'usure des batteries est la plus grande angoisse des acheteurs de voitures &#233;lectriques d'occasion. Une vaste enqu&#234;te ind&#233;pendante men&#233;e sur des dizaines de milliers de v&#233;hicules vient de livrer son verdict. La d&#233;gradation est infime durant les premi&#232;res ann&#233;es, mais un basculement tr&#232;s net s'op&#232;re une fois un cap kilom&#233;trique pr&#233;cis franchi.</description>
+      <title>Amazon&#8217;s Spring Sale is basically Black Friday for tech &#8212; I found the 55 best deals worth shopping</title>
+      <link>https://www.techradar.com/seasonal-sales/amazons-spring-sale-is-basically-black-friday-for-tech-i-found-the-55-best-deals-worth-shopping</link>
+      <pubDate>Mon, 30 Mar 2026 18:10:55 +0000</pubDate>
+      <guid isPermaLink="false">bLn6hQUmasmAtnjza6jtx6</guid>
+      <description>Amazon's Spring Sale features stunningly low prices on best-selling tech devices that you'd think it was Black Friday - these are my 55 favorite deals on TVs, smart home, Apple, and more.</description>
     </item>
     <item>
-      <title>What inventory signals about Florida&#8217;s housing market correction</title>
-      <link>https://www.fastcompany.com/91518408/housing-market-florida-what-inventory-signals-about-correction</link>
-      <pubDate>2026-03-30T16:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91518408/housing-market-florida-what-inventory-signals-about-correction</guid>
-      <description>The intensity of the housing downturn in Florida has eased somewhat in recent months.
-Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
+      <title>Meta starts testing a premium subscription on Instagram</title>
+      <link>https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/</link>
+      <pubDate>Mon, 30 Mar 2026 18:10:31 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3107549</guid>
+      <description>Among the premium features on Instagram is the ability to view a Story without the poster seeing that you viewed it and the option to see how many people have rewatched your Story.</description>
     </item>
     <item>
-      <title>Test de la Razer Viper V4 Pro : Razer affine sa souris esport f&#233;tiche</title>
-      <link>https://www.frandroid.com/marques/razer/3044521_test-de-la-razer-viper-v4-pro-razer-affine-sa-souris-esport-fetiche</link>
-      <pubDate>Mon, 30 Mar 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/razer/3044521_test-de-la-razer-viper-v4-pro-razer-affine-sa-souris-esport-fetiche</guid>
+      <title>Bluesky&#8217;s new AI tool Attie is already the most blocked account other than J.D. Vance</title>
+      <link>https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/</link>
+      <pubDate>Mon, 30 Mar 2026 18:03:59 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3107511</guid>
+      <description>More than 125,000 Bluesky users have blocked Attie in just a few days,  sending a strong message from the user base.</description>
+    </item>
+    <item>
+      <title>Andy Weir Apologizes After &#8216;Star Trek&#8217; Comment Backlash</title>
+      <link>https://gizmodo.com/andy-weir-star-trek-backlash-apology-2000739821</link>
+      <pubDate>Mon, 30 Mar 2026 18:00:50 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000739821</guid>
+      <description>'I don&#8217;t like a lot of the new Trek. [Kurtzman], as a person, is a really nice guy. But at the same time, those shows are shit,' the 'Project Hail Mary' writer said in comments on the 'Critical Drinker' podcast.</description>
+    </item>
+    <item>
+      <title>Marshals episode 5 is the closest we've seen seen to Yellowstone yet &#8212; but it's for the most heatbreaking and disturbing reason</title>
+      <link>https://www.techradar.com/streaming/paramount-plus/marshals-episode-5-yellowstone</link>
+      <pubDate>Mon, 30 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8innMdn443mVuYRw5JHvUK</guid>
+      <description>Marshals episode 5 leaves us on the most harrowing cliffhanger yet &#8212; and its echoing Yellowstone in the worst possible way.</description>
+    </item>
+    <item>
+      <title>IKEA's candy-colored Easter tableware collection is ultra-sweet for spring</title>
+      <link>https://www.techradar.com/home/ikeas-candy-colored-easter-tableware-collection-is-ultra-sweet-for-spring</link>
+      <pubDate>Mon, 30 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">JS92KGbQciwgZEdAW3uD87</guid>
+      <description>Pastel-toned crockery, delicate floral table linens and outdoor-friendly lighting to set the mood.</description>
+    </item>
+    <item>
+      <title>Our Favorite Amazon Streaming Stick Is Almost Half Off</title>
+      <link>https://www.wired.com/story/fire-tv-stick-max-deal-326/</link>
+      <pubDate>Mon, 30 Mar 2026 17:58:39 +0000</pubDate>
+      <guid isPermaLink="false">69ca9822b17ecdf0b130f3c2</guid>
+      <description>The Fire TV Stick 4K Max is great for the Prime Video devout and handles other streaming services just as well.</description>
+    </item>
+    <item>
+      <title>OkCupid settles FTC case on alleged misuse of its users' personal data</title>
+      <link>https://www.engadget.com/cybersecurity/okcupid-settles-ftc-case-on-alleged-misuse-of-its-users-personal-data-175159228.html?src=rss</link>
+      <pubDate>Mon, 30 Mar 2026 17:52:00 +0000</pubDate>
+      <guid isPermaLink="false">541e2020-521d-4ba0-9de4-4c3d66ecf718</guid>
+      <description>Match Group and its subsidiary OkCupid has finally settled a lawsuit with the Federal Trade Commission that dates back to its alleged sharing of user data back in 2014. According to the lawsuit, the FTC accused OkCupid of inappropriately sharing personal user data that includes photos and location info with a third party company, Clarifai, which offers AI-powered software for uses like facial recognition and content moderation.
+According to the FTC, OkCupid's privacy policy at the time noted that the company wouldn't share a user's personal information with others, except for some cases includ...</description>
+    </item>
+    <item>
+      <title>Spring cleaning deals in Amazons Spring Sale: Save on kitchen, bathroom, and laundry supplies before the sale is over</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-spring-cleaning-live-deals-2026</link>
+      <pubDate>Mon, 30 Mar 2026 17:43:00 +0000</pubDate>
+      <guid isPermaLink="false">01dVIokGs8SNBpbyOVwlG2B</guid>
+      <description>Amazon's Big Spring Sale has deals to deep clean every room: Save on disinfectant sprays, shower scrubbers, vacuums, and more before the sale is over.</description>
+    </item>
+    <item>
+      <title>Beats&#8217; gym-friendly Powerbeats Fit are $30 off for Amazon&#8217;s Big Spring Sale</title>
+      <link>https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal</link>
+      <pubDate>2026-03-30T13:38:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=903373</guid>
+      <description>For iPhone owners, the AirPods Pro 3 are a fantastic all-around set of wireless earbuds, even for working out. Their value is especially tough to beat at $199.99; however, even with five sizes of silicone tips, they aren&#8217;t the best fit for some people, or for some kinds of workouts. If earbuds tend to fall [&#8230;]</description>
+    </item>
+    <item>
+      <title>YouTube sur Android Auto : l&#8217;annonce que tout le monde attendait</title>
+      <link>https://www.frandroid.com/android/android-auto/3046155_youtube-sur-android-auto-lannonce-que-tout-le-monde-attendait</link>
+      <pubDate>Mon, 30 Mar 2026 17:37:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/android-auto/3046155_youtube-sur-android-auto-lannonce-que-tout-le-monde-attendait</guid>
       <description>
-Razer poursuit l&#8217;&#233;volution de sa gamme esport avec la Viper V4 Pro, une nouvelle it&#233;ration qui peaufine l&#8217;excellence technique sans bouleverser la formule d&#8217;origine.
+L'attente est termin&#233;e, mais le r&#233;sultat risque de vous faire grincer des dents. YouTube arrive officiellement sur Android Auto.
 </description>
     </item>
     <item>
-      <title>Dyson&amp;#8217;s thin PencilVac Fluffycones is tougher to resist at $150 off</title>
-      <link>https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale</link>
-      <pubDate>2026-03-30T12:27:31-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=903416</guid>
-      <description>Robot vacuums are great for keeping floors clean on a regular basis, but they don&#8217;t catch everything. If you&#8217;re looking for a tool to handle the finer details your robovac might miss &#8212; room corners, edges, hard stairs, entryways, etc. &#8212; Dyson&#8217;s PencilVac Fluffycones is one of the lightest, most versatile stick vacuums you can [&#8230;]</description>
+      <title>Need a new reusable water bottle? Yeti, Owala, and Stanley are all on sale in the Amazon Spring Sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-reusable-water-bottle-deals-2026</link>
+      <pubDate>Mon, 30 Mar 2026 17:36:47 +0000</pubDate>
+      <guid isPermaLink="false">03pODDLufPHqmc9nBa1JvX7</guid>
+      <description>Shop the best deals on reusable water bottles in Amazon's Big Spring Sale. Yeti, Stanley, and Owala are all on sale.</description>
     </item>
     <item>
-      <title>Your Wimpy Workouts Aren&#8217;t Cutting It, Scientists Say</title>
-      <link>https://gizmodo.com/your-wimpy-workouts-arent-cutting-it-scientists-say-2000739732</link>
-      <pubDate>Mon, 30 Mar 2026 16:20:51 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000739732</guid>
-      <description>The more time you spend out of breath during the week, the better your health, new research suggests.</description>
+      <title>Amazons Big Spring Sale has projector deals from BenQ, XGIMI, Soundcore Nebula, and more</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-projector-deals-2026</link>
+      <pubDate>Mon, 30 Mar 2026 17:36:41 +0000</pubDate>
+      <guid isPermaLink="false">03CvDJhu0D6ztRv3Kuc1Iqb</guid>
+      <description>Save over 30% on projectors from Anker Nebula, LG, BenQ, and more during Amazon's Big Spring Sale.</description>
     </item>
     <item>
-      <title>There's no point in upgrading to the Apple Watch Series 11 &#8212; save $300 on the Series 10 in Amazon's Spring Sale and get a near-identical wearable for a lot less</title>
-      <link>https://www.techradar.com/seasonal-sales/theres-no-point-in-upgrading-to-the-apple-watch-series-11-save-usd300-on-the-series-10-in-amazons-spring-sale-and-get-a-near-identical-wearable-for-a-lot-less</link>
-      <pubDate>Mon, 30 Mar 2026 16:16:19 +0000</pubDate>
-      <guid isPermaLink="false">WS8sQGkfKMPAcymC7kJJAo</guid>
-      <description>The Apple Watch Series 10 is just as good as the Series 11 &#8212; here's why you should save on the previous gen model instead.</description>
+      <title>Scientists Discover Hidden Behavior in Water That Helps Explain Why Ice Floats</title>
+      <link>https://gizmodo.com/scientists-discover-hidden-behavior-in-water-that-helps-explain-why-ice-floats-2000739766</link>
+      <pubDate>Mon, 30 Mar 2026 17:35:24 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000739766</guid>
+      <description>Water exists in two different liquid forms, which might be why it behaves differently than other substances.</description>
     </item>
     <item>
-      <title>We reviewed all the best budget TVs &#8212; this 'fantastic TV for the price' is the one you should buy today for big-screen thrills</title>
-      <link>https://www.techradar.com/televisions/we-reviewed-all-the-best-budget-tvs-this-fantastic-tv-for-the-price-is-the-one-you-should-buy-today-for-big-screen-thrills</link>
-      <pubDate>Mon, 30 Mar 2026 16:14:09 +0000</pubDate>
-      <guid isPermaLink="false">JAm3UrjpNfY9ofmjsbewj3</guid>
-      <description>Save over $1,000 on the launch price of the terrific TCL QM7K mini-LED</description>
+      <title>Fannie and Freddie stock prices are soaring today, but still down for the year. Here&#8217;s why</title>
+      <link>https://www.fastcompany.com/91518538/fannie-and-freddie-stock-prices-are-soaring-today-but-still-down-for-the-year-heres-why</link>
+      <pubDate>2026-03-30T17:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91518538/fannie-and-freddie-stock-prices-are-soaring-today-but-still-down-for-the-year-heres-why</guid>
+      <description>Even after Monday&#8217;s surge, both stocks remain sharply lower year-to-date, raising questions about the rally.
+Shares of mortgage giants Fannie Mae (FNMA) and Freddie Mac (FMCC) saw huge price surges early Monday after hedge fund manager Bill Ackman posted about the two stocks on social media.</description>
     </item>
     <item>
-      <title>I found the best portable SSD deals for World Backup Day &#8212; store lots and save big</title>
-      <link>https://www.techradar.com/pro/i-found-the-best-portable-ssd-deals-for-world-backup-day-store-lots-and-save-big</link>
-      <pubDate>Mon, 30 Mar 2026 16:10:51 +0000</pubDate>
-      <guid isPermaLink="false">4f7SB9FSK3cXSExnYK4SPE</guid>
-      <description>These are the best portable SSD deals we found for World Backup Day, with big savings on our favorite models.</description>
+      <title>The Nutribullet Pro just hit a record-low price</title>
+      <link>https://mashable.com/article/march-30-best-amazon-spring-sale-nutribullet-pro-deal</link>
+      <pubDate>Mon, 30 Mar 2026 17:28:56 +0000</pubDate>
+      <guid isPermaLink="false">063RjX70078EIgIRH9M0p5T</guid>
+      <description>Grab the NutriBullet Pro 900W for its lowest price ever during the final hours of Amazon's Big Spring Sale. Deal ends March 31.</description>
     </item>
     <item>
-      <title>Free joue avec nos nerfs avant l&#8217;annonce de demain</title>
-      <link>https://www.01net.com/actualites/free-joue-avec-nos-nerfs-avant-annonce-demain.html</link>
-      <pubDate>Mon, 30 Mar 2026 16:05:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1335734</guid>
-      <description>Free s&#8217;appr&#234;te &#224; d&#233;voiler sa &#171; nouvelle r&#233;volution mobile &#187; demain matin, mardi 31 mars 2026. L'entreprise joue avec nos nerfs une derni&#232;re fois en distillant quelques indices.</description>
+      <title>How to watch Germany vs. Ghana online for free</title>
+      <link>https://mashable.com/article/germany-ghana-international-friendly-2026-live-stream-for-free</link>
+      <pubDate>Mon, 30 Mar 2026 17:28:46 +0000</pubDate>
+      <guid isPermaLink="false">022qWBWgnyaQgBIXPvD9VRx</guid>
+      <description>How to watch live football for free. Live stream Germany vs. Ghana in a 2026 International Friendly for free.</description>
     </item>
     <item>
-      <title>Another worrying macOS malware scheme has been discovered &#8212; here's how to stay safe</title>
-      <link>https://www.techradar.com/pro/security/another-worrying-macos-malware-scheme-has-been-discovered-heres-how-to-stay-safe</link>
-      <pubDate>Mon, 30 Mar 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">rMEBNR4eSZYSNWMwiDvrA3</guid>
-      <description>Malwarebytes discovers Infiniti Stealer - a new piece of malware targeting macOS devices.</description>
-    </item>
-    <item>
-      <title>Les prix des PS5 augmentent tr&#232;s bient&#244;t : un bon plan d&#8217;acheter l&#8217;une des consoles de Sony d&#232;s maintenant ?</title>
-      <link>https://www.frandroid.com/bons-plans/3045645_les-prix-des-ps5-augmentent-tres-bientot-un-bon-plan-dacheter-lune-des-consoles-de-sony-des-maintenant</link>
-      <pubDate>Mon, 30 Mar 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3045645_les-prix-des-ps5-augmentent-tres-bientot-un-bon-plan-dacheter-lune-des-consoles-de-sony-des-maintenant</guid>
+      <title>Les prix des forfaits flambent en 2026, mais cette offre 5G XXL va vous faire changer d&#8217;avis</title>
+      <link>https://www.frandroid.com/bons-plans/3045925_les-prix-des-forfaits-flambent-en-2026-mais-cette-offre-5g-xxl-va-vous-faire-changer-davis</link>
+      <pubDate>Mon, 30 Mar 2026 17:21:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3045925_les-prix-des-forfaits-flambent-en-2026-mais-cette-offre-5g-xxl-va-vous-faire-changer-davis</guid>
       <description>
-Les prix augmentent partout en ce moment... et ce n'est d'ailleurs pas la premi&#232;re hausse tarifaire pour la PS5. Mais l&#224;, &#231;a pique vraiment : la version Standard va passer &#224; 649 euros et la version Digitale &#224; 599 euros. La PS5 Pro et le PS Portal sont &#233;galement concern&#233;s. Il ne vous reste donc que quelques jours pour les obtenir &#224; leurs &#171; anciens &#187; prix. 
-...</description>
-    </item>
-    <item>
-      <title>Pixel 11&#160;: les premi&#232;res fuites d&#233;voilent un d&#233;tail qui pourrait faire la diff&#233;rence</title>
-      <link>https://www.01net.com/actualites/pixel-11-les-premieres-fuites-devoilent-un-detail-qui-pourrait-tout-changer.html</link>
-      <pubDate>Mon, 30 Mar 2026 16:03:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1335732</guid>
-      <description>Le Pixel 11 devrait pr&#233;senter un nouveau design avec un bloc photo modifi&#233; et des bordures d'&#233;cran plus fines. Les dimensions de l'appareil resteraient similaires, avec une l&#233;g&#232;re r&#233;duction d'&#233;paisseur. La sortie est attendue pour ao&#251;t 2026, mais le prix reste incertain, susceptible d'augmenter en raison de la hausse des co&#251;ts de production.</description>
-    </item>
-    <item>
-      <title>A new manufacturing process uses lasers to seal paper packaging instead of glue</title>
-      <link>https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling</link>
-      <pubDate>2026-03-30T12:01:01-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=903280</guid>
-      <description>Although paper is a more environmentally friendly packaging material than plastic, it's often contaminated with additives, such as adhesives used to create a secure seal. That complicates the recycling process and reduces the quality of recycled paper. Now, German researchers at four Fraunhofer institutes have developed an alternative process that can seal paper packaging without [&#8230;]...</description>
-    </item>
-    <item>
-      <title>What is the release date for Invincible season 4 episode 5 on Prime Video?</title>
-      <link>https://www.techradar.com/streaming/amazon-prime-video/what-is-the-release-date-for-invincible-season-4-episode-5-on-prime-video</link>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3br8nKeTTsPzd33AuoQox4</guid>
-      <description>The fifth chapter of Invincible's fourth season drops this week &#8212; here's when it'll come out on Prime Video.</description>
-    </item>
-    <item>
-      <title>Social media&#8217;s &#8216;Big Tobacco&#8217; moment may have finally arrived</title>
-      <link>https://www.fastcompany.com/91517648/future-of-section-230-social-media-meta-lawsuits</link>
-      <pubDate>2026-03-30T15:58:23</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91517648/future-of-section-230-social-media-meta-lawsuits</guid>
-      <description>Landmark cases challenge long-held legal protections and push companies toward stricter safeguards for younger users.
-A pair of landmark court cases found Meta and YouTube guilty last week of harming young users by designing algorithms that were addictive and led to mental health distress. The damages assessed against the companies amounted to a fraction of a percent of their annual earnings. The long-term implications, however, could be far more significant....</description>
-    </item>
-    <item>
-      <title>Every phone ping takes 7 seconds of your attention &#8212; here&#8217;s how to get it back</title>
-      <link>https://www.techradar.com/phones/every-phone-ping-takes-7-seconds-of-your-attention-heres-how-to-get-it-back</link>
-      <pubDate>Mon, 30 Mar 2026 15:53:43 +0000</pubDate>
-      <guid isPermaLink="false">Ek7wDK4VVPE8AgmQaR2Vi6</guid>
-      <description>Notifications steal seven seconds of your focus according to a new study, but there are ways to avoid this.</description>
-    </item>
-    <item>
-      <title>The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar</title>
-      <link>https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar</link>
-      <pubDate>2026-03-30T11:52:41-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=903381</guid>
-      <description>The launch of the Google Pixel 11 is still months away, but leaked renders shared by Android Headlines may give us an idea of what to expect. Based on the images, the Pixel 11 could come with slimmer bezels than its predecessor, along with a completely black rear camera bar. The Pixel 10, which launched [&#8230;]</description>
-    </item>
-    <item>
-      <title>The PS5 Pro shot up Amazon's best seller list after recent price hike announcement</title>
-      <link>https://www.techradar.com/gaming/playstation/the-ps5-pro-shot-up-amazons-best-seller-list-after-recent-price-hike-announcement</link>
-      <pubDate>Mon, 30 Mar 2026 15:52:26 +0000</pubDate>
-      <guid isPermaLink="false">DVDeiWQcVnYa4ciR3thQbf</guid>
-      <description>The PS5 Pro is popular at Amazon right now with just days to go before a big price increase.</description>
-    </item>
-    <item>
-      <title>Amazon just launched the biggest Yeti sale I've seen &#8212; up to 30% off dozens of coolers, water bottles and travel mugs</title>
-      <link>https://www.techradar.com/health-fitness/amazon-just-launched-the-biggest-yeti-sale-ive-seen-up-to-30-percent-off-dozens-of-coolers-water-bottles-and-travel-mugs</link>
-      <pubDate>Mon, 30 Mar 2026 15:50:54 +0000</pubDate>
-      <guid isPermaLink="false">SVbyAhGbeNLr9BZVgQ8HPY</guid>
-      <description>A whole rainbow of Yeti products is included in the Spring Sale.</description>
-    </item>
-    <item>
-      <title>Keep your data safe and save big with these top NAS deals for World Backup Day 2026</title>
-      <link>https://www.techradar.com/pro/keep-your-data-safe-and-save-big-with-these-top-nas-deals-for-world-backup-day-2026</link>
-      <pubDate>Mon, 30 Mar 2026 15:50:38 +0000</pubDate>
-      <guid isPermaLink="false">QNxjtceDgWbzaZ5RbPPMZZ</guid>
-      <description>World Backup Day: The best NAS deals to keep your personal data safe, organized and accessible.</description>
-    </item>
-    <item>
-      <title>Netflix is adding 3 unmissable thriller movies in April 2026 &#8212; and fans of creature features will be pleased</title>
-      <link>https://www.techradar.com/streaming/netflix/netflix-is-adding-3-unmissable-thriller-movies-in-april-2026-and-fans-of-creature-features-will-be-pleased</link>
-      <pubDate>Mon, 30 Mar 2026 15:50:10 +0000</pubDate>
-      <guid isPermaLink="false">HyYtoupsgVkXt7FoCaczyN</guid>
-      <description>You'll be on the edge of your seat when these three gripping thriller movies arrive on Netflix in April.</description>
-    </item>
-    <item>
-      <title>Puces &#233;lectroniques&#160;: cet industriel fran&#231;ais confirme la p&#233;nurie d&#8217;h&#233;lium</title>
-      <link>https://www.01net.com/actualites/puces-electroniques-cet-industriel-francais-confirme-la-penurie-dhelium.html</link>
-      <pubDate>Mon, 30 Mar 2026 15:49:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1335719</guid>
-      <description>Air Liquide a confirm&#233; une p&#233;nurie mondiale d'h&#233;lium, un gaz crucial pour la fabrication de semi-conducteurs. Les prix de l'h&#233;lium montent en fl&#232;che et les acheteurs se bousculent, mena&#231;ant en bout de cha&#238;ne l'industrie des smartphones et des voitures.</description>
-    </item>
-    <item>
-      <title>Les 10 smartphones les plus populaires de la semaine sur Frandroid : un outisder en t&#234;te et un march&#233; Android tr&#232;s h&#233;t&#233;roclite</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-un-outisder-en-tete-et-un-marche-android-tres-heteroclite</link>
-      <pubDate>Mon, 30 Mar 2026 15:46:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-un-outisder-en-tete-et-un-marche-android-tres-heteroclite</guid>
-      <description>
-Pour notre top 10 des smartphones les plus populaires de la semaine sur Frandroid, c'est un constructeur inattendu qui prend la t&#234;te de notre classement. Dans le reste, tous les constructeurs Android ou presque r&#233;ussissent &#224; placer un mod&#232;le. 
+Envie de beaucoup de data sans faire exploser votre budget en 2026 ? La Poste Mobile frappe fort avec son forfait 5G incluant 250 Go pour seulement 13,99 euros par mois. Une offre qui m&#233;rite votre attention, surtout pour les gros consommateurs de data.
 </description>
     </item>
     <item>
-      <title>Microsoft's research assistant can now use multiple AI models simultaneously</title>
-      <link>https://www.engadget.com/ai/microsofts-research-assistant-can-now-use-multiple-ai-models-simultaneously-154558628.html?src=rss</link>
-      <pubDate>Mon, 30 Mar 2026 15:45:58 +0000</pubDate>
-      <guid isPermaLink="false">f99b83f0-eb78-4968-a926-ea20a54a695e</guid>
-      <description>Microsoft's Copilot is getting even better at research thanks to a new feature that combines the power of both OpenAI's ChatGPT and Anthropic's Claude. In a blog post announcing Copilot Cowork's availability, Microsoft debuted the Critique feature that will be used in Microsoft 356 Copilot's Researcher tool. Unlike the standard Copilot, Researcher is designed to tackle more complex tasks with multiple steps.
-Now, Researcher is getting even better at that with the Critique feature that uses GPT responses, which are then refined by Claude. In a blog post, Microsoft said that, "this architecture ...</description>
+      <title>A new RCS update could connect iPhone and Android video calls, someday</title>
+      <link>https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0</link>
+      <pubDate>2026-03-30T13:19:31-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=903509</guid>
+      <description>iPhone and Android users might be able to make interoperable video calls through their messaging apps - eventually. Last week, the GSM Association (GSMA) announced that the finalized RCS Universal Profile 4.0 standard will let users turn 1-to-1 or group RCS chats into video calls thanks to a feature called Messaging&#8209;Initiated Video Calls (MIVC). "MIVC [&#8230;]...</description>
     </item>
     <item>
-      <title>'This Internxt deal is as close as you'll get to free lifetime cloud storage': Our top cloud storage for security just cut the price by 90% when you use this link</title>
-      <link>https://www.techradar.com/pro/this-internxt-deal-is-as-close-as-youll-get-to-free-lifetime-cloud-storage-our-top-cloud-storage-for-security-just-cut-the-price-by-90-percent-when-you-use-this-link</link>
-      <pubDate>Mon, 30 Mar 2026 15:42:32 +0000</pubDate>
-      <guid isPermaLink="false">qo7Uf3ZbwRoswtJ2jMw8cT</guid>
-      <description>Save 90% off lifetime cloud storage at Internxt.</description>
-    </item>
-    <item>
-      <title>I tested H2O Audio's affordable, no-frills, bone-conduction running headphones &#8212; and there's something to be said for simplicity</title>
-      <link>https://www.techradar.com/health-fitness/fitness-headphones/h2o-audio-tri-run-review</link>
-      <pubDate>Mon, 30 Mar 2026 15:42:05 +0000</pubDate>
-      <guid isPermaLink="false">tGSvkWJXSo9HUiKZ7RG2oi</guid>
-      <description>Affordable and no-fuss, but only worth it if you love the neckband style and bass isn&#8217;t your thing.</description>
-    </item>
-    <item>
-      <title>Nvidia pourrait enfin officialiser sa puce N1X pour PC portables au Computex 2026</title>
-      <link>https://www.frandroid.com/marques/nvidia/3045985_nvidia-pourrait-enfin-officialiser-sa-puce-n1x-pour-pc-portables-au-computex-2026</link>
-      <pubDate>Mon, 30 Mar 2026 15:41:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3045985_nvidia-pourrait-enfin-officialiser-sa-puce-n1x-pour-pc-portables-au-computex-2026</guid>
-      <description>
-Apr&#232;s plus d'une ann&#233;e de rumeurs, la puce N1X de Nvidia et MediaTek pourrait enfin &#234;tre officialis&#233;e au Computex 2026. Encore quelques mois de patience.
-</description>
-    </item>
-    <item>
-      <title>Meilleurs mini-vid&#233;oprojecteurs portables : notre s&#233;lection de picoprojecteurs en 2026</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-tv/851321_guide-meilleurs-picoprojecteurs</link>
-      <pubDate>Mon, 30 Mar 2026 15:37:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-tv/851321_guide-meilleurs-picoprojecteurs</guid>
-      <description>
-Envie de profiter d&#8217;un grand &#233;cran o&#249; que vous soyez sans vous encombrer ? Pour regarder un match ou un film en vacances, ou bien pour &#234;tre transport&#233;s de pi&#232;ce en pi&#232;ce &#224; la maison, nous avons s&#233;lectionn&#233; pour vous les meilleurs picoprojecteurs (ou mini-projecteurs) portables.
-</description>
-    </item>
-    <item>
-      <title>L&#8217;&#201;tat liquide &#171;&#160;60 Millions de consommateurs&#160;&#187; : le magazine a 3 mois pour trouver un repreneur</title>
-      <link>https://www.01net.com/actualites/letat-liquide-60-millions-de-consommateurs-le-magazine-a-3-mois-pour-trouver-un-repreneur.html</link>
-      <pubDate>Mon, 30 Mar 2026 15:37:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1335726</guid>
-      <description>Le couperet est officiellement tomb&#233; ce dimanche 29 mars 2026 avec la publication d'un d&#233;cret actant la dissolution de l'Institut national de la consommation. Le c&#233;l&#232;bre magazine dispose d&#233;sormais de quelques semaines pour trouver un repreneur priv&#233;, sous peine de dispara&#238;tre d&#233;finitivement des kiosques.</description>
-    </item>
-    <item>
-      <title>Amazon is slashing its smart home gadgets for Spring Prime Day &#8212; 16 deals on Fire TV, Blink, Echo, Kindles, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/amazon-is-slashing-its-smart-home-gadgets-for-spring-prime-day-16-deals-on-fire-tv-blink-echo-kindles-and-more</link>
-      <pubDate>Mon, 30 Mar 2026 15:35:51 +0000</pubDate>
-      <guid isPermaLink="false">av5EgbSvZfNJR4aonw3n6E</guid>
-      <description>Amazon's Big Spring Sale features some strong deals on several of its best-selling devices, so I've hand-picked the top 16 offers on Kindles, Fire TV Sticks, Blink cameras, and more.</description>
-    </item>
-    <item>
-      <title>Students Are Now Renting Smart Glasses to Cheat on Exams</title>
-      <link>https://gizmodo.com/smart-glasses-cheating-exams-2000739723</link>
-      <pubDate>Mon, 30 Mar 2026 15:35:29 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000739723</guid>
-      <description>In China, there's a growing market for renting smart glasses to help you cheat on your tests.</description>
-    </item>
-    <item>
-      <title>Apple will hide your email address from apps and websites, but not cops</title>
-      <link>https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/</link>
-      <pubDate>Mon, 30 Mar 2026 15:34:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3107498</guid>
-      <description>Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email.</description>
-    </item>
-    <item>
-      <title>I'm a gaming keyboard expert, and this analog model is one of my all-time favorites</title>
-      <link>https://www.techradar.com/computing/keyboards/im-a-gaming-keyboard-expert-and-this-analog-model-is-one-of-my-all-time-favorites</link>
-      <pubDate>Mon, 30 Mar 2026 15:33:46 +0000</pubDate>
-      <guid isPermaLink="false">FtMUHceu9jjSG2zPLvU3Wd</guid>
-      <description>Thankfully, the RAM crisis isn't inflating keyboard prices &#8212; so now's your chance to save big on the excellent SteelSeries Apex Pro.</description>
-    </item>
-    <item>
-      <title>Vous payez votre forfait mobile trop cher ? Cette offre 5G anti-inflation est la solution [Sponso]</title>
-      <link>https://www.frandroid.com/telecom/forfait-mobile/3045147_vous-payez-votre-forfait-mobile-trop-cher-cette-offre-5g-anti-inflation-est-la-solution</link>
-      <pubDate>Mon, 30 Mar 2026 15:30:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/forfait-mobile/3045147_vous-payez-votre-forfait-mobile-trop-cher-cette-offre-5g-anti-inflation-est-la-solution</guid>
-      <description>
-Dans un climat &#233;conomique incertain voire morose, toutes les &#233;claircies sont bonnes &#224; prendre. Ce forfait sans engagement de Bouygues Telecom, qui offre 150 Go de donn&#233;es pour 11,99 &#8364; par mois, en est une.
-</description>
-    </item>
-    <item>
-      <title>New Details Add a Bizarre Twist to NASA&#8217;s First ISS Medical Evacuation</title>
-      <link>https://gizmodo.com/new-details-add-a-bizarre-twist-to-nasas-first-iss-medical-evacuation-2000739742</link>
-      <pubDate>Mon, 30 Mar 2026 15:25:29 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000739742</guid>
-      <description>&#8220;It was completely out of the blue.&#8221;</description>
-    </item>
-    <item>
-      <title>Okta&amp;#8217;s CEO is betting big on AI agent identity</title>
-      <link>https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity</link>
-      <pubDate>2026-03-30T11:15:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=902264</guid>
-      <description>Today, I&#8217;m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management &#8212; actually, that&#8217;s a great way to think about it because the way most people encounter Okta [&#8230;]</description>
-    </item>
-    <item>
-      <title>Major compromise of the telnyx PyPI library could put millions of users at risk</title>
-      <link>https://www.techradar.com/pro/security/major-compromise-of-the-telnyx-pypi-library-could-put-millions-of-users-at-risk</link>
-      <pubDate>Mon, 30 Mar 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">5N3wb6kV5YaNwWRxup8BxN</guid>
-      <description>TeamPCP strikes again, with almost identical code to LiteLLM.</description>
-    </item>
-    <item>
-      <title>Du jamais vu sur Amazon : ce vid&#233;oprojecteur Philips Full HD passe &#224; -50%, de quoi se faire de bonnes soir&#233;es cin&#233; sans se ruiner</title>
-      <link>https://www.frandroid.com/bons-plans/3045727_du-jamais-vu-sur-amazon-ce-videoprojecteur-philips-full-hd-passe-a-50-de-quoi-se-faire-de-bonnes-soirees-cine-sans-se-ruiner</link>
-      <pubDate>Mon, 30 Mar 2026 15:14:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3045727_du-jamais-vu-sur-amazon-ce-videoprojecteur-philips-full-hd-passe-a-50-de-quoi-se-faire-de-bonnes-soirees-cine-sans-se-ruiner</guid>
-      <description>
-Le Philips NeoPix 750 Smart est un vid&#233;oprojecteur LED Full HD plut&#244;t orient&#233; entr&#233;e de gamme, avec une bonne luminosit&#233; et une interface Android bien pratique, vendu 174,90 euros au lieu de 349 euros.
-</description>
-    </item>
-    <item>
-      <title>Mullvad Browser's testers now get access to updates every four weeks, also on Linux ARM devices</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/mullvad-browsers-testers-now-get-access-to-updates-every-four-weeks-also-on-linux-arm-devices</link>
-      <pubDate>Mon, 30 Mar 2026 15:10:54 +0000</pubDate>
-      <guid isPermaLink="false">Yp3MBsMrYpBcg5w3zH5xbh</guid>
-      <description>Mullvad Browser&#8217;s testers get faster access to updates as the interface has just transitioned to the Firefox Rapid channel. Here's all you need to know.</description>
-    </item>
-    <item>
-      <title>Google Pixel 11 : voici son design qui change un peu, juste un peu</title>
-      <link>https://www.frandroid.com/marques/google/3045871_google-pixel-11-voici-son-design-qui-change-un-peu-juste-un-peu</link>
-      <pubDate>Mon, 30 Mar 2026 15:08:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3045871_google-pixel-11-voici-son-design-qui-change-un-peu-juste-un-peu</guid>
-      <description>
-On conna&#238;t le design du Google Pixel 11 gr&#226;ce &#224; ces images. Voici les petits changements qui arrivent.
-</description>
-    </item>
-    <item>
-      <title>EV charging just got a massive boost for millions in the UK &#8212; as rule changes make it easier to avoid 'driveway discrimination&#8217; at home</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ev-charging-just-got-a-massive-boost-for-millions-in-the-uk-as-rule-changes-make-it-easier-to-avoid-driveway-discrimination-at-home</link>
-      <pubDate>Mon, 30 Mar 2026 15:06:47 +0000</pubDate>
-      <guid isPermaLink="false">7EHpSzuei9Dkvu7H6bSmje</guid>
-      <description>As of April 1, the UK government will introduce a raft of new grants and incentives, as well as the relaxing of planning permissions, to increase EV uptake</description>
-    </item>
-    <item>
-      <title>The best deals we&#8217;ve found from Amazon&#8217;s Big Spring Sale (so far)</title>
-      <link>https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals</link>
-      <pubDate>2026-03-30T11:05:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=899580</guid>
-      <description>Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon&#8217;s third annual Big Spring Sale, which runs through tomorrow, March 31st, the retail behemoth is hoping to lure in would-be shoppers with the promise of steep(ish) savings and discounts on more seasonal, spring-centric items to hold folks over [&#8230;]</description>
+      <title>The best boring (but essential) deals to shop in Amazons Big Spring Sale</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-boring-but-essential-live-deals-2026</link>
+      <pubDate>Mon, 30 Mar 2026 17:13:27 +0000</pubDate>
+      <guid isPermaLink="false">05Th3NGuvdYFHWmELRt7ZGA</guid>
+      <description>From paper towels to dishwasher pods, here are the best deals on boring but essential household goods during Amazon's 2026 Big Spring Sale.</description>
     </item>
   </channel>
 </rss>
