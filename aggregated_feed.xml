@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 31 Mar 2026 21:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:38:53 GMT</lastBuildDate>
+    <item>
+      <title>Claude Code leak exposes a Tamagotchi-style &#8216;pet&#8217; and an always-on agent</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak</link>
+      <pubDate>2026-03-31T18:24:19-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=904776</guid>
+      <description>After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]</description>
+    </item>
+    <item>
+      <title>'Performance without compromise': AMD debuts first dual 3D V-Cache Ryzen CPU in potential showdown against Threadripper and EPYC siblings</title>
+      <link>https://www.techradar.com/pro/performance-without-compromise-amd-debuts-first-dual-3d-v-cache-ryzen-cpu-in-potential-lowdown-against-threadripper-and-epyc-siblings</link>
+      <pubDate>Tue, 31 Mar 2026 22:10:00 +0000</pubDate>
+      <guid isPermaLink="false">mu9Xtkd8uLYxhQBofHA2p4</guid>
+      <description>AMD introduces a dual V-cache Ryzen processor with Zen 5 cores, expanded cache, and claims of improved mixed workload performance.</description>
+    </item>
+    <item>
+      <title>School Forced to Replace Toilets After Kids Flush Vapes</title>
+      <link>https://gizmodo.com/school-forced-to-replace-toilets-after-kids-flush-vapes-2000740451</link>
+      <pubDate>Tue, 31 Mar 2026 22:06:13 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000740451</guid>
+      <description>Kids these days.</description>
+    </item>
+    <item>
+      <title>Delta is finally joining the faster satellite Wi-Fi craze with Amazon &#8212; but if you want in-flight satellite now, you&#8217;ll still want to book United</title>
+      <link>https://www.techradar.com/computing/internet/delta-is-finally-joining-the-faster-satellite-wi-fi-craze-with-amazon-but-if-you-want-in-flight-satellite-now-youll-still-want-to-book-united</link>
+      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QuRfu7u8daChmYdAksh55c</guid>
+      <description>Delta Air Lines is bringing faster, satellite-powered Wi-Fi to its planes via Amazon&#8217;s Leo network &#8212; but with the rollout not starting until 2028, United Airlines remains the better bet for high-speed connectivity right now.</description>
+    </item>
+    <item>
+      <title>You can grab a four-pack of Govee&#8217;s color-changing smart bulbs for just $27</title>
+      <link>https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal</link>
+      <pubDate>2026-03-31T17:59:47-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=904698</guid>
+      <description>Spring cleaning isn&#8217;t just about clearing things out. It&#8217;s also a chance to refresh your living space, and a simple place to start is smart lighting &#8212; specifically, Govee&#8217;s Smart A19 LED Light Bulbs. The color-changing bulbs can instantly change the vibe of your home, and now through the end of today, March 31st, you [&#8230;]</description>
+    </item>
+    <item>
+      <title>Apple turns 50 &#8212; we&#8217;re live tracking the celebration, surprises, and more</title>
+      <link>https://www.techradar.com/news/live/apple-50th-anniversary-celebration</link>
+      <pubDate>Tue, 31 Mar 2026 21:53:48 +0000</pubDate>
+      <guid isPermaLink="false">DEbMH3CZ8hLxu6KSdYmZU5</guid>
+      <description>Join us live as Apple hits the 50-year mark, with updates, reactions, and what it means for the future.</description>
+    </item>
+    <item>
+      <title>Artemis II Countdown: How and When to Watch the Launch</title>
+      <link>https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/</link>
+      <pubDate>Tue, 31 Mar 2026 21:48:52 +0000</pubDate>
+      <guid isPermaLink="false">69cc2c08cffd08e188ce1373</guid>
+      <description>Here&#8217;s everything you need to know about the Artemis II mission, the long-awaited (and long-delayed) human return to the moon.</description>
+    </item>
+    <item>
+      <title>Dinosaur Polo Club has released a new co-op game and it's free</title>
+      <link>https://www.engadget.com/gaming/dinosaur-polo-club-has-released-a-new-co-op-game-and-its-free-214638400.html?src=rss</link>
+      <pubDate>Tue, 31 Mar 2026 21:46:38 +0000</pubDate>
+      <guid isPermaLink="false">d195ab8c-bc13-4569-bf2b-8f96b84c14ae</guid>
+      <description>Two pieces of good gaming news today. First: Dinosaur Polo Club has shadow dropped a brand new game today. Second, it's available for free on both PC and Mac from Itch.io. The project is called Read the F*cking Manual, or RTFM, and it is a co-op game based on working in tech support.Dinosaur Polo Club is known for previous games Mini Metro and Mini Motorways. Both are stellar examples of simple, elegant game design, and a small group within the company took this game jam concept from passion project to a fully fledged release.&#160;Per the description, "Players must work together &#8212; or not &#8212; in this...</description>
+    </item>
     <item>
       <title>The Backrooms trailer combines creepypasta dread and A24 prestige horror</title>
       <link>https://www.engadget.com/entertainment/tv-movies/the-backrooms-trailer-combines-creepypasta-dread-and-a24-prestige-horror-213602238.html?src=rss</link>
@@ -51,7 +107,7 @@
       <link>https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt</link>
       <pubDate>2026-03-31T17:03:18-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=904676</guid>
-      <description>ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support for "voice-based conversational apps" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When [&#8230;]...</description>
+      <description>ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for "voice-based conversational apps" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]</description>
     </item>
     <item>
       <title>Good News! You Can Finally Change That Ridiculous Gmail Address</title>
@@ -87,91 +143,6 @@
       <pubDate>Tue, 31 Mar 2026 20:45:00 +0000</pubDate>
       <guid isPermaLink="false">Th78fqtHV8AUQXaNqkMLL6</guid>
       <description>Samsung launches 13-inch color e-paper display using digital ink, enabling low-power signage updates across workplaces, retail and hospitality.</description>
-    </item>
-    <item>
-      <title>Toyota's still trying to make hydrogen fuel cells happen</title>
-      <link>https://www.engadget.com/transportation/toyotas-still-trying-to-make-hydrogen-fuel-cells-happen-202237728.html?src=rss</link>
-      <pubDate>Tue, 31 Mar 2026 20:22:37 +0000</pubDate>
-      <guid isPermaLink="false">55329410-3119-4ef0-8096-d3c060107b99</guid>
-      <description>Toyota is teaming up with Daimler and Volvo to work on fuel cell technology. The Japanese company is signing on to the joint venture cellcentric that Volvo and Daimler launched back in 2020. Once it officially joins, Toyota and cellcentric will collaborate on managing the development and production of fuel cell unit cells.&#160;"We are deeply grateful for the opportunity to soon be joining Daimler Truck and Volvo Group as partners in building a hydrogen society," Toyota President and CEO Koji Sato said. "cellcentric which possess deep expertise in commercial fields together with Toyota &#8216;s over 30 y...</description>
-    </item>
-    <item>
-      <title>Tesla's robotaxis are reportedly remotely driven by humans, sometimes</title>
-      <link>https://www.engadget.com/transportation/teslas-robotaxis-are-reportedly-remotely-driven-by-humans-sometimes-200639550.html?src=rss</link>
-      <pubDate>Tue, 31 Mar 2026 20:06:39 +0000</pubDate>
-      <guid isPermaLink="false">ab81bb20-2e6e-4421-9a71-6d6427824052</guid>
-      <description>In a letter shared with Senator Ed Markey (D-Mass.), Tesla admitted that its robotaxis are sometimes driven remotely by human operators, Wired reports. Competing self-driving car companies sometimes rely on human operators to tell robotaxi software how to get itself unstuck, but letting operators actually drive those cars remotely is more unusual."&#8203;&#8203;As a redundancy measure in rare cases &#8230; [remote assistance operators] are authorized to temporarily assume direct vehicle control as the final escalation maneuver after all other available intervention actions have been exhausted,&#8221; Karen Steakley, ...</description>
-    </item>
-    <item>
-      <title>The Best Gadgets of March 2026</title>
-      <link>https://gizmodo.com/best-gadgets-march-2026-2000740331</link>
-      <pubDate>Tue, 31 Mar 2026 20:05:23 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000740331</guid>
-      <description>It was a very packed month for new Apple products, but we also got some notable new gadgets from Sonos, Nintendo, Asus ROG, and even Ikea.</description>
-    </item>
-    <item>
-      <title>&#8216;Supergirl&#8217; Will Feature David Corenswet&#8217;s Superman in a Sort of Big Brother Role</title>
-      <link>https://gizmodo.com/supergirl-will-feature-david-corenswets-superman-in-a-sort-of-big-brother-role-2000740514</link>
-      <pubDate>Tue, 31 Mar 2026 20:01:12 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000740514</guid>
-      <description>The star of James Gunn's DC blockbuster pops up in Craig Gillespie's new movie to help Milly Alcock's character find her way.</description>
-    </item>
-    <item>
-      <title>Yupp shuts down after raising $33M from a16z crypto&#8217;s Chris Dixon</title>
-      <link>https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/</link>
-      <pubDate>Tue, 31 Mar 2026 20:01:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3108096</guid>
-      <description>Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.</description>
-    </item>
-    <item>
-      <title>I was in love with Meta&#8217;s &#8216;most comfortable glasses&#8217; ever, and then I saw the price tag</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/i-was-in-love-with-metas-most-comfortable-glasses-ever-and-then-i-saw-the-price-tag</link>
-      <pubDate>Tue, 31 Mar 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ehAEggLgHJP2nWNt5cn3be</guid>
-      <description>Meta just debuted a duo of new AI glasses styles in its Ray-Ban smart specs lineup, and they&#8217;re designed for folks who have prescriptions</description>
-    </item>
-    <item>
-      <title>Big Tech is still laying people off via mass email</title>
-      <link>https://www.fastcompany.com/91519237/big-tech-is-still-laying-people-off-via-mass-email</link>
-      <pubDate>2026-03-31T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91519237/big-tech-is-still-laying-people-off-via-mass-email</guid>
-      <description>Oracle reportedly just kicked off major job cuts&#8212;and notified all affected employees through an email signed by &#8216;Oracle Leadership.&#8217;
-As anticipated by recent headlines, Oracle started laying off an undisclosed number of employees early this morning. A report from CNBC put the figure in the thousands, while a post on Blind&#8212;the anonymous workplace chat app&#8212;suggests that as many as 11,000 employees might have been impacted....</description>
-    </item>
-    <item>
-      <title>Report: FDA Set to Unban RFK Jr.&#8217;s Favorite Peptides</title>
-      <link>https://gizmodo.com/report-fda-set-to-unban-rfk-jr-s-favorite-peptides-2000740335</link>
-      <pubDate>Tue, 31 Mar 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000740335</guid>
-      <description>More than a dozen peptides are expected to be removed from a list that bans compounding pharmacies from producing them.</description>
-    </item>
-    <item>
-      <title>Samsung&#8217;s new app claims to alleviate motion sickness using sound</title>
-      <link>https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms</link>
-      <pubDate>2026-03-31T15:56:26-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=904579</guid>
-      <description>Samsung released a new free app today called Hearapy, now available for Android devices through the Google Play store, that it claims can reduce the symptoms of motion sickness using just sound. The app's functionality is very straightforward. It plays a low 100Hz sine wave tone through a pair of connected headphones for 60 seconds. [&#8230;]</description>
-    </item>
-    <item>
-      <title>TikTok adds in-app Cameo integration for creators</title>
-      <link>https://www.engadget.com/social-media/tiktok-adds-in-app-cameo-integration-for-creators-195411895.html?src=rss</link>
-      <pubDate>Tue, 31 Mar 2026 19:54:11 +0000</pubDate>
-      <guid isPermaLink="false">592fdeea-dbd8-4e6d-aa07-1771edf0ad48</guid>
-      <description>TikTok and Cameo are teaming up to make it easier for TikTok users to request personalized videos. The two companies announced a new integration that makes Cameo accessible directly from TikTok for creators and fans.&#160;With the update, TikTok creators can add Cameo links directly to their videos and viewers can request a personalized clip without leaving the TikTok app. Creators who aren't currently on Cameo can also sign up for the service without having to onboard through Cameo.&#160;Up to now, Cameo has been known for its personalized videos from celebrities, but TikTok stars are "among the fastes...</description>
-    </item>
-    <item>
-      <title>Grab these sweet Fire TV Stick deals before the Amazon Spring Sale ends</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-fire-tv-stick-deals-2026</link>
-      <pubDate>Tue, 31 Mar 2026 19:50:40 +0000</pubDate>
-      <guid isPermaLink="false">01PtGc7m2SxWcyoIjtGOWOB</guid>
-      <description>Shop the best Amazon Fire TV Stick deals in the Big Spring Sale, including over 50% off the Fire TV Stick 4K Select and 4K Plus.</description>
-    </item>
-    <item>
-      <title>Source Code for Anthropic&#8217;s Claude Code Leaks at the Exact Wrong Time</title>
-      <link>https://gizmodo.com/source-code-for-anthropics-claude-code-leaks-at-the-exact-wrong-time-2000740379</link>
-      <pubDate>Tue, 31 Mar 2026 19:45:48 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000740379</guid>
-      <description>The company has some secrets that are now public.</description>
     </item>
   </channel>
 </rss>
