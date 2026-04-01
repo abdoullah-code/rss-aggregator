@@ -3,126 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 31 Mar 2026 23:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:17:48 GMT</lastBuildDate>
     <item>
-      <title>Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale</title>
-      <link>https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals</link>
-      <pubDate>2026-03-31T19:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=904242</guid>
-      <description>Amazon&#8217;s Big Spring Sale may not have been as &#8220;big&#8221; as Black Friday or even Prime Day, but depending on what you&#8217;re after, the discounts are more appealing than you might think. Take charging accessories, for instance. Anker, Twelve South, Baseus, and others have sharply lowered the prices of some of our favorite add-ons, including [&#8230;]</description>
+      <title>Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected</title>
+      <link>https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026</link>
+      <pubDate>Wed, 01 Apr 2026 02:30:00 GMT</pubDate>
+      <guid isPermaLink="false">3muexH8RW9g1Uj9WfCsRjt</guid>
+      <description>Attackers stole a long-lived npm access token belonging to the lead maintainer of axios, the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malicious releases target macOS, Windows, and Linux. They were live on the npm registry for roughly three hours before removal.Axios gets more than 100 million downloads per week. Wiz reports it sits in approximately 80% of cloud and code environments, touching everything from React front-ends to CI/CD pipelines to serverless functions. Huntress detected t...</description>
     </item>
     <item>
-      <title>Quordle hints and answers for Wednesday, April 1 (game #1528)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-1-april-2026</link>
-      <pubDate>Tue, 31 Mar 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">t5r6dDBAxKuEuajC7YjwqH</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+      <title>Meta's new structured prompting technique makes LLMs significantly better at code review &#8212; boosting accuracy to 93% in some cases</title>
+      <link>https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at</link>
+      <pubDate>Wed, 01 Apr 2026 02:13:00 GMT</pubDate>
+      <guid isPermaLink="false">3RiR3Hijb1Q2Cb6Ktv2iKj</guid>
+      <description>Deploying AI agents for repository-scale tasks like bug detection, patch verification, and code review requires overcoming significant technical hurdles. One major bottleneck: the need to set up dynamic execution sandboxes for every repository, which are expensive and computationally heavy.&#160;Using large language model (LLM) reasoning instead of executing the code is rising in popularity to bypass this overhead, yet it frequently leads to unsupported guesses and hallucinations.&#160;To improve execution-free reasoning, researchers at Meta introduce "semi-formal reasoning," a structured prompting tech...</description>
     </item>
     <item>
-      <title>NYT Strands hints and answers for Wednesday, April 1 (game #759)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-1-april-2026</link>
-      <pubDate>Tue, 31 Mar 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">yBWxmiZQCYM9eaNgejFQaV</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+      <title>NYT Connections hints today: Clues, answers for April 1, 2026</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-april-1-2026</link>
+      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">078GB8ETJNWkNvRAYUVaowi</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
     </item>
     <item>
-      <title>NYT Connections hints and answers for Wednesday, April 1 (game #1025)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-1-april-2026</link>
-      <pubDate>Tue, 31 Mar 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">uFXbW9q42cpq3jS6LWsn4c</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+      <title>NYT Strands hints, answers for April 1, 2026</title>
+      <link>https://mashable.com/article/strands-nyt-hint-april-1-2026</link>
+      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01uoLalFBKCAMGP5sP4G7VH</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
     </item>
     <item>
-      <title>Salesforce announces an AI-heavy makeover for Slack, with 30 new features</title>
-      <link>https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/</link>
-      <pubDate>Tue, 31 Mar 2026 22:46:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3107777</guid>
-      <description>Slack just got a whole lot more useful.</description>
+      <title>Wordle today: Answer, hints for April 1, 2026</title>
+      <link>https://mashable.com/article/wordle-today-answer-april-1-2026</link>
+      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03cs4MUZPJkGpamcIN7i9Nk</guid>
+      <description>Here's the answer for "Wordle" #1747 on April 1 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
     <item>
-      <title>Claude Code leak exposes a Tamagotchi-style &#8216;pet&#8217; and an always-on agent</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak</link>
-      <pubDate>2026-03-31T18:24:19-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=904776</guid>
-      <description>After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]</description>
+      <title>Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project</title>
+      <link>https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/</link>
+      <pubDate>Wed, 01 Apr 2026 01:42:59 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3108357</guid>
+      <description>The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.</description>
     </item>
     <item>
-      <title>'Performance without compromise': AMD debuts first dual 3D V-Cache Ryzen CPU in potential showdown against Threadripper and EPYC siblings</title>
-      <link>https://www.techradar.com/pro/performance-without-compromise-amd-debuts-first-dual-3d-v-cache-ryzen-cpu-in-potential-lowdown-against-threadripper-and-epyc-siblings</link>
-      <pubDate>Tue, 31 Mar 2026 22:10:00 +0000</pubDate>
-      <guid isPermaLink="false">mu9Xtkd8uLYxhQBofHA2p4</guid>
-      <description>AMD introduces a dual V-cache Ryzen processor with Zen 5 cores, expanded cache, and claims of improved mixed workload performance.</description>
+      <title>Robotaxi Outage in China Leaves Passengers Stranded on Highways</title>
+      <link>https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/</link>
+      <pubDate>Wed, 01 Apr 2026 01:24:55 +0000</pubDate>
+      <guid isPermaLink="false">69cc39d010e283f49b42bad8</guid>
+      <description>A suspected system failure froze Baidu&#8217;s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.</description>
     </item>
     <item>
-      <title>School Forced to Replace Toilets After Kids Flush Vapes</title>
-      <link>https://gizmodo.com/school-forced-to-replace-toilets-after-kids-flush-vapes-2000740451</link>
-      <pubDate>Tue, 31 Mar 2026 22:06:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000740451</guid>
-      <description>Kids these days.</description>
-    </item>
-    <item>
-      <title>Delta is finally joining the faster satellite Wi-Fi craze with Amazon &#8212; but if you want in-flight satellite now, you&#8217;ll still want to book United</title>
-      <link>https://www.techradar.com/computing/internet/delta-is-finally-joining-the-faster-satellite-wi-fi-craze-with-amazon-but-if-you-want-in-flight-satellite-now-youll-still-want-to-book-united</link>
-      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">QuRfu7u8daChmYdAksh55c</guid>
-      <description>Delta Air Lines is bringing faster, satellite-powered Wi-Fi to its planes via Amazon&#8217;s Leo network &#8212; but with the rollout not starting until 2028, United Airlines remains the better bet for high-speed connectivity right now.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s presidential library will include a re-creation of his White House ballroom</title>
-      <link>https://www.fastcompany.com/91519202/trump-presidential-library-will-include-a-recreation-of-his-white-house-ballroom</link>
-      <pubDate>2026-03-31T22:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91519202/trump-presidential-library-will-include-a-recreation-of-his-white-house-ballroom</guid>
-      <description>The proposed library in Miami is a glittering tower that will enshrine his most bombastic design inclinations.
-The Trump Organization just revealed that its next construction project will be the Donald J. Trump Presidential Library: a towering, gold-encrusted skyscraper, branded with Trump&#8217;s name, that will sit just south of Miami&#8217;s Freedom Tower. Inside, it will contain a re-creation of Trump&#8217;s proposed White House ballroom....</description>
-    </item>
-    <item>
-      <title>This $67 tool handles meeting notes while you pay attention</title>
-      <link>https://mashable.com/article/march-31-meetscribe-pro-lifetime-subscription</link>
-      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03RpjWELQtoPuOhpJz0LInm</guid>
-      <description>Save on MeetScribe Pro for $67 (reg. $584) and get AI-powered meeting transcription, summaries, and task tracking across Zoom, Teams, and Google Meet.</description>
-    </item>
-    <item>
-      <title>An $8 month of Microsoft 365 for temporary workloads</title>
-      <link>https://mashable.com/article/march-31-microsoft-365-personal-1-month-subscription</link>
-      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03SklnNY96O2mOL2sfgR9sz</guid>
-      <description>A flexible 1-month Microsoft 365 subscription for $7.99 &#8212; ideal for short-term work and projects.</description>
-    </item>
-    <item>
-      <title>How to watch Mexico vs. Belgium online for free</title>
-      <link>https://mashable.com/article/mexico-belgium-international-friendly-2026-live-stream-for-free</link>
-      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">00RlmiiAoA9YgI5zwIaASLn</guid>
-      <description>How to watch live football for free. Live stream Mexico vs. Belgium in a 2026 International Friendly for free.</description>
-    </item>
-    <item>
-      <title>You can grab a four-pack of Govee&#8217;s color-changing smart bulbs for just $27</title>
-      <link>https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal</link>
-      <pubDate>2026-03-31T17:59:47-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=904698</guid>
-      <description>Spring cleaning isn&#8217;t just about clearing things out. It&#8217;s also a chance to refresh your living space, and a simple place to start is smart lighting &#8212; specifically, Govee&#8217;s Smart A19 LED Light Bulbs. The color-changing bulbs can instantly change the vibe of your home, and now through the end of today, March 31st, you [&#8230;]</description>
-    </item>
-    <item>
-      <title>Apple turns 50 &#8212; we&#8217;re live tracking the celebration, surprises, and more</title>
-      <link>https://www.techradar.com/news/live/apple-50th-anniversary-celebration</link>
-      <pubDate>Tue, 31 Mar 2026 21:53:48 +0000</pubDate>
-      <guid isPermaLink="false">DEbMH3CZ8hLxu6KSdYmZU5</guid>
-      <description>Join us live as Apple hits the 50-year mark, with updates, reactions, and what it means for the future.</description>
-    </item>
-    <item>
-      <title>Artemis II Countdown: How and When to Watch the Launch</title>
-      <link>https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/</link>
-      <pubDate>Tue, 31 Mar 2026 21:48:52 +0000</pubDate>
-      <guid isPermaLink="false">69cc2c08cffd08e188ce1373</guid>
-      <description>Here&#8217;s everything you need to know about the Artemis II mission, the long-awaited (and long-delayed) human return to the moon.</description>
-    </item>
-    <item>
-      <title>Dinosaur Polo Club has released a new co-op game and it's free</title>
-      <link>https://www.engadget.com/gaming/dinosaur-polo-club-has-released-a-new-co-op-game-and-its-free-214638400.html?src=rss</link>
-      <pubDate>Tue, 31 Mar 2026 21:46:38 +0000</pubDate>
-      <guid isPermaLink="false">d195ab8c-bc13-4569-bf2b-8f96b84c14ae</guid>
-      <description>Two pieces of good gaming news today. First: Dinosaur Polo Club has shadow dropped a brand new game today. Second, it's available for free on both PC and Mac from Itch.io. The project is called Read the F*cking Manual, or RTFM, and it is a co-op game based on working in tech support.Dinosaur Polo Club is known for previous games Mini Metro and Mini Motorways. Both are stellar examples of simple, elegant game design, and a small group within the company took this game jam concept from passion project to a fully fledged release.&#160;Per the description, "Players must work together &#8212; or not &#8212; in this...</description>
+      <title>Use Amazons spring sale to prep for extreme summer weather: Last day deals on fans, cooling bedding, more</title>
+      <link>https://mashable.com/article/best-amazon-spring-sale-cooling-deals-2026-fans-bedding-air-conditioners</link>
+      <pubDate>Wed, 01 Apr 2026 01:18:42 +0000</pubDate>
+      <guid isPermaLink="false">04sIcw0qUGL9ffeNPPPsL6x</guid>
+      <description>Don't wait for Prime Day to prep for a heat wave. Shop Amazon spring sale deals on portable fans, cooling sheets, power stations, and more.</description>
     </item>
   </channel>
 </rss>
