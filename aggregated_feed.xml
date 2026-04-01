@@ -3,62 +3,127 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 01 Apr 2026 03:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:57:31 GMT</lastBuildDate>
     <item>
-      <title>Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected</title>
-      <link>https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026</link>
-      <pubDate>Wed, 01 Apr 2026 02:30:00 GMT</pubDate>
-      <guid isPermaLink="false">3muexH8RW9g1Uj9WfCsRjt</guid>
-      <description>Attackers stole a long-lived npm access token belonging to the lead maintainer of axios, the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malicious releases target macOS, Windows, and Linux. They were live on the npm registry for roughly three hours before removal.Axios gets more than 100 million downloads per week. Wiz reports it sits in approximately 80% of cloud and code environments, touching everything from React front-ends to CI/CD pipelines to serverless functions. Huntress detected t...</description>
+      <title>L&#8217;iPhone est mort, on a imagin&#233; Apple dans 50 ans</title>
+      <link>https://www.frandroid.com/marques/apple/3045537_liphone-est-mort-jai-imagine-apple-dans-50-ans</link>
+      <pubDate>Wed, 01 Apr 2026 05:40:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3045537_liphone-est-mort-jai-imagine-apple-dans-50-ans</guid>
+      <description>
+Apple souffle ses 50 bougies aujourd'hui. Tout le monde c&#233;l&#232;bre l'iPhone et le Mac. L'occasion de se projeter en 2076, dans 50 ans : fin de l'appareil physique, essor des interfaces neuronales et r&#233;alit&#233; augment&#233;e permanente.
+</description>
     </item>
     <item>
-      <title>Meta's new structured prompting technique makes LLMs significantly better at code review &#8212; boosting accuracy to 93% in some cases</title>
-      <link>https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at</link>
-      <pubDate>Wed, 01 Apr 2026 02:13:00 GMT</pubDate>
-      <guid isPermaLink="false">3RiR3Hijb1Q2Cb6Ktv2iKj</guid>
-      <description>Deploying AI agents for repository-scale tasks like bug detection, patch verification, and code review requires overcoming significant technical hurdles. One major bottleneck: the need to set up dynamic execution sandboxes for every repository, which are expensive and computationally heavy.&#160;Using large language model (LLM) reasoning instead of executing the code is rising in popularity to bypass this overhead, yet it frequently leads to unsupported guesses and hallucinations.&#160;To improve execution-free reasoning, researchers at Meta introduce "semi-formal reasoning," a structured prompting tech...</description>
+      <title>Gmail&#160;: les utilisateurs fran&#231;ais devront encore attendre pour changer d&#8217;adresse e-mail</title>
+      <link>https://www.01net.com/actualites/gmail-les-utilisateurs-francais-devront-encore-attendre-pour-changer-dadresse-e-mail.html</link>
+      <pubDate>Wed, 01 Apr 2026 05:34:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1336089</guid>
+      <description>Google commence officiellement &#224; d&#233;ployer son option permettant de modifier son adresse Gmail. Cette fonction, annonc&#233;e il y a quelques mois, n&#8217;est toutefois pas encore disponible en France.</description>
     </item>
     <item>
-      <title>NYT Connections hints today: Clues, answers for April 1, 2026</title>
-      <link>https://mashable.com/article/nyt-connections-hint-answer-today-april-1-2026</link>
-      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">078GB8ETJNWkNvRAYUVaowi</guid>
-      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+      <title>Vous avez une voiture en LLD&#160;? L&#8217;alerte rouge de l&#8217;UFC-Que Choisir</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3048055_vous-avez-une-voiture-en-lld-lalerte-rouge-de-lufc-que-choisir</link>
+      <pubDate>Wed, 01 Apr 2026 05:31:16 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3048055_vous-avez-une-voiture-en-lld-lalerte-rouge-de-lufc-que-choisir</guid>
+      <description>
+Deux tiers des voitures neuves sont d&#233;sormais financ&#233;es en leasing. Mais derri&#232;re la promesse d'un abonnement simple comme Netflix se cache une asym&#233;trie juridique violente. L'UFC-Que Choisir tire la sonnette d'alarme et demande une r&#233;forme urgente pour prot&#233;ger les consommateurs.
+</description>
     </item>
     <item>
-      <title>NYT Strands hints, answers for April 1, 2026</title>
-      <link>https://mashable.com/article/strands-nyt-hint-april-1-2026</link>
-      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01uoLalFBKCAMGP5sP4G7VH</guid>
-      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+      <title>Amazon fait -30 % sur ces &#233;couteurs gaming SteelSeries compatibles avec la PlayStation 5</title>
+      <link>https://www.frandroid.com/bons-plans/3046805_amazon-fait-30-sur-ces-ecouteurs-gaming-steelseries-compatibles-avec-la-playstation-5</link>
+      <pubDate>Wed, 01 Apr 2026 05:27:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3046805_amazon-fait-30-sur-ces-ecouteurs-gaming-steelseries-compatibles-avec-la-playstation-5</guid>
+      <description>
+Les SteelSeries Arctis Gamebuds se d&#233;marquent avec une autonomie honorable de plus de 50 heures, bo&#238;tier de charge compris, mais ils poss&#232;dent des d&#233;fauts non n&#233;gligeables que cette remise de 50 euros chez Amazon tente d'att&#233;nuer.
+</description>
     </item>
     <item>
-      <title>Wordle today: Answer, hints for April 1, 2026</title>
-      <link>https://mashable.com/article/wordle-today-answer-april-1-2026</link>
-      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03cs4MUZPJkGpamcIN7i9Nk</guid>
-      <description>Here's the answer for "Wordle" #1747 on April 1 as well as a few hints, tips, and clues to help you solve it yourself.</description>
+      <title>Babbel Promo Code: Up to 65% Off in April 2026</title>
+      <link>https://www.wired.com/story/babbel-promo-code/</link>
+      <pubDate>Wed, 01 Apr 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69cc125c3fe11c8093235c75</guid>
+      <description>Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.</description>
     </item>
     <item>
-      <title>Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project</title>
-      <link>https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/</link>
-      <pubDate>Wed, 01 Apr 2026 01:42:59 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3108357</guid>
-      <description>The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.</description>
+      <title>3 signs your company is using AI incorrectly</title>
+      <link>https://www.fastcompany.com/91514751/3-signs-your-company-is-using-ai-incorrectly</link>
+      <pubDate>2026-04-01T05:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91514751/3-signs-your-company-is-using-ai-incorrectly</guid>
+      <description>From the electric motor to modern AI, history shows the same pattern: productivity only rises when organizations reinvent how work happens.
+The productivity numbers don&#8217;t lie. Or do they?</description>
     </item>
     <item>
-      <title>Robotaxi Outage in China Leaves Passengers Stranded on Highways</title>
-      <link>https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/</link>
-      <pubDate>Wed, 01 Apr 2026 01:24:55 +0000</pubDate>
-      <guid isPermaLink="false">69cc39d010e283f49b42bad8</guid>
-      <description>A suspected system failure froze Baidu&#8217;s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.</description>
+      <title>Are you making this common productivity mistake?</title>
+      <link>https://www.fastcompany.com/91518523/are-you-making-this-common-productivity-mistake</link>
+      <pubDate>2026-04-01T05:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91518523/are-you-making-this-common-productivity-mistake</guid>
+      <description>High performers tend to default to this common error when they are overwhelmed. Here&#8217;s what to do instead.
+</description>
     </item>
     <item>
-      <title>Use Amazons spring sale to prep for extreme summer weather: Last day deals on fans, cooling bedding, more</title>
-      <link>https://mashable.com/article/best-amazon-spring-sale-cooling-deals-2026-fans-bedding-air-conditioners</link>
-      <pubDate>Wed, 01 Apr 2026 01:18:42 +0000</pubDate>
-      <guid isPermaLink="false">04sIcw0qUGL9ffeNPPPsL6x</guid>
-      <description>Don't wait for Prime Day to prep for a heat wave. Shop Amazon spring sale deals on portable fans, cooling sheets, power stations, and more.</description>
+      <title>On a cru &#224; un &#339;uf Alien dans l&#8217;espace&#8230; La r&#233;alit&#233; derri&#232;re l&#8217;image est plus inattendue encore</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/station-saptiale-internationale-on-cru-oeuf-alien-espace-realite-derriere-image-plus-inattendue-encore-133357/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 01 Apr 2026 07:00:00 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/station-saptiale-internationale-on-cru-oeuf-alien-espace-realite-derriere-image-plus-inattendue-encore-133357/#xtor%3DRSS-8</guid>
+      <description>Une chose &#233;trange, en forme d&#8217;&#339;uf, de laquelle &#233;merge ce qui ressemble &#224; des tentacules extraterrestres. La photo a &#233;t&#233; prise &#224; bord de la Station spatiale internationale. Poisson d&#8217;avril&#8201;?</description>
+    </item>
+    <item>
+      <title>Apple a 50 ans : voici sept produits qui nous ont marqu&#233;s</title>
+      <link>https://www.frandroid.com/marques/apple/3047401_les-sept-produits-apple-qui-nous-le-plus-marques</link>
+      <pubDate>Wed, 01 Apr 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3047401_les-sept-produits-apple-qui-nous-le-plus-marques</guid>
+      <description>
+Pour le cinquanti&#232;me anniversaire d'Apple, la r&#233;daction de Frandroid se souvient de sept produits marquants de la pomme.
+</description>
+    </item>
+    <item>
+      <title>Intelligence artificielle | Une partie du code d&#8217;un outil d&#8217;Anthropic rendue publique par erreur</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-04-01/intelligence-artificielle/une-partie-du-code-d-un-outil-d-anthropic-rendue-publique-par-erreur.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Wed, 01 Apr 2026 00:26:26 -0400</pubDate>
+      <guid isPermaLink="false">569663848774372a866d46fc9879a888</guid>
+      <description>La jeune pousse am&#233;ricaine d&#8217;intelligence artificielle Anthropic a reconnu mardi avoir accidentellement rendu publique une partie du logiciel propri&#233;taire de Claude Code, son assistant de programmation destin&#233; aux d&#233;veloppeurs, &#224; la suite d&#8217;une erreur humaine.</description>
+    </item>
+    <item>
+      <title>Adieu la 2G : Orange commence son grand m&#233;nage, voici ce qu&#8217;il faut savoir</title>
+      <link>https://www.frandroid.com/telecom/3048039_adieu-la-2g-orange-commence-son-grand-menage-voici-ce-quil-faut-savoir</link>
+      <pubDate>Wed, 01 Apr 2026 04:14:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/telecom/3048039_adieu-la-2g-orange-commence-son-grand-menage-voici-ce-quil-faut-savoir</guid>
+      <description>
+C'est le d&#233;but de la fin pour une technologie qui nous accompagne depuis les ann&#233;es 90. Ce 1er avril, Orange appuie sur l'interrupteur et &#233;teint son r&#233;seau 2G dans le Sud-Ouest. 
+</description>
+    </item>
+    <item>
+      <title>Arr&#234;t de la 2G et 3G : le guide pour pr&#233;parer votre smartphone</title>
+      <link>https://www.frandroid.com/produits-android/smartphone/2073312_arret-de-la-2g-et-3g</link>
+      <pubDate>Wed, 01 Apr 2026 04:10:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2073312_arret-de-la-2g-et-3g</guid>
+      <description>
+Avec l'arr&#234;t progressif des r&#233;seaux 2G et 3G, les op&#233;rateurs vont r&#233;utiliser ces fr&#233;quences pour renforcer leurs r&#233;seaux 4G et 5G. Mais que se passe-t-il pour votre smartphone ? On fait le point.
+</description>
+    </item>
+    <item>
+      <title>Our most recommended robovacs are perfect for post-Easter cleanups &#8212; and they're discounted by up to 68% off</title>
+      <link>https://www.techradar.com/home/vacuums/our-most-recommended-robovacs-are-perfect-for-post-easter-cleanups-and-theyre-discounted-by-up-to-68-percent-off</link>
+      <pubDate>Wed, 01 Apr 2026 04:08:14 +0000</pubDate>
+      <guid isPermaLink="false">YErQBBWMyDDkkbo5A7fqcj</guid>
+      <description>The upcoming Easter long weekend is a great time for big cleanups and chores, and these discounted vacuums will help make it easier.</description>
+    </item>
+    <item>
+      <title>Hurdle hints and answers for April 1, 2026</title>
+      <link>https://mashable.com/article/hurdle-hints-answers-april-1-2026</link>
+      <pubDate>Wed, 01 Apr 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02H4B6sEUhmuh9U2V3wkIqt</guid>
+      <description>Hints and answers to today's Hurdle all in one place.</description>
+    </item>
+    <item>
+      <title>Xiaomi TV Stick 4K : une seconde g&#233;n&#233;ration de la cl&#233; Google TV pour concurrencer Amazon</title>
+      <link>https://www.frandroid.com/android/google-tv/3048011_xiaomi-tv-stick-hd-la-nouvelle-cle-google-tv-arrive-pour-concurrencer-amazon</link>
+      <pubDate>Wed, 01 Apr 2026 03:59:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/google-tv/3048011_xiaomi-tv-stick-hd-la-nouvelle-cle-google-tv-arrive-pour-concurrencer-amazon</guid>
+      <description>
+Xiaomi vient de lister son nouveau TV Stick 4K, une mise &#224; jour attendue depuis cinq ans qui mise tout sur l'ouverture de Google TV pour s&#233;duire.
+</description>
     </item>
   </channel>
 </rss>
