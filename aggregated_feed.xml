@@ -3,13 +3,157 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 02 Apr 2026 17:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 19:07:53 GMT</lastBuildDate>
     <item>
-      <title>Google releases Gemma 4 under Apache 2.0 &#8212; and that license change may matter more than benchmarks</title>
-      <link>https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter</link>
-      <pubDate>Thu, 02 Apr 2026 17:49:39 GMT</pubDate>
-      <guid isPermaLink="false">3lMbOZJs474gvQeEXC70s8</guid>
-      <description>For the past two years, enterprises evaluating open-weight models have faced an awkward trade-off. Google's Gemma line consistently delivered strong performance, but its custom license &#8212; with usage restrictions and terms Google could update at will &#8212; pushed many teams toward Mistral or Alibaba's Qwen instead. Legal review added friction. Compliance teams flagged edge cases. And capable as Gemma 3 was, "open" with asterisks isn't the same as open.Gemma 4 eliminates that friction entirely. Google DeepMind's newest open model family ships under a standard Apache 2.0 license &#8212; the same permissive ...</description>
+      <title>If only your EV did this: Dell&#8217;s new supercapacitor keyboard and mouse combo delivers 'full day use' with a 5-second charge &#8212; here&#8217;s how</title>
+      <link>https://www.techradar.com/pro/if-only-your-ev-did-this-dells-new-supercapacitor-keyboard-mouse-combo-delivers-full-day-use-with-5-second-charge-heres-how</link>
+      <pubDate>Thu, 02 Apr 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">7yTisUyXqveEnzUH7HqSsJ</guid>
+      <description>Dell&#8217;s supercapacitor-powered keyboard and mouse deliver ultra-fast charging and long usage, redefining convenience and eliminating reliance on traditional batteries.</description>
+    </item>
+    <item>
+      <title>Michael B. Jordan&#8217;s First Post-Oscars Film Looks Way Cuter Than &#8216;Sinners&#8217;</title>
+      <link>https://gizmodo.com/swapped-trailer-michael-b-jordan-netflix-2000741678</link>
+      <pubDate>Thu, 02 Apr 2026 19:02:29 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000741678</guid>
+      <description>It's called 'Swapped' and features the Oscar winner as the voice of an animal that swaps bodies with its enemy.</description>
+    </item>
+    <item>
+      <title>CFTC sues three states for trying to regulate prediction markets</title>
+      <link>https://www.engadget.com/big-tech/cftc-sues-three-states-for-trying-to-regulate-prediction-markets-190152226.html?src=rss</link>
+      <pubDate>Thu, 02 Apr 2026 19:01:52 +0000</pubDate>
+      <guid isPermaLink="false">c287c520-8b25-4963-b6bc-7fe48910d027</guid>
+      <description>The US Commodity Futures Trading Commission is suing Illinois, Arizona and Connecticut for attempting to outlaw or regulate prediction markets like Kalshi and Polymarket. The CFTC believes it has sole jurisdiction to regulate these platforms, and that states attempting to classify them as illegal gambling are overstepping their authority.CFTC defines prediction markets as &#8220;designated contract markets&#8221; where futures contracts are traded, essentially letting people bet on the outcome of events (for example, who will be the Democratic nominee for president in 2028). And because futures contracts ...</description>
+    </item>
+    <item>
+      <title>'Side effects may include curiosity': Google's $3 ChromeOS Flex kit aims to save your old Windows 10 laptop from the scrapheap</title>
+      <link>https://www.techradar.com/computing/software/side-effects-may-include-curiosity-googles-usd3-chromeos-flex-kit-aims-to-save-your-old-windows-10-laptop-from-the-scrapheap</link>
+      <pubDate>Thu, 02 Apr 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fRsiWmJF6irjTwf7Lps7g3</guid>
+      <description>Google's kit aims to breathe new life into old hardware, and that could be Macs as well as Windows 10 PCs.</description>
+    </item>
+    <item>
+      <title>'I was stuck on the overpass with dump trucks all around me': A mass Baidu robotaxi outage just caused traffic mayhem in China</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/i-was-stuck-on-the-overpass-with-dump-trucks-all-around-me-a-mass-baidu-robotaxi-outage-just-caused-traffic-mayhem-in-china</link>
+      <pubDate>Thu, 02 Apr 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">V3gss3z7K3rdLkYw6jFzdb</guid>
+      <description>Collisions, delays and traffic chaos have been reported due to a mass robotaxi outage in China.</description>
+    </item>
+    <item>
+      <title>ElevenLabs releases a new AI-powered music generation app</title>
+      <link>https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/</link>
+      <pubDate>Thu, 02 Apr 2026 18:58:45 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3108397</guid>
+      <description>ElevenMusic lets users create and remix songs using text prompts</description>
+    </item>
+    <item>
+      <title>LLMs Will Protect Each Other if Threatened, Study Finds</title>
+      <link>https://gizmodo.com/llms-will-protect-each-other-if-threatened-study-finds-2000741634</link>
+      <pubDate>Thu, 02 Apr 2026 18:35:10 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000741634</guid>
+      <description>They stick together.</description>
+    </item>
+    <item>
+      <title>PSA: YouTube will be streaming Coachella for free next week</title>
+      <link>https://www.engadget.com/entertainment/streaming/psa-youtube-will-be-streaming-coachella-for-free-next-week-183033874.html?src=rss</link>
+      <pubDate>Thu, 02 Apr 2026 18:30:33 +0000</pubDate>
+      <guid isPermaLink="false">7f5656d2-c3ce-499d-82db-47d860122542</guid>
+      <description>Coachella officially kicks off next Friday, April 10. But for anyone who doesn&#8217;t want to fly out to the desert or fork over upwards of $650 for a ticket, YouTube is going to livestream the concert for free so you can enjoy it on your own terms. Here&#8217;s a quick overview of all the programming that will be available in just over a week.&#160;With YouTube planning on providing feeds of seven different stages, there will be no shortage of content. This includes the Quasar stage in both horizontal and vertical formats, so no matter what device you're using, there should be an aspect ratio that works. Fur...</description>
+    </item>
+    <item>
+      <title>Your Art Can Go in This San Francisco Alley</title>
+      <link>https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/</link>
+      <pubDate>Thu, 02 Apr 2026 18:27:45 +0000</pubDate>
+      <guid isPermaLink="false">69cea42771c299c71df96036</guid>
+      <description>A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.</description>
+    </item>
+    <item>
+      <title>A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant</title>
+      <link>https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/</link>
+      <pubDate>Thu, 02 Apr 2026 18:27:29 +0000</pubDate>
+      <guid isPermaLink="false">69cc083c6cab226b3ec29afe</guid>
+      <description>Documents show that one of Google&#8217;s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year&#8212;an increasingly common trend in the industry.</description>
+    </item>
+    <item>
+      <title>Five questions for the guys who made a compass that points to the Times Square Olive Garden</title>
+      <link>https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden</link>
+      <pubDate>2026-04-02T14:24:29-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=905977</guid>
+      <description>Here's a question almost nobody is asking: how do you get to the Times Square Olive Garden? Well, these beautiful weirdos are answering it - the team that made the Times Square Olive Garden compass. If that's not clear enough, let me explain. They're making a compass that points you exclusively in the direction of [&#8230;]</description>
+    </item>
+    <item>
+      <title>NASA astronauts prove that sending an email really is rocket science</title>
+      <link>https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/</link>
+      <pubDate>Thu, 02 Apr 2026 18:19:39 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3108833</guid>
+      <description>NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.</description>
+    </item>
+    <item>
+      <title>The Octopus Penis Arm Doesn&#8217;t Just Deliver Sperm&#8212;It Sniffs Out the Sweet Spot</title>
+      <link>https://gizmodo.com/the-octopus-penis-arm-doesnt-just-deliver-sperm-it-sniffs-out-the-sweet-spot-2000741607</link>
+      <pubDate>Thu, 02 Apr 2026 18:15:45 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000741607</guid>
+      <description>The hectocotylus is both a reproductive and sensory organ, Harvard scientists and others have found.</description>
+    </item>
+    <item>
+      <title>Elon Musk is about to be a very busy boy!</title>
+      <link>https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla</link>
+      <pubDate>2026-04-02T14:15:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=906027</guid>
+      <description>To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&#8230;]</description>
+    </item>
+    <item>
+      <title>Here's What Can Happen When the US Bombs Iran's Nuclear Sites</title>
+      <link>https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/</link>
+      <pubDate>Thu, 02 Apr 2026 18:08:08 +0000</pubDate>
+      <guid isPermaLink="false">69ce780c156741c71fc382eb</guid>
+      <description>As strikes continue on Iran&#8217;s nuclear facilities, the real danger isn&#8217;t the explosion, but what happens if critical safety systems fail&#8212;and how that risk could spread across the Gulf.</description>
+    </item>
+    <item>
+      <title>I ran my first marathon with the Garmin Forerunner 265s &#8212; it's 25% off right now, and I'd recommend it to almost every runner</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/i-ran-my-first-marathon-with-the-garmin-forerunner-265s-its-25-percent-off-right-now-and-id-recommend-it-to-almost-every-runner</link>
+      <pubDate>Thu, 02 Apr 2026 18:02:29 +0000</pubDate>
+      <guid isPermaLink="false">Cw2xDjXeXPzHXhpDyXfNoc</guid>
+      <description>Get 25% off the Garmin Forerunner 265s at Amazon, and 16% off the larger 265.</description>
+    </item>
+    <item>
+      <title>Test en vid&#233;o : le Samsung Galaxy S26 vaut-il vraiment son tarif ?</title>
+      <link>https://www.frandroid.com/video/3049645_test-en-video-le-samsung-galaxy-s26-vaut-il-vraiment-son-tarif</link>
+      <pubDate>Thu, 02 Apr 2026 18:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/video/3049645_test-en-video-le-samsung-galaxy-s26-vaut-il-vraiment-son-tarif</guid>
+      <description>
+Nous avons test&#233; le Samsung Galaxy S26 pour v&#233;rifier si ce mod&#232;le justifie son prix face aux autres propositions du march&#233;. D&#233;couvrez en vid&#233;o pourquoi ce smartphone parie avant tout sur l'&#233;volution de son interface au quotidien.
+</description>
+    </item>
+    <item>
+      <title>Revisiting the Ending of &#8216;Chainsaw Man&#8217; Through the Lens of Japanese Folklore</title>
+      <link>https://gizmodo.com/chainsaw-man-ending-pochita-yokai-manga-2000741505</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:18 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000741505</guid>
+      <description>Pochita's final act, in new light, can be reframed in Tatsuki Fujimoto's ambiguous 'Chainsaw Man' finale as something far more intentional and tender.</description>
+    </item>
+    <item>
+      <title>I'm a homes expert &#8212; here are my top buys from Walmart's big Patio &amp; Garden Event</title>
+      <link>https://www.techradar.com/home/im-a-homes-expert-here-are-my-top-buys-from-walmarts-big-patio-and-garden-event</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yhw4EueyuAQ4NgFiyghkKm</guid>
+      <description>If you've been thinking about sprucing up your outdoor space for summer, now's the time to do it.</description>
+    </item>
+    <item>
+      <title>Test de l&#8217;iPad Air M4 : une mise &#224; jour paresseuse qui pose la question de son identit&#233;</title>
+      <link>https://www.frandroid.com/test/3050707_test-de-lipad-air-m4-une-mise-a-jour-paresseuse-qui-pose-la-question-de-son-identite</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/test/3050707_test-de-lipad-air-m4-une-mise-a-jour-paresseuse-qui-pose-la-question-de-son-identite</guid>
+      <description>
+Apple vient de rafra&#238;chir son iPad Air avec la puce M4 et 12 Go de RAM. Sur le fond, c'est une vraie progression technique. Sur la forme, c'est le statu quo absolu : m&#234;me design, m&#234;me &#233;cran 60 Hz, m&#234;me Touch ID. On a pass&#233; une semaine avec cette tablette pour comprendre &#224; qui elle s'adresse vraiment.
+</description>
+    </item>
+    <item>
+      <title>'We will have an official ceremony to mark the ending of an era. I love those cars' &#8212; Elon Musk mourns the officially retired Tesla Model S and Model X</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/we-will-have-an-official-ceremony-to-mark-the-ending-of-an-era-i-love-those-cars-elon-musk-mourns-the-officially-retired-tesla-model-s-and-model-x</link>
+      <pubDate>Thu, 02 Apr 2026 17:58:53 +0000</pubDate>
+      <guid isPermaLink="false">4PKi7FKGJxsLb3PQbaxixa</guid>
+      <description>Tesla officially kills off the once-pioneering Model S and Model X, as it focusses its future on autonomy.</description>
     </item>
     <item>
       <title>I found the best Geekom mini PC deals in the Easter sale &#8212; save big on some of our highest rated and reviewed mini PCs if you're quick</title>
@@ -39,7 +183,7 @@ Ce jeudi 2 avril 2026, les bons plans ne manquent pas pour celles et ceux qui ai
       <link>https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn</link>
       <pubDate>2026-04-02T13:40:07-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=906022</guid>
-      <description>OpenAI has purchased TBPN, the viral online talk show that often interviews AI executives and other tech leaders. The show - which goes live every weekday, often for a three-hour duration - considers channels like Bloomberg and CNBC as its competition and counts OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, [&#8230;]</description>
+      <description>OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]</description>
     </item>
     <item>
       <title>Dell just made its thinnest Pro Premium executive laptop yet &#8212; a magnesium alloy featherweight that finally makes carrying a workstation feel effortless</title>
@@ -53,7 +197,7 @@ Ce jeudi 2 avril 2026, les bons plans ne manquent pas pour celles et ceux qui ai
       <link>https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night</link>
       <pubDate>2026-04-02T13:34:27-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=905524</guid>
-      <description>The Vergecast is hosting a special in-person screening of Sneakers in partnership with IFC in New York City, and we're opening presale tickets exclusively to Verge subscribers. Sneakers is a movie about what happens when technology becomes more powerful than our ability to control it. It's about privacy and hacking and who the "good guys" [&#8230;]</description>
+      <description>The Vergecast is hosting a special in-person screening of Sneakers in partnership with IFC Center in New York City, and we're opening presale tickets exclusively to Verge subscribers. Sneakers is a movie about what happens when technology becomes more powerful than our ability to control it. It's about privacy and hacking and who the "good [&#8230;]</description>
     </item>
     <item>
       <title>How American independent bookstores made a massive comeback</title>
@@ -88,252 +232,6 @@ Les voitures &#233;lectriques chinoises sont moins ch&#232;res, souvent mieux &#
 It launches on April 13 and will offer over 70 games on that date, with more coming down the line. Not a single person on this planet wants another monthly subscription to manage, but this one costs just $8. That's a pretty good deal, considering Game Pass Ultimate costs a whopping $30 per month.
 
 However, these subscription platforms are only as good as their libraries. The company has already con...</description>
-    </item>
-    <item>
-      <title>&#171; Une soci&#233;t&#233; vitale pour le pays &#187; : c&#8217;est quoi cette entreprise fran&#231;aise d&#8217;IA et de minage que Xavier Niel a sauv&#233;e</title>
-      <link>https://www.frandroid.com/survoltes/energie/3051139_une-societe-vitale-pour-le-pays-cest-quoi-cette-entreprise-francaise-dia-et-de-minage-que-xavier-niel-a-sauvee</link>
-      <pubDate>Thu, 02 Apr 2026 17:04:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3051139_une-societe-vitale-pour-le-pays-cest-quoi-cette-entreprise-francaise-dia-et-de-minage-que-xavier-niel-a-sauvee</guid>
-      <description>
-Au c&#339;ur d'une bataille strat&#233;gique silencieuse, Xavier Niel a &#233;t&#233; appel&#233; &#224; la rescousse par l'&#201;lys&#233;e pour prot&#233;ger Exaion, une ancienne filiale d'EDF sp&#233;cialis&#233;e dans l'intelligence artificielle et le minage de cryptomonnaies. Plong&#233;e dans les coulisses d'un montage pour comprendre comment le patron de Free a r&#233;ussi &#224; sauver une entreprise jug&#233;e d'importance vitale pour le pays.
-...</description>
-    </item>
-    <item>
-      <title>You Can Now Watch Rocky From &#8216;Project Hail Mary&#8217; Sleep With the Perfect Accompaniment</title>
-      <link>https://gizmodo.com/project-hail-mary-soundtrack-rocky-sleep-video-2000741615</link>
-      <pubDate>Thu, 02 Apr 2026 17:00:54 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000741615</guid>
-      <description>Daniel Pemberton's score has been uploaded to YouTube alongside video of Rocky sleeping, and we love it.</description>
-    </item>
-    <item>
-      <title>Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex</title>
-      <link>https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/</link>
-      <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69cacfb775c0a81462c59756</guid>
-      <description>As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.</description>
-    </item>
-    <item>
-      <title>Amazon is giving away one of the best strategy games ever, plus loads of other PC games for Prime members</title>
-      <link>https://www.techradar.com/gaming/amazon-is-giving-away-one-of-the-best-strategy-games-ever-plus-loads-of-other-pc-games-for-prime-members</link>
-      <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9rXuqRvDB2CjigRjuc5DWb</guid>
-      <description>Amazon is giving Prime Members the chance to claim loads of amazing strategy games this month.</description>
-    </item>
-    <item>
-      <title>Your next iPhone case could be made from lab-grown T-Rex leather thanks to &#8216;world first&#8217; technology &#8212; but experts say otherwise</title>
-      <link>https://www.techradar.com/tech/your-next-iphone-case-could-be-made-from-lab-grown-t-rex-leather-thanks-to-world-first-technology-but-experts-say-otherwise</link>
-      <pubDate>Thu, 02 Apr 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hhJWoJx3omAuCW9cEgY8KZ</guid>
-      <description>VML is unveiling the world's first T-Rex leather product in Amsterdam, marking the beginning of a manufacturing revolution.</description>
-    </item>
-    <item>
-      <title>5 Things You May Have Missed During NASA&#8217;s Historic Launch of Artemis 2</title>
-      <link>https://gizmodo.com/5-things-you-may-have-missed-during-nasas-historic-launch-of-artemis-2-2000741642</link>
-      <pubDate>Thu, 02 Apr 2026 16:50:29 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000741642</guid>
-      <description>Four astronauts blasted off on a journey to the Moon on Wednesday. Here are some cool launch-day details you may not have picked up on.</description>
-    </item>
-    <item>
-      <title>Microsoft takes on AI rivals with three new foundational models</title>
-      <link>https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/</link>
-      <pubDate>Thu, 02 Apr 2026 16:48:16 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3108825</guid>
-      <description>MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.</description>
-    </item>
-    <item>
-      <title>Nouvelle norme de s&#233;curit&#233; GB 47372-2026 : un &#233;norme impact sur les batteries externes</title>
-      <link>https://www.frandroid.com/marques/3049403_pour-des-raisons-de-securite-le-grand-menage-commence-dans-les-batteries-externes</link>
-      <pubDate>Thu, 02 Apr 2026 16:47:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3049403_pour-des-raisons-de-securite-le-grand-menage-commence-dans-les-batteries-externes</guid>
-      <description>
-Regardez votre batterie externe actuelle. Est-elle vraiment s&#251;re ? Pour mettre fin aux explosions &#224; r&#233;p&#233;tition, le gouvernement chinois, &#233;paul&#233; par des g&#233;ants comme Xiaomi et Huawei, vient de publier une norme de s&#233;curit&#233; obligatoire.
-</description>
-    </item>
-    <item>
-      <title>L&#8217;abonnement Google AI Pro s&#8217;est am&#233;lior&#233; sans augmentation de prix</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3049401_5-to-de-stockage-pour-google-ai-pro-sans-augmentation-de-prix-lesprit-du-lancement-de-gmail-est-de-retour</link>
-      <pubDate>Thu, 02 Apr 2026 16:45:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3049401_5-to-de-stockage-pour-google-ai-pro-sans-augmentation-de-prix-lesprit-du-lancement-de-gmail-est-de-retour</guid>
-      <description>
-Google vient d'augmenter la valeur de son forfait AI Pro en passant le stockage &#224; 5 To, au lieu de 2 To.
-</description>
-    </item>
-    <item>
-      <title>I&#8217;ve been testing film cameras for years, and the Lomography Lomo MC-A easily just became my favorite</title>
-      <link>https://www.techradar.com/cameras/compact-cameras/ive-been-testing-film-cameras-for-years-and-the-lomography-lomo-mc-a-easily-just-became-my-favorite</link>
-      <pubDate>Thu, 02 Apr 2026 16:35:00 +0000</pubDate>
-      <guid isPermaLink="false">9Ze6ELwShvBwLa7abVjSFd</guid>
-      <description>A solid metal build, capable autofocus and manual settings control make this premium compact the new film camera to beat.</description>
-    </item>
-    <item>
-      <title>Russia closes loophole to fully block payments for Apple services</title>
-      <link>https://www.engadget.com/big-tech/russia-closes-loophole-to-fully-block-payments-for-apple-services-163228262.html?src=rss</link>
-      <pubDate>Thu, 02 Apr 2026 16:32:28 +0000</pubDate>
-      <guid isPermaLink="false">0c65b2ae-b382-42a0-912d-b64681093f66</guid>
-      <description>Russia has closed a loophole that allowed its citizens to pay for Apple digital services. "As of April 1, 2026, payment processing is no longer available for purchases made on the App Store or other Apple Media Services in Russia," the company wrote in a support document (via 9to5Mac).The change affects all Apple services. However, the company says iCloud+ subscribers' data will remain available after their subscriptions end, even after losing premium cloud storage. Customers' previous purchases will still be accessible, as will existing Apple Account funds until they run out.Why is Russia doi...</description>
-    </item>
-    <item>
-      <title>Hisense&#8217;s art-inspired CanvasTV has hit a new low price</title>
-      <link>https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale</link>
-      <pubDate>2026-04-02T12:31:06-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=905964</guid>
-      <description>Samsung&#8217;s releasing a new version of The Frame sometime this year, though the exact date is still unknown and, based on past models, it&#8217;s likely to be pricey. If you&#8217;d rather not wait or want to save some cash, the 55-inch Hisense CanvasTV has hit a new low price of $599.99 ($400 off) at Amazon, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Le forfait id&#233;al pour les globe-trotters co&#251;te 16 &#8364; /mois : 250 Go de 5G et 40 Go dans 110 pays</title>
-      <link>https://www.frandroid.com/bons-plans/3050671_le-forfait-ideal-pour-les-globe-trotters-coute-16-e-mois-250-go-de-5g-et-40-go-dans-110-pays</link>
-      <pubDate>Thu, 02 Apr 2026 16:31:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3050671_le-forfait-ideal-pour-les-globe-trotters-coute-16-e-mois-250-go-de-5g-et-40-go-dans-110-pays</guid>
-      <description>
-Avis aux voyageurs qui souhaitent une enveloppe de donn&#233;es 5G g&#233;n&#233;reuse en France, mais aussi &#224; l'&#233;tranger : B&amp;You propose actuellement un forfait 5G de 250 Go, avec 40 Go utilisables dans plus de 110 destinations, &#224; 15,99 euros par mois. 
-</description>
-    </item>
-    <item>
-      <title>Money transfer app Duc exposed thousands of driver&#8217;s licenses and passports to the open web</title>
-      <link>https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/</link>
-      <pubDate>Thu, 02 Apr 2026 16:29:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3108843</guid>
-      <description>An exposed Amazon-hosted server allowed anyone to access reams of customer data without needing a password.</description>
-    </item>
-    <item>
-      <title>How to watch The AI Doc: Or How I Became an Apocaloptimist in theaters &#8211; and can you stream it online yet?</title>
-      <link>https://www.techradar.com/how-to-watch/how-to-watch-the-ai-doc-or-how-i-became-an-apocaloptimist</link>
-      <pubDate>Thu, 02 Apr 2026 16:25:00 +0000</pubDate>
-      <guid isPermaLink="false">5MqdTNK33PXQJXkpoGFGod</guid>
-      <description>The definitive AI documentary is now in theatres and is expected to stream in 2026. Here&#8217;s how you can currently watch The AI Doc: Or How I Became an Apocaloptimist ahead of its streaming launch.</description>
-    </item>
-    <item>
-      <title>'This rootkit is highly persistent; a standard factory reset will not remove it': "NoVoice" Android malware on Google Play infects 50 apps across 2.3 million devices, here's what we know</title>
-      <link>https://www.techradar.com/pro/security/this-rootkit-is-highly-persistent-a-standard-factory-reset-will-not-remove-it-novoice-android-malware-on-google-play-infects-50-apps-across-2-3-million-devices-heres-what-we-know</link>
-      <pubDate>Thu, 02 Apr 2026 16:25:00 +0000</pubDate>
-      <guid isPermaLink="false">d2E8riDsZ4KcxwauHtn63W</guid>
-      <description>NoVoice can clone people's WhatsApp accounts on different devices, experts warn.</description>
-    </item>
-    <item>
-      <title>NymVPN's Mac app gets the split tunneling feature users have been waiting for</title>
-      <link>https://www.techradar.com/vpn/vpn-services/nymvpns-mac-app-gets-the-split-tunneling-feature-users-have-been-waiting-for</link>
-      <pubDate>Thu, 02 Apr 2026 16:17:21 +0000</pubDate>
-      <guid isPermaLink="false">VPQ2NBJ9Zf3DR2QsXFbD5a</guid>
-      <description>NymVPN v2026.6 introduces split tunneling for macOS in beta, plus better authentication, easier app-to-web login, and a new alpha testing program.</description>
-    </item>
-    <item>
-      <title>30 Unpublished Poems From Iconic Greek Philosopher Discovered in Cairo</title>
-      <link>https://gizmodo.com/30-unpublished-poems-from-iconic-greek-philosopher-discovered-in-cairo-2000741535</link>
-      <pubDate>Thu, 02 Apr 2026 16:15:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000741535</guid>
-      <description>For over two millennia, the philosopher&#8217;s poetic work had largely been alluded to in the writings of others.</description>
-    </item>
-    <item>
-      <title>Cette carte bancaire 100% fran&#231;aise alternative &#224; Visa et Mastercard propose une vraie innovation</title>
-      <link>https://www.frandroid.com/culture-tech/web/3051005_cette-carte-bancaire-100-francaise-alternative-a-visa-et-mastercard-propose-une-vraie-innovation</link>
-      <pubDate>Thu, 02 Apr 2026 16:12:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/web/3051005_cette-carte-bancaire-100-francaise-alternative-a-visa-et-mastercard-propose-une-vraie-innovation</guid>
-      <description>
-Une carte bancaire aussi s&#233;curis&#233;e que le paiement par smartphone, et sur un r&#233;seau 100% fran&#231;ais. C'est la promesse de l'innovation pr&#233;sent&#233;e par Thales Group.
-</description>
-    </item>
-    <item>
-      <title>Le dilemme du patron am&#233;ricain de Mercedes : acc&#233;l&#233;rer sur l&#8217;&#233;lectrique ou faire revivre le thermique au risque de se faire d&#233;passer par la Chine</title>
-      <link>https://www.frandroid.com/marques/mercedes-benz/3050915_le-dilemme-du-patron-americain-de-mercedes-accelerer-sur-lelectrique-ou-faire-revivre-le-thermique-au-risque-de-se-faire-depasser-par-la-chine</link>
-      <pubDate>Thu, 02 Apr 2026 16:07:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/mercedes-benz/3050915_le-dilemme-du-patron-americain-de-mercedes-accelerer-sur-lelectrique-ou-faire-revivre-le-thermique-au-risque-de-se-faire-depasser-par-la-chine</guid>
-      <description>
-Face au coup de frein du march&#233; &#233;lectrique am&#233;ricain, Mercedes-Benz joue les &#233;quilibristes. Si le constructeur conserve des plateformes flexibles capables d'accueillir des motorisations &#224; combustion pour ne pas brusquer les clients outre-Atlantique, il l'avoue : &#224; l'&#233;chelle mondiale, il n'a "pas le choix". R&#233;cit du patron am&#233;ricain de Mercedes-Benz USA.
-...</description>
-    </item>
-    <item>
-      <title>Flipboard just launched Surf, its new social app and feed reader</title>
-      <link>https://www.theverge.com/tech/905929/flipboard-surf-fediverse-launch</link>
-      <pubDate>2026-04-02T12:06:11-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=905929</guid>
-      <description>Surf is a slightly hard app to explain. It's sort of three things: a client for fediverse apps like Bluesky and Mastodon; a feed reader that lets you subscribe to almost any website, podcast, or YouTube channel; and a tool for creating and following feeds of interesting content, a la Flipboard magazines. It's a browser [&#8230;]</description>
-    </item>
-    <item>
-      <title>Lucid Recalls 4,000 Gravity SUVs for Faulty Seat Belts That May Not Actually Work During a Collision</title>
-      <link>https://gizmodo.com/lucid-recalls-4000-gravity-suvs-for-faulty-seat-belts-that-may-not-actually-work-during-a-collision-2000741536</link>
-      <pubDate>Thu, 02 Apr 2026 16:05:21 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000741536</guid>
-      <description>The recall affects Gravity models made between December 2024 and February 2026.</description>
-    </item>
-    <item>
-      <title>The Last of Us Online director reveals Naughty Dog had to choose between canceling the '80%' completed game and Intergalactic: The Heretic Prophet &#8212; 'It was soul crushing. To find out that it was getting canceled 24 hours before it was announced' publicly</title>
-      <link>https://www.techradar.com/gaming/the-last-of-us-online-director-reveals-naughty-dog-had-to-choose-between-canceling-the-80-percent-completed-game-and-intergalactic-the-heretic-prophet-it-was-soul-crushing-to-find-out-that-it-was-getting-canceled-24-hours-before-it-was-announced-publicly</link>
-      <pubDate>Thu, 02 Apr 2026 16:02:16 +0000</pubDate>
-      <guid isPermaLink="false">bq7yWSDMFQVFViP2cibtwT</guid>
-      <description>The director of Naughty Dog's The Last of Us Online has revealed that the multiplayer spin-off was almost finished before it was canceled.</description>
-    </item>
-    <item>
-      <title>The &#8216;Handmaid&#8217;s Tale&#8217; Sequel Is a Beautifully Executed Dystopian Nightmare</title>
-      <link>https://gizmodo.com/testaments-review-handmaids-tale-streaming-hulu-2000738053</link>
-      <pubDate>Thu, 02 Apr 2026 16:00:11 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000738053</guid>
-      <description>&#8216;The Testaments&#8217; returns to Gilead in Hulu&#8217;s continuation of Margaret Atwood&#8217;s story; it stars Ann Dowd and Chase Infiniti and premieres April 8.</description>
-    </item>
-    <item>
-      <title>Anthropic Says That Claude Contains Its Own Kind of Emotions</title>
-      <link>https://www.wired.com/story/anthropic-claude-research-functional-emotions/</link>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69cd63e155a470c0d5985203</guid>
-      <description>Researchers at the company found representations inside of Claude that perform functions similar to human feelings.</description>
-    </item>
-    <item>
-      <title>Google now lets you direct avatars through prompts in its Vids app</title>
-      <link>https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/</link>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3108782</guid>
-      <description>Google is adding a way to customize and instruct avatars for video creation in the Vids app.</description>
-    </item>
-    <item>
-      <title>The Testaments review: praise be, the Hulu Handmaid's Tale spinoff doesn't disappoint under his eye</title>
-      <link>https://www.techradar.com/streaming/hulu/the-testaments-review-disney-plus</link>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">sZDhksRuVSEXicvHqfX7xM</guid>
-      <description>After the rocky Handmaid's Tale season 6 finale, The Testaments on Hulu and Disney+ is just the beginning of something even bigger, better, and bolder.</description>
-    </item>
-    <item>
-      <title>Google releases Gemma 4, a family of open models built off of Gemini 3</title>
-      <link>https://www.engadget.com/ai/google-releases-gemma-4-a-family-of-open-models-built-off-of-gemini-3-160000332.html?src=rss</link>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">e82fe5e7-e1ed-47d1-b568-4048673fbe1b</guid>
-      <description>When Google released Gemini 3 Pro at the end of last year, it was a significant step forward for the company's proprietary large language models. Now, the company is bringing some of the same technology and research that made those models possible to the open source community with the release of its new family of Gemma 4 open-weight models.Google is offering four different versions of Gemma 4, differentiated by the number&#160;of parameters on offer. For edge devices, including smartphones, the company has the 2-billion and 4-billion "Effective" models. For more powerful machines, there&#8217;s the 26-bi...</description>
-    </item>
-    <item>
-      <title>OpenAI&#8217;s gigantic new funding round renews fears about the company&#8217;s profitability and cash burn</title>
-      <link>https://www.fastcompany.com/91520029/openais-gigantic-new-funding-round-renews-fears-about-the-companys-profitability-and-cash-burn</link>
-      <pubDate>2026-04-02T16:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91520029/openais-gigantic-new-funding-round-renews-fears-about-the-companys-profitability-and-cash-burn</guid>
-      <description>The stakes of Big AI&#8217;s bet that it will transform business and personal life seem to be growing by leaps and bounds.
-Welcome to AI Decoded, Fast Company&#8217;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.</description>
-    </item>
-    <item>
-      <title>J&#8217;ai test&#233; la direction &#233;lectronique de la Mercedes EQS : conduire sans colonne de direction en steer-by-wire, &#231;a fait quoi ?</title>
-      <link>https://www.frandroid.com/marques/mercedes-benz/3042125_jai-teste-la-direction-electronique-de-la-mercedes-eqs-conduire-sans-colonne-de-direction-en-steer-by-wire-ca-fait-quoi</link>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/mercedes-benz/3042125_jai-teste-la-direction-electronique-de-la-mercedes-eqs-conduire-sans-colonne-de-direction-en-steer-by-wire-ca-fait-quoi</guid>
-      <description>
-Fini le lien physique entre vos mains et les roues. Avec sa future berline &#233;lectrique EQS, Mercedes introduit une direction 100 % &#233;lectronique d&#233;pourvue de colonne m&#233;canique, associ&#233;e &#224; un volant au design&#8230; d&#233;routant. Une option factur&#233;e pr&#232;s de 2 500 &#8364; qui filtre la route et bouleverse les rep&#232;res traditionnels. Gadget marketing ou v&#233;ritable r&#233;volution de la conduite ? Nous avons pris la route pour en avoir le c&#339;ur net.
-...</description>
-    </item>
-    <item>
-      <title>Even Artemis II Astronauts Have Microsoft Outlook Problems</title>
-      <link>https://www.wired.com/story/artemis-ii-microsoft-outlook-problems/</link>
-      <pubDate>Thu, 02 Apr 2026 15:59:36 +0000</pubDate>
-      <guid isPermaLink="false">69ce6bb91ea0458a49126441</guid>
-      <description>The mission commander&#8217;s email inbox failed during the journey to the moon. Have they tried turning the computer off and back on again?</description>
-    </item>
-    <item>
-      <title>Amazon is slashing prices on best-selling running shoes for spring &#8212; Nike, Hoka, and New Balance from $55</title>
-      <link>https://www.techradar.com/tech/amazon-is-slashing-prices-on-best-selling-running-shoes-for-spring-nike-hoka-and-new-balance-from-usd55</link>
-      <pubDate>Thu, 02 Apr 2026 15:59:04 +0000</pubDate>
-      <guid isPermaLink="false">kvHqo7PZLyPkpAZPWeCbff</guid>
-      <description>Amazon has a huge sale on best-selling running shoes for spring, and I've rounded up the top-rated deals from Nike, Hoka, New Balance, and more.</description>
-    </item>
-    <item>
-      <title>Sur la banquise du Groenland, cet avion fran&#231;ais r&#233;ussit ce que les appareils am&#233;ricains ne font qu&#8217;avec des skis</title>
-      <link>https://www.01net.com/actualites/sur-la-banquise-du-groenland-cet-avion-francais-reussit-ce-que-les-appareils-americains-ne-font-quavec-des-skis.html</link>
-      <pubDate>Thu, 02 Apr 2026 15:58:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1336570</guid>
-      <description>L'Arm&#233;e de l'Air et de l'Espace vient de r&#233;aliser une v&#233;ritable prouesse technique dans le Grand Nord. Un avion de transport militaire A400M Atlas s'est pos&#233; pour la toute premi&#232;re fois sur une piste naturelle de glace au Groenland. Cette man&#339;uvre in&#233;dite r&#233;alis&#233;e sans &#233;quipement sp&#233;cial prouve la sup&#233;riorit&#233; de l'appareil europ&#233;en face &#224; ses concurrents am&#233;ricains dans les milieux extr&#234;mes....</description>
     </item>
   </channel>
 </rss>
