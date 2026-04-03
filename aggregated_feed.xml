@@ -3,7 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 03 Apr 2026 22:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:38:48 GMT</lastBuildDate>
+    <item>
+      <title>Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI</title>
+      <link>https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an</link>
+      <pubDate>Fri, 03 Apr 2026 23:30:50 GMT</pubDate>
+      <guid isPermaLink="false">67Uagoe5zaizCBaBfyLZIY</guid>
+      <description>AI vibe coders have yet another reason to thank Andrej Karpathy, the coiner of the term. The former Director of AI at Tesla and co-founder of OpenAI, now running his own independent AI project, recently posted on X describing a "LLM Knowledge Bases" approach he's using to manage various topics of research interest. By building a persistent, LLM-maintained record of his projects, Karpathy is solving the core frustration of "stateless" AI development: the dreaded context-limit reset.As anyone who has vibe coded can attest, hitting a usage limit or ending a session often feels like a lobotomy for...</description>
+    </item>
+    <item>
+      <title>Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026</title>
+      <link>https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among</link>
+      <pubDate>Fri, 03 Apr 2026 23:25:01 GMT</pubDate>
+      <guid isPermaLink="false">4aBKPettWAmXy8gF9c1SBk</guid>
+      <description>Jensen Huang walked onto the GTC stage Monday wearing his trademark leather jacket and carrying, as it turned out, the blueprints for a new kind of industry dominance.The Nvidia CEO unveiled the Agent Toolkit, an open-source platform for building autonomous AI agents, and then rattled off the names of the companies that will use it: Adobe, Salesforce, SAP, ServiceNow, Siemens, CrowdStrike, Atlassian, Cadence, Synopsys, IQVIA, Palantir, Box, Cohesity, Dassault Syst&#232;mes, Red Hat, Cisco and Amdocs. Seventeen enterprise software companies, touching virtually every industry and every Fortune 500 co...</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Saturday, April 4 (game #1531)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-april-2026</link>
+      <pubDate>Fri, 03 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">DvaBNigAQ5jqkkjTHru5Qh</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Saturday, April 4 (game #1028)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-april-2026</link>
+      <pubDate>Fri, 03 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NXQ7M3CKa3ypdYt5KzDeEY</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Saturday, April 4 (game #762)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-4-april-2026</link>
+      <pubDate>Fri, 03 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">k8imejMqFrAV7k57mHQeda</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>The anonymous social app that thinks it can work in Saudi Arabia</title>
       <link>https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/</link>
@@ -26,68 +61,18 @@
       <description>If Netflix, Warner Bros. Japan, and David Production really want to appease disgruntled 'JoJo's Bizarre Adventure' fans, they should make either of these two bops the ending themes for 'Steel Ball Run.'</description>
     </item>
     <item>
+      <title>A smarter way to use AI is now just $79 for life</title>
+      <link>https://mashable.com/article/april-3-chatplayground-ai-unlimited-plan-lifetime-subscriptions</link>
+      <pubDate>Fri, 03 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">001Uzfih4gf5FRFeAybNrsQ</guid>
+      <description>Simplify working with AI thanks to this lifetime subscription to ChatPlayground AI Unlimited Plan.</description>
+    </item>
+    <item>
       <title>AI Training Data Giant Mercor Is Reportedly Looking to Buy the Work You Did at Your Old Job</title>
       <link>https://gizmodo.com/ai-training-data-giant-mercor-is-reportedly-looking-to-buy-the-work-you-did-at-your-old-job-2000742263</link>
       <pubDate>Fri, 03 Apr 2026 21:40:50 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000742263</guid>
       <description>If the price is right...</description>
-    </item>
-    <item>
-      <title>Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk</title>
-      <link>https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/</link>
-      <pubDate>Fri, 03 Apr 2026 21:28:14 +0000</pubDate>
-      <guid isPermaLink="false">69cd4760b07b1f7a1d596ed2</guid>
-      <description>Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.</description>
-    </item>
-    <item>
-      <title>Scientists Have Made a French Fry Breakthrough</title>
-      <link>https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/</link>
-      <pubDate>Fri, 03 Apr 2026 21:23:33 +0000</pubDate>
-      <guid isPermaLink="false">69d005d3f17585df8fd63e9b</guid>
-      <description>Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness.</description>
-    </item>
-    <item>
-      <title>Utah Is Giving Dr. AI the Power to Renew Drug Prescriptions</title>
-      <link>https://gizmodo.com/utah-is-giving-dr-ai-the-power-to-renew-drug-prescriptions-2000742164</link>
-      <pubDate>Fri, 03 Apr 2026 21:15:36 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000742164</guid>
-      <description>Dr. AI will see you now.</description>
-    </item>
-    <item>
-      <title>AI animation studio Toonstar will turn books into digital shows for HarperCollins</title>
-      <link>https://www.engadget.com/ai/ai-animation-studio-toonstar-will-turn-books-into-digital-shows-for-harpercollins-211419155.html?src=rss</link>
-      <pubDate>Fri, 03 Apr 2026 21:14:19 +0000</pubDate>
-      <guid isPermaLink="false">a301e7ea-1bc7-4a8d-b1d0-656541f46270</guid>
-      <description>HarperCollins is tapping into AI to bring some of its book franchises to life. Specifically, the publisher is teaming up with Toonstar, an AI animation studio, to turn them into digital shows. The first project will be an adaptation of Lisa Greenwald&#8217;s &#8220;Friendship List&#8221; series, which will also be joined by a graphic novel. You&#8217;d be forgiven for being unaware of Toonstar, a studio that received some buzzy early on for simplifying typically complex animation pipelines with AI, but has mostly remained under the radar. Its biggest claim to fame is producing StEvEn and Parker YouTube series, which ...</description>
-    </item>
-    <item>
-      <title>Here&#8217;s the Perfect Excuse to See &#8216;Project Hail Mary&#8217; Again</title>
-      <link>https://gizmodo.com/project-hail-mary-directors-commentary-theaterears-2000742154</link>
-      <pubDate>Fri, 03 Apr 2026 21:00:01 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000742154</guid>
-      <description>Directors Phil Lord and Chris Miller recorded a director commentary you can listen to in the theater.</description>
-    </item>
-    <item>
-      <title>NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch</title>
-      <link>https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed</link>
-      <pubDate>2026-04-03T16:53:48-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=906988</guid>
-      <description>On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman reported to Mission Control: "I also see that I have two Microsoft [&#8230;]</description>
-    </item>
-    <item>
-      <title>Why people are suddenly hesitant to watch Zendaya&#8217;s new movie, &#8220;The Drama&#8221;</title>
-      <link>https://www.fastcompany.com/91521633/why-people-are-suddenly-hesitant-to-watch-zendayas-new-movie-the-drama</link>
-      <pubDate>2026-04-03T20:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91521633/why-people-are-suddenly-hesitant-to-watch-zendayas-new-movie-the-drama</guid>
-      <description>A key plot reveal and public criticism are changing how audiences see The Drama.
-When a fake wedding announcement featuring Zendaya and Robert Pattinson popped up in a late-year print issue The Boston Globe, it looked like a star-studded romcom was underway. But &#8220;The Drama,&#8221; indie studio A24&#8217;s latest film, has stirred controversy, and most audiences don&#8217;t know what its about....</description>
-    </item>
-    <item>
-      <title>Tesla&#8217;s Texas factory workforce reportedly shrunk 22% in 2025</title>
-      <link>https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/</link>
-      <pubDate>Fri, 03 Apr 2026 20:43:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3109307</guid>
-      <description>Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales.</description>
     </item>
   </channel>
 </rss>
