@@ -3,7 +3,78 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 07 Apr 2026 20:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 21:48:32 GMT</lastBuildDate>
+    <item>
+      <title>Amazon is ending support for older Kindles and Kindle Fires</title>
+      <link>https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older</link>
+      <pubDate>2026-04-07T17:44:20-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=908302</guid>
+      <description>Amazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will "no longer be able to purchase, borrow, or download new content via the Kindle Store," Amazon spokesperson Jackie Burke wrote in an email to The Verge. Users will still be able to read books [&#8230;]</description>
+    </item>
+    <item>
+      <title>I can&#8217;t help rooting for tiny open source AI model maker Arcee</title>
+      <link>https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/</link>
+      <pubDate>Tue, 07 Apr 2026 21:35:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3110230</guid>
+      <description>Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.</description>
+    </item>
+    <item>
+      <title>VC Eclipse has a new $1.3B to back &#8212; and build &#8212; &#8216;physical AI&#8217; startups</title>
+      <link>https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/</link>
+      <pubDate>Tue, 07 Apr 2026 21:24:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3110181</guid>
+      <description>Eclipse will put some of that money towards incubating, or building startups.</description>
+    </item>
+    <item>
+      <title>'Stolen session cookies render MFA irrelevant': How $900-per-month turnkey malware is putting enterprise-grade account hijacking in the hands of rookie hackers</title>
+      <link>https://www.techradar.com/pro/security/stolen-session-cookies-render-mfa-irrelevant-how-usd900-per-month-turnkey-malware-is-putting-enterprise-grade-account-hijacking-in-the-hands-of-rookie-hackers</link>
+      <pubDate>Tue, 07 Apr 2026 21:20:00 +0000</pubDate>
+      <guid isPermaLink="false">LUhCPTXUdZj3nYojNEJJNk</guid>
+      <description>Storm infostealer hijacks session cookies, bypassing multi-factor authentication, harvesting credentials, and enabling persistent account access across enterprise and cryptocurrency systems globally.</description>
+    </item>
+    <item>
+      <title>Fox is the latest to add prediction markets as a new &#8216;data layer&#8217; for news coverage</title>
+      <link>https://www.fastcompany.com/91523276/fox-is-the-latest-to-add-prediction-markets-as-a-new-data-layer-for-news-coverage</link>
+      <pubDate>2026-04-07T21:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91523276/fox-is-the-latest-to-add-prediction-markets-as-a-new-data-layer-for-news-coverage</guid>
+      <description>FOX, CNBC, and CNN now have Kalshi forecasts integrated into their platforms. 
+Fox Corporation has announced plans to partner with Kalshi to integrate the prediction market&#8217;s data across the media giant&#8217;s various cable networks.</description>
+    </item>
+    <item>
+      <title>X has a slightly more functional photo editor now</title>
+      <link>https://www.engadget.com/apps/x-has-a-slightly-more-functional-photo-editor-now-210825833.html?src=rss</link>
+      <pubDate>Tue, 07 Apr 2026 21:08:25 +0000</pubDate>
+      <guid isPermaLink="false">beb21ca0-f305-4704-a85b-6bb6ea67449b</guid>
+      <description>X is rolling out an update to its in-app photo editor that gives users the ability to edit photos with xAI's Grok, blur faces and overlay text on images. The new editing features, in particular the addition of text-based edits via an AI assistant, bring it much closer in capabilities to dedicated photo apps like Google Photos. As part of the update, users are able to prompt Grok to make edits to a photo just by typing out what they want to see. The example video shared by Nikita Bier, X's Head of Product, showed an image being edited so that it appeared to be hanging in a museum, but simpler t...</description>
+    </item>
+    <item>
+      <title>On the day that Apple turned 50, the iconic US company that inspired Steve Jobs with the GUI hit rock bottom and may be on the path to obscurity</title>
+      <link>https://www.techradar.com/pro/on-the-day-that-apple-turned-50-the-iconic-us-company-that-inspired-steve-jobs-with-the-gui-hit-rock-bottom-and-may-be-on-the-path-to-obscurity</link>
+      <pubDate>Tue, 07 Apr 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">TPiPaVr5pjGufxhhA5Zc7L</guid>
+      <description>The contrast between Apple&#8217;s 50th anniversary and Xerox leadership change shows how early innovation alone rarely secures lasting relevance.</description>
+    </item>
+    <item>
+      <title>I love my Ray-Ban Meta smart glasses but this summer I&#8217;m gonna swap them for standard shades &#8212; and the BanRay movement proves I&#8217;m not alone</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/i-love-my-ray-ban-meta-smart-glasses-but-this-summer-im-gonna-swap-them-for-standard-shades-and-the-banray-movement-proves-im-not-alone</link>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">vCqYBw6sV3UsPRRJHziGDF</guid>
+      <description>"Meta cannot be trusted with this" &#8212; an anti-smartglasses movement is brewing.</description>
+    </item>
+    <item>
+      <title>Noah Hawley Is Remaking &#8216;Terrified,&#8217; Which Shouldn&#8217;t Happen</title>
+      <link>https://gizmodo.com/noah-hawley-terrified-remake-demian-rugna-2000743569</link>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000743569</guid>
+      <description>We love the 'Alien: Earth' creator, but Argentinian filmmaker Demi&#225;n Rugna's original is a one-of-a-kind.</description>
+    </item>
+    <item>
+      <title>The iPhone Gets a D&#8211; for Repairability</title>
+      <link>https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/</link>
+      <pubDate>Tue, 07 Apr 2026 20:59:10 +0000</pubDate>
+      <guid isPermaLink="false">69d52df5719349ce6605dfa1</guid>
+      <description>It&#8217;s a better rating than the company has gotten from repairability experts before, at least. Samsung is second worst with a D.</description>
+    </item>
     <item>
       <title>Unprecedented Observation Reveals 2 Supermassive Black Holes Locked in a Tight Death Spiral</title>
       <link>https://gizmodo.com/for-the-first-time-astronomers-spot-two-supermassive-black-holes-locked-in-a-death-spiral-2000743581</link>
@@ -61,6 +132,14 @@
       <description>She's no longer framed as a villain&#8212;but what's her role in the sequel series? Emmy-winning actor Ann Dowd explains.</description>
     </item>
     <item>
+      <title>Getting laid off changes your perception of work forever. Here&#8217;s how</title>
+      <link>https://www.fastcompany.com/91518499/getting-laid-off-changes-your-perception-of-work-forever-heres-how</link>
+      <pubDate>2026-04-07T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91518499/getting-laid-off-changes-your-perception-of-work-forever-heres-how</guid>
+      <description>Being let go breaks your spirit&#8212;and your brain.
+When Kitty got her fourth layoff call, she took it via Bluetooth in her car. She knew the script by then: the sudden 15-minute meeting invite, the HR rep that pops into the call, the platitudes that precede the devastation of being unemployed&#8212;again.</description>
+    </item>
+    <item>
       <title>Iranian hackers are targeting American critical infrastructure, US agencies warn</title>
       <link>https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/</link>
       <pubDate>Tue, 07 Apr 2026 19:59:06 +0000</pubDate>
@@ -73,100 +152,6 @@
       <pubDate>Tue, 07 Apr 2026 19:50:40 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000743503</guid>
       <description>Turns out there might be a very understandable reason why your cat leaves its bowl half-empty.</description>
-    </item>
-    <item>
-      <title>Social media panic reaches new apocalyptic fervor as Trump calls to &#8216;destroy a whole civilization&#8217; over Iran war</title>
-      <link>https://www.fastcompany.com/91523095/trump-iran-war-threat-to-destroy-civilization-social-media-panic-rises-stock-market-oil-prices-25th-amendment</link>
-      <pubDate>2026-04-07T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91523095/trump-iran-war-threat-to-destroy-civilization-social-media-panic-rises-stock-market-oil-prices-25th-amendment</guid>
-      <description>Amid a stock market frenzy and spiking oil prices, X users are calling on Congress to &#8216;do something.&#8217;
-President Donald Trump&#8217;s threats to destroy &#8220;a whole civilization&#8221;&#8212;if Iran does not meet tonight&#8217;s deadline to reach the end of the war&#8212;is being met with alarm triggering a market frenzy, and oil prices to spike, and response across social media about what Congress should do, including invoking the 25th amendment to remove Trump from office. ...</description>
-    </item>
-    <item>
-      <title>5 Things We Noticed During NASA&#8217;s Historic Lunar Flyby</title>
-      <link>https://gizmodo.com/5-things-we-noticed-during-nasas-historic-lunar-flyby-2000743500</link>
-      <pubDate>Tue, 07 Apr 2026 19:25:49 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000743500</guid>
-      <description>The Artemis 2 astronauts flew around the far side of the Moon yesterday, smashing the record for the farthest distance humans have ever traveled from Earth. Here are some interesting details you may have missed during the flyby.</description>
-    </item>
-    <item>
-      <title>Apple's foldable iPhone is reportedly at risk of delay</title>
-      <link>https://www.engadget.com/mobile/smartphones/apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813890.html?src=rss</link>
-      <pubDate>Tue, 07 Apr 2026 19:25:33 +0000</pubDate>
-      <guid isPermaLink="false">61d4022f-2eca-427a-9e84-fe96014987c7</guid>
-      <description>Apple has run into "more issues than expected" with its foldable iPhone that may set back its release, according to Nikkei. The engineering problems reportedly cropped up during the device's early test production phase and may delay first shipments by months, according to multiple sources briefed on the matter. However, a separate report in Bloomberg refutes the gist of Nikkei's claims.&#160;
-"The current situation could put the mass production timeline at risk," one of Nikkei's sources said. "April will mark a crucial stage of the engineering verification test, and this month till early may is ext...</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s War on American Cybersecurity Ramps Up With Planned $700 Million Cuts to CISA</title>
-      <link>https://gizmodo.com/trumps-war-on-american-cybersecurity-ramps-up-with-planned-700-million-cuts-to-cisa-2000743499</link>
-      <pubDate>Tue, 07 Apr 2026 19:20:35 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000743499</guid>
-      <description>The administration also wants to axe programs countering misinformation and propaganda.</description>
-    </item>
-    <item>
-      <title>Our top-rated running shoes and watches are on sale at Amazon &#8212; save up to 45% from Nike, Garmin, Apple, and more</title>
-      <link>https://www.techradar.com/tech/our-top-rated-running-shoes-and-watches-are-on-sale-at-amazon-save-up-to-45-percent-from-nike-garmin-apple-and-more</link>
-      <pubDate>Tue, 07 Apr 2026 19:13:55 +0000</pubDate>
-      <guid isPermaLink="false">7qeVWPBstumpSCtKWPndvK</guid>
-      <description>It's officially marathon season, and if you're looking for new gear, I've rounded up our top-rated running shoes and smartwatches that are currently on sale at Amazon.</description>
-    </item>
-    <item>
-      <title>'AI is only as strong as its data': Why Microsoft is betting on this little-known startup&#8217;s 700B parameter model to predict your next purchase</title>
-      <link>https://www.techradar.com/pro/ai-is-only-as-strong-as-its-data-why-microsoft-is-betting-on-this-little-known-startups-700b-parameter-model-to-predict-your-next-purchase</link>
-      <pubDate>Tue, 07 Apr 2026 19:10:00 +0000</pubDate>
-      <guid isPermaLink="false">QQEaNcYyHEBCwiUi9fqV3f</guid>
-      <description>Microsoft and Yobi partner to deploy a 700 billion parameter AI model that predicts consumer intent using consented behavioral data across platforms.</description>
-    </item>
-    <item>
-      <title>You can now turn 2D apps into 3D while using the Galaxy XR headset</title>
-      <link>https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d</link>
-      <pubDate>2026-04-07T15:07:12-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=908268</guid>
-      <description>Android XR is getting a new feature that turns 2D apps, websites, images, and videos into "3D experiences." The feature, which Google calls "auto-spatialization," was initially announced last year, and it's launching on Tuesday as an experimental feature for Samsung Galaxy XR headsets. Here's a video from Google that gives you an idea about how [&#8230;]</description>
-    </item>
-    <item>
-      <title>I wish this selfie phone case was better for selfies</title>
-      <link>https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on</link>
-      <pubDate>2026-04-07T15:05:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=908251</guid>
-      <description>The Selfix phone case is a classic example of a great idea in theory that falls apart in practice. It's a case for the iPhone 17 Pro with a circular screen on the back. It mirrors the middle of your main phone screen, making it easier to frame up selfies using your phone's higher-quality rear [&#8230;]</description>
-    </item>
-    <item>
-      <title>Sony will scan players and put their faces in PS5 games</title>
-      <link>https://mashable.com/article/playstation-playerbase-scan-yourself-ps5-games</link>
-      <pubDate>Tue, 07 Apr 2026 19:01:45 +0000</pubDate>
-      <guid isPermaLink="false">00y0J3aMgjh8seVTYx9EjWO</guid>
-      <description>The PS5 is more expensive than ever, but at least you can have your likeness put into PS5 games now.</description>
-    </item>
-    <item>
-      <title>10 Years Ago Today, &#8216;Star Wars&#8217; Changed Its Future With the First Look at &#8216;Rogue One&#8217;</title>
-      <link>https://gizmodo.com/10-years-ago-today-star-wars-changed-its-future-with-the-first-look-at-rogue-one-2000743536</link>
-      <pubDate>Tue, 07 Apr 2026 19:00:35 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000743536</guid>
-      <description>Celebrate the anniversary of the unforgettable first trailer for 'Rogue One: A Star Wars Story.'</description>
-    </item>
-    <item>
-      <title>Forget white-collar jobs. AI is also displacing workers without college degrees</title>
-      <link>https://www.fastcompany.com/91522437/forget-white-collar-jobs-ai-is-also-displacing-workers-without-college-degrees</link>
-      <pubDate>2026-04-07T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91522437/forget-white-collar-jobs-ai-is-also-displacing-workers-without-college-degrees</guid>
-      <description>A new report reveals how AI will fracture the career pathways that workers without college degrees have long relied on for upward mobility. 
-White-collar workers have been at the center of much of the public handwringing over AI. Entry-level jobs in finance and software engineering seem to be on the chopping block. More college graduates are struggling to find work in a challenging job market, and unemployment ticked up to 5.6% by the end of 2025. Tech companies and other major employers have repeatedly cited AI adoption to justify layoffs.&#160;...</description>
-    </item>
-    <item>
-      <title>How to watch PSG vs. Liverpool online for free</title>
-      <link>https://mashable.com/article/psg-liverpool-champions-league-2026-live-stream-for-free</link>
-      <pubDate>Tue, 07 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">06pQZkQxB5tEnLze2walECD</guid>
-      <description>How to watch Champions League for free. Live stream PSG vs. Liverpool in the Champions League for free.</description>
-    </item>
-    <item>
-      <title>How to watch Barcelona vs. Atletico Madrid online for free</title>
-      <link>https://mashable.com/article/barcelona-atletico-madrid-2026-champions-league-live-stream-for-free</link>
-      <pubDate>Tue, 07 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">04zwAyB7qjBC0A0dmt6x1P9</guid>
-      <description>How to watch the Champions League for free. Watch Barcelona vs. Atletico Madrid in the Champions League for free from anywhere in the world.</description>
     </item>
   </channel>
 </rss>
