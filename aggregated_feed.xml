@@ -3,7 +3,56 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 08 Apr 2026 21:48:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 22:46:20 GMT</lastBuildDate>
+    <item>
+      <title>&#8216;Good Omens&#8217; Season 3 Is Still Just One Episode, Despite Being Called That</title>
+      <link>https://gizmodo.com/good-omens-season-3-length-amazon-2000744186</link>
+      <pubDate>Wed, 08 Apr 2026 22:30:08 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000744186</guid>
+      <description>The Prime Video series returns May 13 for a 'new season' that's really a movie-length single episode.</description>
+    </item>
+    <item>
+      <title>Sony is reportedly testing a subtle PS5 UI update &#8212; 'Welcome back PS4'</title>
+      <link>https://www.techradar.com/gaming/playstation/sony-is-reportedly-testing-a-subtle-ps5-ui-update-welcome-back-ps4</link>
+      <pubDate>Wed, 08 Apr 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">bEsWznjgDgt6YcuGxRcyJH</guid>
+      <description>Sony is apparently testing a new PS5 UI update.</description>
+    </item>
+    <item>
+      <title>Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says</title>
+      <link>https://www.wired.com/story/anthropic-appeals-court-ruling/</link>
+      <pubDate>Wed, 08 Apr 2026 22:27:26 +0000</pubDate>
+      <guid isPermaLink="false">69ce9a3e2b790324f16d580c</guid>
+      <description>The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military.</description>
+    </item>
+    <item>
+      <title>Claude, OpenClaw and the new reality: AI agents are here &#8212; and so is the chaos</title>
+      <link>https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos</link>
+      <pubDate>Wed, 08 Apr 2026 22:26:37 GMT</pubDate>
+      <guid isPermaLink="false">E4kZwK085N3OHabqiT6mh</guid>
+      <description>The age of agentic AI is upon us &#8212; whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. More recently, fears of reaching artificial general intelligence (AGI) have become more real with the advent of  powerful autonomous agents like Claude Cowork and OpenClaw. Having played with these tools for some time, here is a comparison.First, we have OpenClaw (formerly known as Moltbot and Clawdbot). Surpassing 150,000 GitHub stars in days, OpenClaw is already being deploye...</description>
+    </item>
+    <item>
+      <title>Could Google Gemini surpass ChatGPT as the biggest AI chatbot within a year? If it maintains its current growth trajectory, I wouldn't bet against it</title>
+      <link>https://www.techradar.com/pro/could-gemini-surpass-chatgpt-as-the-biggest-ai-chatbot-within-a-year-if-it-maintains-its-current-growth-trajectory-i-wont-bet-against-it</link>
+      <pubDate>Wed, 08 Apr 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">zYo6R8Rb7gj2wYCf9GBCHK</guid>
+      <description>Google's chatbot nearly quadrupled market share in twelve months while ChatGPT cooled slowly, setting up a potential leadership battle by 2027.</description>
+    </item>
+    <item>
+      <title>Steam Gaming Has Arrived on Apple Vision Pro, and It&#8217;s Unexpectedly Glorious</title>
+      <link>https://gizmodo.com/steam-gaming-has-arrived-on-apple-vision-pro-and-its-unexpectedly-glorious-2000744217</link>
+      <pubDate>Wed, 08 Apr 2026 22:00:37 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000744217</guid>
+      <description>Valve's Steam Link app is the easiest way to mirror your PC on Vision Pro. Yes, really.</description>
+    </item>
+    <item>
+      <title>WireGuard VPN developer can&#8217;t ship software updates after Microsoft locks account</title>
+      <link>https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/</link>
+      <pubDate>Wed, 08 Apr 2026 21:50:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3110668</guid>
+      <description>The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.</description>
+    </item>
     <item>
       <title>RFK Jr. Will Take on Joe Rogan for Podcaster Supremacy</title>
       <link>https://gizmodo.com/rfk-jr-will-take-on-joe-rogan-for-podcaster-supremacy-2000744221</link>
@@ -54,7 +103,7 @@
       <description>One week, you're the "Cache Wizard." The next, you're just some poor schmuck.</description>
     </item>
     <item>
-      <title>Poke makes AI agents as easy as sending a text</title>
+      <title>AI agent Poke makes setting up automations as easy as sending a text</title>
       <link>https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/</link>
       <pubDate>Wed, 08 Apr 2026 21:05:13 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3110530</guid>
@@ -73,71 +122,6 @@
       <pubDate>Wed, 08 Apr 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3110421</guid>
       <description>Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.</description>
-    </item>
-    <item>
-      <title>If Apple is truly learning from the MacBook Neo, it should return the iPhone to its $199 roots</title>
-      <link>https://www.techradar.com/phones/iphone/if-apple-is-truly-learning-from-the-macbook-neo-it-should-return-the-iphone-to-its-usd199-roots</link>
-      <pubDate>Wed, 08 Apr 2026 20:30:59 +0000</pubDate>
-      <guid isPermaLink="false">bi33nj6ShbCDCdhnQEAMxm</guid>
-      <description>Apple's MacBook Neo success should lead to some fresh affordability perspectives on other product lines.</description>
-    </item>
-    <item>
-      <title>The First Big &#8216;Alien: Earth&#8217; Season 2 Addition Is Peter Dinklage</title>
-      <link>https://gizmodo.com/the-first-big-alien-earth-season-2-addition-is-peter-dinklage-2000744230</link>
-      <pubDate>Wed, 08 Apr 2026 20:30:55 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000744230</guid>
-      <description>The 'Game of Thrones' star is joining Noah Hawley's 'Alien' prequel series.</description>
-    </item>
-    <item>
-      <title>How to Watch NASA&#8217;s Artemis 2 Return to Earth at a Blazing 25,000 MPH</title>
-      <link>https://gizmodo.com/how-to-watch-nasas-artemis-2-return-to-earth-at-a-blazing-25000-mph-2000744096</link>
-      <pubDate>Wed, 08 Apr 2026 20:30:41 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000744096</guid>
-      <description>Watch the epic conclusion of NASA's Moon mission live right here.</description>
-    </item>
-    <item>
-      <title>Talk about bad timing &#8212; even Linux is asking for more RAM now, despite global shortages hitting PC users hard</title>
-      <link>https://www.techradar.com/pro/talk-about-bad-timing-even-linux-is-asking-for-more-ram-now-despite-global-shortages-hitting-pc-fans-hard</link>
-      <pubDate>Wed, 08 Apr 2026 20:25:00 +0000</pubDate>
-      <guid isPermaLink="false">sBWjryApjNWeDwtqt9AqRA</guid>
-      <description>Ubuntu raises its minimum RAM to 6GB despite global shortages, calling it an honesty bump for modern web browsing and multitasking.</description>
-    </item>
-    <item>
-      <title>OpenAI made economic proposals &#8212; here&#8217;s what DC thinks of them</title>
-      <link>https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them</link>
-      <pubDate>2026-04-08T16:14:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/908880/can-you-monitor-a-situation-without-monitors-the-polymarket-sports-bar-tried</guid>
-      <description>Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart [&#8230;]</description>
-    </item>
-    <item>
-      <title>DoorDash and Wing are expanding their drone delivery partnership to Atlanta</title>
-      <link>https://www.engadget.com/transportation/doordash-and-wing-are-expanding-their-drone-delivery-partnership-to-atlanta-201133191.html?src=rss</link>
-      <pubDate>Wed, 08 Apr 2026 20:11:33 +0000</pubDate>
-      <guid isPermaLink="false">88c6db7b-25e4-4af4-8aa2-31cb6e6942ad</guid>
-      <description>DoorDash and Wing have announced a new partnership that will allow users in metro Atlanta to have food delivered by drone. Besides working with DoorDash in select regions of Virginia, North Carolina and Texas, Wing, Alphabet's drone delivery subsidiary, also recently expanded its agreement to make deliveries for Walmart. Eligible customers near Tanger Outlets Locust Grove will be able to order food for drone delivery and receive it in "as little as 20 minutes," according to DoorDash. Orders are limited to a selection of restaurants including Molinos Mexican Grill, Koji Japanese Steakhouse and ...</description>
-    </item>
-    <item>
-      <title>AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict</title>
-      <link>https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/</link>
-      <pubDate>Wed, 08 Apr 2026 20:09:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3110560</guid>
-      <description>AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.</description>
-    </item>
-    <item>
-      <title>Test du Eureka FloorShine 460 : un aspirateur-laveur &#224; 200 euros</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/aspirateurs-balais-sans-fil/aspirateur-laveur/3044273_test-du-eureka-floorshine-460-un-aspirateur-laveur-a-200-euros</link>
-      <pubDate>Wed, 08 Apr 2026 19:57:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/aspirateurs-balais-sans-fil/aspirateur-laveur/3044273_test-du-eureka-floorshine-460-un-aspirateur-laveur-a-200-euros</guid>
-      <description>
-Ce petit Eureka fait tout le sale boulot pour 200 euros. C'est en tout cas la promesse du FloorShine 460. On l'a test&#233; pour v&#233;rifier cette belle promesse.
-</description>
-    </item>
-    <item>
-      <title>Amazon to end support for older Kindle devices</title>
-      <link>https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/</link>
-      <pubDate>Wed, 08 Apr 2026 19:56:16 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3110597</guid>
-      <description>Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.</description>
     </item>
   </channel>
 </rss>
