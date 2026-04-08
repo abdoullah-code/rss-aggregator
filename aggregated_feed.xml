@@ -3,227 +3,337 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 08 Apr 2026 09:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:02:18 GMT</lastBuildDate>
+    <item>
+      <title>Absolute Robin Is a Giant Goddamn Robot</title>
+      <link>https://gizmodo.com/absolute-batman-20-robin-reveal-cover-2000743667</link>
+      <pubDate>Wed, 08 Apr 2026 11:00:27 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000743667</guid>
+      <description>And actually, it's Absolute *Robins*, plural.</description>
+    </item>
+    <item>
+      <title>Continuous glucose monitoring made me continuously crazy</title>
+      <link>https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech</link>
+      <pubDate>2026-04-08T07:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=907359</guid>
+      <description>Daily life is different when you're tracking glucose. A little over a year ago, I was on my way to a conference. My bags were packed, the Uber was on its way, but there was one last thing to do before I could head to the airport. Tearing open a small isopropyl alcohol wipe, I [&#8230;]</description>
+    </item>
+    <item>
+      <title>What is an MVNO and why should I use one?</title>
+      <link>https://www.techradar.com/pro/what-is-an-mvno-and-why-should-i-use-one</link>
+      <pubDate>Wed, 08 Apr 2026 10:42:34 +0000</pubDate>
+      <guid isPermaLink="false">hdwt3PPvVc98nyy7UDdvuP</guid>
+      <description>We live in an always-on digital world where access to mobile connectivity is expected at all times.</description>
+    </item>
+    <item>
+      <title>YouTube Premium : cette nouvelle option va changer votre fa&#231;on de regarder des vid&#233;os (et vous faire gagner un temps fou)</title>
+      <link>https://www.frandroid.com/marques/google/3056851_youtube-premium-cette-nouvelle-option-va-changer-votre-facon-de-regarder-des-videos-et-vous-faire-gagner-un-temps-fou</link>
+      <pubDate>Wed, 08 Apr 2026 10:42:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3056851_youtube-premium-cette-nouvelle-option-va-changer-votre-facon-de-regarder-des-videos-et-vous-faire-gagner-un-temps-fou</guid>
+      <description>
+Deux nouvelles fonctionnalit&#233;s de lecture sont en cours de test aupr&#232;s des abonn&#233;s YouTube Premium : une option pour r&#233;gler automatiquement la vitesse de lecture et un nouveau mode bien pratique pour les contenus audio.
+</description>
+    </item>
+    <item>
+      <title>Get 'high-resolution picture quality and ultra-compact design' for cheap with 45% off the Blink Mini 2K+</title>
+      <link>https://www.techradar.com/home/home-security/get-high-resolution-picture-quality-and-ultra-compact-design-for-cheap-with-45-percent-off-the-blink-mini-2k</link>
+      <pubDate>Wed, 08 Apr 2026 10:41:42 +0000</pubDate>
+      <guid isPermaLink="false">r9dH228Ps9MAQszn9AMKHd</guid>
+      <description>The Blink Mini 2K+ is a great way to keep an eye on things while you're away from home &#8212; and it's on sale now at a bargain price.</description>
+    </item>
+    <item>
+      <title>Sur Amazon, les faux guides de jeux g&#233;n&#233;r&#233;s par IA se multiplient</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3056405_sur-amazon-les-faux-guides-de-jeux-generes-par-ia-se-multiplient</link>
+      <pubDate>Wed, 08 Apr 2026 10:40:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3056405_sur-amazon-les-faux-guides-de-jeux-generes-par-ia-se-multiplient</guid>
+      <description>
+Des arnaqueurs s&#8217;emparent de l&#8217;intelligence artificielle pour pi&#233;ger des joueurs en qu&#234;te d&#8217;aide. Leur combine&#160;? G&#233;n&#233;rer des guides erron&#233;s de jeux vendus &#224; prix d&#8217;or sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>I went hands-on with the Aqara Camera Hub G350: a powerful indoor security camera that's a wolf in rabbit&#8217;s clothing</title>
+      <link>https://www.techradar.com/home/home-security/aqara-camera-hub-g350-review</link>
+      <pubDate>Wed, 08 Apr 2026 10:38:08 +0000</pubDate>
+      <guid isPermaLink="false">8CmvBe8pfkga3wQEhG6Ayf</guid>
+      <description>With 360-degree pan and tilt, plus a dual-lens system, the G350 is ideal for tracking people and pets across the room.</description>
+    </item>
+    <item>
+      <title>Always-on AI Agents put everything hackers could ever want behind a single attack surface</title>
+      <link>https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface</link>
+      <pubDate>Wed, 08 Apr 2026 10:37:19 +0000</pubDate>
+      <guid isPermaLink="false">MKbzJeRmLCGQWguCD5MNZb</guid>
+      <description>As AI agents gain autonomy, security risks escalate without proper safeguards in place.</description>
+    </item>
+    <item>
+      <title>Elle charge plus vite que BYD et bat Porsche sur circuit : la Lynk &amp; Co 10 affole tous les compteurs</title>
+      <link>https://www.frandroid.com/marques/lynk-co/3056661_elle-charge-plus-vite-que-byd-et-bat-porsche-sur-circuit-la-lynk-co-10-affole-tous-les-compteurs</link>
+      <pubDate>Wed, 08 Apr 2026 10:37:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/lynk-co/3056661_elle-charge-plus-vite-que-byd-et-bat-porsche-sur-circuit-la-lynk-co-10-affole-tous-les-compteurs</guid>
+      <description>
+Lynk &amp; Co frappe fort avec ses nouvelles voitures &#233;lectriques. Les 10 et 10+ peuvent se recharger en moins de 5 minutes, avec une puissance de recharge plus rapide qu'un plein d'essence. Et encore plus rapide que chez BYD.
+</description>
+    </item>
+    <item>
+      <title>Malgr&#233; la hausse annonc&#233;e, il est encore possible d&#8217;acheter la PS5 Slim avec lecteur &#224; son ancien prix</title>
+      <link>https://www.frandroid.com/bons-plans/3056643_malgre-la-hausse-annoncee-il-est-encore-possible-dacheter-la-ps5-slim-avec-lecteur-a-son-ancien-prix</link>
+      <pubDate>Wed, 08 Apr 2026 10:35:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3056643_malgre-la-hausse-annoncee-il-est-encore-possible-dacheter-la-ps5-slim-avec-lecteur-a-son-ancien-prix</guid>
+      <description>
+La PlayStation 5 Slim est la version la plus fine et l&#233;g&#232;re de la console de Sony, &#224; retrouver &#224; son prix pr&#233;-hausse, c'est-&#224;-dire 549 euros au lieu de 649 euros, chez Amazon et Cdiscount.
+</description>
+    </item>
+    <item>
+      <title>This one accessory leveled up my PlayStation Portal and PS5 experience</title>
+      <link>https://www.techradar.com/gaming/this-one-accessory-leveled-up-my-playstation-portal-and-ps5-experience</link>
+      <pubDate>Wed, 08 Apr 2026 10:34:26 +0000</pubDate>
+      <guid isPermaLink="false">66XZHo25aWo2RSqHT9BVfm</guid>
+      <description>If you're looking to make the most of your PlayStation Portal, then consider this one accessory that I absolutely love.</description>
+    </item>
+    <item>
+      <title>Radeon RX 9070 XT : la flamb&#233;e du prix des GPUs maintenant tr&#232;s concr&#232;te chez ASUS</title>
+      <link>https://www.frandroid.com/marques/amd/3056411_radeon-rx-9070-xt-la-flambee-du-prix-des-gpus-maintenant-tres-concrete-chez-asus</link>
+      <pubDate>Wed, 08 Apr 2026 10:33:46 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/amd/3056411_radeon-rx-9070-xt-la-flambee-du-prix-des-gpus-maintenant-tres-concrete-chez-asus</guid>
+      <description>
+Fid&#232;le &#224; ses diverses d&#233;clarations, ASUS commence visiblement &#224; augmenter de mani&#232;re drastique le prix de ses cartes graphiques AMD Radeon RX 9070 XT aux &#201;tats-Unis. Les hausses enregistr&#233;es peuvent atteindre la barre des 17,5% sur certaines variantes.
+</description>
+    </item>
+    <item>
+      <title>Best Lightweight Hiking Boots (2026): La Sportiva, Salomon, Keen, and More</title>
+      <link>https://www.wired.com/gallery/best-lightweight-hiking-boots/</link>
+      <pubDate>Wed, 08 Apr 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">69d03909fc14fed237317617</guid>
+      <description>Each pair I tested weighs under 2 pounds. Whatever happens on your next adventure, your shoes won&#8217;t hold you back.</description>
+    </item>
+    <item>
+      <title>2 417 m&#232;tres carr&#233;s, 6 &#233;tages, immeuble fin XIXe&#8230; Revolut d&#233;voile son nouveau si&#232;ge parisien dans le quartier de la Bourse</title>
+      <link>https://www.frandroid.com/services/banque-en-ligne/3056733_2-417-metres-carres-6-etages-immeuble-fin-xixe-revolut-devoile-son-nouveau-siege-parisien-dans-le-quartier-de-la-bourse</link>
+      <pubDate>Wed, 08 Apr 2026 10:27:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3056733_2-417-metres-carres-6-etages-immeuble-fin-xixe-revolut-devoile-son-nouveau-siege-parisien-dans-le-quartier-de-la-bourse</guid>
+      <description>
+Quasiment un an apr&#232;s avoir annonc&#233; l'ouverture de son deuxi&#232;me si&#232;ge europ&#233;en &#224; Paris, la n&#233;obanque Revolut a enfin d&#233;voil&#233; son nouveau QG situ&#233; dans le c&#339;ur historique de la finance fran&#231;aise.
+</description>
+    </item>
+    <item>
+      <title>'The best skill that you can learn is learn to learn....don't assume that whatever you learned is now good for the next 40 years: AWS CEO says workers need to keep adapting to deal with AI</title>
+      <link>https://www.techradar.com/pro/the-best-skill-that-you-can-learn-is-learn-to-learn-dont-assume-that-whatever-you-learned-is-now-good-for-the-next-40-years-aws-ceo-says-workers-need-to-keep-adapting-to-deal-with-ai</link>
+      <pubDate>Wed, 08 Apr 2026 10:25:00 +0000</pubDate>
+      <guid isPermaLink="false">r2zYaXyAfqVhJAQYDjBJzE</guid>
+      <description>Asking if AI is overhyped is, 'one of the funnier questions I get', AWS CEO says.</description>
+    </item>
+    <item>
+      <title>When infrastructure decisions shape growth outcomes</title>
+      <link>https://www.techradar.com/pro/when-infrastructure-decisions-shape-growth-outcomes</link>
+      <pubDate>Wed, 08 Apr 2026 10:24:26 +0000</pubDate>
+      <guid isPermaLink="false">Qn9c6rWQZVUwmkrYQeEAKc</guid>
+      <description>IT infrastructure is no longer a background utility: it is a vital engine of growth, resilience and competitive advantage.</description>
+    </item>
+    <item>
+      <title>'This puts organizations at risk of credential theft, data manipulation and broader compromise': UK government, Microsoft warn Russian hackers are hitting TP-Link home routers to hijack internet traffic</title>
+      <link>https://www.techradar.com/pro/security/this-puts-organizations-at-risk-of-credential-theft-data-manipulation-and-broader-compromise-uk-government-microsoft-warn-russian-hackers-are-hitting-tp-link-home-routers-to-hijack-internet-traffic</link>
+      <pubDate>Wed, 08 Apr 2026 10:24:24 +0000</pubDate>
+      <guid isPermaLink="false">DrQv396EqDyQ7ZYLhMPfW</guid>
+      <description>SOHO endpoints are being used as gateways into corporate environments, where credentials and sensitive data gets harvested.</description>
+    </item>
+    <item>
+      <title>Une cyberattaque russe &#171;&#160;quasi invisible&#160;&#187; a pirat&#233; des milliers de routeurs dans le monde</title>
+      <link>https://www.01net.com/actualites/cyberattaque-russe-quasi-invisible-a-pirate-milliers-routeurs-monde.html</link>
+      <pubDate>Wed, 08 Apr 2026 10:22:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1337504</guid>
+      <description>Des hackers russes ont compromis des milliers de routeurs domestiques et de petites entreprises &#224; travers le monde depuis l'&#233;t&#233; dernier. La cyberattaque, orchestr&#233;e par les services de renseignement de la Russie, vise surtout &#224; voler des identifiants et &#224; intercepter des communications. Le FBI a lanc&#233; une op&#233;ration de d&#233;mant&#232;lement pour contrer les pirates....</description>
+    </item>
+    <item>
+      <title>&#171; Pourquoi payer toute l&#8217;ann&#233;e pour un usage ponctuel ? &#187; : Ubigi tacle Free Max</title>
+      <link>https://www.frandroid.com/marques/free/3056787_pourquoi-payer-toute-lannee-pour-un-usage-ponctuel-ubigi-tacle-free-max</link>
+      <pubDate>Wed, 08 Apr 2026 10:22:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/free/3056787_pourquoi-payer-toute-lannee-pour-un-usage-ponctuel-ubigi-tacle-free-max</guid>
+      <description>
+Vous avez sans doute vu passer l'offre Free Max &#224; 29,99 euros. C'est brillant sur le papier, mais les experts du r&#233;seau font grise mine. Ubigi vient de publier une mise au point muscl&#233;e : pour eux, l'illimit&#233; est un usage marginal qui occulte les vrais probl&#232;mes techniques.
+</description>
+    </item>
+    <item>
+      <title>Is this what playing on PS6 will be like? Cyberpunk 2077 finally has a dedicated PS5 Pro patch and it's the best looking console version to date</title>
+      <link>https://www.techradar.com/gaming/is-this-what-playing-on-ps6-will-be-like-cyberpunk-2077-finally-has-a-dedicated-ps5-pro-patch-and-its-the-best-looking-console-version-to-date</link>
+      <pubDate>Wed, 08 Apr 2026 10:22:23 +0000</pubDate>
+      <guid isPermaLink="false">D2d3Xso2exyhxVPSeNaEvk</guid>
+      <description>Developer CD Projekt Red has released a new PS5 Pro patch for Cyberpunk 2077.</description>
+    </item>
+    <item>
+      <title>Marre des touches mal plac&#233;es ? Voici comment remapper votre manette nativement sur Android 17</title>
+      <link>https://www.frandroid.com/marques/google/3056705_marre-des-touches-mal-placees-voici-comment-remapper-votre-manette-nativement-sur-android-17</link>
+      <pubDate>Wed, 08 Apr 2026 10:20:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3056705_marre-des-touches-mal-placees-voici-comment-remapper-votre-manette-nativement-sur-android-17</guid>
+      <description>
+Avec la Beta 2 d'Android 17, Google introduit une fonction de remappage natif des manettes. Accessible au niveau du syst&#232;me, cette option permet de modifier l'attribution des touches une fois pour toutes, quel que soit le titre lanc&#233;.
+</description>
+    </item>
+    <item>
+      <title>TikTok, sous pression en Europe, va construire un deuxi&#232;me centre de donn&#233;es en Finlande</title>
+      <link>https://www.01net.com/actualites/tiktok-sous-pression-en-europe-va-construire-un-deuxieme-centre-de-donnees-en-finlande.html</link>
+      <pubDate>Wed, 08 Apr 2026 10:19:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1337524</guid>
+      <description>Le r&#233;seau social, qui a &#233;t&#233; contraint de c&#233;der sa filiale am&#233;ricaine &#224; des fonds am&#233;ricains aux Etats-Unis, continue d'appliquer son plan Clover sur le Vieux continent. Ce projet est destin&#233; &#224; rassurer les Europ&#233;ens sur leurs craintes d'ing&#233;rence et de manipulation.</description>
+    </item>
+    <item>
+      <title>Un web plus rapide et non censur&#233; : Quad9 ajoute des options de chiffrement et le HTTP 3</title>
+      <link>https://www.frandroid.com/culture-tech/web/3056575_un-web-plus-rapide-et-non-censure-quad9-ajoute-des-options-de-chiffrement-et-le-http-3</link>
+      <pubDate>Wed, 08 Apr 2026 10:13:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/web/3056575_un-web-plus-rapide-et-non-censure-quad9-ajoute-des-options-de-chiffrement-et-le-http-3</guid>
+      <description>
+Une simple configuration de vos appareils peut changer le confort de votre navigation sur le web. Il s'agit du r&#233;glage du serveur DNS. Le suisse Quad9 se met &#224; jour avec une gestion du HTTP/3 et de QUIC.
+</description>
+    </item>
+    <item>
+      <title>How to pick a website template that complements your brand identity</title>
+      <link>https://www.techradar.com/pro/website-building/how-to-pick-a-website-template-that-complements-your-brand-identity</link>
+      <pubDate>Wed, 08 Apr 2026 10:11:13 +0000</pubDate>
+      <guid isPermaLink="false">47tg5Yo8RFHDDYNLG32LdD</guid>
+      <description>Learn how to select website templates that align with your brand identity and customize them effectively to create a unique online presence in 2026.</description>
+    </item>
+    <item>
+      <title>Geely vient de battre BYD avec une voiture &#233;lectrique capable de se recharger en moins de 5 minutes, la preuve en vid&#233;o</title>
+      <link>https://www.frandroid.com/marques/lynk-co/3056539_geely-vient-de-battre-byd-avec-une-voiture-electrique-capable-de-se-recharger-en-moins-de-5-minutes-la-preuve-en-video</link>
+      <pubDate>Wed, 08 Apr 2026 10:08:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/lynk-co/3056539_geely-vient-de-battre-byd-avec-une-voiture-electrique-capable-de-se-recharger-en-moins-de-5-minutes-la-preuve-en-video</guid>
+      <description>
+BYD vient &#224; peine de lancer sa technologie Flash Charging, permettant de recharger une voiture &#233;lectrique de 10 &#224; 97 % en 9 minutes, que Geely annonce avoir battu ce chiffre exceptionnel... et le prouve dans une vid&#233;o, o&#249; une Lynk &amp; Co 10 effectue la recharge en 8 minutes et 42 secondes.
+</description>
+    </item>
+    <item>
+      <title>Comment v&#233;rifier la couverture fibre et ADSL avant un d&#233;m&#233;nagement pour bien choisir votre box internet</title>
+      <link>https://www.frandroid.com/telecom/2959579_comment-verifier-la-couverture-fibre-et-adsl-avant-un-demenagement-pour-bien-choisir-votre-box-internet</link>
+      <pubDate>Wed, 08 Apr 2026 10:03:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/telecom/2959579_comment-verifier-la-couverture-fibre-et-adsl-avant-un-demenagement-pour-bien-choisir-votre-box-internet</guid>
+      <description>
+L'agent immobilier vous a jur&#233; que "la fibre est dans la rue". Vous voulez la v&#233;rit&#233; ? Cela ne veut absolument rien dire pour votre salon. Entre les bases de donn&#233;es p&#233;rim&#233;es et les raccordements complexes, v&#233;rifier son &#233;ligibilit&#233; est devenu un sport de combat qu'on va vous vous aider &#224; gagner.
+</description>
+    </item>
+    <item>
+      <title>Free r&#233;clame plus de 2 milliards d&#8217;euros &#224; Orange et Bouygues Telecom</title>
+      <link>https://www.01net.com/actualites/free-reclame-plus-2-milliards-euros-orange-bouygues-telecom.html</link>
+      <pubDate>Wed, 08 Apr 2026 10:01:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1337501</guid>
+      <description>Free estime qu&#8217;Orange et Bouygues Telecom trompent leurs clients en proposant des smartphones subventionn&#233;s qui int&#232;grent des cr&#233;dits cach&#233;s. Au total, l&#8217;op&#233;rateur dirig&#233; par Xavier Niel r&#233;clame pas moins de 2,43 milliards d&#8217;euros &#224; ses deux concurrents.</description>
+    </item>
+    <item>
+      <title>Fender ELIE 6 Bluetooth Speaker Review: Big Sound, App on the Way</title>
+      <link>https://www.wired.com/review/fender-elie-6/</link>
+      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69cff14ce68a9cc1c17f6ff7</guid>
+      <description>Fender&#8217;s ELIE 6 is equal parts Bluetooth speaker and guitar amp, but it&#8217;s missing a killer app.</description>
+    </item>
+    <item>
+      <title>8 Best Cheap Laptops (2026): Chromebooks, the MacBook Neo, and More</title>
+      <link>https://www.wired.com/gallery/best-cheap-laptops/</link>
+      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5de936dc64c9e80008125a88</guid>
+      <description>From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks, these are the best budget laptops we&#8217;ve tested.</description>
+    </item>
+    <item>
+      <title>Finie la carte graphique s&#233;par&#233;e ? Intel et Nvidia pr&#233;parent une puce historique pour 2028</title>
+      <link>https://www.frandroid.com/marques/intel/3056665_finie-la-carte-graphique-separee-intel-et-nvidia-preparent-une-puce-historique-pour-2028</link>
+      <pubDate>Wed, 08 Apr 2026 09:54:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/intel/3056665_finie-la-carte-graphique-separee-intel-et-nvidia-preparent-une-puce-historique-pour-2028</guid>
+      <description>
+Selon des rumeurs pressantes, c'est l'architecture Serpent Lake d'Intel qui sera la premi&#232;re &#224; exploiter un GPU RTX de chez Nvidia. Celle-ci ne serait pas pr&#233;vue avant 2028 au plus t&#244;t.
+</description>
+    </item>
+    <item>
+      <title>'A new frontier model trained by Anthropic that we believe could reshape cybersecurity': Project Glasswing wants to use AI to prevent AI cyberattacks &#8212; but will 'overeager' Claude Mythos do more damage than help?</title>
+      <link>https://www.techradar.com/pro/security/a-new-frontier-model-trained-by-anthropic-that-we-believe-could-reshape-cybersecurity-project-glasswing-wants-to-use-ai-to-prevent-ai-cyberattacks-but-will-overeager-claude-mythos-do-more-damage-than-help</link>
+      <pubDate>Wed, 08 Apr 2026 09:38:20 +0000</pubDate>
+      <guid isPermaLink="false">A89Mon4ZXJeQFtt8BZVA5L</guid>
+      <description>Anthropic and a number of other companies reveal Project Glasswing - which is so powerful, it won't be released publicly.</description>
+    </item>
+    <item>
+      <title>Le Xiaomi Smart Band 10 avec les Xiaomi Buds 6 Play offerts : le duo &#224; moins de 40 &#8364; qui cartonne</title>
+      <link>https://www.frandroid.com/bons-plans/3056111_le-xiaomi-smart-band-10-avec-les-xiaomi-buds-6-play-offerts-le-duo-a-moins-de-40-e-qui-cartonne</link>
+      <pubDate>Wed, 08 Apr 2026 09:37:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3056111_le-xiaomi-smart-band-10-avec-les-xiaomi-buds-6-play-offerts-le-duo-a-moins-de-40-e-qui-cartonne</guid>
+      <description>
+Le Xiaomi Smart Band 10 est un bracelet connect&#233; con&#231;u pour le sport &#224; retrouver pour 39,99 euros au lieu de 50,99 euros. Avec en cadeau un bracelet d'une couleur au choix et des &#233;couteurs Redmi Buds 6 Play.
+</description>
+    </item>
+    <item>
+      <title>ICE Reportedly Acknowledges Its Use of Notorious Graphite Spyware</title>
+      <link>https://gizmodo.com/ice-reportedly-acknowledges-its-use-of-notorious-graphite-spyware-2000743784</link>
+      <pubDate>Wed, 08 Apr 2026 09:30:29 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000743784</guid>
+      <description>The Trump Administration claims its use of advanced spyware is "in response to the unprecedented lethality of fentanyl."</description>
+    </item>
+    <item>
+      <title>Mise &#224; jour de Google Maps&#160;: 3 nouveaut&#233;s d&#233;barquent, dont un nouveau profil &#171;&#160;dor&#233;&#160;&#187; tr&#232;s sp&#233;cial</title>
+      <link>https://www.01net.com/actualites/mise-a-jour-google-maps-3-nouveautes-debarquent-dont-nouveau-profil-dore-tres-special.html</link>
+      <pubDate>Wed, 08 Apr 2026 09:24:43 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1337489</guid>
+      <description>Google Maps pr&#233;sente trois nouveaut&#233;s importantes pour les contributeurs : l'int&#233;gration de Gemini pour r&#233;diger des avis, un acc&#232;s rapide &#224; vos photos et vid&#233;os r&#233;centes, ainsi qu&#8217;une refonte des profils.</description>
+    </item>
+    <item>
+      <title>Why Microsoft&#8217;s war on Windows&#8217; Control Panel is taking so long</title>
+      <link>https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation</link>
+      <pubDate>2026-04-08T05:23:58-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=908624</guid>
+      <description>Microsoft first started trying to get rid of the Control Panel in 2012, with the launch of Windows 8. More than a decade later, it's still working on migrating all the old Control Panel items into the modern Settings app in Windows 11. While there have been hints that the Control Panel might finally go [&#8230;]</description>
+    </item>
+    <item>
+      <title>Ce smartphone a trich&#233; dans les benchmarks, il est &#233;vinc&#233; de 3DMark</title>
+      <link>https://www.frandroid.com/marques/redmagic/3056253_ce-smartphone-a-triche-dans-les-benchmarks-il-est-evince-de-3dmark</link>
+      <pubDate>Wed, 08 Apr 2026 09:20:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/redmagic/3056253_ce-smartphone-a-triche-dans-les-benchmarks-il-est-evince-de-3dmark</guid>
+      <description>
+Les RedMagic 11 Pro ont &#233;t&#233; retir&#233;s des listes de 3DMark. En cause, la marque aurait trich&#233; pour gonfler ses scores.
+</description>
+    </item>
+    <item>
+      <title>Google Chrome now has vertical tabs, and you should give them a try</title>
+      <link>https://mashable.com/article/google-chrome-vertical-tabs</link>
+      <pubDate>Wed, 08 Apr 2026 09:18:43 +0000</pubDate>
+      <guid isPermaLink="false">00pcKIbcu8oG7wireZh4mxm</guid>
+      <description>Google has added vertical tabs to Chrome, and reading mode has also been improved.</description>
+    </item>
+    <item>
+      <title>'They lack the tools to help themselves': IT teams complain minor issues are stopping them from addressing the big problems</title>
+      <link>https://www.techradar.com/pro/they-lack-the-tools-to-help-themselves-it-teams-complain-minor-issues-are-stopping-them-from-addressing-the-big-problems</link>
+      <pubDate>Wed, 08 Apr 2026 09:16:38 +0000</pubDate>
+      <guid isPermaLink="false">wkfK666KR5iSBBFkcNpvf6</guid>
+      <description>Employees are troubling IT workers with minor issues, but IT teams are lacking the tools and resources to focus on bigger issues.</description>
+    </item>
+    <item>
+      <title>Concurrent de Bambu Lab : Mova a lanc&#233; une imprimante 3D avec jusqu&#8217;&#224; 36 couleurs et changement de buses automatique</title>
+      <link>https://www.frandroid.com/marques/mova/2926513_concurrent-de-bambu-lab-mova-a-lance-une-imprimante-3d-avec-jusqua-36-couleurs-et-changement-de-buses-automatique</link>
+      <pubDate>Wed, 08 Apr 2026 09:15:46 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/mova/2926513_concurrent-de-bambu-lab-mova-a-lance-une-imprimante-3d-avec-jusqua-36-couleurs-et-changement-de-buses-automatique</guid>
+      <description>
+On savait que Mova voulait conqu&#233;rir la maison, mais on ne les attendait pas l&#224;. La marque vient de d&#233;voiler la Palette 300, une imprimante 3D qui s'attaque frontalement au roi du secteur : Bambu Lab. Et ils n'arrivent pas les mains vides : leur syst&#232;me de gestion des couleurs pourrait bien renvoyer l'AMS au vestiaire.
+</description>
+    </item>
+    <item>
+      <title>Regularly $300, you can now get a Nintendo Switch bundle for $200 if you act fast</title>
+      <link>https://mashable.com/article/april-8-nintendo-switch-handheld-gaming-console-bundle-refurbished</link>
+      <pubDate>Wed, 08 Apr 2026 09:15:39 +0000</pubDate>
+      <guid isPermaLink="false">06EhQSjJGwXFNCa77wEpUND</guid>
+      <description>Get your gaming on anywhere with this Nintendo Switch bundle.</description>
+    </item>
+    <item>
+      <title>How to write AI website builder prompts like a high-end design agency</title>
+      <link>https://www.techradar.com/pro/website-building/how-to-write-ai-website-builder-prompts-like-a-high-end-design-agency</link>
+      <pubDate>Wed, 08 Apr 2026 09:11:02 +0000</pubDate>
+      <guid isPermaLink="false">z7LUUj7fN4B5PVpNNuPEWh</guid>
+      <description>Learn how to craft AI website builder prompts that produce professional, agency-quality designs by studying elite inspiration sources and mastering effective prompting techniques.</description>
+    </item>
+    <item>
+      <title>Bring your AI workflow back to efficiency with this all-in-one tool</title>
+      <link>https://mashable.com/article/april-8-chaton-ai-assistant-premium-plan-3-year-subscription</link>
+      <pubDate>Wed, 08 Apr 2026 09:04:00 +0000</pubDate>
+      <guid isPermaLink="false">01bl8BGwhHl98SIwgiMH53u</guid>
+      <description>Get 3 years of ChatOn AI Assistant for $59.50 and access multiple AI models, tools, and workflows in one streamlined app.</description>
+    </item>
     <item>
       <title>Google Chrome active les onglets verticaux et lance un nouveau mode lecture</title>
       <link>https://www.01net.com/actualites/google-chrome-active-les-onglets-verticaux-et-lance-un-nouveau-mode-lecture.html</link>
       <pubDate>Wed, 08 Apr 2026 09:03:52 +0000</pubDate>
       <guid isPermaLink="false">https://www.01net.com/?p=1337510</guid>
       <description>Apr&#232;s plusieurs mois de tests, les onglets verticaux sont officiellement d&#233;ploy&#233;s et activ&#233;s dans la derni&#232;re mise &#224; jour de Google Chrome. Le navigateur Web de Google introduit &#233;galement un nouveau mode lecture immersif.</description>
-    </item>
-    <item>
-      <title>Le MacBook Neo se vend trop bien, Apple pourrait prendre une d&#233;cision radicale</title>
-      <link>https://www.01net.com/actualites/macbook-neo-penurie-puces-apple-dilemme.html</link>
-      <pubDate>Wed, 08 Apr 2026 09:02:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1337485</guid>
-      <description>Le Mac le moins cher de l'histoire est victime de son propre succ&#232;s. Apple n'a bient&#244;t plus de processeurs pour le fabriquer, et chaque solution co&#251;te une fortune.</description>
-    </item>
-    <item>
-      <title>Intel Jumps On Board Elon Musk&#8217;s Terafab Chipmaking Project</title>
-      <link>https://gizmodo.com/intel-jumps-on-board-elon-musks-terafab-chipmaking-project-2000743752</link>
-      <pubDate>Wed, 08 Apr 2026 09:00:58 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000743752</guid>
-      <description>The SpaceX-Tesla chip project central to Elon Musks robot and space catapult dreams now has Intel as a partner.</description>
-    </item>
-    <item>
-      <title>Intel Panther Lake et Snapdragon X2 : pourquoi les PC sont introuvables ? Le boulevard est ouvert pour Apple</title>
-      <link>https://www.frandroid.com/produits-android/ordinateurs/pc-portables/3056383_intel-panther-lake-et-snapdragon-x2-pourquoi-les-pc-sont-introuvables-le-boulevard-est-ouvert-pour-apple</link>
-      <pubDate>Wed, 08 Apr 2026 08:59:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/pc-portables/3056383_intel-panther-lake-et-snapdragon-x2-pourquoi-les-pc-sont-introuvables-le-boulevard-est-ouvert-pour-apple</guid>
-      <description>
-Les tests des puces Panther Lake et Snapdragon X2 sont partout, et ils sont bons. Mais essayez donc d'en acheter un. Entre les rendements capricieux d'Intel et une m&#233;moire vive qui flambe, le march&#233; du PC s'enfonce dans un lancement fant&#244;me qui profite &#224; un seul acteur : Apple.
-</description>
-    </item>
-    <item>
-      <title>Why 800VDC is the emergent electrical backbone of next-generation data centers</title>
-      <link>https://www.techradar.com/pro/why-800vdc-is-the-emergent-electrical-backbone-of-next-generation-data-centers</link>
-      <pubDate>Wed, 08 Apr 2026 08:59:11 +0000</pubDate>
-      <guid isPermaLink="false">etgqZECzgiZ7XXb4CB5b3M</guid>
-      <description>As AI-driven data centers outgrow AC power, 800VDC boosts efficiency, scalability, and cuts costs significantly.</description>
-    </item>
-    <item>
-      <title>Why Agentic AI demands business process re-engineering</title>
-      <link>https://www.techradar.com/pro/why-agentic-ai-demands-business-process-re-engineering</link>
-      <pubDate>Wed, 08 Apr 2026 08:58:09 +0000</pubDate>
-      <guid isPermaLink="false">6Cj9tuq4YsCDNPCAsNoQrB</guid>
-      <description>The real challenge with agentic AI isn&#8217;t technology, but organizational readiness and business process change.</description>
-    </item>
-    <item>
-      <title>Le symbole est fort : Tesla remplace les pompes &#224; essence d&#8217;une station-service pour y installer ses bornes de recharge</title>
-      <link>https://www.frandroid.com/marques/tesla/3056251_le-symbole-est-fort-tesla-remplace-les-pompes-a-essence-dune-station-service-pour-y-installer-ses-bornes-de-recharge</link>
-      <pubDate>Wed, 08 Apr 2026 08:57:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3056251_le-symbole-est-fort-tesla-remplace-les-pompes-a-essence-dune-station-service-pour-y-installer-ses-bornes-de-recharge</guid>
-      <description>
-Tesla passe un nouveau cap sur la recharge de ses voitures &#233;lectriques. Le constructeur am&#233;ricain transforme pour la premi&#232;re fois une station-service classique en aire pour ses Superchargeurs en Cor&#233;e du Sud.
-</description>
-    </item>
-    <item>
-      <title>Consommation record et 615 km d&#8217;autonomie : le Rivian R2 donne une le&#231;on au Tesla Model Y Performance</title>
-      <link>https://www.frandroid.com/marques/rivian/3056381_consommation-record-et-615-km-dautonomie-le-rivian-r2-donne-une-lecon-au-tesla-model-y-performance</link>
-      <pubDate>Wed, 08 Apr 2026 08:57:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/rivian/3056381_consommation-record-et-615-km-dautonomie-le-rivian-r2-donne-une-lecon-au-tesla-model-y-performance</guid>
-      <description>
-Le Rivian R2 &#233;lectrique, nouveau concurrent du Tesla Model Y, laisse &#233;chapper quelques informations int&#233;ressantes &#224; propos de sa batterie, de son autonomie et de sa consommation. Avant son arriv&#233;e en Europe (en &#233;tant patient).
-</description>
-    </item>
-    <item>
-      <title>I tested the Bissell CrossWave HydroScrub, and this wireless all-in-one might be the only floor cleaner your home needs</title>
-      <link>https://www.techradar.com/home/vacuums/bissell-crosswave-hydroscrub-review</link>
-      <pubDate>Wed, 08 Apr 2026 08:54:31 +0000</pubDate>
-      <guid isPermaLink="false">4pZ8JXD2fpTrdiuFwsjVWi</guid>
-      <description>This wireless wet and dry cleaner makes light work of pet hair and general dirt, and runs for up to 45 minutes on a single charge.</description>
-    </item>
-    <item>
-      <title>Pourquoi le MacBook Neo 2 corrigerait automatiquement la plus grosse lacune de son pr&#233;d&#233;cesseur</title>
-      <link>https://www.frandroid.com/marques/apple/3056219_pourquoi-le-macbook-neo-2-corrigerait-automatiquement-la-plus-grosse-lacune-de-son-predecesseur</link>
-      <pubDate>Wed, 08 Apr 2026 08:52:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3056219_pourquoi-le-macbook-neo-2-corrigerait-automatiquement-la-plus-grosse-lacune-de-son-predecesseur</guid>
-      <description>
-Les premi&#232;res fuites concernant le MacBook Neo de seconde g&#233;n&#233;ration sugg&#232;rent que l'appareil passerait &#224; une puce A19 Pro d'iPhone 17 Pro. Ce changement de SoC irait de pair avec une capacit&#233; de m&#233;moire vive nettement accrue.
-</description>
-    </item>
-    <item>
-      <title>Pourquoi laisser son Mac allum&#233; plus de 50 jours est une tr&#232;s mauvaise id&#233;e</title>
-      <link>https://www.frandroid.com/marques/apple/3056407_pourquoi-laisser-son-mac-allume-plus-de-50-jours-est-une-tres-mauvaise-idee</link>
-      <pubDate>Wed, 08 Apr 2026 08:49:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3056407_pourquoi-laisser-son-mac-allume-plus-de-50-jours-est-une-tres-mauvaise-idee</guid>
-      <description>
-Un bug &#233;trange de macOS emp&#234;che toute machine de rester allum&#233;e plus de 50 jours, sans quoi elle perd sa connexion r&#233;seau. Une &#233;quipe de d&#233;veloppeurs en a cependant trouv&#233; l'origine et le coupable : le noyau de macOS.
-</description>
-    </item>
-    <item>
-      <title>Xiaomi brade &#224; un super prix son TV Mini-LED g&#233;ant de 75 pouces (avec HDMI 2.1)</title>
-      <link>https://www.frandroid.com/bons-plans/2766823_amazon-solde-a-un-super-prix-le-geant-tv-mini-led-75-pouces-avec-hdmi-2-1-de-xiaomi</link>
-      <pubDate>Wed, 08 Apr 2026 08:42:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2766823_amazon-solde-a-un-super-prix-le-geant-tv-mini-led-75-pouces-avec-hdmi-2-1-de-xiaomi</guid>
-      <description>
-Annonc&#233; fin 2024, le Xiaomi TV S Mini LED 75 est un t&#233;l&#233;viseur complet qui cumule les atouts : dalle 4K Mini LED, ports HDMI 2.1, support d'un taux de rafra&#238;chissement de 144 Hz... Et pourtant, son prix est assez contenu : 799 euros au lieu de 1 099 euros.
-</description>
-    </item>
-    <item>
-      <title>Avis RED by SFR (2026) : les forfaits mobile et fibre de l&#8217;op&#233;rateur low-cost de SFR valent-ils le coup ?</title>
-      <link>https://www.frandroid.com/services/operateurs-mobiles/696894_avis-red-by-sfr-que-valent-les-offres-et-le-reseau-sfr</link>
-      <pubDate>Wed, 08 Apr 2026 08:40:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/operateurs-mobiles/696894_avis-red-by-sfr-que-valent-les-offres-et-le-reseau-sfr</guid>
-      <description>
-RED by SFR est l'une des trois marques low-cost et sans engagement qui ont vu le jour pour concurrencer les prix cass&#233;s de Free Mobile. Toujours fid&#232;le &#224; son ADN, RED propose des offres internet et mobile &#224; prix cass&#233;, mais valent-elles encore le coup en 2026 ?
-</description>
-    </item>
-    <item>
-      <title>Quelles sont les meilleures tablettes tactiles pas ch&#232;res en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-tablettes/1311703_quelles-sont-les-meilleures-tablettes-pas-cheres</link>
-      <pubDate>Wed, 08 Apr 2026 08:35:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-tablettes/1311703_quelles-sont-les-meilleures-tablettes-pas-cheres</guid>
-      <description>
-Les tablettes, bien que moins &#224; la mode qu'&#224; une &#233;poque, font toujours partie du march&#233; de la tech. D&#233;couvrez nos recommandations des meilleures tablettes pas ch&#232;res disponibles test&#233;es.
-</description>
-    </item>
-    <item>
-      <title>Suunto frappe fort : une mise &#224; jour majeure transforme ses montres de sport</title>
-      <link>https://www.frandroid.com/marques/suunto/3056231_suunto-frappe-fort-une-mise-a-jour-majeure-transforme-ses-montres-de-sport</link>
-      <pubDate>Wed, 08 Apr 2026 08:34:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/suunto/3056231_suunto-frappe-fort-une-mise-a-jour-majeure-transforme-ses-montres-de-sport</guid>
-      <description>
-Suunto booste ses montres de sport avec une mise &#224; jour majeure incluant le partage de fr&#233;quence cardiaque et le support des radars Garmin Varia. Ces nouveaut&#233;s concernent la plupart des mod&#232;les r&#233;cents.
-</description>
-    </item>
-    <item>
-      <title>Adieu Tesla&#160;: Stellantis choisit un nouveau partenaire chinois pour &#233;viter les amendes CO&#8322;</title>
-      <link>https://www.01net.com/actualites/adieu-tesla-stellantis-choisit-partenaire-chinois-pour-eviter-amendes-co2.html</link>
-      <pubDate>Wed, 08 Apr 2026 08:30:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1337415</guid>
-      <description>Termin&#233; le deal avec Tesla pour racheter les cr&#233;dits&#160;CO&#8322;. Stellantis va d&#233;sormais acheter des cr&#233;dits carbone &#224; son partenaire chinois Leapmotor. De quoi relancer une dynamique vertueuse au sein du groupe.</description>
-    </item>
-    <item>
-      <title>Merdification de YouTube : Google pousse des publicit&#233;s obligatoires de 1 minute 30</title>
-      <link>https://www.frandroid.com/marques/google/3056157_merdification-de-youtube-google-pousse-des-publicites-obligatoires-de-1-minute-30</link>
-      <pubDate>Wed, 08 Apr 2026 08:27:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3056157_merdification-de-youtube-google-pousse-des-publicites-obligatoires-de-1-minute-30</guid>
-      <description>
-Plusieurs internautes ont remarqu&#233; un affichage obligatoire de publicit&#233;s d'une minute et 30 secondes sur YouTube, sans possibilit&#233; de passer la pub. Un petit enfer pour pousser &#224; l'abonnement &#224; YouTube Premium.
-</description>
-    </item>
-    <item>
-      <title>Pour Amazon, ces Kindle sont trop vieux, il sera bient&#244;t impossible d&#8217;y ajouter de nouveaux livres</title>
-      <link>https://www.01net.com/actualites/pour-amazon-ces-kindle-sont-trop-vieux-il-sera-bientot-impossible-dy-ajouter-de-nouveaux-livres.html</link>
-      <pubDate>Wed, 08 Apr 2026 08:21:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1337500</guid>
-      <description>Amazon vient d&#8217;annoncer la fin du support des Kindle sortis en 2012 ou avant. Ces appareils ne pourront plus accueillir de nouveaux livres et pourraient m&#234;me dans certains cas, devenir inutilisables.</description>
-    </item>
-    <item>
-      <title>Le Volkswagen Touareg pourrait revenir sous la forme d&#8217;une immense voiture &#233;lectrique : voici ce qu&#8217;on sait</title>
-      <link>https://www.frandroid.com/marques/volkswagen/3056029_le-volkswagen-touareg-pourrait-revenir-sous-la-forme-dune-immense-voiture-electrique-voici-ce-quon-sait</link>
-      <pubDate>Wed, 08 Apr 2026 08:20:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3056029_le-volkswagen-touareg-pourrait-revenir-sous-la-forme-dune-immense-voiture-electrique-voici-ce-quon-sait</guid>
-      <description>
-Alors que le Volkswagen Touareg quittera bient&#244;t le catalogue, le constructeur ne veut pas laisser de vide dans la gamme. Et il pr&#233;voit une nouvelle voiture &#233;lectrique afin de remplacer le SUV familial.
-</description>
-    </item>
-    <item>
-      <title>C&#8217;est la 5&#232;me baisse cons&#233;cutive : le v&#233;lo d&#233;visse s&#233;v&#232;rement chez ce voisin europ&#233;en, y compris l&#8217;&#233;lectrique</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3056265_cest-la-5eme-baisse-consecutive-le-velo-devisse-severement-chez-ce-voisin-europeen-y-compris-lelectrique</link>
-      <pubDate>Wed, 08 Apr 2026 08:19:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3056265_cest-la-5eme-baisse-consecutive-le-velo-devisse-severement-chez-ce-voisin-europeen-y-compris-lelectrique</guid>
-      <description>
-En 2025, le march&#233; suisse du v&#233;lo enregistre son cinqui&#232;me recul annuel cons&#233;cutif, marqu&#233; par une baisse de 14 % des ventes de mod&#232;les &#233;lectriques malgr&#233; la forte progression du segment gravel.
-</description>
-    </item>
-    <item>
-      <title>Les Pixel de Google re&#231;oivent leur mise &#224; jour d&#8217;avril avec des correctifs de s&#233;curit&#233; importants</title>
-      <link>https://www.frandroid.com/marques/google/3056147_les-pixel-de-google-recoivent-leur-mise-a-jour-davril-avec-des-correctifs-de-securite-importants</link>
-      <pubDate>Wed, 08 Apr 2026 08:11:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3056147_les-pixel-de-google-recoivent-leur-mise-a-jour-davril-avec-des-correctifs-de-securite-importants</guid>
-      <description>
-Apr&#232;s une mise &#224; jour de mars pleine de nouveaut&#233;s, voil&#224; que Google ralentit un peu le rythme avec l'image syst&#232;me d&#8217;avril destin&#233;e &#224; ses t&#233;l&#233;phones Pixel. Cependant, des correctifs de s&#233;curit&#233; importants sont tout de m&#234;me pr&#233;sents.
-</description>
-    </item>
-    <item>
-      <title>Microsoft s&#8217;attaque &#224; la fin d&#233;finitive du Panneau de configuration de Windows 11</title>
-      <link>https://www.frandroid.com/os/windows/3054811_windows-11-microsoft-sattaque-enfin-au-grand-bazar-de-son-interface-avec-la-mise-a-jour-davril-2026</link>
-      <pubDate>Wed, 08 Apr 2026 08:04:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/os/windows/3054811_windows-11-microsoft-sattaque-enfin-au-grand-bazar-de-son-interface-avec-la-mise-a-jour-davril-2026</guid>
-      <description>
-Trente ans apr&#232;s les moqueries acerbes de Steve Jobs sur le manque de go&#251;t flagrant de Microsoft, la firme de Redmond semble enfin piqu&#233;e au vif. Une vaste refonte esth&#233;tique de Windows 11 est actuellement dans les tuyaux pour ce mois d'avril, avec pour cible prioritaire la tr&#232;s chaotique application Param&#232;tres.
-</description>
-    </item>
-    <item>
-      <title>How to spot toxic people and take back control</title>
-      <link>https://www.fastcompany.com/91520084/how-to-spot-toxic-people-and-take-back-control</link>
-      <pubDate>2026-04-08T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91520084/how-to-spot-toxic-people-and-take-back-control</guid>
-      <description>These are the people who tend to backstab us at work, troll us online, and treat us abusively in our romantic relationships.
-Below, Leanne ten Brinke shares five key insights from her new book,&#160;Poisonous People: How to Resist Them and Improve Your Life.</description>
-    </item>
-    <item>
-      <title>MAGA Has an Architecture Problem</title>
-      <link>https://www.fastcompany.com/91523030/maga-has-an-architecture-problem</link>
-      <pubDate>2026-04-08T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91523030/maga-has-an-architecture-problem</guid>
-      <description>The National Capital Planning Commission has voted to approve President Donald Trump&#8217;s controversial White House ballroom plans, greenlighting the demolition of the historic East Wing to make way for a new neoclassical structure.&#160; But the ballroom is just one piece of a much bigger picture. Last year, the president signed an executive order mandating that [&#8230;]
-The National Capital Planning Commission has voted to approve President Donald Trump&#8217;s controversial White House ballroom plans, greenlighting the demolition of the historic East Wing to make way for a new neoclassical structure.&#160;...</description>
-    </item>
-    <item>
-      <title>L&#8217;iPhone 17 Pro Max est enfin de retour en stock sur Amazon, en plus avec une remise de 100 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3031291_liphone-17-pro-max-est-enfin-de-retour-en-stock-sur-amazon-en-plus-avec-une-remise-de-100-euros</link>
-      <pubDate>Wed, 08 Apr 2026 07:56:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3031291_liphone-17-pro-max-est-enfin-de-retour-en-stock-sur-amazon-en-plus-avec-une-remise-de-100-euros</guid>
-      <description>
-L'iPhone 17 Pro Max est de retour en promotion : Amazon le propose &#224; 1 379 euros dans sa version 256 Go, au lieu de 1 479 euros. Il &#233;tait r&#233;c&#233;mment temporairement en rupture de stock, mais cela semble &#234;tre maintenant de l'histoire ancienne.
-</description>
-    </item>
-    <item>
-      <title>Une fuite de donn&#233;es frappe KFC France, les informations des clients ont &#233;t&#233; compromises</title>
-      <link>https://www.01net.com/actualites/fuite-donnees-frappe-kfc-france-informations-clients-compromises.html</link>
-      <pubDate>Wed, 08 Apr 2026 07:54:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1337484</guid>
-      <description>Les amateurs de poulet frit sont dans le viseur des hackers. KFC France vient d'&#234;tre victime d'un piratage, qui s'est sold&#233; par une fuite de donn&#233;es personnelles.</description>
-    </item>
-    <item>
-      <title>'Costs go up by &#163;20 per month': Check your broadband contract now to beat the &#163;1bn April hike</title>
-      <link>https://www.techradar.com/pro/costs-go-up-by-gbp20-per-month-check-your-broadband-contract-now-to-beat-the-gbp1bn-april-hike</link>
-      <pubDate>Wed, 08 Apr 2026 07:44:38 +0000</pubDate>
-      <guid isPermaLink="false">FEj7CwxqcV2YxeUUHKcN7T</guid>
-      <description>Millions overpay on out-of-contract broadband as April price hikes loom, with some facing &#163;50 monthly jumps for doing nothing.</description>
     </item>
   </channel>
 </rss>
