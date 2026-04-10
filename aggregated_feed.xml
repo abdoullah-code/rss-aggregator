@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 10 Apr 2026 21:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:42:03 GMT</lastBuildDate>
+    <item>
+      <title>AI agent credentials live in the same box as untrusted code. Two new architectures show where the blast radius actually stops.</title>
+      <link>https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw</link>
+      <pubDate>Fri, 10 Apr 2026 22:26:53 GMT</pubDate>
+      <guid isPermaLink="false">20HlmDVeOH0foEOboDiQiE</guid>
+      <description>Four separate RSAC 2026 keynotes arrived at the same conclusion without coordinating. Microsoft's Vasu Jakkal told attendees that zero trust must extend to AI. Cisco's Jeetu Patel called for a shift from access control to action control, saying in an exclusive interview with VentureBeat that agents behave "more like teenagers, supremely intelligent, but with no fear of consequence." CrowdStrike's George Kurtz identified AI governance as the biggest gap in enterprise technology. Splunk's John Morgan called for an agentic trust and governance model. Four companies. Four stages. One problem.Matt ...</description>
+    </item>
+    <item>
+      <title>It Sure Looks Like This Is the End for the Current Era of &#8216;Star Trek&#8217;</title>
+      <link>https://gizmodo.com/star-trek-strange-new-worlds-sets-torn-down-paramount-2000745184</link>
+      <pubDate>Fri, 10 Apr 2026 22:15:58 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745184</guid>
+      <description>You can't get much more final than literally tearing down the sets for 'Strange New Worlds' and 'Starfleet Academy.'</description>
+    </item>
+    <item>
+      <title>Microsoft hands Linux Foundation key Surface data to help fix laptop battery life</title>
+      <link>https://www.techradar.com/pro/microsoft-hands-linux-foundation-key-surface-data-to-help-fix-laptop-battery-life</link>
+      <pubDate>Fri, 10 Apr 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">JBTamJSSB7aXf2Rdizb67X</guid>
+      <description>Microsoft releases standardized battery dataset through Linux Foundation to address fragmented testing practices and enable consistent analysis of lithium-ion performance data</description>
+    </item>
+    <item>
+      <title>Intuit compressed months of tax code implementation into hours &#8212; and built a workflow any regulated-industry team can adapt</title>
+      <link>https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a</link>
+      <pubDate>Fri, 10 Apr 2026 22:09:14 GMT</pubDate>
+      <guid isPermaLink="false">5uV2DLvz7YtlRiLwgWoGEL</guid>
+      <description>When the One Big Beautiful Bill arrived as a 900-page unstructured document &#8212; with no standardized schema, no published IRS forms, and a hard shipping deadline &#8212; Intuit's TurboTax team had a question: could AI compress a months-long implementation into days without sacrificing accuracy?What they built to do it is less a tax story than a template, a workflow combining commercial AI tools, a proprietary domain-specific language and a custom unit test framework that any domain-constrained development team can learn from.Joy Shaw, director of tax at Intuit, has spent more than 30 years at the comp...</description>
+    </item>
+    <item>
+      <title>Epic is reportedly building an extraction shooter for Disney</title>
+      <link>https://www.engadget.com/gaming/epic-is-reportedly-building-an-extraction-shooter-for-disney-220401382.html?src=rss</link>
+      <pubDate>Fri, 10 Apr 2026 22:04:01 +0000</pubDate>
+      <guid isPermaLink="false">6d734eed-0655-4fba-a334-7180fd84b294</guid>
+      <description>Besides a wealth of Fortnite skins based on Disney IP, it hasn't really been clear what the entertainment company has gotten in return for its $1.5 billion investment in Epic from 2024. That could change this November, Bloomberg reports, when Epic releases a Disney-themed extraction shooter. The game is one of three Disney projects the publisher is currently working on, and is reportedly expected to be Epic's comeback after the company laid off 1,000 employees in March due to a "downturn in Fortnite engagement." The game is reportedly similar to Arc Raiders, a multiplayer shooter where players...</description>
+    </item>
+    <item>
+      <title>All the streaming apps that raised prices this year so far</title>
+      <link>https://mashable.com/article/every-streaming-app-price-increase-2026-so-far</link>
+      <pubDate>Fri, 10 Apr 2026 21:39:59 +0000</pubDate>
+      <guid isPermaLink="false">0136q5p3vNSagWKPS1Qb4tB</guid>
+      <description>Everything is constantly getting more expensive, including streaming apps. Which ones have hiked prices in 2026?</description>
+    </item>
     <item>
       <title>How to watch NASA&#8217;s Artemis II splash back down to Earth</title>
       <link>https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/</link>
@@ -24,6 +66,21 @@
       <pubDate>Fri, 10 Apr 2026 21:15:04 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000745176</guid>
       <description>New research contends that a cataclysmic meteor impact could create new life, as easily as it could destroy.</description>
+    </item>
+    <item>
+      <title>Amazon has a gas discount most Prime members don&#8217;t even know exists</title>
+      <link>https://www.fastcompany.com/91525332/amazon-has-a-gas-discount-most-prime-members-dont-even-know-exists</link>
+      <pubDate>2026-04-10T21:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91525332/amazon-has-a-gas-discount-most-prime-members-dont-even-know-exists</guid>
+      <description>A little-known perk can knock up to 20&#162; off per gallon&#8212;but hardly anyone is using it.
+Amazon Prime members in the US can regularly save on gas, but many might not even know it. Now might be the best time to jump on it&#8212;for a limited time only, fuel savings can double. </description>
+    </item>
+    <item>
+      <title>Artemis II astronauts brought gadgets from Apple, GoPro, and Microsoft aboard Orion</title>
+      <link>https://mashable.com/article/consumer-tech-artemis-ii-orion-astronauts-iphone-gopro</link>
+      <pubDate>Fri, 10 Apr 2026 21:11:48 +0000</pubDate>
+      <guid isPermaLink="false">02Bfw2JnirVBmgvyucmd27f</guid>
+      <description>The Artemis II astronauts brought some familiar pieces of technology aboard the Orion spacecraft, including iPhones and GoPro cameras.</description>
     </item>
     <item>
       <title>'Shockingly good value': New rugged Android tablet has a built-in 1080p projector, night-vision camera, and only costs $599</title>
@@ -51,88 +108,8 @@
       <link>https://www.fastcompany.com/91525218/phoebe-gates-ai-startup-debate-over-fair-influencer-pay</link>
       <pubDate>2026-04-10T20:45:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91525218/phoebe-gates-ai-startup-debate-over-fair-influencer-pay</guid>
-      <description>Early-stage AI startups often operate on a budget, even when they&#8217;re cofounded by the daughter of famous billionaires.
+      <description>Early-stage AI startups often operate on a budget&#8212;even when they&#8217;re co-founded by the daughter of famous billionaires.
 Frugal founders are often praised for trying to stay within budget. But when the founder happens to be the daughter of one of the world&#8217;s richest people, the expectations seem to be different.</description>
-    </item>
-    <item>
-      <title>O&#249; et quand regarder le retour d&#8217;Artemis II sur Terre ? YouTube, NASA+, Netflix, Prime Video et plus encore</title>
-      <link>https://www.frandroid.com/culture-tech/espace/3053589_ou-et-quand-regarder-le-retour-dartemis-ii-sur-terre-youtube-nasa-netflix-prime-video-et-plus-encore</link>
-      <pubDate>Fri, 10 Apr 2026 20:40:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/espace/3053589_ou-et-quand-regarder-le-retour-dartemis-ii-sur-terre-youtube-nasa-netflix-prime-video-et-plus-encore</guid>
-      <description>
-Ce soir, la mission Artemis II va se terminer. Voici les horaires pr&#233;cis pour la France m&#233;tropolitaine.
-</description>
-    </item>
-    <item>
-      <title>Why moon joy feels so good right now</title>
-      <link>https://mashable.com/article/nasa-moon-joy</link>
-      <pubDate>Fri, 10 Apr 2026 20:32:53 +0000</pubDate>
-      <guid isPermaLink="false">05y0tD4foZ7A7tswgR24aft</guid>
-      <description>Moon joy, a phrase from NASA's communications with Artemis II astronauts on their lunar mission, is shared across social media.</description>
-    </item>
-    <item>
-      <title>Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude</title>
-      <link>https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/</link>
-      <pubDate>Fri, 10 Apr 2026 20:27:52 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3111432</guid>
-      <description>This ban took place after Claude's pricing changed for OpenClaw users last week.</description>
-    </item>
-    <item>
-      <title>20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman&#8217;s house</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail</link>
-      <pubDate>2026-04-10T16:16:57-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=910393</guid>
-      <description>San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]...</description>
-    </item>
-    <item>
-      <title>What on Earth Is Happening With &#8216;Doctor Who&#8217;?</title>
-      <link>https://gizmodo.com/doctor-who-christmas-2026-filming-bbc-disney-2000745167</link>
-      <pubDate>Fri, 10 Apr 2026 20:15:35 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745167</guid>
-      <description>The clock's ticking on the return of 'Doctor Who' later this year&#8212;but seemingly all is quiet in the TARDIS.</description>
-    </item>
-    <item>
-      <title>France to Ditch Microsoft Windows as Europe&#8217;s War on American Tech Rages On</title>
-      <link>https://gizmodo.com/france-to-ditch-microsoft-windows-as-europes-war-on-american-tech-rages-on-2000745152</link>
-      <pubDate>Fri, 10 Apr 2026 20:10:59 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745152</guid>
-      <description>Linux feels more French anyway.</description>
-    </item>
-    <item>
-      <title>How to watch the Artemis II astronauts return to Earth</title>
-      <link>https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth</link>
-      <pubDate>2026-04-10T16:08:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=910397</guid>
-      <description>The Orion capsule, carrying Artemis II commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen, is expected to land back to Earth after a nine-day mission that set a record for the farthest distance humans have ever traveled from our planet. After making a high-speed re-entry through the atmosphere, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>I created my dream coffee corner at IKEA for under $100 &#8212; and my mornings are about to get a lot cozier</title>
-      <link>https://www.techradar.com/tech/i-created-my-dream-coffee-corner-at-ikea-for-under-usd100-and-my-mornings-are-about-to-get-a-lot-cozier</link>
-      <pubDate>Fri, 10 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">heHakYDLvVG42fv6mwDsad</guid>
-      <description>Making a dedicated space for your morning will make preparing coffee more relaxing, and help get your day off to the right start.</description>
-    </item>
-    <item>
-      <title>Estonia is the rare EU country opposing child social media bans</title>
-      <link>https://www.engadget.com/social-media/estonia-is-the-rare-eu-country-opposing-child-social-media-bans-194620916.html?src=rss</link>
-      <pubDate>Fri, 10 Apr 2026 19:46:20 +0000</pubDate>
-      <guid isPermaLink="false">f4727321-18ad-4012-b2cc-3da8f24c1c2b</guid>
-      <description>As child social media bans spread across Europe and beyond, Estonia isn't having it. On Friday, the country's education minister said the bans won't "actually solve problems," while warning that the kids will find a way regardless.Although companies like Meta would love for you to believe it&#8217;s a fairy tale, social media addiction is associated with tangible negative repercussions for children. Studies show that its harms range from depression and anxiety to sleep deprivation and obesity. (The latter is from all the targeted junk food advertising.) On the other hand, teens can find community an...</description>
-    </item>
-    <item>
-      <title>'Experts' to rent for $1 per month: Hostinger debuts 7-person AI team to help SMBs save thousands on consultant fees</title>
-      <link>https://www.techradar.com/pro/experts-to-rent-for-usd1-per-month-hostinger-debuts-7-person-ai-team-to-help-smb-save-thousands-on-consultant-fees</link>
-      <pubDate>Fri, 10 Apr 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">eAYvqX2WpyQAaY3AK9zDy8</guid>
-      <description>Hostinger Agents provides small businesses with seven AI-driven specialists covering strategy, marketing, sales, legal, and content for practical, affordable support.</description>
-    </item>
-    <item>
-      <title>Melania Trump&#8217;s surprise statement about Epstein majorly backfired: Ghislaine Maxwell emails in spotlight</title>
-      <link>https://www.fastcompany.com/91525320/melania-trump-jeffrey-epstein-files-surprise-statement-backfired-ghislaine-maxwell-emails</link>
-      <pubDate>2026-04-10T19:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91525320/melania-trump-jeffrey-epstein-files-surprise-statement-backfired-ghislaine-maxwell-emails</guid>
-      <description>If the first lady wanted people not to Google her and Jeffrey Epstein, she&#8217;s failing miserably.
-If Melania Trump wanted people not to put her and Jeffery Epstein&#8217;s names in the same sentence, she&#8217;s failing miserably.</description>
     </item>
   </channel>
 </rss>
