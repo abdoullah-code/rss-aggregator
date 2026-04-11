@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 11 Apr 2026 20:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 21:37:47 GMT</lastBuildDate>
+    <item>
+      <title>Kalshi wins temporary pause in Arizona criminal case</title>
+      <link>https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/</link>
+      <pubDate>Sat, 11 Apr 2026 21:20:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3111689</guid>
+      <description>The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.</description>
+    </item>
+    <item>
+      <title>'Today is the day you've been waiting for': eGPUs can now officially turn a humble Mac Mini into an AI powerhouse</title>
+      <link>https://www.techradar.com/pro/today-is-the-day-youve-been-waiting-for-egpus-can-now-officially-turn-a-humble-mac-mini-into-an-ai-powerhouse</link>
+      <pubDate>Sat, 11 Apr 2026 21:10:00 +0000</pubDate>
+      <guid isPermaLink="false">Dhep26ezqaGn8u3S8nX2sF</guid>
+      <description>Apple approves TinyGPU driver, letting Mac Mini and Apple Silicon users connect external GPUs to accelerate demanding AI workloads.</description>
+    </item>
     <item>
       <title>AMC will stream &#8216;The Audacity&#8217; premiere in 21 parts on TikTok</title>
       <link>https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/</link>
@@ -24,34 +38,6 @@
       <pubDate>Sat, 11 Apr 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">R4rddgbwni8QMTiG4KQ4NR</guid>
       <description>Jura's new Automatic Milk Frother prepares silky hot and cold microfoam for espresso-based drinks, and can even make hot chocolate.</description>
-    </item>
-    <item>
-      <title>&#8216;How Do We Make Sure That Claude Behaves Itself?&#8217;: Anthropic Invited 15 Christians for a Summit</title>
-      <link>https://gizmodo.com/how-do-we-make-sure-that-claude-behaves-itself-anthropic-invited-15-christians-for-a-summit-2000743766</link>
-      <pubDate>Sat, 11 Apr 2026 19:28:04 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000743766</guid>
-      <description>Anthropic is reportedly looking to be steered by various kinds of moral thinkers.</description>
-    </item>
-    <item>
-      <title>'A self-inflicted hit': Washington state just rolled back sales tax exemptions for AI data centers worth hundreds of millions</title>
-      <link>https://www.techradar.com/pro/a-self-inflicted-hit-washington-state-just-rolled-back-sales-tax-exemptions-for-ai-data-centers-worth-hundreds-of-millions</link>
-      <pubDate>Sat, 11 Apr 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">DLhMaQRK2veGRbPm5GS6vA</guid>
-      <description>Washington narrowed a key data center tax break, reflecting broader tensions as states reconsider incentives amid industry resistance and rising public concerns.</description>
-    </item>
-    <item>
-      <title>Playing The Last of Us with friends made my favorite PlayStation game feel brand new again</title>
-      <link>https://www.techradar.com/gaming/playing-the-last-of-us-with-friends-made-my-favorite-playstation-game-feel-brand-new-again</link>
-      <pubDate>Sat, 11 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2amMrzsGYbiL5Nwi2oxYon</guid>
-      <description>My fourth playthrough of The Last of Us was also my friend&#8217;s first &#8211; here&#8217;s what I learned by playing it as a group.</description>
-    </item>
-    <item>
-      <title>See the Next &#8216;Hunger Games&#8217; in This Trip Down Memory Lane</title>
-      <link>https://gizmodo.com/hunger-games-look-back-preview-2000745332</link>
-      <pubDate>Sat, 11 Apr 2026 18:50:29 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745332</guid>
-      <description>The 'Hunger Games' series has come pretty far, and it's got at least one more movie in it with 'Sunrise on the Reaping.</description>
     </item>
   </channel>
 </rss>
