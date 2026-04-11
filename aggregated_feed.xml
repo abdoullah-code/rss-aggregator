@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 11 Apr 2026 21:37:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 22:36:59 GMT</lastBuildDate>
+    <item>
+      <title>UFC 327 live stream: how to watch Proch&#225;zka vs Ulberg, start time, preview, full card</title>
+      <link>https://www.techradar.com/how-to-watch/sport/ufc-327-live-stream-prochazka-vs-ulberg</link>
+      <pubDate>Sat, 11 Apr 2026 21:45:00 +0000</pubDate>
+      <guid isPermaLink="false">LwJK6Cc83XE2QDdfEeLWMK</guid>
+      <description>The UFC Light Heavyweight Championship is on the line in Miami, Florida &#8211; follow our guide to live stream UFC 327 online Proch&#225;zka vs Ulberg from anywhere.</description>
+    </item>
     <item>
       <title>Kalshi wins temporary pause in Arizona criminal case</title>
       <link>https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/</link>
@@ -17,27 +24,6 @@
       <pubDate>Sat, 11 Apr 2026 21:10:00 +0000</pubDate>
       <guid isPermaLink="false">Dhep26ezqaGn8u3S8nX2sF</guid>
       <description>Apple approves TinyGPU driver, letting Mac Mini and Apple Silicon users connect external GPUs to accelerate demanding AI workloads.</description>
-    </item>
-    <item>
-      <title>AMC will stream &#8216;The Audacity&#8217; premiere in 21 parts on TikTok</title>
-      <link>https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/</link>
-      <pubDate>Sat, 11 Apr 2026 20:32:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3111686</guid>
-      <description>Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?</description>
-    </item>
-    <item>
-      <title>&#8216;Marvel Rivals&#8217; Wants to Start Being More Than Just a Hero Shooter</title>
-      <link>https://gizmodo.com/marvel-rivals-wants-to-start-being-more-than-just-a-hero-shooter-2000745230</link>
-      <pubDate>Sat, 11 Apr 2026 20:15:21 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745230</guid>
-      <description>Like the comics it's based on, 'Marvel Rivals' will be around for a long time if NetEase has anything to say about it.</description>
-    </item>
-    <item>
-      <title>Want cafe-quality lattes at home without buying an expensive new coffee machine? Jura's new gadget upgrades your drinks with perfectly foamed milk every time</title>
-      <link>https://www.techradar.com/home/coffee-machines/want-cafe-quality-lattes-at-home-without-buying-an-expensive-new-coffee-machine-juras-new-gadget-upgrades-your-drinks-with-perfectly-foamed-milk-every-time</link>
-      <pubDate>Sat, 11 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R4rddgbwni8QMTiG4KQ4NR</guid>
-      <description>Jura's new Automatic Milk Frother prepares silky hot and cold microfoam for espresso-based drinks, and can even make hot chocolate.</description>
     </item>
   </channel>
 </rss>
