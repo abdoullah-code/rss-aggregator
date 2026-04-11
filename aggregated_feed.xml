@@ -3,7 +3,38 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 11 Apr 2026 17:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 18:53:04 GMT</lastBuildDate>
+    <item>
+      <title>See the Next &#8216;Hunger Games&#8217; in This Trip Down Memory Lane</title>
+      <link>https://gizmodo.com/hunger-games-look-back-preview-2000745332</link>
+      <pubDate>Sat, 11 Apr 2026 18:50:29 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745332</guid>
+      <description>The 'Hunger Games' series has come pretty far, and it's got at least one more movie in it with 'Sunrise on the Reaping.</description>
+    </item>
+    <item>
+      <title>On a vu la 1&#232;re Volkswagen &#233;lectrique &#224; 25 000 &#8364;, la BYD qui se charge en 5 minutes arrive en France et la plus grande usine de v&#233;lo de France &#8211; R&#233;cap&#8217; Survolt&#233;s</title>
+      <link>https://www.frandroid.com/survoltes/3060815_recap-survoltes-202615</link>
+      <pubDate>Sat, 11 Apr 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3060815_recap-survoltes-202615</guid>
+      <description>
+De la nouvelle Volkswagen &#233;lectrique &#224; moins de 25 000 &#8364; au rapport choc de la Cour des comptes en passant la BYD qui arrive en France avec la recharge en 5 minutes, l&#8217;actualit&#233; Survolt&#233;s a &#233;t&#233; dense cette semaine. Voici ce qu'il ne fallait pas manquer sur le 100 % &#233;lectrique.
+</description>
+    </item>
+    <item>
+      <title>Rockstar Games has confirmed it was hit by third-party data breach</title>
+      <link>https://www.engadget.com/cybersecurity/rockstar-games-has-confirmed-it-was-hit-by-third-party-data-breach-175112621.html?src=rss</link>
+      <pubDate>Sat, 11 Apr 2026 17:51:12 +0000</pubDate>
+      <guid isPermaLink="false">6489ac94-57e9-4828-8206-15b0aa1e6f50</guid>
+      <description>An experienced hacking group has claimed to have infiltrated Rockstar Games' cloud servers, while the game publisher has confirmed that there was a "third-party data breach." ShinyHunters, a hacker group that's been linked to data breaches targeting Microsoft, Google, Ticketmaster and others, posted a message on its website with a final warning to Rockstar to "pay or leak." The hack was first spotted by Hackread and the Cybersec Guru.
+ShinyHunters didn't detail what Rockstar data it gained access to, only adding that the company had until April 14 to reach out or that the group would leak the ...</description>
+    </item>
+    <item>
+      <title>'$15K bill destroyed a solo developer&#8217;s startup': How hackers are using leaked Google API keys to &#8216;go wild&#8217; with Gemini AI for free</title>
+      <link>https://www.techradar.com/pro/security/usd15k-bill-destroyed-a-solo-developers-startup-how-hackers-are-using-leaked-google-api-keys-to-go-wild-with-gemini-ai-for-free</link>
+      <pubDate>Sat, 11 Apr 2026 17:35:00 +0000</pubDate>
+      <guid isPermaLink="false">Pcyc9w8Wtgxew56qxLhu9E</guid>
+      <description>Developers&#8217; public API keys now function as live Gemini AI credentials, enabling attackers to run costly and unauthorized operations.</description>
+    </item>
     <item>
       <title>E.Leclerc casse d&#233;j&#224; le prix du nouveau smartphone pas cher de Realme avec une autonomie XXL</title>
       <link>https://www.frandroid.com/bons-plans/3060663_e-leclerc-casse-deja-le-prix-du-nouveau-smartphone-pas-cher-de-realme-avec-une-autonomie-xxl</link>
@@ -36,57 +67,6 @@ According to the RDW, Tesla's Full Self-Driving (Supervised) "has been extensive
       <description>
 De 16 ou 20 pouces, moteur avant ou arri&#232;re, syst&#232;mes de pliages divers et vari&#233;s, nous avons test&#233; pour vous les v&#233;los &#233;lectriques pliants les plus r&#233;put&#233;s du march&#233;. Suivez le guide pour trouver le meilleur v&#233;lo &#233;lectrique pliable&#160;!
 </description>
-    </item>
-    <item>
-      <title>C&#8217;est quoi cette myst&#233;rieuse carte m&#232;re Nvidia ? On vous explique</title>
-      <link>https://www.frandroid.com/events/computex/3060707_cest-quoi-cette-mysterieuse-carte-mere-nvidia-on-vous-explique</link>
-      <pubDate>Sat, 11 Apr 2026 16:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/events/computex/3060707_cest-quoi-cette-mysterieuse-carte-mere-nvidia-on-vous-explique</guid>
-      <description>
-Vous avez sans doute vu passer ces photos floues sur les r&#233;seaux sociaux chinois. C'est quoi cette myst&#233;rieuse carte m&#232;re Nvidia ? A priori, c'est le SoC N1, un monstre de puissance qui combine l'architecture Blackwell et 128 Go de RAM.
-</description>
-    </item>
-    <item>
-      <title>Indie Animation Is Having a Moment on YouTube</title>
-      <link>https://gizmodo.com/indie-animation-is-having-a-moment-on-youtube-2000745081</link>
-      <pubDate>Sat, 11 Apr 2026 16:25:52 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745081</guid>
-      <description>Fan-driven shows like 'Amazing Digital Circus' and 'Knights of Guinevere' are hitting big, and YouTube knows it.</description>
-    </item>
-    <item>
-      <title>Marre des balayages &#224; sec ? Tesla a enfin trouv&#233; la solution logicielle</title>
-      <link>https://www.frandroid.com/marques/tesla/3062253_marre-des-balayages-a-sec-tesla-a-enfin-trouve-la-solution-logicielle</link>
-      <pubDate>Sat, 11 Apr 2026 16:12:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3062253_marre-des-balayages-a-sec-tesla-a-enfin-trouve-la-solution-logicielle</guid>
-      <description>
-Les essuie-glaces automatiques chez Tesla, c'est souvent une catastrophe. Entre les balayages fr&#233;n&#233;tiques sous un soleil de plomb et l'inertie totale sous une petite bruine, le syst&#232;me a de quoi rendre fou. Mais Tesla vient de sortir une arme secr&#232;te purement logicielle pour enfin donner du sens &#224; tout &#231;a.
-</description>
-    </item>
-    <item>
-      <title>Test de l&#8217;Apple MacBook Air 13 M5 : toujours la r&#233;f&#233;rence des ultraportables, toujours les m&#234;mes d&#233;fauts</title>
-      <link>https://www.frandroid.com/marques/apple/3055277_test-du-macbook-air-m5-toujours-la-reference-des-ultraportables-toujours-les-memes-defauts</link>
-      <pubDate>Sat, 11 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3055277_test-du-macbook-air-m5-toujours-la-reference-des-ultraportables-toujours-les-memes-defauts</guid>
-      <description>
-Le MacBook Air M5 conserve l'excellente recette du MacBook Air. Sans aucun changement &#224; l'ext&#233;rieur de la machine, ce nouveau mod&#232;le apporte de s&#233;rieuses am&#233;liorations de performances pour le processeur et le stockage. Notre test complet.
-</description>
-    </item>
-    <item>
-      <title>Le Nobel de chimie qui dirige l&#8217;IA chez Google : &#171; J&#8217;aurais pr&#233;f&#233;r&#233; gu&#233;rir le cancer avant de lancer ChatGPT &#187;</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3062141_le-nobel-de-chimie-qui-dirige-lia-chez-google-jaurais-prefere-guerir-le-cancer-avant-de-lancer-chatgpt</link>
-      <pubDate>Sat, 11 Apr 2026 15:51:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3062141_le-nobel-de-chimie-qui-dirige-lia-chez-google-jaurais-prefere-guerir-le-cancer-avant-de-lancer-chatgpt</guid>
-      <description>
-Et si l'IA avait servi &#224; gu&#233;rir le cancer plut&#244;t qu'&#224; r&#233;diger vos e-mails ? C&#8217;est le regret amer de Demis Hassabis, patron de Google DeepMind. Selon lui, la d&#233;ferlante ChatGPT a forc&#233; l'industrie dans une course commerciale absurde, enterrant au passage des d&#233;cennies de recherche scientifique fondamentale.
-</description>
-    </item>
-    <item>
-      <title>IBM settles its DEI lawsuit with the DOJ for $17 million</title>
-      <link>https://www.engadget.com/big-tech/ibm-settles-its-dei-lawsuit-with-the-doj-for-17-million-153749285.html?src=rss</link>
-      <pubDate>Sat, 11 Apr 2026 15:37:49 +0000</pubDate>
-      <guid isPermaLink="false">56eb1c46-b3f5-40ca-80b3-e83b0087c6a0</guid>
-      <description>IBM has agreed to settle the US Department of Justice's accusations that the company violated civil rights laws with its DEI practices. According to a press release from the DOJ, IBM will pay more than $17 million to resolve allegations of taking "race, color, national origin, or sex" into account when making employment decisions. This settlement is the latest development in a longstanding effort from the Trump administration to end DEI programs, which was kick-started from an executive order in early 2025.
-IBM denied any wrongdoing and said the settlement wasn't an admission of liability, whi...</description>
     </item>
   </channel>
 </rss>
