@@ -3,7 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 12 Apr 2026 14:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 15:40:12 GMT</lastBuildDate>
+    <item>
+      <title>Your developers are already running AI locally: Why on-device inference is the CISO&#8217;s new blind spot</title>
+      <link>https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is</link>
+      <pubDate>Sun, 12 Apr 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3EC5GemarqXB92UGk1xUjb</guid>
+      <description>For the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.Security teams tightened cloud access security broker (CASB) policies, blocked or monitored traffic to well-known AI endpoints, and routed usage through sanctioned gateways. The operating model was clear: If sensitive data leaves the network for an external API call, we can observe it, log it, and stop it. But that model is starting to break.A quiet hardware shift is pushing large language model (LLM) usage off the network and onto the endpoint. Call it Shadow AI 2.0, or the &#8220;bring your ...</description>
+    </item>
+    <item>
+      <title>From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms</title>
+      <link>https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <pubDate>Sun, 12 Apr 2026 15:07:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
+      <description>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+    </item>
+    <item>
+      <title>At the HumanX conference, everyone was talking about Claude</title>
+      <link>https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/</link>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3111422</guid>
+      <description>Anthropic was the star of the show at San Francisco's AI-centric conference.</description>
+    </item>
+    <item>
+      <title>&#8216;More bang for your buck&#8217;: 7 easy ways to boost your MacBook Neo&#8217;s performance for free</title>
+      <link>https://www.techradar.com/computing/macbooks/more-bang-for-your-buck-7-easy-ways-to-boost-your-macbook-neos-performance-for-free</link>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">eG8oxtJd9PkBrkRPF7Q4CT</guid>
+      <description>Help your new MacBook Neo run faster than ever with these quick performance tips.</description>
+    </item>
     <item>
       <title>You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99</title>
       <link>https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale</link>
@@ -47,65 +75,6 @@
       <description>
 Dans un march&#233; satur&#233; par l'uniformit&#233; des SUV, la Xpeng P7+ joue la carte de la r&#233;sistance. Cette voiture &#233;lectrique ambitieuse compte bien enterrer d&#233;finitivement la Tesla Model S avec un prix divis&#233; par deux et une recharge deux fois plus rapide. Pari r&#233;ussi pour cette nouvelle berline 100 % &#233;lectrique ? Voici notre verdict.
 </description>
-    </item>
-    <item>
-      <title>The Hisense UR9 is a great first shot against OLED&#8217;s bow</title>
-      <link>https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review</link>
-      <pubDate>2026-04-12T09:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=910537</guid>
-      <description>RGB LED TVs have been the talk of the TV world this year, with models coming from all the manufacturers, and the first one of 2026 is here - the Hisense UR9. It's the first look at the viability of the new backlight technology outside of demo rooms, and it's a step above the traditional [&#8230;]</description>
-    </item>
-    <item>
-      <title>How AT&amp;#038;T created the most iconic phone ever</title>
-      <link>https://www.theverge.com/podcast/910725/western-electric-500-att-version-history</link>
-      <pubDate>2026-04-12T09:28:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=910725</guid>
-      <description>For years, even decades, virtually everyone in the United States had the same phone. Nobody really thought about it, it didn't even matter what it was called - it was just The Phone. Well, The Phone was called the Western Electric 500, and when landline phones ruled the world, the Western Electric 500 ruled the [&#8230;]</description>
-    </item>
-    <item>
-      <title>&#192; moins de 100 &#8364;, ce robot aspirateur-laveur Xiaomi offre un rapport qualit&#233;/prix imbattable</title>
-      <link>https://www.frandroid.com/bons-plans/3059093_a-moins-de-100-e-ce-robot-aspirateur-laveur-xiaomi-offre-un-rapport-qualite-prix-imbattable</link>
-      <pubDate>Sun, 12 Apr 2026 13:22:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3059093_a-moins-de-100-e-ce-robot-aspirateur-laveur-xiaomi-offre-un-rapport-qualite-prix-imbattable</guid>
-      <description>
-Le Xiaomi Robot Vacuum T12 aspire, lave et navigue intelligemment dans votre domicile. Et il fait partie des robots les moins chers du secteur. Actuellement, Xiaomi le propose &#224; 99,99 euros au lieu de 169,99 euros.
-</description>
-    </item>
-    <item>
-      <title>The Pentagon is doubling down on laser weapons research</title>
-      <link>https://www.fastcompany.com/91525120/the-pentagon-is-doubling-down-on-laser-weapons-research</link>
-      <pubDate>2026-04-12T13:16:37</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91525120/the-pentagon-is-doubling-down-on-laser-weapons-research</guid>
-      <description>Despite years of promises, the latest budget shows directed energy systems are still largely confined to development and experimentation.
-After months of&#160;bold&#160;promises&#160;about its directed energy weapon ambitions, the U.S. military is putting its money where its mouth is.</description>
-    </item>
-    <item>
-      <title>The World Is Basically Begging for Another iPod</title>
-      <link>https://gizmodo.com/the-world-is-basically-begging-for-another-ipod-2000745053</link>
-      <pubDate>Sun, 12 Apr 2026 13:00:40 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745053</guid>
-      <description>And nostalgia is only part of the picture.</description>
-    </item>
-    <item>
-      <title>Dark web&#160;: les pirates ont adopt&#233; un langage secret, et il vient d&#8217;&#234;tre d&#233;chiffr&#233;</title>
-      <link>https://www.01net.com/actualites/dark-web-pirates-adopte-langage-secret-vient-etre-dechiffre.html</link>
-      <pubDate>Sun, 12 Apr 2026 13:00:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1338374</guid>
-      <description>Un v&#233;ritable langage secret s'est peu &#224; peu popularis&#233; sur le dark web. Combinant les &#233;mojis et l'argent, ce mode de communication, taill&#233; pour &#233;chapper aux autorit&#233;s, a &#233;t&#233; d&#233;chiffr&#233; par des chercheurs.</description>
-    </item>
-    <item>
-      <title>What is the release date for The Testaments episode 4 on Hulu and Disney+?</title>
-      <link>https://www.techradar.com/streaming/hulu/the-testaments-episode-4-release-date-time-disney-plus</link>
-      <pubDate>Sun, 12 Apr 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">yvtQgGzJGsj9nkDACQxaK9</guid>
-      <description>Pearl Girl Daisy is starting to make waves in Gilead.  But when does The Testaments episode 4 drop on Hulu and Disney+?</description>
-    </item>
-    <item>
-      <title>I reviewed the LG G6 for 3 weeks, and it's a fantastic OLED TV that's the new best option for brighter rooms</title>
-      <link>https://www.techradar.com/televisions/lg-g6-oled-tv-review</link>
-      <pubDate>Sun, 12 Apr 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">EFPuKVv49i5nEdWEkPdGsm</guid>
-      <description>The LG G6 OLED TV continues the excellent lineage of its predecessors and sets a high bar for other flagship models to come in 2026.</description>
     </item>
   </channel>
 </rss>
