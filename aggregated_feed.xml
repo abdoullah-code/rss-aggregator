@@ -3,13 +3,60 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 12 Apr 2026 15:40:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 16:46:29 GMT</lastBuildDate>
     <item>
-      <title>Your developers are already running AI locally: Why on-device inference is the CISO&#8217;s new blind spot</title>
-      <link>https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is</link>
-      <pubDate>Sun, 12 Apr 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">3EC5GemarqXB92UGk1xUjb</guid>
-      <description>For the last 18 months, the CISO playbook for generative AI has been relatively simple: Control the browser.Security teams tightened cloud access security broker (CASB) policies, blocked or monitored traffic to well-known AI endpoints, and routed usage through sanctioned gateways. The operating model was clear: If sensitive data leaves the network for an external API call, we can observe it, log it, and stop it. But that model is starting to break.A quiet hardware shift is pushing large language model (LLM) usage off the network and onto the endpoint. Call it Shadow AI 2.0, or the &#8220;bring your ...</description>
+      <title>OpenAI says Elon Musk is orchestrating a last-minute 'legal ambush' before trial</title>
+      <link>https://www.engadget.com/ai/openai-says-elon-musk-is-orchestrating-a-last-minute-legal-ambush-before-trial-163248345.html?src=rss</link>
+      <pubDate>Sun, 12 Apr 2026 16:32:48 +0000</pubDate>
+      <guid isPermaLink="false">595f087a-a1d0-436d-a384-1f40528afcc5</guid>
+      <description>The feud between Elon Musk and OpenAI is getting even more contentious as the two sides get ready for trial later this month. The latest development in the legal back-and-forth saw OpenAI accuse Elon Musk and his latest proposals as a "legal ambush," as first reported by Bloomberg. OpenAI filed its response on Friday, which detailed that Musk was "sandbagging the defendants and injecting chaos into the proceedings, while trying to recast his public narrative about his lawsuit."
+The lawsuit dates back to 2024 when Elon Musk sued both OpenAI and Microsoft, accusing the AI giant of ditching its o...</description>
+    </item>
+    <item>
+      <title>&#8216;Lee Cronin&#8217;s The Mummy&#8217; Will Please Gross Horror Fans</title>
+      <link>https://gizmodo.com/lee-cronins-the-mummy-will-please-gross-horror-fans-2000745387</link>
+      <pubDate>Sun, 12 Apr 2026 16:25:46 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745387</guid>
+      <description>If you're into nasty horror that's plenty mean, early reactions say 'Lee Cronin's The Mummy' has your number.</description>
+    </item>
+    <item>
+      <title>'Insane demand': some Mac mini and Mac Studio models are now out of stock at Apple, but it's not clear what the reasons are &#8212; RAM crisis or imminent refresh?</title>
+      <link>https://www.techradar.com/computing/insane-demand-some-mac-mini-and-mac-studio-models-are-now-out-of-stock-at-apple-but-its-not-clear-what-the-reasons-are-ram-crisis-or-imminent-refresh</link>
+      <pubDate>Sun, 12 Apr 2026 16:07:21 +0000</pubDate>
+      <guid isPermaLink="false">DzivBSctSGvz44go57XRTK</guid>
+      <description>Certain Mac models are now completely unavailable from Apple, but it's not clear what the reasons are.</description>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?</title>
+      <link>https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/</link>
+      <pubDate>Sun, 12 Apr 2026 16:06:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3111457</guid>
+      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.</description>
+    </item>
+    <item>
+      <title>You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2</title>
+      <link>https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale</link>
+      <pubDate>2026-04-12T12:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=909928</guid>
+      <description>In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console. Now through May 9th, you can buy a Switch 2 with Super Mario Galaxy + Super Mario Galaxy 2 for $499.99 [&#8230;]</description>
+    </item>
+    <item>
+      <title>Motorola Signature vs iPhone Air&#160;: quel smartphone ultrafin choisir&#160;?</title>
+      <link>https://www.frandroid.com/versus/3051583_motorola-signature-vs-iphone-air-quel-smartphone-ultrafin-choisir</link>
+      <pubDate>Sun, 12 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/versus/3051583_motorola-signature-vs-iphone-air-quel-smartphone-ultrafin-choisir</guid>
+      <description>
+Les smartphones ultrafins sont-ils une mode &#233;ph&#233;m&#232;re, ou une typologie de produits qui va perdurer&#160;? En attendant d'avoir la r&#233;ponse, voyons comment d&#233;partager deux des meilleurs repr&#233;sentants du genre&#160;: le Motorola Signature, et l'iPhone Air.
+</description>
+    </item>
+    <item>
+      <title>Moins 20 % pour la carte microSD de 512 Go d&#8217;Amazon capable d&#8217;accueillir des fichiers en 4K</title>
+      <link>https://www.frandroid.com/bons-plans/3056507_moins-20-pour-la-carte-microsd-de-512-go-damazon-capable-daccueillir-des-fichiers-en-4k</link>
+      <pubDate>Sun, 12 Apr 2026 15:39:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3056507_moins-20-pour-la-carte-microsd-de-512-go-damazon-capable-daccueillir-des-fichiers-en-4k</guid>
+      <description>
+Amazon a cr&#233;&#233; une carte microSD tr&#232;s compl&#232;te. Outre ses 512 Go de stockage, elle est compatible avec une large gamme de produits. Une compatibilit&#233; renforc&#233;e par le support SD fourni. En ce moment, elle perd un peu moins de 15 euros.
+</description>
     </item>
     <item>
       <title>From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms</title>
@@ -31,50 +78,6 @@
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">eG8oxtJd9PkBrkRPF7Q4CT</guid>
       <description>Help your new MacBook Neo run faster than ever with these quick performance tips.</description>
-    </item>
-    <item>
-      <title>You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99</title>
-      <link>https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale</link>
-      <pubDate>2026-04-12T10:32:11-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=910482</guid>
-      <description>We spend a lot of time at The Verge waxing poetic about the latest gadgets, but sometimes it&#8217;s the last-gen devices from several years ago that offer the better value. The 2021 Kindle Paperwhite is a great case in point &#8212; especially since you can grab it at Woot in refurbished condition with lockscreen ads, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Somehow Paramount&#8217;s &#8216;Avatar&#8217; Movie Has Leaked, Too</title>
-      <link>https://gizmodo.com/somehow-paramounts-avatar-movie-has-leaked-too-2000745458</link>
-      <pubDate>Sun, 12 Apr 2026 14:00:47 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745458</guid>
-      <description>Twitter's penchant for leaks now includes Paramount's 'Avatar: Aang, The Last Airbender,' which isn't out until October.</description>
-    </item>
-    <item>
-      <title>Slate Auto: Everything you need to know about the Bezos-backed EV startup</title>
-      <link>https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/</link>
-      <pubDate>Sun, 12 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3026383</guid>
-      <description>Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details.</description>
-    </item>
-    <item>
-      <title>DJI Romo P vs Roborock Saros 10R &#8212; which robot vacuum comes out on top when it comes to dodging obstacles? I put them to the test</title>
-      <link>https://www.techradar.com/home/robot-vacuums/the-dji-romo-p-has-the-most-spectacular-obstacle-avoidance-of-any-robot-vacuum-ive-tested-heres-how-it-compares-to-the-roborock-saros-10r</link>
-      <pubDate>Sun, 12 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">xboraFcHbAjWwVakDMhePf</guid>
-      <description>Which robot vacuum offers the best obstacle avoidance and navigation? I put them to the test.</description>
-    </item>
-    <item>
-      <title>I spent 6 hours with Genshin Impact on the Galaxy S26 Ultra, and I can't believe how far mobile gaming has come</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/i-spent-6-hours-with-genshin-impact-on-the-galaxy-s26-ultra-and-i-cant-believe-how-far-mobile-gaming-has-come</link>
-      <pubDate>Sun, 12 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">oWisAZHjihbJ6Pk2X5Mdyc</guid>
-      <description>To test the gaming mettle of Samsung's Galaxy S26 Ultra, I spent six hours playing Genshin Impact on the highest settings.</description>
-    </item>
-    <item>
-      <title>J&#8217;ai essay&#233; la XPeng P7+ : la voiture &#233;lectrique chinoise qui se recharge deux fois plus rapidement qu&#8217;une Tesla Model 3</title>
-      <link>https://www.frandroid.com/marques/xpeng/3054999_jai-essaye-la-xpeng-p7-la-voiture-electrique-chinoise-qui-se-recharge-deux-fois-plus-rapidement-quune-tesla-model-3</link>
-      <pubDate>Sun, 12 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xpeng/3054999_jai-essaye-la-xpeng-p7-la-voiture-electrique-chinoise-qui-se-recharge-deux-fois-plus-rapidement-quune-tesla-model-3</guid>
-      <description>
-Dans un march&#233; satur&#233; par l'uniformit&#233; des SUV, la Xpeng P7+ joue la carte de la r&#233;sistance. Cette voiture &#233;lectrique ambitieuse compte bien enterrer d&#233;finitivement la Tesla Model S avec un prix divis&#233; par deux et une recharge deux fois plus rapide. Pari r&#233;ussi pour cette nouvelle berline 100 % &#233;lectrique ? Voici notre verdict.
-</description>
     </item>
   </channel>
 </rss>
