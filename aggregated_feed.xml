@@ -3,13 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 13 Apr 2026 21:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:58:08 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI Exec Reveals New Strategy in Leaked Memo: Attack Anthropic</title>
+      <link>https://gizmodo.com/openai-exec-reveals-new-strategy-in-leaked-memo-attack-anthropic-2000745872</link>
+      <pubDate>Mon, 13 Apr 2026 21:35:33 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745872</guid>
+      <description>Shots fired.</description>
+    </item>
+    <item>
+      <title>Popular Musician Loses Life Savings Through Malicious Crypto Wallet in Apple&#8217;s App Store</title>
+      <link>https://gizmodo.com/popular-musician-loses-life-savings-through-malicious-crypto-wallet-in-apples-app-store-2000745902</link>
+      <pubDate>Mon, 13 Apr 2026 21:25:17 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745902</guid>
+      <description>The theft apparently combined a counterfeit app with a critical mistake by the musician.</description>
+    </item>
+    <item>
+      <title>'That felt wrong': Dev uses Claude to expose why a popular No-Code platform wants to read &#8220;all your prompts&#8221;</title>
+      <link>https://www.techradar.com/pro/that-felt-wrong-dev-uses-claude-to-expose-why-a-popular-no-code-platform-wants-to-read-all-your-prompts</link>
+      <pubDate>Mon, 13 Apr 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">8bT4F6aDZJeG5pJHZcKyPM</guid>
+      <description>Developer finds Claude Code plugin collecting extensive telemetry across projects, including commands and session data, without clear visibility.</description>
+    </item>
+    <item>
+      <title>Peter Capaldi&#8217;s Biggest &#8216;Doctor Who&#8217; Regret Was That He Couldn&#8217;t Be a Little Bit Miserable</title>
+      <link>https://gizmodo.com/peter-capaldi-doctor-who-regret-bbc-2000745933</link>
+      <pubDate>Mon, 13 Apr 2026 21:20:12 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745933</guid>
+      <description>The Twelfth Doctor recalls one quirky lesson he learned during his four-year run on the iconic BBC show.</description>
+    </item>
+    <item>
+      <title>Justin Bieber&amp;#8217;s YouTube Coachella set had nothing to do with who owns his music</title>
+      <link>https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella</link>
+      <pubDate>2026-04-13T17:19:10-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=911340</guid>
+      <description>This past Saturday at the Coachella music festival, Justin Bieber played the first of two headlining sets in a deal reportedly worth $10 million. It was his most significant solo performance in years. But Bieber spent some of his time on stage the way many of us do on Saturday nights: on YouTube. For some [&#8230;]</description>
+    </item>
+    <item>
+      <title>Uber and Nuro begin testing premium robotaxi service in San Francisco</title>
+      <link>https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/</link>
+      <pubDate>Mon, 13 Apr 2026 21:11:58 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3111958</guid>
+      <description>Uber employees can now hail a Lucid robotaxi as part of the testing.</description>
+    </item>
+    <item>
+      <title>Some Good News About the Upcoming Atlantic Hurricane Season</title>
+      <link>https://gizmodo.com/some-good-news-about-the-upcoming-atlantic-hurricane-season-2000745867</link>
+      <pubDate>Mon, 13 Apr 2026 21:05:33 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000745867</guid>
+      <description>Forecasters at Colorado State University expect to see below-normal cyclone activity in the Atlantic basin this season.</description>
+    </item>
     <item>
       <title>Microsoft is officially killing its Outlook Lite app next month</title>
       <link>https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/</link>
       <pubDate>Mon, 13 Apr 2026 20:59:12 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3111969</guid>
-      <description>The app had already been scheduled for retirement.</description>
+      <description>Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections.&#160;The app had already been scheduled for retirement.</description>
     </item>
     <item>
       <title>Scientists Discover Potential Path to Treating Down Syndrome</title>
@@ -68,6 +117,14 @@
       <description>High-earning professionals increasingly use AI tools for validation and error prevention rather than speed, reflecting a shift toward accuracy-focused workflows.</description>
     </item>
     <item>
+      <title>Lauren S&#225;nchez Bezos&#8217;s happiness routine is going viral for the wrong reasons</title>
+      <link>https://www.fastcompany.com/91526098/lauren-sanchez-bezoss-happiness-routine-is-going-viral-for-the-wrong-reasons</link>
+      <pubDate>2026-04-13T20:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91526098/lauren-sanchez-bezoss-happiness-routine-is-going-viral-for-the-wrong-reasons</guid>
+      <description>Her daily habits with Jeff Bezos are fueling a wider debate about wealth and relatability.
+Lauren S&#225;nchez Bezos  is great at being happy, so much so she is encouraging other to pursue unapologetic happiness too. But, unsurprisingly, those without private jets aren&#8217;t buying it.</description>
+    </item>
+    <item>
       <title>NZXT to pay $3.45 million settlement over Flex PC rentals</title>
       <link>https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement</link>
       <pubDate>2026-04-13T16:00:58-04:00</pubDate>
@@ -82,6 +139,14 @@
       <description>Apple's privacy-first approach could help it dominate the smart glasses sector.</description>
     </item>
     <item>
+      <title>Trump posted an AI image of himself as Jesus. This time even his supporters are pushing back</title>
+      <link>https://www.fastcompany.com/91526088/trump-posted-an-ai-image-of-himself-as-jesus-this-time-even-his-supporters-are-pushing-back</link>
+      <pubDate>2026-04-13T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91526088/trump-posted-an-ai-image-of-himself-as-jesus-this-time-even-his-supporters-are-pushing-back</guid>
+      <description>The deleted post is drawing criticism from both opponents and longtime supporters.
+On Sunday, April 12, President Trump took to Truth Social with a captionless piece of art. The now-deleted image, which appears to be AI-generated, shows Trump in a flowing white and red robe, holding his hand over the head of a dying man in an apparently healing gesture, and standing in the center of a backdrop of almost comically patriotic imagery. The implication of divine healing, paired with Trump&#8217;s tunic-like garb, makes a clear connection between the president and Jesus.&#160;...</description>
+    </item>
+    <item>
       <title>How to watch Atletico Madrid vs. Barcelona online for free</title>
       <link>https://mashable.com/article/atletico-madrid-barcelona-2026-champions-league-live-stream-for-free</link>
       <pubDate>Mon, 13 Apr 2026 20:00:00 +0000</pubDate>
@@ -94,69 +159,6 @@
       <pubDate>Mon, 13 Apr 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">01kxo65DJVaY3dbhfaiiPGb</guid>
       <description>How to watch the Champions League for free. Watch Liverpool vs. PSG in the Champions League for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>AI influencers are &#8216;everywhere&#8217; at Coachella</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella</link>
-      <pubDate>2026-04-13T15:53:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=911267</guid>
-      <description>Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]</description>
-    </item>
-    <item>
-      <title>Xbox CEO called Game Pass 'too expensive for players' in a leaked memo</title>
-      <link>https://www.engadget.com/gaming/xbox/xbox-ceo-called-game-pass-too-expensive-for-players-in-a-leaked-memo-194749597.html?src=rss</link>
-      <pubDate>Mon, 13 Apr 2026 19:47:49 +0000</pubDate>
-      <guid isPermaLink="false">84e61d88-bfd4-4ad9-87cc-390ea442f47d</guid>
-      <description>Xbox's new chief exec, Asha Sharma, has only been in charge for a few months but things already seem like they might be changing for the better. Or at the very least, they might be getting cheaper. The Verge reported that the new Xbox CEO wrote a memo to employees addressing the current pricing of the Game Pass subscription service.&#160;"Game Pass is central to gaming value on Xbox. It&#8217;s also clear that the current model isn&#8217;t the final one," Sharma allegedly said. "Short term, Game Pass has become too expensive for players, so we need a better value equation. Long term, we will evolve Game Pass i...</description>
-    </item>
-    <item>
-      <title>On &#8216;Maul: Shadow Lord&#8217;, Not Everyone&#8217;s Willing to Learn a Lesson</title>
-      <link>https://gizmodo.com/maul-shadow-lord-recap-episode-3-4-devon-empire-2000745814</link>
-      <pubDate>Mon, 13 Apr 2026 19:16:13 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745814</guid>
-      <description>The new 'Star Wars' animated series prepares Jedi and planets alike for a reckoning with the dark side.</description>
-    </item>
-    <item>
-      <title>IBM pays $17M fine to end DOJ suit over DEI programs</title>
-      <link>https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/</link>
-      <pubDate>Mon, 13 Apr 2026 19:11:27 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3111807</guid>
-      <description>IBM entered&#160;into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in &#8220;illegal DEI practices.&#8221;</description>
-    </item>
-    <item>
-      <title>PhD Student Uses Turntable to Create the Most Impractical Drum Machine Ever</title>
-      <link>https://gizmodo.com/phd-student-uses-turntable-to-create-the-most-impractical-drum-machine-ever-2000745818</link>
-      <pubDate>Mon, 13 Apr 2026 19:10:29 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000745818</guid>
-      <description>A cleverly designed academic exercise in beatmatching angst.</description>
-    </item>
-    <item>
-      <title>Artemis III sera une mission de &#171;&#160;premi&#232;res&#160;&#187; d&#233;cisives pour le retour sur la Lune</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronautique-artemis-iii-sera-mission-premieres-decisives-retour-lune-133684/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 13 Apr 2026 21:08:52 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronautique-artemis-iii-sera-mission-premieres-decisives-retour-lune-133684/#xtor%3DRSS-8</guid>
-      <description>Alors que les astronautes d'Artemis II ont remis le pied sur la terre ferme, la suite est d&#233;j&#224; entam&#233;e avec la mission Artemis III, qui doit avoir lieu d&#232;s l'an prochain. Et si les ambitions de la Nasa ont &#233;t&#233; revues &#224; la baisse, le d&#233;fi technique reste tout de m&#234;me consid&#233;rable.</description>
-    </item>
-    <item>
-      <title>Microsoft is working on yet another OpenClaw-like agent</title>
-      <link>https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/</link>
-      <pubDate>Mon, 13 Apr 2026 19:05:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3111806</guid>
-      <description>The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.</description>
-    </item>
-    <item>
-      <title>'Building gigawatt data centers in the US is becoming increasingly difficult': Why Orbital is taking AI infrastructure into space to solve power and cooling issues</title>
-      <link>https://www.techradar.com/pro/building-gigawatt-data-centers-in-the-us-is-becoming-increasingly-difficult-why-orbital-is-taking-ai-infrastructure-into-space-to-solve-power-and-cooling-issues</link>
-      <pubDate>Mon, 13 Apr 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">AfVaS28LYgmCvj8FNXYhyE</guid>
-      <description>Orbital outlines its vision for space-based AI infrastructure, using solar-powered satellites to overcome energy and cooling limits and scale compute beyond Earth&#8217;s grid.</description>
-    </item>
-    <item>
-      <title>The kings of ANC headphones from Bose hit their Black Friday price of $199</title>
-      <link>https://www.techradar.com/audio/wireless-headphones/the-kings-of-anc-headphones-from-bose-hit-their-black-friday-price-of-usd199</link>
-      <pubDate>Mon, 13 Apr 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">qccBxh3jyB2wqSL3kUGDn6</guid>
-      <description>Grab the Bose QuietComfort Headphones for $199 at Amazon right now &#8212; the same price we saw during Black Friday.</description>
     </item>
   </channel>
 </rss>
