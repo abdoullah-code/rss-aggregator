@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 15 Apr 2026 21:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 22:52:52 GMT</lastBuildDate>
+    <item>
+      <title>Amazon-backed X-energy files to raise up to $800M in IPO</title>
+      <link>https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/</link>
+      <pubDate>Wed, 15 Apr 2026 22:44:26 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3113010</guid>
+      <description>Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.</description>
+    </item>
+    <item>
+      <title>Is this the tipping point for AI at work? New Gallup survey finds half of all US employees now use it in some way</title>
+      <link>https://www.techradar.com/pro/is-this-the-tipping-point-for-ai-at-work-new-gallup-survey-finds-half-of-all-us-employees-now-use-it-in-some-way</link>
+      <pubDate>Wed, 15 Apr 2026 22:35:00 +0000</pubDate>
+      <guid isPermaLink="false">QNmouwUV5bxG7y8r4b8WLR</guid>
+      <description>New Gallup data claims AI usage is at an all-time high, with productivity gains the main boost.</description>
+    </item>
+    <item>
+      <title>I have an Allbirds collection that I love, and its AI pivot feels worse than poorly-fitting shoes</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/i-have-an-allbirds-collection-that-i-love-and-its-ai-pivot-feels-worse-than-poorly-fitting-shoes</link>
+      <pubDate>Wed, 15 Apr 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">yD5AFki9uDmkshnwPqtGMb</guid>
+      <description>Online shoe and apparel company Allbirds nearly went bankrupt, but now it's reemerging as an AI company that will sell you some GPU space. But what's really going on here?</description>
+    </item>
+    <item>
+      <title>YouTube now lets you turn off Shorts</title>
+      <link>https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes</link>
+      <pubDate>2026-04-15T18:18:36-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=912898</guid>
+      <description>YouTube's time management settings now have an option to put a zero-minute time limit on Shorts, effectively removing them from your app in Android and iOS. The option is an update to the Shorts timer YouTube originally announced in October; the lowest previous option was 15 minutes. The feature was expanded in January to give [&#8230;]</description>
+    </item>
+    <item>
+      <title>The First &#8216;Clayface&#8217; Footage Was Wonderfully Disgusting</title>
+      <link>https://gizmodo.com/the-first-clayface-footage-was-wonderfully-disgusting-2000747042</link>
+      <pubDate>Wed, 15 Apr 2026 22:00:08 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000747042</guid>
+      <description>Tom Rhys Harries stars as the Batman villain in the new film arriving October 23.</description>
+    </item>
+    <item>
+      <title>I used ChatGPT to envision my kid&#8217;s doodles as real animals, and they looked surprisingly lifelike</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-used-chatgpt-to-envision-my-kids-doodles-as-real-animals-and-they-looked-surprisingly-lifelike</link>
+      <pubDate>Wed, 15 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">TWQHxjsBowvHXQox4BH75T</guid>
+      <description>ChatGPT can make a child&#8217;s rough animal drawings into photorealistic creatures without altering them.</description>
+    </item>
     <item>
       <title>Microsoft's new college deal is a half-hearted answer to the $500 MacBook Neo</title>
       <link>https://www.engadget.com/computing/laptops/microsofts-new-college-deal-is-a-half-hearted-answer-to-the-500-macbook-neo-215336362.html?src=rss</link>
@@ -66,80 +108,6 @@
       <pubDate>Wed, 15 Apr 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://gizmodo.com/?p=2000747040</guid>
       <description>Imagine actually holding a corporation accountable.</description>
-    </item>
-    <item>
-      <title>Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway.</title>
-      <link>https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook</link>
-      <pubDate>Wed, 15 Apr 2026 20:58:42 GMT</pubDate>
-      <guid isPermaLink="false">2SfAXQE3dbv0XV7jJdQsAa</guid>
-      <description>Microsoft assigned CVE-2026-21520, a CVSS 7.5 indirect prompt injection vulnerability, to Copilot Studio. Capsule Security discovered the flaw, coordinated disclosure with Microsoft, and the patch was deployed on January 15. Public disclosure went live on Wednesday.That CVE matters less for what it fixes and more for what it signals. Capsule&#8217;s research calls Microsoft&#8217;s decision to assign a CVE to a prompt injection vulnerability in an agentic platform &#8220;highly unusual.&#8221; Microsoft previously assigned CVE-2025-32711 (CVSS 9.3) to EchoLeak, a prompt injection in M365 Copilot patched in June 2025,...</description>
-    </item>
-    <item>
-      <title>Is organic music discovery dead? Geese &#8216;psyop&#8217; debate leaves artists frustrated by growing barrier to entry</title>
-      <link>https://www.fastcompany.com/91527282/geese-psyop-debate-rock-band-questions-music-marketing</link>
-      <pubDate>2026-04-15T20:50:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91527282/geese-psyop-debate-rock-band-questions-music-marketing</guid>
-      <description>The rising Gen Z rock band is raising questions about the line between being an industry plant and just having a robust marketing budget.
-The world can&#8217;t seem to escape the Brooklyn-based Gen Z band Geese. Some call them &#8220;America&#8217;s Most Thrilling Young Rock Band,&#8221; while the band and their frontman, Cameron Winter, are drawing endless comparisons to their predecessors the Strokes and Julian Casablancas. Just last week, the band took the stage at Coachella as they gear up for an already sold-out tour....</description>
-    </item>
-    <item>
-      <title>EU Is Rolling Out an Online Age Verification App That Could Become the Global Blueprint</title>
-      <link>https://gizmodo.com/eu-is-rolling-out-an-online-age-verification-app-that-could-become-the-global-blueprint-2000746948</link>
-      <pubDate>Wed, 15 Apr 2026 20:40:39 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000746948</guid>
-      <description>The momentum is building for a social media ban for minors in one of the largest economies in the world.</description>
-    </item>
-    <item>
-      <title>Federal jury finds concert business Live Nation is a monopoly</title>
-      <link>https://www.engadget.com/entertainment/music/federal-jury-finds-concert-business-live-nation-is-a-monopoly-203924011.html?src=rss</link>
-      <pubDate>Wed, 15 Apr 2026 20:39:24 +0000</pubDate>
-      <guid isPermaLink="false">33909111-8207-4b5a-b3ac-6a299e2e7ad7</guid>
-      <description>Live Nation, which operates the Ticketmaster platform, has been determined to be a monopoly. A federal jury handed down its decision today that the company violated federal and state antitrust rules. This finding won't surprise anyone who has used Ticketmaster and been sticker-shocked by their final bill. However, it's unclear what the jury&#8217;s decision will mean in practice.&#160;For starters, the judge overseeing the case hasn't determined what remedies will be applied. The actions could go as far as requiring Live Nation to sell off Ticketmaster. There are also monetary damages to be awarded, whic...</description>
-    </item>
-    <item>
-      <title>'Makes it even more disappointing': Microsoft backs fossil fuel big time with $7 billion deal in race for AI supremacy</title>
-      <link>https://www.techradar.com/pro/makes-it-even-more-disappointing-microsoft-backs-fossil-fuel-big-time-with-usd7-billion-deal-in-race-for-ai-supremacy</link>
-      <pubDate>Wed, 15 Apr 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">ndfXTCezV4BUpC5L9Ri9nJ</guid>
-      <description>Microsoft&#8217;s AI expansion is driving large-scale methane gas deals, increasing emissions, and raising concerns about energy costs, health risks, and climate commitments</description>
-    </item>
-    <item>
-      <title>Starbucks&#8217; ChatGPT experiment could quietly reshape how people order coffee</title>
-      <link>https://www.fastcompany.com/91527369/starbucks-chatgpt-experiment-could-quietly-reshape-how-people-order-coffee</link>
-      <pubDate>2026-04-15T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91527369/starbucks-chatgpt-experiment-could-quietly-reshape-how-people-order-coffee</guid>
-      <description>The beta tool helps users generate drink ideas and customize orders before heading to the app.
-Not sure what to order on your next Starbucks run? Now ChatGPT can help.</description>
-    </item>
-    <item>
-      <title>Duolingo was evaluating its workers&#8217; AI use. Workers pushed back.</title>
-      <link>https://www.fastcompany.com/91527377/duolingo-was-evaluating-its-workers-ai-use-workers-pushed-back</link>
-      <pubDate>2026-04-15T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91527377/duolingo-was-evaluating-its-workers-ai-use-workers-pushed-back</guid>
-      <description>CEO Luis von Ahn said the company &#8220;backtracked&#8221; from performance reviews that evaluated employees&#8217; use of the technology.
-After introducing a new strategy for performance reviews to include evaluations of how effectively workers use AI, Duolingo founder and CEO Luis von Ahn said employees started questioning the decision: &#8220;For a while,&#8221; von Ahn said, AI usage was a metric of company performance reviews.&#160;...</description>
-    </item>
-    <item>
-      <title>Ford&#8217;s EV and software chief Doug Field is leaving the company</title>
-      <link>https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software</link>
-      <pubDate>2026-04-15T16:05:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=912647</guid>
-      <description>Ford is shaking things up as it relates to its EV and software teams. Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Getting a promotion will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's [&#8230;]</description>
-    </item>
-    <item>
-      <title>16 Underrated Anime That Deserve Your Love</title>
-      <link>https://gizmodo.com/16-underrated-anime-that-deserve-your-love-2000746846</link>
-      <pubDate>Wed, 15 Apr 2026 20:00:02 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000746846</guid>
-      <description>To celebrate National Anime Day, here are io9's favorite slept-on gems from 'Anohana' to 'Violet Evergarden.'</description>
-    </item>
-    <item>
-      <title>Where are new grads finding job opportunities</title>
-      <link>https://www.fastcompany.com/91527243/where-are-new-grads-finding-job-opportunities</link>
-      <pubDate>2026-04-15T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91527243/where-are-new-grads-finding-job-opportunities</guid>
-      <description>As hiring slows and automation expands, LinkedIn&#8217;s latest data shows where opportunities remain.
-It&#8217;s a brutal hiring market for new grads. Hiring has slowed across multiple industries and competition is especially fierce given AI has recently begun to take on tasks usually associated with entry-level roles. According to a recent analysis from the Federal Reserve Bank of New York, the unemployment rate for college graduates ages 22 to 27 is up, hitting 5.8 percent at the end of 2025. Overall, hiring is down 7% year over year, and still well below pre-pandemic levels, says Kory Kantenga, Linked...</description>
     </item>
   </channel>
 </rss>
