@@ -3,7 +3,85 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 15 Apr 2026 20:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 21:58:38 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft's new college deal is a half-hearted answer to the $500 MacBook Neo</title>
+      <link>https://www.engadget.com/computing/laptops/microsofts-new-college-deal-is-a-half-hearted-answer-to-the-500-macbook-neo-215336362.html?src=rss</link>
+      <pubDate>Wed, 15 Apr 2026 21:53:36 +0000</pubDate>
+      <guid isPermaLink="false">530f5863-e41e-46d3-bd84-4c071e062858</guid>
+      <description>Apple's MacBook Neo is a $600 (or $500 for students) shot across the bow at affordable Windows laptops, and it seems like Microsoft has ready its first response. The newly announced "Microsoft College Offer" is a bundle of Microsoft 365 Premium, Xbox Game Pass Ultimate, custom Xbox controller and discounted laptop that the company thinks could woo students away from Apple's new deal.&#160;With the purchase of a discounted machine directly from Microsoft, retailers like Amazon and Best Buy or PC makers like HP, ASUS and Acer, you can get what the company says is an extra $500 of value from its bundl...</description>
+    </item>
+    <item>
+      <title>Ford EV and tech chief leaving automaker</title>
+      <link>https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/</link>
+      <pubDate>Wed, 15 Apr 2026 21:52:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3112976</guid>
+      <description>Doug Field had stints at Apple and Tesla before joining Ford in 2021.</description>
+    </item>
+    <item>
+      <title>Wait, could they still actually break up Live Nation?</title>
+      <link>https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/</link>
+      <pubDate>Wed, 15 Apr 2026 21:38:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3112945</guid>
+      <description>A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.</description>
+    </item>
+    <item>
+      <title>'Every Apple user needs to know about this nasty scam': Fake warnings tell users their iCloud data will be deleted &#8212; but don't fall for this devious phishing trick</title>
+      <link>https://www.techradar.com/pro/security/every-apple-user-needs-to-know-about-this-nasty-scam-fake-warnings-tell-users-their-icloud-data-will-be-deleted-but-dont-fall-for-this-devious-phishing-trick</link>
+      <pubDate>Wed, 15 Apr 2026 21:15:00 +0000</pubDate>
+      <guid isPermaLink="false">Vvut6GJ673rCGSnFJhuj2e</guid>
+      <description>Fraudulent iCloud emails use urgency and imitation tactics to trick users into revealing sensitive information through malicious links and deceptive interfaces.</description>
+    </item>
+    <item>
+      <title>Scientists Found Literal Ink From Ballpoint Pens in Martian Meteorites</title>
+      <link>https://gizmodo.com/scientists-found-literal-ink-from-ballpoint-pens-in-martian-meteorites-2000746996</link>
+      <pubDate>Wed, 15 Apr 2026 21:10:14 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000746996</guid>
+      <description>This doesn't devalue scientific research thus far, but we might need a more unified approach for cleaning important samples, the study says.</description>
+    </item>
+    <item>
+      <title>Monarch Tractor&#8217;s collapse ends with an acquisition by Caterpillar</title>
+      <link>https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/</link>
+      <pubDate>Wed, 15 Apr 2026 21:05:21 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3112942</guid>
+      <description>The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.</description>
+    </item>
+    <item>
+      <title>The &#8216;Galaxy&#8217;s Edge&#8217; Han Solo Proves You Really Can&#8217;t Replace Harrison Ford</title>
+      <link>https://gizmodo.com/galaxys-edge-han-solo-character-reveal-star-wars-disneyland-2000746980</link>
+      <pubDate>Wed, 15 Apr 2026 21:00:52 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000746980</guid>
+      <description>'It may not look like much, but it's got it where it counts' is probably not something you want to say to someone's face wandering 'Galaxy's Edge.'</description>
+    </item>
+    <item>
+      <title>BYD Is Rolling Out 5-Minute Charging on Several Popular EVs</title>
+      <link>https://gizmodo.com/byd-is-rolling-out-5-minute-charging-on-several-popular-evs-2000747052</link>
+      <pubDate>Wed, 15 Apr 2026 21:00:37 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000747052</guid>
+      <description>The new Blade Battery 2.0 Flash Charging system can recharge EV batteries from 10% to 70% in five minutes.</description>
+    </item>
+    <item>
+      <title>Jury Does What Trump&#8217;s DOJ Wouldn&#8217;t, Deems Ticketmaster a Monopoly</title>
+      <link>https://gizmodo.com/jury-does-what-trumps-doj-wouldnt-deems-ticketmaster-a-monopoly-2000747040</link>
+      <pubDate>Wed, 15 Apr 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://gizmodo.com/?p=2000747040</guid>
+      <description>Imagine actually holding a corporation accountable.</description>
+    </item>
+    <item>
+      <title>Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway.</title>
+      <link>https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook</link>
+      <pubDate>Wed, 15 Apr 2026 20:58:42 GMT</pubDate>
+      <guid isPermaLink="false">2SfAXQE3dbv0XV7jJdQsAa</guid>
+      <description>Microsoft assigned CVE-2026-21520, a CVSS 7.5 indirect prompt injection vulnerability, to Copilot Studio. Capsule Security discovered the flaw, coordinated disclosure with Microsoft, and the patch was deployed on January 15. Public disclosure went live on Wednesday.That CVE matters less for what it fixes and more for what it signals. Capsule&#8217;s research calls Microsoft&#8217;s decision to assign a CVE to a prompt injection vulnerability in an agentic platform &#8220;highly unusual.&#8221; Microsoft previously assigned CVE-2025-32711 (CVSS 9.3) to EchoLeak, a prompt injection in M365 Copilot patched in June 2025,...</description>
+    </item>
+    <item>
+      <title>Is organic music discovery dead? Geese &#8216;psyop&#8217; debate leaves artists frustrated by growing barrier to entry</title>
+      <link>https://www.fastcompany.com/91527282/geese-psyop-debate-rock-band-questions-music-marketing</link>
+      <pubDate>2026-04-15T20:50:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91527282/geese-psyop-debate-rock-band-questions-music-marketing</guid>
+      <description>The rising Gen Z rock band is raising questions about the line between being an industry plant and just having a robust marketing budget.
+The world can&#8217;t seem to escape the Brooklyn-based Gen Z band Geese. Some call them &#8220;America&#8217;s Most Thrilling Young Rock Band,&#8221; while the band and their frontman, Cameron Winter, are drawing endless comparisons to their predecessors the Strokes and Julian Casablancas. Just last week, the band took the stage at Coachella as they gear up for an already sold-out tour....</description>
+    </item>
     <item>
       <title>EU Is Rolling Out an Online Age Verification App That Could Become the Global Blueprint</title>
       <link>https://gizmodo.com/eu-is-rolling-out-an-online-age-verification-app-that-could-become-the-global-blueprint-2000746948</link>
@@ -26,11 +104,27 @@
       <description>Microsoft&#8217;s AI expansion is driving large-scale methane gas deals, increasing emissions, and raising concerns about energy costs, health risks, and climate commitments</description>
     </item>
     <item>
+      <title>Starbucks&#8217; ChatGPT experiment could quietly reshape how people order coffee</title>
+      <link>https://www.fastcompany.com/91527369/starbucks-chatgpt-experiment-could-quietly-reshape-how-people-order-coffee</link>
+      <pubDate>2026-04-15T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91527369/starbucks-chatgpt-experiment-could-quietly-reshape-how-people-order-coffee</guid>
+      <description>The beta tool helps users generate drink ideas and customize orders before heading to the app.
+Not sure what to order on your next Starbucks run? Now ChatGPT can help.</description>
+    </item>
+    <item>
+      <title>Duolingo was evaluating its workers&#8217; AI use. Workers pushed back.</title>
+      <link>https://www.fastcompany.com/91527377/duolingo-was-evaluating-its-workers-ai-use-workers-pushed-back</link>
+      <pubDate>2026-04-15T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91527377/duolingo-was-evaluating-its-workers-ai-use-workers-pushed-back</guid>
+      <description>CEO Luis von Ahn said the company &#8220;backtracked&#8221; from performance reviews that evaluated employees&#8217; use of the technology.
+After introducing a new strategy for performance reviews to include evaluations of how effectively workers use AI, Duolingo founder and CEO Luis von Ahn said employees started questioning the decision: &#8220;For a while,&#8221; von Ahn said, AI usage was a metric of company performance reviews.&#160;...</description>
+    </item>
+    <item>
       <title>Ford&#8217;s EV and software chief Doug Field is leaving the company</title>
       <link>https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software</link>
       <pubDate>2026-04-15T16:05:00-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=912647</guid>
-      <description>Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Replacing him will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's new title will be vice president of advanced development projects, and he will continue to [&#8230;]...</description>
+      <description>Ford is shaking things up as it relates to its EV and software teams. Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Getting a promotion will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's [&#8230;]</description>
     </item>
     <item>
       <title>16 Underrated Anime That Deserve Your Love</title>
@@ -46,113 +140,6 @@
       <guid isPermaLink="false">https://www.fastcompany.com/91527243/where-are-new-grads-finding-job-opportunities</guid>
       <description>As hiring slows and automation expands, LinkedIn&#8217;s latest data shows where opportunities remain.
 It&#8217;s a brutal hiring market for new grads. Hiring has slowed across multiple industries and competition is especially fierce given AI has recently begun to take on tasks usually associated with entry-level roles. According to a recent analysis from the Federal Reserve Bank of New York, the unemployment rate for college graduates ages 22 to 27 is up, hitting 5.8 percent at the end of 2025. Overall, hiring is down 7% year over year, and still well below pre-pandemic levels, says Kory Kantenga, Linked...</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s posting even more AI-generated Trump-Jesus fan art</title>
-      <link>https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme</link>
-      <pubDate>2026-04-15T15:50:31-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/912627/openai-made-economic-proposals-heres-what-dc-thinks-of-them</guid>
-      <description>Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]</description>
-    </item>
-    <item>
-      <title>PlayStation Plus April catalog adds include Horizon Remastered, Squirrel with a Gun and Frank Stone</title>
-      <link>https://www.engadget.com/gaming/playstation/playstation-plus-april-catalog-adds-include-horizon-remastered-squirrel-with-a-gun-and-frank-stone-194534366.html?src=rss</link>
-      <pubDate>Wed, 15 Apr 2026 19:45:34 +0000</pubDate>
-      <guid isPermaLink="false">71a70d68-3163-4e3d-9227-9ad22ae4b6dd</guid>
-      <description>For PlayStation Plus subscribers, April is going to be a little bit spooky, a tad sporty and extra squirrelly. PlayStation Plus Extra and Premium players will get access to The Crew Motorfest, Horizon Zero Dawn Remastered, Football Manager 26 Console, Warriors: Abyss, Squirrel with a Gun, The Casting of Frank Stone and Monster Train. Additionally,Wild Arms 4 will be exclusive to Premium libraries. Expect the full lineup to go live on April 21.
-The Crew Motorfest, Horizon Zero Dawn Remastered, Warriors: Abyss and Wild Arms 4 will hit PS4 and PS5 consoles, while the rest of the month's additions...</description>
-    </item>
-    <item>
-      <title>'Maybe it&#8217;s not science fiction': Solar panels are causing rainwater to fall in one of the driest places on Earth</title>
-      <link>https://www.techradar.com/pro/maybe-its-not-science-fiction-solar-panels-are-causing-rainwater-to-fall-in-one-of-the-driest-places-on-earth</link>
-      <pubDate>Wed, 15 Apr 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">s2jTS8qdgbvtBqdccQTiZg</guid>
-      <description>Model research suggests large solar farms in deserts may generate rainfall through heat-driven updrafts, potentially providing water for arid regions.</description>
-    </item>
-    <item>
-      <title>The West Finally Got Some Snow, but It&#8217;s Too Little, Too Late</title>
-      <link>https://gizmodo.com/the-west-finally-got-some-snow-but-its-too-little-too-late-2000747028</link>
-      <pubDate>Wed, 15 Apr 2026 19:40:04 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000747028</guid>
-      <description>A powerful late-season snowstorm did not offset the snowpack deficits that have accumulated over the winter.</description>
-    </item>
-    <item>
-      <title>Frontier models are failing one in three production attempts &#8212; and getting harder to audit</title>
-      <link>https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit</link>
-      <pubDate>Wed, 15 Apr 2026 19:35:32 GMT</pubDate>
-      <guid isPermaLink="false">1rR8Uvmvfd8KBuv8J2EIl9</guid>
-      <description>AI agents are now embedded in real enterprise workflows, and they're still failing roughly one in three attempts on structured benchmarks. That gap between capability and reliability is the defining operational challenge for IT leaders in 2026, according to Stanford HAI's ninth annual AI Index report.This uneven, unpredictable performance is what the AI Index calls the "jagged frontier," a term coined by AI researcher Ethan Mollick to describe the boundary where AI excels and then suddenly fails.&#8220;AI models can win a gold medal at the International Mathematical Olympiad,&#8221; Stanford HAI researche...</description>
-    </item>
-    <item>
-      <title>Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks</title>
-      <link>https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks</link>
-      <pubDate>Wed, 15 Apr 2026 19:30:59 GMT</pubDate>
-      <guid isPermaLink="false">3HOyNDvZu2mNTshXA9F0EF</guid>
-      <description>Creating self-improving AI systems is an important step toward deploying agents in dynamic environments, especially in enterprise production environments, where tasks are not always predictable, nor consistent. Current self-improving AI systems face severe limitations because they rely on fixed, handcrafted improvement mechanisms that only work under strict conditions such as software engineering.To overcome this practical challenge, researchers at Meta and several universities introduced &#8220;hyperagents,&#8221; a self-improving AI system that continuously rewrites and optimizes its problem-solving log...</description>
-    </item>
-    <item>
-      <title>SantaCon president stole millions in charitable donations to fund luxury lifestyle, says FBI</title>
-      <link>https://www.fastcompany.com/91527409/santacon-president-stole-millions-in-charitable-donations-to-fund-luxury-lifestyle-fbi-new-york</link>
-      <pubDate>2026-04-15T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91527409/santacon-president-stole-millions-in-charitable-donations-to-fund-luxury-lifestyle-fbi-new-york</guid>
-      <description>Prosecutors claim the organizer was running a &#8216;con game,&#8217; defrauding New Yorkers during the holiday season.
-The organizer behind SantaCon, a Santa-themed crawl that raises money for local charities, is being charged with defrauding ticket-buyers and establishment owners.</description>
-    </item>
-    <item>
-      <title>OpenAI updates its Agents SDK to help enterprises build safer, more capable agents</title>
-      <link>https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/</link>
-      <pubDate>Wed, 15 Apr 2026 19:28:36 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3112660</guid>
-      <description>OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.</description>
-    </item>
-    <item>
-      <title>Elon Musk Scores a Victory Against Free Speech</title>
-      <link>https://gizmodo.com/elon-musk-scores-a-victory-against-free-speech-2000746959</link>
-      <pubDate>Wed, 15 Apr 2026 19:25:42 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000746959</guid>
-      <description>The Trump regime thinks it should be illegal to not give Elon money.</description>
-    </item>
-    <item>
-      <title>Alienware&#8217;s $350 QD-OLED Gaming Monitor Nixes Everything for a Pretty Screen</title>
-      <link>https://gizmodo.com/alienwares-350-qd-oled-gaming-monitor-nixes-everything-for-a-pretty-screen-2000746922</link>
-      <pubDate>Wed, 15 Apr 2026 19:15:21 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000746922</guid>
-      <description>So long as you don't expect any bells and whistles, the barebones 27-inch AW2726DM won't disappoint.</description>
-    </item>
-    <item>
-      <title>How to watch Love Island: Beyond the Villa season 2 online from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/how-to-watch-love-island-beyond-the-villa-season-2-online-from-anywhere</link>
-      <pubDate>Wed, 15 Apr 2026 19:10:00 +0000</pubDate>
-      <guid isPermaLink="false">EtGeXJVNdKBkFGZ5QpQCog</guid>
-      <description>A spinoff of season 7 featuring Amaya Espinal, Bryan Arenales and Nic Vansteenberghe, here's how to watch Love Island: Beyond the Villa season 2 online.</description>
-    </item>
-    <item>
-      <title>Ticketmaster is an illegal monopoly, jury finds</title>
-      <link>https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict</link>
-      <pubDate>2026-04-15T15:09:17-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=912689</guid>
-      <description>Live Nation-Ticketmaster is an illegal monopolist, a Manhattan jury found, according to Bloomberg. The jury found the company liable on three counts: illegally monopolizing the market for live event ticketing, amphitheaters, and tying its concert promotions business with the use of its venues, Bloomberg reported. The verdict, reached after several days of deliberation, leaves the [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Le t&#233;lescope James-Webb a d&#233;tect&#233; un indice troublant aux confins de l&#8217;Univers&#8230; peut-&#234;tre celui des premi&#232;res &#233;toiles</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/etoile-telescope-james-webb-detecte-indice-troublant-confins-univers-peut-etre-celui-premieres-etoiles-133758/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 15 Apr 2026 21:03:57 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/etoile-telescope-james-webb-detecte-indice-troublant-confins-univers-peut-etre-celui-premieres-etoiles-133758/#xtor%3DRSS-8</guid>
-      <description>Le t&#233;lescope spatial James-Webb (JWST) signe encore une d&#233;couverte spectaculaire. Au c&#339;ur de l&#8217;une des plus vieilles galaxies connues, il a d&#233;tect&#233; un signal troublant qui pourrait r&#233;v&#233;ler la pr&#233;sence des toutes premi&#232;res &#233;toiles de notre Univers.</description>
-    </item>
-    <item>
-      <title>FTC pushes ad agencies into dropping brand safety rules</title>
-      <link>https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety</link>
-      <pubDate>2026-04-15T15:00:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=912680</guid>
-      <description>The Federal Trade Commission (FTC) and a group of eight states have announced a proposed settlement with big ad agencies that will prevent them from working together to avoid certain platforms like X based on their political viewpoints. In a complaint, the FTC argues that ad agencies violated antitrust rules by agreeing to a common [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Canceled &#8216;Knight of the Seven Kingdoms&#8217; Filming Likely Won&#8217;t Stop It Coming Out Next Year</title>
-      <link>https://gizmodo.com/knight-of-the-seven-kingdoms-season-2-filming-canceled-release-delay-2000746982</link>
-      <pubDate>Wed, 15 Apr 2026 19:00:03 +0000</pubDate>
-      <guid isPermaLink="false">https://gizmodo.com/?p=2000746982</guid>
-      <description>Fear not, Dunk and Egg fans, season two should still arrive right on time in 2027.</description>
     </item>
   </channel>
 </rss>
