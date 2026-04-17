@@ -3,7 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 17 Apr 2026 21:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:47:46 GMT</lastBuildDate>
+    <item>
+      <title>Sam Altman&#8217;s project World looks to scale its human verification empire. First stop: Tinder.</title>
+      <link>https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/</link>
+      <pubDate>Fri, 17 Apr 2026 22:34:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3113492</guid>
+      <description>World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.</description>
+    </item>
+    <item>
+      <title>15 years after 'Video Games,' Lana Del Rey has an actual video game song</title>
+      <link>https://www.engadget.com/gaming/15-years-after-video-games-lana-del-rey-has-an-actual-video-game-song-221925735.html?src=rss</link>
+      <pubDate>Fri, 17 Apr 2026 22:19:25 +0000</pubDate>
+      <guid isPermaLink="false">66df1eaa-7c4a-434f-a22d-137dfccfe30f</guid>
+      <description>The James Bond franchise has a long history of getting pop stars to record its theme songs (perhaps most memorably with Live and Let Die), and it looks like that tradition will now extend to video game adaptations about the fictional spy. IO Interactive has announced that Lana Del Rey co-wrote and performed the theme for 007 First Light, the developer's playable James Bond origin story. "First Light" is written and performed by Lana Del Rey and composer David Arnold, and like the moody and abstract opening credits released alongside the song, could vaguely gesture at the themes of the game. IO...</description>
+    </item>
+    <item>
+      <title>'Essentially no human intervention': Chinese AI solves 12-year-old math problem in just 80 hours &#8212; and even proves it</title>
+      <link>https://www.techradar.com/pro/essentially-no-human-intervention-chinese-ai-solves-12-year-old-math-problem-in-just-80-hours-and-even-proves-it</link>
+      <pubDate>Fri, 17 Apr 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">tTsaKAqMAdDfLnqqDyNiLJ</guid>
+      <description>Peking University's dual agent AI solved Anderson's 2014 algebra conjecture in 80 hours with no human intervention and full verification.</description>
+    </item>
+    <item>
+      <title>'We can lose three [computers] and still ride through&#8217;: Inside the 8-CPU brain of NASA&#8217;s Artemis II that &#8216;votes&#8217; on every move</title>
+      <link>https://www.techradar.com/pro/we-can-lose-three-computers-and-still-ride-through-inside-the-8-cpu-brain-of-nasas-artemis-ii-that-votes-on-every-move</link>
+      <pubDate>Fri, 17 Apr 2026 21:50:00 +0000</pubDate>
+      <guid isPermaLink="false">wNU3bGCx3NTD8rNwF2JtMa</guid>
+      <description>NASA&#8217;s Orion spacecraft uses eight synchronized processors and layered redundancy to maintain operations in deep space, where hardware failures cannot be repaired.</description>
+    </item>
     <item>
       <title>&#8216;The face thing is probably going to break&#8217; &#8212; Sam Altman-backed firm warns AI will soon outgrow facial recognition, but says its &#8216;proof of human&#8217; system World ID could be part of the solution</title>
       <link>https://www.techradar.com/ai-platforms-assistants/the-face-thing-is-probably-going-to-break-sam-altman-backed-firm-warns-ai-will-soon-outgrow-facial-recognition-but-says-its-proof-of-human-system-world-id-could-be-part-of-the-solution</link>
@@ -39,78 +67,6 @@
       <guid isPermaLink="false">https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies</guid>
       <description>Defunct companies are striking gold by selling their digital footprints to AI labs as training data, Forbes reports.
 Just because a startup fails doesn&#8217;t mean it can&#8217;t cash out big.&#160;</description>
-    </item>
-    <item>
-      <title>Should you stare into Sam Altman&amp;#8217;s orb before your next date?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb</link>
-      <pubDate>2026-04-17T16:42:47-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=914385</guid>
-      <description>Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]</description>
-    </item>
-    <item>
-      <title>Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests&#8217;</title>
-      <link>https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/</link>
-      <pubDate>Fri, 17 Apr 2026 20:38:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3113889</guid>
-      <description>Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.</description>
-    </item>
-    <item>
-      <title>'A blast from the past': The Maxell Wireless Cassette Player is a magic carpet ride of audio nostalgia</title>
-      <link>https://www.techradar.com/audio/maxell-wireless-cassette-player-review</link>
-      <pubDate>Fri, 17 Apr 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">PViW9Cqar38hGN9nXCRPG3</guid>
-      <description>The Maxell Wireless Cassette Player is a nifty blend of old and new, bringing your old tapes to your ears without the need for a wired pair of headphones.</description>
-    </item>
-    <item>
-      <title>Indeed CEO says this&#8212;not AI&#8212;is the biggest threat to the workforce</title>
-      <link>https://www.fastcompany.com/91528811/indeed-ceo-says-this-not-ai-is-the-biggest-threat-to-the-workforce</link>
-      <pubDate>2026-04-17T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91528811/indeed-ceo-says-this-not-ai-is-the-biggest-threat-to-the-workforce</guid>
-      <description>At an event this week, Indeed CEO Hisayuki &#8220;Deko&#8221; Idekoba said another urgent issue would have a &#8220;way bigger impact&#8221; on the labor market than AI. 
-Most business leaders are laser-focused on the existential threat that AI poses, with many of them citing it as a reason for major layoffs. At an event this week, however, Indeed CEO Hisayuki &#8220;Deko&#8221; Idekoba suggested there was another force that would wreak havoc on the labor market&#8212;one that he argued was more pressing.&#160;...</description>
-    </item>
-    <item>
-      <title>This car company just patented a toilet under your seat</title>
-      <link>https://www.fastcompany.com/91528853/this-car-company-just-patented-a-toilet-under-your-seat</link>
-      <pubDate>2026-04-17T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91528853/this-car-company-just-patented-a-toilet-under-your-seat</guid>
-      <description>A Chinese EV maker wants to solve long road trips with a built-in bathroom that slides out on command.
-If you&#8217;ve been curious about #vanlife but can&#8217;t justify dropping $100,000 on a kitted-out camper, a new patent from a Chinese automaker offers a compromise &#8211; but you might not like it.</description>
-    </item>
-    <item>
-      <title>Man who hacked US Supreme Court filing system sentenced to probation</title>
-      <link>https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/</link>
-      <pubDate>Fri, 17 Apr 2026 20:16:13 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3113890</guid>
-      <description>Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.</description>
-    </item>
-    <item>
-      <title>Anthropic&#8217;s new cybersecurity model could get it back in the government&#8217;s good graces</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview</link>
-      <pubDate>2026-04-17T16:14:21-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=914229</guid>
-      <description>The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a "RADICAL LEFT, WOKE COMPANY" full of "Leftwing nut jobs" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. [&#8230;]...</description>
-    </item>
-    <item>
-      <title>A lot of you panic-bought PCs to avoid RAMaggedon 2026</title>
-      <link>https://www.engadget.com/computing/a-lot-of-you-panic-bought-pcs-to-avoid-ramaggedon-2026-200237204.html?src=rss</link>
-      <pubDate>Fri, 17 Apr 2026 20:02:37 +0000</pubDate>
-      <guid isPermaLink="false">62148a7c-6751-4dd8-9ec6-c0f9ae907772</guid>
-      <description>The specter of price hikes caused by the current AI-driven demand for memory and storage appears to have convinced a fair share of people to buy a new computer. According to data analyzed by Counterpoint Research, global PC shipments grew around 3.2 percent year-over-year in Q1 2026, "driven by pre-emptive buying before memory-led price increases hit the retail level" and Microsoft forcing some customers to upgrade by ending support for Windows 10 last year. Sales hit 63.3 million units during the first quarter, Counterpoint says, and were particularly concentrated in five high-end PC makers: ...</description>
-    </item>
-    <item>
-      <title>How to watch Atletico Madrid vs. Real Sociedad in the Copa del Rey final online for free</title>
-      <link>https://mashable.com/article/atletico-madrid-real-sociedad-copa-del-rey-final-2026-live-stream-for-free</link>
-      <pubDate>Fri, 17 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">0055Zc5Ix22xpqWCgx1W4oF</guid>
-      <description>How to watch Copa del Rey final for free. Live stream Atletico Madrid vs. Real Sociedad in the 2026 Copa del Rey final for free.</description>
-    </item>
-    <item>
-      <title>OpenAI Executive Kevin Weil Is Leaving the Company</title>
-      <link>https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/</link>
-      <pubDate>Fri, 17 Apr 2026 19:56:42 +0000</pubDate>
-      <guid isPermaLink="false">69e28af72e2d64bf927d8e75</guid>
-      <description>The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.</description>
     </item>
   </channel>
 </rss>
