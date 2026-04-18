@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 18 Apr 2026 21:40:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 22:39:54 GMT</lastBuildDate>
+    <item>
+      <title>'A mosaic-like pattern': This new &#8216;Swiss-Army&#8217; optical chip replaces bulky hardware to deliver better, faster broadband</title>
+      <link>https://www.techradar.com/pro/a-mosaic-like-pattern-this-new-swiss-army-optical-chip-replaces-bulky-hardware-to-deliver-better-faster-broadband</link>
+      <pubDate>Sat, 18 Apr 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">24D3PfEhnCJEghk5aYX5D5</guid>
+      <description>A mosaic metasurface design integrates eleven optical functions, claiming that controlled disorder can enhance performance and reduce space requirements in optical systems.</description>
+    </item>
     <item>
       <title>Tesla brings its robotaxi service to Dallas and Houston</title>
       <link>https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/</link>
@@ -24,43 +31,6 @@
       <pubDate>Sat, 18 Apr 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">o3WZcn3wkg99gMgchhWLJF</guid>
       <description>Sony World Photography Award 2026's Wildlife category winner shares his setup for capturing unique photos of the animals in Masai Mara, Kenya, helping the park</description>
-    </item>
-    <item>
-      <title>'Birds avoid turbines far more than prediction models assume': Spoor&#8217;s AI monitoring is changing how wind farms measure wildlife risk</title>
-      <link>https://www.techradar.com/pro/birds-avoid-turbines-far-more-than-prediction-models-assume-spoors-ai-monitoring-is-changing-how-wind-farms-measure-wildlife-risk</link>
-      <pubDate>Sat, 18 Apr 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">jpdQbcHSouDB2cPjxfajFa</guid>
-      <description>Spoor outlines its vision for AI-based biodiversity monitoring, using computer vision to scale wildlife tracking across wind energy sites.</description>
-    </item>
-    <item>
-      <title>'1,000x faster internet': New Chinese crystal breakthrough could make the world's GPS obsolete overnight</title>
-      <link>https://www.techradar.com/pro/1-000x-faster-internet-new-chinese-crystal-breakthrough-could-make-the-worlds-gps-obsolete-overnight</link>
-      <pubDate>Sat, 18 Apr 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">sHsoBtPnPdWDz9i69TgTzP</guid>
-      <description>A new ultraviolet breakthrough improves laser precision, advancing nuclear clock research and opening possibilities for autonomous navigation in space and underwater environments.</description>
-    </item>
-    <item>
-      <title>VC Ron Conway says he has a &#8216;rare form of cancer&#8217;</title>
-      <link>https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/</link>
-      <pubDate>Sat, 18 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3113983</guid>
-      <description>Conway wrote that he &#8220;will be stepping back from some of my usual activities,&#8221; but he will &#8220;continue to support&#8221; founders backed by his firm SV Angel.</description>
-    </item>
-    <item>
-      <title>The Narwal Flow 2 an AI-forward robot vacuum and mop that uses its smarts to determine how dirty your floor is, and the best way to clean it</title>
-      <link>https://www.techradar.com/home/robot-vacuums/narwal-flow-2-review</link>
-      <pubDate>Sat, 18 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">a3AupQN5JTb92n9aF8RwbT</guid>
-      <description>Narwal&#8217;s 2026 flagship robot vacuum is outfitted with video cameras and super smart AI cleaning technology to work out the best way to tackle your home.</description>
-    </item>
-    <item>
-      <title>SNK's Neo Geo console remake works with original cartridges and HDMI</title>
-      <link>https://www.engadget.com/gaming/snks-neo-geo-console-remake-works-with-original-cartridges-and-hdmi-194509442.html?src=rss</link>
-      <pubDate>Sat, 18 Apr 2026 19:45:09 +0000</pubDate>
-      <guid isPermaLink="false">8c47d7cd-25e6-4b65-8061-ed502ffd016b</guid>
-      <description>Not everyone had the money for the original Neo Geo Advanced Entertainment System when it released in the '90s, but there's still a chance to experience it as an adult with disposable income. SNK and Plaion Replai, who is also behind the all-black remake of the Commodore 64, announced a faithful remake of the high-end retro console, called the Neo Geo AES+.
-
-To bring the original console into the modern day, the collaborating companies added HDMI compatibility for resolutions up to 1080p and DIP switches on the bottom of the console to allow for language selection, overclocking and switching d...</description>
     </item>
   </channel>
 </rss>
