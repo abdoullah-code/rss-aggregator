@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 19 Apr 2026 20:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 21:40:27 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI&#8217;s existential questions</title>
+      <link>https://techcrunch.com/2026/04/19/openais-existential-questions/</link>
+      <pubDate>Sun, 19 Apr 2026 21:24:06 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3114050</guid>
+      <description>On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address "two big existential problems" for the company.</description>
+    </item>
+    <item>
+      <title>The NSA is reportedly using Anthropic's new model Mythos</title>
+      <link>https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss</link>
+      <pubDate>Sun, 19 Apr 2026 21:15:02 +0000</pubDate>
+      <guid isPermaLink="false">f7184832-71ca-44fd-a248-2971021e5907</guid>
+      <description>Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according to Axios, which spoke to two sources with knowledge of the matter. Anthropic announced Mythos Preview at the beginning of April, describing it as a general-purpose language model that is "strikingly capable at computer security tasks." But back in February, Trump ordered all government agencies to stop using Anthropic's services after the company refused to budge on certain safeguards for military uses during contract talks.&#160; The news comes days ...</description>
+    </item>
     <item>
       <title>Blue Origin successfully reused its New Glenn rocket</title>
       <link>https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket</link>
@@ -24,56 +38,6 @@
       <pubDate>2026-04-19T15:54:52-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=914723</guid>
       <description>Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The 12-month window</title>
-      <link>https://techcrunch.com/2026/04/19/the-12-month-window/</link>
-      <pubDate>Sun, 19 Apr 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114032</guid>
-      <description>A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.</description>
-    </item>
-    <item>
-      <title>'It&#8217;s a bit surprising': Why the majority of businesses are still sending marketing emails without tracking ROI</title>
-      <link>https://www.techradar.com/pro/its-a-bit-surprising-why-the-majority-of-businesses-are-still-sending-marketing-emails-without-tracking-roi</link>
-      <pubDate>Sun, 19 Apr 2026 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">xUqtDogvBT7oQtxzUVsgo5</guid>
-      <description>Many businesses continue investing in email marketing despite weak ROI tracking, poor deliverability, and limited AI use beyond basic content generation.</description>
-    </item>
-    <item>
-      <title>Beijing's robot half-marathon is back for its second year with far less embarassing results</title>
-      <link>https://www.engadget.com/ai/beijings-robot-half-marathon-is-back-for-its-second-year-with-far-less-embarassing-results-191308396.html?src=rss</link>
-      <pubDate>Sun, 19 Apr 2026 19:13:08 +0000</pubDate>
-      <guid isPermaLink="false">3240a05b-2728-4a6e-bb0b-732d4592a102</guid>
-      <description>To make up for an incredibly laughable inaugural event, Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chinese companies against each other across 13 miles went a lot smoother this year.
-This year's half-marathon hosted more than 100 competitors, with first place going to Honor, better known for its smartphones, and its red-clad robot named Lightning. Living up to the name, the gold medalist finished the race in 50 minutes and 26 seconds. That's several minutes faster than the human record that was recently set by Uganda's Jac...</description>
-    </item>
-    <item>
-      <title>Blue Origin&#8217;s New Glenn put a customer satellite in the wrong orbit during its third launch</title>
-      <link>https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/</link>
-      <pubDate>Sun, 19 Apr 2026 19:02:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114024</guid>
-      <description>The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon.</description>
-    </item>
-    <item>
-      <title>IKEA's iconic Billy bookcase just got a makeover, so here's how to style it in your home</title>
-      <link>https://www.techradar.com/home/ikeas-iconic-billy-bookcase-just-got-a-makeover-and-heres-how-to-style-it-in-your-home</link>
-      <pubDate>Sun, 19 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">fBPpLGwLUhjnQzU4GaFjQc</guid>
-      <description>Over 140 million Billy bookcases have been sold worldwide, but this new blue version is a limited edition.</description>
-    </item>
-    <item>
-      <title>Home Depot's spring sale is, dare I say, better than Black Friday? 40% off patio furniture, appliances, grills, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/home-depots-spring-sale-is-dare-i-say-better-than-black-friday-save-up-to-usd1-000-on-patio-furniture-appliances-tools-and-more</link>
-      <pubDate>Sun, 19 Apr 2026 18:54:26 +0000</pubDate>
-      <guid isPermaLink="false">r8frFxGfomVj7rEUxzLpPj</guid>
-      <description>Home Depot's spring sale just might be better than Black Friday, thanks to huge savings on patio furniture, appliances, tools, grills, lawn mowers, and more.</description>
-    </item>
-    <item>
-      <title>Robots beat human records at Beijing half-marathon</title>
-      <link>https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/</link>
-      <pubDate>Sun, 19 Apr 2026 18:44:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114025</guid>
-      <description>The winning time is a massive improvement over last year&#8217;s race, when the fastest robot finished in two hours and 40 minutes.</description>
     </item>
   </channel>
 </rss>
