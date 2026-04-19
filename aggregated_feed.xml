@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 19 Apr 2026 21:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:40:53 GMT</lastBuildDate>
     <item>
       <title>OpenAI&#8217;s existential questions</title>
       <link>https://techcrunch.com/2026/04/19/openais-existential-questions/</link>
@@ -17,27 +17,6 @@
       <pubDate>Sun, 19 Apr 2026 21:15:02 +0000</pubDate>
       <guid isPermaLink="false">f7184832-71ca-44fd-a248-2971021e5907</guid>
       <description>Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according to Axios, which spoke to two sources with knowledge of the matter. Anthropic announced Mythos Preview at the beginning of April, describing it as a general-purpose language model that is "strikingly capable at computer security tasks." But back in February, Trump ordered all government agencies to stop using Anthropic's services after the company refused to budge on certain safeguards for military uses during contract talks.&#160; The news comes days ...</description>
-    </item>
-    <item>
-      <title>Blue Origin successfully reused its New Glenn rocket</title>
-      <link>https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket</link>
-      <pubDate>2026-04-19T16:28:52-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=914729</guid>
-      <description>Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Eero Signal is the best home office upgrade I&#8217;ve made this year</title>
-      <link>https://www.techradar.com/computing/internet/eero-signal-is-the-best-home-office-upgrade-ive-made-this-year</link>
-      <pubDate>Sun, 19 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">jgkfRmKbCZRRF2F7YL8AWE</guid>
-      <description>We tried Eero Signal: when your main internet connection drops, your Eero system automatically switches to the LTE connection that Signal provides.</description>
-    </item>
-    <item>
-      <title>Cloud development platform Vercel was hacked</title>
-      <link>https://www.theverge.com/tech/914723/vercel-hacked</link>
-      <pubDate>2026-04-19T15:54:52-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=914723</guid>
-      <description>Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]...</description>
     </item>
   </channel>
 </rss>
