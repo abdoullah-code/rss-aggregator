@@ -3,13 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 20 Apr 2026 21:52:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:50:59 GMT</lastBuildDate>
+    <item>
+      <title>The Lenovo Legion Go S is RAMageddon&#8217;s latest victim</title>
+      <link>https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon</link>
+      <pubDate>2026-04-20T18:49:42-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=915278</guid>
+      <description>You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearly double what it did at launch - originally $829.99 last summer, the SteamOS [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#8220;Essentially invisible:&#8221; How hackers 'trojan-horsed' QEMU virtual machines to bypass security and drop ransomware</title>
+      <link>https://www.techradar.com/pro/essentially-invisible-how-hackers-trojan-horsed-qemu-virtual-machines-to-bypass-security-and-drop-ransomware</link>
+      <pubDate>Mon, 20 Apr 2026 22:40:00 +0000</pubDate>
+      <guid isPermaLink="false">VRnfqfp6LfPpCttVq37N63</guid>
+      <description>Hackers hide ransomware tools inside virtual machines using QEMU, allowing attacks to bypass security controls and remain largely invisible.</description>
+    </item>
+    <item>
+      <title>A Humanoid Robot Set a Half-Marathon Record in China</title>
+      <link>https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/</link>
+      <pubDate>Mon, 20 Apr 2026 22:33:27 +0000</pubDate>
+      <guid isPermaLink="false">69e6770812f0195156ae43dd</guid>
+      <description>An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.</description>
+    </item>
+    <item>
+      <title>"100x faster than traditional tools": Scientists load quantum computer with first complete genome to crack biology&#8217;s 'impossible' puzzle &#8212; in time for World Quantum Day</title>
+      <link>https://www.techradar.com/pro/100x-faster-than-traditional-tools-scientists-load-quantum-computer-with-first-complete-genome-to-crack-biologys-impossible-puzzle-in-time-for-world-quantum-day</link>
+      <pubDate>Mon, 20 Apr 2026 22:10:00 +0000</pubDate>
+      <guid isPermaLink="false">uMdjJagDt88JjpsjdSNBbR</guid>
+      <description>Scientists load a complete genome into a quantum computer, moving faster DNA analysis closer to reality.</description>
+    </item>
+    <item>
+      <title>Veremark Background Check review: A surprisingly practical solution for businesses of all sizes</title>
+      <link>https://www.techradar.com/pro/veremark-background-check-review</link>
+      <pubDate>Mon, 20 Apr 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">2PvCbxMBXCUSTu6Li5wTmR</guid>
+      <description>Veremark offers a global background screening platform that streamlines hiring through automation, secure data handling, and customizable workflows.</description>
+    </item>
+    <item>
+      <title>Google rolls out Gemini in Chrome in seven new countries</title>
+      <link>https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/</link>
+      <pubDate>Mon, 20 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3114079</guid>
+      <description>Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.</description>
+    </item>
+    <item>
+      <title>Google brings Gemini in Chrome to users in Australia, Japan, Singapore and South Korea</title>
+      <link>https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-australia-japan-singapore-and-south-korea-220000474.html?src=rss</link>
+      <pubDate>Mon, 20 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">325d5e20-b87d-435a-99f5-ab228b260456</guid>
+      <description>After debuting in the US, Gemini in Chrome is making its way to more markets. Starting today, Google is rolling out Chrome's built-in chatbot to users in countries in East Asia and the Pacific, including Australia, Indonesia, Japan, the Philippines, Singapore, South Korea and Vietnam. The expansion comes after Google earlier this year made Gemini in Chrome available to people in Canada, India and New Zealand.&#160;With the exception of Japan, where Google isn't making the new suite available on iOS just yet, everyone else in the countries mentioned above can access Gemini in Chrome through Chrome's...</description>
+    </item>
     <item>
       <title>John Ternus is taking over from Tim Cook as Apple&amp;#8217;s CEO</title>
       <link>https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook</link>
       <pubDate>2026-04-20T17:44:15-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=915272</guid>
-      <description>The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Cook&#8217;s legacy, and what will Apple look like [&#8230;]</description>
+      <description>The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Cook&#8217;s legacy, and what will Apple look like [&#8230;]</description>
     </item>
     <item>
       <title>Read Tim Cook&amp;#8217;s letter to the Apple world as he departs as CEO</title>
@@ -33,7 +82,7 @@
       <description>US turns to DARPA&#8217;s Smash program to fix rare earth processing bottlenecks instead of opening new mines.</description>
     </item>
     <item>
-      <title>Tim Cook annonce son d&#233;part et quittera la pr&#233;sidence d&#8217;Apple en septembre prochain apr&#232;s 15 ans</title>
+      <title>Tim Cook quittera la pr&#233;sidence d&#8217;Apple en septembre prochain apr&#232;s 15 ans de r&#232;gne</title>
       <link>https://www.frandroid.com/marques/3071599_tim-cook-quittera-la-direction-dapple-en-septembre-apres-15-ans-de-regne</link>
       <pubDate>Mon, 20 Apr 2026 21:17:33 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/marques/3071599_tim-cook-quittera-la-direction-dapple-en-septembre-apres-15-ans-de-regne</guid>
@@ -42,7 +91,15 @@ Coup de tonnerre chez Apple ! Apr&#232;s quinze ans au poste de CEO, Tim Cook c&
 </description>
     </item>
     <item>
-      <title>Tim Cook stepping down, John Ternus will become new Apple CEO</title>
+      <title>John Ternus named new CEO of Apple, will replace Tim Cook in September</title>
+      <link>https://www.fastcompany.com/91529786/john-ternus-named-new-ceo-of-apple-will-replace-tim-cook-in-september</link>
+      <pubDate>2026-04-20T21:13:10</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91529786/john-ternus-named-new-ceo-of-apple-will-replace-tim-cook-in-september</guid>
+      <description>Ternus, Apple&#8217;s senior vice president of hardware engineering, will be the new chief executive as Tim Cook becomes executive chairman.
+John Ternus, Apple&#8217;s senior vice president of hardware engineering, has been named the new CEO of Apple, the company announced.</description>
+    </item>
+    <item>
+      <title>Tim Cook stepping down at Apple, John Ternus will become new CEO</title>
       <link>https://www.techradar.com/phones/tim-cook-to-step-down-john-ternus-will-become-new-apple-ceo</link>
       <pubDate>Mon, 20 Apr 2026 21:12:24 +0000</pubDate>
       <guid isPermaLink="false">RJE7nPiwLqJde6KwNNkTG5</guid>
@@ -96,100 +153,6 @@ Coup de tonnerre chez Apple ! Apr&#232;s quinze ans au poste de CEO, Tim Cook c&
       <pubDate>Mon, 20 Apr 2026 20:51:41 +0000</pubDate>
       <guid isPermaLink="false">Qo8Jq7i8JHfeUQoVwBna9</guid>
       <description>The 1,000 TOPS consumer: Multiple devices could deliver powerful distributed AI capability by 2030</description>
-    </item>
-    <item>
-      <title>Mastodon was hit by a 'major' DDoS attack that briefly took down parts of the service</title>
-      <link>https://www.engadget.com/social-media/mastodon-was-hit-by-a-major-ddos-attack-that-briefly-took-down-parts-of-the-service-204823221.html?src=rss</link>
-      <pubDate>Mon, 20 Apr 2026 20:48:23 +0000</pubDate>
-      <guid isPermaLink="false">78c07065-e95a-4aa2-ab37-d6f4ef28c2dc</guid>
-      <description>Mastodon seems to be recovering after a Distributed Denial of Service (DDoS) attack that took down its primary mastodon.social instance. As TechCrunch notes, the platform began reporting issues early Monday morning as much of the Mastodon-operated server became inaccessible.&#160;It's not clear who might be behind the attack, but Mastodon's head of communications Andy Piper described it as a "major" incident. A couple hours later, Mastodon shared on a status page that it had implemented countermeasures and that users should be able to access mastodon.social once again. Piper said that "some ongoing...</description>
-    </item>
-    <item>
-      <title>Apple CEO Tim Cook is stepping down</title>
-      <link>https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus</link>
-      <pubDate>2026-04-20T16:42:59-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=915213</guid>
-      <description>Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus, currently Apple's senior vice president of hardware engineering. Ternus will take over as CEO and join Apple's board of directors on September 1st, 2026. Cook, who joined Apple in 1998 and took over as CEO from Steve Jobs in 2011, will [&#8230;]</description>
-    </item>
-    <item>
-      <title>Tim Cook stepping down as Apple CEO, John Ternus taking over</title>
-      <link>https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/</link>
-      <pubDate>Mon, 20 Apr 2026 20:42:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114374</guid>
-      <description>Senior Vice President of Hardware Engineering John Ternus will take over as CEO at the start of September.</description>
-    </item>
-    <item>
-      <title>Here&amp;#8217;s how Amazon&amp;#8217;s price fixing allegedly drove up prices everywhere</title>
-      <link>https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit</link>
-      <pubDate>2026-04-20T16:39:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=915209</guid>
-      <description>On Monday, California Attorney General Rob Bonta revealed the evidence of alleged price-fixing by Amazon. The state filed a request to the Supreme Court in February for a preliminary injunction to stop Amazon's behavior while the lawsuit it originally filed in 2022 proceeds, and is now making that 16-page document available, "largely unredacted." It lays [&#8230;]...</description>
-    </item>
-    <item>
-      <title>How to watch NBA Playoffs 2026: live streams, schedule, TV channels</title>
-      <link>https://www.techradar.com/how-to-watch/basketball/how-to-watch-nba-playoffs-2026-live-streams-schedule-tv-channels</link>
-      <pubDate>Mon, 20 Apr 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">xe7qWo99mEQss9TaqLBnGM</guid>
-      <description>With 16 teams in the hunt for a place in this year's NBA Final, see how to watch NBA Playoffs 2026 live streams around the world with TV channels explained.</description>
-    </item>
-    <item>
-      <title>Silicon Valley has forgotten what normal people want</title>
-      <link>https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos</link>
-      <pubDate>2026-04-20T16:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=915176</guid>
-      <description>One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns [&#8230;]</description>
-    </item>
-    <item>
-      <title>I picked up this cheap MP3 player, and it freed me from my phone so often, I wish I'd got it sooner</title>
-      <link>https://www.techradar.com/audio/portable-media-players/i-picked-up-this-cheap-mp3-player-and-it-freed-me-from-my-phone-so-often-i-wish-id-got-it-sooner</link>
-      <pubDate>Mon, 20 Apr 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">sEWT5xtoLyUz6wJ3cx5FvD</guid>
-      <description>I ditched music on my phone for this cheap MP3 player &#8212; and two weeks on, I wish I'd done it sooner</description>
-    </item>
-    <item>
-      <title>Google Photos adds new touch-up tools for &#8216;quick&#8217; fixes</title>
-      <link>https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/</link>
-      <pubDate>Mon, 20 Apr 2026 20:20:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114338</guid>
-      <description>You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.</description>
-    </item>
-    <item>
-      <title>Palantir released a 22-point manifesto on X and people are horrified</title>
-      <link>https://www.fastcompany.com/91529543/palantir-manifesto-x-horrifies-people-social-media</link>
-      <pubDate>2026-04-20T20:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91529543/palantir-manifesto-x-horrifies-people-social-media</guid>
-      <description>The software company summarized key points from a book coauthored by its CEO, which argues that defense is a moral imperative for tech elites.
-Palantir is undoubtedly controversial.</description>
-    </item>
-    <item>
-      <title>Goop Kitchen is opening 7 NYC locations&#8212;but you might never step inside one</title>
-      <link>https://www.fastcompany.com/91529612/goop-kitchen-is-opening-7-nyc-locations-but-you-might-never-step-inside-one</link>
-      <pubDate>2026-04-20T20:13:37</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91529612/goop-kitchen-is-opening-7-nyc-locations-but-you-might-never-step-inside-one</guid>
-      <description>The chain&#8217;s &#8216;ghost kitchen&#8217; model skips traditional dining rooms in favor of delivery efficiency.
-Five years after its California debut, Gwyneth Paltrow&#8217;s fast-casual concept, Goop Kitchen, is officially expanding to its second state. The delivery-focused chain plans to open seven new restaurants in New York by the end of 2026, beginning in Midtown West....</description>
-    </item>
-    <item>
-      <title>WhatsApp tests &amp;#8216;Plus&amp;#8217; subscription that adds stickers and more for a few bucks a month</title>
-      <link>https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription</link>
-      <pubDate>2026-04-20T16:12:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=915172</guid>
-      <description>WhatsApp users are getting some new customization features - for a price. According to WABetaInfo, Meta is rolling out a WhatsApp Plus subscription to "a limited number of users," offering several cosmetic and quality of life perks, including exclusive stickers, different app themes, custom app icons, premium ringtones, the ability to pin up to 20 [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Japanese man sentenced to prison for posting spoilers</title>
-      <link>https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten</link>
-      <pubDate>2026-04-20T16:02:58-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=914984</guid>
-      <description>Though it's very common for entertainment writers to describe some narrative elements of the films and shows that they're covering, a Japanese court has determined that the practice can sometimes be tantamount to copyright infringement. Last Thursday, the Tokyo District Court ruled that 39-year-old Wataru Takeuchi was guilty of violating Japanese law that prohibits the [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang: &#8216;Most people will lose their job to somebody who uses AI&#8217;&#8212;not to AI itself</title>
-      <link>https://www.fastcompany.com/91529563/nvidia-ceo-jensen-huang-most-people-will-lose-their-job-to-somebody-who-uses-ai-not-to-ai-itself</link>
-      <pubDate>2026-04-20T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91529563/nvidia-ceo-jensen-huang-most-people-will-lose-their-job-to-somebody-who-uses-ai-not-to-ai-itself</guid>
-      <description>The billionaire founder said it is &#8216;unlikely&#8217; that most people will lose their job to AI&#8212;and that AI agents will micromanage you, not steal your job. 
-At a recent Stanford Graduate School of Business panel, Nvidia CEO Jensen Huang and California Congressman Ro Khanna discussed some burning topics about artificial intelligence&#8212;from innovation and competition to adoption and skepticism. While AI-related job panic has infiltrated different industries, Huang doubled down on his belief that the technology will do more good than harm to the job market.&#160;...</description>
     </item>
   </channel>
 </rss>
