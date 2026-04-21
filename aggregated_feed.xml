@@ -3,13 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 21 Apr 2026 21:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 22:41:43 GMT</lastBuildDate>
+    <item>
+      <title>Home theater fans will be happy the LG G6 OLED TV fixes this overlooked picture issue its predecessors had &#8212; but there's a catch</title>
+      <link>https://www.techradar.com/televisions/home-theater-fans-will-be-happy-the-lg-g6-oled-tv-fixes-this-overlooked-picture-issue-its-predecessors-had-but-theres-a-catch</link>
+      <pubDate>Tue, 21 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NZtHbiiwuJwaUMCDCTTtEo</guid>
+      <description>The LG G6 fixes a long-running issue most prominent on LG's G-series OLEDs&#8230; for the most part.</description>
+    </item>
     <item>
       <title>'Not just generating images. It&#8217;s thinking' &#8212; ChatGPT Images 2.0 could fundamentally change how you make AI images</title>
       <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/not-just-generating-images-its-thinking-chatgpt-images-2-0-could-fundamentally-change-how-you-make-ai-images</link>
       <pubDate>Tue, 21 Apr 2026 21:46:48 +0000</pubDate>
       <guid isPermaLink="false">cLA4QJoLQxrvw94ubw3N3G</guid>
       <description>ChatGPT Images 2.0 upgrades image generation with better reasoning, clearer text, and more reliable outputs, bringing it closer to true multimodal AI</description>
+    </item>
+    <item>
+      <title>NASAs incredible new telescope will offer an atlas of the universe</title>
+      <link>https://mashable.com/article/nasa-nancy-grace-roman-space-telescope-explained</link>
+      <pubDate>Tue, 21 Apr 2026 21:39:05 +0000</pubDate>
+      <guid isPermaLink="false">044lF0apS5qpujsHwxsL4t1</guid>
+      <description>NASA has finished building the Nancy Grace Roman Space Telescope for studying exoplanets, dark matter, and dark energy in the cosmos.</description>
     </item>
     <item>
       <title>'Pushpaganda is, at the highest level, a case of social engineering': Experts warn scammers are flooding Google Discover with AI-generated content spreading malicious notifications</title>
@@ -19,7 +33,23 @@
       <description>Pushpaganda uses AI-generated content and deceptive tactics to trick users into enabling notifications that deliver scams and evade traditional security defenses.</description>
     </item>
     <item>
-      <title>Tim Cook is stepping down as CEO of Apple. Here&#8217;s a look at his 15-year legacy, from new products and services to China expansion.</title>
+      <title>Deloitte and Zoom cut parental leave and other benefits</title>
+      <link>https://www.fastcompany.com/91530300/deloitte-and-zoom-cut-parental-leave-and-other-benefits</link>
+      <pubDate>2026-04-21T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91530300/deloitte-and-zoom-cut-parental-leave-and-other-benefits</guid>
+      <description>The cuts could act as a precedent for other employers to reduce paid time off, parental leave and pensions, according to Business Insider.
+Starting next year, Deloitte and Zoom are cutting back on some of the most treasured employee benefits, Business Insider reports.</description>
+    </item>
+    <item>
+      <title>Apple&#8217;s new CEO is a hardware guy, but software is his biggest challenge</title>
+      <link>https://www.fastcompany.com/91529801/john-ternus-apple-ceo-transition</link>
+      <pubDate>2026-04-21T21:28:01</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91529801/john-ternus-apple-ceo-transition</guid>
+      <description>John Ternus&#8217;s leadership has already given us some of Apple&#8217;s best devices ever. But the company could use a reboot when it comes to software.
+When Tim Cook&#8217;s tenure as CEO of Apple was still young, tech-industry pundits obsessed over one aspect of his new gig above all others. After returning to the company he cofounded, Jobs presided over an incredible run of epoch-shifting products: the iMac, iPod, iTunes Music Store, iPhone, iPhone App Store, and iPad. If Cook didn&#8217;t extend that streak, conventional wisdom went, Apple&#8217;s glory days would be over....</description>
+    </item>
+    <item>
+      <title>Tim Cook is stepping down as CEO of Apple: Here&#8217;s a look at his 15-year legacy, from new products and services to China expansion</title>
       <link>https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/</link>
       <pubDate>Tue, 21 Apr 2026 21:09:09 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3114713</guid>
@@ -37,7 +67,7 @@
       <link>https://www.theverge.com/policy/915237/palantir-manifesto</link>
       <pubDate>2026-04-21T17:06:21-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=915237</guid>
-      <description>Palantir CEO Alex Karp is a man in charge of one of the most important and frightening companies in the world. Karp's new book, co-written with Nicholas Zamiska, is called "The Technological Republic." After claiming "because we get asked a lot", Palantir posted a 22-point summary of the book that reads like a corporate manifesto. [&#8230;]</description>
+      <description>Palantir CEO Alex Karp is a man in charge of one of the most important and frightening companies in the world. Karp's new book, cowritten with Nicholas Zamiska, is called The Technological Republic. After claiming "because we get asked a lot," Palantir posted a 22-point summary of the book that reads like a corporate manifesto. [&#8230;]</description>
     </item>
     <item>
       <title>YouTube is muting push notifications from channels you don't watch</title>
@@ -45,76 +75,6 @@
       <pubDate>Tue, 21 Apr 2026 20:51:19 +0000</pubDate>
       <guid isPermaLink="false">a2e93ff8-8c93-4bf9-b5fa-85dd0030ca34</guid>
       <description>YouTube notifications can get messy fast, particularly if you&#8217;re subscribed to a lot of different channels. To address that, today the company will begin muting push notifications from creators that you haven&#8217;t engaged with in the last month.The change to YouTube notifications began as a small trial the company tested out earlier this year. The idea behind it is that if a viewer continually receives notifications about content they don't engage with, this may eventually cause the user to disable YouTube notifications altogether. Now obviously, this is bad for YouTube. Turning off notifications...</description>
-    </item>
-    <item>
-      <title>Google&#8217;s new Deep Research and Deep Research Max agents can search the web and your private data</title>
-      <link>https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data</link>
-      <pubDate>Tue, 21 Apr 2026 20:43:18 GMT</pubDate>
-      <guid isPermaLink="false">3vGBL1HZajDYiqfXM3lrYw</guid>
-      <description>Google on Monday unveiled the most significant upgrade to its autonomous research agent capabilities since the product's debut, launching two new agents &#8212; Deep Research and Deep Research Max &#8212; that for the first time allow developers to fuse open web data with proprietary enterprise information through a single API call, produce native charts and infographics inside research reports, and connect to arbitrary third-party data sources through the Model Context Protocol (MCP).The release, built on Google's Gemini 3.1 Pro model, marks an inflection point in the rapidly intensifying race to build A...</description>
-    </item>
-    <item>
-      <title>'The evidence is starting to mount': physicists at the LHC have found a possible 'anomaly' that could unlock 'a new understanding of how the universe works' &#8212; and 'charming penguins' may hold the key to whether the Standard Model is out of date</title>
-      <link>https://www.techradar.com/pro/physicists-just-found-a-bizarre-charming-penguin-glitch-at-the-lhc-that-could-prove-everything-weve-ever-known-about-physics-and-reality-itself-is-dead-wrong</link>
-      <pubDate>Tue, 21 Apr 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">wJARRfviifProWzTDPTqFb</guid>
-      <description>Physicists observe a four-sigma anomaly in a rare decay process, hinting at possible new physics, while uncertainties still limit firm conclusions</description>
-    </item>
-    <item>
-      <title>I tried my best not to love Dali's entry-level bookshelf speakers straight away, and my outright failure proves just how good they are</title>
-      <link>https://www.techradar.com/audio/speakers/dali-sonik-1-review</link>
-      <pubDate>Tue, 21 Apr 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">vL578NrueHvrxg3tVmzrbg</guid>
-      <description>The Dali Sonik 1 entry-level passive bookshelf speakers sound at least twice their diminutive size with stunning vocal articulation, but are a little pricey.</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s John Ternus will run one of the world&#8217;s most powerful companies; the job is a minefield</title>
-      <link>https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/</link>
-      <pubDate>Tue, 21 Apr 2026 20:23:24 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114736</guid>
-      <description>Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.</description>
-    </item>
-    <item>
-      <title>ISS astronauts are getting new laptops</title>
-      <link>https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9</link>
-      <pubDate>2026-04-21T16:12:02-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916300</guid>
-      <description>Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. According to NASA, the crew met on Friday to review plans to "first replace network servers then activate their [&#8230;]</description>
-    </item>
-    <item>
-      <title>'This is not goodbye' : Tim Cook makes it clear he's not walking away from Apple</title>
-      <link>https://www.techradar.com/phones/this-is-not-goodbye-tim-cook-makes-it-clear-hes-not-walking-away-from-apple</link>
-      <pubDate>Tue, 21 Apr 2026 20:08:17 +0000</pubDate>
-      <guid isPermaLink="false">RQrSFDhL2tda5fc6BcD3W5</guid>
-      <description>The longtime Apple CEO makes his first public comments about stepping back from CEO role</description>
-    </item>
-    <item>
-      <title>Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain</title>
-      <link>https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain</link>
-      <pubDate>Tue, 21 Apr 2026 20:07:26 GMT</pubDate>
-      <guid isPermaLink="false">4rnvG4NsyKQEEIZL88Vu1Z</guid>
-      <description>One employee at Vercel adopted an AI tool. One employee at that AI vendor got hit with an infostealer. That combination created a walk-in path to Vercel&#8217;s production environments through an OAuth grant that nobody had reviewed.Vercel, the cloud platform behind Next.js and its millions of weekly npm downloads, confirmed on Sunday that attackers gained unauthorized access to internal systems. Mandiant was brought in. Law enforcement was notified. Investigations remain active. An update on Monday confirmed that Vercel collaborated with GitHub, Microsoft, npm, and Socket to verify that no Vercel n...</description>
-    </item>
-    <item>
-      <title>Iran alleges systematic sabotage of US-made networking infrastructure mid-conflict &#8212; hardware shut down and rebooted despite internet blackout</title>
-      <link>https://www.techradar.com/pro/security/iran-alleges-systematic-sabotage-of-us-made-networking-infrastructure-mid-conflict-hardware-shut-down-and-rebooted-despite-internet-blackout</link>
-      <pubDate>Tue, 21 Apr 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">Vh29grknZNwE2Ta4SJ2h4h</guid>
-      <description>Iranian media is reporting that networking infrastructure suffered coordinated shutdowns, and blames the US.</description>
-    </item>
-    <item>
-      <title>Cartes d&#8217;identit&#233;s, passeports, permis&#160;: 12 millions de comptes victimes de la fuite de donn&#233;es de l&#8217;ANTS</title>
-      <link>https://www.01net.com/actualites/cartes-didentites-passeports-permis-12-millions-de-comptes-victimes-de-la-fuite-de-donnees-de-lants.html</link>
-      <pubDate>Tue, 21 Apr 2026 20:03:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1343306</guid>
-      <description>12 millions de victimes, particuliers et professionnels, la fuite de donn&#233;es qui frappe l&#8217;ANTS vient d&#8217;&#234;tre reconnue par le Minist&#232;re de l&#8217;Int&#233;rieur. On fait le point sur la situation.</description>
-    </item>
-    <item>
-      <title>AI company deletes the 3 million OKCupid photos it used for facial recognition training</title>
-      <link>https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss</link>
-      <pubDate>Tue, 21 Apr 2026 19:52:23 +0000</pubDate>
-      <guid isPermaLink="false">a0e5fc1d-1c28-4d66-a85a-e63bc800c22a</guid>
-      <description>When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says justice is dead?) According to Reuters, AI company Clarifai says it has deleted 3 million profile photos taken from dating site OkCupid in 2014. It follows a settlement reached last month between the FTC and Match Group, OkCupid's owner.The Delaware-based Clarifai reportedly certified the data deletion to the FTC on April 7. The company also confirmed to US Representative Lori Trahan (D-MA) that it deleted any models tha...</description>
     </item>
   </channel>
 </rss>
