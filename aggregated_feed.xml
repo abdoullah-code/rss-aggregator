@@ -3,286 +3,367 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 22 Apr 2026 15:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:07:16 GMT</lastBuildDate>
     <item>
-      <title>AliExpress veut concurrencer Amazon avec Marque+, un endroit d&#233;di&#233; aux produits certifi&#233;s authentiques</title>
-      <link>https://www.frandroid.com/produits-android/3072715_fini-les-contrefacons-voici-comment-aliexpress-change-radicalement-sa-facon-de-vendre-avec-marque</link>
-      <pubDate>Wed, 22 Apr 2026 15:06:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3072715_fini-les-contrefacons-voici-comment-aliexpress-change-radicalement-sa-facon-de-vendre-avec-marque</guid>
+      <title>Google doesn't pay the Nvidia tax. Its new TPUs explain why.</title>
+      <link>https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why</link>
+      <pubDate>Wed, 22 Apr 2026 17:04:17 GMT</pubDate>
+      <guid isPermaLink="false">oT6H02ArYKj4yYDQPhZGG</guid>
+      <description>Every frontier AI lab right now is rationing two things: electricity and compute. Most of them buy their compute for model training from the same supplier, at the steep gross margins that have turned Nvidia into one of the most valuable companies in the world. Google does not.On Tuesday night, inside a private gathering at F1 Plaza in Las Vegas, Google previewed its eighth-generation Tensor Processing Units. The pitch: two custom silicon designs shipping later this year, each purpose-built for a different half of the modern AI workload. TPU 8t targets training for frontier models, and TPU 8i t...</description>
+    </item>
+    <item>
+      <title>Path tracing : pourquoi l&#8217;algorithme de Nvidia change vraiment les r&#232;gles du jeu</title>
+      <link>https://www.frandroid.com/marques/nvidia/3074901_path-tracing-pourquoi-lalgorithme-de-nvidia-change-vraiment-les-regles-du-jeu</link>
+      <pubDate>Wed, 22 Apr 2026 17:02:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3074901_path-tracing-pourquoi-lalgorithme-de-nvidia-change-vraiment-les-regles-du-jeu</guid>
       <description>
-Si vous avez d&#233;j&#224; command&#233; sur AliExpress, vous avez votre propre exp&#233;rience, qu'elle soit bonne ou mauvaise. La direction d'Alibaba est m&#234;me consciente que sa plateforme n'est pas parfaite, mais elle tente aujourd'hui de rectifier le tir avec Marque+ : un endroit o&#249; les quelques 2 000 marques partenaires vendent directement leurs produits aux consommateurs. 
-...</description>
-    </item>
-    <item>
-      <title>Control: Ultimate Edition is out for the iPhone and iPad</title>
-      <link>https://www.engadget.com/gaming/control-ultimate-edition-is-out-for-the-iphone-and-ipad-150532940.html?src=rss</link>
-      <pubDate>Wed, 22 Apr 2026 15:05:32 +0000</pubDate>
-      <guid isPermaLink="false">0cc28705-ca42-4063-bf9e-da237f3ba50f</guid>
-      <description>Control is one of my favorite adventure games of the last decade or so, a mind-bending trip through an ever-changing building where you get to use telekinesis to battle some pretty freaky enemies. It was a graphically-demanding game when it was released in 2019, but a lot can change in less than six years: Control: Ultimate Edition is now available on the iPhone and iPad for a mere $5, following its announcement last October. It&#8217;s a universal purchase, which means if you buy it it&#8217;ll work on the iPad, iPhone and Mac as well. Developer Remedy promises that it&#8217;s the full Control experience, with...</description>
-    </item>
-    <item>
-      <title>USAID Whistleblower Says It Was Even Worse Than People Knew</title>
-      <link>https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/</link>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69e77818b5834ed32f4c0377</guid>
-      <description>Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.</description>
-    </item>
-    <item>
-      <title>Cathie Woods&#8217; ARK makes its first lead investment in startup Lucra &#8212; and it isn&#8217;t AI</title>
-      <link>https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/</link>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114895</guid>
-      <description>Lucra offers corporate loyalty programs reimagined as interactive eSports. But winning ARK as a lead wasn't easy.</description>
-    </item>
-    <item>
-      <title>I used to edit print magazines &#8212; ChatGPT Images 2&#8217;s magazine layouts look real, but they&#8217;re completely unusable</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-used-to-edit-print-magazines-chatgpt-images-2s-magazine-layouts-look-real-but-theyre-completely-unusable</link>
-      <pubDate>Wed, 22 Apr 2026 14:57:45 +0000</pubDate>
-      <guid isPermaLink="false">QMGKUbKQhs6a79TmM7a2ad</guid>
-      <description>ChatGPT Images 2 can generate magazine layouts that look impressively real, but without editability or workflow integration, they&#8217;re little more than surface-level illusions of something useful.</description>
-    </item>
-    <item>
-      <title>'Defender covers everyday risk without requiring additional software': Microsoft says its antivirus is all many Windows 11 users need &#8212; but is that right?</title>
-      <link>https://www.techradar.com/computing/windows/defender-covers-everyday-risk-without-requiring-additional-software-microsoft-says-its-antivirus-is-all-many-windows-11-users-need-but-is-that-right</link>
-      <pubDate>Wed, 22 Apr 2026 14:54:18 +0000</pubDate>
-      <guid isPermaLink="false">j7hATqhUMFdz494A3iZbhk</guid>
-      <description>Is Windows 11's built-in antivirus enough to keep you safe? Microsoft thinks that's the case.</description>
-    </item>
-    <item>
-      <title>Here&#8217;s to the stable ones: In praise of Tim Cook</title>
-      <link>https://www.engadget.com/big-tech/heres-to-the-stable-ones-in-praise-of-tim-cook-144850435.html?src=rss</link>
-      <pubDate>Wed, 22 Apr 2026 14:48:50 +0000</pubDate>
-      <guid isPermaLink="false">00d3320f-115e-44b2-85df-0311efe99059</guid>
-      <description>Tim Cook&#8217;s tenure as Apple CEO ends September 1 when he takes the role of executive chair. He will be replaced by John Ternus, a 25-year Apple veteran and head of its hardware engineering division. I get the sense Cook&#8217;s professional obituaries will focus on his steady hand, execution success and lack of intra-company drama. All of those are virtues but I suspect the media, ever in love with a narrative of its own concoction, will use them as cudgels. Consider this an attempt to balance the record ahead of Cook&#8217;s damning with the faintest of praise.
-Cook is quiet and private, making it easy to...</description>
-    </item>
-    <item>
-      <title>Bouygues Telecom : l&#8217;inflation fait d&#233;j&#224; gonfler les factures Bbox</title>
-      <link>https://www.frandroid.com/actualites-generales/3074629_bouygues-telecom-linflation-fait-deja-gonfler-les-factures-bbox</link>
-      <pubDate>Wed, 22 Apr 2026 14:46:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3074629_bouygues-telecom-linflation-fait-deja-gonfler-les-factures-bbox</guid>
-      <description>
-Les abonn&#233;s Bouygues Telecom pensaient avoir un peu de r&#233;pit face aux hausses de tarifs en cette nouvelle ann&#233;e. Pourtant, l'indexation automatique des abonnements Bbox sur l'inflation est d&#233;j&#224; une r&#233;alit&#233; sur les factures de ce printemps, prenant de court de nombreux clients.
+Nvidia vient de publier un algorithme de recherche qui acc&#233;l&#232;re le calcul du ray tracing d'un facteur 2 &#224; 3. Sur le papier, c'est significatif. Dans vos jeux, c'est encore pour plus tard.
 </description>
     </item>
     <item>
-      <title>'Hacktivist attacks at scale&#8217;: UK could face hacktivist threats akin to some of the biggest ransomware incidents but with 'no option to pay a ransom to help recover'</title>
-      <link>https://www.techradar.com/pro/security/hacktivist-attacks-at-scale-uk-could-face-hacktivist-threats-akin-to-some-of-the-biggest-ransomware-incidents-but-with-no-option-to-pay-a-ransom-to-help-recover</link>
-      <pubDate>Wed, 22 Apr 2026 14:40:03 +0000</pubDate>
-      <guid isPermaLink="false">9jPyZjMSLUVJyN7hHZR2rE</guid>
-      <description>Hacktivists could attack the UK at a scale rivaling some of the costliest ransomware attacks in recent memory</description>
+      <title>I compared the telephoto zooms of the Oppo Find X9 Ultra against pro cameras, and the side-by-side photos will blow your mind</title>
+      <link>https://www.techradar.com/cameras/i-compared-the-telephoto-zooms-of-the-oppo-find-x9-ultra-against-pro-cameras-and-the-side-by-side-photos-will-blow-your-mind</link>
+      <pubDate>Wed, 22 Apr 2026 17:01:10 +0000</pubDate>
+      <guid isPermaLink="false">eouuMGzfrpHbr5AjxywHkf</guid>
+      <description>I compared the Oppo Find X9 Ultra with a travel zoom compact camera and a pro mirrorless camera &#8212; here's what I learned.</description>
     </item>
     <item>
-      <title>Sony&#8217;s PlayStation 5 is $200 off for the first time since December</title>
-      <link>https://www.theverge.com/gadgets/916610/ps5-digital-4k-bluray-fitbit-google-pixel-watch-deal-sale</link>
-      <pubDate>2026-04-22T10:38:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916610</guid>
-      <description>When the price increases for PlayStation 5 consoles went into effect on April 2nd, we weren&#8217;t sure when the next time a good discount would happen. Surely, not for at least a couple months, right? Well, now just a few weeks later, Sony&#8217;s direct-to-consumer site is offering the slim PS5 console with no disc drive [&#8230;]</description>
+      <title>Threads introduces 'live chats' for following live events</title>
+      <link>https://www.engadget.com/social-media/threads-introduces-live-chats-for-following-live-events-170007658.html?src=rss</link>
+      <pubDate>Wed, 22 Apr 2026 17:00:07 +0000</pubDate>
+      <guid isPermaLink="false">e829946e-11b5-46c5-8398-7596e79d9a72</guid>
+      <description>Meta has introduced a new "live chats" feature to Threads, enabling people on the platform to participate in real-time conversations about live events they&#8217;re interested in. Live chats can be hosted within Threads communities, the topic-specific social spaces that Meta introduced last year.
+The new feature sounds a bit like Threads&#8217; take on Instagram&#8217;s broadcast channels, but the latter only allows for one-way messaging. Live chats can be hosted by select creators, including Community Champions &#8212; users highly engaged within specific communities &#8212; and media personalities. Once a chat is launche...</description>
     </item>
     <item>
-      <title>Building a great website now means simplifying your tech stack</title>
-      <link>https://www.techradar.com/pro/building-a-great-website-now-means-simplifying-your-tech-stack</link>
-      <pubDate>Wed, 22 Apr 2026 14:25:42 +0000</pubDate>
-      <guid isPermaLink="false">UsuHronocyBLMNChTbYxTj</guid>
-      <description>Simplifying website tech stacks reduces complexity, improves performance, and enables scalable, efficient growth.</description>
+      <title>Threads is adding Live Chats to boost real-time engagement</title>
+      <link>https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/</link>
+      <pubDate>Wed, 22 Apr 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3115185</guid>
+      <description>Users can send messages, photos, videos, links, and emoji reactions in Live Chats.</description>
     </item>
     <item>
-      <title>Ce n&#8217;est pas tous les jours qu&#8217;une Apple Watch Series 11 perd 35 % et c&#8217;est pourquoi cette offre est immanquable</title>
-      <link>https://www.frandroid.com/bons-plans/3074439_ce-nest-pas-tous-les-jours-quune-apple-watch-series-11-perd-35-et-cest-pourquoi-cette-offre-est-immanquable</link>
-      <pubDate>Wed, 22 Apr 2026 14:23:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3074439_ce-nest-pas-tous-les-jours-quune-apple-watch-series-11-perd-35-et-cest-pourquoi-cette-offre-est-immanquable</guid>
+      <title>New EV battery promises incredible six-minute charges &#8212; as electric cars edge closer to gas pump refueling speeds</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/new-ev-battery-promises-incredible-six-minute-charges-as-electric-cars-edge-closer-to-gas-pump-refueling-speeds</link>
+      <pubDate>Wed, 22 Apr 2026 16:59:16 +0000</pubDate>
+      <guid isPermaLink="false">6mkfG74Jc7bEtJ2ACW8v3E</guid>
+      <description>A new battery breakthrough from Chinese giant CATL means we're getting very close to EV charging matching gas refueling speeds.</description>
+    </item>
+    <item>
+      <title>Google makes an interesting choice with its new agent building tool for enterprises</title>
+      <link>https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/</link>
+      <pubDate>Wed, 22 Apr 2026 16:58:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3115286</guid>
+      <description>Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.</description>
+    </item>
+    <item>
+      <title>Anthropic&amp;#8217;s Mythos rollout has missed America&#8217;s cyberscurity agency</title>
+      <link>https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out</link>
+      <pubDate>2026-04-22T12:57:36-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=916758</guid>
+      <description>Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool [&#8230;]...</description>
+    </item>
+    <item>
+      <title>AI Overviews are coming to your Gmail at work</title>
+      <link>https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/</link>
+      <pubDate>Wed, 22 Apr 2026 16:46:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3115288</guid>
+      <description>The AI Overviews will offer instant summaries pulled from across multiple emails.</description>
+    </item>
+    <item>
+      <title>One of the best Verizon deals ever is back &#8212; get an iPad or Apple Watch included when you buy an iPhone</title>
+      <link>https://www.techradar.com/phones/iphone/one-of-the-best-verizon-deals-ever-is-back-get-an-ipad-or-apple-watch-included-when-you-buy-an-iphone</link>
+      <pubDate>Wed, 22 Apr 2026 16:42:34 +0000</pubDate>
+      <guid isPermaLink="false">sUZLTvRta3s5Qz6Qnm9nFY</guid>
+      <description>For a limited time, you'll be able to bundle in some high-end Apple accessories alongside your iPhone.</description>
+    </item>
+    <item>
+      <title>Microsoft teases mysterious Discord and Xbox Game Pass partnership</title>
+      <link>https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership</link>
+      <pubDate>2026-04-22T12:41:06-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=916787</guid>
+      <description>Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again "as we continue to make Game Pass more flexible for our players." It's not [&#8230;]</description>
+    </item>
+    <item>
+      <title>271 bugs dans Firefox : comment une IA a fait en quelques jours le travail de mois</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3074891_271-bugs-dans-firefox-comment-une-ia-a-fait-en-quelques-jours-le-travail-de-mois</link>
+      <pubDate>Wed, 22 Apr 2026 16:40:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3074891_271-bugs-dans-firefox-comment-une-ia-a-fait-en-quelques-jours-le-travail-de-mois</guid>
       <description>
-Le dernier cru des montres Apple est en promotion chez Rakuten gr&#226;ce &#224; un code promo. L'Apple Watch Series 11 passe donc de 449 euros &#224; 294,99 euros.
+Mozilla vient de corriger 271 vuln&#233;rabilit&#233;s dans Firefox 150, toutes d&#233;couvertes par Claude Mythos Preview, le mod&#232;le d&#8217;IA le plus avanc&#233; d&#8217;Anthropic. 
 </description>
     </item>
     <item>
-      <title>Now Meta will track what employees do on their computers to train its AI agents</title>
-      <link>https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking</link>
-      <pubDate>2026-04-22T10:22:35-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916681</guid>
-      <description>Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. The data from this tool will [&#8230;]...</description>
+      <title>Google Meet will take AI notes for in-person meetings too</title>
+      <link>https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings</link>
+      <pubDate>2026-04-22T12:38:19-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=916779</guid>
+      <description>Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page [&#8230;]...</description>
     </item>
     <item>
-      <title>Le retour du casque airbag pour v&#233;lo est enfin annonc&#233;</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3074335_le-retour-du-casque-airbag-pour-velo-est-enfin-annonce</link>
-      <pubDate>Wed, 22 Apr 2026 14:22:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3074335_le-retour-du-casque-airbag-pour-velo-est-enfin-annonce</guid>
+      <title>These are the 18 best home office finds under &#163;50 in Amazon's Tech Week sale &#8212; I scrolled through the depths of the deals to find all the gear I'd buy to get work done</title>
+      <link>https://www.techradar.com/pro/these-are-the-18-best-home-office-finds-under-gbp50-in-amazons-tech-week-sale-i-scrolled-through-the-depths-of-the-deals-to-find-all-the-gear-id-buy-to-get-work-done</link>
+      <pubDate>Wed, 22 Apr 2026 16:29:09 +0000</pubDate>
+      <guid isPermaLink="false">MHK38JYBkbC3rp3KudWdhM</guid>
+      <description>The Amazon Tech Week sale has some big bargains for business professionals that you won't want to miss.</description>
+    </item>
+    <item>
+      <title>Microsoft says the &#8216;idea&#8217; of an Xbox mobile store &#8216;is not dead&#8217;</title>
+      <link>https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment</link>
+      <pubDate>2026-04-22T12:28:20-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=916601</guid>
+      <description>Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in July, 2024. Now, it looks like Microsoft has [&#8230;]</description>
+    </item>
+    <item>
+      <title>Yesway IPO: Stock price will be closely watched today as the convenience store chain makes its Nasdaq debut</title>
+      <link>https://www.fastcompany.com/91530774/yesway-ipo-stock-price-today-convenience-store-chain-nasdaq-debut</link>
+      <pubDate>2026-04-22T16:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91530774/yesway-ipo-stock-price-today-convenience-store-chain-nasdaq-debut</guid>
+      <description>The listing will test investor appetite for brick-and-mortar retail companies at a time when store closures are common. Here&#8217;s what to know. 
+While its geographic footprint is all west of the Mississippi, convenience store operator Yesway Inc. is making New York City headlines this week with its initial public offering (IPO).</description>
+    </item>
+    <item>
+      <title>The 12 best Garmin watch deals for running, swimming, and hiking at Amazon &#8212; save up to $250 on best-rated models</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/the-12-best-garmin-watch-deals-for-running-swimming-and-hiking-at-amazon-save-up-to-usd250-on-best-rated-models</link>
+      <pubDate>Wed, 22 Apr 2026 16:19:55 +0000</pubDate>
+      <guid isPermaLink="false">rY8LaRbt4QQuR543TQd8Jn</guid>
+      <description>A Garmin watch is the perfect outdoor companion, and I've rounded up the 12 best deals for running, hikinig and swimming, with prices starting at just $165</description>
+    </item>
+    <item>
+      <title>'Turns out I'm deaf': Someone built a browser tool to test the difference between Hi-Res Audio FLAC and lossy MP3 with your own music, so you've no excuse for getting it wrong</title>
+      <link>https://www.techradar.com/audio/turns-out-im-deaf-someone-built-a-browser-tool-to-test-the-difference-between-hi-res-audio-flac-and-lossy-mp3-with-your-own-music-so-youve-no-excuse-for-getting-it-wrong</link>
+      <pubDate>Wed, 22 Apr 2026 16:19:08 +0000</pubDate>
+      <guid isPermaLink="false">XKQbBX9JqjcK7rJzzGm3gW</guid>
+      <description>This ultimate FLAC vs MP3 tool tests whether your ears can pick out lossless vs lossy audio with the tracks you know best</description>
+    </item>
+    <item>
+      <title>SpaceX doubles down on AI with its potential $60 billion Cursor buy</title>
+      <link>https://www.fastcompany.com/91530825/spacex-doubling-down-ai-cursor</link>
+      <pubDate>2026-04-22T16:18:48</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91530825/spacex-doubling-down-ai-cursor</guid>
+      <description>The Musk-led company is leaning harder into software and models as it heads toward a blockbuster IPO.
+SpaceX still has deep roots in the rocket business, but the Elon Musk-owned company is doubling down on artificial intelligence as it prepares for an IPO.</description>
+    </item>
+    <item>
+      <title>Ces cam&#233;ras qui filment en 1080p s&#8217;&#233;quipent de l&#8217;IA pour la reconnaissance faciale et perdent presque 40 &#8364; sur Amazon</title>
+      <link>https://www.frandroid.com/bons-plans/3074637_ces-cameras-qui-filment-en-1080p-sequipent-de-lia-pour-la-reconnaissance-faciale-et-perdent-presque-40-e-sur-amazon</link>
+      <pubDate>Wed, 22 Apr 2026 16:17:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3074637_ces-cameras-qui-filment-en-1080p-sequipent-de-lia-pour-la-reconnaissance-faciale-et-perdent-presque-40-e-sur-amazon</guid>
       <description>
-&#192; la suite d'une faillite puis d'une reprise d'activit&#233; l&#8217;an dernier, l&#8217;unique casque airbag pour v&#233;lo H&#246;vding d&#233;barque dans sa 4e g&#233;n&#233;ration cet automne, avec une conception totalement revue.
+Amazon propose un pack eufyCam tr&#232;s complet. Celui-ci se compose de deux cam&#233;ras C35 faciles &#224; installer et d'un HomeBase Mini pour distinguer les individus devant votre porte. Un ensemble &#224; retrouver pour presque 20 % de moins.
 </description>
     </item>
     <item>
-      <title>OpenAI teams up with Infosys to bring AI tools to more businesses</title>
-      <link>https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/</link>
-      <pubDate>Wed, 22 Apr 2026 14:22:10 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3115178</guid>
-      <description>Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.</description>
+      <title>Which is the best new iOS 26.4 emoji? Have your say in our reader poll</title>
+      <link>https://www.techradar.com/phones/ios/which-is-the-best-new-ios-26-4-emoji-have-your-say-in-our-reader-poll</link>
+      <pubDate>Wed, 22 Apr 2026 16:15:41 +0000</pubDate>
+      <guid isPermaLink="false">LqmApZ35stJQHt4EdBTGUR</guid>
+      <description>Apple's new emoji for your iPhone include an orca, a treasure chest, a trombone, and a "hairy creature".</description>
     </item>
     <item>
-      <title>C&#8217;est un moment critique : la sonde la plus lointaine de la Terre entre dans une zone &#224; haut risque</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/voyager-1-cest-moment-critique-sonde-plus-lointaine-terre-zone-haut-risque-133930/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 22 Apr 2026 16:13:27 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/voyager-1-cest-moment-critique-sonde-plus-lointaine-terre-zone-haut-risque-133930/#xtor%3DRSS-8</guid>
-      <description>Un nouvel appareil de la sonde Voyager 1 a &#233;t&#233; &#233;teint, dans l'espoir de r&#233;aliser quelques petites &#233;conomies d'&#233;nergie et de prolonger cette mission embl&#233;matique aux confins du Syst&#232;me solaire.</description>
-    </item>
-    <item>
-      <title>The Jackery Explorer 300 portable power station is back at a record-low price at Amazon &#8212; get ready for camping season</title>
-      <link>https://mashable.com/article/april-22-jackery-explorer-300-deal</link>
-      <pubDate>Wed, 22 Apr 2026 14:10:53 +0000</pubDate>
-      <guid isPermaLink="false">00D4CrlTACSniAA8OGSZbEK</guid>
-      <description>The Jackery Explorer 300 portable power station is on sale at Amazon for $188.99, down from the standard price of $279. That's a 32% discount.</description>
-    </item>
-    <item>
-      <title>UK government says 100 countries have spyware that can hack people&#8217;s phones</title>
-      <link>https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/</link>
-      <pubDate>Wed, 22 Apr 2026 14:06:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3115180</guid>
-      <description>The U.K.'s cybersecurity chief warned that U.K. businesses and critical infrastructure are underestimating the threat from spyware attacks and other cyberthreats, with more governments having access to the powerful surveillance technology than ever.</description>
-    </item>
-    <item>
-      <title>Framework reveals its 'MacBook Pro for Linux users' &#8212; and fans say the new Laptop 13 Pro is 'genuinely stellar' aside from one drawback</title>
-      <link>https://www.techradar.com/computing/laptops/framework-reveals-its-macbook-pro-for-linux-users-and-fans-say-the-new-laptop-13-pro-is-genuinely-stellar-aside-from-one-drawback</link>
-      <pubDate>Wed, 22 Apr 2026 14:06:35 +0000</pubDate>
-      <guid isPermaLink="false">JfVsJxn7RAmhWxtzxCAxjY</guid>
-      <description>Framework has unveiled its take on a MacBook Pro using Linux, and as far as laptop enthusiasts are concerned, it's pretty much nailed it.</description>
-    </item>
-    <item>
-      <title>'Felony murder law does not require that a defendant pull the trigger': Ex-FBI chief calls for ransomware attackers to face homicide charges if attacks lead to deaths</title>
-      <link>https://www.techradar.com/pro/security/felony-murder-law-does-not-require-that-a-defendant-pull-the-trigger-ex-fbi-chief-calls-for-ransomware-attackers-to-face-homicide-charges-if-attacks-lead-to-deaths</link>
-      <pubDate>Wed, 22 Apr 2026 14:05:00 +0000</pubDate>
-      <guid isPermaLink="false">mzoLCXRgqpe64h4kyy5p9X</guid>
-      <description>The FBI needs to "step up" in the fight against ransomware, says Cynthia Kaiser, former deputy assistant director of the FBI's cyber division.</description>
-    </item>
-    <item>
-      <title>Trump announces the U.S. is extending its ceasefire with Iran, as new round of peace talks stalls</title>
-      <link>https://www.fastcompany.com/91530645/trump-announces-u-s-extending-ceasefire-iran-new-round-peace-talks-stall</link>
-      <pubDate>2026-04-22T14:03:04</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91530645/trump-announces-u-s-extending-ceasefire-iran-new-round-peace-talks-stall</guid>
-      <description>The extension, which came at Pakistan&#8217;s request, is indefinite.
-President Donald Trump said Tuesday the United States was indefinitely extending its ceasefire with Iran &#8212; a day before it was to expire &#8212; as a new round of peace talks was on hold. The announcement appeared to ease fears that the fighting, which had shaken energy markets and the global economy, would promptly resume.Pakistan had planned to host a second round of talks, but the White House put on hold Vice President JD Vance&#8217;s planned trip to Islamabad as Iran rebuffed efforts to restart negotiations.Iran has not yet responded to ...</description>
-    </item>
-    <item>
-      <title>I bought Alienware&amp;#8217;s $350 OLED monitor and I can&amp;#8217;t believe how good it is</title>
-      <link>https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on</link>
-      <pubDate>2026-04-22T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916277</guid>
-      <description>I've recommended several OLED gaming monitors to readers over the years, and I've finally taken my own advice to buy one. Alienware's new 27-inch 1440p QD-OLED has all the features that I want and a low $350 price that was too tempting to ignore. The AW2726DM model has five things that make it stand out [&#8230;]</description>
-    </item>
-    <item>
-      <title>Walt Disney World says its new solar facility can produce 100% of the daytime power for all its parks &#8212; and the scale is equivalent to 366 football fields</title>
-      <link>https://www.techradar.com/tech/walt-disney-world-says-its-new-solar-facility-can-produce-100-percent-of-the-daytime-power-for-all-its-parks-and-the-scale-is-equivalent-to-366-football-fields</link>
-      <pubDate>Wed, 22 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">vxeCarufuRkrXCFPRj5NPS</guid>
-      <description>Walt Disney World's new solar facility is almost the size of Monaco, but it's just one of the sites that powers the entire resort.</description>
-    </item>
-    <item>
-      <title>Qui est John Ternus, le nouveau patron d&#8217;Apple&#160;?</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-04-22/qui-est-john-ternus-le-nouveau-patron-d-apple.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 22 Apr 2026 09:58:54 -0400</pubDate>
-      <guid isPermaLink="false">1759ad6e1ec439c3bba3c82fe007f412</guid>
-      <description>Le prochain PDG d&#8217;Apple, John Ternus, est un v&#233;t&#233;ran de l&#8217;entreprise qui a gravi les &#233;chelons de l&#8217;ing&#233;nierie de la division produits du fabricant d&#8217;iPhone, tout en jouant profil bas.</description>
-    </item>
-    <item>
-      <title>These are the games you should be playing if you loved The Super Mario Galaxy Movie &#8212; and yes, I've picked more than just the Mario Galaxy titles</title>
-      <link>https://www.techradar.com/gaming/nintendo/these-are-the-games-you-should-be-playing-if-you-loved-the-super-mario-galaxy-movie-and-yes-ive-picked-more-than-just-the-mario-galaxy-titles</link>
-      <pubDate>Wed, 22 Apr 2026 13:53:54 +0000</pubDate>
-      <guid isPermaLink="false">7pDLoGURdhVwJPtVsKTmvG</guid>
-      <description>These are the Mario games to play on Switch and Switch 2.</description>
-    </item>
-    <item>
-      <title>Batterie rempla&#231;able obligatoire d&#232;s 2027 : vous avez s&#251;rement mal compris la nouvelle loi</title>
-      <link>https://www.frandroid.com/produits-android/3074257_batterie-remplacable-obligatoire-des-2027-vous-avez-surement-mal-compris-la-nouvelle-loi</link>
-      <pubDate>Wed, 22 Apr 2026 13:53:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3074257_batterie-remplacable-obligatoire-des-2027-vous-avez-surement-mal-compris-la-nouvelle-loi</guid>
+      <title>Pourquoi Anker se lance dans les semi-conducteurs avec sa puce Thus</title>
+      <link>https://www.frandroid.com/marques/3074871_pourquoi-anker-se-lance-dans-les-semi-conducteurs-avec-sa-puce-thus</link>
+      <pubDate>Wed, 22 Apr 2026 16:15:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3074871_pourquoi-anker-se-lance-dans-les-semi-conducteurs-avec-sa-puce-thus</guid>
       <description>
-Une nouvelle r&#233;glementation europ&#233;enne va obliger les constructeurs &#224; proposer des batteries facilement rempla&#231;ables par les utilisateurs. N&#233;anmoins, tous ne seront pas concern&#233;s. On d&#233;tricote la situation.
+Depuis des ann&#233;es, les AirPods Pro servent d'&#233;talon quand on parle de r&#233;duction de bruit et de qualit&#233; d'appel en true wireless, c'est pr&#233;cis&#233;ment ce terrain qu'Anker entend contester avec Thus, sa premi&#232;re puce IA maison.
 </description>
     </item>
     <item>
-      <title>Galaxy Buds Able : Samsung pr&#233;pare des &#233;couteurs &#224; clip face &#224; Bose et Huawei</title>
-      <link>https://www.frandroid.com/actualites-generales/3074565_galaxy-buds-able-samsung-prepare-des-ecouteurs-a-clip-face-a-bose-et-huawei</link>
-      <pubDate>Wed, 22 Apr 2026 13:53:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3074565_galaxy-buds-able-samsung-prepare-des-ecouteurs-a-clip-face-a-bose-et-huawei</guid>
+      <title>Mullvad pushes update in a bid to make your iOS VPN app even more secure &#8212; but there's a catch</title>
+      <link>https://www.techradar.com/vpn/vpn-services/mullvad-pushes-an-update-in-a-bid-to-make-your-ios-vpn-app-even-more-secure-but-theres-a-catch</link>
+      <pubDate>Wed, 22 Apr 2026 16:12:08 +0000</pubDate>
+      <guid isPermaLink="false">Ns43psuypoFrhSnjjYr8mU</guid>
+      <description>Mullvad VPN is rolling out a strict new "Force all apps" feature for its iOS app to prevent data leaks. A massive win for privacy purists, though it requires a manual workaround during future app updates.</description>
+    </item>
+    <item>
+      <title>This trackable wallet is made from responsibly sourced, recycled materials &#8212; and I think I prefer it to AirTags</title>
+      <link>https://www.techradar.com/phones/phone-accessories/this-trackable-wallet-is-made-from-responsibly-sourced-recycled-materials-and-i-think-i-prefer-it-to-airtags</link>
+      <pubDate>Wed, 22 Apr 2026 16:08:33 +0000</pubDate>
+      <guid isPermaLink="false">uGQywrNs8G6gQK4CHCdmjk</guid>
+      <description>This wallet from Chipolo and Secrid will keep your cards and cash safe, and can be tracked from your phone.</description>
+    </item>
+    <item>
+      <title>How to find the right coach</title>
+      <link>https://www.fastcompany.com/91529377/how-find-right-coach-2</link>
+      <pubDate>2026-04-22T16:07:15</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91529377/how-find-right-coach-2</guid>
+      <description>The evidence is clear: coaching works. But success largely depends on making the correct choice.
+Human beings are obsessed with change. As large scale scientific studies show, most of us would like to change at least some aspects of our personality, defined as consistent patterns of behaviors or habits that make us who we are and different from others. For example, I&#8217;d love to be less impulsive, excitable, or cynical, which is why I have been working on not being myself for many years. Likewise, most individuals want to grow, to develop new adaptations that make them a better version of themse...</description>
+    </item>
+    <item>
+      <title>'Nature has the solution': Researchers fuse DNA and silicon to build Holy Grail of memory storage</title>
+      <link>https://www.techradar.com/pro/nature-has-the-solution-researchers-fuse-dna-and-silicon-to-build-holy-grail-of-memory-storage</link>
+      <pubDate>Wed, 22 Apr 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">jNZYLrsicsKY9qFVwTDbnG</guid>
+      <description>A bio-hybrid memory device combines synthetic DNA and semiconductors to support efficient data storage and processing with stable performance and extremely low energy requirements.</description>
+    </item>
+    <item>
+      <title>That's not a sub, THIS is a sub &#8212; Deus Audio's 60-inch infrasonic bass driver is nearly 6 feet tall, can hit 8Hz, and handles 20,000W of power. This would be the ultimate home theater upgrade&#8230;</title>
+      <link>https://www.techradar.com/televisions/home-theater/thats-not-a-sub-this-is-a-sub-deus-audios-60-inch-infrasonic-bass-driver-is-nearly-6-feet-tall-can-hit-8hz-and-handles-20-000w-of-power-this-would-be-the-ultimate-home-theater-upgrade</link>
+      <pubDate>Wed, 22 Apr 2026 16:01:57 +0000</pubDate>
+      <guid isPermaLink="false">8jTYsoBenSfpDE3352fAZf</guid>
+      <description>The Invicta 60 is a ludicrously powerful infrasonic subwoofer delvering 20,000W of peak power</description>
+    </item>
+    <item>
+      <title>New York Bans Government Employees from Insider Trading on Prediction Markets</title>
+      <link>https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/</link>
+      <pubDate>Wed, 22 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69e7ab9ef66109e7ca74c6dc</guid>
+      <description>A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.</description>
+    </item>
+    <item>
+      <title>AI Tools Are Helping Mediocre North Korean Hackers Steal Millions</title>
+      <link>https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/</link>
+      <pubDate>Wed, 22 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69e644fa804f3c300853babd</guid>
+      <description>One group of hackers used AI for everything from vibe coding their malware to creating fake company websites&#8212;and stole as much as $12 million in three months.</description>
+    </item>
+    <item>
+      <title>This abandoned steel mill is becoming America&#8217;s quantum future</title>
+      <link>https://www.fastcompany.com/91527341/this-abandoned-steel-mill-is-becoming-americas-quantum-future</link>
+      <pubDate>2026-04-22T16:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91527341/this-abandoned-steel-mill-is-becoming-americas-quantum-future</guid>
+      <description>The Illinois Quantum and Microelectronics Park could anchor a new &#8216;Silicon Prairie&#8217; in the Midwest.
+Bob Dylan, a native of the Upper Midwest, famously crooned that&#160; &#8220;the times they are a-changin&#8217;.&#8221; Nowhere is that more prescient now than in and around the Midwest&#8217;s largest city, Chicago, which is attempting to shed its skin as a Rust Belt metropolis and be born anew in the twenty-first century as the capital of the &#8220;Silicon Prairie,&#8221; a hub for the burgeoning quantum computing industry....</description>
+    </item>
+    <item>
+      <title>Google Street View devient un outil de cr&#233;ation de d&#233;cors&#160;: les studios de cin&#233;ma vont pouvoir visualiser leurs sc&#232;nes depuis un bureau</title>
+      <link>https://www.01net.com/actualites/google-maps-street-view-ia-decors-cinema-maps-imagery-grounding.html</link>
+      <pubDate>Wed, 22 Apr 2026 15:58:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1343534</guid>
+      <description>Google vient de pr&#233;senter de nouveaux outils bas&#233;s sur l'intelligence artificielle pour ses applications cartographiques, annonc&#233;s cette semaine &#224; la conf&#233;rence Cloud Next de Las Vegas. Si ces nouveaut&#233;s s'adressent en priorit&#233; aux professionnels, elles promettent de transformer en profondeur la mani&#232;re dont l'industrie cr&#233;ative pr&#233;pare ses projets....</description>
+    </item>
+    <item>
+      <title>Salesforce&#8217;s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents</title>
+      <link>https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents</link>
+      <pubDate>Wed, 22 Apr 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="false">2SKosQpj57xObnRTlhMng9</guid>
+      <description>When startup fundraising platform VentureCrowd began deploying AI coding agents, they saw the same gains as other enterprises: they cut the front-end development cycle by 90% in some projects.However, it didn&#8217;t come easy or without a lot of trial and error.&#160;VentureCrowd&#8217;s first challenge revolved around data and context quality, since Diego Mogollon, chief product officer at VentureCrowd, told VentureBeat that &#8220;agents reason against whatever data they can access at runtime&#8221; and would then be confidently &#8220;wrong&#8221; because they&#8217;re only basing their knowledge on the context given to them.Their othe...</description>
+    </item>
+    <item>
+      <title>Rivian R2 production has started despite tornado damage to factory</title>
+      <link>https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/</link>
+      <pubDate>Wed, 22 Apr 2026 15:47:53 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3115227</guid>
+      <description>The company's all-important mass-market EV is just about ready to start heading to customers.</description>
+    </item>
+    <item>
+      <title>Beat the UK heat surge with these ultra-cool home office finds &#8212; I found the best home office finds to stay cool when the temperatures are rising</title>
+      <link>https://www.techradar.com/pro/beat-the-uk-heatwaves-with-these-ultra-cool-home-office-finds-i-found-the-best-home-office-finds-to-stay-cool-when-the-temperatures-are-rising</link>
+      <pubDate>Wed, 22 Apr 2026 15:47:20 +0000</pubDate>
+      <guid isPermaLink="false">8vPDj35v43G4HvesSjreg8</guid>
+      <description>From desk fans to breathable office chairs, get your workspace ready for the heat.</description>
+    </item>
+    <item>
+      <title>'EVs have to be fun': Kia lifts the lid on its wild Vision Meta Turismo concept that uses a joystick as a gear shifter</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/evs-have-to-be-fun-kia-lifts-the-lid-on-its-wild-vision-meta-turismo-concept-that-uses-a-joystick-as-a-gear-shifter</link>
+      <pubDate>Wed, 22 Apr 2026 15:47:11 +0000</pubDate>
+      <guid isPermaLink="false">CRUJGYSKzPW8oYoSjk8CoM</guid>
+      <description>Kia unveils a Vision Met Turismo concept that hints at future sporty electric saloon for the brand.</description>
+    </item>
+    <item>
+      <title>Sullivan's Crossing season 4 losing Scott Patterson to 'untenable creative differences' could be an unexpected lifeline for Netflix's Virgin River season 8</title>
+      <link>https://www.techradar.com/streaming/netflix/sullivans-crossing-season-4-virgin-river-season-8-scott-patterson</link>
+      <pubDate>Wed, 22 Apr 2026 15:42:50 +0000</pubDate>
+      <guid isPermaLink="false">ebnE75wXAEeGGBcFU54EHY</guid>
+      <description>Scott Patterson won't return to Sullivan's Crossing season 4 because of "creative differences" &#8212; but could this be a slam dunk for Virgin River season 8?</description>
+    </item>
+    <item>
+      <title>This is the surprising science behind the potato breed in your bag of chips</title>
+      <link>https://www.fastcompany.com/91530641/this-surprising-science-behind-potato-breed-your-bag-chips</link>
+      <pubDate>2026-04-22T15:42:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91530641/this-surprising-science-behind-potato-breed-your-bag-chips</guid>
+      <description>Michigan professor David Douches explains why the perfect chipping potato is so hard to find.
+There&#8217;s a surprising amount of science in a bag of potato chips.Researchers have spent decades developing potatoes for chip makers that can grow in all kinds of climates, avoid diseases and pests, sit in storage for months and still deliver a satisfying crunch. They&#8217;ve also kept an eye on consumer trends; a shift to snack-size portions has increased the demand for smaller chipping potatoes, for example.&#8220;The potato industry is dynamic,&#8221; said David Douches, a Michigan State University professor who lead...</description>
+    </item>
+    <item>
+      <title>Google Cloud Next 2026: all the live details from Google Cloud's biggest annual event</title>
+      <link>https://www.techradar.com/pro/live/google-cloud-next-2026</link>
+      <pubDate>Wed, 22 Apr 2026 15:38:48 +0000</pubDate>
+      <guid isPermaLink="false">F2wiiEMpvrW4nU7QfcALYN</guid>
+      <description>Join us as we cover all the live news straight from Google Cloud Next 2026</description>
+    </item>
+    <item>
+      <title>Cosmetics giant Rituals confirms data breach of customer membership records</title>
+      <link>https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/</link>
+      <pubDate>Wed, 22 Apr 2026 15:38:37 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3115212</guid>
+      <description>The cosmetics retailer, which counts 41 million customers in its membership data, declined to provide an accurate total number of customers affected.</description>
+    </item>
+    <item>
+      <title>SolarFlow 4000 Mix Pro et AC+ : la batterie domestique ultime arrive en France</title>
+      <link>https://www.frandroid.com/survoltes/3074705_solarflow-4000-mix-pro-et-ac-la-batterie-domestique-ultime-arrive-en-france</link>
+      <pubDate>Wed, 22 Apr 2026 15:36:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3074705_solarflow-4000-mix-pro-et-ac-la-batterie-domestique-ultime-arrive-en-france</guid>
       <description>
-Samsung s'appr&#234;te &#224; faire son entr&#233;e sur le march&#233; des &#233;couteurs sans fil ouverts avec un mod&#232;le qui pourrait s&#8217;appeler les Galaxy Buds Able. Ils se clipseraient sur les oreilles et entendraient faire de la concurrence aux Bose, Sony, Huawei, SoundCore, et autres &#233;couteurs du m&#234;me genre.
+Zendure lance sa s&#233;rie SolarFlow Mix, une plateforme capable de jongler entre vos panneaux, votre pompe &#224; chaleur et les tarifs dynamiques d'EDF. Au total, il y a trois nouvelles batteries.
 </description>
     </item>
     <item>
-      <title>Call of Duty never made much sense for Xbox Game Pass</title>
-      <link>https://www.theverge.com/games/916627/call-of-duty-xbox-game-pass</link>
-      <pubDate>2026-04-22T09:45:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916627</guid>
-      <description>Yesterday Microsoft announced some surprising news: at a time when everything in gaming is getting more expensive, Xbox Game Pass Ultimate was actually getting a price cut. Going forward, the subscription service will drop from $29.99 to $22.99 per month, less than a year after getting a major hike. But there's a caveat. Along with [&#8230;]</description>
+      <title>How I scored ad-free Paramount+ Premium for only 99 cents</title>
+      <link>https://mashable.com/article/april-22-paramount-plus-premium-deal</link>
+      <pubDate>Wed, 22 Apr 2026 15:35:24 +0000</pubDate>
+      <guid isPermaLink="false">02PpgR5RQ84m1QbUkDgSYCP</guid>
+      <description>Ad-free Paramount+ deal: Returning subscribers can get two months of Premium for just 99 cents per month. That's $26 in savings.</description>
     </item>
     <item>
-      <title>Test du routeur 5G TP-Link M8550 : le routeur 5G de voyage avec option NAS</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/routeur/3062335_test-routeur-5g-tp-link-m8550</link>
-      <pubDate>Wed, 22 Apr 2026 13:43:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/routeur/3062335_test-routeur-5g-tp-link-m8550</guid>
-      <description>
-Con&#231;u pour accompagner les utilisateurs nomades, mais pas que, le TP-Link M8550 a tous les atouts pour se positionner comme un routeur 5G complet et multi-usage. D&#233;couverte.
-</description>
+      <title>Will a new CEO help realize Apple&amp;#8217;s smart home potential?</title>
+      <link>https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors</link>
+      <pubDate>2026-04-22T11:31:34-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=916698</guid>
+      <description>It took Tim Cook years to launch Apple into major new hardware categories, such as the smartwatch. But John Ternus could start his tenure right away with an ambitious new project: smart home hardware. All signs point to a strong lineup of new smart home devices coming potentially this fall, putting Apple back in the [&#8230;]</description>
     </item>
     <item>
-      <title>X makes it more expensive to post links through its API</title>
-      <link>https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/</link>
-      <pubDate>Wed, 22 Apr 2026 13:42:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3115153</guid>
-      <description>Posting links on X through its API is now 1,900% more costly</description>
+      <title>Zillow just downgraded its home price forecast across over 400 housing markets&#8212;see the map</title>
+      <link>https://www.fastcompany.com/91530656/housing-market-home-prices-zillow-downgraded-price-forecast-across-400-markets-see-the-map</link>
+      <pubDate>2026-04-22T15:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91530656/housing-market-home-prices-zillow-downgraded-price-forecast-across-400-markets-see-the-map</guid>
+      <description>Zillow slightly downgrades its national home price outlook&#8212;predicting that over the next 12 months, U.S. home prices are likely to shift +0.0%.
+Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
     </item>
     <item>
-      <title>'Perfect' Dutton Ranch casting reveal carries on a longstanding Yellowstone tradition &#8212; but don't think this recurring role is going to be the same</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/dutton-ranch-morgan-wade-casting-yellowstone</link>
-      <pubDate>Wed, 22 Apr 2026 13:41:47 +0000</pubDate>
-      <guid isPermaLink="false">3sbXK6HvWcnUVN6yAuhpSZ</guid>
-      <description>Yellowstone spin-off Dutton Ranch has just dropped a huge casting announcement &#8212; but even though it looks like it, the new recurring role won't be the same as others.</description>
+      <title>When brands become actors</title>
+      <link>https://www.fastcompany.com/91530768/when-brands-become-actors</link>
+      <pubDate>2026-04-22T15:28:22</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91530768/when-brands-become-actors</guid>
+      <description>How AI is rewriting the rules of brand architecture.
+For decades, brands functioned primarily as symbols. A logo, a name, a set of visual and verbal signals designed to convey trust, recognition, and meaning.</description>
     </item>
     <item>
-      <title>As a new era approaches for Apple, we take a look back at the brand's big wins &#8212; here are the 6 best Apple gadgets ever, as voted by TechRadar readers</title>
-      <link>https://www.techradar.com/tech/as-a-new-era-approaches-for-apple-we-take-a-look-back-at-the-brands-big-wins-here-are-the-6-best-apple-gadgets-ever-as-voted-by-techradar-readers</link>
-      <pubDate>Wed, 22 Apr 2026 13:41:00 +0000</pubDate>
-      <guid isPermaLink="false">9QXGCa4CNCJLVS3oZdXMhh</guid>
-      <description>How many of your favorites were launched under the watchful eye of Tim Cook?</description>
+      <title>Get Ankers 14-in-1 Thunderbolt 5 Dock for $60 less at Amazon</title>
+      <link>https://mashable.com/article/april-22-anker-prime-docking-station-deal</link>
+      <pubDate>Wed, 22 Apr 2026 15:24:36 +0000</pubDate>
+      <guid isPermaLink="false">009xRw3xgrebApiNIIMVOIB</guid>
+      <description>As of April 22, you can get the Anker Prime 14-in-1 Thunderbolt 5 Dock for $339.99 at Amazon, down from $399.99. That's a 15% discount or $60 savings.</description>
     </item>
     <item>
-      <title>Plateforme Xpeng, 50 lancements et SUV &#233;lectrique &#224; 12 500 &#8364; : ce qu&#8217;il faut retenir de la conf&#233;rence XXL de Volkswagen &#224; P&#233;kin</title>
-      <link>https://www.frandroid.com/marques/volkswagen/3074379_plateforme-xpeng-50-lancements-et-suv-electrique-a-12-500-e-ce-quil-faut-retenir-de-la-conference-choc-de-volkswagen-a-pekin</link>
-      <pubDate>Wed, 22 Apr 2026 13:37:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3074379_plateforme-xpeng-50-lancements-et-suv-electrique-a-12-500-e-ce-quil-faut-retenir-de-la-conference-choc-de-volkswagen-a-pekin</guid>
-      <description>
-Mis en difficult&#233; en Chine, Volkswagen profite du Salon de P&#233;kin pour lancer une v&#233;ritable offensive pens&#233;e par et pour le march&#233; local. Nouveaux mod&#232;les, connectivit&#233; &#233;volu&#233;e, partenariat avec Xpeng et aides &#224; la conduite de pointe : les efforts sont l&#224;, reste &#224; savoir s'ils paieront.
-</description>
+      <title>Russia eyes 'whitelist' of approved VPNs to stop internet blocks harming businesses</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/russia-eyes-whitelist-of-approved-vpns-to-stop-internet-blocks-harming-businesses</link>
+      <pubDate>Wed, 22 Apr 2026 15:20:21 +0000</pubDate>
+      <guid isPermaLink="false">w4i7jPTuuDyrjYoRe7SchA</guid>
+      <description>The State Duma proposes to create a list of "white VPNs" permitted in Russia to minimize 'inconveniences' caused by the authorities' quest to 'reduce VPN usage.' Here's all we know.</description>
     </item>
     <item>
-      <title>Xfinity Mobile now includes device protection and anytime phone upgrades</title>
-      <link>https://www.engadget.com/mobile/xfinity-mobile-now-includes-device-protection-and-anytime-phone-upgrades-133511715.html?src=rss</link>
-      <pubDate>Wed, 22 Apr 2026 13:35:11 +0000</pubDate>
-      <guid isPermaLink="false">4edc12db-272a-45c4-a7b0-675aa5d4538b</guid>
-      <description>Cell phone plans can get exceedingly complicated, so Comcast&#8217;s pitch for Xfinity Mobile&#8217;s simplicity is rather appealing &#8212; particularly at a time when everything is more expensive than ever. Today, the company is announcing two simple plans priced at $30 and $45 a month that have some serious perks for their prices. The $30 Mobile Select plan covers the main basics, including 50GB of &#8220;premium&#8221; full-speed data; Global Travel Pass to cover yourself when traveling in 215 different countries; and Xfinity&#8217;s Wi-Fi PowerBoost. That latter feature takes advantage of Xfinity&#8217;s wide network of Wi-Fi hot...</description>
+      <title>IPTV&#160;: le chef d&#8217;un r&#233;seau pirate &#233;cope de 23 mois de prison et de 8,7 millions d&#8217;euros d&#8217;amende</title>
+      <link>https://www.01net.com/actualites/iptv-pirate-patron-reseau-ecope-23-mois-prison-87-millions-euros-damende.html</link>
+      <pubDate>Wed, 22 Apr 2026 15:20:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1343540</guid>
+      <description>La justice espagnole s'est montr&#233;e s&#233;v&#232;re avec le patron d'un r&#233;seau IPTV pirate. Apr&#232;s avoir accept&#233; un accord, l'homme a &#233;cop&#233; de 23 mois de prison ferme et de 8,7 millions d'euros d'amende. C'est une sanction particuli&#232;rement dure dans une affaire de piratage de contenus.</description>
     </item>
     <item>
-      <title>Amazon remet le Google Fitbit Inspire 3 au go&#251;t du jour avec cette remise de 30 %</title>
-      <link>https://www.frandroid.com/bons-plans/3074289_amazon-remet-le-google-fitbit-inspire-3-au-gout-du-jour-avec-cette-remise-de-30</link>
-      <pubDate>Wed, 22 Apr 2026 13:32:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3074289_amazon-remet-le-google-fitbit-inspire-3-au-gout-du-jour-avec-cette-remise-de-30</guid>
-      <description>
-Les ann&#233;es passent, mais le Google Fitbit Inspire 3 r&#233;siste aux ravages du temps. Pour perdurer, le bracelet s'appuie sur un bel &#233;cran Amoled et une autonomie cons&#233;quente. En ce moment, l'accessoire est disponible pour 30 euros de moins sur Amazon.
-</description>
+      <title>Get some new wrist candy with the CMF Watch Pro 2 at its lowest price ever</title>
+      <link>https://mashable.com/article/april-22-cmf-watch-pro-2-deal</link>
+      <pubDate>Wed, 22 Apr 2026 15:19:08 +0000</pubDate>
+      <guid isPermaLink="false">02IQAfTT3NKdEE4ZEqmyfV1</guid>
+      <description>As of April 22, get the CMF Watch Pro 2 for its lowest price yet.</description>
     </item>
     <item>
-      <title>"The future of space will look less like single-use expeditionary missions and more like a transport network": Pulsar Fusion's quest to build a nuclear fusion exhaust system for deep-space travel hits "first plasma" milestone</title>
-      <link>https://www.techradar.com/pro/the-future-of-space-will-look-less-like-single-use-expeditionary-missions-and-more-like-a-transport-network-pulsar-fusions-quest-to-build-a-nuclear-fusion-exhaust-system-for-deep-space-travel-hits-first-plasma-milestone</link>
-      <pubDate>Wed, 22 Apr 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">F9yFARdLzpF5ur6usFsHtY</guid>
-      <description>Following a "first plasma" milestone, Pulsar Fusion outlines its ambitious plans for a nuclear fusion exhaust system for deep-space travel.</description>
-    </item>
-    <item>
-      <title>Hey Meta workers, are you getting paid for those keystrokes?</title>
-      <link>https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss</link>
-      <pubDate>Wed, 22 Apr 2026 13:19:34 +0000</pubDate>
-      <guid isPermaLink="false">e039f8df-ab77-4360-a11b-8d4533a8af3f</guid>
-      <description>No longer content to subsume recognizable intellectual properties, the majority of the indexed internet and books (basically all of them), AI will apparently now begin devouring its own workforce.
-A report in Reuters alleged that the keystrokes, mouse movements and clicks of Meta's workforce are to be captured for the purposes of training AI &#8212; something the company's communications department was happy to confirmed as accurate! In a cheery missive, a company spokesperson told Engadget that "If we're building agents to help people complete everyday tasks using computers, our models need real ex...</description>
+      <title>The Bang &amp; Olufsen Beosound Explore Bluetooth speaker is at the lowest price weve seen all year</title>
+      <link>https://mashable.com/article/april-22-bang-and-olufsen-beosound-explore-deal</link>
+      <pubDate>Wed, 22 Apr 2026 15:12:37 +0000</pubDate>
+      <guid isPermaLink="false">00sNx6hl0wxfZrfZK8L8mTw</guid>
+      <description>The Bang &amp; Olufsen Beosound Explore Bluetooth speaker is on sale at Amazon for $224, down from the normal price of $299. That's a 25% discount.</description>
     </item>
   </channel>
 </rss>
