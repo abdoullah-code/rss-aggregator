@@ -3,91 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 21 Apr 2026 23:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:57:34 GMT</lastBuildDate>
     <item>
-      <title>Unauthorized group has gained access to Anthropic&#8217;s exclusive cyber tool Mythos, report claims</title>
-      <link>https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/</link>
-      <pubDate>Tue, 21 Apr 2026 23:26:45 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114961</guid>
-      <description>Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.</description>
-    </item>
-    <item>
-      <title>SpaceX and Cursor strike partnership that might end in a $60 billion acquisition</title>
-      <link>https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss</link>
-      <pubDate>Tue, 21 Apr 2026 23:21:31 +0000</pubDate>
-      <guid isPermaLink="false">96eec5a8-f79e-4a87-98a7-a54d4714d07f</guid>
-      <description>SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. "SpaceXAI and&#160; @cursor_ai&#160; are now working closely together to create the world&#8217;s best coding and knowledge work AI," SpaceX wrote in a post on X.&#160; SpaceXAI and @cursor_ai are now working closely together to create the world&#8217;s best coding and knowledge work AI.The combination of Cursor&#8217;s leading product and distribution to expert software engineers with SpaceX&#8217;s million H100 equivalent Colossus training supercomputer will&#8230;&#8212; SpaceX (@SpaceX) April 21, 2026...</description>
-    </item>
-    <item>
-      <title>Quordle hints and answers for Wednesday, April 22 (game #1549)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-22-april-2026</link>
-      <pubDate>Tue, 21 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">WZis66wHcucFCQHznnDzyK</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Wednesday, April 22 (game #1046)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-22-april-2026</link>
-      <pubDate>Tue, 21 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">rjSNmBUHx9ojudAjaP3j2B</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Wednesday, April 22 (game #780)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-22-april-2026</link>
-      <pubDate>Tue, 21 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">JeuFnGPubUb9rh95pGFZZD</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>5 tips for using Gemini&#8217;s new Notebook feature</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/gemini/5-tips-for-using-geminis-new-notebook-feature</link>
-      <pubDate>Tue, 21 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">JpzRCtymcSd9YtU96jxVEU</guid>
-      <description>Gemini&#8217;s new Notebook feature becomes far more useful with a few simple tips.</description>
-    </item>
-    <item>
-      <title>SpaceX is working with Cursor and has an option to buy the startup for $60 billion</title>
-      <link>https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/</link>
-      <pubDate>Tue, 21 Apr 2026 22:58:22 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114958</guid>
-      <description>Only Elon would do this before an IPO.</description>
-    </item>
-    <item>
-      <title>SpaceX cuts a deal to maybe buy Cursor for $60 billion</title>
-      <link>https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition</link>
-      <pubDate>2026-04-21T18:45:37-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916427</guid>
-      <description>With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market [&#8230;]</description>
-    </item>
-    <item>
-      <title>Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos</title>
-      <link>https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss</link>
-      <pubDate>Tue, 21 Apr 2026 22:43:30 +0000</pubDate>
-      <guid isPermaLink="false">a594aec3-f2b3-4501-8328-fce4636373d7</guid>
-      <description>Anthropic's buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company's special Claude Mythos Preview model as a way to protect critical services. Using Mythos helped Mozilla's team find and patch 271 vulnerabilities in the latest release of the Firefox browser. "So far we&#8217;ve found no category or complexity of vulnerability that humans can find that this model can&#8217;t," the foundation said.The blog post from Mozilla feels like a positive sign for Anthropic's Project Glasswi...</description>
-    </item>
-    <item>
-      <title>Home theater fans will be happy the LG G6 OLED TV fixes this overlooked picture issue its predecessors had &#8212; but there's a catch</title>
-      <link>https://www.techradar.com/televisions/home-theater-fans-will-be-happy-the-lg-g6-oled-tv-fixes-this-overlooked-picture-issue-its-predecessors-had-but-theres-a-catch</link>
-      <pubDate>Tue, 21 Apr 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NZtHbiiwuJwaUMCDCTTtEo</guid>
-      <description>The LG G6 fixes a long-running issue most prominent on LG's G-series OLEDs&#8230; for the most part.</description>
-    </item>
-    <item>
-      <title>A &#8216;Star Wars&#8217; menu is coming to Burger King. Here&#8217;s when you can get it</title>
-      <link>https://www.fastcompany.com/91530223/a-star-wars-menu-is-coming-to-burger-king-heres-when-you-can-get-it</link>
-      <pubDate>2026-04-21T22:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91530223/a-star-wars-menu-is-coming-to-burger-king-heres-when-you-can-get-it</guid>
-      <description>The Mandalorian and Grogu-themed items hit locations nationwide starting May 4.
-Burger King is teaming up with Star Wars for a limited-time menu, bringing a galaxy far, far away to its restaurants.</description>
-    </item>
-    <item>
-      <title>'Not just generating images. It&#8217;s thinking' &#8212; ChatGPT Images 2.0 could fundamentally change how you make AI images</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/not-just-generating-images-its-thinking-chatgpt-images-2-0-could-fundamentally-change-how-you-make-ai-images</link>
-      <pubDate>Tue, 21 Apr 2026 21:46:48 +0000</pubDate>
-      <guid isPermaLink="false">cLA4QJoLQxrvw94ubw3N3G</guid>
-      <description>ChatGPT Images 2.0 upgrades image generation with better reasoning, clearer text, and more reliable outputs, bringing it closer to true multimodal AI</description>
+      <title>5 unmissable Michael Jackson documentaries you need to stream before watching the late singer's new movie biopic Michael</title>
+      <link>https://www.techradar.com/streaming/entertainment/michael-jackson-documentaries</link>
+      <pubDate>Wed, 22 Apr 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dnnDrGpnTPnKoMQFsK8pxQ</guid>
+      <description>Heading to theaters to see new movie biopic Michael this week? Make sure you catch these 5 jaw-dropping Michael Jackson documentaries on streaming before you do.</description>
     </item>
   </channel>
 </rss>
