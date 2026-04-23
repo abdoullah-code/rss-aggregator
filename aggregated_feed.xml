@@ -3,13 +3,48 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 23 Apr 2026 21:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:52:52 GMT</lastBuildDate>
     <item>
-      <title>Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation</title>
-      <link>https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation</link>
-      <pubDate>Thu, 23 Apr 2026 21:50:00 GMT</pubDate>
-      <guid isPermaLink="false">5kBH9vLO9IZsae2PUVXp0g</guid>
-      <description>For several weeks, a growing chorus of developers and AI power users claimed that Anthropic&#8217;s flagship models were losing their edge. Users across GitHub, X, and Reddit reported a phenomenon they described as "AI shrinkflation"&#8212;a perceived degradation where Claude seemed less capable of sustained reasoning, more prone to hallucinations, and increasingly wasteful with tokens. Critics pointed to a measurable shift in behavior, alleging that the model had moved from a "research-first" approach to a lazier, "edit-first" style that could no longer be trusted for complex engineering. While the compa...</description>
+      <title>US arrests soldier who allegedly made $400k on Maduro Polymarket bets</title>
+      <link>https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke</link>
+      <pubDate>2026-04-23T18:49:11-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=917910</guid>
+      <description>We knew someone made over $400,000 on suspicious Polymarket bets around the US operation to capture Venezuelan president Nicolas Maduro, but now we have a name: Gannon Ken Van Dyke. The US Attorney for the Southern District of New York announced Thursday that Van Dyke is in custody, on several charges, including using confidential government [&#8230;]</description>
+    </item>
+    <item>
+      <title>Redwood Materials loses COO amid layoffs, restructuring</title>
+      <link>https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/</link>
+      <pubDate>Thu, 23 Apr 2026 22:44:12 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3116004</guid>
+      <description>Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.</description>
+    </item>
+    <item>
+      <title>Leak reveals new Xbox Game Pass &#8216;Starter Edition&#8217; that&#8217;s part of Discord Nitro</title>
+      <link>https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle</link>
+      <pubDate>2026-04-23T18:36:39-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=917880</guid>
+      <description>Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass "Starter Edition" that is bundled with Discord Nitro. The Starter Edition reportedly includes "access to over 50 games from the Game Pass library," [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors</link>
+      <pubDate>2026-04-23T18:27:11-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=917871</guid>
+      <description>Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [&#8230;]...</description>
+    </item>
+    <item>
+      <title>'We love you, and we want you to win' &#8212; OpenAI releases GPT-5.5 for ChatGPT</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/we-love-you-and-we-want-you-to-win-openai-releases-gpt-5-5-for-chatgpt</link>
+      <pubDate>Thu, 23 Apr 2026 22:13:47 +0000</pubDate>
+      <guid isPermaLink="false">jXJg9YMZ5x7j5uASrPaVva</guid>
+      <description>OpenAI has released GPT-5.5, which makes ChatGPT more reliable and useful</description>
+    </item>
+    <item>
+      <title>Newly Deciphered Sabotage Malware May Have Targeted Iran&#8217;s Nuclear Program&#8212;and Predates Stuxnet</title>
+      <link>https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/</link>
+      <pubDate>Thu, 23 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69e7aad25b9f207033e7c6b1</guid>
+      <description>Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005&#8212;and likely deployed by the US or an ally.</description>
     </item>
     <item>
       <title>Brendan Carr&#8217;s war on wokeness targets inclusive children&amp;#8217;s television</title>
@@ -26,11 +61,27 @@
       <description>Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.</description>
     </item>
     <item>
+      <title>NASA&#8217;s awe-inducing iPhone moon video is a free ad for Apple, but there&#8217;s a catch</title>
+      <link>https://www.fastcompany.com/91531809/nasas-awe-inducing-iphone-moon-video-is-a-free-ad-for-apple-but-theres-a-catch</link>
+      <pubDate>2026-04-23T21:33:49</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91531809/nasas-awe-inducing-iphone-moon-video-is-a-free-ad-for-apple-but-theres-a-catch</guid>
+      <description>Who owns the moon (video)?
+NASA this week released a stunning video of &#8220;Earthset,&#8221; the humbling moment when the Artemis II crew (now back at home) caught a view of Earth setting behind the lunar surface. From the window of the crew&#8217;s capsule, the recording captured the cusp of our bright and blue planet slowly disappearing behind the moon. The camera lens is of high-enough quality that the imaging picked up the wisps of weather systems traveling over our oceans and, in the foreground, the much darker lunar surface, peppered with crevices and craters.&#160;...</description>
+    </item>
+    <item>
       <title>Australia joins countries trialing Claude Mythos 'to &#8203;make sure we are aware of emerging vulnerabilities'</title>
       <link>https://www.techradar.com/pro/security/australia-joins-countries-trialing-claude-mythos-to-make-sure-we-are-aware-of-emerging-vulnerabilities</link>
       <pubDate>Thu, 23 Apr 2026 21:30:00 +0000</pubDate>
       <guid isPermaLink="false">6Gohc8MJZW8wncvNNYJvMJ</guid>
       <description>The company is "working with" Anthropic and other similar software providers, a spokesperson said.</description>
+    </item>
+    <item>
+      <title>Palantir is dropping merch and stirring pots</title>
+      <link>https://www.fastcompany.com/91531591/those-palantir-chore-coats-yeah-theyre-weird</link>
+      <pubDate>2026-04-23T21:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91531591/those-palantir-chore-coats-yeah-theyre-weird</guid>
+      <description>Those Palantir chore coats? Yeah, they&#8217;re weird. 
+The software company Palantir has waded into online fashion discourse after its head of strategic engagement, Eliano A. Younes, posted pictures of a &#8220;lightweight Palantir chore coat&#8221; to X.</description>
     </item>
     <item>
       <title>Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment</title>
@@ -45,79 +96,6 @@
       <pubDate>Thu, 23 Apr 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">3yyYryrnHuhpdprA8oH5Gh</guid>
       <description>Disney Store&#8217;s May the 4th drop includes exclusive BDX Droid figures, a talking Mandalorian action figure, light-up gauntlets, collectible pins, and more inspired by The Mandalorian and Grogu.</description>
-    </item>
-    <item>
-      <title>Thermal Master P4 review: Easily the best phone-connected thermal camera yet, but it's not perfect</title>
-      <link>https://www.techradar.com/cameras/thermal-master-p4-dual-lens-thermal-camera-review</link>
-      <pubDate>Thu, 23 Apr 2026 20:40:00 +0000</pubDate>
-      <guid isPermaLink="false">KiLRe2mxd6pvFDcRNYin5c</guid>
-      <description>The Thermal Master P4 is a thermal camera that connects to an Android phone or PC using USB.</description>
-    </item>
-    <item>
-      <title>A former employee is suing MrBeast&#8217;s company for harassment, discrimination</title>
-      <link>https://www.fastcompany.com/91531535/mrbeast-lawsuit-beast-industries-sexual-harassment-discrimination</link>
-      <pubDate>2026-04-23T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91531535/mrbeast-lawsuit-beast-industries-sexual-harassment-discrimination</guid>
-      <description>Beast Industries denies the claims in the lawsuit, filed in North Carolina Tuesday. 
-Beast Industries, the $5 billion media conglomerate founded by YouTube star MrBeast, is being sued by a former employee who says she was sexually harassed, discriminated against as a woman, and fired shortly after returning from maternity leave.&#160;</description>
-    </item>
-    <item>
-      <title>Rednote Draws a Line Between China and the World</title>
-      <link>https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/</link>
-      <pubDate>Thu, 23 Apr 2026 20:23:48 +0000</pubDate>
-      <guid isPermaLink="false">69e6595e1536f7d1bbd37b35</guid>
-      <description>As the platform expands abroad, it&#8217;s taking steps to separate Chinese users from the international audiences it once brought together.</description>
-    </item>
-    <item>
-      <title>FCC challenges gender identity themes on kids TV</title>
-      <link>https://mashable.com/article/fcc-transgender-themes-tv-shows</link>
-      <pubDate>Thu, 23 Apr 2026 20:15:19 +0000</pubDate>
-      <guid isPermaLink="false">06VOIPtWQL68jwgzxcbQXSN</guid>
-      <description>The federal agency calls into question entire system of TV ratings.</description>
-    </item>
-    <item>
-      <title>Instagram tests a new &#8216;Instants&#8217; app for sharing disappearing photos</title>
-      <link>https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/</link>
-      <pubDate>Thu, 23 Apr 2026 20:03:53 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3115950</guid>
-      <description>The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.</description>
-    </item>
-    <item>
-      <title>Microsoft is reportedly offering voluntary buyouts to up to 7 percent of its employees</title>
-      <link>https://www.engadget.com/big-tech/microsoft-is-reportedly-offering-voluntary-buyouts-to-up-to-7-percent-of-its-employees-200050484.html?src=rss</link>
-      <pubDate>Thu, 23 Apr 2026 20:00:50 +0000</pubDate>
-      <guid isPermaLink="false">d0f18865-7afa-4222-93ba-db4c4721422c</guid>
-      <description>Microsoft is planning to get rid of more US employees via its first voluntary buyout program, CNBC reports. The buyout program will reportedly be offered to US employees at "the senior director level and below whose years of employment and age add up to 70 or higher," and could cover up to 7 percent of the company's US workforce.&#160;With around 125,000 employees in the US as of June 2025, that could mean up to 8,750 will be offered a paid exit when Microsoft begins its program in May. That's a smaller figure than the 15,000 or so employees the company laid off in May and July of 2025, but still s...</description>
-    </item>
-    <item>
-      <title>Spotify is celebrating its 20th anniversary, and so are we &#8212; these are 5 of the platform&#8217;s landmark moments and yes, one of them involves Taylor Swift</title>
-      <link>https://www.techradar.com/audio/spotify/spotify-is-celebrating-its-20th-anniversary-and-so-are-we-these-are-5-of-the-platforms-landmark-moments-and-yes-one-of-them-involves-taylor-swift</link>
-      <pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GkBcAaopfZeB9gb6h5YWwH</guid>
-      <description>These are 5 of Spotify's most memorable moments from the last 20 years.</description>
-    </item>
-    <item>
-      <title>The dark side of AI &#8212;shocking report reveals 11 planned AI data centers connected to OpenAI, Meta and Microsoft could produce more greenhouse gases than Morocco</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/the-dark-side-of-ai-shocking-report-reveals-11-planned-ai-data-centers-connected-to-openai-meta-and-microsoft-could-produce-more-greenhouse-gases-than-morocco</link>
-      <pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8uq7CCGtXRUi6EuedpUZqE</guid>
-      <description>New AI data centers could emit more greenhouse gases than an entire nation.</description>
-    </item>
-    <item>
-      <title>Meta will lay off 10% of workforce, company told staff today</title>
-      <link>https://www.fastcompany.com/91531705/meta-will-lay-off-10-of-workforce-company-announced-today</link>
-      <pubDate>2026-04-23T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91531705/meta-will-lay-off-10-of-workforce-company-announced-today</guid>
-      <description>As Meta spends heavy on AI initiatives and pushes for efficiency, 8,000 employees will be cut and 6,000 open roles shut.
-Meta announced to employees on Thursday that the company is laying off around 10% of the company on May 20&#8212;about 8,000 employees out of its workforce of more than 78,000 will be impacted, Bloomberg first reported.&#160;</description>
-    </item>
-    <item>
-      <title>No, Capital One didn&#8217;t bankroll an influencer&#8217;s wedding&#8212;but if you have enough followers, a big brand might sponsor yours</title>
-      <link>https://www.fastcompany.com/91530764/capital-one-didnt-sponsor-influencer-wedding-big-brands-will</link>
-      <pubDate>2026-04-23T19:56:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91530764/capital-one-didnt-sponsor-influencer-wedding-big-brands-will</guid>
-      <description>The cost of nuptials keeps skyrocketing. And while there&#8217;s little relief in sight for most of us, some brides and grooms are softening the blow with spon-con. 
-Modern brides need something old, new, borrowed, and blue. But if they&#8217;re influencers, add a sponsor to the list, too.</description>
     </item>
   </channel>
 </rss>
