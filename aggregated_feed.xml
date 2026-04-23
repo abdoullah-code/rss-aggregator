@@ -3,13 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 23 Apr 2026 20:56:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:54:45 GMT</lastBuildDate>
+    <item>
+      <title>Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation</title>
+      <link>https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation</link>
+      <pubDate>Thu, 23 Apr 2026 21:50:00 GMT</pubDate>
+      <guid isPermaLink="false">5kBH9vLO9IZsae2PUVXp0g</guid>
+      <description>For several weeks, a growing chorus of developers and AI power users claimed that Anthropic&#8217;s flagship models were losing their edge. Users across GitHub, X, and Reddit reported a phenomenon they described as "AI shrinkflation"&#8212;a perceived degradation where Claude seemed less capable of sustained reasoning, more prone to hallucinations, and increasingly wasteful with tokens. Critics pointed to a measurable shift in behavior, alleging that the model had moved from a "research-first" approach to a lazier, "edit-first" style that could no longer be trusted for complex engineering. While the compa...</description>
+    </item>
+    <item>
+      <title>Brendan Carr&#8217;s war on wokeness targets inclusive children&amp;#8217;s television</title>
+      <link>https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming</link>
+      <pubDate>2026-04-23T17:36:46-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=917810</guid>
+      <description>Under the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexities of gender identity. On Wednesday, the FCC's Media Bureau announced that it is soliciting comments from the public about whether the TV ratings system has made sound [&#8230;]</description>
+    </item>
+    <item>
+      <title>These are the countries moving to ban social media for children</title>
+      <link>https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</link>
+      <pubDate>Thu, 23 Apr 2026 21:33:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3092894</guid>
+      <description>Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.</description>
+    </item>
+    <item>
+      <title>Australia joins countries trialing Claude Mythos 'to &#8203;make sure we are aware of emerging vulnerabilities'</title>
+      <link>https://www.techradar.com/pro/security/australia-joins-countries-trialing-claude-mythos-to-make-sure-we-are-aware-of-emerging-vulnerabilities</link>
+      <pubDate>Thu, 23 Apr 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6Gohc8MJZW8wncvNNYJvMJ</guid>
+      <description>The company is "working with" Anthropic and other similar software providers, a spokesperson said.</description>
+    </item>
+    <item>
+      <title>Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment</title>
+      <link>https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/</link>
+      <pubDate>Thu, 23 Apr 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3115915</guid>
+      <description>Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.</description>
+    </item>
+    <item>
+      <title>Exclusive: BDX Droid figures, a talking Mandalorian, and more Star Wars toys are landing at Disney Store for May the 4th</title>
+      <link>https://www.techradar.com/streaming/entertainment/exclusive-bdx-droid-figures-a-talking-mandalorian-and-more-star-wars-toys-are-landing-at-disney-store-for-may-the-4th</link>
+      <pubDate>Thu, 23 Apr 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3yyYryrnHuhpdprA8oH5Gh</guid>
+      <description>Disney Store&#8217;s May the 4th drop includes exclusive BDX Droid figures, a talking Mandalorian action figure, light-up gauntlets, collectible pins, and more inspired by The Mandalorian and Grogu.</description>
+    </item>
     <item>
       <title>Thermal Master P4 review: Easily the best phone-connected thermal camera yet, but it's not perfect</title>
       <link>https://www.techradar.com/cameras/thermal-master-p4-dual-lens-thermal-camera-review</link>
       <pubDate>Thu, 23 Apr 2026 20:40:00 +0000</pubDate>
       <guid isPermaLink="false">KiLRe2mxd6pvFDcRNYin5c</guid>
       <description>The Thermal Master P4 is a thermal camera that connects to an Android phone or PC using USB.</description>
+    </item>
+    <item>
+      <title>A former employee is suing MrBeast&#8217;s company for harassment, discrimination</title>
+      <link>https://www.fastcompany.com/91531535/mrbeast-lawsuit-beast-industries-sexual-harassment-discrimination</link>
+      <pubDate>2026-04-23T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91531535/mrbeast-lawsuit-beast-industries-sexual-harassment-discrimination</guid>
+      <description>Beast Industries denies the claims in the lawsuit, filed in North Carolina Tuesday. 
+Beast Industries, the $5 billion media conglomerate founded by YouTube star MrBeast, is being sued by a former employee who says she was sexually harassed, discriminated against as a woman, and fired shortly after returning from maternity leave.&#160;</description>
     </item>
     <item>
       <title>Rednote Draws a Line Between China and the World</title>
@@ -66,109 +116,8 @@ Meta announced to employees on Thursday that the company is laying off around 10
       <link>https://www.fastcompany.com/91530764/capital-one-didnt-sponsor-influencer-wedding-big-brands-will</link>
       <pubDate>2026-04-23T19:56:00</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91530764/capital-one-didnt-sponsor-influencer-wedding-big-brands-will</guid>
-      <description>Wedding costs keep skyrocketing. And while there&#8217;s little relief in sight for most of us, some brides and grooms are softening the blow with sponcon. 
+      <description>The cost of nuptials keeps skyrocketing. And while there&#8217;s little relief in sight for most of us, some brides and grooms are softening the blow with spon-con. 
 Modern brides need something old, new, borrowed, and blue. But if they&#8217;re influencers, add a sponsor to the list, too.</description>
-    </item>
-    <item>
-      <title>Sonos&#8217; big sale on refurbished speakers is about to end</title>
-      <link>https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale</link>
-      <pubDate>2026-04-23T15:54:04-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=917611</guid>
-      <description>Portable audio and home theater upgrades can be very pricey, which is why we make a habit out of telling readers when there are good deals happening. With that in mind, here&#8217;s a friendly reminder that a heap of refurbished Sonos gear is steeply discounted, and will be until the company&#8217;s sale ends April 24th. [&#8230;]</description>
-    </item>
-    <item>
-      <title>Meta is laying off 10 percent of its staff</title>
-      <link>https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff</link>
-      <pubDate>2026-04-23T15:41:07-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=917690</guid>
-      <description>Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments [&#8230;]</description>
-    </item>
-    <item>
-      <title>Meet Noscroll, an AI bot that does your doomscrolling for you</title>
-      <link>https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/</link>
-      <pubDate>Thu, 23 Apr 2026 19:38:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3115849</guid>
-      <description>Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s pick to run US cyber agency CISA asks to drop out</title>
-      <link>https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/</link>
-      <pubDate>Thu, 23 Apr 2026 19:33:48 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3115948</guid>
-      <description>Sean Plankey has requested to withdraw his name to run the U.S. cybersecurity agency after a tumultuous year of chaotic temporary leadership.</description>
-    </item>
-    <item>
-      <title>Google CEO Sundar Pichai says 75% of the company&#8217;s code is AI-generated</title>
-      <link>https://www.fastcompany.com/91531519/google-ceo-says-75-of-the-companys-code-is-ai-generated</link>
-      <pubDate>2026-04-23T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91531519/google-ceo-says-75-of-the-companys-code-is-ai-generated</guid>
-      <description>As the company goes all in on AI agents, Google engineers are no longer constrained by time or human energy, Google Cloud&#8217;s senior director told Fast Company.
-From software engineers to non-technical staff, Google has urged its employees to fully embrace AI. And it seems like the push to use the tech has resulted in a major productivity leap.</description>
-    </item>
-    <item>
-      <title>Meta is downsizing by about 10 percent</title>
-      <link>https://www.engadget.com/social-media/meta-is-downsizing-by-about-10-percent-192658099.html?src=rss</link>
-      <pubDate>Thu, 23 Apr 2026 19:26:58 +0000</pubDate>
-      <guid isPermaLink="false">4a39ce23-51b1-4bca-b51c-344a58ab63d9</guid>
-      <description>Meta is making another steep cut to its staff, this time to the tune of a 10 percent reduction in its workforce. About 8,000 people will be laid off and about 6,000 open jobs will also be eliminated, according to Bloomberg.In an internal memo from Janelle Gale, Meta's head of human resources, the latest cuts are "part of our continued effort to run the company more efficiently and to allow us to offset the other investments we&#8217;re making." Those "other investments" are likely in artificial intelligence. Meta is building its own models and apparently training them on its own staff. Its smart gla...</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir&#8217;s Controversial Manifesto</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/</link>
-      <pubDate>Thu, 23 Apr 2026 19:26:11 +0000</pubDate>
-      <guid isPermaLink="false">69e9254fbc3b0c5c0151e0f7</guid>
-      <description>In this week&#8217;s episode of Uncanny Valley, we talk about Tim Cook&#8217;s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.</description>
-    </item>
-    <item>
-      <title>Microsoft continues a turbulent year with first ever voluntary buyouts</title>
-      <link>https://mashable.com/article/microsoft-voluntary-buyouts-first-time-ever-retirement</link>
-      <pubDate>Thu, 23 Apr 2026 19:19:27 +0000</pubDate>
-      <guid isPermaLink="false">01F1R0VMyuLfYoYdhmDh3pi</guid>
-      <description>Certain eligible Microsoft employees will be able to take a voluntary buyout soon, a first for the American tech giant.</description>
-    </item>
-    <item>
-      <title>TikTok tests AI Remix option. What it is, how to opt out.</title>
-      <link>https://mashable.com/article/tiktok-remix-how-to-opt-out</link>
-      <pubDate>Thu, 23 Apr 2026 19:06:16 +0000</pubDate>
-      <guid isPermaLink="false">04teC61SKAC2hkybVl75jek</guid>
-      <description>TikTok is quietly testing a new meme-making AI feature &#8212; and opting users in without asking.</description>
-    </item>
-    <item>
-      <title>Is that it? IKEA's has a limited-edition merch range to mark its 40th birthday &#8212; but it's rather underwhelming</title>
-      <link>https://www.techradar.com/home/is-that-it-ikeas-has-a-limited-edition-merch-range-to-mark-its-40th-birthday-but-its-rather-underwhelming</link>
-      <pubDate>Thu, 23 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dZVuRQBvmby2oMHJCPcYBi</guid>
-      <description>The Aurtiende range lets you express your IKEA love on your chest, or head &#8212; but I think the brand could have put a bit more effort in.</description>
-    </item>
-    <item>
-      <title>'Long term, the only manually driven car will be the Tesla Roadster': Elon Musk says future lineup is going to be almost entirely autonomous</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/long-term-the-only-manually-driven-car-will-be-the-tesla-roadster-elon-musk-says-future-lineup-is-going-to-be-almost-entirely-autonomous</link>
-      <pubDate>Thu, 23 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">QCp2HJgqXdhWKGUfCkRYUh</guid>
-      <description>Tesla's CEO says that the only non-autonomous vehicle in the company's future line-up will be the Roadster.</description>
-    </item>
-    <item>
-      <title>The older you get, the harder it is to make friends at work. Here&#8217;s why</title>
-      <link>https://www.fastcompany.com/91530351/the-older-you-get-the-harder-it-is-to-make-friends-at-work-heres-why</link>
-      <pubDate>2026-04-23T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91530351/the-older-you-get-the-harder-it-is-to-make-friends-at-work-heres-why</guid>
-      <description>And what you can do to curb the biological and social forces at play.
-After-work drinks are a nice way to bond with colleagues in your 20s and 30s. But, as people get older, different circumstances can necessitate more planning, and new avenues for making friends at work. Take Olga Valadon, 54, whose last corporate role was as chief of staff at Deloitte.&#160;...</description>
-    </item>
-    <item>
-      <title>One viral JetBlue blunder has customers convinced it uses surveillance pricing to upcharge on flights</title>
-      <link>https://www.fastcompany.com/91531484/jetblue-viral-blunder-convinced-customers-it-uses-surveillance-pricing-to-upcharge-on-flights-tickets-prices</link>
-      <pubDate>2026-04-23T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91531484/jetblue-viral-blunder-convinced-customers-it-uses-surveillance-pricing-to-upcharge-on-flights-tickets-prices</guid>
-      <description>The airline&#8217;s post on X sparked a proposed class action lawsuit over dynamic ticket pricing.
-JetBlue replies to customers on social media every day, from assuaging their customer service woes to thanking them for choosing their flights. But one seemingly innocuous JetBlue response may have set a class action lawsuit in motion, after customers became convinced that the airline implicated itself in using surveillance pricing....</description>
-    </item>
-    <item>
-      <title>&#8216;We Are Xbox&#8217;: read the memo defining Microsoft&#8217;s gaming future</title>
-      <link>https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty</link>
-      <pubDate>2026-04-23T14:59:12-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=917689</guid>
-      <description>Microsoft's new Xbox CEO Asha Sharma has laid out a new strategy for what she describes as a "return of Xbox." In a joint memo with Xbox Chief Content Officer Matt Booty, Sharma and Booty lay out their vision for the future of Xbox that will be judged on daily active players and the priorities [&#8230;]</description>
     </item>
   </channel>
 </rss>
