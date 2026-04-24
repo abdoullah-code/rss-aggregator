@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 24 Apr 2026 21:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 22:43:54 GMT</lastBuildDate>
+    <item>
+      <title>New Windows 11 laptop looks like a true MacBook Neo rival that should worry Apple</title>
+      <link>https://www.techradar.com/computing/laptops/new-windows-11-laptop-looks-like-a-true-macbook-neo-rival-that-should-worry-apple</link>
+      <pubDate>Fri, 24 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">im44adBb6FNE3nHkGJF2qP</guid>
+      <description>An Intel laptop with a new Wildcat Lake CPU is turning heads &#8211; is it more Neo than the MacBook Neo?</description>
+    </item>
+    <item>
+      <title>Stop taking notes forever thanks to this $30 AI-powered note-taking app</title>
+      <link>https://mashable.com/article/april-24-my-notes-ai-pro-plan-lifetime-subscription-ai-note-transcriber</link>
+      <pubDate>Fri, 24 Apr 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06JDNwKmFQEt54lzFM5eweU</guid>
+      <description>Stop taking notes for good with this My Notes AI Pro Plan lifetime subscription</description>
+    </item>
+    <item>
+      <title>DeepSeek V4 is here: How it compares to ChatGPT, Claude, Gemini</title>
+      <link>https://mashable.com/article/deepseek-v4-preview-comparison-chatgpt-claude-gemini</link>
+      <pubDate>Fri, 24 Apr 2026 21:54:24 +0000</pubDate>
+      <guid isPermaLink="false">06zpHCqp0mCHItvK85A7tsC</guid>
+      <description>DeepSeek V4 Preview costs about 85 percent less than GPT-5.5. See how the new open-source model compares to its U.S. rivals.</description>
+    </item>
     <item>
       <title>Palantir is reportedly helping the IRS investigate financial crimes</title>
       <link>https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/</link>
@@ -19,7 +40,7 @@
       <description>XChat, the standalone app for accessing X's messaging feature, is available to download now for iOS. X first suggested it would be stripping direct messaging from X in 2025, but at least for now, XChat is available in the original X app, the web and this new app.Based on its launch video, the new XChat app offers many of the elements of modern messaging X had already introduced to its chats feature, like the ability to delete and edit messages, block screenshots and send disappearing messages. The new XChat app also supports video and audio calls, and X claims that all messages sent with XChat...</description>
     </item>
     <item>
-      <title>Cohere acquires, merges with German-based startup to create a &#8216;transatlantic AI powerhouse&#8217;</title>
+      <title>Cohere acquires, merges with Germany-based startup to create a &#8216;transatlantic AI powerhouse&#8217;</title>
       <link>https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/</link>
       <pubDate>Fri, 24 Apr 2026 21:35:30 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3116339</guid>
@@ -33,18 +54,19 @@
       <description>RUN is designed for small businesses that need straightforward HR and payroll support, but can it streamline your operations?</description>
     </item>
     <item>
-      <title>CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.</title>
-      <link>https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors</link>
-      <pubDate>Fri, 24 Apr 2026 21:34:21 GMT</pubDate>
-      <guid isPermaLink="false">7FDpfuEgv0m8PvkgJNVR7L</guid>
-      <description>During Operation Lunar Peek in November 2024, attackers gained unauthenticated remote admin access &#8212; and eventual root &#8212; across more than 13,000 exposed Palo Alto Networks management interfaces. Palo Alto Networks scored CVE-2024-0012 at 9.3 and CVE-2024-9474 at 6.9 under CVSS v4.0. NVD scored the same pair 9.8 and 7.2 under CVSS v3.1. Two scoring systems. Two different answers for the same vulnerabilities. The 6.9 fell below patch thresholds. Admin access appeared required. The 9.3 sat queued for maintenance. Segmentation would hold."Adversaries circumvent [severity ratings] by chaining vulne...</description>
-    </item>
-    <item>
       <title>Host your own surveys: The complete guide to LimeSurvey on Hostinger</title>
       <link>https://www.techradar.com/pro/software-services/host-your-own-surveys-a-complete-guide-to-limesurvey-on-hostinger</link>
       <pubDate>Fri, 24 Apr 2026 21:20:00 +0000</pubDate>
       <guid isPermaLink="false">xYvBJngDDBrStw7x7YxAfC</guid>
       <description>If you're a Hostinger customer, installation is simple.</description>
+    </item>
+    <item>
+      <title>Kellogg&#8217;s just dropped something inside cereal boxes you haven&#8217;t seen in years</title>
+      <link>https://www.fastcompany.com/91532272/kelloggs-just-dropped-something-inside-cereal-boxes-you-havent-seen-in-years</link>
+      <pubDate>2026-04-24T21:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91532272/kelloggs-just-dropped-something-inside-cereal-boxes-you-havent-seen-in-years</guid>
+      <description>Toy-filled cereal boxes return for the first time in over a decade.
+The time-honored tradition of scouring a new cereal box in search of a prize is coming back to the breakfast table.</description>
     </item>
     <item>
       <title>Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage</title>
@@ -80,7 +102,7 @@
       <pubDate>2026-04-24T20:58:43</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91532292/ai-startups-arr-carr-scott-stevenson</guid>
       <description>Founders are blurring ARR with future contract revenue to boost headline numbers, according to Spellbook CEO Scott Stevenson.
-Thousands of AI startups are fighting for the VC funding needed to win a slice of the enterprise market. But, according to Scott Stevenson, founder and CEO of the legal AI startup Spellbook, many are inflating their real revenues to get it. In an viral tweet earlier this week, Stevenson called out these fledgling companies for perpetuating a &#8220;huge scam&#8221; in their metric reporting....</description>
+Thousands of AI startups are fighting for the VC funding needed to win a slice of the enterprise market. But according to Scott Stevenson, cofounder and CEO of the legal AI startup Spellbook, many are inflating their real revenue to get it. In a viral tweet on April 17, Stevenson called out these fledgling companies for perpetuating a &#8220;huge scam&#8221; in their metric reporting....</description>
     </item>
     <item>
       <title>Cintra People HR software review: Refreshingly straightforward but recruitments come from integrations</title>
@@ -109,85 +131,6 @@ Thousands of AI startups are fighting for the VC funding needed to win a slice o
       <pubDate>2026-04-24T16:45:58-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=918572</guid>
       <description>Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Insider channels, including the ability to indefinitely delay updates up to 35 days at a time. [&#8230;]</description>
-    </item>
-    <item>
-      <title>No, McDonald&#8217;s AI bot didn&#8217;t go rogue, but  &#8216;prompt injection&#8217; is still a risk for companies</title>
-      <link>https://www.fastcompany.com/91532091/mcdonalds-ai-bot-didnt-go-rogue</link>
-      <pubDate>2026-04-24T20:42:41</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91532091/mcdonalds-ai-bot-didnt-go-rogue</guid>
-      <description>People hacking branded AI bots can come with reputational, financial, and legal costs.
-There appears to be a recent epidemic of users hijacking companies&#8217; AI-powered customer service bots to turn them into generic AI assistants. The goal is to get the branded bots to do their bidding, without having to subscribe to an AI service. Sometimes, people force the bots to do things that they are not supposed to do, like giving extraordinary product deals and even helping them to take legally problematic actions....</description>
-    </item>
-    <item>
-      <title>'It totally blew my mind': Sony's Project Ace robot plays ping pong better than the pros and could mark a major robotics turning point</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/it-totally-blew-my-mind-sonys-project-ace-robot-plays-ping-pong-better-than-the-pros-and-could-mark-a-major-robotics-turning-point</link>
-      <pubDate>Fri, 24 Apr 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">Ejf2wnMrhReHxN8TPggzh7</guid>
-      <description>This robot can play ping-pong at an elite level</description>
-    </item>
-    <item>
-      <title>700 Staples stores are bringing back Party City by opening shop-in-shops. Here&#8217;s the full list of locations in 34 states</title>
-      <link>https://www.fastcompany.com/91532286/staples-stores-opening-party-city-shops-locations-full-list-700</link>
-      <pubDate>2026-04-24T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91532286/staples-stores-opening-party-city-shops-locations-full-list-700</guid>
-      <description>Customers will be able to buy balloons, gift bags, and more at the office supply store as the two struggling brands partner up.
-Staples is ready to party, just in time for graduation season. The office supply retailer is adding Party City shop-in-shops to 700+ stores nationwide.</description>
-    </item>
-    <item>
-      <title>How Lonely Islands Jorma Taccone and BriTANick went from SNL to Hollywood</title>
-      <link>https://mashable.com/video/over-your-dead-body-jorma-taccone-britanick-snl-interview-sxsw-say-more</link>
-      <pubDate>Fri, 24 Apr 2026 20:22:21 +0000</pubDate>
-      <guid isPermaLink="false">01hYrZhsxICBKFWSG3KSvC7</guid>
-      <description>Lonely Island's Jorma Taccone and BriTANick's Brian McElhaney and Nick Kocher talk about how their careers launched through sketch comedy, which led them to becoming Hollywood filmmakers.</description>
-    </item>
-    <item>
-      <title>A Battlefield movie adaptation is on the way, possibly starring Michael B. Jordan</title>
-      <link>https://www.engadget.com/entertainment/a-battlefield-movie-adaptation-is-on-the-way-possibly-starring-michael-b-jordan-201906079.html?src=rss</link>
-      <pubDate>Fri, 24 Apr 2026 20:19:06 +0000</pubDate>
-      <guid isPermaLink="false">7254789e-63e0-44b0-a973-9fc181b4c5fc</guid>
-      <description>Have you ever noticed how Walgreens and CVS locations often end up across the street from each other? Well, Call of Duty and Battlefield have a similar thing going on. A mere eight days after the upcoming Call of Duty movie got an official premiere date, lo and behold: There's news from The Hollywood Reporter that a Battlefield movie is on the way.The project has some heavy-artillery star power attached. Oscar winner Michael B. Jordan (Sinners) is slated to produce and possibly star in the film. Meanwhile, Christopher McQuarrie of Mission Impossible fame is set to write, direct and produce. Na...</description>
-    </item>
-    <item>
-      <title>HP DeskJet 2855e: What do users think of this budget inkjet printer?</title>
-      <link>https://www.techradar.com/computing/printers-scanners/hp-deskjet-2855e-printer</link>
-      <pubDate>Fri, 24 Apr 2026 20:13:16 +0000</pubDate>
-      <guid isPermaLink="false">v7uhSRmgfuSKrCbsHnHjT9</guid>
-      <description>The HP DeskJet 2855e is an entry-level inkjet printer for home and small office use. Here's what people are saying about it.</description>
-    </item>
-    <item>
-      <title>X-energy stock pops 27% on first day of trading following upsized IPO</title>
-      <link>https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/</link>
-      <pubDate>Fri, 24 Apr 2026 20:10:54 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3116263</guid>
-      <description>Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.</description>
-    </item>
-    <item>
-      <title>Alex Jones has uncovered another massive conspiracy</title>
-      <link>https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker</link>
-      <pubDate>2026-04-24T16:10:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=918527</guid>
-      <description>Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work. "The Onion newspaper has been rocked by the discovery that their new creative director, produced [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The DOJ is backing xAI in its lawsuit against Colorado</title>
-      <link>https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss</link>
-      <pubDate>Fri, 24 Apr 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">c32d5e5c-6fa2-4dc6-b2c9-5018eaf610eb</guid>
-      <description>The Department of Justice has announced that it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado. xAI first filed the suit in early April in response to a recent Colorado law that requires developers of "high-risk" AI systems (for example, ones used in healthcare, employment or housing) to both disclose and mitigate the risk of algorithmic discrimination in their systems. The law is set to go into effect in June, and the DOJ is now asking a Colorado District Court to declare it unconstitutional.In xAI's original argument, Colorado Bill SB24-205 v...</description>
-    </item>
-    <item>
-      <title>IKEA has just revealed a chic inflatable chair that's a masterpiece in design &#8212; here's how to style it in your home</title>
-      <link>https://www.techradar.com/home/smart-lights/ikea-has-just-revealed-a-chic-inflatable-chair-thats-a-masterpiece-in-design-heres-how-to-style-it-in-your-home</link>
-      <pubDate>Fri, 24 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">jZxnJZVFGE9pAmmJnPm3J5</guid>
-      <description>Use neutral oak furniture and soft lighting to make this striking chair the star, and pick out its colors with splashes of green and chrome.</description>
-    </item>
-    <item>
-      <title>Letting go of plastic packaging is harder than it sounds, with Disney explaining: &#8220;The biggest challenge was presentation&#8221; in its Princess doll redesign.</title>
-      <link>https://www.techradar.com/streaming/entertainment/letting-go-of-plastic-packaging-is-harder-than-it-sounds-with-disney-explaining-the-biggest-challenge-was-presentation-in-its-princess-doll-redesign</link>
-      <pubDate>Fri, 24 Apr 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Kx4xvFWDjnX7v3PZBAc5tT</guid>
-      <description>Disney is reimagining its Classic Princess Dolls with plastic-free packaging that uses less material, improves durability, and makes the unboxing experience easier</description>
     </item>
   </channel>
 </rss>
