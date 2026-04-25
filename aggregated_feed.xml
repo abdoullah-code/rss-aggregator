@@ -3,27 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 25 Apr 2026 20:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 21:40:58 GMT</lastBuildDate>
+    <item>
+      <title>Maine&#8217;s governor vetoes data center moratorium</title>
+      <link>https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/</link>
+      <pubDate>Sat, 25 Apr 2026 20:57:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3116464</guid>
+      <description>L.D. 307 would have imposed the country&#8217;s first statewide moratorium on new data centers &#8212; lasting, in this case, until November 1, 2027.</description>
+    </item>
     <item>
       <title>For its 40th birthday, IKEA has created a collection of its most iconic products &#8212; and I bet you have at least one of them somewhere in your home</title>
       <link>https://www.techradar.com/home/for-its-40th-birthday-ikea-has-created-a-collection-of-its-most-iconic-products-and-i-bet-you-have-at-least-one-of-them-somewhere-in-your-home</link>
       <pubDate>Sat, 25 Apr 2026 20:30:00 +0000</pubDate>
       <guid isPermaLink="false">CRrqLgkWkrY7pcXcNSaSNa</guid>
       <description>Take a tour of the IKEA inventions that have stood the test of time &#8212; from Billy to Kallux.</description>
-    </item>
-    <item>
-      <title>Trump fires the entire National Science Board</title>
-      <link>https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board</link>
-      <pubDate>2026-04-25T15:20:15-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=918769</guid>
-      <description>Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in [&#8230;]...</description>
-    </item>
-    <item>
-      <title>I'm still playing Forza Horizon 3 a decade after release &#8212; here's why I can't get enough of its beautiful world</title>
-      <link>https://www.techradar.com/gaming/xbox/im-still-playing-forza-horizon-3-a-decade-after-release-heres-why-i-cant-get-enough-of-its-beautiful-world</link>
-      <pubDate>Sat, 25 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">xJ2SV6UzTTqERrn7q4V6RS</guid>
-      <description>For our From the Backlog series, I'm revisiting the brilliant open world of Forza Horizon 3.</description>
     </item>
   </channel>
 </rss>
