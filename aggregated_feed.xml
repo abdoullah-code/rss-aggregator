@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 25 Apr 2026 19:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 20:46:06 GMT</lastBuildDate>
+    <item>
+      <title>For its 40th birthday, IKEA has created a collection of its most iconic products &#8212; and I bet you have at least one of them somewhere in your home</title>
+      <link>https://www.techradar.com/home/for-its-40th-birthday-ikea-has-created-a-collection-of-its-most-iconic-products-and-i-bet-you-have-at-least-one-of-them-somewhere-in-your-home</link>
+      <pubDate>Sat, 25 Apr 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">CRrqLgkWkrY7pcXcNSaSNa</guid>
+      <description>Take a tour of the IKEA inventions that have stood the test of time &#8212; from Billy to Kallux.</description>
+    </item>
     <item>
       <title>Trump fires the entire National Science Board</title>
       <link>https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board</link>
@@ -17,27 +24,6 @@
       <pubDate>Sat, 25 Apr 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">xJ2SV6UzTTqERrn7q4V6RS</guid>
       <description>For our From the Backlog series, I'm revisiting the brilliant open world of Forza Horizon 3.</description>
-    </item>
-    <item>
-      <title>An influx of used EVs could drive down prices</title>
-      <link>https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices</link>
-      <pubDate>2026-04-25T14:25:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=918765</guid>
-      <description>Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and [&#8230;]</description>
-    </item>
-    <item>
-      <title>For easy CMS installation, here's a free option to consider &#8212; Concrete CMS is an impressive, open-source solution for your business</title>
-      <link>https://www.techradar.com/pro/software-services/when-it-comes-to-an-easy-cms-installation-heres-a-free-option-to-consider</link>
-      <pubDate>Sat, 25 Apr 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="false">9pCvJDKQAZg2rKLrDzaE33</guid>
-      <description>With Concrete CMS, you can get a free CMS solution online in just a few steps.</description>
-    </item>
-    <item>
-      <title>&#8216;We&#8217;re by far the most ubiquitous experience for music&#8217;: Spotify&#8217;s Head of Consumer Experience talks to me about the streaming giant's next 20 years, including its plans to expand to new formats and combat AI music</title>
-      <link>https://www.techradar.com/audio/spotify/were-by-far-the-most-ubiquitous-experience-for-music-spotifys-head-of-consumer-experience-talks-to-me-about-the-next-20-years-of-the-company-spotlighting-its-plans-to-expand-formats-fight-against-ai-and-more</link>
-      <pubDate>Sat, 25 Apr 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8L9n2MifU9mmZJpgqbYJCC</guid>
-      <description>As Spotify celebrates its 20th anniversary, I spoke with Sten Garmark about the platform's exciting future developments.</description>
     </item>
   </channel>
 </rss>
