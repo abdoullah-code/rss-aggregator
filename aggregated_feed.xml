@@ -3,55 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 26 Apr 2026 19:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:45:39 GMT</lastBuildDate>
     <item>
-      <title>Google&#8217;s new gradient icon design is coming to more apps</title>
-      <link>https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps</link>
-      <pubDate>2026-04-26T14:34:26-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=918852</guid>
-      <description>In late 2025, Google started rolling out new icons with a gradient design. Now it seems the new look is coming to the rest of Google's apps. 9to5Google got its hands on images of the new icons that ditch the uniform circle design that tries to cram in every color of the Google logo. In [&#8230;]</description>
+      <title>What Tim Cook built</title>
+      <link>https://techcrunch.com/2026/04/26/what-tim-cook-built/</link>
+      <pubDate>Sun, 26 Apr 2026 20:22:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3116501</guid>
+      <description>On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.</description>
     </item>
     <item>
-      <title>Canadian premier wants to ban social media and AI chatbots for kids in Manitoba</title>
-      <link>https://www.engadget.com/social-media/canadian-premier-wants-to-ban-social-media-and-ai-chatbots-for-kids-in-manitoba-182120933.html?src=rss</link>
-      <pubDate>Sun, 26 Apr 2026 18:21:20 +0000</pubDate>
-      <guid isPermaLink="false">d4db345c-0251-40ca-a84e-5547b499b59c</guid>
-      <description>Manitoba could be the first province in Canada to establish a social media ban for kids, but the proposal's details aren't very clear yet. The province's premier, Wab Kinew, announced during a fundraiser event on Saturday and on X that Manitoba would put in place a ban for social media and AI chatbots for its youth.
-"They're doing these very awful things to kids all in the name of a few likes, all in the name of more engagement, and all in the name of money," Kinew said at the event. "Our kids will never be for sale and their attention and their childhoods should never be profited from."
-Kinew...</description>
+      <title>Forced Windows updates can now be paused forever</title>
+      <link>https://www.engadget.com/computing/forced-windows-updates-can-now-be-paused-forever-200338487.html?src=rss</link>
+      <pubDate>Sun, 26 Apr 2026 20:03:39 +0000</pubDate>
+      <guid isPermaLink="false">baa7d5bf-19e4-4219-be60-75962b462173</guid>
+      <description>No more getting caught by a forced Windows 11 update while you're in the middle of a meeting or a match. Microsoft announced some major changes coming to Windows Update on its blog, including the ability to indefinitely pause Windows updates, 35 days at a time.
+To give users more control, Windows Update introduced the option to extend update pauses as much as users want. Once you opted to pause updates for Windows 11, you won't be disturbed for 35 days at a time, but you can now reset this 35-day limit for as long as you want. You should eventually install these updates, as most of them are us...</description>
     </item>
     <item>
-      <title>Stop the financial bleed! How Orbit fights back against the dreaded 'Subscription Creep'</title>
-      <link>https://www.techradar.com/computing/websites-apps/orbit</link>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">sFSZUzCpDkiLNpEezYZBQA</guid>
-      <description>Homescreen Heroes: Orbit helps you track your subscriptions like a pro</description>
-    </item>
-    <item>
-      <title>Cette table purifie l&#8217;air et recharge votre smartphone : j&#8217;ai test&#233; la SwitchBot Air Purifier Table</title>
-      <link>https://www.frandroid.com/marques/switchbot/2981721_cette-table-purifie-lair-et-recharge-votre-smartphone-jai-teste-la-switchbot-air-purifier-table</link>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/switchbot/2981721_cette-table-purifie-lair-et-recharge-votre-smartphone-jai-teste-la-switchbot-air-purifier-table</guid>
-      <description>
-Le SwitchBot Air Purifier Table est un objet assez iconoclaste, qui se propose de purifier votre air, avec un focus particulier sur les animaux, au format table. La marque y ajoute une veilleuse, la charge par induction et m&#234;me un diffuseur d&#8217;huiles essentielles. Voici notre test de cette table pas comme les autres.
-</description>
-    </item>
-    <item>
-      <title>Amazon divise par 3 le prix de sa petite cam&#233;ra de surveillance qui filme en 360&#176;</title>
-      <link>https://www.frandroid.com/bons-plans/3076013_amazon-divise-par-3-le-prix-de-sa-petite-camera-de-surveillance-qui-filme-en-360</link>
-      <pubDate>Sun, 26 Apr 2026 17:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3076013_amazon-divise-par-3-le-prix-de-sa-petite-camera-de-surveillance-qui-filme-en-360</guid>
-      <description>
-Compacte et discr&#232;te, la cam&#233;ra Blink Mini Pan-Tilt est la solution parfaite pour surveiller son logement sans se ruiner. Vendue autour de 59 euros, elle tombe aujourd&#8217;hui &#224; seulement 19 euros, une promo qui la rend particuli&#232;rement int&#233;ressante.
-</description>
-    </item>
-    <item>
-      <title>Trump has terminated several members of the independent National Science Board</title>
-      <link>https://www.engadget.com/science/trump-has-terminated-several-members-of-the-independent-national-science-board-170405205.html?src=rss</link>
-      <pubDate>Sun, 26 Apr 2026 17:04:05 +0000</pubDate>
-      <guid isPermaLink="false">f9913725-05f1-41c4-8b80-711857b89e35</guid>
-      <description>As reported by several outlets, the Trump administration dismissed members of the National Science Board (NSB), which is tasked with establishing policies for the National Science Foundation. It's not clear how many members have been dismissed. According to screenshots shared with The Washington Post, board members received a message that their position was "terminated, effective immediately.
-The NSB establishes policies for the National Science Foundation (NSF), the independent US agency responsible for apportioning about 25 percent of federal support towards research conducted by the country...</description>
+      <title>Adobe Illustrator (2026) review</title>
+      <link>https://www.techradar.com/pro/software-services/adobe-illustrator-2026-review</link>
+      <pubDate>Sun, 26 Apr 2026 19:15:00 +0000</pubDate>
+      <guid isPermaLink="false">8NxGHLzBjPmtGhzFp2bTaH</guid>
+      <description>Another year, another major Adobe Illustrator update. Have they finally fixed some long-standing glitches? Do I think the new tools and features will be worth your while? Read on to find out&#8230;</description>
     </item>
   </channel>
 </rss>
