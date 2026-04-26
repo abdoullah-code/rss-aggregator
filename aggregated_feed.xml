@@ -3,7 +3,58 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 26 Apr 2026 15:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 16:51:31 GMT</lastBuildDate>
+    <item>
+      <title>15 sub-$50 accessories to give your coffee station an instant boost (and they'd all make excellent Mother's Day gifts)</title>
+      <link>https://www.techradar.com/home/15-sub-usd50-accessories-to-give-your-coffee-station-an-instant-boost-and-theyd-all-make-excellent-mothers-day-gifts</link>
+      <pubDate>Sun, 26 Apr 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">PigVPxnjUspEiN8y5Lfo3W</guid>
+      <description>Affordable coffee-making accessories to make your morning routine feel even more special.</description>
+    </item>
+    <item>
+      <title>Trump turns the WHCD shooting into a pitch for the White House ballroom</title>
+      <link>https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom</link>
+      <pubDate>2026-04-26T12:18:02-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=918843</guid>
+      <description>Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press conference just hours after he and several cabinet members were [&#8230;]...</description>
+    </item>
+    <item>
+      <title>An OpenAI-linked news outlet appears to be entirely AI-generated</title>
+      <link>https://mashable.com/article/ai-generated-news-site-with-ties-to-openai</link>
+      <pubDate>Sun, 26 Apr 2026 16:05:28 +0000</pubDate>
+      <guid isPermaLink="false">07ybnEadd6yFYEtJF4HIetm</guid>
+      <description>A new report reveals that a news publication is entirely AI-generated and is funded by an OpenAI super PAC</description>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: Elon&#8217;s admission</title>
+      <link>https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/</link>
+      <pubDate>Sun, 26 Apr 2026 16:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3116367</guid>
+      <description>Welcome back to TechCrunch Mobility &#8212; your central hub for news and insights on the future of transportation.</description>
+    </item>
+    <item>
+      <title>Tomora&#8217;s Come Closer is an ecstatic love letter to 90s dance music</title>
+      <link>https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music</link>
+      <pubDate>2026-04-26T12:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=918826</guid>
+      <description>Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments, entranced by the two ethereal Nordic women banging on giant drums to a techno beat. I [&#8230;]</description>
+    </item>
+    <item>
+      <title>Nothing Phone (4a) Pro vs Google Pixel 10a&#160;: quel smartphone au bon rapport qualit&#233;/prix choisir&#160;?</title>
+      <link>https://www.frandroid.com/versus/3058629_nothing-phone-4a-pro-vs-google-pixel-10a-quel-smartphone-au-bon-rapport-qualite-prix-choisir</link>
+      <pubDate>Sun, 26 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/versus/3058629_nothing-phone-4a-pro-vs-google-pixel-10a-quel-smartphone-au-bon-rapport-qualite-prix-choisir</guid>
+      <description>
+Cette ann&#233;e, Google a fait le choix du surplace avec un Pixel 10a trop sage. En face, Nothing fait lui le pari de la turbulence, avec un Phone (4a) Pro qui chamboule tout, et impressionne &#224; bien des &#233;gards. Alors, comment bien choisir son futur smartphone milieu de gamme&#160;?
+</description>
+    </item>
+    <item>
+      <title>I wanted an online store, so I turned to the CubeCart open-source solution</title>
+      <link>https://www.techradar.com/pro/software-services/i-wanted-an-online-store-so-i-turned-to-the-cubecart-open-source-solution</link>
+      <pubDate>Sun, 26 Apr 2026 15:55:00 +0000</pubDate>
+      <guid isPermaLink="false">cUwjdALFw6bmpssio9UE4K</guid>
+      <description>If you're ready to create an online store, consider using this open-source solution, CubeCart.</description>
+    </item>
     <item>
       <title>To buy this Bay Area home, you&#8217;ll need Anthropic equity</title>
       <link>https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/</link>
@@ -28,13 +79,6 @@ Envie d&#8217;un &#233;cran PC de qualit&#233; pour jouer ? Le Gigabyte AORUS FO
       <description>The best time to buy a new TV is actually right now, and I'm rounding up my favorite models on sale that I recommend from Samsung, LG, and TCL.</description>
     </item>
     <item>
-      <title>Monitoring LLM behavior: Drift, retries, and refusal patterns</title>
-      <link>https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns</link>
-      <pubDate>Sun, 26 Apr 2026 15:13:54 GMT</pubDate>
-      <guid isPermaLink="false">2zWsVTW2SQxLvpViqkfRDF</guid>
-      <description>The stochastic challengeTraditional software is predictable: Input A plus function B always equals output C. This determinism allows engineers to develop robust tests. On the other hand, generative AI is stochastic and unpredictable. The exact same prompt often yields different results on Monday versus Tuesday, breaking the traditional unit testing that engineers know and love.To ship enterprise-ready AI, engineers cannot rely on mere &#8220;vibe checks&#8221; that pass today but fail when customers use the product. Product builders need to adopt a new infrastructure layer: The AI Evaluation Stack.This fr...</description>
-    </item>
-    <item>
       <title>SpeakOn&#8217;s dictation device is a good idea marred by platform limitations</title>
       <link>https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/</link>
       <pubDate>Sun, 26 Apr 2026 15:00:00 +0000</pubDate>
@@ -47,50 +91,6 @@ Envie d&#8217;un &#233;cran PC de qualit&#233; pour jouer ? Le Gigabyte AORUS FO
       <pubDate>Sun, 26 Apr 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">ut3Yk9k6AKBVkHmxXG5fb6</guid>
       <description>Some camera brands died long ago but their names live on under new management. Here are some of the most notable 'orphaned' brands in the camera industry that have nothing to do with the original companies</description>
-    </item>
-    <item>
-      <title>&#8216;STAGED&#8217;: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting</title>
-      <link>https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/</link>
-      <pubDate>Sun, 26 Apr 2026 14:43:47 +0000</pubDate>
-      <guid isPermaLink="false">69ee0b099e575b7eff7f6dc7</guid>
-      <description>The word &#8220;staged&#8221; exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.</description>
-    </item>
-    <item>
-      <title>Skylight&#8217;s 15-inch smart calendar is down to its lowest price to date</title>
-      <link>https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale</link>
-      <pubDate>2026-04-26T10:05:03-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=918544</guid>
-      <description>When you&#8217;re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through May 7th, it&#8217;s available directly from Skylight for $259.99 ($40 off), its best price to date. Skylight&#8217;s 15-inch smart calendar improves [&#8230;]...</description>
-    </item>
-    <item>
-      <title>T-Mobile is giving away the Apple iPhone 17 for free &#8212; how to get yours</title>
-      <link>https://mashable.com/article/april-25-free-apple-iphone-deal</link>
-      <pubDate>Sun, 26 Apr 2026 14:01:26 +0000</pubDate>
-      <guid isPermaLink="false">03sjSiPKwJU5Bt7vluoKeT7</guid>
-      <description>How to get free iPhone. Get the Apple iPhone 17 for free from T-Mobile when you trade in an eligible device and sign up for the Experience More plan.</description>
-    </item>
-    <item>
-      <title>On est mont&#233; &#224; bord du Zeekr 8X : 1 381 ch, une recharge en 9 minutes et un luxe ind&#233;cent face &#224; Porsche et Mercedes</title>
-      <link>https://www.frandroid.com/marques/zeekr/3059763_on-est-monte-a-bord-du-zeekr-8x-1-381-ch-une-recharge-en-9-minutes-et-un-luxe-indecent-face-a-porsche-et-mercedes</link>
-      <pubDate>Sun, 26 Apr 2026 14:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/zeekr/3059763_on-est-monte-a-bord-du-zeekr-8x-1-381-ch-une-recharge-en-9-minutes-et-un-luxe-indecent-face-a-porsche-et-mercedes</guid>
-      <description>
-Avec son architecture 900V, ses 1 381 ch en version trimoteur et un int&#233;rieur digne d&#8217;une limousine, le Zeekr 8X est probablement le SUV hybride rechargeable le mieux fini que nous ayons approch&#233; en Chine. Nous sommes all&#233;s le d&#233;couvrir en concession &#224; Shenzhen.
-</description>
-    </item>
-    <item>
-      <title>La batterie au sodium franchit un cap d&#233;cisif&#160;: vers la fin du lithium&#160;?</title>
-      <link>https://www.01net.com/actualites/batterie-sodium-tout-solide-franchit-cap-decisif-vers-fin-lithium.html</link>
-      <pubDate>Sun, 26 Apr 2026 14:00:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1344374</guid>
-      <description>Une &#233;quipe de chercheurs a d&#233;velopp&#233; une batterie au sodium tout-solide fonctionnant &#224; temp&#233;rature ambiante et m&#234;me en dessous de z&#233;ro.</description>
-    </item>
-    <item>
-      <title>There&#8217;s one iOS 27 upgrade I want to see at WWDC 2026 &#8212; and it isn't Siri 2.0</title>
-      <link>https://www.techradar.com/phones/ios/theres-one-ios-27-upgrade-i-want-to-see-at-wwdc-2026-and-it-isnt-siri-2-0</link>
-      <pubDate>Sun, 26 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">h3LZdiBh4QFoV7e9gZHkyc</guid>
-      <description>With WWDC 2026 just around the corner, I&#8217;d love to see Apple revamp the Shortcuts app in iOS 27.</description>
     </item>
   </channel>
 </rss>
