@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 26 Apr 2026 22:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:44:19 GMT</lastBuildDate>
+    <item>
+      <title>Quordle hints and answers for Monday, April 27 (game #1554)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-april-2026</link>
+      <pubDate>Sun, 26 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rNA77hksYrDA6Z4bxCZGFC</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Monday, April 27 (game #1051)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-27-april-2026</link>
+      <pubDate>Sun, 26 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6442L7hZcPWcQQ4N7Kb4uG</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Monday, April 27 (game #785)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-27-april-2026</link>
+      <pubDate>Sun, 26 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gbKL2nZB6dgkg3Hsk4n7eE</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder</title>
       <link>https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/</link>
@@ -17,13 +38,6 @@
       <pubDate>Sun, 26 Apr 2026 21:48:46 +0000</pubDate>
       <guid isPermaLink="false">6fRxmxUeer4VRDsz6yKcsK</guid>
       <description>David Moseley is an award-winning home cinema designer from Australia, here he discusses his deign processes and how you can make simple upgrades at home.</description>
-    </item>
-    <item>
-      <title>Amazon&#8217;s new podcast strategy: Monetize everything</title>
-      <link>https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/</link>
-      <pubDate>Sun, 26 Apr 2026 21:38:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3116505</guid>
-      <description>Amazon's podcasting business seems to have transformed over the past six months.</description>
     </item>
   </channel>
 </rss>
