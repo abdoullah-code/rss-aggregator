@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 26 Apr 2026 20:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 21:42:20 GMT</lastBuildDate>
+    <item>
+      <title>Amazon&#8217;s new podcast strategy: Monetize everything</title>
+      <link>https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/</link>
+      <pubDate>Sun, 26 Apr 2026 21:38:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3116505</guid>
+      <description>Amazon's podcasting business seems to have transformed over the past six months.</description>
+    </item>
     <item>
       <title>What Tim Cook built</title>
       <link>https://techcrunch.com/2026/04/26/what-tim-cook-built/</link>
@@ -18,13 +25,6 @@
       <guid isPermaLink="false">baa7d5bf-19e4-4219-be60-75962b462173</guid>
       <description>No more getting caught by a forced Windows 11 update while you're in the middle of a meeting or a match. Microsoft announced some major changes coming to Windows Update on its blog, including the ability to indefinitely pause Windows updates, 35 days at a time.
 To give users more control, Windows Update introduced the option to extend update pauses as much as users want. Once you opted to pause updates for Windows 11, you won't be disturbed for 35 days at a time, but you can now reset this 35-day limit for as long as you want. You should eventually install these updates, as most of them are us...</description>
-    </item>
-    <item>
-      <title>Adobe Illustrator (2026) review</title>
-      <link>https://www.techradar.com/pro/software-services/adobe-illustrator-2026-review</link>
-      <pubDate>Sun, 26 Apr 2026 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">8NxGHLzBjPmtGhzFp2bTaH</guid>
-      <description>Another year, another major Adobe Illustrator update. Have they finally fixed some long-standing glitches? Do I think the new tools and features will be worth your while? Read on to find out&#8230;</description>
     </item>
   </channel>
 </rss>
