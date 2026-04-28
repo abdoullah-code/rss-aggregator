@@ -3,255 +3,182 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 28 Apr 2026 17:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:46:48 GMT</lastBuildDate>
+    <item>
+      <title>Now YouTube TV lets you multiview any channel you want</title>
+      <link>https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel</link>
+      <pubDate>2026-04-28T15:46:19-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919958</guid>
+      <description>YouTube CEO Neal Mohan announced Tuesday that YouTube TV is getting "fully customizable" multiview. Users have "full control to mix and match live streams" and can "build the personalized viewing experience you've been asking for," Mohan says. You can pin up to four streams in your multiview window. YouTube initially introduced multiview in a more [&#8230;]...</description>
+    </item>
+    <item>
+      <title>iOS 27 will reportedly come with new AI-powered photo editing tools</title>
+      <link>https://www.engadget.com/ai/ios-27-will-reportedly-come-with-new-ai-powered-photo-editing-tools-194119562.html?src=rss</link>
+      <pubDate>Tue, 28 Apr 2026 19:41:19 +0000</pubDate>
+      <guid isPermaLink="false">aca4af12-d390-41f5-962a-9165143322ce</guid>
+      <description>Apple reportedly plans to fix bugs and expand the capabilities of Apple Intelligence with the release of iOS 27, iPadOS 27 and macOS 27 year, and it seems like tweaks to the company's AI could go beyond a more functional version of its Siri assistant. Bloomberg reports that this year's software updates will also include new AI-powered photo editing tools that will let users change things like the background and framing of images, too.You can currently use the Photos app across Apple's operating systems to adjust things like saturation and contrast, apply filters, crop photos or use AI to remov...</description>
+    </item>
+    <item>
+      <title>The FCC is going after the broadcast licenses of Disney-owned ABC stations</title>
+      <link>https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat</link>
+      <pubDate>2026-04-28T15:36:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919739</guid>
+      <description>The Federal Communications Commission has ordered the ABC stations owned and operated by Disney to file for an early license renewal, as reported earlier by The New York Times. In a filing on Tuesday, the FCC claims it made the decision as part of an investigation into Disney's policies on diversity, equity, and inclusivity (DEI). [&#8230;]</description>
+    </item>
+    <item>
+      <title>Live updates from Elon Musk and Sam Altman&#8217;s court battle over the future of OpenAI</title>
+      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
+      <pubDate>2026-04-28T15:27:50-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=917225</guid>
+      <description>Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech&#8217;s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]</description>
+    </item>
+    <item>
+      <title>'The attacker completed in under five minutes': Experts warn of North Korea-linked campaign using fake Zoom meetings to target crypto execs</title>
+      <link>https://www.techradar.com/pro/security/the-attacker-completed-in-under-five-minutes-experts-warn-of-north-korea-linked-campaign-using-fake-zoom-meetings-to-target-crypto-execs</link>
+      <pubDate>Tue, 28 Apr 2026 19:20:00 +0000</pubDate>
+      <guid isPermaLink="false">rSXmVtoysii37h7vRQCwof</guid>
+      <description>Highly sophisticated scam will leave you questioning what's real while hackers steal your crypto.</description>
+    </item>
+    <item>
+      <title>Des &#233;tudiants ont d&#233;tect&#233; une &#233;toile si rare qu&#8217;elle est d&#233;crite comme &#171;&#160;la plus pure jamais d&#233;couverte&#160;&#187;, n&#233;e peu apr&#232;s le Big Bang</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/cosmologie-etudiants-ont-detecte-etoile-si-rare-quelle-decrite-comme-plus-pure-jamais-decouverte-nee-peu-apres-big-bang-134046/#xtor%3DRSS-8</link>
+      <pubDate>Tue, 28 Apr 2026 21:07:33 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/cosmologie-etudiants-ont-detecte-etoile-si-rare-quelle-decrite-comme-plus-pure-jamais-decouverte-nee-peu-apres-big-bang-134046/#xtor%3DRSS-8</guid>
+      <description>L&#8217;&#233;toile nomm&#233;e SDSSJ0715-7334 semble si pauvre&#160;en &#233;l&#233;ments plus lourds que l'hydrog&#232;ne et l'h&#233;lium qu'elle n'a pu&#160;na&#238;tre qu'au d&#233;but de l'&#233;volution chimique des galaxies, peu apr&#232;s le Big Bang. Pour le moment, on pense qu'elle est la plus vieille connue de l'Humanit&#233; et elle a &#233;t&#233; d&#233;busqu&#233;e...</description>
+    </item>
+    <item>
+      <title>Elon Musk takes the stand in high-profile trial against OpenAI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman</link>
+      <pubDate>2026-04-28T15:00:13-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=917052</guid>
+      <description>Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Don't suffer with seasonal allergies &#8212; I test air purifiers for a living and these are my top 3 recommendations for filtering out pollen and dust</title>
+      <link>https://www.techradar.com/home/air-quality/dont-suffer-with-seasonal-allergies-i-test-air-purifiers-for-a-living-and-these-are-my-top-3-recommendations-for-filtering-out-pollen-and-dust</link>
+      <pubDate>Tue, 28 Apr 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">W6RPKyVFRiw2YaLqJYRPwg</guid>
+      <description>Don't spend your summer struggling with sneezes and streaming eyes &#8212; these three top-rated air purifiers will keep your home free from allergens.</description>
+    </item>
+    <item>
+      <title>Amazon launches an AI-powered audio Q&amp;A experience on product pages</title>
+      <link>https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/</link>
+      <pubDate>Tue, 28 Apr 2026 18:49:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117138</guid>
+      <description>Amazon's new "Join the chat" feature lets you ask questions about products and receive AI-powered audio responses.</description>
+    </item>
+    <item>
+      <title>You can get dragged into a police investigation by proximity alone &#8212; for now</title>
+      <link>https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants</link>
+      <pubDate>2026-04-28T14:45:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919664</guid>
+      <description>A years-old bank heist may soon have major privacy implications for every American who owns a cellphone. On Monday, the Supreme Court heard arguments in Chatrie v. United States, a case involving police's use of controversial "geofence warrants" to find and arrest Okello Chatrie, the suspect of a 2019 bank robbery outside Richmond, Virginia. At [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#8216;It&#8217;s Undignified&#8217;: Hundreds of Workers Training Meta&#8217;s AI Could Be Laid Off</title>
+      <link>https://www.wired.com/story/meta-covalen-ai-workers-layoffs/</link>
+      <pubDate>Tue, 28 Apr 2026 18:36:47 +0000</pubDate>
+      <guid isPermaLink="false">69f0e18a5340a3ec02e9911f</guid>
+      <description>More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.</description>
+    </item>
+    <item>
+      <title>Google Home makes it easier to understand why devices aren&amp;#8217;t working</title>
+      <link>https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update</link>
+      <pubDate>2026-04-28T14:31:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919787</guid>
+      <description>Thanks to Google Home's latest update, users may be able to get offline devices working again with less troubleshooting. Now, whenever a device goes offline, users may get "instant account-relinking prompts" in the app's device controller pages, which will tell users right away if an expired partner link is the reason one of their smart [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Nex Playground gaming console is $60 off this week</title>
+      <link>https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale</link>
+      <pubDate>2026-04-28T14:21:50-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919736</guid>
+      <description>One of the best-selling gaming consoles over the winter holidays was the Nex Playground, a small camera-equipped cube that runs motion-controlled games made primarily for kids. It got a $50 price increase this month &#8212; going from $249 to $299 &#8212; but shoppers are getting a brief discount during Amazon&#8217;s gaming week sale that lasts [&#8230;]</description>
+    </item>
+    <item>
+      <title>'Battery-free, quiet, and inherently private' &#8212; These 3D-printed metal tags could change home and office tracking, turning penny-sized discs into smart devices using ultrasonic tech for maintenance-free monitoring without charging</title>
+      <link>https://www.techradar.com/pro/battery-free-quiet-and-inherently-private-these-3d-printed-metal-tags-could-change-home-and-office-tracking-turning-penny-sized-discs-into-smart-devices-using-ultrasonic-tech-for-maintenance-free-monitoring-without-charging</link>
+      <pubDate>Tue, 28 Apr 2026 18:20:00 +0000</pubDate>
+      <guid isPermaLink="false">DH3n9SNwbH9qGFJ9iZKaGY</guid>
+      <description>Researchers at Georgia Tech develop battery-free 3D-printed metal tags for smart tracking that use ultrasonic sound to record everyday actions.</description>
+    </item>
+    <item>
+      <title>Apple Weather down: Apple confirms Weather app outage</title>
+      <link>https://mashable.com/article/apple-weather-down-app-not-working</link>
+      <pubDate>Tue, 28 Apr 2026 18:17:14 +0000</pubDate>
+      <guid isPermaLink="false">0751CzW40z53OwnXFs8fgvA</guid>
+      <description>Users report that the popular iOS weather app is down on the afternoon of April 28.</description>
+    </item>
+    <item>
+      <title>Match Group invests $100M in Sniffies, a cruising app for gay men</title>
+      <link>https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/</link>
+      <pubDate>Tue, 28 Apr 2026 18:16:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117054</guid>
+      <description>The app is Match Group's newest attempt to get mobile users excited about online romance again.</description>
+    </item>
+    <item>
+      <title>Google expands Pentagon&#8217;s access to its AI after Anthropic&#8217;s refusal</title>
+      <link>https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/</link>
+      <pubDate>Tue, 28 Apr 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117039</guid>
+      <description>After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.</description>
+    </item>
+    <item>
+      <title>The resurrected Commodore 64 is getting a facelift like the original</title>
+      <link>https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c</link>
+      <pubDate>2026-04-28T14:10:39-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919625</guid>
+      <description>The creators of the C64 Ultimate, a recreation of the iconic '80s personal computer that uses an FPGA chip to accurately replicate the original, have announced a follow-up version that continues in its predecessor's footsteps. The original Commodore 64 first debuted in 1982 and was followed by the Commodore 64C in 1986, which was functionally [&#8230;]</description>
+    </item>
+    <item>
+      <title>NVIDIA starts offering a 12GB version of the 5070 for laptops</title>
+      <link>https://www.engadget.com/computing/laptops/nvidia-starts-offering-a-12gb-version-of-the-5070-for-laptops-180057515.html?src=rss</link>
+      <pubDate>Tue, 28 Apr 2026 18:00:57 +0000</pubDate>
+      <guid isPermaLink="false">9b450bbc-4d68-4646-a280-1ca78a01367b</guid>
+      <description>NVIDIA is releasing a new variant of its 5070 GPU for laptops. Nestled in a blog post about the latest version of its Game Ready Drivers, the company notes its partners will soon start selling 5070 laptops with 12GB of VRAM, alongside the 8GB model that NVIDIA has offered since the launch of the 50-series.&#160; "Demand for GeForce RTX remains strong, and memory supply is contrastrained. In order to maximize memory availability, we are releasing the GeForce RTX 5070 Laptop GPU 12GB configuration with 24Gb G7 memory. This gives our partners access to an additional pool of memory to complement the 16...</description>
+    </item>
+    <item>
+      <title>The UK&#8217;s Answer to Darpa Wants to Rewire the Human Brain</title>
+      <link>https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/</link>
+      <pubDate>Tue, 28 Apr 2026 17:58:29 +0000</pubDate>
+      <guid isPermaLink="false">69eba962c53bb73158216314</guid>
+      <description>ARIA has a billion-dollar budget and big aspirations for tackling everything from epilepsy to Alzheimer's.</description>
+    </item>
+    <item>
+      <title>Pro-Ject just launched a tiny box to turn any passive speakers wireless that attaches to the binding posts, and brings them into the Sonos-rivaling WiiM ecosystem &#8212; and there's a streamer box for hi-fi amps too&#8230; but Apple users should probably pass</title>
+      <link>https://www.techradar.com/audio/audio-streaming/pro-ject-just-launched-a-tiny-box-to-turn-any-passive-speakers-wireless</link>
+      <pubDate>Tue, 28 Apr 2026 17:52:29 +0000</pubDate>
+      <guid isPermaLink="false">zBLcq3aGdf3DJaacHx9Mh5</guid>
+      <description>Pro-Jet&#8217;s two new wireless dongles further push WiiM as a huge Sonos rival for hi-fi fans</description>
+    </item>
+    <item>
+      <title>Logitech made an analog and mechanical keyboard in one</title>
+      <link>https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap</link>
+      <pubDate>2026-04-28T13:50:49-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919517</guid>
+      <description>Each type of keyboard switch comes with perks and downsides. People who are used to typing on mechanical switches might dislike how quiet and squishy analog switches are by comparison. Regardless of your thoughts there, analog switches stand out because there are so many ways that gamers can customize how quickly they register inputs. Logitech's [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Why Sharing a Screenshot Can Get You Jailed in the UAE</title>
+      <link>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</link>
+      <pubDate>Tue, 28 Apr 2026 17:49:00 +0000</pubDate>
+      <guid isPermaLink="false">69f0dd3504ac86baed73a78e</guid>
+      <description>The war in Iran has drawn attention to arrests in the United Arab Emirates over online content, but the legal framework behind that enforcement has existed for years.</description>
+    </item>
+    <item>
+      <title>Is Tinder&#8217;s owner buying Sniffies? What Match Group&#8217;s investment means for the gay cruising platform</title>
+      <link>https://www.fastcompany.com/91533649/tinder-owner-match-group-buying-sniffies-lgbtq-investment</link>
+      <pubDate>2026-04-28T17:47:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91533649/tinder-owner-match-group-buying-sniffies-lgbtq-investment</guid>
+      <description>The move comes as dating app giant Match Group has been trying to court LGBTQ users. Some fans of the platform are skeptical. 
+The parent company of Hinge and Tinder is courting a potential new addition to its roster. Match Group on Monday announced a $100 million investment in Sniffies, a map-based cruising platform for queer men.&#160;</description>
+    </item>
     <item>
       <title>Paragon is not collaborating with Italian authorities probing spyware attacks, report says</title>
       <link>https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/</link>
       <pubDate>Tue, 28 Apr 2026 17:46:47 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3116989</guid>
-      <description>Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli-American spyware maker Paragon has reportedly not responded to authorities&#8217; requests for information.</description>
-    </item>
-    <item>
-      <title>Live updates from Elon Musk and Sam Altman&#8217;s court battle over the future of OpenAI</title>
-      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
-      <pubDate>2026-04-28T13:45:16-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=917225</guid>
-      <description>Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech&#8217;s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]</description>
-    </item>
-    <item>
-      <title>The rise of glasses-free 3D light-field displays: Samsung has created a 2D/3D switchable screen using a 'metasurface lenticular lens' with 'nanoscale structures' for no-compromise viewing &#8212; and it follows impressive demos from TCL and others</title>
-      <link>https://www.techradar.com/televisions/samsung-has-created-a-2d-3d-switchable-screen-using-a-metasurface-lenticular-lens</link>
-      <pubDate>Tue, 28 Apr 2026 17:27:39 +0000</pubDate>
-      <guid isPermaLink="false">GNhQAFbf2aFHFBt2e9vtSc</guid>
-      <description>Samsung has developed an electronically switchable display that can deliver glasses-free 3D</description>
-    </item>
-    <item>
-      <title>'The data should be a wake-up call': Report finds cybersecurity workers feel underpaid, undervalued and overstressed &#8212; and that's putting everyone at risk</title>
-      <link>https://www.techradar.com/pro/the-data-should-be-a-wake-up-call-report-finds-cybersecurity-workers-feel-underpaid-undervalued-and-overstressed-and-thats-putting-everyone-at-risk</link>
-      <pubDate>Tue, 28 Apr 2026 17:20:00 +0000</pubDate>
-      <guid isPermaLink="false">vkkcowm5MkTiMM6bqTKfCG</guid>
-      <description>Shifting demands for AI skills plus its impact on security is putting cybersecurity workers in stressful positions.</description>
-    </item>
-    <item>
-      <title>Games Done Quick will host its first ever event in Europe</title>
-      <link>https://www.engadget.com/gaming/games-done-quick-will-host-its-first-ever-event-in-europe-170637194.html?src=rss</link>
-      <pubDate>Tue, 28 Apr 2026 17:06:38 +0000</pubDate>
-      <guid isPermaLink="false">8228d320-16b9-4b39-9a52-34c09448c175</guid>
-      <description>Games Done Quick, the charity video game speedrunning series, is making its European debut in a live event at Germany&#8217;s Gamescom this summer.
-GDQ&#8217;s marathon event will run for the duration of the three-day show in Cologne, starting August 28-30, and will feature popular runners and an on-site live audience. The event will be broadcast on Twitch and YouTube, with programming kicking off at 4am ET (one for all you early risers) daily and running until 2pm.
-"We&#8217;re thrilled to expand Games Done Quick globally and to bring a live event to gamescom in Germany, an opportunity that&#8217;s incredibly meanin...</description>
-    </item>
-    <item>
-      <title>I ditched my iPhone and used the second-generation Ray-Ban Meta (2nd gen) by using it as my travel guide in Rome, Italy &#8212; but I absolutely got the wrong pair</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/i-ditched-my-iphone-and-used-the-second-generation-ray-ban-meta-2nd-gen-by-using-it-as-my-travel-guide-in-rome-italy-but-i-absolutely-got-the-wrong-pair</link>
-      <pubDate>Tue, 28 Apr 2026 17:01:19 +0000</pubDate>
-      <guid isPermaLink="false">wwyGtviDW8FnLVEesDZSja</guid>
-      <description>The second-generation Meta Ray-Bans are an evolution, not a revolution. Is that enough to keep the top spot in an increasingly competitive market?</description>
-    </item>
-    <item>
-      <title>Apple TV&#8217;s new horror series is scarier because it&#8217;s also hilarious</title>
-      <link>https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview</link>
-      <pubDate>2026-04-28T13:00:13-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=919634</guid>
-      <description>Kate O'Flynn views comedy and horror as "kind of the same thing." Both are at their best when they surprise - a laugh or a scare that comes out of nowhere hits the hardest. That's why, for the star of the new horror-comedy hybrid Widow's Bay, mixing up the genres makes perfect sense - they [&#8230;]</description>
-    </item>
-    <item>
-      <title>The latest Kindle Paperwhite drops to its best price all year</title>
-      <link>https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale</link>
-      <pubDate>2026-04-28T12:59:13-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=919644</guid>
-      <description>Mother&#8217;s Day is coming up, and if you&#8217;re looking for a present, we recently published our gift guide with a range of ideas. One of those recommendations is the $109.99 entry-level Kindle, but right now you can buy the latest version of the higher-end Kindle Paperwhite with 16GB of storage and ads on sale starting [&#8230;]</description>
-    </item>
-    <item>
-      <title>How the white iPhone 4 may have accidentally paved the way for Apple&#8217;s next big iPhone shakeup</title>
-      <link>https://www.techradar.com/phones/iphone/how-the-white-iphone-4-may-have-accidentally-paved-the-way-for-apples-next-big-iphone-shakeup</link>
-      <pubDate>Tue, 28 Apr 2026 16:50:09 +0000</pubDate>
-      <guid isPermaLink="false">LjxsGwF8AEWpjmnXU6brsQ</guid>
-      <description>The delayed white iPhone 4 might&#8217;ve prompted Apple&#8217;s current iPhone launch schedule &#8212; a tradition that&#8217;s on the cusp of major change.</description>
-    </item>
-    <item>
-      <title>Claude can now plug directly into Photoshop, Blender, and Ableton</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender</link>
-      <pubDate>2026-04-28T12:49:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=919648</guid>
-      <description>Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its launch of Claude Design earlier this month. The new connectors [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Lenovo IdeaCentre Mini i5 Tower with Intel Core 5 210H hits its 'lowest price ever' &#8212; save &#163;150 on this diminutive 1L mini desktop PC at Argos</title>
-      <link>https://www.techradar.com/pro/lenovo-ideacentre-mini-i5-tower-with-intel-core-5-210h-hits-its-lowest-price-ever-save-gbp150-on-this-diminutive-1l-mini-desktop-pc-at-argos</link>
-      <pubDate>Tue, 28 Apr 2026 16:44:33 +0000</pubDate>
-      <guid isPermaLink="false">kVkcYLruM5yYCA7apNQo7Z</guid>
-      <description>Lenovo&#8217;s compact 1L Mini i5 desktop pairs an Intel Core 5 210H processor with 16GB of DDR5 RAM and a 512GB SSD, all for &#163;449.00.</description>
-    </item>
-    <item>
-      <title>NYC iconic compost bin gets a cool kids makeover</title>
-      <link>https://www.fastcompany.com/91532860/only-ny-nyc-compost-bin</link>
-      <pubDate>2026-04-28T16:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91532860/only-ny-nyc-compost-bin</guid>
-      <description>In collaboration with the Department of Sanitation, Only NY reimagined NYC&#8217;s curbside compost containers. 
-New York City has its obvious icons: The Statue of Liberty; Milton&#8217; Glaser&#8217;s I &#8220;heart&#8221; New York logo; yellow cabs. Lesser known, but no less iconic, is the city&#8217;s compost bins.</description>
-    </item>
-    <item>
-      <title>Customers blindsided as Wren Kitchens abruptly shutters showrooms and Home Depot studios after Chapter 7 bankruptcy</title>
-      <link>https://www.fastcompany.com/91533482/wren-kitchens-home-depot-chapter-7-bankruptcy-filing-showrooms-studios-abruptly-closing</link>
-      <pubDate>2026-04-28T16:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91533482/wren-kitchens-home-depot-chapter-7-bankruptcy-filing-showrooms-studios-abruptly-closing</guid>
-      <description>The custom-fitted kitchen retailer&#8217;s sudden closures come days after some customers paid their deposits, according to social media.
-U.K.-based Wren Kitchens abruptly ceased all U.S. operations on April 23, shuttering all brick-and-mortar retail locations and all of its showroom studios inside The Home Depot stores nationwide. Court documents show that Wren Kitchens filed for Chapter 7 bankruptcy in the District of Delaware bankruptcy court on April 24....</description>
-    </item>
-    <item>
-      <title>NordVPN hit with yet another lawsuit over 'difficult to cancel' auto-renewal subscriptions</title>
-      <link>https://www.techradar.com/vpn/vpn-services/nordvpn-hit-with-yet-another-lawsuit-over-difficult-to-cancel-auto-renewal-subscriptions</link>
-      <pubDate>Tue, 28 Apr 2026 16:29:30 +0000</pubDate>
-      <guid isPermaLink="false">szhVd8tB45eZivrET764uF</guid>
-      <description>The latest dark pattern lawsuit was filed in Virginia earlier in April, but it's only the latest of a long series of similar actions. Here's all we know.</description>
-    </item>
-    <item>
-      <title>If it's good enough for Sawe... the Garmin watch used to break the two-hour marathon barrier at London is actually super cheap &#8212; here's where to get it</title>
-      <link>https://www.techradar.com/health-fitness/if-its-good-enough-for-sawe-the-garmin-watch-used-to-break-the-two-hour-marathon-barrier-at-london-is-actually-super-cheap-heres-where-to-get-it</link>
-      <pubDate>Tue, 28 Apr 2026 16:27:20 +0000</pubDate>
-      <guid isPermaLink="false">v84686xtdjYZ3DTuDpbLxc</guid>
-      <description>The Garmin watch Sabastian Sawe used to break two hours is old by modern standards.</description>
-    </item>
-    <item>
-      <title>Snapchat is rolling out sponsored AI agents</title>
-      <link>https://www.engadget.com/ai/snapchat-is-rolling-out-sponsored-ai-agents-162720124.html?src=rss</link>
-      <pubDate>Tue, 28 Apr 2026 16:27:20 +0000</pubDate>
-      <guid isPermaLink="false">3724e3d7-33a2-45e3-a74e-65e64a825d6e</guid>
-      <description>It was only a matter of time before they found a way to use AI agents as corporate shills. On Tuesday, Snapchat rolled out AI Sponsored Snaps, a "new way for brands to show up in Chat through AI agents." Or, put another way, it's conversational advertising. (Yay?)AI Sponsored Snaps will appear in the app's Chat tab (with a light gray "Ad" notation next to the brand name). After opening the chat, you can ask the agent questions about the brand it represents. Snap showed an example from its first partner for the initiative, Experian. The bot offers to answer your questions on saving money, impro...</description>
-    </item>
-    <item>
-      <title>'It was controversial internally too' &#8212; Former Naughty Dog dev says the studio was 'split' on The Last of Us Part 2's most divisive death</title>
-      <link>https://www.techradar.com/gaming/it-was-controversial-internally-too-former-naughty-dog-dev-says-the-studio-was-split-on-the-last-of-us-part-2s-most-divisive-death</link>
-      <pubDate>Tue, 28 Apr 2026 16:23:36 +0000</pubDate>
-      <guid isPermaLink="false">YNGg3fhmhFfBjLV2SphyjZ</guid>
-      <description>Former Naughty Dog dev says there was division within the studio about The Last of Us Part 2's controversial death.</description>
-    </item>
-    <item>
-      <title>'It's puke or be puked on' &#8212; this crazy indie game has you taking shots to save your soul</title>
-      <link>https://www.techradar.com/gaming/pc-gaming/its-puke-or-be-puked-on-this-crazy-indie-game-has-you-taking-shots-to-save-your-soul</link>
-      <pubDate>Tue, 28 Apr 2026 16:21:20 +0000</pubDate>
-      <guid isPermaLink="false">EpMEmUbZ5ysfz6ddjSbS6N</guid>
-      <description>Indie game Drunken Goddess Reflux arrives later this year.</description>
-    </item>
-    <item>
-      <title>US Supreme Court appears split over controversial use of &#8216;geofence&#8217; search warrants</title>
-      <link>https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/</link>
-      <pubDate>Tue, 28 Apr 2026 16:18:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3116937</guid>
-      <description>The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants.</description>
-    </item>
-    <item>
-      <title>Google Messages : des conversations disparaissent sur votre smartphone Galaxy ? Voici la solution</title>
-      <link>https://www.frandroid.com/marques/google/3081043_google-messages-des-conversations-disparaissent-sur-votre-smartphone-galaxy-voici-la-solution</link>
-      <pubDate>Tue, 28 Apr 2026 16:18:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3081043_google-messages-des-conversations-disparaissent-sur-votre-smartphone-galaxy-voici-la-solution</guid>
-      <description>
-Si vous &#234;tes pass&#233; de Samsung Messages &#224; Google Messages et ne retrouvez pas toutes vos discussions, il y a des choses &#224; essayer pour les r&#233;cup&#233;rer.
-</description>
-    </item>
-    <item>
-      <title>Google Pixel 9a, Rockrider E&#8209;Feel 900&#8239;S et French&#8239;Days&#8239;2026&#8239;: les meilleurs bons plans high&#8209;tech du mardi&#8239;28&#8239;avril&#8239;2026</title>
-      <link>https://www.frandroid.com/bons-plans/3081391_google-pixel-9a-rockrider-e-feel-900-s-et-french-days-2026-les-meilleurs-bons-plans-high-tech-du-mardi-28-avril-2026</link>
-      <pubDate>Tue, 28 Apr 2026 16:17:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3081391_google-pixel-9a-rockrider-e-feel-900-s-et-french-days-2026-les-meilleurs-bons-plans-high-tech-du-mardi-28-avril-2026</guid>
-      <description>
-Ce mardi&#8239;28&#8239;avril&#8239;2026, les amateurs de bons plans high&#8209;tech ont de quoi faire.
-</description>
-    </item>
-    <item>
-      <title>Nouvelle victoire de Canal Plus&#160;: pour regarder la Formule 1, les internautes ne pourront plus passer par des VPN et de l&#8217;IPTV ill&#233;gale</title>
-      <link>https://www.01net.com/actualites/nouvelle-victoire-de-canal-plus-pour-regarder-la-formule-1-les-internautes-ne-pourront-plus-passer-par-des-vpn-et-de-liptv-illegale.html</link>
-      <pubDate>Tue, 28 Apr 2026 16:16:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1344827</guid>
-      <description>Canal Plus s'est attel&#233; &#224; se pr&#233;munir de toute diffusion ill&#233;gale de &#171;&#160;son &#187; championnat de Formule 1 : Proton VPN, Google Search, Bing (Microsoft) et les fournisseurs d'acc&#232;s &#224; internet viennent d'&#234;tre condamn&#233;s par la justice &#224; bloquer l'IPTV ill&#233;gale du &#171; FIA Formula One World Championship &#187;.</description>
-    </item>
-    <item>
-      <title>Australia forces Big Tech firms to pay for news or face a 2.25% tax</title>
-      <link>https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/</link>
-      <pubDate>Tue, 28 Apr 2026 16:13:15 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3116995</guid>
-      <description>The more deals platforms make with media outlets, the less they pay. If enough agreements go through, that effective rate drops to 1.5%, which could generate between A$200 million and A$250 million back into Australian journalism.</description>
-    </item>
-    <item>
-      <title>Lovable launches its vibe-coding app on iOS and Android</title>
-      <link>https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/</link>
-      <pubDate>Tue, 28 Apr 2026 16:09:30 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3116991</guid>
-      <description>The app allows developers to vibe code web apps and websites on the go.</description>
-    </item>
-    <item>
-      <title>'This doesn't have RAM in it, and it's not as complicated to start getting out the door for us' &#8212; Valve confirms it's releasing the Steam Controller before the Steam Machine in response to RAM crisis, but originally saw 'no need' to ship them together</title>
-      <link>https://www.techradar.com/gaming/this-doesnt-have-ram-in-it-and-its-not-as-complicated-to-start-getting-out-the-door-for-us-valve-confirms-its-releasing-the-steam-controller-before-the-steam-machine-in-response-to-ram-crisis-but-originally-saw-no-need-to-ship-them-together</link>
-      <pubDate>Tue, 28 Apr 2026 16:05:01 +0000</pubDate>
-      <guid isPermaLink="false">uCMr33seuMLJeVuKWB9ibY</guid>
-      <description>Valve has announced that it will release the Steam Controller next month, before the Steam Machine, amid the ongoing RAM shortage crisis.</description>
-    </item>
-    <item>
-      <title>Hackers exploit Robinhood account creation tool to launch worrying phishing scam</title>
-      <link>https://www.techradar.com/pro/security/hackers-exploit-robinhood-account-creation-tool-to-launch-worrying-phishing-scam</link>
-      <pubDate>Tue, 28 Apr 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">AtRQ66vdVdQycTgSEEurxG</guid>
-      <description>The vulnerability has since been fixed and the malicious landing page is offline.</description>
-    </item>
-    <item>
-      <title>An OpenAI phone with agents instead of apps joins the hardware rumor mill</title>
-      <link>https://mashable.com/article/openai-agentic-phone-has-hit-rumor-mill</link>
-      <pubDate>Tue, 28 Apr 2026 16:04:59 +0000</pubDate>
-      <guid isPermaLink="false">06d21kRNk5k6aTUQ7ATp6hQ</guid>
-      <description>An OpenAI phone with agents instead of apps joins hardware rumor mill</description>
-    </item>
-    <item>
-      <title>Upgrade your gaming PC with the Alienware 34 240Hz QD-OLED for the lowest price weve seen</title>
-      <link>https://mashable.com/article/april-28-alienware-34-gaming-monitor-deal</link>
-      <pubDate>Tue, 28 Apr 2026 16:04:14 +0000</pubDate>
-      <guid isPermaLink="false">04kkdl8O4LnBbWuYiZfi52I</guid>
-      <description>As of April 28, get the Alienware 34 240Hz QD-OLED for the lowest price we've seen.</description>
-    </item>
-    <item>
-      <title>Google Translate can now help you with pronunciation</title>
-      <link>https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability</link>
-      <pubDate>2026-04-28T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=919510</guid>
-      <description>Google has launched a new AI-powered feature for Translate that can help you correct and practice your enunciation when learning a new language. The "pronunciation practice" tool analyzes your speech to provide instant feedback on how to improve before jumping into an actual conversation in your chosen language. The result bears some resemblance to pronunciation [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Former FCC staffers agree: Brendan Carr needs to be stopped</title>
-      <link>https://www.theverge.com/policy/919536/former-fcc-officials-brendan-car-news-distortion-policy</link>
-      <pubDate>2026-04-28T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=919536</guid>
-      <description>Several former Federal Communications Commissioners and staffers across parties are urging a federal appeals court to force a vote on the FCC's news distortion policy, which they argue should be repealed after being abused by Republican Chair Brendan Carr. On Tuesday, a group of petitioners asked the US Court of Appeals for the District of [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google Translate uses AI to help you practice pronunciation</title>
-      <link>https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss</link>
-      <pubDate>Tue, 28 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">d17185c6-1f09-4bed-8504-6aa6a917875c</guid>
-      <description>Google is celebrating Translate&#8217;s 20th birthday by launching pronunciation practice, which the company says is one of the most requested features for the product. The feature is only rolling out on Android at the moment for English, Spanish and Hindi in the US and India. If it&#8217;s available for you, you&#8217;ll see a button at the bottom of the app that says &#8220;Practice,&#8221; which gives you the option to either &#8220;pronounce&#8221; what you&#8217;ve translated or to &#8220;listen&#8221; to how it&#8217;s actually pronounced by native speakers. If you choose the &#8220;pronounce&#8221; option, Translate will listen to you speak and then use artificia...</description>
-    </item>
-    <item>
-      <title>Google and the Pentagon sign classified deal to give the Department of Defense unfettered access to its AI models</title>
-      <link>https://www.engadget.com/ai/google-and-the-pentagon-sign-classified-deal-to-give-the-department-of-defense-unfettered-access-to-its-ai-models-155211834.html?src=rss</link>
-      <pubDate>Tue, 28 Apr 2026 15:52:12 +0000</pubDate>
-      <guid isPermaLink="false">93e38472-74da-4799-bfe4-2220edee5e8e</guid>
-      <description>Google has signed a deal that allows the US Department of Defense to use its AI models for "any lawful government purpose." This is according to a report by The Information, which also notes that the full details of the contract are classified.
-An anonymous source within the company has suggested that the two entities have agreed that the search giant's AI tech shouldn't be used for domestic mass surveillance or autonomous weapons "without appropriate human oversight and control." However, the contract also reportedly doesn't give Google "any right to control or veto" anything the government d...</description>
-    </item>
-    <item>
-      <title>The Mova Z60 Ultra Roller Complete Robot Vacuum and Mop is sitting at an all-time low price</title>
-      <link>https://mashable.com/article/april-28-mova-z60-ultra-deal</link>
-      <pubDate>Tue, 28 Apr 2026 15:50:26 +0000</pubDate>
-      <guid isPermaLink="false">05rkdiBYefZ1Dzm7Ck5FiKu</guid>
-      <description>The Mova Z60 Ultra Roller Complete Robot Vacuum and Mop is on sale at Amazon for $899, down from the list price of $1,499 That's a 40% discount.</description>
-    </item>
-    <item>
-      <title>La s&#233;lection des smartphones avec la meilleure autonomie en 2026 : notre comparatif complet</title>
-      <link>https://www.frandroid.com/guide-dachat/smartphones/346702_guide-dachat-smartphones-meilleure-autonomie-moment</link>
-      <pubDate>Tue, 28 Apr 2026 15:50:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/smartphones/346702_guide-dachat-smartphones-meilleure-autonomie-moment</guid>
-      <description>
-L'endurance de la batterie est un crit&#232;re primordial lors de l'achat d'un smartphone. Pour vous aider &#224; choisir le smartphone avec la meilleure autonomie, nous avons test&#233; les mod&#232;les actuels et &#233;tabli une s&#233;lection pr&#233;cise. C'est parti !
-</description>
+      <description>Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not responded to authorities&#8217; requests for information.</description>
     </item>
   </channel>
 </rss>
