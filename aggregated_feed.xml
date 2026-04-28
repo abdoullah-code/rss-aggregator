@@ -3,34 +3,38 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:35:26 GMT</lastBuildDate>
     <item>
-      <title>Utilisation de l&#8217;IA &#224; des fins militaires | Plus de 600&#160;employ&#233;s de Google signent une lettre d&#8217;opposition</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-04-27/utilisation-de-l-ia-a-des-fins-militaires/plus-de-600-employes-de-google-signent-une-lettre-d-opposition.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Mon, 27 Apr 2026 19:18:27 -0400</pubDate>
-      <guid isPermaLink="false">e7126dfa163b3dd893f16ae08d1fed62</guid>
-      <description>Plus de 600&#160;salari&#233;s de Google ont sign&#233; une lettre, publi&#233;e lundi, qui r&#233;clame &#224; la direction du groupe de renoncer &#224; fournir &#224; l&#8217;arm&#233;e am&#233;ricaine ses mod&#232;les d&#8217;intelligence artificielle (IA) pour des op&#233;rations classifi&#233;es.</description>
+      <title>Linux face &#224; l&#8217;IA : Ubuntu trace sa route, &#224; contre-courant de Windows</title>
+      <link>https://www.frandroid.com/os/gnu-linux/3080141_linux-face-a-lia-ubuntu-trace-sa-route-a-contre-courant-de-windows</link>
+      <pubDate>Tue, 28 Apr 2026 04:33:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/gnu-linux/3080141_linux-face-a-lia-ubuntu-trace-sa-route-a-contre-courant-de-windows</guid>
+      <description>
+Canonical a publi&#233; sa feuille de route&#160;: l'IA va s'inviter dans Ubuntu tout au long de 2026, en local et par petites touches. Pas de chatbot vedette, pas de kill switch global, et une volont&#233; claire de ne pas refaire le num&#233;ro de Microsoft avec Copilot.
+</description>
     </item>
     <item>
-      <title>Quordle hints and answers for Tuesday, April 28 (game #1555)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-28-april-2026</link>
-      <pubDate>Mon, 27 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dEDJK6YcGZ8zZfqf5a3TtC</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+      <title>Audi Q4 e-tron : Android oui, Google non, ChatGPT quand m&#234;me</title>
+      <link>https://www.frandroid.com/marques/audi/3080131_audi-q4-e-tron-android-oui-google-non-chatgpt-quand-meme</link>
+      <pubDate>Tue, 28 Apr 2026 04:21:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/audi/3080131_audi-q4-e-tron-android-oui-google-non-chatgpt-quand-meme</guid>
+      <description>
+Audi restyle son Q4 e-tron et glisse Android Automotive dans l'habitacle. Sauf que Google n'est pas vraiment invit&#233; &#224; la f&#234;te.
+</description>
     </item>
     <item>
-      <title>NYT Connections hints and answers for Tuesday, April 28 (game #1052)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-28-april-2026</link>
-      <pubDate>Mon, 27 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">A7bZMt8n5FVsUX6qz8qiuk</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+      <title>Jury selection in Musk v. Altman: &#8216;People don&#8217;t like him&#8217;</title>
+      <link>https://www.theverge.com/tech/919469/elon-musk-dont-like</link>
+      <pubDate>2026-04-27T23:39:33-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919469</guid>
+      <description>On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at [&#8230;]</description>
     </item>
     <item>
-      <title>NYT Strands hints and answers for Tuesday, April 28 (game #786)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-28-april-2026</link>
-      <pubDate>Mon, 27 Apr 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">uoGeKKbCmyQ2QkuJ38ynJ</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+      <title>India&#8217;s Snabbit closes $56M round as investor interest in on-demand home services heats up</title>
+      <link>https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/</link>
+      <pubDate>Tue, 28 Apr 2026 03:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3116771</guid>
+      <description>Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.</description>
     </item>
   </channel>
 </rss>
