@@ -3,7 +3,77 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 28 Apr 2026 22:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:02:16 GMT</lastBuildDate>
+    <item>
+      <title>How to build custom reasoning agents with a fraction of the compute</title>
+      <link>https://venturebeat.com/orchestration/how-to-build-custom-reasoning-agents-with-a-fraction-of-the-compute</link>
+      <pubDate>Tue, 28 Apr 2026 23:55:41 GMT</pubDate>
+      <guid isPermaLink="false">3N9YkBoReu3MUC1cQtYz8c</guid>
+      <description>Training AI reasoning models demands resources that most enterprise teams do not have. Engineering teams are often forced to choose between distilling knowledge from large, expensive models or relying on reinforcement learning techniques that provide sparse feedback.Researchers at JD.com and several academic institutions recently introduced a new training paradigm that sidesteps this dilemma. The technique, called Reinforcement Learning with Verifiable Rewards with Self-Distillation (RLSD), combines the reliable performance tracking of reinforcement learning with the granular feedback of self-...</description>
+    </item>
+    <item>
+      <title>OpenAI Really Wants Codex to Shut Up About Goblins</title>
+      <link>https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/</link>
+      <pubDate>Tue, 28 Apr 2026 23:45:05 +0000</pubDate>
+      <guid isPermaLink="false">69f13a7a0daeba3a9dfca11b</guid>
+      <description>&#8220;Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,&#8221; reads OpenAI&#8217;s coding agent instructions.</description>
+    </item>
+    <item>
+      <title>It&#8217;s primetime for conspiracy theorist video creators</title>
+      <link>https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag</link>
+      <pubDate>2026-04-28T19:31:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=919291</guid>
+      <description>In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds of theories are nothing new, but the way they're spreading [&#8230;]</description>
+    </item>
+    <item>
+      <title>'The connective tissue between your data, your people, and your goals': Google Cloud positions Gemini Enterprise as the one-stop shop for all your agentic affairs</title>
+      <link>https://www.techradar.com/pro/the-connective-tissue-between-your-data-your-people-and-your-goals-google-cloud-positions-gemini-enterprise-as-the-one-stop-shop-for-all-your-agentic-affairs</link>
+      <pubDate>Tue, 28 Apr 2026 23:20:00 +0000</pubDate>
+      <guid isPermaLink="false">AiFvbgtJhgUUELXovxVnW7</guid>
+      <description>Gemini Enterprise platform gets a fresh look at Google Cloud Next 2026, with new app experiences and agent builder.</description>
+    </item>
+    <item>
+      <title>Elon Musk appeared more petty than prepared</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one</link>
+      <pubDate>2026-04-28T19:17:12-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=920191</guid>
+      <description>Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and [&#8230;]</description>
+    </item>
+    <item>
+      <title>Dyson's latest vacuum cleaner empties itself, so you don't have to get your hands dirty</title>
+      <link>https://www.techradar.com/home/vacuums/dysons-latest-vacuum-cleaner-empties-itself-so-you-dont-have-to-get-your-hands-dirty</link>
+      <pubDate>Tue, 28 Apr 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="false">Y8mwX4fiBoqSXgKNCNkT5R</guid>
+      <description>With the Dyson V10 Konical and its Auto-empty Dok, there's no need to worry about emptying a messy dust cup partway through cleaning.</description>
+    </item>
+    <item>
+      <title>How to watch The House of the Spirits online from anywhere &#8212; stream the Prime Video literary adaptation</title>
+      <link>https://www.techradar.com/how-to-watch/tv-shows/the-house-of-the-spirits-stream-prime-video-adaptation-from-anywhere</link>
+      <pubDate>Tue, 28 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6bvUKd7DYcb6aXBZqaQpbC</guid>
+      <description>Prime Video is giving Isabel Allende's best-known novel a much bigger canvas this time around. Watch The House of the Spirits online from anywhere.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Wednesday, April 29 (game #1556)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-29-april-2026</link>
+      <pubDate>Tue, 28 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4a9nsqbESF392Ex3Bv6GQP</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Wednesday, April 29 (game #1053)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-29-april-2026</link>
+      <pubDate>Tue, 28 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">HKVBLcWK42rwkX9NqykEJU</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Wednesday, April 29 (game #787)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-29-april-2026</link>
+      <pubDate>Tue, 28 Apr 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gwy5cY4Te2gwmYfYhQsYfR</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>'A significant threat': These tiny 'trained' robots can catch invisible plastic dust in your drinking water</title>
       <link>https://www.techradar.com/pro/a-significant-threat-these-tiny-trained-robots-can-catch-invisible-plastic-dust-from-your-drinking-water</link>
@@ -12,61 +82,12 @@
       <description>Researchers developed magnetic nanorobots that actively capture nanoplastics in water, achieving strong lab results while facing major efficiency and scalability challenges.</description>
     </item>
     <item>
-      <title>Can we please talk about the iPhone Air's controversial Light Gold color?</title>
-      <link>https://www.techradar.com/phones/iphone/can-we-please-talk-about-the-iphone-airs-controversial-light-gold-color</link>
-      <pubDate>Tue, 28 Apr 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">iVjZV6qQHUExjqBBLzP2fJ</guid>
-      <description>Some iPhone Air owners are complaining about the subtlety of Apple's new Light Gold color &#8212; and I can understand their frustration.</description>
-    </item>
-    <item>
-      <title>I watched a Joby electric Air Taxi take off and land in New York City, and now I can't wait for our Uber of the skies future</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/i-watched-a-joby-electric-air-taxi-take-off-and-land-in-new-york-city-and-now-i-cant-wait-for-our-uber-of-the-skies-future</link>
-      <pubDate>Tue, 28 Apr 2026 21:45:00 +0000</pubDate>
-      <guid isPermaLink="false">iF5qRm4QR9Hkjd8Wsib9sh</guid>
-      <description>Joby completes the first point-to-point EV Air Taxi flight in New York City history and it could mean the eVOTL future is here now.</description>
-    </item>
-    <item>
-      <title>James Comey indicted over Instagram seashell photo that allegedly threatened Trump</title>
-      <link>https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump</link>
-      <pubDate>2026-04-28T17:40:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=920131</guid>
-      <description>The US Department of Justice has once again indicted James Comey - this time, for an alleged threat the former FBI director made toward President Donald Trump on Instagram, as reported earlier by CNN. In its indictment, filed in a North Carolina federal court on Tuesday, the DOJ cites the now-deleted image Comey posted to [&#8230;]</description>
-    </item>
-    <item>
-      <title>American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding</title>
-      <link>https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding</link>
-      <pubDate>Tue, 28 Apr 2026 21:36:00 GMT</pubDate>
-      <guid isPermaLink="false">73XSYvfQ6pwv5M1HmwREaK</guid>
-      <description>The AI race lately has felt a bit like a game of tennis: first, Anthropic releases a new, pricey state-of-the-art proprietary model for general users (Claude Opus 4.7), then, a week or so later, its rival OpenAI volleys back with one of its own (GPT-5.5). And all the while, Chinese companies like DeepSeek and even Xiaomi are seeking to appeal to users by playing a different game: nearing the frontier, but with open licensing and far lower costs. So it's a big surprise when a new, affordable, highly performant open source contender from the U.S. emerges. Today, we got one from the smaller, less...</description>
-    </item>
-    <item>
-      <title>Elon Musk Testifies That He Started OpenAI to Prevent a &#8216;Terminator Outcome&#8217;</title>
-      <link>https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/</link>
-      <pubDate>Tue, 28 Apr 2026 21:35:17 +0000</pubDate>
-      <guid isPermaLink="false">69f0dbce6df6d549e4a099d4</guid>
-      <description>The judge also warned Musk and Sam Altman to curb their &#8220;propensity to use social media to make things worse outside the courtroom&#8221; after both sides traded attacks online.</description>
-    </item>
-    <item>
-      <title>DJI launches the Mic Mini 2. But theres a catch.</title>
-      <link>https://mashable.com/article/dji-mic-mini-2-announced</link>
-      <pubDate>Tue, 28 Apr 2026 21:29:04 +0000</pubDate>
-      <guid isPermaLink="false">00dNBB2J2OLqbjqWRMxM1RP</guid>
-      <description>DJI's new Mic Mini 2 looks more attractive than the original thanks to colorful covers you can swap out.</description>
-    </item>
-    <item>
-      <title>'They can&#8217;t block the sky': Inside an ingenious satellite TV hack bypassing Iran&#8217;s internet blackout &#8212;  when the web goes dark, activists are smuggling gigabytes of data through ordinary television signals to keep the Iranian people connected to the world</title>
-      <link>https://www.techradar.com/pro/they-cant-block-the-sky-ingenious-satellite-tv-hack-bypassing-irans-internet-blackout-while-the-web-goes-dark-activists-are-smuggling-gigabytes-of-data-through-ordinary-television-signals-to-keep-the-iranian-people-connected-to-the-world</link>
-      <pubDate>Tue, 28 Apr 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">Uzb6dteEfeDtqKnbWMLPre</guid>
-      <description>During Iran&#8217;s internet shutdown, Toosheh used satellite TV signals to deliver data, bypassing restrictions and maintaining access to vital information.</description>
-    </item>
-    <item>
-      <title>Elon Musk&#8217;s xAI is suing to fight an AI discrimination law&#8212;and the Trump administration is backing it</title>
-      <link>https://www.fastcompany.com/91533100/elon-musk-is-suing-to-fight-an-ai-discrimination-law-and-the-trump-administration-is-backing-him</link>
-      <pubDate>2026-04-28T21:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91533100/elon-musk-is-suing-to-fight-an-ai-discrimination-law-and-the-trump-administration-is-backing-him</guid>
-      <description>The government claims that a Colorado law intended to fight AI bias condones reverse discrimination to &#8220;increase diversity or redress historical discrimination.&#8221;
-A novel law was slated to take effect in Colorado in June this year, to help regulate AI use and address the potential discrimination people might face as AI-powered platforms become a routine part of housing and employment negotiations. But earlier this month, Elon Musk&#8217;s xAI&#8212;which owns X, formerly known as Twitter, and has now merged with SpaceX&#8212;sued to block the law, arguing it was burdensome and unconstitutional.&#160;...</description>
+      <title>Those vanity Trump passports are rage baiting you</title>
+      <link>https://www.fastcompany.com/91533770/those-vanity-trump-passports-are-rage-baiting-you</link>
+      <pubDate>2026-04-28T22:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91533770/those-vanity-trump-passports-are-rage-baiting-you</guid>
+      <description>The limited edition passports are only available in Washington D.C., but their impact will be much bigger. That&#8217;s by design.
+The State Department just revealed a first look at a line of limited-edition passports designed to commemorate the 250th anniversary of American independence. They feature a large image of President Trump&#8217;s face.&#160;</description>
     </item>
   </channel>
 </rss>
