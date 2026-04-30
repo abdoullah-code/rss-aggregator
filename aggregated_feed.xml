@@ -3,339 +3,425 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 30 Apr 2026 15:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:25:04 GMT</lastBuildDate>
     <item>
-      <title>La Samsung Galaxy Watch 7 n&#8217;a jamais aussi &#233;t&#233; peu ch&#232;re que pendant ces French Days</title>
-      <link>https://www.frandroid.com/bons-plans/2943783_la-samsung-galaxy-watch-7-na-jamais-aussi-ete-peu-chere-que-pendant-ces-french-days</link>
-      <pubDate>Thu, 30 Apr 2026 15:12:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2943783_la-samsung-galaxy-watch-7-na-jamais-aussi-ete-peu-chere-que-pendant-ces-french-days</guid>
+      <title>TikTok&#8217;s new &#8216;Campus Hub&#8217; features college group chats and feeds</title>
+      <link>https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/</link>
+      <pubDate>Thu, 30 Apr 2026 17:24:49 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117972</guid>
+      <description>The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they&#8217;re away for the summer.</description>
+    </item>
+    <item>
+      <title>Age of Empires II: Definitive Edition arrives on Mac next month</title>
+      <link>https://www.engadget.com/2161345/age-of-empires-ii-definitive-edition-arrives-on-mac-next-month/</link>
+      <pubDate>Thu, 30 Apr 2026 17:18:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2161345/age-of-empires-ii-definitive-edition-arrives-on-mac-next-month/</guid>
+      <description>Wololo.</description>
+    </item>
+    <item>
+      <title>Stripe introduces Link, a digital wallet that autonomous AI agents can use, too</title>
+      <link>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</link>
+      <pubDate>Thu, 30 Apr 2026 17:15:19 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117968</guid>
+      <description>Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.</description>
+    </item>
+    <item>
+      <title>Amazon's AI-generated shopping experts now let you ask questions</title>
+      <link>https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/</link>
+      <pubDate>Thu, 30 Apr 2026 17:11:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/</guid>
+      <description>It's an expansion of the mobile app's "Hear the Highlights" feature.</description>
+    </item>
+    <item>
+      <title>Why OpenAI's 'goblin' problem matters &#8212; and how you can release the goblins on your own</title>
+      <link>https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own</link>
+      <pubDate>Thu, 30 Apr 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="false">4guwvJhXPOqJ88mKz93st8</guid>
+      <description>AI is more than a technology &#8212; it's magic.Don't believe me? Why, then, is one of the leading companies in the space, OpenAI, publishing entire official, corporate blog posts about goblins?To understand, we first have to go back to earlier this week, on Monday, April 27, 2026, when a developer under the handle @arb8020 on the social network X posted a snippet from the OpenAI open source Codex GitHub repository, specifically a file named models.json. Deep within the instructions for the new OpenAI large language model (LLM) GPT-5.5, a peculiar directive stood out, repeated four times for emphasi...</description>
+    </item>
+    <item>
+      <title>Be careful buying hard-to-get vinyl: UK police just seized thousands of 'counterfeit' records, which were being sold for as much as &#163;1,000 each &#8212; and there are more 'secret underground record factories' where that came from</title>
+      <link>https://www.techradar.com/audio/hi-fi/be-careful-buying-hard-to-get-vinyl-uk-police-just-seized-thousands-of-counterfeit-records-which-were-being-sold-for-as-much-as-gbp1-000-each-and-there-are-more-secret-underground-record-factories-where-that-came-from</link>
+      <pubDate>Thu, 30 Apr 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">n3jjT3DxjYAGSzk9FydyPX</guid>
+      <description>Fake vinyl is big business: the latest UK raid seized over &#163;250,000 of counterfeit records. Be careful out there!</description>
+    </item>
+    <item>
+      <title>Google has rolled out an update for the Nest Wifi router ahead of the US router ban, but it&#8217;s still no match for the likes of Asus and Netgear</title>
+      <link>https://www.techradar.com/computing/servers-network-devices/google-has-rolled-out-an-update-for-the-nest-wifi-router-ahead-of-the-us-router-ban-but-its-still-no-match-to-the-likes-of-asus-and-netgear</link>
+      <pubDate>Thu, 30 Apr 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">JQefW86bm6BJEAPARGB2a4</guid>
+      <description>Google is giving the Nest Wifi router another round of updates even though the FCC has banned non-US routers.</description>
+    </item>
+    <item>
+      <title>Live updates from Elon Musk and Sam Altman&#8217;s court battle over the future of OpenAI</title>
+      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
+      <pubDate>2026-04-30T12:57:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=917225</guid>
+      <description>Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]</description>
+    </item>
+    <item>
+      <title>Alerte s&#233;curit&#233; : ce hack prend le contr&#244;le de n&#8217;importe quel PC Linux</title>
+      <link>https://www.frandroid.com/os/gnu-linux/3085647_comment-10-lignes-de-python-rootent-nimporte-quel-pc-linux</link>
+      <pubDate>Thu, 30 Apr 2026 16:56:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/gnu-linux/3085647_comment-10-lignes-de-python-rootent-nimporte-quel-pc-linux</guid>
       <description>
-La Galaxy Watch 7 sous Android Wear arbore, comme &#224; son habitude, des caract&#233;ristiques haut de gamme, un bel &#233;cran, un bracelet qui sort de l'ordinaire et la force d'Android Wear sauce One UI. On la trouve &#224; 113 euros seulement chez E.Leclerc.
+Une faille critique du noyau Linux, baptis&#233;e Copy Fail, permet &#224; n'importe quel utilisateur local de devenir root avec un script Python de 732 octets. Toutes les distributions importantes depuis 2017 sont concern&#233;es, et l'exploit est d&#233;j&#224; public sur GitHub.
 </description>
     </item>
     <item>
-      <title>'Bond often starts without a gun in the movies, and he can solve that creatively' &#8212; 007 First Light combat designer on the method behind its bombastic brawls</title>
-      <link>https://www.techradar.com/gaming/bond-often-starts-without-a-gun-in-the-movies-and-he-can-solve-that-creatively-007-first-light-combat-designer-on-the-method-behind-its-bombastic-brawls</link>
-      <pubDate>Thu, 30 Apr 2026 15:11:51 +0000</pubDate>
-      <guid isPermaLink="false">B2jrmhUV4DqnuxEpuebFiR</guid>
-      <description>We speak to the senior combat designer behind Bond's fights in 007 First Light.</description>
+      <title>Meta is running get-rich-quick ads for its AI tools</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop</link>
+      <pubDate>2026-04-30T12:48:13-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=915970</guid>
+      <description>Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to build [&#8230;]</description>
     </item>
     <item>
-      <title>'Now this is podracing!' &#8212; Star Wars: Galactic Racer will officially launch in October as developer shares preorder details</title>
-      <link>https://www.techradar.com/gaming/now-this-is-podracing-star-wars-galactic-racer-will-officially-launch-in-october-as-developer-shares-preorder-details</link>
-      <pubDate>Thu, 30 Apr 2026 15:08:54 +0000</pubDate>
-      <guid isPermaLink="false">jgWQdb7S4Cfi9EksS8fsVE</guid>
-      <description>Fuse Games has announced the release date for Star Wars: Galactic Racer, alongside a new trailer and preorder details for a very pricey collector's edition.</description>
+      <title>Atomfall is the latest indie game being turned into a TV show</title>
+      <link>https://www.engadget.com/2161301/atomfall-is-the-latest-indie-game-being-turned-into-a-tv-show/</link>
+      <pubDate>Thu, 30 Apr 2026 16:46:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2161301/atomfall-is-the-latest-indie-game-being-turned-into-a-tv-show/</guid>
+      <description>The extremely British action RPG should translate well to an episodic format.</description>
     </item>
     <item>
-      <title>Monter un PC gaming : nos recommandations des configurations PC gamer pour tous les budgets</title>
-      <link>https://www.frandroid.com/guide-dachat/1588431_monter-un-pc-gaming-nos-recommandations-de-configurations</link>
-      <pubDate>Thu, 30 Apr 2026 15:03:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1588431_monter-un-pc-gaming-nos-recommandations-de-configurations</guid>
+      <title>Cricut&#8217;s Joy 2 makes creating stickers easier for beginners, and it&#8217;s on sale</title>
+      <link>https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale</link>
+      <pubDate>2026-04-30T12:45:06-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921355</guid>
+      <description>If you&#8217;ve ever thought about making your own stickers for Etsy or just for fun but don&#8217;t know where to begin, I&#8217;d recommend taking a look at the Cricut Joy 2. I&#8217;ve been testing one for a couple of weeks now, and as someone completely new to the Cricut ecosystem, I&#8217;ve found it to be [&#8230;]</description>
+    </item>
+    <item>
+      <title>I tested the Honor 600 Pro, and it's one of the most accomplished mimics around</title>
+      <link>https://www.techradar.com/phones/honor-phones/honor-600-pro-review</link>
+      <pubDate>Thu, 30 Apr 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false">UnGnwBzQndrjUAJ87gMqmS</guid>
+      <description>Honor has gone all in on Apple and AI with its latest phone, with intriguing results.</description>
+    </item>
+    <item>
+      <title>This $23B homebuilder is pushing its housing market incentives to 10.9%&#8212;that&#8217;s $54,500 on a $500K sale</title>
+      <link>https://www.fastcompany.com/91534875/housing-market-pulte-group-homebuilder-homebuilding-pushing-incentives-sale</link>
+      <pubDate>2026-04-30T16:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91534875/housing-market-pulte-group-homebuilder-homebuilding-pushing-incentives-sale</guid>
+      <description>In &#8216;normal&#8217; times, PulteGroup spends around 3.0% to 3.5% of the sales price on incentives.
+Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
+    </item>
+    <item>
+      <title>Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System</title>
+      <link>https://www.wired.com/story/daniel-davis-immunology-wired-health/</link>
+      <pubDate>Thu, 30 Apr 2026 16:32:14 +0000</pubDate>
+      <guid isPermaLink="false">69eba659c97ae484e02555ce</guid>
+      <description>At WIRED Health, immunologist Daniel Davis detailed the ways in which new technologies are enabling a better understanding of the human immune system.</description>
+    </item>
+    <item>
+      <title>Claude Code, Copilot and Codex all got hacked. Every attacker went for the credential, not the model.</title>
+      <link>https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them</link>
+      <pubDate>Thu, 30 Apr 2026 16:30:01 GMT</pubDate>
+      <guid isPermaLink="false">7424r3OyBazvrBvi0fe7d6</guid>
+      <description>On March 30, BeyondTrust proved that a crafted GitHub branch name could steal Codex&#8217;s OAuth token in cleartext. OpenAI classified it Critical P1. Two days later, Anthropic&#8217;s Claude Code source code spilled onto the public npm registry, and within hours, Adversa found Claude Code silently ignored its own deny rules once a command exceeded 50 subcommands. These were not isolated bugs. They were the latest in a nine-month run: six research teams disclosed exploits against Codex, Claude Code, Copilot, and Vertex AI, and every exploit followed the same pattern. An AI coding agent held a credential,...</description>
+    </item>
+    <item>
+      <title>'He'll kill when he needs to, but he's not someone who loves killing' &#8212; 007 First Light dev explains the game's unique license to kill mechanic</title>
+      <link>https://www.techradar.com/gaming/hell-kill-when-he-needs-to-but-hes-not-someone-who-loves-killing-007-first-light-dev-explains-the-games-unique-license-to-kill-mechanic</link>
+      <pubDate>Thu, 30 Apr 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">LZkt6nVwngUcM2AtnPPYgB</guid>
+      <description>We talk to a developer about the upcoming Bond game's unique license to kill mechanic.</description>
+    </item>
+    <item>
+      <title>&#8216;Poultry in motion&#8217;: South Korea tests fried chicken delivery to remote island using a drone and four-wheel robot in the world&#8217;s most elaborate takeaway operation</title>
+      <link>https://www.techradar.com/cameras/drones/poultry-in-motion-south-korea-tests-fried-chicken-delivery-to-remote-island-using-a-drone-and-four-wheel-robot-in-the-worlds-most-elaborate-takeaway-operation</link>
+      <pubDate>Thu, 30 Apr 2026 16:28:30 +0000</pubDate>
+      <guid isPermaLink="false">wgxZPTWopjx43uhes5VrvJ</guid>
+      <description>South Korea has been testing drone-robot deliveries to remote islands, though a commercial launch is still some way off.</description>
+    </item>
+    <item>
+      <title>L&#8217;iPhone 16e flirte avec la barre des 500 &#8364; pendant les French Days et devient tr&#232;s int&#233;ressant pour entrer dans l&#8217;univers Apple &#224; moindres frais</title>
+      <link>https://www.frandroid.com/bons-plans/3085343_liphone-16e-flirte-avec-la-barre-des-500-e-pendant-les-french-days-et-devient-tres-interessant-pour-entrer-dans-lunivers-apple-a-moindres-frais</link>
+      <pubDate>Thu, 30 Apr 2026 16:28:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3085343_liphone-16e-flirte-avec-la-barre-des-500-e-pendant-les-french-days-et-devient-tres-interessant-pour-entrer-dans-lunivers-apple-a-moindres-frais</guid>
       <description>
-Monter soi-m&#234;me son PC de bureau gamer est la solution id&#233;ale pour avoir un &#233;quipement qui correspond parfaitement &#224; ses besoins. Pour vous aider dans cette t&#226;che, Frandroid vous accompagne pas &#224; pas en vous conseillant les meilleurs composants pour la configuration PC gamer qu'il vous faut.
+Malgr&#233; son petit format, l'iPhone 16e poss&#232;de de nombreuses qualit&#233;s, dont sa puce A18 qui permet d'assurer tous les usages du quotidien sans probl&#232;me. C'est le moment de le d&#233;couvrir chez Boulanger gr&#226;ce &#224; ce bonus de rachat de 80 euros.
 </description>
     </item>
     <item>
-      <title>Anbernic&#8217;s new rotating screen handheld will start at less than $100</title>
-      <link>https://www.theverge.com/tech/921203/anbernic-rg-rotate-android-handheld-pricing-availability-preorders</link>
-      <pubDate>2026-04-30T11:00:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921203</guid>
-      <description>Following its sliding screen handheld that debuted last June with a design that some reviewers found to be too chunky and thick, Anbernic has shared more details about its new rotating screen handheld that looks more pocketable. The RG Rotate (Anbernic has never been known for its clever device naming) will be available for preorder [&#8230;]</description>
+      <title>Face aux fuites de donn&#233;es, la France d&#233;voile enfin son plan d&#8217;attaque et d&#233;bloque 200 millions d&#8217;euros</title>
+      <link>https://www.01net.com/actualites/fuite-donnees-11-millions-francais-la-france-faire-nouvelles-annonces.html</link>
+      <pubDate>Thu, 30 Apr 2026 16:26:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1345057</guid>
+      <description>Des dizaines de millions de Fran&#231;ais ont vu leurs donn&#233;es d&#8217;identit&#233; expos&#233;es. La France vient de d&#233;voiler un plan de riposte d&#8217;urgence, qui comprend 200 millions d'euros d&#233;bloqu&#233;s, fusion des agences num&#233;riques et tests offensifs internes</description>
     </item>
     <item>
-      <title>Des robots &#224; l&#8217;a&#233;roport pour porter vos valises&#160;: pourquoi le Japon est le premier &#224; passer le cap</title>
-      <link>https://www.01net.com/actualites/des-robots-a-laeroport-pour-porter-vos-valises-pourquoi-le-japon-est-le-premier-a-passer-le-cap.html</link>
-      <pubDate>Thu, 30 Apr 2026 15:00:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1345408</guid>
-      <description>Un m&#232;tre trente-deux, trente-cinq kilos et deux heures d'autonomie. Le nouveau bagagiste de l'a&#233;roport de Tokyo n'a besoin ni de pause ni de contrat de travail.</description>
+      <title>After the illusion: what enterprise AI must become</title>
+      <link>https://www.fastcompany.com/91532024/after-illusion-what-enterprise-ai-must-become</link>
+      <pubDate>2026-04-30T16:24:34</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91532024/after-illusion-what-enterprise-ai-must-become</guid>
+      <description>We didn&#8217;t fail at AI. We failed at where we put it.
+In a previous piece, I argued that large language models are not enterprise architecture. The response was clear: that argument is hard to dismiss. The harder question is what comes next: &#8220;if not this, then what?&#8221;&#160;</description>
     </item>
     <item>
-      <title>Light Phone Is Making Its Dumb Phone More Useful With Third-Party &#8216;Tools&#8217;</title>
-      <link>https://www.wired.com/story/exclusive-light-phone-developer-kit/</link>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69f2280205d73cab668fc9be</guid>
-      <description>A new developer program for LightOS allows anyone to create tools for the Light Phone, whether that&#8217;s a local public transit app for your city or a way to read ebooks.</description>
-    </item>
-    <item>
-      <title>All these smart glasses and nothing to do</title>
-      <link>https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard</link>
-      <pubDate>2026-04-30T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921159</guid>
-      <description>I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their Neural Wristband. In my closet are six pairs of $50 smart sunnies that an overzealous Walmart rep sent me. Those [&#8230;]</description>
-    </item>
-    <item>
-      <title>'A premium World Cup experience': these are the 3 OLED TVs I'd recommend if you're looking for the best way to watch the World Cup &#8212; I've tested and compared them all to the competition personally</title>
-      <link>https://www.techradar.com/televisions/these-are-the-3-oled-tvs-id-recommend-for-the-world-cup</link>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">FeHmvYCTZR3XT7ijtdG3BY</guid>
-      <description>If you want an upgrade to your World Cup watch party, an OLED is the perfect way to do it. Here are my 3 picks based on testing these TVs myself</description>
-    </item>
-    <item>
-      <title>I haven&#8217;t played a Bond game since Goldeneye on the N64 &#8212; but 007 First Light could finally change that</title>
-      <link>https://www.techradar.com/gaming/i-havent-played-a-bond-game-since-goldeneye-on-the-n64-but-007-first-light-could-change-that</link>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">y8kCPMz3rrXAu6fdEstBzU</guid>
-      <description>007 First Light is shaping up to be an excellent James Bond game that could win over Bond sceptics like myself - but can it escape the shadow of Hitman?</description>
-    </item>
-    <item>
-      <title>Aluminium OS, One UI 9, Galaxy AI : Samsung pr&#233;parerait un PC sans Windows</title>
-      <link>https://www.frandroid.com/marques/samsung/3085457_aluminium-os-one-ui-9-galaxy-ai-samsung-preparerait-un-pc-sans-windows</link>
-      <pubDate>Thu, 30 Apr 2026 14:46:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3085457_aluminium-os-one-ui-9-galaxy-ai-samsung-preparerait-un-pc-sans-windows</guid>
+      <title>Zendure PowerHub : un seul coffret pour piloter solaire, batterie et borne VE jusqu&#8217;&#224; 22 kW, on l&#8217;a vu &#224; Lille</title>
+      <link>https://www.frandroid.com/marques/zendure/3085691_zendure-powerhub-un-seul-coffret-pour-piloter-solaire-batterie-et-borne-ve-jusqua-22-kw-on-la-vu-a-lille</link>
+      <pubDate>Thu, 30 Apr 2026 16:22:17 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/zendure/3085691_zendure-powerhub-un-seul-coffret-pour-piloter-solaire-batterie-et-borne-ve-jusqua-22-kw-on-la-vu-a-lille</guid>
       <description>
-Samsung travaillerait sur une gamme enti&#232;re de Galaxy Book tournant sous Android 17 et One UI 9, plut&#244;t que Windows. Si l'info se confirme, c'est un signal fort envoy&#233; &#224; Microsoft, et un pari risqu&#233; sur la maturit&#233; d'Android pour le grand &#233;cran.
+Zendure officialise son PowerHub &#224; Lille ce 30 avril, en duo avec le distributeur Enescol. Pour la premi&#232;re fois, le constructeur connu pour ses batteries plug-in propose un coffret qui regroupe stockage, secteur, recharge VE et bascule automatique en cas de coupure. C'est un changement de cat&#233;gorie.
 </description>
     </item>
     <item>
-      <title>Torrenters, good news &#8212; Every NordVPN Mac server is now optimized for P2P connections</title>
-      <link>https://www.techradar.com/vpn/vpn-services/torrenters-good-news-every-nordvpn-mac-server-is-now-optimized-for-p2p-connections</link>
-      <pubDate>Thu, 30 Apr 2026 14:45:20 +0000</pubDate>
-      <guid isPermaLink="false">bSJsB4ZhdessHtrcK5BVCN</guid>
-      <description>NordVPN's latest macOS update brings a major quality-of-life improvement, extending P2P support to all standard servers so you can torrent securely with just one click.</description>
+      <title>Take-Two CEO wants GTA 6 to be 'the most spectacular piece of entertainment on Earth, in history'</title>
+      <link>https://www.techradar.com/gaming/take-two-ceo-wants-gta-6-to-be-the-most-spectacular-piece-of-entertainment-on-earth-in-history</link>
+      <pubDate>Thu, 30 Apr 2026 16:19:39 +0000</pubDate>
+      <guid isPermaLink="false">Q3bgJmE6iz6SPN68fJnfr3</guid>
+      <description>Take-Two CEO Strauss Zelnick has discussed the highly anticipated release of Grand Theft Auto 6 and admitted that he is "terrified."</description>
     </item>
     <item>
-      <title>&#171; Xiaomi est le premier &#224; avoir cette technologie dans une voiture &#187; : on a test&#233; la Xiaomi YU7 &#233;lectrique, le SUV &#233;lectrique qui ringardise Tesla</title>
-      <link>https://www.frandroid.com/marques/xiaomi/3081285_prise-en-main-du-xiaomi-u7-en-video-le-suv-electrique-pour-defier-tesla</link>
-      <pubDate>Thu, 30 Apr 2026 14:42:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3081285_prise-en-main-du-xiaomi-u7-en-video-le-suv-electrique-pour-defier-tesla</guid>
+      <title>Salesforce is crowdsourcing its AI roadmap &#8212; with customers</title>
+      <link>https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/</link>
+      <pubDate>Thu, 30 Apr 2026 16:06:49 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3114813</guid>
+      <description>Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.</description>
+    </item>
+    <item>
+      <title>'The Internet is falling down': Critical cPanel CRLF injection vulnerability puts tens of millions of websites at risk of total compromise &#8211; hosting providers urged to apply CVE-2026-41940 patch immediately</title>
+      <link>https://www.techradar.com/pro/security/the-internet-is-falling-down-critical-cpanel-crlf-injection-vulnerability-puts-tens-of-millions-of-websites-at-risk-of-total-compromise-hosting-providers-urged-to-apply-cve-2026-41940-patch-immediately</link>
+      <pubDate>Thu, 30 Apr 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">vBY9xYfEBmcNoLdRBJMicB</guid>
+      <description>A new critical severity vulnerability can give attackers full control over WHM servers, allowing them to steal data, upload malware, and delete websites.</description>
+    </item>
+    <item>
+      <title>IKEA bedroom trends for summer: create a coastal haven with calming blues and bright coral</title>
+      <link>https://www.techradar.com/home/ikea-bedroom-trends-for-summer-create-a-coastal-haven-with-calming-blues-and-bright-coral</link>
+      <pubDate>Thu, 30 Apr 2026 16:04:42 +0000</pubDate>
+      <guid isPermaLink="false">j699YBEJGxy7MbLQtxtXBR</guid>
+      <description>Here's how to recreate the 'Blue skies and happy sighs' look in your own home.</description>
+    </item>
+    <item>
+      <title>AdGuard rolls out an accessibility-first update for its Mac VPN app</title>
+      <link>https://www.techradar.com/vpn/vpn-services/adguard-rolls-out-an-accessibility-first-update-for-its-mac-vpn-app</link>
+      <pubDate>Thu, 30 Apr 2026 16:04:40 +0000</pubDate>
+      <guid isPermaLink="false">kcsZFQeUxFutp6e3uSd6Tk</guid>
+      <description>AdGuard VPN for Mac v2.9 introduces accessibility improvements for users with visual impairments, along with a new dark app icon for better macOS integration.</description>
+    </item>
+    <item>
+      <title>Une faille Linux met en danger plusieurs milliards d&#8217;appareils depuis 9 ans</title>
+      <link>https://www.01net.com/actualites/une-faille-linux-met-en-danger-plusieurs-milliards-dappareils-depuis-9-ans.html</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1345482</guid>
+      <description>La faille 'Copy Fail' affecte la majorit&#233; des distributions Linux compil&#233;es apr&#232;s 2017, permettant &#224; un utilisateur local, sans aucun privil&#232;ge particulier, d'obtenir un acc&#232;s root facilement. Ce bug, d&#233;couvert r&#233;cemment, est enfoui dans le composant 'algif_aead' et a exist&#233; pendant neuf ans sans &#234;tre d&#233;tect&#233;. Un correctif a &#233;t&#233; d&#233;ploy&#233; le 1er avril, et il est crucial de mettre &#224; jour ou de d&#233;sactiver manuellement le composant vuln&#233;rable....</description>
+    </item>
+    <item>
+      <title>We called the Bose QuietComfort Ultra 'the best noise cancellation earbuds to date' &#8212; and they're now $50 off at Amazon</title>
+      <link>https://www.techradar.com/audio/earbuds-airpods/we-called-the-bose-quietcomfort-ultra-the-best-noise-cancellation-earbuds-to-date-and-theyre-now-usd50-off-at-amazon</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:23 +0000</pubDate>
+      <guid isPermaLink="false">UpAHnXKpCoCvSdQfnxiMhP</guid>
+      <description>The five-star Bose QuietComfort Ultra Earbuds are the ultimate earbuds for many, and they're now discounted by $50 onb Amazon</description>
+    </item>
+    <item>
+      <title>Microsoft&#8217;s DLSS competitor is now available on the Xbox Ally X handheld</title>
+      <link>https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview</link>
+      <pubDate>2026-04-30T12:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921112</guid>
+      <description>Microsoft is starting to test its Automatic Super Resolution (Auto SR) feature with the Xbox Ally X. Auto SR first debuted on some Copilot Plus PCs nearly two years ago, improving visual quality and frame rates in select games. Now, Microsoft is testing it for docked play on the Xbox Ally X, allowing the 7-inch [&#8230;]</description>
+    </item>
+    <item>
+      <title>Gemini is rolling out to cars with Google built-in</title>
+      <link>https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade</link>
+      <pubDate>2026-04-30T12:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921117</guid>
+      <description>Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information, settings adjustments, and more. "When cars with Google built-in first hit the road [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Here&amp;#8217;s how the new Microsoft and OpenAI deal breaks down</title>
+      <link>https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad</link>
+      <pubDate>2026-04-30T12:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921210</guid>
+      <description>Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plenty of tension along the way. But against all odds, Microsoft and OpenAI divorced this week in [&#8230;]...</description>
+    </item>
+    <item>
+      <title>How to watch Nottingham Forest vs Aston Villa: Free streams for Europa League 2025/26 semi-final first leg</title>
+      <link>https://www.techradar.com/how-to-watch/football/nottingham-forest-vs-aston-villa-europa-league-2025-26-semi-final-first-leg-free</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">DjnQdxX4PcGieio7BuRrxM</guid>
+      <description>All the ways to watch Nottingham Forest vs Aston Villa live streams online and from anywhere for free, in an all-English Europa League semi-final.</description>
+    </item>
+    <item>
+      <title>Outlander season 8 episode 9 isn't on Starz or MGM+ this week &#8212; here's when you can catch it and what you should stream instead while you wait</title>
+      <link>https://www.techradar.com/streaming/entertainment/outlander-season-8-episode-9-delay-starz-mgm-plus</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gdCZbhZt6uFL4YRgeQNYgb</guid>
+      <description>If you're excited for Outlander season 8 episode 9 airing this week. Hold your horses... the latest installment of the hit Starz series has a new release date.</description>
+    </item>
+    <item>
+      <title>The ROG Xbox Ally X is getting some updates, including Automatic Super Resolution</title>
+      <link>https://www.engadget.com/2160776/the-rog-xbox-ally-x-is-getting-some-updates-including-automatic-super-resolution/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2160776/the-rog-xbox-ally-x-is-getting-some-updates-including-automatic-super-resolution/</guid>
+      <description>Xbox Insiders can preview the new tech today.</description>
+    </item>
+    <item>
+      <title>Writer launches AI agents that can act without prompts, taking on Amazon, Microsoft and Salesforce</title>
+      <link>https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">30jmWzDJApkaKg2ZSgZT57</guid>
+      <description>Writer, the enterprise AI agent platform backed by Salesforce Ventures, Adobe Ventures, and Insight Partners, today launched event-based triggers for its Writer Agent platform, enabling AI agents to autonomously detect business signals across Gmail, Gong, Google Calendar, Google Drive, Microsoft SharePoint, and Slack &#8212; and execute complex multi-step workflows without any human initiating the process.The release, which also includes a new Adobe Experience Manager connector and a suite of enhanced governance controls such as bring-your-own encryption keys and a Datadog observability plugin, repr...</description>
+    </item>
+    <item>
+      <title>Industry experts just named the best bourbon in a blind tasting&#8212;and it&#8217;s under $70</title>
+      <link>https://www.fastcompany.com/91532211/industry-experts-just-named-best-bourbon-blind-tasting-under-70</link>
+      <pubDate>2026-04-30T16:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91532211/industry-experts-just-named-best-bourbon-blind-tasting-under-70</guid>
+      <description>Thousands of American whiskeys were tasted blind by the Beverage Testing Institute. These bottles rose above the rest.
+Every year, the&#160;Beverage Testing Institute&#160;convenes a blind tasting panel to evaluate thousands of American whiskeys, judging each bottle anonymously to determine which truly stand above the rest. Without the influence of brand reputation or&#160;marketing&#160;hype, the process has become a&#160;respected benchmark in the spirits industry....</description>
+    </item>
+    <item>
+      <title>The AI industry&#8217;s massive bet on transformer models may not be enough for true AGI</title>
+      <link>https://www.fastcompany.com/91534407/the-ai-industrys-trillion-dollar-bet-on-transformers-may-not-be-enough-for-true-agi</link>
+      <pubDate>2026-04-30T16:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91534407/the-ai-industrys-trillion-dollar-bet-on-transformers-may-not-be-enough-for-true-agi</guid>
+      <description>As Big Tech pours unprecedented resources into scaling large language models, critics argue that transformer-based systems face fundamental limitations.
+Welcome to&#160;AI&#160;Decoded,&#160;Fast Company&#8217;s weekly newsletter that breaks down the most important news in the world of&#160;AI.&#160;You can sign&#160;up to receive this newsletter every week via email&#160;here.</description>
+    </item>
+    <item>
+      <title>Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach</title>
+      <link>https://www.wired.com/gallery/the-best-mattress-for-side-sleeper/</link>
+      <pubDate>Thu, 30 Apr 2026 15:59:58 +0000</pubDate>
+      <guid isPermaLink="false">65242a93c55060c7594b0ccc</guid>
+      <description>We&#8217;ve tested hundreds of the top hybrid, memory foam, and cooling mattresses to find the best combination of support and pressure relief.</description>
+    </item>
+    <item>
+      <title>Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis</title>
+      <link>https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/</link>
+      <pubDate>Thu, 30 Apr 2026 15:55:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117913</guid>
+      <description>Hertz is creating a new affiliate company called "Oro Mobility" to provide fleet management solutions "across a range of mobility segments."</description>
+    </item>
+    <item>
+      <title>7 new horror movies on Netflix, Shudder, HBO Max, and more in May 2026</title>
+      <link>https://www.techradar.com/streaming/7-new-horror-movies-on-netflix-shudder-hbo-max-and-more-in-may-2026</link>
+      <pubDate>Thu, 30 Apr 2026 15:54:47 +0000</pubDate>
+      <guid isPermaLink="false">3E4ia7UvNhT4tyTCmLNRGE</guid>
+      <description>May is packed full of great horror movies &#8212; here are seven recommendations to keep you entertained this month.</description>
+    </item>
+    <item>
+      <title>The Lego Botaicals Flower Arrangement is on sale at Amazon for over $43 off ahead of Mothers Day</title>
+      <link>https://mashable.com/article/april-30-lego-botanicals-flower-arrangment-deal</link>
+      <pubDate>Thu, 30 Apr 2026 15:51:10 +0000</pubDate>
+      <guid isPermaLink="false">000SdOKo5LQ3C55e5r5jpR3</guid>
+      <description>The Lego Botanicals Flower Arrangement (10345) is on sale at Amazon for $66.92, down from the list price of $109.99. That's a 39% discount.</description>
+    </item>
+    <item>
+      <title>How leaders can cultivate trust in an era of information overload</title>
+      <link>https://www.fastcompany.com/91534241/how-leaders-can-cultivate-trust-in-an-era-of-information-overload</link>
+      <pubDate>2026-04-30T15:49:19</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91534241/how-leaders-can-cultivate-trust-in-an-era-of-information-overload</guid>
+      <description>In the age of AI, real value comes from helping people truly understand by providing authenticity, clarity, and depth.
+Information is a commodity. The real challenge is establishing trust in today&#8217;s world of content overload and automated answers. How can you tell who, among an array of self-proclaimed experts, really understands a topic? And more importantly, how can you instill that trust in others?...</description>
+    </item>
+    <item>
+      <title>Gaming on the go &#8212; save $200 on the ASUS ROG Strix G16 laptop at Amazon</title>
+      <link>https://mashable.com/article/april-30-asus-rog-strix-g16-gaming-laptop-deal</link>
+      <pubDate>Thu, 30 Apr 2026 15:48:26 +0000</pubDate>
+      <guid isPermaLink="false">04ah8Kqav2Zm3ZIHCHiMk70</guid>
+      <description>This ASUS ROG Strix G16 gaming laptop with premium specs is on sale for just $1,299.99 at Amazon, saving shoppers $200.</description>
+    </item>
+    <item>
+      <title>C&#8217;est le moment de d&#233;couvrir le nouveau TV Dreame (55&#8243;, QLED, HDR10) en promotion durant les French Days</title>
+      <link>https://www.frandroid.com/bons-plans/3085113_cest-le-moment-de-decouvrir-le-nouveau-tv-dreame-55-qled-hdr10-en-promotion-durant-les-french-days</link>
+      <pubDate>Thu, 30 Apr 2026 15:48:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3085113_cest-le-moment-de-decouvrir-le-nouveau-tv-dreame-55-qled-hdr10-en-promotion-durant-les-french-days</guid>
       <description>
-Nous avons roul&#233; &#224; bord du Xiaomi YU7, le nouveau SUV &#233;lectrique du constructeur taill&#233; pour concurrencer le Tesla Model Y. Embarquez avec nous avec cette vid&#233;o qui vous fera voyager dans cette voiture &#233;lectrique en plein P&#233;kin.
+Le Dreame Vivid 55Q100 est un TV complet vendu pour moins de 500 euros. Parmi ses avantages, on retrouve la compatibilit&#233; avec le Dolby Vision ou les technologies VRR et ALLM pour le gaming. Ce t&#233;l&#233;viseur est actuellement disponible &#224; 479 euros chez Rakuten en activant le code DARTY20.
 </description>
     </item>
     <item>
-      <title>Panneaux solaires : la Chine pulv&#233;rise la barre historique des 28 % de rendement</title>
-      <link>https://www.frandroid.com/survoltes/3084915_panneaux-solaires-la-chine-pulverise-la-barre-historique-des-28-de-rendement</link>
-      <pubDate>Thu, 30 Apr 2026 14:39:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3084915_panneaux-solaires-la-chine-pulverise-la-barre-historique-des-28-de-rendement</guid>
+      <title>Le MacBook Neo se met en pack avec les AirPods 4 pour un super prix durant les French Days</title>
+      <link>https://www.frandroid.com/bons-plans/3082289_le-macbook-neo-se-met-en-pack-avec-les-airpods-4-pour-un-super-prix-durant-les-french-days</link>
+      <pubDate>Thu, 30 Apr 2026 15:46:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3082289_le-macbook-neo-se-met-en-pack-avec-les-airpods-4-pour-un-super-prix-durant-les-french-days</guid>
       <description>
-Des records port&#233;s par les g&#233;ants chinois s&#8217;encha&#238;nent dans la fili&#232;re solaire. Les cellules photovolta&#239;ques sont de plus en plus performantes, promettant l&#8217;arriv&#233;e d&#8217;une nouvelle g&#233;n&#233;ration de modules &#224; haut rendement sur le march&#233;.
+Cdiscount a mis le paquet pour ces French Days avec un pack compos&#233; du MacBook Neo (256 Go) et des AirPods 4. L'ensemble perd plus de 100 euros sur son prix d'origine et tombe &#224; 714 euros.
 </description>
     </item>
     <item>
-      <title>Sony 1000X The ColleXion : voici la fiche technique du casque tr&#232;s haut de gamme</title>
-      <link>https://www.frandroid.com/marques/sony/3085169_sony-1000x-the-collexion-voici-la-fiche-technique-du-casque-tres-haut-de-gamme</link>
-      <pubDate>Thu, 30 Apr 2026 14:38:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3085169_sony-1000x-the-collexion-voici-la-fiche-technique-du-casque-tres-haut-de-gamme</guid>
-      <description>
-Apr&#232;s avoir r&#233;v&#233;l&#233; son existence, le leaker billbil-kun d&#233;voile ce que le casque Sony 1000X The ColleXion aurait dans le ventre.
-</description>
+      <title>Gift Mom the Kobo Libra Colour e-reader while its on sale for $30 off</title>
+      <link>https://mashable.com/article/april-30-kobo-libra-colour-deal</link>
+      <pubDate>Thu, 30 Apr 2026 15:43:39 +0000</pubDate>
+      <guid isPermaLink="false">06JRo4KDw88nsUy4qCiBaSC</guid>
+      <description>The Kobo Libra Colour is on sale at Amazon and Kobo for $199.99, down from the list price of $229.99. That's a 13% discount.</description>
     </item>
     <item>
-      <title>RAM prices are up, but you can still get a decent gaming laptop for cheap &#8212; here are two budget picks from Lenovo and Asus</title>
-      <link>https://www.techradar.com/computing/gaming-laptops/ram-prices-are-up-but-you-can-still-get-a-decent-gaming-laptop-for-cheap-here-are-two-budget-picks-from-lenovo-and-asus</link>
-      <pubDate>Thu, 30 Apr 2026 14:36:16 +0000</pubDate>
-      <guid isPermaLink="false">5AYB84qBddZxwTTJZFvMfU</guid>
-      <description>The RAM shortage continues to affect gaming laptop deals, but there are still a few bargains here and there.</description>
+      <title>ChatGPT developed a goblin obsession after OpenAI tried to make it nerdy</title>
+      <link>https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/</link>
+      <pubDate>Thu, 30 Apr 2026 15:42:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2161234/chatgpt-developed-a-goblin-obsession-after-openai-tried-to-make-it-nerdy/</guid>
+      <description>A warning for all you nerds out there.</description>
     </item>
     <item>
-      <title>C&#8217;est l&#8217;un des v&#233;los &#233;lectriques les plus r&#233;ussis de 2026 : on a roul&#233; avec l&#8217;Orbea Carpe</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3085287_cest-lun-des-velos-electriques-les-plus-reussis-de-2026-on-a-roule-avec-lorbea-carpe</link>
-      <pubDate>Thu, 30 Apr 2026 14:30:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3085287_cest-lun-des-velos-electriques-les-plus-reussis-de-2026-on-a-roule-avec-lorbea-carpe</guid>
-      <description>
-Plus qu&#8217;un v&#233;lo &#233;lectrique design pour briller en ville, l&#8217;Orbea Carpe mise sur un lot de composants Shimano hautes performances, et des &#233;l&#233;mentsr maison, qui fait mouche lors de notre premi&#232;re prise en main.
-</description>
-    </item>
-    <item>
-      <title>How Adam Scott became an accidental horror movie star</title>
-      <link>https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror</link>
-      <pubDate>2026-04-30T10:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=920921</guid>
-      <description>Adam Scott grew up watching horror movies at, as he describes it, "probably too young" an age. But he never set out to work specifically in the genre. Even still, horror seemed to follow him around from the very beginning. His first major film role was in Hellraiser IV in 1996. "It wasn't because I [&#8230;]</description>
-    </item>
-    <item>
-      <title>Voici les meilleurs PC portables et tablettes qui bradent leurs prix pour les French Days</title>
-      <link>https://www.frandroid.com/bons-plans/3081547_ne-subissez-plus-linflation-voici-les-pc-portables-qui-bradent-leurs-prix-pour-les-french-days</link>
-      <pubDate>Thu, 30 Apr 2026 14:26:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3081547_ne-subissez-plus-linflation-voici-les-pc-portables-qui-bradent-leurs-prix-pour-les-french-days</guid>
-      <description>
-Lors des French Days, il y a de belles affaires &#224; saisir, tout particuli&#232;rement sur les appareils informatiques et multim&#233;dias, comme les PC portables et les tablettes. D&#233;couvrez notre s&#233;lection : il y en a pour tous les go&#251;ts et tous les budgets.
-</description>
-    </item>
-    <item>
-      <title>'It&#8217;s very unusual for business to grow this fast': Even Amazon CEO Andy Jassy is surprised at AWS cloud success &#8212; and AI domination is next</title>
-      <link>https://www.techradar.com/pro/its-very-unusual-for-business-to-grow-this-fast-even-amazon-ceo-andy-jassy-is-surprised-at-aws-cloud-success-and-ai-domination-is-next</link>
-      <pubDate>Thu, 30 Apr 2026 14:25:00 +0000</pubDate>
-      <guid isPermaLink="false">b4FCcBCYV4zGtY848ZiWXi</guid>
-      <description>AWS reports its best growth rate in 15 quarters, and at 28%, it's propping up total Amazon revenue by quite a margin.</description>
-    </item>
-    <item>
-      <title>Star Wars: Galactic Racer lands on PC, PS5 and Xbox Series X/S on October 6</title>
-      <link>https://www.engadget.com/2161135/star-wars-galactic-racer-lands-on-pc-ps5-and-xbox-october-6/</link>
-      <pubDate>Thu, 30 Apr 2026 14:20:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2161135/star-wars-galactic-racer-lands-on-pc-ps5-and-xbox-october-6/</guid>
-      <description>A $160 physical collector's edition includes a rad-looking landspeeder model.</description>
-    </item>
-    <item>
-      <title>Les voix de l&#8217;IA Gemini devraient totalement changer</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3085019_les-voix-de-lia-gemini-devraient-totalement-changer</link>
-      <pubDate>Thu, 30 Apr 2026 14:20:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3085019_les-voix-de-lia-gemini-devraient-totalement-changer</guid>
-      <description>
-En examinant le code de l'application Google, des lignes font r&#233;f&#233;rence &#224; un abandon des voix actuelles de l'IA Gemini.
-</description>
-    </item>
-    <item>
-      <title>Elon Musk veut faire tomber Sam Altman, mais c&#8217;est lui qui tr&#233;buche &#224; la barre</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3085333_elon-musk-veut-faire-tomber-sam-altman-mais-cest-lui-qui-trebuche-a-la-barre</link>
-      <pubDate>Thu, 30 Apr 2026 14:17:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3085333_elon-musk-veut-faire-tomber-sam-altman-mais-cest-lui-qui-trebuche-a-la-barre</guid>
-      <description>
-Elon Musk voulait faire tomber Sam Altman. Il a pass&#233; deux jours &#224; la barre d'un tribunal californien &#224; expliquer pourquoi ses propres tweets ne devaient pas &#234;tre pris au s&#233;rieux.
-</description>
-    </item>
-    <item>
-      <title>The Blood of Dawnwalker director says the game's time limit system won't 'punish' players &#8212; 'You&#8217;ll be able to complete a majority of the game before the time runs out'</title>
-      <link>https://www.techradar.com/gaming/the-blood-of-dawnwalker-director-says-the-games-time-limit-system-wont-punish-players-youll-be-able-to-complete-a-majority-of-the-game-before-the-time-runs-out</link>
-      <pubDate>Thu, 30 Apr 2026 14:15:28 +0000</pubDate>
-      <guid isPermaLink="false">DsqHr7N55mqKa7Mq4sEmSQ</guid>
-      <description>Rebel Wolves CEO and The Blood of Dawnwalker director Konrad Tomaszkiewicz has said players don't need to worry about the game's time-limit mechanic and will have plenty of time to explore.</description>
-    </item>
-    <item>
-      <title>Currys launches its bank holiday sale with up to 40% on Ninja, LG, Shark, Dyson, and more &#8212; I've picked the 25 best deals</title>
-      <link>https://www.techradar.com/seasonal-sales/currys-launches-its-bank-holiday-sale-with-up-to-40-percent-on-ninja-lg-shark-dyson-and-more-ive-picked-the-25-best-deals</link>
-      <pubDate>Thu, 30 Apr 2026 14:10:04 +0000</pubDate>
-      <guid isPermaLink="false">fPwqB6vAwfRkRBifnjwpcT</guid>
-      <description>The Currys bank holiday sale is here, with savings of up to 40% available across thousands of tech items, so I've looked through and picked out the 25 best deals on TVs, laptops, appliances, vacuums, headphones, and more.</description>
-    </item>
-    <item>
-      <title>French Days : voici les meilleures offres Tech en DIRECT de ce jeudi 30 avril 2026</title>
+      <title>French Days 2026 : voici le TOP 60 des meilleures offres Tech du week-end</title>
       <link>https://www.frandroid.com/bons-plans/3081271_french-days-voici-les-meilleures-offres-tech-en-direct-de-ce-jeudi-30-avril-2026</link>
-      <pubDate>Thu, 30 Apr 2026 14:07:37 +0000</pubDate>
+      <pubDate>Thu, 30 Apr 2026 15:41:10 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3081271_french-days-voici-les-meilleures-offres-tech-en-direct-de-ce-jeudi-30-avril-2026</guid>
       <description>
-Les French Days continuent sur Boulanger, Fnac, Darty, Cdiscount et bien d'autres, ainsi que la French Week sur Amazon ! Comptez sur nous pour encore vous partager dans cet article, qui sera r&#233;guli&#232;rement mis &#224; jour, les meilleures offres qui tombent sur les produits Tech populaires en 2026. 
+Les French Days continuent pendant ce long week-end de trois jours sur Boulanger, Fnac, Darty, Cdiscount et bien d'autres, ainsi que la French Week d'Amazon ! Vous trouverez dans cet article les meilleures offres sur les produits Tech populaires en 2026. 
 </description>
     </item>
     <item>
-      <title>Le tout dernier MacBook Pro 14 M5 Pro profite des French Days pour all&#233;ger son prix de 250 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3085057_le-tout-dernier-macbook-pro-14-m5-pro-profite-des-french-days-pour-alleger-son-prix-de-250-e</link>
-      <pubDate>Thu, 30 Apr 2026 14:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3085057_le-tout-dernier-macbook-pro-14-m5-pro-profite-des-french-days-pour-alleger-son-prix-de-250-e</guid>
+      <title>'VPNs must make reasonable efforts' &#8212; India orders VPNs to block access to Polymarket and other banned betting platforms or lose 'safe harbour' protections</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/vpns-must-make-reasonable-efforts-india-orders-vpns-to-block-access-to-polymarket-and-other-banned-betting-platforms-or-lose-safe-harbour-protections</link>
+      <pubDate>Thu, 30 Apr 2026 15:41:03 +0000</pubDate>
+      <guid isPermaLink="false">Wk923WJWg4eHDFHe9aKiwP</guid>
+      <description>India's IT Ministry has issued a stern warning to VPN providers: block access to banned betting platforms like Polymarket, or risk losing crucial legal protections.</description>
+    </item>
+    <item>
+      <title>I found 17 portable SSD deals at prices too good to ignore &#8212; there's a massive SanDisk Extreme sale on at Best Buy with serious storage savings</title>
+      <link>https://www.techradar.com/pro/i-found-17-portable-ssd-deals-at-prices-too-good-to-ignore-theres-a-massive-sandisk-extreme-sale-on-at-best-buy-with-serious-storage-savings</link>
+      <pubDate>Thu, 30 Apr 2026 15:40:04 +0000</pubDate>
+      <guid isPermaLink="false">wWte5vuRy6HLxCbUPheVrM</guid>
+      <description>SanDisk Extreme portable SSD range is now on sale in capacities from 1TB to 8TB at prices too good to ignore.</description>
+    </item>
+    <item>
+      <title>Amazon fait sa French Week en plein French Days et casse les prix &#224; coup de codes promo</title>
+      <link>https://www.frandroid.com/bons-plans/3081213_amazon-fait-sa-french-week-en-plein-pendant-les-french-days-et-casse-les-prix-a-coup-de-codes-promo</link>
+      <pubDate>Thu, 30 Apr 2026 15:39:04 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3081213_amazon-fait-sa-french-week-en-plein-pendant-les-french-days-et-casse-les-prix-a-coup-de-codes-promo</guid>
       <description>
-Le MacBook Pro 14 M5 Pro est un laptop haut de gamme qui s'adresse surtout aux utilisateurs exigeants en qu&#234;te de performances. Vous le retrouvez &#224; 2 249 euros au lieu de 2499 euros sur Amazon pendant les French Days.
+Amazon participe aussi aux French Days, mais sous une autre appellation : la French Week. Pour cette occasion, le g&#233;ant am&#233;ricain d&#233;gaine deux codes promo sp&#233;cialement pour vous faire &#233;conomiser sur des produits Tech r&#233;cents, que ce soit pour ses membres Prime ou non.
 </description>
     </item>
     <item>
-      <title>5 myths about crypto payments for merchants and e-commerce</title>
-      <link>https://www.techradar.com/pro/5-myths-about-crypto-payments-for-merchants-and-e-commerce</link>
-      <pubDate>Thu, 30 Apr 2026 14:00:09 +0000</pubDate>
-      <guid isPermaLink="false">dNUCkzTiws6KRjNe98vayi</guid>
-      <description>It&#8217;s a major technical headache for most people to buy a coffee using cryptocurrencies, let alone for businesses to pay suppliers.</description>
+      <title>Now California&amp;#8217;s cops can give tickets to driverless cars</title>
+      <link>https://www.theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets</link>
+      <pubDate>2026-04-30T11:37:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921290</guid>
+      <description>Autonomous vehicles roving California's roads will no longer be immune to traffic tickets starting on July 1st. New regulations announced by the California DMV this week allow law enforcement to give AV manufacturers a "notice of AV noncompliance" when one of their cars commits a traffic violation, like running a red light or failing to [&#8230;]</description>
     </item>
     <item>
-      <title>Des gobelins et des gremlins envahissent ChatGPT&#160;: OpenAI d&#233;signe un coupable</title>
-      <link>https://www.01net.com/actualites/des-gobelins-et-des-gremlins-envahissent-chatgpt-openai-designe-un-coupable.html</link>
-      <pubDate>Thu, 30 Apr 2026 14:00:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1345396</guid>
-      <description>Des utilisateurs de ChatGPT rapportent une prolif&#233;ration de r&#233;f&#233;rences &#224; des gobelins et gremlins dans les r&#233;ponses de l'IA. OpenAI d&#233;signe un coupable : le profil nerd.</description>
+      <title>After working on the Vision Pro, this AR veteran is going back to phones</title>
+      <link>https://www.theverge.com/column/921101/ar-mobile-pixi</link>
+      <pubDate>2026-04-30T11:30:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921101</guid>
+      <description>This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Mark Drummond was working on the Vision Pro at Apple, he had a bit of an epiphany that didn't really fit Cupertino's preferred narrative. Drummond was managing the Character [&#8230;]</description>
     </item>
     <item>
-      <title>How to win &#8212; and lose &#8212; Decoder</title>
-      <link>https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview</link>
-      <pubDate>2026-04-30T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=920768</guid>
-      <description>This interview has been lightly edited for length and clarity.&#160; Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer, and I&#8217;m joined by host and very occasional guest, Nilay Patel. Nilay, welcome back to your own show. Hello. I hate being the guest. Now, you [&#8230;]</description>
+      <title>Budweiser has been waiting 150 years for this brand moment</title>
+      <link>https://www.fastcompany.com/91534283/budweiser-has-been-waiting-150-years-for-this-brand-moment</link>
+      <pubDate>2026-04-30T15:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91534283/budweiser-has-been-waiting-150-years-for-this-brand-moment</guid>
+      <description>The King of Beers is turning 150 the same year that America turns 250. The advertising potential should be intoxicating.
+If I had to name my Mount Rushmore of brands seen as quintessentially American around the globe, it would probably be Levi&#8217;s, Harley-Davidson, McDonald&#8217;s, and Budweiser.&#160;</description>
     </item>
     <item>
-      <title>ChatGPT just made it easier to pick the right model, just like Gemini does &#8212; here&#8217;s when to use Instant, Thinking, or Pro</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-just-made-it-easier-to-pick-the-right-model-just-like-gemini-does-heres-when-to-use-instant-thinking-or-pro</link>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">JBFczqpnCG2eznqACPwdkT</guid>
-      <description>OpenAI has given the web interface a rejig for Plus, Pro and Business users, making it easier to choose between Instant and Thinking when you talk to ChatGPT.</description>
+      <title>SpaceX backer 137 Ventures raises $700M for two growth-stage funds</title>
+      <link>https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/</link>
+      <pubDate>Thu, 30 Apr 2026 15:29:49 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3117905</guid>
+      <description>VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.</description>
     </item>
     <item>
-      <title>Fnac et Darty se montrent bien g&#233;n&#233;reux lors des French Days, voici les 12 meilleurs deals &#224; saisir</title>
-      <link>https://www.frandroid.com/bons-plans/3079377_fnac-et-darty-se-montrent-bien-genereux-lors-des-french-days-voici-les-10-meilleurs-deals-a-saisir</link>
-      <pubDate>Thu, 30 Apr 2026 13:58:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3079377_fnac-et-darty-se-montrent-bien-genereux-lors-des-french-days-voici-les-10-meilleurs-deals-a-saisir</guid>
-      <description>
-Pour le lancement des French Days, les enseignes Fnac et Darty proposent une tonne de produits Tech &#224; prix cass&#233;s. Toutes les offres ne sont pas bonnes &#224; prendre, nous avons alors fait le tri pour vous afin de vous proposer les v&#233;ritables derni&#232;res p&#233;pites de l&#8217;&#233;v&#232;nement.
-</description>
-    </item>
-    <item>
-      <title>The first Resident Evil movie trailer from Weapons director Zach Cregger is finally here &#8212; and it looks like the horror video game series is getting the adaptation it deserves</title>
-      <link>https://www.techradar.com/streaming/entertainment/the-first-resident-evil-movie-trailer-from-weapons-director-zach-cregger-is-finally-here-and-it-looks-like-the-horror-video-game-series-is-getting-the-adaptation-it-deserves</link>
-      <pubDate>Thu, 30 Apr 2026 13:50:46 +0000</pubDate>
-      <guid isPermaLink="false">yGBKEetjKS9RpMXL3idRbZ</guid>
-      <description>Resident Evil fans could be getting the adaptation of their dreams, as Zach Cregger's new movie looks very promising.</description>
-    </item>
-    <item>
-      <title>Samsung says the RAM shortage could get even worse next year</title>
-      <link>https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027</link>
-      <pubDate>2026-04-30T09:48:59-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921190</guid>
-      <description>There may be a long wait before the end of the RAM shortage that's driving up prices on everything from phones to gaming handhelds. During an earnings call on Thursday, Samsung predicted that the severe memory shortage, driven by demand from AI data centers, will not only continue next year, but likely get worse, as [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds</title>
-      <link>https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds</link>
-      <pubDate>2026-04-30T09:45:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921178</guid>
-      <description>Blaze Entertainment, the company behind the cartridge-based Evercade consoles, has announced two new handhelds that reimagine iconic '80s personal computers as portable gaming machines. The Spectrum Handheld and The C64 Handheld eschew the productivity aspects of the Commodore 64 and ZX Spectrum to focus on gaming, with each portable coming with its own collection of [&#8230;]...</description>
-    </item>
-    <item>
-      <title>OpenAI talks about not talking about goblins</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins</link>
-      <pubDate>2026-04-30T09:42:29-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921181</guid>
-      <description>OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to "never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures," the AI startup published an explanation on its website, calling references to the creatures a "strange habit" its models developed as [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Even Realities' G2 smart glasses will keep an eye on your AI agent</title>
-      <link>https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/</link>
-      <pubDate>Thu, 30 Apr 2026 13:32:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2161082/even-realities-terminal-mode-ai-agent/</guid>
-      <description>It's designed to keep you appraised of what your coding agent is doing, even when you're not at your desk.</description>
-    </item>
-    <item>
-      <title>This new study suggests Americans are being overcharged for insurance by $150 billion annually</title>
-      <link>https://www.fastcompany.com/91534760/this-new-study-suggests-americans-being-overcharged-insurance-150-billion-annually</link>
-      <pubDate>2026-04-30T13:30:33</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91534760/this-new-study-suggests-americans-being-overcharged-insurance-150-billion-annually</guid>
-      <description>In 2024, for every $1 collected in premiums, insurers reimbursed 62 cents for claims.
-A new analysis suggests Americans are being overcharged by $150 billion annually to insure their homes, autos and businesses &#8212; and it proposes federal guardrails so that a public beset by affordability pressures could see savings.The analysis by the Vanderbilt Policy Accelerator obtained exclusively by The Associated Press details how insurers are paying out less on claims after an accident, natural disaster or other misfortune than they did decades ago. For every $1 collected in premiums, insurers reimbursed...</description>
-    </item>
-    <item>
-      <title>The HyperX Clutch Talon is a super configurable multi-platform gaming controller</title>
-      <link>https://www.engadget.com/2160723/the-hyperx-clutch-talon-is-a-super-configurable-multi-platform-gaming-controller/</link>
-      <pubDate>Thu, 30 Apr 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2160723/the-hyperx-clutch-talon-is-a-super-configurable-multi-platform-gaming-controller/</guid>
-      <description>It features a bunch of hot-swappable components inside its bundled case and it's even Xbox-certified.</description>
-    </item>
-    <item>
-      <title>How solopreneurs should think about branding</title>
-      <link>https://www.fastcompany.com/91532110/how-solopreneurs-should-think-about-branding</link>
-      <pubDate>2026-04-30T13:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91532110/how-solopreneurs-should-think-about-branding</guid>
-      <description>When and how you invest depends on where your business is at the moment.
-If you&#8217;re self-employed and spend any time on social media, you&#8217;ve seen the debate. One person swears you need a professional website from day one. Another says a logo is the first thing to invest in. Someone else is selling a $500 course that promises to &#8220;elevate your brand&#8217;s presence.&#8221;&#160;...</description>
-    </item>
-    <item>
-      <title>Le nouveau Xiaomi Redmi Note 15 Pro 5G perd d&#233;j&#224; plus de 100 &#8364; de son prix gr&#226;ce aux French Days</title>
-      <link>https://www.frandroid.com/bons-plans/3069043_le-nouveau-xiaomi-redmi-note-15-pro-5g-perd-deja-plus-de-100-de-son-prix-grace-aux-french-days</link>
-      <pubDate>Thu, 30 Apr 2026 13:26:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3069043_le-nouveau-xiaomi-redmi-note-15-pro-5g-perd-deja-plus-de-100-de-son-prix-grace-aux-french-days</guid>
-      <description>
-Not&#233; 8/10, le Xiaomi Redmi Note 15 Pro 5G est un smartphone de milieu de gamme qui d&#233;livre de belles performances et des caract&#233;ristiques que l'on voit habituellement sur du haut de gamme. On le trouve en ce moment &#224; 284 euros au lieu de 399 euros sur Amazon.
-</description>
-    </item>
-    <item>
-      <title>Comment obtenir son num&#233;ro RIO pour garder son num&#233;ro de t&#233;l&#233;phone ?</title>
-      <link>https://www.frandroid.com/comment-faire/tutoriaux/592194_comment-obtenir-le-code-rio-pour-conserver-son-numero-de-telephone</link>
-      <pubDate>Thu, 30 Apr 2026 13:25:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/tutoriaux/592194_comment-obtenir-le-code-rio-pour-conserver-son-numero-de-telephone</guid>
-      <description>
-Pour garder son num&#233;ro de t&#233;l&#233;phone quand on change de forfait mobile, il faut obtenir son code de Relev&#233; d&#8217;Identit&#233; Op&#233;rateur ou num&#233;ro RIO. Qu&#8217;est-ce que ce code RIO, comment fonctionne-t-il et, surtout, comment le trouver ? Suivez le guide !
-</description>
-    </item>
-    <item>
-      <title>Should phones be banned from concerts? Fred Again's tour has tapped into a global movement of people wanting to unplug at events that's grown 567%, according to new data &#8212; and I want to know where you stand</title>
-      <link>https://www.techradar.com/phones/should-phones-be-banned-from-concerts-fred-agains-tour-has-tapped-into-a-global-movement-of-people-wanting-to-unplug-at-events-thats-grown-567-percent-according-to-new-data-and-i-want-to-know-where-you-stand</link>
-      <pubDate>Thu, 30 Apr 2026 13:15:48 +0000</pubDate>
-      <guid isPermaLink="false">4SNw5QCDnHpJtmXt4C6VXm</guid>
-      <description>Did you mind Fred Again&#8217;s USB002 tour being smartphone free? Weigh in on the no phone debate.</description>
+      <title>The upcoming Resident Evil movie looks legit scary in its first trailer</title>
+      <link>https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/</link>
+      <pubDate>Thu, 30 Apr 2026 15:28:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2161212/the-upcoming-resident-evil-movie-looks-legit-scary-in-its-first-trailer/</guid>
+      <description>Zach Cregger's take on the video game source material hits theaters on September 18.</description>
     </item>
   </channel>
 </rss>
