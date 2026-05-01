@@ -3,187 +3,207 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 01 May 2026 16:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:02:02 GMT</lastBuildDate>
     <item>
-      <title>Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks</title>
+      <title>The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.</title>
+      <link>https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives</link>
+      <pubDate>Fri, 01 May 2026 18:01:52 GMT</pubDate>
+      <guid isPermaLink="false">1f6j7zMDbdqY69JO8NyZg5</guid>
+      <description>The scaffolding layer that developers once needed to ship LLM applications &#8212; indexing layers, query engines, retrieval pipelines, carefully orchestrated agent loops &#8212; is collapsing. And according to Jerry Liu, co-founder and CEO of LlamaIndex, that's not a problem. It's the point.&#8220;As a result, there's less of a need for frameworks to actually help users compose these deterministic workflows in a light and shallow manner,&#8221; Jerry Liu, co-founder and CEO of LlamaIndex, explains in a new VentureBeat Beyond the Pilot podcast.&#160;Context is becoming the moatLiu&#8217;s LlamaIndex is one of the foremost retri...</description>
+    </item>
+    <item>
+      <title>Redditor builds a PC inside an old CRT monitor &#8212; it looks like an ancient iMac, but runs Cyberpunk 2077 at 100fps in 1440p</title>
+      <link>https://www.techradar.com/computing/redditor-builds-a-pc-inside-an-old-crt-monitor-it-looks-like-an-ancient-imac-but-runs-cyberpunk-2077-at-100fps-in-1440p</link>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yKprLdf3jcujk3dp6rwDRS</guid>
+      <description>This retro PC build that uses a burnt-out old monitor as a case is like an iMac on steroids.</description>
+    </item>
+    <item>
+      <title>iPhone 17e vs iPhone 17&#160;: quel iPhone &#171;&#160;abordable&#160;&#187; choisir&#160;?</title>
+      <link>https://www.frandroid.com/versus/3056419_iphone-17e-vs-iphone-17-quel-iphone-abordable-choisir</link>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/versus/3056419_iphone-17e-vs-iphone-17-quel-iphone-abordable-choisir</guid>
+      <description>
+Une petite lettre, &#231;a change tout. Ne vous m&#233;prenez pas&#160;: l'iPhone 17e est bien la version &#171; lite &#187; de l'iPhone 17 classique. Une version plus abordable, naturellement amput&#233;e de certaines fonctionnalit&#233;s phares, qui m&#233;rite toutefois votre int&#233;r&#234;t. On fait le point dans ce nouveau comparatif&#160;!
+</description>
+    </item>
+    <item>
+      <title>LG's 2026 Gram laptop lineup starts at $1,150</title>
+      <link>https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/</link>
+      <pubDate>Fri, 01 May 2026 17:55:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/</guid>
+      <description>They're available today from LG's website.</description>
+    </item>
+    <item>
+      <title>Amazon&amp;#8217;s built-in AI price history expands to show the entire last year</title>
+      <link>https://www.theverge.com/tech/922302/amazon-price-tracker-year</link>
+      <pubDate>2026-05-01T13:55:22-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922302</guid>
+      <description>Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the "Price history" button next to the item's price, or ask Amazon's AI assistant Rufus. The expansion comes just weeks ahead of Amazon's annual [&#8230;]</description>
+    </item>
+    <item>
+      <title>Dreame &#8212;&#160;the vacuum company &#8212; just &#8216;launched&#8217; its own phones</title>
+      <link>https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular</link>
+      <pubDate>2026-05-01T13:55:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922246</guid>
+      <description>Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in California this week, though both had previously been revealed in China in [&#8230;]</description>
+    </item>
+    <item>
+      <title>xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite</title>
+      <link>https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite</link>
+      <pubDate>Fri, 01 May 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="false">mKkkuk33W7XJ6EYwsVxIR</guid>
+      <description>While Elon Musk faces off against his former colleague and OpenAI co-founder Sam Altman in court, Musk's rival firm xAI, founded to take on OpenAI, isn't slowing down on launching competitive new products and services.Last night, xAI shipped a new, proprietary base large language model (LLM), Grok 4.3, and a new voice cloning suite on the web. The new products arrive after months of tumult from xAI that saw all of Musk's 10 original co-founders of the lab and dozens more researchers exit the firm and Grok was eclipsed on performance by many new competing LLMs from the likes of OpenAI, Anthropi...</description>
+    </item>
+    <item>
+      <title>It's Bandcamp Friday again</title>
+      <link>https://www.engadget.com/2162117/its-bandcamp-friday-again/</link>
+      <pubDate>Fri, 01 May 2026 17:42:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2162117/its-bandcamp-friday-again/</guid>
+      <description>What are you buying today?</description>
+    </item>
+    <item>
+      <title>&#192; moins de 90 &#8364; pendant les French Days, ces r&#233;cents &#233;couteurs Huawei avec ANC et audio spatial valent encore plus le d&#233;tour</title>
+      <link>https://www.frandroid.com/bons-plans/3082449_a-moins-de-90-e-pendant-les-french-days-ces-recents-ecouteurs-huawei-avec-anc-et-audio-spatial-valent-encore-plus-le-detour</link>
+      <pubDate>Fri, 01 May 2026 17:38:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3082449_a-moins-de-90-e-pendant-les-french-days-ces-recents-ecouteurs-huawei-avec-anc-et-audio-spatial-valent-encore-plus-le-detour</guid>
+      <description>
+Les Huawei FreeBuds 6, successeurs des FreeBuds 5, sont des &#233;couteurs sans fil proposant des fonctionnalit&#233;s haut de gamme, &#224; l'image de l'ANC et de l'audio spatial avec suivi de t&#234;te. Une paire de true wireless que l'on trouve d'ailleurs, pendant les French Days, &#224; 89,99 euros au lieu de 159,99 euros sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>'Exactly one photon': European scientists have built the first block of a truly unhackable global quantum internet that can run on existing fiber networks &#8212; breaking what was once thought to be an impossible barrier to transmit identical light particles</title>
+      <link>https://www.techradar.com/pro/exactly-one-photon-european-scientists-have-built-the-first-block-of-a-truly-unhackable-global-quantum-internet-that-can-run-on-existing-fiber-networks-breaking-what-was-once-thought-to-be-an-impossible-barrier-to-transmit-identical-light-particles</link>
+      <pubDate>Fri, 01 May 2026 17:35:00 +0000</pubDate>
+      <guid isPermaLink="false">78JXBh49TETXUQzmEzBysX</guid>
+      <description>Scientists break the telecom wavelength barrier that previously blocked long distance quantum communication over existing optical fiber infrastructure.</description>
+    </item>
+    <item>
+      <title>Rocket League has a new Easy Anti-Cheat addition, and it still works on the Steam Deck &#8212; it's about time for other game Devs to follow suit</title>
+      <link>https://www.techradar.com/gaming/steam-deck/rocket-league-has-a-new-easy-anti-cheat-addition-and-it-still-works-on-the-steam-deck-its-about-time-for-other-game-devs-to-follow-suit</link>
+      <pubDate>Fri, 01 May 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">dEwvdPVjEs3HFZaW87iDz8</guid>
+      <description>SteamOS is on the verge of huge growth to its player base with the Steam Machine's arrival, and that's why this one factor can't be ignored by game developers.</description>
+    </item>
+    <item>
+      <title>This accessory can snap a Steam Controller to your phone &#8212; or almost anything else</title>
+      <link>https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock</link>
+      <pubDate>2026-05-01T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921823</guid>
+      <description>Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism's lineup of accessories, including mounts for hanging handhelds and gamepads on the [&#8230;]</description>
+    </item>
+    <item>
+      <title>3 thrilling new Netflix shows you shouldn't miss in May 2026</title>
+      <link>https://www.techradar.com/streaming/netflix/3-thrilling-new-netflix-shows-you-shouldnt-miss-in-may-2026</link>
+      <pubDate>Fri, 01 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">SeisQGdMPZ4CwnyETHShAW</guid>
+      <description>Get your thrills with Netflix this May, as three great new originals are streaming throughout the month.</description>
+    </item>
+    <item>
+      <title>Players from the NBA, NFL, and MLB call for a ban on betting &amp;#8216;unders&amp;#8217;</title>
+      <link>https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets</link>
+      <pubDate>2026-05-01T12:57:27-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922244</guid>
+      <description>The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a player's underperformance or injury, Sports Business Journal reports. In their letter, the unions cite the need for "appropriate regulations" to protect athletes and [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Severe Linux Copy Fail security flaw uncovered using AI scanning help</title>
+      <link>https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit</link>
+      <pubDate>2026-05-01T12:55:16-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922243</guid>
+      <description>Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called "Copy Fail" that allows any user to give themselves administrator privileges. The exploit, publicly disclosed as CVE-2026-31431 on Wednesday, uses a Python script that works across all of the vulnerable Linux distributions, requiring "no per-distro offsets, no version checks, no [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The Chinese Government Just Got the World&#8217;s Largest Digital Rights Conference Canceled</title>
+      <link>https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/</link>
+      <pubDate>Fri, 01 May 2026 16:49:22 +0000</pubDate>
+      <guid isPermaLink="false">69f3b67265348cc78c80de50</guid>
+      <description>Access Now, the group that organizes RightsCon, says Zambian officials asked it to exclude Taiwanese participants if it wanted the event to proceed as planned.</description>
+    </item>
+    <item>
+      <title>Oura adds more detailed hormonal health insights to its Series 3 and 4 rings</title>
+      <link>https://www.engadget.com/2162066/oura-adds-more-detailed-hormonal-health-insights-to-its-series-3-and-4-rings/</link>
+      <pubDate>Fri, 01 May 2026 16:37:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2162066/oura-adds-more-detailed-hormonal-health-insights-to-its-series-3-and-4-rings/</guid>
+      <description>The system will track potential side effects of various birth control methods.</description>
+    </item>
+    <item>
+      <title>Russia orders Apple and Google to remove Important Stories, an investigative media app that works without a VPN &#8212; leaving Russians without a key source for accessing uncensored news</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/russia-orders-apple-and-google-to-remove-important-stories-an-investigative-media-app-that-works-without-a-vpn-leaving-russians-without-a-key-source-for-accessing-uncensored-news</link>
+      <pubDate>Fri, 01 May 2026 16:35:27 +0000</pubDate>
+      <guid isPermaLink="false">quehZgeXawoW6fwEDuNdmF</guid>
+      <description>Important Stories launched the IStories mobile app in February to make sure information would reach Russians despite widespread internet censorship and VPN restrictions.</description>
+    </item>
+    <item>
+      <title>Dreame&#8217;s rocket-powered car can do 0&#8211;60 in 0.9 seconds because you can just say things now</title>
+      <link>https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality</link>
+      <pubDate>2026-05-01T12:33:46-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=921204</guid>
+      <description>When I first heard that a vacuum company had released a rocket-powered electric vehicle with physically impossible-sounding performance specs, I immediately thought James Dyson was up to his old tricks again. Fortunately, I was wrong. This time the household appliance company trying its hand at super car design is Dreame (pronounced like "dreamy"), a little-known [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Asus&#8217;s Intel Core i7-powered ROG Strix G16 is a high-performance laptop for creators and gamers &#8212; and it&#8217;s currently $100 off</title>
+      <link>https://www.techradar.com/pro/asuss-intel-core-i7-powered-rog-strix-g16-is-a-high-performance-laptop-for-creators-and-gamers-and-its-currently-usd100-off</link>
+      <pubDate>Fri, 01 May 2026 16:30:20 +0000</pubDate>
+      <guid isPermaLink="false">SqAazzAgHbncywmJomoxmK</guid>
+      <description>Asus&#8217;s ROG Strix G16 laptop pairs an Intel Core i7-14650HX processor with 16GB of DDR5 RAM and a 1TB SSD for creative tasks, work and entertainment.</description>
+    </item>
+    <item>
+      <title>Raising Cane&#8217;s is opening new locations this month and your city might be on the list</title>
+      <link>https://www.fastcompany.com/91535518/raising-canes-is-opening-new-locations-this-month-and-your-city-might-be-on-the-list</link>
+      <pubDate>2026-05-01T16:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91535518/raising-canes-is-opening-new-locations-this-month-and-your-city-might-be-on-the-list</guid>
+      <description>The chicken chain is expanding fast across seven states with new openings starting May 12. Here&#8217;s exactly where it&#8217;s landing next.
+Raising Cane&#8217;s, the Louisiana-based chicken finger chain known for its tangy sauce, crinkle fries, and thick Texas toast, is continuing to expand. This May, Cane&#8217;s will open locations in seven states, including its first in one....</description>
+    </item>
+    <item>
+      <title>We just got a new reason to believe the Trump phone is real(ish)</title>
+      <link>https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile</link>
+      <pubDate>2026-05-01T12:28:39-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922180</guid>
+      <description>Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This time we've discovered a little more evidence that the phone is on its way to a release. Trump Mobile's T1 Phone has just passed another milestone on its slow [&#8230;]</description>
+    </item>
+    <item>
+      <title>I saw Samsung's new mid-range OLED TV and its controversial Glare Free screen &#8212; and based on my first look, it could be a real challenger to the LG C6</title>
+      <link>https://www.techradar.com/televisions/i-saw-samsungs-new-mid-range-oled-tv-and-its-controversial-glare-free-screen-and-based-on-my-first-look-it-could-be-a-real-challenger-to-the-lg-c6</link>
+      <pubDate>Fri, 01 May 2026 16:28:10 +0000</pubDate>
+      <guid isPermaLink="false">PZWW2SLsGcZKd5BvPkDErj</guid>
+      <description>The Samsung S90H is the LG C6's rival and while the latter has set a high bar, my first impressions with the S90H suggest it's more than able to reach that bar.</description>
+    </item>
+    <item>
+      <title>'Your duty is not yet done' &#8212; Warhammer 40,000: Space Marine 2 is so popular that it's getting another year of content</title>
+      <link>https://www.techradar.com/gaming/your-duty-is-not-yet-done-warhammer-40-000-space-marine-2-is-so-popular-that-its-getting-another-year-of-content</link>
+      <pubDate>Fri, 01 May 2026 16:18:23 +0000</pubDate>
+      <guid isPermaLink="false">sunrJHibkioukCS8NrbBEe</guid>
+      <description>Warhammer 40,000: Space Marine 2 is getting a surprise third year of content.</description>
+    </item>
+    <item>
+      <title>This is not a drill: Terry Crews has come to Call of Duty</title>
+      <link>https://www.techradar.com/gaming/this-is-not-a-drill-terry-crews-has-come-to-call-of-duty</link>
+      <pubDate>Fri, 01 May 2026 16:16:40 +0000</pubDate>
+      <guid isPermaLink="false">5winBRz4bX8KnosbyQXayU</guid>
+      <description>Call of Duty: Black Ops 7 Season 3 Reloaded has arrived and with it comes Terry Crews.</description>
+    </item>
+    <item>
+      <title>'The cost of cloud services and the cost of AI will also go down in the future, so we&#8217;ll try very hard to keep it for free': Coros' CEO on how the smartwatch maker is swerving subscriptions for now &#8212; avoiding another Garmin Connect+ disaster</title>
+      <link>https://www.techradar.com/health-fitness/the-cost-of-cloud-services-and-the-cost-of-ai-will-also-go-down-in-the-future-so-well-try-very-hard-to-keep-it-for-free-coros-ceo-on-how-the-smartwatch-maker-is-swerving-subscriptions-for-now-avoiding-another-garmin-connect-disaster</link>
+      <pubDate>Fri, 01 May 2026 16:11:38 +0000</pubDate>
+      <guid isPermaLink="false">UXzYrLryBc8qiKEnrJxJC4</guid>
+      <description>How Coros has "no plans" to implement unpopular Garmin- or Whoop-style subscription-only features anytime soon, according to its CEO</description>
+    </item>
+    <item>
+      <title>QR code phishing surges 146% as Microsoft detects and analyzes 8.3 billion phishing threats in Q1 2026 &#8211; attackers are changing tactics to bypass security</title>
+      <link>https://www.techradar.com/pro/security/qr-code-phishing-surges-146-percent-as-microsoft-detects-and-analyzes-8-3-billion-phishing-threats-in-q1-2026-attackers-are-changing-tactics-to-bypass-security</link>
+      <pubDate>Fri, 01 May 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">iHx37xgQQJsxBh4gbQunm5</guid>
+      <description>Microsoft has seen attackers changing tactics to get around security tools, and they keep adapting even when disrupted.</description>
+    </item>
+    <item>
+      <title>Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks</title>
       <link>https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/</link>
       <pubDate>Fri, 01 May 2026 16:02:36 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3118436</guid>
-      <description>The deals come as the DoD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.</description>
-    </item>
-    <item>
-      <title>Test Nakamura Crosscity+ : la meilleure affaire du moment pour transporter vos enfants &#224; v&#233;lo cargo &#233;lectrique ?</title>
-      <link>https://www.frandroid.com/marques/nakamura/3084049_test-nakamura-crosscity-la-meilleure-affaire-du-moment-pour-transporter-vos-enfants-a-velo-cargo-electrique</link>
-      <pubDate>Fri, 01 May 2026 16:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nakamura/3084049_test-nakamura-crosscity-la-meilleure-affaire-du-moment-pour-transporter-vos-enfants-a-velo-cargo-electrique</guid>
-      <description>
-V&#233;lo cargo &#233;lectrique compact et relativement l&#233;ger, le Nakamura Crosscity+ n&#8217;a certes pas les capacit&#233;s d&#8217;un longtail mais propose un bon &#233;quipement et un moteur central performant.
-</description>
-    </item>
-    <item>
-      <title>Finally, Windows 11 desktop PC users can enjoy Xbox Mode &#8212; and Microsoft has a new gift for Ally X users</title>
-      <link>https://www.techradar.com/gaming/xbox/finally-windows-11-desktop-pc-users-can-enjoy-xbox-mode-and-microsoft-has-a-new-gift-for-ally-x-users</link>
-      <pubDate>Fri, 01 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9oo3bAmBnqWh86sfpukfRM</guid>
-      <description>Microsoft isn't resting on its laurels with Windows 11 gaming optimization, with Xbox Mode now being rolled out to desktop PC users.</description>
-    </item>
-    <item>
-      <title>Gemini remplace Google Assistant dans 4 millions de voitures GM et arrive bient&#244;t chez Renault, Volvo et Polestar</title>
-      <link>https://www.frandroid.com/survoltes/voitures-electriques/3085897_gemini-remplace-google-assistant-dans-4-millions-de-voitures-gm-et-arrive-bientot-chez-renault-volvo-et-polestar</link>
-      <pubDate>Fri, 01 May 2026 15:46:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3085897_gemini-remplace-google-assistant-dans-4-millions-de-voitures-gm-et-arrive-bientot-chez-renault-volvo-et-polestar</guid>
-      <description>
-Google fait passer ses voitures avec Google built-in de l'Assistant &#224; Gemini. Le d&#233;ploiement commence aux &#201;tats-Unis, en anglais, et touche d&#233;j&#224; 4 millions de v&#233;hicules GM. La France ? On verra plus tard.
-</description>
-    </item>
-    <item>
-      <title>Free-to-play mobile game The Division Resurgence is launching on PC in August as Ubisoft shares new roadmap details, but you can play it right now</title>
-      <link>https://www.techradar.com/gaming/free-to-play-mobile-game-the-division-resurgence-is-launching-on-pc-in-august-as-ubisoft-shares-new-roadmap-details-but-you-can-play-it-right-now</link>
-      <pubDate>Fri, 01 May 2026 15:44:52 +0000</pubDate>
-      <guid isPermaLink="false">uF3A2iEYY6phtDevM7nQj7</guid>
-      <description>Ubisoft has shared the content roadmap for its free-to-play mobile game The Division Resurgence, along with a release window for the PC version.</description>
-    </item>
-    <item>
-      <title>La Tapo C720 prend toute la lumi&#232;re pendant ces French Days avec une promotion de 23 % chez Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3082479_la-tapo-c720-prend-toute-la-lumiere-pendant-ces-french-days-avec-une-promotion-de-23-chez-amazon</link>
-      <pubDate>Fri, 01 May 2026 15:40:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3082479_la-tapo-c720-prend-toute-la-lumiere-pendant-ces-french-days-avec-une-promotion-de-23-chez-amazon</guid>
-      <description>
-La Tapo C720 profite des French Days pour perdre 40 euros sur Amazon. Une promotion qui se chiffre &#224; 45 euros pour les membres Prime gr&#226;ce au code PRIME15.
-</description>
-    </item>
-    <item>
-      <title>Someone found a Chinese retailer selling super-cheap CRT TVs, but don't get too excited, retro gaming fans &#8212; every new piece of information about them seems to reveal more mysteries</title>
-      <link>https://www.techradar.com/televisions/someone-found-a-chinese-retailer-selling-super-cheap-crt-tvs-but-dont-get-too-excited</link>
-      <pubDate>Fri, 01 May 2026 15:29:05 +0000</pubDate>
-      <guid isPermaLink="false">TRWC5XFZ2ddzi5CT2fSNCW</guid>
-      <description>A Chinese company is offering newly made CRT TVs &#8212;but with some debate over exactly what's being sold</description>
-    </item>
-    <item>
-      <title>FBI says hackers are making millions from stolen cargo - losses 'surged' to nearly $725 million in 2025</title>
-      <link>https://www.techradar.com/pro/security/fbi-says-hackers-are-making-millions-from-stolen-cargo-losses-surged-to-nearly-usd725-million-in-2025</link>
-      <pubDate>Fri, 01 May 2026 15:25:00 +0000</pubDate>
-      <guid isPermaLink="false">ARUciSHhcpYuGK87PDzCwM</guid>
-      <description>Cybercriminals are infiltrating digital shipping supply chains to reroute cargo and use it to fund other crimes.</description>
-    </item>
-    <item>
-      <title>Amazon Web Services, Microsoft and NVIDIA will provide AI tech to Pentagon</title>
-      <link>https://www.engadget.com/2161995/amazon-web-services-microsoft-and-nvidia-will-provide-ai-tech-to-pentagon/</link>
-      <pubDate>Fri, 01 May 2026 15:24:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2161995/amazon-web-services-microsoft-and-nvidia-will-provide-ai-tech-to-pentagon/</guid>
-      <description>They join Google, OpenAI and xAI.</description>
-    </item>
-    <item>
-      <title>Concilier technologie et BTP : voici le pari du cursus B&#226;timent Num&#233;rique d&#8217;Ynov Campus [Sponso]</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/3083443_concilier-technologie-et-btp-voici-le-pari-du-cursus-batiment-numerique-dynov-campus</link>
-      <pubDate>Fri, 01 May 2026 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/3083443_concilier-technologie-et-btp-voici-le-pari-du-cursus-batiment-numerique-dynov-campus</guid>
-      <description>
-D&#233;carboner le BTP gr&#226;ce au num&#233;rique : voici les enjeux du cursus B&#226;timent Num&#233;rique de l&#8217;&#233;cole Ynov Campus, de Bac+3 &#224; Bac+5.
-</description>
-    </item>
-    <item>
-      <title>Aurzen&#8217;s tiny trifold projector is almost 40 percent off right now</title>
-      <link>https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale</link>
-      <pubDate>2026-05-01T11:00:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921686</guid>
-      <description>Not all trifolds are created equal &#8212; just ask our own Allison Johnson, who recently spent time with Samsung&#8217;s ill-fated Galaxy phone. Aurzen&#8217;s Zip projector is the kind of trifold gadget we can fully get behind, though, and it&#8217;s currently on sale at Amazon for $259.99 ($140 off). You can also pick it up in [&#8230;]</description>
-    </item>
-    <item>
-      <title>Ubuntu services hit by outages after DDoS attack</title>
-      <link>https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/</link>
-      <pubDate>Fri, 01 May 2026 15:00:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3118437</guid>
-      <description>A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.</description>
-    </item>
-    <item>
-      <title>You Found Satoshi? Let&#8217;s See the Receipts</title>
-      <link>https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/</link>
-      <pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69f3aff105d73cab668fe2f5</guid>
-      <description>Two new projects, including one from a Pulitzer-winning reporter, claim they&#8217;ve solved the mystery of Bitcoin&#8217;s creator. So why does the hunt continue?</description>
-    </item>
-    <item>
-      <title>J&#8217;ai test&#233; le Nuki Keypad 2 NFC : quand mon smartphone se prend pour une cl&#233;</title>
-      <link>https://www.frandroid.com/marques/3069331_jai-teste-le-nuki-keypad-2-nfc-quand-mon-smartphone-se-prend-pour-une-cle</link>
-      <pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3069331_jai-teste-le-nuki-keypad-2-nfc-quand-mon-smartphone-se-prend-pour-une-cle</guid>
-      <description>
-Leader europ&#233;en des serrures connect&#233;es, Nuki a tard&#233; &#224; proposer un clavier num&#233;rique NFC compatible avec ses serrures. Mais voici le Nuki Keypad 2 NFC que nous avons test&#233; : v&#233;ritable r&#233;volution ou simple argument marketing ?
-</description>
-    </item>
-    <item>
-      <title>Essence pas ch&#232;re : les meilleurs comparateurs de prix carburant &#224; utiliser en France</title>
-      <link>https://www.frandroid.com/android/applications/3081489_essence-pas-chere-les-meilleurs-comparateurs-de-prix-carburant-a-utiliser-en-france</link>
-      <pubDate>Fri, 01 May 2026 14:48:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3081489_essence-pas-chere-les-meilleurs-comparateurs-de-prix-carburant-a-utiliser-en-france</guid>
-      <description>
-Le gazole a d&#233;pass&#233; 2,20 &#8364;/L fin mars, du jamais-vu depuis 1985. Et entre deux stations distantes de cinq kilom&#232;tres, l'&#233;cart peut atteindre 25 centimes par litre, soit 12 &#224; 15 euros sur un plein. Voici les outils que l'on vous conseille pour trouver le bon prix au bon endroit, sans tourner pendant une heure.
-</description>
-    </item>
-    <item>
-      <title>7 ways AI is being used at work by everyone from teachers to marketing professionals</title>
-      <link>https://www.fastcompany.com/91535371/7-ways-ai-used-work-everyone-from-teachers-marketing-professionals</link>
-      <pubDate>2026-05-01T14:41:11</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91535371/7-ways-ai-used-work-everyone-from-teachers-marketing-professionals</guid>
-      <description>People in a wide range of fields are using AI for things like lesson plans and deciphering industry jargon.
-Artificial intelligence is permeating workplaces, changing the nature of jobs of every stripe.Teachers are using it to create lesson plans and grade papers. Marketing professionals are harnessing it to work a room and learn about the needs of potential clients. Product managers are asking AI to serve as an interpreter when technical conversations went over their heads in meetings.Some people who employ AI tools are concerned that widespread use of the technology could erode critical thin...</description>
-    </item>
-    <item>
-      <title>Apple is overhauling its Photos app with AI &#8212; because it has to</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/apple-is-overhauling-its-photos-app-with-ai-because-it-has-to</link>
-      <pubDate>Fri, 01 May 2026 14:32:24 +0000</pubDate>
-      <guid isPermaLink="false">7XUNgW7XGNuBCouk3s5GCZ</guid>
-      <description>Apple&#8217;s upcoming AI photo tools are less about innovation for its own sake and more about catching up in a space where competitors have already reset expectations</description>
-    </item>
-    <item>
-      <title>Error in Medicare database exposes US healthcare providers Social Security numbers &#8211; Trump administration directory designed to modernize Medicare encounters another setback</title>
-      <link>https://www.techradar.com/pro/security/cms-error-exposes-us-healthcare-providers-social-security-numbers-trump-administration-directory-designed-to-modernize-medicare-encounters-another-setback</link>
-      <pubDate>Fri, 01 May 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="false">gqeCWba6mj8pvNY765wwsR</guid>
-      <description>A Trump administration directory designed to help seniors find healthcare inadvertently exposed Social Security numbers.</description>
-    </item>
-    <item>
-      <title>Some of Xteink&#8217;s credit card-sized e-readers are losing their best feature</title>
-      <link>https://www.theverge.com/tech/921552/xteink-x3-x4-e-reader-third-party-crosspoint-firmware-usb-blocked</link>
-      <pubDate>2026-05-01T10:24:54-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=921552</guid>
-      <description>The Xteink X4 and X3 are excellent alternatives to Kindles and Kobos if you want an e-reader that's as easy to slip into your pocket - just not out of the box. Both devices come with stock firmware that's clunky, limited, and occasionally confusing, but that can be easily fixed by plugging them into a [&#8230;]</description>
-    </item>
-    <item>
-      <title>Engadget Podcast: Is the Valve Steam Controller worth $100?</title>
-      <link>https://www.engadget.com/2161921/engadget-podcast-is-the-valve-steam-controller-worth-dollar100/</link>
-      <pubDate>Fri, 01 May 2026 14:11:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2161921/engadget-podcast-is-the-valve-steam-controller-worth-dollar100/</guid>
-      <description>And why it's not exactly a PC gamepad.</description>
-    </item>
-    <item>
-      <title>Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia &#8212; but not Anthropic</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia</link>
-      <pubDate>2026-05-01T10:09:56-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=922113</guid>
-      <description>The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The Verge&#8217;s 2026 Mother&#8217;s&#160;Day&#160;gift guide</title>
-      <link>https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets</link>
-      <pubDate>2026-05-01T10:09:03-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=907032</guid>
-      <description>Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are designed to [&#8230;]</description>
-    </item>
-    <item>
-      <title>From 'encryption backdoor' to 'lawful access' &#8212; is a compromise between privacy, security, and law enforcement needs actually possible?</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/from-encryption-backdoor-to-lawful-access-is-a-compromise-between-privacy-security-and-law-enforcement-needs-actually-possible</link>
-      <pubDate>Fri, 01 May 2026 14:05:10 +0000</pubDate>
-      <guid isPermaLink="false">Jcub6YEC5o6wTRymTeQP3K</guid>
-      <description>After ongoing attempts in Europe, Canada is the latest country pushing for "lawful access" to data for law enforcement. This, despite cybersecurity experts warning that breaking encryption would threaten everyone's privacy and security.</description>
-    </item>
-    <item>
-      <title>YouTube&#160;: comment Google a r&#233;ussi &#224; transformer votre haine des pubs en mine d&#8217;or</title>
-      <link>https://www.01net.com/actualites/youtube-comment-google-reussi-transformer-votre-haine-des-pubs-en-mine-dor.html</link>
-      <pubDate>Fri, 01 May 2026 14:04:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1345074</guid>
-      <description>YouTube Premium semble gagner son bras de fer contre les bloqueurs de publicit&#233;s. Les derniers r&#233;sultats financiers de Google montrent une acc&#233;l&#233;ration sans pr&#233;c&#233;dent du nombre d'abonn&#233;s payants.</description>
+      <description>The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.</description>
     </item>
   </channel>
 </rss>
