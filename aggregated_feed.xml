@@ -3,7 +3,93 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 01 May 2026 20:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 21:56:38 GMT</lastBuildDate>
+    <item>
+      <title>Apple raises the Mac Mini&amp;#8217;s starting price</title>
+      <link>https://www.theverge.com/tech/922572/apple-mac-mini-256-model</link>
+      <pubDate>2026-05-01T17:52:09-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922572</guid>
+      <description>Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage will impact its Mac products in the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Apple&#8217;s Mac mini now has a higher starting price, as it discontinues the entry-level model and slides down to the mid-range</title>
+      <link>https://www.techradar.com/computing/apples-mac-mini-now-has-a-higher-starting-price-as-it-discontinues-the-entry-level-model-and-slides-down-to-the-mid-range</link>
+      <pubDate>Fri, 01 May 2026 21:51:51 +0000</pubDate>
+      <guid isPermaLink="false">wN8FUfYY6MSWN7S4DxBoZA</guid>
+      <description>Apple's entry-level $599 Mac mini with 256GB of storage and 16GB of RAM is no longer available.</description>
+    </item>
+    <item>
+      <title>OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users</title>
+      <link>https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/</link>
+      <pubDate>Fri, 01 May 2026 21:46:46 +0000</pubDate>
+      <guid isPermaLink="false">69f4e15482fe25a9adebbc5b</guid>
+      <description>ChatGPT&#8217;s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.</description>
+    </item>
+    <item>
+      <title>Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI</title>
+      <link>https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai</link>
+      <pubDate>Fri, 01 May 2026 21:14:29 GMT</pubDate>
+      <guid isPermaLink="false">6YeC4lDpQXfmvh6I7tQzAM</guid>
+      <description>Enterprise AI teams are hitting a wall &#8212; not because their models can't reason, but because the workflows underneath them were never built for agents. Tasks fail, handoffs break, and the problem compounds as organizations push agents deeper into back-office systems. A new architectural layer is emerging to address it: workflow execution control planes that impose deterministic structure on processes agents are expected to run.One of the companies bringing this to the forefront is Salesforce, with a new workflow platform that turns back-office workflows into a set of tasks for specialized agent...</description>
+    </item>
+    <item>
+      <title>I don't know if Vision Pro is alive or dead, but it is still the most sophisticated, powerful, and coolest hardware Apple ever built &#8212; and we can surely thank it for the glasses that will follow</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/i-dont-know-if-vision-pro-is-alive-or-dead-but-it-is-still-the-most-sophisticated-powerful-and-coolest-hardware-apple-ever-built-and-we-can-surely-thank-it-for-the-glasses-that-will-follow</link>
+      <pubDate>Fri, 01 May 2026 20:55:14 +0000</pubDate>
+      <guid isPermaLink="false">65duu7DBxSMsdEbrqKxjxK</guid>
+      <description>Apple Vision Pro's success may matter less than all the products Apple and John Ternus will build because of it.</description>
+    </item>
+    <item>
+      <title>AI performances and screenplays won't be eligible for Oscars</title>
+      <link>https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/</link>
+      <pubDate>Fri, 01 May 2026 20:52:05 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/</guid>
+      <description>Will that stop them from taking over?</description>
+    </item>
+    <item>
+      <title>200,000 MCP servers expose a command execution flaw that Anthropic calls a feature</title>
+      <link>https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit</link>
+      <pubDate>Fri, 01 May 2026 20:35:46 GMT</pubDate>
+      <guid isPermaLink="false">3E86laGp0iPhy36D7TdKo8</guid>
+      <description>Anthropic created the Model Context Protocol as the open standard for AI agent-to-tool communication. OpenAI adopted it in March 2025. Google DeepMind followed. Anthropic donated MCP to the Linux Foundation in December 2025. Downloads crossed 150 million. Then four researchers at OX Security found an architectural problem that affects all of them.MCP's STDIO transport, the default for connecting an AI agent to a local tool, executes any operating system command it receives. No sanitization. No execution boundary between configuration and command. A malicious command returns an error after the ...</description>
+    </item>
+    <item>
+      <title>Apple appears to have discontinued its cheapest Mac mini</title>
+      <link>https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/</link>
+      <pubDate>Fri, 01 May 2026 20:33:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/</guid>
+      <description>The compact desktop Mac now starts at $799 and comes with 512GB of storage.</description>
+    </item>
+    <item>
+      <title>Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers</title>
+      <link>https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/</link>
+      <pubDate>Fri, 01 May 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">69f4d629677223f812f76f91</guid>
+      <description>The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched&#8212;but many machines remain at risk.</description>
+    </item>
+    <item>
+      <title>A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat</title>
+      <link>https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/</link>
+      <pubDate>Fri, 01 May 2026 20:25:28 +0000</pubDate>
+      <guid isPermaLink="false">69efd07746809921753a0fa4</guid>
+      <description>Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.</description>
+    </item>
+    <item>
+      <title>Most&#160;products work,&#160;few work well</title>
+      <link>https://www.fastcompany.com/91535121/most-products-work-few-work-well</link>
+      <pubDate>2026-05-01T20:25:20</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91535121/most-products-work-few-work-well</guid>
+      <description>The difference shows up not in features, but in the small moments that define real use. 
+Some of the most familiar moments in a day begin with something simple like boiling water. The first cup before the day starts, a pause in the middle of it, a quiet reset at the end. These moments are easy to overlook because they are routine, but they are also where design&#160;shows up&#160;most clearly. Not&#160;just in&#160;how something looks,&#160;but in&#160;how it behaves when it is used&#160;again and again.&#160;...</description>
+    </item>
+    <item>
+      <title>A McDonald&#8217;s executive takes you inside the viral Grimace Shake trend and how the burger giant dealt with it</title>
+      <link>https://www.fastcompany.com/91535546/mcdonalds-marketing-executive-viral-grimace-shake-trend</link>
+      <pubDate>2026-05-01T20:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91535546/mcdonalds-marketing-executive-viral-grimace-shake-trend</guid>
+      <description>Where were you in 2023 when social media became a purple haze? For McDonald&#8217;s, the sensation was as big of a surprise as it was to everyone else.  
+For those who don&#8217;t remember what life on the internet looked like in 2023, here&#8217;s a refresher: girl dinner, the Roman Empire, and a TikTok algorithm painted purple from the McDonald&#8217;s Grimace Shake.</description>
+    </item>
     <item>
       <title>'Tens of millions of Graviton cores': AWS scores huge coup as Meta 'buys' hundreds of thousands of CPUs and infrastructure, confirming Jeff Bezos' hyperscaler as the essential backbone of the agentic AI Era in a major blow to AMD and Intel ambitions</title>
       <link>https://www.techradar.com/pro/tens-of-millions-of-graviton-cores-aws-scores-huge-coup-as-meta-buys-hundreds-of-thousands-of-cpus-and-infrastructure-confirming-jeff-bezos-hyperscaler-as-the-essential-backbone-of-the-agentic-ai-era-in-a-major-blow-to-amd-and-intel-ambitions</link>
@@ -12,104 +98,12 @@
       <description>Meta expands its AWS partnership by renting tens of millions of Graviton cores, signaling a shift toward infrastructure over direct hardware ownership.</description>
     </item>
     <item>
-      <title>Samsung&#8217;s Galaxy Book 6 Ultra is made for creative pros</title>
-      <link>https://mashable.com/video/samsung-galaxy-book-6-ultra-creative-pros</link>
-      <pubDate>Fri, 01 May 2026 19:32:56 +0000</pubDate>
-      <guid isPermaLink="false">03nntfv7jvLNNfZVkZU2JPK</guid>
-      <description>Samsung Galaxy Book 6 Ultra packs premium specs for creators. See if it can compete with the MacBook Pro.</description>
-    </item>
-    <item>
-      <title>Definitely not your usual EV: China begins sea trial for world's largest electric ship &#8212; Ning Yuan Dian Kun is longer than a football field, weighs 10,000 tons, and uses 10 container batteries with a total 19MWh capacity</title>
-      <link>https://www.techradar.com/pro/definitely-not-your-usual-ev-china-begins-sea-trial-for-worlds-largest-electric-ship-ning-yuan-dian-kun-is-longer-than-a-football-field-weighs-10-000-tons-and-uses-10-container-batteries-with-a-total-19mwh-capacity</link>
-      <pubDate>Fri, 01 May 2026 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">Q8rPR7yWgBYfC5vDnUnUtn</guid>
-      <description>A Chinese electric cargo ship with 19 megawatt hours of batteries is completing trials, combining large-scale energy storage and automation.</description>
-    </item>
-    <item>
-      <title>All the evidence revealed so far in Musk v. Altman</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial</link>
-      <pubDate>2026-05-01T15:14:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=920775</guid>
-      <description>The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]</description>
-    </item>
-    <item>
-      <title>This Eye-Catching Indoor Garden Is 20 Percent Off Right Now</title>
-      <link>https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/</link>
-      <pubDate>Fri, 01 May 2026 19:05:53 +0000</pubDate>
-      <guid isPermaLink="false">69efd7cb1a731936fe0e94bf</guid>
-      <description>Lettuce Grow's Farmstand is sure to impress, and it's 20 percent off for Mother's Day.</description>
-    </item>
-    <item>
-      <title>Spirited away? Airline, internet react to airlines possible closure</title>
-      <link>https://mashable.com/article/spirit-airlines-closure-internet</link>
-      <pubDate>Fri, 01 May 2026 19:05:13 +0000</pubDate>
-      <guid isPermaLink="false">02C8NRkQAtM3DXFOT6b5XF9</guid>
-      <description>A major airline is on the precipice as Spirit Airlines stares down bankruptcy.</description>
-    </item>
-    <item>
-      <title>Friendster has returned! But you can only connect with offline friends.</title>
-      <link>https://mashable.com/article/new-friendster-relaunched-real-life-connection-social-network</link>
-      <pubDate>Fri, 01 May 2026 19:01:54 +0000</pubDate>
-      <guid isPermaLink="false">06UzHio3nPGsiqSZFXwopRE</guid>
-      <description>Friendster has been relaunched roughly 24 years after it first debuted as one of the first social networking websites.</description>
-    </item>
-    <item>
-      <title>The Next Alzheimer&#8217;s Breakthrough Will Take More Than Just Science</title>
-      <link>https://www.wired.com/story/john-hardy-dementia-wired-health/</link>
-      <pubDate>Fri, 01 May 2026 18:55:56 +0000</pubDate>
-      <guid isPermaLink="false">69eba5db08042dab5165a458</guid>
-      <description>At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined the stakes&#8212;and next steps&#8212;of where treatment is headed next.</description>
-    </item>
-    <item>
-      <title>There's already a way to mount your smartphone to a Steam Controller</title>
-      <link>https://www.engadget.com/2162203/theres-already-a-way-to-mount-your-smartphone-to-a-steam-controller/</link>
-      <pubDate>Fri, 01 May 2026 18:46:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2162203/theres-already-a-way-to-mount-your-smartphone-to-a-steam-controller/</guid>
-      <description>Just don't expect it to work with many iOS or Android apps yet.</description>
-    </item>
-    <item>
-      <title>AI will be Spider-Man&#8217;s only friend in &#8216;Brand New Day.&#8217; The internet is losing its mind over it</title>
-      <link>https://www.fastcompany.com/91535483/spider-man-spiderman-brand-new-day-peter-parker-only-friend-is-ai-marvel</link>
-      <pubDate>2026-05-01T18:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91535483/spider-man-spiderman-brand-new-day-peter-parker-only-friend-is-ai-marvel</guid>
-      <description>The film&#8217;s director said Peter Parker&#8217;s new AI assistant E.V. will be all the superhero has for company&#8212;and social media isn&#8217;t happy to hear it.
-Since the massive success of Spider-Man: No Way Home in 2021, fans have been eagerly awaiting the next Peter Parker-centered film in the Marvel Cinematic Universe. Five years later, the fourth MCU Spider-Man film, subtitled Brand New Day, is finally coming to theaters&#8212;but a reveal in the screenplay&#8217;s first page has some fans abandoning the hype train.&#160;...</description>
-    </item>
-    <item>
-      <title>Birdfy&#8217;s smart bird feeder is down to its best-ever price for Mother&#8217;s Day</title>
-      <link>https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale</link>
-      <pubDate>2026-05-01T14:42:24-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=922165</guid>
-      <description>From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother&#8217;s Day, May 10th. Birdfy smart feeders are another discounted option to consider, particularly the new Birdfy Feeder Metal 2 (4K), which is on sale for $259.99 ($50 off). If you&#8217;re looking to spend less, you [&#8230;]</description>
-    </item>
-    <item>
-      <title>Coatue has a plan to buy up land for data centers, possibly for Anthropic</title>
-      <link>https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/</link>
-      <pubDate>Fri, 01 May 2026 18:23:04 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3118467</guid>
-      <description>Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.</description>
-    </item>
-    <item>
-      <title>'An accomplished smart speaker that ticks a lot of the right boxes' &#8212; the Echo Show 11 falls to a record-low price at Amazon</title>
-      <link>https://www.techradar.com/home/smart-home/an-accomplished-smart-speaker-that-ticks-a-lot-of-the-right-boxes-the-echo-show-11-falls-to-a-record-low-price-at-amazon</link>
-      <pubDate>Fri, 01 May 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">F89EPHq7xsdgrmb5jcArLm</guid>
-      <description>The Echo Show 11 is the largest smart home display from Amazon and it's dropped to a record-low price right now.</description>
-    </item>
-    <item>
-      <title>Spirit&#8217;s collapse could hit overnight and your next trip is on the line</title>
-      <link>https://www.fastcompany.com/91535669/spirits-collapse-could-hit-overnight-and-your-next-trip-is-on-the-line</link>
-      <pubDate>2026-05-01T18:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91535669/spirits-collapse-could-hit-overnight-and-your-next-trip-is-on-the-line</guid>
-      <description>Travelers could face cancellations, rebooking chaos, and higher last-minute fares
-Spirit Airlines looks like it&#8217;s getting spirited away.</description>
-    </item>
-    <item>
-      <title>Ariane 6 marque un retour historique : l&#8217;Europe peut-elle rattraper SpaceX ?</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/acces-espace-ariane-6-marque-retour-historique-europe-peut-elle-rattraper-spacex-133946/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 01 May 2026 20:07:25 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/acces-espace-ariane-6-marque-retour-historique-europe-peut-elle-rattraper-spacex-133946/#xtor%3DRSS-8</guid>
-      <description>Apr&#232;s une crise historique qui l'a priv&#233;e de tout acc&#232;s ind&#233;pendant &#224; l'espace, l'Europe engage une transformation profonde de son mod&#232;le spatial. Entre la mont&#233;e en puissance op&#233;rationnelle d'Ariane 6 et l'&#233;mergence d'une nouvelle g&#233;n&#233;ration de lanceurs priv&#233;s, l'Agence spatiale...</description>
+      <title>Mark Zuckerberg says AI spending and war drove Meta layoffs</title>
+      <link>https://www.fastcompany.com/91535652/mark-zuckerberg-says-ai-spending-and-war-drove-meta-layoffs</link>
+      <pubDate>2026-05-01T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91535652/mark-zuckerberg-says-ai-spending-and-war-drove-meta-layoffs</guid>
+      <description>In an internal meeting with employees, the CEO said May layoffs were due to slower sales during the U.S. war in Iran and increased spending on AI infrastructure.
+In a few weeks, Meta will lay off 10% of its workforce&#8212;around 8,000 employees out of the company&#8217;s workforce of 78,000. In a recent Q&amp;A with employees, CEO Mark Zuckerberg (not the AI clone version) shed some light on the reasons behind the downsizing.&#160;...</description>
     </item>
   </channel>
 </rss>
