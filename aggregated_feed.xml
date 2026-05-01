@@ -3,7 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 01 May 2026 21:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 22:56:40 GMT</lastBuildDate>
+    <item>
+      <title>Musely secures $360M from General Catalyst without giving up equity</title>
+      <link>https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/</link>
+      <pubDate>Fri, 01 May 2026 22:39:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3118531</guid>
+      <description>The DTC skin, hair, and and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.</description>
+    </item>
+    <item>
+      <title>Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars</title>
+      <link>https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/</link>
+      <pubDate>Fri, 01 May 2026 22:25:42 +0000</pubDate>
+      <guid isPermaLink="false">69f4cea5670176ac727e7044</guid>
+      <description>As adult riders report new age-verification checks, the self-driving car company says it&#8217;s continuing to &#8220;refine&#8221; its system in places where kids aren&#8217;t allowed to ride alone.</description>
+    </item>
+    <item>
+      <title>Meta buys robotics startup to bolster its humanoid AI ambitions</title>
+      <link>https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</link>
+      <pubDate>Fri, 01 May 2026 22:13:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3118513</guid>
+      <description>Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.</description>
+    </item>
+    <item>
+      <title>'Beyond the financial risk, there are real public safety implications': Hackers crawled Canadian streets with SMS blasters, attacking every target in sight &#8212; causing 13 million network disruptions and hacking thousands of devices</title>
+      <link>https://www.techradar.com/pro/security/beyond-the-financial-risk-there-are-real-public-safety-implications-hackers-crawled-canadian-streets-with-sms-blasters-attacking-every-target-in-sight-causing-13-million-network-disruptions-and-hacking-thousands-of-devices</link>
+      <pubDate>Fri, 01 May 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">mL3zTuDnG8pFUuRgrHm5UC</guid>
+      <description>Hackers used vehicle-mounted SMS blasters to impersonate networks, disrupt millions of connections, and infiltrate thousands of devices across Toronto streets.</description>
+    </item>
+    <item>
+      <title>Microsoft tests redesigned Windows 11 Run menu with dark mode and more</title>
+      <link>https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test</link>
+      <pubDate>2026-05-01T18:01:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=922531</guid>
+      <description>Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Experimental Channel. In a blog post explaining the changes, Microsoft says it decided [&#8230;]</description>
+    </item>
     <item>
       <title>Apple raises the Mac Mini&amp;#8217;s starting price</title>
       <link>https://www.theverge.com/tech/922572/apple-mac-mini-256-model</link>
@@ -26,84 +61,12 @@
       <description>ChatGPT&#8217;s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.</description>
     </item>
     <item>
-      <title>Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI</title>
-      <link>https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai</link>
-      <pubDate>Fri, 01 May 2026 21:14:29 GMT</pubDate>
-      <guid isPermaLink="false">6YeC4lDpQXfmvh6I7tQzAM</guid>
-      <description>Enterprise AI teams are hitting a wall &#8212; not because their models can't reason, but because the workflows underneath them were never built for agents. Tasks fail, handoffs break, and the problem compounds as organizations push agents deeper into back-office systems. A new architectural layer is emerging to address it: workflow execution control planes that impose deterministic structure on processes agents are expected to run.One of the companies bringing this to the forefront is Salesforce, with a new workflow platform that turns back-office workflows into a set of tasks for specialized agent...</description>
-    </item>
-    <item>
-      <title>I don't know if Vision Pro is alive or dead, but it is still the most sophisticated, powerful, and coolest hardware Apple ever built &#8212; and we can surely thank it for the glasses that will follow</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/i-dont-know-if-vision-pro-is-alive-or-dead-but-it-is-still-the-most-sophisticated-powerful-and-coolest-hardware-apple-ever-built-and-we-can-surely-thank-it-for-the-glasses-that-will-follow</link>
-      <pubDate>Fri, 01 May 2026 20:55:14 +0000</pubDate>
-      <guid isPermaLink="false">65duu7DBxSMsdEbrqKxjxK</guid>
-      <description>Apple Vision Pro's success may matter less than all the products Apple and John Ternus will build because of it.</description>
-    </item>
-    <item>
-      <title>AI performances and screenplays won't be eligible for Oscars</title>
-      <link>https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/</link>
-      <pubDate>Fri, 01 May 2026 20:52:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/</guid>
-      <description>Will that stop them from taking over?</description>
-    </item>
-    <item>
-      <title>200,000 MCP servers expose a command execution flaw that Anthropic calls a feature</title>
-      <link>https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit</link>
-      <pubDate>Fri, 01 May 2026 20:35:46 GMT</pubDate>
-      <guid isPermaLink="false">3E86laGp0iPhy36D7TdKo8</guid>
-      <description>Anthropic created the Model Context Protocol as the open standard for AI agent-to-tool communication. OpenAI adopted it in March 2025. Google DeepMind followed. Anthropic donated MCP to the Linux Foundation in December 2025. Downloads crossed 150 million. Then four researchers at OX Security found an architectural problem that affects all of them.MCP's STDIO transport, the default for connecting an AI agent to a local tool, executes any operating system command it receives. No sanitization. No execution boundary between configuration and command. A malicious command returns an error after the ...</description>
-    </item>
-    <item>
-      <title>Apple appears to have discontinued its cheapest Mac mini</title>
-      <link>https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/</link>
-      <pubDate>Fri, 01 May 2026 20:33:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/</guid>
-      <description>The compact desktop Mac now starts at $799 and comes with 512GB of storage.</description>
-    </item>
-    <item>
-      <title>Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers</title>
-      <link>https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/</link>
-      <pubDate>Fri, 01 May 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">69f4d629677223f812f76f91</guid>
-      <description>The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched&#8212;but many machines remain at risk.</description>
-    </item>
-    <item>
-      <title>A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat</title>
-      <link>https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/</link>
-      <pubDate>Fri, 01 May 2026 20:25:28 +0000</pubDate>
-      <guid isPermaLink="false">69efd07746809921753a0fa4</guid>
-      <description>Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.</description>
-    </item>
-    <item>
-      <title>Most&#160;products work,&#160;few work well</title>
-      <link>https://www.fastcompany.com/91535121/most-products-work-few-work-well</link>
-      <pubDate>2026-05-01T20:25:20</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91535121/most-products-work-few-work-well</guid>
-      <description>The difference shows up not in features, but in the small moments that define real use. 
-Some of the most familiar moments in a day begin with something simple like boiling water. The first cup before the day starts, a pause in the middle of it, a quiet reset at the end. These moments are easy to overlook because they are routine, but they are also where design&#160;shows up&#160;most clearly. Not&#160;just in&#160;how something looks,&#160;but in&#160;how it behaves when it is used&#160;again and again.&#160;...</description>
-    </item>
-    <item>
-      <title>A McDonald&#8217;s executive takes you inside the viral Grimace Shake trend and how the burger giant dealt with it</title>
-      <link>https://www.fastcompany.com/91535546/mcdonalds-marketing-executive-viral-grimace-shake-trend</link>
-      <pubDate>2026-05-01T20:20:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91535546/mcdonalds-marketing-executive-viral-grimace-shake-trend</guid>
-      <description>Where were you in 2023 when social media became a purple haze? For McDonald&#8217;s, the sensation was as big of a surprise as it was to everyone else.  
-For those who don&#8217;t remember what life on the internet looked like in 2023, here&#8217;s a refresher: girl dinner, the Roman Empire, and a TikTok algorithm painted purple from the McDonald&#8217;s Grimace Shake.</description>
-    </item>
-    <item>
-      <title>'Tens of millions of Graviton cores': AWS scores huge coup as Meta 'buys' hundreds of thousands of CPUs and infrastructure, confirming Jeff Bezos' hyperscaler as the essential backbone of the agentic AI Era in a major blow to AMD and Intel ambitions</title>
-      <link>https://www.techradar.com/pro/tens-of-millions-of-graviton-cores-aws-scores-huge-coup-as-meta-buys-hundreds-of-thousands-of-cpus-and-infrastructure-confirming-jeff-bezos-hyperscaler-as-the-essential-backbone-of-the-agentic-ai-era-in-a-major-blow-to-amd-and-intel-ambitions</link>
-      <pubDate>Fri, 01 May 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">avbxUJPyHGZxnX5CYrikWV</guid>
-      <description>Meta expands its AWS partnership by renting tens of millions of Graviton cores, signaling a shift toward infrastructure over direct hardware ownership.</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg says AI spending and war drove Meta layoffs</title>
-      <link>https://www.fastcompany.com/91535652/mark-zuckerberg-says-ai-spending-and-war-drove-meta-layoffs</link>
-      <pubDate>2026-05-01T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91535652/mark-zuckerberg-says-ai-spending-and-war-drove-meta-layoffs</guid>
-      <description>In an internal meeting with employees, the CEO said May layoffs were due to slower sales during the U.S. war in Iran and increased spending on AI infrastructure.
-In a few weeks, Meta will lay off 10% of its workforce&#8212;around 8,000 employees out of the company&#8217;s workforce of 78,000. In a recent Q&amp;A with employees, CEO Mark Zuckerberg (not the AI clone version) shed some light on the reasons behind the downsizing.&#160;...</description>
+      <title>The Kentucky Derby is Saturday. Here&#8217;s how to watch</title>
+      <link>https://www.fastcompany.com/91535585/the-kentucky-derby-is-saturday-heres-how-to-watch</link>
+      <pubDate>2026-05-01T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91535585/the-kentucky-derby-is-saturday-heres-how-to-watch</guid>
+      <description>The race window is shorter than you think. Here&#8217;s when coverage begins and how to catch it live on May 2.
+The Kentucky Derby is back this weekend with visitors and viewers alike preparing their extravagant hats and mint juleps for the annual Run for the Roses.</description>
     </item>
   </channel>
 </rss>
