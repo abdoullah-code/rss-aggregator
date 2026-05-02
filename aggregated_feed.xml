@@ -3,27 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 02 May 2026 22:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:51:17 GMT</lastBuildDate>
+    <item>
+      <title>Quordle hints and answers for Sunday, May 3 (game #1560)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-3-may-2026</link>
+      <pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jgUnLMx5Ek9BoiqGHtHFCP</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Sunday, May 3 (game #791)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-3-may-2026</link>
+      <pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">M5ryX4wm8esi2FDJUearYH</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Sunday, May 3 (game #1057)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-3-may-2026</link>
+      <pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">XXxCHj9m7tqFSQj24uuXKF</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
     <item>
       <title>AI-generated actors and scripts are now ineligible for Oscars</title>
       <link>https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/</link>
       <pubDate>Sat, 02 May 2026 21:54:58 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3118619</guid>
       <description>Bad news for Tilly Norwood.</description>
-    </item>
-    <item>
-      <title>'We&#8217;re not selling and we&#8217;re not giving way': Lone farmer defeats Tennessee's TVA as US electricity giant grapples with exploding demand from AI-fuelled data centers from Google and Elon Musk's xAI, encouraged by slow legislature</title>
-      <link>https://www.techradar.com/pro/were-not-selling-and-were-not-giving-way-lone-farmer-defeats-tennessees-tva-as-us-electricity-giant-grapples-with-exploding-demand-from-ai-fuelled-data-centers-from-google-and-elon-musks-xai-encouraged-by-slow-legislature</link>
-      <pubDate>Sat, 02 May 2026 21:35:00 +0000</pubDate>
-      <guid isPermaLink="false">rkpVTLuSdzUgbQkWTjLH8V</guid>
-      <description>A Revolutionary War era farm in Tennessee blocked TVA's power line using social media, petitions, and help from country star John Rich.</description>
-    </item>
-    <item>
-      <title>Farewell, Jeeves: Ask.com shuts down</title>
-      <link>https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/</link>
-      <pubDate>Sat, 02 May 2026 21:11:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3118614</guid>
-      <description>Owner IAC says it's discontinuing its search business.</description>
     </item>
   </channel>
 </rss>
