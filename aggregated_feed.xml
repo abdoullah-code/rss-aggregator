@@ -3,27 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 02 May 2026 20:49:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:49:06 GMT</lastBuildDate>
     <item>
-      <title>OpenAI introduces AI-generated pets for its Codex app</title>
-      <link>https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/</link>
-      <pubDate>Sat, 02 May 2026 19:31:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/</guid>
-      <description>It's like Microsoft's Clippy, but useful.</description>
+      <title>'We&#8217;re not selling and we&#8217;re not giving way': Lone farmer defeats Tennessee's TVA as US electricity giant grapples with exploding demand from AI-fuelled data centers from Google and Elon Musk's xAI, encouraged by slow legislature</title>
+      <link>https://www.techradar.com/pro/were-not-selling-and-were-not-giving-way-lone-farmer-defeats-tennessees-tva-as-us-electricity-giant-grapples-with-exploding-demand-from-ai-fuelled-data-centers-from-google-and-elon-musks-xai-encouraged-by-slow-legislature</link>
+      <pubDate>Sat, 02 May 2026 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">rkpVTLuSdzUgbQkWTjLH8V</guid>
+      <description>A Revolutionary War era farm in Tennessee blocked TVA's power line using social media, petitions, and help from country star John Rich.</description>
     </item>
     <item>
-      <title>'It took 9 seconds': tech founder outlines how rogue Claude-powered AI tool wiped entire company database and backups</title>
-      <link>https://www.techradar.com/pro/it-took-9-seconds-tech-founder-outlines-how-rogue-claude-powered-ai-tool-wiped-entire-company-database-and-backups-but-says-theres-no-such-thing-as-bad-publicity</link>
-      <pubDate>Sat, 02 May 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">VTwMHwY7yejJdaMfDrdcS4</guid>
-      <description>Cursor AI agent deleted a production database and backups in nine seconds, exposing serious flaws in API design and backup isolation</description>
-    </item>
-    <item>
-      <title>How to watch Kentucky Derby 2026: live stream horse racing online from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/kentucky-derby-2026-live-stream-horse-racing</link>
-      <pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">wd8u2KiGajEyNgkWSgKUbi</guid>
-      <description>Here's how you can watch Kentucky Derby 2026 live streams online and from anywhere, with Renegade the favorite for one of the world's great horse races.</description>
+      <title>Farewell, Jeeves: Ask.com shuts down</title>
+      <link>https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/</link>
+      <pubDate>Sat, 02 May 2026 21:11:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3118614</guid>
+      <description>Owner IAC says it's discontinuing its search business.</description>
     </item>
   </channel>
 </rss>
