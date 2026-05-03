@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 03 May 2026 21:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:50:28 GMT</lastBuildDate>
+    <item>
+      <title>The biggest surprise of my recent San Francisco trip? Hearing how much Steve Wozniak loves his iPhone Air</title>
+      <link>https://www.techradar.com/tech/the-biggest-surprise-of-my-recent-san-francisco-trip-hearing-how-much-steve-wozniak-loves-his-iphone-air</link>
+      <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">mwPzjdEP8BYrqPbLteBMyE</guid>
+      <description>'I don&#8217;t believe we&#8217;ll hit AGI' &#8212; Steve Wozniak has some major AI skepticism, and a love of the slimmest iPhone.</description>
+    </item>
     <item>
       <title>MacBook Pro M4 vs Mac Pro M2: which Mac is best for you?</title>
       <link>https://www.techradar.com/computing/macs/macbook-pro-m4-vs-mac-pro-m2-which-mac-is-best-for-you</link>
@@ -28,20 +35,6 @@ Le MacBook Neo co&#251;te 500 &#8364; de moins que le MacBook Air M5. Sur le pap
       <description>
 Zendure officialise son PowerHub &#224; Lille ce 30 avril, en duo avec le distributeur Enescol. Pour la premi&#232;re fois, le constructeur connu pour ses batteries plug-in propose un coffret qui regroupe stockage, secteur, recharge VE et bascule automatique en cas de coupure. C'est un changement de cat&#233;gorie.
 </description>
-    </item>
-    <item>
-      <title>'Unprecedented drought conditions': More than 500 data centers across Nevada, California, and Arizona could feel the pinch as the iconic Hoover Dam potentially loses 40% of its power output because of poor rainfall and abnormally low snowpack numbers</title>
-      <link>https://www.techradar.com/pro/unprecedented-drought-conditions-more-than-500-data-centers-across-nevada-california-and-arizona-could-feel-the-pinch-as-the-iconic-hoover-dam-could-lose-40-of-its-power-output-because-of-poor-rainfall-and-abnormally-low-snowpack-numbers</link>
-      <pubDate>Sun, 03 May 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">tSMZyhmHKf5emVm8oup4G4</guid>
-      <description>Drought driven water cuts are set to reduce Hoover Dam output significantly, forcing utilities to find replacement power amid raising regional costs.</description>
-    </item>
-    <item>
-      <title>&#8216;This is fine&#8217; creator says AI startup stole his art</title>
-      <link>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</link>
-      <pubDate>Sun, 03 May 2026 20:16:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3118660</guid>
-      <description>The ad comes from Artisan, the AI startup behind billboards urging businesses to "stop hiring humans."</description>
     </item>
   </channel>
 </rss>
