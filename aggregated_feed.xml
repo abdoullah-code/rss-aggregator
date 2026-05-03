@@ -3,38 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 03 May 2026 22:50:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 23:53:08 GMT</lastBuildDate>
+    <item>
+      <title>Quordle hints and answers for Monday, May 4 (game #1561)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-may-2026</link>
+      <pubDate>Sun, 03 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jrYumyAzQ9FJs2keqdrnbK</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Monday, May 4 (game #1058)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-may-2026</link>
+      <pubDate>Sun, 03 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7EnyVwNW7dFw9VLqX5bTnm</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Monday, May 4 (game #792)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-4-may-2026</link>
+      <pubDate>Sun, 03 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hH8mKvYWg5t5tk37nWHoyA</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>The biggest surprise of my recent San Francisco trip? Hearing how much Steve Wozniak loves his iPhone Air</title>
       <link>https://www.techradar.com/tech/the-biggest-surprise-of-my-recent-san-francisco-trip-hearing-how-much-steve-wozniak-loves-his-iphone-air</link>
       <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">mwPzjdEP8BYrqPbLteBMyE</guid>
       <description>'I don&#8217;t believe we&#8217;ll hit AGI' &#8212; Steve Wozniak has some major AI skepticism, and a love of the slimmest iPhone.</description>
-    </item>
-    <item>
-      <title>MacBook Pro M4 vs Mac Pro M2: which Mac is best for you?</title>
-      <link>https://www.techradar.com/computing/macs/macbook-pro-m4-vs-mac-pro-m2-which-mac-is-best-for-you</link>
-      <pubDate>Sun, 03 May 2026 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">4FnLVZgaX7cQYzaJ3S95Vo</guid>
-      <description>Apple calls a lot of its products "Pro." How do the MacBook Pro and Mac Pro compare? It's complicated.</description>
-    </item>
-    <item>
-      <title>MacBook Neo vs MacBook Air&#160;: 500 &#8364; d&#8217;&#233;cart, mais combien de compromis&#160;?</title>
-      <link>https://www.frandroid.com/os/macos/3086095_macbook-neo-vs-macbook-air-500-e-decart-mais-combien-de-compromis</link>
-      <pubDate>Sun, 03 May 2026 20:52:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/os/macos/3086095_macbook-neo-vs-macbook-air-500-e-decart-mais-combien-de-compromis</guid>
-      <description>
-Le MacBook Neo co&#251;te 500 &#8364; de moins que le MacBook Air M5. Sur le papier, c'est tentant. Sur le terrain, l'addition se paie ailleurs, et nos confr&#232;res de Frandroid ont pass&#233; une semaine &#224; la documenter.
-</description>
-    </item>
-    <item>
-      <title>Zendure PowerHub : un seul coffret pour piloter solaire, batterie et borne VE jusqu&#8217;&#224; 22 kW, on l&#8217;a vu &#224; Lille</title>
-      <link>https://www.frandroid.com/marques/zendure/3085691_zendure-powerhub-un-seul-coffret-pour-piloter-solaire-batterie-et-borne-ve-jusqua-22-kw-on-la-vu-a-lille</link>
-      <pubDate>Sun, 03 May 2026 20:52:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/zendure/3085691_zendure-powerhub-un-seul-coffret-pour-piloter-solaire-batterie-et-borne-ve-jusqua-22-kw-on-la-vu-a-lille</guid>
-      <description>
-Zendure officialise son PowerHub &#224; Lille ce 30 avril, en duo avec le distributeur Enescol. Pour la premi&#232;re fois, le constructeur connu pour ses batteries plug-in propose un coffret qui regroupe stockage, secteur, recharge VE et bascule automatique en cas de coupure. C'est un changement de cat&#233;gorie.
-</description>
     </item>
   </channel>
 </rss>
