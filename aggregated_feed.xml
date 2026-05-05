@@ -3,83 +3,125 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 05 May 2026 22:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 23:52:28 GMT</lastBuildDate>
     <item>
-      <title>Apple will pay $250 million for failing to deliver its AI-powered Siri on time</title>
-      <link>https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/</link>
-      <pubDate>Tue, 05 May 2026 21:51:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/</guid>
-      <description>The proposed settlement is the result of a class action lawsuit filed in California.</description>
+      <title>SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw</title>
+      <link>https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/</link>
+      <pubDate>Tue, 05 May 2026 23:50:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119050</guid>
+      <description>SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.</description>
     </item>
     <item>
-      <title>Google Home&amp;#8217;s Gemini AI can handle more complicated requests</title>
-      <link>https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade</link>
-      <pubDate>2026-05-05T17:46:04-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=924755</guid>
-      <description>Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better [&#8230;]</description>
+      <title>Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.</title>
+      <link>https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof</link>
+      <pubDate>Tue, 05 May 2026 23:30:14 GMT</pubDate>
+      <guid isPermaLink="false">2oYIfnPBqMiOwIAIWX26mL</guid>
+      <description>A little-known Miami-based startup called Subquadratic emerged from stealth on Tuesday with a sweeping claim: that it has built the first large language model to fully escape the mathematical constraint that has defined &#8212; and limited &#8212; every major AI system since 2017.The company claims its first model, SubQ 1M-Preview, is the first LLM built on a fully subquadratic architecture &#8212; one where compute grows linearly with context length. If that claim holds, it would be a genuine inflection point in how AI systems scale. At 12 million tokens, the company says, its architecture reduces attention co...</description>
     </item>
     <item>
-      <title>Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access</title>
-      <link>https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/</link>
-      <pubDate>Tue, 05 May 2026 21:40:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/</guid>
-      <description>This five-year deal is one of many circular agreements keeping the AI sector afloat.</description>
+      <title>GPT-5.5 Instant shows you what it remembered &#8212; just not all of it</title>
+      <link>https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it</link>
+      <pubDate>Tue, 05 May 2026 23:26:21 GMT</pubDate>
+      <guid isPermaLink="false">7Gr2hJsUtP5TPrY4TQJw2C</guid>
+      <description>OpenAI updated the default model for ChatGPT to its new GPT-5.5 Instant, along with a new memory capability that finally shows which context shaped responses &#8212; at least some of them.&#160;This limitation signals that models are starting to create a second, incomplete memory observability layer that could conflict with existing audit systems and agent logs.&#160;GPT-5.5 Instant replaces GPT-5.3 Instant as the default ChatGPT model and is a version of its new flagship GPT-5.5 LLM. It&#8217;s supposed to be more dependable, accurate and smarter than 5.3.&#160;But it&#8217;s the introduction of memory sources, which will be...</description>
     </item>
     <item>
-      <title>Apple agrees to pay iPhone owners $250 million for not delivering AI Siri</title>
-      <link>https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement</link>
-      <pubDate>2026-05-05T17:18:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=924706</guid>
-      <description>Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and [&#8230;]</description>
+      <title>&#8216;I Actually Thought He Was Going to Hit Me,&#8217; OpenAI&#8217;s Greg Brockman Says of Elon Musk</title>
+      <link>https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/</link>
+      <pubDate>Tue, 05 May 2026 23:24:58 +0000</pubDate>
+      <guid isPermaLink="false">69fa6849473a4d48b2c5400d</guid>
+      <description>OpenAI&#8217;s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk and subsequent efforts to remove several board members.</description>
     </item>
     <item>
-      <title>As crypto cools, a16z crypto raises a $2.2B fund</title>
-      <link>https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/</link>
-      <pubDate>Tue, 05 May 2026 21:15:56 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119249</guid>
-      <description>As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.</description>
+      <title>Bumble&#8217;s paying users are slipping as it bets on an overhaul later this year</title>
+      <link>https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/</link>
+      <pubDate>Tue, 05 May 2026 23:05:50 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119474</guid>
+      <description>The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.</description>
     </item>
     <item>
-      <title>Xbox is ditching Microsoft's Copilot AI</title>
-      <link>https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/</link>
-      <pubDate>Tue, 05 May 2026 21:11:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/</guid>
-      <description>The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app.</description>
+      <title>NYT Strands hints and answers for Wednesday, May 6 (game #794)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-6-may-2026</link>
+      <pubDate>Tue, 05 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gHt3spuFk6ZUZT3Pf3z9wB</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
-      <title>Telehealth Abortion Is Still Possible Without Mifepristone</title>
-      <link>https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/</link>
-      <pubDate>Tue, 05 May 2026 21:05:40 +0000</pubDate>
-      <guid isPermaLink="false">69f8d3540f112c70100e96dd</guid>
-      <description>Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.</description>
+      <title>NYT Connections hints and answers for Wednesday, May 6 (game #1060)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-6-may-2026</link>
+      <pubDate>Tue, 05 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fP7HJC5dvHG3nAd7kygQT9</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>Apple plans to make iOS 27 a Choose Your Own Adventure of AI models</title>
-      <link>https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/</link>
-      <pubDate>Tue, 05 May 2026 20:56:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119357</guid>
-      <description>With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.</description>
+      <title>Quordle hints and answers for Wednesday, May 6 (game #1563)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-6-may-2026</link>
+      <pubDate>Tue, 05 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">WAvHdRW6kQyW2oanWYm3oG</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
     <item>
-      <title>'Cheap air-to-air missile': Ukraine has turned a vintage 55-year-old Russian-designed Antonov An-28 twin-propeller aircraft into a versatile A-10 Warthog-type platform complete with Gatling-class gun, VR headsets to intercept Russian Shahed drones</title>
-      <link>https://www.techradar.com/pro/cheap-air-to-air-missile-ukraine-has-turned-a-vintage-55-year-old-russian-designed-antonov-an-28-twin-propeller-aircraft-into-a-versatile-a-10-warthog-type-platform-complete-with-gatling-class-gun-vr-headsets-to-intercept-russian-shahed-drones</link>
-      <pubDate>Tue, 05 May 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">hziHDSmrLB2SsjKoeECTQh</guid>
-      <description>Ukraine repurposes Antonov An-28 into an anti-drone platform using miniguns and interceptor drones, balancing cost efficiency with operational limitations.</description>
+      <title>Google Gemini is coming to more cars, but some consumers aren&#8217;t cheering</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/google-gemini-is-coming-to-more-cars-but-some-consumers-arent-cheering</link>
+      <pubDate>Tue, 05 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a6pet7DBxMYPQrt7RXwbRb</guid>
+      <description>Google Gemini is rolling out to millions of cars, but some owners are concerned about data privacy.</description>
     </item>
     <item>
-      <title>'AI creates jobs': Nvidia CEO Jensen Huang once again says workers have nothing to fear</title>
-      <link>https://www.techradar.com/pro/ai-creates-jobs-nvidia-ceo-jensen-huang-once-again-says-workers-have-nothing-to-fear</link>
-      <pubDate>Tue, 05 May 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">X7pANQLQw7b3xhwnXGZtUm</guid>
-      <description>Nvidia CEO Jensen Huang says AI is the "United States&#8217; best opportunity to re-industrialize".</description>
+      <title>Altara secures $7M to bridge the data gap that&#8217;s slowing down physical sciences</title>
+      <link>https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/</link>
+      <pubDate>Tue, 05 May 2026 22:57:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119445</guid>
+      <description>Altara&#8217;s AI aims to diagnose failures and help speed up R&amp;D by unifying  data siloed across spreadsheets and legacy systems.</description>
     </item>
     <item>
-      <title>ASML CEO Christophe Fouquet on his company&#8217;s monopoly: no one is coming for us</title>
-      <link>https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/</link>
-      <pubDate>Tue, 05 May 2026 20:06:40 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119346</guid>
-      <description>Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed &#8212; even when the conversation turned to the rivals....</description>
+      <title>Promesses d&#8217;IA pour iPhone non tenues | Apple accepte de payer 250&#160;millions de dollars US</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-05-05/promesses-d-ia-pour-iphone-non-tenues/apple-accepte-de-payer-250-millions-de-dollars-us.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Tue, 05 May 2026 18:36:31 -0400</pubDate>
+      <guid isPermaLink="false">37ff334b3aeb3b6691acc46e589e9781</guid>
+      <description>Apple a accept&#233; de verser 250&#160;millions de dollars US pour r&#233;gler un recours collectif l&#8217;accusant d&#8217;avoir tromp&#233; des millions d&#8217;acheteurs d&#8217;iPhone en vantant fin&#160;2024 des capacit&#233;s d&#8217;intelligence artificielle de son assistant vocal Siri qui n&#8217;existaient pas, selon l&#8217;accord soumis mardi &#224; l&#8217;approbation de la justice.</description>
+    </item>
+    <item>
+      <title>Lucid Motors doesn&#8217;t know how many EVs it will build this year</title>
+      <link>https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/</link>
+      <pubDate>Tue, 05 May 2026 22:31:57 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119464</guid>
+      <description>Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.</description>
+    </item>
+    <item>
+      <title>3D-printed Y-zipper turns from flexible to hard in less time than it takes to zip your fly</title>
+      <link>https://www.techradar.com/tech/3d-printed-y-zipper-turns-from-flexible-to-hard-in-less-time-than-it-takes-to-zip-your-fly</link>
+      <pubDate>Tue, 05 May 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">v7YS54QzarJbi9AsCdG7cC</guid>
+      <description>Researchers took a 40-year-old design and applied some software and 3D printing to bring the Y-zipper to life</description>
+    </item>
+    <item>
+      <title>Valve releases design files for its out-of-stock Steam Controller</title>
+      <link>https://www.engadget.com/2165638/valve-releases-design-files-for-its-out-of-stock-steam-controller/</link>
+      <pubDate>Tue, 05 May 2026 22:29:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2165638/valve-releases-design-files-for-its-out-of-stock-steam-controller/</guid>
+      <description>Make and mod your own accessories if you've already got the gamepad.</description>
+    </item>
+    <item>
+      <title>How to watch The Other Bennet Sister from anywhere &#8211; it's *FREE*</title>
+      <link>https://www.techradar.com/how-to-watch/watch-the-other-bennet-sister</link>
+      <pubDate>Tue, 05 May 2026 22:19:53 +0000</pubDate>
+      <guid isPermaLink="false">5MLKxGtEHmTDaDu8armWuQ</guid>
+      <description>Here's how to watch The Other Bennet Sister online from anywhere in the world, completely FREE.</description>
+    </item>
+    <item>
+      <title>'Electricity with zero emission' &#8212; Chinese scientists aim to transform &#8220;dirty&#8221; coal with a new fuel cell that doesn't burn anything and produces clean power well beyond the Carnot cycle limit</title>
+      <link>https://www.techradar.com/pro/electricity-with-zero-emission-chinese-scientists-aim-to-transform-dirty-coal-with-a-new-fuel-cell-that-doesnt-burn-anything-and-produces-clean-power-well-beyond-the-carnot-cycle-limit-by-converting-chemical-energy-directly-into-electricity-with-up-to-90-potential-efficiency</link>
+      <pubDate>Tue, 05 May 2026 22:10:00 +0000</pubDate>
+      <guid isPermaLink="false">YFj4QDqiD6JEVg2hJavNUe</guid>
+      <description>Chinese researchers developed a coal fuel cell that generates electricity without combustion while capturing carbon dioxide and potentially achieving significantly higher efficiency levels.</description>
+    </item>
+    <item>
+      <title>One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it</title>
+      <link>https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner</link>
+      <pubDate>Tue, 05 May 2026 22:09:32 GMT</pubDate>
+      <guid isPermaLink="false">1n48LirNhyhJJvAZKphAWY</guid>
+      <description>Just two months ago, researchers at the Data Intelligence Lab at the University of Hong Kong introduced CLI-Anything, a new state-of-the-art tool that analyzes any repo&#8217;s source code and generates a structured command line interface (CLI) that AI coding agents can operate with a single command. Claude Code, Codex, OpenClaw, Cursor, and GitHub Copilot CLI are all supported, and since its launch in March, CLI&#8209;Anything has climbed to more than 30,000 GitHub stars. But the same mechanism that makes software agent-native opens the door to agent-level poisoning. The attack community is already discu...</description>
     </item>
   </channel>
 </rss>
