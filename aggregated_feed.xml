@@ -3,143 +3,83 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 05 May 2026 20:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:03:46 GMT</lastBuildDate>
     <item>
-      <title>ASML CEO Christophe Fouquet: No one is coming for us</title>
+      <title>Apple will pay $250 million for failing to deliver its AI-powered Siri on time</title>
+      <link>https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/</link>
+      <pubDate>Tue, 05 May 2026 21:51:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/</guid>
+      <description>The proposed settlement is the result of a class action lawsuit filed in California.</description>
+    </item>
+    <item>
+      <title>Google Home&amp;#8217;s Gemini AI can handle more complicated requests</title>
+      <link>https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade</link>
+      <pubDate>2026-05-05T17:46:04-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=924755</guid>
+      <description>Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better [&#8230;]</description>
+    </item>
+    <item>
+      <title>Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access</title>
+      <link>https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/</link>
+      <pubDate>Tue, 05 May 2026 21:40:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/</guid>
+      <description>This five-year deal is one of many circular agreements keeping the AI sector afloat.</description>
+    </item>
+    <item>
+      <title>Apple agrees to pay iPhone owners $250 million for not delivering AI Siri</title>
+      <link>https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement</link>
+      <pubDate>2026-05-05T17:18:23-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=924706</guid>
+      <description>Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and [&#8230;]</description>
+    </item>
+    <item>
+      <title>As crypto cools, a16z crypto raises a $2.2B fund</title>
+      <link>https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/</link>
+      <pubDate>Tue, 05 May 2026 21:15:56 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119249</guid>
+      <description>As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.</description>
+    </item>
+    <item>
+      <title>Xbox is ditching Microsoft's Copilot AI</title>
+      <link>https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/</link>
+      <pubDate>Tue, 05 May 2026 21:11:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/</guid>
+      <description>The AI assistant is no longer coming to consoles and will be removed from the Xbox mobile app.</description>
+    </item>
+    <item>
+      <title>Telehealth Abortion Is Still Possible Without Mifepristone</title>
+      <link>https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/</link>
+      <pubDate>Tue, 05 May 2026 21:05:40 +0000</pubDate>
+      <guid isPermaLink="false">69f8d3540f112c70100e96dd</guid>
+      <description>Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.</description>
+    </item>
+    <item>
+      <title>Apple plans to make iOS 27 a Choose Your Own Adventure of AI models</title>
+      <link>https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/</link>
+      <pubDate>Tue, 05 May 2026 20:56:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119357</guid>
+      <description>With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.</description>
+    </item>
+    <item>
+      <title>'Cheap air-to-air missile': Ukraine has turned a vintage 55-year-old Russian-designed Antonov An-28 twin-propeller aircraft into a versatile A-10 Warthog-type platform complete with Gatling-class gun, VR headsets to intercept Russian Shahed drones</title>
+      <link>https://www.techradar.com/pro/cheap-air-to-air-missile-ukraine-has-turned-a-vintage-55-year-old-russian-designed-antonov-an-28-twin-propeller-aircraft-into-a-versatile-a-10-warthog-type-platform-complete-with-gatling-class-gun-vr-headsets-to-intercept-russian-shahed-drones</link>
+      <pubDate>Tue, 05 May 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">hziHDSmrLB2SsjKoeECTQh</guid>
+      <description>Ukraine repurposes Antonov An-28 into an anti-drone platform using miniguns and interceptor drones, balancing cost efficiency with operational limitations.</description>
+    </item>
+    <item>
+      <title>'AI creates jobs': Nvidia CEO Jensen Huang once again says workers have nothing to fear</title>
+      <link>https://www.techradar.com/pro/ai-creates-jobs-nvidia-ceo-jensen-huang-once-again-says-workers-have-nothing-to-fear</link>
+      <pubDate>Tue, 05 May 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">X7pANQLQw7b3xhwnXGZtUm</guid>
+      <description>Nvidia CEO Jensen Huang says AI is the "United States&#8217; best opportunity to re-industrialize".</description>
+    </item>
+    <item>
+      <title>ASML CEO Christophe Fouquet on his company&#8217;s monopoly: no one is coming for us</title>
       <link>https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/</link>
       <pubDate>Tue, 05 May 2026 20:06:40 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3119346</guid>
       <description>Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed &#8212; even when the conversation turned to the rivals....</description>
-    </item>
-    <item>
-      <title>Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store</title>
-      <link>https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/</link>
-      <pubDate>Tue, 05 May 2026 20:03:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/</guid>
-      <description>Both remakes were already released on Steam and the macOS App Store.</description>
-    </item>
-    <item>
-      <title>&#8216;I thought I was going mad&#8217;: Disney+ subscribers think the service removes Dolby Atmos from shows at certain times, even if you've paid for Premium &#8212;they think it's to reduce server stress at 'peak' times, but the streaming giant has yet to confirm</title>
-      <link>https://www.techradar.com/streaming/disney-plus/i-thought-i-was-going-mad-disney-subscribers-think-the-service-removes-dolby-atmos-from-shows-at-certain-times-even-if-youve-paid-for-premium-they-think-its-to-reduce-server-stress-at-peak-times-but-the-streaming-giant-has-yet-to-confirm</link>
-      <pubDate>Tue, 05 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">m9vLgiWV2V5ygfeiGepGxG</guid>
-      <description>Disney+ subscribers have spotted changes in Dolby Atmos availability based on the time of day, believing its due to peak streaming times.</description>
-    </item>
-    <item>
-      <title>Volkswagen becomes Rivian&#8217;s top shareholder, displacing Amazon</title>
-      <link>https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/</link>
-      <pubDate>Tue, 05 May 2026 19:58:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119328</guid>
-      <description>VW Group's stake will continue to grow under the $5.8 billion joint venture with Rivian.</description>
-    </item>
-    <item>
-      <title>Irish regulators are investigating whether Meta is using 'dark patterns' to steer people away from non-algorithmic feeds</title>
-      <link>https://www.engadget.com/2165473/irish-regulators-are-investigating-whether-meta-is-using-dark-patterns-to-steer-people-away-from-non-algorithmic-feeds/</link>
-      <pubDate>Tue, 05 May 2026 19:57:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165473/irish-regulators-are-investigating-whether-meta-is-using-dark-patterns-to-steer-people-away-from-non-algorithmic-feeds/</guid>
-      <description>European law requires large platforms to offer alternative feeds.</description>
-    </item>
-    <item>
-      <title>Microsoft gives up on Xbox Copilot AI</title>
-      <link>https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma</link>
-      <pubDate>2026-05-05T15:54:37-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=924551</guid>
-      <description>Xbox is "winding down Copilot on mobile" and "will stop development of Copilot on console," new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox [&#8230;]</description>
-    </item>
-    <item>
-      <title>Apple could let you pick a favorite AI model in iOS 27</title>
-      <link>https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27</link>
-      <pubDate>2026-05-05T15:45:30-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=924515</guid>
-      <description>The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running [&#8230;]</description>
-    </item>
-    <item>
-      <title>Samsung showcases massive floating data center ship model that could house OpenAI's future ChatGPT as its Dallas-based partner claims 'speed to power is the new moat' and promises 1.5 GW of capacity within 36 months</title>
-      <link>https://www.techradar.com/pro/samsung-showcases-massive-floating-data-center-ship-model-that-could-house-openais-future-chatgpt-as-its-dallas-based-partner-claims-speed-to-power-is-the-new-moat-and-promises-1-5-gw-of-capacity-within-36-months</link>
-      <pubDate>Tue, 05 May 2026 19:40:00 +0000</pubDate>
-      <guid isPermaLink="false">2c5bCoj9qTqVTf5jEFM9Eo</guid>
-      <description>Samsung and partners propose floating data centers to accelerate AI infrastructure deployment, though execution challenges and offshore risks remain unresolved.</description>
-    </item>
-    <item>
-      <title>Apple Intelligence will reportedly let you choose third-party AI models in iOS 27</title>
-      <link>https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/</link>
-      <pubDate>Tue, 05 May 2026 19:38:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/</guid>
-      <description>iPads and Macs are also expected to embrace external options for generative AI.</description>
-    </item>
-    <item>
-      <title>Pennsylvania is suing Character.AI over chatbots that pretend to be licensed doctors</title>
-      <link>https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/</link>
-      <pubDate>Tue, 05 May 2026 19:10:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165373/pennsylvania-is-suing-characterai-over-chatbots-that-pretend-to-be-licensed-doctors/</guid>
-      <description>State investigators found a chatbot that claimed it had a medical license and could write prescriptions.</description>
-    </item>
-    <item>
-      <title>The next Call of Duty is not coming to PS4 (or presumably Xbox One)</title>
-      <link>https://www.engadget.com/2165363/the-next-call-of-duty-is-not-coming-to-ps4-or-presumably-xbox-one/</link>
-      <pubDate>Tue, 05 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165363/the-next-call-of-duty-is-not-coming-to-ps4-or-presumably-xbox-one/</guid>
-      <description>Activision Blizzard seems to be focusing on next-gen platforms.</description>
-    </item>
-    <item>
-      <title>Google Home gains more Gemini-powered camera features</title>
-      <link>https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/</link>
-      <pubDate>Tue, 05 May 2026 18:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/</guid>
-      <description>The company also updated Gemini for Home for those in an early access program.</description>
-    </item>
-    <item>
-      <title>Threads finally brings messaging to the web</title>
-      <link>https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/</link>
-      <pubDate>Tue, 05 May 2026 18:34:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119320</guid>
-      <description>By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.</description>
-    </item>
-    <item>
-      <title>Threads is finally getting DMs on the web</title>
-      <link>https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages</link>
-      <pubDate>2026-05-05T14:30:42-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=924436</guid>
-      <description>Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's "testing" DMs on the web now, but plans to make the feature "available to more people soon." In your DM page on the web, you can see your inbox and [&#8230;]</description>
-    </item>
-    <item>
-      <title>GOP bill adds $1 billion in security upgrades for Trump&#8217;s ballroom</title>
-      <link>https://www.fastcompany.com/91537204/ballroom-congress-security-white-house-trump</link>
-      <pubDate>2026-05-05T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537204/ballroom-congress-security-white-house-trump</guid>
-      <description>The money is part of a larger bill to pay for Immigration and Customs Enforcement and Border Patrol.
-Senate Republicans have added $1 billion in White House security upgrades to legislation that would fund immigration enforcement agencies, a proposed boost for President Donald Trump&#8217;s&#160;ballroom project&#160;after a man was&#160;charged with trying to assassinate him&#160;at the White House Correspondents&#8217; Association dinner last week....</description>
-    </item>
-    <item>
-      <title>Homebridge 2.0 parle enfin Matter et ouvre Apple Home &#224; Google et Alexa</title>
-      <link>https://www.frandroid.com/marques/3089885_homebridge-2-0-parle-enfin-matter-et-ouvre-apple-home-a-google-et-alexa</link>
-      <pubDate>Tue, 05 May 2026 18:19:12 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3089885_homebridge-2-0-parle-enfin-matter-et-ouvre-apple-home-a-google-et-alexa</guid>
-      <description>
-Homebridge 2.0 est sorti apr&#232;s plus de trois ans de b&#234;ta, et il parle enfin Matter. Concr&#232;tement, le bricolage pr&#233;f&#233;r&#233; des domoticiens sort de sa bulle Apple pour s'ouvrir &#224; Google, Alexa et SmartThings.
-</description>
-    </item>
-    <item>
-      <title>The biggest AI shift is taking place in your employees&#8217; bags</title>
-      <link>https://www.fastcompany.com/91536554/the-biggest-ai-shift-is-taking-place-in-your-employees-bags</link>
-      <pubDate>2026-05-05T18:19:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91536554/the-biggest-ai-shift-is-taking-place-in-your-employees-bags</guid>
-      <description>What OpenClaw is teaching us about bringing enterprise AI closer.
-Imagine you launched a product in November 2025. Within four months, Jensen Huang had spotlighted it from the NVIDIA GTC stage, 188k (and counting) developers starred it on GitHub, and hundreds of fans show up to a lobster-themed conference dressed for the occasion.</description>
-    </item>
-    <item>
-      <title>The Steam Controller sold out super quickly and Valve is working on a restock</title>
-      <link>https://www.engadget.com/2165324/the-steam-controller-sold-out-super-quickly-and-valve-is-working-on-a-restock/</link>
-      <pubDate>Tue, 05 May 2026 18:16:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2165324/the-steam-controller-sold-out-super-quickly-and-valve-is-working-on-a-restock/</guid>
-      <description>Well, that was fast.</description>
-    </item>
-    <item>
-      <title>Best Mothers Day sales of 2026 so far: Deals on KitchenAid, Kindle, flowers, more thoughtful gift ideas</title>
-      <link>https://mashable.com/article/mothers-day-deals-2026</link>
-      <pubDate>Tue, 05 May 2026 18:15:18 +0000</pubDate>
-      <guid isPermaLink="false">07MiJKXPpPW6PMtaR11wYpB</guid>
-      <description>Thoughtful Mother's Day gifts aren't always mushy &#8212;&#160;they just show you've been listening. Shop deals on gifts from Apple, Shark, Lego, and more.</description>
     </item>
   </channel>
 </rss>
