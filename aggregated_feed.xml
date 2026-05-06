@@ -3,295 +3,127 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 06 May 2026 18:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:26:16 GMT</lastBuildDate>
     <item>
-      <title>DOJ says ransomware gang tapped into Russian government databases</title>
-      <link>https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/</link>
-      <pubDate>Wed, 06 May 2026 18:20:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119720</guid>
-      <description>U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.</description>
+      <title>How David Sacks crashed and burned in the White House</title>
+      <link>https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review</link>
+      <pubDate>2026-05-06T16:18:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/925487/grindr-yes-grindr-won-the-whcd-party-circuit</guid>
+      <description>Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do you think I should [&#8230;]</description>
     </item>
     <item>
-      <title>Anthropic is doubling Claude Code rate limits after deal with SpaceX</title>
-      <link>https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/</link>
-      <pubDate>Wed, 06 May 2026 18:16:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/</guid>
-      <description>The company is also interested in SpaceX's planned orbital data centers.</description>
+      <title>'Change in technology that will reshape medicine': Leading medical experts say new AI reasoning models are so good they outperform even the best specialist doctors when it comes to diagnosing some of the world's most mysterious cases</title>
+      <link>https://www.techradar.com/pro/change-in-technology-that-will-reshape-medicine-leading-medical-experts-say-new-ai-reasoning-models-are-so-good-they-outperform-even-the-best-specialist-doctors-when-it-comes-to-diagnosing-some-of-the-worlds-most-mysterious-and-rare-clinical-cases-in-a-fraction-of-the-time</link>
+      <pubDate>Wed, 06 May 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">Btv76wC8jHyR62MuHvcR48</guid>
+      <description>AI diagnostic models show strong performance on complex cases, though limitations in handling uncertainty raise concerns about real-world clinical use.</description>
     </item>
     <item>
-      <title>AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys</title>
-      <link>https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/</link>
-      <pubDate>Wed, 06 May 2026 18:05:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119808</guid>
-      <description>Braintrust, a startup that makes an &#8220;operating system for engineers building AI software,&#8221; notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.</description>
+      <title>Tesla recalls all of its &#8216;budget&#8217; Cybertrucks over fears that the wheels might fall off</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-recalls-all-of-its-budget-cybertrucks-over-fears-that-the-wheels-might-fall-off</link>
+      <pubDate>Wed, 06 May 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Zu4HuMmVqsbQ3pKE7zDFBH</guid>
+      <description>Off-road EV faces recall over faulty brake rotors, but also reveals just how few Tesla actually sold.</description>
     </item>
     <item>
-      <title>What we&#8217;re hearing about the new homepage</title>
-      <link>https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage</link>
-      <pubDate>2026-05-06T14:05:13-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=923754</guid>
-      <description>We&#8217;ve been reading your feedback on the new homepage. All of it. The kind and encouraging comments, the brutal ones, the &#8220;actually this rules,&#8221; the &#8220;please undo this immediately,&#8221; the bug reports, the feature ideas, and yes, the eternal request for dark mode. We appreciate it. A lot of you took the time to share [&#8230;]</description>
+      <title>Microsoft&#8217;s AI data center push is colliding with its clean power goals</title>
+      <link>https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/</link>
+      <pubDate>Wed, 06 May 2026 19:57:31 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119880</guid>
+      <description>The push for new data centers at Microsoft is putting one of the its key clean power goals at risk.</description>
     </item>
     <item>
-      <title>Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows</title>
-      <link>https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/</link>
-      <pubDate>Wed, 06 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69f8d95d8d8a2d12c010319e</guid>
-      <description>New research suggests that reliance on AI assistants can have a negative impact on people&#8217;s ability to think and problem solve.</description>
+      <title>Trump&#8217;s Team Wants Him to Accept an Iran Deal He&#8217;s Already Rejected</title>
+      <link>https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/</link>
+      <pubDate>Wed, 06 May 2026 19:32:03 +0000</pubDate>
+      <guid isPermaLink="false">69fa12842b14cb75633b75a8</guid>
+      <description>As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they&#160;just have to sell the president on it.</description>
     </item>
     <item>
-      <title>Apple removes more Mac mini and Mac Studio models from sale, as CEO Tim Cook warns it 'may take several months to reach supply demand balance'</title>
-      <link>https://www.techradar.com/computing/macs/apple-removes-more-mac-mini-and-mac-studio-models-from-sale-as-ceo-tim-cook-warns-it-may-take-several-months-to-reach-supply-demand-balance</link>
-      <pubDate>Wed, 06 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Gd4rij8MfVN6sV3MYqUVyM</guid>
-      <description>Apple is taking more Mac mini and Mac Studio models off the shelves to try and weather the memory shortage.</description>
+      <title>Tired of blurry pictures from your video doorbell? Blink just launched its first doorbell with 2K video &#8212; and it's only $50</title>
+      <link>https://www.techradar.com/home/smart-home/tired-of-blurry-pictures-from-your-video-doorbell-blink-just-launched-its-first-doorbell-with-2k-video-and-its-only-usd50</link>
+      <pubDate>Wed, 06 May 2026 19:15:00 +0000</pubDate>
+      <guid isPermaLink="false">yGNhdR6GULxXPmJUVD628A</guid>
+      <description>The Blink Doorbell 2K+ is available in wired and battery-powered versions, and US subscribers can get AI-generated video descriptions sent to their phones.</description>
     </item>
     <item>
-      <title>Mira Murati tells the court that she couldn&#8217;t trust Sam Altman&#8217;s words</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati</link>
-      <pubDate>2026-05-06T13:55:53-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=925338</guid>
-      <description>Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a new AI model did not [&#8230;]</description>
+      <title>Robinhood&#8217;s venture fund IPO attracted 150,000+ retail investors, CEO says</title>
+      <link>https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/</link>
+      <pubDate>Wed, 06 May 2026 19:10:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119833</guid>
+      <description>Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech&#8217;s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.</description>
     </item>
     <item>
-      <title>The Garmin Fenix 7 Pro got a huge 4.5-star recommendation from us  &#8212; and it can be snapped up for just &#163;400 at Go Outdoors and Decathlon right now</title>
-      <link>https://www.techradar.com/health-fitness/fitness-trackers/the-garmin-fenix-7-pro-got-a-huge-4-5-star-recommendation-from-us-and-it-can-be-snapped-up-for-just-gbp400-at-go-outdoors-and-decathlon-right-now</link>
-      <pubDate>Wed, 06 May 2026 17:42:20 +0000</pubDate>
-      <guid isPermaLink="false">XcYfvt5qU9XVzbvHYmwz7o</guid>
-      <description>It's an older watch, but this 4.5-star outdoor watch powerhouse is at better than half price right now.</description>
+      <title>Une fen&#234;tre critique s&#8217;ouvre en 2027 : le Soleil pourrait d&#233;clencher une super-&#233;ruption avec des effets en cascade sur Terre</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/soleil-fenetre-critique-ouvre-2027-soleil-pourrait-declencher-super-eruption-effets-cascade-terre-134301/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 06 May 2026 21:08:03 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/soleil-fenetre-critique-ouvre-2027-soleil-pourrait-declencher-super-eruption-effets-cascade-terre-134301/#xtor%3DRSS-8</guid>
+      <description>Apr&#232;s l&#8217;&#233;norme &#233;ruption de mai 2024, notre Soleil a presque sembl&#233; calme. Mais cette accalmie pourrait &#234;tre trompeuse&#160;: selon les chercheurs, des p&#233;riodes de risque subsistent, et les super-&#233;ruptions ne seraient pas r&#233;serv&#233;es aux seuls pics du cycle solaire.</description>
     </item>
     <item>
-      <title>Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast</title>
-      <link>https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/</link>
-      <pubDate>Wed, 06 May 2026 17:35:06 +0000</pubDate>
-      <guid isPermaLink="false">69fb47a7239299e39f2d43a3</guid>
-      <description>A new NASA map shows how the sinking of Mexico City is uneven, with areas registering up to 2 centimeters per month.</description>
+      <title>The latest Tile Pro is down to $25 &#8212; its best price of the year</title>
+      <link>https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale</link>
+      <pubDate>2026-05-06T15:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=925294</guid>
+      <description>If you&#8217;re struggling to find a Mother&#8217;s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of the best on the market, and it&#8217;s on sale for $24.99 ($10 off) at Amazon and directly from Tile. While [&#8230;]</description>
     </item>
     <item>
-      <title>The 44 best last-minute Mother&#8217;s Day gift ideas for 2026</title>
-      <link>https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets</link>
-      <pubDate>2026-05-06T13:34:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=907032</guid>
-      <description>Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are designed to [&#8230;]</description>
+      <title>How to watch M.I.A. from anywhere in the world &#8211; stream the new show from Ozark creator online</title>
+      <link>https://www.techradar.com/how-to-watch/how-to-watch-m-i-a</link>
+      <pubDate>Wed, 06 May 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hLvb4MdDLtYnFLWWeJPewQ</guid>
+      <description>The creator of Netflix hit Ozark is back with a new show: M.I.A. Here's how you can watch the thrilling nine-part series from anywhere in the world.</description>
     </item>
     <item>
-      <title>Ted Turner, the founder of CNN, dies at 87</title>
-      <link>https://www.fastcompany.com/91537887/ted-turner-cnn-death-obit</link>
-      <pubDate>2026-05-06T17:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537887/ted-turner-cnn-death-obit</guid>
-      <description>Turner&#8217;s signature achievement was creating the Cable News Network, the first 24-hour, all-news television network in 1980. 
-Ted Turner, a brash television pioneer who raced yachts, owned huge chunks of the American West and transformed the news business by launching&#160;CNN&#160;and introducing the 24-hour cable news cycle, died Wednesday. He was 87.</description>
+      <title>The biggest shift in the weight-loss drug boom may not be Ozempic anymore</title>
+      <link>https://www.fastcompany.com/91537760/the-biggest-shift-in-the-weight-loss-drug-boom-may-not-be-ozempic-anymore</link>
+      <pubDate>2026-05-06T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91537760/the-biggest-shift-in-the-weight-loss-drug-boom-may-not-be-ozempic-anymore</guid>
+      <description>Novo Nordisk&#8217;s new Wegovy pill is showing signs that consumers want easier ways to take GLP-1 medications.
+Sales are booming for Novo Nordisk&#8217;s new weight loss pill.&#160;</description>
     </item>
     <item>
-      <title>Intelligence artificielle | Anthropic va utiliser des centres de donn&#233;es SpaceX</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-05-06/intelligence-artificielle/anthropic-va-utiliser-des-centres-de-donnees-spacex.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 06 May 2026 13:29:31 -0400</pubDate>
-      <guid isPermaLink="false">7b7580a268973494837f043c3f13dad0</guid>
-      <description>Anthropic a annonc&#233; mercredi un partenariat avec SpaceX, la soci&#233;t&#233; spatiale d&#8217;Elon Musk, pour utiliser l&#8217;int&#233;gralit&#233; de la capacit&#233; de calcul de son centre de donn&#233;es Colossus One, d&#233;di&#233; jusqu&#8217;ici &#224; l&#8217;intelligence artificielle (IA) du milliardaire am&#233;ricain.</description>
+      <title>I asked ChatGPT for the best TV to watch the World Cup &#8212; and it&#8217;s actually spot on</title>
+      <link>https://www.techradar.com/televisions/i-asked-chatgpt-for-the-best-tv-to-watch-the-world-cup-and-its-actually-spot-on</link>
+      <pubDate>Wed, 06 May 2026 18:59:58 +0000</pubDate>
+      <guid isPermaLink="false">erKNuACME2H49vMcRDQjcZ</guid>
+      <description>Plus, it has a massive discount right now</description>
     </item>
     <item>
-      <title>Researcher reveals official White House app is one command away from tracking your precise location every 4.5 minutes &#8211; app can also inject code to dodge cookie consent, GDPR banners, and paywalls</title>
-      <link>https://www.techradar.com/pro/security/researcher-reveals-official-white-house-app-is-one-command-away-from-tracking-your-precise-location-every-4-5-minutes-app-can-also-inject-code-to-dodge-cookie-consent-gdpr-banners-and-paywalls</link>
-      <pubDate>Wed, 06 May 2026 17:25:00 +0000</pubDate>
-      <guid isPermaLink="false">VZmJAy6Zzm5k3G4hntyg3X</guid>
-      <description>White House app contains code to hide cookie options, GDPR banners, and paywalls - and collects extensive user data</description>
+      <title>Google's AI search results will now turn to Reddit for 'Expert Advice'</title>
+      <link>https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/</link>
+      <pubDate>Wed, 06 May 2026 18:57:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/</guid>
+      <description>AI responses now also recommend in-depth articles and links to sources you already subscribe to.</description>
     </item>
     <item>
-      <title>SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas</title>
-      <link>https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/</link>
-      <pubDate>Wed, 06 May 2026 17:23:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119755</guid>
-      <description>The project would be a "multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility," according to the proposal.</description>
+      <title>Experts warn 'evolving AI is like an invasive species &#8212; it adapts to survive in ways we cannot predict': A new study says unchecked models are a risk to humanity, as it&#8217;s inevitable for autonomous systems to follow the path of Darwinian evolution</title>
+      <link>https://www.techradar.com/pro/experts-warn-that-evolving-ai-is-like-an-invasive-species-it-adapts-to-survive-in-ways-we-cannot-predict-new-study-says-unchecked-models-are-a-risk-to-humanity-as-its-inevitable-for-autonomous-systems-to-follow-biology-on-the-path-of-darwinian-evolution</link>
+      <pubDate>Wed, 06 May 2026 18:50:00 +0000</pubDate>
+      <guid isPermaLink="false">sFc5scRTdac4FroK2t2uhJ</guid>
+      <description>A new study warns evolvable AI systems could adapt and reproduce faster than any biological species, escaping human control entirely.</description>
     </item>
     <item>
-      <title>Google just bought a stake in the maker of Eve Online to train its AI models</title>
-      <link>https://www.engadget.com/2166270/google-just-bought-a-stake-in-the-maker-of-eve-online-to-train-its-ai-models/</link>
-      <pubDate>Wed, 06 May 2026 17:22:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2166270/google-just-bought-a-stake-in-the-maker-of-eve-online-to-train-its-ai-models/</guid>
-      <description>DeepMind will research player behavior in the space-based RPG.</description>
+      <title>Mina the Hollower, from the studio behind Shovel Knight, arrives on May 29</title>
+      <link>https://www.engadget.com/2166369/mina-the-hollower-from-the-studio-behind-shovel-knight-arrives-on-may-29/</link>
+      <pubDate>Wed, 06 May 2026 18:41:16 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2166369/mina-the-hollower-from-the-studio-behind-shovel-knight-arrives-on-may-29/</guid>
+      <description>The gothic horror-inspired action-adventure game from the makers of Shovel Knight maker is almost here.</description>
     </item>
     <item>
-      <title>Here&amp;#8217;s what Microsoft is offering long-serving employees to voluntarily retire</title>
-      <link>https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details</link>
-      <pubDate>2026-05-06T13:22:19-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=925218</guid>
-      <description>Microsoft revealed last month that it's planning to offer long-serving employees in the US the ability to voluntarily retire. While the terms of the buyout were supposed to be announced to employees tomorrow, sources at Microsoft tell me the company has posted them on its internal HR website a little earlier than expected. US employees [&#8230;]</description>
+      <title>Italy&#8217;s prime minister outsmarted AI abusers by posting a surprising image</title>
+      <link>https://www.fastcompany.com/91537698/giorgia-meloni-outsmarted-ai-abusers-by-posting-surprising-image</link>
+      <pubDate>2026-05-06T18:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91537698/giorgia-meloni-outsmarted-ai-abusers-by-posting-surprising-image</guid>
+      <description>Giorgia Meloni countered the proliferation of AI-generated images of her wearing lingerie by doing something unexpected: She posted them herself.
+Yesterday, Giorgia Meloni posted to X an AI-generated photo of herself wearing only lingerie. The Italian prime minister published the image to warn others about how easy it is to create perfectly believable images and videos. Her warning: Never believe anything you see without thoroughly fact-checking it....</description>
     </item>
     <item>
-      <title>DeepSeek could hit $45B valuation from its first investment round</title>
-      <link>https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/</link>
-      <pubDate>Wed, 06 May 2026 17:20:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119749</guid>
-      <description>The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.</description>
-    </item>
-    <item>
-      <title>23 top tech offers I'd buy from the latest Currys Epic Deals sale &#8212; get up to 40% off Apple, Ninja, Garmin, Dyson, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/23-top-tech-offers-id-buy-from-the-latest-currys-epic-deals-sale-get-up-to-40-percent-off-apple-ninja-garmin-dyson-and-more</link>
-      <pubDate>Wed, 06 May 2026 17:13:17 +0000</pubDate>
-      <guid isPermaLink="false">4vJNoX3xXdFhpscjjwqAvf</guid>
-      <description>The latest Currys Epic Deals sale is still live at the retailer this week, so I've taken a look through and picked out the 23 top tech deals that I think are worth your attention.</description>
-    </item>
-    <item>
-      <title>Maddies Secret trailer reveals John Early as youve never seen him before</title>
-      <link>https://mashable.com/video/maddies-secret-trailer-john-early</link>
-      <pubDate>Wed, 06 May 2026 17:02:29 +0000</pubDate>
-      <guid isPermaLink="false">03OfxuKg5Md5agySIqVnZsk</guid>
-      <description>Kate Berlant reteams with John Early for "Maddie's Secret," a sensationally offbeat comedy.</description>
-    </item>
-    <item>
-      <title>MindsEye developer Build a Rocket Boy has reportedly laid off even more staff</title>
-      <link>https://www.engadget.com/2166238/mindseye-developer-build-a-rocket-boy-has-reportedly-laid-off-even-more-staff/</link>
-      <pubDate>Wed, 06 May 2026 17:00:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2166238/mindseye-developer-build-a-rocket-boy-has-reportedly-laid-off-even-more-staff/</guid>
-      <description>Around 170 roles are said to be affected.</description>
-    </item>
-    <item>
-      <title>&#8216;Paper slows us down; it gives us room to think like humans&#8217;: reMarkable&#8217;s R&amp;D team on &#8216;protecting the human advantage&#8217; in the workplace and why now is the right time for its affordable Paper Pure tablet</title>
-      <link>https://www.techradar.com/tablets/paper-slows-us-down-it-gives-us-room-to-think-like-humans-remarkables-r-and-d-team-on-protecting-the-human-advantage-in-the-workplace-and-why-now-is-the-right-time-for-its-affordable-paper-pure-tablet</link>
-      <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">TjapAthFsnWo44RjEnsvoS</guid>
-      <description>We speak to reMarkable&#8217;s R&amp;D team about its new affordable tablet, the reMarkable Paper Pure, and its place in the increasingly AI-driven workplace.</description>
-    </item>
-    <item>
-      <title>&#8216;He put me in harm&#8217;s way&#8217;: Ken Griffin responds to Mamdani&#8217;s viral video of his $239 million NYC penthouse</title>
-      <link>https://www.fastcompany.com/91537680/ken-griffin-citadel-ceo-billionaire-responds-to-zohran-mamdani-pied-a-terre-tax-viral-video-nyc-new-york-penthouse</link>
-      <pubDate>2026-05-06T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537680/ken-griffin-citadel-ceo-billionaire-responds-to-zohran-mamdani-pied-a-terre-tax-viral-video-nyc-new-york-penthouse</guid>
-      <description>The billionaire Citadel chief said he will invest more in Miami after the New York mayor promoted a pied-&#224;-terre tax outside his property.
-Last month, New York City Mayor Zohran Mamdani celebrated Tax Day by making good on a campaign promise. &#8220;When I ran for mayor, I said I was going to tax the rich,&#8221; Mamdani said in a viral video posted to social media. &#8220;Today, we&#8217;re taxing the rich.&#8221;...</description>
-    </item>
-    <item>
-      <title>How to watch Bayern Munich vs. PSG online for free</title>
-      <link>https://mashable.com/article/bayern-munich-psg-champions-league-2026-live-stream-for-free</link>
-      <pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">059pX0CcnzaYNFucZX3OPzt</guid>
-      <description>How to watch Champions League for free. Live stream Bayern Munich vs. PSG in the Champions League for free.</description>
-    </item>
-    <item>
-      <title>Score up to 64% off at EcoFlow and snag free solar panels with your purchase.</title>
-      <link>https://mashable.com/article/may-6-ecoflow-mothers-day-sale</link>
-      <pubDate>Wed, 06 May 2026 16:55:20 +0000</pubDate>
-      <guid isPermaLink="false">00aK1PDvVZ3fIgKbPquksHx</guid>
-      <description>Between May 6 and May 17, you can score up to 64% off at EcoFlow and snag free solar panels with your purchase.</description>
-    </item>
-    <item>
-      <title>Snag a pair of Bose QuietComfort Ultra headphones for $50 off</title>
-      <link>https://mashable.com/article/may-6-bose-quietcomfort-ultra-headphones-deal</link>
-      <pubDate>Wed, 06 May 2026 16:53:44 +0000</pubDate>
-      <guid isPermaLink="false">00rsyDQjgEGGTOkS481v8uY</guid>
-      <description>As of May 6, get a pair of Bose QuietComfort Ultra headphones for $50 off.</description>
-    </item>
-    <item>
-      <title>I Am Begging AI Companies to Stop Naming Features After Human Processes</title>
-      <link>https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/</link>
-      <pubDate>Wed, 06 May 2026 16:51:12 +0000</pubDate>
-      <guid isPermaLink="false">69fb4bf6385c877c8a520d2c</guid>
-      <description>Anthropic announced &#8220;dreaming&#8221; for AI agents to sort through &#8220;memories&#8221; at its developer conference. Can we not?</description>
-    </item>
-    <item>
-      <title>Buy a $300 Delta gift card and get a free $20 Starbucks gift card</title>
-      <link>https://mashable.com/article/may-6-delta-gift-card-free-starbucks</link>
-      <pubDate>Wed, 06 May 2026 16:49:36 +0000</pubDate>
-      <guid isPermaLink="false">02ijnCxl6Ro9JEfWjcUfMzE</guid>
-      <description>Buy a Delta gift card worth $300 or more and get a free $20 Starbucks gift card.</description>
-    </item>
-    <item>
-      <title>Get a free Samsung Galaxy S26 from T-Mobile without trading in your old phone</title>
-      <link>https://mashable.com/article/may-6-free-samsung-s26-tmobile-deal</link>
-      <pubDate>Wed, 06 May 2026 16:46:07 +0000</pubDate>
-      <guid isPermaLink="false">003b9VAB9J98TSmoCWbJ7Gn</guid>
-      <description>Get a free Samsung Galaxy S26 (256GB) from T-Mobile when signing up for an Experience Beyond plan for 24 months. Existing Go5G Plus members also qualify for the free S26.</description>
-    </item>
-    <item>
-      <title>How a Texas vegan cheese-maker used Claude and Manus to fight back against a big shipping company</title>
-      <link>https://www.fastcompany.com/91537200/texas-rebel-cheese-ai-shipping</link>
-      <pubDate>2026-05-06T16:41:59</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537200/texas-rebel-cheese-ai-shipping</guid>
-      <description>Rebel Cheese built and used AI tools to claw back thousands of dollars in overcharges from a large shipping carrier.
-AI isn&#8217;t all about automating core business functions at Fortune 500 companies. Small and medium-sized businesses can also use AI to optimize, economize, and in some cases compete more effectively against much larger rivals.</description>
-    </item>
-    <item>
-      <title>I searched Amazon&#8217;s entire Mother&#8217;s Day sale &#8212; these are the 12 deals worth buying from Ninja, Dyson, KitchenAid, and other brands</title>
-      <link>https://www.techradar.com/home/i-searched-amazons-entire-mothers-day-sale-these-are-the-12-deals-worth-buying-from-ninja-dyson-kitchenaid-and-other-brands</link>
-      <pubDate>Wed, 06 May 2026 16:38:05 +0000</pubDate>
-      <guid isPermaLink="false">wvVoqJHxMNC42T6sU8queQ</guid>
-      <description>I've looked through the retailer's entire Mother's Day sale to find deals from Dyson, Kitchenaid, and other leading brands.</description>
-    </item>
-    <item>
-      <title>Native Instruments Komplete 26 adds weird new synths and experimental piano sounds</title>
-      <link>https://www.theverge.com/tech/925211/native-instruments-komplete-26-absynth-massive-kontakt</link>
-      <pubDate>2026-05-06T12:37:40-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=925211</guid>
-      <description>The latest version of Native Instruments' Komplete music production bundle is here with 62 new additions, including the wonderfully weird Absynth 6. Komplete 26 comes in several flavors, starting with three $99 Select bundles: Beats, Band, and Electronic. Prices jump pretty steeply from there, with Standard costing $549, Ultimate costing $1,249, and the Collector's Edition [&#8230;]...</description>
-    </item>
-    <item>
-      <title>What could go wrong? A fully electronic braking system is being built into a car for the first time</title>
-      <link>https://www.techradar.com/vehicle-tech/what-could-go-wrong-a-fully-electronic-braking-system-is-being-built-into-a-car-for-the-first-time</link>
-      <pubDate>Wed, 06 May 2026 16:37:00 +0000</pubDate>
-      <guid isPermaLink="false">aYeN4euG6mJFHpuqR5vRm7</guid>
-      <description>A fully electronic braking system is being built into a car for the first time &#8212; are we sure removing hydraulic brakes is a good idea?</description>
-    </item>
-    <item>
-      <title>Experts warn Microsoft Phone Link tool exploited by 'unknown threat' to steal SMS and OTP info</title>
-      <link>https://www.techradar.com/pro/security/experts-warn-microsoft-phone-link-tool-exploited-by-unknown-threat-to-steal-sms-and-otp-info</link>
-      <pubDate>Wed, 06 May 2026 16:35:00 +0000</pubDate>
-      <guid isPermaLink="false">frz7UPeUkdrDzxbboRoJyG</guid>
-      <description>A known RAT was given new capabilities in order to exfiltrate 2FA codes and more.</description>
-    </item>
-    <item>
-      <title>Plus fort que les heures creuses ? La nouvelle m&#233;thode d&#8217;EDF test&#233;e gr&#226;ce au compteur Linky</title>
-      <link>https://www.frandroid.com/survoltes/energie/3091137_linky-ce-nouveau-test-dedf-qui-fait-fluctuer-le-prix-de-votre-electricite-en-direct</link>
-      <pubDate>Wed, 06 May 2026 16:32:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3091137_linky-ce-nouveau-test-dedf-qui-fait-fluctuer-le-prix-de-votre-electricite-en-direct</guid>
-      <description>
-EDF lance une exp&#233;rimentation grandeur nature. 6 600 foyers tir&#233;s au sort vont tester de nouvelles grilles tarifaires variables, dans le but de mesurer leur capacit&#233; &#224; adapter leur consommation au prix de l'&#233;lectricit&#233;.
-</description>
-    </item>
-    <item>
-      <title>Nintendo announces a Switch 2 bundle with Pok&#233;mon Pokopia, but theres a catch</title>
-      <link>https://mashable.com/article/nintendo-switch-2-pokemon-pokopia-bundle-price-availability</link>
-      <pubDate>Wed, 06 May 2026 16:32:52 +0000</pubDate>
-      <guid isPermaLink="false">0155b8IzrYSlFBfwzDccsyX</guid>
-      <description>Nintendo announced a Switch 2 + "Pok&#233;mon Pokopia" bundle this week, but it's only available in Australia and New Zealand.</description>
-    </item>
-    <item>
-      <title>The best beauty tech you can still grab in time for Mother&#8217;s Day</title>
-      <link>https://www.theverge.com/gadgets/923581/best-mothers-day-beauty-tech-gift-ideas-2026</link>
-      <pubDate>2026-05-06T12:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=923581</guid>
-      <description>If you&#8217;re looking to indulge mom this Mother&#8217;s Day, a gift that makes her feel a little more taken care of is a good place to start. Fortunately, if you&#8217;re looking for something to make her feel pampered, we know a thing or two about beauty tech, which can deliver on that front. Some of [&#8230;]</description>
-    </item>
-    <item>
-      <title>Which housing markets have the most&#8212;and least&#8212;mortgage distress right now?</title>
-      <link>https://www.fastcompany.com/91537753/housing-market-which-markets-have-most-least-mortgage-distress-right-now</link>
-      <pubDate>2026-05-06T16:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537753/housing-market-which-markets-have-most-least-mortgage-distress-right-now</guid>
-      <description>ResiClub&#8217;s new housing distress calculation includes mortgages that are 30 to 89 days past due, 90 to 180 days past due, in foreclosure, or in forbearance.
-Want more housing market stories from Lance Lambert&#8217;s ResiClub&#160;in your inbox?&#160;Subscribe&#160;to the&#160;ResiClub&#160;newsletter.</description>
-    </item>
-    <item>
-      <title>Apple AirPods Pro 3, MacBook Pro 14 M5 et Xgimi Elfin Flip Plus : les promos incontournables du jour</title>
-      <link>https://www.frandroid.com/bons-plans/3091189_apple-airpods-pro-3-macbook-pro-14-m5-et-xgimi-elfin-flip-plus-les-promos-incontournables-du-jour-meilleurs-bons-plans</link>
-      <pubDate>Wed, 06 May 2026 16:28:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3091189_apple-airpods-pro-3-macbook-pro-14-m5-et-xgimi-elfin-flip-plus-les-promos-incontournables-du-jour-meilleurs-bons-plans</guid>
-      <description>
-Ce mercredi 6 mai 2026 s&#8217;annonce riche en bonnes affaires tech.
-</description>
-    </item>
-    <item>
-      <title>This robotic pool vacuum is basically a Roomba that can swim, and it&#8217;s $449 off today</title>
-      <link>https://mashable.com/article/may-6-beatbot-aquasense-2-deal</link>
-      <pubDate>Wed, 06 May 2026 16:27:40 +0000</pubDate>
-      <guid isPermaLink="false">01ZMIzmvYuArhsRycmezfhW</guid>
-      <description>As of May 6, you can get the Beatbot AquaSense 2 for $849 at Amazon, down from $1,298. That's a 35% discount or $449 savings.</description>
-    </item>
-    <item>
-      <title>What WNBA players have in the league&#8217;s 30th season</title>
-      <link>https://www.fastcompany.com/91537838/what-wnba-players-have-in-the-leagues-30th-season</link>
-      <pubDate>2026-05-06T16:27:02</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537838/what-wnba-players-have-in-the-leagues-30th-season</guid>
-      <description>Players have something new: stability.
-As we gear up for the drama and excitement of the 30th WNBA season, it&#8217;s hard to believe that two months ago we were in limbo. Prolonged collective bargaining agreement (CBA) negotiations between the league and the players&#8217; association left us all wondering if the season would even happen. Then came resolution, and a massive step forward for the players....</description>
+      <title>Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird</title>
+      <link>https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/</link>
+      <pubDate>Wed, 06 May 2026 18:28:52 +0000</pubDate>
+      <guid isPermaLink="false">69fb74e4f906ccf607352674</guid>
+      <description>In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk&#8217;s xAI.</description>
     </item>
   </channel>
 </rss>
