@@ -3,7 +3,123 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 06 May 2026 20:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:00:18 GMT</lastBuildDate>
+    <item>
+      <title>Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.</title>
+      <link>https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/</link>
+      <pubDate>Wed, 06 May 2026 21:57:56 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119906</guid>
+      <description>Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.</description>
+    </item>
+    <item>
+      <title>Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;</title>
+      <link>https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/</link>
+      <pubDate>Wed, 06 May 2026 21:43:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119920</guid>
+      <description>The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.</description>
+    </item>
+    <item>
+      <title>Is xAI a neocloud now?</title>
+      <link>https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/</link>
+      <pubDate>Wed, 06 May 2026 21:32:55 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119918</guid>
+      <description>xAI's real business may be more about building data centers than training AI models.</description>
+    </item>
+    <item>
+      <title>Microsoft a pay&#233; une &#233;tude pour d&#233;molir le MacBook Neo, et &#231;a se voit</title>
+      <link>https://www.frandroid.com/marques/3091569_microsoft-a-paye-une-etude-pour-demolir-le-macbook-neo-et-ca-se-voit</link>
+      <pubDate>Wed, 06 May 2026 21:32:43 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3091569_microsoft-a-paye-une-etude-pour-demolir-le-macbook-neo-et-ca-se-voit</guid>
+      <description>
+Le MacBook Neo d&#233;range visiblement Microsoft. L'&#233;diteur de Redmond a command&#233; une &#233;tude cens&#233;e prouver que les PC Windows &#233;crasent le petit Mac &#224; 699&#160;&#8364;&#160;: la d&#233;monstration tient surtout par ce qu'elle laisse hors champ.
+</description>
+    </item>
+    <item>
+      <title>'Putting the whole Earth into a computer&#8217;: Chinese scientists use supercomputers to solve one of Yellowstone&#8217;s most enduring volcanic mysteries &#8212; and now want to create a digital twin of our planet to predict its future</title>
+      <link>https://www.techradar.com/pro/putting-the-whole-earth-into-a-computer-chinese-scientists-use-supercomputers-to-solve-one-of-yellowstone-parks-most-enduring-volcanic-mysteries-and-now-want-to-create-a-digital-twin-of-our-planet-to-predict-its-future</link>
+      <pubDate>Wed, 06 May 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">6ByWYcNiaYztttZKWnQtne</guid>
+      <description>Chinese researchers used supercomputers to model Yellowstone, revealing that tectonic forces shaped magma pathways and sparking ambitions for full planetary simulation systems.</description>
+    </item>
+    <item>
+      <title>Canadian officials claim OpenAI violated federal and provincial privacy laws</title>
+      <link>https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/</link>
+      <pubDate>Wed, 06 May 2026 21:24:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/</guid>
+      <description>Regulators took issue with the amount of personal data the company collected and its approach to consent.</description>
+    </item>
+    <item>
+      <title>A Kid With a Fake Mustache Tricked an Online Age-Verification Tool</title>
+      <link>https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/</link>
+      <pubDate>Wed, 06 May 2026 21:24:18 +0000</pubDate>
+      <guid isPermaLink="false">69fb70a68bf756131f7c451b</guid>
+      <description>To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for &#8220;visual cues,&#8221; such as height and bone structure.</description>
+    </item>
+    <item>
+      <title>Google shuts down Project Mariner</title>
+      <link>https://www.theverge.com/tech/925559/google-project-mariner-shut-down</link>
+      <pubDate>2026-05-06T17:21:45-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=925559</guid>
+      <description>Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: "Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology [&#8230;]</description>
+    </item>
+    <item>
+      <title>Snap's $400 million deal with Perplexity is dead</title>
+      <link>https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/</link>
+      <pubDate>Wed, 06 May 2026 21:04:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/</guid>
+      <description>The planned AI search feature for Snapchat never fully rolled out.</description>
+    </item>
+    <item>
+      <title>&#8216;AI capabilities that did not exist at the time&#8217;: Delayed Siri features have cost Apple a massive $250 million, and iPhone users could get up to $95 per device</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/ai-capabilities-that-did-not-exist-at-the-time-delayed-siri-features-have-cost-apple-a-massive-usd250-million-and-iphone-users-could-get-up-to-usd95-per-device</link>
+      <pubDate>Wed, 06 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">wdDPTHDGHjs8BUG5THeop9</guid>
+      <description>Apple is paying $250 million due to delayed Siri features, with affected users eligible for up to $95 per device.</description>
+    </item>
+    <item>
+      <title>Insurance startup Corgi hits $1.3B valuation 4 months after its Series A</title>
+      <link>https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/</link>
+      <pubDate>Wed, 06 May 2026 20:39:16 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3119893</guid>
+      <description>Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.</description>
+    </item>
+    <item>
+      <title>AMD's CEO predicts 'higher memory and component costs' later this year &#8212; so brace yourself for Radeon GPU price hikes</title>
+      <link>https://www.techradar.com/computing/computing-components/amds-ceo-predicts-higher-memory-and-component-costs-later-this-year-so-brace-yourself-for-radeon-gpu-price-hikes</link>
+      <pubDate>Wed, 06 May 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">cUdX6chCPLQuzttPD96mAb</guid>
+      <description>Following Lisa Su's revelation, a disgruntled Redditor predicted: 'The RAM economy will permanently change and data centers will be a nuisance for the rest of recorded time'.</description>
+    </item>
+    <item>
+      <title>Salesforce says it will hire 1,000 &#8216;AI-native&#8217; new grads</title>
+      <link>https://www.fastcompany.com/91537976/salesforce-says-it-will-hire-1000-ai-native-new-grads</link>
+      <pubDate>2026-05-06T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91537976/salesforce-says-it-will-hire-1000-ai-native-new-grads</guid>
+      <description>The company is fast-tracking young talent into AI roles who are familiar with the technology amid a brutal entry-level job market.
+Last week, Salesforce CEO Marc Benioff announced in a post on X that the company would hire 1,000 new grads and interns &#8220;to ride the AI exponential.&#8221; Today, the company released a statement committing to that plan.</description>
+    </item>
+    <item>
+      <title>NYT Connections decided not to use words, and players are not OK</title>
+      <link>https://mashable.com/article/new-york-times-connections-may-6-symbols-reactions</link>
+      <pubDate>Wed, 06 May 2026 20:28:11 +0000</pubDate>
+      <guid isPermaLink="false">07c2gd1Nit667HjLHzeFR3v</guid>
+      <description>The New York Times' word game Connections was decidedly lacking in words on Wednesday, and the internet had thoughts.</description>
+    </item>
+    <item>
+      <title>AI can make work more meaningful</title>
+      <link>https://www.fastcompany.com/91538095/ai-can-make-work-more-meaningful</link>
+      <pubDate>2026-05-06T20:27:55</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91538095/ai-can-make-work-more-meaningful</guid>
+      <description>Companies should capitalize on the efficiencies AI offers to change how people experience their work.
+As a CEO operating within the global supply chain&#8212;where every purchase is tied to efforts to end forced and child labor&#8212;I think often about what work is for: not just making it faster, but making it matter.</description>
+    </item>
+    <item>
+      <title>Apple reaches $250 million settlement over exaggerating Apple Intelligences capabilities</title>
+      <link>https://mashable.com/article/apple-intelligence-class-action-lawsuit-settlement-response</link>
+      <pubDate>Wed, 06 May 2026 20:19:42 +0000</pubDate>
+      <guid isPermaLink="false">07D58SfprCWrdhDxxC6eRhb</guid>
+      <description>Apple has reached a $250 million settlement in a lawsuit that accused the company of exaggerating Apple Intelligence's intelligence.</description>
+    </item>
     <item>
       <title>How David Sacks crashed and burned in the White House</title>
       <link>https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review</link>
@@ -12,118 +128,18 @@
       <description>Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do you think I should [&#8230;]</description>
     </item>
     <item>
+      <title>Microsoft may abandon one of its climate goals. Blame data centers.</title>
+      <link>https://mashable.com/article/microsoft-abandons-clean-energy-goal</link>
+      <pubDate>Wed, 06 May 2026 20:15:14 +0000</pubDate>
+      <guid isPermaLink="false">01GyrnkfI9AymjAJZMNQxs3</guid>
+      <description>The insatiable costs of data centers is making some tech companies pull back their clean energy goals.</description>
+    </item>
+    <item>
       <title>'Change in technology that will reshape medicine': Leading medical experts say new AI reasoning models are so good they outperform even the best specialist doctors when it comes to diagnosing some of the world's most mysterious cases</title>
       <link>https://www.techradar.com/pro/change-in-technology-that-will-reshape-medicine-leading-medical-experts-say-new-ai-reasoning-models-are-so-good-they-outperform-even-the-best-specialist-doctors-when-it-comes-to-diagnosing-some-of-the-worlds-most-mysterious-and-rare-clinical-cases-in-a-fraction-of-the-time</link>
       <pubDate>Wed, 06 May 2026 20:10:00 +0000</pubDate>
       <guid isPermaLink="false">Btv76wC8jHyR62MuHvcR48</guid>
       <description>AI diagnostic models show strong performance on complex cases, though limitations in handling uncertainty raise concerns about real-world clinical use.</description>
-    </item>
-    <item>
-      <title>Tesla recalls all of its &#8216;budget&#8217; Cybertrucks over fears that the wheels might fall off</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-recalls-all-of-its-budget-cybertrucks-over-fears-that-the-wheels-might-fall-off</link>
-      <pubDate>Wed, 06 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Zu4HuMmVqsbQ3pKE7zDFBH</guid>
-      <description>Off-road EV faces recall over faulty brake rotors, but also reveals just how few Tesla actually sold.</description>
-    </item>
-    <item>
-      <title>Microsoft&#8217;s AI data center push is colliding with its clean power goals</title>
-      <link>https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/</link>
-      <pubDate>Wed, 06 May 2026 19:57:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119880</guid>
-      <description>The push for new data centers at Microsoft is putting one of the its key clean power goals at risk.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s Team Wants Him to Accept an Iran Deal He&#8217;s Already Rejected</title>
-      <link>https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/</link>
-      <pubDate>Wed, 06 May 2026 19:32:03 +0000</pubDate>
-      <guid isPermaLink="false">69fa12842b14cb75633b75a8</guid>
-      <description>As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they&#160;just have to sell the president on it.</description>
-    </item>
-    <item>
-      <title>Tired of blurry pictures from your video doorbell? Blink just launched its first doorbell with 2K video &#8212; and it's only $50</title>
-      <link>https://www.techradar.com/home/smart-home/tired-of-blurry-pictures-from-your-video-doorbell-blink-just-launched-its-first-doorbell-with-2k-video-and-its-only-usd50</link>
-      <pubDate>Wed, 06 May 2026 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">yGNhdR6GULxXPmJUVD628A</guid>
-      <description>The Blink Doorbell 2K+ is available in wired and battery-powered versions, and US subscribers can get AI-generated video descriptions sent to their phones.</description>
-    </item>
-    <item>
-      <title>Robinhood&#8217;s venture fund IPO attracted 150,000+ retail investors, CEO says</title>
-      <link>https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/</link>
-      <pubDate>Wed, 06 May 2026 19:10:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3119833</guid>
-      <description>Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech&#8217;s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.</description>
-    </item>
-    <item>
-      <title>Une fen&#234;tre critique s&#8217;ouvre en 2027 : le Soleil pourrait d&#233;clencher une super-&#233;ruption avec des effets en cascade sur Terre</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/soleil-fenetre-critique-ouvre-2027-soleil-pourrait-declencher-super-eruption-effets-cascade-terre-134301/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 06 May 2026 21:08:03 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/soleil-fenetre-critique-ouvre-2027-soleil-pourrait-declencher-super-eruption-effets-cascade-terre-134301/#xtor%3DRSS-8</guid>
-      <description>Apr&#232;s l&#8217;&#233;norme &#233;ruption de mai 2024, notre Soleil a presque sembl&#233; calme. Mais cette accalmie pourrait &#234;tre trompeuse&#160;: selon les chercheurs, des p&#233;riodes de risque subsistent, et les super-&#233;ruptions ne seraient pas r&#233;serv&#233;es aux seuls pics du cycle solaire.</description>
-    </item>
-    <item>
-      <title>The latest Tile Pro is down to $25 &#8212; its best price of the year</title>
-      <link>https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale</link>
-      <pubDate>2026-05-06T15:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=925294</guid>
-      <description>If you&#8217;re struggling to find a Mother&#8217;s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of the best on the market, and it&#8217;s on sale for $24.99 ($10 off) at Amazon and directly from Tile. While [&#8230;]</description>
-    </item>
-    <item>
-      <title>How to watch M.I.A. from anywhere in the world &#8211; stream the new show from Ozark creator online</title>
-      <link>https://www.techradar.com/how-to-watch/how-to-watch-m-i-a</link>
-      <pubDate>Wed, 06 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hLvb4MdDLtYnFLWWeJPewQ</guid>
-      <description>The creator of Netflix hit Ozark is back with a new show: M.I.A. Here's how you can watch the thrilling nine-part series from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>The biggest shift in the weight-loss drug boom may not be Ozempic anymore</title>
-      <link>https://www.fastcompany.com/91537760/the-biggest-shift-in-the-weight-loss-drug-boom-may-not-be-ozempic-anymore</link>
-      <pubDate>2026-05-06T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537760/the-biggest-shift-in-the-weight-loss-drug-boom-may-not-be-ozempic-anymore</guid>
-      <description>Novo Nordisk&#8217;s new Wegovy pill is showing signs that consumers want easier ways to take GLP-1 medications.
-Sales are booming for Novo Nordisk&#8217;s new weight loss pill.&#160;</description>
-    </item>
-    <item>
-      <title>I asked ChatGPT for the best TV to watch the World Cup &#8212; and it&#8217;s actually spot on</title>
-      <link>https://www.techradar.com/televisions/i-asked-chatgpt-for-the-best-tv-to-watch-the-world-cup-and-its-actually-spot-on</link>
-      <pubDate>Wed, 06 May 2026 18:59:58 +0000</pubDate>
-      <guid isPermaLink="false">erKNuACME2H49vMcRDQjcZ</guid>
-      <description>Plus, it has a massive discount right now</description>
-    </item>
-    <item>
-      <title>Google's AI search results will now turn to Reddit for 'Expert Advice'</title>
-      <link>https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/</link>
-      <pubDate>Wed, 06 May 2026 18:57:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice/</guid>
-      <description>AI responses now also recommend in-depth articles and links to sources you already subscribe to.</description>
-    </item>
-    <item>
-      <title>Experts warn 'evolving AI is like an invasive species &#8212; it adapts to survive in ways we cannot predict': A new study says unchecked models are a risk to humanity, as it&#8217;s inevitable for autonomous systems to follow the path of Darwinian evolution</title>
-      <link>https://www.techradar.com/pro/experts-warn-that-evolving-ai-is-like-an-invasive-species-it-adapts-to-survive-in-ways-we-cannot-predict-new-study-says-unchecked-models-are-a-risk-to-humanity-as-its-inevitable-for-autonomous-systems-to-follow-biology-on-the-path-of-darwinian-evolution</link>
-      <pubDate>Wed, 06 May 2026 18:50:00 +0000</pubDate>
-      <guid isPermaLink="false">sFc5scRTdac4FroK2t2uhJ</guid>
-      <description>A new study warns evolvable AI systems could adapt and reproduce faster than any biological species, escaping human control entirely.</description>
-    </item>
-    <item>
-      <title>Mina the Hollower, from the studio behind Shovel Knight, arrives on May 29</title>
-      <link>https://www.engadget.com/2166369/mina-the-hollower-from-the-studio-behind-shovel-knight-arrives-on-may-29/</link>
-      <pubDate>Wed, 06 May 2026 18:41:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2166369/mina-the-hollower-from-the-studio-behind-shovel-knight-arrives-on-may-29/</guid>
-      <description>The gothic horror-inspired action-adventure game from the makers of Shovel Knight maker is almost here.</description>
-    </item>
-    <item>
-      <title>Italy&#8217;s prime minister outsmarted AI abusers by posting a surprising image</title>
-      <link>https://www.fastcompany.com/91537698/giorgia-meloni-outsmarted-ai-abusers-by-posting-surprising-image</link>
-      <pubDate>2026-05-06T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537698/giorgia-meloni-outsmarted-ai-abusers-by-posting-surprising-image</guid>
-      <description>Giorgia Meloni countered the proliferation of AI-generated images of her wearing lingerie by doing something unexpected: She posted them herself.
-Yesterday, Giorgia Meloni posted to X an AI-generated photo of herself wearing only lingerie. The Italian prime minister published the image to warn others about how easy it is to create perfectly believable images and videos. Her warning: Never believe anything you see without thoroughly fact-checking it....</description>
-    </item>
-    <item>
-      <title>Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird</title>
-      <link>https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/</link>
-      <pubDate>Wed, 06 May 2026 18:28:52 +0000</pubDate>
-      <guid isPermaLink="false">69fb74e4f906ccf607352674</guid>
-      <description>In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk&#8217;s xAI.</description>
     </item>
   </channel>
 </rss>
