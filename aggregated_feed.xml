@@ -3,185 +3,139 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 07 May 2026 20:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:04:16 GMT</lastBuildDate>
     <item>
-      <title>Tesla Model Y is first car to meet new U.S. driver assistance safety benchmark</title>
+      <title>OpenAI debuts a Codex plugin for Chrome</title>
+      <link>https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/</link>
+      <pubDate>Thu, 07 May 2026 21:57:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/</guid>
+      <description>The new feature could turn Codex into more than a coding aid.</description>
+    </item>
+    <item>
+      <title>Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%</title>
+      <link>https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/</link>
+      <pubDate>Thu, 07 May 2026 21:49:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120311</guid>
+      <description>The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboratio</description>
+    </item>
+    <item>
+      <title>'We're now ready': Peter Thiel-backed company raises $1bn to send data centers out to sea to harness 'tens of terawatts of new capacity potential' in the power of the open ocean</title>
+      <link>https://www.techradar.com/pro/were-now-ready-peter-thiel-backed-company-raises-usd1bn-to-send-data-centers-out-to-sea-to-harness-tens-of-terawatts-of-new-capacity-potential-in-the-power-of-the-open-ocean</link>
+      <pubDate>Thu, 07 May 2026 21:45:00 +0000</pubDate>
+      <guid isPermaLink="false">UFFikNMWrFe4unUngHwVFW</guid>
+      <description>Peter Thiel backs Panthalassa's $140 million round to build floating AI data centers powered by ocean waves, bypassing land-based energy constraints</description>
+    </item>
+    <item>
+      <title>Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram</title>
+      <link>https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/</link>
+      <pubDate>Thu, 07 May 2026 21:41:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/</guid>
+      <description>Mark Zuckerberg has said he wants to make AI agents more accessible.</description>
+    </item>
+    <item>
+      <title>Disney looking to make a unified &#8216;super app,&#8217; report says</title>
+      <link>https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/</link>
+      <pubDate>Thu, 07 May 2026 21:40:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120531</guid>
+      <description>Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.</description>
+    </item>
+    <item>
+      <title>Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/</link>
+      <pubDate>Thu, 07 May 2026 21:37:20 +0000</pubDate>
+      <guid isPermaLink="false">69fbacaeb9c250fbf6ca76ce</guid>
+      <description>Today on Uncanny Valley, we&#8217;re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.</description>
+    </item>
+    <item>
+      <title>Canvas is down as ShinyHunters threatens to leak schools&#8217; data</title>
+      <link>https://www.theverge.com/tech/926458/canvas-shinyhunters-breach</link>
+      <pubDate>2026-05-07T17:29:27-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=926458</guid>
+      <description>The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group ShinyHunters, which claimed responsibility for the attack: ShinyHunters has breached Instructure (again). Instead of contacting [&#8230;]...</description>
+    </item>
+    <item>
+      <title>How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro</title>
+      <link>https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro</link>
+      <pubDate>Thu, 07 May 2026 21:23:46 GMT</pubDate>
+      <guid isPermaLink="false">304fI8jbBrCiGKPwTRbEHO</guid>
+      <description>Every LangChain pipeline your team hardcodes starts breaking the moment the query distribution shifts &#8212; and it always shifts. That bottleneck is what Sakana AI set out to eliminate.Researchers at Sakana AI have introduced the "RL Conductor," a small language model trained via reinforcement learning to automatically orchestrate a diverse pool of worker LLMs. Conductor dynamically analyzes inputs, distributes labor among workers, and coordinates among agents.This automated coordination achieves state-of-the-art results on difficult reasoning and coding benchmarks, outperforming individual fronti...</description>
+    </item>
+    <item>
+      <title>Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm</title>
+      <link>https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/</link>
+      <pubDate>Thu, 07 May 2026 21:02:11 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120264</guid>
+      <description>AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup&#8217;s $16 million seed round.</description>
+    </item>
+    <item>
+      <title>The Fitbit app is finally being rebranded as Google Health &#8212; here are 5 things you need to know about the big change and what it means for Fitbit users</title>
+      <link>https://www.techradar.com/health-fitness/fitness-apps/the-fitbit-app-is-finally-being-rebranded-as-google-health-here-are-5-things-you-need-to-know-about-the-big-change-and-what-it-means-for-fitbit-users</link>
+      <pubDate>Thu, 07 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">PzxhSvYEBsDSJdWFzioheZ</guid>
+      <description>5 things you need to know about Google Health, the Fitbit app's sweeping rebrand that we all knew was coming eventually.</description>
+    </item>
+    <item>
+      <title>I didn&#8217;t know you could do this hack in Spotify lyrics until now, and I&#8217;m truly astonished &#8212; but it&#8217;s only available to Android users, leaving us iOS minions on the back-burner</title>
+      <link>https://www.techradar.com/audio/spotify/i-didnt-know-you-could-do-this-hack-in-spotify-lyrics-until-now-and-im-truly-astonished-but-its-only-available-to-android-users-leaving-us-ios-minions-on-the-back-burner</link>
+      <pubDate>Thu, 07 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NxoX9CZ4wnbCSuG3ENMD7a</guid>
+      <description>A user on Reddit has revealed you can zoom in on lyrics in Spotify, but it's only available on Android.</description>
+    </item>
+    <item>
+      <title>Hackers deface school login pages after claiming another Instructure hack</title>
+      <link>https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/</link>
+      <pubDate>Thu, 07 May 2026 20:59:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120513</guid>
+      <description>The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.</description>
+    </item>
+    <item>
+      <title>Gusto hits $1B revenue, a figure that brings it closer to public markets</title>
+      <link>https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/</link>
+      <pubDate>Thu, 07 May 2026 20:41:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3077698</guid>
+      <description>Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.</description>
+    </item>
+    <item>
+      <title>How to Disable Google's Gemini in Chrome</title>
+      <link>https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/</link>
+      <pubDate>Thu, 07 May 2026 20:31:57 +0000</pubDate>
+      <guid isPermaLink="false">69fb961a239299e39f2d497f</guid>
+      <description>Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.</description>
+    </item>
+    <item>
+      <title>'This is not facial recognition' &#8212; Meta wants to scan kids' height and bone structure to verify their age</title>
+      <link>https://www.techradar.com/computing/social-media/this-is-not-facial-recognition-meta-wants-to-scan-kids-height-and-bone-structure-to-verify-their-age</link>
+      <pubDate>Thu, 07 May 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">2HziB5VNF2f2tiy4sEfLkQ</guid>
+      <description>Meta is enhancing its technology for detecting users under 13 who shouldn't be on Facebook or Instagram.</description>
+    </item>
+    <item>
+      <title>New report: X remains the most dangerous platform for LGBTQ users</title>
+      <link>https://mashable.com/article/lgbtq-online-safety-tiktok-x-meta-youtube</link>
+      <pubDate>Thu, 07 May 2026 20:28:26 +0000</pubDate>
+      <guid isPermaLink="false">05L8b1eT8PIxqjD56Tabzb2</guid>
+      <description>GLAAD's Social Media Safety Index fails all major platforms on LGBTQ safety, X gets lowest scores while TikTok ranks at the top.</description>
+    </item>
+    <item>
+      <title>OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possible self-harm</title>
+      <link>https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</link>
+      <pubDate>Thu, 07 May 2026 20:20:20 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120401</guid>
+      <description>The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.</description>
+    </item>
+    <item>
+      <title>Razer partners with 'P2P for AI' network to deliver over 11,000 unique images at just $0.01 per generation during its April Fool's viral 3D AI companion campaign &#8212; no cloud subscription needed</title>
+      <link>https://www.techradar.com/pro/razer-partners-with-p2p-for-ai-network-to-deliver-over-11-000-unique-images-at-just-usd0-01-per-generation-during-its-april-fools-viral-3d-ai-companion-campaign-no-cloud-subscription-needed</link>
+      <pubDate>Thu, 07 May 2026 20:20:00 +0000</pubDate>
+      <guid isPermaLink="false">MaAuLcZNtzRrdkpNaxBZjT</guid>
+      <description>Razer used a decentralized GPU marketplace to generate thousands of AI images, achieving low costs and stable performance without cloud infrastructure.</description>
+    </item>
+    <item>
+      <title>Tesla Model Y is first car to meet new US driver assistance safety benchmark</title>
       <link>https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/</link>
       <pubDate>Thu, 07 May 2026 20:10:48 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3120407</guid>
       <description>The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.</description>
-    </item>
-    <item>
-      <title>Your next Samsung Galaxy Watch could &#8216;dramatically reduce&#8217; your chances of injury thanks to this one clever feature</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/your-next-samsung-galaxy-watch-could-dramatically-reduce-your-chances-of-injury-thanks-to-this-one-clever-feature</link>
-      <pubDate>Thu, 07 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CFJydYvr9LHK5sMqiDwGKb</guid>
-      <description>Future smartwatches could predict fainting episodes and reduce the chances of injuries before they happen.</description>
-    </item>
-    <item>
-      <title>Perplexity&#8217;s Personal Computer is now available everyone on Mac</title>
-      <link>https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/</link>
-      <pubDate>Thu, 07 May 2026 19:57:59 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120417</guid>
-      <description>Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.</description>
-    </item>
-    <item>
-      <title>Mira Murati&#8217;s deposition pulled back the curtain on Sam Altman&#8217;s ouster</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster</link>
-      <pubDate>2026-05-07T15:55:22-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=926383</guid>
-      <description>The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker. The explanation? That Altman was "not consistently candid in his communications with the board." Now, via witness testimony and trial exhibits in Musk v. Altman, the public [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Lexus TZ is a quieter, upscale take on the Highlander EV</title>
-      <link>https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev/</link>
-      <pubDate>Thu, 07 May 2026 19:41:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev/</guid>
-      <description>It's also the company's first fully-electric three-row SUV.</description>
-    </item>
-    <item>
-      <title>Why high-growth companies should build decision cultures</title>
-      <link>https://www.fastcompany.com/91537868/why-high-growth-companies-should-build-decision-cultures</link>
-      <pubDate>2026-05-07T19:40:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91537868/why-high-growth-companies-should-build-decision-cultures</guid>
-      <description>As AI accelerates the pace of business, organizations need to move decisions closer to those with intimate knowledge.
-At the Exceptional Women Alliance, we help senior women leaders mentor one another through shared insight. As founder, chair, and CEO, I speak with executives shaping how organizations evolve and perform.</description>
-    </item>
-    <item>
-      <title>Apple&amp;#8217;s AirPods with cameras for AI are apparently close to production</title>
-      <link>https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production</link>
-      <pubDate>2026-05-07T15:39:22-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=926376</guid>
-      <description>Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are "actively using" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras "aren't designed" to snap photos or [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Why the Hantavirus Cruise Ship Outbreak Isn&#8217;t Likely to Become a Global Crisis</title>
-      <link>https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/</link>
-      <pubDate>Thu, 07 May 2026 19:36:46 +0000</pubDate>
-      <guid isPermaLink="false">69fb437ab2e25917ff0d3424</guid>
-      <description>While the outbreak aboard a cruise ship in the Atlantic is concerning, the virus isn&#8217;t easily transmitted through casual contact.</description>
-    </item>
-    <item>
-      <title>Amazon has a massive Fitbit sale ahead of its newest release &#8212;shop the best deals from $79.95</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/amazon-has-a-massive-fitbit-sale-ahead-of-its-newest-release-shop-the-best-deals-from-usd79-95</link>
-      <pubDate>Thu, 07 May 2026 19:36:08 +0000</pubDate>
-      <guid isPermaLink="false">vx7aBWjyE5UwDAb2yQkRwa</guid>
-      <description>The all-new Google Fitbit Air is now available to preorder, so you can find incredible deals on top-rated Fitbit activity and smartwatches, with prices starting at $79.95.</description>
-    </item>
-    <item>
-      <title>I'm already dreading Apple's camera-equipped AirPods</title>
-      <link>https://www.engadget.com/2167325/im-already-dreading-apples-camera-equipped-airpods/</link>
-      <pubDate>Thu, 07 May 2026 19:36:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2167325/im-already-dreading-apples-camera-equipped-airpods/</guid>
-      <description>Must everything be part of the panopticon?</description>
-    </item>
-    <item>
-      <title>&#8216;I&#8217;m selling stuff on eBay to pay for eBay,&#8217; GameStop CEO Ryan Cohen posts following combative interview</title>
-      <link>https://www.fastcompany.com/91538658/im-selling-stuff-on-ebay-to-pay-for-ebay-gamestop-ceo-ryan-cohen-posts-following-combative-interview</link>
-      <pubDate>2026-05-07T19:35:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91538658/im-selling-stuff-on-ebay-to-pay-for-ebay-gamestop-ceo-ryan-cohen-posts-following-combative-interview</guid>
-      <description>After offering to buy eBay, the billionaire CEO avoided questions on CNBC this week about how the company would fill its $16 billion gap in funding.
-GameStop announced on Sunday that it would offer to buy eBay for nearly $56 billion. One day later, CNBC spoke to GameStop CEO Ryan Cohen about the news, in an interview media outlets have called &#8220;bizarre,&#8221; &#8220;evasive,&#8221; &#8220;dizzying&#8221; and &#8220;awkward.&#8221;&#160;...</description>
-    </item>
-    <item>
-      <title>Here&#8217;s who AI picked to win the 2026 World Cup. It&#8217;s not who FIFA fans think</title>
-      <link>https://www.fastcompany.com/91538547/fifa-world-cup-2026-ai-pick-for-winner-is-not-who-fans-think</link>
-      <pubDate>2026-05-07T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91538547/fifa-world-cup-2026-ai-pick-for-winner-is-not-who-fans-think</guid>
-      <description>According to a new Bank of America survey, 40% of fans think France&#8217;s Les Bleus will take home the trophy&#8212;but AI begs to differ.
-Artificial inteligence is being touted as the most transformative technology of the 21st century, changing everything from how people work to how they live. But forget all that&#8212;what sports fans want to know is, can it predict who is going to win the World Cup?...</description>
-    </item>
-    <item>
-      <title>SpaceX has a $55 billion plan to build AI chips in Texas</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips</link>
-      <pubDate>2026-05-07T15:26:16-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=926356</guid>
-      <description>Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its "Terafab" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Perplexity opens up its Personal Computer AI assistant to all Mac users</title>
-      <link>https://www.engadget.com/2167301/perplexity-opens-up-its-personal-computer-ai-assistant-to-all-mac-users/</link>
-      <pubDate>Thu, 07 May 2026 19:22:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2167301/perplexity-opens-up-its-personal-computer-ai-assistant-to-all-mac-users/</guid>
-      <description>It's no longer locked a Max subscription.</description>
-    </item>
-    <item>
-      <title>Elon Musk&#8217;s lawsuit is putting OpenAI&#8217;s safety record under the microscope</title>
-      <link>https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</link>
-      <pubDate>Thu, 07 May 2026 19:21:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120231</guid>
-      <description>Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.</description>
-    </item>
-    <item>
-      <title>The fastest-growing target in America&#8217;s book ban wave might surprise you</title>
-      <link>https://www.fastcompany.com/91538543/the-fastest-growing-target-in-americas-book-ban-wave-might-surprise-you</link>
-      <pubDate>2026-05-07T19:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91538543/the-fastest-growing-target-in-americas-book-ban-wave-might-surprise-you</guid>
-      <description>A new report says nonfiction titles about identity, activism, and health are being banned from schools at rapidly increasing rates.
-Book bans are on the rise&#8212;and they&#8217;re increasingly focused on censoring facts.</description>
-    </item>
-    <item>
-      <title>Bumble is getting rid of the swipe, CEO says</title>
-      <link>https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/</link>
-      <pubDate>Thu, 07 May 2026 19:06:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120327</guid>
-      <description>Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be "a supercharger to love and relationships."</description>
-    </item>
-    <item>
-      <title>Peak Design is taking up to 50 percent off some of our favorite bags right now</title>
-      <link>https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal</link>
-      <pubDate>2026-05-07T15:04:30-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=925427</guid>
-      <description>To celebrate founder Peter Dering&#8217;s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company&#8217;s most popular backpacks and bags, as well as a couple of other items, including camera accessories. Many Verge staffers are fans [&#8230;]</description>
-    </item>
-    <item>
-      <title>'Like a microscopic Predator': Chinese scientists create tiny robotic vacuum to hunt radioactive pollution and clean the world's oceans</title>
-      <link>https://www.techradar.com/pro/like-a-microscopic-predator-chinese-scientists-create-tiny-robotic-vacuum-to-hunt-radioactive-pollution-and-clean-the-worlds-oceans</link>
-      <pubDate>Thu, 07 May 2026 18:45:00 +0000</pubDate>
-      <guid isPermaLink="false">J964h44BEiLKGveNZnpeQC</guid>
-      <description>Chinese scientists created light-driven micromotors that actively capture uranium from water, offering a new approach to resource extraction challenges.</description>
-    </item>
-    <item>
-      <title>Tome, another Goodreads book-tracker rival, shuts down</title>
-      <link>https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/</link>
-      <pubDate>Thu, 07 May 2026 18:38:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120316</guid>
-      <description>Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match the book's vibes.</description>
-    </item>
-    <item>
-      <title>Could Lovable&#8217;s automatic 10% pay raise be the cure for toxic cultures?</title>
-      <link>https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/</link>
-      <pubDate>Thu, 07 May 2026 18:36:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120163</guid>
-      <description>Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.</description>
-    </item>
-    <item>
-      <title>Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake</title>
-      <link>https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/</link>
-      <pubDate>Thu, 07 May 2026 18:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/</guid>
-      <description>Prime members can also claim a code for Mafia II: Definitive Edition.</description>
-    </item>
-    <item>
-      <title>How I Fixed My Webcam Lighting for Zoom Calls (2026)</title>
-      <link>https://www.wired.com/story/how-to-fix-bad-webcam-lighting/</link>
-      <pubDate>Thu, 07 May 2026 18:29:54 +0000</pubDate>
-      <guid isPermaLink="false">69e7f29914c28cd9d8904edf</guid>
-      <description>I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.</description>
-    </item>
-    <item>
-      <title>Hackers hack victims hacked by other hackers</title>
-      <link>https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/</link>
-      <pubDate>Thu, 07 May 2026 18:28:52 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120261</guid>
-      <description>An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims&#8217; systems.</description>
-    </item>
-    <item>
-      <title>Valve will open reservations on May 8 for the second wave of Steam Controllers</title>
-      <link>https://www.engadget.com/2167230/valve-will-open-reservations-on-may-8-for-the-second-wave-of-steam-controllers/</link>
-      <pubDate>Thu, 07 May 2026 18:21:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2167230/valve-will-open-reservations-on-may-8-for-the-second-wave-of-steam-controllers/</guid>
-      <description>Hopefully fewer of the coveted controllers will be snapped up by bots and resellers this time.</description>
     </item>
   </channel>
 </rss>
