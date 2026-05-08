@@ -3,127 +3,76 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 08 May 2026 20:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 22:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth</title>
+      <link>https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth</link>
+      <pubDate>Fri, 08 May 2026 21:45:20 GMT</pubDate>
+      <guid isPermaLink="false">7laerjSOyFdiXHZAjvOY9h</guid>
+      <description>Dario Amodei is not the kind of CEO who talks loosely about numbers. The Anthropic co-founder and chief executive, a former VP of research at OpenAI with a PhD in computational neuroscience from Princeton, has built a reputation for measured public statements &#8212; particularly around the financial performance of a company that, until recently, disclosed almost nothing about its business.So when Amodei took the stage at Anthropic's Code with Claude developer conference on Wednesday and offered a genuinely striking piece of financial candor, the room paid attention."We tried to plan very well for a...</description>
+    </item>
+    <item>
+      <title>OpenAI brings GPT-5-class reasoning to real-time voice &#8212; and it changes what voice agents can actually orchestrate</title>
+      <link>https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate</link>
+      <pubDate>Fri, 08 May 2026 21:41:21 GMT</pubDate>
+      <guid isPermaLink="false">13VA1kM7FoFl9NrxCiqP5Y</guid>
+      <description>Voice agents have been expensive to run and painful to orchestrate, not because the models can't handle conversation, but because context ceilings forced enterprises to build session resets, state compression, and reconstruction layers into every deployment. OpenAI's three new voice models are designed to reduce that overhead, and they change how engineers can think about building voice into a larger agent stack.GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper integrate real-time audio into the model management stack as discrete orchestration primitives &#8212; separating conversatio...</description>
+    </item>
+    <item>
+      <title>A solution to our data center woes? Covering California&#8217;s canals with solar panels could generate a staggering 13GW of clean energy and save enough water for two million people &#8212; so why the opposition?</title>
+      <link>https://www.techradar.com/pro/a-solution-to-our-data-center-woes-covering-californias-canals-with-solar-panels-could-generate-a-staggering-13gw-of-clean-energy-and-save-enough-water-for-two-million-people-so-why-the-opposition</link>
+      <pubDate>Fri, 08 May 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">TGGZB8p73voeENFfeFbxGY</guid>
+      <description>California canal solar projects could generate significant power and save water, though high costs and environmental uncertainties complicate large-scale deployment decisions</description>
+    </item>
+    <item>
+      <title>5,000 vibe-coded apps just proved shadow AI is the new S3 bucket crisis</title>
+      <link>https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework</link>
+      <pubDate>Fri, 08 May 2026 20:57:01 GMT</pubDate>
+      <guid isPermaLink="false">275iE1Y3fHZ1neamQUbFct</guid>
+      <description>Most enterprise security programs were built to protect servers, endpoints, and cloud accounts. None of them was built to find a customer intake form that a product manager vibe coded on Lovable over a weekend, connected to a live Supabase database, and deployed on a public URL indexed by Google. That gap now has a price tag.New research from Israeli cybersecurity firm RedAccess quantifies the scale. The firm discovered 380,000 publicly accessible assets, including applications, databases, and related infrastructure, built with vibe coding tools from Lovable, Base44, and Replit, as well as dep...</description>
+    </item>
+    <item>
+      <title>Prime Video follows Netflix and Disney by adding a TikTok-like &#8216;Clips&#8217; feed in its app</title>
+      <link>https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/</link>
+      <pubDate>Fri, 08 May 2026 20:50:03 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120926</guid>
+      <description>The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.</description>
+    </item>
+    <item>
+      <title>Asus chases Elgato with its own secondary touchscreen display</title>
+      <link>https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display</link>
+      <pubDate>2026-05-08T16:34:24-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=927333</guid>
+      <description>Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 Asus ROG Zephyrus Duo 15. It's a slightly smaller competitor to Corsair's [&#8230;]</description>
+    </item>
+    <item>
+      <title>Discord is recovering from an outage that took some users offline</title>
+      <link>https://www.engadget.com/2168231/discord-is-down-for-some-users/</link>
+      <pubDate>Fri, 08 May 2026 20:24:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2168231/discord-is-down-for-some-users/</guid>
+      <description>The company had an issue with its API systems.</description>
+    </item>
+    <item>
+      <title>The Dell UltraSharp 52 Thunderbolt Hub monitor is the kind of display I always wished was possible, and now it's in my office</title>
+      <link>https://www.techradar.com/pro/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw-review</link>
+      <pubDate>Fri, 08 May 2026 20:20:00 +0000</pubDate>
+      <guid isPermaLink="false">okUv4bgMCMc8pmvfuZrSug</guid>
+      <description>This might just be the best screen on the market right now &#8212; but only if you like having a 6K TV as a monitor.</description>
+    </item>
+    <item>
+      <title>Amazon is adding a vertical video feed to Prime Video</title>
+      <link>https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed</link>
+      <pubDate>2026-05-08T16:19:57-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=927327</guid>
+      <description>Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new "Clips" feed will offer a stream of short-form videos from shows and movies, with options to jump into the full title, rent, or buy it. Prime Video previously offered a TikTok-style feed with [&#8230;]</description>
+    </item>
     <item>
       <title>Intel&#8217;s comeback story is even wilder than it seems</title>
       <link>https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/</link>
       <pubDate>Fri, 08 May 2026 20:02:52 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3120919</guid>
       <description>Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.</description>
-    </item>
-    <item>
-      <title>Amazon is slashing prices of best-selling women's running shoes from Nike, Saucony, Brooks, Asics and more &#8212; here are 28 deals you should make a sprint for</title>
-      <link>https://www.techradar.com/health-fitness/amazon-is-slashing-prices-of-best-selling-womens-running-shoes-from-nike-saucony-brooks-asics-and-more-here-are-28-deals-you-should-make-a-sprint-for</link>
-      <pubDate>Fri, 08 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">QzDku4KnVKsHuUmZiWPKXF</guid>
-      <description>Training shoes for every kind of runner, from beginner to expert, with up to 40% off.</description>
-    </item>
-    <item>
-      <title>The Netherlands' ambitious homegrown AI model enters the real world</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/the-netherlands-ambitious-homegrown-ai-model-enters-the-real-world</link>
-      <pubDate>Fri, 08 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9jAkzsGc87keqes6agSNNh</guid>
-      <description>GPT-NL is emerging as one of Europe&#8217;s most ambitious attempts to build a homegrown AI system</description>
-    </item>
-    <item>
-      <title>'From the inventors of origami': Japan joins Australia in building cardboard drones designed for one-way missions and swarming targets &#8212; and at just $2,000, they&#8217;re scarily cheap</title>
-      <link>https://www.techradar.com/pro/from-the-inventors-of-origami-japan-joins-australia-in-building-cardboard-drones-designed-for-one-way-missions-and-swarming-targets-and-at-just-usd2-000-theyre-scarily-cheap</link>
-      <pubDate>Fri, 08 May 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">fd8T6qB6iDzZWFgJdFZu2Q</guid>
-      <description>Japan&#8217;s cardboard drones introduce low-cost swarm warfare concepts, combining rapid production and deployment with unresolved questions about durability and battlefield effectiveness</description>
-    </item>
-    <item>
-      <title>Prime Video is adding a TikTok-like feed</title>
-      <link>https://www.engadget.com/2168176/prime-video-is-adding-a-tiktok-like-feed/</link>
-      <pubDate>Fri, 08 May 2026 19:18:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2168176/prime-video-is-adding-a-tiktok-like-feed/</guid>
-      <description>Your wish for a vertical recommendation carousel has been granted.</description>
-    </item>
-    <item>
-      <title>Wendy&#8217;s store closures 2026: Fast food chain update on long list of locations shuttered in turnaround plan</title>
-      <link>https://www.fastcompany.com/91539224/wendys-closing-stores-2026-update-list-locations-shuttered-fast-food-store-closures</link>
-      <pubDate>2026-05-08T19:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91539224/wendys-closing-stores-2026-update-list-locations-shuttered-fast-food-store-closures</guid>
-      <description>Wendy&#8217;s first-quarter earnings reveal a net loss of 174 U.S. restaurants in the past months, but the chain will build 1,000 more in China over the next decade.
-Wendy&#8217;s&#160;shares rose on Friday after the fast-food giant reported stronger-than-expected quarterly earnings, beating analyst estimates despite poor U.S. store performance, with U.S. same-restaurant sales falling 7.8%....</description>
-    </item>
-    <item>
-      <title>Here is Yarbo&#8217;s promise to fix the robot mower that ran me over</title>
-      <link>https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise</link>
-      <pubDate>2026-05-08T15:14:34-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=926989</guid>
-      <description>Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi passwords, email addresses, and more to any casual hacker who comes along. Today, Yarbo has issued a [&#8230;]</description>
-    </item>
-    <item>
-      <title>OpenAI has 3 new AI voice models that the ChatGPT maker says will &#8216;unlock a new class of voice apps for developers&#8217;</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/openai-has-3-new-ai-voice-models-that-the-chatgpt-maker-says-will-unlock-a-new-class-of-voice-apps-for-developers</link>
-      <pubDate>Fri, 08 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zWy8HUGD8SSJ2EfS5T6f98</guid>
-      <description>OpenAI has released new AI models for deep reasoning, translation and transcription.</description>
-    </item>
-    <item>
-      <title>The Wayback Machine faces another threat from AI &#8212; ridiculously expensive hard drive prices</title>
-      <link>https://www.techradar.com/computing/internet/the-wayback-machine-faces-another-threat-from-ai-ridiculously-expensive-hard-drive-prices</link>
-      <pubDate>Fri, 08 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zNBdKafumrLdfQRTeyVno4</guid>
-      <description>This is yet another example of the far-reaching nature of the AI-driven component crisis.</description>
-    </item>
-    <item>
-      <title>Department of War sets up UFO website, but there isn't much to see</title>
-      <link>https://www.engadget.com/2168147/department-of-war-sets-up-ufo-website-but-there-isnt-much-to-see/</link>
-      <pubDate>Fri, 08 May 2026 18:50:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2168147/department-of-war-sets-up-ufo-website-but-there-isnt-much-to-see/</guid>
-      <description>For fans of reading paperwork about aliens.</description>
-    </item>
-    <item>
-      <title>All the latest updates on AI data centers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-      <pubDate>2026-05-08T14:45:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=902546</guid>
-      <description>Massive new data centers are the physical foundation for tech companies&#8217; hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]</description>
-    </item>
-    <item>
-      <title>Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high</title>
-      <link>https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/</link>
-      <pubDate>Fri, 08 May 2026 18:33:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120740</guid>
-      <description>CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.</description>
-    </item>
-    <item>
-      <title>Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul</title>
-      <link>https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/</link>
-      <pubDate>Fri, 08 May 2026 18:25:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120846</guid>
-      <description>More than 500 people will be affected by the closures.</description>
-    </item>
-    <item>
-      <title>The Pentagon Releases New Trove of Declassified UFO Files</title>
-      <link>https://www.wired.com/story/pentagon-drops-new-ufo-files/</link>
-      <pubDate>Fri, 08 May 2026 18:18:24 +0000</pubDate>
-      <guid isPermaLink="false">69fdebba64b2ad9bfec62f4f</guid>
-      <description>The Defense Department has released a new trove of declassified documents about government UFO sightings.</description>
-    </item>
-    <item>
-      <title>Programmers are starting to trust AI more &#8211; but still don't entirely believe it won't come for their jobs</title>
-      <link>https://www.techradar.com/pro/programmers-are-starting-to-trust-ai-more-but-still-dont-entirely-believe-it-wont-come-for-their-jobs</link>
-      <pubDate>Fri, 08 May 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">3h7u8qoNpomJC6DJAwEcCY</guid>
-      <description>Although most developers use AI daily, often or sometimes, some still use it rarely and many don't even use it at all.</description>
-    </item>
-    <item>
-      <title>&#8216;Listed as remote for visibility&#8217;: Employer tries to game LinkedIn with false job details, enraging social media</title>
-      <link>https://www.fastcompany.com/91539267/listed-as-remote-for-visibility-employer-tries-to-game-linkedin-with-fake-job-perks-work-from-home-return-to-office</link>
-      <pubDate>2026-05-08T18:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91539267/listed-as-remote-for-visibility-employer-tries-to-game-linkedin-with-fake-job-perks-work-from-home-return-to-office</guid>
-      <description>Supplement company Inno Supps is under fire after labeling in-office roles as &#8216;work from home,&#8217; potentially violating LinkedIn&#8217;s job policies.
-An in-person remote position sounds like an oxymoron, but that&#8217;s exactly what fitness and athletics supplement company Inno Supps advertised in a LinkedIn job posting that&#8217;s gone viral for all the wrong reasons....</description>
-    </item>
-    <item>
-      <title>Tesla&#8217;s Latest Recall? Wheels May Fall Off Cybertrucks</title>
-      <link>https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/</link>
-      <pubDate>Fri, 08 May 2026 18:12:42 +0000</pubDate>
-      <guid isPermaLink="false">69fdfebb692a9d3fda8bd909</guid>
-      <description>In what is the 11th Cybertruck recall, certain models of Elon Musk&#8217;s embattled pickup could experience a sudden, unexpected wheel separation, thanks to the wrong grease and loose nuts.</description>
     </item>
   </channel>
 </rss>
