@@ -3,27 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 09 May 2026 21:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:51:58 GMT</lastBuildDate>
+    <item>
+      <title>'Geology can make the risks of solar storms 1000 times worse': Below the US is a 200-kilometer-thick lost continent that could put data centers at risk by making strained electrical grids even worse</title>
+      <link>https://www.techradar.com/pro/geology-can-make-the-risks-of-solar-storms-1000-times-worse-below-the-us-is-a-200-kilometer-thick-lost-continent-that-could-put-data-centers-at-risk-by-making-strained-electrical-grids-even-worse</link>
+      <pubDate>Sat, 09 May 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">SbFM65CRSRcSBCm4TxHchH</guid>
+      <description>Scientists discovered a buried geological structure beneath eastern America that could amplify solar storm damage to power grids and infrastructure</description>
+    </item>
     <item>
       <title>So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that</title>
       <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
       <pubDate>Sat, 09 May 2026 21:45:00 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
       <description>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
-    </item>
-    <item>
-      <title>NASA is set to begin training with a prototype of Blue Origin's crew moon lander</title>
-      <link>https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/</link>
-      <pubDate>Sat, 09 May 2026 20:37:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/</guid>
-      <description>The space agency is planning to put astronauts on the moon in 2028.</description>
-    </item>
-    <item>
-      <title>Fintech startup Parker files for bankruptcy</title>
-      <link>https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/</link>
-      <pubDate>Sat, 09 May 2026 20:32:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121044</guid>
-      <description>Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.</description>
     </item>
   </channel>
 </rss>
