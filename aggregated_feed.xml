@@ -3,20 +3,34 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 09 May 2026 22:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 23:54:13 GMT</lastBuildDate>
+    <item>
+      <title>Quordle hints and answers for Sunday, May 10 (game #1567)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-10-may-2026</link>
+      <pubDate>Sat, 09 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">E7KNbit2pbn6hLMe3948M7</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Sunday, May 10 (game #1064)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-10-may-2026</link>
+      <pubDate>Sat, 09 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">XnTSVtr8DUuJQ4BQujHZTC</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Sunday, May 10 (game #798)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-10-may-2026</link>
+      <pubDate>Sat, 09 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3wgns6MScJPPCRRDwA44z9</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>'Geology can make the risks of solar storms 1000 times worse': Below the US is a 200-kilometer-thick lost continent that could put data centers at risk by making strained electrical grids even worse</title>
       <link>https://www.techradar.com/pro/geology-can-make-the-risks-of-solar-storms-1000-times-worse-below-the-us-is-a-200-kilometer-thick-lost-continent-that-could-put-data-centers-at-risk-by-making-strained-electrical-grids-even-worse</link>
       <pubDate>Sat, 09 May 2026 22:20:00 +0000</pubDate>
       <guid isPermaLink="false">SbFM65CRSRcSBCm4TxHchH</guid>
       <description>Scientists discovered a buried geological structure beneath eastern America that could amplify solar storm damage to power grids and infrastructure</description>
-    </item>
-    <item>
-      <title>So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that</title>
-      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
-      <pubDate>Sat, 09 May 2026 21:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
-      <description>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
     </item>
   </channel>
 </rss>
