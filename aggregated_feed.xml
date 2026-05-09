@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 09 May 2026 20:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:51:37 GMT</lastBuildDate>
+    <item>
+      <title>So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that</title>
+      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <pubDate>Sat, 09 May 2026 21:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
+      <description>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+    </item>
     <item>
       <title>NASA is set to begin training with a prototype of Blue Origin's crew moon lander</title>
       <link>https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/</link>
@@ -17,50 +24,6 @@
       <pubDate>Sat, 09 May 2026 20:32:17 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3121044</guid>
       <description>Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.</description>
-    </item>
-    <item>
-      <title>Test du Bissell CrossWave HydroScrub Pro : il lave plus blanc, mais s&#232;che sur le banc</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/aspirateurs-balais-sans-fil/aspirateur-laveur/3086239_test-du-bissell-crosswave-hydroscrub-pro-il-lave-plus-blanc-mais-seche-sur-le-banc</link>
-      <pubDate>Sat, 09 May 2026 19:40:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/aspirateurs-balais-sans-fil/aspirateur-laveur/3086239_test-du-bissell-crosswave-hydroscrub-pro-il-lave-plus-blanc-mais-seche-sur-le-banc</guid>
-      <description>
-Bissell, on les connaissais pour leurs d&#233;tacheurs. On a test&#233; un aspirateur-laver, la marque am&#233;ricaine se frotte aux marques chinoises.
-</description>
-    </item>
-    <item>
-      <title>The electric scooter rental company Lime has filed for IPO</title>
-      <link>https://www.engadget.com/2168669/the-electric-scooter-rental-company-lime-has-filed-for-ipo/</link>
-      <pubDate>Sat, 09 May 2026 19:33:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2168669/the-electric-scooter-rental-company-lime-has-filed-for-ipo/</guid>
-      <description>The startup has expanded to more than 230 cities across the world, but has yet to become profitable.</description>
-    </item>
-    <item>
-      <title>GM agrees to pay $12.75M in California driver privacy settlement</title>
-      <link>https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/</link>
-      <pubDate>Sat, 09 May 2026 19:05:30 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121041</guid>
-      <description>General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.</description>
-    </item>
-    <item>
-      <title>'LLMs can infer private attributes from ad exposure alone': AI can tell a lot about you just based on the overall patterns of ads you see, without the need to access your browsing history or personal data &#8212; and not even a VPN can protect you</title>
-      <link>https://www.techradar.com/pro/security/llms-can-infer-private-attributes-from-ad-exposure-alone-ai-can-tell-a-lot-about-you-just-based-on-the-overall-patterns-of-ads-you-see-without-the-need-to-access-your-browsing-history-or-personal-data-and-not-even-a-vpn-can-protect-you</link>
-      <pubDate>Sat, 09 May 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">SvcV2aNBh7KAre8c9RpVbP</guid>
-      <description>AI can infer personal traits from ad exposure patterns alone, turning everyday advertising streams into detailed profiles without direct access to private data</description>
-    </item>
-    <item>
-      <title>Skulking in Middle-earth: Shadow of Mordor is superb, and the Nemesis System is yet to be bested by 12 years of action games</title>
-      <link>https://www.techradar.com/gaming/skulking-in-middle-earth-shadow-of-mordor-is-superb-and-the-nemesis-system-is-still-yet-to-be-bested-by-12-years-of-action-games</link>
-      <pubDate>Sat, 09 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zm3DsX7FyuWa4tV47TB4nf</guid>
-      <description>The best Lord of the Rings game is essentially fanfiction, but the Nemesis system is still the best in class.</description>
-    </item>
-    <item>
-      <title>UFC 328 live stream: how to watch Chimaev vs Strickland, start time, preview, full card</title>
-      <link>https://www.techradar.com/how-to-watch/sport/ufc-328-live-stream-chimaev-vs-strickland</link>
-      <pubDate>Sat, 09 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CnemFPyMSuK6YShxvx7TiG</guid>
-      <description>Two titles are on the line in Saturday's huge event &#8211; follow our guide to live stream UFC 328 online and watch Khamzat Chimaev vs Sean Strickland from anywhere.</description>
     </item>
   </channel>
 </rss>
