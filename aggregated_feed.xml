@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 10 May 2026 21:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:53:18 GMT</lastBuildDate>
+    <item>
+      <title>I'm impressed that Microsoft keeps on improving PowerToys with smart additions &#8212; but I wonder why the newest monitor trick isn't in Windows 11 by default</title>
+      <link>https://www.techradar.com/computing/windows/im-impressed-that-microsoft-keeps-on-improving-powertoys-with-smart-additions-but-i-wonder-why-the-newest-monitor-trick-isnt-in-windows-11-by-default</link>
+      <pubDate>Sun, 10 May 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">4mg8Jaegp2SzJfPmSM9hUo</guid>
+      <description>Power Display is a smart add-on that's arrived in the PowerToys suite of utilities, accompanied by another equally useful tool.</description>
+    </item>
     <item>
       <title>Whoop will soon offer users in-app video consultations with licensed clinicians</title>
       <link>https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/</link>
@@ -17,27 +24,6 @@
       <pubDate>Sun, 10 May 2026 21:15:30 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3121099</guid>
       <description>How will work setups change if we spend more and more time talking to our computers?</description>
-    </item>
-    <item>
-      <title>The Bastl Kalimba is a wild synth that thinks it&#8217;s a thumb piano</title>
-      <link>https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano</link>
-      <pubDate>2026-05-10T16:42:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=927638</guid>
-      <description>Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [&#8230;]</description>
-    </item>
-    <item>
-      <title>Anthropic says &#8216;evil&#8217; portrayals of AI were responsible for Claude&#8217;s blackmail attempts</title>
-      <link>https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/</link>
-      <pubDate>Sun, 10 May 2026 20:40:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121096</guid>
-      <description>Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.</description>
-    </item>
-    <item>
-      <title>Tiny company steals AMD's thunder and challenges Nvidia with old-tech PCIe AI accelerator that runs 700B LLMs locally, sipping just 240W thanks to decade-old DDR4 and 28nm chips</title>
-      <link>https://www.techradar.com/pro/tiny-company-steals-amds-thunder-and-challenges-nvidia-with-old-tech-pcie-ai-accelerator-that-runs-700b-llms-locally-sipping-just-240w-thanks-to-decade-old-ddr4-and-28nm-chips</link>
-      <pubDate>Sun, 10 May 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">5jDtN4LUUr5PzTj3MSfExi</guid>
-      <description>Skymizer introduced a low power PCIe AI accelerator using older chips and LPDDR memory for massive language model inference.</description>
     </item>
   </channel>
 </rss>
