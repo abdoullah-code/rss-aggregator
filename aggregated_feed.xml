@@ -3,7 +3,58 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 10 May 2026 16:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 17:54:05 GMT</lastBuildDate>
+    <item>
+      <title>Safari's latest trick could be automatically organizing your tabs into groups</title>
+      <link>https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/</link>
+      <pubDate>Sun, 10 May 2026 17:51:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/</guid>
+      <description>Bloomberg's Mark Gurman said Apple could introduce Organize Tabs feature with the next major software update.</description>
+    </item>
+    <item>
+      <title>Ce chargeur rapide double port Google 67W sp&#233;cialement adapt&#233; aux smartphones Pixel profite d&#8217;une belle promo &#224; -41%</title>
+      <link>https://www.frandroid.com/bons-plans/3087329_ce-chargeur-rapide-double-port-google-67w-specialement-adapte-aux-smartphones-pixel-profite-dune-belle-promo-a-41</link>
+      <pubDate>Sun, 10 May 2026 17:32:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3087329_ce-chargeur-rapide-double-port-google-67w-specialement-adapte-aux-smartphones-pixel-profite-dune-belle-promo-a-41</guid>
+      <description>
+Le Google Pixel Flex Double Port 67W est un chargeur avec deux ports USB-C capable de charger rapidement vos appareils, notamment les produits Google, mais aussi les autres. Il est &#224; retrouver pour 38,57 euros au lieu de 64,99 euros sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>AI tool poisoning exposes a major flaw in enterprise agent security</title>
+      <link>https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security</link>
+      <pubDate>Sun, 10 May 2026 17:22:13 GMT</pubDate>
+      <guid isPermaLink="false">3iKstrH0acU10Xk3QMDuMA</guid>
+      <description>AI agents choose tools from shared registries by matching natural-language descriptions. But no human is verifying whether those descriptions are true. I discovered this gap when I filed Issue #141 in the CoSAI secure-ai-tooling repository. I assumed it would be treated as a single risk entry. The repository maintainer saw it differently and split my submission into two separate issues: One covering selection-time threats (tool impersonation, metadata manipulation); the other covering execution-time threats (behavioral drift, runtime contract violation). That confirmed tool registry poisoning ...</description>
+    </item>
+    <item>
+      <title>Ashnymph&#8217;s Childhood EP is exhilarating dance goth rock</title>
+      <link>https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review</link>
+      <pubDate>2026-05-10T12:52:41-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=927620</guid>
+      <description>I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, drifts between dreamy vocals buried in layers of reverb and four-on-the-floor dancefloor pounding. It's a thrilling opening salvo [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Liquid Glass tweaks are reportedly coming in the next macOS</title>
+      <link>https://www.engadget.com/2169037/liquid-glass-tweaks-are-reportedly-coming-in-the-next-macos/</link>
+      <pubDate>Sun, 10 May 2026 16:50:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169037/liquid-glass-tweaks-are-reportedly-coming-in-the-next-macos/</guid>
+      <description>The changes are meant to improve legibility issues with lists and text-heavy areas.</description>
+    </item>
+    <item>
+      <title>A new Subnautica 2 gameplay trailer just dropped ahead of its Early Access release</title>
+      <link>https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/</link>
+      <pubDate>Sun, 10 May 2026 16:29:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169030/a-new-subnautica-2-gameplay-trailer-just-dropped-ahead-of-its-early-access-release/</guid>
+      <description>Subnautica 2 will be available in Early Access on May 14.</description>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: Lime&#8217;s IPO gamble</title>
+      <link>https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/</link>
+      <pubDate>Sun, 10 May 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120994</guid>
+      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.</description>
+    </item>
     <item>
       <title>How to watch Barcelona vs Real Madrid: Live Streams &amp; TV Channels for El Clasico 2025/26</title>
       <link>https://www.techradar.com/how-to-watch/football/barcelona-vs-real-madrid-el-clasico-2025-26</link>
@@ -19,50 +70,6 @@
       <description>
 Samsung vend des palettes enti&#232;res de ses Galaxy A tous les ans, mais la concurrence est plus f&#233;roce que jamais. Au m&#234;me niveau de prix, le Nothing Phone (4a) a tout d'un rival de poids. Lequel faut-il pr&#233;f&#233;rer ?
 </description>
-    </item>
-    <item>
-      <title>La nouvelle g&#233;n&#233;ration de sonnette vid&#233;o 2K connect&#233;e et sur batterie se retrouve en promo &#224; -40%</title>
-      <link>https://www.frandroid.com/bons-plans/3088423_la-nouvelle-generation-de-sonnette-video-2k-connectee-et-sur-batterie-se-retrouve-en-promo-a-40</link>
-      <pubDate>Sun, 10 May 2026 15:36:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3088423_la-nouvelle-generation-de-sonnette-video-2k-connectee-et-sur-batterie-se-retrouve-en-promo-a-40</guid>
-      <description>
-La Ring Battery Video Doorbell (Gen 2) est une sonnette vid&#233;o qui filme en 2K et fonctionne avec une batterie pour un acc&#232;s permanent &#224; ce qu'elle voit, en promo pour 59,99 euros au lieu de 99,99 euros.
-</description>
-    </item>
-    <item>
-      <title>We&#8217;re feeling cynical about xAI&#8217;s big deal with Anthropic</title>
-      <link>https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/</link>
-      <pubDate>Sun, 10 May 2026 15:34:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121081</guid>
-      <description>On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.</description>
-    </item>
-    <item>
-      <title>The hottest place for startups to strike a deal? The F1 paddock</title>
-      <link>https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/</link>
-      <pubDate>Sun, 10 May 2026 15:13:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3120972</guid>
-      <description>F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.</description>
-    </item>
-    <item>
-      <title>'People use smartphones more but invest less in their security': New report claims McAfee and Norton remain the most loved antivirus brands as users ditch lesser-known security products for free tools like Microsoft Defender or Apple Xprotect</title>
-      <link>https://www.techradar.com/pro/security/people-use-smartphones-more-but-invest-less-in-their-security-new-report-shows-that-mcafee-and-norton-remain-the-most-loved-antivirus-brands-as-users-ditch-lesser-known-security-products-for-free-tools-like-microsoft-defender-or-apple-xprotect</link>
-      <pubDate>Sun, 10 May 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ByhEU8Zu6MDMLMZhkT4QPX</guid>
-      <description>Smartphone usage dominates daily life, but most users avoid paying for security, relying instead on built-in protections and limited awareness</description>
-    </item>
-    <item>
-      <title>I&#8217;m a certified TV calibrator, and I tested the LG C6 and LG G5 OLEDs side-by-side to see which is better value &#8212; and I was surprised by the result</title>
-      <link>https://www.techradar.com/televisions/im-a-certified-tv-calibrator-and-i-tested-the-lg-c6-and-lg-g5-oled-tvs-side-by-side-to-see-which-is-better-value-and-i-was-surprised-by-the-answer</link>
-      <pubDate>Sun, 10 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dmE8KL9X8TBudBQve7N5C7</guid>
-      <description>With the LG C6's launch imminent, is it better value than last year's flagship G5? I tested the two side-by-side to find out</description>
-    </item>
-    <item>
-      <title>The FCCs proposed plan to fight spam calls puts consumer privacy in jeopardy</title>
-      <link>https://mashable.com/article/fcc-proposes-to-battle-spam-calls-at-the-expense-of-privacy-protections</link>
-      <pubDate>Sun, 10 May 2026 14:15:36 +0000</pubDate>
-      <guid isPermaLink="false">02zjSF22dTusrtmIvaxH44o</guid>
-      <description>Burner phones might become a thing of the past if the FCC has its way.</description>
     </item>
   </channel>
 </rss>
