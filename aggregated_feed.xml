@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 10 May 2026 20:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:52:53 GMT</lastBuildDate>
+    <item>
+      <title>Whoop will soon offer users in-app video consultations with licensed clinicians</title>
+      <link>https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/</link>
+      <pubDate>Sun, 10 May 2026 21:37:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/</guid>
+      <description>Clinicians will be able to see users' health data.</description>
+    </item>
+    <item>
+      <title>Get ready for the whisper-filled office of the future</title>
+      <link>https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</link>
+      <pubDate>Sun, 10 May 2026 21:15:30 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121099</guid>
+      <description>How will work setups change if we spend more and more time talking to our computers?</description>
+    </item>
     <item>
       <title>The Bastl Kalimba is a wild synth that thinks it&#8217;s a thumb piano</title>
       <link>https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano</link>
@@ -24,41 +38,6 @@
       <pubDate>Sun, 10 May 2026 20:35:00 +0000</pubDate>
       <guid isPermaLink="false">5jDtN4LUUr5PzTj3MSfExi</guid>
       <description>Skymizer introduced a low power PCIe AI accelerator using older chips and LPDDR memory for massive language model inference.</description>
-    </item>
-    <item>
-      <title>GM agrees to pay $12.75 million to settle California lawsuit over misuse of customers' driving data</title>
-      <link>https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/</link>
-      <pubDate>Sun, 10 May 2026 19:45:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/</guid>
-      <description>General Motors collected driving data through OnStar and sold it to data brokers.</description>
-    </item>
-    <item>
-      <title>Samsung has a massive TV sale ahead of Memorial Day &#8212; up to $1,500 off top-rated 4K, QLED, and OLED TVs</title>
-      <link>https://www.techradar.com/televisions/samsung-has-a-massive-tv-sale-ahead-of-memorial-day-up-to-usd1-500-off-top-rated-4k-qled-and-oled-tvs</link>
-      <pubDate>Sun, 10 May 2026 19:42:30 +0000</pubDate>
-      <guid isPermaLink="false">pjsVPbdvETkw24us5J3sam</guid>
-      <description>Samsung is clearing out its TVs ahead of Memorial Day with a massive sale and record-low prices on top-rated 4K, QLED, and OLED TVs.</description>
-    </item>
-    <item>
-      <title>Dua Lipa is suing Samsung for $15 million</title>
-      <link>https://www.engadget.com/2169117/dua-lipa-is-suing-samsung-for-15-million/</link>
-      <pubDate>Sun, 10 May 2026 19:08:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2169117/dua-lipa-is-suing-samsung-for-15-million/</guid>
-      <description>The singer accused the tech giant of illegally using her likeness to sell TVs.</description>
-    </item>
-    <item>
-      <title>I&#8217;ve been testing controllers for half a decade, and not a single budget option has impressed me like the 8BitDo Pro 3</title>
-      <link>https://www.techradar.com/gaming/8bitdo-pro-3-review</link>
-      <pubDate>Sun, 10 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">coJKHtW7R52shf55997vFa</guid>
-      <description>The 8BitDo Pro 3 took one look at the Switch 2 Pro Controller and said &#8216;hold my beer&#8217;.</description>
-    </item>
-    <item>
-      <title>These 18 clever outdoor kitchen solutions from IKEA will let you create a stunning summer cooking space on a budget</title>
-      <link>https://www.techradar.com/home/these-18-clever-outdoor-kitchen-solutions-from-ikea-will-let-you-create-a-stunning-summer-cooking-space-on-a-budget</link>
-      <pubDate>Sun, 10 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">QwEnn346jMsWVsBBEzSXj7</guid>
-      <description>Impress your friends and family this summer with a stylish outdoor kitchen that looks far more expensive than it was.</description>
     </item>
   </channel>
 </rss>
