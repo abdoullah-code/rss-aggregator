@@ -3,278 +3,236 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 11 May 2026 15:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 18:01:03 GMT</lastBuildDate>
     <item>
-      <title>4 600 km sans toucher le volant : l&#8217;exploit fou du FSD de Tesla qui se heurte au mur europ&#233;en</title>
-      <link>https://www.frandroid.com/marques/tesla/3094337_4-600-km-sans-toucher-le-volant-lexploit-fou-du-fsd-de-tesla-qui-se-heurte-au-mur-europeen</link>
-      <pubDate>Mon, 11 May 2026 15:56:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3094337_4-600-km-sans-toucher-le-volant-lexploit-fou-du-fsd-de-tesla-qui-se-heurte-au-mur-europeen</guid>
+      <title>Apple brings encrypted RCS chats to iPhone</title>
+      <link>https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android</link>
+      <pubDate>2026-05-11T13:57:56-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928141</guid>
+      <description>Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a [&#8230;]</description>
+    </item>
+    <item>
+      <title>OpenADR and Matter are collaborating to let your smart home talk to the grid</title>
+      <link>https://www.engadget.com/2169973/openadr-and-matter-are-collaborating-to-let-your-smart-home-talk-to-the-grid/</link>
+      <pubDate>Mon, 11 May 2026 17:53:23 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169973/openadr-and-matter-are-collaborating-to-let-your-smart-home-talk-to-the-grid/</guid>
+      <description>This should make it easier to connect appliances to demand response programs.</description>
+    </item>
+    <item>
+      <title>RCS chiffr&#233; entre iPhone et Android : Apple lance le d&#233;ploiement avec iOS 26.5</title>
+      <link>https://www.frandroid.com/marques/3095107_rcs-chiffre-entre-iphone-et-android-apple-lance-le-deploiement-avec-ios-26-5</link>
+      <pubDate>Mon, 11 May 2026 17:39:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3095107_rcs-chiffre-entre-iphone-et-android-apple-lance-le-deploiement-avec-ios-26-5</guid>
       <description>
-Une Tesla Model 3 vient de relier New York &#224; Los Angeles en moins de 50 heures, pilot&#233; de bout en bout par le logiciel FSD du constructeur. Une nouvelle prouesse technique ind&#233;niable pour le syst&#232;me de conduite autonome de Tesla, mais qui peine encore &#224; convaincre certains d&#233;cideurs politiques, notamment en Europe.
+Apple amorce ce jour le d&#233;ploiement du chiffrement de bout en bout pour les conversations RCS entre iPhone et Android. C'est activ&#233; par d&#233;faut, mais &#231;a reste une b&#234;ta soumise au bon vouloir des op&#233;rateurs.
 </description>
     </item>
     <item>
-      <title>The DJI Mini 3 is 'an entry-level DJI drone with a strong set of video features' &#8212; it's now back to a record-low price on Amazon</title>
-      <link>https://www.techradar.com/cameras/drones/the-dji-mini-3-is-an-entry-level-dji-drone-with-a-strong-set-of-video-features-its-now-back-to-a-record-low-price-on-amazon</link>
-      <pubDate>Mon, 11 May 2026 15:52:23 +0000</pubDate>
-      <guid isPermaLink="false">8z559BVk3sUNMyfEardqGe</guid>
-      <description>Fly more for less &#8211; this DJI Mini 3 bundle has been slashed to its lowest-ever price of $499 at Amazon.</description>
+      <title>Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation</title>
+      <link>https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/</link>
+      <pubDate>Mon, 11 May 2026 17:38:32 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121198</guid>
+      <description>Five-year old European military drone startup Helsing is close to raising another monster round.</description>
     </item>
     <item>
-      <title>V&#233;los &#233;lectriques : Bafang lance une bo&#238;te automatique qui change tout en c&#244;te</title>
-      <link>https://www.frandroid.com/marques/bafang/3094301_velos-electriques-bafang-lance-une-boite-automatique-qui-change-tout-en-cote</link>
-      <pubDate>Mon, 11 May 2026 15:48:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/bafang/3094301_velos-electriques-bafang-lance-une-boite-automatique-qui-change-tout-en-cote</guid>
+      <title>'For many such issues the simplest mitigation is to stop calling the buggyfunction. Killswitch provides that': Experts propose Linux kernel "killswitch" following worrying recent security issues</title>
+      <link>https://www.techradar.com/pro/security/for-many-such-issues-the-simplest-mitigation-is-to-stop-calling-the-buggy-function-killswitch-provides-that-experts-propose-linux-kernel-killswitch-following-worrying-recent-security-issues</link>
+      <pubDate>Mon, 11 May 2026 17:35:00 +0000</pubDate>
+      <guid isPermaLink="false">fo8coSVD39AjNTbrQdZ3FU</guid>
+      <description>A maintainer wants a first-aid kit for the Linux kernel and a proposal is currently being reviewed.</description>
+    </item>
+    <item>
+      <title>There&#8217;s an Unhinged New Video Game About Trump and the Iran War</title>
+      <link>https://www.wired.com/story/video-game-trump-iran-war/</link>
+      <pubDate>Mon, 11 May 2026 17:27:22 +0000</pubDate>
+      <guid isPermaLink="false">6a01eaff6453c0f1e30d6d2a</guid>
+      <description>The game, developed by the group of anonymous artists known as Secret Handshake, is available online and in person in Washington, DC.</description>
+    </item>
+    <item>
+      <title>A New Hantavirus Vaccine Is in the Works</title>
+      <link>https://www.wired.com/story/a-new-hantavirus-vaccine-is-in-the-works/</link>
+      <pubDate>Mon, 11 May 2026 17:16:02 +0000</pubDate>
+      <guid isPermaLink="false">6a01e56c00e9528f31d8189f</guid>
+      <description>Since 2023, Moderna and Korea University have been developing a new mRNA vaccine for hantavirus. The work has been promising so far, but a finished product isn't likely coming any time soon.</description>
+    </item>
+    <item>
+      <title>AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.</title>
+      <link>https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation</link>
+      <pubDate>Mon, 11 May 2026 17:15:18 GMT</pubDate>
+      <guid isPermaLink="false">4pJKQN7IRQiDQYYjM7mINj</guid>
+      <description>A doctor in a hospital exam room watches as a medical transcription agent updates electronic health records, prompts prescription options, and surfaces patient history in real time. A computer vision agent on a manufacturing line is running quality control at speeds no human inspector can match. Both generate non-human identities that most enterprises cannot inventory, scope, or revoke at machine speed.That is the structural problem keeping agentic AI stuck in pilots. Not model capability. Not compute. Identity governance.Cisco President Jeetu Patel told VentureBeat at RSAC 2026 that 85% of en...</description>
+    </item>
+    <item>
+      <title>Bravo is creating unscripted microdramas for the Peacock app</title>
+      <link>https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/</link>
+      <pubDate>Mon, 11 May 2026 17:14:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121166</guid>
+      <description>As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that is launching two unscripted Bravo microdramas, which will stream in the Peacock app.</description>
+    </item>
+    <item>
+      <title>Update Your iPhone Now for Better Encrypted Messaging With Android</title>
+      <link>https://www.wired.com/story/update-your-iphone-now-for-better-encrypted-messaging-with-android/</link>
+      <pubDate>Mon, 11 May 2026 17:06:53 +0000</pubDate>
+      <guid isPermaLink="false">6a01dd5f167d64e75545349e</guid>
+      <description>As part of the iOS 26.5 update, Apple&#8217;s Messages app can now encrypt texts between some iPhone and Android smartphones.</description>
+    </item>
+    <item>
+      <title>Texas sues Netflix for advertising &amp;#8216;bait and switch&amp;#8217; and spying</title>
+      <link>https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy</link>
+      <pubDate>2026-05-11T13:04:22-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928071</guid>
+      <description>Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has "opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in [&#8230;]</description>
+    </item>
+    <item>
+      <title>Digg tries again, this time as an AI news aggregator</title>
+      <link>https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/</link>
+      <pubDate>Mon, 11 May 2026 17:02:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121165</guid>
+      <description>Digg returns (again) as another place to read AI news.</description>
+    </item>
+    <item>
+      <title>OpenAI's &#8216;Trusted Contact&#8217; feature for ChatGPT users in crisis is a sign AI is becoming something much more personal</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/openais-trusted-contact-feature-for-chatgpt-users-in-crisis-is-a-sign-ai-is-becoming-something-much-more-personal</link>
+      <pubDate>Mon, 11 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6ZUA6YXdiVSDxBujbHRfmP</guid>
+      <description>OpenAI&#8217;s new Trusted Contact feature suggests ChatGPT is evolving from a chatbot into emotional infrastructure.</description>
+    </item>
+    <item>
+      <title>Venmo's redesigned app offers more discreet payments by default</title>
+      <link>https://www.engadget.com/2169847/venmos-redesigned-app-offers-more-discreet-payments-by-default/</link>
+      <pubDate>Mon, 11 May 2026 16:50:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169847/venmos-redesigned-app-offers-more-discreet-payments-by-default/</guid>
+      <description>New users will automatically have post visibility set to friends only instead of public.</description>
+    </item>
+    <item>
+      <title>The Mammotion LUBA 3 AWD 5000H robot lawn mower is on sale at Amazon for $400 off</title>
+      <link>https://mashable.com/article/may-11-mammotion-luba-3-robot-lawn-mower-deal</link>
+      <pubDate>Mon, 11 May 2026 16:44:21 +0000</pubDate>
+      <guid isPermaLink="false">032ypnBJW4oDku7734MarbW</guid>
+      <description>The Mammotion LUBA 3 AWD 5000H robot lawn mower is on sale at Amazon for $2,899, down from the list price at Mammotion of $3,299. That's a 22% discount.</description>
+    </item>
+    <item>
+      <title>My Best Buy Plus memberships just got a permanent price drop down to $29.99</title>
+      <link>https://mashable.com/article/may-11-my-best-buy-membership-pricing</link>
+      <pubDate>Mon, 11 May 2026 16:40:19 +0000</pubDate>
+      <guid isPermaLink="false">04FEd24YEXEbCi8R7AlrlHQ</guid>
+      <description>My Best Buy membership prices are changing. Plus memberships are now $20 cheaper, while Total memberships are $20 more.</description>
+    </item>
+    <item>
+      <title>This 'impressively rugged' portable power station 'opens up entirely new possibilities for living completely off-grid' &#8212; and it just got a massive discount ahead of festival season</title>
+      <link>https://www.techradar.com/pro/this-impressively-rugged-portable-power-station-opens-up-entirely-new-possibilities-for-living-completely-off-grid-and-it-just-got-a-massive-discount-ahead-of-festival-season</link>
+      <pubDate>Mon, 11 May 2026 16:35:00 +0000</pubDate>
+      <guid isPermaLink="false">t45tR6HwN26nTZ8TMjboE7</guid>
+      <description>I've found 7 power station offers from Bluetti, Jackery, EcoFlow and Anker, but one deal really stands out.</description>
+    </item>
+    <item>
+      <title>Don't buy this &#163;150 Epson EcoTank printer deal at Amazon &#8212; I've found an even cheaper Epson ink tank printer that's basically identical in every possible way</title>
+      <link>https://www.techradar.com/pro/dont-buy-this-gbp150-epson-ecotank-printer-deal-at-amazon-ive-found-an-even-cheaper-epson-ink-tank-printer-thats-basically-identical-in-every-possible-way</link>
+      <pubDate>Mon, 11 May 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">RVHkHs8hTuLfpWXn6ouUPk</guid>
+      <description>Save yourself a little extra for what is essentially the exact same ink tank printer.</description>
+    </item>
+    <item>
+      <title>Comment demander la nouvelle carte d&#8217;identit&#233; &#233;lectronique pour l&#8217;avoir sur smartphone ?</title>
+      <link>https://www.frandroid.com/android/applications/2565051_tout-le-monde-peut-desormais-demander-la-nouvelle-carte-didentite-electronique-pour-lavoir-sur-smartphone</link>
+      <pubDate>Mon, 11 May 2026 16:25:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/applications/2565051_tout-le-monde-peut-desormais-demander-la-nouvelle-carte-didentite-electronique-pour-lavoir-sur-smartphone</guid>
       <description>
-Bafang d&#233;voile une nouvelle transmission automatique, la RG E510, &#224; 5 vitesses pour v&#233;los &#233;lectriques. Au menu : elle promet une meilleure fluidit&#233; au p&#233;dalage, et est capable de recevoir des mises &#224; jour &#224; distance.
+C&#8217;est la lente fin des cartes d&#8217;identit&#233; grand format. Apr&#232;s de longs mois d&#8217;attente, les d&#233;tenteurs et d&#233;tentrices du document tout plastique peuvent en demander le renouvellement anticip&#233; pour, entre autres, avoir le document sur smartphone.
 </description>
     </item>
     <item>
-      <title>7 of our favorite deals from Amazon&#8217;s Pet Days sale</title>
-      <link>https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale</link>
-      <pubDate>2026-05-11T11:45:32-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=927788</guid>
-      <description>A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I&#8217;m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is [&#8230;]</description>
+      <title>&#8216;Dizziness, nausea, vertigo, and sleep disruption&#8217;: The undetectable hum of AI data centers is making local residents sick</title>
+      <link>https://www.techradar.com/pro/dizziness-nausea-vertigo-and-sleep-disruption-the-undetectable-hum-of-ai-data-centers-is-making-local-residents-sick</link>
+      <pubDate>Mon, 11 May 2026 16:25:00 +0000</pubDate>
+      <guid isPermaLink="false">B8T2o7BzML9xDCZBME4qvb</guid>
+      <description>AI data centers rely on noisy equipment to function, and it is having a physical effect on local residents.</description>
     </item>
     <item>
-      <title>Dua Lipa brands Samsung &#8216;dismissive and callous&#8217; as she sues the tech giant for $15m for using her photo on TV packaging without her permission</title>
-      <link>https://www.techradar.com/televisions/dua-lipa-brands-samsung-dismissive-and-callous-as-she-sues-the-tech-giant-for-usd15m-for-using-her-photo-on-tv-packaging-without-her-permission</link>
-      <pubDate>Mon, 11 May 2026 15:41:09 +0000</pubDate>
-      <guid isPermaLink="false">hR8SjRXv6hhbJ8TULdCRN7</guid>
-      <description>Singer Dua Lipa claims Samsung used her image for its TV boxes without her consent, and is suing the consumer tech giant for $15 million.</description>
-    </item>
-    <item>
-      <title>Live updates from Elon Musk and Sam Altman&#8217;s court battle over the future of OpenAI</title>
-      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
-      <pubDate>2026-05-11T11:27:12-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=917225</guid>
-      <description>Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]</description>
-    </item>
-    <item>
-      <title>Tesla&#160;: les cam&#233;ras peuvent d&#233;sormais pr&#233;dire un accident avant qu&#8217;il n&#8217;arrive</title>
-      <link>https://www.01net.com/actualites/tesla-cameras-peuvent-predire-accident-avant-quil-narrive.html</link>
-      <pubDate>Mon, 11 May 2026 15:26:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1346953</guid>
-      <description>La derni&#232;re mise &#224; jour Tesla apporte une am&#233;lioration pour le moins &#233;tonnante. L&#8217;auto est maintenant capable de pr&#233;dire un accident gr&#226;ce &#224; ses cam&#233;ras et de pr&#233;parer l&#8217;habitacle en cons&#233;quence pour gratter de pr&#233;cieuses millisecondes.</description>
-    </item>
-    <item>
-      <title>Porsche stoppe brutalement sa branche v&#233;lo &#233;lectrique, 350 emplois concern&#233;s</title>
-      <link>https://www.frandroid.com/marques/porsche/3094785_porsche-stoppe-brutalement-sa-branche-velo-electrique-350-emplois-concernes</link>
-      <pubDate>Mon, 11 May 2026 15:19:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/porsche/3094785_porsche-stoppe-brutalement-sa-branche-velo-electrique-350-emplois-concernes</guid>
+      <title>Pourquoi vous refusez (toujours) d&#8217;acheter un scooter ou une moto &#233;lectrique</title>
+      <link>https://www.frandroid.com/survoltes/scooters-electriques/3094429_pourquoi-vous-refusez-toujours-dacheter-un-scooter-ou-une-moto-electrique</link>
+      <pubDate>Mon, 11 May 2026 16:23:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/scooters-electriques/3094429_pourquoi-vous-refusez-toujours-dacheter-un-scooter-ou-une-moto-electrique</guid>
       <description>
-Porsche ferme trois filiales dans le cadre de son r&#233;alignement strat&#233;gique, dont Porsche eBike Performance, qui devait produire des moteurs Porsche pour v&#233;los &#233;lectriques. Plus de 500 employ&#233;s sont concern&#233;s par ces fermetures.
+Le march&#233; des deux-roues &#233;lectriques traverse effectivement une zone de turbulences assez longue en France, en tout cas tr&#232;s nette depuis la supression du bonus &#233;cologique, fin 2024. Encore cette ann&#233;e les ventes patinent, et &#224; ce rythme l&#224;, on roule tout droit vers la panne s&#232;che. Voici les derniers chiffres du march&#233;.
 </description>
     </item>
     <item>
-      <title>I love my Ninja Slushi drinks machine, but this new version is twice as ice &#8212; how can you resist cool twisted multi-colored slushies at home?</title>
-      <link>https://www.techradar.com/home/small-appliances/i-love-my-ninja-slushi-drinks-machine-but-this-new-version-is-twice-as-ice-how-can-you-resist-cool-twisted-multi-colored-slushies-at-home</link>
-      <pubDate>Mon, 11 May 2026 15:17:22 +0000</pubDate>
-      <guid isPermaLink="false">EbDMwysWtRGtEvFgCifq24</guid>
-      <description>Ninja doubles the freezing fun with the new Ninja Slishi Twist and its two drinks compartments</description>
-    </item>
-    <item>
-      <title>Le remake de Star Fox 64 sur Switch 2 est disponible en pr&#233;commande &#224; son plus bas prix juste ici</title>
-      <link>https://www.frandroid.com/bons-plans/3094065_le-remake-de-star-fox-64-sur-switch-2-est-disponible-en-precommande-a-son-plus-bas-prix-juste-ici</link>
-      <pubDate>Mon, 11 May 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3094065_le-remake-de-star-fox-64-sur-switch-2-est-disponible-en-precommande-a-son-plus-bas-prix-juste-ici</guid>
+      <title>+22 % de ventes en un trimestre : la revanche inattendue des berlines face aux SUV</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3094197_22-de-ventes-en-un-trimestre-la-revanche-inattendue-des-berlines-face-aux-suv</link>
+      <pubDate>Mon, 11 May 2026 16:20:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3094197_22-de-ventes-en-un-trimestre-la-revanche-inattendue-des-berlines-face-aux-suv</guid>
       <description>
-Star Fox est en fait le remake de Lylat Wars sur Nintendo 64, attendu sur Switch 2 le 25 juin 2026, que vous retrouvez en pr&#233;commande &#224; 49,99 euros sur Cultura au lieu de 59,99 euros.
+Apr&#232;s une d&#233;cennie d'h&#233;g&#233;monie des SUV et des crossovers, quelques constructeurs remettent la berline sur la table. Pas par nostalgie, mais parce que les prix s'envolent et que les marges se r&#233;&#233;quilibrent. Reste &#224; savoir si les clients seront au rendez-vous et reconsid&#233;reront la berline dans leurs intentions d'achat.
 </description>
     </item>
     <item>
-      <title>OpenAI sued by spouse of FSU shooting victim</title>
-      <link>https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/</link>
-      <pubDate>Mon, 11 May 2026 15:11:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/</guid>
-      <description>Florida's attorney general also opened an investigation into ChatGPT recently on similar grounds.</description>
+      <title>The Steam Machine has a new reference in Steam's database, and it means we could be seeing it arrive very soon</title>
+      <link>https://www.techradar.com/gaming/consoles-pc/the-steam-machine-has-a-new-reference-in-steams-database-and-it-means-we-could-be-seeing-it-arrive-very-soon</link>
+      <pubDate>Mon, 11 May 2026 16:19:51 +0000</pubDate>
+      <guid isPermaLink="false">RPyfh7n7E9iMrWdpdsTEV</guid>
+      <description>Gamers are still awaiting the Steam Machine's arrival, after delays due to the ongoing RAM crisis, but it looks like it may be closer after all.</description>
     </item>
     <item>
-      <title>GM settles California lawsuit claiming it sold driving habit data to insurance companies</title>
-      <link>https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies</link>
-      <pubDate>2026-05-11T11:11:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=927863</guid>
-      <description>General Motors has agreed to pay $12.75 million to settle a California data privacy lawsuit that accused the automaker of selling driver location and driver data, as reported earlier by Reuters. In a proposed settlement filed on Friday, GM agreed to stop selling customer information to data brokers for five years and must give California [&#8230;]</description>
-    </item>
-    <item>
-      <title>A fake OpenAI repository has taken top spot on Hugging Face &#8212; but all it does is push infostealer malware</title>
-      <link>https://www.techradar.com/pro/security/a-fake-openai-repository-has-taken-top-spot-on-hugging-face-but-all-it-does-is-push-infostealer-malware</link>
-      <pubDate>Mon, 11 May 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">vPUYUUQayK4pMT6ZiaxU3S</guid>
-      <description>Its popularity may have been faked, though, as the "likes" all came from auto-generated accounts.</description>
-    </item>
-    <item>
-      <title>Ces skis &#233;lectriques permettent de &#171;&#160;skier&#160;&#187; n&#8217;importe o&#249;, m&#234;me sans neige</title>
-      <link>https://www.01net.com/actualites/ces-skis-electriques-permettent-de-skier-nimporte-ou-meme-sans-neige.html</link>
-      <pubDate>Mon, 11 May 2026 15:01:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1347094</guid>
-      <description>La start-up normande Skwheel a remport&#233; la deuxi&#232;me place au Concours L&#233;pine, ainsi qu'une m&#233;daille d'or, pour ses skis &#233;lectriques.
-Ces skis permettent de &#171; skier &#187; sur diff&#233;rents terrains, m&#234;me sans neige.</description>
-    </item>
-    <item>
-      <title>There's a massive 35% off the newest Amazon Fire TV Stick so you can stream all your favourite shows for less</title>
-      <link>https://www.techradar.com/televisions/streaming-devices/theres-a-massive-35-percent-off-the-newest-amazon-fire-tv-stick-so-you-can-stream-all-your-favourite-shows-for-less</link>
-      <pubDate>Mon, 11 May 2026 15:00:02 +0000</pubDate>
-      <guid isPermaLink="false">iEpsGJcadZs6NZtbPbqhhX</guid>
-      <description>You can now grab Amazon&#8217;s newest streaming stick for a record-low price of &#163;25.99.</description>
-    </item>
-    <item>
-      <title>Leasing &#233;lectrique : vraie aubaine ou cauchemar au quotidien ? B&#233;n&#233;ficiaires, on veut tout savoir !</title>
-      <link>https://www.frandroid.com/survoltes/3093703_leasing-electrique-vraie-aubaine-ou-cauchemar-au-quotidien-beneficiaires-on-veut-tout-savoir</link>
-      <pubDate>Mon, 11 May 2026 14:55:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3093703_leasing-electrique-vraie-aubaine-ou-cauchemar-au-quotidien-beneficiaires-on-veut-tout-savoir</guid>
+      <title>Xiaomi-Leica, Vivo-Zeiss, Oppo-Hasselblad : pourquoi Honor refuse de s&#8217;acheter un logo</title>
+      <link>https://www.frandroid.com/marques/honor/3094897_xiaomi-leica-vivo-zeiss-oppo-hasselblad-pourquoi-honor-refuse-de-sacheter-un-logo</link>
+      <pubDate>Mon, 11 May 2026 16:18:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/honor/3094897_xiaomi-leica-vivo-zeiss-oppo-hasselblad-pourquoi-honor-refuse-de-sacheter-un-logo</guid>
       <description>
-Le gouvernement a fait des milliers d'heureux avec la voiture &#233;lectrique &#224; prix cass&#233;&#8230; sur le papier. Le leasing social rouvre une &#233;dition en juillet 2026, nous lan&#231;ons donc cet appel &#224; t&#233;moins afin de savoir si c'est vraiment une bonne affaire. Facture d'&#233;nergie ou d'assurance, recharge et conduite&#8230; Voulez-vous rendre les cl&#233;s ou garder votre mod&#232;le ? Faites-le bilan et racontez-nous !
-...</description>
-    </item>
-    <item>
-      <title>La v&#233;rification de l&#8217;&#226;ge impos&#233;e aux fournisseurs de VPN, l&#8217;id&#233;e d&#8217;un think tank europ&#233;en</title>
-      <link>https://www.frandroid.com/culture-tech/politique/3094307_la-verification-de-lage-imposee-aux-fournisseurs-de-vpn-lidee-dun-think-tank-europeen</link>
-      <pubDate>Mon, 11 May 2026 14:40:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/politique/3094307_la-verification-de-lage-imposee-aux-fournisseurs-de-vpn-lidee-dun-think-tank-europeen</guid>
-      <description>
-Si les jeunes utilisent un VPN pour passer outre la v&#233;rification de l'&#226;ge sur Internet, il suffit de demander aux VPN de le faire.
+Xiaomi a Leica, Oppo a Hasselblad, Vivo a Zeiss. Honor, lui, n'a personne au dos de ses smartphones, et c'est revendiqu&#233;. On a demand&#233; pourquoi &#224; ses responsables imagerie.
 </description>
     </item>
     <item>
-      <title>Matter and OpenADR team up to connect smart homes to the grid</title>
-      <link>https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management</link>
-      <pubDate>2026-05-11T10:40:28-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=927756</guid>
-      <description>Smart energy management just took a step closer to becoming simpler. This week, the organizations behind Matter, the smart-home interoperability standard, and the OpenADR protocol, which sends signals between the grid and the home, announced an agreement to work together. This should make it easier for connected appliances to participate in demand response programs (DR) [&#8230;]...</description>
+      <title>Democrats set on fighting $1 billion proposal that could fund Trump&#8217;s ballroom</title>
+      <link>https://www.fastcompany.com/91539810/democrats-set-fighting-1-billion-proposal-fund-trumps-ballroom</link>
+      <pubDate>2026-05-11T16:11:55</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91539810/democrats-set-fighting-1-billion-proposal-fund-trumps-ballroom</guid>
+      <description>The Senate is expected to vote on their version of the proposal this week.
+Republicans returning to Washington on Monday are facing questions about a $1 billion Senate security proposal that could help pay for President Donald Trump&#8217;s ballroom as Democrats say they will try to defeat it.Senate Republicans added the money for White House security to a spending bill that would restore funding for immigration enforcement agencies that Democrats have blocked since February. The steep security proposal was put forward after a man was charged with trying to assassinate Trump at the White House Corre...</description>
     </item>
     <item>
-      <title>Comment supprimer ou d&#233;sactiver son compte Instagram ?</title>
-      <link>https://www.frandroid.com/android/applications/967921_comment-supprimer-ou-desactiver-son-compte-instagram</link>
-      <pubDate>Mon, 11 May 2026 14:40:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/applications/967921_comment-supprimer-ou-desactiver-son-compte-instagram</guid>
+      <title>'Completely off the rails': TikTok is scaling back its AI summaries feature after it creates bizarre and inaccurate captions &#8212; as if TikTok wasn't bad enough for misinformation already</title>
+      <link>https://www.techradar.com/computing/tiktok/completely-off-the-rails-tiktok-is-scaling-back-its-ai-summaries-feature-after-it-creates-bizarre-and-inaccurate-captions-as-if-tiktok-wasnt-bad-enough-for-misinformation-already</link>
+      <pubDate>Mon, 11 May 2026 16:11:18 +0000</pubDate>
+      <guid isPermaLink="false">TvgPPh3JmwMjzKuEXHiKeZ</guid>
+      <description>TikTok says it's pulling back a limited test of AI summary captions, after the feature kept making major mistakes.</description>
+    </item>
+    <item>
+      <title>Google stopped a zero-day hack that it says was developed with AI</title>
+      <link>https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped</link>
+      <pubDate>2026-05-11T12:09:42-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928007</guid>
+      <description>For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), "prominent cyber crime threat actors" were planning to use the vulnerability for a "mass exploitation event" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Avec 260 &#8364; de r&#233;duction, l&#8217;iPad Air M3 est l&#8217;alternative moins ch&#232;re et imparable au mod&#232;le M4 qui vient tout juste de sortir</title>
+      <link>https://www.frandroid.com/bons-plans/3094595_avec-260-e-de-reduction-lipad-air-m3-est-lalternative-moins-chere-et-imparable-au-modele-m4-qui-vient-tout-juste-de-sortir</link>
+      <pubDate>Mon, 11 May 2026 16:08:38 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3094595_avec-260-e-de-reduction-lipad-air-m3-est-lalternative-moins-chere-et-imparable-au-modele-m4-qui-vient-tout-juste-de-sortir</guid>
       <description>
-Instagram ne laisse pas facilement les utilisateurs supprimer ou d&#233;sactiver leur compte. On vous explique comment faire pour supprimer ou d&#233;sactiver votre compte Insta depuis un PC, un iPhone ou un smartphone Android.
+L'iPad Air M3 est une tablette milieu de gamme par Apple qui offre de belles performances gr&#226;ce &#224; sa puce M3, m&#234;me si celle-ci a &#233;t&#233; remplac&#233;e par le mod&#232;le M4. Mais &#231;a permet &#224; son prix de passer de 719 euros &#224; 459 euros sur PC Componentes.
 </description>
     </item>
     <item>
-      <title>Les 10 smartphones les plus populaires de la semaine sur Frandroid : Samsung largement en t&#234;te</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-samsung-largement-en-tete</link>
-      <pubDate>Mon, 11 May 2026 14:39:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-samsung-largement-en-tete</guid>
-      <description>
-Pour notre top 10 des smartphones les plus populaires de la semaine sur Frandroid, c'est un trio de t&#233;l&#233;phones Samsung qui se place au sommet. Pour le reste, tous les constructeurs Android ou presque r&#233;ussissent &#224; placer un mod&#232;le.
-</description>
+      <title>macOS&#160;: Apple devrait corriger l&#8217;interface Liquid Glass et confier le tri de vos onglets Safari &#224; l&#8217;IA</title>
+      <link>https://www.01net.com/actualites/macos-apple-devrait-corriger-linterface-liquid-glass-et-confier-le-tri-de-vos-onglets-safari-a-lia.html</link>
+      <pubDate>Mon, 11 May 2026 16:05:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1347065</guid>
+      <description>Apple pr&#233;pare un correctif visuel pour macOS, un an apr&#232;s avoir lanc&#233; un design que ses propres ing&#233;nieurs reconnaissent ne pas avoir eu le temps de finaliser. Safari, lui, gagne un classement automatique des onglets.</description>
     </item>
     <item>
-      <title>Navigating the rise of agentic AI in 2026</title>
-      <link>https://www.techradar.com/pro/navigating-the-rise-of-agentic-ai-in-2026</link>
-      <pubDate>Mon, 11 May 2026 14:33:11 +0000</pubDate>
-      <guid isPermaLink="false">U8C9umXzDfWyUhWciqxJkL</guid>
-      <description>In 2026, agentic AI is transforming industries by taking initiative, requiring robust ethical governance and transparency</description>
+      <title>Did Euphoria really just kill off Rue?</title>
+      <link>https://mashable.com/article/euphoria-season-3-is-rue-dead</link>
+      <pubDate>Mon, 11 May 2026 16:04:21 +0000</pubDate>
+      <guid isPermaLink="false">00OwJsWLpylY0EArvqyZ2ti</guid>
+      <description>"Euphoria" Season 3, episode 5 ends with a massive cliffhanger, as Alamo Brown gears up to kill Zendaya's Rue. But is she really gone?</description>
     </item>
     <item>
-      <title>Un TV qui devient un tableau de ma&#238;tre : c&#8217;est le Samsung The Frame Pro dont le mod&#232;le Neo QLED de 65&#8243; est brad&#233; &#224; -35%</title>
-      <link>https://www.frandroid.com/bons-plans/3094411_un-tv-qui-devient-un-tableau-de-maitre-cest-le-samsung-the-frame-pro-dont-le-modele-neo-qled-de-65-est-brade-a-35</link>
-      <pubDate>Mon, 11 May 2026 14:31:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3094411_un-tv-qui-devient-un-tableau-de-maitre-cest-le-samsung-the-frame-pro-dont-le-modele-neo-qled-de-65-est-brade-a-35</guid>
-      <description>
-Le Samsung The Frame Pro 65 pouces est un t&#233;l&#233;viseur si fin qu'il pourrait passer pour un tableau quand il est accroch&#233; sur un mur. La version Neo QLED 2026 est en promo &#224; 1 099 euros sur Joybuy, contre 1 690 euros sur le site de la marque.
-</description>
-    </item>
-    <item>
-      <title>Bouygues remet le couvert : la B&amp;You Pure Fibre Plus grimpe &#224; 26,99 &#8364;/mois</title>
-      <link>https://www.frandroid.com/marques/3094713_bouygues-remet-le-couvert-la-byou-pure-fibre-plus-grimpe-a-2699-e-mois</link>
-      <pubDate>Mon, 11 May 2026 14:29:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3094713_bouygues-remet-le-couvert-la-byou-pure-fibre-plus-grimpe-a-2699-e-mois</guid>
-      <description>
-Bouygues Telecom rel&#232;ve une nouvelle fois le tarif de son offre fibre sans TV. La B&amp;You Pure Fibre Plus passe &#224; 26,99 &#8364;/mois, soit trois euros de plus en six mois.
-</description>
-    </item>
-    <item>
-      <title>Les ventes de trottinettes &#233;lectriques se stabilisent en 2025, avec une belle nouvelle &#224; la cl&#233;</title>
-      <link>https://www.frandroid.com/survoltes/trottinette-electrique/3093995_les-ventes-de-trottinettes-electriques-se-stabilisent-en-2025-avec-une-belle-nouvelle-a-la-cle</link>
-      <pubDate>Mon, 11 May 2026 14:25:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/trottinette-electrique/3093995_les-ventes-de-trottinettes-electriques-se-stabilisent-en-2025-avec-une-belle-nouvelle-a-la-cle</guid>
-      <description>
-Le march&#233; de la trottinette &#233;lectrique tend &#224; se stabiliser autour de 600 000 unit&#233;s, tandis que le prix moyen recule &#224; pr&#232;s de 400 euros.
-</description>
-    </item>
-    <item>
-      <title>Nouvelle cyberattaque sur Windows et Linux&#160;: ce logiciel gratuit, utilis&#233; par des millions d&#8217;utilisateurs, a &#233;t&#233; pi&#233;g&#233;</title>
-      <link>https://www.01net.com/actualites/nouvelle-cyberattaque-sur-windows-et-linux-ce-logiciel-gratuit-utilise-par-des-millions-dutilisateurs-a-ete-piege.html</link>
-      <pubDate>Mon, 11 May 2026 14:24:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1347092</guid>
-      <description>Pendant plus de 24 heures, le site officiel de JDownloader a distribu&#233; des fichiers d'installation pi&#233;g&#233;s. Un virus, capable de prendre le contr&#244;le total d'un ordinateur &#224; distance, a circul&#233; sur Windows et Linux &#224; cause d'une faille de s&#233;curit&#233;.</description>
-    </item>
-    <item>
-      <title>NYT&#8217;s Wordle to become a TV game show</title>
-      <link>https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/</link>
-      <pubDate>Mon, 11 May 2026 14:23:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121140</guid>
-      <description>The popular mobile puzzle game will become a TV game show next year.</description>
-    </item>
-    <item>
-      <title>Discord's Nitro subscription now includes a slightly nerfed Xbox Game Pass</title>
-      <link>https://www.engadget.com/2169595/discords-nitro-subscription-now-includes-a-slightly-nerfed-xbox-game-pass/</link>
-      <pubDate>Mon, 11 May 2026 14:22:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2169595/discords-nitro-subscription-now-includes-a-slightly-nerfed-xbox-game-pass/</guid>
-      <description>The Nitro Rewards program also includes discounts on Logitech G and SteelSeries gear.</description>
-    </item>
-    <item>
-      <title>D&#233;claration d&#8217;imp&#244;ts 2026 : doit-on d&#233;clarer son compte d&#8217;une banque &#233;trang&#232;re (Revolut, N26, Wise, Bunq, etc&#8230;) au fisc ?</title>
-      <link>https://www.frandroid.com/services/banque-en-ligne/2581061_declaration-dimpots-2025-doit-on-declarer-son-compte-dune-banque-etrangere-revolut-n26-wise-bunq-etc-au-fisc</link>
-      <pubDate>Mon, 11 May 2026 14:15:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/2581061_declaration-dimpots-2025-doit-on-declarer-son-compte-dune-banque-etrangere-revolut-n26-wise-bunq-etc-au-fisc</guid>
-      <description>
-La saison 2026 de la d&#233;claration d'imp&#244;ts est ouverte ! Depuis le 10 avril, chaque Fran&#231;ais doit s'acquitter de cette corv&#233;e administrative pour conna&#238;tre le montant de la douloureuse, mais pour les d&#233;tenteurs d'un compte en banque d'un &#233;tablissement &#233;tranger, doit-on obligatoirement d&#233;clarer ?
-</description>
-    </item>
-    <item>
-      <title>'I have zero evidence in front of me that users are being driven away from Fedora because of AI': Ubuntu and Fedora confirmed to both get AI support soon</title>
-      <link>https://www.techradar.com/pro/i-have-zero-evidence-in-front-of-me-that-users-are-being-driven-away-from-fedora-because-of-ai-ubuntu-and-fedora-confirmed-to-both-get-ai-support-soon</link>
-      <pubDate>Mon, 11 May 2026 14:10:00 +0000</pubDate>
-      <guid isPermaLink="false">5DEa3QAh5k6TZ62mGZkzhm</guid>
-      <description>Fedora and Ubuntu have set out plans to run small AI models locally, and this has caused a mixed reaction from the open source community.</description>
-    </item>
-    <item>
-      <title>Nintendo bloque l&#8217;astuce qui permettait de regarder YouTube sur la Switch 2</title>
-      <link>https://www.frandroid.com/marques/nintendo/3094615_nintendo-bloque-lastuce-qui-permettait-de-regarder-youtube-sur-la-switch-2</link>
-      <pubDate>Mon, 11 May 2026 14:09:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nintendo/3094615_nintendo-bloque-lastuce-qui-permettait-de-regarder-youtube-sur-la-switch-2</guid>
-      <description>
-Pas d'application YouTube officielle sur la Switch 2, mais un navigateur cach&#233; dans un jeu gratuit faisait l'affaire. Nintendo a tu&#233; l'astuce en quelques heures, sans rien proposer en &#233;change.
-</description>
-    </item>
-    <item>
-      <title>TikTok launches an ad-free subscription plan in the UK</title>
-      <link>https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/</link>
-      <pubDate>Mon, 11 May 2026 14:05:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121141</guid>
-      <description>Users who sign up for the plan won&#8217;t see ads on TikTok, and their data won&#8217;t be used for advertising purposes.</description>
-    </item>
-    <item>
-      <title>Joanna Stern is not a robot, but she lived with them</title>
-      <link>https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation</link>
-      <pubDate>2026-05-11T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=926752</guid>
-      <description>My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that because Joanna [&#8230;]</description>
-    </item>
-    <item>
-      <title>Directive 8020 is Dark Pictures' most ambitious entry yet &#8211; and its most forgiving</title>
-      <link>https://www.techradar.com/gaming/directive-8020-review</link>
-      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">XdwWyKmMEqavAaSDA7qF6P</guid>
-      <description>Supermassive Games' latest entry in The Dark Pictures Anthology, Directive 8020, is a welcome evolution of the interactive survival horror series. But while new stealth mechanics and its forgiving Turning Points feature push the series in a refreshing new direction, the game lacks the bite of the series' prior offerings.</description>
-    </item>
-    <item>
-      <title>Directive 8020 review: A compelling space horror thats more fun to watch than play</title>
-      <link>https://mashable.com/review/directive-8020-review-ps5</link>
-      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">04o80iBmry5fJ5iSvC0R2Fv</guid>
-      <description>A review of Supermassive Games' "Directive 8020" for the PlayStation 5.</description>
-    </item>
-    <item>
-      <title>TikTok is launching an ad-free version in the UK</title>
-      <link>https://mashable.com/article/tiktok-uk-ad-free</link>
-      <pubDate>Mon, 11 May 2026 13:58:16 +0000</pubDate>
-      <guid isPermaLink="false">00oqtYtzloopewhfKWOyUvg</guid>
-      <description>TikTok is rolling out an ad-free option in the UK.</description>
+      <title>Apple quietly released the all-new AirPods Max 2 last month &#8212; and you can already score a rare $40 discount at Amazon</title>
+      <link>https://www.techradar.com/audio/earbuds-airpods/apple-quietly-released-the-all-new-airpods-max-2-last-month-and-you-can-already-score-a-rare-usd40-discount-at-amazon</link>
+      <pubDate>Mon, 11 May 2026 16:01:47 +0000</pubDate>
+      <guid isPermaLink="false">AekoswjTzeZA6eWkpCLsKU</guid>
+      <description>The all-new AirPods Max 2 were just released last month, and Amazon already has an impressive $40 discount on the luxurious over-ear headphones.</description>
     </item>
   </channel>
 </rss>
