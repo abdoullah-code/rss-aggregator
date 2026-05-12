@@ -3,402 +3,528 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 12 May 2026 16:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 18:59:28 GMT</lastBuildDate>
     <item>
-      <title>HP's huge Memorial Day sale is already live &#8212; I've looked through everything and these are easily the 6 best laptop deals</title>
-      <link>https://www.techradar.com/computing/windows-laptops/hps-huge-memorial-day-sale-is-already-live-ive-looked-through-everything-and-these-are-easily-the-6-best-laptop-deals</link>
-      <pubDate>Tue, 12 May 2026 16:16:22 +0000</pubDate>
-      <guid isPermaLink="false">G5aPbocSkroVchoarWaHDV</guid>
-      <description>On the hunt for a new laptop? You don't even have to wait until Memorial Day to score a deal at the official HP Store.</description>
+      <title>Google is reportedly considering working with SpaceX on orbital data centers</title>
+      <link>https://www.engadget.com/2171194/google-is-reportedly-considering-working-with-spacex-on-orbital-data-centers/</link>
+      <pubDate>Tue, 12 May 2026 18:51:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171194/google-is-reportedly-considering-working-with-spacex-on-orbital-data-centers/</guid>
+      <description>The company has been working on the idea since the end of 2025.</description>
     </item>
     <item>
-      <title>It&#8217;s not the fastest but NordVPN is my top choice for streaming soccer on Peacock TV &#8211; best of all, it&#8217;s still on sale</title>
-      <link>https://www.techradar.com/vpn/vpn-services/its-not-the-fastest-but-nordvpn-is-my-top-choice-for-streaming-soccer-on-peacock-tv-best-of-all-its-still-on-sale</link>
-      <pubDate>Tue, 12 May 2026 16:15:21 +0000</pubDate>
-      <guid isPermaLink="false">EzhHdLzMmbG2kj8PnWDcmd</guid>
-      <description>Don't forget to look at latency when you're choosing a VPN for streaming or gaming &#8211; speed is nothing without consistency.</description>
+      <title>Protect your enterprise now from the Shai-Hulud worm and npm vulnerability in 6 actionable steps</title>
+      <link>https://venturebeat.com/security/shai-hulud-worm-172-npm-pypi-packages-valid-provenance-ci-cd-audit</link>
+      <pubDate>Tue, 12 May 2026 18:49:52 GMT</pubDate>
+      <guid isPermaLink="false">7cicO7UI0zXAqaiain0QwJ</guid>
+      <description>Any development environment that installed or imported one of the 172 compromised npm or PyPI packages published since May 11 should be treated as potentially compromised. On affected developer workstations, the worm harvests credentials from over 100 file paths: AWS keys, SSH private keys, npm tokens, GitHub PATs, HashiCorp Vault tokens, Kubernetes service accounts, Docker configs, shell history, and cryptocurrency wallets. For the first time in a TeamPCP campaign, it targets password managers including 1Password and Bitwarden, according to SecurityWeek. It steals Claude and Kiro AI agent con...</description>
     </item>
     <item>
-      <title>Amazon d&#233;voile la premi&#232;re Kindle Scribe couleur</title>
-      <link>https://www.01net.com/actualites/amazon-devoile-la-premiere-kindle-scribe-couleur.html</link>
-      <pubDate>Tue, 12 May 2026 16:12:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1347345</guid>
-      <description>Amazon lance une nouvelle gamme de Kindle Scribe comprenant trois mod&#232;les, dont le premier Kindle Scribe couleur. Dans la foul&#233;e, l'entreprise annonce aussi de nouvelles fonctionnalit&#233;s.</description>
+      <title>Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI &amp; Google</title>
+      <link>https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google</link>
+      <pubDate>Tue, 12 May 2026 18:45:17 GMT</pubDate>
+      <guid isPermaLink="false">1WGzLcJhg1qGXiRGzwynpv</guid>
+      <description>AI that can see and understand what's happening in a video &#8212; especially a live feed &#8212; is understandably an attractive product to lots of enterprises and organizations. Beyond acting as a security "watchdog" over sites and facilities, such an AI model could also be used to clip out the most exciting parts of marketing videos and repurpose them for social, identify inconsistencies and gaffs in videos and flag them for removal, and identify body language and actions of participants in controlled studies or candidates applying for new roles. While there are some AI models that offer this type of f...</description>
     </item>
     <item>
-      <title>What's new at Lego for June: 16 fresh sets to swoon over, including a soccer legend, an iconic city skyline, and the working road bike everyone's been waiting for</title>
-      <link>https://www.techradar.com/home/whats-new-at-lego-for-june-16-fresh-sets-to-swoon-over-including-a-soccer-legend-an-iconic-city-skyline-and-the-working-road-bike-everyones-been-waiting-for</link>
-      <pubDate>Tue, 12 May 2026 16:06:51 +0000</pubDate>
-      <guid isPermaLink="false">tTChcdpVVgzs59emxvT45A</guid>
-      <description>This summer is bringing with it more brick-based brilliance.</description>
+      <title>Kevin Hartz&#8217;s A* just closed its third fund with $450 million</title>
+      <link>https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/</link>
+      <pubDate>Tue, 12 May 2026 18:45:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121658</guid>
+      <description>Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.</description>
     </item>
     <item>
-      <title>Android Show 2026 live &#8212; all the big news on Android 17 and more</title>
-      <link>https://www.techradar.com/news/live/android-show-2026-live</link>
-      <pubDate>Tue, 12 May 2026 16:06:00 +0000</pubDate>
-      <guid isPermaLink="false">UjdRfZxEfC3JjhaTWzZfY9</guid>
-      <description>All the latest news from Google's Android-focused pre-I/O show, as it happens.</description>
+      <title>Waymo recalls nearly 4,000 robotaxis after a car drove directly into a flooded road</title>
+      <link>https://www.engadget.com/2171165/waymo-recalls-nearly-4000-robotaxis-after-a-car-drove-directly-into-a-flooded-road/</link>
+      <pubDate>Tue, 12 May 2026 18:33:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171165/waymo-recalls-nearly-4000-robotaxis-after-a-car-drove-directly-into-a-flooded-road/</guid>
+      <description>The company has deployed an OTA software fix.</description>
     </item>
     <item>
-      <title>Sam Altman takes the stand in trial against Elon Musk</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial</link>
-      <pubDate>2026-05-12T12:05:20-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=916975</guid>
-      <description>OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team at OpenAI, with Musk investing up [&#8230;]</description>
+      <title>Apple acquired another company that could help build out its Creator Studio subscription</title>
+      <link>https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/</link>
+      <pubDate>Tue, 12 May 2026 18:24:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171141/apple-acquired-another-company-that-could-help-build-out-its-creator-studio-subscription/</guid>
+      <description>The company behind color grading tool Color.io was acquired in January.</description>
     </item>
     <item>
-      <title>Lord of the Rings: The Rings of Power returns to Prime Video in November</title>
-      <link>https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/</link>
-      <pubDate>Tue, 12 May 2026 16:05:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/</guid>
-      <description>Season three of Amazon's Lord of the Rings show skips forward several years from the second season finale.</description>
+      <title>This devious Android malware has returned disguised as TikTok or streaming apps &#8212; and is now using blockchain to remain undetected</title>
+      <link>https://www.techradar.com/pro/security/this-devious-android-malware-has-returned-disguised-as-tiktok-or-streaming-apps-and-is-now-using-blockchain-to-remain-undetected</link>
+      <pubDate>Tue, 12 May 2026 18:20:00 +0000</pubDate>
+      <guid isPermaLink="false">GzPqouc6JbueJLDC254SYm</guid>
+      <description>A fake TikTok app is actually a banking trojan enabling credential theft and wire fraud.</description>
     </item>
     <item>
-      <title>OpenAI snaps up consulting company to help spread the word about AI</title>
-      <link>https://www.techradar.com/pro/openai-snaps-up-consulting-company-to-help-spread-the-word-about-ai</link>
-      <pubDate>Tue, 12 May 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">uBGHtQjqieMw5YbLj5BuAK</guid>
-      <description>OpenAI sets out plans to embed DeployCo workers inside customer enterprises to help them identify AI uses cases and transformation opportunities.</description>
+      <title>Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup</title>
+      <link>https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/</link>
+      <pubDate>Tue, 12 May 2026 18:14:58 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121632</guid>
+      <description>Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.</description>
     </item>
     <item>
-      <title>Le Samsung Galaxy S26 Plus passe pour la premi&#232;re fois &#224; 699 euros chez Orange, sans forfait</title>
-      <link>https://www.frandroid.com/marques/3096673_le-samsung-galaxy-s26-plus-passe-pour-la-premiere-fois-a-699-euros-chez-orange-sans-forfait</link>
-      <pubDate>Tue, 12 May 2026 16:02:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3096673_le-samsung-galaxy-s26-plus-passe-pour-la-premiere-fois-a-699-euros-chez-orange-sans-forfait</guid>
+      <title>A growing list of snacks are being recalled over Salmonella fears: Toss these products sold at Target and elsewhere</title>
+      <link>https://www.fastcompany.com/91540812/salmonella-snacks-recall-full-product-list-sold-at-target-elsewhere</link>
+      <pubDate>2026-05-12T18:12:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91540812/salmonella-snacks-recall-full-product-list-sold-at-target-elsewhere</guid>
+      <description>Popcorn, nuts pork rinds, potato chips, and cheese curds are among the treats linked to ingredients produced by California Dairies that may be contaminated.
+More than three dozen snack products sold under numerous brand names are being recalled due to fears that one of their ingredients could be contaminated with the potentially deadly bacterium Salmonella. Here&#8217;s what you need to know about the snacks recall....</description>
+    </item>
+    <item>
+      <title>Inflation surges to 3.8% in April as the war in Iran spikes gas and food prices</title>
+      <link>https://www.fastcompany.com/91540987/us-inflation-consumer-iran-war</link>
+      <pubDate>2026-05-12T18:06:13</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91540987/us-inflation-consumer-iran-war</guid>
+      <description>Gasoline prices are up more than 28% compared with a year ago. 
+U.S. consumer prices climbed sharply again last month as the 10-week&#160;war with Iran&#160;delivered higher gasoline prices and more pain for Americans.</description>
+    </item>
+    <item>
+      <title>Musk mulled handing OpenAI to his children, Altman testifies</title>
+      <link>https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/</link>
+      <pubDate>Tue, 12 May 2026 18:05:15 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121651</guid>
+      <description>OpenAI's CEO recalls a "particularly hair-raising" conversation with the SpaceX founder.</description>
+    </item>
+    <item>
+      <title>Threads users are pissed they can't block Meta's new AI chatbot</title>
+      <link>https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/</link>
+      <pubDate>Tue, 12 May 2026 18:04:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/</guid>
+      <description>It's the top trending topic on the platform.</description>
+    </item>
+    <item>
+      <title>I'm a homes expert, and the Argos sale is crammed with appliance gems &#8212; here's what I'd buy</title>
+      <link>https://www.techradar.com/home/small-appliances/im-a-homes-expert-and-the-argos-sale-is-crammed-with-appliance-gems-heres-what-id-buy</link>
+      <pubDate>Tue, 12 May 2026 18:02:59 +0000</pubDate>
+      <guid isPermaLink="false">Tiu2mHTmNTjZZWStx55ox9</guid>
+      <description>I've combed through Argos' big appliance sale and hand-picked the best bargains, on brands like Miele and Shark.</description>
+    </item>
+    <item>
+      <title>Adobe Premiere arrive sur Android cet &#233;t&#233; avec une petite surprise sign&#233;e Samsung</title>
+      <link>https://www.frandroid.com/android/applications/3096577_adobe-premiere-arrive-sur-android-cet-ete-avec-une-petite-surprise-signee-samsung</link>
+      <pubDate>Tue, 12 May 2026 18:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3096577_adobe-premiere-arrive-sur-android-cet-ete-avec-une-petite-surprise-signee-samsung</guid>
       <description>
-Le Samsung Galaxy S26 Plus fait partie des derniers smartphones haut de gamme lanc&#233;s par le g&#233;ant sud-cor&#233;en. Il peut actuellement vous revenir &#224; 699 euros au lieu de 1 269 euros chez Orange. Et oui, le S26 est propos&#233; au m&#234;me prix.
+Pendant l'Android Show 2026 ce mardi 12 mai, Google a confirm&#233; l'arriv&#233;e d'Adobe Premiere sur Android pour l'&#233;t&#233;. Avec, en filigrane, un coup de pouce appuy&#233; au codec APV de Samsung.
 </description>
     </item>
     <item>
-      <title>George Clooney, Tom Hanks, and Meryl Streep back new &amp;#8216;Human Consent Standard&amp;#8217; for AI licensing</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard</link>
-      <pubDate>2026-05-12T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=928534</guid>
-      <description>Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission [&#8230;]</description>
+      <title>What is the release date for Hacks season 5 episode 8 on HBO Max?</title>
+      <link>https://www.techradar.com/streaming/hbo-max/hacks-season-5-episode-8-release-date-time</link>
+      <pubDate>Tue, 12 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Jad7dpEeHpEi7ph6izJXDL</guid>
+      <description>Being delulu over Deborah and Ava's fake romance is so last week. But when does Hacks season 5 episode 8 drop on HBO Max?</description>
     </item>
     <item>
-      <title>Panasonic just brought back an iconic series of premium compact cameras back from the dead and put its most powerful sensor and processor inside &#8212; meet the new Lumix L10, a stellar everyday camera</title>
-      <link>https://www.techradar.com/cameras/compact-cameras/panasonic-just-brought-back-an-iconic-series-of-premium-compact-cameras</link>
-      <pubDate>Tue, 12 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">XcTwfrXMqNkXixSQJP7Eeg</guid>
-      <description>With its iconic compact design, versatile Leica zoom lens, plus Panasonic's latest sensor and processor &#8212; the Lumix L10 has all the ingredients to be a hit</description>
+      <title>PlayStation gamers could get a share of $8 million in a class action settlement &#8212; here&#8217;s how to know if you&#8217;re eligible, and why you shouldn&#8217;t expect a big payout</title>
+      <link>https://www.techradar.com/gaming/ps5/playstation-gamers-could-get-a-share-of-usd8-million-in-a-class-action-settlement-heres-how-to-know-if-youre-eligible-and-why-you-shouldnt-expect-a-big-payout</link>
+      <pubDate>Tue, 12 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fXqLVbS7fzQL3QyU6CcqJ5</guid>
+      <description>Sony is paying out a share of almost $8 million to PlayStation owners in the US as part of a settlement.</description>
     </item>
     <item>
-      <title>Lumix L10 : Panasonic ressuscite le compact expert avec un capteur de G9 II et un zoom Leica ultra-lumineux</title>
-      <link>https://www.frandroid.com/marques/panasonic/3096415_lumix-l10-panasonic-ressuscite-le-compact-expert-avec-un-capteur-de-g9-ii-et-un-zoom-leica-ultra-lumineux</link>
-      <pubDate>Tue, 12 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/panasonic/3096415_lumix-l10-panasonic-ressuscite-le-compact-expert-avec-un-capteur-de-g9-ii-et-un-zoom-leica-ultra-lumineux</guid>
+      <title>Spotify is down for some users</title>
+      <link>https://www.engadget.com/2171078/spotify-is-down-for-some-users/</link>
+      <pubDate>Tue, 12 May 2026 17:44:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171078/spotify-is-down-for-some-users/</guid>
+      <description>The service confirmed issues on X.</description>
+    </item>
+    <item>
+      <title>Panasonic's L10 camera honors 25 years of Lumix</title>
+      <link>https://www.engadget.com/2171075/panasonics-l10-camera-honors-25-years-of-lumix/</link>
+      <pubDate>Tue, 12 May 2026 17:42:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171075/panasonics-l10-camera-honors-25-years-of-lumix/</guid>
+      <description>It offers a new multi-aspect ratio feature and up to 5.6K 60 fps video.</description>
+    </item>
+    <item>
+      <title>Android Show 2026 de Google : le r&#233;cap des &#171; plus grosses mises &#224; jour Android de tous les temps &#187;</title>
+      <link>https://www.frandroid.com/android/mises-a-jour-android/3095427_regardez-landroid-show-en-direct-google-va-montrer-les-plus-grosses-mises-a-jour-android-de-tous-les-temps</link>
+      <pubDate>Tue, 12 May 2026 17:40:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/mises-a-jour-android/3095427_regardez-landroid-show-en-direct-google-va-montrer-les-plus-grosses-mises-a-jour-android-de-tous-les-temps</guid>
       <description>
-Panasonic bouscule le march&#233; des compacts experts avec son nouveau Lumix L10. Alliant un capteur 4/3 de 20,4 m&#233;gapixels &#224; une optique Leica 24-75 mm ultra-lumineuse, ce bo&#238;tier veut d&#233;tr&#244;ner les t&#233;nors du secteur.
+Google a pr&#233;sent&#233; beaucoup de choses pendant l'Android Show 2026 que nous avons comment&#233; ici en direct. Entre Android 17, Gboard, Android Auto, les nouveaux &#233;mojis ou encore les Googlebook, voici les infos &#224; retenir.
 </description>
     </item>
     <item>
-      <title>Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses</title>
-      <link>https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots</link>
-      <pubDate>Tue, 12 May 2026 15:59:19 GMT</pubDate>
-      <guid isPermaLink="false">4R2BK4LB0KNVlh4heNkQK</guid>
-      <description>Between May 6 and 7, four security research teams published findings about Anthropic&#8217;s Claude that most outlets covered as three separate stories. One involved a water utility in Mexico, another targeted a Chrome extension, and a third hijacked OAuth tokens through Claude Code. In one case, Claude identified a water utility&#8217;s SCADA gateway without being told to look for one.These are not three bugs. They are one architectural question playing out on three surfaces. No single patch released so far addresses all of them.The common thread is the confused deputy, a trust-boundary failure where a p...</description>
+      <title>'We&#8217;re aware of some issues right now' &#8212; live updates as Spotify confirms outage, with thousands of users reporting that they can't access the music streaming service</title>
+      <link>https://www.techradar.com/news/live/spotify-outage-may-2026</link>
+      <pubDate>Tue, 12 May 2026 17:40:00 +0000</pubDate>
+      <guid isPermaLink="false">6uJo432vbZp3Fe24NsZ2SV</guid>
+      <description>Spotify is currently experiencing problems. Here's what we know</description>
     </item>
     <item>
-      <title>Trump Media Scales Back Plans for Its Own Prediction Market</title>
-      <link>https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/</link>
-      <pubDate>Tue, 12 May 2026 15:57:02 +0000</pubDate>
-      <guid isPermaLink="false">6a024bb0593a5c732a2b6993</guid>
-      <description>Truth Predict was supposed to be the Trump family&#8217;s biggest leap yet into prediction markets. Now it&#8217;s looking more like a tiptoe.</description>
+      <title>Anthropic warns investors against secondary platforms offering access to its shares</title>
+      <link>https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/</link>
+      <pubDate>Tue, 12 May 2026 17:36:34 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121621</guid>
+      <description>The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.</description>
     </item>
     <item>
-      <title>Rivian&#8217;s AI-powered voice assistant is ready to roll</title>
-      <link>https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2</link>
-      <pubDate>2026-05-12T11:51:38-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=928651</guid>
-      <description>Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a year, or are in an [&#8230;]</description>
+      <title>Sam Altman says Elon Musk&#8217;s mind games were damaging OpenAI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage</link>
+      <pubDate>2026-05-12T13:34:09-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928861</guid>
+      <description>OpenAI CEO Sam Altman says Elon Musk did "huge damage" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and "take a chainsaw through a bunch." Altman conceded [&#8230;]</description>
     </item>
     <item>
-      <title>Un casque gaming sans fil &#224; pr&#232;s de 100 euros ? C&#8217;est possible avec cette r&#233;duction sur le Corsair Void V2 [Sponso]</title>
-      <link>https://www.frandroid.com/actualites-generales/3090771_un-casque-gaming-sans-fil-a-pres-de-100-euros-cest-possible-avec-cette-reduction-sur-le-corsair-void-v2</link>
-      <pubDate>Tue, 12 May 2026 15:49:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3090771_un-casque-gaming-sans-fil-a-pres-de-100-euros-cest-possible-avec-cette-reduction-sur-le-corsair-void-v2</guid>
+      <title>Potholes cost cities millions: This company is using AI and trucks to fix them</title>
+      <link>https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/</link>
+      <pubDate>Tue, 12 May 2026 17:33:29 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121274</guid>
+      <description>Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.</description>
+    </item>
+    <item>
+      <title>Avec Create My Widget, Gemini va fabriquer vos widgets Android &#224; la demande</title>
+      <link>https://www.frandroid.com/marques/3097149_avec-create-my-widget-gemini-va-fabriquer-vos-widgets-android-a-la-demande</link>
+      <pubDate>Tue, 12 May 2026 17:31:38 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3097149_avec-create-my-widget-gemini-va-fabriquer-vos-widgets-android-a-la-demande</guid>
       <description>
-Pour tout gamer qui se respecte, avoir un bon casque audio est n&#233;cessaire pour profiter au mieux des sessions de jeu. Amazon propose en ce moment le casque audio Bluetooth Corsair Void V2 &#224; -14 % en passant &#224; 103 euros dans sa version blanche ! Spatialisation Dolby Atmos, autonomie jusqu'&#224; 70 heures, double connectivit&#233; 2,4 GHz &amp; Bluetooth, voici quelques-unes des promesses de ce casque parfait pour vos soir&#233;es gaming. 
-...</description>
-    </item>
-    <item>
-      <title>JBL just refreshed its touchscreen-equipped earbud line with better sound, ANC, and call quality &#8212; here&#8217;s everything you need to know</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/jbl-live-4-series-reveal</link>
-      <pubDate>Tue, 12 May 2026 15:47:48 +0000</pubDate>
-      <guid isPermaLink="false">MeiLJhVDgcfPE2ngBGGd2G</guid>
-      <description>JBL is refreshing its touchscreen-equipped earbuds with the new JBL Live 4 series.</description>
-    </item>
-    <item>
-      <title>Jeux myst&#232;res d&#8217;Epic : on croit d&#233;j&#224; conna&#238;tre le nom des deux premiers jeux gratuits</title>
-      <link>https://www.frandroid.com/services/jeux-video/3096445_jeux-mysteres-depic-on-croit-deja-connaitre-le-nom-des-deux-premiers-jeux-gratuits</link>
-      <pubDate>Tue, 12 May 2026 15:45:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/jeux-video/3096445_jeux-mysteres-depic-on-croit-deja-connaitre-le-nom-des-deux-premiers-jeux-gratuits</guid>
-      <description>
-C&#8217;est d&#233;sormais une tradition. Pour accompagner ses Mega Soldes de mai 2026, l&#8217;Epic Games Store relance ses jeux myst&#232;res et des th&#233;ories tournent d&#233;j&#224;.
+Lors de The Android Show, Google a d&#233;voil&#233; Create My Widget, un outil qui g&#233;n&#232;re un widget Android &#224; partir d'une simple phrase. 
 </description>
     </item>
     <item>
-      <title>Discord Nitro is actually worth it now, and it's all thanks to this new partnership with Xbox</title>
-      <link>https://www.techradar.com/gaming/xbox/discord-nitro-is-actually-worth-it-now-and-its-all-thanks-to-this-new-partnership-with-xbox</link>
-      <pubDate>Tue, 12 May 2026 15:38:15 +0000</pubDate>
-      <guid isPermaLink="false">ezrc6LncMC45vidPhARytj</guid>
-      <description>Discord has been under fire over the last few months over the age verification controversy, but that may simmer down after its latest collaboration.</description>
+      <title>Report: Google and SpaceX in talks to put data centers into orbit</title>
+      <link>https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/</link>
+      <pubDate>Tue, 12 May 2026 17:30:57 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121675</guid>
+      <description>Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.</description>
     </item>
     <item>
-      <title>'Current LLMs introduce substantial errors when editing work documents': Microsoft scientists find most AI models struggle with long-running tasks &#8212; so maybe don't trust them completely just yet</title>
-      <link>https://www.techradar.com/pro/current-llms-introduce-substantial-errors-when-editing-work-documents-microsoft-scientists-find-most-ai-models-struggle-with-long-running-tasks-so-maybe-dont-trust-them-completely-just-yet</link>
-      <pubDate>Tue, 12 May 2026 15:35:00 +0000</pubDate>
-      <guid isPermaLink="false">CgjAX73hVigwKmZLxQLcwf</guid>
-      <description>The more interactions an AI model has, the less reliable it becomes, experts find, as even the best only scored 80.9% &#8211; and the worst scoring just 10.0%.</description>
+      <title>eBay rejects GameStop offer: neither credible nor attractive</title>
+      <link>https://mashable.com/article/ebay-rejects-gamestop-offer</link>
+      <pubDate>Tue, 12 May 2026 17:28:10 +0000</pubDate>
+      <guid isPermaLink="false">03QbYZcjawEvdZQZv5Fthyc</guid>
+      <description>eBay has rejected GameStop's unsolicited offer to buy its company.</description>
     </item>
     <item>
-      <title>Digg is back (again), this time as an AI news aggregator</title>
-      <link>https://www.fastcompany.com/91540767/digg-is-back-again-this-time-as-an-ai-news-aggregator</link>
-      <pubDate>2026-05-12T15:34:01</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91540767/digg-is-back-again-this-time-as-an-ai-news-aggregator</guid>
-      <description>After a failed relaunch earlier this year, Digg has returned with a stripped-down new approach focused on surfacing the most important stories and voices in artificial intelligence.
-When the history of the internet is written, the story of Digg might be one of its most fascinating chapters.</description>
+      <title>Mac users beware &#8212; scammers are hijacking Claude chats and Google ads to push malware</title>
+      <link>https://www.techradar.com/pro/security/mac-users-beware-scammers-are-hijacking-claude-chats-and-google-ads-to-push-malware</link>
+      <pubDate>Tue, 12 May 2026 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">SdaE5Mh7S9keMYmT6wjsgb</guid>
+      <description>Fake Claude support pages are circulating, being advertised through Google Ads</description>
     </item>
     <item>
-      <title>All Your Hantavirus Questions, Answered by an Infectious Disease Expert</title>
-      <link>https://www.wired.com/story/all-your-hantavirus-questions-answered-by-an-infectious-disease-expert/</link>
-      <pubDate>Tue, 12 May 2026 15:33:59 +0000</pubDate>
-      <guid isPermaLink="false">6a021be221cf4dd30c9746a6</guid>
-      <description>Here&#8217;s what you need to know, from why the cruise ship outbreak won&#8217;t spark the next pandemic to how hantavirus spreads.</description>
-    </item>
-    <item>
-      <title>The beginner and budget-friendly Acer Nitro V 15 gaming laptop is $100 cheaper than usual</title>
-      <link>https://mashable.com/article/may-12-acer-nitro-v-15-laptop-deal</link>
-      <pubDate>Tue, 12 May 2026 15:31:34 +0000</pubDate>
-      <guid isPermaLink="false">07mI9Ld8AjJBSP4mcvSEJ3s</guid>
-      <description>The beginner-friendly 2025 Acer Nitro V 15 gaming laptop is on sale at Amazon for only $699.99, which is $100 off its list price.</description>
-    </item>
-    <item>
-      <title>Upfront 2026: Amazon is doubling down on YA content with a &#8216;Fourth Wing&#8217; series. Advertisers are preparing to feast</title>
-      <link>https://www.fastcompany.com/91540588/amazon-fourth-wing-series-young-adult-content-advertisers-upfront-2026</link>
-      <pubDate>2026-05-12T15:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91540588/amazon-fourth-wing-series-young-adult-content-advertisers-upfront-2026</guid>
-      <description>According to sales execs, Amazon has already penetrated 90% of U.S. households. Next up is an adaptation of Rebecca Yarros&#8217; best-selling novel.
-Amazon can deliver anything&#8212;including, increasingly, eyeballs to advertisers. And now, its upcoming slate of content, including an adaptation of the best-selling novel Fourth Wing and a list of young adult content, is sure to have advertisers excited....</description>
-    </item>
-    <item>
-      <title>Alan Wake comes to horror game Phasmophobia</title>
-      <link>https://www.engadget.com/2170857/alan-wake-comes-to-horror-game-phasmophobia/</link>
-      <pubDate>Tue, 12 May 2026 15:26:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2170857/alan-wake-comes-to-horror-game-phasmophobia/</guid>
-      <description>This is a free update on all platforms.</description>
-    </item>
-    <item>
-      <title>How to watch Eurovision Song Contest 2026 semi-final 1 &#8212; Free Streams, Release Date &amp; TV Schedule</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-eurovision-song-contest-2026-semi-final-1</link>
-      <pubDate>Tue, 12 May 2026 15:25:00 +0000</pubDate>
-      <guid isPermaLink="false">nHgGwYNuhKtTtecAUpu3Xk</guid>
-      <description>15 countries go head-to-head in the first semi-final of Eurovision Song Contest 2026 as Vienna plays host to the popular musical competition.</description>
-    </item>
-    <item>
-      <title>Anker&amp;#8217;s fast, foldable 3-in-1 charging station is back to its best price yet</title>
-      <link>https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale</link>
-      <pubDate>2026-05-12T11:23:36-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=928600</guid>
-      <description>Anker&#8217;s Prime Wireless Charging Station is a small, yet powerful 3-in-1 charger that can charge your iPhone, Apple Watch, and earbuds simultaneously, and now it&#8217;s on sale for $104.99 ($45 off) at Amazon, Best Buy, and Walmart. The price has only dropped this low one other time since it launched in February. There are a [&#8230;]</description>
-    </item>
-    <item>
-      <title>Musk warns Sam Altman will be one of America&#8217;s &#8216;most hated&#8217; men as the OpenAI trial continues</title>
-      <link>https://www.fastcompany.com/91540676/musk-warns-sam-altman-one-americas-most-hated-men-openai-trial-continues</link>
-      <pubDate>2026-05-12T15:20:31</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91540676/musk-warns-sam-altman-one-americas-most-hated-men-openai-trial-continues</guid>
-      <description>Elon Musk&#8217;s lawsuit is seeking to unseat Sam Altman from OpenAI&#8217;s leadership for a second time.
-In a trial featuring a clash between Elon Musk and OpenAI CEO Sam Altman, neither of the tech titans has emerged as an overly sympathetic character. But nobody has more to lose than Altman, who is expected to take the stand this week to defend himself.Already, testimony about Altman&#8217;s turbulent tenure at the ChatGPT maker has become prime fodder for internet jokes. One piece of evidence that has inspired countless memes was a text exchange between Altman and a company officer, Mira Murati, in 2023 d...</description>
-    </item>
-    <item>
-      <title>Free Mobile : deux petites nouveaut&#233;s pour ceux qui aiment changer d&#8217;op&#233;rateur</title>
-      <link>https://www.frandroid.com/marques/free/3096643_free-mobile-deux-petites-nouveautes-pour-ceux-qui-aiment-changer-doperateur</link>
-      <pubDate>Tue, 12 May 2026 15:13:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/free/3096643_free-mobile-deux-petites-nouveautes-pour-ceux-qui-aiment-changer-doperateur</guid>
+      <title>Vous allez percer sur TikTok gr&#226;ce &#224; votre smartphone Pixel</title>
+      <link>https://www.frandroid.com/marques/google/3096143_vous-allez-percer-sur-tiktok-grace-a-votre-smartphone-pixel</link>
+      <pubDate>Tue, 12 May 2026 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096143_vous-allez-percer-sur-tiktok-grace-a-votre-smartphone-pixel</guid>
       <description>
-Free acc&#233;l&#232;re les proc&#233;dures d'inscription. Il sera beaucoup plus rapide de faire porter son num&#233;ro de t&#233;l&#233;phone mobile vers Free Mobile. Esp&#233;rons que les autres op&#233;rateurs s'en inspirent vite.
+Pr&#233;sent&#233;e &#224; l'Android Show, la fonction Screen Reactions permet de se filmer en selfie par-dessus l'enregistrement de l'&#233;cran du smartphone. Le but est de reproduire facilement un format super utilis&#233; sur TikTok.
 </description>
     </item>
     <item>
-      <title>Les jeux services n&#8217;ont plus la cote ? Sega abandonne son &#171; Super Game &#187;</title>
-      <link>https://www.frandroid.com/services/jeux-video/3096329_les-jeux-services-nont-plus-la-cote-sega-abandonne-son-super-game</link>
-      <pubDate>Tue, 12 May 2026 15:09:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/jeux-video/3096329_les-jeux-services-nont-plus-la-cote-sega-abandonne-son-super-game</guid>
+      <title>Pourquoi Google veut mettre fin &#224; la 2G et la 3G sur smartphone avec Android 17</title>
+      <link>https://www.frandroid.com/marques/google/3096885_pourquoi-google-veut-mettre-fin-a-la-2g-et-la-3g-sur-smartphone-avec-android-17</link>
+      <pubDate>Tue, 12 May 2026 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096885_pourquoi-google-veut-mettre-fin-a-la-2g-et-la-3g-sur-smartphone-avec-android-17</guid>
       <description>
-Environ 5 ans apr&#232;s son annonce, Sega d&#233;cide d'annuler son projet &#171; Super Game &#187;, un jeu service qui devait rapporter gros &#224; l'entreprise.
+Au d&#233;tour de ses annonces pour renforcer la s&#233;curit&#233; sur Android, Google annonce qu'il va proposer aux op&#233;rateurs de d&#233;sactiver la 2G.
 </description>
     </item>
     <item>
-      <title>Save over $2,500 while the Anker Solix F3800 Plus is on a major discount at Amazon</title>
-      <link>https://mashable.com/article/may-12-anker-solix-f3800-deal</link>
-      <pubDate>Tue, 12 May 2026 15:08:25 +0000</pubDate>
-      <guid isPermaLink="false">01l2C9FDiMcAwDQjVulyoJj</guid>
-      <description>The Anker Solix F3800 Plus is on sale at Amazon for $2,294.99, down from the list price at Anker of $4,799. That's a 52% discount.</description>
+      <title>Android Auto gets a massive AI-powered upgrade with YouTube, Dolby Atmos, and immersive 3D Maps</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/android-auto-gets-a-massive-ai-powered-upgrade-with-youtube-dolby-atmos-and-immersive-3d-maps</link>
+      <pubDate>Tue, 12 May 2026 17:15:00 +0000</pubDate>
+      <guid isPermaLink="false">UqBNyZ5UcEXQm22GJQfpPn</guid>
+      <description>Android Auto gets a premium new look, the ability to watch videos, and better integrated Gemini</description>
     </item>
     <item>
-      <title>Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen</title>
-      <link>https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/</link>
-      <pubDate>Tue, 12 May 2026 15:07:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121581</guid>
-      <description>The round valued the three-year-old startup at $725 million.</description>
-    </item>
-    <item>
-      <title>Gemini : Google d&#233;ploie une fonction &#171; entourer &#187; sur Android pour simplifier vos recherches</title>
-      <link>https://www.frandroid.com/marques/google/3096103_gemini-google-deploie-une-fonction-entourer-sur-android-pour-simplifier-vos-recherches</link>
-      <pubDate>Tue, 12 May 2026 15:06:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096103_gemini-google-deploie-une-fonction-entourer-sur-android-pour-simplifier-vos-recherches</guid>
+      <title>Google et Revolut ont un plan pour nous prot&#233;ger des arnaques t&#233;l&#233;phoniques</title>
+      <link>https://www.frandroid.com/marques/google/3096289_google-et-revolut-ont-un-plan-pour-nous-proteger-des-arnaques-telephoniques</link>
+      <pubDate>Tue, 12 May 2026 17:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096289_google-et-revolut-ont-un-plan-pour-nous-proteger-des-arnaques-telephoniques</guid>
       <description>
-Google est en train de d&#233;ployer sur Android une nouvelle fonction de recherche destin&#233;e &#224; la superposition Gemini. Cette derni&#232;re permet, tout b&#234;tement, d'entourer du contenu affich&#233; &#224; l'&#233;cran de fa&#231;on &#224; interroger l'IA &#224; ce propos.
+Les appels malveillants sont de plus en plus nombreux sur nos smartphones, partout dans le monde. Google a une nouvelle strat&#233;gie pour prot&#233;ger les appareils sous Android.
 </description>
     </item>
     <item>
-      <title>From MSN to Windows, test your Microsoft knowledge in this 15-question quiz &#8212; no Copilot allowed</title>
-      <link>https://www.techradar.com/tech/from-msn-to-windows-test-your-microsoft-knowledge-in-this-15-question-quiz-no-copilot-allowed</link>
-      <pubDate>Tue, 12 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">xSPoyfY2NDuRQZLskBM6Ci</guid>
-      <description>Think you know Microsoft&#8217;s hardware and software? Take this 15-question quiz on Windows, Xbox, MSN and more.</description>
-    </item>
-    <item>
-      <title>Fatal Fury publisher SNK announces VS Studio, a new development team founded by Tekken creator Katsuhiro Harada &#8212; 'VS Studio's philosophy is beyond tradition, crafted to perfection'</title>
-      <link>https://www.techradar.com/gaming/gaming-industry/fatal-fury-publisher-snk-announces-vs-studio-a-new-development-team-founded-by-tekken-creator-katsuhiro-harada-vs-studios-philosophy-is-beyond-tradition-crafted-to-perfection</link>
-      <pubDate>Tue, 12 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7cJr3cy4vptRareQucAGGg</guid>
-      <description>Fatal Fury publisher and Neo Geo arcade system creator SNK has announced its investment in a newly established game development studio founded by Tekken creator Katsuhiro Harada.</description>
-    </item>
-    <item>
-      <title>Rivian is rolling out its AI-powered voice assistant</title>
-      <link>https://www.engadget.com/2170527/rivian-ai-voice-assistant/</link>
-      <pubDate>Tue, 12 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2170527/rivian-ai-voice-assistant/</guid>
-      <description>It will be available on all Rivian Gen 1 and Gen 2 vehicles, as well as on the R2 when it launches.</description>
-    </item>
-    <item>
-      <title>Poppi cofounder Allison Ellsworth says you have to sacrifice work-life balance to succeed</title>
-      <link>https://www.fastcompany.com/91540239/poppi-cofounder-allison-ellsworth-says-you-have-to-sacrifice-work-life-balance-to-succeed</link>
-      <pubDate>2026-05-12T15:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91540239/poppi-cofounder-allison-ellsworth-says-you-have-to-sacrifice-work-life-balance-to-succeed</guid>
-      <description>The cofounder and her husband sold Poppi to Pepsi for $2 billion last year&#8212;now they&#8217;re navigating life as centimillionaires.
-Prebiotic soda brand Poppi has come a long way since it first appeared on Shark Tank under its original name, &#8220;Mother Beverage,&#8221; in 2018.</description>
-    </item>
-    <item>
-      <title>Gr&#226;ce &#224; cette offre, cet &#233;cran PC gaming LG 24&#8243; 144 Hz tombe &#224; moins de 80 &#8364;, difficile de faire mieux</title>
-      <link>https://www.frandroid.com/bons-plans/3096419_grace-a-cette-offre-cet-ecran-pc-gaming-lg-24-144-hz-tombe-a-moins-de-80-e-difficile-de-faire-mieux</link>
-      <pubDate>Tue, 12 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3096419_grace-a-cette-offre-cet-ecran-pc-gaming-lg-24-144-hz-tombe-a-moins-de-80-e-difficile-de-faire-mieux</guid>
+      <title>Android Auto : Google lance la plus grande refonte de son histoire, voici tout ce qui change</title>
+      <link>https://www.frandroid.com/android/android-auto/3094163_android-auto-google-lance-la-plus-grande-refonte-de-son-histoire-voici-tout-ce-qui-change</link>
+      <pubDate>Tue, 12 May 2026 17:12:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/android-auto/3094163_android-auto-google-lance-la-plus-grande-refonte-de-son-histoire-voici-tout-ce-qui-change</guid>
       <description>
-En allant sur materiel.net vous pouvez commander l'&#233;cran LG UltraGear 24G411A-B en promo pour 79,95 euros au lieu de 109,99 euros sur le site officiel.
+Lors de l'Android Show I/O Edition du 12 mai, Google a pr&#233;sent&#233; la plus grosse refonte d'Android Auto depuis ses d&#233;buts. Nouvelle interface adaptative, vid&#233;o en haute d&#233;finition &#224; l'arr&#234;t, Dolby Atmos et surtout Gemini d&#233;j&#224; pr&#233;sent dans 250 millions de v&#233;hicules. Mais attention, tout n'arrivera pas en m&#234;me temps, ni dans toutes les voitures.
 </description>
     </item>
     <item>
-      <title>'Get a PlayStation 5 today to be ready for when Grand Theft Auto 6 launches' &#8212; GTA 6 marketing has seemingly kicked off as Sony urges PS4 users to finally upgrade to the PS5</title>
-      <link>https://www.techradar.com/gaming/get-a-playstation-5-today-to-be-ready-for-when-grand-theft-auto-6-launches-gta-6-marketing-has-seemingly-kicked-off-as-sony-urges-ps4-users-to-finally-upgrade-to-the-ps5</link>
-      <pubDate>Tue, 12 May 2026 14:58:22 +0000</pubDate>
-      <guid isPermaLink="false">HGvd4xFEqvvz92D8Gtdh57</guid>
-      <description>PlayStation 4 users who have wishlisted Grand Theft Auto 6 have started receiving messages urging them to upgrade to a PlayStation 5, suggesting marketing for the game has officially begun.</description>
+      <title>Everything announced at The Android Show: I/O 2026 edition</title>
+      <link>https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/</link>
+      <pubDate>Tue, 12 May 2026 17:10:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/</guid>
+      <description>Google had a whole lot of news to share, including on new laptops and Gemini Intelligence.</description>
     </item>
     <item>
-      <title>Hantavirus Conspiracy Theories Are Already Spreading Online</title>
-      <link>https://www.wired.com/story/hantavirus-conspiracy-theories-are-already-spreading-online/</link>
-      <pubDate>Tue, 12 May 2026 14:53:56 +0000</pubDate>
-      <guid isPermaLink="false">6a01f3ac3e5abf1bc726d966</guid>
-      <description>From claims of an Israeli false flag to efforts to sell ivermectin, influencers and grifters are using lessons learned from Covid-19 to push their baseless conspiracy theories.</description>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s Aluminium OS revealed in 16-minute leaked video</title>
-      <link>https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video</link>
-      <pubDate>2026-05-12T10:52:58-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=928598</guid>
-      <description>Aluminium OS, Google's upcoming version of Android for PC, may have just leaked a few hours before Google's Android Show presentation. As Android Authority reports, leaker Mystic Leaks shared a 16-minute video on their Telegram channel that appears to show a lengthy hands-on demo of the new operating system. After a loading screen featuring the [&#8230;]</description>
-    </item>
-    <item>
-      <title>AI is a leadership problem, not a technology problem</title>
-      <link>https://www.fastcompany.com/91540828/ai-is-a-leadership-problem-not-a-technology-problem</link>
-      <pubDate>2026-05-12T14:51:31</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91540828/ai-is-a-leadership-problem-not-a-technology-problem</guid>
-      <description>The AI implementation gap is a lack of connection between activity and business performance.
-Most of the executive teams I work with have been investing in AI for a few years. The ones who are frustrated are not the skeptics. They are the believers whose programs have not connected to the P&amp;L. They have the pilots, the internal momentum, the board slide showing everything in flight. What they do not have is a clear line between that activity and business performance, and at this point in the AI cycle, that gap is no longer acceptable....</description>
-    </item>
-    <item>
-      <title>Waymo issues recall to deal with a flooding problem</title>
-      <link>https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/</link>
-      <pubDate>Tue, 12 May 2026 14:47:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3121548</guid>
-      <description>Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A "final remedy" is in the works.</description>
-    </item>
-    <item>
-      <title>Message RCS : tout comprendre au rempla&#231;ant du SMS</title>
-      <link>https://www.frandroid.com/comment-faire/556564_quest-ce-que-le-rcs-le-successeur-du-sms</link>
-      <pubDate>Tue, 12 May 2026 14:45:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/556564_quest-ce-que-le-rcs-le-successeur-du-sms</guid>
+      <title>Voici Rambler sur Gboard : comment Gemini transforme votre dict&#233;e h&#233;sitante en message propre</title>
+      <link>https://www.frandroid.com/android/applications/google-apps/3095601_voici-rambler-sur-gboard-comment-gemini-transforme-votre-dictee-hesitante-en-message-propre</link>
+      <pubDate>Tue, 12 May 2026 17:10:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/applications/google-apps/3095601_voici-rambler-sur-gboard-comment-gemini-transforme-votre-dictee-hesitante-en-message-propre</guid>
       <description>
-Les messages RCS (Rich Communication Services) sont vus comme l'avenir du simple protocole SMS/MMS. Mais qu'est-ce vraiment que cette technologie fortement mise en avant par Google et ses partenaires ?
+Google glisse une nouvelle fonction baptis&#233;e Rambler dans le clavier Gboard pour transformer un monologue h&#233;sitant (avec plein de &#171; euh &#187;) en message lisible. Cette nouveaut&#233;, Rambler, a &#233;t&#233; pr&#233;sent&#233;e &#224; l'Android Show 2026.
 </description>
     </item>
     <item>
-      <title>Grow your collection with this discounted Magic: The Gathering Edge of Eternities - Play Booster Box</title>
-      <link>https://mashable.com/article/may-12-magic-the-gatherng-edge-of-eternities-play-booster-box-deal</link>
-      <pubDate>Tue, 12 May 2026 14:40:06 +0000</pubDate>
-      <guid isPermaLink="false">07dQX6olRd5CXWQeO3oj6jt</guid>
-      <description>As of May 12, get 22% off the Magic: The Gathering Edge of Eternities - Play Booster Box.</description>
-    </item>
-    <item>
-      <title>Compatible Dolby Atmos et DTS:X, cette barre de son LG 5.1.3 avec enceintes arri&#232;re chute sous les 400 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3096323_compatible-dolby-atmos-et-dtsx-cette-barre-de-son-lg-5-1-3-avec-enceintes-arriere-chute-sous-les-400-e</link>
-      <pubDate>Tue, 12 May 2026 14:38:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3096323_compatible-dolby-atmos-et-dtsx-cette-barre-de-son-lg-5-1-3-avec-enceintes-arriere-chute-sous-les-400-e</guid>
+      <title>Ultra HDR, mode nuit&#8230; Instagram sur Android veut en finir avec 15 ans de mauvaise r&#233;putation</title>
+      <link>https://www.frandroid.com/marques/google/3096321_ultra-hdr-mode-nuit-instagram-sur-android-veut-en-finir-avec-15-ans-de-mauvaise-reputation</link>
+      <pubDate>Tue, 12 May 2026 17:06:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096321_ultra-hdr-mode-nuit-instagram-sur-android-veut-en-finir-avec-15-ans-de-mauvaise-reputation</guid>
       <description>
-Avec son caisson de basses et ses deux enceintes arri&#232;re, la barre de son LG S80TR, configur&#233;e en 5.1.3, promet une belle spatialisation et une immersion renforc&#233;e. Actuellement, Ubaldi propose cet ensemble &#224; 381 euros au lieu de 449 euros.
+Google et Meta veulent en finir pour de bon avec les photos et vid&#233;os Instagram au mauvais rendu quand on les enregistre directement depuis l'application sur Android.
 </description>
     </item>
     <item>
-      <title>How enterprises can safely scale agentic AI</title>
-      <link>https://www.techradar.com/pro/how-enterprises-can-safely-scale-agentic-ai</link>
-      <pubDate>Tue, 12 May 2026 14:33:04 +0000</pubDate>
-      <guid isPermaLink="false">btiyiDuR6tqJ5G5JWhgD2S</guid>
-      <description>As AI takes action, enterprises must embed governance to balance speed with control.</description>
+      <title>D&#233;couvrez les nouveaux &#233;mojis de Google pour Android, place au relief !</title>
+      <link>https://www.frandroid.com/marques/google/3096793_decouvrez-les-nouveaux-emojis-de-google-pour-android-place-au-relief</link>
+      <pubDate>Tue, 12 May 2026 17:04:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096793_decouvrez-les-nouveaux-emojis-de-google-pour-android-place-au-relief</guid>
+      <description>
+Google a d&#233;voil&#233; Noto 3D, sa nouvelle collection d'&#233;mojis en relief pour Android. Les Pixel les recevront en premier dans le courant de l'ann&#233;e 2026.
+</description>
     </item>
     <item>
-      <title>OpenAI reveals Daybreak, its attempt to topple Anthropic Mythos</title>
-      <link>https://www.techradar.com/pro/security/openai-reveals-daybreak-its-attempt-to-topple-anthropic-mythos</link>
-      <pubDate>Tue, 12 May 2026 14:30:12 +0000</pubDate>
-      <guid isPermaLink="false">QCSBpkHLTbZzGXugESRSs3</guid>
-      <description>Daybreak looks to rival Anthropic's Mythos as a high-severity vulnerability detection tool, while also securing software from the start.</description>
+      <title>Adieu Google Assistant : Gemini s&#8217;invite dans 250 millions de voitures, et vous pouvez (presque) tout lui demander</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3094203_adieu-google-assistant-gemini-sinvite-dans-250-millions-de-voitures-et-vous-pouvez-presque-tout-lui-demander</link>
+      <pubDate>Tue, 12 May 2026 17:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3094203_adieu-google-assistant-gemini-sinvite-dans-250-millions-de-voitures-et-vous-pouvez-presque-tout-lui-demander</guid>
+      <description>
+Google active la plus grande bascule logicielle jamais op&#233;r&#233;e dans l'automobile. Son assistant IA Gemini remplace progressivement Google Assistant sur Android Auto, et la firme revendique d&#233;j&#224; plus de 250 millions de v&#233;hicules compatibles. Une mont&#233;e en puissance massive, qui s'accompagne quand m&#234;me de quelques zones d'ombre.
+</description>
     </item>
     <item>
-      <title>There&#8217;s an internet choke point in the Middle East &#8212; is the solution in the North Pole?</title>
-      <link>https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect</link>
-      <pubDate>2026-05-12T10:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=928512</guid>
-      <description>The vast majority of the world's data - emails, financial transactions, the internet - is carried by fiber optic cables that run along the ocean floor and converge at a few narrow choke points. Periodically, policymakers will release reports noting that this arrangement seems risky, but these routes are the shortest, often in use since [&#8230;]</description>
+      <title>Gemini d&#233;barque partout sur Android&#160;: comment Google va vous aider &#224; automatiser votre quotidien</title>
+      <link>https://www.01net.com/actualites/gemini-debarque-partout-sur-android-comment-google-va-vous-aider-a-automatiser-votre-quotidien.html</link>
+      <pubDate>Tue, 12 May 2026 17:01:17 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1347323</guid>
+      <description>Google a annonc&#233; le d&#233;ploiement de plusieurs fonctionnalit&#233;s de Gemini Intelligence sur Android pour automatiser certaines t&#226;ches directement sur vos appareils. R&#233;server des vacances, prendre un rendez-vous depuis Chrome, remplir un formulaire : l&#8217;IA sera bient&#244;t capable de faire ces actions &#224; votre place. De plus, une nouvelle fonctionnalit&#233; va vous permettre de transformer vos pens&#233;es fragment&#233;es en textes structur&#233;s...</description>
     </item>
     <item>
-      <title>Amazon's Memorial Day favorites are already on sale &#8212; 50% off Bissell, Apple, Dyson, Ninja, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/amazons-memorial-day-favorites-are-already-on-sale-50-percent-off-bissell-apple-dyson-ninja-and-more</link>
-      <pubDate>Tue, 12 May 2026 14:25:28 +0000</pubDate>
-      <guid isPermaLink="false">odGJG72jweeTsLYP7eH3uQ</guid>
-      <description>While we wait for Memorial Day, Amazon already has its best-sellers on sale, with up to 50% off top brands like Bissell, Apple, Dyson, Ninja, and more.</description>
+      <title>Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets</title>
+      <link>https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/</link>
+      <pubDate>Tue, 12 May 2026 17:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121542</guid>
+      <description>Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.</description>
     </item>
     <item>
-      <title>Best Western Hotels warns customers reservation data may have been spilled in breach</title>
-      <link>https://www.techradar.com/pro/security/best-western-hotels-warns-customers-reservation-data-may-have-been-spilled-in-breach</link>
-      <pubDate>Tue, 12 May 2026 14:25:00 +0000</pubDate>
-      <guid isPermaLink="false">hx3htszDDuxgT96K3KpPUE</guid>
-      <description>Unnamed attackers stole data on an undisclosed number of Best Western customers, meaning phishing emails could be on the way.</description>
+      <title>Google Maps fait sa plus grande r&#233;volution depuis 10 ans : des changements bluffants, mais une mauvaise nouvelle pour la France</title>
+      <link>https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france</link>
+      <pubDate>Tue, 12 May 2026 17:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france</guid>
+      <description>
+Google pr&#233;sente la refonte la plus profonde de Maps depuis plus d'une d&#233;cennie selon les dires de la marque. Au menu : navigation en 3D, voix plus naturelle, recommandations conversationnelles et compatibilit&#233; &#233;largie &#224; la voiture. Mais attention, le d&#233;ploiement va prendre des mois et tout le monde n'y aura pas droit en m&#234;me temps.
+</description>
     </item>
     <item>
-      <title>Amazon rolls out its new 30-minute delivery option in a number of cities across the US</title>
-      <link>https://www.engadget.com/2170754/amazon-rolls-out-its-new-30-minute-delivery-option-in-more-cities-across-the-us/</link>
-      <pubDate>Tue, 12 May 2026 14:24:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2170754/amazon-rolls-out-its-new-30-minute-delivery-option-in-more-cities-across-the-us/</guid>
-      <description>Amazon Now is coming to "dozens" of locations in 2026.</description>
+      <title>Android 17&#160;: Google d&#233;voile les nouveaut&#233;s de la prochaine mise &#224; jour de votre smartphone</title>
+      <link>https://www.01net.com/actualites/android-17-google-nouveautes-mise-jour.html</link>
+      <pubDate>Tue, 12 May 2026 17:00:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1346429</guid>
+      <description>Google l&#232;ve le voile sur Android 17 et ses nombreuses nouveaut&#233;s. Refonte visuelle des &#233;mojis, outils d'&#233;dition, et nouvelles fonctions pens&#233;es pour simplifier le quotidien...Le syst&#232;me d'exploitation fait le plein de fonctionnalit&#233;s pratiques. On fait le point sur celles-ci.</description>
     </item>
     <item>
-      <title>You don't need to wait until Prime Day to score up to 40% off these Amazon Devices &#8212; I've picked the 20 best deals from &#163;23.99</title>
-      <link>https://www.techradar.com/collection/tech/you-dont-need-to-wait-until-prime-day-to-score-up-to-40-percent-off-these-amazon-devices-ive-picked-the-20-best-deals-from-gbp23-99</link>
-      <pubDate>Tue, 12 May 2026 14:23:15 +0000</pubDate>
-      <guid isPermaLink="false">pRjWSazCjVKzQ4Zi8953N3</guid>
-      <description>Amazon isn't waiting until Prime Day to discount some of its best-selling devices, so I've picked out the 20 top deals that are worth buying now.</description>
+      <title>Google d&#233;voile le Googlebook, un PC portable sous Android qui enterre le Chromebook</title>
+      <link>https://www.01net.com/actualites/google-devoile-le-googlebook-un-pc-portable-sous-android-qui-enterre-le-chromebook.html</link>
+      <pubDate>Tue, 12 May 2026 17:00:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1347342</guid>
+      <description>Les Chromebook avaient leur navigateur. Les Googlebook auront Gemini, le Play Store et vos applications Android. Google vient de pr&#233;senter sa nouvelle plateforme de PC portables, et les cinq plus grands constructeurs mondiaux sont d&#233;j&#224; align&#233;s.</description>
+    </item>
+    <item>
+      <title>The Top New Features in Google&#8217;s Android 17&#8212;and Gemini Intelligence&#8212;Coming This Summer</title>
+      <link>https://www.wired.com/story/android-17-gemini-top-new-features/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a01e0a551cb4948bba1c9cb</guid>
+      <description>You&#8217;ll soon be able to generate your own widgets or ask Gemini to finish a booking in Chrome on Android.</description>
+    </item>
+    <item>
+      <title>Googlebook Is Google&#8217;s New AI-Powered Laptop Platform Built on Android</title>
+      <link>https://www.wired.com/story/googlebook-laptop-platform/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a01e0ad57bdfbf807f9fe3c</guid>
+      <description>They won&#8217;t replace Chromebooks, but Googlebooks have an Android-centered operating system, AI-first features like the Magic Pointer, and a promise of desktop-grade apps.</description>
+    </item>
+    <item>
+      <title>Android Auto is now one (screen) size fits all</title>
+      <link>https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all</link>
+      <pubDate>2026-05-12T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=927759</guid>
+      <description>This week at I/O, Google rolled out a series of major updates for Android Auto that include better sizing for unconventionally shaped screens, video streaming through YouTube, widget support, and of course, more AI-powered Gemini features. The company also announced some updates for cars that run on Google's built-in native software, including the ability to [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Google announces its Chromebook successor: the Googlebook</title>
+      <link>https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook</link>
+      <pubDate>2026-05-12T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928479</guid>
+      <description>Google is announcing a new line of laptops coming in the fall called Googlebooks. Details are sparse for now, as the tease is just a small part of various Android announcements during Google's Android Show. But we do know this is a major new initiative in the laptop space for Google, seemingly designed to succeed [&#8230;]</description>
+    </item>
+    <item>
+      <title>The 9 biggest new features in Android 17</title>
+      <link>https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io</link>
+      <pubDate>2026-05-12T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928653</guid>
+      <description>Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming [&#8230;]</description>
+    </item>
+    <item>
+      <title>Gemini&amp;#8217;s latest updates are all about controlling your phone</title>
+      <link>https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill</link>
+      <pubDate>2026-05-12T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=928724</guid>
+      <description>It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. [&#8230;]</description>
+    </item>
+    <item>
+      <title>The AI legal services industry is heating up. Anthropic is getting in on the action.</title>
+      <link>https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3120809</guid>
+      <description>As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.</description>
+    </item>
+    <item>
+      <title>Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups</title>
+      <link>https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121120</guid>
+      <description>Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones</description>
+    </item>
+    <item>
+      <title>Android adds a feature to stop you from doomscrolling</title>
+      <link>https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121276</guid>
+      <description>Google&#8217;s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.</description>
+    </item>
+    <item>
+      <title>Google unveils Googlebooks, a new line of AI-native laptops</title>
+      <link>https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121293</guid>
+      <description>The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.</description>
+    </item>
+    <item>
+      <title>Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe code your own widgets</title>
+      <link>https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121345</guid>
+      <description>The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.</description>
+    </item>
+    <item>
+      <title>Google brings agentic AI and vibe-coded widgets to Android</title>
+      <link>https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121517</guid>
+      <description>Gemini Intelligence will also include Gboard based dictation and form filling capabilities</description>
+    </item>
+    <item>
+      <title>Google launches new Android security feature to help uncover spyware attacks</title>
+      <link>https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3121576</guid>
+      <description>Intrusion Logging is a new part of Android&#8217;s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.</description>
+    </item>
+    <item>
+      <title>Google just revealed Gemini Intelligence for Android &#8212; here are 7 ways it wants your phone to do all the work for you, so you don&#8217;t have to</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/gemini/google-just-revealed-gemini-intelligence-for-android-here-are-7-ways-it-wants-your-phone-to-do-all-the-work-for-you-so-you-dont-have-to</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">pYxSEjg39L7bgyPSrmC9AB</guid>
+      <description>Gemini Intelligence brings AI-powered automation, smarter browsing, and custom widgets directly into Android.</description>
+    </item>
+    <item>
+      <title>Google just delivered its first Gemini-centric platform in Googlebook, and it may feature the first AI OS</title>
+      <link>https://www.techradar.com/computing/laptops/google-just-delivered-its-first-gemini-centric-platform-in-googlebook-and-it-may-feature-the-first-ai-os</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jxG5reqNeryKpmXa5RF6f5</guid>
+      <description>Google is finally ready to combine Android and Chrome OS into one platform on a new line of classy Googlebooks</description>
+    </item>
+    <item>
+      <title>7 best Android 17 upgrades announced at The Android Show &#8212; from 3D emojis to Screen Reactions</title>
+      <link>https://www.techradar.com/phones/android/7-best-android-17-upgrades-announced-at-the-android-show-from-3d-emojis-to-screen-reactions</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bYZSpu9TBaJnneiGA2MG6L</guid>
+      <description>The Android Show 2026 contained numerous major Android 17 announcements &#8212; these are the seven biggest upcoming features.</description>
+    </item>
+    <item>
+      <title>Google announces upcoming security tools for Android, including enhanced protection against banking scam calls</title>
+      <link>https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/</guid>
+      <description>The Live Threat Detection feature is also getting a major upgrade.</description>
+    </item>
+    <item>
+      <title>Googlebooks are the Android-based evolution of the Chromebook</title>
+      <link>https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/</guid>
+      <description>Google's only giving us a tease of what it has planned for its new laptop lineup.</description>
+    </item>
+    <item>
+      <title>Instagram's in-app camera will support Ultra HDR and Night Sight on Android</title>
+      <link>https://www.engadget.com/2170145/instagrams-in-camera-app-will-support-ultra-hdr-and-night-sight-on-android/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2170145/instagrams-in-camera-app-will-support-ultra-hdr-and-night-sight-on-android/</guid>
+      <description>Meta is also finally delivering an Instagram app for Android tablets.</description>
+    </item>
+    <item>
+      <title>Gemini in Chrome arrives on Android devices in June</title>
+      <link>https://www.engadget.com/2169854/gemini-in-chrome-arrives-on-android-devices-in-june/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2169854/gemini-in-chrome-arrives-on-android-devices-in-june/</guid>
+      <description>A device with at least 4GB of RAM is required to use the software.</description>
+    </item>
+    <item>
+      <title>Gemini Intelligence brings app automation to Android</title>
+      <link>https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android/</guid>
+      <description>It will arrive on Pixel and Samsung Galaxy phones first.</description>
+    </item>
+    <item>
+      <title>Android 17 includes better iOS file sharing and a forced break for addictive apps</title>
+      <link>https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/</guid>
+      <description>Google is also launching 3D Emoji.</description>
+    </item>
+    <item>
+      <title>Android Auto is getting a big makeover for 2026</title>
+      <link>https://www.engadget.com/2170136/android-auto-is-getting-a-big-makeover-for-2026/</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2170136/android-auto-is-getting-a-big-makeover-for-2026/</guid>
+      <description>Upgrades include a revamped UI, support for widgets, immersive 3D maps and more.</description>
+    </item>
+    <item>
+      <title>The biggest announcements from The Android Show: I/O Edition</title>
+      <link>https://mashable.com/article/google-android-show-io-2026-biggest-announcements</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">017WKmtbXK2DuAvc7HbMJVa</guid>
+      <description>Google held The Android Show in advance of I/O again this year, revealing Googlebook laptops and more.</description>
+    </item>
+    <item>
+      <title>Google announces the Googlebook, a new breed of built-for-Gemini laptops</title>
+      <link>https://mashable.com/article/googlebook-announcement-android-show-io-edition</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05pgDmS3MsifYN27NP6UJRk</guid>
+      <description>At an Android event on May 12, Google revealed a new class of Gemini-powered laptops, dubbed Googlebooks.</description>
+    </item>
+    <item>
+      <title>&#171;&#160;Une r&#233;invention fondamentale&#160;&#187; : Google d&#233;voile les Googlebook, sa nouvelle vision du PC portable sous Android</title>
+      <link>https://www.frandroid.com/events/google-io/3096173_une-reinvention-fondamentale-google-devoile-les-googlebook-sa-nouvelle-vision-du-pc-portable-sous-android</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/events/google-io/3096173_une-reinvention-fondamentale-google-devoile-les-googlebook-sa-nouvelle-vision-du-pc-portable-sous-android</guid>
+      <description>
+Toujours dans son objectif de &#171; r&#233;inventer l'ordinateur portable &#187;, Google pr&#233;sente les Googlebook, une nouvelle gamme de PC portables propuls&#233;s par les derni&#232;res technologies de son IA Gemini.
+</description>
+    </item>
+    <item>
+      <title>Marre de scroller sans r&#233;fl&#233;chir ? Cette nouvelle option va vous imposer 10 secondes de r&#233;flexion</title>
+      <link>https://www.frandroid.com/marques/google/3095007_marre-de-scroller-sans-reflechir-cette-nouvelle-option-va-vous-imposer-10-secondes-de-reflexion</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3095007_marre-de-scroller-sans-reflechir-cette-nouvelle-option-va-vous-imposer-10-secondes-de-reflexion</guid>
+      <description>
+La fonction Pause Point vise &#224; limiter l'usage compulsif des &#233;crans en imposant une pause de r&#233;flexion de 10 secondes avant d'ouvrir une application.
+</description>
+    </item>
+    <item>
+      <title>AirDrop sur Android : Google d&#233;ploie enfin la fonction que tous les utilisateurs attendaient</title>
+      <link>https://www.frandroid.com/marques/google/3096849_airdrop-sur-android-google-deploie-enfin-la-fonction-que-tous-les-utilisateurs-attendaient</link>
+      <pubDate>Tue, 12 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3096849_airdrop-sur-android-google-deploie-enfin-la-fonction-que-tous-les-utilisateurs-attendaient</guid>
+      <description>
+La compatibilit&#233; native de Quick Share avec AirDrop s'&#233;tend &#224; de nombreux appareils Android. Entre transferts via QR Code et int&#233;gration dans WhatsApp, Google joue son va-tout pour imposer son standard.
+</description>
     </item>
   </channel>
 </rss>
