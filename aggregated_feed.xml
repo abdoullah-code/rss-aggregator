@@ -3,7 +3,142 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 14 May 2026 21:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 23:00:27 GMT</lastBuildDate>
+    <item>
+      <title>What the jury will actually decide in the case of Elon Musk vs. Sam Altman</title>
+      <link>https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/</link>
+      <pubDate>Thu, 14 May 2026 22:47:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3122645</guid>
+      <description>Here's what the biggest tech court case of the year is all about.</description>
+    </item>
+    <item>
+      <title>Honda&amp;#8217;s hybrid future starts with new Accord and RDX prototypes</title>
+      <link>https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx</link>
+      <pubDate>2026-05-14T18:46:55-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=931044</guid>
+      <description>Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was announced earlier this year as Honda's first SUV to feature the next-gen version of its two-motor hybrid [&#8230;]</description>
+    </item>
+    <item>
+      <title>Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop</title>
+      <link>https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop</link>
+      <pubDate>Thu, 14 May 2026 22:30:51 GMT</pubDate>
+      <guid isPermaLink="false">5gsRZdm5YtBmWi9vOEZBTa</guid>
+      <description>Observability startup Raindrop AI&#8217;s new open source, MIT Licensed "Workshop" tool, launched today, gives developers something that they've likely wanted, perhaps subconsciously, since the agentic AI era kicked off in earnest last year: a local debugger and evaluation tool specifically designed for AI agents, allowing devs to see all the traces of what their agent has been doing in a single, lightweight Structured Query Language (SQL) database file (.db)It functions as a local daemon and UI that streams every token, tool call, and decision to a local dashboard&#8212;typically hosted at localhost:5899...</description>
+    </item>
+    <item>
+      <title>Closing time</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis</link>
+      <pubDate>2026-05-14T18:21:46-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=931006</guid>
+      <description>Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]</description>
+    </item>
+    <item>
+      <title>New 3D memory architecture revives old camera technology to smash through AI memory wall - NAND + DRAM hybrid promises to make memory cheaper, faster and with 'unlimited endurance'</title>
+      <link>https://www.techradar.com/pro/new-3d-memory-architecture-revives-old-camera-technology-to-smash-through-ai-memory-wall-nand-dram-hybrid-promises-to-make-memory-cheaper-faster-and-with-unlimited-endurance</link>
+      <pubDate>Thu, 14 May 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">mSLTei93mzAb6pyZmzt6WL</guid>
+      <description>Old camera tech has been employed to form a 3D hybrid of NAND and DRAM tech using IGZO instead of silicon.</description>
+    </item>
+    <item>
+      <title>Apple ends education discount loophole for non-students and non-teachers</title>
+      <link>https://mashable.com/article/apple-closes-education-store-loophole-for-discounts-for-non-students-teachers</link>
+      <pubDate>Thu, 14 May 2026 22:11:04 +0000</pubDate>
+      <guid isPermaLink="false">05kIejli6WatiWJ19FUxS3Q</guid>
+      <description>Apple is now verifying that consumers are actually a student or teacher before they can make a discounted purchase via its Education Store.</description>
+    </item>
+    <item>
+      <title>DJI just unveiled the dual-lens Osmo Pocket 4P cinematic camera at Cannes</title>
+      <link>https://mashable.com/article/dji-osmo-pocket-4p-cannes-launch</link>
+      <pubDate>Thu, 14 May 2026 22:06:21 +0000</pubDate>
+      <guid isPermaLink="false">00lCpLkJc8Rxqh87SWhOVWu</guid>
+      <description>At Cannes, the Chinese company pulled back the curtain on its latest gimbal camera, the Osmo Pocket 4P.</description>
+    </item>
+    <item>
+      <title>'Not in my backyard': New Gallup data shows most Americans would rather have a nuclear power plant in their neighborhood than a data center</title>
+      <link>https://www.techradar.com/pro/not-in-my-backyard-new-gallup-data-shows-most-americans-would-rather-have-a-nuclear-power-plant-in-their-neighborhood-than-a-data-center</link>
+      <pubDate>Thu, 14 May 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">JrtcnFiRzV8q3WV5Dz9eyZ</guid>
+      <description>Gallup data illustrates rising opposition to data centers across the US, with barely anyone in favor of new facilities.</description>
+    </item>
+    <item>
+      <title>Forget the App Store &#8212; Apple could be about to launch the &#8216;agent store&#8217; for AI apps, and it could transform how you use your iPhone</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/forget-the-app-store-apple-could-be-about-to-launch-the-agent-store-for-ai-apps-and-it-could-transform-how-you-use-your-iphone</link>
+      <pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hsdGtMqqppxdMiuxdCRWRm</guid>
+      <description>A report claims Apple is working to welcome AI agents to its App Store as it attempts to embrace the future.</description>
+    </item>
+    <item>
+      <title>Graduation ceremony speaker blasted by boos when she calls AI 'the next industrial revolution' &#8212; why Gen Z cheers for a time before AI</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/graduation-ceremony-speaker-blasted-by-boos-when-she-calls-ai-the-next-industrial-revolution-why-gen-z-cheers-for-a-time-before-ai</link>
+      <pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Pc2ixY4dG53sShAAFaP9ZF</guid>
+      <description>A commencement speaker was booed for calling AI an industrial revolution. Why does Gen Z hate AI so much?</description>
+    </item>
+    <item>
+      <title>These habits undermine your authority at work</title>
+      <link>https://www.fastcompany.com/91539874/these-habits-undermine-your-authority-at-work</link>
+      <pubDate>2026-05-14T22:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91539874/these-habits-undermine-your-authority-at-work</guid>
+      <description>You don&#8217;t have to be the loudest person in the room to command it, but these three habits might be quietly costing you credibility without you even realizing it. From the words you choose to how you walk through the door, here&#8217;s what to change so your ideas actually land.
+You don&#8217;t have to be the loudest person in the room to command it, but these three habits might be quietly costing you credibility without you even realizing it. From the words you choose to how you walk through the door, here&#8217;s what to change so your ideas actually land....</description>
+    </item>
+    <item>
+      <title>Xbox Elite Controller 3 leaked by Brazilian regulator</title>
+      <link>https://www.engadget.com/2173365/xbox-elite-controller-3-leaked-by-brazilian-regulator/</link>
+      <pubDate>Thu, 14 May 2026 21:55:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2173365/xbox-elite-controller-3-leaked-by-brazilian-regulator/</guid>
+      <description>It's a tough day to work at Microsoft PR.</description>
+    </item>
+    <item>
+      <title>He says Kim Kardashian ruined his life with one Instagram post. Now he owes her six figures</title>
+      <link>https://www.fastcompany.com/91542621/he-says-kim-kardashian-ruined-his-life-with-one-instagram-post-now-he-owes-her-six-figures</link>
+      <pubDate>2026-05-14T21:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91542621/he-says-kim-kardashian-ruined-his-life-with-one-instagram-post-now-he-owes-her-six-figures</guid>
+      <description>After suing Kardashian over a mistaken identity post, a New York man has been ordered to cover a large chunk of her legal fees.
+A case of mistaken identity can cost you, especially if it involves Kim Kardashian.</description>
+    </item>
+    <item>
+      <title>The original Doom soundtrack is officially in the Library of Congress</title>
+      <link>https://www.engadget.com/2173357/the-original-doom-soundtrack-is-officially-in-the-library-of-congress/</link>
+      <pubDate>Thu, 14 May 2026 21:43:05 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2173357/the-original-doom-soundtrack-is-officially-in-the-library-of-congress/</guid>
+      <description>Other new inductees include Beyonce's 'Single Ladies' and Taylor Swift's '1989.'</description>
+    </item>
+    <item>
+      <title>Metroid Prime 4: Beyond got its first big discount</title>
+      <link>https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale</link>
+      <pubDate>2026-05-14T17:38:45-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=930875</guid>
+      <description>The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the additional $10 upgrade [&#8230;]</description>
+    </item>
+    <item>
+      <title>Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion &#8212; what it means for AI infrastructure</title>
+      <link>https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure</link>
+      <pubDate>Thu, 14 May 2026 21:38:02 GMT</pubDate>
+      <guid isPermaLink="false">5isarWZ3BUuuyZeyTgJMpz</guid>
+      <description>Cerebras Systems, the Silicon Valley chipmaker that built the world's largest commercial AI processor, erupted onto the Nasdaq on Wednesday, opening at $350 per share &#8212; nearly double its $185 IPO price &#8212; and rocketing past a $100 billion market capitalization in its first hours of trading. The debut instantly crowned Cerebras as one of the most valuable semiconductor companies on Earth and validated a decade-long bet that the AI industry would eventually demand a fundamentally different kind of chip.The company sold 30 million shares at $185 apiece, raising $5.55 billion in what Bloomberg repo...</description>
+    </item>
+    <item>
+      <title>Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger</title>
+      <link>https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/</link>
+      <pubDate>Thu, 14 May 2026 21:30:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3122877</guid>
+      <description>More than 50 employees have reportedly left Elon Musk&#8217;s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.</description>
+    </item>
+    <item>
+      <title>Brick quietly dropped one of their best features yet &#8212; now you can lock your phone from anywhere</title>
+      <link>https://mashable.com/article/brick-hold-to-lock-feature</link>
+      <pubDate>Thu, 14 May 2026 21:19:00 +0000</pubDate>
+      <guid isPermaLink="false">05Z2p9vt7E9Mr4a4CixHDea</guid>
+      <description>Brick quietly changed how you can lock your phone. Now, you can hold a button within the app and Brick it remotely.</description>
+    </item>
+    <item>
+      <title>Razer updates the Blade 18 with new chips, a specced-out model costs $7,000</title>
+      <link>https://www.engadget.com/2173332/razer-updates-the-blade-18-with-new-chips-a-specced-out-model-costs-7000/</link>
+      <pubDate>Thu, 14 May 2026 21:17:40 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2173332/razer-updates-the-blade-18-with-new-chips-a-specced-out-model-costs-7000/</guid>
+      <description>The 2026 model adds the Intel Core Ultra 9 290HX Plus processor.</description>
+    </item>
     <item>
       <title>Utah just approved a data center twice the size of Manhattan that will consume more electricity than the entire state</title>
       <link>https://www.techradar.com/pro/utah-just-approved-a-data-center-twice-the-size-of-manhattan-that-will-consume-more-electricity-than-the-entire-state</link>
@@ -24,169 +159,6 @@
       <pubDate>Thu, 14 May 2026 21:00:29 +0000</pubDate>
       <guid isPermaLink="false">6a062d7e01885d55b1a59bfc</guid>
       <description>There are no confirmed cases in the US, but 41 people who were potentially exposed to the Andes virus are in quarantine or being monitored for symptoms.</description>
-    </item>
-    <item>
-      <title>I hate expensive headphones &#8212; but after years of testing, I've finally found a pair I can't live without</title>
-      <link>https://www.techradar.com/audio/wireless-headphones/i-hate-expensive-headphones-but-after-years-of-testing-ive-finally-found-a-pair-i-cant-live-without</link>
-      <pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">YFoNkLNvsEe6tqk8tz7rnJ</guid>
-      <description>I've been these AKG headphones for 12 months now, and they still get daily use.</description>
-    </item>
-    <item>
-      <title>Behold, the Elon Musk jackass trophy</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue</link>
-      <pubDate>2026-05-14T16:59:23-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=930893</guid>
-      <description>Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: "Never stop being a jackass." It's a commemoration OpenAI employees bought for [&#8230;]</description>
-    </item>
-    <item>
-      <title>OpenAI says Codex is coming to your phone</title>
-      <link>https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</link>
-      <pubDate>Thu, 14 May 2026 20:58:55 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3122704</guid>
-      <description>The update gives users enhanced flexibility over how they can manage their workflows.</description>
-    </item>
-    <item>
-      <title>Meta is bringing third-party apps and games to its display glasses</title>
-      <link>https://www.engadget.com/2173297/meta-is-bringing-third-party-apps-and-games-to-its-display-glasses/</link>
-      <pubDate>Thu, 14 May 2026 20:55:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173297/meta-is-bringing-third-party-apps-and-games-to-its-display-glasses/</guid>
-      <description>The $800 smart glasses could soon be a lot more useful.</description>
-    </item>
-    <item>
-      <title>Leaked images reveal Xbox Elite 3 controller with mysterious new buttons</title>
-      <link>https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images</link>
-      <pubDate>2026-05-14T16:52:19-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=930902</guid>
-      <description>Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the Elite 2 controller, with an interchangeable D-Pad, paddles, and two new mysterious buttons. The Elite 3 [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Lovable just backed a company that&#8217;s looking to bring vibe coding to hardware</title>
-      <link>https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/</link>
-      <pubDate>Thu, 14 May 2026 20:43:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3122579</guid>
-      <description>Hardware company Atech raised $800,000 in pre-seed funding, including from a16z&#8217;s scout fund, Sequoia Scout Fund, and Nordic Makers.</description>
-    </item>
-    <item>
-      <title>Sony Xperia 1 VIII : ce post X est-il une bourde ou un coup de g&#233;nie</title>
-      <link>https://www.frandroid.com/marques/sony/3099351_sony-xperia-1-viii-ce-post-x-est-il-une-bourde-ou-un-coup-de-genie</link>
-      <pubDate>Thu, 14 May 2026 20:37:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3099351_sony-xperia-1-viii-ce-post-x-est-il-une-bourde-ou-un-coup-de-genie</guid>
-      <description>
-Sony a publi&#233; sur X une comparaison &#171;&#160;avant / apr&#232;s&#160;&#187; de l'IA photo du Xperia 1 VIII o&#249; l'image &#171;&#160;apr&#232;s&#160;&#187; est visiblement moins belle. Qu'est-ce qui s'est vraiment pass&#233;&#160;?
-</description>
-    </item>
-    <item>
-      <title>'The second life of drones': Why thousands of UAVs in Ukraine have stopped working, how a team of 'craftsmen' is fixing 24,000 obsolete drones every year, and what it means for the future of the drone industry</title>
-      <link>https://www.techradar.com/pro/the-second-life-of-drones-why-thousands-of-uavs-in-ukraine-have-stopped-working-how-a-team-of-craftsmen-is-fixing-24-000-obsolete-drones-every-year-and-what-it-means-for-the-future-of-the-drone-industry</link>
-      <pubDate>Thu, 14 May 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">MNBDfU6XqzekUx9xPFpgNT</guid>
-      <description>Ukraine is rebuilding obsolete drones after electronic warfare rapidly rendered thousands of freshly delivered UAVs ineffective across frontline combat zones.</description>
-    </item>
-    <item>
-      <title>An Engineer&#8217;s Post Protesting Laptop Surveillance Is Going Viral Inside Meta</title>
-      <link>https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/</link>
-      <pubDate>Thu, 14 May 2026 20:27:34 +0000</pubDate>
-      <guid isPermaLink="false">6a0609ba8cd08cd9ab8729e4</guid>
-      <description>Meta employees in the US and UK are organizing against corporate software that tracks workers&#8217; keystrokes and mouse activity.</description>
-    </item>
-    <item>
-      <title>Amazon hurled its Lord of the Rings MMO back into the fires of Mount Doom</title>
-      <link>https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/</link>
-      <pubDate>Thu, 14 May 2026 20:25:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/</guid>
-      <description>It's still making a new game set in Middle-earth, though.</description>
-    </item>
-    <item>
-      <title>Cerebras IPO makes billions for Benchmark but VC Eric&#160;Vishria almost didn&#8217;t take the meeting</title>
-      <link>https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/</link>
-      <pubDate>Thu, 14 May 2026 20:23:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3122714</guid>
-      <description>Benchmark almost never backs hardware startups. So Eric&#160;Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.</description>
-    </item>
-    <item>
-      <title>Agent authorization is broken &#8212; and authentication passing makes it worse</title>
-      <link>https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026</link>
-      <pubDate>Thu, 14 May 2026 20:22:45 GMT</pubDate>
-      <guid isPermaLink="false">4gog5OZqlYEcxj6UAeZ1g0</guid>
-      <description>Anthony Grieco, Cisco&#8217;s SVP and chief security and trust officer, did not hesitate when VentureBeat asked whether rogue agent incidents are reaching Cisco&#8217;s customer base."A hundred percent. We see them regularly," Grieco told VentureBeat in an exclusive interview at RSAC 2026. "I've heard some that I can't repeat, but they do get to the places of, you know, agents are doing things that they think are the right things to do."The incidents Grieco described follow a consistent pattern: authentication passes, identity checks clear. The agent is exactly who it claims to be. Then it accesses data i...</description>
-    </item>
-    <item>
-      <title>Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)</title>
-      <link>https://www.wired.com/story/memorial-day-mattress-deals-2026/</link>
-      <pubDate>Thu, 14 May 2026 20:20:06 +0000</pubDate>
-      <guid isPermaLink="false">69fe20f2692a9d3fda8bd939</guid>
-      <description>It&#8217;s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.</description>
-    </item>
-    <item>
-      <title>Don't wait for Memorial Day to buy a new TV &#8212; shop record-low prices right now, with up to $1,400 off 4K, QLED, and OLED TVs</title>
-      <link>https://www.techradar.com/seasonal-sales/dont-wait-for-memorial-day-to-buy-a-new-tv-shop-record-low-prices-right-now-with-up-to-usd1-400-off-4k-qled-and-oled-tvs</link>
-      <pubDate>Thu, 14 May 2026 20:09:41 +0000</pubDate>
-      <guid isPermaLink="false">a8tUHf8StuZD4KgCC6vsAN</guid>
-      <description>There's no need to wait for Memorial Day; you can shop impressive TV deals right now, including up to $1,400 off the best-rated 4K, QLED, and OLED TVs.</description>
-    </item>
-    <item>
-      <title>OpenAI&#8217;s Codex is now in the ChatGPT mobile app</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview</link>
-      <pubDate>2026-05-14T16:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=930763</guid>
-      <description>OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on "side quests," [&#8230;]</description>
-    </item>
-    <item>
-      <title>&#8220;If you&#8217;re manufacturing EVs that can&#8217;t be repaired, it&#8217;s going to be a real challenge to sustain residual values&#8221; &#8212; experts call for more repairability in the battery industry</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/if-youre-manufacturing-evs-that-cant-be-repaired-its-going-to-be-a-real-challenge-to-sustain-residual-values-experts-call-for-more-repairability-in-the-battery-industry</link>
-      <pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Wq9FVPcZGi9GPbPMTvTWdf</guid>
-      <description>Experts are calling for more EV repairability, as range-focussed battery packs could seriously hurt residual values</description>
-    </item>
-    <item>
-      <title>OpenAI brings its Codex coding app to mobile</title>
-      <link>https://www.engadget.com/2173235/openai-brings-its-codex-coding-app-to-mobile/</link>
-      <pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173235/openai-brings-its-codex-coding-app-to-mobile/</guid>
-      <description>The integration allows you to keep tabs on your coding projects on the go.</description>
-    </item>
-    <item>
-      <title>What happens when AI starts building itself?</title>
-      <link>https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/</link>
-      <pubDate>Thu, 14 May 2026 19:57:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3122712</guid>
-      <description>Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely &#8212; and he insists it will actually ship products.</description>
-    </item>
-    <item>
-      <title>Netflix wants to use generative AI to make animated shorts</title>
-      <link>https://www.engadget.com/2173239/netflix-wants-to-use-generative-ai-to-make-animated-shorts/</link>
-      <pubDate>Thu, 14 May 2026 19:53:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173239/netflix-wants-to-use-generative-ai-to-make-animated-shorts/</guid>
-      <description>Sigh.</description>
-    </item>
-    <item>
-      <title>Meta&#8217;s summer sale drops Ray-Ban&#8217;s new smart glasses to record-low prices</title>
-      <link>https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale</link>
-      <pubDate>2026-05-14T15:44:17-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=930785</guid>
-      <description>If you&#8217;ve been curious about Ray-Ban&#8217;s Meta smart glasses, right now they&#8217;re on sale in Meta&#8217;s biggest deal event outside Black Friday. As part of the company&#8217;s Summer Sale event, which runs through May 26th, the original model is on sale starting at $224.25 ($74 off) at Amazon, Best Buy, and directly from Meta, matching [&#8230;]</description>
-    </item>
-    <item>
-      <title>Proc&#232;s OpenAI&#160; | Elon Musk absent, Sam Altman au premier rang</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-05-14/proces-openai/elon-musk-absent-sam-altman-au-premier-rang.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Thu, 14 May 2026 15:39:52 -0400</pubDate>
-      <guid isPermaLink="false">717c453075ec3d019008ba6dd3deb228</guid>
-      <description>Trois semaines d&#8217;audiences &#224;&#160;Oakland (Californie) et la trajectoire d&#8217;OpenAI en jeu&#160;: les cr&#233;ateurs de ChatGPT sont attentifs jeudi aux plaidoiries finales du proc&#232;s intent&#233; par Elon Musk, dernier acte avant que le jury ne se retire pour d&#233;lib&#233;rer.</description>
-    </item>
-    <item>
-      <title>The VW ID.Buzz is returning for model year 2027 with a new trim for camping</title>
-      <link>https://www.engadget.com/2173225/the-vw-idbuzz-is-returning-for-model-year-2027-with-a-new-trim-for-camping/</link>
-      <pubDate>Thu, 14 May 2026 19:34:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173225/the-vw-idbuzz-is-returning-for-model-year-2027-with-a-new-trim-for-camping/</guid>
-      <description>The Tourer model features a fold-out mattress, removable window binds and more.</description>
-    </item>
-    <item>
-      <title>The HDMI ARC port on your TV has a very specific job</title>
-      <link>https://www.engadget.com/2172906/hdmi-arc-port-tv-use-explained/</link>
-      <pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2172906/hdmi-arc-port-tv-use-explained/</guid>
-      <description>The distinction between various flavors of HDMI can get a bit technical.</description>
     </item>
   </channel>
 </rss>
