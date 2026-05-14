@@ -3,66 +3,256 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 14 May 2026 07:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:23:35 GMT</lastBuildDate>
     <item>
-      <title>Bosch muscle les moteurs de ses v&#233;los&#160;: jusqu&#8217;&#224; 120 Nm de couple et 600&#160;% d&#8217;assistance</title>
-      <link>https://www.01net.com/actualites/bosch-muscle-les-moteurs-de-ses-velos-jusqua-120-nm-de-couple-et-600-dassistance.html</link>
-      <pubDate>Thu, 14 May 2026 07:31:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1345488</guid>
-      <description>Bosch annonce l&#8217;arriv&#233;e d&#8217;une mise &#224; jour importante pour tous les mod&#232;les de v&#233;los &#233;lectriques &#233;quip&#233;s de moteurs Bosch. Disponible &#224; partir du 4 mai 2026, elle permettra d&#8217;augmenter la vitesse de couple du moteur ainsi que le niveau d&#8217;assistance.</description>
+      <title>Bluetti says home solar power is now &#8216;plug-and-play&#8217; &#8212; I went to the Balco launch to see if it&#8217;s really that simple</title>
+      <link>https://www.techradar.com/pro/bluetti-says-home-solar-power-is-now-plug-and-play-i-went-to-the-balco-launch-to-see-if-its-really-that-simple</link>
+      <pubDate>Thu, 14 May 2026 10:20:00 +0000</pubDate>
+      <guid isPermaLink="false">dwXcdNfhP2dm5GWAfyewf7</guid>
+      <description>Has Bluetti cracked the biggest barrier to home solar power with its new 'plug-and-play' balcony systems?</description>
     </item>
     <item>
-      <title>Le Xiaomi Redmi 15C s&#8217;accompagne d&#8217;une enceinte de poche dans un pack &#224; -20 %</title>
-      <link>https://www.frandroid.com/bons-plans/3097865_le-xiaomi-redmi-15c-saccompagne-dune-enceinte-de-poche-dans-un-pack-a-20</link>
-      <pubDate>Thu, 14 May 2026 07:12:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3097865_le-xiaomi-redmi-15c-saccompagne-dune-enceinte-de-poche-dans-un-pack-a-20</guid>
+      <title>US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips</title>
+      <link>https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/</link>
+      <pubDate>Thu, 14 May 2026 10:12:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/</guid>
+      <description>But Reuters says NVIDIA has yet to make any deliveries.</description>
+    </item>
+    <item>
+      <title>I tried the 'Goal, Tone, Rules' ChatGPT prompt and it fixed my awkward AI emails while also saving me hours a week</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-tried-the-goal-tone-rules-chatgpt-prompt-and-it-fixed-my-awkward-ai-emails-while-also-saving-me-hours-a-week</link>
+      <pubDate>Thu, 14 May 2026 10:12:00 +0000</pubDate>
+      <guid isPermaLink="false">jAucmGNPDVrxCqpJk4tHZ9</guid>
+      <description>Giving ChatGPT clearer context and tone instructions makes it great at handling emails</description>
+    </item>
+    <item>
+      <title>Confidentiality is not security: Why the real AI runtime crisis Is the Authorization Gap</title>
+      <link>https://www.techradar.com/pro/confidentiality-is-not-security-why-the-real-ai-runtime-crisis-is-the-authorization-gap</link>
+      <pubDate>Thu, 14 May 2026 10:09:20 +0000</pubDate>
+      <guid isPermaLink="false">aENpmDq8L3AieZLW6p7FyA</guid>
+      <description>The real runtime crisis is the Authorization Gap &#8212; the absence of any enforcement point that decides what an AI identity is permitted to do at the moment it tries to act.</description>
+    </item>
+    <item>
+      <title>Microsoft is asking for your help to fix Windows 11 &#8212; and I'm hopeful this isn't just a desperate move</title>
+      <link>https://www.techradar.com/computing/windows/microsoft-is-asking-for-your-help-to-fix-windows-11-and-im-hopeful-this-isnt-just-a-desperate-move</link>
+      <pubDate>Thu, 14 May 2026 10:09:09 +0000</pubDate>
+      <guid isPermaLink="false">RtrTFSWdTt2mgjEzanjTLh</guid>
+      <description>This is the clearest sign yet the company is serious about making the 'fix Windows 11 campaign' work.</description>
+    </item>
+    <item>
+      <title>Google Chrome&#8217;s Incognito mode doesn't hide your browsing data from your ISP &#8212; here's what actually does</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/google-chromes-incognito-mode-doesnt-hide-your-browsing-data-from-your-isp-heres-what-actually-does</link>
+      <pubDate>Thu, 14 May 2026 10:02:20 +0000</pubDate>
+      <guid isPermaLink="false">32SccVxLh8iXHfxPbNKrWS</guid>
+      <description>Going "Incognito" won't stop your internet provider from tracking, throttling, and selling your browsing history. Here is exactly how they see what you do online, and the best ways to shut them out.</description>
+    </item>
+    <item>
+      <title>HelloFresh Meal Kit Review (2026): Vast Options, Good Execution</title>
+      <link>https://www.wired.com/review/hellofresh-meal-kit-2026/</link>
+      <pubDate>Thu, 14 May 2026 10:02:00 +0000</pubDate>
+      <guid isPermaLink="false">67e5da15bab270b14426feae</guid>
+      <description>The HelloFresh meal kit has harnessed AI and modern logistics to field the most impressively gigantic menu I have ever seen. Recipe times are still lies, though.</description>
+    </item>
+    <item>
+      <title>93 kg d&#8217;aluminium inject&#233;s en 0,08 seconde : on a visit&#233; l&#8217;usine futuriste qui fabrique le nouveau Volvo EX60</title>
+      <link>https://www.frandroid.com/marques/volvo/3095189_93-kg-daluminium-injectes-en-008-seconde-on-a-visite-lusine-futuriste-qui-fabrique-le-nouveau-volvo-ex60</link>
+      <pubDate>Thu, 14 May 2026 10:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/volvo/3095189_93-kg-daluminium-injectes-en-008-seconde-on-a-visite-lusine-futuriste-qui-fabrique-le-nouveau-volvo-ex60</guid>
       <description>
-D&#233;j&#224; accessible, le Xiaomi Redmi 15C se renforce avec une enceinte portable dans un pack vendu pour 159,99 euros gr&#226;ce &#224; cette remise de Boulanger.
+Un SUV 100 % &#233;lectrique dot&#233; de 810 km d'autonomie, vendu au m&#234;me prix que son &#233;quivalent hybride ? C&#8217;est l'ambitieux pari du nouveau Volvo EX60. Pour comprendre comment la marque a r&#233;ussi ce tour de force, nous avons pouss&#233; les portes de ses lignes de production en Su&#232;de. Au programme : presses titanesques et aluminium en fusion.
 </description>
     </item>
     <item>
-      <title>Apple backs Google after EU orders Android be opened up to AI rivals</title>
-      <link>https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/</link>
-      <pubDate>Thu, 14 May 2026 07:03:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/</guid>
-      <description>The company agrees with Google that it would put European users' privacy and safety at risk.</description>
+      <title>Your iPhone Gets Stolen. Then the Hacking Begins</title>
+      <link>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</link>
+      <pubDate>Thu, 14 May 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a0339f22a6c5e7b8bd88f64</guid>
+      <description>A bustling underground ecosystem is providing criminals with the tools to unlock iPhones&#8212;and wage phishing attacks against their contacts to access bank accounts and more.</description>
     </item>
     <item>
-      <title>Dutton Ranch review: Beth Dutton and Rip Wheeler's return to Paramount+ is nothing like Taylor Sheridan-led Yellowstone &#8212; think The Madison meets Landman instead</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/dutton-ranch-yellowstone-review</link>
-      <pubDate>Thu, 14 May 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">umDsZZCY3Jds4mSqEXGswY</guid>
-      <description>Kelly Reilly and Cole Hauser weren't joking when they said that Dutton Ranch is nothing like Yellowstone &#8212; but for Beth and Rip to move forward, the spinoff series can't afford to be.</description>
+      <title>Nintendo has revealed it has 'decided to change' the release date for its Legend of Zelda live-action movie &#8212; but now it's coming out earlier than any of us expected</title>
+      <link>https://www.techradar.com/streaming/entertainment/nintendo-has-revealed-it-has-decided-to-change-the-release-date-for-its-legend-of-zelda-live-action-movie-but-its-now-coming-out-earlier-than-any-of-us-expected</link>
+      <pubDate>Thu, 14 May 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">q96VTk4WPs5YjPboCksHT</guid>
+      <description>The Legend of Zelda's live-action film adaptation is now set to arrive in theaters earlier than anticipated.</description>
     </item>
     <item>
-      <title>Denon unveils two new Dolby Atmos AV receivers designed for affordable home theater setups &#8212; and I heard them at the company's reference listening room in Japan</title>
-      <link>https://www.techradar.com/televisions/av-receivers/denon-unveils-two-new-dolby-atmos-avrs-designed-for-affordable-home-theater-setups</link>
-      <pubDate>Thu, 14 May 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">EyvN7i628gep7ZFn6PHRia</guid>
-      <description>6x HDMI inputs with 4K 120Hz and VRR, Dolby Vision and DTS:X support, dual room correction options &#8212; the AVR-X2900H and AVR-X3900H are here for you to build your new system around</description>
+      <title>War, drones, and the energy reckoning: How the Iran war is reshaping tech investment</title>
+      <link>https://www.techradar.com/pro/war-drones-and-the-energy-reckoning-how-the-iran-war-is-reshaping-tech-investment</link>
+      <pubDate>Thu, 14 May 2026 09:59:33 +0000</pubDate>
+      <guid isPermaLink="false">A7bgXppJyfdheLM8LH3fic</guid>
+      <description>The Iran war is turning autonomous systems and energy resilience into key investment themes.</description>
     </item>
     <item>
-      <title>J&#8217;ai essay&#233; une fausse Apple Watch Ultra &#224; 8 euros et c&#8217;est dangereux</title>
-      <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3094335_jai-essaye-une-fausse-apple-watch-ultra-a-8-euros-et-cest-dangereux</link>
-      <pubDate>Thu, 14 May 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3094335_jai-essaye-une-fausse-apple-watch-ultra-a-8-euros-et-cest-dangereux</guid>
+      <title>OpenAI replaced GPT-4o, but some users still refuse to let it die &#8212; now they&#8217;re celebrating its &#8216;birthday&#8217; in Times Square with a video billboard</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/openai-replaced-gpt-4o-but-some-users-still-refuse-to-let-it-die-now-theyre-celebrating-its-birthday-in-times-square-with-a-video-billboard</link>
+      <pubDate>Thu, 14 May 2026 09:56:01 +0000</pubDate>
+      <guid isPermaLink="false">RtBqbtbjdcNa83nnBHzmPP</guid>
+      <description>Fans of retired OpenAI model GPT-4o organized a birthday tribute for the chatbot in Times Square, and they still want it back.</description>
+    </item>
+    <item>
+      <title>Stuart Fails to Save the Universe gets 'genius' teaser and confirmed release date &#8212; but it's the synopsis that near guarantees a full Big Bang Theory reunion</title>
+      <link>https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe-release-date-trailer</link>
+      <pubDate>Thu, 14 May 2026 09:53:43 +0000</pubDate>
+      <guid isPermaLink="false">CEZNvQpUKEMCH4ZRKRkwuf</guid>
+      <description>Unexpected Big Bang Theory spinoff Stuart Fails to Save the Universe has its HBO Max release date and teaser &#8212; and a full cast reunion is looking more likely than not.</description>
+    </item>
+    <item>
+      <title>One UI 9 beta begins rolling out to Samsung Galaxy S26 users &#8212; here are the 5 biggest upgrades to Quick Panel, Notes, and more</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/one-ui-9-beta-begins-rolling-out-to-samsung-galaxy-s26-users-here-are-the-5-biggest-upgrades-to-quick-panel-notes-and-more</link>
+      <pubDate>Thu, 14 May 2026 09:51:30 +0000</pubDate>
+      <guid isPermaLink="false">UQU43vL3nCRFMUfwZyXHnC</guid>
+      <description>Samsung's One UI 9 beta brings Android 17 to the Galaxy S26 series, complete with improvements to various apps, accessibility tools, and security.</description>
+    </item>
+    <item>
+      <title>Kia Vision Meta Turismo&#160;: ce concept futuriste est d&#233;j&#224; pr&#234;t &#224; 90&#160;% pour la s&#233;rie&#160;!</title>
+      <link>https://www.01net.com/actualites/kia-vision-meta-turismo-concept-futuriste-deja-pret-a-90-pour-serie.html</link>
+      <pubDate>Thu, 14 May 2026 09:49:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1347171</guid>
+      <description>La Kia Vision Meta Turismo a &#233;tonn&#233; tout le monde par son style spectaculaire. Bonne nouvelle, elle d&#233;bloquera un mod&#232;le de s&#233;rie qui serait d&#233;j&#224; &#171; pr&#234;t &#224; 90 % &#187; selon la marque cor&#233;enne. La Kia Stinger aurait-elle enfin trouv&#233; sa digne descendante ?</description>
+    </item>
+    <item>
+      <title>Interface de conversation, application, nouveau design : tout va changer pour Siri avec iOS 27</title>
+      <link>https://www.frandroid.com/os/ios/3099081_interface-de-conversation-application-nouveau-design-tout-va-changer-pour-siri-avec-ios-27</link>
+      <pubDate>Thu, 14 May 2026 09:43:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/ios/3099081_interface-de-conversation-application-nouveau-design-tout-va-changer-pour-siri-avec-ios-27</guid>
       <description>
-Un coll&#232;gue m'a offert une fausse Apple Watch Ultra achet&#233;e 8 euros en Chine. R&#233;sultat ? Un cadeau empoisonn&#233;, dont les fausses mesures de sant&#233; s'av&#232;rent potentiellement dangereuses.
+Attendu en b&#234;ta d&#232;s la fin de la WWDC, d&#233;but juin, iOS 27 devrait faire &#233;voluer drastiquement Siri. L'assistant personnel d'Apple, souvent critiqu&#233;, profiterait pour l'occasion d'un tout nouveau design, d'une interface de conversation, et, pour la premi&#232;re fois, d'une application d&#233;di&#233;e.
 </description>
     </item>
     <item>
-      <title>Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has thoughts</title>
-      <link>https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/</link>
-      <pubDate>Thu, 14 May 2026 06:05:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3122447</guid>
-      <description>"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers."</description>
+      <title>'Too many employees are serving as the human middleware between disconnected AI systems': New study claims workers are spending a whole day every week managing AI tools</title>
+      <link>https://www.techradar.com/pro/too-many-employees-are-serving-as-the-human-middleware-between-disconnected-ai-systems-new-study-claims-workers-are-spending-a-whole-day-every-week-managing-ai-tools</link>
+      <pubDate>Thu, 14 May 2026 09:41:02 +0000</pubDate>
+      <guid isPermaLink="false">UeGWBhoQU6AQWBZUg8qH34</guid>
+      <description>Poor AI deployments are causing humans to spend a day a week as 'middleware' &#8211; liaising between siloed AI systems.</description>
     </item>
     <item>
-      <title>Un faux gestionnaire de mots de passe a pi&#233;g&#233; ses utilisateurs pendant 8 mois</title>
-      <link>https://www.01net.com/actualites/faux-gestionnaire-mots-passe-piege-utilisateurs-pendant-8-mois.html</link>
-      <pubDate>Thu, 14 May 2026 06:00:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1347000</guid>
-      <description>Pendant plus de huit mois, des cybercriminels ont diffus&#233; en toute discr&#233;tion une version pi&#233;g&#233;e de KeePass, l'un des gestionnaires de mots de passe open source les plus utilis&#233;s au monde. Ce faux gestionnaire &#233;tait taill&#233; pour voler vos mots de passe en vue de propager un ransomware.</description>
+      <title>Windows Update will soon automatically roll back faulty drivers</title>
+      <link>https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature</link>
+      <pubDate>2026-05-14T05:40:19-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=930303</guid>
+      <description>Microsoft is on a mission to fix Windows 11, and part of that involves improving the often-frustrating Windows Update experience. While you'll soon be able to pause updates indefinitely, Microsoft is also adding a new feature that automatically rolls back problematic drivers that have been installed through Windows Update. Microsoft has created a new "Cloud-Initiated [&#8230;]...</description>
+    </item>
+    <item>
+      <title>These Instagram Ads Sure Seem to Be Selling Cocaine Accessories</title>
+      <link>https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/</link>
+      <pubDate>Thu, 14 May 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a020b2e3931eecb2ceed2a8</guid>
+      <description>From designer straws to magnet-sealed leather pouches, the platform is awash in products seemingly built for coke&#8212;despite Meta&#8217;s policies on drug paraphernalia.</description>
+    </item>
+    <item>
+      <title>iPad Air M4 11&#8243; : premi&#232;re baisse de prix pour cette nouvelle tablette d&#8217;Apple taill&#233;e pour les &#233;tudiants et pros</title>
+      <link>https://www.frandroid.com/bons-plans/3098207_ipad-air-m4-11-premiere-baisse-de-prix-pour-cette-nouvelle-tablette-dapple-taillee-pour-les-etudiants-et-pros</link>
+      <pubDate>Thu, 14 May 2026 09:28:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3098207_ipad-air-m4-11-premiere-baisse-de-prix-pour-cette-nouvelle-tablette-dapple-taillee-pour-les-etudiants-et-pros</guid>
+      <description>
+L'iPad Air M4 11" est l'un des derniers mod&#232;les en date sur le march&#233;, que vous retrouvez en promo sur Amazon &#224; 604,39 euros au lieu de 669 euros.
+</description>
+    </item>
+    <item>
+      <title>'We meet again, my friend': The Batman Part 2 director reveals the first stars for his DC comic book movie sequel &#8212; and 'more' will be confirmed very, very soon</title>
+      <link>https://www.techradar.com/streaming/entertainment/we-meet-again-my-friend-the-batman-part-2-director-reveals-the-first-stars-for-his-dc-comic-book-movie-sequel-and-more-will-be-confirmed-very-very-soon</link>
+      <pubDate>Thu, 14 May 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">4hNnYgfEfAiVibGSJHcfKh</guid>
+      <description>The Batman 2's first six actors have been revealed, but its biggest surprises are being held back for a later date.</description>
+    </item>
+    <item>
+      <title>Identity is the new perimeter: The shift from breaking in to logging in</title>
+      <link>https://www.techradar.com/pro/identity-is-the-new-perimeter-the-shift-from-breaking-in-to-logging-in</link>
+      <pubDate>Thu, 14 May 2026 09:12:54 +0000</pubDate>
+      <guid isPermaLink="false">EZEs3sUEMTRZBJtSsxkvbR</guid>
+      <description>Attackers are exploiting identity systems to bypass defenses and gain persistent, stealthy access.</description>
+    </item>
+    <item>
+      <title>10 applications de randonn&#233;e&#8203; pour tous les amateurs de sorties en plein air</title>
+      <link>https://www.01net.com/actualites/10-applications-de-randonnee-pour-tous-les-amateurs-de-sorties-en-plein-air.html</link>
+      <pubDate>Thu, 14 May 2026 09:04:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1334098</guid>
+      <description>D&#233;couvrez notre s&#233;lection d&#8217;applications de randonn&#233;e qui r&#233;pondront aux besoins de tous les amateurs de sorties en pleine nature.</description>
+    </item>
+    <item>
+      <title>Voiture &#233;lectrique&#160;: cette &#171;&#160;mini centrale&#160;&#187; de 10 MW serait la solution pour supprimer l&#8217;attente aux bornes</title>
+      <link>https://www.01net.com/actualites/voiture-electrique-abb-devoile-mini-centrale-10-mw-supprimer-lattente-bornes.html</link>
+      <pubDate>Thu, 14 May 2026 09:02:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1346833</guid>
+      <description>L&#8217;augmentation constante des v&#233;hicules &#233;lectriques en circulation impliquera forc&#233;ment plus de bornes. Mais un nombre &#233;lev&#233; de bornes demande aussi plus d&#8217;&#233;nergie. ABB pense avoir trouv&#233; la solution pour d&#233;cupler sans effort la puissance.</description>
+    </item>
+    <item>
+      <title>Copernic, Galil&#233;e, Darwin... l&#8217;IA ressuscite des grands scientifiques en profs de fac dans des vid&#233;os pleines de clins d&#8217;&#339;il</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-copernic-galilee-darwin-ia-ressuscite-grands-scientifiques-profs-fac-videos-pleines-clins-oeil-134451/#xtor%3DRSS-8</link>
+      <pubDate>Thu, 14 May 2026 11:01:58 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-copernic-galilee-darwin-ia-ressuscite-grands-scientifiques-profs-fac-videos-pleines-clins-oeil-134451/#xtor%3DRSS-8</guid>
+      <description>Depuis des ann&#233;es, certains utilisent l&#8217;IA g&#233;n&#233;rative pour reconstituer l&#8217;apparence&#160;de personnages de l&#8217;Antiquit&#233;, en particulier des empereurs romains&#160;dont on dispose de plusieurs bustes. Pourquoi ne pas faire de m&#234;me avec des figures embl&#233;matiques des sciences afin&#160;de se faire une id&#233;e de ce...</description>
+    </item>
+    <item>
+      <title>Android : voici les smartphones qui seront compatibles avec AirDrop sur iPhone</title>
+      <link>https://www.frandroid.com/marques/honor/3099157_android-voici-les-smartphones-qui-seront-compatibles-avec-airdrop-sur-iphone</link>
+      <pubDate>Thu, 14 May 2026 09:01:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/honor/3099157_android-voici-les-smartphones-qui-seront-compatibles-avec-airdrop-sur-iphone</guid>
+      <description>
+Apr&#232;s avoir annonc&#233; la compatibilit&#233; de Quick Share sur Android avec AirDrop sur iPhone, Google a d&#233;voil&#233; la liste des smartphones Android compatibles. 
+</description>
+    </item>
+    <item>
+      <title>Meta&#8217;s New Reality: Record High Profits. Record Low Morale</title>
+      <link>https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</link>
+      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a0525ccc21c453beb0a3e91</guid>
+      <description>Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where "everyone is unhappy."</description>
+    </item>
+    <item>
+      <title>How to watch PGA Championship 2026: Live Streams, TV Channels &amp; Preview</title>
+      <link>https://www.techradar.com/how-to-watch/golf/the-pga-championship-2026-live-streams</link>
+      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">PgZnK8CTjvViM94SgFbWtE</guid>
+      <description>All the ways to watch The PGA Championship 2026 live streams online from anywhere, as Scottie Scheffler defends his crown as Rory McIlroy leads the challenge.</description>
+    </item>
+    <item>
+      <title>You&#8217;ve heard about the glass ceiling, but what about the sticky floor? For some working women, it&#8217;s an even worse problem</title>
+      <link>https://www.fastcompany.com/91541024/glass-ceiling-sticky-floor-worse-problem-women</link>
+      <pubDate>2026-05-14T09:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91541024/glass-ceiling-sticky-floor-worse-problem-women</guid>
+      <description>Here&#8217;s what to do about it.
+For decades, the conversation around gender equality at work has been dominated by one glittering metaphor: the glass ceiling. We count women in boardrooms, track female CEOs, and debate the glass cliff awaiting women promoted during crises. But for millions of women over 45, the problem isn&#8217;t getting to the top. It&#8217;s getting unstuck from the bottom....</description>
+    </item>
+    <item>
+      <title>Googlebook, Android 17, Gemini intelligence : Google vend une grande r&#233;volution et je pense qu&#8217;ils peuvent y arriver</title>
+      <link>https://www.frandroid.com/marques/google/3098235_googlebook-android-17-gemini-intelligence-google-vend-une-grande-revolution-et-je-pense-quils-peuvent-y-arriver</link>
+      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3098235_googlebook-android-17-gemini-intelligence-google-vend-une-grande-revolution-et-je-pense-quils-peuvent-y-arriver</guid>
+      <description>
+Lors de son Android Show, Google a lanc&#233; de tr&#232;s grandes promesses, en parlant de l'une des plus grandes mises &#224; jour de l'histoire d'Android. Au-del&#224; de la communication, Google est v&#233;ritablement le mieux plac&#233; pour mener une nouvelle r&#233;volution technologique en 2026.
+</description>
+    </item>
+    <item>
+      <title>50Mbps 5G speeds set to become new normal in the UK as Vodafone intros &#163;21 fixed-line access broadband to millions of customers &#8212; but why is it more expensive than Three's very similar &#163;18 offer?</title>
+      <link>https://www.techradar.com/pro/50mbps-5g-speeds-set-to-become-new-normal-in-the-uk-as-vodafone-intros-gbp21-fixed-line-access-broadband-to-millions-of-customers-but-why-is-it-more-expensive-than-threes-very-similar-gbp18-offer</link>
+      <pubDate>Thu, 14 May 2026 08:41:54 +0000</pubDate>
+      <guid isPermaLink="false">BMmZMNvwL9F9DFJXipmL9f</guid>
+      <description>Vodafone has launched its own 5G Broadband package to plug the gap between copper and full fiber &#8211; or as a backup network.</description>
+    </item>
+    <item>
+      <title>The answer to the AI-driven hardware crisis isn't more hardware, it's smarter software</title>
+      <link>https://www.techradar.com/pro/the-answer-to-the-ai-driven-hardware-crisis-isnt-more-hardware-its-smarter-software</link>
+      <pubDate>Thu, 14 May 2026 08:34:13 +0000</pubDate>
+      <guid isPermaLink="false">CBsY3tn2xWFFxR7jJ8Et7L</guid>
+      <description>The structural supply crisis is a wake-up call, signaling a broader reset in how enterprise IT should be operated.</description>
+    </item>
+    <item>
+      <title>Fancy a slice in the sunshine? These are the best pizza ovens for authentic pies, al fresco style</title>
+      <link>https://www.techradar.com/home/fancy-a-slice-in-the-sunshine-these-are-the-best-pizza-ovens-for-authentic-pies-al-fresco-style</link>
+      <pubDate>Thu, 14 May 2026 08:30:08 +0000</pubDate>
+      <guid isPermaLink="false">2CB7u7C6xwppEYLszz2fTW</guid>
+      <description>Forget BBQs, this summer is all about pizza &#8212; and these are the best gas, wood and electric pizza ovens for perfect pies in the sunshine.</description>
+    </item>
+    <item>
+      <title>The creative risk of letting AI do all the work</title>
+      <link>https://www.fastcompany.com/91536391/creative-risk-of-letting-ai-do-all-the-work</link>
+      <pubDate>2026-05-14T08:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91536391/creative-risk-of-letting-ai-do-all-the-work</guid>
+      <description>MIT&#8217;s Sinan Aral has the data . . . and a warning. Outsourcing creativity to AI may be the most rational move leaders make, and the most dangerous one.
+Imagine hiring every all-star on the market, paying top dollar, and then finishing sixth in your division. That&#8217;s not a hypothetical. It&#8217;s what happened to Sinan Aral&#8217;s beloved Liverpool F.C. last season, and it&#8217;s also, he argues, an almost perfect metaphor for how most organizations are deploying AI right now....</description>
     </item>
   </channel>
 </rss>
