@@ -3,55 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 14 May 2026 00:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:49:11 GMT</lastBuildDate>
     <item>
-      <title>I found an Easter egg that teases the next Dark Pictures game hidden within Directive 8020 &#8212; here's how to unlock it</title>
-      <link>https://www.techradar.com/gaming/i-found-an-easter-egg-that-teases-the-next-dark-pictures-game-hidden-within-directive-8020-heres-how-to-unlock-it</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">oV44wmAVTJrMF7vGrYWk4D</guid>
-      <description>Keen to see more from the Dark Pictures Anthology? You won't want to miss these collectibles.</description>
-    </item>
-    <item>
-      <title>AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.</title>
-      <link>https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech</link>
-      <pubDate>Wed, 13 May 2026 23:47:24 GMT</pubDate>
-      <guid isPermaLink="false">in4gU02Tb6pVjaQ18BxoA</guid>
-      <description>For decades, the IQ test has been one of the most familiar &#8212; and most contested &#8212; yardsticks for human intelligence. Now, a startup project called AI IQ is applying the same metaphor to artificial intelligence, assigning estimated intelligence quotients to more than 50 of the world's most powerful language models and plotting them on a standard bell curve.The result is a set of interactive visualizations at aiiq.org that have ricocheted across social media in the past week, drawing praise from enterprise technologists who say the charts make an impossibly complex market legible &#8212; and sharp cri...</description>
-    </item>
-    <item>
-      <title>Quordle hints and answers for Thursday, May 14 (game #1571)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-14-may-2026</link>
-      <pubDate>Wed, 13 May 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">sQ3hrq5EU4erZW75Txcp3M</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Thursday, May 14 (game #1068)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-14-may-2026</link>
-      <pubDate>Wed, 13 May 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">r77Z7pBw5EYMdNLibwN4gC</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Thursday, May 14 (game #802)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-14-may-2026</link>
-      <pubDate>Wed, 13 May 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">K7Lv6rag4ueembgmxc2CCF</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>Details of Intel's HBM-killer memory tech emerge, revealing nine layers, up to 9GB of DRAM capacity, and almost as much bandwidth as HBM4 that powers Nvidia's Vera Rubin AI platform</title>
-      <link>https://www.techradar.com/pro/details-of-intels-hbm-killer-memory-tech-emerge-revealing-nine-layers-up-to-9gb-of-dram-capacity-and-almost-as-much-bandwidth-as-hbm4-that-powers-nvidias-vera-rubin-ai-platform</link>
-      <pubDate>Wed, 13 May 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">qLSYqqoVGdN45cRvUjeMGk</guid>
-      <description>Intel-backed ZAM memory uses nine vertically stacked layers while reportedly approaching HBM4 bandwidth levels for future AI hardware systems.</description>
-    </item>
-    <item>
-      <title>KitchenAid launches its first smart thermometer</title>
-      <link>https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/</link>
-      <pubDate>Wed, 13 May 2026 22:22:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/</guid>
-      <description>There are single and dual probe models available.</description>
+      <title>Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now</title>
+      <link>https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/</link>
+      <pubDate>Thu, 14 May 2026 03:57:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/</guid>
+      <description>Copilot features are now available on Edge for mobile.</description>
     </item>
   </channel>
 </rss>
