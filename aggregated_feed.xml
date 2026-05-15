@@ -3,13 +3,105 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 15 May 2026 19:44:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 21:08:49 GMT</lastBuildDate>
+    <item>
+      <title>Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent</title>
+      <link>https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent</link>
+      <pubDate>Fri, 15 May 2026 21:06:09 GMT</pubDate>
+      <guid isPermaLink="false">6xYr5OkuqdkF8BAVNFwKrZ</guid>
+      <description>The company formerly known as Intercom just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent.Fin Operator, announced Thursday at a live event in San Francisco, is a new AI-powered system designed specifically for the back-office teams that configure, monitor, and improve Fin, the company's customer-facing AI agent. Rather than replacing human support agents &#8212; which is what Fin itself does on the front lines &#8212; Operator targets the growing army of support operations professionals who spend their days u...</description>
+    </item>
+    <item>
+      <title>How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%</title>
+      <link>https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75</link>
+      <pubDate>Fri, 15 May 2026 21:04:15 GMT</pubDate>
+      <guid isPermaLink="false">tIF6rTJtyHUNZv8xOM8Zo</guid>
+      <description>One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit.&#160;To overcome this challenge, researchers at University of Illinois Urbana-Champaign and Stanford University developed RecursiveMAS, a framework that enables agents to collaborate and transmit information through embedding space instead of text. This change results in both efficiency and performance gains.&#160;Experiments show that RecursiveMAS achieves accu...</description>
+    </item>
+    <item>
+      <title>&#8220;I think it can be a point of no return&#8221; &#8212; experts issue warning as Chinese EV manufacturers hunt for European manufacturing plants</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/i-think-it-can-be-a-point-of-no-return-experts-issue-warning-as-chinese-ev-manufacturers-hunt-for-european-manufacturing-plants</link>
+      <pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Btv5u9fPVmiVizzdj2Ee8N</guid>
+      <description>Chinese EV makers are pushing into Europe with plans to snap up idle manufacturing facilities</description>
+    </item>
+    <item>
+      <title>Two hi-fi greats just announced cool, curved new stereo speakers &#8212; one's passive, one's active, take your pick</title>
+      <link>https://www.techradar.com/audio/speakers/two-hi-fi-greats-just-announced-cool-curved-new-stereo-speakers-ones-passive-ones-active-take-your-pick</link>
+      <pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bBixJLuHVUeBEAESTJfx5e</guid>
+      <description>Wharfedale's Denton 1S and Fyne Audio's Cubit 5 speakers are compact, powerful and promise superb sound</description>
+    </item>
+    <item>
+      <title>The Best Outdoor Deals From the REI Anniversary Sale 2026</title>
+      <link>https://www.wired.com/story/rei-anniversary-sale-2026/</link>
+      <pubDate>Fri, 15 May 2026 20:57:08 +0000</pubDate>
+      <guid isPermaLink="false">6a074cd11465d9b38b836a17</guid>
+      <description>It&#8217;s the best time of year to pick up all the outdoor gadgets, tents, sleeping bags, and other gear you&#8217;ll need for summer fun.</description>
+    </item>
+    <item>
+      <title>ArXiv will ban researchers who upload papers full of AI slop</title>
+      <link>https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers</link>
+      <pubDate>2026-05-15T16:38:19-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=931766</guid>
+      <description>ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has "incontrovertible evidence that the authors did not check the results of LLM generation," such as hallucinated references or "meta-comments" left by an LLM, authors will be [&#8230;]</description>
+    </item>
+    <item>
+      <title>I think therefore I am: cutting-edge AI used to 'revive spirit' of French Mark Twain and spawn a new sharp satire more than 350 years after his death</title>
+      <link>https://www.techradar.com/pro/i-think-therefore-i-am-cutting-edge-ai-used-to-revive-spirit-of-french-mark-twain-and-spawn-a-new-sharp-satire-more-than-350-years-after-his-death</link>
+      <pubDate>Fri, 15 May 2026 20:35:00 +0000</pubDate>
+      <guid isPermaLink="false">zaeSHEM7K9ormm6ftgt5Jj</guid>
+      <description>French researchers trained artificial intelligence on Moli&#232;re&#8217;s writings, producing a theatrical comedy that premiered before audiences at Versailles Opera.</description>
+    </item>
+    <item>
+      <title>RJ Scaringe has raised more than $12 billion across three startups and investors still want more</title>
+      <link>https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/</link>
+      <pubDate>Fri, 15 May 2026 20:30:20 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3122332</guid>
+      <description>Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion.</description>
+    </item>
+    <item>
+      <title>General Catalyst posted VC rage bait and it worked, especially on a16z</title>
+      <link>https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/</link>
+      <pubDate>Fri, 15 May 2026 20:25:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3123082</guid>
+      <description>Compulsive X user Andreessen himself couldn't resist responding, many, many times.</description>
+    </item>
+    <item>
+      <title>Tesla Reveals New Details About Robotaxi Crashes&#8212;and the Humans Involved</title>
+      <link>https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/</link>
+      <pubDate>Fri, 15 May 2026 19:51:16 +0000</pubDate>
+      <guid isPermaLink="false">6a076545767020a7e7a7912a</guid>
+      <description>Remote operators (slowly) drove the automaker&#8217;s autonomous vehicles into a metal fence and a construction barricade, Tesla says.</description>
+    </item>
+    <item>
+      <title>California lawmakers are working on a bill to preserve access to online games</title>
+      <link>https://www.engadget.com/2174011/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/</link>
+      <pubDate>Fri, 15 May 2026 19:48:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2174011/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/</guid>
+      <description>Game preservation group Stop Killing Games advised on the bill.</description>
+    </item>
+    <item>
+      <title>ChatGPT power users can now link their bank accounts for personal finance advice</title>
+      <link>https://mashable.com/article/openai-announces-personal-finance-tools-chatgpt</link>
+      <pubDate>Fri, 15 May 2026 19:44:51 +0000</pubDate>
+      <guid isPermaLink="false">03ROMvlbv7HaAf61rZfr89d</guid>
+      <description>On May 15, OpenAI rolled out a ChatGPT personal finance experience to Pro users in the United States.</description>
+    </item>
     <item>
       <title>Summer Games Done Quick returns this July, schedule out now</title>
       <link>https://www.engadget.com/2173999/summer-games-done-quick-returns-this-july-schedule-out-now/</link>
       <pubDate>Fri, 15 May 2026 19:41:13 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2173999/summer-games-done-quick-returns-this-july-schedule-out-now/</guid>
       <description>Who's up for a Jak &amp; Daxter / Half-Life hybrid?</description>
+    </item>
+    <item>
+      <title>Sony&#8217;s new AI camera feature is now a meme: Is the backlash the point?</title>
+      <link>https://www.fastcompany.com/91543216/sony-xperia-ai-camera-assistant-backlash-tool-pictures-worse</link>
+      <pubDate>2026-05-15T19:41:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91543216/sony-xperia-ai-camera-assistant-backlash-tool-pictures-worse</guid>
+      <description>What happens when a smartphone&#8217;s AI-powered camera tool makes pictures look worse? Maybe it doesn&#8217;t matter as long as it gets people talking.
+Artificial intelligence has notoriously struggled with creating images, writing out gibberish on signs, or adding extra fingers to people. But it doesn&#8217;t seem to be much help for photography either&#8212;and the internet is having a field day over it....</description>
     </item>
     <item>
       <title>Marathon's future includes duo queues, more PvE modes and better onboarding</title>
@@ -19,83 +111,18 @@
       <description>Bungie details how it plans to grow its extraction shooter.</description>
     </item>
     <item>
+      <title>See the Google 3D emojis planned for Pixel, Android 17</title>
+      <link>https://mashable.com/article/google-3d-emojis-pixel-android-17</link>
+      <pubDate>Fri, 15 May 2026 19:27:42 +0000</pubDate>
+      <guid isPermaLink="false">06CgYmDN6RzTAdHG17d6go9</guid>
+      <description>New 3D emoji designs are coming to Android 17.</description>
+    </item>
+    <item>
       <title>&#171; J'ai d&#233;couvert une nouvelle pluie de m&#233;t&#233;ores, qui provient d'un ast&#233;ro&#239;de en train d'&#234;tre d&#233;sint&#233;gr&#233; par le Soleil &#187;</title>
       <link>https://www.futura-sciences.com/sciences/actualites/asteroides-jai-decouvert-nouvelle-pluie-meteores-provient-asteroide-train-etre-desintegre-soleil-133745/#xtor%3DRSS-8</link>
       <pubDate>Fri, 15 May 2026 21:08:48 +0200</pubDate>
       <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/asteroides-jai-decouvert-nouvelle-pluie-meteores-provient-asteroide-train-etre-desintegre-soleil-133745/#xtor%3DRSS-8</guid>
       <description>Des milliers de cam&#233;ras astronomiques observent le ciel chaque nuit pour photographier les m&#233;t&#233;ores qui traversent notre atmosph&#232;re. Les chercheurs en sciences plan&#233;taires utilisent&#160;ces observations pour mieux comprendre la poussi&#232;re, les ast&#233;ro&#239;des et les d&#233;bris de com&#232;tes pr&#233;sents dans notre...</description>
-    </item>
-    <item>
-      <title>A hotel check-in system left a million passports and driver&#8217;s licenses open for anyone to see</title>
-      <link>https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/</link>
-      <pubDate>Fri, 15 May 2026 18:51:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123092</guid>
-      <description>The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.</description>
-    </item>
-    <item>
-      <title>The Analogue 3D is finally getting save states</title>
-      <link>https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state</link>
-      <pubDate>2026-05-15T14:43:43-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=931615</guid>
-      <description>Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment and resume from that exact spot later on, rather than having to reach a specific point in a game [&#8230;]</description>
-    </item>
-    <item>
-      <title>A cheap OLED that&#8217;s actually good for gaming?</title>
-      <link>https://mashable.com/video/alienware-349-qd-oled-gaming-monitor</link>
-      <pubDate>Fri, 15 May 2026 18:35:37 +0000</pubDate>
-      <guid isPermaLink="false">06ghdnzXSVZuqlN4UXVUXCO</guid>
-      <description>Alienware&#8217;s 27-inch 240Hz QD-OLED monitor brings OLED gaming to a lower price point. Here&#8217;s whether it&#8217;s worth it.</description>
-    </item>
-    <item>
-      <title>OpenAI keeps shuffling its executives in bid to win AI agent battle</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle</link>
-      <pubDate>2026-05-15T14:21:35-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=931544</guid>
-      <description>OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to "invest in [&#8230;]</description>
-    </item>
-    <item>
-      <title>'This work is a glimpse of what is coming': Security team lays out how Anthropic Mythos helped build a working macOS exploit in five days</title>
-      <link>https://www.techradar.com/pro/security/this-work-is-a-glimpse-of-what-is-coming-security-team-lays-out-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days</link>
-      <pubDate>Fri, 15 May 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">ar4mEN6smgBTEAYkw5Hi6W</guid>
-      <description>A product that took five years to build was broken into in five days, thanks to Mythos - and now Apple is working on a fix.</description>
-    </item>
-    <item>
-      <title>Silicon Valley&#8217;s vacationland needs a new energy provider just as AI is driving prices up</title>
-      <link>https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/</link>
-      <pubDate>Fri, 15 May 2026 18:14:44 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123049</guid>
-      <description>Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.</description>
-    </item>
-    <item>
-      <title>Google Maps r&#233;volutionne sa navigation, le moteur hybride chinois de Renault et Gemini qui arrive dans les voitures &#8211; R&#233;cap&#8217; Survolt&#233;s</title>
-      <link>https://www.frandroid.com/survoltes/3100013_google-maps-revolutionne-sa-navigation-le-moteur-hybride-chinois-de-renault-et-gemini-qui-arrive-dans-les-voitures-recap-survoltes</link>
-      <pubDate>Fri, 15 May 2026 18:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3100013_google-maps-revolutionne-sa-navigation-le-moteur-hybride-chinois-de-renault-et-gemini-qui-arrive-dans-les-voitures-recap-survoltes</guid>
-      <description>
-L&#8217;actualit&#233; Survolt&#233;s a &#233;t&#233; charg&#233;e cette semaine : de la refonte majeure de Google Maps et d&#8217;Android Auto aux ambitions hybrides de Renault, en passant par les bons plans et essais marquants, voici un r&#233;capitulatif des contenus les plus consult&#233;s des derniers jours.
-</description>
-    </item>
-    <item>
-      <title>The ultimate Samsung tech challenge &#8212; from Galaxy phones to QD-OLED TVs, prove how well you know its gadgets with our quiz</title>
-      <link>https://www.techradar.com/tech/the-ultimate-samsung-tech-challenge-from-galaxy-phones-to-qd-oled-tvs-prove-how-well-you-know-its-gadgets-with-our-quiz</link>
-      <pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">WfUAMFPiWVgeDYMRGkvjLk</guid>
-      <description>Think you know Samsung's hardware and software? Take this 15-question quiz on its phones, appliances, earbuds and more.</description>
-    </item>
-    <item>
-      <title>It's time to ditch your takeout coffee habit &#8212; I'm a trained barista, and these are the top 3 coffee makers I recommend for cafe-quality lattes at home</title>
-      <link>https://www.techradar.com/home/coffee-machines/barista-recommended-coffee-makers-for-lattes</link>
-      <pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">wpRJPsgSWYFdGfCqa29tbQ</guid>
-      <description>Making cafe-quality drinks at home is a piece of cake when you have the right machine, and these are the best I've tested for perfectly foamed milk.</description>
-    </item>
-    <item>
-      <title>One of Intel&#8217;s fastest desktop CPUs is $50 off</title>
-      <link>https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale</link>
-      <pubDate>2026-05-15T13:46:20-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=931495</guid>
-      <description>The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its &#8220;fastest gaming desktop processor ever.&#8221; That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor giving AMD&#8217;s pricier X3D cache-equipped Ryzen 9000-series CPUs a run for their money. The Ultra 7 270K [&#8230;]</description>
     </item>
   </channel>
 </rss>
