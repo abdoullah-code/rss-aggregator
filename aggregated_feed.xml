@@ -3,20 +3,56 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 15 May 2026 21:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 22:58:37 GMT</lastBuildDate>
     <item>
-      <title>Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent</title>
-      <link>https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent</link>
-      <pubDate>Fri, 15 May 2026 21:06:09 GMT</pubDate>
-      <guid isPermaLink="false">6xYr5OkuqdkF8BAVNFwKrZ</guid>
-      <description>The company formerly known as Intercom just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent.Fin Operator, announced Thursday at a live event in San Francisco, is a new AI-powered system designed specifically for the back-office teams that configure, monitor, and improve Fin, the company's customer-facing AI agent. Rather than replacing human support agents &#8212; which is what Fin itself does on the front lines &#8212; Operator targets the growing army of support operations professionals who spend their days u...</description>
+      <title>YouTube is expanding its AI deepfake detection tool to all adult users</title>
+      <link>https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults</link>
+      <pubDate>2026-05-15T18:25:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=931884</guid>
+      <description>YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]</description>
     </item>
     <item>
-      <title>How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%</title>
-      <link>https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75</link>
-      <pubDate>Fri, 15 May 2026 21:04:15 GMT</pubDate>
-      <guid isPermaLink="false">tIF6rTJtyHUNZv8xOM8Zo</guid>
-      <description>One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit.&#160;To overcome this challenge, researchers at University of Illinois Urbana-Champaign and Stanford University developed RecursiveMAS, a framework that enables agents to collaborate and transmit information through embedding space instead of text. This change results in both efficiency and performance gains.&#160;Experiments show that RecursiveMAS achieves accu...</description>
+      <title>Attack of the AI lawnmowers? Yarbo forced to patch products after experts reveal method to remotely hijack thousands of devices</title>
+      <link>https://www.techradar.com/pro/security/attack-of-the-ai-lawnmowers-yarbo-forced-to-patch-products-after-experts-reveal-method-to-remotely-hijack-thousands-of-devices</link>
+      <pubDate>Fri, 15 May 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">SopcJ8hua9oJHkmqu86ac8</guid>
+      <description>A cybersecurity flaw in Yarbo robotic mowers exposed thousands of internet-connected devices to spying, hijacking, infrastructure, and surveillance risks.</description>
+    </item>
+    <item>
+      <title>I taught ChatGPT to distrust itself, and suddenly it stopped hallucinating</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-taught-chatgpt-to-distrust-itself-and-suddenly-it-stopped-hallucinating</link>
+      <pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">soAqVeA6F3mrYHqxZ3QjZS</guid>
+      <description>Telling ChatGPT to behave like a hostile auditor can make its answers more transparent and stop hallucinations</description>
+    </item>
+    <item>
+      <title>New crash data highlights the slow progress of Tesla's robotaxis</title>
+      <link>https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/</link>
+      <pubDate>Fri, 15 May 2026 21:50:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/</guid>
+      <description>Two crashes since July 2025 involved robotaxis being driven by remote operators.</description>
+    </item>
+    <item>
+      <title>&#8216;Yellowstone&#8217; sequel series &#8216;Dutton Ranch&#8217; premieres tonight. Here&#8217;s how and where to watch it</title>
+      <link>https://www.fastcompany.com/91543386/dutton-ranch-streaming-where-to-watch-yellowstone-sequel-series</link>
+      <pubDate>2026-05-15T21:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91543386/dutton-ranch-streaming-where-to-watch-yellowstone-sequel-series</guid>
+      <description>The epic Western drama, having emerged as one of TV&#8217;s most lucrative franchises, continues the storyline on Paramount&#8217;s linear network and streaming platform.
+Giddy up, Yellowstone fans: The epic saga of the Dutton family continues. </description>
+    </item>
+    <item>
+      <title>Massive Lithium deposit potential worth $1.5 trillion found in Oregon &#8212; a huge cache could massively strengthen the US stance in building items such as smartphones, but environmentalists urge caution in acting too fast</title>
+      <link>https://www.techradar.com/pro/massive-lithium-deposit-potential-worth-usd1-5-trillion-found-in-oregon-a-huge-cache-could-massively-strengthen-the-us-stance-in-building-items-such-as-smartphones-but-environmentalists-urge-caution-in-acting-too-fast</link>
+      <pubDate>Fri, 15 May 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">RwGGWnmsjztAWJzMy5xYL7</guid>
+      <description>Geologists discovered a massive lithium deposit beneath Oregon, triggering debates over mining expansion, environmental risks, and economic development opportunities.</description>
+    </item>
+    <item>
+      <title>Windows 11 tests an adjustable taskbar and resizable Start menu</title>
+      <link>https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button</link>
+      <pubDate>2026-05-15T17:14:45-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=931817</guid>
+      <description>Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen. Microsoft first teased its movable [&#8230;]</description>
     </item>
     <item>
       <title>&#8220;I think it can be a point of no return&#8221; &#8212; experts issue warning as Chinese EV manufacturers hunt for European manufacturing plants</title>
@@ -31,98 +67,6 @@
       <pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">bBixJLuHVUeBEAESTJfx5e</guid>
       <description>Wharfedale's Denton 1S and Fyne Audio's Cubit 5 speakers are compact, powerful and promise superb sound</description>
-    </item>
-    <item>
-      <title>The Best Outdoor Deals From the REI Anniversary Sale 2026</title>
-      <link>https://www.wired.com/story/rei-anniversary-sale-2026/</link>
-      <pubDate>Fri, 15 May 2026 20:57:08 +0000</pubDate>
-      <guid isPermaLink="false">6a074cd11465d9b38b836a17</guid>
-      <description>It&#8217;s the best time of year to pick up all the outdoor gadgets, tents, sleeping bags, and other gear you&#8217;ll need for summer fun.</description>
-    </item>
-    <item>
-      <title>ArXiv will ban researchers who upload papers full of AI slop</title>
-      <link>https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers</link>
-      <pubDate>2026-05-15T16:38:19-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=931766</guid>
-      <description>ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has "incontrovertible evidence that the authors did not check the results of LLM generation," such as hallucinated references or "meta-comments" left by an LLM, authors will be [&#8230;]</description>
-    </item>
-    <item>
-      <title>I think therefore I am: cutting-edge AI used to 'revive spirit' of French Mark Twain and spawn a new sharp satire more than 350 years after his death</title>
-      <link>https://www.techradar.com/pro/i-think-therefore-i-am-cutting-edge-ai-used-to-revive-spirit-of-french-mark-twain-and-spawn-a-new-sharp-satire-more-than-350-years-after-his-death</link>
-      <pubDate>Fri, 15 May 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">zaeSHEM7K9ormm6ftgt5Jj</guid>
-      <description>French researchers trained artificial intelligence on Moli&#232;re&#8217;s writings, producing a theatrical comedy that premiered before audiences at Versailles Opera.</description>
-    </item>
-    <item>
-      <title>RJ Scaringe has raised more than $12 billion across three startups and investors still want more</title>
-      <link>https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/</link>
-      <pubDate>Fri, 15 May 2026 20:30:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3122332</guid>
-      <description>Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion.</description>
-    </item>
-    <item>
-      <title>General Catalyst posted VC rage bait and it worked, especially on a16z</title>
-      <link>https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/</link>
-      <pubDate>Fri, 15 May 2026 20:25:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123082</guid>
-      <description>Compulsive X user Andreessen himself couldn't resist responding, many, many times.</description>
-    </item>
-    <item>
-      <title>Tesla Reveals New Details About Robotaxi Crashes&#8212;and the Humans Involved</title>
-      <link>https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/</link>
-      <pubDate>Fri, 15 May 2026 19:51:16 +0000</pubDate>
-      <guid isPermaLink="false">6a076545767020a7e7a7912a</guid>
-      <description>Remote operators (slowly) drove the automaker&#8217;s autonomous vehicles into a metal fence and a construction barricade, Tesla says.</description>
-    </item>
-    <item>
-      <title>California lawmakers are working on a bill to preserve access to online games</title>
-      <link>https://www.engadget.com/2174011/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/</link>
-      <pubDate>Fri, 15 May 2026 19:48:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2174011/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/</guid>
-      <description>Game preservation group Stop Killing Games advised on the bill.</description>
-    </item>
-    <item>
-      <title>ChatGPT power users can now link their bank accounts for personal finance advice</title>
-      <link>https://mashable.com/article/openai-announces-personal-finance-tools-chatgpt</link>
-      <pubDate>Fri, 15 May 2026 19:44:51 +0000</pubDate>
-      <guid isPermaLink="false">03ROMvlbv7HaAf61rZfr89d</guid>
-      <description>On May 15, OpenAI rolled out a ChatGPT personal finance experience to Pro users in the United States.</description>
-    </item>
-    <item>
-      <title>Summer Games Done Quick returns this July, schedule out now</title>
-      <link>https://www.engadget.com/2173999/summer-games-done-quick-returns-this-july-schedule-out-now/</link>
-      <pubDate>Fri, 15 May 2026 19:41:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173999/summer-games-done-quick-returns-this-july-schedule-out-now/</guid>
-      <description>Who's up for a Jak &amp; Daxter / Half-Life hybrid?</description>
-    </item>
-    <item>
-      <title>Sony&#8217;s new AI camera feature is now a meme: Is the backlash the point?</title>
-      <link>https://www.fastcompany.com/91543216/sony-xperia-ai-camera-assistant-backlash-tool-pictures-worse</link>
-      <pubDate>2026-05-15T19:41:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91543216/sony-xperia-ai-camera-assistant-backlash-tool-pictures-worse</guid>
-      <description>What happens when a smartphone&#8217;s AI-powered camera tool makes pictures look worse? Maybe it doesn&#8217;t matter as long as it gets people talking.
-Artificial intelligence has notoriously struggled with creating images, writing out gibberish on signs, or adding extra fingers to people. But it doesn&#8217;t seem to be much help for photography either&#8212;and the internet is having a field day over it....</description>
-    </item>
-    <item>
-      <title>Marathon's future includes duo queues, more PvE modes and better onboarding</title>
-      <link>https://www.engadget.com/2173991/marathons-future-includes-duo-queues-more-pve-modes-and-better-onboarding/</link>
-      <pubDate>Fri, 15 May 2026 19:35:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2173991/marathons-future-includes-duo-queues-more-pve-modes-and-better-onboarding/</guid>
-      <description>Bungie details how it plans to grow its extraction shooter.</description>
-    </item>
-    <item>
-      <title>See the Google 3D emojis planned for Pixel, Android 17</title>
-      <link>https://mashable.com/article/google-3d-emojis-pixel-android-17</link>
-      <pubDate>Fri, 15 May 2026 19:27:42 +0000</pubDate>
-      <guid isPermaLink="false">06CgYmDN6RzTAdHG17d6go9</guid>
-      <description>New 3D emoji designs are coming to Android 17.</description>
-    </item>
-    <item>
-      <title>&#171; J'ai d&#233;couvert une nouvelle pluie de m&#233;t&#233;ores, qui provient d'un ast&#233;ro&#239;de en train d'&#234;tre d&#233;sint&#233;gr&#233; par le Soleil &#187;</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/asteroides-jai-decouvert-nouvelle-pluie-meteores-provient-asteroide-train-etre-desintegre-soleil-133745/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 15 May 2026 21:08:48 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/asteroides-jai-decouvert-nouvelle-pluie-meteores-provient-asteroide-train-etre-desintegre-soleil-133745/#xtor%3DRSS-8</guid>
-      <description>Des milliers de cam&#233;ras astronomiques observent le ciel chaque nuit pour photographier les m&#233;t&#233;ores qui traversent notre atmosph&#232;re. Les chercheurs en sciences plan&#233;taires utilisent&#160;ces observations pour mieux comprendre la poussi&#232;re, les ast&#233;ro&#239;des et les d&#233;bris de com&#232;tes pr&#233;sents dans notre...</description>
     </item>
   </channel>
 </rss>
