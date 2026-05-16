@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 16 May 2026 20:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 21:54:27 GMT</lastBuildDate>
+    <item>
+      <title>The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from</title>
+      <link>https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from</link>
+      <pubDate>Sat, 16 May 2026 21:05:53 GMT</pubDate>
+      <guid isPermaLink="false">1Ag11ovK9DCceXmuEKpxm7</guid>
+      <description>For AI systems to keep improving in knowledge work, they need either a reliable mechanism for autonomous self-improvement or human evaluators capable of catching errors and generating high-quality feedback. The industry has invested enormously in the first. It's giving almost no thought to what's happening to the second.I&#8217;d argue that we need to treat the human evaluation problem with just as much rigor and investment as we put into building the model capabilities themselves. New grad hiring at major tech companies has dropped by half since 2019. Document review, first-pass research, data clea...</description>
+    </item>
+    <item>
+      <title>What to read this weekend: Celestial Lights and If Destruction Be Our Lot</title>
+      <link>https://www.engadget.com/2174600/what-to-read-this-weekend-celestial-lights-if-destruction-be-our-lot/</link>
+      <pubDate>Sat, 16 May 2026 21:00:04 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2174600/what-to-read-this-weekend-celestial-lights-if-destruction-be-our-lot/</guid>
+      <description>Here's what we read (and liked) this week.</description>
+    </item>
+    <item>
+      <title>I tested the LG B6 and LG B5 OLED TVs side by side &#8212; and it was a mess that's mostly just given me a fresh appreciation for the LG C6</title>
+      <link>https://www.techradar.com/televisions/i-tested-the-lg-b6-and-lg-b5-oled-tvs-side-by-side</link>
+      <pubDate>Sat, 16 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ztvFCuYwVjEQB97k3pe77F</guid>
+      <description>The LG B6 had a lot to live up to as the B5 was one of my top OLED TVs of 2025. Putting them side by side didn't go as I expected&#8230;</description>
+    </item>
     <item>
       <title>This US start-up wants to pay you to host a data center on the side of your home &#8212; and says it won't disturb you at all</title>
       <link>https://www.techradar.com/pro/this-us-start-up-wants-to-pay-you-to-host-a-data-center-on-the-side-of-your-home-and-says-it-wont-disturb-you-at-all</link>
@@ -24,27 +45,6 @@
       <pubDate>Sat, 16 May 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">75Rtzg3AFnQUDd9jnsqgEj</guid>
       <description>Here's how you can watch Preakness Stakes 2026 live streams online and from anywhere in the world, as Laurel Park hosts the The Run for the Black-Eyed Susans.</description>
-    </item>
-    <item>
-      <title>The future of Army rations? US investigates 'alternative protein technologies' to keep soldiers fed in the field &#8212; hopefully it will be more appealing than it sounds</title>
-      <link>https://www.techradar.com/pro/the-future-of-army-rations-us-investigates-alternative-protein-technologies-to-keep-soldiers-fed-in-the-field-hopefully-it-will-be-more-appealing-than-it-sounds</link>
-      <pubDate>Sat, 16 May 2026 19:40:00 +0000</pubDate>
-      <guid isPermaLink="false">NZUVU4es8H9HeHwut3ffXb</guid>
-      <description>US Army studies alternative protein rations using gels, powders, and fermentation methods to reduce weight while maintaining soldier nutrition requirements</description>
-    </item>
-    <item>
-      <title>Marketing operating system Nectar Social raises $30M Series A led by Menlo</title>
-      <link>https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/</link>
-      <pubDate>Sat, 16 May 2026 19:26:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123174</guid>
-      <description>AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.</description>
-    </item>
-    <item>
-      <title>SpaceX is reportedly getting ready to go public as early as June</title>
-      <link>https://www.engadget.com/2174556/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/</link>
-      <pubDate>Sat, 16 May 2026 19:08:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2174556/spacex-is-reportedly-getting-ready-to-go-public-as-early-as-june/</guid>
-      <description>Reuters reported that SpaceX could make the initial announcement by next Wednesday.</description>
     </item>
   </channel>
 </rss>
