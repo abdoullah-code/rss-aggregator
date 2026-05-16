@@ -3,13 +3,22 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 16 May 2026 04:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:19:17 GMT</lastBuildDate>
     <item>
-      <title>After testing over a dozen digital notebooks, I&#8217;ve realized that the stylus is the real MVP in the e-ink tablet equation</title>
-      <link>https://www.techradar.com/tablets/ereaders/after-testing-over-a-dozen-digital-notebooks-ive-realized-that-the-stylus-is-the-real-mvp-in-the-e-ink-tablet-equation</link>
-      <pubDate>Sat, 16 May 2026 03:00:17 +0000</pubDate>
-      <guid isPermaLink="false">Qe2Ero9TmPhKffcWjfctXD</guid>
-      <description>Even the best digital notebook is nothing without a good stylus &#8212; and the ViWoods C1 ceramic pen is an excellent case in point.</description>
+      <title>Insta360 Go 3S : cet accessoire hyper pratique peut transformer votre action cam en appareil photo r&#233;tro</title>
+      <link>https://www.frandroid.com/marques/insta360/3100669_insta360-go-3s-cet-accessoire-hyper-pratique-peut-transformer-votre-action-cam-en-appareil-photo-retro</link>
+      <pubDate>Sat, 16 May 2026 07:10:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/insta360/3100669_insta360-go-3s-cet-accessoire-hyper-pratique-peut-transformer-votre-action-cam-en-appareil-photo-retro</guid>
+      <description>
+La marque chinoise Insta360 a d&#233;voil&#233; un nouveau bundle pour sa cam&#233;ra Go 3S, permettant de l'utiliser comme un appareil photo t&#233;l&#233;m&#233;trique &#224; l'ancienne. 
+</description>
+    </item>
+    <item>
+      <title>Cyberattaques IA&#160;: Google r&#233;v&#232;le que des hackers ont trouv&#233; le moyen de contourner la double authentification, c&#8217;est une premi&#232;re</title>
+      <link>https://www.01net.com/actualites/cyberattaques-ia-google-revele-hackers-trouve-moyen-contourner-double-authentification-premiere.html</link>
+      <pubDate>Sat, 16 May 2026 07:01:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1347182</guid>
+      <description>Pour la premi&#232;re fois, des hackers ont utilis&#233; une intelligence artificielle pour d&#233;couvrir et exploiter une faille zero day dans un logiciel. Comme l'a d&#233;couvert Google, cette vuln&#233;rabilit&#233; permet de contourner la double authentification, m&#234;me si celle-ci a &#233;t&#233; configur&#233;e sur le compte.</description>
     </item>
   </channel>
 </rss>
