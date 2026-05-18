@@ -3,259 +3,274 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 18 May 2026 14:32:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:30:41 GMT</lastBuildDate>
     <item>
-      <title>Steam Machine et FSR 4.1 en juillet&#160;: le calendrier AMD trahit la date de sortie de la console</title>
-      <link>https://www.01net.com/actualites/steam-machine-et-fsr-4-1-en-juillet-le-calendrier-amd-trahit-la-date-de-sortie-de-la-console.html</link>
-      <pubDate>Mon, 18 May 2026 14:30:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348077</guid>
-      <description>Jack Huynh, patron du gaming chez AMD, annonce l'upscaling IA sur les anciennes cartes Radeon pour cet &#233;t&#233;. La Steam Machine de Valve, qui tourne sur RDNA 3, y gagne sa pi&#232;ce manquante. Co&#239;ncidence de calendrier ou synchronisation volontaire ?</description>
+      <title>The AndaSeat Phantom 4 Pro brings a lot to the table, but comfort takes a back seat for impressive ergonomics</title>
+      <link>https://www.techradar.com/gaming/andaseat-phantom-4-pro-review</link>
+      <pubDate>Mon, 18 May 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">YQfRckiN35wUyuT4qzML73</guid>
+      <description>The AndaSeat Phantom 4 Pro has impressive lumbar support, but loses out on comfort.</description>
     </item>
     <item>
-      <title>Linus Torvalds says Linux security list is becoming &#8216;unmanageable&#8217; due to AI bug reports</title>
-      <link>https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs</link>
-      <pubDate>2026-05-18T10:21:10-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=932312</guid>
-      <description>Linux founder Linus Torvalds said in his most recent state of the kernel post that "the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools," as The Register reports. That probably doesn't apply to stuff [&#8230;]</description>
-    </item>
-    <item>
-      <title>Le Samsung Galaxy A37 est d&#233;j&#224; en promotion : -100 &#8364; pour un smartphone solide &#224; la luminosit&#233; flamboyante</title>
-      <link>https://www.frandroid.com/bons-plans/3101783_le-samsung-galaxy-a37-est-deja-en-promotion-100-e-pour-un-smartphone-solide-a-la-luminosite-flamboyante</link>
-      <pubDate>Mon, 18 May 2026 14:21:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3101783_le-samsung-galaxy-a37-est-deja-en-promotion-100-e-pour-un-smartphone-solide-a-la-luminosite-flamboyante</guid>
+      <title>Ninja SLUSHi MAX : notre test de la machine &#224; granit&#233;s virale, 350 euros bien investis ?</title>
+      <link>https://www.frandroid.com/produits-android/3100533_ninja-slushi-max-notre-test-de-la-machine-a-granites-virale-350-euros-bien-investis</link>
+      <pubDate>Mon, 18 May 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3100533_ninja-slushi-max-notre-test-de-la-machine-a-granites-virale-350-euros-bien-investis</guid>
       <description>
-Le Samsung Galaxy A37 est un smartphone milieu de gamme qui s'am&#233;liore sur l'autonomie et la r&#233;sistance, &#224; retrouver pour 349 euros au lieu de 449 euros sur Boulanger.
+La Ninja SLUSHi MAX promet le granit&#233; de f&#234;te foraine &#224; la maison, en 15 minutes et pour 349,99&#160;euros. Apr&#232;s plusieurs soir&#233;es avec, je raconte ce que &#231;a donne vraiment&#160;: ce qui tient, ce qui fatigue, et pour qui c'est un achat malin.
 </description>
     </item>
     <item>
-      <title>Voici sans doute le smartphone le plus puissant du monde (pour l&#8217;instant)</title>
-      <link>https://www.frandroid.com/marques/redmagic/3101931_voici-sans-doute-le-smartphone-le-plus-puissant-du-monde-pour-linstant</link>
-      <pubDate>Mon, 18 May 2026 14:20:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/redmagic/3101931_voici-sans-doute-le-smartphone-le-plus-puissant-du-monde-pour-linstant</guid>
+      <title>Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering</title>
+      <link>https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix</link>
+      <pubDate>Mon, 18 May 2026 17:16:58 GMT</pubDate>
+      <guid isPermaLink="false">2TogpsbblgCIIXNp1426LY</guid>
+      <description>Four supply-chain incidents hit OpenAI, Anthropic and Meta in 50 days: three adversary-driven attacks and one self-inflicted packaging failure. None targeted the model, and all four exposed the same gap: release pipelines, dependency hooks, CI runners, and packaging gates that no system card, AISI evaluation, or Gray Swan red-team exercise has ever scoped.On May 11, 2026, a self-propagating worm called Mini Shai-Hulud published 84 malicious package versions across 42 @tanstack/* npm packages in six minutes flat. The worm rode in on release.yml, chaining a pull_request_target misconfiguration, ...</description>
+    </item>
+    <item>
+      <title>How to watch Married at First Sight USA season 19 for FREE &#8211; stream dating show from anywhere</title>
+      <link>https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-married-at-first-sight-usa-season-19</link>
+      <pubDate>Mon, 18 May 2026 16:52:40 +0000</pubDate>
+      <guid isPermaLink="false">tkYgeMAXgBnFRYaseaeqnn</guid>
+      <description>Will these lone stars find a state of true happiness in Texas? Here's how to watch Married at First Sight US season 19 for free online wherever you are in the world &#8211; binge all episodes now!</description>
+    </item>
+    <item>
+      <title>How to watch the Google I/O 2026 keynote</title>
+      <link>https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/</link>
+      <pubDate>Mon, 18 May 2026 16:49:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote/</guid>
+      <description>Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.</description>
+    </item>
+    <item>
+      <title>PlayStation Plus : Sony annonce une hausse de prix de l&#8217;abonnement</title>
+      <link>https://www.frandroid.com/marques/sony/3102565_playstation-plus-sony-annonce-une-hausse-de-prix-de-labonnement</link>
+      <pubDate>Mon, 18 May 2026 16:46:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3102565_playstation-plus-sony-annonce-une-hausse-de-prix-de-labonnement</guid>
       <description>
-Quelques mois seulement apr&#232;s le lancement du 11 Pro, RedMagic remet le couvert en Chine avec le RedMagic 11S Pro. Au programme : un processeur Snapdragon 8 Elite Gen 5 Leading Edition plus pouss&#233;, une grosse batterie et une connectivit&#233; Steam in&#233;dite.
+Sony annonce une hausse de prix pour l'abonnement PlayStation Plus &#171; en raison des conditions actuelles du march&#233; &#187;.
 </description>
     </item>
     <item>
-      <title>Exclusive: Jonah Peretti explains why he sold BuzzFeed</title>
-      <link>https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media</link>
-      <pubDate>2026-05-18T10:15:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=932154</guid>
-      <description>Today, I&#8217;m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed &#8212; although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [&#8230;]</description>
+      <title>NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people</title>
+      <link>https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/</link>
+      <pubDate>Mon, 18 May 2026 16:32:33 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3123513</guid>
+      <description>The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics &#8212; including fingerprints &#8212; in one of the largest recorded breaches of 2026.</description>
     </item>
     <item>
-      <title>'The exact same issue that was reported to Microsoft by Google project zero is actually still present, unpatched': Chaotic Eclipse strikes again with another worrying Windows security flaw</title>
-      <link>https://www.techradar.com/pro/security/the-exact-same-issue-that-was-reported-to-microsoft-by-google-project-zero-is-actually-still-present-unpatched-chaotic-eclipse-strikes-again-with-another-worrying-windows-security-flaw</link>
-      <pubDate>Mon, 18 May 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="false">GJ2zK7tsH6uLQrCRQa95TH</guid>
-      <description>A new Windows 11 bug called MiniPlasma was disclosed on GitHub, together with a PoC.</description>
+      <title>5 ChatGPT hacks I wish I&#8217;d started using sooner &#8212; they completely changed how I use AI</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/5-chatgpt-hacks-i-wish-id-started-using-sooner-they-completely-changed-how-i-use-ai</link>
+      <pubDate>Mon, 18 May 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sXJFhugNZvQj7XSfeVDZEc</guid>
+      <description>From brutally honest feedback to clearer answers and smarter prompts, these simple ChatGPT hacks can dramatically improve the responses you get from AI.</description>
     </item>
     <item>
-      <title>Deepfakes are eroding trust: Why verification tools are essential</title>
-      <link>https://www.techradar.com/pro/deepfakes-are-eroding-trust-why-verification-tools-are-essential</link>
-      <pubDate>Mon, 18 May 2026 14:12:58 +0000</pubDate>
-      <guid isPermaLink="false">eerVPe5X9UNntCaz36UCdK</guid>
-      <description>"That cognitive dissonance has a cost": The 1984-esque future of trust in media is slowly becoming reality.</description>
+      <title>'It's kind of humbling to come back to a project after all these years, to know that the fans love the game and they love the character so much' &#8212; Edward Kenway's actor speaks about revisiting the character for Assassin's Creed Black Flag Resynced</title>
+      <link>https://www.techradar.com/gaming/its-kind-of-humbling-to-come-back-to-a-project-after-all-these-years-to-know-that-the-fans-love-the-game-and-they-love-the-character-so-much-edward-kenways-actor-speaks-about-revisiting-the-character-for-assassins-creed-black-flag-resynced</link>
+      <pubDate>Mon, 18 May 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">te4kKvVU5km7xAM5LUBdG8</guid>
+      <description>Matt Ryan, the actor behind Assassin's Creed Black Flag's Edward Kenway, has discussed revisiting the character 13 years later in the upcoming remake.</description>
     </item>
     <item>
-      <title>I've scanned Adorama's Memorial Day sale: these are the 15 best early deals on Canon, Sony, Nikon, and other brands</title>
-      <link>https://www.techradar.com/cameras/mirrorless-cameras/ive-scanned-adoramas-memorial-day-sale-these-are-the-15-best-early-deals-on-canon-sony-nikon-and-other-brands</link>
-      <pubDate>Mon, 18 May 2026 14:09:19 +0000</pubDate>
-      <guid isPermaLink="false">WPQcdiNWasGuD6gNvC5rYS</guid>
-      <description>Some of our favorite cameras from Sony, Canon, Nikon, and others are on sale today in the Adorama Memorial Day sale.</description>
+      <title>Google is rolling out its redesigned Workspace app icons</title>
+      <link>https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign</link>
+      <pubDate>2026-05-18T12:29:37-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=932417</guid>
+      <description>It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the redesigned icons will notice they now have a gradient look that fades from lighter to darker shades, rather than being [&#8230;]</description>
     </item>
     <item>
-      <title>Starlink raises prices across satellite internet plans</title>
-      <link>https://www.theverge.com/science/932294/starlink-price-increase-standby-mode</link>
-      <pubDate>2026-05-18T10:08:19-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=932294</guid>
-      <description>Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Residential Max plan went from [&#8230;]</description>
+      <title>Sony is raising short-subscription prices for PlayStation Plus</title>
+      <link>https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise</link>
+      <pubDate>2026-05-18T12:24:40-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=932430</guid>
+      <description>Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in "select regions," blaming "ongoing market conditions." Beginning May 20th, 1-month subscriptions will start at $10.99 USD / &#8364;9.99 EUR / &#163;7.99 GBP, while 3-month subscriptions will start at $27.99 USD / &#8364;27.99 EUR / &#163;21.99 GBP. In the US, the changes [&#8230;]</description>
     </item>
     <item>
-      <title>TikTok&#160;: la &#171;&#160;trend&#160;&#187; du rond-point fait des d&#233;g&#226;ts, un conducteur pris en flagrant d&#233;lit perd son permis</title>
-      <link>https://www.01net.com/actualites/tiktok-la-trend-du-rond-point-fait-des-degats-un-conducteur-pris-en-flagrant-delit-perd-son-permis.html</link>
-      <pubDate>Mon, 18 May 2026 14:04:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348062</guid>
-      <description>Une trend TikTok pousse des conducteurs &#224; traverser le terre-plein central d'un rond-point au lieu de le contourner, t&#233;l&#233;phone en main et musique &#224; fond. Entre le 8 et le 15 mai, pr&#232;s de 500 vid&#233;os ont cumul&#233; plus de 3 millions de vues. Un conducteur a tent&#233; l'exercice devant une patrouille de police. Il repart sans permis et sans voiture.</description>
+      <title>Live updates from Elon Musk and Sam Altman&#8217;s court battle over the future of OpenAI</title>
+      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
+      <pubDate>2026-05-18T12:24:03-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=917225</guid>
+      <description>Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]</description>
     </item>
     <item>
-      <title>The Adventures of Elliot: The Millennium Tales trades turn-based combat for real-time action</title>
-      <link>https://www.techradar.com/gaming/nintendo/the-adventures-of-elliot-the-millennium-tales-trades-turn-based-combat-for-real-time-action</link>
-      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Zb7n4hHSYA4wYLJxbidVjc</guid>
-      <description>We played an hour of Square Enix&#8217;s latest HD-2D RPG that trades in turn-based combat for real-time action.</description>
+      <title>Sony hit with a class action lawsuit for allegedly profiting from tariff-related price hikes</title>
+      <link>https://www.engadget.com/2175588/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/</link>
+      <pubDate>Mon, 18 May 2026 16:23:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2175588/sony-hit-with-a-class-action-lawsuit-for-allegedly-profiting-from-tariff-related-price-hikes/</guid>
+      <description>The case against Sony is similar to ones filed against Nintendo and Amazon.</description>
     </item>
     <item>
-      <title>LinkedIn doesn't want your AI slop anymore</title>
-      <link>https://www.engadget.com/2174163/linkedin-doesnt-want-your-ai-slop-anymore/</link>
-      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2174163/linkedin-doesnt-want-your-ai-slop-anymore/</guid>
-      <description>It isn't just lazy. It's also mind-numbingly boring.</description>
+      <title>LangSmith Engine closes the agent debugging loop automatically &#8212; but multi-model enterprises still need a neutral layer</title>
+      <link>https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer</link>
+      <pubDate>Mon, 18 May 2026 16:23:19 GMT</pubDate>
+      <guid isPermaLink="false">74F4yApGA8lcMnw82ih7Q8</guid>
+      <description>Enterprises building and deploying agents have a problem: it&#8217;s taking their engineers too long to find out that an agent made a mistake, and the loop has continued to perpetuate, especially without a human at every step.&#160;LangSmith, the monitoring and evaluation platform from LangChain, launched a new capability in public beta that could make that issue more manageable. LangSmith Engine automates the entire chain by detecting production failures, diagnosing root causes against the live codebase, drafting a fix and preventing regression. It does this in a single automated pass.&#160;LangSmith Engine ...</description>
     </item>
     <item>
-      <title>Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here</title>
-      <link>https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/</link>
-      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/</guid>
-      <description>$600 is a lot of money for a gaming headset, but if you edit audio and video, the Arctis Nova Elite might be the only pair you need.</description>
-    </item>
-    <item>
-      <title>Forza Horizon 6 d&#233;barque : quelles sont les configurations PC pour pouvoir y jouer ?</title>
-      <link>https://www.frandroid.com/guide-dachat/3044745_forza-horizon-6-quelle-configuration-prevoir-sur-pc</link>
-      <pubDate>Mon, 18 May 2026 13:57:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/3044745_forza-horizon-6-quelle-configuration-prevoir-sur-pc</guid>
+      <title>Ce moniteur gaming polyvalent (255 Hz, 0,03 ms, 1440p) est brad&#233; &#224; un super prix chez Boulanger</title>
+      <link>https://www.frandroid.com/bons-plans/3102185_ce-moniteur-gaming-polyvalent-255-hz-003-ms-1440p-est-brade-a-un-super-prix-chez-boulanger</link>
+      <pubDate>Mon, 18 May 2026 16:22:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3102185_ce-moniteur-gaming-polyvalent-255-hz-003-ms-1440p-est-brade-a-un-super-prix-chez-boulanger</guid>
       <description>
-La licence Forza Horizon pose cette fois ses valises au Japon dans un 6e opus. Qu'attendre du nouveau titre de simulation de courses de Xbox et que faut-il pr&#233;voir pour y jouer sur PC ?
+L'Asus XG27ACMES poss&#232;de une fiche technique compl&#232;te avec du 1440p, un taux de rafra&#238;chissement de 255 Hz et l'AMD FreeSync. D&#233;j&#224; abordable, ce moniteur le devient encore plus avec cette remise de 8 % chez Boulanger.
 </description>
     </item>
     <item>
-      <title>Free a-t-il commenc&#233; &#224; brider le forfait Free Max &#224; l&#8217;&#233;tranger ?</title>
-      <link>https://www.frandroid.com/marques/free/3101959_free-a-t-il-commence-a-brider-le-forfait-free-max-a-letranger</link>
-      <pubDate>Mon, 18 May 2026 13:57:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/free/3101959_free-a-t-il-commence-a-brider-le-forfait-free-max-a-letranger</guid>
+      <title>Elon Musk reportedly owes quite a few of his employees $420</title>
+      <link>https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/</link>
+      <pubDate>Mon, 18 May 2026 16:19:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2175582/elon-musk-reportedly-owes-quite-a-few-of-his-employees-420-dollars/</guid>
+      <description>xAI promised workers the money in exchange for tax information to train Grok.</description>
+    </item>
+    <item>
+      <title>Les 10 smartphones les plus populaires de la semaine sur Frandroid : le Honor 600 fait une perc&#233;e devant l&#8217;h&#233;g&#233;monie Samsung</title>
+      <link>https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-samsung-largement-en-teteles-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-le-honor-600-fait-une-percee-devant-lh</link>
+      <pubDate>Mon, 18 May 2026 16:13:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/2491986_les-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-samsung-largement-en-teteles-10-smartphones-les-plus-populaires-de-la-semaine-sur-frandroid-le-honor-600-fait-une-percee-devant-lh</guid>
       <description>
-Sur les r&#233;seaux sociaux, Free est accus&#233; d'avoir fait de la publicit&#233; mensong&#232;re et de brider son forfait Free Max &#224; l'&#233;tranger.
+Pour notre top 10 des smartphones les plus populaires de la semaine sur Frandroid, c'est le Honor 600 qui emporte la palme devant deux t&#233;l&#233;phones Samsung. Viennent ensuite d'autres mod&#232;les sous Android pour compl&#233;ter ce top 10. 
 </description>
     </item>
     <item>
-      <title>Vente de SFR : on sait pourquoi la d&#233;cision finale a &#233;t&#233; repouss&#233;e de trois semaines</title>
-      <link>https://www.frandroid.com/marques/sfr/3101875_vente-de-sfr-on-sait-pourquoi-la-decision-finale-a-ete-repoussee-de-trois-semaines</link>
-      <pubDate>Mon, 18 May 2026 13:47:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sfr/3101875_vente-de-sfr-on-sait-pourquoi-la-decision-finale-a-ete-repoussee-de-trois-semaines</guid>
+      <title>Robot contre humain&#160;: qui trie les colis le plus vite&#160;? Ce concours a tranch&#233;</title>
+      <link>https://www.01net.com/actualites/robot-contre-humain-qui-trie-les-colis-le-plus-vite-ce-concours-a-tranche.html</link>
+      <pubDate>Mon, 18 May 2026 16:12:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1348102</guid>
+      <description>Le concours de tri de colis entre le robot Figure 03 et le stagiaire Aime s'est termin&#233; par une victoire serr&#233;e pour Aime, qui a tri&#233; 12 924 colis contre 12 732 pour le robot. Le stagiaire a trait&#233; chaque colis l&#233;g&#232;rement plus vite que le robot, mais a b&#233;n&#233;fici&#233; de pauses, contrairement &#224; Figure 03, qui ne s'est toujours pas arr&#234;t&#233; de travailler &#224; l'heure o&#249; nous &#233;crivons ces lignes....</description>
+    </item>
+    <item>
+      <title>'Almost entirely unmanageable': Linus Torvalds says AI bug hunters have ruined Linux security mailing list</title>
+      <link>https://www.techradar.com/pro/security/almost-entirely-unmanageable-linus-torvalds-says-ai-bug-hunters-have-ruined-linux-security-mailing-list</link>
+      <pubDate>Mon, 18 May 2026 16:10:00 +0000</pubDate>
+      <guid isPermaLink="false">mSy9s4pkzktexRpWGs7JfX</guid>
+      <description>Torvalds says everyone is using AI to report on the same flaws, most of which have already been fixed.</description>
+    </item>
+    <item>
+      <title>How to watch The Dark Side of Married at First Sight from anywhere &#8211; it's *FREE*</title>
+      <link>https://www.techradar.com/how-to-watch/how-to-watch-the-dark-side-of-married-at-first-sight-from-anywhere-its-free</link>
+      <pubDate>Mon, 18 May 2026 16:10:00 +0000</pubDate>
+      <guid isPermaLink="false">znPqTRN28kFZVq3TLYf5R6</guid>
+      <description>Here's how to watch The Dark Side of Married at First Sight online from anywhere in the world, completely FREE.</description>
+    </item>
+    <item>
+      <title>Google Gemini app to get deeper thinking and more third-party app support, report says</title>
+      <link>https://mashable.com/article/gemini-expands-app-with-gemini-thinking-levels</link>
+      <pubDate>Mon, 18 May 2026 16:03:55 +0000</pubDate>
+      <guid isPermaLink="false">01Azk8XfrvOmXYGuG5KuFB4</guid>
+      <description>Google's Gemini app adds extended thinking levels, plus third-party integrations.</description>
+    </item>
+    <item>
+      <title>Edward Kenway actor says among the new scenes for Assassin's Creed Black Flag Resynced there's one that adds 'more weight' to the character's personal conflict</title>
+      <link>https://www.techradar.com/gaming/edward-kenway-actor-says-among-the-new-scenes-for-assassins-creed-black-flag-resynced-he-filme-theres-one-that-adds-more-weight-to-the-characters-personal-conflict</link>
+      <pubDate>Mon, 18 May 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">nqRSLey98jttqPiZUaeDGK</guid>
+      <description>Matt Ryan, the actor behind Assassin's Creed Black Flag's Edward Kenway, has confirmed that he filmed new scenes for Resynced that deepen that character's personal journey.</description>
+    </item>
+    <item>
+      <title>Lanterns has received a thrilling new trailer ahead of its August launch on HBO Max &#8212; and it feels like a direct response to fan criticisms of the DC comic book show's first teaser</title>
+      <link>https://www.techradar.com/streaming/hbo-max/lanterns-has-received-a-thrilling-new-trailer-ahead-of-its-august-launch-on-hbo-max-and-it-feels-like-a-direct-response-to-fan-criticisms-of-the-dc-comic-book-shows-first-teaser</link>
+      <pubDate>Mon, 18 May 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">CEwp8WUUyMxJFRS3weWG6d</guid>
+      <description>Lanterns' latest trailer asks 'are you afraid?' following fan fears that it wouldn't be the epic sci-fi thriller they were hoping for.</description>
+    </item>
+    <item>
+      <title>Volvo reveals $58,400 starting price for the EX60</title>
+      <link>https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/</link>
+      <pubDate>Mon, 18 May 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/</guid>
+      <description>Volvo's upcoming mainstream EV SUV is available to order now.</description>
+    </item>
+    <item>
+      <title>Lanterns trailer promises jade DC action with Aaron Pierre and Kyle Chandler</title>
+      <link>https://mashable.com/video/lanterns-trailer-dc-hbo-series-aaron-pierre-kyle-chandler</link>
+      <pubDate>Mon, 18 May 2026 15:57:56 +0000</pubDate>
+      <guid isPermaLink="false">04Y5cLAz6Jud9Z58pfKajSy</guid>
+      <description>It's Green Lantern but not as fans know it, with a new teaser dropped for HBO's "Lanterns," starring Aaron Pierre and Kyle Chandler.</description>
+    </item>
+    <item>
+      <title>Close the skills gap through employer-educator collaboration</title>
+      <link>https://www.fastcompany.com/91544096/close-the-skills-gap-through-employer-educator-collaboration</link>
+      <pubDate>2026-05-18T15:56:11</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91544096/close-the-skills-gap-through-employer-educator-collaboration</guid>
+      <description>Partnerships also help the emerging workforce prepare for needed jobs.
+Higher education is under pressure from every direction. Shifts in finance and policy, high tuition costs, and a decline in public trust have forced colleges and universities to rethink how they prepare people for work. At the same time, employers face persistent talent shortages and widening skills gaps....</description>
+    </item>
+    <item>
+      <title>Amazon Alexa Plus can now create AI-generated podcasts</title>
+      <link>https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts</link>
+      <pubDate>2026-05-18T11:55:25-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=932375</guid>
+      <description>Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on "virtually any topic," according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation [&#8230;]</description>
+    </item>
+    <item>
+      <title>White House announces $17 billion trade deal with China to boost U.S. beef and poultry</title>
+      <link>https://www.fastcompany.com/91543930/white-house-announces-trade-deal-china-boost-u-s-beef-poultry</link>
+      <pubDate>2026-05-18T15:54:49</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91543930/white-house-announces-trade-deal-china-boost-u-s-beef-poultry</guid>
+      <description>China has been increasingly turning to other countries like Brazil and Argentina  for imported farm goods.
+China has agreed to ramp up trade for U.S. agricultural products such as beef and poultry, buying at an annualized rate of $17 billion per year for 2026 and at that level for 2027 and 2028, the White House announced Sunday, two days after President Donald Trump returned from a high-stakes summit in Beijing where he sought to ease the impact on American farmers from the trade war he launched last year.China would restore market access for U.S. beef and resume imports of poultry from U.S. s...</description>
+    </item>
+    <item>
+      <title>The new competitive edge brand leaders need to know</title>
+      <link>https://www.fastcompany.com/91544072/the-new-competitive-edge-brand-leaders-need-to-know</link>
+      <pubDate>2026-05-18T15:47:51</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91544072/the-new-competitive-edge-brand-leaders-need-to-know</guid>
+      <description>Algorithmic literacy is changing how brands are appearing to audiences.
+The most challenging conversation to have with brands is one that defies a commonly held belief: great content is enough. For decades, the marketing industry has abided by the same foundational belief that if they create something worthy of attention, their target audience will naturally engage with it. But this approach is a liability for both their reach and revenue....</description>
+    </item>
+    <item>
+      <title>What are those heartbeats on Hinge?</title>
+      <link>https://mashable.com/article/what-are-hinge-heartbeats-signal-feature</link>
+      <pubDate>Mon, 18 May 2026 15:47:17 +0000</pubDate>
+      <guid isPermaLink="false">05FdWpclAdrpptzEAlOXCqa</guid>
+      <description>Hinge's new feature, Signals, is in testing, and it measures thoughtful participation.</description>
+    </item>
+    <item>
+      <title>Test du Mova LiDAX Ultra 1000 : la tonte autonome sans antenne, sans fil et sans (trop) se prendre la t&#234;te</title>
+      <link>https://www.frandroid.com/marques/mova/3095265_test-mova-lidax-ultra-1000</link>
+      <pubDate>Mon, 18 May 2026 15:46:17 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/mova/3095265_test-mova-lidax-ultra-1000</guid>
       <description>
-Les n&#233;gociations entre les op&#233;rateurs devaient prendre fin le 15 mai dernier, mais elles se poursuivront encore un peu. La raison de ce report est d&#233;sormais connue.
+Filiale de Dreame, Mova d&#233;cline avec le LiDAX Ultra 1000 un robot tondeuse &#224; navigation LiDAR 3D vendu sous la barre symbolique des 1 000 &#8364;, sur un segment longtemps r&#233;serv&#233; aux mod&#232;les deux fois plus chers.
 </description>
     </item>
     <item>
-      <title>Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom</title>
-      <link>https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/</link>
-      <pubDate>Mon, 18 May 2026 13:42:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123439</guid>
-      <description>The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.</description>
+      <title>The best Memorial Day mattress deals to shop this week</title>
+      <link>https://mashable.com/article/best-memorial-day-mattress-deals-2026</link>
+      <pubDate>Mon, 18 May 2026 15:43:31 +0000</pubDate>
+      <guid isPermaLink="false">00jiPKa5eONbn6rywzFteSo</guid>
+      <description>Shop the best Memorial Day mattress deals from brands like Saatva, DreamCloud, and Avocado. Save hundreds on a new bed today.</description>
     </item>
     <item>
-      <title>Pro-Iran hackers claim recent Spotify outage was revenge for US action in their country</title>
-      <link>https://www.techradar.com/pro/security/pro-iran-hackers-claim-recent-spotify-outage-was-revenge-for-us-action-in-their-country</link>
-      <pubDate>Mon, 18 May 2026 13:42:19 +0000</pubDate>
-      <guid isPermaLink="false">RQDa7AnLEpEzrHNjqzGcD9</guid>
-      <description>Spotify was offline for a few hours earlier this month, with users reporting the app and web player inaccessible.</description>
+      <title>Microsoft Teams won&#8217;t put everyone in a virtual room anymore &#8212; no more Together-ness</title>
+      <link>https://mashable.com/article/microsoft-teams-removing-together-mode</link>
+      <pubDate>Mon, 18 May 2026 15:43:21 +0000</pubDate>
+      <guid isPermaLink="false">07qNybB5EKv2hXV6Pen12at</guid>
+      <description>Microsoft is ending Together mode in Microsoft Teams.</description>
     </item>
     <item>
-      <title>The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable</title>
-      <link>https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/</link>
-      <pubDate>Mon, 18 May 2026 13:38:01 +0000</pubDate>
-      <guid isPermaLink="false">6a0ae5b7ede0d81174bc8707</guid>
-      <description>So why didn't Swatch do anything to avoid it?</description>
+      <title>Why we&#8217;re living through the cable TV moment of the internet</title>
+      <link>https://www.fastcompany.com/91543988/why-were-living-through-the-cable-tv-moment-of-the-internet</link>
+      <pubDate>2026-05-18T15:41:48</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91543988/why-were-living-through-the-cable-tv-moment-of-the-internet</guid>
+      <description>Why creator-led networks will be the next media business ecosystem. 
+For most of the past decade, individuals have largely defined the creator economy: one creator, one channel, and one voice, building a direct relationship with an audience. That model has produced massive businesses and cultural influence. It&#8217;s not the end state. It&#8217;s the starting point....</description>
     </item>
     <item>
-      <title>Why Visa sees the World Cup as a brand &#8216;tap in&#8217;</title>
-      <link>https://www.fastcompany.com/91542777/why-visa-sees-the-world-cup-as-a-brand-tap-in</link>
-      <pubDate>2026-05-18T13:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91542777/why-visa-sees-the-world-cup-as-a-brand-tap-in</guid>
-      <description>Visa CMO Frank Cooper shares how the new work starring Jason Sudeikis ties into the brand&#8217;s overall World Cup efforts. 
-It starts with Jason Sudeikis in the make-up trailer for what must be the latest season of Ted Lasso, where he&#8217;s asked if he&#8217;s heading back stateside for the World Cup. He says no, then for some weird reason, taps his script with his Visa card. Poof! The script is now a World Cup match ticket.&#160;...</description>
-    </item>
-    <item>
-      <title>Sony's luxury 10th anniversary 'ColleXion' headphones shown in leak</title>
-      <link>https://www.engadget.com/2175377/sonys-luxury-10th-anniversary-collexion-headphones-shown-in-leak/</link>
-      <pubDate>Mon, 18 May 2026 13:25:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2175377/sonys-luxury-10th-anniversary-collexion-headphones-shown-in-leak/</guid>
-      <description>They feature extra padding, polished metal accents and 'studio-grade' sound quality.</description>
-    </item>
-    <item>
-      <title>&#8216;The key switches have an immensely satisfying thwock&#8217; &#8212; I reviewed Keychron&#8217;s gratifyingly clacky keyboard and it&#8217;s a beautifully constructed but hefty beast that I'm loving for my home office</title>
-      <link>https://www.techradar.com/computing/keyboards/keychron-q1-ultra-8k-review</link>
-      <pubDate>Mon, 18 May 2026 13:25:04 +0000</pubDate>
-      <guid isPermaLink="false">m5eY9MbaXj3qm5XowrDLfZ</guid>
-      <description>The Keychron Q1 Ultra 8K is an incredibly versatile and premium-feeling keyboard with near-unparalleled build quality &#8212; just don't buy it expecting a portable device, because its all-metal construction makes it shockingly heavy.</description>
-    </item>
-    <item>
-      <title>AI won&#8217;t optimize your company. It will force you to rebuild it</title>
-      <link>https://www.fastcompany.com/91539829/ai-wont-optimize-your-company-will-force-you-rebuild-it</link>
-      <pubDate>2026-05-18T13:13:49</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91539829/ai-wont-optimize-your-company-will-force-you-rebuild-it</guid>
-      <description>What if the problem is not how to use AI in our processes, but that our processes were never designed for AI in the first place?&#160;
-For the past two years, companies have been asking the wrong question: how do we use AI in our processes?&#160;</description>
-    </item>
-    <item>
-      <title>Boulanger divise par 2 le prix du Pixel 10 Pro, le roi de la photo sur smartphone not&#233; 9/10</title>
-      <link>https://www.frandroid.com/bons-plans/3010369_boulanger-divise-par-2-le-prix-du-pixel-10-pro-le-roi-de-la-photo-sur-smartphone-note-9-10</link>
-      <pubDate>Mon, 18 May 2026 13:06:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3010369_boulanger-divise-par-2-le-prix-du-pixel-10-pro-le-roi-de-la-photo-sur-smartphone-note-9-10</guid>
+      <title>1 333 km d&#8217;autonomie, opulence absolue et technologies Huawei : la Maextro S800 Grand Design veut faire trembler les g&#233;ants du luxe anglais</title>
+      <link>https://www.frandroid.com/marques/maextro/3102231_1-333-km-dautonomie-opulence-absolue-et-technologies-huawei-la-maextro-s800-grand-design-veut-faire-trembler-les-geants-du-luxe-anglais</link>
+      <pubDate>Mon, 18 May 2026 15:40:43 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/maextro/3102231_1-333-km-dautonomie-opulence-absolue-et-technologies-huawei-la-maextro-s800-grand-design-veut-faire-trembler-les-geants-du-luxe-anglais</guid>
       <description>
-Ax&#233; sur la photographie et les fonctionnalit&#233;s IA les plus avanc&#233;es de Google, le Pixel 10 Pro profite d'une offre XXL. Gr&#226;ce &#224; une remise in&#233;dite et un bonus de reprise avantageux, ce flagship incontournable perd pr&#232;s de 50 % de sa valeur initiale pour devenir une affaire en or &#224; ne pas manquer. 
+Huawei et le constructeur chinois JAC l&#232;vent le voile sur la Maextro S800 Grand Design, version &#171; Collector's Edition &#187; de leur berline de luxe. Pr&#233;vue pour faire ses d&#233;buts en juin, elle se distingue par un raffinement pouss&#233; &#224; son paroxysme qui a clairement de quoi donner quelques sueurs froides &#224; Rolls-Royce et Bentley.
 </description>
     </item>
     <item>
-      <title>Grafana says hackers hit its GitHub environment, demand ransom to prevent codebase release &#8212; but it's refusing to pay</title>
-      <link>https://www.techradar.com/pro/security/grafana-says-hackers-hit-its-github-environment-demand-ransom-to-prevent-codebase-release-but-its-refusing-to-pay</link>
-      <pubDate>Mon, 18 May 2026 13:05:00 +0000</pubDate>
-      <guid isPermaLink="false">yknF6tAsEzby7SweiZZmwj</guid>
-      <description>CoinbaseCartel somehow obtained an access token and used it to steal files from the GitHub environment.</description>
-    </item>
-    <item>
-      <title>Dutton Ranch fans are convinced Yellowstone spinoff's premiere has glaring 'plot hole' that completely ruins season 5 part 2 ending of hit Taylor Sheridan Western series</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/dutton-ranch-premiere-fan-reaction</link>
-      <pubDate>Mon, 18 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">bXvpL6vLfq7zA8WXYYLtLo</guid>
-      <description>Dutton Ranch episodes 1 and 2 are now on Paramount+, and fans are loving it. However, there could be a 'glaring plot hole' that means the Yellowstone spinoff shouldn't even exist.</description>
-    </item>
-    <item>
-      <title>'It&#8217;s all shaping up to be a wonderfully daring adventure, with plenty of surprises in store' &#8212; The 2026 Future Games Show Summer Showcase has found its hosts in The Last of Us actor Troy Baker and Tomb Raider: Legacy of Atlantis' Alix Wilton Regan</title>
-      <link>https://www.techradar.com/gaming/gaming-industry/its-all-shaping-up-to-be-a-wonderfully-daring-adventure-with-plenty-of-surprises-in-store-the-2026-future-games-show-summer-showcase-has-found-its-hosts-in-the-last-of-us-actor-troy-baker-and-tomb-raider-legacy-of-atlantis-alix-wilton-regan</link>
-      <pubDate>Mon, 18 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">U5dQSri7GETxEEtx8xPJJ7</guid>
-      <description>The hosts for this year's Future Games Show Summer Showcase have been announced as actors Troy Baker and Alix Wilton Regan.</description>
-    </item>
-    <item>
-      <title>What is the release date for The Boys season 5 episode 8 on Prime Video?</title>
-      <link>https://www.techradar.com/streaming/amazon-prime-video/what-is-the-release-date-for-the-boys-season-5-episode-8-on-prime-video</link>
-      <pubDate>Mon, 18 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">kDUvsjLJduHnHsd7TbwsKD</guid>
-      <description>The last-ever episode of The Boys will premiere later this week &#8212; here's when you'll be able to watch the Prime Video show's finale.</description>
-    </item>
-    <item>
-      <title>Liseuses Kindle : face &#224; la fin du support d&#8217;Amazon, les utilisateurs se tournent vers le jailbreak</title>
-      <link>https://www.frandroid.com/marques/amazon/3101817_liseuses-kindle-face-a-la-fin-du-support-damazon-les-utilisateurs-se-tournent-vers-le-jailbreak</link>
-      <pubDate>Mon, 18 May 2026 12:58:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/amazon/3101817_liseuses-kindle-face-a-la-fin-du-support-damazon-les-utilisateurs-se-tournent-vers-le-jailbreak</guid>
-      <description>
-Alors que la fin du support pour plusieurs mod&#232;les de Kindle approche &#224; grands pas, certains pr&#233;f&#232;rent la jailbreaker plut&#244;t que d'acheter une nouvelle liseuse.
-</description>
-    </item>
-    <item>
-      <title>Le DS N&#176;7 ouvre ses commandes : bonne surprise pour le prix du SUV fran&#231;ais aux 740 km d&#8217;autonomie</title>
-      <link>https://www.frandroid.com/marques/ds-automobiles/3101793_le-ds-n7-ouvre-ses-commandes-bonne-surprise-pour-le-prix-du-suv-francais-aux-740-km-dautonomie</link>
-      <pubDate>Mon, 18 May 2026 12:56:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/ds-automobiles/3101793_le-ds-n7-ouvre-ses-commandes-bonne-surprise-pour-le-prix-du-suv-francais-aux-740-km-dautonomie</guid>
-      <description>
-Quelques mois apr&#232;s sa pr&#233;sentation, le DS N&#176;7 ouvre ses commandes. Le nouveau SUV &#233;lectrique fran&#231;ais met en avant son autonomie allant jusqu'&#224; 740 km et d&#233;marre pile sous les 47 000 euros, de quoi le rendre &#233;ligible au bonus &#233;cologique.
-</description>
-    </item>
-    <item>
-      <title>Le Steam Controller s&#8217;ouvre aux autres plateformes que Steam gr&#226;ce &#224; cette mise &#224; jour</title>
-      <link>https://www.frandroid.com/marques/valve/3101231_le-plus-gros-defaut-du-nouveau-steam-controller-est-deja-corrige-et-valve-ny-est-pour-rien</link>
-      <pubDate>Mon, 18 May 2026 12:53:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3101231_le-plus-gros-defaut-du-nouveau-steam-controller-est-deja-corrige-et-valve-ny-est-pour-rien</guid>
-      <description>
-Le Steam Controller s'ouvre enfin aux autres plateformes que Steam, gr&#226;ce &#224; une mise &#224; jour de la biblioth&#232;que logicielle libre SDL. Quelques limitations subsistent encore cependant.
-</description>
-    </item>
-    <item>
-      <title>Piratage sportif&#160;: regarder de l&#8217;IPTV ill&#233;gale pourrait bient&#244;t vous co&#251;ter tr&#232;s cher</title>
-      <link>https://www.01net.com/actualites/piratage-sportif-regarder-de-liptv-illegale-pourrait-bientot-vous-couter-tres-cher.html</link>
-      <pubDate>Mon, 18 May 2026 12:52:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348014</guid>
-      <description>La ministre des Sports, Marina Ferrari, affiche sa fermet&#233; et veut sanctionner directement les utilisateurs d&#8217;IPTV ill&#233;gale. Alors que les premi&#232;res condamnations de particuliers sont d&#233;j&#224; tomb&#233;es en France, la pression s'accentue sur les pirates. Malgr&#233; un calendrier bouscul&#233; et une loi anti-piratage temporairement repouss&#233;e, le projet reste dans les tuyaux du gouvernement....</description>
-    </item>
-    <item>
-      <title>Forza Horizon 6 : comment r&#233;duire le temps de chargement initial de 95% avec votre GPU AMD</title>
-      <link>https://www.frandroid.com/produits-android/console/3101113_forza-horizon-6-comment-reduire-le-temps-de-chargement-initial-de-95-avec-votre-gpu-amd</link>
-      <pubDate>Mon, 18 May 2026 12:47:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3101113_forza-horizon-6-comment-reduire-le-temps-de-chargement-initial-de-95-avec-votre-gpu-amd</guid>
-      <description>
-Forza Horizon 6 est le premier jeu PC sous Windows 11 &#224; profiter de l'Advanced Shader Delivery, la technologie de Microsoft pour r&#233;duire au maximum le temps de chargement du jeu.
-</description>
+      <title>Google's much-improved app icons are rolling out now</title>
+      <link>https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/</link>
+      <pubDate>Mon, 18 May 2026 15:36:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2175514/googles-much-improved-app-icons-are-rolling-out-now/</guid>
+      <description>The old icons that debuted five years ago had very little to visually differentiate them.</description>
     </item>
   </channel>
 </rss>
