@@ -3,134 +3,423 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 19 May 2026 07:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:24:32 GMT</lastBuildDate>
     <item>
-      <title>'We know glitter is not for everyone': Spotify says its confusing disco ball icon will be going back to normal soon</title>
-      <link>https://www.techradar.com/audio/audio-streaming/we-know-glitter-is-not-for-everyone-spotify-says-its-confusing-disco-ball-icon-will-be-going-back-to-normal-soon</link>
-      <pubDate>Tue, 19 May 2026 07:52:51 +0000</pubDate>
-      <guid isPermaLink="false">6XRh9cPuDfnucLbP4VEJTn</guid>
-      <description>Spotify has confirmed that its glittery disco ball on iOS is only a temporary change, lasting a few days.</description>
+      <title>7-Eleven confirms cyberattack, says 'personal information' may have been hit</title>
+      <link>https://www.techradar.com/pro/security/7-eleven-confirms-cyberattack-says-personal-information-may-have-been-hit</link>
+      <pubDate>Tue, 19 May 2026 11:20:00 +0000</pubDate>
+      <guid isPermaLink="false">p6ZW5EVuYfWq3PYRwesczA</guid>
+      <description>A new filing with the Maine AG confirms what was known for weeks now - that ShinyHunters broke in to 7-Eleven and stole data.</description>
     </item>
     <item>
-      <title>Forza Horizon 6 : comment r&#233;duire le temps de chargement initial de 95% avec votre GPU AMD</title>
-      <link>https://www.frandroid.com/produits-android/console/3101113_forza-horizon-6-comment-reduire-le-temps-de-chargement-initial-de-95-avec-votre-gpu-amd</link>
-      <pubDate>Tue, 19 May 2026 07:51:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3101113_forza-horizon-6-comment-reduire-le-temps-de-chargement-initial-de-95-avec-votre-gpu-amd</guid>
+      <title>&#8216;Exactly what I've been waiting for&#8217;: iOS 27 could let users build Shortcuts with AI &#8212; and I&#8217;m glad Apple is finally paying attention to one of the iPhone&#8217;s best features</title>
+      <link>https://www.techradar.com/phones/ios/exactly-what-ive-been-waiting-for-ios-27-could-let-users-build-shortcuts-with-ai-and-im-glad-apple-is-finally-paying-attention-to-one-of-the-iphones-best-features</link>
+      <pubDate>Tue, 19 May 2026 11:19:33 +0000</pubDate>
+      <guid isPermaLink="false">REUtnJvyEQuxcdYoG28eo6</guid>
+      <description>Apple&#8217;s iOS 27 update might let you create Shortcuts automations with natural language prompts.</description>
+    </item>
+    <item>
+      <title>Starlink augmente les prix de ses abonnements aux &#201;tats-Unis, et en France&#160;?</title>
+      <link>https://www.01net.com/actualites/starlink-augmente-les-prix-de-ses-abonnements-aux-etats-unis-et-en-france.html</link>
+      <pubDate>Tue, 19 May 2026 11:13:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1348150</guid>
+      <description>SpaceX profite du cap des 10 millions de clients pour relever tous ses tarifs grand public aux &#201;tats-Unis. Le mode veille, lui, double de prix. En France, les abonn&#233;s respirent encore.</description>
+    </item>
+    <item>
+      <title>YouTube teste une nouvelle interface mobile en d&#233;pla&#231;ant l&#8217;onglet Abonnements</title>
+      <link>https://www.frandroid.com/android/applications/3103669_youtube-teste-une-nouvelle-interface-mobile-en-deplacant-longlet-abonnements</link>
+      <pubDate>Tue, 19 May 2026 11:01:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3103669_youtube-teste-une-nouvelle-interface-mobile-en-deplacant-longlet-abonnements</guid>
       <description>
-Forza Horizon 6 est le premier jeu PC sous Windows 11 &#224; profiter de l'Advanced Shader Delivery, la technologie de Microsoft pour r&#233;duire au maximum le temps de chargement du jeu.
+La version mobile de YouTube pourrait adopter une navigation repens&#233;e, avec la disparition du bouton d&#233;di&#233; aux abonnements dans la barre inf&#233;rieure.
 </description>
     </item>
     <item>
-      <title>Forza Horizon 6 : votre PC tiendra-t-il le choc ? Notre test de performance sur 8 cartes graphiques, avec et sans ray tracing</title>
-      <link>https://www.frandroid.com/produits-android/console/3099045_performances-de-forza-horizon-6-sur-pc-8-cartes-graphiques-testees-avec-et-sans-ray-tracing</link>
-      <pubDate>Tue, 19 May 2026 07:49:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3099045_performances-de-forza-horizon-6-sur-pc-8-cartes-graphiques-testees-avec-et-sans-ray-tracing</guid>
+      <title>Europe's trillion-dollar tech giant hides a much bigger obstacle</title>
+      <link>https://www.techradar.com/pro/europes-trillion-dollar-tech-giant-hides-a-much-bigger-obstacle</link>
+      <pubDate>Tue, 19 May 2026 11:01:26 +0000</pubDate>
+      <guid isPermaLink="false">EowRjFSZbMjMZdoDZrTmRF</guid>
+      <description>Current EU rules may mean Europe misses out on the next ASML.</description>
+    </item>
+    <item>
+      <title>The Herman Miller Coyl Standing Desk Is Built Just for Gamers</title>
+      <link>https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/</link>
+      <pubDate>Tue, 19 May 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a077ed6436bad7258b4303f</guid>
+      <description>The Coyl uses a coil design for the power cable, keeping it neat and taut between the desk and the wall. And instead of relying on boring levers to adjust the height, it has a nifty rotary dial.</description>
+    </item>
+    <item>
+      <title>The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong</title>
+      <link>https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/</link>
+      <pubDate>Tue, 19 May 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69b414cf57d4981b06a15b84</guid>
+      <description>Recreation.gov was supposed to make access to public lands more equitable and streamlined. Instead, it&#8217;s rife with bots and inequality, while a government contractor benefits.</description>
+    </item>
+    <item>
+      <title>Google I/O 2026: How to watch and what to expect</title>
+      <link>https://www.theverge.com/tech/932939/google-io-2026-how-to-watch</link>
+      <pubDate>2026-05-19T07:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=932939</guid>
+      <description>Google's annual developer conference has arrived. We're expecting plenty of updates to Gemini, Search, and every other product that Google has stuffed AI inside of. The keynote kicks off later today - here's what to expect. When Google I/O will happen and where you can watch it Google I/O starts at 10AM PT / 1PM [&#8230;]</description>
+    </item>
+    <item>
+      <title>C&#226;bles sous-marins du d&#233;troit d&#8217;Ormuz&#160;: des taxes iranienne menacent de perturber l&#8217;Internet mondial</title>
+      <link>https://www.01net.com/actualites/cables-sous-marins-du-detroit-dormuz-des-taxes-iranienne-menacent-de-perturber-linternet-mondial.html</link>
+      <pubDate>Tue, 19 May 2026 10:52:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1348214</guid>
+      <description>Sur X, le porte-parole de l&#8217;arm&#233;e iranienne l&#8217;affirme : &#171; Nous imposerons des taxes sur les c&#226;bles Internet &#187;. T&#233;h&#233;ran veut instaurer une taxe sur les c&#226;bles sous-marins qui traversent le d&#233;troit d&#8217;Ormuz et acheminent l&#8217;essentiel des flux Internet du Golfe vers l&#8217;Europe et l&#8217;Asie. Si une telle mesure &#233;tait appliqu&#233;e, les GAFAM pourraient se retrouver dans une situation difficile, voire sans v&#233;ritable issue....</description>
+    </item>
+    <item>
+      <title>Why your next cybersecurity upgrade isn&#8217;t an AI agent&#8212;it&#8217;s a dotBrand domain name</title>
+      <link>https://www.techradar.com/pro/why-your-next-cybersecurity-upgrade-isnt-an-ai-agent-its-a-dotbrand-domain-name</link>
+      <pubDate>Tue, 19 May 2026 10:46:59 +0000</pubDate>
+      <guid isPermaLink="false">jyKUQAVrCXs37wYiREVFaV</guid>
+      <description>DotBrand domains offer a new way to reduce phishing and strengthen digital trust.</description>
+    </item>
+    <item>
+      <title>Perplexity avoue brider certains comptes Pro</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3103389_perplexity-avoue-brider-certains-comptes-pro</link>
+      <pubDate>Tue, 19 May 2026 10:41:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3103389_perplexity-avoue-brider-certains-comptes-pro</guid>
       <description>
-Forza Horizon 6 investit les paysages ruraux et urbains du Japon pour un nouvel &#233;pisode qui d&#233;ploie encore plus les ailes de son moteur, le ForzaTech. Nous avons test&#233; le jeu sur 8 cartes graphiques, avec et sans ray tracing.
+Si vous profitez de Perplexity Pro gr&#226;ce &#224; une offre promotionnelle, vous risquez de d&#233;chanter. Plusieurs utilisateurs constatent un effondrement de leurs quotas sur les mod&#232;les les plus puissants comme Gemini 3.1 Pro ou le mode Thinking.
 </description>
     </item>
     <item>
-      <title>Windows 11&#160;: Microsoft va enfin vous autoriser &#224; remapper la touche Copilot que vous n&#8217;utilisez pas</title>
-      <link>https://www.01net.com/actualites/windows-11-microsoft-va-enfin-vous-autoriser-a-remapper-la-touche-copilot-que-vous-nutilisez-pas.html</link>
-      <pubDate>Tue, 19 May 2026 07:48:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348163</guid>
-      <description>La touche Copilot introduite par Microsoft sur le clavier des PC depuis 2024 ne suscite pas vraiment l&#8217;int&#233;r&#234;t des utilisateurs. Microsoft veut lui redonner une utilit&#233; en vous permettant de la reconfigurer pour en restaurer son ancienne fonctionnalit&#233;.</description>
-    </item>
-    <item>
-      <title>Ce nouveau TV Samsung m&#234;le Neo QLED et Mini LED pour un grand spectacle dans votre salon et un prix en baisse de 150 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3101921_ce-nouveau-tv-samsung-mele-neo-qled-et-mini-led-pour-un-grand-spectacle-dans-votre-salon-et-un-prix-en-baisse-de-150-e</link>
-      <pubDate>Tue, 19 May 2026 07:32:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3101921_ce-nouveau-tv-samsung-mele-neo-qled-et-mini-led-pour-un-grand-spectacle-dans-votre-salon-et-un-prix-en-baisse-de-150-e</guid>
+      <title>La s&#233;curit&#233; n&#8217;a pas de prix, sauf celui de ce pack avec cam&#233;ra ext&#233;rieure 2K et sonnette connect&#233;e brad&#233; &#224; -61%</title>
+      <link>https://www.frandroid.com/bons-plans/3103511_la-securite-na-pas-de-prix-sauf-celui-de-ce-pack-avec-camera-exterieure-2k-et-sonnette-connectee-brade-a-61</link>
+      <pubDate>Tue, 19 May 2026 10:36:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3103511_la-securite-na-pas-de-prix-sauf-celui-de-ce-pack-avec-camera-exterieure-2k-et-sonnette-connectee-brade-a-61</guid>
       <description>
-Le nouveau TV Samsung TQ55QN82H est un mod&#232;le milieu de gamme premium qui met l'accent sur le gaming, la luminosit&#233; et l'IA &#224; retrouver &#224; 1 149 euros au lieu de 1 299 euros sur Darty.
+Dans ce pack Blink sur Amazon, vous avez une cam&#233;ra ext&#233;rieure 2K, une sonnette vid&#233;o HD et un module de synchronisation pour 59,99 euros au lieu de 154,98 euros.
 </description>
     </item>
     <item>
-      <title>Fuites de donn&#233;es&#160;: la France bat un record historique, la CNIL prend des mesures fortes</title>
-      <link>https://www.01net.com/actualites/fuites-donnees-france-bat-record-historique-cnil-prend-mesures-fortes.html</link>
-      <pubDate>Tue, 19 May 2026 07:29:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348139</guid>
-      <description>En 2025, la France a enregistr&#233; 6 167 violations de donn&#233;es personnelles. Suite &#224; ce triste record historique, le gendarme fran&#231;ais des donn&#233;es tire la sonnette d'alarme et annonce une offensive in&#233;dite, articul&#233;e autour d'une panoplie de contr&#244;les. La CNIL promet des sanctions plus lourdes et une pression accrue sur toutes les entreprises qui stockent vos informations....</description>
-    </item>
-    <item>
-      <title>Gemini s&#8217;offre plus de temps pour donner une r&#233;ponse d&#233;taill&#233;e</title>
-      <link>https://www.frandroid.com/marques/google/3102947_gemini-soffre-plus-de-temps-pour-donner-une-reponse-detaillee</link>
-      <pubDate>Tue, 19 May 2026 07:12:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3102947_gemini-soffre-plus-de-temps-pour-donner-une-reponse-detaillee</guid>
+      <title>Des batteries qui montent &#224; 70&#176;C : pourquoi la technologie r&#233;volutionnaire de BYD fait peur (&#224; tort)</title>
+      <link>https://www.frandroid.com/marques/byd/3103287_des-batteries-qui-montent-a-70c-pourquoi-la-technologie-revolutionnaire-de-byd-fait-peur-a-tort</link>
+      <pubDate>Tue, 19 May 2026 10:33:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/byd/3103287_des-batteries-qui-montent-a-70c-pourquoi-la-technologie-revolutionnaire-de-byd-fait-peur-a-tort</guid>
       <description>
-Google teste une option pour Gemini baptis&#233;e &#171; Niveau de r&#233;flexion &#187;. Cette nouvelle fonctionnalit&#233; permettrait &#224; l&#8217;IA de Google de prendre un peu plus de temps avant de donner sa r&#233;ponse.
+En Chine, un blogueur accuse la charge Flash Charging de BYD d&#8217;&#234;tre nocive pour les batteries des voitures &#233;lectriques. La firme se d&#233;fend, et elle ne manque pas d&#8217;arguments.
 </description>
     </item>
     <item>
-      <title>Votre forfait RED by SFR pourrait finir chez Free d&#8217;ici 2030</title>
-      <link>https://www.frandroid.com/marques/sfr/3103021_votre-forfait-red-by-sfr-pourrait-finir-chez-free-dici-2030</link>
-      <pubDate>Tue, 19 May 2026 07:09:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sfr/3103021_votre-forfait-red-by-sfr-pourrait-finir-chez-free-dici-2030</guid>
+      <title>Ce satellite lanc&#233; par l&#8217;Europe et la Chine va enfin r&#233;v&#233;ler le bouclier invisible qui prot&#232;ge la Terre du Soleil !</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/soleil-ce-satellite-lance-europe-chine-va-enfin-reveler-bouclier-invisible-protege-terre-soleil-134628/#xtor%3DRSS-8</link>
+      <pubDate>Tue, 19 May 2026 12:33:13 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/soleil-ce-satellite-lance-europe-chine-va-enfin-reveler-bouclier-invisible-protege-terre-soleil-134628/#xtor%3DRSS-8</guid>
+      <description>Avec son lancement r&#233;ussi, Smile va &#233;tudier pendant trois ans les temp&#234;tes g&#233;omagn&#233;tiques et leur impact sur notre Plan&#232;te. Une mission cl&#233; pour anticiper les risques et prot&#233;ger nos technologies spatiales.</description>
+    </item>
+    <item>
+      <title>To adopt or to adapt? Why SaaS is easing banking's customization burden</title>
+      <link>https://www.techradar.com/pro/to-adopt-or-to-adapt-why-saas-is-easing-bankings-customization-burden</link>
+      <pubDate>Tue, 19 May 2026 10:30:57 +0000</pubDate>
+      <guid isPermaLink="false">WwDKvzEmL5Exs3UgLjTYHh</guid>
+      <description>Why banks should take 'adopt' approach as opposed to the adapt approach.</description>
+    </item>
+    <item>
+      <title>Tom Steyer Wants to Save California From Billionaires. But Also Doesn&#8217;t Want Them to Leave</title>
+      <link>https://www.wired.com/story/the-big-interview-podcast-tom-steyer/</link>
+      <pubDate>Tue, 19 May 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a0729e24e75094f2b87c90e</guid>
+      <description>The hedge fund billionaire turned gubernatorial candidate wants to tax California&#8217;s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.</description>
+    </item>
+    <item>
+      <title>Set Up Your Phone&#8217;s Always-On Display So You&#8217;re Unlocking It Less Often</title>
+      <link>https://www.wired.com/story/set-up-always-on-display-iphone-android/</link>
+      <pubDate>Tue, 19 May 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a07a5c35455419ede848455</guid>
+      <description>Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.</description>
+    </item>
+    <item>
+      <title>Gemini is in danger of going full Copilot</title>
+      <link>https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace</link>
+      <pubDate>2026-05-19T06:30:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=931752</guid>
+      <description>Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's [&#8230;]</description>
+    </item>
+    <item>
+      <title>What is the release date for Rivals season 2 episode 4 on Hulu and Disney+?</title>
+      <link>https://www.techradar.com/streaming/hulu/rivals-season-2-episode-4-release-date-time-disney-plus</link>
+      <pubDate>Tue, 19 May 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">YucLWwVNFx8nsUMsxfgBum</guid>
+      <description>Tony Baddingham has launched his most hostile revenge on Rupert Campbell-Black yet. But when does Rivals season 2 episode 4 drop on Hulu and Disney+?</description>
+    </item>
+    <item>
+      <title>The 4.5-star Ninja air fryer just dropped to its lowest price this year on Amazon &#8212; 'a delightfully easy machine to use that delivers consistent, fantastic results'</title>
+      <link>https://www.techradar.com/home/air-fryers/the-4-5-star-ninja-air-fryer-just-dropped-to-its-lowest-price-this-year-on-amazon-a-delightfully-easy-machine-to-use-that-delivers-consistent-fantastic-results</link>
+      <pubDate>Tue, 19 May 2026 10:24:23 +0000</pubDate>
+      <guid isPermaLink="false">ZL4i66RqdLZKihb3ghKR3</guid>
+      <description>The Ninja Foodi FlexDrawer Air Fryer is a fantastic addition to your kitchen and offers amazing results &#8212; it's on sale at a great price right now at Amazon.</description>
+    </item>
+    <item>
+      <title>Why business demand for AI video creation Is surging</title>
+      <link>https://www.techradar.com/pro/why-business-demand-for-ai-video-creation-is-surging</link>
+      <pubDate>Tue, 19 May 2026 10:18:12 +0000</pubDate>
+      <guid isPermaLink="false">Sr4fnaGxEeWvF3D6q2iZuK</guid>
+      <description>As AI scales production, creative direction and execution become the new competitive edge.</description>
+    </item>
+    <item>
+      <title>5 ways Steve Jobs almost destroyed Apple</title>
+      <link>https://www.fastcompany.com/91522431/5-ways-steve-jobs-almost-destroyed-apple-steve_jobs-apple-mistakes</link>
+      <pubDate>2026-05-19T10:17:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91522431/5-ways-steve-jobs-almost-destroyed-apple-steve_jobs-apple-mistakes</guid>
+      <description>Before Steve Jobs built the world&#8217;s most iconic company, he nearly wrecked it. His mistakes hold lessons for every founder.
+After losing a boardroom power struggle with Apple CEO John Sculley, Steve Jobs was exiled to a small building across the street from Apple&#8217;s headquarters. It was May 1985. He and his colleagues called his new office &#8220;Siberia.&#8221;...</description>
+    </item>
+    <item>
+      <title>&#171; Bient&#244;t la fin de Navigo sur l&#8217;iPhone ? &#187; : Val&#233;rie P&#233;cresse alerte le gouvernement</title>
+      <link>https://www.frandroid.com/produits-android/smartphone/3103479_bientot-la-fin-de-navigo-sur-liphone-valerie-pecresse-alerte-le-gouvernement</link>
+      <pubDate>Tue, 19 May 2026 10:16:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/3103479_bientot-la-fin-de-navigo-sur-liphone-valerie-pecresse-alerte-le-gouvernement</guid>
       <description>
-Free pourrait r&#233;cup&#233;rer RED by SFR et en faire sa propre marque low-cost. Si vous &#234;tes abonn&#233;, votre forfait risque de changer de maison sans que vous ayez votre mot &#224; dire.
+Dans une publication sur LinkedIn, Val&#233;rie P&#233;cresse, la pr&#233;sidente de l'&#206;le-de-France s'alarme de la disparition programm&#233;e de Navigo sur l'iPhone. En cause, une d&#233;cision de l'Autorit&#233; de r&#233;gulation des transports 
 </description>
     </item>
     <item>
-      <title>If the Oura Ring 5 gets these 3 upgrades on top of the already 'future-proof' Oura Ring 4, it's a day-one purchase (and might beat the Samsung Galaxy Ring to the top of our smart ring list)</title>
-      <link>https://www.techradar.com/health-fitness/fitness-trackers/if-the-oura-ring-5-gets-these-3-upgrades-on-top-of-the-already-future-proof-oura-ring-4-its-a-day-one-purchase-and-might-beat-the-samsung-galaxy-ring-to-the-top-of-our-smart-ring-list</link>
-      <pubDate>Tue, 19 May 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pgryHxAFd5YTju45qNQN5L</guid>
-      <description>We're patiently waiting for the successor to the Oura Ring 4 to break cover, and have some specific improvements in mind.</description>
+      <title>How Google&#8217;s partnership with consultants could derail enterprise AI adoption</title>
+      <link>https://www.fastcompany.com/91542656/how-googles-partnership-with-consultants-could-derail-enterprise-ai-adoption-technology-ai-consulting</link>
+      <pubDate>2026-05-19T10:13:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91542656/how-googles-partnership-with-consultants-could-derail-enterprise-ai-adoption-technology-ai-consulting</guid>
+      <description>By tying their bottom lines to how much AI they can sell, consultants have created a conflict of interest that erodes their clients&#8217; trust.
+Google recently announced its partnership with Accenture, Deloitte, and McKinsey&#8212;backed by a $750 million fund&#8212;to speed up enterprise adoption of its tech stack.</description>
     </item>
     <item>
-      <title>Apple veut mettre des cam&#233;ras dans ses AirPods, ces chercheurs l&#8217;ont d&#233;j&#224; fait avec des &#233;couteurs Sony</title>
-      <link>https://www.frandroid.com/produits-android/3102979_apple-veut-mettre-des-cameras-dans-ses-airpods-ces-chercheurs-lont-deja-fait-avec-des-ecouteurs-sony</link>
-      <pubDate>Tue, 19 May 2026 06:52:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3102979_apple-veut-mettre-des-cameras-dans-ses-airpods-ces-chercheurs-lont-deja-fait-avec-des-ecouteurs-sony</guid>
+      <title>&#171; Plus de 5 millions de cellules ont d&#233;j&#224; &#233;t&#233; fabriqu&#233;es &#187; : le succ&#232;s discret de l&#8217;usine fran&#231;aise de batterie des R5 et R4</title>
+      <link>https://www.frandroid.com/marques/renault/3103207_plus-de-5-millions-de-cellules-ont-deja-ete-fabriquees-le-succes-discret-de-lusine-francaise-de-batterie-des-r5-et-r4</link>
+      <pubDate>Tue, 19 May 2026 10:11:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/renault/3103207_plus-de-5-millions-de-cellules-ont-deja-ete-fabriquees-le-succes-discret-de-lusine-francaise-de-batterie-des-r5-et-r4</guid>
       <description>
-Alors que les lunettes connect&#233;es peinent encore &#224; s&#233;duire le grand public, la prochaine &#233;volution serait-elle en fait dans nos oreilles&#8201;? Des chercheurs de l&#8217;universit&#233; de Washington ont exp&#233;riment&#233; en ajoutant de minuscules cam&#233;ras &#224; des &#233;couteurs sans fil.
+Alors que les d&#233;buts chaotiques des usines europ&#233;ennes de batteries ont &#233;t&#233; largement document&#233;s, une autre &#171; gigafactory &#187; avance tout en discr&#233;tion : celle d'AESC Envision, &#224; Douai, qui fournit les batteries des Renault 4 et 5. Le cap du gigawattheure vient d'&#234;tre atteint, mais une &#233;tape critique est &#224; venir.
 </description>
     </item>
     <item>
-      <title>&#192; moins de 9&#160;000&#160;&#8364;, cette voiture &#233;lectrique qui fait un carton historique arrive bient&#244;t en France</title>
-      <link>https://www.01net.com/actualites/cette-voiture-electrique-moins-9-000-e-fait-carton-historique-arrive-bientot-france.html</link>
-      <pubDate>Tue, 19 May 2026 06:51:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1347920</guid>
-      <description>La nouvelle MG4 vient de signer un record en Chine. Avec 100 000 exemplaires vendus en seulement huit mois, elle devient la compacte &#233;lectrique la plus demand&#233;e. Sa particularit&#233; ? Elle est &#233;quip&#233;e d&#8217;une batterie semi-solide et arrive chez nous.</description>
+      <title>Gestionnaire de mots de passe Google&#160;: cette nouveaut&#233; va enfin vous permettre de changer d&#8217;application facilement</title>
+      <link>https://www.01net.com/actualites/gestionnaire-mots-de-passe-google-nouveaute-permettre-changer-application-facilement.html</link>
+      <pubDate>Tue, 19 May 2026 10:06:40 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1348202</guid>
+      <description>Le transfert de vos cl&#233;s d&#8217;acc&#232;s sur Android pourrait bient&#244;t devenir une simple formalit&#233;. Google teste actuellement une fonctionnalit&#233; permettant de les transf&#233;rer facilement d'un gestionnaire de mot de passe &#224; un autre.</description>
     </item>
     <item>
-      <title>macOS 27&#160;: Apple va abandonner le support des mac Intel</title>
-      <link>https://www.01net.com/actualites/macos-27-apple-va-abandonner-le-support-des-mac-intel.html</link>
-      <pubDate>Tue, 19 May 2026 06:21:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348147</guid>
-      <description>La prochaine mouture de macOS qui doit &#234;tre pr&#233;sent&#233;e au cours de la prochaine WWDC va laisser de nouvelles machines sur le carreau. macOS 27 abandonnera d&#233;finitivement la prise en charge des machines &#233;quip&#233;es d&#8217;un processeur Intel.</description>
+      <title>A psychologist&#8217;s top 5 signs your cognitive load is too high</title>
+      <link>https://www.fastcompany.com/91525360/a-psychologists-5-signs-your-cognitive-load-is-too-high-at-work-burnout-leadership-overworked</link>
+      <pubDate>2026-05-19T10:01:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91525360/a-psychologists-5-signs-your-cognitive-load-is-too-high-at-work-burnout-leadership-overworked</guid>
+      <description>They&#8217;re not all what you think
+In 2011, a study of Israeli judges found that in the early sessions of the day, prisoners had roughly a 65% chance of parole. By the end of each session, that probability had fallen to nearly zero. After a break, it returned to 65%. The judges didn&#8217;t vary. The cases didn&#8217;t get harder. The types of prisoners didn&#8217;t change. What changed was the judges&#8217; cognitive resources....</description>
     </item>
     <item>
-      <title>WWDC 2026 : Demandez le programme complet</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/3102963_wwdc-2026-demandez-le-programme-complet</link>
-      <pubDate>Tue, 19 May 2026 06:20:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/3102963_wwdc-2026-demandez-le-programme-complet</guid>
+      <title>Mac users beware &#8212; this devious new infostealer malware disguises itself as official Apple tools to lure in victims</title>
+      <link>https://www.techradar.com/pro/security/mac-users-beware-this-devious-new-infostealer-malware-disguises-itself-as-official-apple-tools-to-lure-in-victims</link>
+      <pubDate>Tue, 19 May 2026 10:00:53 +0000</pubDate>
+      <guid isPermaLink="false">kW8S8uBYsidJsBLr2no79k</guid>
+      <description>SentinelOne found a new variant of the SHub macOS infostealer called Reaper.</description>
+    </item>
+    <item>
+      <title>Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen</title>
+      <link>https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/</link>
+      <pubDate>Tue, 19 May 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a036572772667029e6e1f2a</guid>
+      <description>Follow our live coverage of Google&#8217;s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.</description>
+    </item>
+    <item>
+      <title>Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business</title>
+      <link>https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/</link>
+      <pubDate>Tue, 19 May 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3123752</guid>
+      <description>Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.</description>
+    </item>
+    <item>
+      <title>Why bougie kids&#8217; brands are racing to sell you secondhand goods</title>
+      <link>https://www.fastcompany.com/91539148/woom-lovevery-secondhand-marketplaces</link>
+      <pubDate>2026-05-19T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91539148/woom-lovevery-secondhand-marketplaces</guid>
+      <description>Resale used to be seen as a threat. Now companies like Woom, Lovevery, and Hanna Andersson have discovered it&#8217;s one of their cheapest customer acquisition channels.
+Your four-year-old needs a bike. The cheap ones from a big box store will work, sure&#8212;but they&#8217;ll be heavy, clunky, and harder for them to learn on. The premium Woom bike weighs half as much&#8212;but it costs $400. You want the best for your kid, but do you want to drop that much for something they&#8217;ll use for a few months?...</description>
+    </item>
+    <item>
+      <title>Meet the children&#8217;s literature startup that wants to unseat Scholastic as the king of the book fair</title>
+      <link>https://www.fastcompany.com/91541113/meet-the-childrens-literature-startup-that-wants-to-unseat-scholastic-as-the-king-of-the-book-fair</link>
+      <pubDate>2026-05-19T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91541113/meet-the-childrens-literature-startup-that-wants-to-unseat-scholastic-as-the-king-of-the-book-fair</guid>
+      <description>Literati has spent years rebuilding the elementary school book fair into something closer to an art installation. Now, with an acquisition by private equity, it&#8217;s ready to scale fast.
+Imagine walking into your elementary school library and finding it transformed overnight into a forest at dusk. Mossy green canopies arch over the bookshelves. Glowing mushrooms create a path between display cases. Twinkle lights flicker through the leaves like fireflies....</description>
+    </item>
+    <item>
+      <title>Sports used to unite us. We can rethink them so they do it again</title>
+      <link>https://www.fastcompany.com/91542790/sports-used-to-unite-us-we-can-re-think-them-so-they-do-it-again</link>
+      <pubDate>2026-05-19T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91542790/sports-used-to-unite-us-we-can-re-think-them-so-they-do-it-again</guid>
+      <description>As the World Cup arrives in the U.S. at a moment of peak division, people who still believe in the civic potential of sports have a narrow window to act to reclaim their purpose.
+Every institution was once a design decision. Pierre de Coubertin didn&#8217;t stumble into the creation of the modern Olympic Games, he painstakingly designed them around a clear civic purpose: that sports could model fair play, international respect, and the ethics of effort over victory. ...</description>
+    </item>
+    <item>
+      <title>I gamed with MSI's new 34-inch QD-OLED panel and now I never want to use an LCD monitor again</title>
+      <link>https://www.techradar.com/computing/monitors/msi-mpg-341cqr-qd-oled-x36</link>
+      <pubDate>Tue, 19 May 2026 09:58:38 +0000</pubDate>
+      <guid isPermaLink="false">SpEukJgcjNFFmfLH9Rivpk</guid>
+      <description>The MSI MPG 341CQR QD-OLED X36 gaming monitor proves that the latest 5th Gen QD-OLED panel tech is closing in on perfection.</description>
+    </item>
+    <item>
+      <title>If everyone is rushing to board the AI ship why are so few workflows secure?</title>
+      <link>https://www.techradar.com/pro/if-everyone-is-rushing-to-board-the-ai-ship-why-are-so-few-workflows-secure</link>
+      <pubDate>Tue, 19 May 2026 09:58:29 +0000</pubDate>
+      <guid isPermaLink="false">XnuVZfgT6JRGtay4aUrmTP</guid>
+      <description>As AI spreads rapidly, weak governance and security gaps threaten trust and long-term value.</description>
+    </item>
+    <item>
+      <title>As the Federal Government races to adopt AI, talent, transparency, and flexibility remain vital</title>
+      <link>https://www.techradar.com/pro/as-the-federal-government-races-to-adopt-ai-talent-transparency-and-flexibility-remain-vital</link>
+      <pubDate>Tue, 19 May 2026 09:58:14 +0000</pubDate>
+      <guid isPermaLink="false">vfBcR29smg3iC9AVNnRKb3</guid>
+      <description>Widespread AI adoption has been hindered by capacity constraints, procurement and funding challenges, and low public trust in AI systems.</description>
+    </item>
+    <item>
+      <title>Samsung releases One UI 8.5 for the Galaxy A56, Galaxy Z Fold 5, and more phones &#8212; here's the full list of devices and new features</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/samsung-releases-one-ui-8-5-for-the-galaxy-a56-galaxy-z-fold-5-and-more-phones-heres-the-full-list-of-devices-and-new-features</link>
+      <pubDate>Tue, 19 May 2026 09:50:32 +0000</pubDate>
+      <guid isPermaLink="false">dgmYXhSen9JqfZRKGv3yKg</guid>
+      <description>One UI 8.5 is landing on four more Samsung phones, bringing AirDrop support among other changes.</description>
+    </item>
+    <item>
+      <title>La manette Nintendo Switch 2 Pro inqui&#232;te &#224; cause d&#8217;un joystick collant</title>
+      <link>https://www.frandroid.com/marques/nintendo/3103149_la-manette-nintendo-switch-2-pro-inquiete-a-cause-dun-joystick-collant</link>
+      <pubDate>Tue, 19 May 2026 09:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nintendo/3103149_la-manette-nintendo-switch-2-pro-inquiete-a-cause-dun-joystick-collant</guid>
       <description>
-Le 8 juin prochain, Apple ouvre sa semaine la plus attendue pour la partie logicielle, avec au menu iOS 27, un Siri enti&#232;rement repens&#233; et de nouvelles fonctions d'intelligence artificielle. Voici le d&#233;tail de toutes les pr&#233;sentations.
+La manette Pro de la Nintendo Switch 2 pourrait &#234;tre confront&#233;e &#224; un probl&#232;me de durabilit&#233;. Selon un vid&#233;aste japonais, l&#8217;un de ses joysticks se d&#233;t&#233;riorerait rapidement pour devenir collant.
 </description>
     </item>
     <item>
-      <title>Pour moins de 300 &#8364;, ce smartphone Motorola (5 000 nits, 120 Hz) s&#8217;accompagne d&#8217;une montre connect&#233;e qui tient 13 jours</title>
-      <link>https://www.frandroid.com/bons-plans/3101705_pour-moins-de-300-e-ce-smartphone-motorola-5-000-nits-120-hz-saccompagne-dune-montre-connectee-qui-tient-13-jours</link>
-      <pubDate>Tue, 19 May 2026 06:19:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3101705_pour-moins-de-300-e-ce-smartphone-motorola-5-000-nits-120-hz-saccompagne-dune-montre-connectee-qui-tient-13-jours</guid>
+      <title>D&#233;claration d&#8217;imp&#244;ts 2026 : doit-on d&#233;clarer son compte d&#8217;une banque &#233;trang&#232;re (Revolut, PayPal, Trade Republic, etc&#8230;) au fisc ?</title>
+      <link>https://www.frandroid.com/services/banque-en-ligne/2581061_declaration-dimpots-2025-doit-on-declarer-son-compte-dune-banque-etrangere-revolut-n26-wise-bunq-etc-au-fisc</link>
+      <pubDate>Tue, 19 May 2026 09:36:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/2581061_declaration-dimpots-2025-doit-on-declarer-son-compte-dune-banque-etrangere-revolut-n26-wise-bunq-etc-au-fisc</guid>
       <description>
-Avec cette offre de Darty, le Motorola moto g67 est affich&#233; &#224; 279,99 euros et la moto watch est offerte. Deux produits qui se d&#233;marquent gr&#226;ce &#224; des designs &#233;pur&#233;s qui devraient plaire &#224; la plupart des utilisateurs.
+La saison 2026 de la d&#233;claration d'imp&#244;ts est ouverte ! Depuis le 10 avril, chaque Fran&#231;ais doit s'acquitter de cette corv&#233;e administrative pour conna&#238;tre le montant de la douloureuse, mais pour les d&#233;tenteurs d'un compte en banque d'un &#233;tablissement &#233;tranger, doit-on obligatoirement d&#233;clarer ?
 </description>
     </item>
     <item>
-      <title>Le FSD de Tesla parcourt 150&#160;000 km l&#224; o&#249; il est interdit&#160;: l&#8217;astuce g&#233;niale d&#8217;Elon Musk</title>
-      <link>https://www.01net.com/actualites/fsd-tesla-parcourt-150-000-km-ou-il-est-interdit-lastuce-geniale-delon-musk.html</link>
-      <pubDate>Tue, 19 May 2026 06:12:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1347907</guid>
-      <description>Tous les coups sont permis pour d&#233;velopper la conduite autonome. Le FSD de Tesla a r&#233;cemment franchi la barre des 150 000 km parcourus dans un pays o&#249; il n&#8217;est pas cens&#233; fonctionner. Comment est-ce possible ?</description>
+      <title>Email marketing ROI: How modern platforms turn campaigns into revenue</title>
+      <link>https://www.techradar.com/pro/email-marketing-roi</link>
+      <pubDate>Tue, 19 May 2026 09:34:27 +0000</pubDate>
+      <guid isPermaLink="false">AJcoPCA5LpA5tW5C8PkWEL</guid>
+      <description>Discover how segmentation, automation, and A/B testing in modern email marketing platforms help businesses convert campaigns into consistently higher revenue.</description>
     </item>
     <item>
-      <title>Google Gemini&#160;: pourquoi la version gratuite risque de devenir tr&#232;s frustrante</title>
-      <link>https://www.01net.com/actualites/google-gemini-pourquoi-version-gratuite-risque-devenir-tres-frustrante.html</link>
-      <pubDate>Tue, 19 May 2026 06:03:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348136</guid>
-      <description>Vous utilisez Gemini gratuitement ? Pr&#233;parez-vous &#224; peut-&#234;tre devoir lever le pied, car Google teste un syst&#232;me de quota hebdomadaire qui pourrait vous bloquer l'acc&#232;s pendant plusieurs jours cons&#233;cutifs.</description>
+      <title>Plus de 200 pirates arr&#234;t&#233;s, pr&#232;s de 4&#160;000 victimes&#160;: un empire cybercriminel du Moyen-Orient a &#233;t&#233; d&#233;mantel&#233;</title>
+      <link>https://www.01net.com/actualites/plus-200-pirates-arretes-pres-4-000-victimes-empire-cybercriminel-moyen-orient-demantele.html</link>
+      <pubDate>Tue, 19 May 2026 09:33:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1348162</guid>
+      <description>201 arrestations, 53 serveurs saisis, et pr&#232;s de 4 000 victimes. L'op&#233;ration RAMZ, men&#233;e par Interpol entre octobre 2025 et f&#233;vrier 2026, est la plus grande offensive jamais lanc&#233;e contre la cybercriminalit&#233; au Moyen-Orient et en Afrique du Nord. Treize pays ont uni leurs forces pour d&#233;manteler des r&#233;seaux de phishing, de fraude et de botnets qui s&#233;vissaient dans toute la r&#233;gion....</description>
+    </item>
+    <item>
+      <title>Une Xiaomi SU7 avec une carte grise fran&#231;aise sur Leboncoin : les secrets de cette annonce improbable</title>
+      <link>https://www.frandroid.com/marques/xiaomi/3101499_une-xiaomi-su7-avec-une-carte-grise-francaise-sur-leboncoin-les-secrets-de-cette-annonce-improbable</link>
+      <pubDate>Tue, 19 May 2026 09:33:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3101499_une-xiaomi-su7-avec-une-carte-grise-francaise-sur-leboncoin-les-secrets-de-cette-annonce-improbable</guid>
+      <description>
+Une Xiaomi SU7 &#233;lectrique est d&#233;j&#224; en vente, sur LeBonCoin, en occasion en France. Nous avons contact&#233; le vendeur pour savoir comment l'importation s'&#233;tait d&#233;roul&#233;e. Voici tout ce qu'il faut savoir.
+</description>
+    </item>
+    <item>
+      <title>Hands off the VPNs &#8212; Mozilla warns UK regulators that age-restricting VPNs "would undermine the privacy and security of all users," while failing to protect kids</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/hands-off-the-vpns-mozilla-warns-uk-regulators-that-age-restricting-vpns-would-undermine-the-privacy-and-security-of-all-users-while-failing-to-protect-kids</link>
+      <pubDate>Tue, 19 May 2026 09:31:49 +0000</pubDate>
+      <guid isPermaLink="false">UsPjnf3vi37t6sU6QTi7FD</guid>
+      <description>Mozilla has pushed back against UK proposals to age-restrict VPNs, arguing that kids use them for safety, not to bypass age checks, and that mandatory ID checks would put everyone at risk.</description>
+    </item>
+    <item>
+      <title>Stephen Colbert wants to relaunch The Late Show on OnlyFans</title>
+      <link>https://mashable.com/video/stephen-colbert-late-show-onlyfans</link>
+      <pubDate>Tue, 19 May 2026 09:30:47 +0000</pubDate>
+      <guid isPermaLink="false">06bhVSrPfmoOvtvF7iAdMJj</guid>
+      <description>Stephen Colbert told the other late night hosts that he had the idea of taking "The Late Show" and doing it on OnlyFans.</description>
+    </item>
+    <item>
+      <title>How to Make Apps and Websites Remove Your Nonconsensual Nudes</title>
+      <link>https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/</link>
+      <pubDate>Tue, 19 May 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a063b43647a57bf56da153e</guid>
+      <description>Starting May 19, tech platforms in the US will have to start complying with the Take It Down Act. Here's how more than a dozen of the largest platforms are handling takedown demands for your nudes.</description>
+    </item>
+    <item>
+      <title>Une anomalie d&#233;tect&#233;e autour de trous noirs pourrait enfin trahir la mati&#232;re noire !</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/matiere-noire-anomalie-detectee-autour-trous-noirs-pourrait-enfin-trahir-matiere-noire-134595/#xtor%3DRSS-8</link>
+      <pubDate>Tue, 19 May 2026 11:29:33 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/matiere-noire-anomalie-detectee-autour-trous-noirs-pourrait-enfin-trahir-matiere-noire-134595/#xtor%3DRSS-8</guid>
+      <description>Les trous noirs sont noirs, enfin presque. La mati&#232;re noire est noire, enfin probablement presque l&#224; aussi. Et si la &#171;&#160;lumi&#232;re&#160;&#187; des trous noirs pouvait r&#233;v&#233;ler son existence et sa nature ?</description>
+    </item>
+    <item>
+      <title>Sur vibreur, votre Google Pixel ne vibre pas ? C&#8217;est un bug, voici ce que vous pouvez essayer</title>
+      <link>https://www.frandroid.com/marques/google/3103121_sur-vibreur-votre-google-pixel-ne-vibre-pas-cest-un-bug-voici-ce-que-vous-pouvez-essayer</link>
+      <pubDate>Tue, 19 May 2026 09:29:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3103121_sur-vibreur-votre-google-pixel-ne-vibre-pas-cest-un-bug-voici-ce-que-vous-pouvez-essayer</guid>
+      <description>
+Un bug affectant le mode vibreur des smartphones Google Pixel emp&#234;che les appareils concern&#233;s de vibrer lors d'appels entrants. Ce bug, visiblement r&#233;pandu, n'a pas encore fait l'objet d'un correctif en bonne et due forme de la part de Google.
+</description>
+    </item>
+    <item>
+      <title>The best Memorial Day TV deals from Hisense, Samsung, LG: Get a 2026 model for $900 off</title>
+      <link>https://mashable.com/article/best-memorial-day-tv-deals-2026</link>
+      <pubDate>Tue, 19 May 2026 09:29:08 +0000</pubDate>
+      <guid isPermaLink="false">07uytbwxeeVIlY528nVRaYW</guid>
+      <description>The best 2026 Memorial Day TV deals include up to 50% off the Hisense Canvas TV, Samsung OLED TVs, and more.</description>
+    </item>
+    <item>
+      <title>Best Memorial Day tech deals you can shop right now &#8212; save on headphones, laptops, and more</title>
+      <link>https://mashable.com/article/best-memorial-day-tech-deals-2026</link>
+      <pubDate>Tue, 19 May 2026 09:27:43 +0000</pubDate>
+      <guid isPermaLink="false">02xvrA5Q81gFpDVVke8CeSj</guid>
+      <description>Here are the best Memorial Day tech deals on Mashable's favorite laptops, headphones, and more.</description>
+    </item>
+    <item>
+      <title>Forza Horizon 6 d&#233;barque : quelles sont les configurations PC pour pouvoir y jouer ?</title>
+      <link>https://www.frandroid.com/guide-dachat/3044745_forza-horizon-6-quelle-configuration-prevoir-sur-pc</link>
+      <pubDate>Tue, 19 May 2026 09:27:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/3044745_forza-horizon-6-quelle-configuration-prevoir-sur-pc</guid>
+      <description>
+La licence Forza Horizon pose cette fois ses valises au Japon dans un 6e opus. Qu'attendre du nouveau titre de simulation de courses de Xbox et que faut-il pr&#233;voir pour y jouer sur PC ?
+</description>
+    </item>
+    <item>
+      <title>LG pr&#233;sente le premier &#233;cran 1000 Hz en Full-HD au monde</title>
+      <link>https://www.frandroid.com/marques/lg/3103267_lg-presente-le-premier-ecran-1000-hz-en-full-hd-au-monde</link>
+      <pubDate>Tue, 19 May 2026 09:27:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/lg/3103267_lg-presente-le-premier-ecran-1000-hz-en-full-hd-au-monde</guid>
+      <description>
+LG vient d'annoncer le premier &#233;cran 1080p pouvant atteindre les 1000 Hz du march&#233;. Un mod&#232;le pour le jeu comp&#233;titif qui devrait arriver dans les prochains mois dans certains pays.
+</description>
+    </item>
+    <item>
+      <title>The best Memorial Day power station deals: Save on Jackery, Anker, DJI, and more</title>
+      <link>https://mashable.com/article/best-memorial-day-portable-power-station-deals-2026</link>
+      <pubDate>Tue, 19 May 2026 09:27:05 +0000</pubDate>
+      <guid isPermaLink="false">04L7yBgpCagnW51Jfg4R9KR</guid>
+      <description>Memorial Day sales on portable power stations take over 50% off models from Anker Solix, Jackery, DJI, and more.</description>
+    </item>
+    <item>
+      <title>80 km d&#8217;autonomie et un deck XXL : cette trottinette &#233;lectrique Decathlon voit son prix baisser de 50 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3103057_80-km-dautonomie-et-un-deck-xxl-cette-trottinette-electrique-decathlon-voit-son-prix-baisser-de-50-e</link>
+      <pubDate>Tue, 19 May 2026 09:27:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3103057_80-km-dautonomie-et-un-deck-xxl-cette-trottinette-electrique-decathlon-voit-son-prix-baisser-de-50-e</guid>
+      <description>
+La Btwin XLD900E est l'un des derniers mod&#232;les de trottinette &#233;lectrique de chez Decathlon, qui met en avant son autonomie et son deck, &#224; retrouver pour 649,99 euros au lieu de 699,99 euros.
+</description>
+    </item>
+    <item>
+      <title>The best Memorial Day mattress deals to shop this week: Saatva, Nectar, and more</title>
+      <link>https://mashable.com/article/best-memorial-day-mattress-deals-2026</link>
+      <pubDate>Tue, 19 May 2026 09:26:14 +0000</pubDate>
+      <guid isPermaLink="false">00jiPKa5eONbn6rywzFteSo</guid>
+      <description>Shop the best Memorial Day mattress deals from brands like Saatva, DreamCloud, and Avocado. Save hundreds on a new bed today.</description>
+    </item>
+    <item>
+      <title>Amazons Memorial Day sale is live &#8212; save on TVs, Bose earbuds, Jackery power stations, and more</title>
+      <link>https://mashable.com/article/best-memorial-day-amazon-deals-2026</link>
+      <pubDate>Tue, 19 May 2026 09:25:33 +0000</pubDate>
+      <guid isPermaLink="false">03gIfz5iRBSkBoRBa1KGvPd</guid>
+      <description>Amazon Memorial Day deals take over 50% off TVs, Bose earbuds, Jackery portable power stations, and more</description>
     </item>
   </channel>
 </rss>
