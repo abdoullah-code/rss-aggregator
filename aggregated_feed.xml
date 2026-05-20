@@ -3,149 +3,111 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 19 May 2026 22:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:10:46 GMT</lastBuildDate>
     <item>
-      <title>Demis Hassabis said this might be the &amp;#8216;foothills of the singularity.&amp;#8217; What?</title>
+      <title>AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider</title>
+      <link>https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider</link>
+      <pubDate>Wed, 20 May 2026 00:06:00 GMT</pubDate>
+      <guid isPermaLink="false">2k0l2TeQgGAUK4Ld4XTnXp</guid>
+      <description>Generative AI&#8217;s rapid transition from text-based chatbots to high-fidelity media&#8212;spanning images, video, spatial 3D, and audio&#8212;has exposed a glaring bottleneck in the modern tech stack: infrastructure. Rendering pixels in real-time requires a staggering amount of compute, and developers are increasingly struggling to manage fragmented GPU clusters just to keep their applications online.Enter fal, a generative media creation platform that has quietly become the connective tissue for 2.5 million developers across the globe, offering literally hundreds of leading AI image, video, and audio creati...</description>
+    </item>
+    <item>
+      <title>New study finds most Americans think the pace of AI development is moving too fast &#8212; and they also don't believe everyone will truly benefit from it</title>
+      <link>https://www.techradar.com/pro/new-study-finds-most-americans-think-the-pace-of-ai-development-is-moving-too-fast-and-they-also-dont-believe-everyone-will-truly-benefit-from-it</link>
+      <pubDate>Wed, 20 May 2026 00:05:00 +0000</pubDate>
+      <guid isPermaLink="false">bkXPELhKU6AYdhhGkxroXL</guid>
+      <description>Most Americans are worried about the rapid pace of AI innovation &#8211; are regulators struggling to keep up now?</description>
+    </item>
+    <item>
+      <title>Wear OS 7 will keep track of deliveries and sports scores on your wrist</title>
+      <link>https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026</link>
+      <pubDate>2026-05-19T19:24:36-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=934323</guid>
+      <description>Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 will get the iPhone-style Live Updates that were introduced on Android last year - which can appear [&#8230;]</description>
+    </item>
+    <item>
+      <title>Plex is tripling the price of a lifetime pass to $750 after doubling it last year</title>
+      <link>https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike</link>
+      <pubDate>2026-05-19T19:03:48-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=934269</guid>
+      <description>I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the price to $750. Plex [&#8230;]</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Wednesday, May 20 (game #1074)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-20-may-2026</link>
+      <pubDate>Tue, 19 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hpvHSWspRjecc3sJwznneb</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Wednesday, May 20 (game #1577)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-20-may-2026</link>
+      <pubDate>Tue, 19 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Uw827rBnELHhfystGSU95X</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Wednesday, May 20 (game #808)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-20-may-2026</link>
+      <pubDate>Tue, 19 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LP8MJ6q5b9cuzZQxSu9DKZ</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Amazon could be upgrading its next generation of Kindles with replaceable batteries for users &#8212; but is it enough to make up for ending support for its older but widely-used e-readers?</title>
+      <link>https://www.techradar.com/tablets/ereaders/amazon-could-be-upgrading-its-next-generation-of-kindles-with-replaceable-batteries-for-users-but-is-it-enough-to-make-up-for-ending-support-for-its-older-but-widely-used-e-readers</link>
+      <pubDate>Tue, 19 May 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZgM4FeZUDqwr9iZp4xVmg3</guid>
+      <description>Amazon could be upgrading its next lineup of Kindles with replaceable batteries, making it easier for users to repair their own devices.</description>
+    </item>
+    <item>
+      <title>Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal</title>
+      <link>https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/</link>
+      <pubDate>Tue, 19 May 2026 22:53:04 +0000</pubDate>
+      <guid isPermaLink="false">6a0caef22d2cdf39ef925183</guid>
+      <description>Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They&#8217;re certainly not alone.</description>
+    </item>
+    <item>
+      <title>Android XR is finally starting to feel real</title>
+      <link>https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/</link>
+      <pubDate>Tue, 19 May 2026 22:43:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/</guid>
+      <description>Google has a lot to prove, but its smart glasses will have a few big advantages.</description>
+    </item>
+    <item>
+      <title>'The people that built the spacecraft are not alive anymore': NASA admits Voyager spacecraft code is still being maintained &#8212; even if barely anyone alive knows how to use the language it's programmed in</title>
+      <link>https://www.techradar.com/pro/the-people-that-built-the-spacecraft-are-not-alive-anymore-nasa-admits-voyager-spacecraft-code-is-still-being-maintained-even-if-barely-anyone-alive-knows-how-to-use-the-language-its-programmed-in</link>
+      <pubDate>Tue, 19 May 2026 22:35:00 +0000</pubDate>
+      <guid isPermaLink="false">oXNU9tFamP6D9HKajeXUBR</guid>
+      <description>NASA&#8217;s Voyager spacecraft still operates using ancient assembly code while the engineers who understood their systems gradually disappear forever.</description>
+    </item>
+    <item>
+      <title>Discord now has end-to-end encryption on all calls</title>
+      <link>https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/</link>
+      <pubDate>Tue, 19 May 2026 22:31:03 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/</guid>
+      <description>It's a win for privacy on the social app.</description>
+    </item>
+    <item>
+      <title>All the Gemini announcements from Google I/O 2026</title>
+      <link>https://mashable.com/tech/all-the-gemini-announcements-google-io-2026</link>
+      <pubDate>Tue, 19 May 2026 22:21:37 +0000</pubDate>
+      <guid isPermaLink="false">006sJZRbiFen6dZKJb7nl07</guid>
+      <description>Google had a slew of Gemini announcements to share at I/O 2026. Here are the big ones.</description>
+    </item>
+    <item>
+      <title>California&#8217;s Wildfire Season Is Already Overactive</title>
+      <link>https://www.wired.com/story/californias-wildfire-season-already-overactive/</link>
+      <pubDate>Tue, 19 May 2026 22:20:37 +0000</pubDate>
+      <guid isPermaLink="false">6a0ccfb91c00f5d3c73ed9c8</guid>
+      <description>Major fires are threatening homes and ecologically sensitive areas following a hot, dry winter.</description>
+    </item>
+    <item>
+      <title>Demis Hassabis said this might be the &#8216;foothills of the singularity.&#8217; What?</title>
       <link>https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis</link>
       <pubDate>2026-05-19T18:16:02-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=934260</guid>
       <description>Welcome to a "profound moment for humanity," according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that [&#8230;]...</description>
-    </item>
-    <item>
-      <title>We react to Google I/O 2026</title>
-      <link>https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026</link>
-      <pubDate>2026-05-19T17:48:26-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=934202</guid>
-      <description>What better way to unwind from a two-hour-long keynote presentation than to pour over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with Senior AI Reporter Hayden Field joining me to discuss the highlights. [&#8230;]</description>
-    </item>
-    <item>
-      <title>Firefox AI guardrails arrive for mobile</title>
-      <link>https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/</link>
-      <pubDate>Tue, 19 May 2026 21:45:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/</guid>
-      <description>The feature lets you turn all AI enhancements off with one tap.</description>
-    </item>
-    <item>
-      <title>'I&#8217;m going to make it my job to make sure that man never gets elected again for any office': Pennsylvania residents slam Governor Josh Shapiro as they hit back over being 'bulldozed' on AI data center concerns</title>
-      <link>https://www.techradar.com/pro/im-going-to-make-it-my-job-to-make-sure-that-man-never-gets-elected-again-for-any-office-pennsylvania-residents-slam-governor-josh-shapiro-as-they-hit-back-over-being-bulldozed-on-ai-data-center-concerns</link>
-      <pubDate>Tue, 19 May 2026 21:35:00 +0000</pubDate>
-      <guid isPermaLink="false">C9JShQLgAjVaTjtEcnkxbG</guid>
-      <description>Pennsylvania residents fiercely opposed expanding data center developments, accusing Governor Shapiro of prioritizing corporate growth over community well-being.</description>
-    </item>
-    <item>
-      <title>Google just declared itself a contender in AI design at IO 2026</title>
-      <link>https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/</link>
-      <pubDate>Tue, 19 May 2026 21:33:30 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123458</guid>
-      <description>Google says it's designed the app to be accessible to everyone, from teachers to small business owners.</description>
-    </item>
-    <item>
-      <title>You can now talk to your Gmail inbox, as seen at Google IO 2026</title>
-      <link>https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/</link>
-      <pubDate>Tue, 19 May 2026 21:25:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123167</guid>
-      <description>Google expands Gmail&#8217;s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.</description>
-    </item>
-    <item>
-      <title>The future of Google is a search box that does everything</title>
-      <link>https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026</link>
-      <pubDate>2026-05-19T17:24:14-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=934217</guid>
-      <description>Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Google [&#8230;]</description>
-    </item>
-    <item>
-      <title>How to use Google&#8217;s new AI agents to go beyond your standard searches</title>
-      <link>https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/</link>
-      <pubDate>Tue, 19 May 2026 21:16:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3123772</guid>
-      <description>Google is launching AI-powered &#8220;information agents&#8221; that can monitor topics in the background and proactively alert users to updates and changes.</description>
-    </item>
-    <item>
-      <title>Expedia is preparing for a future beyond travel websites</title>
-      <link>https://www.fastcompany.com/91544117/expedia-is-preparing-for-a-future-beyond-travel-websites</link>
-      <pubDate>2026-05-19T21:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91544117/expedia-is-preparing-for-a-future-beyond-travel-websites</guid>
-      <description>AI is changing how people discover and book trips. Expedia thinks the winners may be the companies powering the systems underneath.
-The internet has repeatedly changed how people travel. First came the browser, then smartphones. Each shift promised to flatten the industry further, cutting friction, shrinking the role of middlemen, and pushing more of the experience into software. But AI introduces a different possibility entirely: What happens when people stop visiting travel websites at all?...</description>
-    </item>
-    <item>
-      <title>Discord enables end-to-end encrypted voice and video calling for every user</title>
-      <link>https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/</link>
-      <pubDate>Tue, 19 May 2026 21:14:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3124293</guid>
-      <description>Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.</description>
-    </item>
-    <item>
-      <title>Mach Industries just spent $50M to solve a major defense tech problem</title>
-      <link>https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/</link>
-      <pubDate>Tue, 19 May 2026 21:09:56 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3124254</guid>
-      <description>Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.</description>
-    </item>
-    <item>
-      <title>From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing</title>
-      <link>https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/</link>
-      <pubDate>Tue, 19 May 2026 21:08:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3124280</guid>
-      <description>Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.</description>
-    </item>
-    <item>
-      <title>AI slop farms are churning out anti-AI data center memes on Facebook</title>
-      <link>https://www.fastcompany.com/91544842/ai-slop-facebook-content-pages-anti-data-center-memes</link>
-      <pubDate>2026-05-19T21:05:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91544842/ai-slop-facebook-content-pages-anti-data-center-memes</guid>
-      <description>The worst types of engagement seekers have discovered how much the world hates data centers, and of course they&#8217;re using AI to stoke the flames.
-Like much of Facebook nowadays, the &#8220;California Life&#8221; Facebook page is full of AI slop. There are generated images of highway patrol officers holding up a groundhog and lengthy road signs detailing California quirks....</description>
-    </item>
-    <item>
-      <title>Nintendo&#8217;s $500 Switch 2 bundle includes a game, and it&amp;#8217;s available now</title>
-      <link>https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal</link>
-      <pubDate>2026-05-19T17:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=933792</guid>
-      <description>Nintendo recently teased the &#8220;Choose Your Game&#8221; Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499.99 bundle. The list currently includes GameStop, Amazon, Best Buy, and the Nintendo Store. It&#8217;s a deal worth hopping on ahead of the holiday season, since Nintendo [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Google&#8217;s AI future demands trust &#8212; and your personal data</title>
-      <link>https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data</link>
-      <pubDate>2026-05-19T17:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=934172</guid>
-      <description>Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown [&#8230;]</description>
-    </item>
-    <item>
-      <title>Loads of TCL Google TVs are getting a great free upgrade that adds Dolby Vision Filmmaker Mode for super-accurate movie viewing &#8212; and a few other nice changes are on board too</title>
-      <link>https://www.techradar.com/televisions/loads-of-tcl-google-tvs-are-getting-a-great-free-upgrade-that-adds-dolby-vision-filmmaker-mode-for-super-accurate-movie-viewing-and-a-few-other-nice-changes-are-on-board-too</link>
-      <pubDate>Tue, 19 May 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">BAuQcji9TgXFJdaep6EYje</guid>
-      <description>TCL is rolling out a firmware update to many TVs from 2023 onwards to deliver Dolby Vision Filmmaker Mode, upgraded FlexConnect and a fix for audio in Disney+</description>
-    </item>
-    <item>
-      <title>'This new search box does not mean that you'll only get AI responses': Google's Search makeover incorporates yet more AI, but Google promises to leave room for classic results</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/this-new-search-box-does-not-mean-that-youll-only-get-ai-responses-googles-search-makeover-incorporates-yet-more-ai-but-google-promises-to-leave-room-for-classic-results</link>
-      <pubDate>Tue, 19 May 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">gGMqhZT7eEq9gPUj2UTY23</guid>
-      <description>Google's Search makeover incorporates yet more AI, but Google promises to leave room for classic results.</description>
-    </item>
-    <item>
-      <title>Exclusive: Amazon and Walmart workers are concerned that AI is making HR decisions</title>
-      <link>https://www.fastcompany.com/91541015/exclusive-amazon-and-walmart-workers-are-concerned-that-ai-is-making-hr-decisions</link>
-      <pubDate>2026-05-19T21:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91541015/exclusive-amazon-and-walmart-workers-are-concerned-that-ai-is-making-hr-decisions</guid>
-      <description>A survey of retail and warehouse staff at the two largest private employers reveals workers are worried about more than just job displacement.
-In February, April Watson hit her head while stowing products at an Amazon warehouse outside of Atlanta, Georgia. The injury gave her a concussion, and she was told by a neurologist that she would have to go on restricted duty and work at a slower pace than was typically expected of her.&#160;...</description>
-    </item>
-    <item>
-      <title>The Apple Sports app expands to 90 new markets ahead of the World Cup</title>
-      <link>https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/</link>
-      <pubDate>Tue, 19 May 2026 20:44:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/</guid>
-      <description>Apple is targeting World Cup fans ahead of this summer's tournament.</description>
-    </item>
-    <item>
-      <title>Here are our favorite Memorial Day deals (so far)</title>
-      <link>https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026</link>
-      <pubDate>2026-05-19T16:25:09-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=932465</guid>
-      <description>Memorial Day marks the unofficial start of summer, and the holiday&#8217;s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now&#8217;s a great time to pick up a portable Bluetooth speaker, as many of our favorite [&#8230;]</description>
     </item>
   </channel>
 </rss>
