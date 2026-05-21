@@ -3,411 +3,194 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 21 May 2026 16:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:59:59 GMT</lastBuildDate>
     <item>
-      <title>The cost of the smart home is going up</title>
-      <link>https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue</link>
-      <pubDate>2026-05-21T12:15:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935298</guid>
-      <description>Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people's homes. Google has also reportedly struggled to turn a profit from its substantial investment in Nest. But now Google is seeing dollar signs in the prospect of selling AI-driven subscriptions [&#8230;]</description>
+      <title>One of Meta&#8217;s big legal reckonings just ended in a settlement</title>
+      <link>https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement</link>
+      <pubDate>2026-05-21T14:54:22-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=935552</guid>
+      <description>After back-to-back losses in trials grappling with its impact on teens' mental health, Meta just settled what was supposed to be its next legal battle with Kentucky's Breathitt County School District. Google's YouTube, Snap, and TikTok all recently settled similar claims brought by the school district, which was seeking payment from the companies to cover [&#8230;]...</description>
     </item>
     <item>
-      <title>Apple will broadcast a Major League Soccer game captured entirely with iPhones</title>
-      <link>https://www.engadget.com/2178621/apple-will-broadcast-a-major-league-soccer-game-captured-entirely-with-iphones/</link>
-      <pubDate>Thu, 21 May 2026 16:10:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2178621/apple-will-broadcast-a-major-league-soccer-game-captured-entirely-with-iphones/</guid>
-      <description>Apple says the May 23 Los Angeles Galaxy vs. Houston Dynamo match is the first major live pro sports event to be shot only on iPhones.</description>
-    </item>
-    <item>
-      <title>I've found the 12 best early Memorial Day Apple deals to buy right now &#8212; AirPods, iPads, MacBooks, and more from $99</title>
-      <link>https://www.techradar.com/tech/ive-found-the-12-best-early-memorial-day-apple-deals-to-buy-right-now-airpods-ipads-macbooks-and-more-from-usd99</link>
-      <pubDate>Thu, 21 May 2026 16:09:48 +0000</pubDate>
-      <guid isPermaLink="false">LTDEDfcwhKnTW9UAyqfED5</guid>
-      <description>Memorial Day Apple deals are live, and I've found the 12 best early deals that I'd buy, including AirPods, iPads, MacBooks, smartwatches, and more.</description>
-    </item>
-    <item>
-      <title>Microsoft lance sa premi&#232;re distribution Linux pour ses serveurs cloud</title>
-      <link>https://www.frandroid.com/marques/microsoft/3108239_microsoft-lance-sa-premiere-distribution-linux-pour-ses-serveurs-cloud</link>
-      <pubDate>Thu, 21 May 2026 16:05:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3108239_microsoft-lance-sa-premiere-distribution-linux-pour-ses-serveurs-cloud</guid>
+      <title>Prix des carburants : jusqu&#8217;&#224; 5 500 &#8364; d&#8217;aide pour passer &#224; l&#8217;&#233;lectrique d&#232;s le 1er octobre pour les taxi</title>
+      <link>https://www.frandroid.com/survoltes/3108769_taxis-jusqua-5-500-e-daide-pour-passer-a-lelectrique-des-le-1er-octobre</link>
+      <pubDate>Thu, 21 May 2026 18:44:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3108769_taxis-jusqua-5-500-e-daide-pour-passer-a-lelectrique-des-le-1er-octobre</guid>
       <description>
-Microsoft vient de d&#233;voiler sa premi&#232;re distribution Linux disponible pour les clients de son service de cloud, Azure. Une initiative finalement pas si surprenante si on se r&#233;f&#232;re &#224; son histoire r&#233;cente.
+Le gouvernement d&#233;roule une aide jusqu'&#224; 5&#160;500&#160;euros pour les taxis qui basculent &#224; l'&#233;lectrique, &#224; partir du 1er&#160;octobre. &#192; condition de choisir un mod&#232;le assembl&#233; en Europe.
 </description>
     </item>
     <item>
-      <title>Nvidia tells users to update GPU drivers now or face possible attack &#8212; here's what we know</title>
-      <link>https://www.techradar.com/pro/security/nvidia-tells-users-to-update-gpu-drivers-now-or-face-possible-attack-heres-what-we-know</link>
-      <pubDate>Thu, 21 May 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">b59iMAp6c5KtHrT5a6QAaC</guid>
-      <description>More than a dozen Nvidia GPU flaws were fixed, including several high-severity ones.</description>
+      <title>Dell launches record-shattering server with 9.8PB of flash storage in just 2U &#8212; paving the way for massive $75 million 200PB+ AI data center racks</title>
+      <link>https://www.techradar.com/pro/dell-launches-record-shattering-server-with-9-8pb-of-flash-storage-in-just-2u-paving-the-way-for-massive-usd75-million-200pb-ai-data-center-racks</link>
+      <pubDate>Thu, 21 May 2026 18:40:00 +0000</pubDate>
+      <guid isPermaLink="false">ZaibtRqNj3MUhk2YsWug2S</guid>
+      <description>Dell and KIOXIA unveiled a 9.8PB flash server targeting hyperscale AI workloads with extreme density and lower power consumption.</description>
     </item>
     <item>
-      <title>Meta and Google get data from the app your boss uses to track you</title>
-      <link>https://www.theverge.com/policy/935299/bossware-employer-surveillance</link>
-      <pubDate>2026-05-21T12:03:05-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935299</guid>
-      <description>Hundreds of thousands of workplaces use software to monitor employees. Now, a new study has found that many of these tools share data not just with employers, but with digital advertising platforms and data brokers as well. The review was led by Stephanie Nguyen, senior fellow at Columbia Law School's Center for Law and the [&#8230;]</description>
+      <title>Meta settles closely watched school district lawsuit weeks ahead of trial</title>
+      <link>https://www.engadget.com/2178841/meta-settles-closely-watched-school-district-lawsuit-weeks-ahead-of-trial/</link>
+      <pubDate>Thu, 21 May 2026 18:38:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2178841/meta-settles-closely-watched-school-district-lawsuit-weeks-ahead-of-trial/</guid>
+      <description>Meta settled a highly-watched school district lawsuit, but still faces many more.</description>
     </item>
     <item>
-      <title>Xbox Game Pass : EA serait-il &#224; l&#8217;origine de l&#8217;annulation de l&#8217;abonnement famille ?</title>
-      <link>https://www.frandroid.com/marques/microsoft/3108464_xbox-game-pass-ea-serait-il-a-lorigine-de-lannulation-de-labonnement-famille</link>
-      <pubDate>Thu, 21 May 2026 16:00:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3108464_xbox-game-pass-ea-serait-il-a-lorigine-de-lannulation-de-labonnement-famille</guid>
+      <title>The smart ring maker Oura has reportedly filed for an IPO</title>
+      <link>https://www.engadget.com/2178835/the-smart-ring-maker-oura-has-reportedly-filed-for-an-ipo/</link>
+      <pubDate>Thu, 21 May 2026 18:26:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2178835/the-smart-ring-maker-oura-has-reportedly-filed-for-an-ipo/</guid>
+      <description>Oura has reportedly filed for an IPO.</description>
+    </item>
+    <item>
+      <title>Mustard Made Storage Lockers Are on a Rare Sale Through May 31</title>
+      <link>https://www.wired.com/story/mustard-made-sale/</link>
+      <pubDate>Thu, 21 May 2026 18:22:40 +0000</pubDate>
+      <guid isPermaLink="false">6a0f24c3e67e70a66cca21f3</guid>
+      <description>We love this brand&#8217;s stylish storage lockers, and there's a big sale on eight colors through the end of the month.</description>
+    </item>
+    <item>
+      <title>What is the release date for Marshals: A Yellowstone Story episode 13 on CBS and Paramount+?</title>
+      <link>https://www.techradar.com/streaming/paramount-plus/marshals-a-yellowstone-story-episode-13-release-date-time-cbs</link>
+      <pubDate>Thu, 21 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">zDsN8L37bjmdyMtQgswb6W</guid>
+      <description>Is the Broken Rock Reservation actually going to get a break? And when does Marshals: A Yellowstone Story episode 13 hit CBS and Paramount+?</description>
+    </item>
+    <item>
+      <title>Every single iPad is on sale for Memorial Day &#8212; here&#8217;s which models I&#8217;d recommend (and which I&#8217;d avoid) as an Apple expert</title>
+      <link>https://www.techradar.com/seasonal-sales/every-single-ipad-is-on-sale-for-memorial-day-heres-which-models-id-recommend-and-which-id-avoid-as-an-apple-expert</link>
+      <pubDate>Thu, 21 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">oexhTqDTnza5QpErgA8saC</guid>
+      <description>Amazon has discounted every single one of Apple's iPads for Memorial Day &#8212; here&#8217;s how to choose the right model for you.</description>
+    </item>
+    <item>
+      <title>Long-term mortgage rate hits 6.51%, reaching its highest level in nearly 9 months</title>
+      <link>https://www.fastcompany.com/91546510/mortgages-housing-interest-rates-real-estate</link>
+      <pubDate>2026-05-21T18:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91546510/mortgages-housing-interest-rates-real-estate</guid>
+      <description>Rates have been mostly trending higher since&#160;the war with Iran&#160;began. 
+The average long-term U.S. mortgage rate climbed this week to its highest level in nearly nine months, driving up borrowing costs for homebuyers during what&#8217;s traditionally the housing market&#8217;s busiest time of the year.</description>
+    </item>
+    <item>
+      <title>Bungie gives up on Destiny</title>
+      <link>https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date</link>
+      <pubDate>2026-05-21T13:48:34-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=935536</guid>
+      <description>Bungie is moving on from Destiny 2. The studio announced Thursday that it's releasing the last major update for the game on June 9th as its focus "turns towards a new beginning for Bungie." After that final update, the game will remain playable, much like the first Destiny. "Many changes in this final update will [&#8230;]</description>
+    </item>
+    <item>
+      <title>Android users beware &#8212; this huge fraud scam campaign hit millions of victims around the world, make sure you're not next</title>
+      <link>https://www.techradar.com/pro/security/android-users-beware-this-huge-fraud-scam-campaign-hit-millions-of-victims-around-the-world-make-sure-youre-not-next</link>
+      <pubDate>Thu, 21 May 2026 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false">mnpUbb6hzWreeojtSE2wG7</guid>
+      <description>Researchers found hundreds of malicious Android apps on the Play Store, generating profits through fake ads.</description>
+    </item>
+    <item>
+      <title>Was Trump&#8217;s million-dollar investment in conveyor-belt sushi an accident? Here&#8217;s why social media thinks yes</title>
+      <link>https://www.fastcompany.com/91546291/trump-kura-sushi-conveyor-belt-investment-why-social-media-thinks-it-was-an-accident-four-seasons-total-landscaping</link>
+      <pubDate>2026-05-21T17:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91546291/trump-kura-sushi-conveyor-belt-investment-why-social-media-thinks-it-was-an-accident-four-seasons-total-landscaping</guid>
+      <description>If Trump confused Kura Sushi with tech company Fujikura, it would mark the second time the president seemingly mixed up businesses with disastrous results.
+President Donald Trump is apparently a secret sushi enthusiast, if a million-dollar investment he made earlier this year is anything to go by.</description>
+    </item>
+    <item>
+      <title>Palantir Held a Hack Week to Add New Controls to Software Used by ICE</title>
+      <link>https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/</link>
+      <pubDate>Thu, 21 May 2026 17:44:42 +0000</pubDate>
+      <guid isPermaLink="false">6a074d639d448ecddd4b4e00</guid>
+      <description>The hackathon, held to build user-auditing tools for Palantir customers, comes as the company struggles to address employee concerns over its relationship with ICE.</description>
+    </item>
+    <item>
+      <title>Convective Capital raises an $85 million fund to build disaster resilience</title>
+      <link>https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/</link>
+      <pubDate>Thu, 21 May 2026 17:41:20 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3125079</guid>
+      <description>After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.</description>
+    </item>
+    <item>
+      <title>Spotify is adding more AI gunk for podcasts and audiobooks</title>
+      <link>https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/</link>
+      <pubDate>Thu, 21 May 2026 17:35:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/</guid>
+      <description>Spotify podcasts are getting the personalized AI slop treatment.</description>
+    </item>
+    <item>
+      <title>Trump delays AI security executive order: &#8216;I don&#8217;t want to get in the way of that leading&#8217;</title>
+      <link>https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/</link>
+      <pubDate>Thu, 21 May 2026 17:30:45 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3125179</guid>
+      <description>President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.</description>
+    </item>
+    <item>
+      <title>Lenovo Legion 5 OLED, TV Samsung Micro RGB et forfait RED by SFR : les meilleurs bons plans du jeudi 21 mai 2026</title>
+      <link>https://www.frandroid.com/bons-plans/3108211_lenovo-legion-5-oled-tv-samsung-micro-rgb-et-forfait-red-by-sfr-les-meilleurs-bons-plans-du-jeudi-21-mai-2026</link>
+      <pubDate>Thu, 21 May 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3108211_lenovo-legion-5-oled-tv-samsung-micro-rgb-et-forfait-red-by-sfr-les-meilleurs-bons-plans-du-jeudi-21-mai-2026</guid>
       <description>
-Alors qu'elle &#233;tait envisag&#233;e il y a quelques ann&#233;es, Microsoft a mis en pause ind&#233;finiment le d&#233;veloppement d'une formule famille pour son service d'abonnement Game Pass. Si on en croit la rumeur, l'&#233;diteur EA aurait jou&#233; un grand r&#244;le dans cette annulation.
+En ce jeudi 21 mai 2026, plusieurs bons plans tech m&#233;ritent votre attention. Voici les 3 offres incontournables &#224; ne pas rater aujourd'hui ! 
 </description>
     </item>
     <item>
-      <title>GitHub faces a fight for its survival at Microsoft</title>
-      <link>https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad</link>
-      <pubDate>2026-05-21T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935250</guid>
-      <description>When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach. Nearly eight years later, GitHub is now fighting for its survival, amid a surge of outages, security issues, and pressure from competitors. In the [&#8230;]...</description>
+      <title>Waymos in Atlanta and San Antonio keep driving into flooded roads</title>
+      <link>https://www.engadget.com/2178779/waymos-in-atlanta-and-san-antonio-keep-driving-into-flooded-roads/</link>
+      <pubDate>Thu, 21 May 2026 17:28:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2178779/waymos-in-atlanta-and-san-antonio-keep-driving-into-flooded-roads/</guid>
+      <description>Extreme weather continues to pose problems for autonomous vehicles.</description>
     </item>
     <item>
-      <title>This young startup is taking on a fragrance industry that hasn&#8217;t changed in a almost half century</title>
-      <link>https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3124806</guid>
-      <description>Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.</description>
+      <title>Sonos&#8217;s pint-sized Roam 2 speaker is 25 percent off for Memorial Day</title>
+      <link>https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale</link>
+      <pubDate>2026-05-21T13:27:16-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=935452</guid>
+      <description>If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for those moments, and right now, it&#8217;s on sale at Amazon, Best Buy, and Walmart for $134 ($45 off) for [&#8230;]</description>
     </item>
     <item>
-      <title>Assassin's Creed Black Flag Resynced creative director says the modernized combat system has been upgraded to make varied tools flow better &#8212; 'We were inspired by early fan-made combo videos from the original'</title>
-      <link>https://www.techradar.com/gaming/assassins-creed-black-flag-resynced-creative-director-says-the-modernized-combat-system-has-been-upgraded-to-make-varied-tools-flow-better-we-were-inspired-by-early-fan-made-combo-videos-from-the-original</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Nep4j53ZJASV86waWa9yM5</guid>
-      <description>Ubisoft was inspired by old fan-made Assassin's Creed Black Flag gameplay videos when it came to developing the modernized fighting system for Black Flag Resynced.</description>
+      <title>Trump repousse la signature d&#8217;un d&#233;cret majeur sur l&#8217;IA</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-05-21/trump-repousse-la-signature-d-un-decret-majeur-sur-l-ia.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Thu, 21 May 2026 13:24:14 -0400</pubDate>
+      <guid isPermaLink="false">5d35a8b4fd7436a98f01e183f48d2911</guid>
+      <description>Donald Trump a annonc&#233; jeudi qu&#8217;il repoussait au dernier moment la signature pr&#233;vue le jour m&#234;me d&#8217;un d&#233;cret tr&#232;s attendu sur la r&#233;gulation de l&#8217;intelligence artificielle et des risques cybers&#233;curitaires aux &#201;tats-Unis, expliquant que le texte risquait d&#8217;&#234;tre un frein dans la comp&#233;tition avec la Chine.</description>
     </item>
     <item>
-      <title>Assassin's Creed Black Flag Resynced creative director says the team 'expanded' Edward Kenway's story and the theme of 'greed' in new content &#8212; 'I won't spoil too much of it for you, but we thought that that was a strong juxtaposition to who he is'</title>
-      <link>https://www.techradar.com/gaming/assassins-creed-black-flag-resynced-creative-director-says-the-team-expanded-edward-kenways-story-and-the-theme-of-greed-in-new-content-i-wont-spoil-too-much-of-it-for-you-but-we-thought-that-that-was-a-strong-juxtaposition-to-who-he-is</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">H92CFJSFcc9yHm3sg38HU</guid>
-      <description>Assassin's Creed Black Flag Resynced creative director Paul Fu has confirmed that Ubisoft didn't alter Edward Kenway's original story in the upcoming remake, but did expand on the character with additional content.</description>
+      <title>Zendesk expands AI agents across ChatGPT, Gemini, voice and messaging</title>
+      <link>https://www.techradar.com/pro/zendesk-expands-ai-agents-across-chatgpt-gemini-voice-and-messaging</link>
+      <pubDate>Thu, 21 May 2026 17:15:00 +0000</pubDate>
+      <guid isPermaLink="false">ef3YDj4vRNzgT6qgtDPhWE</guid>
+      <description>Zendesk is shifting customer service to platform-agnostic AI agents, ensuring customers receive consistent, contextualized support across third-party apps like Gemini.</description>
     </item>
     <item>
-      <title>Assassin&#8217;s Creed Black Flag Resynced perfectly captures the spirit of the original, but benefits from some much-needed upgrades</title>
-      <link>https://www.techradar.com/gaming/assassins-creed-black-flag-resynced-hands-on-preview</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">L5ZoBrfEYDz3ojmGrwJ9L3</guid>
-      <description>After three hours of sailing the high seas, firing cannons, stealthing through plantations, and giving it to baddies, Assassin&#8217;s Creed Black Flag Resynced is on course to be a brilliantly done remake.</description>
+      <title>Spotify will start reserving concert tickets for an artist's most dedicated fans</title>
+      <link>https://www.engadget.com/2178747/spotify-will-start-reserving-concert-tickets-for-an-artists-most-dedicated-fans/</link>
+      <pubDate>Thu, 21 May 2026 17:05:43 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2178747/spotify-will-start-reserving-concert-tickets-for-an-artists-most-dedicated-fans/</guid>
+      <description>Premium Spotify users in the US might start getting a shot at reserved concert tickets.</description>
     </item>
     <item>
-      <title>'I got chills': Dolby Atmos brought Audible books and Rocket Man to life in a way that whisked me to another time and place</title>
-      <link>https://www.techradar.com/audio/i-got-chills-dolby-atmos-brought-audible-books-and-rocket-man-to-life-in-a-way-that-whisked-me-to-another-time-and-place</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">PrAPZcXpFELxS4PHgUwHj6</guid>
-      <description>Audible set up a downtown Manhattan space to celebrate its partnership with Dolby Atmos and all the books (and some of the music) the technology had helped them bring to life &#8212; and you can go listen, if you have an Audible account.</description>
+      <title>Warhammer 40,000: Dawn of War 4 finally gets a release date, as well as confirmation of year one content, and fans who preorder the Commander Edition can play 3 days early</title>
+      <link>https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-finally-gets-a-release-date-as-well-as-confirmation-of-year-one-content-and-fans-who-preorder-the-commander-edition-can-play-3-days-early</link>
+      <pubDate>Thu, 21 May 2026 17:05:00 +0000</pubDate>
+      <guid isPermaLink="false">YDxRu5wUjYpgGxLpKsKHvh</guid>
+      <description>Deep Silver and King Art Games have revealed that Warhammer 40,000: Dawn of War 4 will finally launch on September 17 for PC.</description>
     </item>
     <item>
-      <title>Assassin's Creed Black Flag Resynced creative director reveals there is 'probably almost nothing' left of the original code in the remake &#8212; 'Almost everything had to be rebuilt'</title>
-      <link>https://www.techradar.com/gaming/assassins-creed-black-flag-resynced-creative-director-reveals-there-is-probably-almost-nothing-left-of-the-original-code-in-the-remake-almost-everything-had-to-be-rebuilt</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">WQwuurrpcu3Wan29co8ybE</guid>
-      <description>Assassin's Creed Black Flag Resynced creative director Paul Fu has revealed that the remake of the 2013 game is built from the ground up and features very little of the original code.</description>
+      <title>The Endless AI guitar pedal has potential</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal</link>
+      <pubDate>2026-05-21T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=935219</guid>
+      <description>I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect [&#8230;]</description>
     </item>
     <item>
-      <title>Google won't rest until Gemini is everywhere in your home</title>
-      <link>https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/</link>
-      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/</guid>
-      <description>The company is making it easier for manufacturers to make more Gemini-powered smart devices.</description>
+      <title>Secretlab expands its Warhammer 40,000 collection with the new Titan Evo and skins Dark Angels Editions ahead of the launch of Dawn of War 4</title>
+      <link>https://www.techradar.com/gaming/secretlab-expands-its-warhammer-40-000-collection-with-the-new-titan-evo-and-skins-dark-angels-editions-ahead-of-the-launch-of-dawn-of-war-4</link>
+      <pubDate>Thu, 21 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">MpMedpmaUVomh7nfGVKoAG</guid>
+      <description>Secretlab has announced a new Titan Evo gaming chair and skin for its growing Warhammer 40,000 collection.</description>
     </item>
     <item>
-      <title>Summer is fast approaching, gamers &#8212; that means those leather chairs won't cut it, and it's exactly why I recommend this mesh office chair</title>
-      <link>https://www.techradar.com/seasonal-sales/summer-is-fast-approaching-gamers-that-means-those-leather-chairs-wont-cut-it-and-its-exactly-why-i-recommend-this-mesh-office-chair</link>
-      <pubDate>Thu, 21 May 2026 15:59:41 +0000</pubDate>
-      <guid isPermaLink="false">7At8tdLTMuxPJvFaoa9fUB</guid>
-      <description>Gaming during the summer heat in a leather chair can be a nightmare, which is why it's best to invest in an ergonomic mesh office chair as soon as possible.</description>
-    </item>
-    <item>
-      <title>Canva compl&#232;te son tour des IA&#160;: apr&#232;s Claude et ChatGPT, c&#8217;est Gemini qui fait son entr&#233;e</title>
-      <link>https://www.01net.com/actualites/canva-complete-son-tour-des-ia-apres-claude-et-chatgpt-cest-gemini-qui-fait-son-entree.html</link>
-      <pubDate>Thu, 21 May 2026 15:58:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348793</guid>
-      <description>Quatre assistants IA majeurs, quatre int&#233;grations Canva en cinq mois. &#192; ce rythme, la plateforme australienne sera bient&#244;t int&#233;gr&#233;e &#224; votre frigo.</description>
-    </item>
-    <item>
-      <title>Why the 2026 Hurricane Season Might Not Be That Bad</title>
-      <link>https://www.wired.com/story/why-the-2026-hurricane-season-might-not-be-that-bad/</link>
-      <pubDate>Thu, 21 May 2026 15:58:27 +0000</pubDate>
-      <guid isPermaLink="false">69fb8d8f83ccc6a6badf4887</guid>
-      <description>The impending arrival of El Ni&#241;o will help keep the number of storms low. But it only takes one landfall to create a catastrophe.</description>
-    </item>
-    <item>
-      <title>Spotify is launching AI-generated remixes</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix</link>
-      <pubDate>2026-05-21T11:54:03-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935379</guid>
-      <description>Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties [&#8230;]</description>
-    </item>
-    <item>
-      <title>Quels sont les meilleurs objectifs photos pour smartphone en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/1370769_quels-sont-les-meilleurs-objectifs-photos-pour-smartphone</link>
-      <pubDate>Thu, 21 May 2026 15:49:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1370769_quels-sont-les-meilleurs-objectifs-photos-pour-smartphone</guid>
-      <description>
-La photographie sur t&#233;l&#233;phone a certes beaucoup &#233;volu&#233;, mais reste toujours perfectible. Notre s&#233;lection d'objectifs pour smartphones vous permettra de ne jamais &#234;tre pris au d&#233;pourvu.
-</description>
-    </item>
-    <item>
-      <title>I Cloned Myself With Gemini&#8217;s AI Avatar Tool. The Result Was Unnervingly Me</title>
-      <link>https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/</link>
-      <pubDate>Thu, 21 May 2026 15:48:24 +0000</pubDate>
-      <guid isPermaLink="false">6a0e20f31d75b5cc783ec67f</guid>
-      <description>I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I&#8217;m still creeped out.</description>
-    </item>
-    <item>
-      <title>Spotify is going to reserve concert tickets for &#8216;real fans&#8217;</title>
-      <link>https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales</link>
-      <pubDate>2026-05-21T11:47:43-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935394</guid>
-      <description>As part of a new "Reserved" program, Spotify is going to start offering concert tickets for "real fans" of participating bands that are going on tour. The idea with the Reserved program is to give people an option to buy tickets without the hassle and stress that often comes with securing a spot for a [&#8230;]</description>
-    </item>
-    <item>
-      <title>Spotify Studio&amp;#8217;s AI agent creates a daily podcast just for you</title>
-      <link>https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts</link>
-      <pubDate>2026-05-21T11:47:29-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935390</guid>
-      <description>Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can [&#8230;]</description>
-    </item>
-    <item>
-      <title>Spotify will now reserve concert tickets for artists' biggest fans &#8212; the service is standing against Ticketmaster battles and scalpers by launching its own ticket priority system so you can automatically benefit if you really love a musician</title>
-      <link>https://www.techradar.com/audio/spotify/spotify-will-now-reserve-concert-tickets-for-artists-biggest-fans</link>
-      <pubDate>Thu, 21 May 2026 15:45:00 +0000</pubDate>
-      <guid isPermaLink="false">2nZimEwuGrvj2vCxvzFcLC</guid>
-      <description>Spotify wants to take down ticket scalpers, and it's launching a new system that gives top fans the chance to score first-priority tickets.</description>
-    </item>
-    <item>
-      <title>Voici toutes les Peugeot &#224; venir : de l&#8217;&#233;lectrique, de l&#8217;hybride, et une belle surprise venue de Chine</title>
-      <link>https://www.frandroid.com/marques/peugeot/3108259_voici-toutes-les-peugeot-a-venir-de-lelectrique-de-lhybride-et-une-belle-surprise-venue-de-chine</link>
-      <pubDate>Thu, 21 May 2026 15:39:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/peugeot/3108259_voici-toutes-les-peugeot-a-venir-de-lelectrique-de-lhybride-et-une-belle-surprise-venue-de-chine</guid>
-      <description>
-Peugeot vient de pr&#233;senter sa future gamme de 2030. Plusieurs voitures &#233;lectriques sont pr&#233;vues, et il y a une surprise : une grande berline sur base chinoise Dongfeng, qui a toutes les chances d'arriver en Europe.
-</description>
-    </item>
-    <item>
-      <title>It's official: Warhorse Studios is officially working on a new open-world Lord of the Rings RPG alongside 'a new Kingdom Come adventure'</title>
-      <link>https://www.techradar.com/gaming/its-official-warhorse-studios-is-officially-working-on-a-new-open-world-lord-of-the-rings-rpg-alongside-a-new-kingdom-come-adventure</link>
-      <pubDate>Thu, 21 May 2026 15:38:18 +0000</pubDate>
-      <guid isPermaLink="false">KDDd52kS8VEA8dfqpEciGV</guid>
-      <description>Warhorse Studios has announced that its next projects are now in development, and they include a new Kingdom Come title and an open-world Lord of the Rings role-playing game.</description>
-    </item>
-    <item>
-      <title>Netflix's Avatar: The Last Airbender season 2 trailer shows plenty of live-action Toph</title>
-      <link>https://www.engadget.com/2178558/netflix-avatar-the-last-airbender-season-2-trailer-shows-plenty-of-live-action-toph/</link>
-      <pubDate>Thu, 21 May 2026 15:36:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2178558/netflix-avatar-the-last-airbender-season-2-trailer-shows-plenty-of-live-action-toph/</guid>
-      <description>Season two arrives on June 25.</description>
-    </item>
-    <item>
-      <title>Meta's Oversight Board will examine deepfake video of a UK politician Facebook left online</title>
-      <link>https://www.engadget.com/2178551/meta-oversight-board-will-examine-deefake-video-of-a-uk-politician-facebook-left-online/</link>
-      <pubDate>Thu, 21 May 2026 15:31:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2178551/meta-oversight-board-will-examine-deefake-video-of-a-uk-politician-facebook-left-online/</guid>
-      <description>The allegedly AI-generated video depicted the politician making incendiary statements about refugees.</description>
-    </item>
-    <item>
-      <title>AI video is moving beyond clip slop</title>
-      <link>https://www.theverge.com/column/935310/ai-video-luma-hollywood</link>
-      <pubDate>2026-05-21T11:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935310</guid>
-      <description>This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa [&#8230;]</description>
-    </item>
-    <item>
-      <title>Viture&#8217;s refurb Luma Pro smart glasses are more than half off at eBay</title>
-      <link>https://www.theverge.com/gadgets/935236/viture-refurbished-smart-glasses-nintendo-switch-2-camera-deal-sale</link>
-      <pubDate>2026-05-21T11:29:18-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=935236</guid>
-      <description>Price is a big barrier for most people who&#8217;d like to try out smart glasses for gaming, watching movies, or using their computers. Many models are at $400 and up, but you can snag a refurbished pair of Viture&#8217;s Luma Pro USB-C smart glasses for about $271 with the code LONGWEEKEND at eBay. Each set [&#8230;]</description>
-    </item>
-    <item>
-      <title>Spotify's huge new podcast makeover means you can now ask in-depth questions about the episodes you&#8217;re listening to, which sounds great &#8212; but the new 'generated' Personal Podcast feature will be more controversial&#8230;</title>
-      <link>https://www.techradar.com/audio/spotify/spotify-is-giving-its-podcasts-services-another-huge-makeover-and-you-can-now-ask-in-depth-questions-about-the-episodes-youre-listening-to-but-the-new-personal-podcast-feature-wants-to-be-your-new-daily-flash-briefing</link>
-      <pubDate>Thu, 21 May 2026 15:28:21 +0000</pubDate>
-      <guid isPermaLink="false">PHfNraaHLCxVwNGyv5rd9m</guid>
-      <description>More new features are coming to Spotify's podcasts, including a search tool that dives deeper into your favorite episodes and a Personal Podcast generator.</description>
-    </item>
-    <item>
-      <title>Spotify takes on Google&#8217;s NotebookLM with its new app</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/</link>
-      <pubDate>Thu, 21 May 2026 15:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125005</guid>
-      <description>Spotify is releasing the new desktop app as a research preview in more than 20 markets</description>
-    </item>
-    <item>
-      <title>Spotify adds AI-powered Q&amp;A and briefing generation features to podcasts</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/</link>
-      <pubDate>Thu, 21 May 2026 15:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125015</guid>
-      <description>Spotify will let you generate daily or weekly briefs based on your prompts</description>
-    </item>
-    <item>
-      <title>Spotify launches an ElevenLabs-powered audiobook creation tool</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/</link>
-      <pubDate>Thu, 21 May 2026 15:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125044</guid>
-      <description>Spotify is releasing new audiobook plans later this year</description>
-    </item>
-    <item>
-      <title>Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/</link>
-      <pubDate>Thu, 21 May 2026 15:26:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125054</guid>
-      <description>Spotify said that it will monitor activity like streams and shares to determine who is a top fan</description>
-    </item>
-    <item>
-      <title>12 products for keeping cool at work</title>
-      <link>https://www.techradar.com/collection/pro/12-products-for-keeping-cool-at-work</link>
-      <pubDate>Thu, 21 May 2026 15:25:00 +0000</pubDate>
-      <guid isPermaLink="false">DqKvWA4QJneacj6nyK5uNF</guid>
-      <description>My strategy for productive working in 30&#176;C+ heat</description>
-    </item>
-    <item>
-      <title>Aspiration XXL et s&#233;chage &#224; 45 &#176;C : le Roborock Qrevo S Pro nettoie tout &#224; votre place pour 100 &#8364; de moins</title>
-      <link>https://www.frandroid.com/bons-plans/3108059_aspiration-xxl-et-sechage-a-45-c-le-roborock-qrevo-s-pro-nettoie-tout-a-votre-place-pour-100-e-de-moins</link>
-      <pubDate>Thu, 21 May 2026 15:23:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3108059_aspiration-xxl-et-sechage-a-45-c-le-roborock-qrevo-s-pro-nettoie-tout-a-votre-place-pour-100-e-de-moins</guid>
-      <description>
-Le Roborock Qrevo S Pro est un aspirateur laveur auto-nettoyant avec navigation intelligente &#224; retrouver pour 489,99 euros au lieu de 589,99 euros sur Amazon.
-</description>
-    </item>
-    <item>
-      <title>Redmagic 11S Pro+ : 4,4 millions de points sur AnTuTu, un record</title>
-      <link>https://www.frandroid.com/marques/redmagic/3108377_redmagic-11s-pro-44-millions-de-points-sur-antutu-un-record</link>
-      <pubDate>Thu, 21 May 2026 15:18:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/redmagic/3108377_redmagic-11s-pro-44-millions-de-points-sur-antutu-un-record</guid>
-      <description>
-Redmagic vient d'afficher 4&#160;416&#160;758 points sur AnTuTu V11 avec son 11S Pro+, soit le score le plus &#233;lev&#233; jamais publi&#233; sur la plateforme. Sauf qu'on a vu la marque tricher sur un autre benchmark il y a six semaines.
-</description>
-    </item>
-    <item>
-      <title>Voici &#224; quoi ressemblent les futures Fiat &#233;lectriques abordables (Quattrolino, Pandina et Grizzly)</title>
-      <link>https://www.frandroid.com/marques/fiat/3108229_voici-a-quoi-ressemblent-les-futures-fiat-electriques-abordables-quattrolino-pandina-et-grizzly</link>
-      <pubDate>Thu, 21 May 2026 15:17:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/fiat/3108229_voici-a-quoi-ressemblent-les-futures-fiat-electriques-abordables-quattrolino-pandina-et-grizzly</guid>
-      <description>
-Stellantis a officialis&#233; trois nouvelles Fiat &#233;lectriques&#160;: la citadine Quattrolino, la citadine Pandina et le crossover Grizzly. Avec un cap sous les 15 000 &#8364; sur les plus petits formats, et un planning qui s'&#233;tire jusqu'en 2028.
-</description>
-    </item>
-    <item>
-      <title>PlayStation Plus Essential, Extra ou Premium&#160;: quelles sont les diff&#233;rences et quel abonnement choisir en 2026 ?</title>
-      <link>https://www.frandroid.com/marques/sony/1300163_playstation-plus-prix-date-jeux-avantages-tout-savoir-sur-le-service-de-sony</link>
-      <pubDate>Thu, 21 May 2026 15:16:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/1300163_playstation-plus-prix-date-jeux-avantages-tout-savoir-sur-le-service-de-sony</guid>
-      <description>
-Le service de jeu par abonnement de PlayStation a de solides arguments pour convaincre les possesseurs d'une PS5 et m&#234;me d'un PS Portal de franchir le pas. Voici tout ce qu'il faut savoir sur la plateforme de Sony, les diff&#233;rentes formules d'abonnement, leurs avantages et leur prix.
-</description>
-    </item>
-    <item>
-      <title>The Ebola outbreak is &#8216;gaining momentum&#8217; in Congo, warns aid groups</title>
-      <link>https://www.fastcompany.com/91546317/ebola-outbreak-gaining-momentum-congo-warn-aid-groups</link>
-      <pubDate>2026-05-21T15:09:23</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91546317/ebola-outbreak-gaining-momentum-congo-warn-aid-groups</guid>
-      <description>Ahead of the World Cup in North America, Congo&#8217;s soccer team canceled a farewell event for fans in Kinshasa, due of the outbreak.
-Healthcare workers and aid groups in eastern Congo said Thursday they are in dire need of more supplies and staff to respond to a growing Ebola outbreak linked to a rare virus, as armed groups continue to threaten a region already grappling with a displacement and humanitarian crisis.&#8220;The situation is worrying because this is gaining momentum,&#8221; Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, told The Associated Press. &#8220;This is spreading...</description>
-    </item>
-    <item>
-      <title>Le Razer Blade 16 de 2026 a un s&#233;rieux probl&#232;me</title>
-      <link>https://www.frandroid.com/marques/razer/3108361_le-razer-blade-16-de-2026-a-un-serieux-probleme</link>
-      <pubDate>Thu, 21 May 2026 15:08:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/razer/3108361_le-razer-blade-16-de-2026-a-un-serieux-probleme</guid>
-      <description>
-Razer vend son Blade 16 mill&#233;sime 2026 plus cher que celui de 2025. Sauf que sur le banc d'essai de Hardware Canucks, la nouvelle machine est globalement plus lente, plus chaude sous charge CPU et embarque un bug d'autonomie au repos. Le passage d'AMD &#224; Intel Panther Lake laisse un go&#251;t amer.
-</description>
-    </item>
-    <item>
-      <title>Top arcade game maker leaks nearly 19 million user records via WeChat mini app</title>
-      <link>https://www.techradar.com/pro/security/top-arcade-game-maker-leaks-nearly-19-million-user-records-via-wechat-mini-app</link>
-      <pubDate>Thu, 21 May 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">S5JspoKNXHWh2Cx9Xh2VCS</guid>
-      <description>Researchers found a new Elasticsearch instance containing plenty of sensitive data.</description>
-    </item>
-    <item>
-      <title>NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers</title>
-      <link>https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/</link>
-      <pubDate>Thu, 21 May 2026 15:02:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125098</guid>
-      <description>New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.</description>
-    </item>
-    <item>
-      <title>Samsung&#160;: la gr&#232;ve monstre de 48&#160;000 salari&#233;s suspendue in extremis, mais l&#8217;histoire n&#8217;est pas finie</title>
-      <link>https://www.01net.com/actualites/samsung-la-greve-monstre-de-48-000-salaries-suspendue-in-extremis-mais-lhistoire-nest-pas-finie.html</link>
-      <pubDate>Thu, 21 May 2026 15:02:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348809</guid>
-      <description>La gr&#232;ve de 48 000 salari&#233;s Samsung est suspendue apr&#232;s un accord in extremis sur les bonus IA. Mais le vote des membres et une contestation d'actionnaires pourraient tout relancer.</description>
-    </item>
-    <item>
-      <title>Stellantis vise les longs trajets : la conduite mains libres arrive sur autoroute</title>
-      <link>https://www.frandroid.com/marques/3108241_stellantis-vise-les-longs-trajets-la-conduite-mains-libres-arrive-sur-autoroute</link>
-      <pubDate>Thu, 21 May 2026 14:54:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3108241_stellantis-vise-les-longs-trajets-la-conduite-mains-libres-arrive-sur-autoroute</guid>
-      <description>
-Stellantis a sign&#233; le m&#234;me jour deux partenariats centr&#233;s sur la conduite automatis&#233;e, avec Wayve pour l'IA et Qualcomm pour le calcul. Les futures Peugeot, Citro&#235;n, Jeep et Fiat devraient devenir nettement plus reposantes sur les longs trajets autoroutiers. Rendez-vous fix&#233; &#224; 2028.
-</description>
-    </item>
-    <item>
-      <title>Garmin Varia : l&#8217;accessoire ultime pour votre s&#233;curit&#233; &#224; v&#233;lo est &#224; -38 % sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/2504821_garmin-varia-laccessoire-ultime-pour-votre-securite-a-velo-est-a-38-sur-amazon</link>
-      <pubDate>Thu, 21 May 2026 14:46:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2504821_garmin-varia-laccessoire-ultime-pour-votre-securite-a-velo-est-a-38-sur-amazon</guid>
-      <description>
-Pour p&#233;daler l'esprit tranquille sans se ruiner, Amazon fait baisser le prix du Garmin Varia RTL515. Cet accessoire indispensable pour votre s&#233;curit&#233; vous permet de voir et d'&#234;tre vu &#224; v&#233;lo en toutes circonstances. Habituellement propos&#233; &#224; 159 euros, ce radar connect&#233; s'affiche aujourd'hui &#224; seulement 123 euros.
-</description>
-    </item>
-    <item>
-      <title>I could probably generate hundreds of Gemini images before hitting the limit &#8212; but the new AI meter still changed my behavior</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/gemini/i-could-probably-generate-hundreds-of-gemini-images-before-hitting-the-limit-but-the-new-ai-meter-still-changed-my-behavior</link>
-      <pubDate>Thu, 21 May 2026 14:39:45 +0000</pubDate>
-      <guid isPermaLink="false">SyCKmfwXDajs7hgdzbyhP6</guid>
-      <description>Gemini&#8217;s shift from daily limits to a new 5-hour window has changed the way I use it.</description>
-    </item>
-    <item>
-      <title>Le VPN pr&#233;f&#233;r&#233; des cybercriminels a &#233;t&#233; d&#233;mantel&#233;, et ses utilisateurs ont &#233;t&#233; &#171;&#160;identifi&#233;s&#160;&#187;</title>
-      <link>https://www.01net.com/actualites/le-vpn-prefere-des-cybercriminels-a-ete-demantele-et-ses-utilisateurs-ont-ete-identifies.html</link>
-      <pubDate>Thu, 21 May 2026 14:30:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1348799</guid>
-      <description>Une vaste op&#233;ration de police, men&#233;e par la France et les Pays-Bas, vient d'aboutir &#224; la fermeture forc&#233;e de First VPN, un service massivement utilis&#233; par les cybercriminels. Les serveurs du VPN ont &#233;t&#233; saisis, et tous les utilisateurs ont &#233;t&#233; identifi&#233;s par les forces de l'ordre.</description>
-    </item>
-    <item>
-      <title>Waymo pauses Atlanta service as its robotaxis keep driving into floods</title>
-      <link>https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/</link>
-      <pubDate>Thu, 21 May 2026 14:27:46 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125074</guid>
-      <description>Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.</description>
-    </item>
-    <item>
-      <title>Cette console Lenovo est ill&#233;gale et pourtant bien officielle, la marque confirme</title>
-      <link>https://www.frandroid.com/marques/lenovo/3107829_cette-console-lenovo-est-illegale-et-pourtant-bien-officielle-la-marque-confirme</link>
-      <pubDate>Thu, 21 May 2026 14:23:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/lenovo/3107829_cette-console-lenovo-est-illegale-et-pourtant-bien-officielle-la-marque-confirme</guid>
-      <description>
-Aper&#231;ue sur le site de vente en ligne AliExpress, la console portable Lenovo G02 contenant des milliers de ROM n'est pas une contrefa&#231;on.
-</description>
-    </item>
-    <item>
-      <title>Mullvad to patch VPN fingerprinting issue to stop your activity from being tracked across servers</title>
-      <link>https://www.techradar.com/vpn/vpn-services/mullvad-to-patch-vpn-fingerprinting-issue-to-stop-your-activity-from-being-tracked-across-servers</link>
-      <pubDate>Thu, 21 May 2026 14:23:08 +0000</pubDate>
-      <guid isPermaLink="false">ggNcoYMcYYvHxEo2ghPHXn</guid>
-      <description>Following the discovery of an exit IP fingerprinting issue, Mullvad is testing a new IP assignment method that prevents third parties from tracking users across multiple servers.</description>
-    </item>
-    <item>
-      <title>Free et Free Mobile sont au point mort, on comprend pourquoi l&#8217;op&#233;rateur veut racheter SFR</title>
-      <link>https://www.frandroid.com/marques/3108039_free-et-free-mobile-sont-au-point-mort-on-comprend-pourquoi-loperateur-veut-racheter-sfr</link>
-      <pubDate>Thu, 21 May 2026 14:20:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3108039_free-et-free-mobile-sont-au-point-mort-on-comprend-pourquoi-loperateur-veut-racheter-sfr</guid>
-      <description>
-Free n'arrive plus &#224; recruter de nouveaux abonn&#233;s, que ce soit sur le fixe ou le mobile. L'op&#233;rateur ne semble pas trouver la recette gagnante face &#224; Orange et Bouygues Telecom.
-</description>
-    </item>
-    <item>
-      <title>18 content creator upgrades in Amazon's massive Memorial Day sale &#8212; and this gear is perfect for your home studio setup</title>
-      <link>https://www.techradar.com/pro/18-content-creator-upgrades-in-amazons-massive-memorial-day-sale-and-this-gear-is-perfect-for-your-home-studio-setup</link>
-      <pubDate>Thu, 21 May 2026 14:20:00 +0000</pubDate>
-      <guid isPermaLink="false">rScUMfJrc9x8AvxJmoCu3f</guid>
-      <description>If you're a photographer, filmmaker, or streamer, you won't want to miss these early Memorial Day deals.</description>
+      <title>Redditor warns they 'almost started a fire' when metallic watch strap made contact with Steam Controller's charging puck</title>
+      <link>https://www.techradar.com/gaming/gaming-accessories/redditor-warns-they-almost-started-a-fire-when-metallic-watch-strap-made-contact-with-steam-controllers-charging-puck</link>
+      <pubDate>Thu, 21 May 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZDSadj8E4Bpy89euC29Bs9</guid>
+      <description>Valve does warn about this in the Steam Controller's manual &#8212; but how many people actually read documentation?</description>
     </item>
   </channel>
 </rss>
