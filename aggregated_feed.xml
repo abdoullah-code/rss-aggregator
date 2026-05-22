@@ -3,132 +3,102 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 22 May 2026 19:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:19:27 GMT</lastBuildDate>
+    <item>
+      <title>Your AI agents need a terminal, not just a vector database</title>
+      <link>https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database</link>
+      <pubDate>Fri, 22 May 2026 21:05:07 GMT</pubDate>
+      <guid isPermaLink="false">14JTLNsrPCqBECFAb0mg1s</guid>
+      <description>When agentic workflows fail, developers often assume the problem lies in the underlying model&#8217;s reasoning abilities. In reality, the limited information provided by the retrieval interface is often the primary limiting factor.Researchers at multiple universities propose a technique called direct corpus interaction (DCI) that lets agents bypass embedding models entirely, searching raw corpora directly using standard command-line tools.The limits of classic retrievalIn classic retrieval systems such as RAG, documents are chunked, converted into vector representations (or embeddings), and indexed...</description>
+    </item>
+    <item>
+      <title>Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;</title>
+      <link>https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/</link>
+      <pubDate>Fri, 22 May 2026 21:02:36 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3125544</guid>
+      <description>You can now disco ball-ify your entire Pixel homescreen, says Google.</description>
+    </item>
+    <item>
+      <title>Corsair DDR5 stick spotted using Chinese memory chips &#8212; here's why that could mean the RAM crisis ends sooner than expected</title>
+      <link>https://www.techradar.com/computing/computing-components/corsair-ddr5-stick-spotted-using-chinese-memory-chips-heres-why-that-could-mean-the-ram-crisis-ends-sooner-than-expected</link>
+      <pubDate>Fri, 22 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">UC7c2yNZikNHxxSZ7Bdf97</guid>
+      <description>Is this a sign that the predicted memory cavalry is rushing to the rescue?</description>
+    </item>
+    <item>
+      <title>How VCs and founders use inflated&#160;&#8216;ARR&#8217;&#160;to&#160;crown&#160;AI startups</title>
+      <link>https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</link>
+      <pubDate>Fri, 22 May 2026 20:40:48 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3125155</guid>
+      <description>Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.</description>
+    </item>
+    <item>
+      <title>Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for</title>
+      <link>https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard</link>
+      <pubDate>2026-05-22T16:39:54-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=936176</guid>
+      <description>Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term "disregard," the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Google is currently struggling to define words like disregard, stop and ignore</title>
+      <link>https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/</link>
+      <pubDate>Fri, 22 May 2026 20:29:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/</guid>
+      <description>The search engine's definitions have been replaced with AI Overviews.</description>
+    </item>
+    <item>
+      <title>How the costume designer of &#8216;I Love Boosters&#8217; brought color back to Hollywood</title>
+      <link>https://www.fastcompany.com/91545533/how-the-costume-designer-of-i-love-boosters-brought-color-back-to-hollywood</link>
+      <pubDate>2026-05-22T20:20:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91545533/how-the-costume-designer-of-i-love-boosters-brought-color-back-to-hollywood</guid>
+      <description> Oscar-nominated costume designer Shirley Kurata breaks down her technicolor work on the new mind-bending satire of the fashion industry.
+In the world of I Love Boosters, color reigns supreme.</description>
+    </item>
+    <item>
+      <title>In a sea of identical smartphones, Nothing stands out</title>
+      <link>https://www.fastcompany.com/91547411/in-a-sea-of-identical-smartphones-nothing-stands-out</link>
+      <pubDate>2026-05-22T20:05:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91547411/in-a-sea-of-identical-smartphones-nothing-stands-out</guid>
+      <description>By building for culture, community, and &#8220;vibes first,&#8221; the brand is proving that being different still sells in consumer tech.
+I was in a pub in London, catching up with my oldest friends. One friend turned to another: &#8220;What is that phone you are holding?&#8221;</description>
+    </item>
+    <item>
+      <title>'We know that fans will love them' &#8212; Assassin's Creed Black Flag Resynced creative director says Ubisoft changed the music's execution in the remake and added new scores for some 'emotional moments' of the game</title>
+      <link>https://www.techradar.com/gaming/we-know-that-fans-will-love-them-assassins-creed-black-flag-resynced-creative-director-says-ubisoft-changed-the-musics-execution-in-the-remake-and-added-new-scores-for-some-emotional-moments-of-the-game</link>
+      <pubDate>Fri, 22 May 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Ss6Th45BCtkry5ANyWChCo</guid>
+      <description>The music in Assassin's Creed Black Flag Resynced has been tweaked, and new scores have been added to complement some of the more significant story quests.</description>
+    </item>
+    <item>
+      <title>Stephen Colbert&#8217;s decade-old lesson on navigating uncertainty is more relevant than ever</title>
+      <link>https://www.fastcompany.com/91547333/stephen-colberts-decade-old-lesson-on-navigating-uncertainty-is-more-relevant-than-ever</link>
+      <pubDate>2026-05-22T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91547333/stephen-colberts-decade-old-lesson-on-navigating-uncertainty-is-more-relevant-than-ever</guid>
+      <description>As the late-night host signs off from CBS, his 2015 Wake Forest University commencement speech feels especially timely for the class of 2026.
+2015 was a different time. One of the most polarizing discussions online was about whether the color of a striped dress was blue and black or white and gold. The class of 2015 was graduating into an election year. And Stephen Colbert was just gearing up to become the host of &#8220;The Late Show.&#8221;...</description>
+    </item>
+    <item>
+      <title>The care economy is aging</title>
+      <link>https://www.fastcompany.com/91547065/the-care-economy-is-aging</link>
+      <pubDate>2026-05-22T19:39:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91547065/the-care-economy-is-aging</guid>
+      <description>Why menopause investment can&#8217;t wait.
+At 3 a.m., in the midst of labor, a doula we&#8217;ll call Renee stepped into the hallway to steady herself.</description>
+    </item>
+    <item>
+      <title>&#8216;Hire a damn artist&#8217;: Los Angeles magazine gets swift backlash for AI cover that aimed to be subversive</title>
+      <link>https://www.fastcompany.com/91547133/la-magazine-ai-cover-sparks-backlash-debate-hiring-artists</link>
+      <pubDate>2026-05-22T19:35:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91547133/la-magazine-ai-cover-sparks-backlash-debate-hiring-artists</guid>
+      <description>The publication wanted to start a conversation. It may not be getting the one it signed up for.
+AI-generated images are already all over the internet, and now magazines are getting in on the act, too.</description>
+    </item>
     <item>
       <title>Cisco tried using AI to write security incident reports &#8212; and things didn't really go as planned</title>
       <link>https://www.techradar.com/pro/security/cisco-tried-using-ai-to-write-security-incident-reports-and-things-didnt-really-go-as-planned</link>
       <pubDate>Fri, 22 May 2026 19:25:00 +0000</pubDate>
       <guid isPermaLink="false">4xLGt7YyDL6HQLwbQvCh2i</guid>
       <description>There are many challenges with generating long-form reports with AI, even with specific sources and instructions.</description>
-    </item>
-    <item>
-      <title>'We wanted to make a new and unique story, where fans will recognize moments throughout as they're playing' &#8212; TT Games on creating a new adventure and how it squeezed decades of superhero history into Lego Batman: Legacy of the Dark Knight</title>
-      <link>https://www.techradar.com/gaming/we-wanted-to-make-a-new-and-unique-story-where-fans-will-recognize-moments-throughout-as-theyre-playing-tt-games-on-creating-a-new-adventure-and-how-it-squeezed-decades-of-superhero-history-into-lego-batman-legacy-of-the-dark-knight</link>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3iyMu7cLbMvzQqy2wt7LQb</guid>
-      <description>The Caped Crusader&#8217;s singular legend has been rebuilt in a captivating Gothic style by the UK-based studio, who have an authentic hand in this franchise&#8217;s legacy.</description>
-    </item>
-    <item>
-      <title>Cheap Garmin alert! The Garmin Forerunner 165 is getting discounted thanks to it's successor being announced, and it's a perfect summer running watch pick</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/cheap-garmin-alert-the-garmin-forerunner-165-is-getting-discounted-thanks-to-its-successor-being-announced-and-its-a-perfect-summer-running-watch-pick</link>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">gqTf4LezKze2tpz23fpkjG</guid>
-      <description>The 4.5-star Garmin Forerunner 165 is $50 cheaper in both standard and Music formats.</description>
-    </item>
-    <item>
-      <title>This free email security scanner pairs perfectly with Gmail or Outlook</title>
-      <link>https://www.fastcompany.com/91532382/free-email-security-scan-gmail-outlook-snitcher-space</link>
-      <pubDate>2026-05-22T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91532382/free-email-security-scan-gmail-outlook-snitcher-space</guid>
-      <description>See if any email in your inbox is safe or suspicious in seconds.
-Last summer, I stumbled onto a brilliantly useful tool that ended up being one of the most well-received discoveries we&#8217;ve ever shared in these quarters.</description>
-    </item>
-    <item>
-      <title>How to watch Bayern Munich vs. VfB Stuttgart online for free</title>
-      <link>https://mashable.com/entertainment/bayern-munich-vfb-stuttgart-dfb-pokal-final-2026-live-stream-for-free</link>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">00bV7nYSL5nvjD6vmlf6uqm</guid>
-      <description>How to watch DFB-Pokal final for free. Live stream Bayern Munich vs. VfB Stuttgart in the 2026 DFB-Pokal final for free.</description>
-    </item>
-    <item>
-      <title>Memorial Day Tech Deals: Sony, Apple, Beats (2026)</title>
-      <link>https://www.wired.com/story/memorial-day-tech-deals-2026-1/</link>
-      <pubDate>Fri, 22 May 2026 18:52:47 +0000</pubDate>
-      <guid isPermaLink="false">69fe214c045d988e6659afaf</guid>
-      <description>Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.</description>
-    </item>
-    <item>
-      <title>AI is wreaking havoc at Starbucks and Pizza Hut. Social media is having a field day</title>
-      <link>https://www.fastcompany.com/91547066/starbucks-pizza-hut-ai-wreaking-havoc-social-media-thrilled</link>
-      <pubDate>2026-05-22T18:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547066/starbucks-pizza-hut-ai-wreaking-havoc-social-media-thrilled</guid>
-      <description>Starbucks retired an AI inventory tool after frequent mistakes, while Pizza Hut&#8217;s delivery system allegedly lost a franchisee more than $100 million in sales.
-AI woes are coming for the food service industry, and social media can&#8217;t help but celebrate.</description>
-    </item>
-    <item>
-      <title>'You have no way to revoke it faster or confirm when it stops working': Experts find Google API keys are still usable, even after you delete them</title>
-      <link>https://www.techradar.com/pro/security/you-have-no-way-to-revoke-it-faster-or-confirm-when-it-stops-working-experts-find-google-api-keys-are-still-usable-even-after-you-delete-them</link>
-      <pubDate>Fri, 22 May 2026 18:35:00 +0000</pubDate>
-      <guid isPermaLink="false">BBN9GC3ZPH5mn2XHFkHutN</guid>
-      <description>For more than 20 minutes after deletion, some Google API keys can still be used, apparently creating a major security gap.</description>
-    </item>
-    <item>
-      <title>AI&#8217;s real test in education is outcomes</title>
-      <link>https://www.fastcompany.com/91547391/ais-real-test-in-education-is-outcomes</link>
-      <pubDate>2026-05-22T18:35:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547391/ais-real-test-in-education-is-outcomes</guid>
-      <description>As AI spreads through classrooms, the only question that matters is whether it strengthens or shortcuts learning. 
-Generative AI arrived in education everywhere all at once. Today&#8217;s students are surrounded by tools that promise help, answers, and efficiency at every turn. But learning has never been about convenience alone. As AI reshapes how students engage with academic material, the questions are whether it is being built to support how humans actually learn and ultimately improve outcomes....</description>
-    </item>
-    <item>
-      <title>Tesla recalls thousands of Model Y SUVs over missing sticker</title>
-      <link>https://mashable.com/tech/tesla-model-y-recall-weight-certification-sticker</link>
-      <pubDate>Fri, 22 May 2026 18:34:24 +0000</pubDate>
-      <guid isPermaLink="false">04VzgcAqbBi8mJ1X8Ap6AGQ</guid>
-      <description>Another week, another Tesla recall, this time centered around the lack of a weight certification label.</description>
-    </item>
-    <item>
-      <title>Travelers just ranked the best airlines in America and one major carrier slipped badly</title>
-      <link>https://www.fastcompany.com/91547077/travelers-just-ranked-the-best-airlines-in-america-and-one-major-carrier-slipped-badly</link>
-      <pubDate>2026-05-22T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547077/travelers-just-ranked-the-best-airlines-in-america-and-one-major-carrier-slipped-badly</guid>
-      <description>Travelers increasingly say reliability, WiFi, rewards programs, and customer service matter more than cheap fares alone.
-Delta Air Lines has become the new go-to carrier that American travelers consider when purchasing a flight, leapfrogging rivals American Airlines and United Airlines, according to an annual study released this week by YouGov.</description>
-    </item>
-    <item>
-      <title>How Focus Features and Curry Barker thought outside the box to make horror fans obsessed with &#8216;Obsession&#8217;</title>
-      <link>https://www.fastcompany.com/91547116/how-focus-features-and-curry-barker-thought-outside-the-box-to-make-horror-fans-obsessed-with-obsession</link>
-      <pubDate>2026-05-22T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547116/how-focus-features-and-curry-barker-thought-outside-the-box-to-make-horror-fans-obsessed-with-obsession</guid>
-      <description>On a tiny budget, the movie scored big at the box office with help from a campaign that leaned into real-world objects and unhinged billboards.
-Focus Features wants to make people obsessed with its newest horror movie&#8212;and it seems to be working.&#160;</description>
-    </item>
-    <item>
-      <title>AI data centers are making cities warmer. Researchers calculated the exact impact</title>
-      <link>https://www.fastcompany.com/91547201/ai-data-centers-making-cities-hotter-researchers-calculate-exact-impact</link>
-      <pubDate>2026-05-22T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547201/ai-data-centers-making-cities-hotter-researchers-calculate-exact-impact</guid>
-      <description>Scientists have been sounding the alarm on just how bad artificial intelligence is for the environment, and a new study offers more proof.
-Scientists have been sounding the alarm on just how bad AI, and data centers, are for the environment. And now, researchers have proof they are also making nearby neighborhoods 4 degrees warmer, according to a new study from Arizona State University....</description>
-    </item>
-    <item>
-      <title>&#8220;Honestly? We&#8217;re genuinely terrified&#8221; &#8212; Flipper Zero creators reveal massive new Flipper One swiss-army knife PC and ask community for help</title>
-      <link>https://www.techradar.com/pro/honestly-were-genuinely-terrified-flipper-zero-creators-reveal-massive-new-flipper-one-swiss-army-knife-pc-and-ask-community-for-help</link>
-      <pubDate>Fri, 22 May 2026 18:25:00 +0000</pubDate>
-      <guid isPermaLink="false">DFRfCqXom7SYst3ZZdKoSX</guid>
-      <description>The Flipper One is much more than just an incremental upgrade to the Flipper Zero, offering a Linux kernel, a fully open source platform, and greater modularity than its predecessor.</description>
-    </item>
-    <item>
-      <title>Why agencies are giving AI a seat in their org chart</title>
-      <link>https://www.fastcompany.com/91546329/why-agencies-are-giving-ai-a-seat-in-their-org-chart</link>
-      <pubDate>2026-05-22T18:06:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91546329/why-agencies-are-giving-ai-a-seat-in-their-org-chart</guid>
-      <description>AI&#8217;s had its intern era, and some companies are now promoting it to full-time. 
-I recently talked to a marketer whose company added Claude to their org chart. Not as a joke, but as a real role, with defined responsibilities and a clear place in the workflow.</description>
-    </item>
-    <item>
-      <title>NASA is opening up bids for who will run the Jet Propulsion Laboratory</title>
-      <link>https://www.engadget.com/2179587/nasa-is-opening-up-bids-for-who-will-run-the-jet-propulsion-laboratory/</link>
-      <pubDate>Fri, 22 May 2026 18:01:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2179587/nasa-is-opening-up-bids-for-who-will-run-the-jet-propulsion-laboratory/</guid>
-      <description>The JPL's current contract with Caltech ends in 2028.</description>
-    </item>
-    <item>
-      <title>Twelve South&#8217;s AirFly Pro 2 has hit one of its best prices ahead of summer travel</title>
-      <link>https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale</link>
-      <pubDate>2026-05-22T14:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=936200</guid>
-      <description>With Memorial day weekend kicking off the travel season, we&#8217;re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is Twelve South&#8217;s AirFly Pro 2 Bluetooth adapter, which lets you use your wireless headphones with in-flight entertainment systems so you can [&#8230;]</description>
     </item>
   </channel>
 </rss>
