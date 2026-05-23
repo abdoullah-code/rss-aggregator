@@ -3,112 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 22 May 2026 23:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:41:04 GMT</lastBuildDate>
     <item>
-      <title>AI is being used to resurrect the voices of dead pilots</title>
-      <link>https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/</link>
-      <pubDate>Fri, 22 May 2026 23:03:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125679</guid>
-      <description>People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.</description>
+      <title>NYT Connections hints today: Clues, answers for May 23, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-hint-answer-today-may-23-2026</link>
+      <pubDate>Sat, 23 May 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03pr5urytEygxBAJGCgocdx</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
     </item>
     <item>
-      <title>Quordle hints and answers for Saturday, May 23 (game #1580)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-23-may-2026</link>
-      <pubDate>Fri, 22 May 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">nmwnfW2N3hHL9yAtX6697D</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+      <title>NYT Strands hints, answers for May 23, 2026</title>
+      <link>https://mashable.com/entertainment/strands-nyt-hint-may-23-2026</link>
+      <pubDate>Sat, 23 May 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04zjYZZAr5DPYySjT7zFzs0</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
     </item>
     <item>
-      <title>NYT Strands hints and answers for Saturday, May 23 (game #811)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-23-may-2026</link>
-      <pubDate>Fri, 22 May 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">fZs8szK8VjrvGds9N3cyE8</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Saturday, May 23 (game #1077)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-23-may-2026</link>
-      <pubDate>Fri, 22 May 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">T8qb8HMh5ZtmRpGMavn2B6</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>SpaceX launches Starship V3 for the first time, but loses booster on return</title>
-      <link>https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/</link>
-      <pubDate>Fri, 22 May 2026 22:55:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125629</guid>
-      <description>The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.</description>
-    </item>
-    <item>
-      <title>Valid certificates, stolen accounts: how attackers broke npm's last trust signal</title>
-      <link>https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026</link>
-      <pubDate>Fri, 22 May 2026 22:21:34 GMT</pubDate>
-      <guid isPermaLink="false">3SDJixh5tL2Yr1DB2fT1gm</guid>
-      <description>On May 19, 633 malicious npm package versions passed Sigstore provenance verification. They were cleared by the system because the attacker had generated valid signing certificates from a compromised maintainer account.Sigstore worked exactly as designed: it verified the package was built in a CI environment, confirmed a valid certificate was issued, and recorded everything in the transparency log. What it cannot do is determine whether the person holding the credentials authorized the publish &#8212; and that gap turned the last automated trust signal in npm into camouflage.One day earlier, StepSec...</description>
-    </item>
-    <item>
-      <title>I've found 12 top-rated soundbars and speakers from Sonos to upgrade your home audio &#8212; get up to $200 off</title>
-      <link>https://www.techradar.com/collection/audio/speakers/ive-found-12-top-rated-soundbars-and-speakers-from-sonos-to-upgrade-your-home-audio-get-up-to-usd200-off</link>
-      <pubDate>Fri, 22 May 2026 22:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ukX7hW7yddQExAc3cdztwf</guid>
-      <description>I've found 12 awesome deals on several of our top-rated Sonos speakers and soundbars in this year's Memorial Day sales.</description>
-    </item>
-    <item>
-      <title>AI chatbots got election information wrong 90% of the time in a new study &#8212; including ChatGPT rivals</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/ai-chatbots-got-election-information-wrong-90-percent-of-the-time-in-a-new-study-including-chatgpt-rivals</link>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ZtuLEZv5xtVoZE6ek5VQtc</guid>
-      <description>New studies suggest popular AI chatbots continue making significant mistakes around election information, creating growing concerns as more people rely on AI tools instead of traditional search and news sources</description>
-    </item>
-    <item>
-      <title>Maximum Pleasure Guaranteed review: Apple TV's new thriller features Tatiana Maslany's best role since Orphan Black</title>
-      <link>https://www.techradar.com/streaming/entertainment/maximum-pleasure-guaranteed-review</link>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">SnTMeRg378p2BH9veWLauU</guid>
-      <description>Maximum Pleasure Guaranteed is another win for Apple TV, joining many other must-watch shows on the streaming service in May.</description>
-    </item>
-    <item>
-      <title>Stay productive all summer long and beyond with this $30 Microsoft Office license</title>
-      <link>https://mashable.com/tech/may-22-microsoft-office-professional-2021-for-windows</link>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">02JQ8jzZFQ6k6U2Mib2ptLq</guid>
-      <description>Lock in major savings on a lifetime license for Microsoft Office Professional 2021 for Windows.</description>
-    </item>
-    <item>
-      <title>Are AdultFriendFinder&#8217;s messaging tools actually safe for swapping nudes?</title>
-      <link>https://mashable.com/life/adultfriendfinder-messaging-tools-safe-sending-nudes</link>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">025273JKgRoMyml7OIHJiEH</guid>
-      <description>We took an honest look at AdultFriendFinder's pros and cons as a platform for exchanging nudes from a privacy perspective. Here's what you need to know:</description>
-    </item>
-    <item>
-      <title>How to watch Mexico vs. Ghana online for free</title>
-      <link>https://mashable.com/entertainment/mexico-ghana-international-friendly-2026-live-stream-for-free</link>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">00LKQUd4iyKcfb5aW3UH0Xh</guid>
-      <description>How to watch live football for free. Live stream Mexico vs. Ghana in a 2026 International Friendly for free.</description>
-    </item>
-    <item>
-      <title>5 hookup apps and sites deemed legit by users</title>
-      <link>https://mashable.com/article/hookup-apps-deemed-legit-by-users</link>
-      <pubDate>Fri, 22 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01QEciM95WWPK8yU3oT3UvL</guid>
-      <description>Here are five hookup sites and apps that are extremely popular among their own users, and what makes them so special.</description>
-    </item>
-    <item>
-      <title>Blue Origin cleared to fly New Glenn mega-rocket after April mishap</title>
-      <link>https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/</link>
-      <pubDate>Fri, 22 May 2026 21:37:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125659</guid>
-      <description>Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.</description>
-    </item>
-    <item>
-      <title>The &#8216;Steroid Olympics&#8217; are happening this weekend, and even former Olympians are taking part</title>
-      <link>https://www.fastcompany.com/91547006/the-steroid-olympics-are-happening-this-weekend-and-olympic-medalists-are-competing</link>
-      <pubDate>2026-05-22T21:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547006/the-steroid-olympics-are-happening-this-weekend-and-olympic-medalists-are-competing</guid>
-      <description>A spectacle fit for Sin City, the Enhanced Games hosts elite athletes juiced up by performance-enhancing drugs.
-Top athletes from around the world, including Olympic medal winners, are gathering this Memorial Day weekend for a new Donald Trump Jr.-backed sports competition&#8212;and drugs are not only allowed but encouraged.</description>
+      <title>Wordle today: Answer, hints for May 23, 2026</title>
+      <link>https://mashable.com/entertainment/wordle-today-answer-may-23-2026</link>
+      <pubDate>Sat, 23 May 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">037HI35syh4QTRUs7iK6rOX</guid>
+      <description>Here's the answer for "Wordle" #1799 on May 23 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
   </channel>
 </rss>
