@@ -3,150 +3,99 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 25 May 2026 17:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:47:25 GMT</lastBuildDate>
     <item>
-      <title>L&#8217;iRobot Roomba Mini est petit, aspire, lave et passe sous les 300 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3108279_lirobot-roomba-mini-est-petit-aspire-lave-et-passe-sous-les-300-e</link>
-      <pubDate>Mon, 25 May 2026 17:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3108279_lirobot-roomba-mini-est-petit-aspire-lave-et-passe-sous-les-300-e</guid>
+      <title>Trend Micro users beware - dangerous Apex One zero-day exploited in the wild</title>
+      <link>https://www.techradar.com/pro/security/trend-micro-users-beware-dangerous-apex-one-zero-day-exploited-in-the-wild</link>
+      <pubDate>Mon, 25 May 2026 19:40:00 +0000</pubDate>
+      <guid isPermaLink="false">wABYh98sX66naeB7ReDadW</guid>
+      <description>CISA has already added the flaw to its KEV database.</description>
+    </item>
+    <item>
+      <title>Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk</title>
+      <link>https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk</link>
+      <pubDate>Mon, 25 May 2026 19:30:18 GMT</pubDate>
+      <guid isPermaLink="false">480X5oFjXzMuesjXsMyjIO</guid>
+      <description>Over the past two decades, technical debt meant outdated architecture, messy code, and poorly maintained documentation. That definition is no longer sufficient in the AI era, where failure modes are more subtle and often non-linear. AI systems are introducing new layers of technical debt that live across prompts, models, and data dependencies &#8212; making these layers less visible, harder to measure, and often more dangerous than traditional debt.A crisis hiding in plain sightThe complexities of AI systems and their associated failures have been well documented. A 2025 MIT study found that 95% of ...</description>
+    </item>
+    <item>
+      <title>I found 11 surprise Memorial Day Apple deals: Get the M5 MacBook Air for a record price, save $50 on AirPods and iPads</title>
+      <link>https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026</link>
+      <pubDate>Mon, 25 May 2026 19:12:24 +0000</pubDate>
+      <guid isPermaLink="false">06ylH5Qobpg8bD9ZkmWUJbh</guid>
+      <description>Looking for the best Memorial Day deals on Apple products? You can score the M5 MacBook Air for $899 and the AirPods Pro 3 for under $200.</description>
+    </item>
+    <item>
+      <title>Save up to $600 on mini PCs from Dell, Geekom, GMKtec, and more in Amazon's Memorial Day sale &#8212; I've found a ridiculous number of mini PC deals, but you'll need to be super-fast to get them at this price</title>
+      <link>https://www.techradar.com/pro/save-up-to-usd600-on-mini-pcs-from-dell-geekom-gmktec-and-more-in-amazons-memorial-day-sale-ive-found-a-ridiculous-number-of-mini-pc-deals-but-youll-need-to-be-super-fast-to-get-them-at-this-price</link>
+      <pubDate>Mon, 25 May 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">8udDEBcULjp5neSDEZT7h9</guid>
+      <description>From cheap mini PCs for the home office to high-end, upgradeable machines for serious business.</description>
+    </item>
+    <item>
+      <title>Avant son d&#233;part pour la Plan&#232;te rouge, ExoMars doit encore passer plusieurs tests cruciaux</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/exploration-avant-son-depart-planete-rouge-exomars-doit-passer-test-peu-machines-reussissent-134525/#xtor%3DRSS-8</link>
+      <pubDate>Mon, 25 May 2026 21:01:39 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/exploration-avant-son-depart-planete-rouge-exomars-doit-passer-test-peu-machines-reussissent-134525/#xtor%3DRSS-8</guid>
+      <description>La vie a-t-elle exist&#233; sur Mars ? Pour le savoir, le rover Rosalind Franklin et tous les &#233;l&#233;ments de la mission devront d'abord passer avec succ&#232;s une batterie de tests draconiens. Les mod&#232;les structuraux de la mission ExoMars 2028 sont actuellement en cours de tests chez Thales Alenia Space,...</description>
+    </item>
+    <item>
+      <title>IKEA living room trends for summer: playful colors and open storage for a welcoming space that's packed with personality</title>
+      <link>https://www.techradar.com/home/ikea-living-room-trends-for-summer-playful-colors-and-open-storage-for-a-welcoming-space-thats-packed-with-personality</link>
+      <pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">po5AFst6GpPykrxeac5WBd</guid>
+      <description>This summer, I'm using bold and beautiful color blocking to brighten my living room.</description>
+    </item>
+    <item>
+      <title>Hyundai is recalling 421,000 cars over collision&#8209;avoidance software bug</title>
+      <link>https://mashable.com/tech/hyundai-car-recall-hybrid</link>
+      <pubDate>Mon, 25 May 2026 18:52:49 +0000</pubDate>
+      <guid isPermaLink="false">037f85VDirZiesHo5CPRn40</guid>
+      <description>The NHTSA issues a safety recall on certain Hyundai vehicles equipped with faulty collision software, leading to hundreds of driver reports.</description>
+    </item>
+    <item>
+      <title>Cox Media fined after bragging it spied on users through their phones</title>
+      <link>https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine</link>
+      <pubDate>2026-05-25T14:28:30-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=937027</guid>
+      <description>An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, and 1010 Digital Works would pay a total [&#8230;]</description>
+    </item>
+    <item>
+      <title>'This is a sales tactic': Experts warn ransomware hackers will often lower their prices - with some giving discounts up to 96%</title>
+      <link>https://www.techradar.com/pro/security/this-is-a-sales-tactic-experts-warn-ransomware-hackers-will-often-lower-their-prices-with-some-giving-discounts-up-to-96-percent</link>
+      <pubDate>Mon, 25 May 2026 18:24:43 +0000</pubDate>
+      <guid isPermaLink="false">YFNLMATQWvQmajKnCFsikj</guid>
+      <description>Ransomware actors use a whole range of different tactics to persuade victims to pay the demands.</description>
+    </item>
+    <item>
+      <title>Last call: Save $130 on Bose noise-cancelling headphones for Memorial Day</title>
+      <link>https://mashable.com/tech/best-memorial-day-deal-bose-quietcomfort-headphones-may-25-2026</link>
+      <pubDate>Mon, 25 May 2026 18:22:17 +0000</pubDate>
+      <guid isPermaLink="false">007VVqYkhWBkq2UCPHuh8M6</guid>
+      <description>Get the Bose QuietComfort noise-cancelling headphones on sale at Amazon for Memorial Day. Save $130 on these Mashable-tested headphones.</description>
+    </item>
+    <item>
+      <title>Epic Games reveals a first look at Unreal Engine 6 with a Rocket League makeover</title>
+      <link>https://www.engadget.com/2180662/epic-games-reveals-first-look-at-unreal-engine-6-with-rocket-league-makeover/</link>
+      <pubDate>Mon, 25 May 2026 18:06:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2180662/epic-games-reveals-first-look-at-unreal-engine-6-with-rocket-league-makeover/</guid>
+      <description>We still don't have a release date for the new game engine.</description>
+    </item>
+    <item>
+      <title>What is the release date for Half Man episode 6 on HBO Max and BBC iPlayer?</title>
+      <link>https://www.techradar.com/streaming/hbo-max/half-man-episode-6-release-date-time-bbc-iplayer</link>
+      <pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">T2zM6SXdzi96MqZuG7UTeP</guid>
+      <description>A messy end awaits us in Richard Gadd's most uncomfortable TV show yet. But when does Half Man episode 6 drop on HBO Max and BBC iPlayer?</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy A37 vs Samsung Galaxy A36&#160;: comment choisir le meilleur smartphone Samsung Galaxy A&#160;?</title>
+      <link>https://www.frandroid.com/versus/3103083_samsung-galaxy-a37-vs-samsung-galaxy-a36-comment-choisir-le-meilleur-smartphone-samsung-galaxy-a</link>
+      <pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/versus/3103083_samsung-galaxy-a37-vs-samsung-galaxy-a36-comment-choisir-le-meilleur-smartphone-samsung-galaxy-a</guid>
       <description>
-Compact, polyvalent et autonome, le robot aspirateur iRobot Roomba Mini est id&#233;al pour les petits int&#233;rieurs. Actuellement, Boulanger et Amazon l'affichent &#224; 299 euros au lieu de 399 euros.
+Peu de changements cette ann&#233;e sur le milieu de gamme Samsung&#8230; si ce n'est un prix qui part en fl&#232;che&#160;! Vaut-il mieux craquer pour le nouveau Galaxy A37, ou son pr&#233;d&#233;cesseur le A36 fait-il encore parfaitement l'affaire&#160;? R&#233;ponse dans notre nouveau versus&#160;!
 </description>
-    </item>
-    <item>
-      <title>A Swimmer Broke a World Record at the Enhanced Games</title>
-      <link>https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/</link>
-      <pubDate>Mon, 25 May 2026 17:32:55 +0000</pubDate>
-      <guid isPermaLink="false">6a0c8f4ff9bee2d3c085c960</guid>
-      <description>Dozens of juiced athletes competed at the Enhanced Games in Las Vegas. Most won&#8217;t admit what drugs they used.</description>
-    </item>
-    <item>
-      <title>Memorial Day Tech Deals: Sony, Apple, Anker, and More</title>
-      <link>https://www.wired.com/story/memorial-day-tech-deals-2026-2/</link>
-      <pubDate>Mon, 25 May 2026 17:23:29 +0000</pubDate>
-      <guid isPermaLink="false">69fe214c045d988e6659afaf</guid>
-      <description>Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.</description>
-    </item>
-    <item>
-      <title>Best Memorial Day Mattress Deals: Helix, Saatva (2026)</title>
-      <link>https://www.wired.com/story/memorial-day-mattress-deals-2026-2/</link>
-      <pubDate>Mon, 25 May 2026 17:20:48 +0000</pubDate>
-      <guid isPermaLink="false">69fe20f2692a9d3fda8bd939</guid>
-      <description>It&#8217;s one of the best times of the year to buy a mattress, and deals on our favorite models end tonight.</description>
-    </item>
-    <item>
-      <title>Samsung's 'absolutely stellar M.2 SSD for both professional users and gamers' is just $390 in the Amazon Memorial Day sale &#8212; that's a $250 discount on our 5-star 2TB internal SSD</title>
-      <link>https://www.techradar.com/pro/samsungs-absolutely-stellar-m-2-ssd-for-both-professional-users-and-gamers-is-just-usd390-in-the-amazon-memorial-day-sale-thats-a-usd250-discount-on-our-5-star-2tb-internal-ssd</link>
-      <pubDate>Mon, 25 May 2026 17:20:00 +0000</pubDate>
-      <guid isPermaLink="false">e4LjHcEch5T7DGfyTYincD</guid>
-      <description>The 990 Pro boasts some of the fastest read/write performance of any PCIe 4.0 SSD we&#8217;ve ever tested.</description>
-    </item>
-    <item>
-      <title>Projet de loi&#160;C-22 | Apple et Google &#224; Ottawa mardi pour parler des risques d&#8217;atteinte &#224; la vie priv&#233;e</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-05-25/projet-de-loi-c-22/apple-et-google-a-ottawa-mardi-pour-parler-des-risques-d-atteinte-a-la-vie-privee.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Mon, 25 May 2026 13:08:25 -0400</pubDate>
-      <guid isPermaLink="false">537aab8a77313716881d8afdc6e43143</guid>
-      <description>Les dol&#233;ances d&#8217;Apple, Signal et des autres ont &#233;t&#233; entendues. Apr&#232;s avoir clos les consultations &#224; propos de son projet de loi&#160;C-22 sur l&#8217;acc&#232;s l&#233;gal &#224; certaines donn&#233;es num&#233;riques personnelles, le gouvernement f&#233;d&#233;ral fait en quelque sorte volte-face et invite Apple et Google &#224; Ottawa pour trouver le juste &#233;quilibre entre s&#233;curit&#233; publique et protection de la vie priv&#233;e....</description>
-    </item>
-    <item>
-      <title>Amazon is slashing prices on its most popular and best-selling devices for Memorial Day &#8212; here are the 18 best deals I'd buy from $14.99</title>
-      <link>https://www.techradar.com/collection/tech/amazon-is-slashing-prices-on-its-most-popular-and-best-selling-devices-for-memorial-day-here-are-the-18-best-deals-id-buy-from-usd14-99</link>
-      <pubDate>Mon, 25 May 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">7bQuz7kJgT2xFWNg9KkYFR</guid>
-      <description>I've gathered up the 18 best Amazon Device deals that are available in today's Memorial Day sale, with prices starting at just $14.99.</description>
-    </item>
-    <item>
-      <title>She handed a repair tech her iPhone and then the worst happened &#8212; here's how to protect your data and yourself</title>
-      <link>https://www.techradar.com/phones/iphone/she-handed-a-repair-tech-her-iphone-and-then-the-worst-happened-heres-how-to-protect-your-data-and-yourself</link>
-      <pubDate>Mon, 25 May 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dGC2FEjcRZgHsp63KHNXbL</guid>
-      <description>A Best Buy employee allegedly AirDropped pictures from a customer's phone to his own &#8212; here's how to make sure that can never happen to you.</description>
-    </item>
-    <item>
-      <title>HBO Max en juin 2026 : on br&#251;le d&#8217;impatience pour la saison finale de House of the Dragon</title>
-      <link>https://www.frandroid.com/services/svod/3111109_hbo-max-en-juin-2026-on-brule-dimpatience-pour-la-saison-finale-de-house-of-the-dragon</link>
-      <pubDate>Mon, 25 May 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3111109_hbo-max-en-juin-2026-on-brule-dimpatience-pour-la-saison-finale-de-house-of-the-dragon</guid>
-      <description>
-HBO Max vient de d&#233;voiler son catalogue de juin, assez l&#233;ger mais auquel la saison finale de House of the Dragon vient ajouter du poids.
-</description>
-    </item>
-    <item>
-      <title>Amazon's 24 best running shoes on sale for Memorial Day &#8212; up to 50% off Adidas, Brooks, Nike, Hoka, and more</title>
-      <link>https://www.techradar.com/health-fitness/amazons-24-best-running-shoes-on-sale-for-memorial-day-up-to-50-percent-off-adidas-brooks-nike-hoka-and-more</link>
-      <pubDate>Mon, 25 May 2026 16:54:05 +0000</pubDate>
-      <guid isPermaLink="false">Ljgv4JwK54AbtUEPbAbkBa</guid>
-      <description>Amazon's Memorial Day sale has huge deals on top-rated running shoes, and I'm rounding up the top deals that end tonight from Adidas, Brooks, Nike, Hoka, and more.</description>
-    </item>
-    <item>
-      <title>Huawei claims it will make cutting-edge semiconductors by 2031</title>
-      <link>https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/</link>
-      <pubDate>Mon, 25 May 2026 16:51:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/</guid>
-      <description>The company said its next-gen chips will be "feasible and affordable."</description>
-    </item>
-    <item>
-      <title>Le pape L&#233;on XIV demande de &#171; d&#233;sarmer l&#8217;IA &#187; : Anthropic &#233;tait l&#224; pour &#233;couter</title>
-      <link>https://www.frandroid.com/culture-tech/3111187_le-pape-leon-xiv-demande-de-desarmer-lia-anthropic-etait-la-pour-ecouter</link>
-      <pubDate>Mon, 25 May 2026 16:43:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/3111187_le-pape-leon-xiv-demande-de-desarmer-lia-anthropic-etait-la-pour-ecouter</guid>
-      <description>
-Avec Magnifica Humanitas, le pape L&#233;on XIV signe la premi&#232;re encyclique consacr&#233;e &#224; l'intelligence artificielle et demande de la &#171; d&#233;sarmer &#187;. Le cofondateur d'Anthropic &#233;tait dans la salle, et le r&#233;cit d'un partenariat Vatican-Silicon Valley s'est mis en place dans la foul&#233;e.
-</description>
-    </item>
-    <item>
-      <title>Sauvez vos vieux jeux Wii et Xbox : votre lecteur Blu-ray PC peut d&#233;sormais les copier l&#233;galement</title>
-      <link>https://www.frandroid.com/produits-android/3111127_sauvez-vos-vieux-jeux-wii-et-xbox-votre-lecteur-blu-ray-pc-peut-desormais-les-copier-legalement</link>
-      <pubDate>Mon, 25 May 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3111127_sauvez-vos-vieux-jeux-wii-et-xbox-votre-lecteur-blu-ray-pc-peut-desormais-les-copier-legalement</guid>
-      <description>
-L'&#233;mulation navigue souvent en eaux troubles, mais copier ses propres jeux reste le meilleur moyen de rester dans la stricte l&#233;galit&#233;. Jusqu'&#224; pr&#233;sent, extraire les donn&#233;es de disques aux formats obscurs relevait du parcours du combattant. Une nouvelle bidouille logicielle vient rebattre les cartes pour offrir une seconde vie &#224; votre collection physique directement depuis votre ordinateur.
-...</description>
-    </item>
-    <item>
-      <title>Holy moly, the M5 MacBook Air finally dropped below $900 for Memorial Day</title>
-      <link>https://mashable.com/tech/may-25-apple-m5-macbook-air-deal</link>
-      <pubDate>Mon, 25 May 2026 16:18:36 +0000</pubDate>
-      <guid isPermaLink="false">01Ztnc3m6I2Y1grIPwvMBhv</guid>
-      <description>The Apple M5 MacBook Air finally dropped below $900 at Amazon for Memorial Day, marking its biggest price drop to date.</description>
-    </item>
-    <item>
-      <title>3 key takeaways from Pope Leos 42,000-word AI encyclical</title>
-      <link>https://mashable.com/tech/pope-leo-ai-encyclical</link>
-      <pubDate>Mon, 25 May 2026 16:06:39 +0000</pubDate>
-      <guid isPermaLink="false">01wpwKWAPfjINub1VIxXZ76</guid>
-      <description>Pope Leo XIV issues his first encyclical, pegged to the rise of AI and its effects on humanity.</description>
-    </item>
-    <item>
-      <title>On a roul&#233; en Zeekr 001 : l&#8217;&#233;lectrique premium au prix d&#8217;une Volkswagen qui cache plusieurs d&#233;fauts</title>
-      <link>https://www.frandroid.com/marques/zeekr/3098981_on-a-roule-en-zeekr-001-lelectrique-premium-au-prix-dune-volkswagen-qui-cache-plusieurs-defauts</link>
-      <pubDate>Mon, 25 May 2026 16:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/zeekr/3098981_on-a-roule-en-zeekr-001-lelectrique-premium-au-prix-dune-volkswagen-qui-cache-plusieurs-defauts</guid>
-      <description>
-L'ann&#233;e 2026 est clairement celle de l'offensive des constructeurs chinois de voitures &#233;lectriques. Parmi les nouveaux arrivants en Europe, Zeekr occupe un positionnement premium au rapport qualit&#233;-prix int&#233;ressant. J'ai pu prendre le volant de la Zeekr 001 lors de son lancement en France.
-</description>
-    </item>
-    <item>
-      <title>What ClickUp&#8217;s mass layoff tells us about the future of work</title>
-      <link>https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/</link>
-      <pubDate>Mon, 25 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3125761</guid>
-      <description>The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.</description>
-    </item>
-    <item>
-      <title>&#8216;It succeeds in painting an idyllic picture of vanlife&#8217; &#8212; I loved my time in Outbound&#8217;s wilderness, but a few bumps in the road made me want to cut my trip short</title>
-      <link>https://www.techradar.com/gaming/outbound-review</link>
-      <pubDate>Mon, 25 May 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9HaHz8oXNWfnX6NWpdFQ4R</guid>
-      <description>Nature-loving vanlife is portrayed without blemish in Outbound &#8212; but how well does it sell the dream?</description>
-    </item>
-    <item>
-      <title>U.S.-Iran deal to end the war is &#8216;largely negotiated&#8217;, Trump says. Here&#8217;s what to know</title>
-      <link>https://www.fastcompany.com/91547931/u-s-iran-deal-end-war-largely-negotiated-trump-says-heres-what-know</link>
-      <pubDate>2026-05-25T15:57:31</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91547931/u-s-iran-deal-end-war-largely-negotiated-trump-says-heres-what-know</guid>
-      <description>Trump commented following calls with Middle East allies, but it&#8217;s not yet clear when or how the deal might be finalized.
-A deal appears to be emerging between the United States and Iran to end the war and open the Strait of Hormuz, and U.S. President Donald Trump over the weekend said it had been &#8220;largely negotiated.&#8221;It is not clear when or how the deal might be finalized and when its various parts will take effect. Trump spoke after calls with allies in the Middle East, including a separate call with Israel. Details come from two regional officials and a U.S. official who spoke on condition o...</description>
     </item>
   </channel>
 </rss>
