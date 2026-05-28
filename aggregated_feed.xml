@@ -3,178 +3,120 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 28 May 2026 19:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 21:57:48 GMT</lastBuildDate>
     <item>
-      <title>The end of Moore's Law? Huawei unveils new chip architecture, which it hopes can help it cut the gap on Nvidia and TSMC</title>
-      <link>https://www.techradar.com/pro/the-end-of-moores-law-huawei-unveils-new-chip-architecture-which-it-hopes-can-help-it-cut-the-gap-on-nvidia-and-tsmc</link>
-      <pubDate>Thu, 28 May 2026 19:35:00 +0000</pubDate>
-      <guid isPermaLink="false">cCY8cdGurUUy9hY7zxpFyW</guid>
-      <description>Huawei introduced Tau Scaling Law and LogicFolding architecture as potential alternatives to Moore&#8217;s Law and traditional semiconductor scaling limitations.</description>
+      <title>CFTC wants to reverse course on penalty against Winklevoss twins' crypto business</title>
+      <link>https://www.engadget.com/2183352/cftc-wants-to-reverse-course-on-penalty-against-winklevoss-twins-crypto-business/</link>
+      <pubDate>Thu, 28 May 2026 21:56:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2183352/cftc-wants-to-reverse-course-on-penalty-against-winklevoss-twins-crypto-business/</guid>
+      <description>The Gemini exchange already paid a $5 million fine following the agency's lawsuit.</description>
     </item>
     <item>
-      <title>Bluesky embraces long-form content to counter X Articles</title>
-      <link>https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/</link>
-      <pubDate>Thu, 28 May 2026 19:27:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127362</guid>
-      <description>In its latest update, Bluesky is getting into long-form content.</description>
+      <title>Researchers automated LLM reasoning strategy design and cut token usage by 69.5%</title>
+      <link>https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5</link>
+      <pubDate>Thu, 28 May 2026 21:32:45 GMT</pubDate>
+      <guid isPermaLink="false">75rGRv17fHyEZL6wixCn8v</guid>
+      <description>Test-time scaling (TTS) has emerged as a proven method to improve the performance of large language models in real-world applications by giving them extra compute cycles at inference time. However, TTS strategies have historically been handcrafted, relying heavily on human intuition to dictate the rules of the model&#8217;s reasoning.&#160;To address this bottleneck, researchers from Meta, Google, and several universities have introduced AutoTTS, a framework that automatically discovers optimal TTS strategies. This automated approach allows enterprise organizations to dynamically optimize compute allocat...</description>
     </item>
     <item>
-      <title>Websites are using this FROST-y new technique to spy on users by snooping on their SSD activity</title>
-      <link>https://www.techradar.com/pro/security/websites-are-using-this-frost-y-new-technique-to-spy-on-users-by-snooping-on-their-ssd-activity</link>
-      <pubDate>Thu, 28 May 2026 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">zMrbaJt6g45qVjdD9nXMxa</guid>
-      <description>A new side-channel attack was discovered but exploiting it is not as easy as it sounds.</description>
+      <title>The internet is being rebuilt for machines</title>
+      <link>https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/</link>
+      <pubDate>Thu, 28 May 2026 21:24:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3127466</guid>
+      <description>As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.</description>
     </item>
     <item>
-      <title>The $6 Billion Chinese Startup Trying to Build Hands for Every Robot</title>
-      <link>https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/</link>
-      <pubDate>Thu, 28 May 2026 19:14:31 +0000</pubDate>
-      <guid isPermaLink="false">6a15e4834e296e9f434f9ea1</guid>
-      <description>LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories&#8212;and eventually replace human labor altogether.</description>
+      <title>Need a photo-ready face in time for wedding season? I trawled the internet for the best reviewed beauty gadgets &#8212; here's what I found</title>
+      <link>https://www.techradar.com/home/small-appliances/need-a-photo-ready-face-in-time-for-wedding-season-i-trawled-the-internet-for-the-best-reviewed-beauty-gadgets-heres-what-i-found</link>
+      <pubDate>Thu, 28 May 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yFXDDTx6v6u2oYWsPQ3oG6</guid>
+      <description>Brilliantly reviewed beauty tech that might just deliver that radiant skin you dreamed of.</description>
     </item>
     <item>
-      <title>Valorisation de 965&#160;milliards | Anthropic annonce lever 65&#160;milliards de dollars</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-05-28/valorisation-de-965-milliards/anthropic-annonce-lever-65-milliards-de-dollars.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Thu, 28 May 2026 15:10:03 -0400</pubDate>
-      <guid isPermaLink="false">add0de93561f3c7887e5f22e8b74f87a</guid>
-      <description>L&#8217;entreprise am&#233;ricaine d&#8217;intelligence artificielle (IA) Anthropic, &#233;ditrice du mod&#232;le Claude, a annonc&#233; jeudi une nouvelle lev&#233;e de fonds massive de 65&#160;milliards de dollars, portant sa valorisation &#224; 965&#160;milliards, devant son rival OpenAI (852).</description>
+      <title>Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI</title>
+      <link>https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai</link>
+      <pubDate>Thu, 28 May 2026 20:54:16 GMT</pubDate>
+      <guid isPermaLink="false">2rVWfVu4ZcuyUDgs3OOWfS</guid>
+      <description>Mistral AI used its inaugural conference on Wednesday to announce a sweeping expansion into industrial manufacturing, a new inference data center south of Paris, and a rebranding of its consumer-facing assistant &#8212; moves that collectively signal the three-year-old French startup's ambition to become the enterprise AI provider of record for companies that refuse to hand their most sensitive data to American hyperscalers.At the AI NOW Summit, held at a venue in central Paris, co-founder and CEO Arthur Mensch took the stage alongside CTO Timoth&#233;e Lacroix and Chief Scientist Guillaume Lample to lay...</description>
     </item>
     <item>
-      <title>Meta Copies Snapchat&#8217;s Homework Again With &#8216;Plus&#8217; Features for Instagram and Facebook</title>
-      <link>https://www.wired.com/story/meta-copies-snapchats-homework-again/</link>
-      <pubDate>Thu, 28 May 2026 19:09:17 +0000</pubDate>
-      <guid isPermaLink="false">6a1756d039ea496e39ed9d57</guid>
-      <description>Meta&#8217;s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it.</description>
+      <title>A leaked Disney memo suggests the standalone Hulu app's days may be numbered</title>
+      <link>https://www.engadget.com/2183291/a-leaked-disney-memo-suggests-the-standalone-hulu-app-s-days-may-be-numbered/</link>
+      <pubDate>Thu, 28 May 2026 20:53:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2183291/a-leaked-disney-memo-suggests-the-standalone-hulu-app-s-days-may-be-numbered/</guid>
+      <description>So much for "no current plans" to sunset the app.</description>
     </item>
     <item>
-      <title>Hackers are trying to steal Signal users&#8217; backups in new wave of phishing attacks</title>
-      <link>https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/</link>
-      <pubDate>Thu, 28 May 2026 19:07:24 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127258</guid>
-      <description>A new hacking campaign is trying to trick Signal users to give up their secret recovery key, which can be used to access online backups containing past messages.</description>
+      <title>'Lift is aerodynamic, not buoyancy' &#8212; This new cargo drone uses an inflatable wing instead of a traditional rigid frame, and it could change how wars are fought</title>
+      <link>https://www.techradar.com/pro/lift-is-aerodynamic-not-buoyancy-this-new-cargo-drone-uses-an-inflatable-wing-instead-of-a-traditional-rigid-frame-and-it-could-change-how-wars-are-fought</link>
+      <pubDate>Thu, 28 May 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="false">73NFNtpdvTg2gFQfQGqRYj</guid>
+      <description>French startup tested inflatable wing cargo drone designed for portable battlefield logistics, autonomous resupply missions, and simplified maintenance operations</description>
     </item>
     <item>
-      <title>Pentagon awards $9.7 billion in contracts to Dell, Microsoft to provide software, stop license sprawl, and cut costs across military and intelligence networks</title>
-      <link>https://www.techradar.com/pro/security/pentagon-awards-usd9-7-billion-in-contracts-to-dell-microsoft-to-provide-software-stop-license-sprawl-and-cut-costs-across-military-and-intelligence-networks</link>
-      <pubDate>Thu, 28 May 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">m4X7aat8UZK5UZoXSoPPDR</guid>
-      <description>Dell has been awarded a contract to supply Microsoft 365 software and other services for the Department of Defense, the intelligence community, and the US Coast Guard.</description>
+      <title>Slate Auto will announce pricing and take preorders for its EV on June 24</title>
+      <link>https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/</link>
+      <pubDate>Thu, 28 May 2026 20:29:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3127129</guid>
+      <description>The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.</description>
     </item>
     <item>
-      <title>Holy moly! Valve just hiked the Steam Deck OLED price by almost 50% &#8212; but I have two fan-favorite handhelds that are still cheap and you should get instead</title>
-      <link>https://www.techradar.com/tech/holy-moly-valve-just-hiked-the-steam-deck-oled-price-by-almost-50-percent-but-i-have-two-fan-favorite-handhelds-that-are-still-cheap-and-you-should-get-instead</link>
-      <pubDate>Thu, 28 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8Ma6ujUTwN4o8M9bdTsfjW</guid>
-      <description>&#8216;Due to rising memory and storage costs&#8217; the Steam Deck now costs over 40% more.</description>
+      <title>Nintendo&amp;#8217;s newest WarioWare is a weirdo smartphone app</title>
+      <link>https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game</link>
+      <pubDate>2026-05-28T16:16:16-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=939283</guid>
+      <description>A decade ago, Nintendo made a big splash into the world of mobile gaming with a new Super Mario platformer directed by none other than Shigeru Miyamoto. But even though the game proved popular, it wasn't the success the company had hoped for. Over the ensuing years Nintendo has slowly retreated from smartphone gaming, with [&#8230;]</description>
     </item>
     <item>
-      <title>Anthropic raises $65 Billion, nears $1T valuation ahead of IPO</title>
-      <link>https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/</link>
-      <pubDate>Thu, 28 May 2026 18:52:51 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127386</guid>
-      <description>Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.</description>
+      <title>Microsoft 365 Copilot gets a speed boost and cleaner design</title>
+      <link>https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign</link>
+      <pubDate>2026-05-28T16:14:07-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=939273</guid>
+      <description>Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes [&#8230;]...</description>
     </item>
     <item>
-      <title>How automation has evolved at 24 companies</title>
-      <link>https://www.fastcompany.com/91540967/how-automation-has-evolved-at-24-companies</link>
-      <pubDate>2026-05-28T18:46:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91540967/how-automation-has-evolved-at-24-companies</guid>
-      <description>Make time for human judgment and higher-level processes by automating the repeatable.
-Automation and AI aren&#8217;t synonymous, but there is a relationship. As AI capabilities have improved, more companies are using it to automate parts of the business that previously were human-touch only. Deciding what to automate and how to use technology for the greatest impact, is something our Fast Company Impact Council members think about daily. Here&#8217;s what 24 members said about how they incorporate automation, and how that has changed over time....</description>
+      <title>Amazon&#8217;s last-gen Paperwhite is on sale for less than the entry-level Kindle</title>
+      <link>https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale</link>
+      <pubDate>2026-05-28T16:10:09-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=939259</guid>
+      <description>If you like to read by the pool or at the beach, the 2021 Kindle Paperwhite remains one of the best e-readers available despite its age. That&#8217;s because, unlike Amazon&#8217;s latest entry-level Kindle, the last-gen Paperwhite is waterproof. And now through June 14th (or while supplies last), it&#8217;s on sale at Woot with ads, 16GB [&#8230;]</description>
     </item>
     <item>
-      <title>Slate EV truck pre-orders will open on June 24</title>
-      <link>https://www.engadget.com/2183143/slate-ev-truck-pre-orders-will-open-on-june-24/</link>
-      <pubDate>Thu, 28 May 2026 18:45:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2183143/slate-ev-truck-pre-orders-will-open-on-june-24/</guid>
-      <description>Pre-orders are opening up for Slate, the Spirit Airlines of EV trucks</description>
+      <title>Security teams can't keep up with how fast AI is cracking cloud security</title>
+      <link>https://www.techradar.com/pro/security/security-teams-cant-keep-up-with-how-fast-ai-is-cracking-cloud-security</link>
+      <pubDate>Thu, 28 May 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">G3MTSoYPHwDLFDNFZbVutE</guid>
+      <description>Businesses are aware of AI-powered attacks, but their infrastructure can't keep up with the speed of change.</description>
     </item>
     <item>
-      <title>Motorola&#8217;s last-gen Razr Ultra is almost half off</title>
-      <link>https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale</link>
-      <pubDate>2026-05-28T14:33:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=938621</guid>
-      <description>Motorola&#8217;s latest Razr Ultra proves that its flip foldable format has evolved to become more than just a nostalgic gimmick. I&#8217;d understand if you&#8217;re not interested in shelling out $1,499.99 for the 2026 model, but the similar 2025 Motorola Razr Ultra with 512GB of storage is a much more palatable $699.99 unlocked at Best Buy [&#8230;]</description>
+      <title>Microsoft debuts a more buttoned-up look for Copilot</title>
+      <link>https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/</link>
+      <pubDate>Thu, 28 May 2026 20:09:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/</guid>
+      <description>Copilot will look a little more consistent, and lose a little personality</description>
     </item>
     <item>
-      <title>Just like gold and oil, we&#8217;ll soon be able to trade AI token futures</title>
-      <link>https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/</link>
-      <pubDate>Thu, 28 May 2026 18:32:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127065</guid>
-      <description>Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.</description>
+      <title>Asana acquires no-code agent-builder StackAI</title>
+      <link>https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/</link>
+      <pubDate>Thu, 28 May 2026 20:06:07 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3127375</guid>
+      <description>Asana will incorporate StackAI into its growing suite of AI workflow tools.</description>
     </item>
     <item>
-      <title>Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment</title>
-      <link>https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment</link>
-      <pubDate>Thu, 28 May 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="false">5vs25ZqndjZeZkNTrrnTAm</guid>
-      <description>Anthropic today released Claude Opus 4.8, an upgrade to its flagship model that ships at the same price as its predecessor, alongside a dramatically cheaper "fast mode" tier and a new feature that lets the model spawn hundreds of parallel subagents for codebase-scale work.The model is available immediately across Anthropic's surfaces &#8212; claude.ai, Claude Code, the API, and Cowork &#8212; at unchanged pricing: $5 per million input tokens and $25 per million output tokens. Developers can call it as claude-opus-4-8.The headline efficiency story is fast mode. Anthropic has slashed the price of running Op...</description>
+      <title>A Trump banknote is in the works, and it might be worth $250</title>
+      <link>https://www.fastcompany.com/91550096/trump-250-dollar-bill-banknote-design</link>
+      <pubDate>2026-05-28T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91550096/trump-250-dollar-bill-banknote-design</guid>
+      <description>The president has put his name and face on buildings, booze, and monuments. Next stop is your wallet.
+If there&#8217;s anything Trump loves, it&#8217;s slapping his face and name on things: vodka, steaks, passports, and even monuments to other people. Now he wants to emblazon his likeness on paper currency.</description>
     </item>
     <item>
-      <title>&#201;lectricit&#233; : &#234;tre pay&#233; pour consommer de l&#8217;&#233;nergie ? Ce contrat surprenant arrive en France</title>
-      <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3115695_electricite-etre-paye-pour-consommer-de-lenergie-ce-contrat-surprenant-arrive-en-france</link>
-      <pubDate>Thu, 28 May 2026 18:19:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3115695_electricite-etre-paye-pour-consommer-de-lenergie-ce-contrat-surprenant-arrive-en-france</guid>
-      <description>
-Avec l'essor des &#233;nergies renouvelables, les prix de l'&#233;lectricit&#233; fluctuent de plus en plus. Et certains fournisseurs ont d&#233;cid&#233; d'en faire une opportunit&#233;, &#224; travers deux offres qui pourraient bient&#244;t s'imposer : la tarification dynamique et le pilotage intelligent.
-</description>
-    </item>
-    <item>
-      <title>Spotify adds playlist folders, bulk editing and background downloads</title>
-      <link>https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/</link>
-      <pubDate>Thu, 28 May 2026 18:11:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/</guid>
-      <description>Spotify's new features aren't AI slop for a change</description>
-    </item>
-    <item>
-      <title>H1 secures $40M from CVS, proving SaaS startups can still attract investment</title>
-      <link>https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/</link>
-      <pubDate>Thu, 28 May 2026 18:08:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127276</guid>
-      <description>CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1&#8217;s unique doctor data.</description>
-    </item>
-    <item>
-      <title>Mars n&#8217;a pas toujours &#233;t&#233; un d&#233;sert glac&#233; : Curiosity r&#233;v&#232;le le moment o&#249; tout a bascul&#233;</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/mars-mars-na-pas-toujours-ete-desert-glace-curiosity-revele-moment-tout-bascule-134840/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 28 May 2026 20:06:15 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/mars-mars-na-pas-toujours-ete-desert-glace-curiosity-revele-moment-tout-bascule-134840/#xtor%3DRSS-8</guid>
-      <description>En analysant des roches martiennes &#233;tudi&#233;es par le rover Curiosity, des chercheurs ont identifi&#233; un nouvel indice min&#233;ralogique du grand basculement climatique de Mars. La taille des cristaux d&#8217;h&#233;matite pr&#233;sents dans le crat&#232;re Gale sugg&#232;re que cette r&#233;gion de la plan&#232;te a connu des conditions...</description>
-    </item>
-    <item>
-      <title>The line between games and movies keeps getting blurrier</title>
-      <link>https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games</link>
-      <pubDate>2026-05-28T14:03:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=939152</guid>
-      <description>The most memorable part of 007 First Light is something that's typically pretty boring: the tutorial. In many games, you're forced through a series of tedious lessons in how to play, presented in a way that feels disconnected from the story itself and at a plodding pace. But First Light does something different. Because the [&#8230;]</description>
-    </item>
-    <item>
-      <title>A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers&#8217; driver&#8217;s licenses</title>
-      <link>https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/</link>
-      <pubDate>Thu, 28 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127302</guid>
-      <description>Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.</description>
-    </item>
-    <item>
-      <title>I asked ChatGPT to build me a realistic weekly workout for a 54-year-old body &#8212; and I actually kept doing it</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-to-build-me-a-realistic-weekly-workout-for-a-54-year-old-body-and-i-actually-kept-doing-it</link>
-      <pubDate>Thu, 28 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">vMrsFiasZAdnUfYzX8LACA</guid>
-      <description>I asked ChatGPT to create a realistic home workout for a middle-aged body, and after two weeks, I&#8217;m surprised by how effective and sustainable it&#8217;s been.</description>
-    </item>
-    <item>
-      <title>The LG C6 OLED TV is my dark horse pick for a World Cup winner &#8212; I said it &#8216;sets the bar for TVs in 2026&#8217; in my review &#8212; and it&#8217;s already been discounted</title>
-      <link>https://www.techradar.com/televisions/the-lg-c6-oled-tv-is-my-dark-horse-pick-for-a-world-cup-winner-i-said-it-sets-the-bar-for-tvs-in-2026-in-my-review-and-its-already-been-discounted</link>
-      <pubDate>Thu, 28 May 2026 17:53:38 +0000</pubDate>
-      <guid isPermaLink="false">LdgewnC4bExppgzsAZkCEG</guid>
-      <description>The LG C6 has only been around for a few weeks, but we're already seeing some big discounts: perfect timing for the World Cup!</description>
-    </item>
-    <item>
-      <title>Wix layoffs today: Tech developer is the latest to cut 20% of jobs while citing AI</title>
-      <link>https://www.fastcompany.com/91549928/wix-layoffs-today-job-cuts-latest-tech-company-to-cite-ai-israel</link>
-      <pubDate>2026-05-28T17:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91549928/wix-layoffs-today-job-cuts-latest-tech-company-to-cite-ai-israel</guid>
-      <description>The Israel-based website builder joins a growing list of companies trimming staff amid the &#8216;fast evolution&#8217; of AI, including Meta, Cisco, and Intuit.
-Israel-based Wix joins a growing list of companies announcing layoffs and citing &#8220;the fast evolution&#8221; of AI. (That list includes Meta, Cisco, Groupon, and Intuit, in just the last few weeks.)</description>
+      <title>Perplexity AI sued by CNN for allegedly copying over 17,000 pieces of content without permission</title>
+      <link>https://www.fastcompany.com/91549991/perplexity-ai-sued-by-cnn-for-allegedly-copying-over-17000-piece-of-content-without-permission</link>
+      <pubDate>2026-05-28T19:59:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91549991/perplexity-ai-sued-by-cnn-for-allegedly-copying-over-17000-piece-of-content-without-permission</guid>
+      <description>The lawsuit marks a first for the media giant that built its brand on cable news. Perplexity&#8217;s response? &#8216;You can&#8217;t copyright facts.&#8217;
+CNN has sued Perplexity, accusing the AI company of unlawfully using the news network&#8217;s copyrighted content without permission.&#160;</description>
     </item>
   </channel>
 </rss>
