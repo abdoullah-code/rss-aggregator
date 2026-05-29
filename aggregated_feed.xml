@@ -3,129 +3,86 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 29 May 2026 19:33:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 21:54:52 GMT</lastBuildDate>
     <item>
-      <title>'Built around volcanic materials' &#8212; Turkish startup wants to make billion-dollar radar systems near obsolete with cheap spray-in-a-can tech that claims to bring stealth capabilities to low-cost drones</title>
-      <link>https://www.techradar.com/pro/built-around-volcanic-materials-turkish-startup-wants-to-make-billion-dollar-radar-systems-near-obsolete-with-cheap-spray-in-a-can-tech-that-claims-to-bring-stealth-capabilities-to-low-cost-drones</link>
-      <pubDate>Fri, 29 May 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">hGZmTtx29gw6j3UDqze5sK</guid>
-      <description>A Turkish company claims volcanic spray technology reduces drone radar visibility using inexpensive materials and simplified stealth application methods.</description>
+      <title>SpaceX gets $4 billion contract to build missile-tracking &#8216;Golden Dome&#8217; satellites</title>
+      <link>https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract</link>
+      <pubDate>2026-05-29T17:48:52-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=940207</guid>
+      <description>The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites for President Donald Trump's planned "Golden Dome" defense system, as reported earlier by Bloomberg. In an announcement on Friday, the US Space Force says the sensor-equipped satellites will allow it to detect and track targets from space. The Elon Musk-owned SpaceX - which [&#8230;]...</description>
     </item>
     <item>
-      <title>MSI Claw 8 EX AI Plus : la console portable qui inaugure la puce Intel Arc G3 Extreme</title>
-      <link>https://www.frandroid.com/marques/msi/3119321_msi-claw-8-ex-ai-plus-la-console-portable-qui-inaugure-la-puce-intel-arc-g3-extreme</link>
-      <pubDate>Fri, 29 May 2026 19:29:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/msi/3119321_msi-claw-8-ex-ai-plus-la-console-portable-qui-inaugure-la-puce-intel-arc-g3-extreme</guid>
-      <description>
-MSI l&#232;ve le voile sur sa Claw 8 EX AI Plus &#224; la veille du Computex 2026. Premier visage commercial pour la nouvelle puce Intel Arc G3 Extreme, taill&#233;e pour les consoles portables.
-</description>
+      <title>Could Microsoft kill the web browser at Build? Everything developers need to know about the NLWeb Protocol</title>
+      <link>https://www.techradar.com/pro/could-microsoft-kill-the-web-browser-at-build-everything-developers-need-to-know-about-the-nlweb-protocol</link>
+      <pubDate>Fri, 29 May 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="false">Gfk5Fe4atJCT8hQswRuxMH</guid>
+      <description>NLWeb is Microsoft's open protocol for turning any website into a conversational AI app. Here's what developers need to know before Build 2026</description>
     </item>
     <item>
-      <title>MIT's MeMo lets teams swap in a better LLM without retraining &#8212; and performance jumps 26%</title>
-      <link>https://venturebeat.com/orchestration/mits-memo-lets-teams-swap-in-a-better-llm-without-retraining-and-performance-jumps-26</link>
-      <pubDate>Fri, 29 May 2026 19:28:17 GMT</pubDate>
-      <guid isPermaLink="false">4W7VOSFiQsA1MMYRxIU5gu</guid>
-      <description>Enabling LLMs to acquire new knowledge after training remains a major hurdle for enterprise AI &#8212; current solutions are either too expensive, too slow, or constrained by context window limits.MeMo, a framework from researchers at multiple universities, encodes new knowledge into a dedicated smaller memory model that operates separately from the main LLM.The modular architecture works with both open- and closed-source models and sidesteps the complexity of RAG pipelines and full model retraining.Experiments show that MeMo handles complex queries reliably even when retrieval pipelines are noisy. ...</description>
+      <title>'Just imagine what could get done' &#8212; How this US startup is building a 'cheap' fab-in-a-box to do for microchips what IBM did for PCs</title>
+      <link>https://www.techradar.com/pro/just-imagine-what-could-get-done-how-this-us-startup-is-building-a-cheap-fab-in-a-box-to-do-for-microchips-what-ibm-did-for-pcs</link>
+      <pubDate>Fri, 29 May 2026 21:15:00 +0000</pubDate>
+      <guid isPermaLink="false">nTiVZWFdSHJgeRkSBQzBWF</guid>
+      <description>InchFab developed compact semiconductor fabrication systems using smaller wafers to reduce manufacturing costs, simplify workforce training, and support specialized industries.</description>
     </item>
     <item>
-      <title>CNN is the latest media company to sue Perplexity</title>
-      <link>https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/</link>
-      <pubDate>Fri, 29 May 2026 19:12:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/</guid>
-      <description>CNN is the latest media company hauling Perplexity into court.</description>
+      <title>Amazon Is Making an AI-Animated &#8216;Good Advice Cupcake&#8217; TV Show. Its Original Creator Is Furious</title>
+      <link>https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/</link>
+      <pubDate>Fri, 29 May 2026 20:56:59 +0000</pubDate>
+      <guid isPermaLink="false">6a18adbb4765fb3136599f9c</guid>
+      <description>Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series&#8212;made with AI&#8212;without her consent.</description>
     </item>
     <item>
-      <title>Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend</title>
-      <link>https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/</link>
-      <pubDate>Fri, 29 May 2026 19:07:46 +0000</pubDate>
-      <guid isPermaLink="false">6a19bc8325a5da05d3b76a3c</guid>
-      <description>Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn&#8217;t clock the person most important to me.</description>
+      <title>The White House&#8217;s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens</title>
+      <link>https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/</link>
+      <pubDate>Fri, 29 May 2026 20:53:09 +0000</pubDate>
+      <guid isPermaLink="false">6a19c1ab738675473398e6ba</guid>
+      <description>The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration&#8217;s sweeping immigration crackdown. But some of its details are really out there.</description>
     </item>
     <item>
-      <title>'AI adoption has become a game of chance': Employees are being left to navigate AI tools on their own as businesses fail to implement proper training</title>
-      <link>https://www.techradar.com/pro/ai-adoption-has-become-a-game-of-chance-employees-are-being-left-to-navigate-ai-tools-on-their-own-as-businesses-fail-to-implement-proper-training</link>
-      <pubDate>Fri, 29 May 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">nxT2NkFkp6Eh4oAhfhjhPf</guid>
-      <description>Only around half of the workers using AI regularly have had any formal training from their employers.</description>
+      <title>'Our ability to achieve orbital AI at scale depends on our ability to access a sufficient number of AI chips, significantly more than are currently available to us': SpaceX admits that getting data centers in space may fall short due to a lack of chips</title>
+      <link>https://www.techradar.com/pro/our-ability-to-achieve-orbital-ai-at-scale-depends-on-our-ability-to-access-a-sufficient-number-of-ai-chips-significantly-more-than-are-currently-available-to-us-spacex-admits-its-aims-of-getting-data-centers-in-space-may-fall-short-due-to-a-lack-of-chips</link>
+      <pubDate>Fri, 29 May 2026 20:40:00 +0000</pubDate>
+      <guid isPermaLink="false">HQeThadPomQw6Gj5t95hdb</guid>
+      <description>SpaceX admitted its orbital AI ambitions depend heavily upon scarce GPUs and uncertain semiconductor partnerships surrounding the TeraFab project.</description>
     </item>
     <item>
-      <title>If you need identity theft protection for $10 per month, this is the deal for you &#8212; Norton LifeLock can help secure you against the #1 crime in America</title>
-      <link>https://www.techradar.com/pro/if-you-need-identity-theft-protection-for-usd10-per-month-this-is-the-deal-for-you-norton-lifelock-can-help-secure-you-against-the-1-crime-in-america</link>
-      <pubDate>Fri, 29 May 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ghV4ZPjn3ja4Tj43iqxobK</guid>
-      <description>Keep your identity safe for $10 per month &#8212; Norton LifeLock is 16% off right now</description>
+      <title>The leadership skill that unlocks better outcomes</title>
+      <link>https://www.fastcompany.com/91550879/the-leadership-skill-that-unlocks-better-outcomes</link>
+      <pubDate>2026-05-29T20:25:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91550879/the-leadership-skill-that-unlocks-better-outcomes</guid>
+      <description>Bridge building helps people stay focused on what they want, especially when emotions and advisors are pulling them off course.
+As founder, chair, and CEO of the Exceptional Women Alliance, I am privileged to engage with extraordinary female leaders across industries. This month, I spoke with Britt Ide about one of the most overlooked&#8212;and essential&#8212;leadership skills: building bridges. An engineer, lawyer, and seasoned board director, Ide has spent her career navigating high-stakes negotiations, from major deals to complex disputes....</description>
     </item>
     <item>
-      <title>Acer&#8217;s launching a Linux handheld for streaming your PC games</title>
-      <link>https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld</link>
-      <pubDate>2026-05-29T15:01:48-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=940091</guid>
-      <description>The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a "streaming-first handheld and companion device," like a PlayStation Portal for your PC. Announced at Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, and [&#8230;]</description>
+      <title>&#8216;We&#8217;re Just Getting the Crumbs Here&#8217;: Contractors Protest Layoffs at Meta&#8217;s European Headquarters</title>
+      <link>https://www.wired.com/story/meta-covalen-protest-strike-dublin/</link>
+      <pubDate>Fri, 29 May 2026 20:18:01 +0000</pubDate>
+      <guid isPermaLink="false">6a186bee9f19e45181faf4e1</guid>
+      <description>Soon-to-be-laid-off Meta contractors say they&#8217;re being treated differently than Mark Zuckerberg&#8217;s full-time employees, who stand to receive more generous severance packages.</description>
     </item>
     <item>
-      <title>MIT scientists make lithium-ion breakthrough that could solve a global battery issue &#8212; new low-cost extraction method was inspired by a bathroom renovation project and could reduce reliance on China</title>
-      <link>https://www.techradar.com/tech/mit-scientists-make-lithium-ion-breakthrough-that-could-solve-a-global-battery-issue-new-low-cost-extraction-method-was-inspired-by-a-bathroom-renovation-project-and-could-reduce-reliance-on-china</link>
-      <pubDate>Fri, 29 May 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">qdAvui7kAbvKTE6J22zEQV</guid>
-      <description>Most gadgets rely on lithium-ion batteries, and scientists have come up with a better way of getting at lithium.</description>
+      <title>AI can change the world&#8212;if we change who it&#8217;s built for</title>
+      <link>https://www.fastcompany.com/91550235/ai-can-change-the-world-if-we-change-who-its-built-for</link>
+      <pubDate>2026-05-29T20:05:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91550235/ai-can-change-the-world-if-we-change-who-its-built-for</guid>
+      <description>The funding gap needs to be addressed for social impact innovation.
+In the first quarter of 2026, investors deployed $300 billion into 6,000 startups, up 150% from previous years. Only a single-digit sliver of that capital is directed toward AI applications focused on solving social and environmental challenges.</description>
     </item>
     <item>
-      <title>So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that</title>
-      <link>https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
-      <pubDate>Fri, 29 May 2026 18:49:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
-      <description>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+      <title>Want great coffee, fast? I'm a trained barista, and these are my top 4 capsule coffee makers from Nespresso, Keurig, and more</title>
+      <link>https://www.techradar.com/home/coffee-machines/want-great-coffee-fast-im-a-trained-barista-and-these-are-my-top-4-capsule-coffee-makers-from-nespresso-keurig-and-more</link>
+      <pubDate>Fri, 29 May 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jYXNLEz8NrMMHfRsWNmVqe</guid>
+      <description>Capsule coffee makers get a bad rap, but if you choose the right one, you can enjoy great-tasting drinks at home in two minutes flat.</description>
     </item>
     <item>
-      <title>Lidl launches super-cheap solar balcony battery &#8212; as home backups become new energy crisis essential</title>
-      <link>https://www.techradar.com/home/lidl-launches-super-cheap-solar-balcony-battery-as-home-backups-become-new-energy-crisis-essential</link>
-      <pubDate>Fri, 29 May 2026 18:14:23 +0000</pubDate>
-      <guid isPermaLink="false">HUYyqzN6fByECGfy3CS8Y3</guid>
-      <description>Lidl's new balcony battery lets you store solar energy to use later or in an emergency, potentially saving you money or keeping the lights on.</description>
-    </item>
-    <item>
-      <title>FIFA websites spoofed by hackers ahead of 2026 World Cup, FBI warns</title>
-      <link>https://www.techradar.com/pro/security/fifa-websites-spoofed-by-hackers-ahead-of-2026-world-cup-fbi-warns</link>
-      <pubDate>Fri, 29 May 2026 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">6zSWFNc7bqvxXijLEWSYFQ</guid>
-      <description>Dozens of fake FIFA sites are out there, stealing people's data and possibly even money.</description>
-    </item>
-    <item>
-      <title>Un trou noir n&#233; avant sa galaxie&#8201;? Ce &#171;&#8201;petit point rouge&#8201;&#187; d&#233;fie les astronomes</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/trou-noir-supermassif-trou-noir-ne-avant-galaxie-ce-petit-point-rouge-defie-astronomes-134849/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 29 May 2026 20:01:26 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/trou-noir-supermassif-trou-noir-ne-avant-galaxie-ce-petit-point-rouge-defie-astronomes-134849/#xtor%3DRSS-8</guid>
-      <description>Ce &#171;&#8201;petit point rouge&#8201;&#187; n&#8217;est peut-&#234;tre pas comme les autres d&#233;couverts par le t&#233;lescope spatial James-Webb. Les astronomes ont eu la chance de pouvoir l&#8217;observer de plus pr&#232;s. Et personne ne s&#8217;attendait &#224; ce qu&#8217;ils ont d&#233;couvert&#160;: un trou noir supermassif form&#233; avant sa galaxie h&#244;te clairement...</description>
-    </item>
-    <item>
-      <title>What happens when companies become too AI-pilled?</title>
-      <link>https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/</link>
-      <pubDate>Fri, 29 May 2026 17:57:05 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3127833</guid>
-      <description>The people deciding that AI can replace your job are also the ones least likely to understand what your job&#160;truly involves, according to Box founder Aaron Levie, who pointed to this as an example of&#160;&#8220;AI psychosis.&#8221; Indeed,&#160;ClickUp&#160;recently&#160;cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Samsung TV OLED 77&#8243;, Garmin Forerunner&#160;570 et tablette Xiaomi Redmi Pad&#160;2&#160;: les meilleurs bons plans du jour &#224; saisir</title>
-      <link>https://www.frandroid.com/bons-plans/3118969_samsung-tv-oled-77-garmin-forerunner-570-et-tablette-xiaomi-redmi-pad-2-les-meilleurs-bons-plans-du-jour-a-saisir</link>
-      <pubDate>Fri, 29 May 2026 17:44:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3118969_samsung-tv-oled-77-garmin-forerunner-570-et-tablette-xiaomi-redmi-pad-2-les-meilleurs-bons-plans-du-jour-a-saisir</guid>
-      <description>
-Ce vendredi&#160;29&#160;mai&#160;2026, plusieurs produits tr&#232;s convoit&#233;s profitent de remises cons&#233;quentes chez Carrefour, Alltricks et Xiaomi. 
-</description>
-    </item>
-    <item>
-      <title>The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame</title>
-      <link>https://www.wired.com/story/best-pool-cleaning-robots/</link>
-      <pubDate>Fri, 29 May 2026 17:39:04 +0000</pubDate>
-      <guid isPermaLink="false">69e0f7b1ae2b670940bc07c3</guid>
-      <description>Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.</description>
-    </item>
-    <item>
-      <title>Tech companies desperately want to film you doing chores</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data</link>
-      <pubDate>2026-05-29T13:37:43-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=940007</guid>
-      <description>This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]</description>
+      <title>Costco says Americans are panic-buying one thing again &#8212; and it&#8217;s not toilet paper</title>
+      <link>https://www.fastcompany.com/91550925/costco-says-americans-are-panic-buying-one-thing-again-and-its-not-toilet-paper</link>
+      <pubDate>2026-05-29T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91550925/costco-says-americans-are-panic-buying-one-thing-again-and-its-not-toilet-paper</guid>
+      <description>Record gas station traffic helped fuel strong quarterly sales as drivers searched for relief from rising prices.
+With gas prices soaring, Americans looking to save at the pump are flocking to Costco in droves.</description>
     </item>
   </channel>
 </rss>
