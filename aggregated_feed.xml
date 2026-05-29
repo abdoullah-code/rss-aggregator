@@ -3,276 +3,129 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 29 May 2026 16:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 19:33:08 GMT</lastBuildDate>
     <item>
-      <title>We Asked the &#8216;Future of Truth&#8217; Author to Explain How He Used AI. It Didn&#8217;t Go Well</title>
-      <link>https://www.wired.com/story/future-of-truth-ai-interview/</link>
-      <pubDate>Fri, 29 May 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">6a15b00b4e296e9f434f9e08</guid>
-      <description>A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.</description>
+      <title>'Built around volcanic materials' &#8212; Turkish startup wants to make billion-dollar radar systems near obsolete with cheap spray-in-a-can tech that claims to bring stealth capabilities to low-cost drones</title>
+      <link>https://www.techradar.com/pro/built-around-volcanic-materials-turkish-startup-wants-to-make-billion-dollar-radar-systems-near-obsolete-with-cheap-spray-in-a-can-tech-that-claims-to-bring-stealth-capabilities-to-low-cost-drones</link>
+      <pubDate>Fri, 29 May 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">hGZmTtx29gw6j3UDqze5sK</guid>
+      <description>A Turkish company claims volcanic spray technology reduces drone radar visibility using inexpensive materials and simplified stealth application methods.</description>
     </item>
     <item>
-      <title>CD Projekt Red CEO says the studio's 'ambitious' plans for a new Witcher trilogy could mean no expansions for The Witcher 4 &#8212; 'It would be difficult, to be very honest'</title>
-      <link>https://www.techradar.com/gaming/cd-projekt-red-ceo-says-the-studios-ambitious-plans-for-a-new-witcher-trilogy-could-mean-no-expansions-for-the-witcher-4-it-would-be-difficult-to-be-very-honest</link>
-      <pubDate>Fri, 29 May 2026 16:26:58 +0000</pubDate>
-      <guid isPermaLink="false">i6Ho2BRmjUb8KmexVnsEFF</guid>
-      <description>CD Projekt Red has suggested that the next Witcher trilogy, which starts with The Witcher 4, may not get any expansions.</description>
-    </item>
-    <item>
-      <title>Pinterest cut AI costs 90% by gutting a frontier model's vision layer</title>
-      <link>https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer</link>
-      <pubDate>Fri, 29 May 2026 16:24:25 GMT</pubDate>
-      <guid isPermaLink="false">7EXCBFypi32Hey0SeQZu6a</guid>
-      <description>At 620 million monthly users, calling a frontier model for every image recommendation isn't a strategy &#8212; it's a bill. Pinterest CTO Matt Madrigal solved it by gutting Qwen3-VL's vision layer and rebuilding it with proprietary embeddings, cutting costs 90% and boosting accuracy 30%.Madrigal&#8217;s team has been heavily investing in customizing open-source models &#8220;foundationally in-house.&#8221; &#8220;If you've got really unique data that you can then fine-tune an open source model with, data quality will, frankly, outweigh or overcome model size,&#8221; Madrigal explained in a recent VB Beyond the Pilot podcast.&#160;How...</description>
-    </item>
-    <item>
-      <title>Microsoft teases new Surface hardware and &#8216;a new era of PC&#8217;</title>
-      <link>https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors</link>
-      <pubDate>2026-05-29T12:21:22-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=939960</guid>
-      <description>I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased "something new is coming for developers," complete with a mysterious image of what looks like a curved display edge. Davuluri notes that whatever is coming [&#8230;]</description>
-    </item>
-    <item>
-      <title>Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans</title>
-      <link>https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/</link>
-      <pubDate>Fri, 29 May 2026 16:13:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127459</guid>
-      <description>Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.</description>
-    </item>
-    <item>
-      <title>Le chargeur ultime pour vos voyages ? Ce mod&#232;le Anker 65W multi-ports est &#224; prix cass&#233;</title>
-      <link>https://www.frandroid.com/bons-plans/3118989_le-chargeur-ultime-pour-vos-voyages-ce-modele-anker-65w-multi-ports-est-a-prix-casse</link>
-      <pubDate>Fri, 29 May 2026 16:09:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3118989_le-chargeur-ultime-pour-vos-voyages-ce-modele-anker-65w-multi-ports-est-a-prix-casse</guid>
+      <title>MSI Claw 8 EX AI Plus : la console portable qui inaugure la puce Intel Arc G3 Extreme</title>
+      <link>https://www.frandroid.com/marques/msi/3119321_msi-claw-8-ex-ai-plus-la-console-portable-qui-inaugure-la-puce-intel-arc-g3-extreme</link>
+      <pubDate>Fri, 29 May 2026 19:29:38 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/msi/3119321_msi-claw-8-ex-ai-plus-la-console-portable-qui-inaugure-la-puce-intel-arc-g3-extreme</guid>
       <description>
-Avec ses trois ports de charge et son format compact, ce chargeur Anker de 65 W met fin &#224; tous vos probl&#232;mes de batterie et, chez Amazon, il est disponible &#224; prix cass&#233;.
+MSI l&#232;ve le voile sur sa Claw 8 EX AI Plus &#224; la veille du Computex 2026. Premier visage commercial pour la nouvelle puce Intel Arc G3 Extreme, taill&#233;e pour les consoles portables.
 </description>
     </item>
     <item>
-      <title>Nintendo quietly launched a new game that's just like WarioWare, and you can try it for free</title>
-      <link>https://www.techradar.com/gaming/nintendo/nintendo-quietly-launched-a-new-game-thats-just-like-warioware-and-you-can-try-it-for-free</link>
-      <pubDate>Fri, 29 May 2026 16:05:51 +0000</pubDate>
-      <guid isPermaLink="false">unVDwSWHLEYnB584ycWdnK</guid>
-      <description>Nintendo has launched Pictonico!, a new mobile game that uses your photos.</description>
+      <title>MIT's MeMo lets teams swap in a better LLM without retraining &#8212; and performance jumps 26%</title>
+      <link>https://venturebeat.com/orchestration/mits-memo-lets-teams-swap-in-a-better-llm-without-retraining-and-performance-jumps-26</link>
+      <pubDate>Fri, 29 May 2026 19:28:17 GMT</pubDate>
+      <guid isPermaLink="false">4W7VOSFiQsA1MMYRxIU5gu</guid>
+      <description>Enabling LLMs to acquire new knowledge after training remains a major hurdle for enterprise AI &#8212; current solutions are either too expensive, too slow, or constrained by context window limits.MeMo, a framework from researchers at multiple universities, encodes new knowledge into a dedicated smaller memory model that operates separately from the main LLM.The modular architecture works with both open- and closed-source models and sidesteps the complexity of RAG pipelines and full model retraining.Experiments show that MeMo handles complex queries reliably even when retrieval pipelines are noisy. ...</description>
     </item>
     <item>
-      <title>CISA warns that Nx Console and GitHub repositories abused in multiple supply chain compromises &#8211; tools across enterprise, cloud, and DevOps environments exploited</title>
-      <link>https://www.techradar.com/pro/security/cisa-warns-that-nx-console-and-github-repositories-abused-in-multiple-supply-chain-compromises-tools-across-enterprise-cloud-and-devops-environments-exploited</link>
-      <pubDate>Fri, 29 May 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">urDtLRaVp9HUHu6seA3v3Z</guid>
-      <description>The agency is giving practical advice on how to remain secure in an increasingly unsecure environment.</description>
+      <title>CNN is the latest media company to sue Perplexity</title>
+      <link>https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/</link>
+      <pubDate>Fri, 29 May 2026 19:12:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/</guid>
+      <description>CNN is the latest media company hauling Perplexity into court.</description>
     </item>
     <item>
-      <title>Paramount+ used AI to make the ugliest Star Trek thumbnail ever</title>
-      <link>https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/</link>
-      <pubDate>Fri, 29 May 2026 16:03:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever/</guid>
-      <description>We've never seen Captain Kirk wearing an outfit quite like this one.</description>
+      <title>Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend</title>
+      <link>https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/</link>
+      <pubDate>Fri, 29 May 2026 19:07:46 +0000</pubDate>
+      <guid isPermaLink="false">6a19bc8325a5da05d3b76a3c</guid>
+      <description>Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn&#8217;t clock the person most important to me.</description>
     </item>
     <item>
-      <title>Vous cherchez un smartphone pas cher pour l&#8217;&#233;t&#233;&#160;? Voici notre s&#233;lection &#224; moins de 200&#160;&#8364;</title>
-      <link>https://www.01net.com/actualites/vous-cherchez-smartphone-pas-cher-pour-ete-notre-selection-moins-200-euros.html</link>
-      <pubDate>Fri, 29 May 2026 16:01:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1350258</guid>
-      <description>Si vous cherchez un bon smartphone &#224; moins de 200 euros, notre derni&#232;re vid&#233;o vous pr&#233;sente justement les meilleurs du moment.</description>
+      <title>'AI adoption has become a game of chance': Employees are being left to navigate AI tools on their own as businesses fail to implement proper training</title>
+      <link>https://www.techradar.com/pro/ai-adoption-has-become-a-game-of-chance-employees-are-being-left-to-navigate-ai-tools-on-their-own-as-businesses-fail-to-implement-proper-training</link>
+      <pubDate>Fri, 29 May 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">nxT2NkFkp6Eh4oAhfhjhPf</guid>
+      <description>Only around half of the workers using AI regularly have had any formal training from their employers.</description>
     </item>
     <item>
-      <title>I made an AI clone of myself based on my Google and Reddit history &#8212; and it understood me better than I expected</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-made-an-ai-clone-of-myself-based-on-my-google-and-reddit-history-and-it-understood-me-better-than-i-expected</link>
-      <pubDate>Fri, 29 May 2026 15:53:57 +0000</pubDate>
-      <guid isPermaLink="false">VM62JaYYZ3cCNz5AzMzZNb</guid>
-      <description>I used years of Reddit comments and Google history to create an AI version of myself in ChatGPT</description>
+      <title>If you need identity theft protection for $10 per month, this is the deal for you &#8212; Norton LifeLock can help secure you against the #1 crime in America</title>
+      <link>https://www.techradar.com/pro/if-you-need-identity-theft-protection-for-usd10-per-month-this-is-the-deal-for-you-norton-lifelock-can-help-secure-you-against-the-1-crime-in-america</link>
+      <pubDate>Fri, 29 May 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">ghV4ZPjn3ja4Tj43iqxobK</guid>
+      <description>Keep your identity safe for $10 per month &#8212; Norton LifeLock is 16% off right now</description>
     </item>
     <item>
-      <title>On a test&#233; la MG4 Urban : &#224; 20 000 &#8364;, c&#8217;est peut-&#234;tre la voiture &#233;lectrique la plus int&#233;ressante du moment</title>
-      <link>https://www.frandroid.com/marques/mg/3116385_on-a-teste-la-mg4-urban-a-20-000-e-cest-peut-etre-la-voiture-electrique-la-plus-interessante-du-moment</link>
-      <pubDate>Fri, 29 May 2026 15:53:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/mg/3116385_on-a-teste-la-mg4-urban-a-20-000-e-cest-peut-etre-la-voiture-electrique-la-plus-interessante-du-moment</guid>
+      <title>Acer&#8217;s launching a Linux handheld for streaming your PC games</title>
+      <link>https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld</link>
+      <pubDate>2026-05-29T15:01:48-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=940091</guid>
+      <description>The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a "streaming-first handheld and companion device," like a PlayStation Portal for your PC. Announced at Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, and [&#8230;]</description>
+    </item>
+    <item>
+      <title>MIT scientists make lithium-ion breakthrough that could solve a global battery issue &#8212; new low-cost extraction method was inspired by a bathroom renovation project and could reduce reliance on China</title>
+      <link>https://www.techradar.com/tech/mit-scientists-make-lithium-ion-breakthrough-that-could-solve-a-global-battery-issue-new-low-cost-extraction-method-was-inspired-by-a-bathroom-renovation-project-and-could-reduce-reliance-on-china</link>
+      <pubDate>Fri, 29 May 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">qdAvui7kAbvKTE6J22zEQV</guid>
+      <description>Most gadgets rely on lithium-ion batteries, and scientists have come up with a better way of getting at lithium.</description>
+    </item>
+    <item>
+      <title>So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that</title>
+      <link>https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <pubDate>Fri, 29 May 2026 18:49:19 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
+      <description>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+    </item>
+    <item>
+      <title>Lidl launches super-cheap solar balcony battery &#8212; as home backups become new energy crisis essential</title>
+      <link>https://www.techradar.com/home/lidl-launches-super-cheap-solar-balcony-battery-as-home-backups-become-new-energy-crisis-essential</link>
+      <pubDate>Fri, 29 May 2026 18:14:23 +0000</pubDate>
+      <guid isPermaLink="false">HUYyqzN6fByECGfy3CS8Y3</guid>
+      <description>Lidl's new balcony battery lets you store solar energy to use later or in an emergency, potentially saving you money or keeping the lights on.</description>
+    </item>
+    <item>
+      <title>FIFA websites spoofed by hackers ahead of 2026 World Cup, FBI warns</title>
+      <link>https://www.techradar.com/pro/security/fifa-websites-spoofed-by-hackers-ahead-of-2026-world-cup-fbi-warns</link>
+      <pubDate>Fri, 29 May 2026 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">6zSWFNc7bqvxXijLEWSYFQ</guid>
+      <description>Dozens of fake FIFA sites are out there, stealing people's data and possibly even money.</description>
+    </item>
+    <item>
+      <title>Un trou noir n&#233; avant sa galaxie&#8201;? Ce &#171;&#8201;petit point rouge&#8201;&#187; d&#233;fie les astronomes</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/trou-noir-supermassif-trou-noir-ne-avant-galaxie-ce-petit-point-rouge-defie-astronomes-134849/#xtor%3DRSS-8</link>
+      <pubDate>Fri, 29 May 2026 20:01:26 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/trou-noir-supermassif-trou-noir-ne-avant-galaxie-ce-petit-point-rouge-defie-astronomes-134849/#xtor%3DRSS-8</guid>
+      <description>Ce &#171;&#8201;petit point rouge&#8201;&#187; n&#8217;est peut-&#234;tre pas comme les autres d&#233;couverts par le t&#233;lescope spatial James-Webb. Les astronomes ont eu la chance de pouvoir l&#8217;observer de plus pr&#232;s. Et personne ne s&#8217;attendait &#224; ce qu&#8217;ils ont d&#233;couvert&#160;: un trou noir supermassif form&#233; avant sa galaxie h&#244;te clairement...</description>
+    </item>
+    <item>
+      <title>What happens when companies become too AI-pilled?</title>
+      <link>https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/</link>
+      <pubDate>Fri, 29 May 2026 17:57:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3127833</guid>
+      <description>The people deciding that AI can replace your job are also the ones least likely to understand what your job&#160;truly involves, according to Box founder Aaron Levie, who pointed to this as an example of&#160;&#8220;AI psychosis.&#8221; Indeed,&#160;ClickUp&#160;recently&#160;cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]</description>
+    </item>
+    <item>
+      <title>Samsung TV OLED 77&#8243;, Garmin Forerunner&#160;570 et tablette Xiaomi Redmi Pad&#160;2&#160;: les meilleurs bons plans du jour &#224; saisir</title>
+      <link>https://www.frandroid.com/bons-plans/3118969_samsung-tv-oled-77-garmin-forerunner-570-et-tablette-xiaomi-redmi-pad-2-les-meilleurs-bons-plans-du-jour-a-saisir</link>
+      <pubDate>Fri, 29 May 2026 17:44:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3118969_samsung-tv-oled-77-garmin-forerunner-570-et-tablette-xiaomi-redmi-pad-2-les-meilleurs-bons-plans-du-jour-a-saisir</guid>
       <description>
-C'est peut-&#234;tre le casse de l'ann&#233;e. Ne vous fiez pas &#224; son patronyme, mais la MG4 Urban n&#8217;a de citadine que le prix. En &#233;tirant sa silhouette, son &#233;quipement de s&#233;rie, et en faisant chuter son prix, la marque sino-britannique braque litt&#233;ralement le segment des voitures &#233;lectriques compactes. Les Renault M&#233;gane E-Tech et Volkswagen ID.3 n'ont qu'&#224; bien se tenir. Mais au point de faire quelles concessions sur la route ? Voici notre essai.
-...</description>
-    </item>
-    <item>
-      <title>Samsung Movingstyle Essential Review: A Screen on Wheels</title>
-      <link>https://www.wired.com/review/samsung-movingstyle-32-m7/</link>
-      <pubDate>Fri, 29 May 2026 15:52:17 +0000</pubDate>
-      <guid isPermaLink="false">69f4ddfe66cdcc9a7151d143</guid>
-      <description>Made for those who hate having a TV in the home, Samsung&#8217;s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don&#8217;t.</description>
-    </item>
-    <item>
-      <title>Amazon has a bunch of multi-port Anker fast chargers on sale &#8212; get up to $30 off this weekend</title>
-      <link>https://mashable.com/tech/may-29-best-anker-charger-deals-this-weekend</link>
-      <pubDate>Fri, 29 May 2026 15:50:16 +0000</pubDate>
-      <guid isPermaLink="false">012GeSiGiPbyYuAWhmJAV4S</guid>
-      <description>Shop the best deals on Anker fast chargers at Amazon. Save on the Nano, a three-port wall block, and a 112W desktop charger.</description>
-    </item>
-    <item>
-      <title>Casetify has released an actual Tamagotchi device, and it is peak millennial nostalgia</title>
-      <link>https://mashable.com/tech/casetify-tamagotchi-collection-launch</link>
-      <pubDate>Fri, 29 May 2026 15:46:17 +0000</pubDate>
-      <guid isPermaLink="false">056S05N4l30iUxO34xqmzdS</guid>
-      <description>Casetify is releasing a custom-branded Tamagotchi device alongside a nostalgia-packed collection of tech accessories starting at $36.</description>
-    </item>
-    <item>
-      <title>Anthropic overtakes OpenAI to become worlds most valuable AI company</title>
-      <link>https://mashable.com/tech/anthropic-overtakes-openai-ai-company-valuation-revenue</link>
-      <pubDate>Fri, 29 May 2026 15:45:58 +0000</pubDate>
-      <guid isPermaLink="false">06VG9kG7pXp0Iy54bszPODC</guid>
-      <description>With a new valuation of nearly one trillion dollars, Anthropic is now more valuable than OpenAI.</description>
-    </item>
-    <item>
-      <title>Agon Pro 27 : AOC lance &#224; son tour un &#233;cran gamer Full HD &#224; 1000 Hz</title>
-      <link>https://www.frandroid.com/marques/aoc/3118647_agon-pro-27-aoc-lance-a-son-tour-un-ecran-gamer-full-hd-a-1000-hz</link>
-      <pubDate>Fri, 29 May 2026 15:44:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/aoc/3118647_agon-pro-27-aoc-lance-a-son-tour-un-ecran-gamer-full-hd-a-1000-hz</guid>
-      <description>
-AOC d&#233;voile un nouvel &#233;cran en 1080p capable de supporter une fr&#233;quence de rafra&#238;chissement de 1000 Hz. Pour des jeux d'une fluidit&#233; extr&#234;me.
+Ce vendredi&#160;29&#160;mai&#160;2026, plusieurs produits tr&#232;s convoit&#233;s profitent de remises cons&#233;quentes chez Carrefour, Alltricks et Xiaomi. 
 </description>
     </item>
     <item>
-      <title>Un nouvel &#233;chec : la fus&#233;e Blue Origin explose de fa&#231;on spectaculaire avant son d&#233;collage &#224; Cap Canaveral</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/acces-espace-nouvel-echec-fusee-blue-origin-explose-facon-spectaculaire-avant-son-decollage-cap-canaveral-134887/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 29 May 2026 17:42:00 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/acces-espace-nouvel-echec-fusee-blue-origin-explose-facon-spectaculaire-avant-son-decollage-cap-canaveral-134887/#xtor%3DRSS-8</guid>
-      <description>Sept jours apr&#232;s avoir re&#231;u le feu vert de la FAA pour reprendre ses vols, Blue Origin a perdu sa fus&#233;e New Glenn dans une explosion sur son pas de tir de Cap Canaveral. Un accident qui tombe au plus mauvais moment pour la soci&#233;t&#233; de Jeff Bezos, engag&#233;e dans des contrats commerciaux majeurs et...</description>
+      <title>The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame</title>
+      <link>https://www.wired.com/story/best-pool-cleaning-robots/</link>
+      <pubDate>Fri, 29 May 2026 17:39:04 +0000</pubDate>
+      <guid isPermaLink="false">69e0f7b1ae2b670940bc07c3</guid>
+      <description>Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.</description>
     </item>
     <item>
-      <title>Palantir's 'unlimited access' to patient data &#8212; we examine the US tech giant's controversial &#163;330 million contract with the NHS</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/palantirs-unlimited-access-to-patient-data-we-examine-the-us-tech-giants-controversial-gbp330-million-contract-with-the-nhs</link>
-      <pubDate>Fri, 29 May 2026 15:39:02 +0000</pubDate>
-      <guid isPermaLink="false">Cwu4J2vx3YpLYVh3EVWuYS</guid>
-      <description>While the NHS has just granted Palantir "unlimited access" to patient data, the relationship between the UK public health sector and the controversial American firm dates back to 2020. Here's how we get here, and what's at stake.</description>
-    </item>
-    <item>
-      <title>Fitbit Air reviews: Is it time for a fitness tracker upgrade?</title>
-      <link>https://mashable.com/tech/google-fitbit-air-review-roundup</link>
-      <pubDate>Fri, 29 May 2026 15:34:02 +0000</pubDate>
-      <guid isPermaLink="false">03vply6xdqnKEAS5aecSp7U</guid>
-      <description>Fitbit has a new screenless health tracker, but does it measure up to the competition?</description>
-    </item>
-    <item>
-      <title>Backrooms review: Does the online creepypasta make a good full-length movie?</title>
-      <link>https://mashable.com/entertainment/backrooms-review</link>
-      <pubDate>Fri, 29 May 2026 15:33:29 +0000</pubDate>
-      <guid isPermaLink="false">02iLvgDfZRavl1Pj9qcjhzu</guid>
-      <description>Mashable's review of "Backrooms", Kane Parsons' A24 horror about a store owner discovering the doorway to another world in his basement.</description>
-    </item>
-    <item>
-      <title>OpenAI just quietly retired the last of the GPT-4 models &#8212; and it feels like the end of an AI era</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/openai-just-quietly-retired-the-last-of-the-gpt-4-models-and-it-feels-like-the-end-of-an-ai-era</link>
-      <pubDate>Fri, 29 May 2026 15:29:30 +0000</pubDate>
-      <guid isPermaLink="false">fe8Um7aXKB6MoqULTXyNRi</guid>
-      <description>OpenAI has confirmed that GPT-4.5 will be removed from ChatGPT next month, marking the end of the GPT-4 era.</description>
-    </item>
-    <item>
-      <title>The Eufy E15 robot lawn mower is down to its best-ever price &#8212; nearly half off at Amazon</title>
-      <link>https://mashable.com/tech/may-29-eufy-e15-robot-lawn-mower-deal</link>
-      <pubDate>Fri, 29 May 2026 15:27:22 +0000</pubDate>
-      <guid isPermaLink="false">07Efyu19M1T3sHBRrsM4dv2</guid>
-      <description>The Eufy E15 robot lawn mower is on sale at Amazon for just $949.99. That's $850 or nearly 50% in savings and its best price ever.</description>
-    </item>
-    <item>
-      <title>A new Fire TV pop-up takes over your entire screen at startup, and it could be the beginning of the end &#8212; here&#8217;s why users think Amazon could open it up to third-party advertisers</title>
-      <link>https://www.techradar.com/televisions/streaming-devices/a-new-fire-tv-pop-up-takes-over-your-entire-screen-at-startup-and-it-could-be-the-beginning-of-the-end-heres-why-users-think-amazon-could-open-it-up-to-third-party-advertisers</link>
-      <pubDate>Fri, 29 May 2026 15:27:19 +0000</pubDate>
-      <guid isPermaLink="false">kBxMf2hVGwpWjRZL5KfugB</guid>
-      <description>A new pop-up has appeared on Fire TV devices, and users are worried that more third-party advertisers are about to block your view.</description>
-    </item>
-    <item>
-      <title>Compatible Dolby Atmos, cette barre de son Yamaha 2.1.2 &#224; -50 % mise tout sur l&#8217;immersion</title>
-      <link>https://www.frandroid.com/bons-plans/3118813_compatible-dolby-atmos-cette-barre-de-son-yamaha-2-1-2-a-50-mise-tout-sur-limmersion</link>
-      <pubDate>Fri, 29 May 2026 15:21:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3118813_compatible-dolby-atmos-cette-barre-de-son-yamaha-2-1-2-a-50-mise-tout-sur-limmersion</guid>
-      <description>
-Si vous cherchez &#224; mettre la main sur une barre de son offrant une belle immersion, mais que votre budget n'est pas extensible, alors la Yamaha SR-X40A pourrait bien vous convenir. Ce mod&#232;le 2.1.2 canaux est propos&#233; &#224; 299 euros au lieu de 599 euros par Boulanger.
-</description>
-    </item>
-    <item>
-      <title>'The situation isn&#8217;t looking good' &#8212; Russia halts VPN fees, but the Kremlin's war against censorship circumvention tools doubles down</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/the-situation-isnt-looking-good-russia-halts-vpn-fees-but-the-kremlins-war-against-censorship-circumvention-tools-doubles-down</link>
-      <pubDate>Fri, 29 May 2026 15:18:42 +0000</pubDate>
-      <guid isPermaLink="false">838CAfcppgcCcNKW6N5zbN</guid>
-      <description>A new major wave of VPN blocks has left residents with very few means of going back online. Here's all we know.</description>
-    </item>
-    <item>
-      <title>The best TV deals to shop this weekend: Save on Sony, Toshiba, and Hisense</title>
-      <link>https://mashable.com/tech/may-29-best-tv-deals-this-weekend</link>
-      <pubDate>Fri, 29 May 2026 15:13:06 +0000</pubDate>
-      <guid isPermaLink="false">00mNIHK6ApxoQpegoSERA9X</guid>
-      <description>Missed the Memorial Day sales? You can still save up to 46% on a new TV from Hisense, Toshiba, or Sony.</description>
-    </item>
-    <item>
-      <title>Best power station deals to shop this weekend: Save up to $750 on Bluetti, Anker, and Jackery</title>
-      <link>https://mashable.com/tech/may-29-best-power-station-deals-this-weekend</link>
-      <pubDate>Fri, 29 May 2026 15:11:30 +0000</pubDate>
-      <guid isPermaLink="false">03vRQYeyPNSyFNxIzTUH1ae</guid>
-      <description>Save up to $750 on the best power station deals from Jackery, Bluetti, and Anker Solix at Amazon this weekend.</description>
-    </item>
-    <item>
-      <title>This compact antivirus protection package is now less than &#163;25 &#8212; Norton 360 has everything you need to secure your devices against malware, ransomware, and hacking</title>
-      <link>https://www.techradar.com/pro/this-compact-antivirus-protection-package-is-now-less-than-gbp25-norton-360-has-everything-you-need-to-secure-your-devices-against-malware-ransomware-and-hacking</link>
-      <pubDate>Fri, 29 May 2026 15:06:34 +0000</pubDate>
-      <guid isPermaLink="false">X3jbTyf5NSEHN5qwsaULMR</guid>
-      <description>Secure your online life for less than &#163;25 &#8212; Norton 360 Standard is 64% off right now</description>
-    </item>
-    <item>
-      <title>AI agents are entering their rebuild era as enterprises confront the reliability problem</title>
-      <link>https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem</link>
-      <pubDate>Fri, 29 May 2026 15:00:12 GMT</pubDate>
-      <guid isPermaLink="false">trhVvl9lCnJ3I2sGN1UPJ</guid>
-      <description>As enterprise AI agents move into production, organizations are confronting a growing reliability problem. Many teams are discovering that LLM performance alone does not determine whether agents succeed in production. Long-running AI workflows must survive crashes, preserve state, recover from failures, manage inference costs, and coordinate across APIs, tools, and enterprise systems.After a first wave focused on rapid deployment, organizations now need to revisit those first-generation implementations, and redesign early agent architectures around workflow orchestration, observability, govern...</description>
-    </item>
-    <item>
-      <title>The Vatican&#8217;s Man Inside Anthropic</title>
-      <link>https://www.wired.com/story/the-vaticans-man-inside-anthropic/</link>
-      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a187b821d940d641cd34f91</guid>
-      <description>Pope Leo XIV may not be able to disarm AI, but he&#8217;s got the attention of the industry.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s mass deportations are only possible with racial profiling</title>
-      <link>https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations</link>
-      <pubDate>2026-05-29T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=939434</guid>
-      <description>Border security czar Tom Homan keeps threatening to "flood" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - and disproportionately targeting Latino neighborhoods. The City, a local nonprofit news organization, found 430 street arrests in the metropolitan area [&#8230;]...</description>
-    </item>
-    <item>
-      <title>At $549, Lenovo&#8217;s Legion Go S gaming handheld is suddenly a good deal</title>
-      <link>https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale</link>
-      <pubDate>2026-05-29T10:59:12-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=939842</guid>
-      <description>This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months of unavailability. I consider it a tiny consolation that there&#8217;s a decent PC gaming handheld that is currently [&#8230;]</description>
-    </item>
-    <item>
-      <title>007 First Light is the stealthy James Bond game I've dreamed of</title>
-      <link>https://www.engadget.com/2183631/007-first-light-review/</link>
-      <pubDate>Fri, 29 May 2026 14:51:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2183631/007-first-light-review/</guid>
-      <description>Of course the Hitman devs made a great James Bond game.</description>
-    </item>
-    <item>
-      <title>Climatiseur connect&#233; Xiaomi : pourquoi la France n&#8217;y a pas droit ?</title>
-      <link>https://www.frandroid.com/marques/xiaomi/3118863_climatiseur-connecte-xiaomi-pourquoi-la-france-ny-a-pas-droit</link>
-      <pubDate>Fri, 29 May 2026 14:48:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3118863_climatiseur-connecte-xiaomi-pourquoi-la-france-ny-a-pas-droit</guid>
-      <description>
-Xiaomi lance un climatiseur en Europe, mais pas en France. On vous explique pourquoi.
-</description>
-    </item>
-    <item>
-      <title>You can buy two of Anker&#8217;s Qi2 wireless chargers for under $25</title>
-      <link>https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale</link>
-      <pubDate>2026-05-29T10:46:58-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=939445</guid>
-      <description>If you&#8217;re looking for a fast iPhone or AirPods charger that&#8217;s easy to toss into your purse, backpack, or carry-on, Anker&#8217;s Zolo Magnetic Wireless Charger is a smart pick. It&#8217;s tiny and comes with a built-in USB-C cable, and you currently can buy two for $23.99 ($16 off) at Amazon and Anker (with code WS7DV2PK68EW), [&#8230;]</description>
-    </item>
-    <item>
-      <title>How this vegetable became the latest symbol of America&#8217;s affordability squeeze</title>
-      <link>https://www.fastcompany.com/91550702/how-vegetable-became-latest-symbol-americas-affordability-squeeze</link>
-      <pubDate>2026-05-29T14:46:34</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91550702/how-vegetable-became-latest-symbol-americas-affordability-squeeze</guid>
-      <description>According to the most recent Consumer Price Index, tomato prices have skyrocketed nearly 40%.
-Tomatoes, ubiquitous in everything from fast-food burgers to haute cuisine, are taking on a new role beyond the plate: A nagging reminder of rising costs.Prices for those red orbs have soared more than any other food product over the past year to cement a spot as one of the consumer headaches du jour.&#8220;The tomato has become a symbol of something much deeper,&#8221; says Isaac Bernal Carbajo, a New York City chef who lamented life&#8217;s &#8220;simplest pleasures&#8221; falling victim to price increases. &#8220;Something as basic a...</description>
+      <title>Tech companies desperately want to film you doing chores</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data</link>
+      <pubDate>2026-05-29T13:37:43-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=940007</guid>
+      <description>This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]</description>
     </item>
   </channel>
 </rss>
