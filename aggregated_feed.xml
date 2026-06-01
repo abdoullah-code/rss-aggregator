@@ -3,50 +3,404 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 01 Jun 2026 04:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:23:45 GMT</lastBuildDate>
     <item>
-      <title>This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark</title>
-      <link>https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures</link>
-      <pubDate>2026-06-01T00:36:41-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=940584</guid>
-      <description>Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvidia have just announced the Surface Laptop Ultra, a computer with a new Arm-based Nvidia chip at its core. There's a [&#8230;]</description>
+      <title>Drones, data centers, IA&#8230;. Au Sommet Choose France, des &#171;&#160;investissements record&#160;&#187; annonc&#233;s dans la tech</title>
+      <link>https://www.01net.com/actualites/drones-data-centers-ia-au-sommet-choose-france-des-investissements-record-annonces-dans-la-tech.html</link>
+      <pubDate>Mon, 01 Jun 2026 10:17:38 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1350775</guid>
+      <description>En amont de la 9e &#233;dition de Choose France, Emmanuel Macron a annonc&#233; 91 milliards d'euros d'investissements : voici ceux qui concernent de pr&#232;s ou de loin les nouvelles technologies.</description>
     </item>
     <item>
-      <title>AMD ressuscite le 5800X3D et lance le 7700X3D et la RX 9070 GRE</title>
-      <link>https://www.frandroid.com/marques/amd/3120379_amd-ressuscite-le-5800x3d-et-lance-le-7700x3d-et-la-rx-9070-gre</link>
-      <pubDate>Mon, 01 Jun 2026 04:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/amd/3120379_amd-ressuscite-le-5800x3d-et-lance-le-7700x3d-et-la-rx-9070-gre</guid>
+      <title>Alerte &#224; la &#171;&#160;BOMB&#160;&#187; : un bracelet Bluetooth a oblig&#233; un avion &#224; faire demi-tour</title>
+      <link>https://www.01net.com/actualites/alerte-bomb-bracelet-fitbit-oblige-avion-faire-demi-tour.html</link>
+      <pubDate>Mon, 01 Jun 2026 10:12:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1350768</guid>
+      <description>Un passager du vol United Airlines UA-236, reliant Newark &#224; Palma de Majorque, a provoqu&#233; une vague de panique au dessus de d'Atlantique. Celui-ci avait en effet tr&#232;s mal choisi le nom Bluetooth de son bracelet connect&#233; Fitbit. D&#233;couvert en plein vol par un autre passager, le nom a d&#233;clench&#233; les protocoles de s&#233;curit&#233; de la compagnie, contraint l'avion &#224; rebrousser chemin jusqu'&#224; l'a&#233;roport de d&#233;part, et valu &#224; tous les voyageurs plus de neuf heures de retard....</description>
+    </item>
+    <item>
+      <title>UK businesses are spending heavily on AI and cybersecurity despite fear that new tech could expose new cyber risks</title>
+      <link>https://www.techradar.com/pro/uk-businesses-are-spending-heavily-on-ai-and-cybersecurity-despite-fear-that-new-tech-could-expose-new-cyber-risks</link>
+      <pubDate>Mon, 01 Jun 2026 10:09:49 +0000</pubDate>
+      <guid isPermaLink="false">dzWaNoCdfcsJWPDspnDtPJ</guid>
+      <description>Businesses are worried about geopolitical tensions, so they're spending more on cybersecurity to protect themselves from cyberattacks.</description>
+    </item>
+    <item>
+      <title>L&#8217;alternative &#224; Tesla ? MG arrive en France avec sa nouvelle gamme &#233;lectrique IM5 et IM6</title>
+      <link>https://www.frandroid.com/marques/mg/3120889_lalternative-a-tesla-mg-arrive-en-france-avec-sa-nouvelle-gamme-electrique-im5-et-im6</link>
+      <pubDate>Mon, 01 Jun 2026 10:09:23 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/mg/3120889_lalternative-a-tesla-mg-arrive-en-france-avec-sa-nouvelle-gamme-electrique-im5-et-im6</guid>
       <description>
-AMD ressort un processeur vieux de quatre ans et le vend presque au prix du neuf. Derri&#232;re ce choix bizarre se cache un march&#233; de la m&#233;moire devenu fou.
+MG lance officiellement sa gamme de voitures &#233;lectriques premium, MG IM, en France. La berline IM5 et le SUV IM6, d&#233;j&#224; commercialis&#233;s au Royaume-Uni depuis l&#8217;&#233;t&#233; 2025 et en Suisse depuis novembre 2025, arriveront dans les concessions fran&#231;aises en juillet 2026. De nouvelles concurrentes pour les Tesla Model 3 et Model Y.
 </description>
     </item>
     <item>
-      <title>Nvidia announces RTX Spark as &#8216;the most efficient PC chip ever built&#8217;</title>
-      <link>https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date</link>
-      <pubDate>2026-06-01T00:28:53-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/940589/this-is-the-microsoft-surface-laptop-ultra-with-nvidia-rtx-spark</guid>
-      <description>This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first in a family of chips that will meet [&#8230;]</description>
+      <title>Stop managing vulnerabilities and start managing scanner assumptions</title>
+      <link>https://www.techradar.com/pro/stop-managing-vulnerabilities-and-start-managing-scanner-assumptions</link>
+      <pubDate>Mon, 01 Jun 2026 10:04:54 +0000</pubDate>
+      <guid isPermaLink="false">ZxbXApFgSvUzSDCSiEhTs8</guid>
+      <description>Run two industry-standard scanners on the same container image and you will get two entirely different answers.</description>
     </item>
     <item>
-      <title>There are no strangers at my front door &#8212; but Ring's Familiar Faces feature would be better if it weren't tied to its Pro tier</title>
-      <link>https://www.techradar.com/home/smart-home/there-are-no-strangers-at-my-front-door-but-rings-familiar-faces-feature-would-be-better-if-it-werent-tied-to-its-pro-tier</link>
-      <pubDate>Mon, 01 Jun 2026 03:30:28 +0000</pubDate>
-      <guid isPermaLink="false">dywXxTfg3wjqZtMwUYEZGY</guid>
-      <description>Ring's Familiar Faces beta can identify and track unfamilar faces at your doorstep, but you will have to pay for it.</description>
+      <title>The Painful Truth About Long Covid</title>
+      <link>https://www.wired.com/story/the-painful-truth-about-long-covid/</link>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">69c6afbd4593d05c6cdc646d</guid>
+      <description>There might finally be a way forward for long Covid treatment&#8212;if only you were allowed to talk about it.</description>
     </item>
     <item>
-      <title>Colour me thrilled &#8212; the Kindle Colorsoft has dropped below the AU$300 mark for Amazon's Mid-Year Sale</title>
-      <link>https://www.techradar.com/tablets/ereaders/colour-me-thrilled-the-kindle-colorsoft-has-dropped-below-the-aud300-mark-for-the-first-time-in-2026</link>
-      <pubDate>Mon, 01 Jun 2026 03:21:39 +0000</pubDate>
-      <guid isPermaLink="false">GXZhTTmFoGcoDvbZPrGs9X</guid>
-      <description>Just AU$5 more than its all-time low price and now matching the Paperwhite's RRP, the Kindle Colorsoft is definitely worth it for AU$299 and arguably better value than the 6-inch Kobo Clara Colour.</description>
+      <title>Asus just announced the OLED Xbox Ally X of my dreams</title>
+      <link>https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen</link>
+      <pubDate>2026-06-01T06:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=940722</guid>
+      <description>If you asked me what I'd change about the Xbox Ally X handheld - aside from fixing Windows, I mean - I'd tell you two key things. First, give me a bigger, better screen. Even a little bit bigger, so games feel less claustrophobic and with less ugly bezel. Second, get rid of the "Library" [&#8230;]</description>
     </item>
     <item>
-      <title>MSI Claw 8 EX AI+ with Intel Arc G3 Extreme inside revealed at Computex 2026</title>
-      <link>https://www.techradar.com/computing/gaming-pcs/msi-claw-8-ex-ai-plus-announced</link>
-      <pubDate>Mon, 01 Jun 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">WoYUXxxNYRyPGR94XXkLCh</guid>
-      <description>The MSI Claw 8 EX AI+ has been announced at Computex 2026 to take on the Steam Deck.</description>
+      <title>Unastella, a South Korean rocket startup that launched from home, raises $24M</title>
+      <link>https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/</link>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3127734</guid>
+      <description>The Seoul-based rocket startup is developing its own launch vehicles and engines.</description>
+    </item>
+    <item>
+      <title>What is the release date for Dutton Ranch episode 5 on Paramount+?</title>
+      <link>https://www.techradar.com/streaming/paramount-plus/dutton-ranch-episode-5-release-date-time</link>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xx56AKo35uVNTutnF2Cu8c</guid>
+      <description>Last week's cow culling was an absolute gut punch to watch. With no cattle left standing, when does Dutton Ranch episode 5 land on Paramount+?</description>
+    </item>
+    <item>
+      <title>Une IA d&#233;code un manuscrit secret en 29 minutes : la fin d&#8217;un myst&#232;re vieux de 400 ans</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3120699_une-ia-decode-un-manuscrit-secret-en-29-minutes-la-fin-dun-mystere-vieux-de-400-ans</link>
+      <pubDate>Mon, 01 Jun 2026 09:54:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3120699_une-ia-decode-un-manuscrit-secret-en-29-minutes-la-fin-dun-mystere-vieux-de-400-ans</guid>
+      <description>
+Pendant quatre si&#232;cles, les historiens se sont cass&#233;s les dents sur ce manuscrit. Une intelligence artificielle a r&#233;ussi &#224; analyser, traduire et expliquer un extrait de 500 symboles en un peu plus de 29 minutes chrono.
+</description>
+    </item>
+    <item>
+      <title>Nvidia d&#233;voile RTX Spark&#160;: la puce ARM qui pourrait r&#233;volutionner le march&#233; des PC</title>
+      <link>https://www.01net.com/actualites/nvidia-devoile-rtx-spark-la-puce-arm-qui-pourrait-revolutionner-le-marche-des-pc.html</link>
+      <pubDate>Mon, 01 Jun 2026 09:54:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1350779</guid>
+      <description>Nvidia lance la RTX Spark, sa premi&#232;re puce ARM pour PC, marquant son entr&#233;e sur ce march&#233; comp&#233;titif. La puce promet des performances &#233;lev&#233;es avec jusqu'&#224; 20 c&#339;urs CPU et 6144 c&#339;urs GPU, visant &#224; rivaliser avec Apple. Les premiers ordinateurs &#233;quip&#233;s de la RTX Spark arriveront cet automne, avec des partenariats d&#233;j&#224; &#233;tablis avec plusieurs grands constructeurs....</description>
+    </item>
+    <item>
+      <title>Spliiit perd au tribunal&#160;: le partage de comptes entre inconnus semble vivre ses derni&#232;res heures</title>
+      <link>https://www.frandroid.com/services/3120999_spliiit-perd-au-tribunal-le-partage-de-comptes-entre-inconnus-semble-vivre-ses-dernieres-heures</link>
+      <pubDate>Mon, 01 Jun 2026 09:52:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/3120999_spliiit-perd-au-tribunal-le-partage-de-comptes-entre-inconnus-semble-vivre-ses-dernieres-heures</guid>
+      <description>
+Le tribunal judiciaire de Paris a condamn&#233; la plateforme fran&#231;aise Spliiit &#224; verser une provision de 785 000 euros &#224; Apple, Netflix et Disney pour concurrence d&#233;loyale, contrefa&#231;on et complicit&#233; de violation de leurs conditions g&#233;n&#233;rales d&#8217;utilisation. Spliiit annonce toutefois qu&#8217;elle fera appel.
+</description>
+    </item>
+    <item>
+      <title>Oops! A Samsung employee may have just leaked the Galaxy Z Fold 8 &#8212; here's how it compares to the narrower Galaxy Z Fold 8 Ultra</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/oops-a-samsung-employee-may-have-just-leaked-the-galaxy-z-fold-8-heres-how-it-compares-to-the-narrower-galaxy-z-fold-8-ultra</link>
+      <pubDate>Mon, 01 Jun 2026 09:49:42 +0000</pubDate>
+      <guid isPermaLink="false">2oRPKTLSVAdqqx5EijSmAk</guid>
+      <description>A photo of Samsung's rumored wider foldable has emerged, as has a comparison image showing it alongside the narrower option.</description>
+    </item>
+    <item>
+      <title>Quels sont les meilleurs smartphones compacts en 2026 ? La s&#233;lection</title>
+      <link>https://www.frandroid.com/guide-dachat/smartphones/350089_iphone-se-petit-smartphone-choisir-a-place</link>
+      <pubDate>Mon, 01 Jun 2026 09:45:43 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/smartphones/350089_iphone-se-petit-smartphone-choisir-a-place</guid>
+      <description>
+Les t&#233;l&#233;phones sont devenus tr&#232;s grands dans nos paumes, mais heureusement, quelques irr&#233;ductibles tournent encore autour des 6&#160;pouces. Voici nos recommandations des meilleurs smartphones compacts.
+</description>
+    </item>
+    <item>
+      <title>NVIDIA's Isaac Gr00t platform gives researchers access to frontier humanoid robotics</title>
+      <link>https://www.engadget.com/2184658/nvidia-isaac-gr00t-humanoid-robotic-platform/</link>
+      <pubDate>Mon, 01 Jun 2026 09:45:05 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2184658/nvidia-isaac-gr00t-humanoid-robotic-platform/</guid>
+      <description>NVIDIA announced the new Isaac Gr00t reference design humanoid robot platform that combines humanoid robot, five-fingered hands and NVIDIA Jetson Thor compute.</description>
+    </item>
+    <item>
+      <title>Boulanger d&#233;stocke le MacBook Pro 14 M4 Pro (version 24/512 Go) avec pr&#232;s de 500 &#8364; de remise</title>
+      <link>https://www.frandroid.com/bons-plans/3120759_boulanger-destocke-le-macbook-pro-14-m4-pro-version-24-512-go-avec-pres-de-500-e-de-remise</link>
+      <pubDate>Mon, 01 Jun 2026 09:41:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3120759_boulanger-destocke-le-macbook-pro-14-m4-pro-version-24-512-go-avec-pres-de-500-e-de-remise</guid>
+      <description>
+Avec l'arriv&#233;e du nouveau MacBook Pro &#233;quip&#233; de la puce M5, Boulanger revoit &#224; la baisse le prix de la version &#233;quip&#233;e de la puce M4 Pro : 1 699 euros contre 2 189 euros au d&#233;part pour sa version avec 24 Go de RAM et 512 Go de SSD.  Une aubaine pour les cr&#233;ateurs &#224; la recherche d'une machine fiable et durable. 
+</description>
+    </item>
+    <item>
+      <title>Alienware AW3426DW : le roi du QD-OLED revient encore plus lumineux et sans texte flou</title>
+      <link>https://www.frandroid.com/marques/alienware/3120853_alienware-aw3426dw-le-roi-du-qd-oled-revient-encore-plus-lumineux-et-sans-texte-flou</link>
+      <pubDate>Mon, 01 Jun 2026 09:40:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/alienware/3120853_alienware-aw3426dw-le-roi-du-qd-oled-revient-encore-plus-lumineux-et-sans-texte-flou</guid>
+      <description>
+L'&#233;cran QD-Oled star de chez Alienware va b&#233;n&#233;ficier d'une nouvelle version plus lumineuse et qui corrige l'un des gros d&#233;fauts de la technologie. 
+</description>
+    </item>
+    <item>
+      <title>Galaxy Watch 10 : comment Samsung compterait rattraper son retard sur les &#233;crans de montres</title>
+      <link>https://www.frandroid.com/marques/samsung/3120549_galaxy-watch-10-comment-samsung-compterait-rattraper-son-retard-sur-les-ecrans-de-montres</link>
+      <pubDate>Mon, 01 Jun 2026 09:36:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3120549_galaxy-watch-10-comment-samsung-compterait-rattraper-son-retard-sur-les-ecrans-de-montres</guid>
+      <description>
+La Galaxy Watch 10 pourrait passer un cap en termes d'affichage. De nouvelles informations en provenance de Cor&#233;e sugg&#232;rent en effet que Samsung Display assemblerait carr&#233;ment une nouvelle ligne de production vou&#233;e tout enti&#232;re &#224; la fabrication d'&#233;crans MicroLED pour ses futures montres connect&#233;es.
+</description>
+    </item>
+    <item>
+      <title>Websites Can Now Spy on You Through Your Hard Drive</title>
+      <link>https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</link>
+      <pubDate>Mon, 01 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a18add548dbb041b0784aa4</guid>
+      <description>Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript.</description>
+    </item>
+    <item>
+      <title>Boards of directors have critical new responsibilities in the AI era</title>
+      <link>https://www.fastcompany.com/91548478/boards-of-directors-have-critical-new-responsibilities-in-the-ai-era</link>
+      <pubDate>2026-06-01T09:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91548478/boards-of-directors-have-critical-new-responsibilities-in-the-ai-era</guid>
+      <description>Here&#8217;s how to build the new capabilities.
+&#8220;The pursuit of greater profits cannot justify choices that systematically sacrifice jobs, because the human person is an end, not a means, and the economic order must remain subordinate to human dignity and the common good.&#8221; &#8212;Pope Leo XIV, Magnifica Humanitas</description>
+    </item>
+    <item>
+      <title>Recharge &#233;lectrique&#160;: pourquoi vous payez parfois 10 fois plus cher qu&#8217;&#224; domicile</title>
+      <link>https://www.01net.com/actualites/recharge-electrique-pourquoi-vous-payez-parfois-10-fois-plus-cher-qua-domicile.html</link>
+      <pubDate>Mon, 01 Jun 2026 09:28:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1350727</guid>
+      <description>L'association Que Choisir Ensemble documente des &#233;carts de prix allant jusqu'&#224; 490 % sur les bornes publiques et r&#233;clame transparence tarifaire, paiement par carte et un site officiel des prix.</description>
+    </item>
+    <item>
+      <title>Apr&#232;s les lunettes, Meta mise sur le pendentif connect&#233;</title>
+      <link>https://www.frandroid.com/marques/meta/3120553_apres-les-lunettes-meta-mise-sur-le-pendentif-connecte</link>
+      <pubDate>Mon, 01 Jun 2026 09:26:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3120553_apres-les-lunettes-meta-mise-sur-le-pendentif-connecte</guid>
+      <description>
+Le succ&#232;s des Meta Ray-Ban donne des ailes &#224; l&#8217;entreprise de Zuckerberg. Selon The Information, la firme travaillerait sur quatre nouveaux mod&#232;les de lunettes pr&#233;vus en 2026 ainsi qu&#8217;un pendentif connect&#233;.
+</description>
+    </item>
+    <item>
+      <title>14 high-achiever habits that lead straight to burnout</title>
+      <link>https://www.fastcompany.com/91535974/14-high-achiever-habits-that-lead-straight-to-burnout-burnout-career-advice</link>
+      <pubDate>2026-06-01T09:26:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91535974/14-high-achiever-habits-that-lead-straight-to-burnout-burnout-career-advice</guid>
+      <description>Awareness is the first step toward achieving work-life harmony.
+High achievers often mistake their most productive habits for the very behaviors driving them toward burnout. This article draws on insights from workplace psychology experts and organizational leaders to identify 14 common patterns that can create unsustainable work practices. Understanding these patterns is the first step toward building a healthier, more sustainable approach to professional success....</description>
+    </item>
+    <item>
+      <title>R&#233;parabilit&#233; des casques Bluetooth : iFixit note 14 mod&#232;les, un seul atteint le score parfait</title>
+      <link>https://www.frandroid.com/produits-android/audio/casque-audio/3120883_reparabilite-des-casques-bluetooth-ifixit-note-14-modeles-un-seul-atteint-le-score-parfait</link>
+      <pubDate>Mon, 01 Jun 2026 09:23:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/audio/casque-audio/3120883_reparabilite-des-casques-bluetooth-ifixit-note-14-modeles-un-seul-atteint-le-score-parfait</guid>
+      <description>
+Apr&#232;s des mois de d&#233;montages et d'ajustements m&#233;thodologiques, iFixit publie ses premiers indices de r&#233;parabilit&#233; officiels pour les casques Bluetooth. Sur 14 mod&#232;les &#233;valu&#233;s, un seul d&#233;croche un 10/10 : le Fairphone Fairbuds XL. Les autres oscillent entre effort louable et d&#233;sastre programm&#233;.
+</description>
+    </item>
+    <item>
+      <title>Apr&#232;s VanMoof, ce constructeur de v&#233;los &#233;lectriques lance un nouveau programme de reprise pour les VAE Ampler, en faillite</title>
+      <link>https://www.frandroid.com/survoltes/velo-electrique/3120811_apres-vanmoof-ce-constructeur-de-velos-electriques-lance-un-nouveau-programme-de-reprise-pour-les-vae-ampler-en-faillite</link>
+      <pubDate>Mon, 01 Jun 2026 09:22:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3120811_apres-vanmoof-ce-constructeur-de-velos-electriques-lance-un-nouveau-programme-de-reprise-pour-les-vae-ampler-en-faillite</guid>
+      <description>
+Ampler Bikes a d&#233;pos&#233; le bilan. Le fabricant hongrois Blurby ouvre un programme de reprise pour les propri&#233;taires de v&#233;los Ampler, avec un cr&#233;dit pouvant atteindre 1 000 &#8364; sur un mod&#232;le neuf.
+</description>
+    </item>
+    <item>
+      <title>Microsoft Surface Ultra is a portable AI supercomputer powered by Nvidias RTX Spark chip</title>
+      <link>https://mashable.com/tech/nvidia-rtx-spark-microsoft-surface-ultra</link>
+      <pubDate>Mon, 01 Jun 2026 09:21:09 +0000</pubDate>
+      <guid isPermaLink="false">04fi4TnargyBo5TsoKYqmua</guid>
+      <description>Microsoft's Surface Ultra is the most powerful Surface yet, and it comes with an Nvidia RTX Spark inside.</description>
+    </item>
+    <item>
+      <title>XREAL : le champion chinois des lunettes connect&#233;es lance des mod&#232;les low-cost</title>
+      <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/3120749_xreal-le-champion-chinois-des-lunettes-connectees-lance-des-modeles-low-cost</link>
+      <pubDate>Mon, 01 Jun 2026 09:18:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/3120749_xreal-le-champion-chinois-des-lunettes-connectees-lance-des-modeles-low-cost</guid>
+      <description>
+XREAL a lanc&#233; une nouvelle sous-marque, XBX,  visant l'entr&#233;e de gamme. Celle-ci propose d&#233;j&#224; de premi&#232;res lunettes connect&#233;es &#224; 299 dollars.
+</description>
+    </item>
+    <item>
+      <title>La future Pixel Watch 5 a &#233;t&#233; rep&#234;ch&#233;e dans l&#8217;oc&#233;an par le patron du studio Gearbox (et ce n&#8217;est pas un kamoulox)</title>
+      <link>https://www.frandroid.com/marques/google/3120445_pixel-watch-5-un-prototype-repeche-dans-locean-par-le-patron-du-studio-gearbox-et-ce-nest-pas-un-kamoulox</link>
+      <pubDate>Mon, 01 Jun 2026 09:16:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3120445_pixel-watch-5-un-prototype-repeche-dans-locean-par-le-patron-du-studio-gearbox-et-ce-nest-pas-un-kamoulox</guid>
+      <description>
+Sur X, un utilisateur bien connu explique, photos &#224; l'appui, avoir mis la main sur une Google Pixel Watch 5, trouv&#233;e dans l'oc&#233;an. Une d&#233;couverte d'autant plus &#233;tonnante que la montre connect&#233;e en question... n'a pas encore &#233;t&#233; annonc&#233;e.
+</description>
+    </item>
+    <item>
+      <title>Ce g&#233;n&#233;reux forfait mobile anti-inflation est de nouveau disponible (mais pas pour longtemps) [Sponso]</title>
+      <link>https://www.frandroid.com/telecom/forfait-mobile/3116849_ce-genereux-forfait-mobile-anti-inflation-est-de-nouveau-disponible-mais-pas-pour-longtemps</link>
+      <pubDate>Mon, 01 Jun 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/telecom/forfait-mobile/3116849_ce-genereux-forfait-mobile-anti-inflation-est-de-nouveau-disponible-mais-pas-pour-longtemps</guid>
+      <description>
+Copieux, flexible et surtout pas cher, le forfait Oxyg&#232;ne fait son grand retour chez Prixtel. Attention &#224; ne pas manquer l&#8217;occasion, cette offre &#233;tant &#224; dur&#233;e limit&#233;e.
+</description>
+    </item>
+    <item>
+      <title>Nvidia RTX Spark : les six grands absents</title>
+      <link>https://www.frandroid.com/marques/nvidia/3120353_nvidia-rtx-spark-les-six-grands-absents</link>
+      <pubDate>Mon, 01 Jun 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3120353_nvidia-rtx-spark-les-six-grands-absents</guid>
+      <description>
+Une keynote vous dit toujours ce qu'un produit sait faire. Plus rarement ce qu'il ne fait pas. Avec RTX Spark, Nvidia a brillamment &#233;clair&#233; sa nouvelle puce, en laissant sept trous dans l'ombre. Petit tour du c&#244;t&#233; obscur de la fiche technique.
+</description>
+    </item>
+    <item>
+      <title>NYT Connections hints today: Clues, answers for June 1, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-hint-answer-today-june-1-2026</link>
+      <pubDate>Mon, 01 Jun 2026 09:11:46 +0000</pubDate>
+      <guid isPermaLink="false">06fEnf5xsOv0M62ec6lVMVn</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for June 1, 2026</title>
+      <link>https://mashable.com/entertainment/strands-nyt-hint-june-1-2026</link>
+      <pubDate>Mon, 01 Jun 2026 09:11:37 +0000</pubDate>
+      <guid isPermaLink="false">04qfUexwNm4auU7rlbZovyN</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for June 1, 2026</title>
+      <link>https://mashable.com/entertainment/wordle-today-answer-june-1-2026</link>
+      <pubDate>Mon, 01 Jun 2026 09:11:30 +0000</pubDate>
+      <guid isPermaLink="false">04YkTNCuv0OZxEFB3BC2e8C</guid>
+      <description>Here's the answer for "Wordle" #1808 on June 1 as well as a few hints, tips, and clues to help you solve it yourself.</description>
+    </item>
+    <item>
+      <title>'Welcome to the family' &#8212; Qualcomm says it's glad Nvidia is joining the Arm race with the RTX Spark</title>
+      <link>https://www.techradar.com/computing/computing-components/welcome-to-the-family-qualcomm-says-its-glad-nvidia-is-joining-the-arm-race-with-the-rtx-spark</link>
+      <pubDate>Mon, 01 Jun 2026 09:09:50 +0000</pubDate>
+      <guid isPermaLink="false">zPFsdoyCGm9GNZB65gTtQX</guid>
+      <description>Qualcomm welcomes Nvidia to the Arm family &#8212; and I think it will have the edge over the RTX Spark with its affordable Snapdragon C chip.</description>
+    </item>
+    <item>
+      <title>The Google Pixel 10 Pro is back down to its lowest-ever price at Amazon &#8211; save $250</title>
+      <link>https://mashable.com/tech/june-1-google-pixel-10-pro-deal</link>
+      <pubDate>Mon, 01 Jun 2026 09:09:45 +0000</pubDate>
+      <guid isPermaLink="false">00KYWEtDQZeirAa4tJ8dmWu</guid>
+      <description>Get the best Google Pixel deal. Save 23% on the Google Pixel 10 Pro at Amazon.</description>
+    </item>
+    <item>
+      <title>AI agents shouldn&#8217;t run your supply chain</title>
+      <link>https://www.techradar.com/pro/ai-agents-shouldnt-run-your-supply-chain</link>
+      <pubDate>Mon, 01 Jun 2026 09:09:33 +0000</pubDate>
+      <guid isPermaLink="false">fxRmQWyghEMW6nrFxd8G4V</guid>
+      <description>AI agents can&#8217;t run supply chains alone without continuous real-world visibility and human judgment.</description>
+    </item>
+    <item>
+      <title>AI is reshaping the finance industry, but governance concerns remain front of mind for CFOs</title>
+      <link>https://www.techradar.com/pro/ai-is-reshaping-the-finance-industry-but-governance-concerns-remain-front-of-mind-for-cfos</link>
+      <pubDate>Mon, 01 Jun 2026 09:08:05 +0000</pubDate>
+      <guid isPermaLink="false">SQkaBPFUJkLHD5UAM52cvm</guid>
+      <description>Artificial intelligence is set to reshape how finance teams operate, but many finance leaders remain cautious about how far automation should go.</description>
+    </item>
+    <item>
+      <title>The Sonos Era 100 gets $30 slashed off its full price tag at Amazon</title>
+      <link>https://mashable.com/tech/june-1-sonos-era-100-deal</link>
+      <pubDate>Mon, 01 Jun 2026 09:04:06 +0000</pubDate>
+      <guid isPermaLink="false">04x9k6iVDpnRVD2ufnmHSV2</guid>
+      <description>As of June 1, the Sonos Era 100 is discounted to $189 at Amazon. This is 14% off its list price of $219.</description>
+    </item>
+    <item>
+      <title>Becoming a mentally healthy leader</title>
+      <link>https://www.fastcompany.com/91550154/becoming-a-mentally-healthy-leader</link>
+      <pubDate>2026-06-01T09:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91550154/becoming-a-mentally-healthy-leader</guid>
+      <description>How to lead with greater clarity and resilience&#8212;starting from the inside out.
+Imagine you&#8217;re a manager in a meeting where the SVP shares bad news: The company is laying off 8,000 employees over the next two months. Your team will be affected. That&#8217;s all they can tell you. They&#8217;ll be back with an update in a few weeks.</description>
+    </item>
+    <item>
+      <title>Markiplier, Michelle Phan, and more join VidCons Hall of Fame</title>
+      <link>https://mashable.com/life/vidcon-2026-hall-of-fame-creators</link>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07A7emP4nrF72mSvyErVdL0</guid>
+      <description>VidCon's Hall of Fame to honor Markiplier, Philip DeFranco, Michelle Phan, and Cassey Ho, four pioneers of internet culture.</description>
+    </item>
+    <item>
+      <title>What is an AI PC?</title>
+      <link>https://mashable.com/tech/what-is-an-ai-pc</link>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02TP4sZplprkiIdayYsQRdb</guid>
+      <description>What, exactly, is an AI PC? Custom PC builder Quoted Tech breaks it down.</description>
+    </item>
+    <item>
+      <title>Tech prices are going up, but these touchscreen Chromebooks are still only $150</title>
+      <link>https://mashable.com/tech/june-1-asus-chromebook-cm30-2024-detachable-touchscreen-8gb-ram-128gb</link>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03U1GvRO1aEwFmqS2fLtFoo</guid>
+      <description>Get an ASUS Chromebook on sale for $149.99.</description>
+    </item>
+    <item>
+      <title>3 years of this popular VPN is only $67.20 with this promo code</title>
+      <link>https://mashable.com/tech/june-1-surfshark-vpn-starter-plan</link>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04Rlhgi3q1OX1IS9i51zGDC</guid>
+      <description>Surfshark VPN protects unlimited devices, and a 3-year plan is only $67.20.</description>
+    </item>
+    <item>
+      <title>A new platform is using AI to automate the hard parts of podcasting, and it&#8217;s only $99 for life</title>
+      <link>https://mashable.com/entertainment/june-1-poddyhost-ai-podcast-generator-starter-plan-lifetime-subscription</link>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02nqvVW2XvZdebhjH9oE7mm</guid>
+      <description>PoddyHost is a new AI podcast platform that automates the podcasting for life for $99</description>
+    </item>
+    <item>
+      <title>Intelligence artificielle | En fin de compte, l&#8217;IA co&#251;te trop cher</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-06-01/intelligence-artificielle/en-fin-de-compte-l-ia-coute-trop-cher.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Mon, 01 Jun 2026 05:00:00 -0400</pubDate>
+      <guid isPermaLink="false">eaa0f6274cd13b5db21bbaa9941b6cba</guid>
+      <description>L&#8217;IA co&#251;te cher. Si cher, en fait, que m&#234;me les plus f&#233;rus promoteurs de la technologie recommencent &#224; payer des humains pour accomplir des t&#226;ches informatis&#233;es. La r&#233;volution du march&#233; du travail par l&#8217;intelligence artificielle pourrait prendre plus de temps que pr&#233;vu&#8230; si elle a seulement lieu.</description>
+    </item>
+    <item>
+      <title>The Aiper Scuba V3 robot pool cleaner has dropped to its best price &#8211; save $500</title>
+      <link>https://mashable.com/tech/june-1-aiper-scuba-v3-amazon-deal</link>
+      <pubDate>Mon, 01 Jun 2026 08:58:20 +0000</pubDate>
+      <guid isPermaLink="false">02LduvCnsXd4T2l5kwagwm2</guid>
+      <description>Find the best robot pool cleaner deal. Save 36% on the Aiper Scuba V3 at Amazon.</description>
+    </item>
+    <item>
+      <title>Faut-il dire adieu &#224; la souris ? Windows lance l&#8217;IA qui clique et tape &#224; votre place depuis la barre des t&#226;ches gr&#226;ce &#224; Nvidia</title>
+      <link>https://www.frandroid.com/os/windows/3120643_faut-il-dire-adieu-a-la-souris-windows-lance-lia-qui-clique-et-tape-a-votre-place-depuis-la-barre-des-taches-grace-a-nvidia</link>
+      <pubDate>Mon, 01 Jun 2026 08:58:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/windows/3120643_faut-il-dire-adieu-a-la-souris-windows-lance-lia-qui-clique-et-tape-a-votre-place-depuis-la-barre-des-taches-grace-a-nvidia</guid>
+      <description>
+NVIDIA et Microsoft annoncent OpenShell, un runtime qui transforme la barre des t&#226;ches Windows en lanceur d'agents IA capables d'agir tout seuls dans vos applis. Les d&#233;monstrations sont impressionnantes, et vont parler autant au grand public qu'aux professionnels.
+</description>
+    </item>
+    <item>
+      <title>World Cup 2026 LIVE: Free streams, TV guide &amp; how to watch from anywhere in the world</title>
+      <link>https://www.techradar.com/how-to-watch/live/watch-world-cup-2026-free</link>
+      <pubDate>Mon, 01 Jun 2026 08:55:38 +0000</pubDate>
+      <guid isPermaLink="false">c9w6scBpBfcz2Vkz7gvbGU</guid>
+      <description>All the ways you can stream the World Cup for free from anywhere in the world as we keep you up-to-date with the latest updates ahead of the tournament.</description>
+    </item>
+    <item>
+      <title>This 32-inch LG UltraGear 4K OLED monitor is $500 cheaper at Amazon today</title>
+      <link>https://mashable.com/tech/june-1-lg-32-inch-ultragear-oled-4k-gaming-monitor-deal</link>
+      <pubDate>Mon, 01 Jun 2026 08:49:02 +0000</pubDate>
+      <guid isPermaLink="false">06zFkSJNEch1cSZVHHOkETG</guid>
+      <description>Amazon cut LG's 32-inch UltraGear 4K OLED monitor to $791.68, a 39% discount on a Dual Mode gaming display.</description>
+    </item>
+    <item>
+      <title>Une nouvelle Apple TV 4K et un nouveau HomePod mini pourraient sortir cet automne</title>
+      <link>https://www.01net.com/actualites/une-nouvelle-apple-tv-4k-et-un-nouveau-homepod-mini-pourraient-sortir-cet-automne.html</link>
+      <pubDate>Mon, 01 Jun 2026 08:48:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1350741</guid>
+      <description>Apple pr&#233;voirait de lancer une nouvelle Apple TV 4K et un HomePod mini cet automne. Ces nouveaux mod&#232;les int&#233;greraient des puces r&#233;centes afin de pouvoir faire tourner le nouveau Siri. Avec ces nouveaux produits, il semble que nous soyons dans le m&#234;me cas de figure que pour les &#233;couteurs d&#8217;Apple &#233;quip&#233;s de cam&#233;ras.</description>
+    </item>
+    <item>
+      <title>8-day battery, AI health coaching and no screen: Fitbit Air review</title>
+      <link>https://mashable.com/tech/fitbit-air-review-all-things-mobile</link>
+      <pubDate>Mon, 01 Jun 2026 08:47:51 +0000</pubDate>
+      <guid isPermaLink="false">00Pn707hf4Ejx2W64QF9uXA</guid>
+      <description>The Fitbit Air offers health tracking, AI-powered coaching, and up to eight days of battery life without the distractions of a screen.</description>
+    </item>
+    <item>
+      <title>Everyone wants to kill the middle manager role. The data says don&#8217;t do it</title>
+      <link>https://www.fastcompany.com/91548285/everyone-wants-to-kill-the-middle-manager-role-the-data-says-dont-do-it</link>
+      <pubDate>2026-06-01T08:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91548285/everyone-wants-to-kill-the-middle-manager-role-the-data-says-dont-do-it</guid>
+      <description>The case against the &#8216;Great Flattening.&#8217;
+Recently, I spoke with a head of HR for a tech company who asked: &#8220;Are you hearing of other organizations eliminating the manager role? Our CEO thinks they won&#8217;t be needed in the future because of AI, because the future is self-managing teams.&#8221; Aside from the obvious point that CEOs saying this may be talking themselves out of a job, it&#8217;s not a rare question at all....</description>
     </item>
   </channel>
 </rss>
