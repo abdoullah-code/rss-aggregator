@@ -3,155 +3,97 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 03 Jun 2026 21:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:47:52 GMT</lastBuildDate>
+    <item>
+      <title>NYT Connections hints and answers for Thursday, June 4 (game #1089)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-june-2026</link>
+      <pubDate>Wed, 03 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">y2PSu4sCdx7aE4uS779BrT</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Thursday, June 4 (game #823)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-4-june-2026</link>
+      <pubDate>Wed, 03 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">pFBqhArRg4fm3WdUFbTcTW</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Thursday, June 4 (game #1592)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-june-2026</link>
+      <pubDate>Wed, 03 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZesBewfJ4KAoYoVs2JAqgb</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>'More like a traditional video game' &#8212; Unreal Engine 5 and The Mandalorian and Grogu have transformed Disney World's Millennium Falcon: Smugglers Run attraction inside Galaxy's Edge</title>
+      <link>https://www.techradar.com/streaming/entertainment/more-like-a-traditional-video-game-unreal-engine-5-and-the-mandalorian-and-grogu-have-transformed-disney-worlds-millennium-falcon-smugglers-run-attraction-inside-galaxys-edge</link>
+      <pubDate>Wed, 03 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">D3CBjDYRpikJyYjeeCYtJP</guid>
+      <description>We went hands-on with Disney World's overhauled Millennium Falcon: Smugglers Run &#8212; now featuring The Mandalorian and Grogu and powered by a custom multi-GPU build of Unreal Engine 5 &#8212; and spoke with Disney Imagineering about the tech that makes it the most replayable attraction in Galaxy's Edge.</description>
+    </item>
+    <item>
+      <title>Lovable signs multiyear deal with Google Cloud to up usage 5x, source says</title>
+      <link>https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/</link>
+      <pubDate>Wed, 03 Jun 2026 22:56:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3129396</guid>
+      <description>Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.</description>
+    </item>
+    <item>
+      <title>Huawei's chairman officially thanks the US government 'for enabling' China's 'semiconductor industry chain to truly grow'</title>
+      <link>https://www.techradar.com/pro/huaweis-chairman-officially-thanks-the-us-government-for-enabling-chinas-semiconductor-industry-chain-to-truly-grow</link>
+      <pubDate>Wed, 03 Jun 2026 22:55:00 +0000</pubDate>
+      <guid isPermaLink="false">bfymWqnLXxvac3D58Q5yVR</guid>
+      <description>Huawei chairman links US sanctions to accelerated development of China&#8217;s semiconductor chain, citing forced internal innovation and industry collaboration growth</description>
+    </item>
+    <item>
+      <title>Apple begins requiring age verification for App Store use in Texas</title>
+      <link>https://www.engadget.com/2187080/apple-begins-requiring-age-verification-for-app-store-use-in-texas/</link>
+      <pubDate>Wed, 03 Jun 2026 22:34:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2187080/apple-begins-requiring-age-verification-for-app-store-use-in-texas/</guid>
+      <description>The state law governing app use by minors takes effect tomorrow.</description>
+    </item>
+    <item>
+      <title>The co-creator of Scavengers Reign is working on a new show for Netflix</title>
+      <link>https://www.engadget.com/2187072/the-co-creator-of-scavengers-reign-is-working-on-a-new-show-for-netflix/</link>
+      <pubDate>Wed, 03 Jun 2026 22:26:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2187072/the-co-creator-of-scavengers-reign-is-working-on-a-new-show-for-netflix/</guid>
+      <description>'Dealies' is about the staff of a big box store.</description>
+    </item>
+    <item>
+      <title>World's smallest space laser station is changing global connectivity by bypassing 'vulnerabilities associated with terrestrial and subsea cables'</title>
+      <link>https://www.techradar.com/pro/worlds-smallest-space-laser-station-is-changing-global-connectivity-by-bypassing-vulnerabilities-associated-with-terrestrial-and-subsea-cables</link>
+      <pubDate>Wed, 03 Jun 2026 22:10:00 +0000</pubDate>
+      <guid isPermaLink="false">vZ6zQXtY2emiwdd8v5UHfm</guid>
+      <description>The world's smallest deployable operational optical ground station is not faulted by the downfalls of terrestrial and subsea cables.</description>
+    </item>
+    <item>
+      <title>Quote of the day by Anthropic CEO Dario Amodei: "Humanity is about to be handed almost unimaginable power, and it is deeply unclear whether [we] possess the maturity to wield it" &#8212; warnings on the looming threat of beyond-human AI</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-anthropic-ceo-dario-amodei-humanity-is-about-to-be-handed-almost-unimaginable-power-and-it-is-deeply-unclear-whether-we-possess-the-maturity-to-wield-it-warnings-on-the-looming-threat-of-beyond-human-ai</link>
+      <pubDate>Wed, 03 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rv7n2K6kxqbR3DGH4prGmB</guid>
+      <description>The Anthropic chief has mused on the implications of achieving superpowerful AI within the next few years &#8212; and doesn't think we're capable of collectively handling it</description>
+    </item>
+    <item>
+      <title>Dyson HushJet Mini Cool vs Shark ChillPill: in the battle of the portable fans, there's a clear winner</title>
+      <link>https://www.techradar.com/home/air-quality/dyson-hushjet-mini-cool-vs-shark-chillpill</link>
+      <pubDate>Wed, 03 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">iLJZgZhcEZd2gP8aesxzFX</guid>
+      <description>When it comes to price, accessories, and sheer power, there's a clear winner in the battle of the portable fans.</description>
+    </item>
+    <item>
+      <title>&#8216;It&#8217;s good play at its core and we are making it even better&#8217; &#8212; these 12 Lego Pok&#233;mon sets finally get Smart Play right, and I can&#8217;t decide which I love most</title>
+      <link>https://www.techradar.com/tech/its-good-play-at-its-core-and-we-are-making-it-even-better-these-12-lego-pokemon-sets-finally-get-smart-play-right-and-i-cant-decide-which-i-love-most</link>
+      <pubDate>Wed, 03 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2VzFLuF2JxFqcqYZViB8pW</guid>
+      <description>"Our challenge is always to find what story we can tell, and also see how children play with these sets, then figuring out how to bring that to physical play."</description>
+    </item>
     <item>
       <title>Apple is bringing age verification to Texas this week</title>
       <link>https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store</link>
       <pubDate>2026-06-03T17:49:51-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=942761</guid>
       <description>Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a [&#8230;]</description>
-    </item>
-    <item>
-      <title>Chinese firm selling stealth 'core technology by the kilogram' to make drones almost invisible to radars &#8212; spray-on coating is almost affordable by F-117 standards, slashes reflected radar power by 50%</title>
-      <link>https://www.techradar.com/pro/chinese-firm-selling-stealth-core-technology-by-the-kilogram-to-make-drones-almost-invisible-to-radars-spray-on-coating-is-almost-affordable-by-f-117-standards-slashes-reflected-radar-power-by-50-percent</link>
-      <pubDate>Wed, 03 Jun 2026 21:45:00 +0000</pubDate>
-      <guid isPermaLink="false">jcmeBLn737fLz86wUMocfH</guid>
-      <description>A Chinese firm has developed a spray-on coating capable of cutting reflected radar power by 50%</description>
-    </item>
-    <item>
-      <title>How to watch NBA Finals 2026: Free streams, schedule, TV channels for New York Knicks vs San Antonio Spurs</title>
-      <link>https://www.techradar.com/how-to-watch/basketball/nba-finals-2026-free-streams-new-york-knicks-vs-san-antonio-spurs</link>
-      <pubDate>Wed, 03 Jun 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">UrEaP2hmqNs4taVPyUU6g8</guid>
-      <description>All the ways to watch NBA Finals 2026 live streams online &#8211; including for FREE &#8211; with Victor Wembanyama set to light up the Knicks vs Spurs series.</description>
-    </item>
-    <item>
-      <title>'Significantly advance future Army capabilities': US Army keen on quantum control research that promises to deliver a huge leap in future energy generation and computing</title>
-      <link>https://www.techradar.com/pro/significantly-advance-future-army-capabilities-us-army-keen-on-quantum-control-research-that-promises-to-deliver-a-huge-leap-in-future-energy-generation-and-computing</link>
-      <pubDate>Wed, 03 Jun 2026 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">AUxAWMgGi2fJdbe4EGmxVZ</guid>
-      <description>US Army-funded researchers are investigating quantum vibrations in ultrathin materials that could influence future computing, communications and energy technologies.</description>
-    </item>
-    <item>
-      <title>WiiM expands its whole-home ecosystem with a new soundbar</title>
-      <link>https://www.theverge.com/tech/942748/wiim-releases-first-soundbar</link>
-      <pubDate>2026-06-03T17:12:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=942748</guid>
-      <description>WiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Persona 5 Royal is one of many additions to Xbox Game Pass for June</title>
-      <link>https://www.engadget.com/2187006/persona-5-royal-is-one-of-many-additions-to-xbox-game-pass-for-june/</link>
-      <pubDate>Wed, 03 Jun 2026 21:10:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2187006/persona-5-royal-is-one-of-many-additions-to-xbox-game-pass-for-june/</guid>
-      <description>The subscription is also getting some indie projects that are worth a look.</description>
-    </item>
-    <item>
-      <title>You can make the hyper-violence in Marvel's Wolverine more PG-13, if you want to</title>
-      <link>https://www.engadget.com/2186991/you-can-make-the-hyper-violence-in-marvel-s-wolverine-more-pg-13-if-you-want-to/</link>
-      <pubDate>Wed, 03 Jun 2026 21:00:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2186991/you-can-make-the-hyper-violence-in-marvel-s-wolverine-more-pg-13-if-you-want-to/</guid>
-      <description>And Robert Rodriguez wept.</description>
-    </item>
-    <item>
-      <title>Alice and Steve review: Nicola Walker is the best thing about this complicated, feud-filled Hulu comedy series</title>
-      <link>https://www.techradar.com/streaming/hulu/alice-and-steve-review-nicola-walker-is-the-best-thing-about-this-complicated-feud-filled-hulu-comedy-series</link>
-      <pubDate>Wed, 03 Jun 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ncW9FCJ3hAR5JqrdTjmpTD</guid>
-      <description>Alice and Steve is a new Hulu comedy series that feels just as divisive as its central plot.</description>
-    </item>
-    <item>
-      <title>On a trouv&#233; le vid&#233;oprojecteur Google TV compact id&#233;al pour vos soir&#233;es cin&#233;ma &#224; petit prix</title>
-      <link>https://www.frandroid.com/marques/xiaomi/3125499_on-a-trouve-le-videoprojecteur-google-tv-compact-ideal-pour-vos-soirees-cinema-a-petit-prix</link>
-      <pubDate>Wed, 03 Jun 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3125499_on-a-trouve-le-videoprojecteur-google-tv-compact-ideal-pour-vos-soirees-cinema-a-petit-prix</guid>
-      <description>
-&#192; la recherche d'une solution simple et abordable pour projeter vos films pr&#233;f&#233;r&#233;s en grand format ? Le Xiaomi Smart Projector L1 Pro est actuellement affich&#233; &#224; un prix in&#233;dit de 170,60 euros au lieu de 199,99 euros chez Aliexpress gr&#226;ce &#224; l'application d'un code promotionnel.
-</description>
-    </item>
-    <item>
-      <title>Defense tech is flooded with money, but who&#8217;s built to last?</title>
-      <link>https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/</link>
-      <pubDate>Wed, 03 Jun 2026 20:51:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3129388</guid>
-      <description>Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril&#8217;s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Gemini Go d&#233;barque sur Android Go et enterre Assistant Go pour de bon</title>
-      <link>https://www.frandroid.com/android/3125511_gemini-go-debarque-sur-android-go-et-enterre-assistant-go-pour-de-bon</link>
-      <pubDate>Wed, 03 Jun 2026 20:23:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/3125511_gemini-go-debarque-sur-android-go-et-enterre-assistant-go-pour-de-bon</guid>
-      <description>
-Google enterre Assistant Go et le remplace par Gemini Go sur les smartphones d'entr&#233;e de gamme. La derni&#232;re poche de r&#233;sistance de l'ancien assistant vient de tomber.
-</description>
-    </item>
-    <item>
-      <title>A NASA orbiter around Mars suffered an abrupt demise</title>
-      <link>https://mashable.com/science/nasa-mars-orbiter-maven-decommissioning</link>
-      <pubDate>Wed, 03 Jun 2026 20:22:25 +0000</pubDate>
-      <guid isPermaLink="false">00nCo07MzAE4VGddEVJmEYk</guid>
-      <description>NASA announced June 3 it will decommission its Mars orbiter, Maven, after a mysterious December incident sent it tumbling through space.</description>
-    </item>
-    <item>
-      <title>Oil prices inch back toward $100 as U.S. stocks retreat from records</title>
-      <link>https://www.fastcompany.com/91553457/stocks-markets-iran-oil-ai-trump</link>
-      <pubDate>2026-06-03T20:17:39</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91553457/stocks-markets-iran-oil-ai-trump</guid>
-      <description>Stocks remain near their records, even with all the pressure on the global economy created by higher inflation.
-Oil prices rose Wednesday following the&#160;latest flare-up in fighting&#160;to threaten the U.S.-Iran&#160;ceasefire, and U.S. stocks retreated from&#160;their records.</description>
-    </item>
-    <item>
-      <title>Uber to put 500 data-collection vehicles on the road this year</title>
-      <link>https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/</link>
-      <pubDate>Wed, 03 Jun 2026 20:08:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3129341</guid>
-      <description>The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.</description>
-    </item>
-    <item>
-      <title>AI is getting too much of the blame for graduate hiring prospects, and there could be a job perk that is actually behind it all</title>
-      <link>https://www.techradar.com/pro/ai-is-getting-too-much-of-the-blame-for-graduate-hiring-prospects-and-there-could-be-a-job-perk-that-is-actually-behind-it-all</link>
-      <pubDate>Wed, 03 Jun 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">eYFXkTsufvBcqR9fj596cA</guid>
-      <description>New York Federal Reserve Bank data shows that graduate unemployment started rising before AI was really a thing.</description>
-    </item>
-    <item>
-      <title>Best Buy launches a huge Sonos sale ahead of the World Cup &#8212; here are the 7 top-rated soundbars and speakers I'd buy</title>
-      <link>https://www.techradar.com/televisions/soundbars/best-buy-launches-a-huge-sonos-sale-ahead-of-the-world-cup-here-are-the-7-top-rated-soundbars-and-speakers-id-buy</link>
-      <pubDate>Wed, 03 Jun 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">4BTvtdT9mDSHHEyus86YeM</guid>
-      <description>I've searched through the big Sonos sale at Best Buy and picked out the 7 deals on speakers, soundbars, and headphones that I'd recommend if you're looking for a home audio upgrade for the World Cup.</description>
-    </item>
-    <item>
-      <title>Nvidia is already planning N2X and N3X chips &#8212; the goal is the Star Trek computer</title>
-      <link>https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan</link>
-      <pubDate>2026-06-03T16:03:50-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=942588</guid>
-      <description>Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional generations of RTX Spark are [&#8230;]</description>
-    </item>
-    <item>
-      <title>On a trouv&#233; la console r&#233;tro portable parfaite pour faire tourner absolument tous vos jeux</title>
-      <link>https://www.frandroid.com/bons-plans/3125489_on-a-trouve-la-console-retro-portable-parfaite-pour-faire-tourner-absolument-tous-vos-jeux</link>
-      <pubDate>Wed, 03 Jun 2026 20:03:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3125489_on-a-trouve-la-console-retro-portable-parfaite-pour-faire-tourner-absolument-tous-vos-jeux</guid>
-      <description>
-Amateurs de r&#233;trogaming et d'&#233;mulation, la console haut de gamme Anbernic RG557 s'offre une r&#233;duction bienvenue sur Aliexpress. Habituellement propos&#233;e &#224; 349 euros, cette machine sous Android 14 passe temporairement &#224; 292,71 euros.
-</description>
-    </item>
-    <item>
-      <title>Garmin's big software update is inbound, but these older watches will miss out &#8212; see if your Forerunner, Fenix, or Vivoactive is on the list</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/garmins-big-software-update-is-inbound-but-these-older-watches-will-miss-out-see-if-your-forerunner-fenix-or-vivoactive-is-on-the-list</link>
-      <pubDate>Wed, 03 Jun 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RegJjP5WnGour3nrLqHowc</guid>
-      <description>Owners of relatively recent Garmin watches may be disappointed to learn that they don't get the new features in the Q2 update.</description>
-    </item>
-    <item>
-      <title>246 &#8364; au lieu de 449,90 &#8364; : la tr&#232;s solide GoPro HERO13 Black perd plus de 200 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/bons-plans-photos-videos/3125479_246-e-au-lieu-de-44990-e-la-tres-solide-gopro-hero13-black-perd-plus-de-200-e</link>
-      <pubDate>Wed, 03 Jun 2026 19:55:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/bons-plans-photos-videos/3125479_246-e-au-lieu-de-44990-e-la-tres-solide-gopro-hero13-black-perd-plus-de-200-e</guid>
-      <description>
-La GoPro HERO13 Black s&#8217;impose comme l&#8217;action cam de r&#233;f&#233;rence pour immortaliser vos sessions sportives les plus intenses. Habituellement vendue &#224; 449,90 euros, la petite cam&#233;ra haut de gamme s&#8217;affiche en ce moment &#224; seulement 246 euros chez AliExpress.
-</description>
     </item>
   </channel>
 </rss>
