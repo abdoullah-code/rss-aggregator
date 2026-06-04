@@ -3,233 +3,390 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 04 Jun 2026 08:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:00:50 GMT</lastBuildDate>
     <item>
-      <title>&#192; moiti&#233; prix, cette &#233;norme batterie externe 300W de 48 000 mAh avec &#233;cran num&#233;rique devient une vraie solution d&#8217;autonomie et d&#8217;&#233;conomie</title>
-      <link>https://www.frandroid.com/bons-plans/2967301_a-moitie-prix-cette-enorme-batterie-externe-300w-de-48-000-mah-avec-ecran-numerique-devient-une-vraie-solution-dautonomie-et-deconomie</link>
-      <pubDate>Thu, 04 Jun 2026 08:45:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2967301_a-moitie-prix-cette-enorme-batterie-externe-300w-de-48-000-mah-avec-ecran-numerique-devient-une-vraie-solution-dautonomie-et-deconomie</guid>
+      <title>Yes, the Oura Ring 5 is noticeably smaller</title>
+      <link>https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions</link>
+      <pubDate>2026-06-04T08:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=942616</guid>
+      <description>This is not an Oura Ring 5 review. That's coming later, once I've had enough time to really test the new durability and battery life claims, plus the new software updates that start rolling out today. In the meantime, I did want to provide an answer to a burning question that I've seen asked in [&#8230;]</description>
+    </item>
+    <item>
+      <title>This Google Photos update has saved your digital photo frame</title>
+      <link>https://www.theverge.com/tech/942860/aura-frame-google-photos-api-update-auto-sync</link>
+      <pubDate>2026-06-04T08:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=942860</guid>
+      <description>Aura's digital photo frames will continue to automatically sync with your Google Photos albums, after API changes threatened to remove the feature. Aura is now rolling out a full migration to Google's new Ambient API, allowing your Aura frame slideshows to be automatically updated with new photos, instead of requiring owners to manually add them [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Oura Ring 5 review: Thinner, lighter, better</title>
+      <link>https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/</link>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3129295</guid>
+      <description>The Ring 5, which Oura describes as the world&#8217;s smallest smart ring, is 40% smaller than its predecessor and starts at $399.</description>
+    </item>
+    <item>
+      <title>I went behind the construction walls at Disney World's future Monsters, Inc. land, and Monstropolis is already taking shape</title>
+      <link>https://www.techradar.com/streaming/entertainment/i-went-behind-the-construction-walls-at-disney-worlds-future-monsters-inc-land-and-monstropolis-is-already-taking-shape</link>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yNMtUQTVH7i3Kexi9CKigV</guid>
+      <description>Disney World has shared new details about Monstropolis, and we also went behind the scenes at the active construction site, revealing how the future Monsters, Inc. land aims to immerse guests in the city itself through storytelling, technology, and ambitious new attractions.</description>
+    </item>
+    <item>
+      <title>Roku just got 4 free sports channels including two from FIFA &#8212; but World Cup fans should still use these VPNs and apps instead</title>
+      <link>https://www.techradar.com/streaming/roku-just-got-4-free-sports-channels-including-two-from-fifa-but-world-cup-fans-should-still-use-these-vpns-and-apps-instead</link>
+      <pubDate>Thu, 04 Jun 2026 11:56:48 +0000</pubDate>
+      <guid isPermaLink="false">TncubhxgP9QNvhsYY9vKSM</guid>
+      <description>Roku has added four new sports channels for free, just in time for the FIFA World Cup.</description>
+    </item>
+    <item>
+      <title>NASA's Mars MAVEN probe is dead</title>
+      <link>https://www.engadget.com/2187315/nasa-ends-maven-mars-mission/</link>
+      <pubDate>Thu, 04 Jun 2026 11:56:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2187315/nasa-ends-maven-mars-mission/</guid>
+      <description>NASA has declared that the MAVEN mission has ended after losing contact with its probe six months ago.</description>
+    </item>
+    <item>
+      <title>Lara Croft &#224; la sauce IA : comment ce remake du Tomb Raider de 1996 utilise l&#8217;intelligence artificielle</title>
+      <link>https://www.frandroid.com/produits-android/console/3126215_lara-croft-a-la-sauce-ia-comment-ce-remake-du-tomb-raider-de-1996-utilise-lintelligence-artificielle</link>
+      <pubDate>Thu, 04 Jun 2026 11:41:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3126215_lara-croft-a-la-sauce-ia-comment-ce-remake-du-tomb-raider-de-1996-utilise-lintelligence-artificielle</guid>
       <description>
-Ugreen propose une vaste gamme de solutions autour de l'autonomie, des chargeurs comme des batteries, telle cette power bank 300 W vendue aujourd'hui 84,29 euros au lieu de 199,99 euros chez PC Componentes.
+Tomb Raider: Legacy of Atlantis, remake du Tomb Raider de 1996, utilisera de l'intelligence artificielle &#171; raffin&#233;e par des humains &#187; le cas &#233;ch&#233;ant. Une approche controvers&#233;e que Crystal Dynamics et Flying Wild Hog tentent de justifier.
 </description>
     </item>
     <item>
-      <title>La Mercedes CLA a une meilleure autonomie que pr&#233;vue sur long trajet : la bonne surprise</title>
-      <link>https://www.frandroid.com/marques/mercedes-benz/3125677_la-mercedes-cla-a-une-meilleure-autonomie-que-prevue-sur-long-trajet-la-bonne-surprise</link>
-      <pubDate>Thu, 04 Jun 2026 08:45:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/mercedes-benz/3125677_la-mercedes-cla-a-une-meilleure-autonomie-que-prevue-sur-long-trajet-la-bonne-surprise</guid>
+      <title>Wolverine director says violent gameplay is a 'key part' of bringing the character to life, but knows it's not for everyone &#8212; 'We also implemented an accessibility feature to turn off gore'</title>
+      <link>https://www.techradar.com/gaming/wolverine-director-says-violent-gameplay-is-a-key-part-of-bringing-the-character-to-life-but-knows-its-not-for-everyone-we-also-implemented-an-accessibility-feature-to-turn-off-gore</link>
+      <pubDate>Thu, 04 Jun 2026 11:38:17 +0000</pubDate>
+      <guid isPermaLink="false">b73CmFSMweL8LCuwNoTTxS</guid>
+      <description>Insomniac Games has confirmed that players can tone down the violence in Marvel's Wolverine in the accessibility settings.</description>
+    </item>
+    <item>
+      <title>1,5 milliard de cryptos liquid&#233;es&#160;: le Bitcoin continue de plonger sous les 65&#160;000 dollars</title>
+      <link>https://www.01net.com/actualites/15-milliard-cryptos-liquidees-bitcoin-continue-plonger-sous-65-000-dollars.html</link>
+      <pubDate>Thu, 04 Jun 2026 11:34:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1351881</guid>
+      <description>Le Bitcoin vient de subir son plus violent repli de l'ann&#233;e. Ce &#171; jeudi noir &#187; a d&#233;clench&#233; une vague de liquidations massives sur le march&#233; crypto. Tensions g&#233;opolitiques au Moyen-Orient, sorties record des ETF Bitcoin et volte-face in&#233;dite de MicroStrategy...On fait le point sur les coulisses de la baisse.</description>
+    </item>
+    <item>
+      <title>Yamaha's high-end wireless hi-fi speakers could give KEF conniptions, boasting luxury listening (and they look stunning too)</title>
+      <link>https://www.techradar.com/audio/speakers/yamahas-high-end-wireless-hi-fi-speakers-could-give-kef-conniptions-boasting-luxury-listening-and-they-look-stunning-too</link>
+      <pubDate>Thu, 04 Jun 2026 11:33:37 +0000</pubDate>
+      <guid isPermaLink="false">4WLQVtpXu33heDbk32e9BK</guid>
+      <description>The new Yamaha NX-70As wireless hi-fi speakers feature materials from grand pianos and Yamaha's flagship speakers; room correction; and wide streaming support</description>
+    </item>
+    <item>
+      <title>'A much more polished 4K camera': This DJI Pocket 4 Creator Combo Deal is a steal for professional vloggers</title>
+      <link>https://www.techradar.com/pro/a-much-more-polished-4k-camera-this-dji-pocket-4-creator-combo-deal-is-a-steal-for-professional-vloggers</link>
+      <pubDate>Thu, 04 Jun 2026 11:32:52 +0000</pubDate>
+      <guid isPermaLink="false">kpQ4Np8myzv8rKiS96A7bU</guid>
+      <description>"Bang for buck, the Pocket 4 is excellent value, and has no real rival."</description>
+    </item>
+    <item>
+      <title>5 Best Smart Speakers (2026): Alexa, Google Assistant, Siri</title>
+      <link>https://www.wired.com/story/best-smart-speakers/</link>
+      <pubDate>Thu, 04 Jun 2026 11:31:00 +0000</pubDate>
+      <guid isPermaLink="false">5a9720a9086151385ac8524e</guid>
+      <description>Looking to add a smart speaker to your house? Here&#8217;s which to choose, whether you&#8217;re an Alexa, Siri, or Google fan.</description>
+    </item>
+    <item>
+      <title>I used ChatGPT to find jobs and rewrite my resume &#8212; and it felt like having a personal recruiter</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-used-chatgpt-to-find-jobs-and-rewrite-my-resume-and-it-felt-like-having-a-personal-recruiter</link>
+      <pubDate>Thu, 04 Jun 2026 11:24:18 +0000</pubDate>
+      <guid isPermaLink="false">87H4eCqZuKSmUfn6qqn6jk</guid>
+      <description>I tested ChatGPT's new job search and resume tools, and they helped me streamline my job hunt.</description>
+    </item>
+    <item>
+      <title>Data centers IA&#160;: pourquoi votre facture d&#8217;&#233;lectricit&#233; peut grimper</title>
+      <link>https://www.frandroid.com/survoltes/energie/3126655_data-centers-ia-pourquoi-votre-facture-delectricite-peut-grimper</link>
+      <pubDate>Thu, 04 Jun 2026 11:24:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3126655_data-centers-ia-pourquoi-votre-facture-delectricite-peut-grimper</guid>
       <description>
-Elue &#171;&#160;Car of the year 2026&#160;&#187;, la nouvelle Mercedes CLA surprend dans le bon sens gr&#226;ce &#224; son autonomie. La voiture &#233;lectrique a r&#233;ussi &#224; rouler plus longtemps que son homologation officielle lors d&#8217;un test routier.
+Bruxelles veut encadrer la consommation des data centers IA, dont la capacit&#233; doit doubler d'ici 2030. La question qui f&#226;che&#160;: qui paiera la facture, eux ou nous&#160;?
 </description>
     </item>
     <item>
-      <title>Nintendo Switch 2 europ&#233;enne : bonne nouvelle aussi pour les Joy-Con</title>
-      <link>https://www.frandroid.com/marques/nintendo/3125769_nintendo-switch-2-europeenne-bonne-nouvelle-aussi-pour-les-joy-con</link>
-      <pubDate>Thu, 04 Jun 2026 08:41:12 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nintendo/3125769_nintendo-switch-2-europeenne-bonne-nouvelle-aussi-pour-les-joy-con</guid>
+      <title>Tired of your ugly robot vacuum? Shark has a solution &#8212; designer robovacs in chic colors that blend with your decor rather than standing out</title>
+      <link>https://www.techradar.com/home/vacuums/shark-launches-designer-robot-vacuums</link>
+      <pubDate>Thu, 04 Jun 2026 11:20:13 +0000</pubDate>
+      <guid isPermaLink="false">zVCqkWZWDfoGWwaHcbJHGk</guid>
+      <description>The new Luxe Collection gives one of Shark's best robot vacuums a new look, with subtle colors and coordinating metallic accents you won't want to hide.</description>
+    </item>
+    <item>
+      <title>Vos donn&#233;es Linky bient&#244;t chez Amazon ? Le doute s&#8217;installe</title>
+      <link>https://www.frandroid.com/survoltes/energie/3126629_vos-donnees-linky-bientot-chez-amazon-le-doute-sinstalle</link>
+      <pubDate>Thu, 04 Jun 2026 11:16:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3126629_vos-donnees-linky-bientot-chez-amazon-le-doute-sinstalle</guid>
       <description>
-Nintendo va lancer un mod&#232;le de Switch 2 sp&#233;cialement con&#231;u pour l'Europe avec une batterie facile &#224; remplacer. Mais est-ce que les Joy-Con seront log&#233;s &#224; la m&#234;me enseigne ?
+Enedis g&#232;re les donn&#233;es de consommation de 38 millions de foyers fran&#231;ais. Et l'entreprise recrute discr&#232;tement des experts pour les faire migrer vers le cloud d'Amazon, soumis au droit am&#233;ricain.
 </description>
     </item>
     <item>
-      <title>Vous avez un iPhone 17&#160;? Vous devez absolument installer la mise &#224; jour iOS 26.5.1</title>
-      <link>https://www.01net.com/actualites/vous-avez-un-iphone-17-vous-devez-absolument-installer-la-mise-a-jour-ios-26-5-1.html</link>
-      <pubDate>Thu, 04 Jun 2026 08:39:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1351763</guid>
-      <description>Apple a d&#233;ploy&#233; iOS 26.5.1 pour les iPhone 17, iPhone 17 Pro et iPhone 17 Air. Cette mise &#224; jour corrige un bug qui emp&#234;chait certains appareils de red&#233;marrer apr&#232;s une d&#233;charge compl&#232;te de la batterie. Ce correctif intervient &#224; quelques jours de la WWDC 2026.</description>
+      <title>Intelligence artificielle | L&#8217;inventeur du Web appelle &#224; &#171;&#160;pr&#233;server les valeurs&#160;&#187; des d&#233;buts de l&#8217;internet</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-06-04/intelligence-artificielle/l-inventeur-du-web-appelle-a-preserver-les-valeurs-des-debuts-de-l-internet.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Thu, 04 Jun 2026 07:16:16 -0400</pubDate>
+      <guid isPermaLink="false">355897d16b4d38baa3680c192ca9204e</guid>
+      <description>Face &#224; la mont&#233;e en puissance de l&#8217;intelligence artificielle (IA), Tim Berners-Lee, principal inventeur du Web en 1989, appelle dans une entrevue &#224; l&#8217;AFP &#224; &#171;&#160;pr&#233;server les valeurs&#160;&#187; des d&#233;buts de l&#8217;internet et veut permettre aux utilisateurs de filtrer les donn&#233;es personnelles envoy&#233;es aux g&#233;ants du secteur.</description>
     </item>
     <item>
-      <title>Le menu clic droit de Windows 11 est devenu un monstre : Microsoft promet enfin de vous laisser le ranger</title>
-      <link>https://www.frandroid.com/marques/microsoft/3125767_le-menu-clic-droit-de-windows-11-est-devenu-un-monstre-microsoft-promet-enfin-de-vous-laisser-le-ranger</link>
-      <pubDate>Thu, 04 Jun 2026 08:37:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3125767_le-menu-clic-droit-de-windows-11-est-devenu-un-monstre-microsoft-promet-enfin-de-vous-laisser-le-ranger</guid>
+      <title>Meta, Starlink and Microsoft team up with the FBI to delete over 1.4 million accounts and seize millions in cryptocurrency related to huge scam networks targeting Americans</title>
+      <link>https://www.techradar.com/pro/security/meta-starlink-and-microsoft-team-up-with-the-fbi-to-delete-over-1-4-million-accounts-and-seize-millions-in-cryptocurrency-related-to-huge-scam-networks-targeting-americans</link>
+      <pubDate>Thu, 04 Jun 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="false">9HeKAXRbmDnHFsfRFaLtie</guid>
+      <description>The FBI arrested 63 people in connection to the scam network, while Microsoft disabled 20,000 accounts.</description>
+    </item>
+    <item>
+      <title>I'm an outdoors expert &#8212; here are 9 easy-pitch tents I'd recommend for a fuss-free camping trip</title>
+      <link>https://www.techradar.com/health-fitness/im-an-outdoors-expert-here-are-9-easy-pitch-tents-id-recommend-for-a-fuss-free-camping-trip</link>
+      <pubDate>Thu, 04 Jun 2026 11:08:33 +0000</pubDate>
+      <guid isPermaLink="false">g2yst23oM4FqMYR99fhU33</guid>
+      <description>Including my go-to tent, which opens like an umbrella and pitches in under two minutes.</description>
+    </item>
+    <item>
+      <title>Faux papiers&#160;: une boutique criminelle en ligne a &#233;t&#233; saisie par la police</title>
+      <link>https://www.01net.com/actualites/faux-papiers-boutique-criminelle-ligne-saisie-par-police.html</link>
+      <pubDate>Thu, 04 Jun 2026 11:01:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1351822</guid>
+      <description>La France et l'Espagne ont d&#233;mantel&#233; une boutique en ligne sp&#233;cialis&#233;e dans la vente de faux passeports, cartes d'identit&#233; et titres de s&#233;jour. Une op&#233;ration conjointe &#224; Alicante a abouti &#224; l'arrestation d'un suspect et &#224; la saisie d'environ 800 documents falsifi&#233;s, produits dans un appartement transform&#233; en atelier. Les documents &#233;taient livr&#233;s &#224; des clients dans toute l'Europe, notamment &#224; des r&#233;seaux de passeurs....</description>
+    </item>
+    <item>
+      <title>26 Amazon Prime Perks You Might Not Be Using (2026)</title>
+      <link>https://www.wired.com/story/amazon-prime-perks/</link>
+      <pubDate>Thu, 04 Jun 2026 11:01:00 +0000</pubDate>
+      <guid isPermaLink="false">5eac7abdb9223ceeb3be421e</guid>
+      <description>Your membership gets you more than free two-day shipping. Here&#8217;s what you may be missing ahead of Amazon Prime Day.</description>
+    </item>
+    <item>
+      <title>Retired Waymo EV batteries will get a second life as grid storage</title>
+      <link>https://www.fastcompany.com/91549512/waymo-ev-batteries-grid-storage-after-retired</link>
+      <pubDate>2026-06-04T11:01:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91549512/waymo-ev-batteries-grid-storage-after-retired</guid>
+      <description>Electric vehicles are still relatively new to American roadways. One startup is making use of their batteries once they&#8217;re no longer fit to power cars. 
+Like any other battery, electric vehicle batteries last only so long. Constant charging and even the weather can degrade the cells, which can lessen an EV&#8217;s range.&#160;</description>
+    </item>
+    <item>
+      <title>What AI nationalization could really look like</title>
+      <link>https://www.fastcompany.com/91552253/ai-nationalization-bernie-sanders-donald-trump</link>
+      <pubDate>2026-06-04T11:01:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91552253/ai-nationalization-bernie-sanders-donald-trump</guid>
+      <description>A government takeover of the leading labs remains unlikely, but Bernie Sanders&#8217;s public-ownership proposal and President Trump&#8217;s model-review order show how quickly the debate over AI control is shifting.
+Senator Bernie Sanders wants the American public to own half of the country&#8217;s largest AI companies.</description>
+    </item>
+    <item>
+      <title>Wellness brands have a trust problem. Here&#8217;s how to fix it</title>
+      <link>https://www.fastcompany.com/91539957/wellness-brands-a-trust-problem-heres-how-to-fix-it-wellness-brands-trust</link>
+      <pubDate>2026-06-04T11:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91539957/wellness-brands-a-trust-problem-heres-how-to-fix-it-wellness-brands-trust</guid>
+      <description>Consumers are becoming less tolerant of vague promises. Wellness brands are now competing with medical-level expectations.
+How we define and approach wellness and the products that assist us is evolving. The rise of GLP-1s and brands that deliver testing and personalized interventions &#8212;think Zoe&#8217;s individualized nutrition advice or Hims &amp; Hers consultation services &#8212;means consumers are becoming accustomed to solutions that drive real, root-cause change....</description>
+    </item>
+    <item>
+      <title>Something is causing tick populations to explode in these states&#8212;and experts are alarmed</title>
+      <link>https://www.fastcompany.com/91553299/something-is-causing-tick-populations-to-explode-in-these-states-and-experts-are-alarmed</link>
+      <pubDate>2026-06-04T11:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91553299/something-is-causing-tick-populations-to-explode-in-these-states-and-experts-are-alarmed</guid>
+      <description>Ohio, Virginia, Kentucky, Tennessee, and West Virginia are seeing unusually aggressive tick activity this year.
+As tick season rolls around, residents of tick-prone areas in the U.S. are readying to protect themselves from the illness-spreading arachnids. But the impact of the exploding tick population might be more widespread than before.</description>
+    </item>
+    <item>
+      <title>Waymo using old EV batteries to power Texas, California</title>
+      <link>https://mashable.com/science/waymo-ev-batteries-texas-california</link>
+      <pubDate>Thu, 04 Jun 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00S3UelWfmz75o1ZxedWZWc</guid>
+      <description>Google-owned Waymo is repurposing its old EV batteries, with Texas and California benefiting.</description>
+    </item>
+    <item>
+      <title>Android vs iOS security: which OS is safer? We compare their protections against theft, malware, snooping, and more</title>
+      <link>https://www.techradar.com/phones/android-vs-ios-security-which-os-is-safer-we-compare-their-protections-against-theft-malware-snooping-and-more</link>
+      <pubDate>Thu, 04 Jun 2026 10:58:45 +0000</pubDate>
+      <guid isPermaLink="false">uNJfub2VbRfZneyJg9qaSc</guid>
+      <description>Your phone is at risk from thieves, viruses, snoopers, and dodgy apps, but Android and iOS both have tools to minimize the threats.</description>
+    </item>
+    <item>
+      <title>In the AI era, is Shopify the new WordPress?</title>
+      <link>https://www.techradar.com/pro/in-the-ai-era-is-shopify-the-new-wordpress</link>
+      <pubDate>Thu, 04 Jun 2026 10:53:16 +0000</pubDate>
+      <guid isPermaLink="false">R2WZQkiMpmPZEZtQ3XothL</guid>
+      <description>WordPress saw a generation of creators and Shopify has done something similar for commerce. Could there be parallels?</description>
+    </item>
+    <item>
+      <title>Pour rester connect&#233; partout dans le monde, Orange casse le prix de son forfait avec 200 Go de 5G pour les jeunes de 18 &#224; 26 ans</title>
+      <link>https://www.frandroid.com/bons-plans/3126285_pour-rester-connecte-partout-dans-le-monde-orange-casse-le-prix-de-son-forfait-avec-200-go-de-5g-pour-les-jeunes-de-18-a-26-ans</link>
+      <pubDate>Thu, 04 Jun 2026 10:50:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3126285_pour-rester-connecte-partout-dans-le-monde-orange-casse-le-prix-de-son-forfait-avec-200-go-de-5g-pour-les-jeunes-de-18-a-26-ans</guid>
       <description>
-Devenu gigantesque au fil des ann&#233;es et des versions, le menu contextuel invoqu&#233; par un clic droit sur Windows pourra bient&#244;t &#234;tre modifi&#233; selon vos envies si l&#8217;on en croit les d&#233;clarations de Microsoft.
+Ce forfait mobile 4G/5G d'Orange est une offre compl&#232;te avec SMS et appels illimit&#233;s et 200 Go de donn&#233;es mobiles. Actuellement, son prix est r&#233;duit &#224; 15,99 euros par mois au lieu de 34,99 euros par mois pour les jeunes de 18 &#224; 26 ans.
 </description>
     </item>
     <item>
-      <title>Quels sont les meilleurs traceurs GPS pour v&#233;lo ? Notre s&#233;lection</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-velos-electriques/1589629_quels-sont-les-meilleurs-traceurs-gps-pour-velo-notre-selection</link>
-      <pubDate>Thu, 04 Jun 2026 08:36:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-velos-electriques/1589629_quels-sont-les-meilleurs-traceurs-gps-pour-velo-notre-selection</guid>
+      <title>What are MEMS &#8211; and how they change your world: from computers to speakers</title>
+      <link>https://www.techradar.com/pro/what-are-mems-and-how-they-change-your-world-from-computers-to-speakers</link>
+      <pubDate>Thu, 04 Jun 2026 10:43:18 +0000</pubDate>
+      <guid isPermaLink="false">KpY3BcfqJrdjCqqU5zhTdd</guid>
+      <description>Built from the same silicon as transistors, MEMS has had a transformative impact on electronics.</description>
+    </item>
+    <item>
+      <title>Sonos Era 300 speakers are on sale for under $400 at Amazon. Save $100 ahead of Prime Day.</title>
+      <link>https://mashable.com/tech/june-4-sonos-era-300-deal</link>
+      <pubDate>Thu, 04 Jun 2026 10:43:16 +0000</pubDate>
+      <guid isPermaLink="false">04ozgf1bLE9vseA6Iasl5iB</guid>
+      <description>As of June 4, the Sonos Era 300 are marked down to $379 at Amazon, 21% off their full price of $479.</description>
+    </item>
+    <item>
+      <title>In a shock move from nowhere, it seems Microsoft is finally giving Windows 11 users the ability to configure the right-click menu</title>
+      <link>https://www.techradar.com/computing/windows/in-a-shock-move-from-nowhere-it-seems-microsoft-is-finally-giving-windows-11-users-the-ability-to-configure-the-right-click-menu</link>
+      <pubDate>Thu, 04 Jun 2026 10:41:09 +0000</pubDate>
+      <guid isPermaLink="false">7ECpWKwCHVsHAWyxX2v8fg</guid>
+      <description>This could be a key change for the context-sensitive menu in Windows 11.</description>
+    </item>
+    <item>
+      <title>Segway Myon Electric Bike Review: Too Smart?</title>
+      <link>https://www.wired.com/review/segway-myon-electric-bike/</link>
+      <pubDate>Thu, 04 Jun 2026 10:35:00 +0000</pubDate>
+      <guid isPermaLink="false">6a1ef2d88f56164010e9d1f1</guid>
+      <description>From app-controlled security to electronic shifting and radar alerts, Segway&#8217;s Myon may have more tech than you need. That&#8217;s not always a bad thing.</description>
+    </item>
+    <item>
+      <title>Jeff Bezos Is Funding a Wild Hunt for the Brain&#8217;s &#8216;Core Algorithm&#8217;</title>
+      <link>https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/</link>
+      <pubDate>Thu, 04 Jun 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a0f8e0e730e71e90fb731c1</guid>
+      <description>With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.</description>
+    </item>
+    <item>
+      <title>The perfect Knicks orange? It&#8217;s actually carrot</title>
+      <link>https://www.fastcompany.com/91553148/knicks-orange-color-match-mta-subway-station-entrance</link>
+      <pubDate>2026-06-04T10:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91553148/knicks-orange-color-match-mta-subway-station-entrance</guid>
+      <description>Pantone was a bust, so two MTA employees found a perfect color match in the most New York way possible: at a 24-hour hardware store.
+When the MTA painted the subway station entrance at 34th Street and Eighth Avenue just outside Madison Square Garden in team colors to commemorate the New York Knicks&#8217; first appearance in the NBA Finals since 1999, the blue looked perfect, but MTA&#8217;s creative team knew the orange wasn&#8217;t a match....</description>
+    </item>
+    <item>
+      <title>How to watch Shnaider vs. Chwalinska online for free</title>
+      <link>https://mashable.com/entertainment/shnaider-chwalinska-french-open-2026-live-stream-for-free</link>
+      <pubDate>Thu, 04 Jun 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">06epKPSLxuCzjaQEqxh2vSK</guid>
+      <description>How to watch French Open semi-finals for free. Live stream Shnaider vs. Chwalinska in the 2026 French Open online for free.</description>
+    </item>
+    <item>
+      <title>How to watch Kostyuk vs. Andreeva online for free</title>
+      <link>https://mashable.com/entertainment/kostyuk-andreeva-french-open-2026-live-stream-for-free</link>
+      <pubDate>Thu, 04 Jun 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">03mfkNLv0OryL7z2aoHD2BC</guid>
+      <description>How to watch French Open semi finals for free. Live stream Kostyuk vs. Andreeva in the 2026 French Open online for free.</description>
+    </item>
+    <item>
+      <title>&#171;&#160;Elle a tout chang&#233;&#160;&#187; : pourquoi cette carte graphique Nvidia a lanc&#233; une petite r&#233;volution il y a 10 ans selon Jensen Huang ?</title>
+      <link>https://www.frandroid.com/actualites-generales/3126211_elle-a-tout-change-pourquoi-cette-carte-graphique-nvidia-a-lance-une-petite-revolution-il-y-a-10-ans-selon-jensen-huang</link>
+      <pubDate>Thu, 04 Jun 2026 10:27:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3126211_elle-a-tout-change-pourquoi-cette-carte-graphique-nvidia-a-lance-une-petite-revolution-il-y-a-10-ans-selon-jensen-huang</guid>
       <description>
-Un traceur GPS vous permet de localiser en permanence votre v&#233;lo, &#233;lectrique ou non. Il permet notamment de le retrouver en cas de vol. On trouve plusieurs mod&#232;les de traceurs GPS pour v&#233;lo sur le march&#233; : nous avons s&#233;lectionn&#233; les meilleurs.
+Jensen Huang, fondateur et pr&#233;sident de Nvidia, se rem&#233;more l'impact de la GTX 1080 dans l'histoire de l'entreprise. 
 </description>
     </item>
     <item>
-      <title>Le Google Pixel 11 dirait adieu aux couleurs pop : voici ses coloris probables</title>
-      <link>https://www.frandroid.com/marques/google/3125721_le-google-pixel-11-dirait-adieu-aux-couleurs-pop-voici-ses-coloris-probables</link>
-      <pubDate>Thu, 04 Jun 2026 08:34:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3125721_le-google-pixel-11-dirait-adieu-aux-couleurs-pop-voici-ses-coloris-probables</guid>
+      <title>Samsung's updated Health app unsurprisingly comes with new AI-powered features</title>
+      <link>https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/</link>
+      <pubDate>Thu, 04 Jun 2026 10:26:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/</guid>
+      <description>Samsung will roll out an update for its Health app before launching its new Galaxy Watches.</description>
+    </item>
+    <item>
+      <title>Forfaits La Poste Mobile (2026) : voici les offres sur le fixe et le mobile du 5e op&#233;rateur de France</title>
+      <link>https://www.frandroid.com/services/operateurs-mobiles/1912185_la-poste-mobile-voici-les-forfaits-4g-et-5g-de-cet-operateur</link>
+      <pubDate>Thu, 04 Jun 2026 10:25:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/operateurs-mobiles/1912185_la-poste-mobile-voici-les-forfaits-4g-et-5g-de-cet-operateur</guid>
       <description>
-De nouvelles informations, bas&#233;es sur les couleurs des fonds d&#8217;&#233;cran du prochain smartphone de la firme de Mountain View, sugg&#232;rent que Google pourrait opter pour des teintes plus sobres et plus sombres que celles de la s&#233;rie Pixel 10.
+La Poste, ce ne sont plus seulement les envois de courriers et de colis. C'est aussi une banque avec La Banque Postale ainsi qu'un op&#233;rateur mobile et internet avec la Poste Mobile. C'est ce dernier aspect du groupe qui nous int&#233;resse ici, alors voyons quels forfaits y a-t-il en r&#233;serve.
 </description>
     </item>
     <item>
-      <title>&#171;&#160;Je veux parler &#224; mon PC ! Je veux un R2-D2 !&#160;&#187; : Nvidia voit d&#233;j&#224; (tr&#232;s) loin avec sa nouvelle puce RTX Spark</title>
-      <link>https://www.frandroid.com/marques/nvidia/3125795_je-veux-parler-a-mon-pc-je-veux-un-r2-d2-nvidia-voit-deja-tres-loin-avec-sa-nouvelle-puce-rtx-spark</link>
-      <pubDate>Thu, 04 Jun 2026 08:33:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3125795_je-veux-parler-a-mon-pc-je-veux-un-r2-d2-nvidia-voit-deja-tres-loin-avec-sa-nouvelle-puce-rtx-spark</guid>
+      <title>Google va rendre les sauvegardes Android plus flexibles&#160;: ce que &#231;a change</title>
+      <link>https://www.frandroid.com/marques/google/3125947_google-va-rendre-les-sauvegardes-android-plus-flexibles-ce-que-ca-change</link>
+      <pubDate>Thu, 04 Jun 2026 10:24:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3125947_google-va-rendre-les-sauvegardes-android-plus-flexibles-ce-que-ca-change</guid>
       <description>
-Le pr&#233;sident de Nvidia, Jensen Huang, a des ambitions pour RTX Spark, sa nouvelle architecture pour PC portables. Deux autres puces sont d&#233;j&#224; en projet pour faire de votre ordinateur un v&#233;ritable agent IA.
+Google songe &#224; permettre &#224; ses utilisateurs de choisir pr&#233;cis&#233;ment les donn&#233;es de leur smartphone qu&#8217;ils souhaitent sauvegarder.
 </description>
     </item>
     <item>
-      <title>The World Cup is about to kick off &#8212; here's my dream watch party setup, including the perfect projector to scale up every goal</title>
-      <link>https://www.techradar.com/home/the-world-cup-is-about-to-kick-off-heres-my-dream-watch-party-setup-including-the-perfect-projector-to-scale-up-every-goal</link>
-      <pubDate>Thu, 04 Jun 2026 08:26:49 +0000</pubDate>
-      <guid isPermaLink="false">sgpdES9yJUoFBa6fjBqqkM</guid>
-      <description>Plus stellar speakers, smart lights to amp up the atmosphere, and catering gadgets that won't drag me away from the action.</description>
+      <title>The Pok&#233;mon TCG Chaos Rising Elite Trainer Box is back under $100 on Amazon. Save $20 now.</title>
+      <link>https://mashable.com/life/june-4-pokemon-tcg-chaos-rising-elite-trainer-box-deal</link>
+      <pubDate>Thu, 04 Jun 2026 10:21:49 +0000</pubDate>
+      <guid isPermaLink="false">03bbEF087ZRH8x2iInWEWAh</guid>
+      <description>Pok&#233;mon TCG Chaos Rising Elite Trainer Boxes are back under $100 at Amazon through third-party sellers.</description>
     </item>
     <item>
-      <title>Pourquoi General Motors construit sa nouvelle Bolt EV par lots de 30 exemplaires d&#8217;un coup</title>
-      <link>https://www.frandroid.com/survoltes/voitures-electriques/3125641_pourquoi-general-motors-construit-sa-nouvelle-bolt-ev-par-lots-de-30-exemplaires-dun-coup</link>
-      <pubDate>Thu, 04 Jun 2026 08:25:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3125641_pourquoi-general-motors-construit-sa-nouvelle-bolt-ev-par-lots-de-30-exemplaires-dun-coup</guid>
+      <title>Moins de 20 000 &#8364;, mais impossible d&#8217;ouvrir le capot : le pari risqu&#233; de la Twingo &#233;lectrique</title>
+      <link>https://www.frandroid.com/marques/renault/3126369_moins-de-20-000-e-mais-impossible-douvrir-le-capot-le-pari-tres-risque-de-la-twingo-electrique</link>
+      <pubDate>Thu, 04 Jun 2026 10:20:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/renault/3126369_moins-de-20-000-e-mais-impossible-douvrir-le-capot-le-pari-tres-risque-de-la-twingo-electrique</guid>
       <description>
-Le groupe am&#233;ricain General Motors produit l&#8217;une de ses voitures &#233;lectriques par lot de 30 d&#8217;un coup. Une solution surprenante, mais qui poss&#232;de de r&#233;els avantages.
+La Renault Twingo E-Tech conna&#238;t ses premiers d&#233;fauts de jeunesse. Tout n'est pas parfait sous le capot de la nouvelle voiture &#233;lectrique de la marque, avec notamment un bug qui touche la prise OBD et qui peut mener &#224; la panne.
 </description>
     </item>
     <item>
-      <title>Google Wallet ID passes will be available in select EU states this summer</title>
-      <link>https://www.engadget.com/2186977/google-wallet-id-passes-will-be-available-in-select-eu-states-this-summer/</link>
-      <pubDate>Thu, 04 Jun 2026 08:25:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2186977/google-wallet-id-passes-will-be-available-in-select-eu-states-this-summer/</guid>
-      <description>The company is also introducing a new age verification process in partnership with a European bank.</description>
+      <title>The waitlist is not the control: Why frontier cyber AI needs business-side guardrails</title>
+      <link>https://www.techradar.com/pro/the-waitlist-is-not-the-control-why-frontier-cyber-ai-needs-business-side-guardrails</link>
+      <pubDate>Thu, 04 Jun 2026 10:17:18 +0000</pubDate>
+      <guid isPermaLink="false">FS6PWHhQJPy2oEgdrFLZg3</guid>
+      <description>Restricted-access frontier cyber AI programs are admission controls, not enterprise readiness controls.</description>
     </item>
     <item>
-      <title>Galaxy Watch : l&#8217;appli Samsung Health a droit &#224; une refonte majeure avec des recommandations par IA</title>
-      <link>https://www.frandroid.com/marques/samsung/3125741_galaxy-watch-lappli-samsung-health-a-droit-a-une-refonte-majeure-avec-des-recommandations-par-ia</link>
-      <pubDate>Thu, 04 Jun 2026 08:24:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3125741_galaxy-watch-lappli-samsung-health-a-droit-a-une-refonte-majeure-avec-des-recommandations-par-ia</guid>
+      <title>Promo d&#8217;&#233;t&#233; AliExpress : voici les 10 produits que les acheteurs ont vraiment pl&#233;biscit&#233;s ces derniers jours [Sponso]</title>
+      <link>https://www.frandroid.com/produits-android/3124913_promo-dete-aliexpress-voici-les-10-produits-que-les-acheteurs-ont-vraiment-plebiscites-ces-derniers-jours</link>
+      <pubDate>Thu, 04 Jun 2026 10:17:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3124913_promo-dete-aliexpress-voici-les-10-produits-que-les-acheteurs-ont-vraiment-plebiscites-ces-derniers-jours</guid>
       <description>
-En amont du lancement des nouvelles montres connect&#233;es Samsung, la firme cor&#233;enne a d&#233;voil&#233; la prochaine version de son application centrale autour du suivi de sant&#233; et d'activit&#233;, Samsung Health. 
+Peur de louper LA bonne affaire de la Promo d'&#233;t&#233; AliExpress ? Le site marchand nous a partag&#233; ses 10 meilleures ventes du 3 juin 2026. 
 </description>
     </item>
     <item>
-      <title>You can now use Ask Gemini in Drive to rummage through your Gmail</title>
-      <link>https://www.engadget.com/2187268/ask-gemini-gmail-search/</link>
-      <pubDate>Thu, 04 Jun 2026 08:24:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2187268/ask-gemini-gmail-search/</guid>
-      <description>Slogging through emails to find stuff can be a chore, but Google AI subscribers can now get Gemini to do it.</description>
+      <title>The 5 common mistakes enterprises make when choosing AI tools (and how to avoid them)</title>
+      <link>https://www.techradar.com/pro/the-5-common-mistakes-enterprises-make-when-choosing-ai-tools-and-how-to-avoid-them</link>
+      <pubDate>Thu, 04 Jun 2026 10:12:07 +0000</pubDate>
+      <guid isPermaLink="false">fmeZD9ocfN8k9JQ4aZoxDF</guid>
+      <description>Enterprises are rushing into AI. Here's where most go wrong and how to course-correct.</description>
     </item>
     <item>
-      <title>On a d&#233;nich&#233; la TV connect&#233;e parfaite pour une chambre &#224; seulement 71 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3125911_on-a-deniche-la-tv-connectee-parfaite-pour-une-chambre-a-seulement-71-e</link>
-      <pubDate>Thu, 04 Jun 2026 08:22:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3125911_on-a-deniche-la-tv-connectee-parfaite-pour-une-chambre-a-seulement-71-e</guid>
+      <title>Boulanger brade &#224; -20 % la Samsung Galaxy Tab S10 FE Plus dans un pack complet</title>
+      <link>https://www.frandroid.com/bons-plans/3125891_boulanger-brade-a-20-la-samsung-galaxy-tab-s10-fe-plus-dans-un-pack-complet</link>
+      <pubDate>Thu, 04 Jun 2026 10:06:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3125891_boulanger-brade-a-20-la-samsung-galaxy-tab-s10-fe-plus-dans-un-pack-complet</guid>
       <description>
-Trouver un t&#233;l&#233;viseur connect&#233; pour une chambre ou une cuisine sans se ruiner est aujourd&#8217;hui tr&#232;s simple. Le Xiaomi TV A 32 (2025), un mod&#232;le compact &#233;quip&#233; de Google TV, s'affiche actuellement &#224; seulement 71,93 euros au lieu de 169,99 euros chez Aliexpress.
+&#192; c&#244;t&#233; de ses tablettes haut de gamme, Samsung pr&#233;sente une version plus abordable, la Galaxy Tab S10 FE. Une tablette Android avec une fiche technique s&#233;duisante et dont la version Plus est actuellement dans un pack en promotion : 535 euros contre 669 euros de base. 
 </description>
     </item>
     <item>
-      <title>Des comptes Instagram se font encore pirater, Meta AI est-il toujours vuln&#233;rable&#160;?</title>
-      <link>https://www.01net.com/actualites/des-comptes-instagram-se-font-encore-pirater-meta-ai-est-il-toujours-vulnerable.html</link>
-      <pubDate>Thu, 04 Jun 2026 08:16:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1351757</guid>
-      <description>Des comptes Instagram continuent de se faire pirater. Bien que Meta affirme que la faille de Meta AI a &#233;t&#233; colmat&#233;e, de nombreux comptes sont tomb&#233;s entre les mains des cybercriminels. Tout porte &#224; croire que Meta simplement cach&#233; la vuln&#233;rabilit&#233;, au lieu de la corriger dans le code.</description>
+      <title>A slam-dunk at High End Vienna: Audeze unveils pro mixing headphones with huge 90mm drivers (and yes, proprietary SLAM tech too)</title>
+      <link>https://www.techradar.com/audio/a-slam-dunk-at-high-end-vienna-audeze-unveils-pro-mixing-headphones-with-huge-90mm-drivers-and-yes-proprietary-slam-tech-too</link>
+      <pubDate>Thu, 04 Jun 2026 10:04:22 +0000</pubDate>
+      <guid isPermaLink="false">x5ZUtUFgpDt8VfRT9XjNqn</guid>
+      <description>The Audeze MM-520 bring some tweaks over their predecessor, plus a little SLAM for good measure.</description>
     </item>
     <item>
-      <title>R&#233;f&#233;rence incontournable du vlog, la DJI Osmo Pocket 3 s&#8217;affiche &#224; prix cass&#233;</title>
-      <link>https://www.frandroid.com/marques/3125883_reference-incontournable-du-vlog-la-dji-osmo-pocket-3-saffiche-a-prix-casse</link>
-      <pubDate>Thu, 04 Jun 2026 08:14:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3125883_reference-incontournable-du-vlog-la-dji-osmo-pocket-3-saffiche-a-prix-casse</guid>
+      <title>Votre compte Instagram n&#8217;est toujours pas en s&#233;curit&#233;, Meta a fait du bricolage</title>
+      <link>https://www.frandroid.com/marques/meta/3126321_votre-compte-instagram-nest-toujours-pas-en-securite-meta-a-fait-du-bricolage</link>
+      <pubDate>Thu, 04 Jun 2026 10:01:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3126321_votre-compte-instagram-nest-toujours-pas-en-securite-meta-a-fait-du-bricolage</guid>
       <description>
-La DJI Osmo Pocket 3 s'est rapidement impos&#233;e aupr&#232;s des cr&#233;ateurs de contenu gr&#226;ce &#224; son format miniature et sa stabilisation d'exception. Habituellement vendue au prix de 429 euros, elle s'affiche aujourd'hui &#224; seulement 288,22 euros chez Aliexpress.
+Votre compte Instagram n'est pas prot&#233;g&#233;. Meta a bien op&#233;r&#233; une premi&#232;re action, mais elle n'est que superficielle. Un pirate peut encore s'emparer assez facilement des comptes qu'il convoite.
 </description>
     </item>
     <item>
-      <title>Look Geo City Vision&#160;: des p&#233;dales &#224; feux int&#233;gr&#233;s deux fois moins ch&#232;res et bien plus pratiques</title>
-      <link>https://www.frandroid.com/marques/look/3125799_look-geo-city-vision-des-pedales-a-feux-integres-deux-fois-moins-cheres-et-bien-plus-pratiques</link>
-      <pubDate>Thu, 04 Jun 2026 08:11:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/look/3125799_look-geo-city-vision-des-pedales-a-feux-integres-deux-fois-moins-cheres-et-bien-plus-pratiques</guid>
-      <description>
-Look remet le couvert sur les p&#233;dales lumineuses avec les Geo City Vision, vendues 79,90&#160;&#8364;. L'id&#233;e&#160;: vous rendre toujours plus visible gr&#226;ce &#224; un &#233;clairage qui suit le mouvement de vos jambes.
-</description>
+      <title>1,4 million d&#8217;arnaques supprim&#233;es&#160;: Meta, Microsoft et Starlink s&#8217;associent pour d&#233;manteler des r&#233;seaux criminels</title>
+      <link>https://www.01net.com/actualites/14-million-darnaques-evitees-meta-microsoft-starlink-reseaux-criminels.html</link>
+      <pubDate>Thu, 04 Jun 2026 10:01:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1351768</guid>
+      <description>Une coalition in&#233;dite regroupant Meta, Microsoft, Coinbase, Starlink et les forces de l'ordre de cinq pays a frapp&#233; fort contre les r&#233;seaux d'arnaque d'Asie du Sud-Est. Le bilan est impressionnant avec plus de 1,4 million de comptes d&#233;sactiv&#233;s, 3 millions de dollars gel&#233;s et 63 arrestations de criminels. C'est la plus grande op&#233;ration anti-escroquerie jamais coordonn&#233;e entre g&#233;ants de la tech et autorit&#233;s internationales....</description>
     </item>
     <item>
-      <title>Windows 11&#160;: Microsoft plancherait sur un bouton pour d&#233;sinstaller l&#8217;IA de votre PC</title>
-      <link>https://www.01net.com/actualites/windows-11-microsoft-plancherait-sur-un-bouton-pour-desinstaller-lia-de-votre-pc.html</link>
-      <pubDate>Thu, 04 Jun 2026 08:10:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1351788</guid>
-      <description>Microsoft travaillerait sur une nouvelle option permettant aux utilisateurs de PC Copilot+ de d&#233;sinstaller en un clic les composants d&#8217;IA locaux. Une mani&#232;re de lib&#233;rer de l&#8217;espace de stockage pour les utilisateurs qui n&#8217;utilisent pas l&#8217;IA sur leur machine.</description>
-    </item>
-    <item>
-      <title>La m&#233;moire LPCAMM2 expliqu&#233;e&#160;: la m&#233;moire qui rend enfin la RAM des PC fins r&#233;parable</title>
-      <link>https://www.frandroid.com/produits-android/hardware/memoire/3125825_la-memoire-lpcamm2-expliquee-la-memoire-qui-rend-enfin-la-ram-des-pc-fins-reparable</link>
-      <pubDate>Thu, 04 Jun 2026 08:07:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/memoire/3125825_la-memoire-lpcamm2-expliquee-la-memoire-qui-rend-enfin-la-ram-des-pc-fins-reparable</guid>
-      <description>
-Framework d&#233;taille pourquoi son Laptop 13 Pro abandonne la RAM soud&#233;e pour la LPCAMM2. Derri&#232;re le sigle barbare, une vraie promesse : de la m&#233;moire ultra-basse consommation qu'on peut enfin remplacer soi-m&#234;me.
-</description>
-    </item>
-    <item>
-      <title>Masters of the Universe director Travis Knight doesn't think AI is a 'technology we should fear' &#8212; but says it'll never replace the people who give movies their 'spirit and soul'</title>
-      <link>https://www.techradar.com/streaming/entertainment/masters-of-the-universe-director-travis-knight-doesnt-think-ai-is-a-technology-we-should-fear-but-says-itll-never-replace-the-people-who-give-movies-their-spirit-and-soul</link>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NyyR4AcKRpkTS8ZCjg87p7</guid>
-      <description>AI wasn't used to make Amazon's new sci-fi fantasy film, but its director says it has a place in the industry if it's applied correctly.</description>
-    </item>
-    <item>
-      <title>Noble Audio debuts FoKus Artemis headphones with three drivers and ANC</title>
-      <link>https://www.engadget.com/2186595/noble-audio-debuts-fokus-artemis-headphones-with-three-drivers-and-anc/</link>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2186595/noble-audio-debuts-fokus-artemis-headphones-with-three-drivers-and-anc/</guid>
-      <description>Noble's FoKus Artemis headphones have three drivers and ANC, but they don't come cheap.</description>
-    </item>
-    <item>
-      <title>This startup is trying to make peace between AI companies and creatives</title>
-      <link>https://www.fastcompany.com/91553134/this-startup-is-trying-to-make-peace-between-ai-companies-and-creatives</link>
-      <pubDate>2026-06-04T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91553134/this-startup-is-trying-to-make-peace-between-ai-companies-and-creatives</guid>
-      <description>How one startup, led by a Scribd cofounder, is helping authors and other artists safeguard their work in the age of automation.
-&#8220;It was a dark and stormy night.</description>
-    </item>
-    <item>
-      <title>La Xiaomi Electric Scooter 4 Pro Max devient bien plus attractive &#224; presque moiti&#233; prix</title>
-      <link>https://www.frandroid.com/bons-plans/2942649_la-xiaomi-electric-scooter-4-pro-max-devient-bien-plus-attractive-a-presque-moitie-prix</link>
-      <pubDate>Thu, 04 Jun 2026 07:57:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2942649_la-xiaomi-electric-scooter-4-pro-max-devient-bien-plus-attractive-a-presque-moitie-prix</guid>
-      <description>
-Si au moment de la sortie, le r&#233;el int&#233;r&#234;t de cette Xiaomi Electric Scooter 4 Pro Max pouvait poser question, cette trottinette &#233;lectrique devient r&#233;ellement int&#233;ressante gr&#226;ce &#224; cette remise de presque 50 %. Chez Carrefour, on la trouve &#224; 349 euros au lieu de 629 euros &#224; son lancement. 
-</description>
-    </item>
-    <item>
-      <title>Framework muscle son jeu : une vague de PC reconditionn&#233;s pour boucler la boucle</title>
-      <link>https://www.frandroid.com/marques/framework/3125773_framework-muscle-son-jeu-une-vague-de-pc-reconditionns-pour-boucler-la-boucle</link>
-      <pubDate>Thu, 04 Jun 2026 07:54:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/framework/3125773_framework-muscle-son-jeu-une-vague-de-pc-reconditionns-pour-boucler-la-boucle</guid>
-      <description>
-Framework vient d'inonder son rayon de seconde main avec une vague de PC reconditionn&#233;s. Derri&#232;re l'op&#233;ration, une logique de boucle ferm&#233;e qui colle &#224; l'ADN de la marque : moins de d&#233;chets, des machines moins ch&#232;res, un &#233;cosyst&#232;me qui se compl&#232;te.
-</description>
-    </item>
-    <item>
-      <title>Vous faites des fautes dans vos statuts WhatsApp&#160;? Une bonne nouvelle arrive bient&#244;t</title>
-      <link>https://www.01net.com/actualites/vous-faites-des-fautes-dans-vos-statuts-whatsapp-une-bonne-nouvelle-arrive-bientot.html</link>
-      <pubDate>Thu, 04 Jun 2026 07:32:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1351669</guid>
-      <description>WhatsApp pr&#233;pare la modification des l&#233;gendes de statuts apr&#232;s publication, avec une fen&#234;tre de 15 minutes. La fonctionnalit&#233; est en d&#233;veloppement, sans date de sortie annonc&#233;e.</description>
-    </item>
-    <item>
-      <title>Acer lance &#224; son tour ses propres lunettes connect&#233;es, et la r&#233;alit&#233; augment&#233;e est au menu</title>
-      <link>https://www.01net.com/actualites/acer-lance-a-son-tour-ses-propres-lunettes-connectees-et-la-realite-augmentee-est-au-menu.html</link>
-      <pubDate>Thu, 04 Jun 2026 07:00:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1351674</guid>
-      <description>Acer lance deux mod&#232;les de lunettes connect&#233;es : AI GI0 et AR Vision GR0. Le premier mod&#232;le pr&#233;sente une cam&#233;ra de 12 MP et int&#232;gre Gemini, tandis que le second propose une exp&#233;rience de r&#233;alit&#233; augment&#233;e. Ces deux mod&#232;les arriveront cette ann&#233;e en Europe.</description>
-    </item>
-    <item>
-      <title>Shokz upgraded its open earbuds with better sound and a lighter design</title>
-      <link>https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones</link>
-      <pubDate>2026-06-04T03:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=942054</guid>
-      <description>Shokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to the back of your ear with their drivers positioned to project sound toward your ear canals without blocking them. [&#8230;]</description>
-    </item>
-    <item>
-      <title>Shokz says its clip-on OpenDots 2 earbuds focus on improved volume and bass</title>
-      <link>https://www.engadget.com/2186840/shokz-says-its-opendots-2-earbuds-focus-on-improved-volume-and-bass/</link>
-      <pubDate>Thu, 04 Jun 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2186840/shokz-says-its-opendots-2-earbuds-focus-on-improved-volume-and-bass/</guid>
-      <description>The flagship OpenDots 2 earbuds are joined by the mid-range OpenDots Air.</description>
+      <title>Siri&#8217;s Google brain: What to expect at WWDC 2026</title>
+      <link>https://mashable.com/tech/siri-google-brain-wwdc-2026</link>
+      <pubDate>Thu, 04 Jun 2026 10:00:49 +0000</pubDate>
+      <guid isPermaLink="false">05sJwAw4GPdQQZGTQkwUF7x</guid>
+      <description>WWDC 2026 could reveal major Siri upgrades, new AI features, and more clues about Apple&#8217;s future hardware plans.</description>
     </item>
   </channel>
 </rss>
