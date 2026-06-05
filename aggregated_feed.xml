@@ -3,236 +3,136 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 05 Jun 2026 18:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:49:07 GMT</lastBuildDate>
     <item>
-      <title>Fuze review: this explosive new thriller movie will keep you on the edge of your seat &#8212; but wastes its all-star cast</title>
-      <link>https://www.techradar.com/streaming/entertainment/fuze-review-this-explosive-new-thriller-movie-will-keep-you-on-the-edge-of-your-seat-but-wastes-its-all-star-cast</link>
-      <pubDate>Fri, 05 Jun 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">u5NVcuBkbi7UGTAZjDPP6R</guid>
-      <description>Fuze is a fun, fast-paced thriller but it might leave you wanting a little more.</description>
+      <title>Summer Game Fest Live 2026: The biggest news, trailers, and announcements</title>
+      <link>https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements</link>
+      <pubDate>2026-06-05T16:40:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=939484</guid>
+      <description>Geoff Keighley&#8217;s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5PM ET and is set to run for two hours. The event itself will take place in person at the Dolby Theatre in Los Angeles, [&#8230;]</description>
     </item>
     <item>
-      <title>AI agents are learning on the job &#8212; just not for your whole team</title>
-      <link>https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team</link>
-      <pubDate>Fri, 05 Jun 2026 17:51:03 GMT</pubDate>
-      <guid isPermaLink="false">7uZ8DypEBhAAvj8zvgYIdD</guid>
-      <description>When someone on a team corrects an AI agent &#8212; better prompts, better feedback, better context &#8212; that improvement disappears the moment a colleague opens the same tool. The correction doesn't transfer, and the next person starts from zero.The problem compounds in multi-agent workflows, where teams expect agents to share context across users and tasks. Without a shared memory layer, every team member effectively trains a different version of the same agent &#8212; and those versions never sync.That gap shows up in the numbers. According to Asana's own research, 75% of knowledge workers use AI on the j...</description>
+      <title>Former cyber executive turned whistleblower accuses IBM of covering up several data breaches</title>
+      <link>https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/</link>
+      <pubDate>Fri, 05 Jun 2026 20:31:04 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3130083</guid>
+      <description>IBM and two of its subsidiary companies were allegedly breached during the mid-2010s, which a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering up.</description>
     </item>
     <item>
-      <title>GM&#8217;s electric future depends on a new battery &#8212; and this building</title>
-      <link>https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/</link>
-      <pubDate>Fri, 05 Jun 2026 17:44:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3129930</guid>
-      <description>GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.</description>
+      <title>Meta&#8217;s smart glasses might soon sport facial recognition &#8212; and the code to power this dystopian feature is already present in the Meta AI app on your phone</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/metas-smart-glasses-might-soon-sport-facial-recognition-and-the-code-to-power-this-dystopian-feature-is-already-present-in-the-meta-ai-app-on-your-phone</link>
+      <pubDate>Fri, 05 Jun 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">VUqE25PWDxY2vVQiegQXuN</guid>
+      <description>The Meta AI app has quietly had facial recognition code added to it, which could one day allow the company's smart glasses to identify people.</description>
     </item>
     <item>
-      <title>As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew</title>
-      <link>https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/</link>
-      <pubDate>Fri, 05 Jun 2026 17:38:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3129011</guid>
-      <description>Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.</description>
+      <title>The latest Summer Game Fest 2026 announcements live from the show in Los Angeles</title>
+      <link>https://www.techradar.com/news/live/summer-game-fest-2026-live</link>
+      <pubDate>Fri, 05 Jun 2026 20:10:09 +0000</pubDate>
+      <guid isPermaLink="false">G34V6pb9WbM9MXakVeLm6S</guid>
+      <description>Our live coverage of Summer Game Fest 2026.</description>
     </item>
     <item>
-      <title>Prime Day is right around the corner: Here are 20+ early deals to start shopping now</title>
-      <link>https://mashable.com/tech/best-amazon-prime-day-early-deals-2026</link>
-      <pubDate>Fri, 05 Jun 2026 17:34:30 +0000</pubDate>
-      <guid isPermaLink="false">03Fu7QvLoRnEenOqdB1nLfV</guid>
-      <description>Amazon Prime Day is coming June 23. Shop early Prime Day deals on Sony headphones, Hisense TVs, and Anker power stations.</description>
+      <title>'Fraud won&#8217;t be tolerated in this country any longer': FBI releases Most Wanted Fraudsters list to help fight the crime that 'costs Americans tens of billions of dollars every year'</title>
+      <link>https://www.techradar.com/pro/security/fraud-wont-be-tolerated-in-this-country-any-longer-fbi-releases-most-wanted-fraudsters-list-to-help-fight-the-crime-that-costs-americans-tens-of-billions-of-dollars-every-year</link>
+      <pubDate>Fri, 05 Jun 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">jAJ5BzKJCzZiqFexfroqoE</guid>
+      <description>The FBI is currently looking for eight major fraudsters whose whereabouts have been unknown for years.</description>
     </item>
     <item>
-      <title>&#8216;This is a fundamental shift in how we prepare for pandemics&#8217;: Researchers used AI and known genetic codes to develop a &#8216;fundamentally new&#8217; vaccine that &#8216;could help speed up the roll out vaccines to benefit people all over the world&#8217;</title>
-      <link>https://www.techradar.com/pro/this-is-a-fundamental-shift-in-how-we-prepare-for-pandemics-researchers-used-ai-and-known-genetic-codes-to-develop-a-fundamentally-new-vaccine-that-could-help-speed-up-the-roll-out-vaccines-to-benefit-people-all-over-the-world</link>
-      <pubDate>Fri, 05 Jun 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">RK4WsBavABj8JniqmwzZPc</guid>
-      <description>The research team hope that the new AI development method could help create vaccines that target a whole family of viruses</description>
+      <title>Startup Battlefield 200 applications officially close in 3 days</title>
+      <link>https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/</link>
+      <pubDate>Fri, 05 Jun 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3130115</guid>
+      <description>Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Now&#8217;s not the time to wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.</description>
     </item>
     <item>
-      <title>The most interesting startups right now want to get you off your phone</title>
-      <link>https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/</link>
-      <pubDate>Fri, 05 Jun 2026 17:17:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3130048</guid>
-      <description>While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]...</description>
+      <title>SpaceX signe un contrat de pr&#232;s d&#8217;1&#160;milliard US pour fournir de la puissance de calcul &#224; Google</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-06-05/spacex-signe-un-contrat-de-pres-d-1-milliard-us-pour-fournir-de-la-puissance-de-calcul-a-google.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Fri, 05 Jun 2026 15:59:32 -0400</pubDate>
+      <guid isPermaLink="false">d4af53f1e3cf389095c9291cc8e65462</guid>
+      <description>SpaceX a sign&#233; vendredi un accord pour louer &#224; Google une importante puissance de calcul informatique, selon un document boursier publi&#233; vendredi, renfor&#231;ant la place du groupe spatial d&#8217;Elon Musk parmi les fournisseurs d&#8217;infrastructures de l&#8217;intelligence artificielle.</description>
     </item>
     <item>
-      <title>Hackers abused Stripe and Google Tag Manager to launch a credit card theft campaign and host stolen payment details</title>
-      <link>https://www.techradar.com/pro/security/hackers-abused-stripe-and-google-tag-manager-to-launch-a-credit-card-theft-campaign-and-host-stolen-payment-details</link>
-      <pubDate>Fri, 05 Jun 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="false">ho8AsHFvBEzScLrusvwYuc</guid>
-      <description>Google Tag Manager is also abused in this campaign.</description>
+      <title>China combats US carrier restrictions by opening telecoms pilots to foreign outfits &#8211; Beijing drops 50% foreign ownership cap to attract new investment</title>
+      <link>https://www.techradar.com/pro/china-combats-us-carrier-restrictions-by-opening-telecoms-pilots-to-foreign-outfits-beijing-drops-50-percent-foreign-ownership-cap-to-attract-new-investment</link>
+      <pubDate>Fri, 05 Jun 2026 19:40:00 +0000</pubDate>
+      <guid isPermaLink="false">CgKxMvrWbD26ePrY4kTEHK</guid>
+      <description>Foreign companies will no longer need to create Chinese joint ventures to sell in China, under this region-specific pilot.</description>
     </item>
     <item>
-      <title>Nvidia RTX 5000 Super GPU refreshes could arrive in 2026 after all &#8212; with a surprise addition that won't destroy your wallet like the others</title>
-      <link>https://www.techradar.com/computing/gpu/nvidia-rtx-5000-super-gpu-refreshes-could-arrive-in-2026-after-all-with-a-surprise-addition-that-wont-destroy-your-wallet-like-the-others</link>
-      <pubDate>Fri, 05 Jun 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="false">H496R9LgXwEcbXFVKFsqrc</guid>
-      <description>Has Nvidia changed its mind about RTX Super GPU refreshes for Blackwell? Apparently, although I remain skeptical...</description>
+      <title>OpenAI rolls out a Lockdown Mode for extra protection against prompt injection attacks</title>
+      <link>https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/</link>
+      <pubDate>Fri, 05 Jun 2026 19:33:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/</guid>
+      <description>OpenAI has announced more robust security features for the small set of users who might need them.</description>
     </item>
     <item>
-      <title>This year's PC Gaming Show will provide looks at more than 50 games and also feature a behind-the-scenes look at one of my most anticipated games of the year &#8212; here's how to tune in</title>
-      <link>https://www.techradar.com/gaming/this-years-pc-gaming-show-will-provide-looks-at-more-than-50-games-and-also-feature-a-behind-the-scenes-look-at-one-of-my-most-anticipated-games-of-the-year-heres-how-to-tune-in</link>
-      <pubDate>Fri, 05 Jun 2026 17:12:23 +0000</pubDate>
-      <guid isPermaLink="false">rqpxwgnZeVG82rJw2H7Kni</guid>
-      <description>This year's PC Gaming Show is nearly here, where we'll get a look at more than 50 games.</description>
+      <title>Microsoft's AI Futurist explains how he uses Copilot &#8212; and the real-world problems enterprises are solving with agents</title>
+      <link>https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents</link>
+      <pubDate>Fri, 05 Jun 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="false">3RdRRZK0navJNcrZIWBWHl</guid>
+      <description>Microsoft used its Build 2026 conference this week to push a clear message: agents are rapidly moving into production throughout enterprise systems, and the winning platform will be the one that gives them reliable context, governance, identity, memory &#8212; and secure access to enterprise data. The company announced Microsoft IQ as a context layer across GitHub Copilot, Microsoft Foundry and Copilot Studio; Work IQ APIs coming June 16; Fabric IQ for structured business data; Foundry IQ for retrieval across enterprise knowledge and the live web; and Web IQ as a new agent-facing web search stack. M...</description>
     </item>
     <item>
-      <title>The Sonos Era 100 speaker is down to its lowest price in months</title>
-      <link>https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale</link>
-      <pubDate>2026-06-05T13:00:47-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=944095</guid>
-      <description>Whether you&#8217;re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189 ($30 off) at a variety of retailers, including Amazon, Best Buy, and directly from Sonos. If you want an even lower price, [&#8230;]</description>
+      <title>How Big Tobacco helped design Lunchables&#8212;and gave birth to the ultra-processed food industry</title>
+      <link>https://www.fastcompany.com/91554173/lunchables-created-help-big-tobacco-cigarette-research-study</link>
+      <pubDate>2026-06-05T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91554173/lunchables-created-help-big-tobacco-cigarette-research-study</guid>
+      <description>Research and development from the cigarette business played a surprising role in engineering snack foods for &#8220;consumer pleasure,&#8221; a new study reveals.
+In the 1980s, Big Tobacco started playing a major role in America&#8217;s food industry, buying up companies like General Foods, Kraft, and Nabisco.</description>
     </item>
     <item>
-      <title>Apple says these malls got so bad it&#8217;s leaving</title>
-      <link>https://www.fastcompany.com/91554779/apple-says-these-malls-got-so-bad-its-leaving</link>
-      <pubDate>2026-06-05T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91554779/apple-says-these-malls-got-so-bad-its-leaving</guid>
-      <description>Three Apple Stores will close this month as the company cites worsening conditions at their shopping centers.
-The countdown is on for Apple&#8217;s devoted flock: Later this month, the tech giant will permanently close three stores in California, Connecticut, and Maryland.</description>
+      <title>Elmo promoted good sportsmanship. New Yorkers didn&#8217;t appreciate it</title>
+      <link>https://www.fastcompany.com/91554888/elmo-tweet-knicks-controversy</link>
+      <pubDate>2026-06-05T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91554888/elmo-tweet-knicks-controversy</guid>
+      <description>Elmo once again has a viral post on X&#8212;but this time, he&#8217;s the target of anger from Knicks fans.
+For most of the world who grew up watching Sesame Street, Elmo is a lovable and, importantly, uncontroversial figfure (and somewhat annoying) laugh. For New Yorkers, Elmo&#8217;s latest tweet makes him a traitor.</description>
     </item>
     <item>
-      <title>DaVinci Resolve 21 (2026) review: Our top free video editing app gets big improvements and a new Lightroom-style Photos tool for color-grading images</title>
-      <link>https://www.techradar.com/pro/software-services/davinci-resolve-21-2026-video-editing-software-review</link>
-      <pubDate>Fri, 05 Jun 2026 16:58:43 +0000</pubDate>
-      <guid isPermaLink="false">AhWLytvUdNN3JdksU2hXKd</guid>
-      <description>DaVinci Resolve has just released its latest version: 21, and with it comes a brand new Page, dedicated to Photos. Does it provide the tools you need to work with images inside a video project, or on their own?</description>
+      <title>Bungie extends Marathon's open play week amid Deluxe Edition confusion</title>
+      <link>https://www.engadget.com/2188530/bungie-extends-marathon-open-play-week-amid-deluxe-edition-confusion/</link>
+      <pubDate>Fri, 05 Jun 2026 19:23:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2188530/bungie-extends-marathon-open-play-week-amid-deluxe-edition-confusion/</guid>
+      <description>There's a lot of confusion among Marathon players at the moment.</description>
     </item>
     <item>
-      <title>One of my all-time favourite JRPGs has been announced for the Xbox Game Pass lineup for June ahead of the Xbox Games Showcase</title>
-      <link>https://www.techradar.com/gaming/one-of-my-all-time-favourite-jrpgs-has-been-announced-for-the-xbox-game-pass-lineup-for-june-ahead-of-the-xbox-games-showcase</link>
-      <pubDate>Fri, 05 Jun 2026 16:56:15 +0000</pubDate>
-      <guid isPermaLink="false">UiPQSbXK7JD7AtLCRyWvkc</guid>
-      <description>Microsoft has announced the Xbox Game Pass lineup for the first half of June ahead of the 2026 Xbox Games Showcase.</description>
+      <title>The Dyson HushJet Mini Cool is the powerful personal fan you won't want to live without this summer &#8212; and it's surprisingly reasonably priced, too</title>
+      <link>https://www.techradar.com/home/air-quality/dyson-hushjet-mini-cool-review</link>
+      <pubDate>Fri, 05 Jun 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">KNVPjEpYUyFDSjfAGUDTDh</guid>
+      <description>Wear it, hold it, or keep it on your desk &#8212; this stylish portable fan will keep you cool anywhere your summer takes you.</description>
     </item>
     <item>
-      <title>The 11 best headphones, speakers, soundbars, and streamers we saw at the High End Vienna 2026 hi-fi show</title>
-      <link>https://www.techradar.com/audio/speakers/the-11-best-headphones-speakers-soundbars-and-streamers-we-saw-at-the-high-end-vienna-2026-hi-fi-show</link>
-      <pubDate>Fri, 05 Jun 2026 16:55:09 +0000</pubDate>
-      <guid isPermaLink="false">7VRqn3T2GxQvwvwFGjy9vB</guid>
-      <description>From one of the best speakers in the world becoming even better, to a TV sound system that has genuine audiophile skills, to wireless speakers that look like alien invaders</description>
+      <title>Creative's Katana V2X speaker potentially has a serious vulnerability that could allow hackers to attack your PC, and there's only one way to avoid it</title>
+      <link>https://www.techradar.com/computing/computing-components/creatives-katana-v2x-speaker-potentially-has-a-serious-vulnerability-that-could-allow-hackers-to-attack-your-pc-and-theres-only-one-way-to-avoid-it</link>
+      <pubDate>Fri, 05 Jun 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">zKL3xfPBi8kLJAx9q4Qb7T</guid>
+      <description>PC system vulnerabilities are seemingly more common than we thought, as a researcher finds a major issue in a popular speaker that can hack a user's PC.</description>
     </item>
     <item>
-      <title>Google shuts down the AI image app Pixel Studio</title>
-      <link>https://www.engadget.com/2188377/google-shuts-down-the-ai-image-app-pixel-studio/</link>
-      <pubDate>Fri, 05 Jun 2026 16:50:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2188377/google-shuts-down-the-ai-image-app-pixel-studio/</guid>
-      <description>Google's AI app Pixel Studio launched less than two years ago, but is now being shut down.</description>
+      <title>You may never have to stand in an airport TSA line again if this experiment works</title>
+      <link>https://www.fastcompany.com/91554834/you-may-never-have-to-stand-in-an-airport-tsa-line-again-if-this-experiment-works</link>
+      <pubDate>2026-06-05T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91554834/you-may-never-have-to-stand-in-an-airport-tsa-line-again-if-this-experiment-works</guid>
+      <description>Travelers can now clear security before reaching the airport in a first-of-its-kind test that could spread nationwide.
+Finally, some good news for weary travelers. </description>
     </item>
     <item>
-      <title>Sony DualSense Edge, Samsung Odyssey G6 et pack Nothing Phone (3)&#160;: les 3 meilleurs bons plans tech du jour (vendredi 5&#160;juin&#160;2026)</title>
-      <link>https://www.frandroid.com/bons-plans/3128959_sony-dualsense-edge-samsung-odyssey-g6-et-pack-nothing-phone-3-les-3-meilleurs-bons-plans-tech-du-jour-vendredi-5-juin-2026</link>
-      <pubDate>Fri, 05 Jun 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3128959_sony-dualsense-edge-samsung-odyssey-g6-et-pack-nothing-phone-3-les-3-meilleurs-bons-plans-tech-du-jour-vendredi-5-juin-2026</guid>
-      <description>
-La fin de semaine est souvent synonyme de remises int&#233;ressantes, et ce vendredi&#160;5&#160;juin&#160;2026 ne d&#233;roge pas &#224; la r&#232;gle.
-</description>
+      <title>The job market is bouncing back&#8212;but not for these workers</title>
+      <link>https://www.fastcompany.com/91554967/the-job-market-is-bouncing-back-but-not-for-these-workers</link>
+      <pubDate>2026-06-05T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91554967/the-job-market-is-bouncing-back-but-not-for-these-workers</guid>
+      <description>In May, about 120,000 workers joined the labor force&#8212;but all those workers were men, according to an analysis by the National Women&#8217;s Law Center.
+The jobs report that came out today held good news for many American workers. In May, employers added 172,000 jobs&#8212;stronger than projected job growth&#8212;and unemployment did not budge from 4.3%. The leisure and hospitality sector led much of that growth, adding 70,000 jobs, while industries like healthcare have also continued hiring in significant numbers. The last few months of job growth, in fact, have been stronger than any other three-month period i...</description>
     </item>
     <item>
-      <title>Volvo EX60, Hyundai Ioniq 5 N, MG4 Urban : nos 3 voitures &#233;lectriques pr&#233;f&#233;r&#233;es du mois</title>
-      <link>https://www.frandroid.com/guide-dachat/3126157_volvo-ex60-hyundai-ioniq-5-n-mg4-urban-nos-3-voitures-electriques-preferees-du-mois</link>
-      <pubDate>Fri, 05 Jun 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/3126157_volvo-ex60-hyundai-ioniq-5-n-mg4-urban-nos-3-voitures-electriques-preferees-du-mois</guid>
-      <description>
-Trois voitures &#233;lectriques, trois philosophies oppos&#233;es&#160;: le SUV premium su&#233;dois bard&#233; d'IA, la sportive cor&#233;enne de 650&#160;chevaux et la familiale chinoise &#224; moins de 20&#160;000&#160;euros. Voici nos trois coups de c&#339;ur du mois.
-</description>
-    </item>
-    <item>
-      <title>Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.</title>
-      <link>https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid</link>
-      <pubDate>Fri, 05 Jun 2026 16:42:50 GMT</pubDate>
-      <guid isPermaLink="false">5RjObu657JLLRcXlMWh4dH</guid>
-      <description>Meta's AI support agent bound recovery emails to accounts for whoever asked, and SOCs never saw an alert. An authorized agent writes a log of legitimate transactions, so nothing in the detection stack fired. Attackers asked the bot to make the change, took the one-time code it sent, and ran the password reset, 404 Media reported.No malware, no stolen credentials, and no prompt injection in the sense most security teams drill for. The agent did exactly what Meta built it to do. That is what should keep a security operations leader up at night: The takeover did not break a control; it rode one t...</description>
-    </item>
-    <item>
-      <title>This is your laptop&#8230; on AI</title>
-      <link>https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast</link>
-      <pubDate>2026-06-05T12:39:07-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=944058</guid>
-      <description>We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]</description>
-    </item>
-    <item>
-      <title>Russian Roskomnadzor accused of launching active DDoS attacks on VPN services &#8212; here's what we know so far</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/russian-roskomnadzor-accused-of-launching-active-ddos-attacks-on-vpn-services-heres-what-we-know-so-far</link>
-      <pubDate>Fri, 05 Jun 2026 16:38:20 +0000</pubDate>
-      <guid isPermaLink="false">Ry4oyAJxfU6tzEj3jHM6T7</guid>
-      <description>Russia's media regulator, Roskomnadzor, has allegedly shifted from blocking VPNs to actively launching DDoS attacks against their infrastructure, leaving services like Amnezia VPN struggling to stay online.</description>
-    </item>
-    <item>
-      <title>Supabase doubles valuation to $10B in 8 months</title>
-      <link>https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/</link>
-      <pubDate>Fri, 05 Jun 2026 16:32:27 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3129962</guid>
-      <description>Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.</description>
-    </item>
-    <item>
-      <title>The early Prime Day appliance deals worth shopping right now &#8212; record-low prices from Ninja, Shark, Tineco and Instant Pot</title>
-      <link>https://www.techradar.com/seasonal-sales/the-early-prime-day-appliance-deals-worth-shopping-right-now-record-low-prices-from-ninja-shark-tineco-and-instant-pot</link>
-      <pubDate>Fri, 05 Jun 2026 16:25:57 +0000</pubDate>
-      <guid isPermaLink="false">thL6xGk35bcmVE2VXZMquJ</guid>
-      <description>As a professional deals hunter, I've rounded up my favorite early Prime Day appliance offers, including up to 44% from brands like Ninja, Shark, Tineco, and Instant Pot.</description>
-    </item>
-    <item>
-      <title>Ahead of Prime Day, the Igloo Kool Tunes boombox cooler is on sale for $40 off</title>
-      <link>https://mashable.com/tech/june-5-igloo-kooltunes-deal</link>
-      <pubDate>Fri, 05 Jun 2026 16:22:31 +0000</pubDate>
-      <guid isPermaLink="false">07bK7n0hqNOs9qMitdkj3Em</guid>
-      <description>The Igloo Kool Tunes (red) is on sale at Amazon for $99.99, down from the normal price of $139.99. That's a 29% discount.</description>
-    </item>
-    <item>
-      <title>How to showcase your expertise as a strategist, coach, or consultant</title>
-      <link>https://www.fastcompany.com/91550673/how-showcase-expertise-strategist-coach-consultant</link>
-      <pubDate>2026-06-05T16:21:06</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91550673/how-showcase-expertise-strategist-coach-consultant</guid>
-      <description>No tangible output? You can still demonstrate results.
-As a freelance writer, I have it easy. When someone asks for samples of my work, I can send them a link. My skills are right there on the page, with my name on it.&#160;</description>
-    </item>
-    <item>
-      <title>Meta is building AI data centers in tents</title>
-      <link>https://mashable.com/tech/meta-ai-data-center-tents</link>
-      <pubDate>Fri, 05 Jun 2026 16:20:00 +0000</pubDate>
-      <guid isPermaLink="false">04o6OI5SHmcfKX0YU4iW4mc</guid>
-      <description>Meta is building out data centers inside weatherproof tents to speed up construction.</description>
-    </item>
-    <item>
-      <title>What happens when your phone is confiscated at the airport</title>
-      <link>https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists</link>
-      <pubDate>2026-06-05T12:15:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=944076</guid>
-      <description>Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minnesota labor organizer Janette Zahia Corcelius returned home from a three-week trip to Europe in late April, she was detained [&#8230;]</description>
-    </item>
-    <item>
-      <title>NASAs ISS astronauts briefly sheltered today. Heres what happened.</title>
-      <link>https://mashable.com/science/iss-air-leak-repairs-halted-nasa-astronauts</link>
-      <pubDate>Fri, 05 Jun 2026 16:14:20 +0000</pubDate>
-      <guid isPermaLink="false">05EzViaXws2Bvlc2CABWagz</guid>
-      <description>NASA crew shelters in Dragon as Russia halts ISS Zvezda crack repairs, highlighting aging station leaks and joint safety efforts.</description>
-    </item>
-    <item>
-      <title>Grab the Ecovacs Goat O1000 robot lawn mower while its $300 off</title>
-      <link>https://mashable.com/life/june-5-ecovacs-goat-o1000-robot-mower-deal</link>
-      <pubDate>Fri, 05 Jun 2026 16:11:15 +0000</pubDate>
-      <guid isPermaLink="false">04EDVi1FdmxX2pya8MXUUzn</guid>
-      <description>The Ecovacs Goat O1000 RTK robot lawn mower is down to just $699.99 at Amazon. That's $300 off and its best price ever.</description>
-    </item>
-    <item>
-      <title>Logitech G512 X 98 Review: A Hybrid Mish-Mash</title>
-      <link>https://www.wired.com/review/logitech-g512-x-98/</link>
-      <pubDate>Fri, 05 Jun 2026 16:10:56 +0000</pubDate>
-      <guid isPermaLink="false">6a19b6b819d7dd93413aa900</guid>
-      <description>The Logitech G512 X 98 lets you swap between mechanical and analog switches in an attempt to achieve the best of both worlds. Unfortunately, its solution isn't as well thought-out as I'd hoped.</description>
-    </item>
-    <item>
-      <title>Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person</title>
-      <link>https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/</link>
-      <pubDate>Fri, 05 Jun 2026 16:07:46 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3129988</guid>
-      <description>Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.</description>
-    </item>
-    <item>
-      <title>FIFA World Cup 2026 hype kicks off fraud, fake apps, and ransomware targeting fans and businesses</title>
-      <link>https://www.techradar.com/pro/security/fifa-world-cup-2026-hype-kicks-off-fraud-fake-apps-and-ransomware-targeting-fans-and-businesses</link>
-      <pubDate>Fri, 05 Jun 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">Fjhe9Sq4dgXK7aThZXxsCM</guid>
-      <description>Hackers have been preparing longer than the footballers and the scam infrastructure is now up and running.</description>
+      <title>Google will pay SpaceX $920M per month for compute</title>
+      <link>https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</link>
+      <pubDate>Fri, 05 Jun 2026 18:57:20 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3130087</guid>
+      <description>The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.</description>
     </item>
   </channel>
 </rss>
