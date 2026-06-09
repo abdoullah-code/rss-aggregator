@@ -3,363 +3,382 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 09 Jun 2026 15:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:10:31 GMT</lastBuildDate>
     <item>
-      <title>Siri AI bloqu&#233; en Europe : &#171; c&#8217;est le choix d&#8217;Apple, et d&#8217;Apple seul &#187;, tranche Bruxelles</title>
-      <link>https://www.frandroid.com/marques/apple/3133235_siri-ai-bloque-en-europe-cest-le-choix-dapple-et-dapple-seul-tranche-bruxelles</link>
-      <pubDate>Tue, 09 Jun 2026 15:08:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3133235_siri-ai-bloque-en-europe-cest-le-choix-dapple-et-dapple-seul-tranche-bruxelles</guid>
+      <title>Services informatiques  | TCS pr&#233;voit une baisse des embauches &#224; cause de l&#8217;intelligence artificielle</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-06-09/services-informatiques/tcs-prevoit-une-baisse-des-embauches-a-cause-de-l-intelligence-artificielle.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Tue, 09 Jun 2026 14:08:24 -0400</pubDate>
+      <guid isPermaLink="false">6944cd62e3c03e81a18b110d0eef4654</guid>
+      <description>Le g&#233;ant indien des services informatiques Tata Consultancy Services (TCS) a d&#233;clar&#233; mardi qu&#8217;il pr&#233;voyait de diminuer ses recrutements et d&#8217;int&#233;grer &#171;&#160;un demi-million d&#8217;agents d&#8217;IA&#160;&#187; dans l&#8217;entreprise.</description>
+    </item>
+    <item>
+      <title>WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</title>
+      <link>https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
+      <pubDate>Tue, 09 Jun 2026 18:04:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3130429</guid>
+      <description>Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.</description>
+    </item>
+    <item>
+      <title>&#192; 123 &#8364; au lieu de 149 &#8364;, l&#8217;Elgato Stream Deck MK.2 n&#8217;est plus seulement l&#8217;arme des streamers [Sponso]</title>
+      <link>https://www.frandroid.com/marques/corsair/3124857_a-123-e-au-lieu-de-149-e-lelgato-stream-deck-mk-2-nest-plus-seulement-larme-des-streamers</link>
+      <pubDate>Tue, 09 Jun 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/corsair/3124857_a-123-e-au-lieu-de-149-e-lelgato-stream-deck-mk-2-nest-plus-seulement-larme-des-streamers</guid>
       <description>
-Au lendemain de l'annonce d'Apple, l'Europe r&#233;plique&#160;: si Siri AI ne sortira pas sur iPhone dans l'UE, c'est &#171;&#160;le choix d'Apple, et d'Apple seul&#160;&#187;. Une version qui contredit frontalement celle de Cupertino.
+Popularis&#233; par Twitch et YouTube, l&#8217;Elgato Stream Deck MK.2 est souvent rang&#233; un peu trop vite dans la cat&#233;gorie des accessoires pour streamers. En 2026, c&#8217;est pourtant devenu un v&#233;ritable tableau de bord pour power users : macros, raccourcis syst&#232;me, commandes Spotify, profils de jeu, actions pour d&#233;veloppeurs, automatisations et m&#234;me int&#233;grations li&#233;es &#224; l&#8217;IA. Actuellement propos&#233; &#224; 123 euros au lieu de 149 euros, il m&#233;rite clairement qu&#8217;on s&#8217;y int&#233;resse, m&#234;me si vous ne lancez jamais OBS.
+...</description>
+    </item>
+    <item>
+      <title>Anthropic lance Fable 5, son IA &#171;&#160;Mythos&#160;&#187; la plus puissante, mais brid&#233;e volontairement</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3133561_anthropic-lance-fable-5-son-ia-mythos-la-plus-puissante-mais-bridee-volontairement</link>
+      <pubDate>Tue, 09 Jun 2026 17:49:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3133561_anthropic-lance-fable-5-son-ia-mythos-la-plus-puissante-mais-bridee-volontairement</guid>
+      <description>
+Anthropic ouvre aujourd'hui au grand public le mod&#232;le le plus puissant qu'il ait jamais rendu accessible, Claude Fable 5. Il est gros, et ce monstre de calcul refuse de r&#233;pondre sur certains sujets et bascule alors vers une IA moins dou&#233;e.
 </description>
     </item>
     <item>
-      <title>iOS 27 features we didn&#8217;t see on stage</title>
-      <link>https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/</link>
-      <pubDate>Tue, 09 Jun 2026 15:06:12 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3131048</guid>
-      <description>While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users.</description>
+      <title>On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.</title>
+      <link>https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it</link>
+      <pubDate>Tue, 09 Jun 2026 17:49:06 GMT</pubDate>
+      <guid isPermaLink="false">7rnF3fZ3tDuU9urU81FaE6</guid>
+      <description>On-device AI models have stayed small because the entire weight set has to live in DRAM, capping practical parameter counts well below what server-side deployments use. Enterprise architects evaluating agentic workloads have had to choose between capable cloud-dependent models and limited on-device ones. Apple's third-generation foundation models, announced at WWDC26, break that constraint by moving the weight set off DRAM entirely.The AFM 3 family was developed in collaboration with Google and spans five models: two on-device and three server-based, all running within Apple's Private Cloud Co...</description>
     </item>
     <item>
-      <title>Meta wants to train Americans to build its data centers &#8212; and is offering a free 5-week program to teach you everything</title>
-      <link>https://www.techradar.com/pro/meta-wants-to-train-americans-to-build-its-data-centers-and-is-offering-a-free-5-week-program-to-teach-you-everything</link>
-      <pubDate>Tue, 09 Jun 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">LQe76kh8LqoTX9yQYuqmgK</guid>
-      <description>Meta commits $115m funding to upskill American citizens in data center construction roles, promises long-term consideration to broader AI impacts.</description>
+      <title>Opera's latest Android update includes a soccer hub and a refreshed start page</title>
+      <link>https://www.engadget.com/2190728/operas-latest-android-update-includes-a-soccer-hub-and-a-refreshed-start-page/</link>
+      <pubDate>Tue, 09 Jun 2026 17:41:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190728/operas-latest-android-update-includes-a-soccer-hub-and-a-refreshed-start-page/</guid>
+      <description>Opera's new Android update includes a soccer hub in time for the World Cup.</description>
     </item>
     <item>
-      <title>L&#8217;iPhone pliant d&#8217;Apple se cache dans le code d&#8217;iOS 27</title>
-      <link>https://www.01net.com/actualites/liphone-pliant-dapple-se-cache-dans-le-code-dios-27.html</link>
-      <pubDate>Tue, 09 Jun 2026 15:03:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1352899</guid>
-      <description>Le code d'iOS 27 contient des r&#233;f&#233;rences explicites &#224; un &#233;cran pliable : foldState, second &#233;cran, second capteur. L'iPhone Ultra se confirme pour septembre.</description>
-    </item>
-    <item>
-      <title>Square Enix announces Kingdom Hearts 4</title>
-      <link>https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2</link>
-      <pubDate>2026-06-09T11:03:14-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=946717</guid>
-      <description>A different kind of Sora is back in the news. Square Enix just teased the long-awaited next entry in the Kingdom Hearts series, though there's not much in the way of info just yet. It's called Kingdom Hearts IV and it's launching on the Switch 2, PS5, Xbox, and PC, but there's no release date [&#8230;]</description>
-    </item>
-    <item>
-      <title>La nostalgie de Guitar Hero est de retour &#224; prix bas avec cette offre sur la guitare sans fil Riffmaster compatible Xbox et PC Windows</title>
-      <link>https://www.frandroid.com/bons-plans/2585029_la-nostalgie-de-guitar-hero-est-de-retour-a-prix-bas-avec-cette-offre-sur-la-guitare-sans-fil-riffmaster-compatible-xbox-et-pc-windows</link>
-      <pubDate>Tue, 09 Jun 2026 15:02:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2585029_la-nostalgie-de-guitar-hero-est-de-retour-a-prix-bas-avec-cette-offre-sur-la-guitare-sans-fil-riffmaster-compatible-xbox-et-pc-windows</guid>
+      <title>JBL Bar 500MK2, Nintendo Switch&#160;2 et batterie Xiaomi&#160;: les meilleures promos high-tech du mardi&#160;9&#160;juin&#160;2026</title>
+      <link>https://www.frandroid.com/bons-plans/3133097_jbl-bar-500mk2-nintendo-switch-2-et-batterie-xiaomi-les-meilleures-promos-high-tech-du-mardi-9-juin-2026</link>
+      <pubDate>Tue, 09 Jun 2026 17:41:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3133097_jbl-bar-500mk2-nintendo-switch-2-et-batterie-xiaomi-les-meilleures-promos-high-tech-du-mardi-9-juin-2026</guid>
       <description>
-Ergonomique, hautement styl&#233;e et bien &#233;quip&#233;e, la guitare sans fil Riffmaster devrait ravir les nostalgiques de Guitar Hero. Con&#231;ue pour les Xbox et PC Windows 10/11, elle est compatible avec le dernier Rock Band et le Fortnite Festival. On la trouve en ce moment &#224; 89 euros au lieu de 149,99 euros.
+Chaque jour, notre r&#233;daction rep&#232;re pour vous les meilleurs bons plans high&#8209;tech du moment. D&#233;couvrez ici celle du mardi 9&#160;juin&#160;2026. 
 </description>
     </item>
     <item>
-      <title>The Legend of Zelda: Ocarina of Time remake is real and is coming later this year</title>
-      <link>https://www.engadget.com/2190465/the-legend-of-zelda-ocarina-of-time-remake-is-real-and-is-coming-later-this-year/</link>
-      <pubDate>Tue, 09 Jun 2026 15:01:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190465/the-legend-of-zelda-ocarina-of-time-remake-is-real-and-is-coming-later-this-year/</guid>
-      <description>The rumors of an Ocarina of Time remake are true, but we don't know much else yet.</description>
+      <title>CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang</title>
+      <link>https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/</link>
+      <pubDate>Tue, 09 Jun 2026 17:40:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3131255</guid>
+      <description>Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.</description>
     </item>
     <item>
-      <title>Meta will use your activity on other websites to personalize your feeds</title>
-      <link>https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds</link>
-      <pubDate>2026-06-09T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=946744</guid>
-      <description>Meta is planning to use the data shared by other businesses to personalize your feed and its AI responses. In a blog post on Tuesday, Meta explains that it already uses your off-platform activity, like the games you play or your purchases on other websites, to serve you ads. But now it's expanding the scope [&#8230;]</description>
+      <title>Marshall's Stockwell III portable speaker offers more than 40 hours of use per charge</title>
+      <link>https://www.engadget.com/2190716/marshalls-stockwell-iii-portable-speaker-offers-more-than-40-hours-of-use-per-charge/</link>
+      <pubDate>Tue, 09 Jun 2026 17:37:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190716/marshalls-stockwell-iii-portable-speaker-offers-more-than-40-hours-of-use-per-charge/</guid>
+      <description>Marshall's Stockwell III portable speaker runs 40 hours on a charge and costs $250.</description>
     </item>
     <item>
-      <title>Razer announces the Seiren V3 Pro, its first XLR mic</title>
-      <link>https://www.engadget.com/2190170/razer-announces-the-seiren-v3-pro-its-first-xlr-mic/</link>
-      <pubDate>Tue, 09 Jun 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190170/razer-announces-the-seiren-v3-pro-its-first-xlr-mic/</guid>
-      <description>A podcast and streaming ready microphone for all skill levels, and yes, it has RGB.</description>
+      <title>Fitbit&#8217;s Charge 6 and Ace LTE are now as cheap as the new $100 Air</title>
+      <link>https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale</link>
+      <pubDate>2026-06-09T13:35:51-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=947063</guid>
+      <description>Whether you&#8217;re shopping for Father&#8217;s Day or trying to keep your kids entertained over summer break, you don&#8217;t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fitbit Charge 6 for $50 off at Amazon, Best Buy, and Target, the Fitbit Ace LTE for $80 off [&#8230;]</description>
     </item>
     <item>
-      <title>The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2</title>
-      <link>https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026</link>
-      <pubDate>2026-06-09T10:56:48-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=945745</guid>
-      <description>Nintendo announced a remake of The Legend of Zelda: Ocarina of Time during its Nintendo Direct presentation on Tuesday. It will launch sometime in 2026 on Nintendo Switch 2. More details will be announced "in the future." This new title is the first major release in the franchise since 2024's Echoes of Wisdom, which starred [&#8230;]</description>
+      <title>Best World Cup 2026 eSIM deals &#8212; Stay connected from the opening game to the final whistle</title>
+      <link>https://www.techradar.com/pro/best-world-cup-esim-deals</link>
+      <pubDate>Tue, 09 Jun 2026 17:34:50 +0000</pubDate>
+      <guid isPermaLink="false">3QXJTQLyL4pPFFAvsBSjU7</guid>
+      <description>As football fever strikes, I'm tracking the top eSIM deals for this year's World Cup in the US, Canada, and Mexico.</description>
     </item>
     <item>
-      <title>Apple brings streaming-style subscription bundles to the App Store</title>
-      <link>https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/</link>
-      <pubDate>Tue, 09 Jun 2026 14:55:36 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3131073</guid>
-      <description>Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages.</description>
+      <title>MacOS 27 Golden Gate: Top New Features</title>
+      <link>https://www.wired.com/story/macos-27-golden-gate-top-features/</link>
+      <pubDate>Tue, 09 Jun 2026 17:33:21 +0000</pubDate>
+      <guid isPermaLink="false">6a26efe2bc795aee26695a43</guid>
+      <description>Apple has announced the latest version of macOS. It's all about the reintroduction of Siri, which is now accessible from anywhere on the Mac desktop.</description>
     </item>
     <item>
-      <title>Microsoft AI chief walks back comments about AI taking over white-collar work</title>
-      <link>https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs</link>
-      <pubDate>2026-06-09T10:54:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=946879</guid>
-      <description>Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs: Sending an email, having a conversation with a [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Pok&#233;mon Pokopia is getting underwater mechanics and a bunch of paid DLC</title>
-      <link>https://www.engadget.com/2190443/pokemon-pokopia-is-getting-underwater-mechanics-and-a-bunch-of-paid-dlc/</link>
-      <pubDate>Tue, 09 Jun 2026 14:49:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190443/pokemon-pokopia-is-getting-underwater-mechanics-and-a-bunch-of-paid-dlc/</guid>
-      <description>A free Pok&#233;mon Pokopia update arrives in August.</description>
-    </item>
-    <item>
-      <title>AI agents are being deployed &#8211; but not to full effect</title>
-      <link>https://www.techradar.com/pro/ai-agents-are-being-deployed-but-not-to-full-effect</link>
-      <pubDate>Tue, 09 Jun 2026 14:46:52 +0000</pubDate>
-      <guid isPermaLink="false">PsymM6R6vsia3AQrVxj37B</guid>
-      <description>Aaron Perrott explores how UK enterprises can get the most from their AI agent deployments.</description>
-    </item>
-    <item>
-      <title>Test cedric</title>
-      <link>https://www.frandroid.com/services/banque-en-ligne/3133175_test-cedric</link>
-      <pubDate>Tue, 09 Jun 2026 14:46:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3133175_test-cedric</guid>
+      <title>J&#8217;ai test&#233; le casque Marshall Milton ANC : le style avant le son</title>
+      <link>https://www.frandroid.com/marques/marshall/3129975_jai-teste-le-casque-marshall-milton-anc-le-style-avant-le-son</link>
+      <pubDate>Tue, 09 Jun 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/marshall/3129975_jai-teste-le-casque-marshall-milton-anc-le-style-avant-le-son</guid>
       <description>
-Ce 9 juin 2026, des clients du Cr&#233;dit Agricole ont re&#231;u une notification &#171;&#160;Test cedric&#160;&#187; sur l'appli Ma Banque, suivie de pannes de connexion. Pas de piratage&#160;: juste un test technique parti en vrille.
+Marshall lance le Milton ANC &#224; 199 euros. Ce mod&#232;le qui se pose sur les oreilles mise sur le design, l'autonomie et une r&#233;duction de bruit adaptative in&#233;dite chez la marque. Mais sa courbe de r&#233;ponse pose un vrai probl&#232;me d'&#233;quilibre.
 </description>
     </item>
     <item>
-      <title>Switch 2 exclusive Orbitals arrives September 3</title>
-      <link>https://www.engadget.com/2190434/switch-2-exclusive-orbitals-arrives-september-3/</link>
-      <pubDate>Tue, 09 Jun 2026 14:42:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190434/switch-2-exclusive-orbitals-arrives-september-3/</guid>
-      <description>Orbitals has been in the works for a while, but it finally hits Switch 2 in September.</description>
+      <title>Amazon wants to end dodgy knockoffs with its own AI-generated custom merch printing</title>
+      <link>https://www.techradar.com/pro/amazon-wants-to-end-dodgy-knockoffs-with-its-own-ai-generated-custom-merch-printing</link>
+      <pubDate>Tue, 09 Jun 2026 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">XajyVCXDv9RB4nS7ScGhyd</guid>
+      <description>Amazon wants users to design their own AI-generated artwork to print onto clothing or drinkware &#8211; shipping available via Prime.</description>
     </item>
     <item>
-      <title>The Bear season 5 finally has a trailer &#8212; and it could be the Hulu show's most stressful chapter yet</title>
-      <link>https://www.techradar.com/streaming/hulu/the-bear-season-5-finally-has-a-trailer-and-it-could-be-the-hulu-shows-most-stressful-chapter-yet</link>
-      <pubDate>Tue, 09 Jun 2026 14:37:33 +0000</pubDate>
-      <guid isPermaLink="false">oKkyhFgK6CTSYE2ooRJC55</guid>
-      <description>The Bear season 5 has a gripping new trailer that follows the aftermath of Carmy's retirement.</description>
+      <title>Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever</title>
+      <link>https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever</link>
+      <pubDate>Tue, 09 Jun 2026 17:19:29 GMT</pubDate>
+      <guid isPermaLink="false">33CQ4xodRQ1MrnZU9IYMRL</guid>
+      <description>Anthropic today launched two new AI models &#8212; Claude Fable 5 and Claude Mythos 5 &#8212; marking the company&#8217;s first broad release of the powerful &#8220;Mythos-class&#8221; AI capabilities it previously made available only to participating organizations in its restricted cybersecurity program, Project Glasswing, which it announced two months ago.The company says Fable 5, which is the version most users and developers will get starting today, exceeds every Claude model it has previously made generally available &#8212; featuring stronger performance across software engineering, knowledge work, vision, scientific resea...</description>
     </item>
     <item>
-      <title>Fire Emblem: Fortune's Weave hits Switch 2 on September 17</title>
-      <link>https://www.engadget.com/2190429/fire-emblem-fortunes-weave-hits-switch-2-on-september-17/</link>
-      <pubDate>Tue, 09 Jun 2026 14:35:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190429/fire-emblem-fortunes-weave-hits-switch-2-on-september-17/</guid>
-      <description>Fire Emblem: Fortune's Weave is yet another big game coming out during an absolutely stacked September.</description>
+      <title>Apple wants Europe to blink</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai</link>
+      <pubDate>2026-06-09T13:13:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=947051</guid>
+      <description>It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads [&#8230;]</description>
     </item>
     <item>
-      <title>Engadget Podcast: Recapping Apple's Siri AI WWDC 2026 keynote</title>
-      <link>https://www.engadget.com/2190426/engadget-podcast-recapping-apples-siri-ai-wwdc-2026-keynote/</link>
-      <pubDate>Tue, 09 Jun 2026 14:34:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190426/engadget-podcast-recapping-apples-siri-ai-wwdc-2026-keynote/</guid>
-      <description>Will Siri AI actually be useful, or is it more AI marketing fluff? We chat about that, and everything else Apple announced at its WWDC 2026 keynote, on the Engadget Podcast.</description>
+      <title>Anthropic rend publique son IA la plus puissante, mais la restreint dans des domaines sensibles</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-06-09/anthropic-rend-publique-son-ia-la-plus-puissante-mais-la-restreint-dans-des-domaines-sensibles.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Tue, 09 Jun 2026 13:06:54 -0400</pubDate>
+      <guid isPermaLink="false">7f603767005834508f2f550fd5d29000</guid>
+      <description>Anthropic, &#233;ditrice des mod&#232;les&#160;d&#8217;intelligence artificielle (IA) Claude, a mis mardi &#224; la disposition du grand public la version la plus puissante de sa technologie tout en la bridant dans des domaines sensibles comme la cybers&#233;curit&#233; et, fait nouveau, les risques d&#8217;attaque biologique ou chimique.</description>
     </item>
     <item>
-      <title>Android Auto corrige les bugs qui g&#226;chent vos trajets, &#224; temps pour les vacances</title>
-      <link>https://www.01net.com/actualites/android-auto-corrige-les-bugs-qui-gachent-vos-trajets-a-temps-pour-les-vacances.html</link>
-      <pubDate>Tue, 09 Jun 2026 14:31:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1353066</guid>
-      <description>Connexions qui sautent, appairage qui &#233;choue, lancement automatique aux abonn&#233;s absents : les gal&#232;res de connexion d'Android Auto tra&#238;nent depuis le d&#233;but de l'ann&#233;e. Google promet une nouvelle salve de correctifs, en esp&#233;rant que ce soit la bonne.</description>
+      <title>The Top New Features in Apple&#8217;s iOS 27 and iPadOS 27</title>
+      <link>https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/</link>
+      <pubDate>Tue, 09 Jun 2026 17:03:37 +0000</pubDate>
+      <guid isPermaLink="false">6a25ff8b7440233903a58994</guid>
+      <description>Apple took the wraps off iOS 27 at its WWDC event, and the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.</description>
     </item>
     <item>
-      <title>Apple&#8217;s App Store rolls out personalized recommendations</title>
-      <link>https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</link>
-      <pubDate>Tue, 09 Jun 2026 14:30:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3131066</guid>
-      <description>Apple will now recommend apps based on your downloads and behavior.</description>
+      <title>Anthropic Offers Mythos Upgrade for Cyber Partners and a &#8216;Safe&#8217; Version for the Rest of You</title>
+      <link>https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:46 +0000</pubDate>
+      <guid isPermaLink="false">6a2701c8e306f8dd75903241</guid>
+      <description>Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can&#8217;t be used for cyberattacks.</description>
     </item>
     <item>
-      <title>&#192; 8,99 euros, ce forfait mobile aligne autant de data que des offres deux fois plus ch&#232;res</title>
-      <link>https://www.frandroid.com/bons-plans/3132767_a-899-euros-ce-forfait-mobile-aligne-autant-de-data-que-des-offres-deux-fois-plus-cheres</link>
-      <pubDate>Tue, 09 Jun 2026 14:26:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3132767_a-899-euros-ce-forfait-mobile-aligne-autant-de-data-que-des-offres-deux-fois-plus-cheres</guid>
+      <title>Anthropic releases its first Mythos-class model Claude Fable</title>
+      <link>https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos</link>
+      <pubDate>2026-06-09T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=946725</guid>
+      <description>Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 "shows exceptional performance in software engineering, knowledge work, and vision," with its lead over other models growing as tasks become longer and more complex. Fable 5 [&#8230;]</description>
+    </item>
+    <item>
+      <title>Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access today</title>
+      <link>https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3131081</guid>
+      <description>Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.</description>
+    </item>
+    <item>
+      <title>Secretlab's already perfected the gaming chair &#8212; and now it's going for the home office market with its new Atlas model</title>
+      <link>https://www.techradar.com/gaming/secretlabs-already-perfected-the-gaming-chair-and-now-its-going-for-the-home-office-market-with-its-new-atlas-model</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6i6tFo975D9LoMH27hMCv8</guid>
+      <description>Secretlab's stylish new task chair will save you from having to put an embarrassing gaming chair in your home office.</description>
+    </item>
+    <item>
+      <title>I've spent over 35 hours sitting in Secretlab's new Atlas task chair and there's a lot I like about it &#8212; but I'm still not sure it will dethrone my Herman Miller</title>
+      <link>https://www.techradar.com/gaming/secretlab-atlas-review</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">SxCee9iqmtzbVbNetyWi6S</guid>
+      <description>The Secretlab Atlas has proved a capable task chair in our testing so far.</description>
+    </item>
+    <item>
+      <title>Bowers &amp; Wilkins just blew me away with its new 801 D5 speakers &#8212; here&#8217;s what I made of the model after attending a demo at at High End Vienna</title>
+      <link>https://www.techradar.com/audio/speakers/bowers-and-wilkins-just-blew-me-away-with-its-new-801-d5-speakers-heres-what-i-made-of-the-model-after-attending-a-demo-at-at-high-end-vienna</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3PUiZV9sgyhgCcpKKaB6UN</guid>
+      <description>I tried the new flagship speaker in B&amp;W&#8217;s Diamond range, and I was truly blown away.</description>
+    </item>
+    <item>
+      <title>Why I wouldn't buy a super-cheap huge-screen TV for the World Cup as someone who watches 60 games per year &#8212; the 'dirty screen effect' is brutal for watching football</title>
+      <link>https://www.techradar.com/televisions/why-i-wouldnt-buy-a-super-cheap-huge-screen-tv-for-the-world-cup</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QN5uK6Bok6b2sXcchhrsSf</guid>
+      <description>Backlight uniformity issues on LCD 4K TVs have ruined many a football match for this AV dork &#8212; don't pick the wrong big-screen upgrade</description>
+    </item>
+    <item>
+      <title>Test du Secretlab Atlas : quand le sp&#233;cialiste du gaming s&#8217;attaque au vrai fauteuil de bureau</title>
+      <link>https://www.frandroid.com/produits-android/ordinateurs/sieges/3119439_test-du-secretlab-atlas-quand-le-specialiste-du-gaming-sattaque-au-vrai-fauteuil-de-bureau</link>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/sieges/3119439_test-du-secretlab-atlas-quand-le-specialiste-du-gaming-sattaque-au-vrai-fauteuil-de-bureau</guid>
       <description>
-&#192; 8,99 euros par mois, ce forfait Lebara aligne 250 Go en 5G sur le r&#233;seau de SFR, sans engagement. Une enveloppe de donn&#233;es rare &#224; ce tarif, qui en fait l'une des offres les plus g&#233;n&#233;reuses du moment pour un usage en France.
+Secretlab pose enfin un fauteuil dans mon salon sans que tout le monde devine que je joue : l'Atlas tente la sobri&#233;t&#233;, et c'&#233;tait la premi&#232;re chose &#224; v&#233;rifier.
 </description>
     </item>
     <item>
-      <title>Denza Z9GT : la concurrente de Porsche sign&#233;e BYD montre quelques faiblesses &#224; tr&#232;s haute vitesse</title>
-      <link>https://www.frandroid.com/marques/denza/3132905_denza-z9gt-la-concurrente-de-porsche-signee-byd-montre-quelques-faiblesses-a-tres-haute-vitesse</link>
-      <pubDate>Tue, 09 Jun 2026 14:25:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/denza/3132905_denza-z9gt-la-concurrente-de-porsche-signee-byd-montre-quelques-faiblesses-a-tres-haute-vitesse</guid>
+      <title>Voici la meilleure offre pour s&#8217;offrir un t&#233;l&#233;viseur LG OLED &#224; prix cass&#233; juste avant la Coupe du Monde</title>
+      <link>https://www.frandroid.com/bons-plans/3133277_voici-la-meilleure-offre-pour-soffrir-un-televiseur-lg-oled-a-prix-casse-juste-avant-la-coupe-du-monde</link>
+      <pubDate>Tue, 09 Jun 2026 16:56:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3133277_voici-la-meilleure-offre-pour-soffrir-un-televiseur-lg-oled-a-prix-casse-juste-avant-la-coupe-du-monde</guid>
       <description>
-Suite &#224; l'ouverture d'un showroom &#224; Hambourg, en Allemagne, Denza, la marque haut de gamme li&#233;e &#224; BYD, a mis &#224; disposition des Z9GT pour certains journalistes, mais un bref passage sur autobahn, les fameuses autoroutes &#224; vitesse illimit&#233;e en Allemagne, a suffi &#224; faire lever quelques doutes.
+Si vous cherchez &#224; vous &#233;quiper d'un TV OLED sans vous ruiner, le LG OLED48B5 s'affiche aujourd'hui au tarif in&#233;dit de 693,22 euros au lieu de 1 299 euros au lancement. Une offre qui tombe &#224; pic avec le lancement de la Coupe du Monde. 
 </description>
     </item>
     <item>
-      <title>Microsoft disables over 70 GitHub repos after hackers compromised them with dangerous malware</title>
-      <link>https://www.techradar.com/pro/security/microsoft-disables-over-70-github-repos-after-hackers-compromised-them-with-dangerous-malware</link>
-      <pubDate>Tue, 09 Jun 2026 14:20:00 +0000</pubDate>
-      <guid isPermaLink="false">h4fCxNd45aTFbFindYpauX</guid>
-      <description>Some repos are already restored.</description>
+      <title>SwitchBot&#8217;s E Ink Weather Station is already 20 percent off</title>
+      <link>https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale</link>
+      <pubDate>2026-06-09T12:55:54-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=946753</guid>
+      <description>We&#8217;re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price down to $85 at checkout, or use coupon code APAP23 on the SwitchBot site. The 7.5-inch framed panel shows [&#8230;]</description>
     </item>
     <item>
-      <title>Apple&#8217;s AI promises are finally, almost, sort of, here</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here</link>
-      <pubDate>2026-06-09T10:18:18-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=946780</guid>
-      <description>Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be "introducing new technologies and innovations that push the limits on what's possible." But its slew of announcements - centered on a brand-new "Siri AI" - had more to do with catching up. After almost entirely [&#8230;]</description>
+      <title>Hold out for a little longer FromSoft fans &#8212; The Duskbloods will get a closed network test this summer, but a release date for the full game has yet to be announced</title>
+      <link>https://www.techradar.com/gaming/hold-out-for-a-little-longer-fromsoft-fans-the-duskbloods-will-get-a-closed-network-test-this-summer-but-a-release-date-for-the-full-game-has-yet-to-be-announced</link>
+      <pubDate>Tue, 09 Jun 2026 16:55:38 +0000</pubDate>
+      <guid isPermaLink="false">F2XjiqH52YAKnj4pXgakdV</guid>
+      <description>A brand new trailer for FromSoftware's next game, The Duskbloods, has been revealed, alongside a release window for a closed network test.</description>
     </item>
     <item>
-      <title>Uplift Clarksville review: A simple, subtle office chair built for the workplace</title>
-      <link>https://www.techradar.com/pro/uplift-clarksville-office-chair-review</link>
-      <pubDate>Tue, 09 Jun 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="false">t7yZkDWECT4DjHBnQWRK2Z</guid>
-      <description>Uplift's Clarksville is a basic chair with a great price and comfort for those who need solid chairs for offices, conference rooms, coworking hubs and more.</description>
+      <title>Kingdom Hearts IV gets a surprise Nintendo Direct trailer drop</title>
+      <link>https://www.engadget.com/2190645/kingdom-hearts-iv-gets-a-surprise-nintendo-direct-trailer-drop/</link>
+      <pubDate>Tue, 09 Jun 2026 16:54:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190645/kingdom-hearts-iv-gets-a-surprise-nintendo-direct-trailer-drop/</guid>
+      <description>Out of nowhere, we have a new trailer for Kingdom Hearts IV.</description>
     </item>
     <item>
-      <title>Windows&#160;11&#160;: supprimer vos fichiers en masse sera bient&#244;t 30&#160;% plus rapide</title>
-      <link>https://www.frandroid.com/marques/microsoft/3132701_windows-11-supprimer-vos-fichiers-en-masse-sera-bientot-30-plus-rapide</link>
-      <pubDate>Tue, 09 Jun 2026 14:06:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3132701_windows-11-supprimer-vos-fichiers-en-masse-sera-bientot-30-plus-rapide</guid>
+      <title>Siri AI first look: How Apple's rebuilt AI-powered assistant behaves across iPhone, iPad and Mac</title>
+      <link>https://www.engadget.com/2190638/siri-ai-first-look-how-apples-rebuilt-ai-powered-assistant-behaves-across-iphone-ipad-and-mac/</link>
+      <pubDate>Tue, 09 Jun 2026 16:51:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190638/siri-ai-first-look-how-apples-rebuilt-ai-powered-assistant-behaves-across-iphone-ipad-and-mac/</guid>
+      <description>Here's your first look at Siri AI, and how it works across Apple's devices.</description>
+    </item>
+    <item>
+      <title>Rivian starts deliveries of its all-important R2 SUV</title>
+      <link>https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/</link>
+      <pubDate>Tue, 09 Jun 2026 16:46:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3124036</guid>
+      <description>Founder and CEO RJ Scaringe has called it "maybe the most important thing we've launched to date."</description>
+    </item>
+    <item>
+      <title>I tried Siri AI on the iPhone, Mac, and iPad &#8212; here's why I'm convinced Apple's long-overdue next-gen assistant will win you over</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/i-tried-siri-ai-on-the-iphone-mac-and-ipad-heres-why-im-convinced-apples-long-overdue-next-gen-assistant-will-win-you-over</link>
+      <pubDate>Tue, 09 Jun 2026 16:39:22 +0000</pubDate>
+      <guid isPermaLink="false">Nb9tkJABgXzgw2bmyjQXzY</guid>
+      <description>We got an up-close look at the new Siri AI in action on multiple platforms, and, even in dev beta, the power and promise are unmistakable.</description>
+    </item>
+    <item>
+      <title>'The biggest risk of AI is over-reliance': How AI is changing the way web agencies deliver value</title>
+      <link>https://www.techradar.com/pro/website-hosting/the-biggest-risk-of-ai-is-over-reliance-how-ai-is-changing-the-way-web-agencies-deliver-value</link>
+      <pubDate>Tue, 09 Jun 2026 16:39:03 +0000</pubDate>
+      <guid isPermaLink="false">aorrBmBmU25ZHAH4y57jzc</guid>
+      <description>I caught up with Suhaib Zaheer, SVP, Managed Hosting at DigitalOcean &amp; GM, Cloudways, to get his thoughts on how AI is transforming the web agency space</description>
+    </item>
+    <item>
+      <title>New iOS 27 Passwords app can automatically change your passwords for you</title>
+      <link>https://www.techradar.com/pro/new-ios-27-passwords-app-can-automatically-change-your-passwords-for-you</link>
+      <pubDate>Tue, 09 Jun 2026 16:35:00 +0000</pubDate>
+      <guid isPermaLink="false">U3GJdAAusgXR7ZzsMvrW3H</guid>
+      <description>Passwords has always been good at identifying weak or compromised passwords &#8211; now, Apple Intelligence will change them for you.</description>
+    </item>
+    <item>
+      <title>The next Nintendo sports game for Switch 2 features thumb wrestling</title>
+      <link>https://www.engadget.com/2190598/the-next-nintendo-sports-game-for-switch-2-features-thumb-wrestling/</link>
+      <pubDate>Tue, 09 Jun 2026 16:31:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190598/the-next-nintendo-sports-game-for-switch-2-features-thumb-wrestling/</guid>
+      <description>Nintendo's next sports game bundle will include... thumb wrestling?</description>
+    </item>
+    <item>
+      <title>Recharge en moins de 5 minutes : BYD lance son r&#233;seau Flash Charging en Europe avec 3 000 stations pr&#233;vues, et la France dans le viseur</title>
+      <link>https://www.frandroid.com/marques/byd/3133015_recharge-en-moins-de-5-minutes-byd-lance-son-reseau-flash-charging-en-europe-avec-3-000-stations-prevues-et-la-france-dans-le-viseur</link>
+      <pubDate>Tue, 09 Jun 2026 16:31:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/byd/3133015_recharge-en-moins-de-5-minutes-byd-lance-son-reseau-flash-charging-en-europe-avec-3-000-stations-prevues-et-la-france-dans-le-viseur</guid>
       <description>
-Microsoft promet une suppression de fichiers en masse au moins 30&#160;% plus rapide sur Windows&#160;11. Et ce n'est qu'un d&#233;but&#160;: l'explorateur de fichiers, longtemps poussif, passe enfin &#224; la chirurgie.
+BYD vient de franchir une &#233;tape en Europe avec l'ouverture de sa premi&#232;re station de recharge Flash Charging en Allemagne, capable de recharger une voiture &#233;lectrique en 5 minutes. Le constructeur chinois pose les jalons d'un r&#233;seau d'infrastructure qui lui est propre, sur un continent o&#249; la question de la charge rapide reste encore largement ouverte, et qui n'est pas sans rappeler Tesla et ses fameux Superchargeurs.
+...</description>
+    </item>
+    <item>
+      <title>iOS 27 adds long-desired iPhone volume control feature</title>
+      <link>https://mashable.com/tech/ios-27-volume-control-feature-added</link>
+      <pubDate>Tue, 09 Jun 2026 16:31:07 +0000</pubDate>
+      <guid isPermaLink="false">02EiGWqrv6M56vDtaysJ64A</guid>
+      <description>iOS 27 finally lets iPhone users set independent volume for ringtones, alarms, and alerts. Here's how to find the new setting.</description>
+    </item>
+    <item>
+      <title>This $160 office chair deal with adaptive lumbar support is easily the best budget upgrade I've seen ahead of Prime Day &#8212; and it's cheaper now than it was in the Spring sale</title>
+      <link>https://www.techradar.com/pro/this-usd160-office-chair-deal-with-adaptive-lumbar-support-is-easily-the-best-budget-upgrade-ive-seen-ahead-of-prime-day-and-its-cheaper-now-than-it-was-in-the-spring-sale</link>
+      <pubDate>Tue, 09 Jun 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">xT4ANBFSD2m5uKrmWeMzqg</guid>
+      <description>Adaptive lumbar support for all-day comfort at this price doesn't come around very often.</description>
+    </item>
+    <item>
+      <title>Big Walk is an oddball blend of Peak and Escape Academy, and it's out August 4</title>
+      <link>https://www.engadget.com/2190596/big-walk-is-an-oddball-blend-of-peak-and-escape-academy-and-its-out-august-4/</link>
+      <pubDate>Tue, 09 Jun 2026 16:29:46 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190596/big-walk-is-an-oddball-blend-of-peak-and-escape-academy-and-its-out-august-4/</guid>
+      <description>Big Walk, from the creators of Untitled Goose Game, will be available August 4.</description>
+    </item>
+    <item>
+      <title>Its official: OpenAI files IPO</title>
+      <link>https://mashable.com/tech/openai-files-ipo</link>
+      <pubDate>Tue, 09 Jun 2026 16:26:57 +0000</pubDate>
+      <guid isPermaLink="false">01VmMV64ogQTyy4xpxPs0Ji</guid>
+      <description>We knew it was coming, but OpenAI has made its intent to go public official, setting the stage for a blockbuster IPO season.</description>
+    </item>
+    <item>
+      <title>NASA announces the crew of its critical Artemis III mission</title>
+      <link>https://www.engadget.com/2190589/nasa-announces-the-crew-of-its-critical-artemis-iii-mission/</link>
+      <pubDate>Tue, 09 Jun 2026 16:25:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2190589/nasa-announces-the-crew-of-its-critical-artemis-iii-mission/</guid>
+      <description>NASA has announced the crew of its critical Artemis III.</description>
+    </item>
+    <item>
+      <title>B&amp;H Photo has slashed the price of my &#8216;favorite camera bag&#8217; &#8212; grab the Wandrd Prvke V3 photo bundle for just $150</title>
+      <link>https://www.techradar.com/cameras/camera-accessories/b-and-h-photo-has-slashed-the-price-of-my-favorite-camera-bag-grab-the-wandrd-prvke-v3-photo-bundle-for-just-usd150</link>
+      <pubDate>Tue, 09 Jun 2026 16:23:07 +0000</pubDate>
+      <guid isPermaLink="false">fKcc2YZqbiZqHys8hvzz8</guid>
+      <description>My favorite camera bag that doesn't look like a camera bag has to be the Wandrd Prvke series &#8212; and the previous V3 generation version is now 50% off.</description>
+    </item>
+    <item>
+      <title>Apple&#8217;s foldable iPhone could be just around the corner</title>
+      <link>https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/</link>
+      <pubDate>Tue, 09 Jun 2026 16:22:56 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3131121</guid>
+      <description>The iOS 27 developer beta includes code that references the fold state and screen angle of a device.</description>
+    </item>
+    <item>
+      <title>iOS 27 ajoute enfin des contr&#244;les du volume ind&#233;pendants</title>
+      <link>https://www.frandroid.com/marques/apple/3132779_ios-27-ajoute-enfin-des-controles-du-volume-independants</link>
+      <pubDate>Tue, 09 Jun 2026 16:20:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3132779_ios-27-ajoute-enfin-des-controles-du-volume-independants</guid>
+      <description>
+Il aura fallu attendre des ann&#233;es, mais cette fois, &#231;a y est : vous pourrez ajuster le volume de la sonnerie, des notifications et des alarmes s&#233;par&#233;ment sur iPhone.
 </description>
     </item>
     <item>
-      <title>The UK is investigating Paramount's takeover of Warner Bros. Discovery</title>
-      <link>https://www.engadget.com/2190394/the-uk-is-investigating-paramounts-takeover-of-warner-bros-discovery/</link>
-      <pubDate>Tue, 09 Jun 2026 14:02:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190394/the-uk-is-investigating-paramounts-takeover-of-warner-bros-discovery/</guid>
-      <description>Paramount's takeover of Warner Bros. Discovery is under scrutiny from the UK government.</description>
-    </item>
-    <item>
-      <title>Every World Cup fan deserves a seat. Norton Neo says its free browser is the ticket</title>
-      <link>https://venturebeat.com/technology/every-world-cup-fan-deserves-a-seat-norton-neo-says-its-free-browser-is-the-ticket</link>
-      <pubDate>Tue, 09 Jun 2026 14:00:15 GMT</pubDate>
-      <guid isPermaLink="false">7jMd3G5Cz5JdeYlpTaOgqN</guid>
-      <description>Presented by Norton For 39 days this summer, the planet will be doing roughly the same thing at the same time. The 2026 World Cup spans 104 matches across 16 cities in the United States, Canada, and Mexico, with billions of people likely to watch over the course of the tournament. It could very well be one of the largest shared events the internet has ever been asked to carry. What&#8217;s changed since the last tournament isn&#8217;t the scale, it&#8217;s the screen. For a growing share of that audience, the match won&#8217;t come through television. It&#8217;ll come through a browser tab. The problem is the browser you h...</description>
-    </item>
-    <item>
-      <title>Everything you need to know about Prime Day 2026</title>
-      <link>https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions</link>
-      <pubDate>2026-06-09T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=945942</guid>
-      <description>Amazon Prime Day 2026 is getting closer, and it&#8217;s possible you might have some questions about the sale. When does it start? Why is it in June instead of July? And, most importantly, when will the deals go live? We have concrete answers to those questions, and we&#8217;ll have a lot more Prime Day coverage [&#8230;]</description>
-    </item>
-    <item>
-      <title>How to watch Queen's Club Championships 2026: FREE live streams &amp; TV channels for ATP &amp; WTA 500 tennis</title>
-      <link>https://www.techradar.com/how-to-watch/tennis/queens-club-championships-2026-free-live-streams</link>
-      <pubDate>Tue, 09 Jun 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">DPs27MDQY5duGKyMoaFELB</guid>
-      <description>All the ways to watch Queen's Club Championships 2026 live streams &#8211; including for FREE &#8211; featuring Emma Raducanu, Alexandra Eala and Serena Williams' return.</description>
-    </item>
-    <item>
-      <title>Silent Hill Townfall brings atmospheric horror to '90s Scotland with incredible attention to detail</title>
-      <link>https://www.engadget.com/2190148/silent-hill-townfall-brings-atmospheric-horror-to-90s-scotland-with-incredible-attention-to-detail/</link>
-      <pubDate>Tue, 09 Jun 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190148/silent-hill-townfall-brings-atmospheric-horror-to-90s-scotland-with-incredible-attention-to-detail/</guid>
-      <description>When you're running footage through a CRTV for authentic static, that's attention to detail.</description>
-    </item>
-    <item>
-      <title>Nest Mini and Nest Audio speakers are mysteriously vanishing from the shelves, and I'm convinced the new Google Home Speaker is arriving soon</title>
-      <link>https://www.techradar.com/home/smart-speakers/nest-mini-and-nest-audio-speakers-are-mysteriously-vanishing-from-the-shelves-and-im-convinced-the-new-google-home-speaker-is-arriving-soon</link>
-      <pubDate>Tue, 09 Jun 2026 13:50:41 +0000</pubDate>
-      <guid isPermaLink="false">QdnURUY6XQqKj5dfdYfHSQ</guid>
-      <description>Google has wiped the Nest Mini and Nest Audio speakers from its online store, meaning its new smart speaker could be imminent.</description>
-    </item>
-    <item>
-      <title>Sandstone raises $30M to bring AI to in-house legal teams</title>
-      <link>https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/</link>
-      <pubDate>Tue, 09 Jun 2026 13:47:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3131057</guid>
-      <description>Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s WWDC upgrades might protect your phone &#8212; this VPN deal will secure your connection</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/apples-wwdc-upgrades-might-protect-your-phone-this-vpn-deal-will-secure-your-connection</link>
-      <pubDate>Tue, 09 Jun 2026 13:44:41 +0000</pubDate>
-      <guid isPermaLink="false">7HTmnY54pdGnnm7DotrpuE</guid>
-      <description>Apple is always keen to let you know about its privacy and security tools, but it&#8217;s still worth protecting your device with this VPN deal</description>
-    </item>
-    <item>
-      <title>Ce composant qui vaut 40 % de la batterie de votre voiture &#233;lectrique sera enfin &#8220;Made in France&#8221;</title>
-      <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3129549_ce-composant-qui-vaut-40-de-la-batterie-de-votre-voiture-electrique-sera-enfin-made-in-france</link>
-      <pubDate>Tue, 09 Jun 2026 13:43:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3129549_ce-composant-qui-vaut-40-de-la-batterie-de-votre-voiture-electrique-sera-enfin-made-in-france</guid>
+      <title>Dreame X60 Pro Ultra Complete : ce robot aspirateur ultrapuissant (42 000 Pa) livr&#233; avec une station polyvalente est un peu moins hors de prix gr&#226;ce &#224; ces 200 &#8364; de r&#233;duction</title>
+      <link>https://www.frandroid.com/bons-plans/3133151_dreame-x60-pro-ultra-complete-ce-robot-aspirateur-ultrapuissant-42-000-pa-livre-avec-une-station-polyvalente-est-un-peu-moins-hors-de-prix-grace-a-ces-200-e-de-reduction</link>
+      <pubDate>Tue, 09 Jun 2026 16:20:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3133151_dreame-x60-pro-ultra-complete-ce-robot-aspirateur-ultrapuissant-42-000-pa-livre-avec-une-station-polyvalente-est-un-peu-moins-hors-de-prix-grace-a-ces-200-e-de-reduction</guid>
       <description>
-Un pas important pour la fili&#232;re du stockage &#233;nerg&#233;tique en France et en Europe. L&#8217;Hexagone a d&#233;but&#233; la construction de sa premi&#232;re usine de mat&#233;riaux actifs de cathode pour batteries de v&#233;hicules &#233;lectriques. Un projet qui devrait permettre d&#8217;approvisionner jusqu&#8217;&#224; 500 000 v&#233;hicules par an.
+Vrai concentr&#233; de puissance, le r&#233;cent Dreame X60 Pro Ultra Complete est un robot aspirateur tr&#232;s abouti, qui s'occupe de la corv&#233;e de m&#233;nage comme un pro. Actuellement, Amazon le propose &#224; 1 299 euros au lieu de 1 499 euros.
 </description>
     </item>
     <item>
-      <title>Brother MFC-L8970CDW color laser printer review: A downsized, upgraded spin on the company's best enterprise printer</title>
-      <link>https://www.techradar.com/pro/brother-mfc-l8970cdw-color-laser-printer-review</link>
-      <pubDate>Tue, 09 Jun 2026 13:40:07 +0000</pubDate>
-      <guid isPermaLink="false">jCNnG6DUTj2Lum6Rjrr4Pb</guid>
-      <description>A smaller, but better flagship for Brother&#8217;s Workhorse laser line.</description>
+      <title>These 9 early Prime Day outdoor deals will get you prepped for summer</title>
+      <link>https://mashable.com/tech/best-early-prime-day-outdoor-deals-2026</link>
+      <pubDate>Tue, 09 Jun 2026 16:19:20 +0000</pubDate>
+      <guid isPermaLink="false">01f2O57jVWbxZynfhEEsNBv</guid>
+      <description>Amazon Prime Day has outdoor deals of up to 50% off from brands like Anker Solix, Solo Stove, Govee, and robot lawn mowers.</description>
     </item>
     <item>
-      <title>Nintendo Direct June 2026: All the news and trailers</title>
-      <link>https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news</link>
-      <pubDate>2026-06-09T09:40:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=945806</guid>
-      <description>After a week of video game news and trailers from PlayStation, Xbox, and most of the major publishers, Nintendo decided to follow things up with its next Nintendo Direct. And it came at an important moment for the company: the Switch 2 is getting a price hike, and at the same time, the console&#8217;s lineup [&#8230;]</description>
+      <title>&#8216;The best thing we&#8217;ve ever made&#8217;: Jason Momoa turns his 100-year-old Harleys into new electric classics &#8212; and you can buy the same &#8216;drop-in&#8217; conversion kits</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-best-thing-weve-ever-made-jason-momoa-turns-his-100-year-old-harleys-into-new-electric-classics-and-you-can-buy-the-same-drop-in-conversion-kits</link>
+      <pubDate>Tue, 09 Jun 2026 16:17:22 +0000</pubDate>
+      <guid isPermaLink="false">LUwmKu3cbZqrsgmtTu23qP</guid>
+      <description>Jason Momoa and UK conversion specialist Electrogenic team up to work on electrifying Hollywood star's classic collection.</description>
     </item>
     <item>
-      <title>J&#8217;ai test&#233; un PC portable gaming avec deux &#233;crans : voici le Asus ROG Zephyrus Duo</title>
-      <link>https://www.frandroid.com/marques/asus/3066383_jai-teste-un-pc-portable-gaming-avec-deux-ecrans-voici-le-asus-rog-zephyrus-duo</link>
-      <pubDate>Tue, 09 Jun 2026 13:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/asus/3066383_jai-teste-un-pc-portable-gaming-avec-deux-ecrans-voici-le-asus-rog-zephyrus-duo</guid>
+      <title>Snap up buys on a budget with the best early Prime Day deals under $100</title>
+      <link>https://mashable.com/life/best-early-prime-day-deals-under-100</link>
+      <pubDate>Tue, 09 Jun 2026 16:13:37 +0000</pubDate>
+      <guid isPermaLink="false">00pgseY8llCyjvtVGZDtGbo</guid>
+      <description>As of June 9, these are the best early Prime Day deals under $100.</description>
+    </item>
+    <item>
+      <title>Apple is embracing the fantasy of AI photo editing</title>
+      <link>https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes</link>
+      <pubDate>2026-06-09T12:13:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=946850</guid>
+      <description>Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools. They give users effortless powers of manipulating images [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Pourquoi les panneaux solaires seuls ne suffisent plus : la batterie, nouvelle arme fatale des fabricants chinois</title>
+      <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3132991_pourquoi-les-panneaux-solaires-seuls-ne-suffisent-plus-la-batterie-nouvelle-arme-fatale-des-fabricants-chinois</link>
+      <pubDate>Tue, 09 Jun 2026 16:11:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3132991_pourquoi-les-panneaux-solaires-seuls-ne-suffisent-plus-la-batterie-nouvelle-arme-fatale-des-fabricants-chinois</guid>
       <description>
-Si vous cherchez la configuration ultime pour un t&#233;l&#233;travail hyper efficace en &#233;tant cr&#233;atif ou gamer, le Zephyrus Duo remplit cette niche parfaitement. Du moins, pour ceux pouvant se l'offrir.
-</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s best AI idea looks a lot like vibe coding</title>
-      <link>https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code</link>
-      <pubDate>2026-06-09T09:34:48-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=946733</guid>
-      <description>Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can [&#8230;]</description>
-    </item>
-    <item>
-      <title>Siri AI bloqu&#233; en Europe&#160;: Apple attaque Bruxelles, mais qui a vraiment raison&#160;?</title>
-      <link>https://www.01net.com/actualites/siri-ai-bloque-en-europe-apple-attaque-bruxelles-mais-qui-a-vraiment-raison.html</link>
-      <pubDate>Tue, 09 Jun 2026 13:33:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1352938</guid>
-      <description>Apple accuse le DMA de bloquer Siri AI en Europe. Bruxelles r&#233;pond que c'est &#171; l'enti&#232;re responsabilit&#233; d'Apple &#187;. On d&#233;m&#234;le les arguments des deux camps.</description>
-    </item>
-    <item>
-      <title>iOS 27 beta has arrived: Here's how to get it on your iPhone</title>
-      <link>https://www.engadget.com/2190122/ios-27-beta-has-arrived-here-s-how-to-get-it-on-your-iphone/</link>
-      <pubDate>Tue, 09 Jun 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2190122/ios-27-beta-has-arrived-here-s-how-to-get-it-on-your-iphone/</guid>
-      <description>Beta versions of iOS, iPadOS and watchOS are available to download if you have a developer account.</description>
-    </item>
-    <item>
-      <title>L&#8217;incroyable supercherie derri&#232;re la batterie solide europ&#233;enne &#171; r&#233;volutionnaire &#187; du CES r&#233;v&#233;l&#233;e par une vaste enqu&#234;te</title>
-      <link>https://www.frandroid.com/survoltes/voitures-electriques/3132327_lincroyable-supercherie-derriere-la-batterie-solide-europeenne-revolutionnaire-du-ces-revelee-par-une-vaste-enquete</link>
-      <pubDate>Tue, 09 Jun 2026 13:29:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3132327_lincroyable-supercherie-derriere-la-batterie-solide-europeenne-revolutionnaire-du-ces-revelee-par-une-vaste-enquete</guid>
-      <description>
-Au CES 2026, Donut Lab a pr&#233;sent&#233; une batterie solide vendue comme r&#233;volutionnaire &#224; plus d'un titre, promettant des autonomies et des dur&#233;es de vie encore jamais vues. Les doutes s'accumulaient depuis, et une enqu&#234;te ind&#233;pendante r&#233;v&#232;le la supercherie : la pr&#233;tendue batterie solide n'est qu'une batterie traditionnelle.
-</description>
-    </item>
-    <item>
-      <title>Update Chrome now &#8212; Google patches new zero-day flaw already being exploited</title>
-      <link>https://www.techradar.com/pro/security/update-chrome-now-google-patches-new-zero-day-flaw-already-being-exploited</link>
-      <pubDate>Tue, 09 Jun 2026 13:25:00 +0000</pubDate>
-      <guid isPermaLink="false">5rXFyBPDqAjsYdXnTfENdX</guid>
-      <description>A new bug was found, allowing crooks to execute arbitrary code and possibly steal sensitive files.</description>
-    </item>
-    <item>
-      <title>Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss</title>
-      <link>https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/</link>
-      <pubDate>Tue, 09 Jun 2026 13:23:53 +0000</pubDate>
-      <guid isPermaLink="false">6a27f3abf5ab5a771f2c5c72</guid>
-      <description>It will be the first time ER-100 technology they claim can reverse aging in cells has been tested on a human.</description>
-    </item>
-    <item>
-      <title>Garmin Forerunner 265 : cette montre ador&#233;e des runneurs (not&#233;e 8/10) est en cours de d&#233;stockage</title>
-      <link>https://www.frandroid.com/bons-plans/2035276_garmin-forerunner-265-cette-montre-adoree-des-runneurs-notee-8-10-est-en-cours-de-destockage</link>
-      <pubDate>Tue, 09 Jun 2026 13:23:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2035276_garmin-forerunner-265-cette-montre-adoree-des-runneurs-notee-8-10-est-en-cours-de-destockage</guid>
-      <description>
-Lanc&#233;e &#224; 499 euros, l'excellente Garmin Forerunner 265 voit son prix s'effondrer &#224; seulement 237,62 euros. Cette montre de sport premium reste une r&#233;f&#233;rence absolue gr&#226;ce &#224; son superbe &#233;cran AMOLED, ses m&#233;triques d&#8217;entra&#238;nement ultra-compl&#232;tes et sa pr&#233;cision GPS.
-</description>
-    </item>
-    <item>
-      <title>How to watch World Cup 2026 in Spanish</title>
-      <link>https://www.techradar.com/how-to-watch/football/watch-world-cup-2026-in-spanish</link>
-      <pubDate>Tue, 09 Jun 2026 13:21:33 +0000</pubDate>
-      <guid isPermaLink="false">uigYuHLCxwGgMHUjvRDFD3</guid>
-      <description>Whether you're a native speaker or a football hipster looking to add depth to your Copa Mundial experience, here's how to watch World Cup 2026 in Spanish.</description>
-    </item>
-    <item>
-      <title>Vous passez plus de temps devant YouTube que Netflix chaque jour, une premi&#232;re</title>
-      <link>https://www.frandroid.com/marques/google/3132739_vous-passez-plus-de-temps-devant-youtube-que-netflix-chaque-jour-une-premiere</link>
-      <pubDate>Tue, 09 Jun 2026 13:16:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3132739_vous-passez-plus-de-temps-devant-youtube-que-netflix-chaque-jour-une-premiere</guid>
-      <description>
-YouTube vient de d&#233;passer Netflix sur le temps moyen de visionnage quotidien. Une nouvelle premi&#232;re place pour la plateforme face &#224; sa concurrente.
+Alors que l&#8217;industrie photovolta&#239;que traverse toujours des p&#233;riodes difficiles, les fabricants chinois ont trouv&#233; la parade&#160;: le stockage. Apr&#232;s les panneaux solaires, c&#8217;est peut-&#234;tre bient&#244;t au tour des batteries de remplir le march&#233; mondial.
 </description>
     </item>
   </channel>
