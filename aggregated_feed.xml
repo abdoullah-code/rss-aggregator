@@ -3,155 +3,582 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 11 Jun 2026 05:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:44:11 GMT</lastBuildDate>
     <item>
-      <title>Il connecte son bracelet connect&#233; &#224; son agenda pour classer ses coll&#232;gues les plus stressants</title>
+      <title>iFixit Trump phone teardown confirms it&#8217;s an HTC dupe</title>
+      <link>https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro</link>
+      <pubDate>2026-06-11T06:40:21-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=948262</guid>
+      <description>After getting its hands on a Trump phone and tearing it apart, iFixit has confirmed what I first reported back in February: the T1 Phone is an almost exact duplicate of the HTC U24 Pro. iFixit partnered with NBC to get hold of the network's media sample of the Trump phone, along with a U24 [&#8230;]</description>
+    </item>
+    <item>
+      <title>La Garmin Forerunner 965 chute sous les 500 &#8364; et reste le meilleur plan pour les sportifs</title>
+      <link>https://www.frandroid.com/bons-plans/3135847_la-garmin-forerunner-965-chute-sous-les-500-e-et-reste-le-meilleur-plan-pour-les-sportifs</link>
+      <pubDate>Thu, 11 Jun 2026 10:39:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3135847_la-garmin-forerunner-965-chute-sous-les-500-e-et-reste-le-meilleur-plan-pour-les-sportifs</guid>
+      <description>
+Alors que sa rempla&#231;ante est arriv&#233;e sur le march&#233;, la Garmin Forerunner 965 n'a rien perdu de sa superbe pour les amateurs de course &#224; pied. Cette montre de sport profite m&#234;me d'un prix plus attractif : 499 euros au lieu de 650 euros. 
+</description>
+    </item>
+    <item>
+      <title>Fiido Air Carbon Fiber Electric Bike Review: A Light, Quiet Ebike</title>
+      <link>https://www.wired.com/review/fiido-air-carbon-fiber-electric-bike/</link>
+      <pubDate>Thu, 11 Jun 2026 10:37:00 +0000</pubDate>
+      <guid isPermaLink="false">6a1ef108e0a5f6084479ca9f</guid>
+      <description>This impressively light carbon commuter makes switching to an ebike easier than ever.</description>
+    </item>
+    <item>
+      <title>Why encryption alone is not enough in modern communications</title>
+      <link>https://www.techradar.com/pro/why-encryption-alone-is-not-enough-in-modern-communications</link>
+      <pubDate>Thu, 11 Jun 2026 10:33:39 +0000</pubDate>
+      <guid isPermaLink="false">sD2LJgcfuXa9rRzNT4FSUn</guid>
+      <description>While E2EE protects message content, modern threat actors are no longer attempting to defeat it. Instead, they are exploiting what surrounds it.</description>
+    </item>
+    <item>
+      <title>Welcome to the Waymo World Cup</title>
+      <link>https://www.wired.com/story/welcome-to-the-waymo-world-cup/</link>
+      <pubDate>Thu, 11 Jun 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a0f187a8c7714286687e0c0</guid>
+      <description>It might not feel all that different from older World Cups&#8212;for better or worse.</description>
+    </item>
+    <item>
+      <title>YouTube brings back DMs after 6 years without them</title>
+      <link>https://mashable.com/tech/youtube-dms-return</link>
+      <pubDate>Thu, 11 Jun 2026 10:19:10 +0000</pubDate>
+      <guid isPermaLink="false">06bnX3lmUyDRV6RpcZ4MFaH</guid>
+      <description>Six years after YouTube kicked direct messages to the curb, the platform is bringing them back.</description>
+    </item>
+    <item>
+      <title>Fable will feature over 150,000 lines of dialogue, Playground Games confirms &#8212; 'We've had multiple studios set up running in parallel for over 1000 hours just this year alone, just recording VO'</title>
+      <link>https://www.techradar.com/gaming/fable-will-feature-over-150-000-lines-of-dialogue-playground-games-confirms-weve-had-multiple-studios-set-up-running-in-parallel-for-over-1000-hours-just-this-year-alone-just-recording-vo</link>
+      <pubDate>Thu, 11 Jun 2026 10:16:07 +0000</pubDate>
+      <guid isPermaLink="false">4BrkkEjse9NYDGmgsdFftb</guid>
+      <description>Playground Games has said that more than 150,000 lines of dialogue have been recorded for Fable.</description>
+    </item>
+    <item>
+      <title>'Celebrating this partial restoration is not right' &#8212; Iran emerges from 88-day internet shutdown, but what happens next?</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/celebrating-this-partial-restoration-is-not-right-iran-emerges-from-88-day-internet-shutdown-but-what-happens-next</link>
+      <pubDate>Thu, 11 Jun 2026 10:15:44 +0000</pubDate>
+      <guid isPermaLink="false">6nepmVzrqDgE82hSXbAGz3</guid>
+      <description>As connectivity began to be restored, internet experts have warned that a cutoff "will happen agains." TechRadar talked to Mahsa Alimardani at WITNESS about what this partial restoration actually means, and what could happen next.</description>
+    </item>
+    <item>
+      <title>Daily Shows Desi Lydic roasts Melania Trumps latest speech about AI</title>
+      <link>https://mashable.com/entertainment/daily-show-desi-lydic-melania-trump-ai</link>
+      <pubDate>Thu, 11 Jun 2026 10:13:26 +0000</pubDate>
+      <guid isPermaLink="false">07umAR5znSJ6bthMtDUAdmT</guid>
+      <description>"Daily Show" host Desi Lydic has reacted to Melania Trump's latest speech about AI.</description>
+    </item>
+    <item>
+      <title>The factory floor ran out of people, and no hiring strategy will fix it</title>
+      <link>https://www.techradar.com/pro/the-factory-floor-ran-out-of-people-and-no-hiring-strategy-will-fix-it</link>
+      <pubDate>Thu, 11 Jun 2026 10:11:43 +0000</pubDate>
+      <guid isPermaLink="false">dPCdpVDLZqqPxbJRiDCDTB</guid>
+      <description>Manufacturers face permanent worker shortages, accelerating shift to AI-driven, robot-integrated operations.</description>
+    </item>
+    <item>
+      <title>I'm genuinely impressed by Sihoo&#8217;s 'spaceship-like' ergonomic chair &#8212; and not even Amazon beats this Prime Day sale price</title>
+      <link>https://www.techradar.com/pro/im-genuinely-impressed-by-sihoos-spaceship-like-ergonomic-chair-and-not-even-amazon-beats-this-prime-day-sale-price</link>
+      <pubDate>Thu, 11 Jun 2026 10:11:31 +0000</pubDate>
+      <guid isPermaLink="false">e39J4GqipPTjnMishVwLte</guid>
+      <description>The ultra-adjustable Doro C300 Pro V2 wowed us with "how comfortable the spaceship-like chair felt, even on long days."</description>
+    </item>
+    <item>
+      <title>Deezer now helps users find AI music on other streaming platforms</title>
+      <link>https://www.engadget.com/2192024/deezer-ai-music-detector/</link>
+      <pubDate>Thu, 11 Jun 2026 10:09:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2192024/deezer-ai-music-detector/</guid>
+      <description>Deezer will now help you find AI slop in your music playlists even if you're on another platform.</description>
+    </item>
+    <item>
+      <title>Deezer just launched a free site to scan your playlists for AI slop &#8212; and yes, it works on Spotify, Apple Music and Tidal</title>
+      <link>https://www.techradar.com/audio/audio-streaming/deezer-just-launched-a-free-site-to-scan-your-playlists-for-ai-slop-and-yes-it-works-on-spotify-apple-music-and-tidal</link>
+      <pubDate>Thu, 11 Jun 2026 10:09:27 +0000</pubDate>
+      <guid isPermaLink="false">KZHvjiWC9jrQLzndzhLYcJ</guid>
+      <description>Deezer's new AI music detector scans playlists on any music streaming service to check for slop &#8212; but if you want the tracks named, shamed and nixed, you'll need to make the switch</description>
+    </item>
+    <item>
+      <title>YouTube is introducing DMs (again)</title>
+      <link>https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability</link>
+      <pubDate>2026-06-11T06:08:24-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=948256</guid>
+      <description>YouTube is reintroducing private messaging after testing new ways for users to share videos and "have conversations about them" last year. In an announcement on its official blog, YouTube says it's now starting to expand the in-app video sharing and messaging feature to users in the US and "other global regions" who are 18 or [&#8230;]</description>
+    </item>
+    <item>
+      <title>J&#8217;ai mis dix ans &#224; oser Home Assistant : il m&#8217;a fallu quelques heures et une IA</title>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/3135465_jai-mis-dix-ans-a-oser-home-assistant-il-ma-fallu-quelques-heures-et-une-ia</link>
+      <pubDate>Thu, 11 Jun 2026 10:05:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/3135465_jai-mis-dix-ans-a-oser-home-assistant-il-ma-fallu-quelques-heures-et-une-ia</guid>
+      <description>
+Dix ans que Home Assistant me faisait peur. Quelques heures pour le monter, parce que cette fois, je ne l'ai pas fait seul.
+</description>
+    </item>
+    <item>
+      <title>'That gap is significant': Lots of us still know nothing about data centers, new survey finds</title>
+      <link>https://www.techradar.com/pro/lots-of-us-still-know-nothing-about-data-centers-new-survey-finds</link>
+      <pubDate>Thu, 11 Jun 2026 10:05:00 +0000</pubDate>
+      <guid isPermaLink="false">vL3P5MRGEPwoibuktu3rNC</guid>
+      <description>Despite their increasingly important role in daily life, many people still have no idea what data centers actually do, report finds.</description>
+    </item>
+    <item>
+      <title>Le MacBook Ultra bel et bien dans les tuyaux ? Ces 3 indices de macOS 27 nous laissent flairer sa piste</title>
+      <link>https://www.frandroid.com/os/macos/3135597_le-macbook-ultra-bel-et-bien-dans-les-tuyaux-ces-3-indices-de-macos-27-nous-laissent-flairer-sa-piste</link>
+      <pubDate>Thu, 11 Jun 2026 10:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/macos/3135597_le-macbook-ultra-bel-et-bien-dans-les-tuyaux-ces-3-indices-de-macos-27-nous-laissent-flairer-sa-piste</guid>
+      <description>
+Pressenti pour la fin 2026 ou le d&#233;but 2027, le MacBook Ultra est encore tr&#232;s officieux. Au sein de macOS 27 Golden Gate, trois indices nous mettent n&#233;anmoins, tr&#232;s discr&#232;tement, sur sa piste.
+</description>
+    </item>
+    <item>
+      <title>Plus de 1 000 chevaux directement dans les roues : Mercedes lance la production de son moteur de tous les records</title>
+      <link>https://www.frandroid.com/marques/mercedes-benz/3135515_plus-de-1-000-chevaux-directement-dans-les-roues-mercedes-lance-la-production-de-son-moteur-de-tous-les-records</link>
+      <pubDate>Thu, 11 Jun 2026 10:02:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/mercedes-benz/3135515_plus-de-1-000-chevaux-directement-dans-les-roues-mercedes-lance-la-production-de-son-moteur-de-tous-les-records</guid>
+      <description>
+D&#233;voil&#233; en 2025, le nouveau moteur &#224; flux axial de Mercedes va d&#233;marrer sa production. Fort de 1 000 chevaux en pic pour seulement 12,7 kilos, ce prototype pr&#233;pare le terrain des prochaines AMG &#233;lectriques.
+</description>
+    </item>
+    <item>
+      <title>Sosh sort un nouveau forfait mobile pas cher, et la t&#233;l&#233; comprise change la donne</title>
+      <link>https://www.frandroid.com/bons-plans/3135887_sosh-sort-un-nouveau-forfait-mobile-pas-cher-et-la-tele-comprise-change-la-donne</link>
+      <pubDate>Thu, 11 Jun 2026 10:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3135887_sosh-sort-un-nouveau-forfait-mobile-pas-cher-et-la-tele-comprise-change-la-donne</guid>
+      <description>
+&#192; 13,99 euros par mois, ce forfait Sosh aligne 150 Go en France sur le r&#233;seau d'Orange, sans engagement. L'offre ajoute 25 Go pour l'&#233;tranger et glisse Orange TV dans le lot, ce qui la rend plus compl&#232;te que la moyenne &#224; ce tarif.
+</description>
+    </item>
+    <item>
+      <title>NYT Strands hints, answers for June 11, 2026</title>
+      <link>https://mashable.com/entertainment/strands-nyt-hint-june-11-2026</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:45 +0000</pubDate>
+      <guid isPermaLink="false">07wzgp7HxuSJuM4NRLKGO5v</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints today: Clues, answers for June 11, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-hint-answer-today-june-11-2026</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:37 +0000</pubDate>
+      <guid isPermaLink="false">02ghlivgXcvvRwtCxY9K3HH</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
+    </item>
+    <item>
+      <title>Wordle today: Answer, hints for June 11, 2026</title>
+      <link>https://mashable.com/entertainment/wordle-today-answer-june-11-2026</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:29 +0000</pubDate>
+      <guid isPermaLink="false">02xh5ab4uRV6HxluAMLM207</guid>
+      <description>Here's the answer for "Wordle" #1818 on June 11 as well as a few hints, tips, and clues to help you solve it yourself.</description>
+    </item>
+    <item>
+      <title>Qui va gagner la Coupe du Monde 2026&#160;? On a pos&#233; la question &#224; 5 IA, voici leurs pronostics</title>
+      <link>https://www.01net.com/actualites/qui-va-gagner-coupe-monde-2026-pose-question-cinq-ia-voici-pronostics.html</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1353026</guid>
+      <description>La Coupe du Monde 2026 d&#233;bute ce 11 juin. Avant le coup d&#8217;envoi du premier match, on a demand&#233; &#224; cinq intelligences artificielles de pr&#233;dire l&#8217;int&#233;gralit&#233; de la comp&#233;tition, des phases de groupes jusqu&#8217;&#224; la finale. Notre objectif est de comparer leurs pronostics et de mesurer, au fil des rencontres, laquelle se montrera la plus fiable.</description>
+    </item>
+    <item>
+      <title>Trump&#8217;s Border Crackdown Is Wreaking Havoc on the World Cup</title>
+      <link>https://www.wired.com/story/world-cup-2026-immigration-visas-travel-issues/</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a296b06fa67a46c430bdc3b</guid>
+      <description>Travel bans and other visa issues are creating problems for World Cup participants even before the whistle blows.</description>
+    </item>
+    <item>
+      <title>Cameras, Sensors, and 3D Body Scans: All the Tech Helping Eliminate Blown Calls</title>
+      <link>https://www.wired.com/story/world-cup-tech-helping-eliminate-bad-calls-var-sensors-3d-body-scans/</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a1617f0c231501f9b8b76b4</guid>
+      <description>Soccer officials already rely on cameras to see who&#8217;s offside and who sent the ball out of bounds. But during this World Cup, refs will use digital twins of each player to view plays from every angle.</description>
+    </item>
+    <item>
+      <title>How Mexican World Cup Stadiums Achieved FIFA&#8217;s Environmental Certifications</title>
+      <link>https://www.wired.com/story/how-mexican-world-cup-stadiums-achieved-fifas-environmental-certifications/</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a22cb4e923e8b4d309707b8</guid>
+      <description>Venues hosting the 2026 World Cup must meet high standards to obtain environmental certifications, but FIFA also requires that they use natural grass, which is water-intensive to maintain.</description>
+    </item>
+    <item>
+      <title>How to Watch the 2026 World Cup</title>
+      <link>https://www.wired.com/story/how-to-watch-the-2026-world-cup/</link>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a16d8d6125163f132231567</guid>
+      <description>The games start June 11 and end with a grand finale in New Jersey on July 19. There are 104 of them. Here&#8217;s how to watch &#8217;em all.</description>
+    </item>
+    <item>
+      <title>Inside the painstaking, yearslong process of making perfect grass for the World Cup</title>
+      <link>https://www.fastcompany.com/91555116/research-perfect-grass-world-cup</link>
+      <pubDate>2026-06-11T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91555116/research-perfect-grass-world-cup</guid>
+      <description>Researchers spent years developing the grass seed mix, soil depth, and strength of the grasses that will make up the 2026 World Cup pitches.
+The 2022 FIFA World Cup hadn&#8217;t even started when researchers set out to grow the perfect pitch for the 2026 World Cup, which kicks off in cities across North America this month.</description>
+    </item>
+    <item>
+      <title>Menopause&#160;is burning up senior-level&#160;women&#8217;s careers. 4 things companies can do to keep them&#160;from burning out</title>
+      <link>https://www.fastcompany.com/91556911/menopause-is-burning-up-working-women</link>
+      <pubDate>2026-06-11T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91556911/menopause-is-burning-up-working-women</guid>
+      <description>More than 30 women reveal how their menopause and perimenopause symptoms have impacted their professional lives&#8212;and their fixes. 
+Kacy Fleming was presenting in a boardroom when the burning started. It began at her thighs and rose up through her torso as the legal counsel in the room pushed back on her points. She whipped off her blazer even though all she was wearing underneath was a threadbare James Perse tank top....</description>
+    </item>
+    <item>
+      <title>There&#8217;s a hidden cost to working remotely. It&#8217;s one employees won&#8217;t want to ignore</title>
+      <link>https://www.fastcompany.com/91557265/remote-work-wfh-hidden-cost-to-working-remotely-employees-shouldnt-ignore-this-mental-health</link>
+      <pubDate>2026-06-11T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557265/remote-work-wfh-hidden-cost-to-working-remotely-employees-shouldnt-ignore-this-mental-health</guid>
+      <description>New research shows work from home has unexpected mental health effects.
+As more companies require employees to return to the office five days a week, new research shows working from home may not be so great for your mental health.</description>
+    </item>
+    <item>
+      <title>5 ways the World Cup ticketing process is a complete design fail</title>
+      <link>https://www.fastcompany.com/91557271/5-ways-the-world-cup-ticketing-process-is-a-complete-design-fail</link>
+      <pubDate>2026-06-11T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557271/5-ways-the-world-cup-ticketing-process-is-a-complete-design-fail</guid>
+      <description>Annoying glitches, confusing web flows, and subpar infographics: As design refs, we&#8217;d issue a red card. 
+The ticketing system for the World Cup has been so bad that California, New York, New Jersey, and Texas are investigating FIFA over reports of issues like false advertising and sky-high prices.</description>
+    </item>
+    <item>
+      <title>Air CEO Shane Hegde on why creative teams need a system of record</title>
+      <link>https://www.fastcompany.com/91557298/air-ceo-shane-hegde-on-why-creative-teams-need-a-system-of-record</link>
+      <pubDate>2026-06-11T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557298/air-ceo-shane-hegde-on-why-creative-teams-need-a-system-of-record</guid>
+      <description>The chief exec talked with Fast Company about visual data as the enterprise&#8217;s most neglected infrastructure problem, and why AI won&#8217;t kill the creative spark.
+Creative teams are drowning in their own output. According to Air&#8217;s internal surveys, the average creative spends 20% of their workday hunting for files: old campaign assets, archived footage, forgotten screenshots. Shane Hegde, CEO and co-founder of the New York-based startup, calls this &#8220;search debt,&#8221; and he&#8217;s spent close to a decade building a solution....</description>
+    </item>
+    <item>
+      <title>The 5 best World Cup ads (so far)</title>
+      <link>https://www.fastcompany.com/91557344/the-5-best-world-cup-ads-so-far</link>
+      <pubDate>2026-06-11T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557344/the-5-best-world-cup-ads-so-far</guid>
+      <description>Get hyped before kickoff with Adidas, Nike, Uber Eats, Coors Light, and Brahma.
+It&#8217;s time for kick-off. After years of anticipation for what has been billed the biggest World Cup ever, the 2026 tournament hosted by the U.S., Canada, and Mexico is here. Not only is this year&#8217;s competition the biggest in terms of teams playing (48, up from 32), it&#8217;s expected to draw five billion viewers over its month-long run. And that&#8217;s why advertisers are spending upwards of $10.5 billion globally to get their brands in front of all those eyeballs.&#160;...</description>
+    </item>
+    <item>
+      <title>Apr&#232;s six mois de travail, Microsoft Teams redevient fluide</title>
+      <link>https://www.frandroid.com/marques/microsoft/3135671_apres-six-mois-de-travail-microsoft-teams-redevient-fluide</link>
+      <pubDate>Thu, 11 Jun 2026 09:59:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3135671_apres-six-mois-de-travail-microsoft-teams-redevient-fluide</guid>
+      <description>
+Point&#233;e du doigt pour sa lenteur et sa consommation excessive de m&#233;moire, Microsoft Teams fait peau neuve. La firme de Redmond semble avoir tenu compte des critiques en d&#233;voilant une version de Teams plus rapide que jamais.
+</description>
+    </item>
+    <item>
+      <title>NYT Connections Sports Edition today: Hints and answers for June 11, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-june-11-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:51:50 +0000</pubDate>
+      <guid isPermaLink="false">05XoBQqemUmH1g8J12BpbGv</guid>
+      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
+    </item>
+    <item>
+      <title>Framework delays Laptop 13 Pro shipments by a month</title>
+      <link>https://www.engadget.com/2192019/framework-delays-laptop-13-pro-shipments/</link>
+      <pubDate>Thu, 11 Jun 2026 09:50:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2192019/framework-delays-laptop-13-pro-shipments/</guid>
+      <description>Framework is pushing back shipments of its new Laptop 13 Pro to address issues with its haptic touchpad and display found in the run-up to mass production.</description>
+    </item>
+    <item>
+      <title>Jimmy Kimmel has some blunt thoughts about Trump commemorative gold coin</title>
+      <link>https://mashable.com/entertainment/jimmy-kimmel-trump-commemorative-gold-coin</link>
+      <pubDate>Thu, 11 Jun 2026 09:41:36 +0000</pubDate>
+      <guid isPermaLink="false">02Swk9go9RtBWiR5feUveib</guid>
+      <description>Jimmy Kimmel has shared his thoughts on Trump launching a new commemorative gold coin.</description>
+    </item>
+    <item>
+      <title>Cyberattaques chinoises&#160;: avec 1&#160;500 appareils infect&#233;s, le botnet JDY pr&#233;pare le terrain pour des op&#233;rations d&#8217;espionnage</title>
+      <link>https://www.01net.com/actualites/cyberattaques-chinoises-avec-1-500-appareils-infectes-le-botnet-jdy-prepare-le-terrain-pour-des-operations-despionnage.html</link>
+      <pubDate>Thu, 11 Jun 2026 09:38:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1353422</guid>
+      <description>Un r&#233;seau d'espionnage chinois &#233;tend silencieusement son emprise. Le botnet JDY compte d&#233;sormais plus de 1 500 appareils compromis capables de scanner Internet &#224; la recherche de syst&#232;mes vuln&#233;rables. Les informations recueillies sont alors communiqu&#233;es &#224; des hackers mandat&#233;s par P&#233;kin, en vue de futures cyberattaques.</description>
+    </item>
+    <item>
+      <title>NYT Mini crossword answers, hints for June 11, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-mini-crossword-answers-hints-june-11-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:35:37 +0000</pubDate>
+      <guid isPermaLink="false">07FrVSdLwTzmHc4LFvMiThB</guid>
+      <description>Answers to each clue for the June 11, 2026 edition of NYT's The Mini crossword puzzle.</description>
+    </item>
+    <item>
+      <title>People Living Near xAI&#8217;s Dirty Data Centers Are Furious About the SpaceX IPO</title>
+      <link>https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/</link>
+      <pubDate>Thu, 11 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a2848a4c80531d76bc87655</guid>
+      <description>Elon Musk is set to make hundreds of billions even as communities in Mississippi and Tennessee are fighting to stop the gas turbines powering xAI's supercomputers.</description>
+    </item>
+    <item>
+      <title>The best gay dating apps of 2026: Grindr is still king (even if we sometimes wish it wasnt)</title>
+      <link>https://mashable.com/roundup/best-gay-dating-apps-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">04VbGQMnZvusWyp1fibLSvd</guid>
+      <description>Don't celebrate Pride Month alone. Here's our unfiltered guide to the best gay dating apps based on extensive testing.</description>
+    </item>
+    <item>
+      <title>The Insignia 65-inch Class QF LED 4K QLED TV is down to its best-ever price at Amazon ahead of Prime Day</title>
+      <link>https://mashable.com/tech/june-11-insignia-65-inch-tv-deal</link>
+      <pubDate>Thu, 11 Jun 2026 09:27:27 +0000</pubDate>
+      <guid isPermaLink="false">06kfbMdI9FKKiXZbW486xS8</guid>
+      <description>As of June 11, the Insignia 65-inch Class QF LED 4K QLED TV is back to its lowest-ever price at Amazon of $299.99. This is 40% off its full price of $499.99.</description>
+    </item>
+    <item>
+      <title>Taill&#233; pour le gaming mais aussi pour la productivit&#233;, ce laptop MSI avec RTX 5060 et Core 7 passe sous la barre des 1 000 &#8364;</title>
+      <link>https://www.frandroid.com/marques/3135583_taille-pour-le-gaming-mais-aussi-pour-la-productivite-ce-laptop-msi-avec-rtx-5060-et-core-7-passe-sous-la-barre-des-1-000-e</link>
+      <pubDate>Thu, 11 Jun 2026 09:24:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3135583_taille-pour-le-gaming-mais-aussi-pour-la-productivite-ce-laptop-msi-avec-rtx-5060-et-core-7-passe-sous-la-barre-des-1-000-e</guid>
+      <description>
+Avec sa RTX 5060, son Intel Core 7 ou encore son grand &#233;cran offrant des images fluides, le MSI Venture Pro 15 s'adresse aussi bien aux joueurs exigeants qu'aux professionnels &#224; la recherche d'une machine r&#233;active. Il b&#233;n&#233;ficie en prime d'une petite r&#233;duction chez Boulanger : on peut ainsi le trouver &#224; 999,99 euros au lieu de 1 099,99 euros.
+</description>
+    </item>
+    <item>
+      <title>TikTok : comment retrouver une vid&#233;o d&#233;j&#224; vue dans votre historique ?</title>
+      <link>https://www.frandroid.com/comment-faire/tutoriaux/1895239_tiktok-comment-retrouver-une-video-deja-vue</link>
+      <pubDate>Thu, 11 Jun 2026 09:20:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/tutoriaux/1895239_tiktok-comment-retrouver-une-video-deja-vue</guid>
+      <description>
+Vous souhaitez pouvoir revisionner une vid&#233;o Tiktok, mais impossible de la retrouver apr&#232;s avoir rafra&#238;chi votre fil&#8201;? Pas de panique, cette petite astuce va vous aider.
+</description>
+    </item>
+    <item>
+      <title>The Insignia 32-inch Class F20 TV is under $70 for a limited time</title>
+      <link>https://mashable.com/tech/june-11-insignia-fire-tv-32-inch-deal</link>
+      <pubDate>Thu, 11 Jun 2026 09:18:02 +0000</pubDate>
+      <guid isPermaLink="false">06fgu7WQ9Wjqx2EEYwrrwHN</guid>
+      <description>Save 46% on the Insignia 32-inch Class F20 at Amazon.</description>
+    </item>
+    <item>
+      <title>Anthropic&#8217;s new AI model is powerful, dazzling&#8212;and about to get really expensive</title>
+      <link>https://www.fastcompany.com/91557467/anthropics-new-ai-model-is-powerful-dazzling-and-about-to-get-expensive</link>
+      <pubDate>2026-06-11T09:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557467/anthropics-new-ai-model-is-powerful-dazzling-and-about-to-get-expensive</guid>
+      <description>Fable is available to subscribers for now. But its upcoming shift to API-only access shows how quickly frontier AI is moving from &#8216;all you can use&#8217; to &#8216;all you can afford.&#8217;
+Anthropic&#8217;s eye-poppingly powerful new model, Fable, is worth testing while you still can. Built by the company behind the Claude chatbot, Fable is the publicly safe version of Mythos, the model Anthropic deemed too dangerous to release just two months ago. To make it available to the average user, Anthropic has introduced stringent guardrails designed to prevent the cutting-edge model from being used for high-risk applicat...</description>
+    </item>
+    <item>
+      <title>Starlink&#160;: les prix augmentent encore, voici combien vont payer les nouveaux clients</title>
+      <link>https://www.01net.com/actualites/starlink-prix-augmentent-encore-combien-vont-payer-nouveaux-clients.html</link>
+      <pubDate>Thu, 11 Jun 2026 09:14:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1353444</guid>
+      <description>Starlink demande d&#233;sormais des frais mensuels aux nouveaux abonn&#233;s pour la location du mat&#233;riel.</description>
+    </item>
+    <item>
+      <title>The Beats Solo 4 headphones are $70 off at Amazon for a limited time</title>
+      <link>https://mashable.com/tech/june-11-beats-solo-4-deal</link>
+      <pubDate>Thu, 11 Jun 2026 09:12:45 +0000</pubDate>
+      <guid isPermaLink="false">01xyhmqhxgT1DHzyOJGwryx</guid>
+      <description>Get the best deal on headphones. Save 35% on the Beats Solo 4 at Amazon.</description>
+    </item>
+    <item>
+      <title>If AI transparency rules weaken, enterprise tech teams will inherit the risk</title>
+      <link>https://www.techradar.com/pro/if-ai-transparency-rules-weaken-enterprise-tech-teams-will-inherit-the-risk</link>
+      <pubDate>Thu, 11 Jun 2026 09:12:14 +0000</pubDate>
+      <guid isPermaLink="false">ZrBgHNwUtNFogGuduCs7y6</guid>
+      <description>When AI compliance softens, enterprises don't escape accountability &#8212; they absorb it.</description>
+    </item>
+    <item>
+      <title>Steam Machine : un s&#233;rieux indice pointe vers une sortie en juin</title>
+      <link>https://www.frandroid.com/marques/valve/3135943_steam-machine-un-serieux-indice-pointe-vers-une-sortie-en-juin</link>
+      <pubDate>Thu, 11 Jun 2026 09:09:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3135943_steam-machine-un-serieux-indice-pointe-vers-une-sortie-en-juin</guid>
+      <description>
+Officiellement, la Steam Machine est pr&#233;vue pour l'&#233;t&#233; 2026. Un document de la FCC pointe vers un lancement d&#232;s le mois de juin.
+</description>
+    </item>
+    <item>
+      <title>OpenAI signs major Visa deal &#8212; so AI agents will soon be able to make payments and purchases for you</title>
+      <link>https://www.techradar.com/pro/openai-signs-major-visa-deal-so-ai-agents-will-soon-be-able-to-make-payments-and-purchases-for-you</link>
+      <pubDate>Thu, 11 Jun 2026 09:07:58 +0000</pubDate>
+      <guid isPermaLink="false">ZkQwV8kR9YwmfU6YPbWdyM</guid>
+      <description>Visa payments to be integrated within OpenAI's ecosystem, paving the way for future agentic transactions and bookings.</description>
+    </item>
+    <item>
+      <title>The Beats Fit Pro just got a $50 discount at Amazon for a limited time</title>
+      <link>https://mashable.com/tech/june-11-beats-fit-pro-deal</link>
+      <pubDate>Thu, 11 Jun 2026 09:01:51 +0000</pubDate>
+      <guid isPermaLink="false">00FMyd82hxQPhgQ5o1XAjgg</guid>
+      <description>Get the best deal on Beats. Save 25% on the Beats Fit Pro at Amazon.</description>
+    </item>
+    <item>
+      <title>Anthropic backtracks on policy that 'sabotaged' researchers' work</title>
+      <link>https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/</guid>
+      <description>Anthropic is walking back a hidden policy that researchers say sabotaged their work.</description>
+    </item>
+    <item>
+      <title>Rachat de SFR&#160;: l&#8217;Autorit&#233; de la concurrence met d&#233;j&#224; en garde Orange, Free et Bouygues Telecom</title>
+      <link>https://www.01net.com/actualites/rachat-sfr-autorite-concurrence-met-deja-garde-orange-free-bouygues-telecom.html</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1353448</guid>
+      <description>Beno&#238;t C&#339;ur&#233;, le pr&#233;sident de l&#8217;Autorit&#233; de la concurrence, estime que le rachat de SFR &#171; ne va pas de soi &#187;, sans pour autant &#234;tre automatiquement anticoncurrentiel. Il rappelle n&#233;anmoins l&#8217;amende de 534 millions d'euros inflig&#233;e en 2005 &#224; Orange, SFR et Bouygues Telecom pour entente illicite.</description>
+    </item>
+    <item>
+      <title>Dyson V16 Piston Animal first impressions: A new apex Dyson vacuum has entered the villa</title>
+      <link>https://mashable.com/life/dyson-v16-piston-animal-vacuum-review</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:11 +0000</pubDate>
+      <guid isPermaLink="false">03LqOOqQEceuS2OanzasrYd</guid>
+      <description>Released on June 2, the cordless Dyson V16 Piston Animal is officially stronger than any corded Dyson Ball vacuum. But it has its quirks.</description>
+    </item>
+    <item>
+      <title>I Was Scammed Buying GLP-1s Online. I&#8217;m Not Alone</title>
+      <link>https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a1edf3a90893e733a02a7a5</guid>
+      <description>Customers have complained that a telehealth network selling compounded GLP-1s has been ripping them off&#8212;even after it had to pay $5 million to clients as part of a settlement with the US government.</description>
+    </item>
+    <item>
+      <title>Among Us is full of Crewmate butts. It used to have even more.</title>
+      <link>https://mashable.com/entertainment/among-us-crewmate-butts</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06k5E4cc2GHljRkj39aaoUq</guid>
+      <description>"Among Us" creator Owen Dennis breaks down how the show came to be so butt-focused.</description>
+    </item>
+    <item>
+      <title>Heres why you should watch Among Us twice</title>
+      <link>https://mashable.com/entertainment/why-you-should-watch-among-us-twice-owen-dennis-interview</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06Gwa3S3iyIjEdLXdRvW6I1</guid>
+      <description>"Among Us" creator Owen Dennis breaks down why the show's rewatch factor is so great.</description>
+    </item>
+    <item>
+      <title>A Prime Day Apple deals primer: How low prices will go on AirPods, iPads, and MacBooks</title>
+      <link>https://mashable.com/tech/best-early-prime-day-apple-deals-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00fNbIejgSY2pgk8WVu3ORL</guid>
+      <description>The best early Prime Day Apple deals include record lows on AirPods Pro 3 and M5 MacBook Air. Wait to add any other gadgets to your cart.</description>
+    </item>
+    <item>
+      <title>Savage House review: Hosting an important dinner? Prepare for battle.</title>
+      <link>https://mashable.com/entertainment/savage-house-review</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">042r4Hj8UIkTaBdHHHvLdeU</guid>
+      <description>"Savage House" is an oozing, gangrenous tale of profligacy, with an outstanding Richard E. Grant and Claire Foy.</description>
+    </item>
+    <item>
+      <title>The 10 best Lego sets of 2026 so far, from F1 to Monet and Pok&#233;mon</title>
+      <link>https://mashable.com/life/best-legos-2026-so-far</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02bVeluI4vUJsfvaDQ7Ak0k</guid>
+      <description>After tracking Lego releases from the better part of the past year, we put together a list of the top 10 Lego sets that hit the market in 2026.</description>
+    </item>
+    <item>
+      <title>Whats new to streaming this week? (June 12, 2026)</title>
+      <link>https://mashable.com/entertainment/new-to-streaming-june-12-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02fW54smgitwRBjJ10oUIwk</guid>
+      <description>What&#8217;s new to streaming for the week of June 12, 2026, on Netflix, Prime Video, Hulu, and more? We've got you covered.</description>
+    </item>
+    <item>
+      <title>Build apps and websites faster with this Microsoft secret weapon, now $35</title>
+      <link>https://mashable.com/tech/june-11-microsoft-visual-studio-professional-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02EJyCZhO5i8fcqZrzbgPJJ</guid>
+      <description>If you're just learning to code, you need Microsoft Visual Studio Professional 2026.</description>
+    </item>
+    <item>
+      <title>Looking for guilt-free screen time for kids? This $45 app can help</title>
+      <link>https://mashable.com/life/june-11-pok-pok-lifetime-subscription</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05QwG1LhDI3kj4xoMqoFd8K</guid>
+      <description>Learning can be fun with this lifetime subscription to Pok Pok.</description>
+    </item>
+    <item>
+      <title>Dropouts Brennan Lee Mulligan knows he cant win. But could that be about to change?</title>
+      <link>https://mashable.com/entertainment/brennan-lee-mulligan-dropout</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05K1BkYLaHvakHfKzTdTMl4</guid>
+      <description>Sam Reich reveals a could-be path to an Emmy victory for Dropout's Brennan Lee Mulligan.</description>
+    </item>
+    <item>
+      <title>How to watch Mexico vs. South Africa online for free</title>
+      <link>https://mashable.com/entertainment/mexico-south-africa-fifa-world-cup-2026-live-stream-for-free</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04vENdyJ17cJf0ltIOs4dsC</guid>
+      <description>How to watch World Cup for free. Live stream Mexico vs. South Africa in the 2026 FIFA World Cup for free.</description>
+    </item>
+    <item>
+      <title>How to watch the 2026 FIFA World Cup online for free</title>
+      <link>https://mashable.com/article/fifa-world-cup-2026-live-stream-for-free</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">077oUvXQjziKbbL6ypkXdaa</guid>
+      <description>How to watch World Cup for free. Live stream the 2026 FIFA World Cup for free from anywhere in the world.</description>
+    </item>
+    <item>
+      <title>The best hookup apps for 2026: I swiped until my thumb hurt</title>
+      <link>https://mashable.com/roundup/best-hookup-apps-2026</link>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03sRx1yuBDqh99mwiCwW8zu</guid>
+      <description>Are you single? We tested the best hookup apps to help you find a summer fling, situationship, or whatever else you wanna call it.</description>
+    </item>
+    <item>
+      <title>Ryanair is under investigation over charging parents to sit with their kids</title>
+      <link>https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee</link>
+      <pubDate>2026-06-11T04:59:16-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=948244</guid>
+      <description>European economy airline Ryanair is under investigation in the UK for charging parents mandatory fees to sit with their children. The Competition and Markets Authority (CMA) said it was looking into whether the seating fees, which may be charging parents for the airline to meet its child safety and disability&#8209;related obligations, are "unfair" under consumer [&#8230;]...</description>
+    </item>
+    <item>
+      <title>How the UK is tackling industrialized crypto fraud</title>
+      <link>https://www.techradar.com/pro/how-the-uk-is-tackling-industrialized-crypto-fraud</link>
+      <pubDate>Thu, 11 Jun 2026 08:56:50 +0000</pubDate>
+      <guid isPermaLink="false">tQ3SZoKmquBWYfxupiMtw</guid>
+      <description>Crypto fraud has industrialized. The UK is showing how enforcement can keep up.</description>
+    </item>
+    <item>
+      <title>&#171;&#160;Votre consommation internet &#224; l&#8217;&#233;tranger atteint 60 euros&#160;&#187; : attention au pi&#232;ge du hors forfait chez ces trois op&#233;rateurs</title>
+      <link>https://www.frandroid.com/telecom/3135579_votre-consommation-internet-a-letranger-atteint-60-euros-attention-au-piege-du-hors-forfait-chez-ces-trois-operateurs</link>
+      <pubDate>Thu, 11 Jun 2026 08:54:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/telecom/3135579_votre-consommation-internet-a-letranger-atteint-60-euros-attention-au-piege-du-hors-forfait-chez-ces-trois-operateurs</guid>
+      <description>
+&#192; quelques semaines des vacances d'&#233;t&#233;, Cdiscount Mobile, NRJ Mobile et Auchan T&#233;l&#233;com ont discr&#232;tement modifi&#233; leurs conditions g&#233;n&#233;rales d'utilisation, notamment autour du hors forfait r&#233;alis&#233; &#224; l'&#233;tranger. D&#233;sormais, la connexion internet n'est plus bloqu&#233;e lorsque l'enveloppe de data allou&#233;e est vide.
+</description>
+    </item>
+    <item>
+      <title>The Braun IPL Silk Expert Pro 5 has dropped to its best-ever price</title>
+      <link>https://mashable.com/tech/june-11-braun-ipl-silk-expert-pro-5-deal</link>
+      <pubDate>Thu, 11 Jun 2026 08:53:47 +0000</pubDate>
+      <guid isPermaLink="false">06J1MCsSN2LMqu6m8hgyrEl</guid>
+      <description>Save 13% on the Braun IPL Silk&#183;Expert at Amazon.</description>
+    </item>
+    <item>
+      <title>Il connecte son Whoop &#224; son agenda pour classer ses coll&#232;gues les plus stressants</title>
       <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/bracelets-connectes/3135443_il-connecte-son-bracelet-connecte-a-son-agenda-pour-classer-ses-collegues-les-plus-stressants</link>
-      <pubDate>Thu, 11 Jun 2026 05:43:40 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 08:50:15 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/bracelets-connectes/3135443_il-connecte-son-bracelet-connecte-a-son-agenda-pour-classer-ses-collegues-les-plus-stressants</guid>
       <description>
 Un d&#233;veloppeur a reli&#233; son bracelet Whoop &#224; son agenda pro pour savoir quel coll&#232;gue lui fait monter le rythme cardiaque. R&#233;sultat&#160;: un classement des r&#233;unions les plus stressantes.
 </description>
     </item>
     <item>
-      <title>&#171;&#8201;&#199;a ne peut plus continuer comme &#231;a&#8201;&#187;&#160;: face &#224; la crise, Xbox pr&#233;pare un &#233;ni&#232;me plan de licenciement</title>
-      <link>https://www.frandroid.com/marques/microsoft/3135441_ca-ne-peut-plus-continuer-comme-ca-face-a-la-crise-xbox-prepare-un-enieme-plan-de-licenciement</link>
-      <pubDate>Thu, 11 Jun 2026 05:42:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3135441_ca-ne-peut-plus-continuer-comme-ca-face-a-la-crise-xbox-prepare-un-enieme-plan-de-licenciement</guid>
+      <title>Tesla : la conduite autonome FSD autoris&#233;e en Belgique, &#224; quand le tour de la France ?</title>
+      <link>https://www.frandroid.com/marques/tesla/3135753_tesla-la-conduite-autonome-fsd-autorisee-en-belgique-a-quand-le-tour-de-la-france</link>
+      <pubDate>Thu, 11 Jun 2026 08:50:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3135753_tesla-la-conduite-autonome-fsd-autorisee-en-belgique-a-quand-le-tour-de-la-france</guid>
       <description>
-Tirant un bilan assez critique de sa situation sur le march&#233;, la division jeu vid&#233;o de chez Microsoft pr&#233;parerait un &#233;norme &#171; reset &#187; qui se traduirait d&#8217;abord et avant tout par un prochain plan de licenciement.
+Apr&#232;s le Danemark, c&#8217;est d&#233;sormais au tour de la Belgique d&#8217;autoriser la conduite autonome FSD de Tesla sur ses routes. Le pays devient ainsi le 5&#232;me &#224; approuver cette technologie, qui se rapproche de la France.
 </description>
     </item>
     <item>
-      <title>Il fait tourner une IA de 27 milliards de param&#232;tres chez lui pour 235 euros</title>
-      <link>https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3135427_il-fait-tourner-une-ia-de-27-milliards-de-parametres-chez-lui-pour-235-euros</link>
-      <pubDate>Thu, 11 Jun 2026 05:28:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3135427_il-fait-tourner-une-ia-de-27-milliards-de-parametres-chez-lui-pour-235-euros</guid>
+      <title>&#171;&#160;Trop rapide&#160;&#187;&#160;: pourquoi la BCE a bloqu&#233; les nouveaux produits de Revolut</title>
+      <link>https://www.frandroid.com/services/banque-en-ligne/3135459_trop-rapide-pourquoi-la-bce-a-bloque-les-nouveaux-produits-de-revolut</link>
+      <pubDate>Thu, 11 Jun 2026 08:46:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3135459_trop-rapide-pourquoi-la-bce-a-bloque-les-nouveaux-produits-de-revolut</guid>
       <description>
-Un blogueur a r&#233;ussi &#224; faire tourner un mod&#232;le d'IA de 27 milliards de param&#232;tres chez lui, pour 200 livres. Sa recette&#160;: une carte graphique de datacenter d&#233;tourn&#233;e, sans connecteur PCIe ni sortie &#233;cran.
+La Banque centrale europ&#233;enne a bloqu&#233; pendant des mois le lancement de nouveaux produits de Revolut dans l'Union, au motif que la fintech allait trop vite. 
 </description>
     </item>
     <item>
-      <title>LibreOffice slams rival Euro-Office as a 'de facto ally' of Microsoft lock-in &#8212; as concerns over possible Russian interference rise</title>
-      <link>https://www.techradar.com/pro/libreoffice-slams-rival-euro-office-as-a-de-facto-ally-of-microsoft-lock-in-as-concerns-over-possible-russian-interference-rise</link>
-      <pubDate>Thu, 11 Jun 2026 05:05:00 +0000</pubDate>
-      <guid isPermaLink="false">Bk4yibDjpsTjxgR6w6sedH</guid>
-      <description>LibreOffice slates Euro-Office for using Microsoft's proprietary OOXML format, as reports reveal its Russian dependency.</description>
-    </item>
-    <item>
-      <title>Decathlon &#244;te d&#233;j&#224; 400 &#8364; &#224; son nouveau VTTAE Stilus OffRoad+ offrant jusqu&#8217;&#224; 110 km d&#8217;autonomie</title>
-      <link>https://www.frandroid.com/bons-plans/3134291_decathlon-ote-deja-400-e-a-son-nouveau-vttae-stilus-offroad-offrant-jusqua-110-km-dautonomie</link>
-      <pubDate>Thu, 11 Jun 2026 05:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3134291_decathlon-ote-deja-400-e-a-son-nouveau-vttae-stilus-offroad-offrant-jusqua-110-km-dautonomie</guid>
+      <title>Windows 11 : Microsoft toucherait enfin &#224; son curseur de souris, inchang&#233; depuis des ann&#233;es</title>
+      <link>https://www.frandroid.com/marques/microsoft/3135581_windows-11-microsoft-toucherait-enfin-a-son-curseur-de-souris-inchange-depuis-des-annees</link>
+      <pubDate>Thu, 11 Jun 2026 08:45:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3135581_windows-11-microsoft-toucherait-enfin-a-son-curseur-de-souris-inchange-depuis-des-annees</guid>
       <description>
-Endurant, puissant et pens&#233; pour les randonn&#233;es, le VTT &#233;lectrique Decathlon Stilus OffRoad+ a &#233;t&#233; lanc&#233; il y a quelques mois. Mais on le trouve d&#233;j&#224; affich&#233; en promotion &#224; 1 799,99 euros au lieu de 2 199,99 euros sur le site officiel.
+Microsoft r&#233;fl&#233;chirait &#224; un nouveau design pour le curseur de la souris dans Windows 11, un &#233;l&#233;ment rest&#233; quasi inchang&#233; depuis des ann&#233;es.
 </description>
     </item>
     <item>
-      <title>Peacock Promo Codes: 40% Off June 2026</title>
-      <link>https://www.wired.com/story/peacock-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">674752c56e8c795eaf0c88ef</guid>
-      <description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-    </item>
-    <item>
-      <title>Nike Promo Codes and Discounts: 30% for June 2026</title>
-      <link>https://www.wired.com/story/nike-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6723f3d1fe9036abfe13c4d6</guid>
-      <description>Check out our deals for Nike this June 2026, including 15% off select purchases.</description>
-    </item>
-    <item>
-      <title>Home Depot Promo Codes: 50% Off in June 2026</title>
-      <link>https://www.wired.com/story/home-depot-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">682755a99198909d2f7f6652</guid>
-      <description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.</description>
-    </item>
-    <item>
-      <title>50% Off DoorDash Promo Code | June 2026</title>
-      <link>https://www.wired.com/story/doordash-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6740c6ad29e1604c90f59b4f</guid>
-      <description>Explore today&#8217;s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.</description>
-    </item>
-    <item>
-      <title>Dell Coupon Codes: 20% Off for June 2026</title>
-      <link>https://www.wired.com/story/dell-coupon-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67119320efb17e0b0a750c63</guid>
-      <description>Get 20% off with verified Dell promo code, plus today&#8217;s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
-    </item>
-    <item>
-      <title>Chewy Promo Codes: $20 Off June 2026</title>
-      <link>https://www.wired.com/story/chewy-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">674f80033ffc1b7f03c85b6b</guid>
-      <description>Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more June 2026 discounts.</description>
-    </item>
-    <item>
-      <title>30% VistaPrint Coupon &amp; Promo Codes | June 2026</title>
-      <link>https://www.wired.com/story/vistaprint-coupon-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">66e8704eec595f4f2617f9f8</guid>
-      <description>From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.</description>
-    </item>
-    <item>
-      <title>Newegg Promo Code: 10% Off in June 2026</title>
-      <link>https://www.wired.com/story/newegg-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">671bc281433273bdc6e673bc</guid>
-      <description>Enjoy up to 10% off your entire order with today&#8217;s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.</description>
-    </item>
-    <item>
-      <title>AT&amp;T Promo Codes: $50 Off This June 2026</title>
-      <link>https://www.wired.com/story/att-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67bccc2de807ab74e8f0139a</guid>
-      <description>Whether you&#8217;re looking to upgrade your internet or get the latest phone, we&#8217;ve got you covered with our selection of AT&amp;T coupons and deals.</description>
-    </item>
-    <item>
-      <title>Squarespace Promo Codes: 20% Off in June 2026</title>
-      <link>https://www.wired.com/story/squarespace-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67180b58052c3d17e85f7da4</guid>
-      <description>Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.</description>
-    </item>
-    <item>
-      <title>30% Off Samsung Promo Code | June 2026</title>
-      <link>https://www.wired.com/story/samsung-promo-codes/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6682a4c73029f65bb234b2d6</guid>
-      <description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
-    </item>
-    <item>
-      <title>Dyson Promo Codes: 25% Off in June 2026</title>
-      <link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code/</link>
-      <pubDate>Thu, 11 Jun 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">66f197b41b1d2e8dde4bb52f</guid>
-      <description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-    </item>
-    <item>
-      <title>Why being lazy is a superpower</title>
-      <link>https://www.fastcompany.com/91555894/why-being-lazy-is-a-superpower</link>
-      <pubDate>2026-06-11T05:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91555894/why-being-lazy-is-a-superpower</guid>
-      <description>Research suggests that strategic breaks  can improve problem-solving and increase long-term productivity.
-There&#8217;s an art to doing nothing and I have spent years trying to perfect it.</description>
-    </item>
-    <item>
-      <title>Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing</title>
-      <link>https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/</link>
-      <pubDate>Thu, 11 Jun 2026 04:02:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132032</guid>
-      <description>The decision comes as India emerges as the world&#8217;s largest GCC market.</description>
-    </item>
-    <item>
-      <title>How to watch South Korea vs. Czechia online for free</title>
-      <link>https://mashable.com/entertainment/south-korea-czechia-fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Thu, 11 Jun 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">01jFtRfWmokcACatnOIVF5E</guid>
-      <description>How to watch World Cup for free. Live stream South Korea vs. Czechia in the 2026 FIFA World Cup for free.</description>
+      <title>Puissante et confortable, cette trottinette avec moteur 1350 W et suspension int&#233;grale avant/arri&#232;re tombe &#224; 629 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3135567_puissante-et-confortable-cette-trottinette-avec-moteur-1350-w-et-suspension-integrale-avant-arriere-tombe-a-629-e</link>
+      <pubDate>Thu, 11 Jun 2026 08:45:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3135567_puissante-et-confortable-cette-trottinette-avec-moteur-1350-w-et-suspension-integrale-avant-arriere-tombe-a-629-e</guid>
+      <description>
+La Navee ST5 Pro est une trottinette &#233;lectrique haut de gamme qui succ&#232;de &#224; la ST3 Pro sortie au printemps 2025, &#224; retrouver en promo pour 629,10 euros au lieu de 799 euros sur Amazon.
+</description>
     </item>
   </channel>
 </rss>
