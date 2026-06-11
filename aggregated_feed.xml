@@ -3,232 +3,176 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 11 Jun 2026 18:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 21:24:06 GMT</lastBuildDate>
     <item>
-      <title>Microsoft&#8217;s open-source SkillOpt automatically upgrades AI agent skills without touching model weights</title>
-      <link>https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights</link>
-      <pubDate>Thu, 11 Jun 2026 23:37:00 GMT</pubDate>
-      <guid isPermaLink="false">3nitXO6za8dFMY0uqmHoEG</guid>
-      <description>Agent skills have become an important part of real-world AI applications, providing a mechanism &#8212; a set of instructions saved in a folder of text-based markdown (.md) files, usually &#8212; for models to adapt to specific enterprise use cases and complex workflows. However, optimizing these skills is a slow process and faulty process, as they cannot be trained in the same way as the parameters of the underlying AI model. Instead, users typically must update them manually by retyping the instructions in each file, playing a "guessing game" as to what changes might improve agentic AI performance and r...</description>
+      <title>Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet</title>
+      <link>https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/</link>
+      <pubDate>Thu, 11 Jun 2026 21:21:04 +0000</pubDate>
+      <guid isPermaLink="false">6a26e1dce083d018dff70bb1</guid>
+      <description>Thibault Sottiaux helped make AI coding one of OpenAI&#8217;s fastest-growing businesses. Now he&#8217;s overseeing a sweeping overhaul of ChatGPT.</description>
     </item>
     <item>
-      <title>Cette cam&#233;ra n&#8217;a besoin ni de Google ni d&#8217;Amazon et c&#8217;est sa force : j&#8217;ai test&#233; la Tycam Home</title>
-      <link>https://www.frandroid.com/test/3091269_test-tycam-home-la-camera-de-surveillance-en-circuit-ferme-pour-votre-domicile</link>
-      <pubDate>Thu, 11 Jun 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/test/3091269_test-tycam-home-la-camera-de-surveillance-en-circuit-ferme-pour-votre-domicile</guid>
+      <title>The great AI Irony: China cracks down on Western models while US companies flock to DeepSeek</title>
+      <link>https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek</link>
+      <pubDate>Thu, 11 Jun 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">zChtCt6ZD32zQ5NepFmBnW</guid>
+      <description>China is taking a hard-hitting approach to foreign AI and chipmakers, even as Western nations continue to embrace DeepSeek as a cheaper alternative</description>
+    </item>
+    <item>
+      <title>How to watch South Korea vs Czechia: Free Streams &amp; TV Channels online from anywhere for FIFA World Cup 2026</title>
+      <link>https://www.techradar.com/how-to-watch/football/how-to-watch-south-korea-vs-czechia-world-cup-2026-free</link>
+      <pubDate>Thu, 11 Jun 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">kcVze3S9C6CvdNVCKZx7ef</guid>
+      <description>Here's how to watch South Korea vs Czechia for free online and from anywhere in Group A of the FIFA World Cup 2026.</description>
+    </item>
+    <item>
+      <title>Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok</title>
+      <link>https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/</link>
+      <pubDate>Thu, 11 Jun 2026 20:50:13 +0000</pubDate>
+      <guid isPermaLink="false">6a2ab3bfc33929cf4244d6d2</guid>
+      <description>Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors.</description>
+    </item>
+    <item>
+      <title>A US Army Apache helicopter went down near the Strait of Hormuz &#8212; an uncrewed drone boat made history by saving its crew</title>
+      <link>https://www.techradar.com/pro/a-us-army-apache-helicopter-went-down-near-the-strait-of-hormuz-an-uncrewed-drone-boat-made-history-by-saving-its-crew</link>
+      <pubDate>Thu, 11 Jun 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="false">6oTgcZjyxX8hgLrx2q8W6V</guid>
+      <description>A US Navy drone boat rescued two Apache helicopter crew members near the Strait of Hormuz in a historic first.</description>
+    </item>
+    <item>
+      <title>SpaceX IPO update: Latest SPCX stock price, trading start time for closely watched Nasdaq debut</title>
+      <link>https://www.fastcompany.com/91558140/spacex-spcx-stock-price-ipo-trading-start-time-nasdaq-debut</link>
+      <pubDate>2026-06-11T20:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91558140/spacex-spcx-stock-price-ipo-trading-start-time-nasdaq-debut</guid>
+      <description>Elon Musk&#8217;s rocket company is in its final countdown, and the anticipation is hitting a fever pitch from Wall Street to Main Street.
+From Wall Street to Main Street, Elon Musk&#8217;s hotly anticipated SpaceX initial public offering (IPO) tomorrow has hit a fever-pitch with anyone, and everyone, buzzing about it in superlatives: Blockbuster. Record-breaking. Earth-shattering, Blastoff IPO....</description>
+    </item>
+    <item>
+      <title>SpaceX officially prices shares at $135 in the largest IPO ever</title>
+      <link>https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/</link>
+      <pubDate>Thu, 11 Jun 2026 20:33:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132274</guid>
+      <description>Wits its official share pricing announcement, SpaceX's IPO has begun.</description>
+    </item>
+    <item>
+      <title>El Ni&#241;o is here&#8212;and it will  &#8216;pour fuel on the fire of a warming world&#8217;</title>
+      <link>https://www.fastcompany.com/91558190/super-el-nino-2026-historic-climate-pattern-is-here-what-it-means</link>
+      <pubDate>2026-06-11T20:31:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91558190/super-el-nino-2026-historic-climate-pattern-is-here-what-it-means</guid>
+      <description>NOAA scientists say the climate pattern is likely to be one of the strongest on record. It could lead to drought, floods, fires, and more.
+El Ni&#241;o is officially here&#8212;and it could be one of the strongest in our National Oceanic and Atmospheric Administration&#8217;s historic record.</description>
+    </item>
+    <item>
+      <title>Oracle warns of security bug that hackers abused to breach 100+ companies</title>
+      <link>https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/</link>
+      <pubDate>Thu, 11 Jun 2026 20:27:25 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132251</guid>
+      <description>The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.</description>
+    </item>
+    <item>
+      <title>The top 3 secrets of innovation that nobody talks about</title>
+      <link>https://www.fastcompany.com/91556730/the-top-3-secrets-of-innovation-that-nobody-talks-about</link>
+      <pubDate>2026-06-11T20:22:47</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91556730/the-top-3-secrets-of-innovation-that-nobody-talks-about</guid>
+      <description>It requires discipline and a willingness to take risks.
+&#8220;Innovation&#8221; is starting to become a buzzword. From keynote speeches to strategic plans, we hear the word thrown around so often that it now risks losing its meaning. If you were to ask 10 executives to define innovation, you&#8217;ll get 10 different answers, most of them vague and unhelpful.</description>
+    </item>
+    <item>
+      <title>All of Apples iPads are on sale ahead of Prime Day, but were waiting for bigger savings</title>
+      <link>https://mashable.com/tech/best-early-prime-day-ipad-deals-2026</link>
+      <pubDate>Thu, 11 Jun 2026 20:21:26 +0000</pubDate>
+      <guid isPermaLink="false">05Cz3E2qAQwOi1ctwFauiWZ</guid>
+      <description>Prime Day is June 23 to 26, but early deals are here. We rounded up the best deals on Apple iPads to shop ahead of the sale.</description>
+    </item>
+    <item>
+      <title>La batterie solide arrive enfin chez Stellantis gr&#226;ce &#224; la Dodge Charger &#233;lectrique vendue en Europe</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3136963_la-batterie-solide-arrive-enfin-chez-stellantis-grace-a-la-dodge-charger-electrique-vendue-en-europe</link>
+      <pubDate>Thu, 11 Jun 2026 20:13:16 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3136963_la-batterie-solide-arrive-enfin-chez-stellantis-grace-a-la-dodge-charger-electrique-vendue-en-europe</guid>
       <description>
-Lorsqu'une cam&#233;ra connect&#233;e d&#233;barque avec la promesse d&#8217;un &#233;cosyst&#232;me propri&#233;taire mais sur lequel le client a la main, forc&#233;ment nous y trouvons de l'int&#233;r&#234;t. C&#8217;est la toute la promesse de la Tycam Home que nous avons pu tester.&#160;
+Apr&#232;s des ann&#233;es de promesses et de d&#233;monstrations en laboratoire, la batterie lithium-m&#233;tal semi-solide de Factorial tourne enfin dans un vrai v&#233;hicule Stellantis. Une &#233;tape concr&#232;te, mais qui reste une &#233;tape dans un chemin encore long. Un chemin que m&#234;me les fabricants chinois les plus avanc&#233;s peinent &#224; voir le bout.
 </description>
     </item>
     <item>
-      <title>Blink&#8217;s six-piece outdoor camera kit is a great deal under $200</title>
-      <link>https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale</link>
-      <pubDate>2026-06-11T14:04:43-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=948459</guid>
-      <description>You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that&#8217;s marked down to $166.99. The bundle includes a Blink Battery Doorbell 2K+, five Blink Outdoor 2K+ cameras, and a Blink Sync Module Core. The doorbell is typically [&#8230;]</description>
+      <title>Get a monitor mount for under $20 with this exclusive discount code</title>
+      <link>https://mashable.com/tech/june-11-huanuo-flowlift-pro-monitor-arm-deal</link>
+      <pubDate>Thu, 11 Jun 2026 20:03:42 +0000</pubDate>
+      <guid isPermaLink="false">00Cn07Ut4O0h2pUnSAtL3nw</guid>
+      <description>Mashable readers get an exclusive code to save on the HUANUO FlowLift Pro Monitor Arm at Amazon.</description>
     </item>
     <item>
-      <title>We all hate ads on today's smart TVs, but a report says they're a big part of why TV prices haven't had to rise as a result of the memory crisis &#8212; so if you're upgrading your set for the World Cup, say thanks to advertisers, I guess</title>
-      <link>https://www.techradar.com/televisions/we-all-hate-ads-on-todays-smart-tvs-but-a-report-says-theyre-a-big-part-of-why-tv-prices-havent-had-to-rise</link>
-      <pubDate>Thu, 11 Jun 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">av6Ek6TwTSLPyPqMGz6ARG</guid>
-      <description>TVs aren't immune from the electronics component crisis &#8211;but manufacturers had already given up on making money from hardware</description>
+      <title>Logitech&#8217;s awesome MX Master 3S mouse drops to under $100</title>
+      <link>https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal</link>
+      <pubDate>2026-06-11T16:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=948204</guid>
+      <description>The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we&#8217;ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a unique second scroll wheel near the left thumb that&#8217;s surprisingly useful for horizontal scrolling in spreadsheets. You [&#8230;]</description>
     </item>
     <item>
-      <title>Toys for Bob dev says the team tried to capture 'the feeling that we fell in love with' when developing Spyro: A Realm Beyond instead of worrying about features first</title>
-      <link>https://www.techradar.com/gaming/toys-for-bob-dev-says-the-team-tried-to-capture-the-feeling-that-we-fell-in-love-with-when-developing-spyro-a-realm-beyond-instead-of-worrying-about-features-first</link>
-      <pubDate>Thu, 11 Jun 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NhZJteohakA2BeQK9Nh4GK</guid>
-      <description>Toys for Bob focused on recapturing how the team felt about the Spyro series when making A Realm Beyond, rather than worrying about which features to include.</description>
+      <title>Here&#8217;s how much the 2026 World Cup will cost companies in lost employee productivity&#8212;the number is staggering</title>
+      <link>https://www.fastcompany.com/91557420/fifa-world-cup-2026-how-much-it-will-cost-companies-in-lost-employee-productivity</link>
+      <pubDate>2026-06-11T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557420/fifa-world-cup-2026-how-much-it-will-cost-companies-in-lost-employee-productivity</guid>
+      <description>An estimated 5 billion people globally will watch the games, and some are already planning &#8220;sick days&#8221; to do so, says a new survey.
+The 2026 FIFA World Cup kicks off Thursday, June 11 to much fanfare, but one thing companies may not have considered is just how much it will cost them in lost productivity. And that number is staggering.</description>
     </item>
     <item>
-      <title>Waymo's monthly membership seems like a bad deal</title>
-      <link>https://www.engadget.com/2192435/waymos-monthly-membership-seems-like-a-bad-deal/</link>
-      <pubDate>Thu, 11 Jun 2026 17:54:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2192435/waymos-monthly-membership-seems-like-a-bad-deal/</guid>
-      <description>Waymo will happily relieve you of $30 a month in exchange for not a whole lot.</description>
+      <title>How to watch Canada vs. Bosnia and Herzegovina online for free</title>
+      <link>https://mashable.com/entertainment/canada-bosnia-and-herzegovina-fifa-world-cup-2026-live-stream-for-free</link>
+      <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04XPLnAGmYos3P4RrjBCd81</guid>
+      <description>How to watch World Cup for free. Live stream Canada vs. Bosnia and Herzegovina in the 2026 FIFA World Cup for free.</description>
     </item>
     <item>
-      <title>Norton VPN dropped its price just in time for the World Cup &#8212; secure your stream for less than $4 a month</title>
-      <link>https://www.techradar.com/vpn/vpn-services/norton-vpn-dropped-its-price-just-in-time-for-the-world-cup-secure-your-stream-for-less-than-usd4-a-month</link>
-      <pubDate>Thu, 11 Jun 2026 17:45:14 +0000</pubDate>
-      <guid isPermaLink="false">4MFTC6qfekCQSEMjHZJtXK</guid>
-      <description>Score big with Norton VPN's World Cup price drop</description>
+      <title>SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-ups lift</title>
+      <link>https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/</link>
+      <pubDate>Thu, 11 Jun 2026 19:58:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132124</guid>
+      <description>After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.</description>
     </item>
     <item>
-      <title>Roborock&amp;#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date</title>
-      <link>https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale</link>
-      <pubDate>2026-06-11T13:42:29-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=948529</guid>
-      <description>Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That&#8217;s especially true today. It&#8217;s down to just $269.99 ($280 off) at Wellbots when you apply promo code NEW10, which matches its all-time low and is the best price [&#8230;]</description>
-    </item>
-    <item>
-      <title>Meta&#8217;s Edits app is getting an AI assistant and a desktop version</title>
-      <link>https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/</link>
-      <pubDate>Thu, 11 Jun 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3131817</guid>
-      <description>By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.</description>
-    </item>
-    <item>
-      <title>Reddit now lets you post videos in comments</title>
-      <link>https://www.engadget.com/2192400/reddit-now-lets-you-post-videos-in-comments/</link>
-      <pubDate>Thu, 11 Jun 2026 17:28:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2192400/reddit-now-lets-you-post-videos-in-comments/</guid>
-      <description>Reddit comments now allow videos.</description>
-    </item>
-    <item>
-      <title>Amazon&amp;#8217;s data centers used 2.5 billion gallons of water last year</title>
-      <link>https://www.theverge.com/tech/948534/amazon-data-centers-water-use</link>
-      <pubDate>2026-06-11T13:26:57-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=948534</guid>
-      <description>Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Philips Skylight lets you recreate natural daylight anywhere in your home</title>
-      <link>https://www.engadget.com/2192393/the-philips-skylight-lets-you-recreate-natural-daylight-anywhere-in-your-home/</link>
-      <pubDate>Thu, 11 Jun 2026 17:24:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2192393/the-philips-skylight-lets-you-recreate-natural-daylight-anywhere-in-your-home/</guid>
-      <description>The Philips Skylight recreates natural daylight indoors, but we may not be able to buy it in the US.</description>
-    </item>
-    <item>
-      <title>Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit</title>
-      <link>https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit</link>
-      <pubDate>Thu, 11 Jun 2026 17:23:57 GMT</pubDate>
-      <guid isPermaLink="false">677aKJABkhQUjl8CFpFfmD</guid>
-      <description>Context windows are becoming a computational bottleneck. The longer an agent runs, the more tokens accumulate from retrieved documents, reasoning traces and conversation history, and the more memory and compute that growing context demands. Most existing solutions either degrade model accuracy, require the full context to load before compression begins, or produce memory savings that don't translate into real speedups in standard serving infrastructure.A research team from NYU, Columbia, Princeton, University of Maryland, Harvard and Lawrence Livermore National Laboratory published a paper thi...</description>
-    </item>
-    <item>
-      <title>The bill that would let Jimmy Kimmel sue Brendan Carr is here</title>
-      <link>https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship</link>
-      <pubDate>2026-06-11T13:23:02-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=948525</guid>
-      <description>Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whether the platform actually does it. Senate Commerce Committee Chair Ted Cruz (R-TX) and Sen. Ron Wyden (D-OR) introduced the JAWBONE Act on [&#8230;]</description>
-    </item>
-    <item>
-      <title>Microsoft limits employee use of Claude Fable 5 over data retention concerns</title>
-      <link>https://www.techradar.com/pro/microsoft-limits-employee-use-of-claude-fable-5-over-data-retention-concerns</link>
-      <pubDate>Thu, 11 Jun 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="false">AqiazXDkF39hSXWA8vXTAb</guid>
-      <description>Fable 5's data retention policy mandates 30 days' storage, or up to two years for flagged content, but Microsoft has concerns.</description>
-    </item>
-    <item>
-      <title>Here are the price-matching policies for Best Buy, GameStop, and others</title>
-      <link>https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft</link>
-      <pubDate>2026-06-11T13:14:28-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft</guid>
-      <description>Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That&#8217;s why, in order to keep customers happy and prevent them from shopping elsewhere, some retailers offer [&#8230;]</description>
-    </item>
-    <item>
-      <title>I filtered the early Amazon Prime Day 3D printer deals down to our 4.5-star workshop-tested winners</title>
-      <link>https://www.techradar.com/pro/i-filtered-the-early-amazon-prime-day-3d-printer-deals-down-to-our-4-5-star-workshop-tested-winners</link>
-      <pubDate>Thu, 11 Jun 2026 17:12:59 +0000</pubDate>
-      <guid isPermaLink="false">ELnZuHLhp6g7W8oBxH7aLR</guid>
-      <description>I found our top-performing 3D printers from Elegoo, Creality, Anycubic, and Bambu Lab all on sale right now.</description>
-    </item>
-    <item>
-      <title>Reddit rolls out video comments</title>
-      <link>https://mashable.com/tech/reddit-video-in-comments</link>
-      <pubDate>Thu, 11 Jun 2026 17:08:17 +0000</pubDate>
-      <guid isPermaLink="false">07jXbZ2xaiNb62wVO7QzYCk</guid>
-      <description>Reddit users can now reply to posts with video.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26 Ultra, MacBook Neo et Asus ROG Ally X&#160;: les incontournables tech du jour &#224; prix cass&#233;s &#8212; meilleurs bons plans</title>
-      <link>https://www.frandroid.com/bons-plans/3136989_samsung-galaxy-s26-ultra-macbook-neo-et-asus-rog-ally-x-les-incontournables-tech-du-jour-a-prix-casses-meilleurs-bons-plans</link>
-      <pubDate>Thu, 11 Jun 2026 17:08:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3136989_samsung-galaxy-s26-ultra-macbook-neo-et-asus-rog-ally-x-les-incontournables-tech-du-jour-a-prix-casses-meilleurs-bons-plans</guid>
+      <title>J&#8217;ai essay&#233; un cadre photo qui parle et c&#8217;&#233;tait bizarre</title>
+      <link>https://www.frandroid.com/events/ces/3137383_jai-essaye-un-cadre-photo-qui-parle-et-cetait-bizarre</link>
+      <pubDate>Thu, 11 Jun 2026 19:45:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/events/ces/3137383_jai-essaye-un-cadre-photo-qui-parle-et-cetait-bizarre</guid>
       <description>
-Ce jeudi 11&#160;juin&#160;2026, les meilleures promotions concernent trois produits stars des cat&#233;gories smartphone, ordinateur portable et console portable. 
+C'est le concept le plus bizarre qu'il m'ait &#233;t&#233; donn&#233; de voir ces derniers mois. Un tableau qui parle. 
 </description>
     </item>
     <item>
-      <title>J&#8217;ai transform&#233; une liseuse en tableau de bord pour ma maison connect&#233;e, sans &#233;crire une ligne de code</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/3135519_jai-transforme-une-liseuse-en-tableau-de-bord-pour-ma-maison-connectee-sans-ecrire-une-ligne-de-code</link>
-      <pubDate>Thu, 11 Jun 2026 17:06:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/3135519_jai-transforme-une-liseuse-en-tableau-de-bord-pour-ma-maison-connectee-sans-ecrire-une-ligne-de-code</guid>
-      <description>
-Construire ses tableaux de bord &#224; la main, puis les maintenir, c'est le second mur de Home Assistant, celui qui d&#233;courage juste apr&#232;s l'installation. Je les ai dict&#233;s au lieu de les coder, et je me suis offert un &#233;cran sur mesure.
-</description>
+      <title>Scientists call it a &#8216;tragic loss.&#8217; Why the U.S. is shutting down a major ocean monitoring network</title>
+      <link>https://www.fastcompany.com/91557901/scientists-call-it-a-tragic-loss-why-the-u-s-is-shutting-down-a-major-ocean-monitoring-network</link>
+      <pubDate>2026-06-11T19:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557901/scientists-call-it-a-tragic-loss-why-the-u-s-is-shutting-down-a-major-ocean-monitoring-network</guid>
+      <description>Scientists warn the loss of real-time ocean data could make it harder to track marine heat waves, changing currents, and extreme weather.
+The Ocean Observatories Initiative (OOI), a network that provides access to real-time ocean data that is relied on by scientists, researchers, and students, is being restructured with major cuts eliminating most of the project&#8217;s ocean monitoring efforts.&#160;...</description>
     </item>
     <item>
-      <title>OpenAI may slash subscription prices to compete with Anthropic</title>
-      <link>https://mashable.com/tech/open-ai-subscription-price-drop</link>
-      <pubDate>Thu, 11 Jun 2026 17:05:31 +0000</pubDate>
-      <guid isPermaLink="false">01jcspfUMlNJzXVFp44znZq</guid>
-      <description>OpenAI executives are rumored to be slashing prices of tokens as the company moves toward public status.</description>
+      <title>Bluesky launches group chats, as company shifts focus to community features</title>
+      <link>https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/</link>
+      <pubDate>Thu, 11 Jun 2026 19:41:05 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132229</guid>
+      <description>Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.</description>
     </item>
     <item>
-      <title>J&#8217;ai mis dix ans &#224; oser Home Assistant : il m&#8217;a fallu quelques heures et une IA</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/3135465_jai-mis-dix-ans-a-oser-home-assistant-il-ma-fallu-quelques-heures-et-une-ia</link>
-      <pubDate>Thu, 11 Jun 2026 17:04:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/3135465_jai-mis-dix-ans-a-oser-home-assistant-il-ma-fallu-quelques-heures-et-une-ia</guid>
-      <description>
-Dix ans que Home Assistant me faisait peur. Quelques heures pour le monter, parce que cette fois, je ne l'ai pas fait seul.
-</description>
+      <title>Grok Is Still Hosting Sexualized Deepfakes of Famous Women</title>
+      <link>https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/</link>
+      <pubDate>Thu, 11 Jun 2026 19:41:01 +0000</pubDate>
+      <guid isPermaLink="false">6a2ac0383472ef5ff1e6988f</guid>
+      <description>A WIRED investigation found dozens of &#8220;nudified&#8221; deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.</description>
     </item>
     <item>
-      <title>Dave the Diver swims onto iOS and Android this August</title>
-      <link>https://www.engadget.com/2192366/dave-the-diver-swims-onto-ios-and-android-this-august/</link>
-      <pubDate>Thu, 11 Jun 2026 17:03:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2192366/dave-the-diver-swims-onto-ios-and-android-this-august/</guid>
-      <description>Underwater roguelite / restaurant management game Dave the Diver paddles onto mobile later this summer.</description>
+      <title>Are your hybrid meetings doing more harm than good? New survey finds many of us 'forget' about remote colleagues</title>
+      <link>https://www.techradar.com/pro/are-your-hybrid-meetings-doing-more-harm-than-good-new-survey-finds-many-of-us-forget-about-remote-colleagues</link>
+      <pubDate>Thu, 11 Jun 2026 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">uNPomiQQtoPHsYEfBpvuzU</guid>
+      <description>New study reveals hybrid meetings can isolate remote workers due to outdated technology and meeting fatigue.</description>
     </item>
     <item>
-      <title>Coinbase&#8217;s new tool can help agents trade and pay for premium research</title>
-      <link>https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/</link>
-      <pubDate>Thu, 11 Jun 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132125</guid>
-      <description>Coinbase's agent can use x402 protocol to get access to data and APIs.</description>
-    </item>
-    <item>
-      <title>Quantum Space&#8217;s military SPAC is trying to catch SpaceX&#8217;s IPO wave</title>
-      <link>https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/</link>
-      <pubDate>Thu, 11 Jun 2026 16:59:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3131148</guid>
-      <description>Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.</description>
-    </item>
-    <item>
-      <title>The Knicks historic comeback broke the internet</title>
-      <link>https://mashable.com/life/knicks-game-4-highlights-social-media-reacts</link>
-      <pubDate>Thu, 11 Jun 2026 16:53:42 +0000</pubDate>
-      <guid isPermaLink="false">01p2ML5UlPJQAoX06zCxmtt</guid>
-      <description>From OG Anunoby's game-winner to celebrity reactions and street celebrations, here are the biggest social media highlights from the Knicks' historic Game 4 comeback.</description>
-    </item>
-    <item>
-      <title>&#8216;We&#8217;ve used this feature for years&#8217;: Apple has ditched a fun Apple Watch feature from watchOS 27 &#8212; and some users are missing it already</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/weve-used-this-feature-for-years-apple-has-ditched-a-fun-apple-watch-feature-from-watchos-27-and-some-users-are-missing-it-already</link>
-      <pubDate>Thu, 11 Jun 2026 16:47:59 +0000</pubDate>
-      <guid isPermaLink="false">xLevGMHMLqjnepvXoGN4Hj</guid>
-      <description>Apple&#8217;s Walkie Talkie feature is missing from watchOS 27, and some Apple Watch users are upset.</description>
-    </item>
-    <item>
-      <title>Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and others</title>
-      <link>https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</link>
-      <pubDate>Thu, 11 Jun 2026 16:36:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132190</guid>
-      <description>Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.</description>
-    </item>
-    <item>
-      <title>The return-to-office mandate can actually work in your favor. Here&#8217;s why</title>
-      <link>https://www.fastcompany.com/91554710/return-office-mandate-actually-work-your-favor-heres-why</link>
-      <pubDate>2026-06-11T16:29:05</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91554710/return-office-mandate-actually-work-your-favor-heres-why</guid>
-      <description>I came back on my own terms: real connections, fewer hours, and zero patience for desk politics.
-First, a few companies asked (very nicely) for their employees to come in one day a week. Work from home folks, like me, thought to themselves:&#160;Well, okay. One day a week is cool. I can get out of my pajamas and see my work-folk.&#160;</description>
-    </item>
-    <item>
-      <title>Hackers are using TikTok videos offering 'free Spotify Premium' to spread malware and steal passwords</title>
-      <link>https://www.techradar.com/pro/security/hackers-are-using-tiktok-videos-offering-free-spotify-premium-to-spread-malware-and-steal-passwords</link>
-      <pubDate>Thu, 11 Jun 2026 16:20:00 +0000</pubDate>
-      <guid isPermaLink="false">KyiMnDdJEodaXo9D6zhJN8</guid>
-      <description>Videos advertising free subscriptions are leading victims away to download and install malware via command-line tools.</description>
-    </item>
-    <item>
-      <title>'Great job, scammers': Valve is officially done with Steam physical gift cards thanks to fraudsters &#8212; and it could be the start of a frustrating trend</title>
-      <link>https://www.techradar.com/gaming/great-job-scammers-valve-is-officially-done-with-steam-physical-gift-cards-thanks-to-fraudsters-and-it-could-be-the-start-of-a-frustrating-trend</link>
-      <pubDate>Thu, 11 Jun 2026 16:19:32 +0000</pubDate>
-      <guid isPermaLink="false">L7Wep2MGM7wDCPQScKTKzg</guid>
-      <description>Valve has taken a new stance on scammers taking advantage of consumers, and will no longer resupply physical Steam gift cards once stock runs dry.</description>
+      <title>Is It a Super El Ni&#241;o Year? It Could Turn the World&#8217;s Weather Upside Down</title>
+      <link>https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/</link>
+      <pubDate>Thu, 11 Jun 2026 19:24:46 +0000</pubDate>
+      <guid isPermaLink="false">6a2ae79ff2ca1e38fb0ba7d8</guid>
+      <description>From a wet winter in the Southwest to fewer Atlantic hurricanes, this is what to expect as a potential super El Ni&#241;o takes shape.</description>
     </item>
   </channel>
 </rss>
