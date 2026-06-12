@@ -3,128 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 12 Jun 2026 21:51:23 GMT</lastBuildDate>
-    <item>
-      <title>Google researchers introduce 'faithful uncertainty', allowing LLMs to offer best guesses instead of hallucinations</title>
-      <link>https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations</link>
-      <pubDate>Fri, 12 Jun 2026 21:27:29 GMT</pubDate>
-      <guid isPermaLink="false">1rMeLRKOzghotucnoKnDPv</guid>
-      <description>Large language models continue to struggle with hallucinations, presenting a major roadblock for real-world enterprise applications. Reducing these errors is a messy business, forcing model developers to navigate a strict tradeoff where eliminating factual errors often suppresses valid answers.In a new paper, Google researchers introduce the concept of "faithful uncertainty," a metacognitive technique that aligns a model's response with its internal confidence. This alignment allows the model to offer appropriately hedged hypotheses, such as "My best guess is," instead of defaulting to an unhe...</description>
-    </item>
-    <item>
-      <title>&#8216;Tell Him He&#8217;s a Piece of Shit&#8217;: Meta&#8217;s New AI Unit Is a Total Mess</title>
-      <link>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</link>
-      <pubDate>Fri, 12 Jun 2026 21:16:25 +0000</pubDate>
-      <guid isPermaLink="false">6a29a7d88b88eda4e0bec27f</guid>
-      <description>Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.</description>
-    </item>
-    <item>
-      <title>Say hello to Elon Musk's mega new SpaceX facility &#8212; an 11-million-square-foot Gigasat factory will look to build hardware for orbiting data centers, and targets 1 GW/year of space AI compute by late 2027</title>
-      <link>https://www.techradar.com/pro/say-hello-to-elon-musks-mega-new-spacex-facility-an-11-million-square-foot-gigasat-factory-will-look-to-build-hardware-for-orbiting-data-centers-and-targets-1-gw-year-of-space-ai-compute-by-late-2027</link>
-      <pubDate>Fri, 12 Jun 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">MDP972APYdNJ3pNu6FEKdT</guid>
-      <description>SpaceX unveils 11 million square foot Texas factory intended to build AI satellites supporting ambitious orbital computing plans.</description>
-    </item>
-    <item>
-      <title>'I think that combination of interior and exterior will create these moments that really live long after the player puts down the controller' &#8212; Alien: Isolation 2 is designed to 'really stay' with players and be 'unforgettable', says Creative Assembly</title>
-      <link>https://www.techradar.com/gaming/i-think-that-combination-of-interior-and-exterior-will-create-these-moments-that-really-live-long-after-the-player-puts-down-the-controller-alien-isolation-2-is-designed-to-really-stay-with-players-and-be-unforgettable-says-creative-assembly</link>
-      <pubDate>Fri, 12 Jun 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4ZfHPyH3Phoz255LtKcbcL</guid>
-      <description>Creative Assembly has said it was "absolutely the intention" for Alien: Isolation to feel "too scary" for players, and the goal is to make the sequel just as memorable.</description>
-    </item>
-    <item>
-      <title>How to watch USA vs Paraguay: Free Streams &amp; TV Channels online from anywhere as the co-hosts begin their World Cup adventure</title>
-      <link>https://www.techradar.com/how-to-watch/football/usa-vs-paraguay-world-cup-2026-free</link>
-      <pubDate>Fri, 12 Jun 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pYtiXsR4e4t9MHhJinSeuX</guid>
-      <description>Here's how to watch USA vs Paraguay for free online and from anywhere as the FIFA World Cup 2026 co-hosts begin their Group D campaign.</description>
-    </item>
-    <item>
-      <title>Timoth&#233;e Chalamet&#8217;s latest paycheck may have just cost him some fans</title>
-      <link>https://www.fastcompany.com/91559020/timothee-chalamets-latest-paycheck-may-have-just-cost-him-some-fans</link>
-      <pubDate>2026-06-12T21:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91559020/timothee-chalamets-latest-paycheck-may-have-just-cost-him-some-fans</guid>
-      <description>The actor is facing online criticism after appearing in a commercial for controversial prediction market platform Kalshi.
-Kalshi&#8217;s latest ad is betting on star power, but fans are not buying it.</description>
-    </item>
-    <item>
-      <title>Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google</title>
-      <link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
-      <pubDate>Fri, 12 Jun 2026 20:38:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132480</guid>
-      <description>The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.</description>
-    </item>
-    <item>
-      <title>A surprising pregnancy trend is alarming health experts</title>
-      <link>https://www.fastcompany.com/91559115/a-surprising-pregnancy-trend-is-alarming-health-experts</link>
-      <pubDate>2026-06-12T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91559115/a-surprising-pregnancy-trend-is-alarming-health-experts</guid>
-      <description>Alcohol use during pregnancy increased in recent years, despite warnings that no amount has been proven safe.
-Pregnant women are drinking more, according to a newly published report from the CDC.&#160;</description>
-    </item>
-    <item>
-      <title>SpaceX IPO closes up 19% and delivers the world&#8217;s first trillionaire</title>
-      <link>https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/</link>
-      <pubDate>Fri, 12 Jun 2026 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132393</guid>
-      <description>The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.</description>
-    </item>
-    <item>
-      <title>The AirPods Pro 3 are at a record-low price, plus more of the best AirPods deals ahead of Prime Day</title>
-      <link>https://mashable.com/tech/best-early-prime-day-airpods-deals-2026</link>
-      <pubDate>Fri, 12 Jun 2026 20:17:16 +0000</pubDate>
-      <guid isPermaLink="false">00RU7CN3lUnz1QfcyEuh3o2</guid>
-      <description>The AirPods Pro 3 are just $179 ahead of Prime Day, putting them $70 below their $249 list price. It's our top pick of the three early Prime Day AirPods deals we found.</description>
-    </item>
-    <item>
-      <title>From commodity to cultural catalyst: Fruit&#8217;s reinvention</title>
-      <link>https://www.fastcompany.com/91557425/from-commodity-to-cultural-catalyst-fruits-reinvention</link>
-      <pubDate>2026-06-12T20:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91557425/from-commodity-to-cultural-catalyst-fruits-reinvention</guid>
-      <description>As food and drink trends shift, consumers have a new appreciation for this nutritious ingredient.
-When you&#8217;ve worked in the food industry for as long as I have, you start to recognize when an ingredient stops being a supporting actor and becomes the main character.</description>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 23:21:17 GMT</lastBuildDate>
     <item>
       <title>SpaceX IPO: Live updates on everything you need to know</title>
       <link>https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/</link>
-      <pubDate>Fri, 12 Jun 2026 20:04:38 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 23:15:14 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3132276</guid>
       <description>TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.</description>
     </item>
     <item>
-      <title>Nothing CEO says phone prices are going to keep going up</title>
-      <link>https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices</link>
-      <pubDate>2026-06-12T16:02:48-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=949403</guid>
-      <description>If you're thinking about upgrading your phone, "the best time was yesterday," according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: "For Phone 4A , memory [&#8230;]</description>
+      <title>Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it</title>
+      <link>https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/</link>
+      <pubDate>Fri, 12 Jun 2026 23:00:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132623</guid>
+      <description>A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.</description>
     </item>
     <item>
-      <title>AeroPress has made the best manual coffee grinder I've ever used &#8212; and it's not even close</title>
-      <link>https://www.techradar.com/home/coffee-machines/aeropress-has-made-the-best-manual-coffee-grinder-ive-ever-used-and-its-not-even-close</link>
-      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NVcC2gp64Jsh8J4HuRtHxk</guid>
-      <description>This premium portable grinder doesn't just look great, it also grinds beautifully, however you prefer to make your coffee</description>
+      <title>NYT Connections hints and answers for Saturday, June 13 (game #1098)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-13-june-2026</link>
+      <pubDate>Fri, 12 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">84t5h3bsJGRp4pgnY8KTCk</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>One of the most useful Apple Wallet features arriving with iOS 27 is headed to Disney World later this year</title>
-      <link>https://www.techradar.com/phones/ios/one-of-the-most-useful-apple-wallet-features-arriving-with-ios-27-is-headed-to-disney-world-later-this-year</link>
-      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ZXieD7EtFpQgRvGcd2cgAi</guid>
-      <description>Apple teased several big updates coming to Wallet with iOS 27, and this fall Walt Disney World in Orlando, FL, will adopt the new enhanced keys upgrades to improve the current MagicMobile experience.</description>
+      <title>Quordle hints and answers for Saturday, June 13 (game #1601)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-13-june-2026</link>
+      <pubDate>Fri, 12 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">39TJ2yfybCcLFs8MDov75f</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
     <item>
-      <title>How to watch Qatar vs. Switzerland online for free</title>
-      <link>https://mashable.com/entertainment/qatar-switzerland-fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">04TOlU6bpBmioeNH7uzoXd1</guid>
-      <description>How to watch World Cup for free. Live stream Qatar vs. Switzerland in the 2026 FIFA World Cup for free.</description>
+      <title>NYT Strands hints and answers for Saturday, June 13 (game #832)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-13-june-2026</link>
+      <pubDate>Fri, 12 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">HgUhBpgqzDJiqosKH4JTZh</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
-      <title>The SpaceX IPO broke Robinhood for some people</title>
-      <link>https://www.engadget.com/2193459/the-spacex-ipo-broke-robinhood-for-some-people/</link>
-      <pubDate>Fri, 12 Jun 2026 19:54:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2193459/the-spacex-ipo-broke-robinhood-for-some-people/</guid>
-      <description>Some Robinhood users looking to cash in on the SpaceX IPO were met with technical issues.</description>
+      <title>Quote of the day by inventor of the World Wide Web, Tim Berners-Lee: "Data is a precious thing and will last longer than the systems themselves" &#8212; highlighting the longevity of data as a resource</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-inventor-of-the-world-wide-web-tim-berners-lee-data-is-a-precious-thing-and-will-last-longer-than-the-systems-themselves-highlighting-the-longevity-of-data-as-a-resource</link>
+      <pubDate>Fri, 12 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hmmpiJBFCifXPx9aqFimdJ</guid>
+      <description>One of the most esteemed scientists in the world reflects on how important data has become in the 21st century and the modern iteration of the internet</description>
+    </item>
+    <item>
+      <title>I've spent over 30 hours customizing my ship, recruiting crew members, collecting bounties, and combating aliens in Starfield on PS5, and I've still barely scratched the surface of Bethesda's sci-fi RPG</title>
+      <link>https://www.techradar.com/gaming/starfield-ps5-review</link>
+      <pubDate>Fri, 12 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7hPDorvNCUydUbnTALfFkQ</guid>
+      <description>Bethesda's spacefaring RPG finally has its definitive version on PlayStation 5.</description>
+    </item>
+    <item>
+      <title>Kimi K2.7-Code cuts thinking tokens 30% &#8212; but practitioners say the benchmarks don't check out</title>
+      <link>https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out</link>
+      <pubDate>Fri, 12 Jun 2026 21:55:22 GMT</pubDate>
+      <guid isPermaLink="false">6LezdGIZlQdYA7DZfA00mK</guid>
+      <description>Moonshot AI released Kimi K2.7-Code this week, an open-source update to its K2 coding model family, claiming leaner reasoning and double-digit performance gains.K2.7-Code is built on the same trillion-parameter mixture-of-experts architecture as its predecessor K2.6, and drops in via an OpenAI-compatible API &#8212; which matters for teams already running K2.6 in production gateways.When K2.6 launched in April, it topped OpenRouter's weekly LLM leaderboard &#8212; a ranking based on actual API routing decisions by developers, not self-reported benchmark scores.Moonshot AI says K2.7-Code addresses what it ...</description>
     </item>
   </channel>
 </rss>
