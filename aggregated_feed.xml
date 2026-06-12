@@ -3,135 +3,128 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 12 Jun 2026 19:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 21:51:23 GMT</lastBuildDate>
     <item>
-      <title>A major KPMG report on AI was found to be chock-full of...AI hallucinations</title>
-      <link>https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations</link>
-      <pubDate>Fri, 12 Jun 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ZHLohotCtJX3aFSy7Y6BfP</guid>
-      <description>GPTZero has been prompted to issue its second report revealing how a major report is full of fake, AI-generated citations.</description>
+      <title>Google researchers introduce 'faithful uncertainty', allowing LLMs to offer best guesses instead of hallucinations</title>
+      <link>https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations</link>
+      <pubDate>Fri, 12 Jun 2026 21:27:29 GMT</pubDate>
+      <guid isPermaLink="false">1rMeLRKOzghotucnoKnDPv</guid>
+      <description>Large language models continue to struggle with hallucinations, presenting a major roadblock for real-world enterprise applications. Reducing these errors is a messy business, forcing model developers to navigate a strict tradeoff where eliminating factual errors often suppresses valid answers.In a new paper, Google researchers introduce the concept of "faithful uncertainty," a metacognitive technique that aligns a model's response with its internal confidence. This alignment allows the model to offer appropriately hedged hypotheses, such as "My best guess is," instead of defaulting to an unhe...</description>
     </item>
     <item>
-      <title>The world&#8217;s first trillionaire is a killer</title>
-      <link>https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer</link>
-      <pubDate>2026-06-12T14:46:40-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=949259</guid>
-      <description>Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, [&#8230;]</description>
+      <title>&#8216;Tell Him He&#8217;s a Piece of Shit&#8217;: Meta&#8217;s New AI Unit Is a Total Mess</title>
+      <link>https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/</link>
+      <pubDate>Fri, 12 Jun 2026 21:16:25 +0000</pubDate>
+      <guid isPermaLink="false">6a29a7d88b88eda4e0bec27f</guid>
+      <description>Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.</description>
     </item>
     <item>
-      <title>Congress lets decades-old spying law lapse amid Trump's controversial DNI nomination</title>
-      <link>https://www.engadget.com/2193338/congress-lets-decades-old-spying-law-lapse-amid-trumps-controversial-dni-nomination/</link>
-      <pubDate>Fri, 12 Jun 2026 18:45:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2193338/congress-lets-decades-old-spying-law-lapse-amid-trumps-controversial-dni-nomination/</guid>
-      <description>Congress, afraid of empowering Bill Pulte, has allowed a decades-old spying law to lapse.</description>
+      <title>Say hello to Elon Musk's mega new SpaceX facility &#8212; an 11-million-square-foot Gigasat factory will look to build hardware for orbiting data centers, and targets 1 GW/year of space AI compute by late 2027</title>
+      <link>https://www.techradar.com/pro/say-hello-to-elon-musks-mega-new-spacex-facility-an-11-million-square-foot-gigasat-factory-will-look-to-build-hardware-for-orbiting-data-centers-and-targets-1-gw-year-of-space-ai-compute-by-late-2027</link>
+      <pubDate>Fri, 12 Jun 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">MDP972APYdNJ3pNu6FEKdT</guid>
+      <description>SpaceX unveils 11 million square foot Texas factory intended to build AI satellites supporting ambitious orbital computing plans.</description>
     </item>
     <item>
-      <title>BMW d&#233;voile la future M3 &#233;lectrique au Mans, et elle promet jusqu&#8217;&#224; 1 000 ch</title>
-      <link>https://www.frandroid.com/survoltes/3139323_bmw-devoile-la-future-m3-electrique-au-mans-et-elle-promet-jusqua-1-000-ch</link>
-      <pubDate>Fri, 12 Jun 2026 18:41:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3139323_bmw-devoile-la-future-m3-electrique-au-mans-et-elle-promet-jusqua-1-000-ch</guid>
-      <description>
-BMW a profit&#233; des 24 Heures du Mans pour montrer la M Concept Neue Klasse, un avant-go&#251;t tr&#232;s proche de la future M3 100&#160;% &#233;lectrique attendue en 2027.
-</description>
+      <title>'I think that combination of interior and exterior will create these moments that really live long after the player puts down the controller' &#8212; Alien: Isolation 2 is designed to 'really stay' with players and be 'unforgettable', says Creative Assembly</title>
+      <link>https://www.techradar.com/gaming/i-think-that-combination-of-interior-and-exterior-will-create-these-moments-that-really-live-long-after-the-player-puts-down-the-controller-alien-isolation-2-is-designed-to-really-stay-with-players-and-be-unforgettable-says-creative-assembly</link>
+      <pubDate>Fri, 12 Jun 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4ZfHPyH3Phoz255LtKcbcL</guid>
+      <description>Creative Assembly has said it was "absolutely the intention" for Alien: Isolation to feel "too scary" for players, and the goal is to make the sequel just as memorable.</description>
     </item>
     <item>
-      <title>SpaceX IPO: Live updates on everything you need to know</title>
-      <link>https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/</link>
-      <pubDate>Fri, 12 Jun 2026 18:36:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132276</guid>
-      <description>TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.</description>
+      <title>How to watch USA vs Paraguay: Free Streams &amp; TV Channels online from anywhere as the co-hosts begin their World Cup adventure</title>
+      <link>https://www.techradar.com/how-to-watch/football/usa-vs-paraguay-world-cup-2026-free</link>
+      <pubDate>Fri, 12 Jun 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">pYtiXsR4e4t9MHhJinSeuX</guid>
+      <description>Here's how to watch USA vs Paraguay for free online and from anywhere as the FIFA World Cup 2026 co-hosts begin their Group D campaign.</description>
     </item>
     <item>
-      <title>SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies</title>
-      <link>https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/</link>
-      <pubDate>Fri, 12 Jun 2026 18:20:50 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132393</guid>
-      <description>The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.</description>
+      <title>Timoth&#233;e Chalamet&#8217;s latest paycheck may have just cost him some fans</title>
+      <link>https://www.fastcompany.com/91559020/timothee-chalamets-latest-paycheck-may-have-just-cost-him-some-fans</link>
+      <pubDate>2026-06-12T21:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91559020/timothee-chalamets-latest-paycheck-may-have-just-cost-him-some-fans</guid>
+      <description>The actor is facing online criticism after appearing in a commercial for controversial prediction market platform Kalshi.
+Kalshi&#8217;s latest ad is betting on star power, but fans are not buying it.</description>
     </item>
     <item>
-      <title>Donald Trump&#8217;s White House UFC Event Would Be Embarrassing Anywhere</title>
-      <link>https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/</link>
-      <pubDate>Fri, 12 Jun 2026 18:03:25 +0000</pubDate>
-      <guid isPermaLink="false">6a2c04f787700be64322c5eb</guid>
-      <description>A Monster Energy&#8211;sponsored MMA show on the White House&#8217;s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.</description>
-    </item>
-    <item>
-      <title>De&#8217;Longhi&#8217;s bean-to-cup coffee machine makes &#8216;a cornucopia of coffees&#8217; &#8212; but, having tested it, I&#8217;ve found its hot and cold drinks are decent rather than exceptional</title>
-      <link>https://www.techradar.com/home/coffee-machines/delonghis-bean-to-cup-coffee-machine-makes-a-cornucopia-of-coffees-but-having-tested-it-ive-found-its-hot-and-cold-drinks-are-decent-rather-than-exceptional</link>
-      <pubDate>Fri, 12 Jun 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">SZiUgZ8qqBMHzmFaEAJeR4</guid>
-      <description>De&#8217;Longhi&#8217;s bean-to-cup coffee machine helped me whip up a huge variety of personalized coffees with ease. But its drinks unfortunately fall just a few inches short of greatness.</description>
-    </item>
-    <item>
-      <title>Only Murders in the Building season 6 guest stars are genius &#8212; but I can't believe that nobody's talking about the iconic comedy reunion that could be coming to Hulu and Disney+</title>
-      <link>https://www.techradar.com/streaming/hulu/only-murders-in-the-building-season-6-guest-stars-absolutely-fabulous</link>
-      <pubDate>Fri, 12 Jun 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">X4AXjYBseVfrzvmQr9FFuj</guid>
-      <description>Hulu and Disney+ have just announced the stacked guest star list for Only Murders in the Building season 6 &#8212; and two new cast members are already connected.</description>
-    </item>
-    <item>
-      <title>Spotify is giving one of its best playlists a big visual upgrade to give subscribers &#8216;a closer connection&#8217; to its New Music Friday curators &#8212; and I think it could be the update it&#8217;s always needed</title>
-      <link>https://www.techradar.com/audio/spotify/spotify-is-giving-one-of-its-best-playlists-a-big-visual-upgrade-to-give-subscribers-a-closer-connection-to-its-new-music-friday-curators-and-i-think-it-could-be-the-update-its-always-needed</link>
-      <pubDate>Fri, 12 Jun 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">i2hXfE5R9NeyqyLADGFr2f</guid>
-      <description>Spotify is rolling out videos to its New Music Friday playlist, spotlighting its editors new music recommendations.</description>
-    </item>
-    <item>
-      <title>&#8216;Ghost jobs&#8217; could soon be illegal in New York</title>
-      <link>https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york</link>
-      <pubDate>2026-06-12T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york</guid>
-      <description>New York state lawmakers recently passed a bill that could help address a major source of frustration for job seekers: listings for jobs that don&#8217;t actually exist. 
-If you&#8217;ve applied for countless jobs and rarely hear back, chances are you&#8217;ve encountered a phenomenon that has grown increasingly common: &#8220;ghost jobs.&#8221;&#160;</description>
-    </item>
-    <item>
-      <title>Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla&#8217;s Autopilot Safeguards</title>
-      <link>https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/</link>
-      <pubDate>Fri, 12 Jun 2026 17:57:34 +0000</pubDate>
-      <guid isPermaLink="false">6a2a0bcfc180b6c4375013e0</guid>
-      <description>A cottage industry of celebrity figurines, blinking screens, and other DIY gadgets is helping drivers bypass Tesla's distracted-driving controls.</description>
-    </item>
-    <item>
-      <title>Elon Musk Is the World&#8217;s First Trillionaire</title>
-      <link>https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/</link>
-      <pubDate>Fri, 12 Jun 2026 17:54:45 +0000</pubDate>
-      <guid isPermaLink="false">6a2c34bde35accd848d88e37</guid>
-      <description>SpaceX&#8217;s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth.</description>
-    </item>
-    <item>
-      <title>Mistral is rumored to be raising &#8364;3B at &#8364;20B valuation</title>
-      <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
-      <pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132412</guid>
-      <description>The funding round would value the company at around &#8364;20 billion (about $23.15 billion), nearly double its Series C valuation of &#8364;11.7 billion.</description>
-    </item>
-    <item>
-      <title>Google sues alleged Chinese cybercrime operation that used AI to send scam texts</title>
-      <link>https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/</link>
-      <pubDate>Fri, 12 Jun 2026 17:26:08 +0000</pubDate>
+      <title>Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google</title>
+      <link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
+      <pubDate>Fri, 12 Jun 2026 20:38:09 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3132480</guid>
       <description>The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.</description>
     </item>
     <item>
-      <title>Japanese electricity giant apologises after physical drive with data of 10.9 million clients goes missing</title>
-      <link>https://www.techradar.com/pro/japanese-electricity-giant-apologises-after-physical-drive-with-data-of-10-9-million-clients-goes-missing</link>
-      <pubDate>Fri, 12 Jun 2026 17:25:00 +0000</pubDate>
-      <guid isPermaLink="false">kEAsMbobFiYk8T3uPYKAwL</guid>
-      <description>Millions of clients have valuable data exposed after drive goes missing.</description>
+      <title>A surprising pregnancy trend is alarming health experts</title>
+      <link>https://www.fastcompany.com/91559115/a-surprising-pregnancy-trend-is-alarming-health-experts</link>
+      <pubDate>2026-06-12T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91559115/a-surprising-pregnancy-trend-is-alarming-health-experts</guid>
+      <description>Alcohol use during pregnancy increased in recent years, despite warnings that no amount has been proven safe.
+Pregnant women are drinking more, according to a newly published report from the CDC.&#160;</description>
     </item>
     <item>
-      <title>China Didn't Make People Hate Data Centers</title>
-      <link>https://www.wired.com/story/china-us-data-center-opposition/</link>
-      <pubDate>Fri, 12 Jun 2026 17:17:10 +0000</pubDate>
-      <guid isPermaLink="false">6a2b4c42b1abfefa3a87dfdb</guid>
-      <description>GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it&#8217;s much more complicated than that.</description>
+      <title>SpaceX IPO closes up 19% and delivers the world&#8217;s first trillionaire</title>
+      <link>https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/</link>
+      <pubDate>Fri, 12 Jun 2026 20:20:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132393</guid>
+      <description>The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.</description>
     </item>
     <item>
-      <title>Siri is good now??</title>
-      <link>https://www.theverge.com/podcast/949079/siri-ai-good-vergecast</link>
-      <pubDate>2026-06-12T13:17:04-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=949079</guid>
-      <description>You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between "sort of useful at a few things" and "utterly disastrous, why did I even try, can it honestly not even set a timer." But the wildest thing just happened: Apple put out a new version of [&#8230;]</description>
+      <title>The AirPods Pro 3 are at a record-low price, plus more of the best AirPods deals ahead of Prime Day</title>
+      <link>https://mashable.com/tech/best-early-prime-day-airpods-deals-2026</link>
+      <pubDate>Fri, 12 Jun 2026 20:17:16 +0000</pubDate>
+      <guid isPermaLink="false">00RU7CN3lUnz1QfcyEuh3o2</guid>
+      <description>The AirPods Pro 3 are just $179 ahead of Prime Day, putting them $70 below their $249 list price. It's our top pick of the three early Prime Day AirPods deals we found.</description>
+    </item>
+    <item>
+      <title>From commodity to cultural catalyst: Fruit&#8217;s reinvention</title>
+      <link>https://www.fastcompany.com/91557425/from-commodity-to-cultural-catalyst-fruits-reinvention</link>
+      <pubDate>2026-06-12T20:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91557425/from-commodity-to-cultural-catalyst-fruits-reinvention</guid>
+      <description>As food and drink trends shift, consumers have a new appreciation for this nutritious ingredient.
+When you&#8217;ve worked in the food industry for as long as I have, you start to recognize when an ingredient stops being a supporting actor and becomes the main character.</description>
+    </item>
+    <item>
+      <title>SpaceX IPO: Live updates on everything you need to know</title>
+      <link>https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/</link>
+      <pubDate>Fri, 12 Jun 2026 20:04:38 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132276</guid>
+      <description>TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.</description>
+    </item>
+    <item>
+      <title>Nothing CEO says phone prices are going to keep going up</title>
+      <link>https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices</link>
+      <pubDate>2026-06-12T16:02:48-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=949403</guid>
+      <description>If you're thinking about upgrading your phone, "the best time was yesterday," according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: "For Phone 4A , memory [&#8230;]</description>
+    </item>
+    <item>
+      <title>AeroPress has made the best manual coffee grinder I've ever used &#8212; and it's not even close</title>
+      <link>https://www.techradar.com/home/coffee-machines/aeropress-has-made-the-best-manual-coffee-grinder-ive-ever-used-and-its-not-even-close</link>
+      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NVcC2gp64Jsh8J4HuRtHxk</guid>
+      <description>This premium portable grinder doesn't just look great, it also grinds beautifully, however you prefer to make your coffee</description>
+    </item>
+    <item>
+      <title>One of the most useful Apple Wallet features arriving with iOS 27 is headed to Disney World later this year</title>
+      <link>https://www.techradar.com/phones/ios/one-of-the-most-useful-apple-wallet-features-arriving-with-ios-27-is-headed-to-disney-world-later-this-year</link>
+      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZXieD7EtFpQgRvGcd2cgAi</guid>
+      <description>Apple teased several big updates coming to Wallet with iOS 27, and this fall Walt Disney World in Orlando, FL, will adopt the new enhanced keys upgrades to improve the current MagicMobile experience.</description>
+    </item>
+    <item>
+      <title>How to watch Qatar vs. Switzerland online for free</title>
+      <link>https://mashable.com/entertainment/qatar-switzerland-fifa-world-cup-2026-live-stream-for-free</link>
+      <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04TOlU6bpBmioeNH7uzoXd1</guid>
+      <description>How to watch World Cup for free. Live stream Qatar vs. Switzerland in the 2026 FIFA World Cup for free.</description>
+    </item>
+    <item>
+      <title>The SpaceX IPO broke Robinhood for some people</title>
+      <link>https://www.engadget.com/2193459/the-spacex-ipo-broke-robinhood-for-some-people/</link>
+      <pubDate>Fri, 12 Jun 2026 19:54:23 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2193459/the-spacex-ipo-broke-robinhood-for-some-people/</guid>
+      <description>Some Robinhood users looking to cash in on the SpaceX IPO were met with technical issues.</description>
     </item>
   </channel>
 </rss>
