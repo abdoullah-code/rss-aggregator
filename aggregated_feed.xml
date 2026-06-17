@@ -3,294 +3,123 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 17 Jun 2026 18:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:11:46 GMT</lastBuildDate>
     <item>
-      <title>Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world</title>
-      <link>https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/</link>
-      <pubDate>Wed, 17 Jun 2026 18:20:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133848</guid>
-      <description>An alleged Russian-speaking group of cybercriminals are reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.</description>
+      <title>'A single cyber incident can lead to physical disruption, create safety hazards, or cause catastrophic downtime': Hackers target data center equipment, including critical power devices, in latest push to disrupt communities</title>
+      <link>https://www.techradar.com/pro/security/a-single-cyber-incident-can-lead-to-physical-disruption-create-safety-hazards-or-cause-catastrophic-downtime-hackers-target-data-center-equipment-including-critical-power-devices-in-latest-push-to-disrupt-communities</link>
+      <pubDate>Wed, 17 Jun 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">RnTgooEhpebyTe5deWs32Q</guid>
+      <description>Cybersecurity researchers found vulnerabilities in power and cooling systems inside data centers that could allow attackers to disrupt physical infrastructure operations</description>
     </item>
     <item>
-      <title>Meet Kali365 &#8212; the 'Amazon of cybercrime' where hackers use AI to completely circumvent multi-factor authentication</title>
-      <link>https://www.techradar.com/pro/meet-kali365-the-amazon-of-cybercrime-where-hackers-use-ai-to-completely-circumvent-multi-factor-authentication</link>
-      <pubDate>Wed, 17 Jun 2026 18:20:00 +0000</pubDate>
-      <guid isPermaLink="false">3TQ2FNepmP2KaHKXkWEM34</guid>
-      <description>Kali365 abuses the current OAuth device code flow on Microsoft accounts in a sophisticated attempt to dupe users into signing into their accounts</description>
+      <title>I rounded up the best Toy Story 5 toys and merch &#8212; these are the high-tech figures, Lego sets, and apparel worth buying</title>
+      <link>https://www.techradar.com/streaming/entertainment/i-rounded-up-the-best-toy-story-5-toys-and-merch-these-are-the-high-tech-figures-lego-sets-and-apparel-worth-buying</link>
+      <pubDate>Wed, 17 Jun 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jj79pPfNNVAYZL6cQQkR3V</guid>
+      <description>Toy Story 5 hits theaters June 19, and we've found the best toys, merch, and collectibles to shop before you see it</description>
     </item>
     <item>
-      <title>Social media&#8217;s next evolution: user-controlled algorithms</title>
-      <link>https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/</link>
-      <pubDate>Wed, 17 Jun 2026 18:19:48 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133770</guid>
-      <description>Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.</description>
+      <title>ChatGPT now has a hub for scheduled tasks</title>
+      <link>https://www.engadget.com/2196844/chatgpt-now-has-a-hub-for-scheduled-tasks/</link>
+      <pubDate>Wed, 17 Jun 2026 20:44:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2196844/chatgpt-now-has-a-hub-for-scheduled-tasks/</guid>
+      <description>TIL you can schedule prompts in ChatGPT.</description>
     </item>
     <item>
-      <title>World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names</title>
-      <link>https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/</link>
-      <pubDate>Wed, 17 Jun 2026 17:43:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133823</guid>
-      <description>World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.</description>
+      <title>VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription</title>
+      <link>https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription</link>
+      <pubDate>2026-06-17T16:43:28-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=951863</guid>
+      <description>VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a reference image, and sharing images through VSCO Galleries. VSCO says more features are coming later, [&#8230;]</description>
     </item>
     <item>
-      <title>Mastodon looks to newsletters to help revive the open social web</title>
-      <link>https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/</link>
-      <pubDate>Wed, 17 Jun 2026 17:38:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133837</guid>
-      <description>Mastodon&#8217;s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.</description>
+      <title>Roelof Botha joins SpaceX&#8217;s board of directors</title>
+      <link>https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/</link>
+      <pubDate>Wed, 17 Jun 2026 20:32:52 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3133982</guid>
+      <description>The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.</description>
     </item>
     <item>
-      <title>Murkier than ever: Trump&#8217;s reflecting pool is the mirror image of his war in Iran</title>
-      <link>https://www.fastcompany.com/91561185/reflecting-pool-algae-iran-war</link>
-      <pubDate>2026-06-17T17:35:41</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91561185/reflecting-pool-algae-iran-war</guid>
-      <description>The allegedly ending Iran war has a perfect metaphorical counterpart in another recent Trump project: renovating the reflecting pool.
-What kind of pool-cleaning gear does $14.2 million buy? According to the Department of the Interior, who oversaw recent renovations to the Lincoln Memorial reflecting pool, it&#8217;ll get you &#8220;high-tech nanobubble ozone technology,&#8221; which may or may not be as impressive as it sounds....</description>
+      <title>After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive</title>
+      <link>https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/</link>
+      <pubDate>Wed, 17 Jun 2026 20:24:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3133859</guid>
+      <description>Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.</description>
     </item>
     <item>
-      <title>Test du Steam Controller : Valve tient-il la manette universelle &#224; 99 &#8364; ?</title>
-      <link>https://www.frandroid.com/marques/valve/3114809_test-du-steam-controller-valve-tient-il-la-manette-universelle-a-99-e</link>
-      <pubDate>Wed, 17 Jun 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3114809_test-du-steam-controller-valve-tient-il-la-manette-universelle-a-99-e</guid>
+      <title>NEA&#8217;s Tiffany Luck says enterprises are still figuring out their AI ROI</title>
+      <link>https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/</link>
+      <pubDate>Wed, 17 Jun 2026 20:17:38 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3133988</guid>
+      <description>Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Epic Games details how it's embracing generative AI in Unreal Engine</title>
+      <link>https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/</link>
+      <pubDate>Wed, 17 Jun 2026 20:09:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/</guid>
+      <description>Epic Games is making generative AI a big part of upcoming versions of Unreal Engine.</description>
+    </item>
+    <item>
+      <title>How to watch Ghana vs Panama: Free Streams &amp; TV Channels for FIFA World Cup 2026</title>
+      <link>https://www.techradar.com/how-to-watch/football/ghana-vs-panama-world-cup-2026-free</link>
+      <pubDate>Wed, 17 Jun 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">JC6NpsDLtAMQBUVW2vZRN5</guid>
+      <description>Here's how to watch Ghana vs Panama for free online and from anywhere in a crucial Group L clash at the FIFA World Cup 2026, with knockout hopes on the line.</description>
+    </item>
+    <item>
+      <title>FTC lawsuit reveals how subscription scam networks evade app store enforcement</title>
+      <link>https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/</link>
+      <pubDate>Wed, 17 Jun 2026 19:46:16 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3133926</guid>
+      <description>A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.</description>
+    </item>
+    <item>
+      <title>I wish more wearables were as repairable as Google&#8217;s Pixel Watch 4</title>
+      <link>https://mashable.com/tech/pixel-watch-4-repairability</link>
+      <pubDate>Wed, 17 Jun 2026 19:30:58 +0000</pubDate>
+      <guid isPermaLink="false">01Gs2MtL9V81v3WmAmsqJxG</guid>
+      <description>Google&#8217;s Pixel Watch 4 highlights the benefits of repairable wearables and why the industry should embrace easier device repairs.</description>
+    </item>
+    <item>
+      <title>Samsung veut diagnostiquer la sant&#233; de votre chien avec une simple photo Galaxy</title>
+      <link>https://www.frandroid.com/marques/samsung/3145273_samsung-veut-diagnostiquer-la-sante-de-votre-chien-avec-une-simple-photo-galaxy</link>
+      <pubDate>Wed, 17 Jun 2026 19:28:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3145273_samsung-veut-diagnostiquer-la-sante-de-votre-chien-avec-une-simple-photo-galaxy</guid>
       <description>
-Valve lance une nouvelle manette Steam Controller qui se veut id&#233;ale aussi bien pour les jeux PC que pour les jeux de salon. La manette universelle parfaite ?
+Samsung veut transformer votre Galaxy en premier filtre de diagnostic pour chiens et chats&#160;: une photo, et l&#8217;IA cherche des signes de maladie. Pratique, mais &#224; prendre avec des pincettes.
 </description>
     </item>
     <item>
-      <title>Sommet du G7 | &#171;&#160;Ne c&#233;dez pas vos responsabilit&#233;s aux acteurs de l&#8217;IA&#160;&#187;, d&#233;clare le patron d&#8217;OpenAI</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-06-17/sommet-du-g7/ne-cedez-pas-vos-responsabilites-aux-acteurs-de-l-ia-declare-le-patron-d-openai.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 17 Jun 2026 13:27:59 -0400</pubDate>
-      <guid isPermaLink="false">d09d503deee4350ca7d2f2f90e72aad6</guid>
-      <description>Le patron d&#8217;OpenAI, Sam Altman, a appel&#233; mercredi les dirigeants des pays du G7 &#224; ne pas &#171;&#160;[c&#233;der leurs] responsabilit&#233;s aux acteurs de l&#8217;IA comme&#160;&#187; son groupe en mati&#232;re de r&#233;gulation, lors d&#8217;une allocution prononc&#233;e en marge du Sommet d&#8217;&#201;vian.</description>
+      <title>Nintendo responds after alleged third-party data breach: Our &#8216;systems have not been compromised&#8217;</title>
+      <link>https://mashable.com/tech/nintendo-data-breach-statement-tiny-pulse-ransomware</link>
+      <pubDate>Wed, 17 Jun 2026 19:26:27 +0000</pubDate>
+      <guid isPermaLink="false">02z5j7DUb9IHEDrZ8nMcYt5</guid>
+      <description>Nintendo has reportedly been threatened with a $2 million ransomware demand. The company says its systems are secure.</description>
     </item>
     <item>
-      <title>Two-thirds of Americans think AI is advancing too quickly</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly</link>
-      <pubDate>2026-06-17T13:20:24-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=951653</guid>
-      <description>According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of [&#8230;]...</description>
+      <title>Anthropic&#8217;s updated Claude Design gives vibe coders&#8212;and their design overlords&#8212;more control</title>
+      <link>https://www.fastcompany.com/91561193/anthropics-updated-claude-design-gives-vibe-coders-and-their-design-overlords-more-control</link>
+      <pubDate>2026-06-17T19:18:36</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91561193/anthropics-updated-claude-design-gives-vibe-coders-and-their-design-overlords-more-control</guid>
+      <description>Anthropic heard your feedback. A new version of Claude Design is better with design systems, has finer-tuned editing controls, and is more efficient with tokens.
+Claude Design, Anthropic Lab&#8217;s AI design tool, launched in April to a crowded market of vibe-coding design programs. Now, after a few months in the hands of designers, Anthropic is launching a big update to Claude Design that addresses their biggest pain points....</description>
     </item>
     <item>
-      <title>Gamers beware &#8212; experts flag Steam Workshop is being abused to spread malware via Wallpaper Engine app</title>
-      <link>https://www.techradar.com/pro/security/gamers-beware-experts-flag-steam-workshop-is-being-abused-to-spread-malware-via-wallpaper-engine-app</link>
-      <pubDate>Wed, 17 Jun 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="false">B3V2m3Yxk6tVMC8s5Vf7DG</guid>
-      <description>Even a wallpaper can carry a virus these days, so be careful what you're downloading.</description>
+      <title>Easing housing market lock-in? 47% of homeowners say they&#8217;d accept up to 6.0% mortgage rate on their next purchase</title>
+      <link>https://www.fastcompany.com/91561179/homebuyer-home-seller-housing-market-turbohome-resiclub-survey</link>
+      <pubDate>2026-06-17T19:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91561179/homebuyer-home-seller-housing-market-turbohome-resiclub-survey</guid>
+      <description>Here are the full results of the Q2 2026 TurboHome-ResiClub Housing Sentiment Survey.
+Want more housing market stories from Lance Lambert&#8217;s ResiClub in your inbox? Subscribe to the ResiClub newsletter.</description>
     </item>
     <item>
-      <title>The new Google Home Speaker is launching next week, and you can pre-order your new smart hub right now &#8212; but you&#8217;ll need Google Home Premium for the full Gemini package</title>
-      <link>https://www.techradar.com/home/smart-speakers/the-new-google-home-speaker-is-officially-coming-next-week-and-you-can-pre-order-your-new-smart-hub-right-now-but-youll-need-google-home-premium-for-the-full-gemini-package</link>
-      <pubDate>Wed, 17 Jun 2026 17:14:46 +0000</pubDate>
-      <guid isPermaLink="false">iAbCTsxMcctM8BdDGp8qqY</guid>
-      <description>Google has announced that its new Google Home Speaker will be go on sale on June 25.</description>
-    </item>
-    <item>
-      <title>Wear OS 7 has landed &#8212; here are the 5 biggest new features you need to know about, from live updates to widget creation</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/wear-os-7-has-landed-here-are-the-5-biggest-new-features-you-need-to-know-about-from-live-updates-to-widget-creation</link>
-      <pubDate>Wed, 17 Jun 2026 17:07:20 +0000</pubDate>
-      <guid isPermaLink="false">xuCw74itvqqWoJa9Rve7En</guid>
-      <description>Wear OS 7 is rolling out now with three new features, but some of the biggest upgrades are still to come.</description>
-    </item>
-    <item>
-      <title>How to watch England vs Croatia: Free Streams, TV Channels &amp; Kick-Off time as the Three Lions begin FIFA World Cup 2026 campaign</title>
-      <link>https://www.techradar.com/how-to-watch/football/england-vs-croatia-world-cup-2026-free</link>
-      <pubDate>Wed, 17 Jun 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">PW3DnGgRN8gwU3ErTehYZH</guid>
-      <description>Here's how to watch England vs Croatia for free online and from anywhere in Group L of the FIFA World Cup 2026.</description>
-    </item>
-    <item>
-      <title>Rachat de SFR : 3 boutiques sur 4 vont dispara&#238;tre</title>
-      <link>https://www.frandroid.com/marques/sfr/3144401_rachat-de-sfr-3-boutiques-sur-4-vont-disparaitre</link>
-      <pubDate>Wed, 17 Jun 2026 17:01:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sfr/3144401_rachat-de-sfr-3-boutiques-sur-4-vont-disparaitre</guid>
-      <description>
-Alors que le rachat de l'op&#233;rateur au carr&#233; rouge est encore examin&#233; par l'Autorit&#233; de la concurrence, on parle d&#233;j&#224; de la suite. Notamment de ce qu'il va advenir des boutiques estampill&#233;es SFR.
-</description>
-    </item>
-    <item>
-      <title>CrankGPT is a hand-powered, fully offline AI bot powered by a Raspberry Pi and 8GB of RAM &#8212; and I'm all for apocalypse-ready chatbots that don't need data centers</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/crankgpt-is-a-hand-powered-fully-offline-ai-bot-powered-by-a-raspberry-pi-and-8gb-of-ram-and-im-all-for-apocalypse-ready-chatbots-that-dont-need-data-centers</link>
-      <pubDate>Wed, 17 Jun 2026 17:00:23 +0000</pubDate>
-      <guid isPermaLink="false">QESEhHfvW6SvKjjyNysD4P</guid>
-      <description>If you want to protect your privacy and be kinder to the environment, you can run a local AI using a hand crank.</description>
-    </item>
-    <item>
-      <title>SanDisk's new 8TB PS5 SSD costs more than three times as much as the PS5 Pro</title>
-      <link>https://www.engadget.com/2196530/sandisks-new-8tb-ps5-ssd-costs-more-than-three-times-as-much-as-the-ps5-pro/</link>
-      <pubDate>Wed, 17 Jun 2026 17:00:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2196530/sandisks-new-8tb-ps5-ssd-costs-more-than-three-times-as-much-as-the-ps5-pro/</guid>
-      <description>The highest capacity Optimus GX Pro 850P drive for the PS5 almost tops the $3,000 mark.</description>
-    </item>
-    <item>
-      <title>Only 16 percent of Americans think AI will have a positive impact on society, a new study shows</title>
-      <link>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</link>
-      <pubDate>Wed, 17 Jun 2026 17:00:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133545</guid>
-      <description>Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.</description>
-    </item>
-    <item>
-      <title>The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible</title>
-      <link>https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/</link>
-      <pubDate>Wed, 17 Jun 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a3065c2f47e703174d70436</guid>
-      <description>Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.</description>
-    </item>
-    <item>
-      <title>&#8216;A real step up in pretty much every way&#8217;: I listened to Cambridge's new Evo 300 streaming amp, and it raises the bar for modern hi-fi</title>
-      <link>https://www.techradar.com/audio/audio-streaming/i-listened-to-cambridges-new-evo-300-streaming-amp-and-it-raises-the-bar-for-modern-hi-fi</link>
-      <pubDate>Wed, 17 Jun 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">YW6oxamaQfVMoRM7gdrb3f</guid>
-      <description>First impressions of Cambridge&#8217;s new flagship just-add-speakers streaming amplifier are very good indeed.</description>
-    </item>
-    <item>
-      <title>How to watch Alone season 13 online from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/alone-season-13-online</link>
-      <pubDate>Wed, 17 Jun 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">tpZiGkYXz4iGK2Xx8PEPki</guid>
-      <description>Set in the bleak Richardson Mountains straddling Yukon and Canada&#8217;s Northwest Territories, here's how to watch Alone season 13 online from anywhere.</description>
-    </item>
-    <item>
-      <title>Workers are judging companies for their silence on LGBTQ+ issues</title>
-      <link>https://www.fastcompany.com/91561209/workers-are-judging-companies-for-their-silence-on-lgbtq-issues</link>
-      <pubDate>2026-06-17T17:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91561209/workers-are-judging-companies-for-their-silence-on-lgbtq-issues</guid>
-      <description>New data shows that at least 60% of workers believe support for their LGBTQ+ peers is a sign of an inclusive workplace for all employees. 
-The sustained attacks on diversity, equity, and inclusion programs have left corporate America hesitant to speak out forcefully on LGBTQ+ issues&#8212;and that silence has not gone unnoticed.&#160;</description>
-    </item>
-    <item>
-      <title>Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking</title>
-      <link>https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/</link>
-      <pubDate>Wed, 17 Jun 2026 16:54:48 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133718</guid>
-      <description>Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.</description>
-    </item>
-    <item>
-      <title>The Philips Baristina is one of the best coffee makers I've ever used, and it's half price at Amazon right now &#8212; who needs Prime Day?</title>
-      <link>https://www.techradar.com/home/coffee-machines/the-philips-baristina-is-one-of-the-best-coffee-makers-ive-ever-used-and-its-half-price-at-amazon-right-now-who-needs-prime-day</link>
-      <pubDate>Wed, 17 Jun 2026 16:52:28 +0000</pubDate>
-      <guid isPermaLink="false">LbNTdrfoB2Cmh3YwYtx5V7</guid>
-      <description>The Baristina makes brewing coffee with fresh beans as easy as using Nespresso pods, and you don't need to be a Prime subscriber to get this epic deal.</description>
-    </item>
-    <item>
-      <title>Carvana launches its first test drive center at a dealership, with more to come</title>
-      <link>https://www.engadget.com/2196512/carvana-launches-its-first-test-drive-center-at-a-dealership-with-more-to-come/</link>
-      <pubDate>Wed, 17 Jun 2026 16:51:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2196512/carvana-launches-its-first-test-drive-center-at-a-dealership-with-more-to-come/</guid>
-      <description>Carvana is converting old car dealerships into test drive centers.</description>
-    </item>
-    <item>
-      <title>This Google-backed &#8216;phone cluster computing&#8217; project is turning retired Pixels into low-cost Linux data centers &#8212; as UCSD researchers say a 2,000-phone cluster will soon support 100 computer science classes</title>
-      <link>https://www.techradar.com/phones/this-google-backed-phone-cluster-computing-project-is-turning-retired-pixels-into-low-cost-linux-data-centers-as-ucsd-researchers-say-a-2-000-phone-cluster-will-soon-support-100-computer-science-classes</link>
-      <pubDate>Wed, 17 Jun 2026 16:50:47 +0000</pubDate>
-      <guid isPermaLink="false">CVW3oEAfrndpVULa8BCfmT</guid>
-      <description>Google says old phones could see their components reused as affordable cloud servers.</description>
-    </item>
-    <item>
-      <title>Jackery just released 3 new HomePower portable power stations</title>
-      <link>https://mashable.com/tech/jackery-new-homepower-power-stations-launch-price-specs</link>
-      <pubDate>Wed, 17 Jun 2026 16:48:45 +0000</pubDate>
-      <guid isPermaLink="false">01PXB948T56yMevz2kRmS6O</guid>
-      <description>The new Jackery HomePower 1000 V2, HomePower 2000 Plus V2, and HomePower 3600 Pro Max are all available to purchase at Amazon.</description>
-    </item>
-    <item>
-      <title>The Echo Dot Max is cheaper than ever in an early Prime Day sale</title>
-      <link>https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale</link>
-      <pubDate>2026-06-17T12:47:43-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=951602</guid>
-      <description>We&#8217;re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon&#8217;s own devices. Several Echo speakers have dropped to new low prices, including the Echo Dot Max, which is on sale for $64.99 ($35 off) at Amazon. Our smart home reviewer Jennifer Pattison [&#8230;]</description>
-    </item>
-    <item>
-      <title>Microsoft still has an uphill battle against Valve's SteamOS &#8212; Windows 11's Xbox mode saves on RAM usage, but apparently doesn't help with gaming performance</title>
-      <link>https://www.techradar.com/computing/windows/microsoft-still-has-an-uphill-battle-against-valves-steamos-windows-11s-xbox-mode-saves-on-ram-usage-but-apparently-doesnt-help-with-gaming-performance</link>
-      <pubDate>Wed, 17 Jun 2026 16:47:28 +0000</pubDate>
-      <guid isPermaLink="false">gSi3DHQLp3WBzTCzHEsYNm</guid>
-      <description>Xbox mode on Windows 11 does use less RAM than the standard desktop, but it seemingly means nothing for gaming performance.</description>
-    </item>
-    <item>
-      <title>The new Jackery FridgeGuard can keep your fridge cooling for up to 15 hours: Where to buy</title>
-      <link>https://mashable.com/tech/jackery-fridgeguard-power-station-launch-price-specs</link>
-      <pubDate>Wed, 17 Jun 2026 16:44:02 +0000</pubDate>
-      <guid isPermaLink="false">02kmXHnzHRf0yqSWi0qHjIq</guid>
-      <description>The Jackery FridgeGuard portable power station costs $559.99 and is sold exclusively at Costco.</description>
-    </item>
-    <item>
-      <title>HDMI 2.2 is set to arrive in TVs and monitors next year, bringing uncompressed 4K at ridiculous frame rates &#8212; here's what to expect from the next-gen connector, and who it's actually most useful for</title>
-      <link>https://www.techradar.com/televisions/hdmi-2-2-is-set-to-arrive-in-tvs-and-monitors-next-year</link>
-      <pubDate>Wed, 17 Jun 2026 16:43:10 +0000</pubDate>
-      <guid isPermaLink="false">mJsm82T9rqeFMm3udNX6Qh</guid>
-      <description>HDMI 2.2 doubles the bandwidth of HDMI 2.1 and the first products should arrive in late 2026 or into 2027</description>
-    </item>
-    <item>
-      <title>These are the 55 editor-approved early Prime Day deals I'd buy this week &#8212; save up to 65% on the AirPods 4, Echo Spot, Ninja Creami, cheap TVs, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/these-are-the-55-editor-approved-early-prime-day-deals-id-buy-this-week-save-65-percent-on-the-airpods-4-echo-spot-ninja-creami-cheap-tvs-and-more</link>
-      <pubDate>Wed, 17 Jun 2026 16:41:25 +0000</pubDate>
-      <guid isPermaLink="false">VoHSdfEBcFyZm53PnkMknA</guid>
-      <description>While Prime Day kicks off next week, I've rounded up the 55 best early deals worth buying right now, including up to 65% off AirPods, Ninja blenders, Echo speakers, and more.</description>
-    </item>
-    <item>
-      <title>Coyote et les alertes radars&#160;: la justice europ&#233;enne inflige un revers historique &#224; cause de son propre algorithme</title>
-      <link>https://www.01net.com/actualites/coyote-et-les-alertes-radars-la-justice-europeenne-inflige-un-revers-historique-a-cause-de-son-propre-algorithme.html</link>
-      <pubDate>Wed, 17 Jun 2026 16:32:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1354656</guid>
-      <description>Saisie par le Conseil d'&#201;tat, la Cour de justice de l'Union europ&#233;enne (CJUE) vient d'infliger un lourd revers &#224; Coyote. &#192; cause de ses algorithmes, l'application perd son statut d'h&#233;bergeur passif et devra plier face aux censures temporaires de l'&#201;tat.</description>
-    </item>
-    <item>
-      <title>PlayStation&#160;5&#160;Slim, JBL&#160;Grip et LG&#160;CineBeam&#160;S&#160;: les meilleures offres high&#8209;tech du mercredi&#160;17&#160;juin&#160;2026</title>
-      <link>https://www.frandroid.com/bons-plans/3144815_playstation-5-slim-jbl-grip-et-lg-cinebeam-s-les-meilleures-offres-high-tech-du-mercredi-17-juin-2026</link>
-      <pubDate>Wed, 17 Jun 2026 16:32:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3144815_playstation-5-slim-jbl-grip-et-lg-cinebeam-s-les-meilleures-offres-high-tech-du-mercredi-17-juin-2026</guid>
-      <description>
-Chaque journ&#233;e apporte son lot de r&#233;ductions int&#233;ressantes sur Amazon, Son&#8209;Vid&#233;o et d&#8217;autres grands marchands en ligne.
-</description>
-    </item>
-    <item>
-      <title>Find your lost items with the best early Prime Day Bluetooth tracker deals</title>
-      <link>https://mashable.com/tech/early-prime-day-bluetooth-tracker-deals-2026</link>
-      <pubDate>Wed, 17 Jun 2026 16:31:03 +0000</pubDate>
-      <guid isPermaLink="false">07HUOmuX1KZmQdvKUgUty3e</guid>
-      <description>As of June 17, these are the best early Prime Day Bluetooth tracker deals.</description>
-    </item>
-    <item>
-      <title>Google bets on Gemini to reinvent the smart home speaker</title>
-      <link>https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/</link>
-      <pubDate>Wed, 17 Jun 2026 16:30:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133765</guid>
-      <description>Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.</description>
-    </item>
-    <item>
-      <title>The best early Prime Day drone deals from DJI and Holy Stone</title>
-      <link>https://mashable.com/tech/best-early-prime-day-drone-deals-2026</link>
-      <pubDate>Wed, 17 Jun 2026 16:28:07 +0000</pubDate>
-      <guid isPermaLink="false">06NdxoiA3wQlnUfOcV6CqcW</guid>
-      <description>Save up to 29% on DJI and Holy Stone drones before Amazon Prime Day.</description>
-    </item>
-    <item>
-      <title>Vibe-decoding the White House-Anthropic fight over Fable</title>
-      <link>https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house</link>
-      <pubDate>2026-06-17T12:27:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=951516</guid>
-      <description>Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com. Back [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Forget NPCs, now we have CPCs &#8212; Co-Playable Characters or AI teammates in PUBG courtesy of Nvidia ACE tech, but I'm not impressed so far</title>
-      <link>https://www.techradar.com/computing/gpu/forget-npcs-now-we-have-cpcs-co-playable-characters-or-ai-teammates-in-pubg-courtesy-of-nvidia-ace-tech-but-im-not-impressed-so-far</link>
-      <pubDate>Wed, 17 Jun 2026 16:26:40 +0000</pubDate>
-      <guid isPermaLink="false">PoBSXJBR7CjApWhnPX5eEA</guid>
-      <description>Many gamers are doubtful, mystified, or think that this will be beyond amusing.</description>
-    </item>
-    <item>
-      <title>How to watch the 2026 FIFA World Cup online for free</title>
-      <link>https://mashable.com/article/fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Wed, 17 Jun 2026 16:25:11 +0000</pubDate>
-      <guid isPermaLink="false">077oUvXQjziKbbL6ypkXdaa</guid>
-      <description>How to watch World Cup for free. Live stream the 2026 FIFA World Cup for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>The best early Prime Day unlocked smartphone deals you can shop now &#8212; save on Samsung, Google and more</title>
-      <link>https://mashable.com/tech/best-early-prime-day-smartphone-deals-2026</link>
-      <pubDate>Wed, 17 Jun 2026 16:24:51 +0000</pubDate>
-      <guid isPermaLink="false">02QQSrZmLcuBaExM458zHsA</guid>
-      <description>The best early Prime Day unlocked smartphone deals you can shop now &#8211; save on Samsung, Google and more</description>
+      <title>The AI credibility gap is real</title>
+      <link>https://www.fastcompany.com/91560408/the-ai-credibility-gap-is-real</link>
+      <pubDate>2026-06-17T19:13:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91560408/the-ai-credibility-gap-is-real</guid>
+      <description>Here&#8217;s what actually closes it.
+Lately, I&#8217;ve seen a specific pattern emerge as organizations make AI claims. &#8220;We&#8217;re AI-first.&#8221; &#8220;We&#8217;re AI-native.&#8221; &#8220;We&#8217;re agentic.&#8221; The language is confident, forward-looking, and nearly universal.</description>
     </item>
   </channel>
 </rss>
