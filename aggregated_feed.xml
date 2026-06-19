@@ -3,64 +3,84 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:07:38 GMT</lastBuildDate>
+    <item>
+      <title>Quote of the day by Microsoft co-founder and ex-CEO Bill Gates: 'We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the ten' &#8212; insights on the nature of progress</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-microsoft-co-founder-and-ex-ceo-bill-gates-we-always-overestimate-the-change-that-will-occur-in-the-next-two-years-and-underestimate-the-change-that-will-occur-in-the-ten-insights-on-the-nature-of-progress</link>
+      <pubDate>Fri, 19 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7jusdTWvczwB2nhePjhuiQ</guid>
+      <description>Progress isn't always linear or straightforward, but innovation must also contend with hype cycles and undue business and media attention</description>
+    </item>
+    <item>
+      <title>Even after a short time with it, I already know Alien: Isolation 2 will be an incredible horror game &#8212; but I really want to see the Xenomorph do one very specific thing this time around</title>
+      <link>https://www.techradar.com/gaming/alien-isolation-2-summer-game-fest-2026-hands-on-preview</link>
+      <pubDate>Fri, 19 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">nfLrdKEtgsPAtY5jeHTvJe</guid>
+      <description>Alien: Isolation 2 is going to up the ante on tension, threat, and stress in whole new ways with its vastly different setting from its predecessor.</description>
+    </item>
+    <item>
+      <title>Go eyes robotaxis and acquisitions after Japan&#8217;s biggest IPO of 2026. Here&#8217;s why it matters</title>
+      <link>https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/</link>
+      <pubDate>Fri, 19 Jun 2026 21:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3133212</guid>
+      <description>Go&#8217;s IPO &#8212; Japan&#8217;s biggest so far this year &#8212; has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesday, plans to use the &#165;88.6 billion [&#8230;]</description>
+    </item>
+    <item>
+      <title>How to watch Brazil vs Haiti: Free Streams, TV Channels &amp; Kick-Off time as Vinicius Jnr &amp; Co. hunt first win at FIFA World Cup 2026</title>
+      <link>https://www.techradar.com/how-to-watch/football/brazil-vs-haiti-world-cup-2026-free</link>
+      <pubDate>Fri, 19 Jun 2026 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">KwvCL4XBTkqSztaBBQxPEY</guid>
+      <description>Here's how to watch Brazil vs Haiti for free online and from anywhere in Group C of the FIFA World Cup 2026, as Vinicius Jnr hopes to inspire A Selecao.</description>
+    </item>
+    <item>
+      <title>Nothing cancels this year&amp;#8217;s CMF phone due to RAM prices</title>
+      <link>https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices</link>
+      <pubDate>2026-06-19T17:28:39-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=953066</guid>
+      <description>Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build [&#8230;]</description>
+    </item>
+    <item>
+      <title>7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes</title>
+      <link>https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes</link>
+      <pubDate>Fri, 19 Jun 2026 21:14:19 GMT</pubDate>
+      <guid isPermaLink="false">4v4X3T0BLpo0EzJ33GND2V</guid>
+      <description>Your AI agent did exactly what it was designed to do. The framework underneath it just handed an attacker a shell on the box that holds your OpenAI key, your database credentials, and your CRM tokens.That is not a hypothetical. In a few months, three of the most widely deployed AI agent frameworks each turned a known, ordinary bug class into a way through. Check Point Research chained a SQL injection in LangGraph&#8217;s SQLite checkpointer to full remote code execution. Tenable and VulnCheck tracked a path traversal in Langflow&#8217;s file upload endpoint to active, in-the-wild RCE. Cyera documented a p...</description>
+    </item>
+    <item>
+      <title>Ugreen Maxidok 17-in-1 Dock review: A Thunderbolt 5 docking station with more ports and features than you'll know what to do with</title>
+      <link>https://www.techradar.com/pro/ugreen-maxidok-17-in-1-thunderbolt-5-dock-review</link>
+      <pubDate>Fri, 19 Jun 2026 21:10:00 +0000</pubDate>
+      <guid isPermaLink="false">wpzZ8XWiKYtDpQNzzVUYrg</guid>
+      <description>The Ugreen Maxidok 17-in-1 Thunderbolt 5 Dock is a flagship dock for those who want it all.</description>
+    </item>
+    <item>
+      <title>'Our data centers are not going to be just big buildings that are out in the middle of nowhere that are run by 10 people' &#8212; US Army thinks it can win over communities over its data centers without a big tech backlash</title>
+      <link>https://www.techradar.com/pro/our-data-centers-are-not-going-to-be-just-big-buildings-that-are-out-in-the-middle-of-nowhere-that-are-run-by-10-people-us-army-thinks-it-can-win-over-communities-over-its-data-centers-without-the-big-tech-backlash</link>
+      <pubDate>Fri, 19 Jun 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">ua8ALJf2QATaEJrpFQm8M7</guid>
+      <description>The US Army is developing data center campuses on military land while prioritizing community engagement, energy independence, and net-zero water consumption.</description>
+    </item>
+    <item>
+      <title>Aura&#8217;s impressive e-ink photo frame doesn&#8217;t even look digital</title>
+      <link>https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/</link>
+      <pubDate>Fri, 19 Jun 2026 21:00:34 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3134402</guid>
+      <description>What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digital. Digital frames have always been so popular [&#8230;]</description>
+    </item>
+    <item>
+      <title>Trump unveils the new Air Force One, a converted Qatari jet</title>
+      <link>https://www.fastcompany.com/91562730/trump-air-force-one-qatar</link>
+      <pubDate>2026-06-19T21:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91562730/trump-air-force-one-qatar</guid>
+      <description>The administration formally accepted a luxury Boeing 747 jet from Qatar last year, despite concerns.
+President Donald Trump&#160;on Friday showed off the new Air Force One, a formerly Qatari-owned jumbo jet that has been converted into the official U.S. presidential aircraft.</description>
+    </item>
     <item>
       <title>'Investors suffered damages': Microsoft shareholders file class action lawsuit over its huge increase in AI and cloud spending</title>
       <link>https://www.techradar.com/pro/investors-suffered-damages-microsoft-shareholders-file-class-action-lawsuit-over-its-ai-and-cloud-spending</link>
       <pubDate>Fri, 19 Jun 2026 20:20:00 +0000</pubDate>
       <guid isPermaLink="false">xFYeDev2PjxTJkDiXsAx7H</guid>
       <description>Microsoft shareholders filed a class action lawsuit alleging AI spending and disclosure practices contributed to investor losses.</description>
-    </item>
-    <item>
-      <title>Researchers say one childhood vaccine is preventing hundreds of cancer deaths</title>
-      <link>https://www.fastcompany.com/91562665/researchers-say-one-childhood-vaccine-is-preventing-hundreds-of-cancer-deaths</link>
-      <pubDate>2026-06-19T20:03:50</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91562665/researchers-say-one-childhood-vaccine-is-preventing-hundreds-of-cancer-deaths</guid>
-      <description>Researchers credit widespread HPV vaccination for a historic milestone that could reshape the future of cancer prevention.
-One of the only vaccines that prevents cancer is even more effective than scientists knew.</description>
-    </item>
-    <item>
-      <title>&#8216;Feels like a natural breeze&#8217;: I reviewed Dyson&#8217;s clever purifying fan that follows you around the room, and was blown away by its smart features and wonderfully engineered performance</title>
-      <link>https://www.techradar.com/home/air-quality/feels-like-a-natural-breeze-i-reviewed-dysons-clever-purifying-fan-that-follows-you-around-the-room-and-was-blown-away-by-its-smart-features-and-wonderfully-engineered-performance</link>
-      <pubDate>Fri, 19 Jun 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">evxHHDPQYuC6C7zk7CtRmb</guid>
-      <description>Is AI tracking enough of a draw to justify the price tag of the Find+Follow Purifier Cool? I&#8217;ve put it to the test to find out.</description>
-    </item>
-    <item>
-      <title>Boards stopped giving new CEOs time to find their footing</title>
-      <link>https://www.fastcompany.com/91561607/boards-stopped-giving-new-ceos-time-to-find-their-footing</link>
-      <pubDate>2026-06-19T19:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91561607/boards-stopped-giving-new-ceos-time-to-find-their-footing</guid>
-      <description>Here&#8217;s what it takes to lead from day one.
-The clock doesn&#8217;t start on day one anymore. For decades, the &#8220;first 100 days&#8221; framework allowed new executives a structured runway&#8212;time to listen, assess, and earn trust before making consequential decisions. That window quietly closed. What replaced it isn&#8217;t a shorter timeline, but a fundamentally different set of expectations....</description>
-    </item>
-    <item>
-      <title>Urgence dans l&#8217;espace : la Nasa envoie un robot pour sauver un pr&#233;cieux t&#233;lescope spatial avant qu&#8217;il ne soit trop tard</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/nasa-urgence-espace-nasa-envoie-robot-sauver-precieux-telescope-spatial-avant-quil-ne-soit-trop-tard-135501/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 19 Jun 2026 21:07:54 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/nasa-urgence-espace-nasa-envoie-robot-sauver-precieux-telescope-spatial-avant-quil-ne-soit-trop-tard-135501/#xtor%3DRSS-8</guid>
-      <description>Condamn&#233; &#224; voir son orbite d&#233;cro&#238;tre jusqu&#8217;&#224; une rentr&#233;e atmosph&#233;rique in&#233;vitable, le t&#233;lescope spatial Swift pourrait finalement &#233;chapper &#224; son destin. La Nasa s&#8217;appr&#234;te &#224; tenter une op&#233;ration sans pr&#233;c&#233;dent qui pourrait grandement prolonger la dur&#233;e de vie de nombreux appareils en orbite.</description>
-    </item>
-    <item>
-      <title>How to watch Scotland vs Morocco: Free Streams &amp; TV Channels online from anywhere for FIFA World Cup 2026</title>
-      <link>https://www.techradar.com/how-to-watch/football/scotland-vs-morocco-world-cup-2026-free</link>
-      <pubDate>Fri, 19 Jun 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">So9Ntr8AVnqiLhs5wCQfym</guid>
-      <description>Here's how to watch Scotland vs Morocco for free online and from anywhere in Group C of the FIFA World Cup 2026, as John McGinn hopes to lead another Tartan win.</description>
-    </item>
-    <item>
-      <title>Aliens: Fireteam Elite 2 game director says the game will have 'massive amounts of customization' &#8212; 'There's almost an infinite amount of ways to coordinate with your buds on how you want to kit up as a group'</title>
-      <link>https://www.techradar.com/gaming/aliens-fireteam-elite-2-game-director-says-the-game-will-have-massive-amounts-of-customization-theres-almost-an-infinite-amount-of-ways-to-coordinate-with-your-buds-on-how-you-want-to-kit-up-as-a-group</link>
-      <pubDate>Fri, 19 Jun 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">tWakdV3zg9o9C9SuNfvupm</guid>
-      <description>Aliens: Fireteam Elite 2 will feature "massive amounts of customization" across all available classes, including the brand-new endgame Specialist class.</description>
-    </item>
-    <item>
-      <title>I've driven the Honda Super-N &#8212; and I'm in love with this go-kart for the daily drive</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ive-driven-the-honda-super-n-and-im-in-love-with-this-go-kart-for-the-daily-drive</link>
-      <pubDate>Fri, 19 Jun 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">asSB4tmNybGWsr9zML5Fc5</guid>
-      <description>Small but mighty, the Honda super-N aims to inject some serious fun into the compact EV market.</description>
     </item>
   </channel>
 </rss>
