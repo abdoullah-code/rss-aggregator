@@ -3,614 +3,395 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 24 Jun 2026 16:24:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:53:18 GMT</lastBuildDate>
     <item>
-      <title>My Apple Watch&#8217;s daily charging habit put me off smartwatches &#8212; this Prime Day Garmin deal has pulled me back in</title>
-      <link>https://www.techradar.com/tech/my-apple-watchs-daily-charging-habit-put-me-off-smartwatches-this-prime-day-garmin-deal-has-pulled-me-back-in</link>
-      <pubDate>Wed, 24 Jun 2026 16:20:30 +0000</pubDate>
-      <guid isPermaLink="false">wQZaXdW8gJMbAQ7E5ss79i</guid>
-      <description>I'd given up on smartwatches, but an Amazon Prime Day deal has tempted me back into getting one again.</description>
+      <title>Xiaomi's HarnessX rewrites its own AI scaffolding mid-task &#8212; and smaller models gain the most</title>
+      <link>https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most</link>
+      <pubDate>Wed, 24 Jun 2026 18:45:08 GMT</pubDate>
+      <guid isPermaLink="false">1dYXTiBcQ1AzYJALYkcrVA</guid>
+      <description>As enterprise AI agents take on increasingly complex, long-horizon tasks, their performance is often restricted by their harness, the software scaffolding that connects the backbone LLM to its environment.&#160;Currently, harnesses are largely static and hand-crafted. Improving them is largely manual and they do not automatically improve based on the execution data they collect from their environment.To address this engineering bottleneck, researchers at Xiaomi introduced HarnessX, a framework that treats the AI harness as a composable object and autonomously applies improvements to its code.&#160;In re...</description>
     </item>
     <item>
-      <title>Figma adds code layers, support for animations, more AI features in new update</title>
-      <link>https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/</link>
-      <pubDate>Wed, 24 Jun 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135624</guid>
-      <description>Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI.</description>
+      <title>I Met With China&#8217;s Top AI Experts. They&#8217;re Freaking Out, Too</title>
+      <link>https://www.wired.com/story/ai-arms-race-china-us-cooperation/</link>
+      <pubDate>Wed, 24 Jun 2026 18:45:00 +0000</pubDate>
+      <guid isPermaLink="false">6a394366fe938d9767d23e06</guid>
+      <description>The AI arms race between China and the US has researchers on both sides worried about a &#8220;Chernobyl moment.&#8221;</description>
     </item>
     <item>
-      <title>Binance quitte la France au 1er juillet&#160;: ce qu&#8217;il faut faire de vos cryptos</title>
-      <link>https://www.frandroid.com/culture-tech/3155937_binance-quitte-la-france-au-1er-juillet-ce-quil-faut-faire-de-vos-cryptos</link>
-      <pubDate>Wed, 24 Jun 2026 16:14:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/3155937_binance-quitte-la-france-au-1er-juillet-ce-quil-faut-faire-de-vos-cryptos</guid>
-      <description>
-Binance vient de confirmer par e-mail &#224; ses utilisateurs fran&#231;ais qu&#8217;elle n&#8217;aura pas son agr&#233;ment europ&#233;en &#224; temps. R&#233;sultat&#160;: plus aucun service crypto en France &#224; partir du 1er juillet 2026.
-</description>
+      <title>'This is no longer science fiction, this is reality': The future of shipping could be the world&#8217;s smartest sticky label</title>
+      <link>https://www.techradar.com/pro/this-is-no-longer-science-fiction-this-is-reality-the-future-of-shipping-could-be-the-worlds-smartest-sticky-label</link>
+      <pubDate>Wed, 24 Jun 2026 18:42:57 +0000</pubDate>
+      <guid isPermaLink="false">QzDLC6bR5H5j9La4NEU8Hf</guid>
+      <description>Samsara&#8217;s new single-use, Bluetooth-enabled sticky label could help solve shipping woes for everyone.</description>
     </item>
     <item>
-      <title>We know GTA 6's price now, so prepare for its launch with these Logitech and Razer headset and controller Prime Day deals</title>
-      <link>https://www.techradar.com/gaming/gaming-accessories/we-know-gta-6s-price-now-so-prepare-for-its-launch-with-these-logitech-and-razer-headset-and-controller-prime-day-deals</link>
-      <pubDate>Wed, 24 Jun 2026 16:11:10 +0000</pubDate>
-      <guid isPermaLink="false">3kksuiqjAVF3FWrrQksJMR</guid>
-      <description>It's time to prepare for GTA 6's launch with these stellar PlayStation headset and controller Prime Day deals.</description>
+      <title>GTA VI is a worrying sign for the future of physical games</title>
+      <link>https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games</link>
+      <pubDate>2026-06-24T14:42:07-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=956389</guid>
+      <description>Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a disc, and instead will only contain a download code inside the box. Not only is [&#8230;]</description>
     </item>
     <item>
-      <title>LastPass data breach confirmed: Everything we know so far</title>
-      <link>https://mashable.com/tech/lastpass-data-breach-confirmed-everything-we-know-so-far</link>
-      <pubDate>Wed, 24 Jun 2026 16:10:59 +0000</pubDate>
-      <guid isPermaLink="false">03xGwbxcMpvBzWfbGN1EhDM</guid>
-      <description>LastPass confirmed hackers stole customer contact info via a third-party vendor breach. Here's what was taken and what you should do now.</description>
+      <title>From route creation to free Pok&#233;mon apps, here are 3 cool things to do as soon as you buy your first Garmin</title>
+      <link>https://www.techradar.com/health-fitness/from-route-creation-to-free-pokemon-apps-here-are-3-cool-things-to-do-as-soon-as-you-buy-your-first-garmin</link>
+      <pubDate>Wed, 24 Jun 2026 18:42:07 +0000</pubDate>
+      <guid isPermaLink="false">o4o62XHZXbSZh9wH3NAVBh</guid>
+      <description>From creating your own local routes to walking to Mordor, here are three things to try with your first Garmin as soon as you get it.</description>
     </item>
     <item>
-      <title>Ne quittez pas le Cr&#233;dit Agricole : son application de paiement ne remplacera pas Apple Pay sur iPhone</title>
-      <link>https://www.frandroid.com/services/banque-en-ligne/3155915_ne-quittez-pas-le-credit-agricole-son-application-de-paiement-ne-remplacera-pas-apple-pay-sur-iphone</link>
-      <pubDate>Wed, 24 Jun 2026 16:06:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3155915_ne-quittez-pas-le-credit-agricole-son-application-de-paiement-ne-remplacera-pas-apple-pay-sur-iphone</guid>
-      <description>
-Le Cr&#233;dit Agricole a lanc&#233; sa propre application de paiement sans contact sur iPhone, mais la banque jure qu'elle ne tuera pas Apple Pay pour autant. Les clients gardent le choix.
-</description>
+      <title>Better than birdsong, this Birdbuddy Pro Prime Day Deal soars to new heights and takes you up close and personal with our feathered friends for less</title>
+      <link>https://www.techradar.com/computing/webcams/better-than-birdsong-this-birdbuddy-pro-prime-day-deal-soars-to-new-heights-and-takes-you-up-close-and-personal-with-our-feathered-friends-for-less</link>
+      <pubDate>Wed, 24 Jun 2026 18:30:28 +0000</pubDate>
+      <guid isPermaLink="false">pqoQtcSzECFiVEJrRFJZCn</guid>
+      <description>Of all the gifts I've received over the years, Birdbuddy remains in my top 10. This Prime Day deal on the latest model should be at the top of your wishlist.</description>
     </item>
     <item>
-      <title>How to watch Switzerland vs Canada: Free Streams, TV Channels &amp; Kick-Off time as FIFA World Cup 2026 co-hosts aim to seal last-32 place</title>
-      <link>https://www.techradar.com/how-to-watch/football/switzerland-vs-canada-world-cup-2026-free</link>
-      <pubDate>Wed, 24 Jun 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">HvytQ5o9whZKYxxa3V5qHJ</guid>
-      <description>Here's how to watch Switzerland vs Canada for free online and from anywhere as the two nations fight to finish top of Group B at the FIFA World Cup 2026.</description>
+      <title>Hulu auto-quality settings are quietly downgrading your picture. Here's why</title>
+      <link>https://www.engadget.com/2200298/hulu-auto-quality-downgrading-picture-fix/</link>
+      <pubDate>Wed, 24 Jun 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2200298/hulu-auto-quality-downgrading-picture-fix/</guid>
+      <description>If you have a half-decent internet connection, you can probably turn "Data Saver" off.</description>
     </item>
     <item>
-      <title>Geekom's Prime Day mini PC deals just dropped &#8212; here's our verdict based on our benchmark tests</title>
-      <link>https://www.techradar.com/pro/geekoms-amazon-prime-day-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">5Wi5swLtZSNu686pN9Yn5J</guid>
-      <description>We benchmarked the best Geekom Amazon Prime Day deals to help you find the highest-performing mini PCs on sale today.</description>
+      <title>Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026</title>
+      <link>https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026</link>
+      <pubDate>Wed, 24 Jun 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">7BXobgDhUIbV4dNEmVaexk</guid>
+      <description>Drug discovery is notoriously inefficient. Pharmaceutical projects span years, moving from one specialized human team to the next through disconnected workflows that result in knowledge loss during each handoff.&#160;A shocking 90% to 95% of drug discovery projects reportedly fail &#8212; one of the highest failure rates of any industry. A single successful drug can take over a dozen years and up to $1 billion from initial discovery to patient distribution, according to published reports.&#160;Generative AI is being used to solve some of the challenges, but Stanford researchers have moved the ball forward wit...</description>
     </item>
     <item>
-      <title>These Prime Day Gift Card Deals Are Basically Free Money (2026)</title>
-      <link>https://www.wired.com/story/amazon-prime-day-gift-card-deals-2026/</link>
-      <pubDate>Wed, 24 Jun 2026 16:04:26 +0000</pubDate>
-      <guid isPermaLink="false">6a3bf0d256778fb783fe2019</guid>
-      <description>If you were planning on spending anyway, these deals are essentially free money for your favorite restaurants and stores.</description>
+      <title>Want a $400 laptop on Amazon Prime Day? This Ryzen 5 7430U with 16GB RAM is the best deal I've seen so far &#8212; and now for even cheaper</title>
+      <link>https://www.techradar.com/pro/want-a-usd400-laptop-on-amazon-prime-day-this-ryzen-5-7430u-with-16gb-ram-is-the-best-deal-ive-seen-so-far-and-now-for-even-cheaper</link>
+      <pubDate>Wed, 24 Jun 2026 18:27:26 +0000</pubDate>
+      <guid isPermaLink="false">Gk5g8stRfNtRUq6BNJnta</guid>
+      <description>If you&#8217;re looking for value for money, this Prime Day laptop deal could be the one for you.</description>
     </item>
     <item>
-      <title>Prime Day : Amazon baisse le prix de la console PC Asus ROG Xbox Ally de 25 %</title>
-      <link>https://www.frandroid.com/bons-plans/3155559_prime-day-amazon-baisse-le-prix-de-la-console-pc-asus-rog-xbox-ally-de-25</link>
-      <pubDate>Wed, 24 Jun 2026 16:02:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3155559_prime-day-amazon-baisse-le-prix-de-la-console-pc-asus-rog-xbox-ally-de-25</guid>
-      <description>
-La console PC portable ROG Xbox Ally, r&#233;sultat d&#8217;une alliance entre Microsoft et Asus, n'est pas parfaite. Mais quand elle est en promotion, comme pendant le Prime Day d'Amazon, on la recommande plus facilement. Vous pouvez donc la trouver &#224; 449 euros au lieu de 599,99 euros sur la plateforme am&#233;ricaine.
-</description>
+      <title>I tested the Oura Ring 5 and loved it &#8212; but I can&#8217;t bring myself to recommend it over this record low Ring 4 deal</title>
+      <link>https://www.techradar.com/health-fitness/i-tested-the-oura-ring-5-and-loved-it-but-i-cant-bring-myself-to-recommend-it-over-this-record-low-ring-4-deal</link>
+      <pubDate>Wed, 24 Jun 2026 18:21:59 +0000</pubDate>
+      <guid isPermaLink="false">bRCC9kfsBNof5jZgKUcz6j</guid>
+      <description>After testing the Oura Ring 5, it is a worthwhile upgrade over its predecessor &#8212; but the Ring 4 at a record low price is the much better buy.</description>
     </item>
     <item>
-      <title>How to watch Tour de France 2026 free from anywhere with this VPN deal</title>
-      <link>https://www.techradar.com/how-to-watch/cycling/how-to-watch-tour-de-france-2026-free-from-anywhere-with-this-vpn-deal</link>
-      <pubDate>Wed, 24 Jun 2026 16:01:39 +0000</pubDate>
-      <guid isPermaLink="false">VQpJi9PTJB9gA4it2483ZG</guid>
-      <description>How to watch Tour de France 2026 for free with a VPN. Tadej Pogacar will need to see off Jonas Vingegaard Paul Seixas for a record-equalling fifth title.</description>
+      <title>Netflix is launching a new horror game by the developers of Oxenfree &#8212;  and your phone is the controller</title>
+      <link>https://www.techradar.com/gaming/netflix-is-launching-a-new-horror-game-by-the-developers-of-oxenfree-and-your-phone-is-the-controller</link>
+      <pubDate>Wed, 24 Jun 2026 18:21:11 +0000</pubDate>
+      <guid isPermaLink="false">paZStquhnsBnXWynyp6TAf</guid>
+      <description>Netflix's new horror game Unhinged will be available to all subscribers and is a first-person home invasion story.</description>
     </item>
     <item>
-      <title>Les soldes d&#8217;&#233;t&#233; 2026 d&#233;marrent fort : voici les meilleurs deals &#224; saisir en DIRECT</title>
-      <link>https://www.frandroid.com/bons-plans/3153165_soldes-ete-2026-meilleures-offres-tech-en-direct</link>
-      <pubDate>Wed, 24 Jun 2026 16:00:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3153165_soldes-ete-2026-meilleures-offres-tech-en-direct</guid>
-      <description>
-Les soldes d'&#233;t&#233; 2026 d&#233;butent sous un soleil ardent, certes, mais s'accompagnent d'une belle fonte des prix c&#244;t&#233; Tech. Smartphones, tablettes, TV ou encore PC portables, il y en a pour tous les budgets dans notre s&#233;lection en temps r&#233;el des meilleures offres. 
-</description>
+      <title>There are 63 new Grand Theft Auto 6 screenshots to pore over, giving us our first look at some of the key mechanics of the upcoming GTA game</title>
+      <link>https://www.techradar.com/gaming/there-are-63-new-grand-theft-auto-6-screenshots-to-pore-over-giving-us-our-first-look-at-some-of-the-key-mechanics-of-the-upcoming-gta-game</link>
+      <pubDate>Wed, 24 Jun 2026 18:20:25 +0000</pubDate>
+      <guid isPermaLink="false">a7qrkXEiVagBZXVDD6gtve</guid>
+      <description>What we learned from the latest batch of GTA 6 screenshots</description>
     </item>
     <item>
-      <title>Somehow this Payday 3 alternative is still getting massive free updates three years after release</title>
-      <link>https://www.techradar.com/gaming/somehow-this-payday-3-alternative-is-still-getting-massive-free-updates-three-years-after-release</link>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">fZv7jQSxhndjk29j4tBkh5</guid>
-      <description>Everyone has forgotten about Crime Boss: Rockay City, except its developers and, honestly, I'm glad.</description>
+      <title>What's better than the GTA 6 pre-orders going live? The LG C5 hitting a record-low price for Prime Day, that's what</title>
+      <link>https://www.techradar.com/televisions/whats-better-than-the-gta-6-pre-orders-going-live-the-lg-c5-hitting-a-record-low-price-for-prime-day-thats-what</link>
+      <pubDate>Wed, 24 Jun 2026 18:20:24 +0000</pubDate>
+      <guid isPermaLink="false">n3wkHNYznbVuYnFYv5VQ5b</guid>
+      <description>The LG C5 has dropped to a record-low price in all its sizes at Amazon, but it's the 42-inch that steals the show.</description>
     </item>
     <item>
-      <title>Vulnerabilities uncovered in secret US government systems and software during testing of Anthropic Mythos</title>
-      <link>https://www.techradar.com/pro/security/vulnerabilities-uncovered-in-secret-us-government-systems-and-software-during-testing-of-anthropic-mythos</link>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">E4KAsTKAfsByohfTR8cSML</guid>
-      <description>The US Government confirmed what the community already knows - Mythos is a true beast.</description>
+      <title>Not sure if the new Meta Glasses co-designed by Kylie Jenner are for you? These 3 alternatives from Meta, XReal, and RayNeo are all on offer right now</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/not-sure-if-the-new-meta-glasses-co-designed-by-kylie-jenner-are-for-you-these-3-alternatives-from-meta-xreal-and-rayneo-are-all-on-offer-right-now</link>
+      <pubDate>Wed, 24 Jun 2026 18:16:45 +0000</pubDate>
+      <guid isPermaLink="false">iuiiM4Fr8GkuPd52cVvfe3</guid>
+      <description>The new Meta Glasses are sleek, stylish, and smart, but not all smart glasses are made equal. Whether you want entertainment streaming or a more familiar design, these are your best options</description>
     </item>
     <item>
-      <title>I watched Supergirl starring Milly Alcock and Jason Momoa &#8212; and the DC comic-book movie isn't the terrific Woman of Tomorrow adaptation I'd hoped for</title>
-      <link>https://www.techradar.com/streaming/entertainment/supergirl-review</link>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Z3YitXnW6ZKs5pNKZPrmN7</guid>
-      <description>Based on the Supergirl: Woman of Tomorrow comic book series, the Milly Alcock-led superhero movie is DC Studios' first major misfire.</description>
+      <title>Honda is reportedly reviving the Element as an affordable hybrid</title>
+      <link>https://www.engadget.com/2200882/honda-reportedly-bringing-back-element-as-affordable-hybrid/</link>
+      <pubDate>Wed, 24 Jun 2026 18:12:35 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2200882/honda-reportedly-bringing-back-element-as-affordable-hybrid/</guid>
+      <description>According to Automotive News, the cult-favorite Honda Element could return in 2029 as a small hybrid SUV.</description>
     </item>
     <item>
-      <title>Supergirl review: Better than the comic, but not DCs best</title>
-      <link>https://mashable.com/entertainment/supergirl-review</link>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">05qrWmjI8kFThHEgi5LN1oW</guid>
-      <description>Milly Alcock and Jason Momoa bring big attitude to James Gunn's relaunched DC Universe. "Supergirl" review.</description>
+      <title>GTA 6 pre-orders are here, and these soundbars I&#8217;ve tested are all you need for a fully immersive experience when the game drops</title>
+      <link>https://www.techradar.com/televisions/soundbars/gta-6-pre-orders-are-here-and-these-soundbars-ive-tested-are-all-you-need-for-a-fully-immersive-experience-when-the-game-drops</link>
+      <pubDate>Wed, 24 Jun 2026 18:12:16 +0000</pubDate>
+      <guid isPermaLink="false">eLLju9zmWrhDJuMaEj2S99</guid>
+      <description>The 5 soundbars I&#8217;d recommend for fully immersing yourself in GTA 6 when it launches &#8212; including all-in-one options and Dolby Atmos surround systems.</description>
     </item>
     <item>
-      <title>29 phones to avoid buying this Prime Day for the exact same reason &#8212; and which models to consider instead</title>
-      <link>https://www.techradar.com/phones/29-phones-to-avoid-buying-this-prime-day-for-the-exact-same-reason-and-which-models-to-consider-instead</link>
-      <pubDate>Wed, 24 Jun 2026 15:57:34 +0000</pubDate>
-      <guid isPermaLink="false">sSgN7yGy4kcFui9SLV67Uc</guid>
-      <description>Several phones are set to lose software support soon &#8212; here are 29 models to avoid buying this Prime Day, and which to consider instead.</description>
+      <title>Looking for the best smartwatch? The Apple Watch Ultra 3 is truly the king of wearables, and I'd upgrade to it for these 3 reasons alone</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/looking-for-the-best-smartwatch-the-apple-watch-ultra-3-is-truly-the-king-of-wearables-and-id-upgrade-to-it-for-these-3-reasons-alone</link>
+      <pubDate>Wed, 24 Jun 2026 18:11:56 +0000</pubDate>
+      <guid isPermaLink="false">5vpkZcHj8nLEexCAqkDmU</guid>
+      <description>The Apple Watch Ultra 3 is our best overall smartwatch, and it's finally hit a record-low price thanks to Prime Day.</description>
     </item>
     <item>
-      <title>The best Prime Day deals on noise-cancelling and open earbuds: shop AirPods, Bose, and picks under $100</title>
-      <link>https://mashable.com/tech/best-prime-day-earbuds-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:57:34 +0000</pubDate>
-      <guid isPermaLink="false">063qkZIwJLAbVgi9dKsWupM</guid>
-      <description>We've rounded up the best earbud deals you can grab from June 23 to 26 during Prime Day, including the AirPods Pro 3 for $179.</description>
+      <title>The Samsung Galaxy Ultra 2 is almost certainly coming soon, judging by the incredible 45% discount on last year's model &#8212; should you buy now or wait?</title>
+      <link>https://www.techradar.com/health-fitness/the-samsung-galaxy-ultra-2-is-almost-certainly-coming-soon-judging-by-the-incredible-45-percent-discount-on-last-years-model-should-you-buy-now-or-wait</link>
+      <pubDate>Wed, 24 Jun 2026 18:07:33 +0000</pubDate>
+      <guid isPermaLink="false">aPkBGcDzVHuwtNCvBUNeKf</guid>
+      <description>The Samsung Galaxy Watch Ultra just hit a mammoth 45% off, and based on my many years of covering deals, I'm confident this will sell like hot cakes.</description>
     </item>
     <item>
-      <title>Looking for a sweet AirPods Prime Day deal? I've got every lowest-seen price live now &#8212; AirPods Pro 3 and AirPods Max 2 at best-ever prices!</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/looking-for-a-sweet-airpods-prime-day-deal-ive-got-every-lowest-seen-price-live-now-airpods-pro-3-and-airpods-max-2-at-best-ever-prices</link>
-      <pubDate>Wed, 24 Jun 2026 15:56:44 +0000</pubDate>
-      <guid isPermaLink="false">NTbXzAn87VbcB8erCavAtL</guid>
-      <description>AirPods are some of the most requested products on Prime Day, so here are the best prices live now, wherever you live.</description>
+      <title>This year&#8217;s Prime Day deals on Apple products are the best I&#8217;ve seen</title>
+      <link>https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026</link>
+      <pubDate>2026-06-24T14:05:04-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=949350</guid>
+      <description>Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there&#8217;s a good chance you&#8217;ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Tim [&#8230;]</description>
     </item>
     <item>
-      <title>LDLC r&#233;pond &#224; la Steam Machine avec sa &#171; Stim Machine &#187; : m&#234;me prix de 1 039 &#8364;, mais un GPU plus puissant</title>
-      <link>https://www.frandroid.com/marques/valve/3155691_ldlc-repond-a-la-steam-machine-avec-sa-stim-machine-meme-prix-de-1-039-e-mais-un-gpu-plus-puissant</link>
-      <pubDate>Wed, 24 Jun 2026 15:56:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3155691_ldlc-repond-a-la-steam-machine-avec-sa-stim-machine-meme-prix-de-1-039-e-mais-un-gpu-plus-puissant</guid>
-      <description>
-LDLC lance la &#171; Stim Machine &#187;, un PC Mini-ITX vendu 999,95&#160;&#8364; en kit ou 1 039&#160;&#8364; mont&#233;, soit le prix exact de la Steam Machine de base. Le clin d'&#339;il &#224; Valve est assum&#233;.
-</description>
-    </item>
-    <item>
-      <title>Amazon fait mal aux soldes avec son Prime Day :&#160;voici les meilleures offres qui m&#233;ritent votre argent</title>
-      <link>https://www.frandroid.com/bons-plans/3151231_le-prime-day-damazon-commence-enfin-voici-les-meilleures-offres-en-direct</link>
-      <pubDate>Wed, 24 Jun 2026 15:54:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3151231_le-prime-day-damazon-commence-enfin-voici-les-meilleures-offres-en-direct</guid>
-      <description>
-Le Prime Day d'Amazon est officiellement lanc&#233; depuis hier ! Jusqu'&#224; vendredi, vous allez pouvoir d&#233;couvrir une multitude de promotions, mais pour vous faire gagner du temps, nous faisons le tri en temps r&#233;el pour vous proposer uniquement les offres les plus int&#233;ressantes.
-</description>
-    </item>
-    <item>
-      <title>Why settle? The Kindle Colorsoft is so cheap for Prime Day that it no longer makes sense to choose the Kindle Paperwhite</title>
-      <link>https://www.techradar.com/tablets/ereaders/why-settle-the-kindle-colorsoft-is-so-cheap-for-prime-day-that-it-no-longer-makes-sense-to-choose-the-kindle-paperwhite</link>
-      <pubDate>Wed, 24 Jun 2026 15:52:03 +0000</pubDate>
-      <guid isPermaLink="false">XCVFcdy9REnFbkiReWHZAb</guid>
-      <description>Sure, I've fantasized about swapping my Kindle Paperwhite for a full-color Kindle Colorsoft, but why spend over $200 just to have some visual variety? But now, with the Colorsoft priced at near Paperwhite levels for Prime Day, it's a no-brainer.</description>
-    </item>
-    <item>
-      <title>Casques, &#233;couteurs et enceintes Bluetooth sont &#224; prix cass&#233; cet &#233;t&#233; ! Voici les meilleures offres du Prime Day d&#8217;Amazon sur l&#8217;audio</title>
-      <link>https://www.frandroid.com/bons-plans/3151137_amazon-veut-ecouler-ses-stocks-de-casques-et-decouteurs-avant-la-fin-de-la-semaine-les-meilleures-offres-du-prime-day-sur-laudio</link>
-      <pubDate>Wed, 24 Jun 2026 15:50:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3151137_amazon-veut-ecouler-ses-stocks-de-casques-et-decouteurs-avant-la-fin-de-la-semaine-les-meilleures-offres-du-prime-day-sur-laudio</guid>
-      <description>
-Accessoires incontournables du quotidien, les casques audio et les &#233;couteurs sans fil permettent de profiter d'un bon son dans la rue, les transports, les parcs ou en terrasse. Avec l'&#233;t&#233; qui commence &#224; peine, il serait peut-&#234;tre temps de s'&#233;quiper pour &#233;couter dans les meilleures conditions les prochains hits de l'&#233;t&#233;.
-</description>
-    </item>
-    <item>
-      <title>Oubliez la Steam Machine, voici la Stim Machine</title>
-      <link>https://www.01net.com/actualites/oubliez-la-steam-machine-voici-la-stim-machine.html</link>
-      <pubDate>Wed, 24 Jun 2026 15:50:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1356286</guid>
-      <description>C'est fran&#231;ais monsieur. La Steam Machine n'est pas encore sortie, que LDLC, entreprise fran&#231;aise, veut lui couper l'herbe sous le pied en sortant sa Stim Machine, une console-PC clairement inspir&#233;e du cube de Valve, mais qui se veut plus puissante pour moins ch&#232;re.</description>
-    </item>
-    <item>
-      <title>Pourquoi Wikip&#233;dia a banni d&#233;finitivement son cofondateur Larry Sanger</title>
-      <link>https://www.01net.com/actualites/pourquoi-wikipedia-a-banni-definitivement-son-cofondateur-larry-sanger.html</link>
-      <pubDate>Wed, 24 Jun 2026 15:48:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1356271</guid>
-      <description>Larry Sanger a co-fond&#233; Wikip&#233;dia en 2001. Il en est parti en 2002. Depuis vingt-cinq ans, il ne cesse de la critiquer. L'encyclop&#233;die vient de l'en remercier d&#233;finitivement.</description>
-    </item>
-    <item>
-      <title>I spent &#163;60 in the Prime Day sales but missed my chance for a &#163;15 voucher, and now I'm fuming &#8212; don't make the same mistake I did</title>
-      <link>https://www.techradar.com/tech/i-spent-gbp60-in-the-prime-day-sales-but-missed-my-chance-for-a-gbp15-voucher-and-now-im-fuming-dont-make-the-same-mistake-i-did</link>
-      <pubDate>Wed, 24 Jun 2026 15:44:38 +0000</pubDate>
-      <guid isPermaLink="false">A5NTM8995ePnYNkxSTVRVX</guid>
-      <description>A no-strings-attached Amazon voucher? I'm kicking myself.</description>
-    </item>
-    <item>
-      <title>Amazon just dropped some rare Prime Day camping deals on Yeti and Coleman gear</title>
-      <link>https://mashable.com/tech/best-prime-day-camping-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:37:01 +0000</pubDate>
-      <guid isPermaLink="false">06tEgWdsOyTvzCgai1tCHUf</guid>
-      <description>Amazon Prime Day camping deals include Coleman coolers, tents, Anker Solix power stations, and more. As of June 24, Amazon added some rare discounts on Yeti coolers.</description>
-    </item>
-    <item>
-      <title>Quels sont les meilleurs &#233;crans portables pour PC, Mac, smartphones et Switch 2 en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/687242_guide-dachat-les-meilleurs-moniteurs-portables-pour-pc-mac-smartphones-et-switch-en-2020</link>
-      <pubDate>Wed, 24 Jun 2026 15:36:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/687242_guide-dachat-les-meilleurs-moniteurs-portables-pour-pc-mac-smartphones-et-switch-en-2020</guid>
-      <description>
-Assez m&#233;connus, les &#233;crans portables (ou &#171; moniteurs externes &#187;) ont de plus en plus le vent en poupe. Il faut dire que les caract&#233;ristiques de leurs dalles se sont am&#233;lior&#233;es et que la connectique USB-C avec DisplayPort a ouvert des possibilit&#233;s. Voici notre s&#233;lection des meilleurs &#233;crans portables.
-</description>
-    </item>
-    <item>
-      <title>Intuit will show off how it rebuilt its AI infrastructure to support fast and complex tasks at VB Transform 2026</title>
-      <link>https://venturebeat.com/orchestration/intuit-will-show-off-how-it-rebuilt-its-ai-infrastructure-to-support-fast-and-complex-tasks-at-vb-transform-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:34:01 GMT</pubDate>
-      <guid isPermaLink="false">1QwR6mNavwB2PXEItUYe4Z</guid>
-      <description>Customer expectations have shifted from simple, fast conversational interactions to complex agentic AI-powered tasks that legacy IT architectures simply can&#8217;t handle.&#160;To address this, Intuit made the bold decision to overhaul its technical infrastructure for its business platform. The company moved away from its multi-agent setup, which prioritized broad capabilities, to a granular, skill-and-tool-based architecture while embedding human experts directly into the workflow alongside AI. This shift involved decomposing its massive agents into specialized components, separating the brain from the...</description>
-    </item>
-    <item>
-      <title>Dutton Ranch season 2 renewed by Paramount+ ahead of 'explosive' season 1 finale &#8212; now the Yellowstone spinoff just needs Taylor Sheridan as showrunner</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/dutton-ranch-season-2-renewal</link>
-      <pubDate>Wed, 24 Jun 2026 15:31:31 +0000</pubDate>
-      <guid isPermaLink="false">RYBki5PUn8cG3bgWGAtVtT</guid>
-      <description>It's the least surprising news ever, but Dutton Ranch season 2 has officially been confirmed by Paramount+. But what does this mean for its showrunner?</description>
-    </item>
-    <item>
-      <title>Climate.gov staff relaunch site after Trump killed it</title>
-      <link>https://mashable.com/science/climate-change-website-revived-by-former-trump-staff</link>
-      <pubDate>Wed, 24 Jun 2026 15:31:26 +0000</pubDate>
-      <guid isPermaLink="false">07g9xH8fwqhtUFewXlERuOb</guid>
-      <description>Former NOAA scientists have relaunched a hub for climate change information after President Trump axed Climate.gov last year.</description>
-    </item>
-    <item>
-      <title>J&#8217;ai test&#233; le Google Home Speaker&#160;: l&#8217;enceinte connect&#233;e boost&#233;e &#224; Gemini</title>
-      <link>https://www.frandroid.com/marques/google/3155315_jai-teste-le-google-home-speaker-lenceinte-connectee-boostee-a-gemini</link>
-      <pubDate>Wed, 24 Jun 2026 15:30:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3155315_jai-teste-le-google-home-speaker-lenceinte-connectee-boostee-a-gemini</guid>
-      <description>
-Avec sa nouvelle enceinte Home Speaker, Google veut remettre l&#8217;enceinte connect&#233;e au centre de la maison. Plus conversationnelle, plus int&#233;gr&#233;e &#224; l&#8217;&#233;cosyst&#232;me domotique et toujours pens&#233;e pour piloter musique, objets connect&#233;s et services du quotidien &#224; la voix, elle entend faire mieux que les anciens mod&#232;les sans changer de philosophie.
-</description>
-    </item>
-    <item>
-      <title>Sorry, America: The World Cup is free to watch in the UK</title>
-      <link>https://www.techradar.com/how-to-watch/sorry-america-the-world-cup-is-free-to-watch-in-the-uk</link>
-      <pubDate>Wed, 24 Jun 2026 15:29:35 +0000</pubDate>
-      <guid isPermaLink="false">chqkFbFGb8eJ2JYLVMZMEd</guid>
-      <description>BBC iPlayer and ITVX are showing all 104 2026 FIFA World Cup games between them, which means all the action is free to stream live for UK TV Licence holders.</description>
+      <title>&#8216;If AI is to help build a better &#8203;future, it must be honest about what it costs us now&#8217;: UN urges AI giants to reveal  full extent of environmental damage</title>
+      <link>https://www.techradar.com/pro/if-ai-is-to-help-build-a-better-future-it-must-be-honest-about-what-it-costs-us-now-un-urges-ai-giants-to-reveal-full-extent-of-environmental-damage</link>
+      <pubDate>Wed, 24 Jun 2026 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">V3qRRfhRHTFVx7XV8LDRLX</guid>
+      <description>AI companies should reveal the full cost on the environment, UN Chief says.</description>
     </item>
     <item>
       <title>Amazon Prime Day is here: We found the 75+ best live deals on Apple, Sony, Kindle, and Lego favorites</title>
       <link>https://mashable.com/tech/best-amazon-prime-day-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:25:20 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 18:04:13 +0000</pubDate>
       <guid isPermaLink="false">03VrNyLEvGnorSliXHaez14</guid>
       <description>Find the best Prime Day deals of 2026 on Sony headphones, Samsung TVs, Kindles, and Apple Watches.</description>
     </item>
     <item>
-      <title>I'm back into vinyl in a big way in 2026, and Fluance's top cheap turntable is 20% off for Prime Day in this turntable deal, but only for 12 hours (so hurry!)</title>
-      <link>https://www.techradar.com/audio/im-back-into-vinyl-in-a-big-way-in-2026-and-fluances-top-cheap-turntable-is-20-percent-off-for-prime-day-in-this-turntable-deal-but-only-for-12-hours-so-hurry</link>
-      <pubDate>Wed, 24 Jun 2026 15:25:00 +0000</pubDate>
-      <guid isPermaLink="false">KZ36BsiSNEwPfrmiHm5Nba</guid>
-      <description>The highly-rated Fluance RT81 turntable is enjoying a Lightning Deal as part of Amazon's Prime Day, saving you 20%. But the discount only lasts for 12 hours &#8212; quick!</description>
+      <title>Prime Day&#8217;s TV deals are perfectly timed for GTA 6 &#8212; I&#8217;m a TV reviewer, and here are the best gaming TV deals to upgrade ready for its launch</title>
+      <link>https://www.techradar.com/televisions/prime-days-tv-deals-are-perfectly-timed-for-gta-6-im-a-tv-reviewer-and-here-are-the-best-gaming-tv-deals-to-upgrade-ready-for-its-launch</link>
+      <pubDate>Wed, 24 Jun 2026 18:02:19 +0000</pubDate>
+      <guid isPermaLink="false">Z4ogEeiMQK6xCudiNxPdZe</guid>
+      <description>I've searched through Prime Day TV deals for the best offers on gaming TVs. Here are my picks, just in time for GTA 6 pre-orders.</description>
     </item>
     <item>
-      <title>Prime Day 2026: Get live updates on Amazon deals from Apple, Bose, Lego, and Sony</title>
+      <title>Erling Haaland&#8217;s Snapchat is giving World Cup fans something else to cheer for</title>
+      <link>https://mashable.com/life/erling-haaland-snapchat-world-cup-norway</link>
+      <pubDate>Wed, 24 Jun 2026 18:00:50 +0000</pubDate>
+      <guid isPermaLink="false">02w8ScKTjFiGTRVpwtm8dEG</guid>
+      <description>Erling Haaland is scoring goals for Norway at the FIFA World Cup, but his funny Snapchat posts have become their own viral moment.</description>
+    </item>
+    <item>
+      <title>The modern version of a fly trapped in amber: 3D printing your Gaussian Splat is one of the most amazing things I've seen in a long time</title>
+      <link>https://www.techradar.com/computing/printers-scanners/the-modern-version-of-a-fly-trapped-in-amber-3d-printing-your-gaussian-splat-is-one-of-the-most-amazing-things-ive-seen-in-a-long-time</link>
+      <pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">TiWvFLpwuvyQg4go8sGNxC</guid>
+      <description>Want to DIY a perfect model of a local landmark to sit on your shelf in a 'dry snow globe' style? Now you can with a 3D-printed Gaussian Splat.</description>
+    </item>
+    <item>
+      <title>Lumysi hid an activity tracker in a bracelet because wearables are gauche, darling</title>
+      <link>https://www.engadget.com/2199703/lumsi-hid-an-activity-tracker-in-a-bracelet-because-wearables-are-gauche-darling/</link>
+      <pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2199703/lumsi-hid-an-activity-tracker-in-a-bracelet-because-wearables-are-gauche-darling/</guid>
+      <description>It's a Kickstarter from an unknown brand that wants to offer a classier fitness tracker.</description>
+    </item>
+    <item>
+      <title>EcoFlow literally just dropped the price of this portable power station for Prime Day &#8212; our 5-star Delta 3 Plus is the perfect summer companion</title>
+      <link>https://www.techradar.com/pro/ecoflow-literally-just-dropped-the-price-of-this-portable-power-station-for-prime-day-our-5-star-delta-3-plus-is-the-perfect-summer-companion</link>
+      <pubDate>Wed, 24 Jun 2026 17:53:02 +0000</pubDate>
+      <guid isPermaLink="false">MixTwwVTpZDGpHcg4b3kDY</guid>
+      <description>My top-performing power station is finally on sale at Amazon, and it's the one you'll want for camping, road trips, and working outside this summer.</description>
+    </item>
+    <item>
+      <title>Google is finally opening the Play Store to outside payments</title>
+      <link>https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust</link>
+      <pubDate>2026-06-24T13:36:44-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=956296</guid>
+      <description>While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to the way it handles billing for developers worldwide. As announced in March, the flat 30 percent [&#8230;]</description>
+    </item>
+    <item>
+      <title>RTE assurait qu&#8217;il n&#8217;y avait &#171; aucune inqui&#233;tude &#187; : le lendemain, 100 000 foyers bretons &#233;taient dans le noir</title>
+      <link>https://www.frandroid.com/survoltes/3155601_rte-assurait-quil-ny-avait-aucune-inquietude-le-lendemain-100-000-foyers-bretons-etaient-dans-le-noir</link>
+      <pubDate>Wed, 24 Jun 2026 17:32:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3155601_rte-assurait-quil-ny-avait-aucune-inquietude-le-lendemain-100-000-foyers-bretons-etaient-dans-le-noir</guid>
+      <description>
+Si la France dispose d'une capacit&#233; de production suffisante pour passer l'&#233;t&#233; sans difficult&#233; majeure, la canicule n'est pas sans cons&#233;quence pour le syst&#232;me &#233;lectrique. Car au-del&#224; de l'approvisionnement, les fortes chaleurs peuvent &#233;galement fragiliser les &#233;quipements du r&#233;seau et provoquer des coupures localis&#233;es, comme c'est le cas dans le sud du Finist&#232;re depuis la soir&#233;e du 23 juin.
+...</description>
+    </item>
+    <item>
+      <title>The Best Breville Espresso Machine Is 30 Percent Off Right Now (2026)</title>
+      <link>https://www.wired.com/story/breville-deals-apd-6-24-2026/</link>
+      <pubDate>Wed, 24 Jun 2026 17:31:32 +0000</pubDate>
+      <guid isPermaLink="false">6a3bf230cac2b168187f6621</guid>
+      <description>You can save hundreds of dollars on Breville appliances during Amazon Prime Day.</description>
+    </item>
+    <item>
+      <title>Prime Day deals under $50 that are really worth it</title>
+      <link>https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50</link>
+      <pubDate>2026-06-24T13:28:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=951543</guid>
+      <description>If you&#8217;re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while sticking to your budget. We&#8217;ll keep this post updated throughout the sale as we find new deals and low prices, [&#8230;]</description>
+    </item>
+    <item>
+      <title>Installer SteamOS sur son PC : le guide complet, &#233;tape par &#233;tape</title>
+      <link>https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-pc/3155683_installer-steamos-sur-son-pc-le-guide-complet-etape-par-etape</link>
+      <pubDate>Wed, 24 Jun 2026 17:27:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-pc/3155683_installer-steamos-sur-son-pc-le-guide-complet-etape-par-etape</guid>
+      <description>
+SteamOS n'est plus r&#233;serv&#233; au Steam Deck ni &#224; la Steam Machine. Depuis la version 3.8, on peut l'installer gratuitement sur n'importe quel PC &#224; carte AMD ou Intel. Voici le tuto complet, de la config mat&#233;rielle &#224; la configuration du syst&#232;me, avec les solutions pour les cartes Nvidia.
+</description>
+    </item>
+    <item>
+      <title>The $27 million Al proxy war over Alex Bores ends in a draw</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results</link>
+      <pubDate>2026-06-24T13:25:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=956263</guid>
+      <description>The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]</description>
+    </item>
+    <item>
+      <title>'Deepfake as a service' sees 39% spike in dark web conversations &#8212; and experts fear it will fuel the next wave of &#8220;fake boss&#8221; scams</title>
+      <link>https://www.techradar.com/pro/security/deepfake-as-a-service-sees-39-percent-spike-in-dark-web-conversations-and-experts-fear-it-will-fuel-the-next-wave-of-fake-boss-scams</link>
+      <pubDate>Wed, 24 Jun 2026 17:25:00 +0000</pubDate>
+      <guid isPermaLink="false">uqGUzUHZcRV9JjCB8DpwmK</guid>
+      <description>Businesses must prepare for what's coming by focusing on prevention and employee education.</description>
+    </item>
+    <item>
+      <title>Prime Day 2026 live: Were vetting the best Amazon deals in real-time</title>
       <link>https://mashable.com/tech/prime-day-live-deal-updates-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:24:10 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 17:24:04 +0000</pubDate>
       <guid isPermaLink="false">05mFWPt3zXpre4l4jqZabzi</guid>
       <description>Get live updates on the first Prime Day of 2026. We found record-low prices on AirPods, DJI drones, Kindles, Sony headphones, and more.</description>
     </item>
     <item>
-      <title>Forget Prime Day right now &#8212; all of my favorite Dell laptops are even cheaper directly from Dell, including $499.99 for a Ryzen 7</title>
-      <link>https://www.techradar.com/pro/forget-prime-day-right-now-all-of-my-favorite-dell-laptops-are-even-cheaper-directly-from-dell-including-usd499-99-for-a-ryzen-7</link>
-      <pubDate>Wed, 24 Jun 2026 15:24:01 +0000</pubDate>
-      <guid isPermaLink="false">85mneuppqUESSPVz5mgYH</guid>
-      <description>Amazon Prime Day has some great deals &#8212; but Dell has it beat with these deals on some of my favorite laptops of the year.</description>
+      <title>The best live Prime Day outdoor deals to shop: Rare Yeti cooler deals just dropped</title>
+      <link>https://mashable.com/tech/best-prime-day-outdoor-live-deals-2026</link>
+      <pubDate>Wed, 24 Jun 2026 17:22:56 +0000</pubDate>
+      <guid isPermaLink="false">01pXasBOBTSujD5w4ONpmFL</guid>
+      <description>We've rounded up the best Amazon Prime Day outdoor deals from brands like Yeti, Anker Solix, Solo Stove, LifeStraw, and more.</description>
     </item>
     <item>
-      <title>Soldes 2026 : il y a -200 &#8364; sur un TV Mini-LED QLED 4K de 65&#8243; et 165 Hz misant sur la fluidit&#233; et le contraste avec suppl&#233;ment gaming</title>
-      <link>https://www.frandroid.com/bons-plans/3155335_soldes-2026-il-y-a-200-e-sur-un-tv-mini-led-qled-4k-de-65-et-165-hz-misant-sur-la-fluidite-et-le-contraste-avec-supplement-gaming</link>
-      <pubDate>Wed, 24 Jun 2026 15:24:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3155335_soldes-2026-il-y-a-200-e-sur-un-tv-mini-led-qled-4k-de-65-et-165-hz-misant-sur-la-fluidite-et-le-contraste-avec-supplement-gaming</guid>
-      <description>
-Le Hisense 65U7S Pro est un t&#233;l&#233;viseur Mini-LED QLED de 65 pouces qui propose une image lumineuse, &#224; retrouver pour 1 099 euros au lieu de 1 299 euros.
-</description>
+      <title>The top tech Prime Day deals to shop on day two</title>
+      <link>https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale</link>
+      <pubDate>2026-06-24T13:16:46-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=955366</guid>
+      <description>Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, because many of the best deals are still around, and some new ones have joined them. If you&#8217;ve got a Prime subscription, whether through a free trial or a [&#8230;]</description>
     </item>
     <item>
-      <title>Boulanger fait le plein de bonnes affaires lors des soldes : les 10 offres &#224; retenir</title>
-      <link>https://www.frandroid.com/bons-plans/3153115_boulanger-demarre-fort-les-soldes-dete-le-top-8-des-meilleurs-deals-tech</link>
-      <pubDate>Wed, 24 Jun 2026 15:22:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3153115_boulanger-demarre-fort-les-soldes-dete-le-top-8-des-meilleurs-deals-tech</guid>
-      <description>
-Top d&#233;part pour les soldes d'&#233;t&#233; chez Boulanger, et l'enseigne ne fait pas les choses &#224; moiti&#233; ! Il brade imm&#233;diatement les produits Tech phares de 2026, incluant le Samsung Galaxy S26+ ou le t&#233;l&#233;viseur LG OLED C6. Pour vous faire gagner du temps, d&#233;couvrez les v&#233;ritables bons plans &#224; saisir d&#232;s la premi&#232;re d&#233;marque.
-</description>
+      <title>Facebook rolls out an AI companion app for creators</title>
+      <link>https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/</link>
+      <pubDate>Wed, 24 Jun 2026 17:16:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135724</guid>
+      <description>The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.</description>
     </item>
     <item>
-      <title>Who is Darializa Avila Chevalier? The upstart NY democratic socialist who just beat a long-serving congressman</title>
-      <link>https://www.fastcompany.com/91564270/who-is-darializa-avila-chevalier-the-upstart-ny-democratic-socialist-who-just-beat-a-long-serving-congressman</link>
-      <pubDate>2026-06-24T15:22:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91564270/who-is-darializa-avila-chevalier-the-upstart-ny-democratic-socialist-who-just-beat-a-long-serving-congressman</guid>
-      <description>The 32-year-old political newcomer just pulled off one of the biggest primary upsets in recent memory. Here&#8217;s what to know.
-On Tuesday night, 32-year-old political newcomer Darializa Avila Chevalier defeated five-term democratic Congressman Adriano Espaillat, of New York&#8217;s 13th District, in New York&#8217;s primary election.</description>
-    </item>
-    <item>
-      <title>1&#160;&#8364; le litre et 1&#160;500 km d&#8217;autonomie&#160;: le coup de ma&#238;tre de Renault avec ses nouvelles Clio, Captur et Symbioz</title>
-      <link>https://www.01net.com/actualites/1-e-le-litre-1-500-km-dautonomie-coup-de-maitre-renault-nouvelles-clio-captur-symbioz.html</link>
-      <pubDate>Wed, 24 Jun 2026 15:21:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1356247</guid>
-      <description>Renault d&#233;voile une nouvelle g&#233;n&#233;ration de moteurs GPL pour ses Clio, Captur et Symbioz. Outre une puissance en hausse, ces versions voient leur consommation r&#233;duite pour une autonomie port&#233;e &#224; 1 500 km. Tr&#232;s attractif pour payer moins cher &#224; la pompe.</description>
-    </item>
-    <item>
-      <title>The best Prime Day streaming deals right now: 10+ subscriptions for less than $1</title>
-      <link>https://mashable.com/entertainment/best-prime-day-streaming-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:19:46 +0000</pubDate>
-      <guid isPermaLink="false">05JQtBshGwIfszjfboaq4U4</guid>
-      <description>Are there any streaming deals for Prime Day? Yes, the best Prime Day streaming deals include Paramount+, HBO Max, Apple TV, and more.</description>
-    </item>
-    <item>
-      <title>America&#8217;s 250th birthday has many in the U.S. feeling conflicted about celebrating, Gallup poll shows</title>
-      <link>https://www.fastcompany.com/91564251/americas-250th-birthday-many-u-s-feeling-conflicted-celebrating-gallup-poll-shows</link>
-      <pubDate>2026-06-24T15:16:14</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91564251/americas-250th-birthday-many-u-s-feeling-conflicted-celebrating-gallup-poll-shows</guid>
-      <description>Most Americans feel the founding fathers wouldn&#8217;t be pleased with how the U.S. has turned out.
-Duane Mitchell has big plans for the United States&#8217; 250th anniversary.Mitchell, a 78-year-old veteran in Montana, plans to take a red, white and blue 1954 Chevrolet pickup that he restored and drive it in local parades for the Fourth of July. In honor of the country&#8217;s milestone anniversary, he bought a decorative eagle to mount on the back of the truck, accompanied by American flags.&#8220;I&#8217;ll be driving my pickup,&#8221; he said, referring to his role in the parades. &#8220;Usually we freeze a whole bunch of candy, ...</description>
-    </item>
-    <item>
-      <title>GTA 6 devrait corriger le pire d&#233;faut technique de GTA 5</title>
+      <title>PlayStation confirme que GTA 6 aura des temps de chargement quasi instantan&#233;s sur PS5</title>
       <link>https://www.frandroid.com/produits-android/3155527_gta-6-devrait-corriger-le-pire-defaut-technique-de-gta-5</link>
-      <pubDate>Wed, 24 Jun 2026 15:15:31 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 17:15:14 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/produits-android/3155527_gta-6-devrait-corriger-le-pire-defaut-technique-de-gta-5</guid>
       <description>
 PlayStation affirme que GTA 6 n'aura quasiment aucun temps de chargement &#224; sa sortie sur PS5. Une am&#233;lioration nette par rapport &#224; GTA 5, l'un des plus mauvais &#233;l&#232;ves en la mati&#232;re.
 </description>
     </item>
     <item>
-      <title>The Trump White House Is Over Anthropic CEO Dario Amodei</title>
-      <link>https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/</link>
-      <pubDate>Wed, 24 Jun 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">6a3afdf25935a4d59defeab0</guid>
-      <description>At high-stakes meetings with the White House, Anthropic's cofounder&#8212;a "weirdo," per one official&#8212;has been replaced by cofounder Tom Brown.</description>
+      <title>'Real Alien Sh*t': US F15 pilot claimed to have seen a minefield of Iranian drones moving like 'jellyfish', perhaps thanks to meshed networking</title>
+      <link>https://www.techradar.com/pro/real-alien-sh-t-us-f15-pilot-claimed-to-have-seen-a-minefield-of-iranian-drones-moving-like-jellyfish-perhaps-thanks-to-meshed-networking</link>
+      <pubDate>Wed, 24 Jun 2026 17:15:00 +0000</pubDate>
+      <guid isPermaLink="false">F8xcUSJSnEEwHPABY4f6vA</guid>
+      <description>US pilot describes Iranian drones forming coordinated jellyfish-like patterns during combat, sparking debate over advanced networking or misperception claims.</description>
     </item>
     <item>
-      <title>21 Prime Day deals Verge readers are buying right now</title>
-      <link>https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers</link>
-      <pubDate>2026-06-24T11:15:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=954880</guid>
-      <description>There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we&#8217;ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers actually buy. Below, we&#8217;ve rounded up [&#8230;]</description>
-    </item>
-    <item>
-      <title>GTA 6 fans say locking content behind the Ultimate Edition is 'scummy', but it looks like an upgrade will be available post-launch</title>
-      <link>https://www.techradar.com/gaming/gta-6-fans-say-locking-content-behind-the-ultimate-edition-is-scummy-but-it-looks-like-an-upgrade-will-be-available-post-launch</link>
-      <pubDate>Wed, 24 Jun 2026 15:14:45 +0000</pubDate>
-      <guid isPermaLink="false">vNoc78wWhSexZu43JbLM8m</guid>
-      <description>GTA 6 Ultimate Edition has tons of exclusive content, but a PS Store listing appears to confirm a separate upgrade will be available at launch.</description>
-    </item>
-    <item>
-      <title>OpenAI unveils first custom AI inference chip, Jalape&#241;o, with Broadcom &#8212; and its development was sped-up with OpenAI's own models</title>
-      <link>https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models</link>
-      <pubDate>Wed, 24 Jun 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="false">72e6eWAFItcmUxHWFCMBkB</guid>
-      <description>OpenAI and Broadcom this morning unveiled their first custom AI accelerator chip named "Jalape&#241;o," positioning it is as a purpose-built processor for large language model (LLM) inference, rather than the more general GPUs offered by the likes of Nvidia or AMD. According to its creators, Jalape&#241;o is designed to support workloads behind ChatGPT, Codex, the API and future agentic products, though notably, both OpenAI's and Broadcom's news releases position it as a product that could be made available to external AI firms as well &#8212; "built from the ground up for current and future LLMs across the i...</description>
-    </item>
-    <item>
-      <title>Stop saying John Ternus has to fix Apple &#8212; the company is fine, his job is simply to carry Cook's legacy forward and yes, to roll out more winning designs</title>
-      <link>https://www.techradar.com/phones/iphone/stop-saying-john-ternus-has-to-fix-apple-the-company-is-fine-his-job-is-simply-to-carry-cooks-legacy-forward-and-yes-to-roll-out-more-winning-designs</link>
-      <pubDate>Wed, 24 Jun 2026 15:10:32 +0000</pubDate>
-      <guid isPermaLink="false">StZdesRryQo9LHuzGvHN3J</guid>
-      <description>New reports claim John Ternus wants to reinvigorate Apple design, but I think that's a misreading of the past, present, and near future of Apple</description>
-    </item>
-    <item>
-      <title>We found 10+ Prime Day deals on MicroSD and portable SSDs for a brief respite from RAMageddon</title>
-      <link>https://mashable.com/tech/best-amazon-prime-day-microsd-ssd-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:06:53 +0000</pubDate>
-      <guid isPermaLink="false">03kgWRNd2q0cMxsL9oZJrkT</guid>
-      <description>With RAMageddon, prices are going way up. But these Prime Day deals keep prices low on portable SSDs and microSDs from Samsung, SanDisk, and Lexar.</description>
-    </item>
-    <item>
-      <title>GTA VI price revealed: What you get for the $99 ultimate edition</title>
-      <link>https://mashable.com/entertainment/grand-theft-auto-gta-6-price-ultimate-edition-what-you-get</link>
-      <pubDate>Wed, 24 Jun 2026 15:05:01 +0000</pubDate>
-      <guid isPermaLink="false">00DC2ynhsOr7KkvPHQ86N6m</guid>
-      <description>'Grand Theft Auto VI' finally has a price, but there's a more expensive Ultimate Edition that complicates things a bit.</description>
-    </item>
-    <item>
-      <title>I test e-readers, and Ive found the best-ever Kindle deals to shop on Prime Day</title>
-      <link>https://mashable.com/tech/best-prime-day-kindle-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 15:03:42 +0000</pubDate>
-      <guid isPermaLink="false">032dcu6NJeqKzoXERROXdqm</guid>
-      <description>Prime Day Kindle deals have finally landed. The best savings are on the Kindle Paperwhite Signature Edition, but you can also save over $100 on the new Kindle Scribe.</description>
-    </item>
-    <item>
-      <title>Zoox upgrades its robotaxi as it prepares for commercial service</title>
-      <link>https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/</link>
-      <pubDate>Wed, 24 Jun 2026 15:01:49 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135681</guid>
-      <description>The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support.</description>
-    </item>
-    <item>
-      <title>I'm using the Legend of Zelda: Ocarina of Time remake as an excuse to deck out my gaming station with the best Nintendo Switch 2 Lego, accessories and merch &#8212; here are my top picks as a super-fan</title>
-      <link>https://www.techradar.com/gaming/im-using-the-legend-of-zelda-ocarina-of-time-remake-as-an-excuse-to-deck-out-my-gaming-station-with-the-best-nintendo-switch-2-lego-accessories-and-merch-here-are-my-top-picks-as-a-super-fan</link>
-      <pubDate>Wed, 24 Jun 2026 15:00:58 +0000</pubDate>
-      <guid isPermaLink="false">UXrHajZ4N9FByatHbYhM3d</guid>
-      <description>The Legend of Zelda: Ocarina of Time is my all-time favorite game &#8212; these are the Nintendo Switch 2 accessories and merchandise I'm shopping for until the game releases</description>
-    </item>
-    <item>
-      <title>Too many Kindle Prime Day deals to choose from? Take our quick quiz to find the right model for you</title>
-      <link>https://www.techradar.com/tablets/ereaders/too-many-kindle-prime-day-deals-to-choose-from-take-our-quick-quiz-to-find-the-right-model-for-you</link>
-      <pubDate>Wed, 24 Jun 2026 15:00:13 +0000</pubDate>
-      <guid isPermaLink="false">nzj4zv8yiDtfUJU6ZZzJNa</guid>
-      <description>As usual, there's a mountain of Kindle deals to choose from this Prime Day &#8212; take our quiz to find the right model for you.</description>
-    </item>
-    <item>
-      <title>8BitDo&#8217;s all-button controller gets a screen upgrade for customizations without an app</title>
-      <link>https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth</link>
-      <pubDate>2026-06-24T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=954894</guid>
-      <description>8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved precision and responsiveness. The new Pro version comes with upgrades that include an even [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Zoox&amp;#8217;s purpose-built robotaxi is getting a refresh</title>
-      <link>https://www.theverge.com/transportation/955822/zoox-robotaxi-refresh-updates-seats-audio-color</link>
-      <pubDate>2026-06-24T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=955822</guid>
-      <description>Zoox, the autonomous vehicle company owned by Amazon, unveiled a new look for its boxy, bidirectional robotaxi, calling it the "next evolution" of the vehicle intended for mass production. The company is currently operating a free robotaxi service in San Francisco, Las Vegas, Austin, and Miami while it waits for the federal government to approve [&#8230;]...</description>
-    </item>
-    <item>
-      <title>This new tracking label could help solve cargo theft</title>
-      <link>https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/</link>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135475</guid>
-      <description>The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package.</description>
-    </item>
-    <item>
-      <title>Don't drive in the lava! &#8212; Star Wars: Galactic Racer will feature status effects on each planet 'that can be inflicted on you', but can also be counteracted thanks to the synergy system</title>
-      <link>https://www.techradar.com/gaming/star-wars-galactic-racer-creative-director-confirms-planets-will-have-status-effects-that-impact-your-vehicles-you-can-overheat-in-the-lava-but-you-can-also-get-cooled-in-the-water</link>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">J7ycw55rsTHzxTJg398DZB</guid>
-      <description>Fuse Games has revealed that Star Wars: Galactic Racer features a synergy system with status effects that impact the players' vehicles.</description>
-    </item>
-    <item>
-      <title>'We hope to sign the agreement soon': White House calls on Meta to submit AI models for review, citing abilities and vulnerabilities evaluation</title>
-      <link>https://www.techradar.com/pro/we-hope-to-sign-the-agreement-soon-white-house-calls-on-meta-to-submit-ai-models-for-review-citing-abilities-and-vulnerabilities-evaluation</link>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">BBHVVMdpmcEMUxwnPXEyuk</guid>
-      <description>OpenAI, Google and others all submit their latest models for White House review &#8211; Meta urged to do the same.</description>
-    </item>
-    <item>
-      <title>8BitDo launches the Arcade Controller Pro for hardcore fighting game fans</title>
-      <link>https://www.engadget.com/2197349/8bitdo-launches-the-arcade-controller-pro-for-hardcore-fighting-game-fans/</link>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2197349/8bitdo-launches-the-arcade-controller-pro-for-hardcore-fighting-game-fans/</guid>
-      <description>The 8BitDo Arcade Controller Pro is a subtle update for hardcore fighting game fans.</description>
-    </item>
-    <item>
-      <title>Children using AI in schools: How 3 major countries differ in policy amid debate on tech&#8217;s brain effects</title>
-      <link>https://www.fastcompany.com/91563712/children-using-ai-in-school-education-how-3-major-countries-differ-policy-amid-debate-on-brain-health-effects</link>
-      <pubDate>2026-06-24T15:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91563712/children-using-ai-in-school-education-how-3-major-countries-differ-policy-amid-debate-on-brain-health-effects</guid>
-      <description>Norway is cracking down with a generative AI ban, but other nations are encouraging AI use with labs and mandatory curricula.
-On June 19, Norway&#8217;s prime minister Jonas Gahr St&#248;re announced a near ban on the use of generative AI by elementary school students.&#160;</description>
-    </item>
-    <item>
-      <title>Zoox just redesigned its robotaxis for more comfort and less stink</title>
-      <link>https://www.fastcompany.com/91564135/zoox-redesigned-robotaxis</link>
-      <pubDate>2026-06-24T15:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91564135/zoox-redesigned-robotaxis</guid>
-      <description>The new Zoox robotaxi design takes lessons from half a million rides. And from human nature.
-In the more than 2.5 million miles Zoox robotaxis have driven in San Francisco and Las Vegas since last September, the Amazon-owned driverless vehicle service has learned a lot about operating on chaotic city streets. The company has also learned a lot about the chaos people can bring inside their vehicles....</description>
-    </item>
-    <item>
-      <title>Fnac et Darty donnent tout pour le d&#233;but des soldes : le TOP 14 des offres</title>
-      <link>https://www.frandroid.com/bons-plans/3152689_fnac-et-darty-sortent-le-grand-jeu-pour-le-debut-des-soldes-dete-les-10-meilleurs-deals-a-saisir</link>
-      <pubDate>Wed, 24 Jun 2026 14:59:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3152689_fnac-et-darty-sortent-le-grand-jeu-pour-le-debut-des-soldes-dete-les-10-meilleurs-deals-a-saisir</guid>
+      <title>Free est le meilleur op&#233;rateur 5G+ d&#8217;Europe d&#8217;apr&#232;s Opensignal, mais sur quels crit&#232;res ?</title>
+      <link>https://www.frandroid.com/marques/free/3155027_free-est-le-meilleur-operateur-5g-deurope-dapres-opensignal-mais-sur-quels-criteres</link>
+      <pubDate>Wed, 24 Jun 2026 17:14:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/free/3155027_free-est-le-meilleur-operateur-5g-deurope-dapres-opensignal-mais-sur-quels-criteres</guid>
       <description>
-C'est le top d&#233;part des soldes d'&#233;t&#233; ! Le duo incontournable Fnac et Darty ne perd pas de temps et lance une grande braderie. Smartphones, PC portables, TV 4K ou &#233;couteurs sans fil : d&#233;couvrez les v&#233;ritables bons plans de cette premi&#232;re d&#233;marque.
+La 5G+ n'est pas encore la norme en Europe, mais &#231;a n'emp&#234;che pas Free de se d&#233;marquer avec une exp&#233;rience jug&#233;e la meilleure du Vieux Continent sur ce r&#233;seau mobile.
 </description>
     </item>
     <item>
-      <title>When does Prime Day end? Heres how long the sale lasts in 2026.</title>
-      <link>https://mashable.com/article/when-prime-day-ends</link>
-      <pubDate>Wed, 24 Jun 2026 14:57:49 +0000</pubDate>
-      <guid isPermaLink="false">02FQjQuuMK3nQjMz2FM4f4k</guid>
-      <description>When does Prime Day end in 2026? Here's exactly how long the Amazon sale lasts this year.</description>
+      <title>Deezer says its new feature lets fans remix songs with artist consent</title>
+      <link>https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/</link>
+      <pubDate>Wed, 24 Jun 2026 17:14:33 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135794</guid>
+      <description>Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs.</description>
     </item>
     <item>
-      <title>OpenAI unveils its first custom chip, built by Broadcom</title>
-      <link>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</link>
-      <pubDate>Wed, 24 Jun 2026 14:54:46 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135687</guid>
-      <description>Named Jalape&#241;o, the new processor was designed specifically for the unique needs of OpenAI's inference systems.</description>
+      <title>How the modern CMO role prepares leaders for the CEO seat</title>
+      <link>https://www.fastcompany.com/91563016/how-the-modern-cmo-role-prepares-leaders-for-the-ceo-seat</link>
+      <pubDate>2026-06-24T17:12:12</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91563016/how-the-modern-cmo-role-prepares-leaders-for-the-ceo-seat</guid>
+      <description>A wider share of responsibilities puts the CMO in prime position.
+As I move from a CMO role into a CEO role, I&#8217;ve realized that the transition isn&#8217;t as unconventional as some expect. The modern CMO role has become one of the broadest leadership assignments in the C-suite. Yet the transition still surprises more conventional business thinkers because many still picture marketing as campaigns, messaging, and advertising, rather than enterprise strategy....</description>
     </item>
     <item>
-      <title>Oura Ring 5 review: a luxury smart ring for discreet everyday wellness tracking that&#8217;s (almost) easy to forget you&#8217;re wearing</title>
-      <link>https://www.techradar.com/health-fitness/oura-ring-5-review-a-luxury-smart-ring-for-discreet-everyday-wellness-tracking-thats-almost-easy-to-forget-youre-wearing</link>
-      <pubDate>Wed, 24 Jun 2026 14:54:02 +0000</pubDate>
-      <guid isPermaLink="false">JwfEYcsDmRxUXaeDHffL4h</guid>
-      <description>From its new tiny frame to the various health tracking data it can catalog, there's a lot of standout positives in my Oura Ring 5 review &#8212; but also some red flags.</description>
+      <title>How Shopify built an AI stack that doesn't care which models survive</title>
+      <link>https://venturebeat.com/orchestration/how-shopify-built-an-ai-stack-that-doesnt-care-which-models-survive</link>
+      <pubDate>Wed, 24 Jun 2026 17:10:58 GMT</pubDate>
+      <guid isPermaLink="false">6e0EDhjOQdYUoZw0ZkieW0</guid>
+      <description>Shopify built an LLM proxy that gives every engineer access to multiple AI providers &#8212; with automatic failover when any one of them goes down, changes, or disappears. When Claude Fable 5 shut down, Shopify's engineers didn't go into panic mode. The proxy shifted them to Claude Opus or GPT 5.5 automatically, without interrupting their workflows.
+
+&#8220;Fable looks amazing; we used it of course,&#8221; Farhan Thawar, Shopify&#8217;s head of engineering, says in a new VentureBeat Beyond the Pilot podcast. &#8220;When a model comes and then it goes, or it could be as innocuous as an update, the proxy allows us to spray ...</description>
     </item>
     <item>
-      <title>Snag these Nintendo Switch deals during Prime Day 2026</title>
-      <link>https://mashable.com/entertainment/best-prime-day-nintendo-switch-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 14:49:19 +0000</pubDate>
-      <guid isPermaLink="false">01jXCxHlk5RtyXDNCH4dCtp</guid>
-      <description>As of June 24, shop the best Prime Day Nintendo Switch deals at Amazon.</description>
+      <title>50+ of the best Prime Day tech deals, vetted by a tech editor on a budget</title>
+      <link>https://mashable.com/tech/best-amazon-prime-day-tech-deals-2026</link>
+      <pubDate>Wed, 24 Jun 2026 17:07:12 +0000</pubDate>
+      <guid isPermaLink="false">06o8s63CExAnBL3PsMcd2PG</guid>
+      <description>Mashable's tech editor found the best Prime Day tech deals of 2026. Get AirPods for $99, Kindles for $85, and save 50% on Bose headphones.</description>
     </item>
     <item>
-      <title>I've Built Countless Sets, and These Are the Best Prime Day Lego Deals (2026)</title>
-      <link>https://www.wired.com/story/amazon-prime-day-lego-deals-june-2026/</link>
-      <pubDate>Wed, 24 Jun 2026 14:44:41 +0000</pubDate>
-      <guid isPermaLink="false">6a3bc8e9272b4ff556f77295</guid>
-      <description>I love building Lego sets, so here are my picks of the best Prime Day Lego deals. There are some great toy discounts, too.</description>
+      <title>'A compelling choice': Western Digital 1TB SSD that fits in your pocket is over 40% off for Prime Day &#8212; the perfect upgrade for rugged on-the-go storage</title>
+      <link>https://www.techradar.com/pro/a-compelling-choice-western-digital-1tb-ssd-that-fits-in-your-pocket-is-over-40-percent-off-for-prime-day-the-perfect-upgrade-for-rugged-on-the-go-storage</link>
+      <pubDate>Wed, 24 Jun 2026 17:05:00 +0000</pubDate>
+      <guid isPermaLink="false">rGPobtWLomSo78NxhGPync</guid>
+      <description>This Western Digital My Passport SSD is a bigger, faster alternative to portable storage - and it's cheaper than ever this Prime Day.</description>
     </item>
     <item>
-      <title>Nos conseils pour construire sa Steam Machine : 8 composants, moins cher et un pi&#232;ge</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-gaming/3155073_nos-conseils-pour-construire-sa-steam-machine-8-composants-moins-cher-et-un-piege</link>
-      <pubDate>Wed, 24 Jun 2026 14:42:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-gaming/3155073_nos-conseils-pour-construire-sa-steam-machine-8-composants-moins-cher-et-un-piege</guid>
-      <description>
-Valve facture sa Steam Machine 1&#160;039&#160;&#8364;, et autorise d&#233;sormais SteamOS sur les PC &#224; carte AMD. On a mont&#233; la n&#244;tre pour moins cher&#160;: voici les 8 composants &#224; choisir, quel syst&#232;me installer, et le pi&#232;ge qui peut tout faire d&#233;railler.
-</description>
+      <title>Riot now lets you enable its anti-cheat when you want to</title>
+      <link>https://www.theverge.com/games/956137/riot-games-vanguard-pre-check-anti-cheat-on-demand-valorant</link>
+      <pubDate>2026-06-24T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=956137</guid>
+      <description>If League of Legends and Valorant players have the right hardware and elect to opt into "pre-boot security mechanisms and Windows' own native protection features," then, starting today, they can switch the Vanguard anti-cheat software from always-on to one that's "on demand." With "Vanguard Pre-Check," the kernel-level driver won't launch when your system does, according [&#8230;]...</description>
     </item>
     <item>
-      <title>Google says it'll soon be easier to use TSA PreCheck Touchless ID via Wallet</title>
-      <link>https://www.engadget.com/2200637/google-says-itll-soon-be-easier-to-use-tsa-precheck-touchless-id-via-wallet/</link>
-      <pubDate>Wed, 24 Jun 2026 14:40:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2200637/google-says-itll-soon-be-easier-to-use-tsa-precheck-touchless-id-via-wallet/</guid>
-      <description>Google Wallet will about to make TSA Precheck easier.</description>
+      <title>Stuart Fails to Save the Universe: release date, new trailer, cast, and everything we know so far about The Big Bang Theory spinoff on HBO Max</title>
+      <link>https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe</link>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">aUT2g6iMXej6ZXUmn2P6UE</guid>
+      <description>What on Earth is Chuck Lorre up to this time? Stuart Fails to Save the Universe is the Big Bang Theory spinoff nobody expected &#8212; here's its release date, trailer, cast and more.</description>
     </item>
     <item>
-      <title>Norton 360 Advanced gets 77% discount, drops price to &#163;2.92/mo &#8212; top-rated antivirus, 200GB cloud backup, VPN, parental controls and more</title>
-      <link>https://www.techradar.com/pro/norton-360-advanced-gets-77-percent-discount-drops-price-to-gbp2-92-mo-top-rated-antivirus-200gb-cloud-backup-vpn-parental-controls-and-more</link>
-      <pubDate>Wed, 24 Jun 2026 14:38:55 +0000</pubDate>
-      <guid isPermaLink="false">WmnxJrsDNwtRaWimyrQK3H</guid>
-      <description>Antivirus, parental control app, VPN, password manager, dark web monitoring, scam protection, and cloud backup makes this perfect for household protection</description>
+      <title>How to watch Switzerland vs. Canada online for free</title>
+      <link>https://mashable.com/entertainment/switzerland-canada-fifa-world-cup-2026-live-stream-for-free</link>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">023QGGUs55hyNDJ4cF7fUbr</guid>
+      <description>How to watch World Cup for free. Live stream Switzerland vs. Canada in the 2026 FIFA World Cup for free from anywhere in the world.</description>
     </item>
     <item>
-      <title>Gr&#226;ce au Prime Day, l&#8217;iPhone Air co&#251;te enfin le prix que tout le monde voulait &#224; la sortie</title>
-      <link>https://www.frandroid.com/bons-plans/3154999_grace-au-prime-day-liphone-air-coute-enfin-le-prix-que-tout-le-monde-voulait-a-la-sortie</link>
-      <pubDate>Wed, 24 Jun 2026 14:38:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3154999_grace-au-prime-day-liphone-air-coute-enfin-le-prix-que-tout-le-monde-voulait-a-la-sortie</guid>
-      <description>
-En perdant pr&#232;s de 450 euros, l'iPhone Air arrive &#224; faire oublier ses d&#233;fauts au profit de ses tr&#232;s nombreuses qualit&#233;s. Des points forts port&#233;s par une prise en main appr&#233;ciable et la pr&#233;sence de la puce A19 Pro.
-</description>
+      <title>How to watch Bosnia and Herzegovina vs. Qatar online for free</title>
+      <link>https://mashable.com/entertainment/bosnia-herzegovina-qatar-fifa-world-cup-2026-live-stream-for-free</link>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02CewkulThwqMfJrMqeQldU</guid>
+      <description>How to watch World Cup for free. Live stream Bosnia and Herzegovina vs. Qatar in the 2026 FIFA World Cup for free from anywhere in the world.</description>
     </item>
     <item>
-      <title>OpenAI reveals its first AI processor: Jalape&#241;o</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno</link>
-      <pubDate>2026-06-24T10:36:47-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=955939</guid>
-      <description>OpenAI has just revealed a new "intelligence processor" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]...</description>
+      <title>Digital Grand Theft Auto 6 pre-orders come with this bonus that you can instantly use to play free GTA games</title>
+      <link>https://www.techradar.com/gaming/digital-grand-theft-auto-6-pre-orders-come-with-this-bonus-that-you-can-instantly-use-to-play-free-gta-games</link>
+      <pubDate>Wed, 24 Jun 2026 16:58:09 +0000</pubDate>
+      <guid isPermaLink="false">HwW2RCXuzr4nTBycvdJTCg</guid>
+      <description>Digital GTA 6 pre-orders come with a free month of GTA+, here's everything you need to know.</description>
     </item>
     <item>
-      <title>You don't need to skimp with a cheap action cam &#8212; DJI's discounted Action 4 is better quality &#8212; and much better value at its lowest-ever price</title>
-      <link>https://www.techradar.com/cameras/action-cameras/you-dont-need-to-skimp-with-a-cheap-action-cam-djis-discounted-action-4-is-better-quality-and-much-better-value-at-its-lowest-ever-price</link>
-      <pubDate>Wed, 24 Jun 2026 14:34:23 +0000</pubDate>
-      <guid isPermaLink="false">ufJuWpL3mL7UCTswvQ9txF</guid>
-      <description>With punchy 4K video and 18m waterproofing, this is the best buy for adventurous vloggers on Prime Day.</description>
+      <title>Finally ready to try Dungeons and Dragons? These are the book, dice, and accessory deals I&#8217;d pick from Amazon&#8217;s Prime Day sale</title>
+      <link>https://www.techradar.com/gaming/gaming-accessories/finally-ready-to-try-dungeons-and-dragons-these-are-the-book-dice-and-accessory-deals-id-pick-from-amazons-prime-day-sale</link>
+      <pubDate>Wed, 24 Jun 2026 16:55:39 +0000</pubDate>
+      <guid isPermaLink="false">RcBpA2VDAXf9mEEigqSHwW</guid>
+      <description>Here are the Amazon Prime Day deals you need to kickstart your first Dungeons and Dragons adventure.</description>
     </item>
     <item>
-      <title>Le Cr&#233;dit Agricole lance une application pour remplacer Apple Pay&#160;: pourquoi c&#8217;est une fausse bonne id&#233;e</title>
-      <link>https://www.01net.com/actualites/le-credit-agricole-lance-une-application-pour-remplacer-apple-pay-pourquoi-cest-une-fausse-bonne-idee.html</link>
-      <pubDate>Wed, 24 Jun 2026 14:34:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1356241</guid>
-      <description>Le Cr&#233;dit Agricole devient la premi&#232;re banque fran&#231;aise &#224; s'affranchir d'Apple Pay sur iPhone en lan&#231;ant sa propre application de paiement sans contact. Une libert&#233; permise par l'Europe, mais qui cache de lourdes contraintes.</description>
+      <title>Amazon devices are up to 65% off on Prime Day &#8212; shop Fire TVs and Kindles on steep discount</title>
+      <link>https://mashable.com/tech/best-prime-day-amazon-device-live-deals-2026</link>
+      <pubDate>Wed, 24 Jun 2026 16:55:10 +0000</pubDate>
+      <guid isPermaLink="false">00nH0SrLxZpdAELTQedP9p3</guid>
+      <description>Shop Amazon devices during Prime Day. Fire TVs, Blink security cameras, and more are up to 65% off during the sale's June 23 start.</description>
     </item>
     <item>
-      <title>This year&#8217;s Prime Day deals on Apple products are the best I&#8217;ve seen</title>
-      <link>https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026</link>
-      <pubDate>2026-06-24T10:33:05-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=949350</guid>
-      <description>Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there&#8217;s a good chance you&#8217;ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Tim [&#8230;]</description>
+      <title>How to watch World Cup in Portugal for FREE</title>
+      <link>https://www.techradar.com/how-to-watch/football/watch-world-cup-in-portugal-for-free</link>
+      <pubDate>Wed, 24 Jun 2026 16:54:01 +0000</pubDate>
+      <guid isPermaLink="false">iDQXfECkHq7XsXrAUr6LCZ</guid>
+      <description>How to watch World Cup 2026 in Portugal for free &#8211; from anywhere with our football streaming trick.</description>
     </item>
     <item>
-      <title>Laptop prices suck these days, but here are 25 Prime Day deals that help a little</title>
-      <link>https://www.theverge.com/gadgets/951105/prime-day-laptop-keyboards-mice-accessories-deal-sale</link>
-      <pubDate>2026-06-24T10:32:25-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=951105</guid>
-      <description>The RAM, storage, and component crunch has come for new laptop prices. Plenty of models have gone up in price after being on the market for months, and so have those that&#8217;ve been on shelves for over a year. Plus, many new models are releasing at higher prices than the previous generation. So, it really [&#8230;]</description>
-    </item>
-    <item>
-      <title>I track TV prices all year: Here are the Prime Day TV deals that are actually worth buying</title>
-      <link>https://mashable.com/tech/best-prime-day-tv-live-deals-2026</link>
-      <pubDate>Wed, 24 Jun 2026 14:31:00 +0000</pubDate>
-      <guid isPermaLink="false">00H11tofEBk94sxz5EqiCkT</guid>
-      <description>Amazon has way more TVs on sale than its own Fire TVs. Prime Day runs June 23 to 26, I found deals on more than 25 TVs.</description>
-    </item>
-    <item>
-      <title>Why wearable AI must reduce cognitive overload</title>
-      <link>https://www.techradar.com/pro/why-wearable-ai-must-reduce-cognitive-overload</link>
-      <pubDate>Wed, 24 Jun 2026 14:27:42 +0000</pubDate>
-      <guid isPermaLink="false">Uic52aqjyvYNU9ik32TtH6</guid>
-      <description>We're in a cognitive load crisis. Here's what wearable AI can actually solve.</description>
-    </item>
-    <item>
-      <title>The Oura Ring 4 is at an all-time low price for Prime Day &#8212; save over $200</title>
-      <link>https://mashable.com/tech/june-24-prime-day-deal-2026-oura-ring-4</link>
-      <pubDate>Wed, 24 Jun 2026 14:27:23 +0000</pubDate>
-      <guid isPermaLink="false">05RtgK3xfHK52BTM1lylVaQ</guid>
-      <description>As of June 24, the Oura Ring 4 (gold, size 6) has hit its lowest price yet at the retailer of $246.05. That's 51% off its full price of $499.</description>
-    </item>
-    <item>
-      <title>Une intense &#171;&#160;boule de feu&#160;&#187; a illumin&#233; le ciel de Paris et du nord de la France : le ph&#233;nom&#232;ne enfin expliqu&#233;</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/bolide-intense-boule-feu-illumine-ciel-paris-nord-france-phenomene-enfin-explique-135619/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 24 Jun 2026 16:25:39 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/bolide-intense-boule-feu-illumine-ciel-paris-nord-france-phenomene-enfin-explique-135619/#xtor%3DRSS-8</guid>
-      <description>En levant les yeux vers le ciel nocturne dans la nuit de lundi &#224; mardi, peut-&#234;tre avez-vous eu la chance d&#8217;apercevoir une br&#232;ve mais intense tra&#238;n&#233;e de lumi&#232;re. Mais de quoi s&#8217;agissait-il&#160;?</description>
+      <title>Family files wrongful death suit following Tesla crash in Texas</title>
+      <link>https://www.engadget.com/2200784/family-files-wrongful-death-suit-following-tesla-crash-in-texas/</link>
+      <pubDate>Wed, 24 Jun 2026 16:53:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2200784/family-files-wrongful-death-suit-following-tesla-crash-in-texas/</guid>
+      <description>Victim's family files wrongful death suit following Tesla crash in Texas.</description>
     </item>
   </channel>
 </rss>
