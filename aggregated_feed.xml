@@ -3,7 +3,161 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 26 Jun 2026 21:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 23:11:28 GMT</lastBuildDate>
+    <item>
+      <title>Huawei promises up to 90:1 compression technology by using a proprietary dynamic algorithmic technique and a lot of SSDs</title>
+      <link>https://www.techradar.com/pro/huawei-promises-up-to-90-1-compression-technology-by-using-a-proprietary-dynamic-algorithmic-technique-and-a-lot-of-ssds</link>
+      <pubDate>Fri, 26 Jun 2026 23:05:00 +0000</pubDate>
+      <guid isPermaLink="false">9AiAuBj8YXH3JTNhLr7C2X</guid>
+      <description>Huawei unveiled a compression card combining proprietary algorithms and SSD infrastructure to achieve claimed reductions reaching 90:1 under ideal conditions.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Saturday, June 27 (game #1615)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-june-2026</link>
+      <pubDate>Fri, 26 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tDW6Vq6mWfHJauDvPmRvDD</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Saturday, June 27 (game #1112)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-27-june-2026</link>
+      <pubDate>Fri, 26 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tFhv8a25pteodSqW8moAx4</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Saturday, June 27 (game #846)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-27-june-2026</link>
+      <pubDate>Fri, 26 Jun 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">A48AvFVWFtaEqbGrqb3HY7</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.</title>
+      <link>https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m</link>
+      <pubDate>Fri, 26 Jun 2026 22:58:23 GMT</pubDate>
+      <guid isPermaLink="false">1qW6DTHy6voYRYNiBMnZE2</guid>
+      <description>Long-horizon reasoning exposes a core weakness in AI agents: context windows fill up fast, and retrieval pipelines return noise instead of signal.To solve this, researchers at the National University of Singapore developed MRAgent, a framework that abandons the static "retrieve-then-reason" approach. Instead, it uses a mechanism that allows an agent to dynamically develop its memory based on accumulating evidence.&#160;This multi-step memory reconstruction is integrated into the reasoning process of the large language model (LLM). While not the only framework in this space, MRAgent significantly re...</description>
+    </item>
+    <item>
+      <title>My favorite Govee smart lamps are at their lowest prices ever for Prime Day</title>
+      <link>https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale</link>
+      <pubDate>2026-06-26T18:51:28-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=958313</guid>
+      <description>We&#8217;ve already rounded up the best Philips Hue deals of Prime Day, but if you&#8217;re looking for something a little more budget-friendly, Govee&#8217;s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp 2&#160;($53.99, down from $79.99), Floor Lamp Basic ($59.99, regularly $99.99), the [&#8230;]...</description>
+    </item>
+    <item>
+      <title>After covering Prime Day for 36 hours over four days, this is the one thing I bought</title>
+      <link>https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor</link>
+      <pubDate>2026-06-26T18:09:46-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=958179</guid>
+      <description>We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you&#8217;re unfamiliar, Vampliers are [&#8230;]</description>
+    </item>
+    <item>
+      <title>Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off</title>
+      <link>https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/</link>
+      <pubDate>Fri, 26 Jun 2026 22:04:47 +0000</pubDate>
+      <guid isPermaLink="false">6a3ab757ffd0532097666bc6</guid>
+      <description>This is the last day for deals on Fellow Series 1 espresso machine, Fellow Aiden, and Fellow Stagg kettle. Each is the best in their category.</description>
+    </item>
+    <item>
+      <title>Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn&#8217;t steal an open source product</title>
+      <link>https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/</link>
+      <pubDate>Fri, 26 Jun 2026 22:00:37 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136556</guid>
+      <description>Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.</description>
+    </item>
+    <item>
+      <title>Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell</title>
+      <link>https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/</link>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a31bb493c2a0f5fb9c47690</guid>
+      <description>Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.</description>
+    </item>
+    <item>
+      <title>Quote of the day by Nvidia CEO Jensen Huang: 'People talk about AI reducing jobs &#8212; complete nonsense' &#8212; pushing back against automation fears</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-nvidia-ceo-jensen-huang-people-talk-about-ai-reducing-jobs-complete-nonsense-pushing-back-against-automation-fears</link>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hcXNEci3SMcWkz3Jf85Nuc</guid>
+      <description>Automation has long been considered a threat to jobs and employment, but not everybody agrees &#8211; least of all those architecting the AI buildout</description>
+    </item>
+    <item>
+      <title>It's your last chance to save on Lego Star Wars sets this Prime Day, including R2-D2, C-3PO, and Chopper</title>
+      <link>https://www.techradar.com/tech/its-your-last-chance-to-save-on-lego-star-wars-sets-this-prime-day-including-r2-d2-c-3po-and-chopper</link>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">62KaTMFcFmmQwoDjie4UD8</guid>
+      <description>Prime Day is almost over, but you can still save on some of the best Lego Star Wars sets, including R2-D2, C-3PO, Chopper, battle packs, and starfighters.</description>
+    </item>
+    <item>
+      <title>Get lifetime access to ChatGPT, Gemini, Claude, and more for $70</title>
+      <link>https://mashable.com/tech/june-26-1minai-advanced-business-plan-lifetime-subscription</link>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05QLYlLGOJ5qr4vQcacpKcI</guid>
+      <description>1min.AI gives you lifetime access to GPT, Gemini, Claude, and more</description>
+    </item>
+    <item>
+      <title>The Invite review: Olivia Wildes sex comedy is outrageous fun</title>
+      <link>https://mashable.com/entertainment/the-invite-review</link>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05goGIujCYv2OwlnfBzJT6w</guid>
+      <description>Olivia Wilde's sex comedy, "The Invite," is outrageous fun. Review.</description>
+    </item>
+    <item>
+      <title>You can still buy Beats, Sony, and Sennheiser headphones for under $100 before Prime Day ends</title>
+      <link>https://mashable.com/tech/amazon-prime-day-deal-2026-headphones-under-100</link>
+      <pubDate>Fri, 26 Jun 2026 21:53:56 +0000</pubDate>
+      <guid isPermaLink="false">01SJZwVr7SAGPLqlPhzdWG3</guid>
+      <description>Amazon Prime Day 2026 is almost over, but there's still time to grab these Apple, Sony, Sennheiser, and Beats headphones for under $100.</description>
+    </item>
+    <item>
+      <title>Prime Day just slashed OLED TV prices to Black Friday lows &#8212;save up to $1,600 from Samsung, LG, and Sony</title>
+      <link>https://www.techradar.com/seasonal-sales/prime-day-just-slashed-oled-tv-prices-to-black-friday-lows-save-up-to-usd1-600-from-samsung-lg-and-sony</link>
+      <pubDate>Fri, 26 Jun 2026 21:47:39 +0000</pubDate>
+      <guid isPermaLink="false">G2xu39XVwQPgtWM5Zuw9CB</guid>
+      <description>This year's Prime Day OLED TV deals are better than Black Friday, and I'm rounding up the best deals, with up to $1,600 off from Samsung, Sony, and LG.</description>
+    </item>
+    <item>
+      <title>How to watch FIFA World Cup 2026 in Spain (for FREE)</title>
+      <link>https://www.techradar.com/how-to-watch/football/how-to-watch-fifa-world-cup-2026-in-spain</link>
+      <pubDate>Fri, 26 Jun 2026 21:45:00 +0000</pubDate>
+      <guid isPermaLink="false">f2r4qBqbcTnC8bod68iFFB</guid>
+      <description>How to watch World Cup 2026 in Spain &#8211; for free with out handy streaming trick</description>
+    </item>
+    <item>
+      <title>Cassey Ho tells Mashable her biggest advice for content creators</title>
+      <link>https://mashable.com/life/cassey-ho-interview-vidcon-2026</link>
+      <pubDate>Fri, 26 Jun 2026 21:31:25 +0000</pubDate>
+      <guid isPermaLink="false">03zEXj5DHaTocIX5RMbRimY</guid>
+      <description>Mashable spoke with Blogilates founder Cassey Ho at VidCon 2026 as one of the inductees of the Hall of Fame.</description>
+    </item>
+    <item>
+      <title>The Best Prime Day Laptop Deals on My Personal Favorites</title>
+      <link>https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/</link>
+      <pubDate>Fri, 26 Jun 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a34197f53e85a455a936e85</guid>
+      <description>From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.</description>
+    </item>
+    <item>
+      <title>Prime Day 2026 live: Join us for the final countdown as we vet deals in real-time</title>
+      <link>https://mashable.com/tech/prime-day-live-deals-update-2026</link>
+      <pubDate>Fri, 26 Jun 2026 21:28:32 +0000</pubDate>
+      <guid isPermaLink="false">07qoLFZCCtKxHfFFHSKyHA8</guid>
+      <description>Get live updates as Prime Day 2026 draws to a close on June 26. We're still looking for deals on Apple iPads, Bose headphones, and OLED TVs.</description>
+    </item>
+    <item>
+      <title>Michelle Phan tells Mashable how much VidCon has changed since she first attended</title>
+      <link>https://mashable.com/life/michelle-phan-interview-vidcon-2026</link>
+      <pubDate>Fri, 26 Jun 2026 21:27:10 +0000</pubDate>
+      <guid isPermaLink="false">0543TdMkbXIQmeoJkeYkIS2</guid>
+      <description>Mashable spoke with YouTuber and EM cosmetics founder Michelle Phan at VidCon 2026 as one of the inductees of the Hall of Fame.</description>
+    </item>
+    <item>
+      <title>Our favorite Prime Day gadgets under $100 you don&amp;#8217;t need but will really want</title>
+      <link>https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale</link>
+      <pubDate>2026-06-26T17:25:22-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=957473</guid>
+      <description>Prime Day has a funny way of convincing you to buy things you weren&#8217;t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you&#8217;ve also added a gadget that can press your coffee maker&#8217;s power button and [&#8230;]</description>
+    </item>
     <item>
       <title>It's your last chance to get record-low prices on Amazon Fire TV Sticks &#8212; plus a huge sale on Amazon's answer to Samsung's The Frame art TV</title>
       <link>https://www.techradar.com/televisions/streaming-devices/its-your-last-chance-to-get-record-low-prices-on-amazon-fire-tv-sticks-plus-a-huge-sale-on-amazons-answer-to-samsungs-the-frame-art-tv</link>
@@ -12,198 +166,11 @@
       <description>Don't miss lowest-ever prices on Fire TV Sticks, or on the new Ember Artline TV.</description>
     </item>
     <item>
-      <title>How People in China Keep Outsmarting Anthropic&#8217;s Geolocation Restrictions</title>
-      <link>https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/</link>
-      <pubDate>Fri, 26 Jun 2026 21:02:54 +0000</pubDate>
-      <guid isPermaLink="false">6a3c44d40e1573fd224c196d</guid>
-      <description>As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.</description>
-    </item>
-    <item>
-      <title>Samsung&#8217;s Excellent OLED Monitors Are Up to 36 Percent Off for Prime Day</title>
-      <link>https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/</link>
-      <pubDate>Fri, 26 Jun 2026 21:02:31 +0000</pubDate>
-      <guid isPermaLink="false">6a3ec78dbce5fe8d7a25f5b1</guid>
-      <description>Samsung makes some of the very best OLED gaming monitors, and they&#8217;ve never been this affordable.</description>
-    </item>
-    <item>
-      <title>How to watch Uruguay vs Spain: Free Streams, TV Channels and Kick-Off time as FIFA World Cup 2026 favorites aim to finish top of Group H</title>
-      <link>https://www.techradar.com/how-to-watch/football/uruguay-vs-spain-world-cup-2026-free</link>
-      <pubDate>Fri, 26 Jun 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">gsTQEdBaXEjyFEWLPdHeof</guid>
-      <description>Here's how to watch Uruguay vs Spain for free online and from anywhere at the FIFA World Cup 2026, as Lamine Yamal &amp; Co. aim to seal top spot in Group H.</description>
-    </item>
-    <item>
-      <title>Bumble in serious decline as it considers sale, reports say</title>
-      <link>https://mashable.com/life/bumble-considers-sale-amid-download-decline</link>
-      <pubDate>Fri, 26 Jun 2026 20:56:39 +0000</pubDate>
-      <guid isPermaLink="false">05ZZA0xYxT81MRNvkt24JHG</guid>
-      <description>Dating app Bumble is exploring a sale amid financial struggles.</description>
-    </item>
-    <item>
-      <title>50+ Prime Day outdoor deals: Last chance to grab rare Yeti cooler deals</title>
-      <link>https://mashable.com/tech/best-prime-day-outdoor-deals-last-chance-2026</link>
-      <pubDate>Fri, 26 Jun 2026 20:56:26 +0000</pubDate>
-      <guid isPermaLink="false">03JEdPEgAgBALq9SJ3OoZce</guid>
-      <description>We've rounded up the best Amazon Prime Day outdoor deals from brands like Yeti, Anker Solix, Solo Stove, LifeStraw, and more.</description>
-    </item>
-    <item>
-      <title>Best Ninja Prime Day Deals (2026) Slushi, Creami, Crispi, Cafe Luxe</title>
-      <link>https://www.wired.com/story/ninja-creami-slushi-prime-day-deals-2026/</link>
-      <pubDate>Fri, 26 Jun 2026 20:55:48 +0000</pubDate>
-      <guid isPermaLink="false">6a3eb7ce457f50111389c896</guid>
-      <description>Ninja Creami Swirl, Crispi, Slushi, and Cafe Luxe Pro are all on Prime Day deals that will soon go away.</description>
-    </item>
-    <item>
-      <title>Amazon devices are heavily discounted on Prime Day &#8212; shop Fire TVs and Kindles on sale</title>
-      <link>https://mashable.com/tech/best-prime-day-amazon-device-deals-live-2026</link>
-      <pubDate>Fri, 26 Jun 2026 20:51:32 +0000</pubDate>
-      <guid isPermaLink="false">04VgaxhEaShztwFw1Gc7ksV</guid>
-      <description>Shop Amazon devices during Prime Day. Fire TVs, Blink security cameras, and more are up to 65% off during the sale's June 23 start.</description>
-    </item>
-    <item>
-      <title>Last-call for Prime Day shopping: We found 175+ deals on Apple, Ninja, Lego, Sony, and 
-DJI products</title>
-      <link>https://mashable.com/tech/best-amazon-prime-day-deals-2026-last-chance</link>
-      <pubDate>Fri, 26 Jun 2026 20:47:50 +0000</pubDate>
-      <guid isPermaLink="false">05yks01yLDjcjhznQgVlyAr</guid>
-      <description>Amazon's summer sale is ending soon. Shop the best Prime Day deals on Sony headphones, OLED TVs, Sony headphones, and Apple Watches.</description>
-    </item>
-    <item>
-      <title>Somehow Samsung's 55-inch The Frame QLED TV is still in stock and on sale for just $697.99 for Prime Day &#8212; get it before the sale ends tonight</title>
-      <link>https://www.techradar.com/seasonal-sales/somehow-samsungs-55-inch-the-frame-qled-tv-is-still-in-stock-and-on-sale-for-just-usd697-99-for-prime-day-get-it-before-the-sale-ends-tonight</link>
-      <pubDate>Fri, 26 Jun 2026 20:46:14 +0000</pubDate>
-      <guid isPermaLink="false">GjqcDgh6rcZnhnEhuLKFsE</guid>
-      <description>I can't believe this Prime Day deal is in stock, and it's ending soon &#8212; Samsung's 55-inch The Frame QLED TV is on sale for a record-low price of just $697.99.</description>
-    </item>
-    <item>
-      <title>The best Nintendo Switch deals on Prime Day: Last day discounts on the Switch 2 and eShop credit</title>
-      <link>https://mashable.com/entertainment/best-prime-day-nintendo-switch-deals-last-chance-2026</link>
-      <pubDate>Fri, 26 Jun 2026 20:46:02 +0000</pubDate>
-      <guid isPermaLink="false">02PWPYyB1tVSJsY1ICOggT4</guid>
-      <description>Shop the best Prime Day Nintendo Switch deals at Amazon, as vetted by our deals experts.</description>
-    </item>
-    <item>
-      <title>It&#8217;s the last day of Prime Day &#8212; here are over 140 great deals to choose from</title>
-      <link>https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four</link>
-      <pubDate>2026-06-26T16:38:57-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/957435/over-100-fresh-tech-deals-from-prime-day-day-3</guid>
-      <description>We&#8217;ve arrived at the final day of Prime Day, which at this point should probably be called &#8220;Prime Week.&#8221; We&#8217;ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you&#8217;ve been craving a popular [&#8230;]</description>
-    </item>
-    <item>
-      <title>The fastest-growing jobs in the creator economy dont require going viral</title>
-      <link>https://mashable.com/life/creator-economy-jobs-behind-the-scenes</link>
-      <pubDate>Fri, 26 Jun 2026 20:35:26 +0000</pubDate>
-      <guid isPermaLink="false">00dsVFIXu4ll4N0ypfgJi3L</guid>
-      <description>Two different panels at VidCons discussed the careers that can be built behind the camera.</description>
-    </item>
-    <item>
-      <title>The tech product dilemma: buy now or wait for lower prices?</title>
-      <link>https://mashable.com/tech/should-you-buy-tech-products-now-or-wait-for-a-deal</link>
-      <pubDate>Fri, 26 Jun 2026 20:34:20 +0000</pubDate>
-      <guid isPermaLink="false">07CVr4mhzRKgiCqsYpu1lkg</guid>
-      <description>Should you buy that laptop or smartphone you wanted right now? Or should you hold out for a better deal?</description>
-    </item>
-    <item>
-      <title>Bambu Lab 3D printer deals &#8212; these pro and budget 3D printers nailed our workshop tests and you won't find them in Amazon's Prime Day sale</title>
-      <link>https://www.techradar.com/pro/bambu-lab-3d-printer-deals-these-pro-and-budget-3d-printers-nailed-our-workshop-tests-and-you-wont-find-them-in-amazons-prime-day-sale</link>
-      <pubDate>Fri, 26 Jun 2026 20:32:58 +0000</pubDate>
-      <guid isPermaLink="false">UdkvmHzPxXy8cy3k3MubtE</guid>
-      <description>We've tested all the top Bambu Lab 3D printers. These are the best prices right now (and no, they're not on Amazon).</description>
-    </item>
-    <item>
-      <title>Don&#8217;t miss super-cheap AirPods before these deals end! Here&#8217;s why I&#8217;d skip the $99 deal and get AirPods Pro 3 instead &#8212; you&#8217;ll thank me later</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/dont-miss-super-cheap-airpods-before-these-deals-end-heres-why-id-skip-the-usd99-deal-and-get-airpods-pro-3-instead-youll-thank-me-later</link>
-      <pubDate>Fri, 26 Jun 2026 20:24:03 +0000</pubDate>
-      <guid isPermaLink="false">ekqXtXEZzEvkJv2rbpoRpA</guid>
-      <description>The $99 AirPods aren't great value, but the Pro absolutely rock, so here's why you should pay the extra.</description>
-    </item>
-    <item>
-      <title>Voici la meilleure opportunit&#233; du moment pour s&#8217;offrir la Xbox Series X (en blanche)</title>
-      <link>https://www.frandroid.com/bons-plans/bons-plans-gaming/3159949_voici-la-meilleure-opportunite-du-moment-pour-soffrir-la-xbox-series-x-en-blanche</link>
-      <pubDate>Fri, 26 Jun 2026 20:21:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/bons-plans-gaming/3159949_voici-la-meilleure-opportunite-du-moment-pour-soffrir-la-xbox-series-x-en-blanche</guid>
-      <description>
-La Xbox Series X, console de salon la plus performante de Microsoft, profite actuellement d'une baisse de prix avantageuse. Vous pouvez ainsi retrouver cette machine de jeu haut de gamme &#224; 504 euros au lieu de 549 euros chez E.leclerc.
-</description>
-    </item>
-    <item>
-      <title>Prime Day is ending &#8212; don't miss your chance to get up to $550 in free perks! Audiobooks, groceries, and even a $5 Caesar's pizza</title>
-      <link>https://www.techradar.com/seasonal-sales/prime-day-is-ending-dont-miss-your-chance-to-get-up-to-usd550-in-free-perks-audiobooks-groceries-and-even-a-usd5-caesars-pizza</link>
-      <pubDate>Fri, 26 Jun 2026 20:15:25 +0000</pubDate>
-      <guid isPermaLink="false">LdBk8kTvzkzVeHqVCDposb</guid>
-      <description>These deals are on the house, but don't expect them to stick around long after Amazon Prime Day ends tonight.</description>
-    </item>
-    <item>
-      <title>We found 15+ Prime Day deals on microSD, portable SSDs, and hard drives to help you fight RAMageddon</title>
-      <link>https://mashable.com/tech/best-amazon-prime-day-microsd-ssd-deals-last-chance-2026</link>
-      <pubDate>Fri, 26 Jun 2026 20:11:33 +0000</pubDate>
-      <guid isPermaLink="false">02cm6wPmkClFPJ2YbwqWrdb</guid>
-      <description>With RAMageddon, memory prices are going way up. Shop Prime Day deals on portable SSDs, HDDs, and microSDs from Samsung, SanDisk, and Lexar.</description>
-    </item>
-    <item>
-      <title>We&#8217;re afraid to show you the NSFW statue of Lionel Messi</title>
-      <link>https://www.fastcompany.com/91565905/lionel-messi-statue-patagonia-nsfw</link>
-      <pubDate>2026-06-26T19:54:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91565905/lionel-messi-statue-patagonia-nsfw</guid>
-      <description>It&#8217;s not the first structure built in honor of the Argentine soccer legend, but it&#8217;s definitely the most talked-about.
-Lionel Messi just got a new 85-foot statue. While it is not the only structure built in honor of the Argentine soccer legend, it is for sure the most talked-about.</description>
-    </item>
-    <item>
-      <title>18 Walmart deals that beat Amazon Prime Day: Lego sets, Ninja Slushi, Beats headphones, and Owala water bottles on sale</title>
-      <link>https://mashable.com/tech/walmart-summer-sale-2026-cheaper-than-amazon-deals</link>
-      <pubDate>Fri, 26 Jun 2026 19:48:38 +0000</pubDate>
-      <guid isPermaLink="false">01WpsRpZ78zCx0RxvdCFvYD</guid>
-      <description>Walmart deals are better than Amazon Prime Day if you're shopping for the Ninja Slushi, AirPods Max 2, or Lego sets.</description>
-    </item>
-    <item>
-      <title>What streaming platforms wants from creators like The Besties</title>
-      <link>https://mashable.com/life/creators-streamers-vidcon</link>
-      <pubDate>Fri, 26 Jun 2026 19:46:47 +0000</pubDate>
-      <guid isPermaLink="false">02o4AsC2qLglWrnqjNNjosb</guid>
-      <description>Streamers are increasingly outsourcing content discovery to creators. Here's what an Amazon exec has to share for those who want to follow in The Besties' footsteps.</description>
-    </item>
-    <item>
-      <title>These are the best deals you can still get on MacBooks before Apple&amp;#8217;s price hike kicks in</title>
-      <link>https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes</link>
-      <pubDate>2026-06-26T15:42:52-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=956830</guid>
-      <description>Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As an example, the 13-inch [&#8230;]</description>
-    </item>
-    <item>
-      <title>It's a dumb time to buy an Xbox, even with the coming price hike</title>
-      <link>https://www.engadget.com/2202875/its-a-dumb-time-to-buy-an-xbox-even-with-the-coming-price-hike/</link>
-      <pubDate>Fri, 26 Jun 2026 19:42:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2202875/its-a-dumb-time-to-buy-an-xbox-even-with-the-coming-price-hike/</guid>
-      <description>This is a prime example of a bad deal.</description>
-    </item>
-    <item>
-      <title>Ever wonder what people actually buy on Prime Day? Heres what Mashable readers have purchased so far.</title>
-      <link>https://mashable.com/tech/prime-day-2026-what-mashable-readers-bought</link>
-      <pubDate>Fri, 26 Jun 2026 19:37:55 +0000</pubDate>
-      <guid isPermaLink="false">017Zkv9guoQTopTrjjYj4CF</guid>
-      <description>Here are the best-selling Prime Day items according to Mashable readers, including a Switch 2 bundle, AirPods, and a solar generator.</description>
-    </item>
-    <item>
-      <title>Norton VPN adds split tunneling for Mac users in platform parity push</title>
-      <link>https://www.techradar.com/vpn/norton-vpn-adds-split-tunneling-for-mac-users-in-platform-parity-push</link>
-      <pubDate>Fri, 26 Jun 2026 19:37:30 +0000</pubDate>
-      <guid isPermaLink="false">NCXxNmHntr9pZnz9cSfCZm</guid>
-      <description>Norton has added split tunneling to its MacOS VPN app, allowing Mac users to choose which traffic they send through their VPN</description>
-    </item>
-    <item>
-      <title>The entire Google Pixel 10 line is on sale right now, but there's only one model I'd buy before Prime Day ends</title>
-      <link>https://www.techradar.com/phones/the-entire-google-pixel-10-line-is-on-sale-right-now-but-theres-only-one-model-id-buy-before-prime-day-ends</link>
-      <pubDate>Fri, 26 Jun 2026 19:31:21 +0000</pubDate>
-      <guid isPermaLink="false">dnPGHuHxnSAnboTDtuKNwj</guid>
-      <description>Here's why the Google Pixel 10a is the only Google phone I'm recommending for Prime Day.</description>
-    </item>
-    <item>
-      <title>Streaming live World Cup soccer games on airplanes is becoming a reality</title>
-      <link>https://www.fastcompany.com/91564439/starlink-wi-fi-streaming-world-cup-games-live-airplanes-reality</link>
-      <pubDate>2026-06-26T19:25:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91564439/starlink-wi-fi-streaming-world-cup-games-live-airplanes-reality</guid>
-      <description>In-flight internet has long been notoriously terrible, but United Airlines and other carriers are hoping to change that with SpaceX&#8217;s Starlink.
-Soccer fans may soon be able to catch more than just flights while traveling this summer on one of America&#8217;s largest airlines.</description>
+      <title>This is your last chance to get the Samsung Galaxy S26 Ultra for under $1,000</title>
+      <link>https://mashable.com/tech/prime-day-deal-2026-samsung-galaxy-s26-ultra-unlocked</link>
+      <pubDate>Fri, 26 Jun 2026 21:12:12 +0000</pubDate>
+      <guid isPermaLink="false">01hnGn8k3YUzVGi7QaurCBd</guid>
+      <description>You can still save $380 on the unlocked Samsung Galaxy S26 Ultra for Prime Day, but the deal could disappear by June 27.</description>
     </item>
   </channel>
 </rss>
