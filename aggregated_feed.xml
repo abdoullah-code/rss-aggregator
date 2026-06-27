@@ -3,174 +3,83 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 26 Jun 2026 23:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:52:23 GMT</lastBuildDate>
     <item>
-      <title>Huawei promises up to 90:1 compression technology by using a proprietary dynamic algorithmic technique and a lot of SSDs</title>
-      <link>https://www.techradar.com/pro/huawei-promises-up-to-90-1-compression-technology-by-using-a-proprietary-dynamic-algorithmic-technique-and-a-lot-of-ssds</link>
-      <pubDate>Fri, 26 Jun 2026 23:05:00 +0000</pubDate>
-      <guid isPermaLink="false">9AiAuBj8YXH3JTNhLr7C2X</guid>
-      <description>Huawei unveiled a compression card combining proprietary algorithms and SSD infrastructure to achieve claimed reductions reaching 90:1 under ideal conditions.</description>
+      <title>Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen</title>
+      <link>https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026</link>
+      <pubDate>2026-06-26T22:56:52-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=949350</guid>
+      <description>Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there&#8217;s a good chance you&#8217;ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. [&#8230;]</description>
     </item>
     <item>
-      <title>Quordle hints and answers for Saturday, June 27 (game #1615)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-june-2026</link>
-      <pubDate>Fri, 26 Jun 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">tDW6Vq6mWfHJauDvPmRvDD</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+      <title>It&#8217;s the last day of Prime Day &#8212; here are over 140 great deals to choose from</title>
+      <link>https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four</link>
+      <pubDate>2026-06-26T22:54:45-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/957435/over-100-fresh-tech-deals-from-prime-day-day-3</guid>
+      <description>We&#8217;ve arrived at the final day of Prime Day, which at this point should probably be called &#8220;Prime Week.&#8221; We&#8217;ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you&#8217;ve been craving a popular [&#8230;]</description>
     </item>
     <item>
-      <title>NYT Connections hints and answers for Saturday, June 27 (game #1112)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-27-june-2026</link>
-      <pubDate>Fri, 26 Jun 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">tFhv8a25pteodSqW8moAx4</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+      <title>24 Prime Day deals Verge readers are grabbing before Prime Day ends</title>
+      <link>https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers</link>
+      <pubDate>2026-06-26T22:33:54-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=954880</guid>
+      <description>There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we&#8217;ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers actually buy. Below, we&#8217;ve rounded up [&#8230;]</description>
     </item>
     <item>
-      <title>NYT Strands hints and answers for Saturday, June 27 (game #846)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-27-june-2026</link>
-      <pubDate>Fri, 26 Jun 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">A48AvFVWFtaEqbGrqb3HY7</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+      <title>Pour quelques partenaires am&#233;ricains | Washington r&#233;autorise l&#8217;IA la plus puissante d&#8217;Anthropic</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-06-26/pour-quelques-partenaires-americains/washington-reautorise-l-ia-la-plus-puissante-d-anthropic.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Fri, 26 Jun 2026 22:17:10 -0400</pubDate>
+      <guid isPermaLink="false">7ae622f4d9c43d3ab30c56c1190ec94f</guid>
+      <description>Apr&#232;s deux semaines de blocage in&#233;dit, le gouvernement am&#233;ricain a r&#233;autoris&#233; vendredi le mod&#232;le d&#8217;intelligence artificielle (IA) le plus puissant d&#8217;Anthropic, pour un petit cercle de partenaires uniquement am&#233;ricains, confirmant la reprise en main de Washington sur cette technologie strat&#233;gique.</description>
     </item>
     <item>
-      <title>New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.</title>
-      <link>https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m</link>
-      <pubDate>Fri, 26 Jun 2026 22:58:23 GMT</pubDate>
-      <guid isPermaLink="false">1qW6DTHy6voYRYNiBMnZE2</guid>
-      <description>Long-horizon reasoning exposes a core weakness in AI agents: context windows fill up fast, and retrieval pipelines return noise instead of signal.To solve this, researchers at the National University of Singapore developed MRAgent, a framework that abandons the static "retrieve-then-reason" approach. Instead, it uses a mechanism that allows an agent to dynamically develop its memory based on accumulating evidence.&#160;This multi-step memory reconstruction is integrated into the reasoning process of the large language model (LLM). While not the only framework in this space, MRAgent significantly re...</description>
+      <title>NYT Connections Sports Edition today: Hints and answers for June 27, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-june-27-2026</link>
+      <pubDate>Sat, 27 Jun 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02rSwOEBkgz2y4pP0xObFIl</guid>
+      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
     </item>
     <item>
-      <title>My favorite Govee smart lamps are at their lowest prices ever for Prime Day</title>
-      <link>https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale</link>
-      <pubDate>2026-06-26T18:51:28-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=958313</guid>
-      <description>We&#8217;ve already rounded up the best Philips Hue deals of Prime Day, but if you&#8217;re looking for something a little more budget-friendly, Govee&#8217;s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp 2&#160;($53.99, down from $79.99), Floor Lamp Basic ($59.99, regularly $99.99), the [&#8230;]...</description>
+      <title>NYT Pips hints, answers for June 27, 2026</title>
+      <link>https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-june-27-2026</link>
+      <pubDate>Sat, 27 Jun 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07CX6NAmdF4d1MqTMwGKEyp</guid>
+      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
     </item>
     <item>
-      <title>After covering Prime Day for 36 hours over four days, this is the one thing I bought</title>
-      <link>https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor</link>
-      <pubDate>2026-06-26T18:09:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=958179</guid>
-      <description>We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you&#8217;re unfamiliar, Vampliers are [&#8230;]</description>
+      <title>NYT Connections hints today: Clues, answers for June 27, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-hint-answer-today-june-27-2026</link>
+      <pubDate>Sat, 27 Jun 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05AgsbJDZGnAnpl1mayFvDF</guid>
+      <description>Connections is a New York Times word game that's all about finding the "common threads between words." How to solve the puzzle.</description>
     </item>
     <item>
-      <title>Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off</title>
-      <link>https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/</link>
-      <pubDate>Fri, 26 Jun 2026 22:04:47 +0000</pubDate>
-      <guid isPermaLink="false">6a3ab757ffd0532097666bc6</guid>
-      <description>This is the last day for deals on Fellow Series 1 espresso machine, Fellow Aiden, and Fellow Stagg kettle. Each is the best in their category.</description>
+      <title>NYT Strands hints, answers for June 27, 2026</title>
+      <link>https://mashable.com/entertainment/strands-nyt-hint-june-27-2026</link>
+      <pubDate>Sat, 27 Jun 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00h2DTNkVryJKG8HLtH1iyW</guid>
+      <description>The NYT Strands hints and answers you need to make the most of your puzzling experience.</description>
     </item>
     <item>
-      <title>Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn&#8217;t steal an open source product</title>
-      <link>https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136556</guid>
-      <description>Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.</description>
+      <title>Wordle today: Answer, hints for June 27, 2026</title>
+      <link>https://mashable.com/entertainment/wordle-today-answer-june-27-2026</link>
+      <pubDate>Sat, 27 Jun 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07bNQnGRXXjW6NN6hU2sJgf</guid>
+      <description>Here's the answer for "Wordle" #1834 on June 27 as well as a few hints, tips, and clues to help you solve it yourself.</description>
     </item>
     <item>
-      <title>Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell</title>
-      <link>https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a31bb493c2a0f5fb9c47690</guid>
-      <description>Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.</description>
+      <title>Hurdle hints and answers for June 27, 2026</title>
+      <link>https://mashable.com/entertainment/hurdle-hints-answers-june-27-2026</link>
+      <pubDate>Sat, 27 Jun 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02c9Doaaqn0QSYE2AUH7EYd</guid>
+      <description>Hints and answers to today's Hurdle all in one place.</description>
     </item>
     <item>
-      <title>Quote of the day by Nvidia CEO Jensen Huang: 'People talk about AI reducing jobs &#8212; complete nonsense' &#8212; pushing back against automation fears</title>
-      <link>https://www.techradar.com/pro/quote-of-the-day-by-nvidia-ceo-jensen-huang-people-talk-about-ai-reducing-jobs-complete-nonsense-pushing-back-against-automation-fears</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hcXNEci3SMcWkz3Jf85Nuc</guid>
-      <description>Automation has long been considered a threat to jobs and employment, but not everybody agrees &#8211; least of all those architecting the AI buildout</description>
-    </item>
-    <item>
-      <title>It's your last chance to save on Lego Star Wars sets this Prime Day, including R2-D2, C-3PO, and Chopper</title>
-      <link>https://www.techradar.com/tech/its-your-last-chance-to-save-on-lego-star-wars-sets-this-prime-day-including-r2-d2-c-3po-and-chopper</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">62KaTMFcFmmQwoDjie4UD8</guid>
-      <description>Prime Day is almost over, but you can still save on some of the best Lego Star Wars sets, including R2-D2, C-3PO, Chopper, battle packs, and starfighters.</description>
-    </item>
-    <item>
-      <title>Get lifetime access to ChatGPT, Gemini, Claude, and more for $70</title>
-      <link>https://mashable.com/tech/june-26-1minai-advanced-business-plan-lifetime-subscription</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">05QLYlLGOJ5qr4vQcacpKcI</guid>
-      <description>1min.AI gives you lifetime access to GPT, Gemini, Claude, and more</description>
-    </item>
-    <item>
-      <title>The Invite review: Olivia Wildes sex comedy is outrageous fun</title>
-      <link>https://mashable.com/entertainment/the-invite-review</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">05goGIujCYv2OwlnfBzJT6w</guid>
-      <description>Olivia Wilde's sex comedy, "The Invite," is outrageous fun. Review.</description>
-    </item>
-    <item>
-      <title>You can still buy Beats, Sony, and Sennheiser headphones for under $100 before Prime Day ends</title>
-      <link>https://mashable.com/tech/amazon-prime-day-deal-2026-headphones-under-100</link>
-      <pubDate>Fri, 26 Jun 2026 21:53:56 +0000</pubDate>
-      <guid isPermaLink="false">01SJZwVr7SAGPLqlPhzdWG3</guid>
-      <description>Amazon Prime Day 2026 is almost over, but there's still time to grab these Apple, Sony, Sennheiser, and Beats headphones for under $100.</description>
-    </item>
-    <item>
-      <title>Prime Day just slashed OLED TV prices to Black Friday lows &#8212;save up to $1,600 from Samsung, LG, and Sony</title>
-      <link>https://www.techradar.com/seasonal-sales/prime-day-just-slashed-oled-tv-prices-to-black-friday-lows-save-up-to-usd1-600-from-samsung-lg-and-sony</link>
-      <pubDate>Fri, 26 Jun 2026 21:47:39 +0000</pubDate>
-      <guid isPermaLink="false">G2xu39XVwQPgtWM5Zuw9CB</guid>
-      <description>This year's Prime Day OLED TV deals are better than Black Friday, and I'm rounding up the best deals, with up to $1,600 off from Samsung, Sony, and LG.</description>
-    </item>
-    <item>
-      <title>How to watch FIFA World Cup 2026 in Spain (for FREE)</title>
-      <link>https://www.techradar.com/how-to-watch/football/how-to-watch-fifa-world-cup-2026-in-spain</link>
-      <pubDate>Fri, 26 Jun 2026 21:45:00 +0000</pubDate>
-      <guid isPermaLink="false">f2r4qBqbcTnC8bod68iFFB</guid>
-      <description>How to watch World Cup 2026 in Spain &#8211; for free with out handy streaming trick</description>
-    </item>
-    <item>
-      <title>Cassey Ho tells Mashable her biggest advice for content creators</title>
-      <link>https://mashable.com/life/cassey-ho-interview-vidcon-2026</link>
-      <pubDate>Fri, 26 Jun 2026 21:31:25 +0000</pubDate>
-      <guid isPermaLink="false">03zEXj5DHaTocIX5RMbRimY</guid>
-      <description>Mashable spoke with Blogilates founder Cassey Ho at VidCon 2026 as one of the inductees of the Hall of Fame.</description>
-    </item>
-    <item>
-      <title>The Best Prime Day Laptop Deals on My Personal Favorites</title>
-      <link>https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/</link>
-      <pubDate>Fri, 26 Jun 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">6a34197f53e85a455a936e85</guid>
-      <description>From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.</description>
-    </item>
-    <item>
-      <title>Prime Day 2026 live: Join us for the final countdown as we vet deals in real-time</title>
-      <link>https://mashable.com/tech/prime-day-live-deals-update-2026</link>
-      <pubDate>Fri, 26 Jun 2026 21:28:32 +0000</pubDate>
-      <guid isPermaLink="false">07qoLFZCCtKxHfFFHSKyHA8</guid>
-      <description>Get live updates as Prime Day 2026 draws to a close on June 26. We're still looking for deals on Apple iPads, Bose headphones, and OLED TVs.</description>
-    </item>
-    <item>
-      <title>Michelle Phan tells Mashable how much VidCon has changed since she first attended</title>
-      <link>https://mashable.com/life/michelle-phan-interview-vidcon-2026</link>
-      <pubDate>Fri, 26 Jun 2026 21:27:10 +0000</pubDate>
-      <guid isPermaLink="false">0543TdMkbXIQmeoJkeYkIS2</guid>
-      <description>Mashable spoke with YouTuber and EM cosmetics founder Michelle Phan at VidCon 2026 as one of the inductees of the Hall of Fame.</description>
-    </item>
-    <item>
-      <title>Our favorite Prime Day gadgets under $100 you don&amp;#8217;t need but will really want</title>
-      <link>https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale</link>
-      <pubDate>2026-06-26T17:25:22-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=957473</guid>
-      <description>Prime Day has a funny way of convincing you to buy things you weren&#8217;t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you&#8217;ve also added a gadget that can press your coffee maker&#8217;s power button and [&#8230;]</description>
-    </item>
-    <item>
-      <title>It's your last chance to get record-low prices on Amazon Fire TV Sticks &#8212; plus a huge sale on Amazon's answer to Samsung's The Frame art TV</title>
-      <link>https://www.techradar.com/televisions/streaming-devices/its-your-last-chance-to-get-record-low-prices-on-amazon-fire-tv-sticks-plus-a-huge-sale-on-amazons-answer-to-samsungs-the-frame-art-tv</link>
-      <pubDate>Fri, 26 Jun 2026 21:20:49 +0000</pubDate>
-      <guid isPermaLink="false">pUgNwPVj66iCH4hQPRFaeA</guid>
-      <description>Don't miss lowest-ever prices on Fire TV Sticks, or on the new Ember Artline TV.</description>
-    </item>
-    <item>
-      <title>This is your last chance to get the Samsung Galaxy S26 Ultra for under $1,000</title>
-      <link>https://mashable.com/tech/prime-day-deal-2026-samsung-galaxy-s26-ultra-unlocked</link>
-      <pubDate>Fri, 26 Jun 2026 21:12:12 +0000</pubDate>
-      <guid isPermaLink="false">01hnGn8k3YUzVGi7QaurCBd</guid>
-      <description>You can still save $380 on the unlocked Samsung Galaxy S26 Ultra for Prime Day, but the deal could disappear by June 27.</description>
+      <title>Anthropic gets US government's permission to redeploy its Mythos cybersecurity AI model</title>
+      <link>https://www.engadget.com/2203088/anthropic-redeploy-mythos-cybersecurity-ai-model/</link>
+      <pubDate>Sat, 27 Jun 2026 01:54:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2203088/anthropic-redeploy-mythos-cybersecurity-ai-model/</guid>
+      <description>Anthropic is restoring select organizations' access to Mythos after getting permission from the US government.</description>
     </item>
   </channel>
 </rss>
