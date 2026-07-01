@@ -3,304 +3,227 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 01 Jul 2026 15:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 18:01:11 GMT</lastBuildDate>
     <item>
-      <title>Apr&#232;s le Prime Day, Amazon brade un tas de produits Tech pour la 2e d&#233;marque des soldes</title>
-      <link>https://www.frandroid.com/bons-plans/3160829_apres-le-prime-day-amazon-brade-un-tas-de-produits-tech-pour-la-2e-demarque-des-soldes</link>
-      <pubDate>Wed, 01 Jul 2026 15:37:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3160829_apres-le-prime-day-amazon-brade-un-tas-de-produits-tech-pour-la-2e-demarque-des-soldes</guid>
+      <title>Cloudflare&#8217;s new policy pushes AI companies to pay for publishers&#8217; content</title>
+      <link>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</link>
+      <pubDate>Wed, 01 Jul 2026 17:48:37 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138183</guid>
+      <description>Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.</description>
+    </item>
+    <item>
+      <title>Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million</title>
+      <link>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</link>
+      <pubDate>2026-07-01T13:45:23-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960354</guid>
+      <description>After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The 49 Best Outdoor Deals From the REI 4th of July Sale</title>
+      <link>https://www.wired.com/story/rei-4th-of-july-sale-2026/</link>
+      <pubDate>Wed, 01 Jul 2026 17:45:16 +0000</pubDate>
+      <guid isPermaLink="false">6a3a6a170e39d55436dd0ef3</guid>
+      <description>Whether you need a tent, sleeping pad, rain jacket, or new pack, REI&#8217;s Independence Day sale has something for everyone.</description>
+    </item>
+    <item>
+      <title>Xbox testing disc-to-digital feature that digitizes a physical game collection</title>
+      <link>https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection</link>
+      <pubDate>2026-07-01T13:41:23-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960173</guid>
+      <description>Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to digitize their existing physical game collections. Xbox employees [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Sony&#8217;s PlayStation Puts a Nail in Physical Media&#8217;s Coffin</title>
+      <link>https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/</link>
+      <pubDate>Wed, 01 Jul 2026 17:38:12 +0000</pubDate>
+      <guid isPermaLink="false">6a45220e83a50acabaf9978c</guid>
+      <description>Is PlayStation about to make the same mistake Microsoft made with Xbox One?</description>
+    </item>
+    <item>
+      <title>Even Honda is pivoting to data centers</title>
+      <link>https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/</link>
+      <pubDate>Wed, 01 Jul 2026 17:13:45 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138193</guid>
+      <description>Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.</description>
+    </item>
+    <item>
+      <title>How to watch Belgium vs Senegal: Free Streams, TV Channels &amp; Kick-Off time for FIFA World Cup 2026 as Kevin De Bruyne &amp; Co. eye progress</title>
+      <link>https://www.techradar.com/how-to-watch/football/belgium-vs-senegal-world-cup-2026-free</link>
+      <pubDate>Wed, 01 Jul 2026 17:05:00 +0000</pubDate>
+      <guid isPermaLink="false">zPng3GuSSmLw4PkKDq78fT</guid>
+      <description>Here's how to watch Belgium vs Senegal for free online and from anywhere at the FIFA World Cup 2026, as the Red Devils face the Lions of Teranga in the last 32.</description>
+    </item>
+    <item>
+      <title>Are you a YouTube Premium user? You could be paying more than you should be if you&#8217;ve subscribed through the Apple App Store</title>
+      <link>https://www.techradar.com/computing/websites-apps/are-you-a-youtube-premium-user-you-could-be-paying-more-than-you-should-be-if-youve-subscribed-through-the-apple-app-store</link>
+      <pubDate>Wed, 01 Jul 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">C4yNmdiBrwzdXtnxPsFYbd</guid>
+      <description>The Apple tax might be the reason you're paying more for your subscriptions than you should be.</description>
+    </item>
+    <item>
+      <title>Exclusive: Blood Message developer describes working on a AAA narrative game as 'every team member's dream' &#8212; 'We are all fans of so many great titles, like Uncharted, like The Last of Us'</title>
+      <link>https://www.techradar.com/gaming/exclusive-blood-message-developer-describes-working-on-a-aaa-narrative-game-as-every-team-members-dream-we-are-all-fans-of-so-many-great-titles-like-uncharted-like-the-last-of-us</link>
+      <pubDate>Wed, 01 Jul 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">SakA5xfYcMkhFnpqePUoQH</guid>
+      <description>A Blood Message developer breaks down some of the inspirations behind the upcoming game.</description>
+    </item>
+    <item>
+      <title>T-Mobile and Umbro are dropping an exclusive soccer jersey just in time for the World Cup finals</title>
+      <link>https://mashable.com/tech/t-mobile-umbro-soccer-jersey-drop</link>
+      <pubDate>Wed, 01 Jul 2026 16:56:58 +0000</pubDate>
+      <guid isPermaLink="false">03QIc12rYIwQxKqevxSI4oN</guid>
+      <description>T-Mobile and Umbro are dropping a limited-edition soccer jersey on July 7. Here's how to get it on the T-Life app.</description>
+    </item>
+    <item>
+      <title>Herschel just launched a Minecraft collab in time for back-to-school shopping. Heres how to buy.</title>
+      <link>https://mashable.com/entertainment/herschel-minecraft-collection-launch</link>
+      <pubDate>Wed, 01 Jul 2026 16:49:35 +0000</pubDate>
+      <guid isPermaLink="false">007WAtGz1ffzBSq1XMcOrBg</guid>
+      <description>Shop Herschel Minecraft backpacks, lunch boxes, hats, pencil cases, and more.</description>
+    </item>
+    <item>
+      <title>Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight</title>
+      <link>https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/</link>
+      <pubDate>Wed, 01 Jul 2026 16:48:58 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3138187</guid>
+      <description>The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money&#8217;s flowing back, and it&#8217;s the people who lived through that first [&#8230;]</description>
+    </item>
+    <item>
+      <title>Publishers can&#8217;t control AI answers. They can&#8217;t ignore them either</title>
+      <link>https://www.fastcompany.com/91566646/publishers-cant-control-ai-answers-they-cant-ignore-them-either</link>
+      <pubDate>2026-07-01T16:39:27</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91566646/publishers-cant-control-ai-answers-they-cant-ignore-them-either</guid>
+      <description>As Google&#8217;s AI summaries become a default layer between publishers and readers, accuracy is no longer just the platform&#8217;s problem.
+Stop me if you&#8217;ve heard this one: Google&#8217;s AI Overviews are sometimes wrong. This has been a perennial complaint about the Gemini-written summaries that appear at the top of search results since their debut in mid 2024.</description>
+    </item>
+    <item>
+      <title>Meta just paywalled a super-useful Ray-Ban smart glasses accessibility feature &#8212; and I have 3 reasons why this decision makes zero sense</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-paywalled-a-super-useful-ray-ban-smart-glasses-accessibility-feature-and-i-have-3-reasons-why-this-decision-makes-zero-sense</link>
+      <pubDate>Wed, 01 Jul 2026 16:35:11 +0000</pubDate>
+      <guid isPermaLink="false">KQsGywQi5UdLfdNqjEcR8L</guid>
+      <description>Meta&#8217;s AI smart glasses users with access to Meta One Premium will now need to pay to get higher conversation focus limit rates.</description>
+    </item>
+    <item>
+      <title>My favorite Kindle alternative is $30 off after a recent price increase</title>
+      <link>https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale</link>
+      <pubDate>2026-07-01T12:28:40-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960282</guid>
+      <description>Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to Amazon&#8217;s Kindle. If [&#8230;]</description>
+    </item>
+    <item>
+      <title>Penalty Shootouts: Is the Team That Kicks First More Likely to Win?</title>
+      <link>https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/</link>
+      <pubDate>Wed, 01 Jul 2026 16:28:25 +0000</pubDate>
+      <guid isPermaLink="false">6a4507fc2459ee380d02cff0</guid>
+      <description>Penalty kicks are already proving critical to big wins at this year&#8217;s World Cup. But the advantage in penalty kicks has more to do with psychological effects than who kicks first.</description>
+    </item>
+    <item>
+      <title>Visa, Mastercard and Coinbase have launched a new global stablecoin</title>
+      <link>https://www.engadget.com/2206043/visa-mastercard-and-coinbase-have-launched-a-new-global-stablecoin/</link>
+      <pubDate>Wed, 01 Jul 2026 16:24:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2206043/visa-mastercard-and-coinbase-have-launched-a-new-global-stablecoin/</guid>
+      <description>A new stablecoin venture backed by some big financial institutions is launching.</description>
+    </item>
+    <item>
+      <title>On a vu et essay&#233; cette trottinette &#233;lectrique qui ne p&#232;se que 10 kg et se porte comme un sac &#224; dos</title>
+      <link>https://www.frandroid.com/survoltes/trottinette-electrique/3164671_on-a-vu-et-essaye-cette-trottinette-electrique-qui-ne-pese-que-10-kg-et-se-porte-comme-un-sac-a-dos</link>
+      <pubDate>Wed, 01 Jul 2026 16:22:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/trottinette-electrique/3164671_on-a-vu-et-essaye-cette-trottinette-electrique-qui-ne-pese-que-10-kg-et-se-porte-comme-un-sac-a-dos</guid>
       <description>
-Alors que la deuxi&#232;me d&#233;marque des soldes d'&#233;t&#233; vient de sonner, Amazon prend le relais des festivit&#233;s apr&#232;s son c&#233;l&#232;bre Prime Day. Le g&#233;ant du e-commerce frappe fort en d&#233;voilant une nouvelle vague d'offres particuli&#232;rement all&#233;chantes sur tout son rayon Tech.
+Alpike est descendu des Alpes autrichiennes vers le salon Eurobike 2026, o&#249; nous avons d&#233;couvert sa trottinette &#233;lectrique ultra-l&#233;g&#232;re et pliable &#224; l'extr&#234;me.
 </description>
     </item>
     <item>
-      <title>Nous avons test&#233; le 8BitDo Arcade Controller Signature Edition : la meilleure version d&#8217;un excellent pad ?</title>
-      <link>https://www.frandroid.com/test/3162339_test-8bitdo-arcade-controller</link>
-      <pubDate>Wed, 01 Jul 2026 15:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/test/3162339_test-8bitdo-arcade-controller</guid>
+      <title>Fufjilm launches special waterproof and black-and-white editions of its retro QuickSnap instant cameras</title>
+      <link>https://www.engadget.com/2206038/fujifilm-launches-special-waterproof-and-black-and-white-editions-of-its-retro-quicksnap-instant-cameras/</link>
+      <pubDate>Wed, 01 Jul 2026 16:21:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2206038/fujifilm-launches-special-waterproof-and-black-and-white-editions-of-its-retro-quicksnap-instant-cameras/</guid>
+      <description>If you really want to get retro, Fujifilm is making some special editions of its classic instant camera.</description>
+    </item>
+    <item>
+      <title>Quelles sont les meilleures ampoules connect&#233;es &#224; choisir en 2026 ?</title>
+      <link>https://www.frandroid.com/guide-dachat/guide-objets-connectes/637570_meilleures-ampoules-connectees-choisir</link>
+      <pubDate>Wed, 01 Jul 2026 16:18:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-objets-connectes/637570_meilleures-ampoules-connectees-choisir</guid>
       <description>
-Un an apr&#232;s son premier Arcade Controller leverless, 8BitDo en d&#233;cline une &#233;dition signature &#224; la robe violette translucide, co-sign&#233;e par les pros de la baston Vxbao et Zhen. Sous la coque, un seul vrai changement face au mod&#232;le standard : des switches Kailh Purple Glede taill&#233;s pour le jeu de combat. On a confront&#233; cette version &#224; la N Edition d'origine pour voir si le jeu en vaut la chandelle.
-...</description>
-    </item>
-    <item>
-      <title>Watching England vs. DR Congo from home? Win tickets to the World Cup Final with this giveaway &#8212; save $1000s and see the trophy lifted live!</title>
-      <link>https://www.techradar.com/vpn/vpn-services/watching-england-vs-dr-congo-from-home-win-tickets-to-the-world-cup-final-with-this-giveaway-save-usd1000s-and-see-the-trophy-lifted-live</link>
-      <pubDate>Wed, 01 Jul 2026 15:33:26 +0000</pubDate>
-      <guid isPermaLink="false">FWFgjpSJA2nfBAS2yPkdmJ</guid>
-      <description>Access to the quarterfinals, semifinals, and final of the FIFA World Cup 2026 is on the line</description>
-    </item>
-    <item>
-      <title>Comcast&#8217;s split could make or break Peacock</title>
-      <link>https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming</link>
-      <pubDate>2026-07-01T11:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960235</guid>
-      <description>NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the backing of a combined company that pulled in more [&#8230;]</description>
-    </item>
-    <item>
-      <title>&#8216;It tracked flawlessly across every surface I tested&#8217; &#8212; this Logitech productivity and gaming mouse I reviewed is almost as good as my all time fave, thanks to its sky-high 30,000 DPI and 8,000Hz polling rate</title>
-      <link>https://www.techradar.com/computing/mice/it-tracked-flawlessly-across-every-surface-i-tested-this-logitech-productivity-and-gaming-mouse-i-reviewed-is-almost-as-good-as-my-all-time-fave-thanks-to-its-sky-high-30-000-dpi-and-8-000hz-polling-rate</link>
-      <pubDate>Wed, 01 Jul 2026 15:27:59 +0000</pubDate>
-      <guid isPermaLink="false">gX3ZaDmsfCCzV6Ab5goVkN</guid>
-      <description>An ergonomic wireless mouse packing 8,000Hz polling, a PixArt sensor, silent switches, and tri-mode connectivity for under $70? The Keychron M6 8K is strong on the value front and challenges staples of the genre.</description>
-    </item>
-    <item>
-      <title>Google Fitbit Air : le firmware re&#231;oit sa premi&#232;re mise &#224; jour, pour quels changements ?</title>
-      <link>https://www.frandroid.com/marques/google/3164611_google-fitbit-air-le-firmware-recoit-sa-premiere-mise-a-jour-pour-quels-changements</link>
-      <pubDate>Wed, 01 Jul 2026 15:22:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3164611_google-fitbit-air-le-firmware-recoit-sa-premiere-mise-a-jour-pour-quels-changements</guid>
-      <description>
-Sans compter la mise &#224; jour obligatoire lors de la configuration initiale du bracelet, le Fitbit Air de Google d&#233;ploie une nouvelle version de son firmware. Voyons ce qu'elle apporte.
+Les ampoules connect&#233;es repr&#233;sentent le point de d&#233;part id&#233;al pour s&#8217;initier &#224; la domotique. Installer un &#233;clairage intelligent chez soi est bien plus facile qu&#8217;on ne l&#8217;imagine. D&#233;couvrez ce notre comparatif les diff&#233;rentes ampoules intelligentes disponibles en 2026.
 </description>
     </item>
     <item>
-      <title>Unistellar brade ses t&#233;lescopes connect&#233;s pendant les soldes d&#8217;&#233;t&#233;</title>
-      <link>https://www.frandroid.com/bons-plans/2852531_unistellar-brade-ses-telescopes-connectes-pendant-les-soldes-dete</link>
-      <pubDate>Wed, 01 Jul 2026 15:19:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2852531_unistellar-brade-ses-telescopes-connectes-pendant-les-soldes-dete</guid>
+      <title>&#171; C&#8217;est normal que Fiat fasse &#231;a &#187; : le patron de Fiat nous explique pourquoi le Multipla pourrait bien faire son grand retour</title>
+      <link>https://www.frandroid.com/marques/fiat/3164775_cest-normal-que-fiat-fasse-ca-le-patron-de-fiat-nous-explique-pourquoi-le-multipla-pourrait-bien-faire-son-grand-retour</link>
+      <pubDate>Wed, 01 Jul 2026 16:14:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/fiat/3164775_cest-normal-que-fiat-fasse-ca-le-patron-de-fiat-nous-explique-pourquoi-le-multipla-pourrait-bien-faire-son-grand-retour</guid>
       <description>
-Compact et bourr&#233; de technologies, le t&#233;lescope connect&#233; Unistellar Odyssey Pro est par exemple en promotion sur la site officiel de la marque : on le trouve avec 15 % de remise, ainsi que d'autres r&#233;f&#233;rences du catalogue.
+En plus du lancement du Grizzly, son nouveau SUV &#233;lectrique et hybride, Fiat devrait pr&#233;senter un concept-car in&#233;dit au Mondial de Paris en octobre. Nous en avons discut&#233; avec le CEO de la marque et son directeur produit : l'esprit du c&#233;l&#232;bre Multipla devrait planer sur le stand.
 </description>
     </item>
     <item>
-      <title>&#171; Ce n&#8217;&#233;tait pas pour gagner de l&#8217;argent &#187; : pourquoi l&#8217;ancien patron de Sony voulait des jeux PlayStation sur PC</title>
-      <link>https://www.frandroid.com/marques/sony/3164459_ce-netait-pas-pour-gagner-de-largent-pourquoi-lancien-patron-de-sony-voulait-des-jeux-playstation-sur-pc</link>
-      <pubDate>Wed, 01 Jul 2026 15:13:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3164459_ce-netait-pas-pour-gagner-de-largent-pourquoi-lancien-patron-de-sony-voulait-des-jeux-playstation-sur-pc</guid>
+      <title>Windscribe trolls Mullvad's political donation crisis with a 'scandal' of its own</title>
+      <link>https://www.techradar.com/vpn/vpn-privacy-security/windscribe-trolls-mullvads-political-donation-crisis-with-a-scandal-of-its-own</link>
+      <pubDate>Wed, 01 Jul 2026 16:09:46 +0000</pubDate>
+      <guid isPermaLink="false">rPu9eAqqX3XnfAbXQrPZiV</guid>
+      <description>Following the revelation that a Mullvad co-founder donated $500,000 to a populist political party, rival provider Windscribe has issued a parody statement "coming clean" about its own CEO's donations, to local dog and cat rescues.</description>
+    </item>
+    <item>
+      <title>'We are not going to sit idly by': video game retailers react to Sony's PlayStation disc axeing announcement</title>
+      <link>https://www.techradar.com/gaming/playstation/we-are-not-going-to-sit-idly-by-video-game-retailers-react-to-sonys-playstation-disc-axeing-announcement</link>
+      <pubDate>Wed, 01 Jul 2026 16:09:43 +0000</pubDate>
+      <guid isPermaLink="false">dWfKDW2Nu3KgCgTH4betYH</guid>
+      <description>Video game retailers could be in big trouble, with Sony eliminating physical copies from 2028, and the reaction online is fierce.</description>
+    </item>
+    <item>
+      <title>Messy Subnautica 2 saga ends with Unknown Worlds CEO departing again</title>
+      <link>https://www.engadget.com/2206022/messy-subnautica-2-saga-ends-with-unknown-worlds-ceo-departing-again/</link>
+      <pubDate>Wed, 01 Jul 2026 16:08:40 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2206022/messy-subnautica-2-saga-ends-with-unknown-worlds-ceo-departing-again/</guid>
+      <description>Thus ends the messy saga of Subnautica 2.</description>
+    </item>
+    <item>
+      <title>Les astronomes tirent la sonnette d&#8217;alarme : l&#8217;humanit&#233; risque de perdre le ciel &#233;toil&#233; pour toujours</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-astronomes-tirent-sonnette-alarme-humanite-risque-perdre-ciel-etoile-toujours-135807/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 01 Jul 2026 18:08:00 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-astronomes-tirent-sonnette-alarme-humanite-risque-perdre-ciel-etoile-toujours-135807/#xtor%3DRSS-8</guid>
+      <description>Alors que la Commission f&#233;d&#233;rale des communications des &#201;tats-Unis doit se prononcer prochainement sur des projets de m&#233;gaconstellations port&#233;s par SpaceX et la start-up Reflect Orbital, l'Observatoire europ&#233;en austral (ESO) hausse le ton. S'appuyant sur une &#233;tude scientifique, l'institution...</description>
+    </item>
+    <item>
+      <title>Personne n&#8217;en parle, et c&#8217;est peut-&#234;tre le meilleur forfait du r&#233;seau de SFR actuellement</title>
+      <link>https://www.frandroid.com/bons-plans/3164843_personne-nen-parle-et-cest-peut-etre-le-meilleur-forfait-du-reseau-de-sfr-actuellement</link>
+      <pubDate>Wed, 01 Jul 2026 16:08:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3164843_personne-nen-parle-et-cest-peut-etre-le-meilleur-forfait-du-reseau-de-sfr-actuellement</guid>
       <description>
-Sony ne sortira plus ses jeux sur ordinateur, mettant fin &#224; l'initiative lanc&#233;e par Shawn Layden, ancien pr&#233;sident de Sony Interactive Entertainment Worldwide Studios. Il revient sur ce qui a motiv&#233; sa d&#233;cision &#224; l'&#233;poque.
+&#192; 7,99 euros par mois, ce forfait YouPrice propose 130 Go en 5G sur le r&#233;seau de SFR, sans engagement. Un tarif rare sur ce r&#233;seau, d'autant que l'offre inclut 18 Go d'itin&#233;rance.
 </description>
     </item>
     <item>
-      <title>Geekom's ultra-portable Apple MacBook Pro rival promises Core Ultra 9 performance and up to 24 hours of battery life &#8212; and it's just $827 with our exclusive code</title>
-      <link>https://www.techradar.com/pro/geekoms-ultra-portable-apple-macbook-pro-rival-promises-core-ultra-9-performance-and-up-to-24-hours-of-battery-life-and-its-just-usd827-with-our-exclusive-code</link>
-      <pubDate>Wed, 01 Jul 2026 15:09:33 +0000</pubDate>
-      <guid isPermaLink="false">NJ4jrEwWhvKJRsgX2Cue6A</guid>
-      <description>Built for programmers, data analysts, creators, and professionals, the GeekBook M16 laptop comes with Windows 11 Pro.</description>
+      <title>Save $80 on the DeWalt 20V Max Cordless Drill and Impact Driver duo and get more done</title>
+      <link>https://mashable.com/life/july-1-dewalt-cordless-tool-kit-deal</link>
+      <pubDate>Wed, 01 Jul 2026 16:06:36 +0000</pubDate>
+      <guid isPermaLink="false">02bcaI7BpUDQIQnlXyLmp47</guid>
+      <description>As of July 1, save $80 on the DeWalt 20V Max Cordless Drill and Impact Driver combo kit.</description>
     </item>
     <item>
-      <title>VPN Super hits the living room, and your smart TV's data habits are the target</title>
-      <link>https://www.techradar.com/vpn/vpn-services/vpn-super-hits-the-living-room-and-your-smart-tvs-data-habits-are-the-target</link>
-      <pubDate>Wed, 01 Jul 2026 15:06:35 +0000</pubDate>
-      <guid isPermaLink="false">5cZVwsmjqucxkKuh6Q7j4M</guid>
-      <description>VPN Super has launched beta apps for Apple TV and Android TV, adding encryption, location flexibility, and a privacy layer to the big screen.</description>
+      <title>Lime raises $167M in IPO after years of teasing a public debut</title>
+      <link>https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/</link>
+      <pubDate>Wed, 01 Jul 2026 16:05:47 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138144</guid>
+      <description>The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.</description>
     </item>
     <item>
-      <title>Microsoft just made a huge Linux move that developers and container fans everywhere will love</title>
-      <link>https://www.techradar.com/pro/microsoft-just-made-a-huge-linux-move-that-developers-and-container-fans-everywhere-will-love</link>
-      <pubDate>Wed, 01 Jul 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">yKTQdRgXCRkYX4vsnNGvDY</guid>
-      <description>You can now finally run Linux containers in Windows &#8211; without third-party tools.</description>
-    </item>
-    <item>
-      <title>The best Switch 2 case I&#8217;ve tried is cheaper than usual</title>
-      <link>https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale</link>
-      <pubDate>2026-07-01T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960185</guid>
-      <description>Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better build quality than other similar models, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Sony is killing discs &#8212; and showing us why it&#8217;s a terrible idea</title>
-      <link>https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation</link>
-      <pubDate>2026-07-01T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960212</guid>
-      <description>The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment on you can only purchase new PS5 games digitally. At the same time, Sony also announced that it's going to [&#8230;]</description>
-    </item>
-    <item>
-      <title>'Pure old-school Windows': Ex-Microsoft engineer shrinks down Notepad to 2.5 kilobytes with 'no bloat, no telemetry, no nonsense'</title>
-      <link>https://www.techradar.com/computing/windows/pure-old-school-windows-ex-microsoft-engineer-shrinks-down-notepad-to-2-5-kilobytes-with-no-bloat-no-telemetry-no-nonsense</link>
-      <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">KEBgKUSYLsjutPuMwEWhoH</guid>
-      <description>Want Notepad to be like it was in the Windows XP era &#8212; except even leaner? TinyRetroPad is here.</description>
-    </item>
-    <item>
-      <title>A giant planet beat the odds and actually got hotter after its star died</title>
-      <link>https://mashable.com/science/james-webb-space-telescope-white-dwarf-planet-survivor</link>
-      <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">00SthMIscxOx4VvpqhxyLfD</guid>
-      <description>NASA's James Webb Space Telescope reveals the first atmosphere of an exoplanet orbiting a white dwarf, offering unexpected results.</description>
-    </item>
-    <item>
-      <title>What todays creators want aspiring creators to know</title>
-      <link>https://mashable.com/life/creator-advice-at-vidcon-interviews-mashable</link>
-      <pubDate>Wed, 01 Jul 2026 14:55:23 +0000</pubDate>
-      <guid isPermaLink="false">05WnHKuTciMo9y9rJqLMUMf</guid>
-      <description>Take a behind-the-scenes look at the creator interviews and moments that defined Mashable's VidCon 2026 coverage.</description>
-    </item>
-    <item>
-      <title>How to watch England vs. DR Congo online for free</title>
-      <link>https://mashable.com/entertainment/england-dr-congo-fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Wed, 01 Jul 2026 14:51:30 +0000</pubDate>
-      <guid isPermaLink="false">01rhQiwiydor8CAeCbueoO3</guid>
-      <description>How to watch World Cup for free. Live stream England vs. DR Congo in the 2026 FIFA World Cup for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>I tried ChatGPT's new finance feature &#8212; and it opened a new window into how I spend my money</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/i-tried-chatgpts-new-finance-feature-and-it-opened-a-new-window-into-how-i-spend-my-money</link>
-      <pubDate>Wed, 01 Jul 2026 14:47:49 +0000</pubDate>
-      <guid isPermaLink="false">tQquPApbTTMiX3o4XJiMs</guid>
-      <description>ChatGPT&#8217;s finance feature turns personal spending data into a simple conversation.</description>
-    </item>
-    <item>
-      <title>Best Buy launches its mega 4th of July sale &#8212; get up to 45% off appliances, TVs, laptops, headphones, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/best-buy-launches-its-mega-4th-of-july-sale-get-up-to-45-percent-off-appliances-tvs-laptops-headphones-and-more</link>
-      <pubDate>Wed, 01 Jul 2026 14:41:33 +0000</pubDate>
-      <guid isPermaLink="false">7erZtiiTRg3iTf7KNoksg3</guid>
-      <description>The Best Buy 4th of July sale is now underway, so I've searched through the event and picked out all of the best deals available on TVs, appliances, laptops, headphones, and more.</description>
-    </item>
-    <item>
-      <title>Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration</title>
-      <link>https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration</link>
-      <pubDate>Wed, 01 Jul 2026 14:41:22 GMT</pubDate>
-      <guid isPermaLink="false">2e7wh5tg1KaqCug1X4TjQ5</guid>
-      <description>Square is launching a new ChatGPT app and Claude plugin, enabling consumers to discover restaurants and seamlessly place orders directly within these AI platforms &#8212; and allowing restaurants, in turn, to accept orders from users and their AI agents without any technical capabilities. Even more helpfully for businesses, Square is processing these AI-driven transactions without charging the traditional marketplace commission fees that have historically squeezed the food and beverage sector.However, Square is still charging its typical online ordering fees of 3.3% plus $0.30 or 2.9% plus $0.30 per...</description>
-    </item>
-    <item>
-      <title>Why human-centric displays matter in the screen-first workplace</title>
-      <link>https://www.techradar.com/pro/why-human-centric-displays-matter-in-the-screen-first-workplace</link>
-      <pubDate>Wed, 01 Jul 2026 14:29:52 +0000</pubDate>
-      <guid isPermaLink="false">J4hEgTDuPLtR5cpPdgRyvB</guid>
-      <description>How smarter, more user-focused display technology can better support work and play.</description>
-    </item>
-    <item>
-      <title>Hurry: The MacBook Neo is still just $599 at Walmart</title>
-      <link>https://mashable.com/tech/june-1-apple-macbook-neo-walmart</link>
-      <pubDate>Wed, 01 Jul 2026 14:29:22 +0000</pubDate>
-      <guid isPermaLink="false">070sqh1GAMgoY7ilbLFO7jo</guid>
-      <description>Apple just raised the MacBook Neo's price by $100. But as of July 1, Walmart still has it in stock at its original MSRP of $599.</description>
-    </item>
-    <item>
-      <title>Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off</title>
-      <link>https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/</link>
-      <pubDate>Wed, 01 Jul 2026 14:25:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138022</guid>
-      <description>Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.</description>
-    </item>
-    <item>
-      <title>The Marshall Acton III speaker is sitting at a record-low price at Amazon &#8212; save over $100</title>
-      <link>https://mashable.com/tech/july-1-marshall-acton-iii-deal</link>
-      <pubDate>Wed, 01 Jul 2026 14:20:46 +0000</pubDate>
-      <guid isPermaLink="false">02j9sxBE1LSGeCdjtqt0qKx</guid>
-      <description>The Marshall Acton III speaker is on sale at Amazon for $179.99, down from the list price of $299.99. That's a 40% discount.</description>
-    </item>
-    <item>
-      <title>Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac</title>
-      <link>https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</link>
-      <pubDate>Wed, 01 Jul 2026 14:20:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138055</guid>
-      <description>Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.</description>
-    </item>
-    <item>
-      <title>The Odyssey trailer gives us our best look yet at Zendayas Athena</title>
-      <link>https://mashable.com/entertainment/the-odyssey-trailer-zendaya-athena</link>
-      <pubDate>Wed, 01 Jul 2026 14:19:59 +0000</pubDate>
-      <guid isPermaLink="false">07d6e7DmvU1STus4eegXixs</guid>
-      <description>"The Odyssey," out July 17, stars Matt Damon as Odysseus, Tom Holland as Telemachus, Zendaya as Athena, Anne Hathaway as Penelope, and more.</description>
-    </item>
-    <item>
-      <title>Tidy up in a flash with half off the Shark Rocket Ultra-Light Corded Stick Vacuum</title>
-      <link>https://mashable.com/life/july-1-shark-rocket-ultra-light-corded-stick-vacuum-deal</link>
-      <pubDate>Wed, 01 Jul 2026 14:18:52 +0000</pubDate>
-      <guid isPermaLink="false">07dxxVCHi0MqExgyBW6duWy</guid>
-      <description>As of July 1, get 50% off the Shark Rocket Ultra-Light Corded Stick Vacuum at Amazon.</description>
-    </item>
-    <item>
-      <title>Sony to end physical PlayStation game disc production in 2028</title>
-      <link>https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/</link>
-      <pubDate>Wed, 01 Jul 2026 14:16:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138104</guid>
-      <description>Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.</description>
-    </item>
-    <item>
-      <title>Smartphones Xiaomi : quel mod&#232;le Redmi, Poco ou Xiaomi choisir en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/487395_quels-smartphones-xiaomi-acheter-en-2018-la-selection-de-frandroid</link>
-      <pubDate>Wed, 01 Jul 2026 14:15:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/487395_quels-smartphones-xiaomi-acheter-en-2018-la-selection-de-frandroid</guid>
+      <title>En Australie, l&#8217;interdiction des r&#233;seaux sociaux aux mineurs semble sans effets</title>
+      <link>https://www.frandroid.com/culture-tech/securite-applications/3164227_en-australie-linterdiction-des-reseaux-sociaux-aux-mineurs-semble-sans-effets</link>
+      <pubDate>Wed, 01 Jul 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/securite-applications/3164227_en-australie-linterdiction-des-reseaux-sociaux-aux-mineurs-semble-sans-effets</guid>
       <description>
-La marque chinoise Xiaomi dispose d'un vaste catalogue et sort r&#233;guli&#232;rement de nouveaux produits. Pour savoir quel Xiaomi choisir, nous avons test&#233; et s&#233;lectionn&#233; les meilleures r&#233;f&#233;rences parmi les meilleurs smartphones Xiaomi, Redmi et Poco disponibles sur le march&#233;.
+Six mois apr&#232;s son entr&#233;e en vigueur, une r&#233;cente &#233;tude vient mesurer les premiers effets de l&#8217;interdiction des r&#233;seaux sociaux pour les moins de 16 ans en Australie. Une mesure aux r&#233;sultats discutables loin des objectifs initialement pr&#233;sent&#233;s. Un constat qui interroge alors qu&#8217;une mesure similaire est &#224; l&#8217;&#233;tude en France.
 </description>
     </item>
     <item>
-      <title>BMW iX5 : pourquoi la marque allemande a os&#233; une batterie d&#233;mesur&#233;e de 140 kWh</title>
-      <link>https://www.frandroid.com/marques/bmw/3164665_bmw-ix5-pourquoi-la-marque-allemande-a-ose-une-batterie-demesuree-de-140-kwh</link>
-      <pubDate>Wed, 01 Jul 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/bmw/3164665_bmw-ix5-pourquoi-la-marque-allemande-a-ose-une-batterie-demesuree-de-140-kwh</guid>
-      <description>
-Le constructeur BMW repousse les limites avec son nouveau BMW iX5, un SUV &#233;lectrique massif abritant la plus grande batterie du march&#233; europ&#233;en. On vous pr&#233;sente en images ce colosse de 140 kWh pens&#233; pour franchir les 845 kilom&#232;tres d'autonomie d'une seule traite.
-</description>
-    </item>
-    <item>
-      <title>The LG gram 15-inch Copilot+ laptop is down to best-ever price &#8212; buy for $250 off at Amazon</title>
-      <link>https://mashable.com/tech/jul-1-lg-gram-laptop-deal</link>
-      <pubDate>Wed, 01 Jul 2026 14:12:35 +0000</pubDate>
-      <guid isPermaLink="false">04EGFNWs4kiDzfvtqNlMa2X</guid>
-      <description>The LG gram 15-inch Copilot+ laptop is on sale at Amazon for $1,199.99, down from $1,449.99. That's a 17% discount or $250 savings.</description>
-    </item>
-    <item>
-      <title>Claude Sonnet 5 is here, and the 'most agentic Sonnet model yet' shows that the AI war is shifting from chat to agents</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/claude/claude-sonnet-5-is-here-and-the-most-agentic-sonnet-model-yet-shows-that-the-ai-war-is-shifting-from-chat-to-agents</link>
-      <pubDate>Wed, 01 Jul 2026 14:03:09 +0000</pubDate>
-      <guid isPermaLink="false">A7YMPsnw3n4RfZsNxHtNuT</guid>
-      <description>Anthropic has released Claude Sonnet 5, a new AI model that's built to act more like an agent than a simple chatbot.</description>
-    </item>
-    <item>
-      <title>7 ways the Samsung Galaxy S26 Ultra turns your next festival into content worth posting</title>
-      <link>https://mashable.com/ad/tech/how-the-samsung-galaxy-s26-ultra-turns-your-next-festival-into-content</link>
-      <pubDate>Wed, 01 Jul 2026 14:02:59 +0000</pubDate>
-      <guid isPermaLink="false">00MFvEBb5lda6PhHr8CSYg8</guid>
-      <description>You deserve better festival footage than blurry silhouettes and shaky clips. Here's how the Galaxy S26 Ultra's camera and AI features can enhance the experience, from opener to encore.</description>
-    </item>
-    <item>
-      <title>The developer device is the new supply chain attack blind spot</title>
-      <link>https://www.techradar.com/pro/the-developer-device-is-the-new-supply-chain-attack-blind-spot</link>
-      <pubDate>Wed, 01 Jul 2026 14:02:22 +0000</pubDate>
-      <guid isPermaLink="false">9DQ5gTWaf3VKAiWNrVj5FV</guid>
-      <description>Trusted developer tools are becoming the new path into enterprise software environments.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Z Fold 8 specs and cases leaks fill the gaps in Samsung's new teaser &#8212; and there could be one disappointing omission</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-z-fold-8-specs-and-cases-leaks-fill-the-gaps-in-samsungs-new-teaser-and-there-could-be-one-disappointing-omission</link>
-      <pubDate>Wed, 01 Jul 2026 14:00:22 +0000</pubDate>
-      <guid isPermaLink="false">tz7F9DQvt476yF48NnR4ub</guid>
-      <description>The Samsung Galaxy Z Fold 8 could have lots of power but just two rear cameras and no Privacy Display.</description>
-    </item>
-    <item>
-      <title>Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/</link>
-      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137969</guid>
-      <description>The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&amp;A on what it takes to build and scale successful companies. Register now to save up to $330.</description>
-    </item>
-    <item>
-      <title>Ce PC portable taill&#233; pour le gaming (RTX 5090, Intel Core Ultra 9, 32 Go de RAM) s&#8217;all&#232;ge de 650 euros lors des soldes</title>
-      <link>https://www.frandroid.com/bons-plans/3164353_ce-pc-portable-taille-pour-le-gaming-rtx-5090-intel-core-ultra-9-32-go-de-ram-sallege-de-650-euros-lors-des-soldes</link>
-      <pubDate>Wed, 01 Jul 2026 13:58:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3164353_ce-pc-portable-taille-pour-le-gaming-rtx-5090-intel-core-ultra-9-32-go-de-ram-sallege-de-650-euros-lors-des-soldes</guid>
-      <description>
-En pleine inflation des composants pour PC, le HP Omen 16-ah0018nf &#233;quip&#233; de l'Intel Core Ultra 9 et de 32 Go de RAM profite d'une r&#233;duction d'E.Leclerc pour chuter &#224; 3 649 euros.
-</description>
-    </item>
-    <item>
-      <title>Console PlayStation  | Les nouveaux jeux ne seront plus sur disques &#224; partir de&#160;2028</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-07-01/console-playstation/les-nouveaux-jeux-ne-seront-plus-sur-disques-a-partir-de-2028.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 01 Jul 2026 09:55:28 -0400</pubDate>
-      <guid isPermaLink="false">eb42b287be7f3a65abe7cfee894c96f4</guid>
-      <description>Sony ne produira plus de disques physiques pour les nouveaux jeux vid&#233;o sortant sur ses consoles PlayStation &#224; partir de janvier&#160;2028 et les distribuera seulement en version d&#233;mat&#233;rialis&#233;e, a annonc&#233; le groupe japonais mercredi dans un billet de blogue.</description>
-    </item>
-    <item>
-      <title>$169 GMKtek N5095 mini PC is a brave but desperate attempt to revive a PC market decimated by AI and RAM greed</title>
-      <link>https://www.techradar.com/pro/usd169-gmktek-n5095-mini-pc-is-a-brave-but-desperate-attempt-to-revive-a-pc-market-decimated-by-ai-and-ram-greed</link>
-      <pubDate>Wed, 01 Jul 2026 13:50:17 +0000</pubDate>
-      <guid isPermaLink="false">de3QqchJs2uG2tJEmb8yCe</guid>
-      <description>Popular mini PC vendor debuts a new GMKtec G5S model based on obsolete tech in a bid to reduce price.</description>
-    </item>
-    <item>
-      <title>Fin des jeux PlayStation en disque en 2028 : les 3 questions qui p&#232;sent sur la PS6</title>
-      <link>https://www.frandroid.com/marques/sony/3164587_fin-des-jeux-playstation-en-disque-en-2028-les-3-questions-qui-pesent-sur-la-ps6</link>
-      <pubDate>Wed, 01 Jul 2026 13:46:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3164587_fin-des-jeux-playstation-en-disque-en-2028-les-3-questions-qui-pesent-sur-la-ps6</guid>
-      <description>
-C'est confirm&#233; : PlayStation arr&#234;te la production des jeux en version disque &#224; partir de janvier 2028. L'annonce suscite son lot de questions pour la future PS6 et notamment, son syst&#232;me de r&#233;trocompatibilit&#233;.
-</description>
+      <title>Worried about iPhone price hikes? Apple's new refurbished deals could offer the best value for years &#8212; and they now include the iPhone 16e</title>
+      <link>https://www.techradar.com/phones/worried-about-iphone-price-hikes-apples-new-refurbished-deals-could-offer-the-best-value-for-years-and-they-now-include-the-iphone-16e</link>
+      <pubDate>Wed, 01 Jul 2026 16:03:26 +0000</pubDate>
+      <guid isPermaLink="false">NnyWpxsjBiWFaw7knZXnKZ</guid>
+      <description>Apple is now selling the iPhone 16e on its online store for refurbished devices &#8212; and that makes it a very good deal indeed.</description>
     </item>
   </channel>
 </rss>
