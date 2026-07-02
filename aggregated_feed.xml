@@ -3,190 +3,113 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 02 Jul 2026 21:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 23:12:01 GMT</lastBuildDate>
     <item>
-      <title>Meta has a new app to let you make little AI experiences</title>
-      <link>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</link>
-      <pubDate>2026-07-02T17:09:06-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961086</guid>
-      <description>Meta has launched a new social app called Pocket that lets you make and share little interactive "gizmos" with an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI as the new social media, and he's previously described a vision of how users could use AI to make [&#8230;]</description>
+      <title>Private space pilots are flying orbital missions for the US Space Force</title>
+      <link>https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/</link>
+      <pubDate>Thu, 02 Jul 2026 23:01:06 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138764</guid>
+      <description>True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the US military.</description>
     </item>
     <item>
-      <title>Samsung is plotting to replace your M.2 SSD with a storage chip smaller than a fingernail to improve battery life and supercharge ondevice AI inference</title>
-      <link>https://www.techradar.com/pro/samsung-is-plotting-to-replace-your-m-2-ssd-with-a-storage-chip-smaller-than-a-fingernail-to-improve-battery-life-and-supercharge-ondevice-ai-inference</link>
-      <pubDate>Thu, 02 Jul 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">LbuPHsfJj7rWcSfyEhVduf</guid>
-      <description>Faster, smaller and more power efficient</description>
+      <title>Quordle hints and answers for Friday, July 3 (game #1621)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-3-july-2026</link>
+      <pubDate>Thu, 02 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">PJJmQz8a8i3PCheGg9xn9Y</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
     <item>
-      <title>New Alibaba AI framework skips loading every tool, cutting agent token use 99%</title>
-      <link>https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99</link>
-      <pubDate>Thu, 02 Jul 2026 20:54:12 GMT</pubDate>
-      <guid isPermaLink="false">2nhX3aChhXDJAtgLk8mkR6</guid>
-      <description>As enterprise AI systems scale to handle complex workflows, practitioners face the challenge of routing subtasks to the right tools and skills. Agents can have hundreds of tools and skills and get confused on which one to use for each step of a workflow.To address this challenge, researchers at Alibaba developed SkillWeaver, a framework that creates an execution graph for a given task and chooses the right skills for each of the nodes. They also introduce Skill-Aware Decomposition (SAD), a novel technique that uses a feedback loop to enable the agent to fetch and vet relevant tool candidates i...</description>
+      <title>NYT Connections hints and answers for Friday, July 3 (game #1118)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-3-july-2026</link>
+      <pubDate>Thu, 02 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">mupdhfq5sX6xFvzgxhVuzP</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>How Big Is &#8216;Love Island USA&#8217;? More Than 10 Million People Are Already on Its App</title>
-      <link>https://www.wired.com/story/love-island-usa-app/</link>
-      <pubDate>Thu, 02 Jul 2026 20:47:27 +0000</pubDate>
-      <guid isPermaLink="false">6a46ac3f3c9fff77056af3b4</guid>
-      <description>&#8220;We have more people voting on the &#8216;Love Island USA&#8217; app than we do in many political elections taking place across the country,&#8221; says the show's executive producer.</description>
+      <title>NYT Strands hints and answers for Friday, July 3 (game #852)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-3-july-2026</link>
+      <pubDate>Thu, 02 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2DLfUyudWg7xVAMknoNhTS</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
-      <title>IQM, Europe&#8217;s first public quantum company, admits the future of the tech is uncertain</title>
-      <link>https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/</link>
-      <pubDate>Thu, 02 Jul 2026 20:42:48 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138636</guid>
-      <description>IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.</description>
+      <title>Meta has released an app for making generative AI games</title>
+      <link>https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/</link>
+      <pubDate>Thu, 02 Jul 2026 22:53:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/</guid>
+      <description>Pocket is listed in app stores but seemingly unavailable in the US.</description>
     </item>
     <item>
-      <title>Gay dating app Goose accused of using AI models to drum up interest</title>
-      <link>https://mashable.com/life/gay-dating-app-goose-accused-of-using-ai-models-to-drum-up-interest</link>
-      <pubDate>Thu, 02 Jul 2026 20:24:19 +0000</pubDate>
-      <guid isPermaLink="false">036hYRSw6iinRb6FoqMSaPz</guid>
-      <description>Gay dating app Goose is accused of using AI-generated models to send promotions to gay men.</description>
+      <title>Uplift Parsons review: A dream standing desk that fits almost any workspace with elegance and ease</title>
+      <link>https://www.techradar.com/pro/uplift-parsons-standing-desk-review</link>
+      <pubDate>Thu, 02 Jul 2026 22:40:00 +0000</pubDate>
+      <guid isPermaLink="false">BjA7eBv3S2B8A9M59eAvwg</guid>
+      <description>The Uplift Parsons is a fully customizable desk, from fairly compact to expansive, with more accessories and editable features than you'll know what to do with</description>
     </item>
     <item>
-      <title>The best July 4th sales we found so far</title>
-      <link>https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale</link>
-      <pubDate>2026-07-02T16:15:45-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=958906</guid>
-      <description>July 4th sales are typically a precursor to what we&#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&#8217;s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation&#8217;s birthday. Best Buy is [&#8230;]</description>
+      <title>This is the most incredible portable monitor setup you'll see &#8212; a portable L-shaped 16-inch triple-screen monitor is perfect for productivity</title>
+      <link>https://www.techradar.com/pro/this-is-the-most-incredible-portable-monitor-setup-youll-see-a-portable-l-shaped-16-inch-triple-screen-monitor-is-perfect-for-productivity</link>
+      <pubDate>Thu, 02 Jul 2026 22:25:00 +0000</pubDate>
+      <guid isPermaLink="false">axmyAnHBUfQnWG23ueYnzf</guid>
+      <description>NexFold's Fold 7 transforms laptops into portable four-screen workstations using three folding 16-inch displays arranged creatively.</description>
     </item>
     <item>
-      <title>Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become</title>
-      <link>https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</link>
-      <pubDate>Thu, 02 Jul 2026 20:11:59 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138696</guid>
-      <description>Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.</description>
+      <title>Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</title>
+      <link>https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges</link>
+      <pubDate>2026-07-02T18:09:33-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961161</guid>
+      <description>The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla's Full-Self Driving (FSD) [&#8230;]</description>
     </item>
     <item>
-      <title>Stellantis renonce au thermique et &#224; l&#8217;hybride pour sa future 2CV et ses petites voitures &#233;lectriques</title>
-      <link>https://www.frandroid.com/survoltes/voitures-electriques/3166365_stellantis-renonce-au-thermique-et-a-lhybride-pour-sa-future-2cv-et-ses-petites-voitures-electriques</link>
-      <pubDate>Thu, 02 Jul 2026 20:09:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3166365_stellantis-renonce-au-thermique-et-a-lhybride-pour-sa-future-2cv-et-ses-petites-voitures-electriques</guid>
-      <description>
-Stellantis vient de trancher un d&#233;bat qu'on croyait acquis depuis des ann&#233;es : pour sa future gamme de petites voitures inspir&#233;e de la 2CV, exit l'hybride et le thermique, place au tout-&#233;lectrique. Une entorse notable &#224; la fameuse "libert&#233; de choix" tant vant&#233;e par le groupe.
-</description>
+      <title>Quote of the day by SpaceX CEO Elon Musk: 'Are you prepared to die? Then okay, you're a candidate' &#8212; a reminder that the manned mission to Mars might be a deadly one</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-spacex-ceo-elon-musk-are-you-prepared-to-die-then-okay-youre-a-candidate-a-reminder-that-the-manned-mission-to-mars-might-be-a-deadly-one</link>
+      <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">CZarJACA3PczwhRJ43Js7a</guid>
+      <description>The tech mogul has repeatedly called for the colonization of Mars, but has previously warned that early missions may carry monumental risks</description>
     </item>
     <item>
-      <title>How to watch Portugal vs Croatia: Free Streams, TV Channels &amp; Kick-Off time as Cristiano Ronaldo faces Luka Modric at FIFA World Cup 2026</title>
-      <link>https://www.techradar.com/how-to-watch/football/portugal-vs-croatia-world-cup-2026-free</link>
-      <pubDate>Thu, 02 Jul 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">wneXNCsh5sjSvXrwncWwDb</guid>
-      <description>Here's how to watch Portugal vs Croatia for free online and from anywhere at the FIFA World Cup 2026, as two greats collide in the last 32.</description>
+      <title>The 11 best hi-fi upgrades of 2026 so far &#8212; we gave these speakers, turntables and DACs our highest marks after tough testing</title>
+      <link>https://www.techradar.com/audio/multi-room/the-11-best-hi-fi-upgrades-of-2026-so-far-we-gave-these-speakers-turntables-and-dacs-our-highest-marks-after-tough-testing</link>
+      <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Ji58UqmtEYAsrUBXSP4CmM</guid>
+      <description>From Sonos to Wharfedale to iFi &#8212; here are the highest-rated hi-fi and speaker upgrades we've tested</description>
     </item>
     <item>
-      <title>Anthropic's Claude to help Micron design better HBM, DRAM, and SSD for AI even as both companies refuse to address computational storage directly</title>
-      <link>https://www.techradar.com/pro/anthropics-claude-to-help-micron-design-better-hbm-dram-and-ssd-for-ai-even-as-both-companies-refuse-to-address-computational-storage-directly</link>
-      <pubDate>Thu, 02 Jul 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">rCKkWrweJ6QMK9gE6jvAaK</guid>
-      <description>AI-designed solutions for AI-designated consumption?</description>
+      <title>Thiel Capital&#8217;s Jack Selby nabs stakes in hot startups like Etched through Arizona connections</title>
+      <link>https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/</link>
+      <pubDate>Thu, 02 Jul 2026 21:57:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138848</guid>
+      <description>Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.</description>
     </item>
     <item>
-      <title>The final season of The Bear gets redemption right</title>
-      <link>https://mashable.com/entertainment/the-bear-season-5-redemption</link>
-      <pubDate>Thu, 02 Jul 2026 20:03:58 +0000</pubDate>
-      <guid isPermaLink="false">01PDNp9cE9zb8U1i1dJJEeG</guid>
-      <description>The show keeps the promise it made since Season 1.</description>
+      <title>StubHub sued by World Cup fans over ticket cancellations</title>
+      <link>https://www.fastcompany.com/91568996/world-cup-stubhub-tickets</link>
+      <pubDate>2026-07-02T21:41:22</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91568996/world-cup-stubhub-tickets</guid>
+      <description>The lawsuit seeks to bar StubHub from selling World Cup tickets and give profits from sales to affected customers.
+After weeks of complaints from frustrated fans, StubHub is being sued by customers who say the ticket reseller&#8217;s inability to fulfill orders crushed their dreams of going to the World Cup.</description>
     </item>
     <item>
-      <title>Sephora just announced a global store change customers have been asking for</title>
-      <link>https://www.fastcompany.com/91568723/sephora-just-announced-a-global-store-change-customers-have-been-asking-for</link>
-      <pubDate>2026-07-02T20:02:35</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91568723/sephora-just-announced-a-global-store-change-customers-have-been-asking-for</guid>
-      <description>Sephora will reduce music, minimize strong scents and adjust in-store screens during designated quiet hours across its stores globally.
-Sephora just broke new ground in the beauty industry, becoming the first beauty retailer to launch sensory-friendly shopping hours at a global scale.</description>
+      <title>Trump administration proposes rule to cut Medicare drug prices by $1.1 billion</title>
+      <link>https://www.fastcompany.com/91568989/trump-drug-prices-medicare-hospitals-discounts-savings</link>
+      <pubDate>2026-07-02T21:27:06</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91568989/trump-drug-prices-medicare-hospitals-discounts-savings</guid>
+      <description>The average older adult with Medicare Part B coverage who is administered one of these drugs would save $800 a year in co-payments. 
+The Trump administration is proposing a new rule on Thursday to keep hospitals from charging markups on discounted drugs for&#160;Medicare patients&#160;and says that could save consumers $1.1 billion next year, according to estimates obtained by The Associated Press....</description>
     </item>
     <item>
-      <title>Another mysterious iPhone bug is eating up over 100GB of some people&#8217;s storage &#8212; here&#8217;s how to fix it</title>
-      <link>https://www.techradar.com/phones/another-mysterious-iphone-bug-is-eating-up-over-100gb-of-some-peoples-storage-heres-how-to-fix-it</link>
-      <pubDate>Thu, 02 Jul 2026 20:01:09 +0000</pubDate>
-      <guid isPermaLink="false">qk2b5wkqTErEUPv6FJAzEc</guid>
-      <description>Some iPhone users are losing over 100GB of storage space to &#8216;System Data&#8217; on their devices.</description>
+      <title>World Cup: The internet reacts to Team USA striker Folarin Baloguns red card</title>
+      <link>https://mashable.com/entertainment/world-cup-2026-internet-reacts-team-usa-folarin-balogun-red-card</link>
+      <pubDate>Thu, 02 Jul 2026 21:18:23 +0000</pubDate>
+      <guid isPermaLink="false">02KgxhZi7vTQELeP9w370hw</guid>
+      <description>Everything you need to know about Folarin Balogun's red card and the internet's reaction.</description>
     </item>
     <item>
-      <title>A $70 Microsoft Office deal skips the monthly 365 bill</title>
-      <link>https://mashable.com/tech/july-2-microsoft-office-home-business-for-mac-2021</link>
-      <pubDate>Thu, 02 Jul 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">02meDPeVdpjMEwOSkVWwAXC</guid>
-      <description>Get a lifetime license to Microsoft Office Home &amp; Business 2021 &#8212; including Word, Excel, PowerPoint, and Outlook &#8212; for $69.97 (reg. $219).</description>
-    </item>
-    <item>
-      <title>Maybe robots don't need legs or fingers to do laundry &#8212; Weave Robotics Isaac 1 isn't pretty or super-humanoid, but it might be ready to handle basic chores</title>
-      <link>https://www.techradar.com/computing/maybe-robots-dont-need-legs-or-fingers-to-do-laundry-weave-robotics-isaac-1-isnt-pretty-or-super-humanoid-but-it-might-be-ready-to-handle-basic-chores</link>
-      <pubDate>Thu, 02 Jul 2026 19:39:56 +0000</pubDate>
-      <guid isPermaLink="false">5rV6TaRoSte5Scti49ndE8</guid>
-      <description>Weave Robotics Isaac 1 is a legless robot body on a stalk that can fold laundry and do basic chores, all for $7999.</description>
-    </item>
-    <item>
-      <title>What it takes to rebuild America&#8217;s competitive edge</title>
-      <link>https://www.fastcompany.com/91567624/what-it-takes-to-rebuild-americas-competitive-edge</link>
-      <pubDate>2026-07-02T19:39:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91567624/what-it-takes-to-rebuild-americas-competitive-edge</guid>
-      <description>It means rebuilding how capital moves.
-Inclusive and profitable economic ecosystems can be built, invested in, and scaled.</description>
-    </item>
-    <item>
-      <title>Social Security update 2026: The SSA is making a big change starting in July for America&#8217;s 250th anniversary. What it means for citizens</title>
-      <link>https://www.fastcompany.com/91568780/social-security-update-july-2026-ssa-making-big-change-america-250-anniversary-what-it-means-for-benefits-checks-payments</link>
-      <pubDate>2026-07-02T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91568780/social-security-update-july-2026-ssa-making-big-change-america-250-anniversary-what-it-means-for-benefits-checks-payments</guid>
-      <description>The Social Security Administration revealed this week that will be commemorating American independence in a unique way.
-The Social Security Administration (SSA) said Wednesday it plans to commemorate the 250th&#160;anniversary of American independence on July 4 in a unique way.</description>
-    </item>
-    <item>
-      <title>Northern lights tonight: 9 states could see the aurora borealis, thanks to a solar flare. Here&#8217;s the forecast for where and when</title>
-      <link>https://www.fastcompany.com/91568870/northern-lights-aurora-borealis-visible-in-9-states-tonight-forecast-where-when-solar-flare</link>
-      <pubDate>2026-07-02T19:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91568870/northern-lights-aurora-borealis-visible-in-9-states-tonight-forecast-where-when-solar-flare</guid>
-      <description>Fireworks may not be the only dazzling thing you see this week.
-Fireworks may not be the only dazzling thing you see this week. There&#8217;s a possibility you may get a glimpse of the Northern Lights starting tonight.</description>
-    </item>
-    <item>
-      <title>Asus ProArt PZ14 review: This surprisingly powerful tablet PC transformed my creative workflow</title>
-      <link>https://www.techradar.com/pro/asus-proart-pz14-review</link>
-      <pubDate>Thu, 02 Jul 2026 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">zLqhUBDj5wL8xVx8QnaTHj</guid>
-      <description>This tablet PC is not just for browsing the internet and editing; it features a full version of Windows and, combined with a powerful AI CPU, offers a complete solution.</description>
-    </item>
-    <item>
-      <title>Planning a cookout? There&#8217;s one grocery item costing Americans a lot more this year.</title>
-      <link>https://www.fastcompany.com/91568789/planning-a-cookout-theres-one-grocery-item-costing-americans-a-lot-more-this-year</link>
-      <pubDate>2026-07-02T19:17:56</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91568789/planning-a-cookout-theres-one-grocery-item-costing-americans-a-lot-more-this-year</guid>
-      <description>Americans are paying the highest beef prices on record just as millions prepare to fire up the grill for Independence Day
-Heading into Fourth of July weekend, Americans are going to be making some tough choices about what to throw on the grill.</description>
-    </item>
-    <item>
-      <title>The Empire State Building climbing stunt is now brand-trend slop</title>
-      <link>https://www.fastcompany.com/91568721/the-empire-state-building-climbing-stunt-is-now-brand-trend-slop</link>
-      <pubDate>2026-07-02T19:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91568721/the-empire-state-building-climbing-stunt-is-now-brand-trend-slop</guid>
-      <description>The meme to brand-marketing pipeline is shorter (and more boring) than ever.
-The Empire State Building is one of (if not the most) iconic symbols of New York City, so it&#8217;s unsurprising that many people go to extreme lengths to see it. But a recent pair of visitors have taken it too far.</description>
-    </item>
-    <item>
-      <title>A warning sign about AI&#8217;s real cost, courtesy of Google and Amazon</title>
-      <link>https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/</link>
-      <pubDate>Thu, 02 Jul 2026 19:14:46 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138685</guid>
-      <description>AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.</description>
-    </item>
-    <item>
-      <title>Despite the backlash, Donald Trump is using AI again</title>
-      <link>https://mashable.com/life/trump-ai-truth-social-videos</link>
-      <pubDate>Thu, 02 Jul 2026 19:13:28 +0000</pubDate>
-      <guid isPermaLink="false">06CKT6wEWaUYVSgkt5ASqgw</guid>
-      <description>Trump&#8217;s Truth Social feed is filling with AI-generated posts, including fake celebrities, Teddy Roosevelt, and a golden eagle.</description>
-    </item>
-    <item>
-      <title>The enduring power of the boutique model</title>
-      <link>https://www.fastcompany.com/91567530/the-enduring-power-of-the-boutique-model</link>
-      <pubDate>2026-07-02T19:13:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91567530/the-enduring-power-of-the-boutique-model</guid>
-      <description>Why smaller firms deliver outsized impact.
-In an era defined by scale, consolidation, and global reach, the prevailing assumption is that bigger is inherently better. Larger firms promise breadth of capability. They also promise deep benches and operational efficiency at scale. Yet, over the last four decades, an alternative model has consistently proven its value. It eschews size for depth, along with continuity, and human connection....</description>
+      <title>Cloudflare will filter out web crawlers that serve AI companies</title>
+      <link>https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/</link>
+      <pubDate>Thu, 02 Jul 2026 21:17:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/</guid>
+      <description>The hosting platform wants sites to have more control over how AI companies use their content.</description>
     </item>
   </channel>
 </rss>
