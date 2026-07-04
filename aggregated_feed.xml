@@ -3,41 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:00:50 GMT</lastBuildDate>
     <item>
-      <title>New Google commercial imagines a Declaration of Independence written with help from AI</title>
-      <link>https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/</link>
-      <pubDate>Sat, 04 Jul 2026 20:55:25 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138982</guid>
-      <description>Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?</description>
+      <title>Quote of the day by Microsoft CEO Satya Nadella on women asking for a raise: 'It&#8217;s about knowing and having faith in the system' &#8212; a controversial gaffe that led to an immediate reversal</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-on-women-asking-for-a-raise-its-about-knowing-and-having-faith-in-the-system-a-controversial-gaffe-that-led-to-an-immediate-reversal</link>
+      <pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RguQjy4A5KF2ZuqicgZXrT</guid>
+      <description>The technology industry has long struggled with equalising the contributions of men and women &#8212; with women vastly underpaid relative to men</description>
     </item>
     <item>
-      <title>'Agentic coding tools have access to everything they need for this': Security experts warn Claude Code can be exploited simply by trying to be helpful</title>
-      <link>https://www.techradar.com/pro/security/agentic-coding-tools-have-access-to-everything-they-need-for-this-security-experts-warn-claude-code-can-be-exploited-simply-by-trying-to-be-helpful</link>
-      <pubDate>Sat, 04 Jul 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">ST9jVeqUvxPgXzQE3PvLf4</guid>
-      <description>A hidden DNS record tricked Claude Code into opening a reverse shell during routine error recovery, bypassing every standard security scanning tool completely.</description>
-    </item>
-    <item>
-      <title>Unihertz Titan 2 Elite review: This 5G business phone with a BlackBerry-style keyboard made my mobile work feel faster</title>
-      <link>https://www.techradar.com/computing/unihertz-titan-2-elite-business-phone-review</link>
-      <pubDate>Sat, 04 Jul 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">pnUMDk6n3iBwPhs5f6C9K8</guid>
-      <description>A pocketable 5G Android phone with real QWERTY keyboard, AMOLED, and serious shortcut power.</description>
-    </item>
-    <item>
-      <title>A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories</title>
-      <link>https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/</link>
-      <pubDate>Sat, 04 Jul 2026 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/</guid>
-      <description>This week's science news.</description>
-    </item>
-    <item>
-      <title>NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth</title>
-      <link>https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies</link>
-      <pubDate>2026-07-04T15:06:27-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961459</guid>
-      <description>The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting [&#8230;]</description>
+      <title>Chinese firm's fiber trial hits staggering 51.3 Tb/s over 128 miles without signal regeneration &#8212;  could this be an end to bandwidth bottlenecks?</title>
+      <link>https://www.techradar.com/pro/chinese-firms-fiber-trial-hits-staggering-51-3-tb-s-over-128-miles-without-signal-regeneration-could-this-be-an-end-to-bandwidth-bottlenecks</link>
+      <pubDate>Sat, 04 Jul 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">Mgh4d8oUa3JH4fTWwKCsnb</guid>
+      <description>YOFC demonstrated 51.3 Tb/s hollow-core transmission over 206.5 km, aiming to ease growing AI networking pressures worldwide soon significantly.</description>
     </item>
   </channel>
 </rss>
