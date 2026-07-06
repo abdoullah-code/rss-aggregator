@@ -3,249 +3,123 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 06 Jul 2026 17:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:03:29 GMT</lastBuildDate>
     <item>
-      <title>Ce moniteur e-ink couleur promet une fluidit&#233; in&#233;dite &#224; 60 Hz, mais son prix le r&#233;serve aux passionn&#233;s</title>
-      <link>https://www.frandroid.com/produits-android/ordinateurs/ecran-pc/3170701_ce-moniteur-e-ink-couleur-promet-une-fluidite-inedite-a-60-hz-mais-son-prix-le-reserve-aux-passionnes</link>
-      <pubDate>Mon, 06 Jul 2026 17:39:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/ecran-pc/3170701_ce-moniteur-e-ink-couleur-promet-une-fluidite-inedite-a-60-hz-mais-son-prix-le-reserve-aux-passionnes</guid>
+      <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
+      <link>https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</link>
+      <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139318</guid>
+      <description>"The reality is, when you're optimizing for production, you start looking at a price/performance," Guillermo Rauch tells TechCrunch.</description>
+    </item>
+    <item>
+      <title>Claude&#160;: l&#8217;application web d&#8217;Anthropic subit une panne, mais son API et Claude Code fonctionnent</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3170721_claude-lapplication-web-danthropic-subit-une-panne-mais-son-api-et-claude-code-fonctionnent</link>
+      <pubDate>Mon, 06 Jul 2026 19:29:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3170721_claude-lapplication-web-danthropic-subit-une-panne-mais-son-api-et-claude-code-fonctionnent</guid>
       <description>
-Bigme lance un moniteur &#224; encre &#233;lectronique qui monte &#224; 60 Hz, de quoi regarder une vid&#233;o sans les saccades habituelles de l'e-ink. Le tarif, lui, reste r&#233;serv&#233; aux convaincus.
+Claude, l'assistant IA d'Anthropic, conna&#238;t des rat&#233;s c&#244;t&#233; application web, alors que l'API et Claude Code, l'outil pour d&#233;veloppeurs, semblent tenir le coup.
 </description>
     </item>
     <item>
-      <title>Samsung veut augmenter le prix de la m&#233;moire vive de 20&#160;% : les smartphones et PC vont co&#251;ter encore plus cher</title>
-      <link>https://www.frandroid.com/marques/samsung/3170695_samsung-veut-augmenter-le-prix-de-la-memoire-vive-de-20-les-smartphones-et-pc-vont-couter-encore-plus-cher</link>
-      <pubDate>Mon, 06 Jul 2026 17:33:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3170695_samsung-veut-augmenter-le-prix-de-la-memoire-vive-de-20-les-smartphones-et-pc-vont-couter-encore-plus-cher</guid>
+      <title>Google now uses your uploaded search media to train AI</title>
+      <link>https://www.engadget.com/2208978/google-now-uses-your-uploaded-search-media-to-train-ai/</link>
+      <pubDate>Mon, 06 Jul 2026 19:13:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2208978/google-now-uses-your-uploaded-search-media-to-train-ai/</guid>
+      <description>A few simple adjustments to your settings will opt you out of Google's latest AI-training method.</description>
+    </item>
+    <item>
+      <title>You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta</title>
+      <link>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</link>
+      <pubDate>Mon, 06 Jul 2026 19:01:59 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139329</guid>
+      <description>The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.</description>
+    </item>
+    <item>
+      <title>&#8216;I am mortified&#8217;: An iPhone user sent &#8216;sensitive pictures&#8217; to a stranger&#8217;s phone after making this simple iMessage mistake &#8212; here&#8217;s how to avoid the same fate</title>
+      <link>https://www.techradar.com/phones/i-am-mortified-an-iphone-user-sent-sensitive-pictures-to-a-strangers-phone-after-making-this-simple-imessage-mistake-heres-how-to-avoid-the-same-fate</link>
+      <pubDate>Mon, 06 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">uUdFzEiUGU9ysQaxFKMbJF</guid>
+      <description>An iPhone user accidentally sent &#8216;sensitive&#8217; texts to the wrong person after their partner made one key mistake.</description>
+    </item>
+    <item>
+      <title>Apple d&#233;ploie la b&#234;ta 3 d&#8217;iOS 27 : le point sur le nouveau Siri AI et les iPhone compatibles</title>
+      <link>https://www.frandroid.com/os/ios/3170715_apple-deploie-la-beta-3-dios-27-le-point-sur-le-nouveau-siri-ai-et-les-iphone-compatibles</link>
+      <pubDate>Mon, 06 Jul 2026 18:57:16 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/ios/3170715_apple-deploie-la-beta-3-dios-27-le-point-sur-le-nouveau-siri-ai-et-les-iphone-compatibles</guid>
       <description>
-Samsung veut encore relever ses prix de m&#233;moire vive au troisi&#232;me trimestre. Une troisi&#232;me hausse d&#8217;affil&#233;e qui finira par se retrouver sur l&#8217;&#233;tiquette de votre prochain smartphone ou ordinateur portable.
+Apple vient de publier la troisi&#232;me b&#234;ta d&#233;veloppeur d&#8217;iOS 27. Une &#233;tape de plus vers Siri AI, l&#8217;assistant repens&#233; qui reste bloqu&#233; en Europe au lancement.
 </description>
     </item>
     <item>
-      <title>&#8216;A very, very unpleasant surprise&#8217;: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium &#8212; shutdown and cleaning of two water reclamation plants expected to last months</title>
-      <link>https://www.techradar.com/pro/a-very-very-unpleasant-surprise-meta-forced-to-halt-data-center-water-discharges-after-polluting-citys-water-reclamation-system-with-resistant-bacterium-shutdown-and-cleaning-of-two-water-reclamation-plants-expected-to-last-months</link>
-      <pubDate>Mon, 06 Jul 2026 17:20:00 +0000</pubDate>
-      <guid isPermaLink="false">EzmRZGLa83MdLVARcipa6H</guid>
-      <description>Meta has been named as the source of contamination for a rare metal and drug resistant bacterium that shut down two water reclamation plants.</description>
+      <title>The lightest Linux laptop ever just launched, and it challenges the MacBook Air for battery life</title>
+      <link>https://www.techradar.com/pro/the-lightest-linux-laptop-ever-just-launched-and-it-challenges-the-macbook-air-for-battery-life</link>
+      <pubDate>Mon, 06 Jul 2026 18:40:00 +0000</pubDate>
+      <guid isPermaLink="false">7Jwidg5RNmGnyWomVEmDoN</guid>
+      <description>The refreshed Lemur Pro is a Linux-based ultraportable that offers plenty of power and battery life under the hood.</description>
     </item>
     <item>
-      <title>Five questions for Dr. Rubin, who&#8217;s armed with a mic and a bowtie</title>
-      <link>https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview</link>
-      <pubDate>2026-07-06T13:15:29-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961483</guid>
-      <description>Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet one of those highly-trained people, Dr. Zachary Rubin, [&#8230;]</description>
+      <title>America&#8217;s greatest idea is still under threat</title>
+      <link>https://www.theverge.com/policy/961802/america-250-free-speech</link>
+      <pubDate>2026-07-06T14:36:33-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961802</guid>
+      <description>The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had fireworks. French fighter jets flew above New York City with trails of red, white, and blue [&#8230;]</description>
     </item>
     <item>
-      <title>This Geekom A5 deal is the back-to-school mini PC I&#8217;d put on every student desk</title>
-      <link>https://www.techradar.com/pro/this-geekom-a5-deal-is-the-back-to-school-mini-pc-id-put-on-every-student-desk</link>
-      <pubDate>Mon, 06 Jul 2026 17:14:14 +0000</pubDate>
-      <guid isPermaLink="false">Ef5EoqTq3L74eMPQtz7Nw3</guid>
-      <description>At this price, Geekom's reliable Windows 11 Pro mini PC is the ideal machine for the back to school season.</description>
+      <title>Every major tech layoff in 2026 that has name-checked AI</title>
+      <link>https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+      <pubDate>Mon, 06 Jul 2026 18:35:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
+      <description>A running look &#8212; in reverse chronological order &#8212; at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.</description>
     </item>
     <item>
-      <title>If you use Google, you&#8217;re training its AI. Here&#8217;s how to opt out.</title>
-      <link>https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</link>
-      <pubDate>Mon, 06 Jul 2026 17:04:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139169</guid>
-      <description>PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.</description>
+      <title>Why are people ditching wireless earbuds, and are wired headphones really making a comeback?</title>
+      <link>https://www.engadget.com/2207185/wired-iems-vs-wireless-earbuds/</link>
+      <pubDate>Mon, 06 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2207185/wired-iems-vs-wireless-earbuds/</guid>
+      <description>Everything old is new again.</description>
     </item>
     <item>
-      <title>Clarkson's Farm finally has a positive piece of news &#8212; please let this mean that season 6 isn't anywhere near as soul-destroying as the season 5 ending</title>
-      <link>https://www.techradar.com/streaming/amazon-prime-video/clarksons-farm-season-6-kaleb-news</link>
-      <pubDate>Mon, 06 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">wL3s7onht9pUvGapfTW8hb</guid>
-      <description>Clarkson's Farm season 6 is currently in production &#8212; and it could really benefit from the only good bit of news Jeremy Clarkson's land has had in ages.</description>
+      <title>Klarna wants to become a bank. Here&#8217;s what that could mean for millions of customers</title>
+      <link>https://www.fastcompany.com/91569715/klarna-wants-to-become-a-bank-heres-what-that-could-mean-for-millions-of-customers</link>
+      <pubDate>2026-07-06T18:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91569715/klarna-wants-to-become-a-bank-heres-what-that-could-mean-for-millions-of-customers</guid>
+      <description>The fintech giant has applied for a U.S. banking charter, paving the way for checking accounts, loans, and other financial services under its own name.
+The buy now, pay later fintech company Klarna wants to become a real bank.</description>
     </item>
     <item>
-      <title>How to watch Portugal vs. Spain online for free</title>
-      <link>https://mashable.com/entertainment/portugal-spain-fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Mon, 06 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">005CSBiMO5TXuIHetVYJo44</guid>
-      <description>How to watch World Cup for free. Live stream Portugal vs. Spain in the 2026 FIFA World Cup for free from anywhere in the world.</description>
+      <title>This Anker Solix deal is the ultimate summer power setup &#8212; save $530 on the record-breaking C1000X Gen 2 I&#8217;d buy for camping</title>
+      <link>https://www.techradar.com/pro/this-anker-solix-deal-is-the-ultimate-summer-power-setup-save-usd530-on-the-record-breaking-c1000x-gen-2-id-buy-for-camping</link>
+      <pubDate>Mon, 06 Jul 2026 18:18:47 +0000</pubDate>
+      <guid isPermaLink="false">h6E8j2MfiFPJAhk3MquACe</guid>
+      <description>1024Wh, 2000W output, and a Guinness World Record-breaking 49-minute recharge.</description>
     </item>
     <item>
-      <title>Combien co&#251;te vraiment un climatiseur &#224; l&#8217;usage ? Voici la facture d&#8217;&#233;lectricit&#233;</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3170063_combien-coute-vraiment-un-climatiseur-a-lusage-voici-la-facture-delectricite</link>
-      <pubDate>Mon, 06 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3170063_combien-coute-vraiment-un-climatiseur-a-lusage-voici-la-facture-delectricite</guid>
-      <description>
-La climatisation tra&#238;ne une r&#233;putation de gouffre &#224; &#233;lectricit&#233; qui en dissuade plus d'un. Pour en avoir le c&#339;ur net, voici ce que consomme r&#233;ellement une climatiseur monobloc, d'un climatiseur mobile &#224; split et un split mural pendant tout un &#233;t&#233;. Vous verrez, le choix de la technologie p&#232;se bien plus que le nombre d'heures d'utilisation.
-</description>
+      <title>This $810 mini PC beats heavy engineering laptops &#8212; with 32GB upgradeable RAM and OCuLink power, it&#8217;s the ultimate dorm buy</title>
+      <link>https://www.techradar.com/pro/this-usd810-mini-pc-beats-heavy-engineering-laptops-with-32gb-upgradeable-ram-and-oculink-power-its-the-ultimate-dorm-buy</link>
+      <pubDate>Mon, 06 Jul 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">zW6zeKn7JeBjmLYBWQiw2k</guid>
+      <description>Don't want to cart a 6lb laptop across campus? This mini PC is dorm room-ready for engineering projects.</description>
     </item>
     <item>
-      <title>Netflix, Prime Video et Disney+ attaquent l&#8217;&#201;tat fran&#231;ais en justice pour ne pas financer l&#8217;animation</title>
-      <link>https://www.frandroid.com/services/svod/3170685_netflix-prime-video-et-disney-attaquent-letat-francais-en-justice-pour-ne-pas-financer-lanimation</link>
-      <pubDate>Mon, 06 Jul 2026 16:59:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3170685_netflix-prime-video-et-disney-attaquent-letat-francais-en-justice-pour-ne-pas-financer-lanimation</guid>
-      <description>
-Netflix, Prime Video et Disney+ attaquent devant le Conseil d'&#201;tat une nouvelle obligation fran&#231;aise qui les force &#224; financer l'animation et le documentaire. Le streaming am&#233;ricain estime que la r&#232;gle empi&#232;te sur sa libert&#233; &#233;ditoriale.
-</description>
+      <title>Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all</title>
+      <link>https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/</link>
+      <pubDate>Mon, 06 Jul 2026 18:12:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139204</guid>
+      <description>Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms  and is working on integration.</description>
     </item>
     <item>
-      <title>Comment bloquer votre pseudo WhatsApp d&#232;s maintenant</title>
-      <link>https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-smartphones/3170671_comment-bloquer-votre-pseudo-whatsapp-des-maintenant</link>
-      <pubDate>Mon, 06 Jul 2026 16:54:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-smartphones/3170671_comment-bloquer-votre-pseudo-whatsapp-des-maintenant</guid>
-      <description>
-WhatsApp a ouvert la r&#233;servation des noms d'utilisateur, mais la fonction ne sera vraiment active que plus tard cette ann&#233;e. Voici comment claim votre pseudo d&#232;s maintenant.
-</description>
+      <title>FlexiSpot&#8217;s C7 is one of our top-rated office chairs &#8212; and this deal is a steal for all-day comfort</title>
+      <link>https://www.techradar.com/pro/flexispots-c7-is-one-of-our-top-rated-office-chairs-and-this-deal-is-a-steal-for-all-day-comfort</link>
+      <pubDate>Mon, 06 Jul 2026 18:04:05 +0000</pubDate>
+      <guid isPermaLink="false">uSe9QTCJHbBnsmtiSnLRSW</guid>
+      <description>'An affordable, luxury ergonomic office chair for all-day comfort,' was our verdict after tests.</description>
     </item>
     <item>
-      <title>This MSI Venture 16 AI laptop deal is a win for pros and photo editors</title>
-      <link>https://www.techradar.com/pro/this-msi-venture-16-ai-laptop-deal-is-a-win-for-pros-and-photo-editors</link>
-      <pubDate>Mon, 06 Jul 2026 16:48:22 +0000</pubDate>
-      <guid isPermaLink="false">gQC9CfjRLmJtvAgJEvoNWg</guid>
-      <description>Big savings on the 16-inch AI laptop sporting Intel Core Ultra 9 285H, 32GB DDR5, and 1TB SSD.</description>
-    </item>
-    <item>
-      <title>Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size &#8212; and wins everywhere except coding</title>
-      <link>https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding</link>
-      <pubDate>Mon, 06 Jul 2026 16:38:27 GMT</pubDate>
-      <guid isPermaLink="false">3D2qhj5Bv4puvFM52i6N9W</guid>
-      <description>For the past year, the awkward secret of the open-weight model boom has been that many of the strongest Chinese releases were off-limits to a large slice of the enterprises most interested in them. License terms that excluded the European Union, the United Kingdom and South Korea meant legal teams killed deployments before engineering teams finished their evals &#8212; not just for companies headquartered there, but for any enterprise serving traffic into those regions. For IT teams weighing open models, the trade-offs are unusually explicit.Tencent just removed that obstacle. The company's Hunyuan ...</description>
-    </item>
-    <item>
-      <title>Quelles sont les meilleures batteries externes (power bank) en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/410310_guide-achat-batterie-externe</link>
-      <pubDate>Mon, 06 Jul 2026 16:35:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/410310_guide-achat-batterie-externe</guid>
-      <description>
-&#192; la recherche du meilleur power bank en 2026 pour les vacances ou tout simplement pour d&#233;panner au quotidien ? Voici notre comparatif et test des meilleures batteries externes classiques, MagSafe ou compacte, pour recharger votre smartphone, votre iPhone ou encore vos &#233;couteurs sans fil.
-</description>
-    </item>
-    <item>
-      <title>The FBI has seized over 600 drones around World Cup matches across all 11 US host cities &#8212; and that's bad news for all drone fans</title>
-      <link>https://www.techradar.com/cameras/drones/the-fbi-has-seized-over-600-drones-around-world-cup-matches-across-all-11-us-host-cities-and-thats-bad-news-for-all-drone-fans</link>
-      <pubDate>Mon, 06 Jul 2026 16:30:10 +0000</pubDate>
-      <guid isPermaLink="false">ScQGfmPtcMCGjHMd36oiVe</guid>
-      <description>The FBI has confiscated hundreds of drones across all 11 US World Cup host cities, with Miami, Los Angeles and Dallas leading a nationwide pattern of violations. And the regulatory fallout for America's drone community could be significant.</description>
-    </item>
-    <item>
-      <title>Xbox veut &#171; divertir 1 milliard de joueurs par jour &#187; : voici le plan d&#8217;Asha Sharma</title>
-      <link>https://www.frandroid.com/marques/microsoft/3170605_xbox-veut-divertir-1-milliard-de-joueurs-par-jour-voici-le-plan-dasha-sharma</link>
-      <pubDate>Mon, 06 Jul 2026 16:29:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3170605_xbox-veut-divertir-1-milliard-de-joueurs-par-jour-voici-le-plan-dasha-sharma</guid>
-      <description>
-Microsoft a annonc&#233; le licenciement de pr&#232;s de 3 200 personnes dans son activit&#233; jeu vid&#233;o. En marge, Asha Sharma, la patronne de Xbox, d&#233;taille sa strat&#233;gie pour toucher 1 milliard de joueurs.
-</description>
-    </item>
-    <item>
-      <title>AI golem Tilly Norwood is reportedly 'starring' in a feature-length movie</title>
-      <link>https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/</link>
-      <pubDate>Mon, 06 Jul 2026 16:28:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/</guid>
-      <description>Get excited for a feature film starring an AI character that doesn't exist in any real way.</description>
-    </item>
-    <item>
-      <title>Former Xbox studios Double Fine and Compulsion will keep games after going indie</title>
-      <link>https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie</link>
-      <pubDate>2026-07-06T12:22:34-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961749</guid>
-      <description>Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that are going independent, Double Fine and Compulsion, will get to keep their franchises and games catalogs, according to Xbox CEO Asha Sharma. "Compulsion [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Apple brings back card payments for Apple Account purchases in India after a four-year hiatus</title>
-      <link>https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/</link>
-      <pubDate>Mon, 06 Jul 2026 16:21:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139154</guid>
-      <description>Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.</description>
-    </item>
-    <item>
-      <title>Canicule : pourquoi le r&#233;seau &#233;lectrique de RTE tourne au ralenti au moment o&#249; on en a le plus besoin</title>
-      <link>https://www.frandroid.com/survoltes/energie/3170425_canicule-pourquoi-le-reseau-electrique-de-rte-tourne-au-ralenti-au-moment-ou-on-en-a-le-plus-besoin</link>
-      <pubDate>Mon, 06 Jul 2026 16:18:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3170425_canicule-pourquoi-le-reseau-electrique-de-rte-tourne-au-ralenti-au-moment-ou-on-en-a-le-plus-besoin</guid>
-      <description>
-En pleine canicule, quand la climatisation tourne &#224; fond partout, les lignes haute tension de RTE transportent moins d'&#233;lectricit&#233; qu'en hiver. Rien &#224; voir avec une panne : c'est de la physique, avec des cons&#233;quences qui peuvent &#234;tre dramatiques s'il n'y avait pas de protections.
-</description>
-    </item>
-    <item>
-      <title>The best microSD, portable SSDs, and hard drive deals to grab this week</title>
-      <link>https://mashable.com/tech/july-6-ssd-deals</link>
-      <pubDate>Mon, 06 Jul 2026 16:11:26 +0000</pubDate>
-      <guid isPermaLink="false">02dUV4iELhYg0blPAZ3QqVk</guid>
-      <description>Here are the best deals on microSD cards, portable SSDs, and hard drives you can grab this week to beat RAMageddon.</description>
-    </item>
-    <item>
-      <title>Hurry to get the Magic: The Gathering Avatar The Last Airbender Beginner Box for the lowest price weve ever seen at Amazon</title>
-      <link>https://mashable.com/life/july-6-magic-avatar-beginner-box-deal</link>
-      <pubDate>Mon, 06 Jul 2026 16:06:02 +0000</pubDate>
-      <guid isPermaLink="false">06AiBCoguL7mM9y8PgCkl7J</guid>
-      <description>The Magic: The Gathering Avatar The Last Airbender Beginner Box is on sale at Amazon for $18.10, down from the list price of $34.99. That's a 48% discount.</description>
-    </item>
-    <item>
-      <title>'The challenge is no longer only how much power is needed, but whether it can be delivered reliably': Report finds AI data centers are draining more power than the grid can provide</title>
-      <link>https://www.techradar.com/pro/the-challenge-is-no-longer-only-how-much-power-is-needed-but-whether-it-can-be-delivered-reliably-report-finds-ai-data-centers-are-draining-more-power-than-the-grid-can-provide</link>
-      <pubDate>Mon, 06 Jul 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">5JfWjs3tDKUm3pQiGrxQ3g</guid>
-      <description>AI data centers are increasing demand for power, but they're also making it harder to predict how much is needed and when.</description>
-    </item>
-    <item>
-      <title>Soldes : Cdiscount casse les prix avec sa 2e d&#233;marque et ses codes promo</title>
-      <link>https://www.frandroid.com/bons-plans/3170443_soldes-cdiscount-casse-les-prix-avec-sa-2e-demarque-et-ses-codes-promo</link>
-      <pubDate>Mon, 06 Jul 2026 16:03:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3170443_soldes-cdiscount-casse-les-prix-avec-sa-2e-demarque-et-ses-codes-promo</guid>
-      <description>
-Pour la deuxi&#232;me d&#233;marque des soldes, Cdiscount casse les prix sur tout son rayon Tech et d&#233;gaine deux codes promo exclusifs pour faire chuter la facture. Smartphones, PC portables, TV : d&#233;couvrez notre s&#233;lection des meilleures offres. 
-</description>
-    </item>
-    <item>
-      <title>I spy</title>
-      <link>https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy</link>
-      <pubDate>2026-07-06T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961707</guid>
-      <description>I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Midea PortaSplit : l&#8217;astuce pour payer son climatiseur 250 euros de moins</title>
-      <link>https://www.frandroid.com/produits-android/3170191_midea-portasplit-lastuce-pour-payer-son-climatiseur-250-euros-de-moins</link>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3170191_midea-portasplit-lastuce-pour-payer-son-climatiseur-250-euros-de-moins</guid>
-      <description>
-En pleine canicule, le Midea PortaSplit s'arrache et se paie une fortune en France. En passant la fronti&#232;re allemande, on peut &#233;conomiser jusqu'&#224; 250 euros sur le m&#234;me appareil.
-</description>
-    </item>
-    <item>
-      <title>Meilleur vid&#233;oprojecteur pas cher en 2026 : notre comparatif (moins de 500 &#8364;)</title>
-      <link>https://www.frandroid.com/guide-dachat/1978676_quels-sont-les-meilleurs-videoprojecteurs-pas-chers-en-2024</link>
-      <pubDate>Mon, 06 Jul 2026 15:56:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1978676_quels-sont-les-meilleurs-videoprojecteurs-pas-chers-en-2024</guid>
-      <description>
-Envie d'un vid&#233;oprojecteur, mais vous constatez que les prix s'envolent vite ? Pas de souci, voici six mod&#232;les de vid&#233;oprojecteurs pas chers, &#224; moins de 500 euros, avec les meilleurs rapports qualit&#233;/prix actuellement.
-</description>
-    </item>
-    <item>
-      <title>Amazon Leo pourra proposer Internet par satellite en France, la justice a tranch&#233;</title>
-      <link>https://www.frandroid.com/marques/amazon/3170155_amazon-leo-pourra-proposer-internet-par-satellite-en-france-la-justice-a-tranche</link>
-      <pubDate>Mon, 06 Jul 2026 15:55:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/amazon/3170155_amazon-leo-pourra-proposer-internet-par-satellite-en-france-la-justice-a-tranche</guid>
-      <description>
-La contestation n'aura pas suffi. Amazon Leo, alternative &#224; Starlink d'Elon Musk, a re&#231;u l'autorisation d'&#233;mettre en France. Le g&#233;ant am&#233;ricain a lanc&#233; son service d'Internet par satellite en mai 2026.
-</description>
-    </item>
-    <item>
-      <title>How to watch Portugal vs Spain: Free Streams, TV Channels &amp; Kick-Off time for FIFA World Cup 2026 as Cristiano Ronaldo faces Lamine Yamal in last 16</title>
-      <link>https://www.techradar.com/how-to-watch/football/portugal-vs-spain-world-cup-2026-free</link>
-      <pubDate>Mon, 06 Jul 2026 15:55:00 +0000</pubDate>
-      <guid isPermaLink="false">DSosBCerCsMJQGwMw48m4N</guid>
-      <description>Here's how to watch Portugal vs Spain for free online and from anywhere at the FIFA World Cup 2026, as an ageing superstar meets a young pretender.</description>
-    </item>
-    <item>
-      <title>La Galaxy Watch pourrait vous &#233;viter le coup de chaud en temps de canicule</title>
-      <link>https://www.frandroid.com/marques/samsung/3170373_la-galaxy-watch-pourrait-vous-eviter-le-coup-de-chaud-en-temps-de-canicule</link>
-      <pubDate>Mon, 06 Jul 2026 15:49:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3170373_la-galaxy-watch-pourrait-vous-eviter-le-coup-de-chaud-en-temps-de-canicule</guid>
-      <description>
-Samsung teste une nouvelle fonctionnalit&#233; de la Galaxy Watch destin&#233;e aux travailleurs expos&#233;s &#224; de fortes chaleurs. Gr&#226;ce aux capteurs de la montre et &#224; un algorithme, elle est capable d'estimer le moment o&#249; une pause devient n&#233;cessaire afin de limiter les risques de surchauffe.
-</description>
-    </item>
-    <item>
-      <title>AdGuard VPN hits the Microsoft Store, and installing it just got a lot simpler</title>
-      <link>https://www.techradar.com/vpn/vpn-services/adguard-vpn-hits-the-microsoft-store-and-installing-it-just-got-a-lot-simpler</link>
-      <pubDate>Mon, 06 Jul 2026 15:49:08 +0000</pubDate>
-      <guid isPermaLink="false">Uwhz4J76CvfEfw9BEtoQ5H</guid>
-      <description>AdGuard VPN is now on the Microsoft Store, giving Windows users a faster install and automatic updates. It's the same app, and the standalone installer stays available.</description>
+      <title>&#201;clipse du Soleil, &#233;toiles filantes, Saturne&#8230; : voici le programme parfait pour lever les yeux en famille cet &#233;t&#233;</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/observation-ciel-eclipse-soleil-etoiles-filantes-saturne-voici-programme-parfait-lever-yeux-famille-cet-ete-135917/#xtor%3DRSS-8</link>
+      <pubDate>Mon, 06 Jul 2026 20:03:43 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/observation-ciel-eclipse-soleil-etoiles-filantes-saturne-voici-programme-parfait-lever-yeux-famille-cet-ete-135917/#xtor%3DRSS-8</guid>
+      <description>Cet &#233;t&#233;, le ciel r&#233;serve plusieurs rendez-vous faciles &#224; observer, &#224; condition de savoir quoi chercher et quand regarder. Voici le guide simple et concret pour rep&#233;rer l&#8217;&#233;clipse du 12&#160;ao&#251;t, reconna&#238;tre une plan&#232;te, profiter des &#233;toiles filantes et commencer &#224; observer avec ses propres yeux, des...</description>
     </item>
   </channel>
 </rss>
