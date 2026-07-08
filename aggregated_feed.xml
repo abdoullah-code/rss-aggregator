@@ -3,306 +3,172 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 08 Jul 2026 17:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:38:53 GMT</lastBuildDate>
     <item>
-      <title>Cockroaches will learn to fear my SwitchBot Bot Rechargeable</title>
-      <link>https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review</link>
-      <pubDate>2026-07-08T13:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=962163</guid>
-      <description>A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch across the room. Now I'm ready for battle before [&#8230;]</description>
+      <title>SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;</title>
+      <link>https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/</link>
+      <pubDate>Wed, 08 Jul 2026 19:30:16 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140162</guid>
+      <description>Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.</description>
     </item>
     <item>
-      <title>This Ugreen NASync DH2300 deal delivers the 'perfect starter NAS' for home offices</title>
-      <link>https://www.techradar.com/pro/this-ugreen-nasync-dh2300-deal-delivers-the-perfect-starter-nas-for-home-offices</link>
-      <pubDate>Wed, 08 Jul 2026 17:22:34 +0000</pubDate>
-      <guid isPermaLink="false">WuKCPSFj6NiosqFRGWSNKN</guid>
-      <description>2-bay, 4K HDMI, 4GB RAM, diskless and ready to set up in minutes &#8212; we reviewed this one and it&#8217;s the perfect entry point into personal cloud storage.</description>
+      <title>&#8216;Slow-cial&#8217; app Roost forces you to slow down to the speed of a carrier pigeon</title>
+      <link>https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/</link>
+      <pubDate>Wed, 08 Jul 2026 19:22:11 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140021</guid>
+      <description>This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.</description>
     </item>
     <item>
-      <title>Le Galaxy Z Fold 8 change totalement de format : les futurs pliables de Samsung ont fuit&#233;</title>
-      <link>https://www.frandroid.com/marques/samsung/3173901_le-galaxy-z-fold-8-change-totalement-de-format-les-futurs-pliables-de-samsung-ont-fuite</link>
-      <pubDate>Wed, 08 Jul 2026 17:14:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3173901_le-galaxy-z-fold-8-change-totalement-de-format-les-futurs-pliables-de-samsung-ont-fuite</guid>
+      <title>This startup thinks robotics is about to have its ChatGPT moment</title>
+      <link>https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/</link>
+      <pubDate>Wed, 08 Jul 2026 19:19:15 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140241</guid>
+      <description>General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.</description>
+    </item>
+    <item>
+      <title>PC shipments just fell for the first time in two years, thanks to the memory shortage</title>
+      <link>https://www.engadget.com/2210856/pc-shipments-just-fell-for-the-first-time-in-two-years-thanks-to-the-memory-shortage/</link>
+      <pubDate>Wed, 08 Jul 2026 19:01:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2210856/pc-shipments-just-fell-for-the-first-time-in-two-years-thanks-to-the-memory-shortage/</guid>
+      <description>PC shipments are falling, but revenue for manufacturers is still rising.</description>
+    </item>
+    <item>
+      <title>Still think you can spot AI? Here&#8217;s how to catch more convincing AI images, deepfakes and scams</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/still-think-you-can-spot-ai-heres-how-to-catch-more-convincing-ai-images-deepfakes-and-scams</link>
+      <pubDate>Wed, 08 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5L9gCQDh6hQ5m9Bo5b5q9j</guid>
+      <description>The old clues aren't enough anymore. Here's how to spot AI-generated images, videos and scams in 2026.</description>
+    </item>
+    <item>
+      <title>This adorable $14K Fiat EV is coming to America &#8212; but it's barely faster than an e-bike</title>
+      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/this-adorable-usd14k-fiat-ev-is-coming-to-america-but-its-barely-faster-than-an-e-bike</link>
+      <pubDate>Wed, 08 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">s7Z22XkrjgML82tkswyxek</guid>
+      <description>Fiat's tiny electric Topolino heads to the US priced at less than $14K, but good luck driving it on the highway.</description>
+    </item>
+    <item>
+      <title>Valve Steam Machine review: This would've been perfect five years ago</title>
+      <link>https://www.engadget.com/2210832/valve-steam-machine-review/</link>
+      <pubDate>Wed, 08 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2210832/valve-steam-machine-review/</guid>
+      <description>The Steam Machine isn't worth the price that Valve is asking.</description>
+    </item>
+    <item>
+      <title>OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person</title>
+      <link>https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person</link>
+      <pubDate>Wed, 08 Jul 2026 18:49:06 GMT</pubDate>
+      <guid isPermaLink="false">3VCr9RKUoaYfXuG7CPGWaD</guid>
+      <description>OpenAI on Wednesday launched GPT-Live, a pair of new voice models that fundamentally redesign how people talk to ChatGPT &#8212; replacing the company's existing Advanced Voice Mode with an architecture that can listen and speak simultaneously, much like an actual human conversation.The two models, GPT-Live-1 and GPT-Live-1 mini, are rolling out globally starting today across iOS, Android, and ChatGPT.com. GPT-Live-1 becomes the default voice model for paid ChatGPT users on the Go, Plus, and Pro tiers, while GPT-Live-1 mini serves free-tier users. OpenAI also plans to bring the models to the API, an...</description>
+    </item>
+    <item>
+      <title>Elon Musk says X will send DMs when posts you&#8217;ve engaged with are corrected</title>
+      <link>https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/</link>
+      <pubDate>Wed, 08 Jul 2026 18:46:20 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140198</guid>
+      <description>X plans to send users direct messages when posts they&#8217;ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform&#8217;s crowdsourced fact-checking system often arrives too late to curb misinformation.</description>
+    </item>
+    <item>
+      <title>Apple's Widow's Bay has the most Emmy noms of any new show this year</title>
+      <link>https://www.engadget.com/2210827/apple-tv-widows-bay-has-the-most-emmy-noms-of-any-new-show-this-year/</link>
+      <pubDate>Wed, 08 Jul 2026 18:44:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2210827/apple-tv-widows-bay-has-the-most-emmy-noms-of-any-new-show-this-year/</guid>
+      <description>The horror-comedy series Widow's Bay earned 19 Emmy nominations for its first season.</description>
+    </item>
+    <item>
+      <title>Google Photos adds a new AI &#8216;Video Remix&#8217; tool</title>
+      <link>https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</link>
+      <pubDate>Wed, 08 Jul 2026 18:30:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140180</guid>
+      <description>The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.</description>
+    </item>
+    <item>
+      <title>Roku is the most popular streaming TV, but lacking more than you think</title>
+      <link>https://www.engadget.com/2209478/roku-most-popular-streaming-tv-study/</link>
+      <pubDate>Wed, 08 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2209478/roku-most-popular-streaming-tv-study/</guid>
+      <description>The company's streaming devices aren't quite keeping up with competitors in several important categories.</description>
+    </item>
+    <item>
+      <title>A self-driving Waymo just reported its own passengers to police</title>
+      <link>https://www.fastcompany.com/91570761/a-self-driving-waymo-just-reported-its-own-passengers-to-police</link>
+      <pubDate>2026-07-08T18:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91570761/a-self-driving-waymo-just-reported-its-own-passengers-to-police</guid>
+      <description>The self-driving vehicle stopped in a parking lot and waited for officers after contacting police about its passengers.
+If you think no one is paying attention inside your driverless taxi, think again. Two California teenagers were detained Monday after a Waymo detected suspicious behavior during their ride and alerted police in San Mateo.</description>
+    </item>
+    <item>
+      <title>Experts warn of the 'first documented case of agentic ransomware' &#8212; dangerous JADEPUFFER attack run entirely by an LLM</title>
+      <link>https://www.techradar.com/pro/security/experts-warn-of-the-first-documented-case-of-agentic-ransomware-dangerous-jadepuffer-attack-run-entirely-by-an-llm</link>
+      <pubDate>Wed, 08 Jul 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">NG6Ytrq4XiJMhm6rDn2ZEW</guid>
+      <description>An LLM-based ransomware attack has been detected by researchers, and is notable for losing the data it encrypted...</description>
+    </item>
+    <item>
+      <title>This lawsuit could change how airlines sell window seats</title>
+      <link>https://www.fastcompany.com/91570779/this-lawsuit-could-change-how-airlines-sell-window-seats</link>
+      <pubDate>2026-07-08T18:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91570779/this-lawsuit-could-change-how-airlines-sell-window-seats</guid>
+      <description>The proposed class action claims travelers weren&#8217;t warned that some &#8216;window seats&#8217; lacked an outside view.
+A federal judge in California this week tossed out a request by United Airlines to dismiss a class action lawsuit filed against the airline last year regarding its pricing of &#8220;windowless&#8221; window seats.</description>
+    </item>
+    <item>
+      <title>La Nasa recrute pour une mission sur Mars : ce qu&#8217;il faut accepter pour vivre un an enferm&#233; comme un astronaute</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/nasa-nasa-recrute-mission-mars-ce-quil-faut-accepter-vivre-an-enferme-comme-astronaute-136034/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 08 Jul 2026 20:03:25 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/nasa-nasa-recrute-mission-mars-ce-quil-faut-accepter-vivre-an-enferme-comme-astronaute-136034/#xtor%3DRSS-8</guid>
+      <description>Et si vous passiez un an enferm&#233; dans une base spatiale sans jamais quitter la Terre ? La Nasa recherche de nouveaux volontaires pour une mission hors du commun qui simulera un voyage complet vers la Lune et Mars. Objectif : pr&#233;parer les futures exp&#233;ditions habit&#233;es en testant aussi bien les...</description>
+    </item>
+    <item>
+      <title>Dimming the Sun Would Help Lower the Risks of El Ni&#241;o</title>
+      <link>https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/</link>
+      <pubDate>Wed, 08 Jul 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a4c324a1a7d3d7d0bef1040</guid>
+      <description>As worries about a growing super El Ni&#241;o mount, new findings suggest a radical solution to mitigating its impacts.</description>
+    </item>
+    <item>
+      <title>Meta just fixed a privacy vulnerability with its Ray-Ban smart glasses, but could cameraless designs be the better future?</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-fixed-a-privacy-vulnerability-with-its-ray-ban-smart-glasses-but-could-cameraless-designs-be-the-better-future</link>
+      <pubDate>Wed, 08 Jul 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">P4AqhCgCCtnpnJ9cUnwzh6</guid>
+      <description>I hate cameraless smart glasses, so I&#8217;m glad Meta just solved a big vulnerability with its specs.</description>
+    </item>
+    <item>
+      <title>Someone is going to  buy Jensen Huang&#8217;s leather jacket for a lot of money</title>
+      <link>https://www.fastcompany.com/91570120/jensen-huang-leather-jacket-auction</link>
+      <pubDate>2026-07-08T18:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91570120/jensen-huang-leather-jacket-auction</guid>
+      <description>The jacket has become an accidental symbol of the AI era. 
+A leather jacket once worn by Nvidia CEO Jensen Huang just went on auction, and it&#8217;s already fetching its estimated bid with more than a week to go until closing.</description>
+    </item>
+    <item>
+      <title>Pourquoi le prix des SSD et de la RAM va tripler d&#8217;ici 2027 avant de s&#8217;effondrer en 2028</title>
+      <link>https://www.frandroid.com/produits-android/hardware/3173879_pourquoi-le-prix-des-ssd-et-de-la-ram-va-tripler-dici-2027-avant-de-seffondrer-en-2028</link>
+      <pubDate>Wed, 08 Jul 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/3173879_pourquoi-le-prix-des-ssd-et-de-la-ram-va-tripler-dici-2027-avant-de-seffondrer-en-2028</guid>
       <description>
-Deux semaines avant l'Unpacked du 22 juillet, les rendus officiels des trois pliables de Samsung ont fuit&#233;. Et la vraie nouveaut&#233;, c'est un Galaxy Z Fold 8 plus large qui n'a plus grand-chose du Fold qu'on conna&#238;t.
+Le cabinet Bernstein pense que les prix de la m&#233;moire vont s&#8217;effondrer&#160;: RAM et stockage redeviendraient abordables fin 2028. Mauvaise nouvelle&#160;: avant &#231;a, ils vont encore grimper.
 </description>
     </item>
     <item>
-      <title>Waymo will soon go fully autonomous in four more cities</title>
-      <link>https://www.engadget.com/2210677/waymo-will-soon-go-fully-autonomous-in-four-more-cities/</link>
-      <pubDate>Wed, 08 Jul 2026 17:13:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2210677/waymo-will-soon-go-fully-autonomous-in-four-more-cities/</guid>
-      <description>Waymo will ditch human supervisors in San Diego, Las Vegas, Tampa and Denver.</description>
+      <title>America&#8217;s cheapest new EV is smaller than a ping-pong table and tops out at 19mph</title>
+      <link>https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty</link>
+      <pubDate>2026-07-08T13:57:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=962753</guid>
+      <description>When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank? The Fiat Topolino is basically the ultimate embodiment of those tradeoffs. [&#8230;]</description>
     </item>
     <item>
-      <title>Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.</title>
-      <link>https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/</link>
-      <pubDate>Wed, 08 Jul 2026 17:11:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140026</guid>
-      <description>Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.</description>
+      <title>Why this CEO thinks video games make better training data than the internet</title>
+      <link>https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</link>
+      <pubDate>Wed, 08 Jul 2026 17:47:55 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3140196</guid>
+      <description>When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don&#8217;t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;&#8212;&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a [&#8230;]...</description>
     </item>
     <item>
-      <title>If Microsoft sold off Xbox, who would even buy it?</title>
-      <link>https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma</link>
-      <pubDate>2026-07-08T13:10:05-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=962837</guid>
-      <description>This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she's making such dramatic cuts, saying in a [&#8230;]</description>
-    </item>
-    <item>
-      <title>Twelve South&#8217;s AirFly Pro is a great travel companion, and it&amp;#8217;s on sale for $40</title>
-      <link>https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale</link>
-      <pubDate>2026-07-08T13:09:28-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=962910</guid>
-      <description>If you&#8217;ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones with in-flight entertainment systems, and right now it&#8217;s on sale for $39.99 ($15 off) at Amazon. That&#8217;s the best [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Zyxel GS1915-24EP 24-port smart switch declutters your home network with 12 PoE+ ports and a 130W power budget &#8212; and it&#8217;s under $200 at Newegg</title>
-      <link>https://www.techradar.com/pro/the-zyxel-gs1915-24ep-24-port-smart-switch-declutters-your-home-network-with-12-poe-ports-and-a-130w-power-budget-and-its-under-usd200-at-newegg</link>
-      <pubDate>Wed, 08 Jul 2026 17:08:24 +0000</pubDate>
-      <guid isPermaLink="false">4RUiTvqKZqJQehB4JdnyyZ</guid>
-      <description>Packed with 24 Gigabit ports, 12 PoE+ connections, and Nebula cloud management, the Zyxel GS1915-24EP smart switch is on sale for just $199.99.</description>
-    </item>
-    <item>
-      <title>La Steam Machine de Valve peut faire tourner Windows et SteamOS en m&#234;me temps : voici comment</title>
-      <link>https://www.frandroid.com/produits-android/console/console-de-jeux/3173889_la-steam-machine-de-valve-peut-faire-tourner-windows-et-steamos-en-meme-temps-voici-comment</link>
-      <pubDate>Wed, 08 Jul 2026 17:03:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/console-de-jeux/3173889_la-steam-machine-de-valve-peut-faire-tourner-windows-et-steamos-en-meme-temps-voici-comment</guid>
-      <description>
-Valve a beau ne pas avoir pr&#233;vu de dual-boot officiel sur la Steam Machine, rien ne vous emp&#234;che de faire cohabiter SteamOS et Windows. J'ai test&#233; la manip&#160;: elle est bricol&#233;e, mais elle marche.
-</description>
-    </item>
-    <item>
-      <title>I&#8217;m a computer expert, so trust me when I say this Dell 14 laptop deal is unmissable &#8212; save $530 on a Core 7 model with 16GB RAM and a 1TB SSD</title>
-      <link>https://www.techradar.com/pro/im-a-computer-expert-so-trust-me-when-i-say-this-dell-14-laptop-deal-is-unmissable-save-usd530-on-a-core-7-model-with-16gb-ram-and-a-1tb-ssd</link>
-      <pubDate>Wed, 08 Jul 2026 17:02:07 +0000</pubDate>
-      <guid isPermaLink="false">5ghgQVdiWVQupXCwfqgf9U</guid>
-      <description>Priced at a staggering $699.99, this is Dell's lowest priced 14-inch laptop right now.</description>
-    </item>
-    <item>
-      <title>La mise &#224; jour de ChatGPT qu&#8217;on attendait tous&#160;: l&#8217;IA parle d&#233;sormais comme un &#234;tre humain, c&#8217;est bluffant</title>
-      <link>https://www.01net.com/actualites/mise-jour-chatgpt-attendait-ia-parle-desormais-comme-humain-bluffant.html</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1358830</guid>
-      <description>OpenAI d&#233;voile GPT-Live-1 et GPT-Live-1 mini, deux nouveaux mod&#232;les destin&#233;s &#224; am&#233;liorer les &#233;changes vocaux avec ChatGPT. Selon la start-up, les mod&#232;les doivent enfin rapprocher les conversations avec l'IA d'un &#233;change naturel avec un humain. Les d&#233;monstrations sont particuli&#232;rement convaincantes.</description>
-    </item>
-    <item>
-      <title>ChatGPT&#8217;s upgraded voice mode is better at shutting up</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live</link>
-      <pubDate>2026-07-08T13:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=962856</guid>
-      <description>OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person." The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's [&#8230;]</description>
-    </item>
-    <item>
-      <title>OpenAI releases new voice models for more natural live conversations</title>
-      <link>https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140033</guid>
-      <description>OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.</description>
-    </item>
-    <item>
-      <title>I reviewed Sony's new mid-range Dolby Atmos soundar, and while I love some features, overall its one step forward and two steps back</title>
-      <link>https://www.techradar.com/televisions/soundbars/sony-bravia-theater-bar-7-review</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">cxs6wKuwFPVSQU7ivuBWvS</guid>
-      <description>Sony&#8217;s midrange Dolby Atmos soundbar delivers clarity, power, and simplicity, but I found myself wishing for more.</description>
-    </item>
-    <item>
-      <title>&#8216;In Formula 1, the success goes to the teams that have the best teamwork and the best technology&#8217;: I found out how Atlassian is helping Williams F1 be more productive, efficient and collaborative than ever before</title>
-      <link>https://www.techradar.com/pro/in-formula-1-the-success-goes-to-the-teams-that-have-the-best-teamwork-and-the-best-technology-i-found-out-how-atlassian-is-helping-williams-f1-be-more-productive-efficient-and-collaborative-than-ever-before</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">SwUgrCrHh2YD3KRzBfJgHj</guid>
-      <description>Atlassian and Williams F1 are seeing major improvements in effectiveness and efficiency - and it's all thanks to AI.</description>
-    </item>
-    <item>
-      <title>ChatGPT&#8217;s &#8216;smartest voice model ever&#8217; is rolling out to everyone today &#8212; and GPT-Live-1 gives you more natural conversations without interruptions</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/breaking-chatgpts-new-gpt-live-voice-model-is-here-and-it-can-speak-and-listen-at-the-same-time</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3DM42zkeRo4aeyi8YwytQH</guid>
-      <description>OpenAI is introducing a better voice mode for ChatGPT that sounds more natural and allows for simultaneous translation.</description>
-    </item>
-    <item>
-      <title>Google announces new 'Video Remix' feature its for AI subscribers</title>
-      <link>https://www.engadget.com/2210417/google-announces-new-video-remix-feature-for-ai-subscribers/</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2210417/google-announces-new-video-remix-feature-for-ai-subscribers/</guid>
-      <description>It allows you to reimagine videos stored in Google Photos using Gemini Omni.</description>
-    </item>
-    <item>
-      <title>ChatGPT's new voice mode will slow down if you tell it to</title>
-      <link>https://www.engadget.com/2210651/chatgpt-new-voice-mode-will-slow-down-if-you-tell-it-to/</link>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2210651/chatgpt-new-voice-mode-will-slow-down-if-you-tell-it-to/</guid>
-      <description>OpenAI's new voice mode for ChatGPT will acknowledge you as you speak, and slow down if you ask it to.</description>
-    </item>
-    <item>
-      <title>Samsung's 'absolutely stellar' 2TB 990 Pro SSD earned a 5-star review from us &#8212; and it's just got a massive discount at Amazon</title>
-      <link>https://www.techradar.com/pro/samsungs-absolutely-stellar-2tb-990-pro-ssd-earned-a-5-star-review-from-us-and-its-just-got-a-massive-discount-at-amazon</link>
-      <pubDate>Wed, 08 Jul 2026 16:58:19 +0000</pubDate>
-      <guid isPermaLink="false">72DjRvtarz9JnTHVivnP8b</guid>
-      <description>The 2TB Samsung 990 Pro boasts some of the fastest read/write performance of any PCIe 4.0 SSD we&#8217;ve ever tested.</description>
-    </item>
-    <item>
-      <title>Three things every leader must do to hold the line against AI decision-making</title>
-      <link>https://www.fastcompany.com/91569582/three-things-every-leader-must-do-hold-line-against-ai-decision-making</link>
-      <pubDate>2026-07-08T16:54:25</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91569582/three-things-every-leader-must-do-hold-line-against-ai-decision-making</guid>
-      <description>The leaders who keep their edge will be the ones who resist the temptation to hand over judgments to machines.
-When the leader of a legal-tech startup began using ChatGPT, he started by doing what most of us do &#8211; embracing the new technology&#8217;s ability to take over some of the smaller, more tedious parts of the job. But within a few months, the AI model had gone from an assistant that helped with emails to the highest source of authority in the company....</description>
-    </item>
-    <item>
-      <title>Upgrade your agonizingly slow home office internet with TP-Link's Wi-Fi 7 Deco BE25 mesh router system &#8212; Amazon just dropped the price on the three-pack if you want to stop your video calls freezing</title>
-      <link>https://www.techradar.com/pro/upgrade-your-agonizingly-slow-home-office-internet-with-tp-links-wi-fi-7-deco-be25-mesh-router-system-amazon-just-dropped-the-price-on-the-three-pack-if-you-want-to-stop-your-video-calls-freezing</link>
-      <pubDate>Wed, 08 Jul 2026 16:52:16 +0000</pubDate>
-      <guid isPermaLink="false">nzCiWiWE2AzsVcnmDGd35C</guid>
-      <description>I love the AI Roaming, up to 6,000 sq ft of coverage, and Wi-Fi 7 speeds across three nodes.</description>
-    </item>
-    <item>
-      <title>De Beef &#224; One Piece : pourquoi Netflix n&#8217;arrive plus &#224; garder ses spectateurs d&#8217;une saison &#224; l&#8217;autre</title>
-      <link>https://www.frandroid.com/services/svod/3173871_de-beef-a-one-piece-pourquoi-netflix-narrive-plus-a-garder-ses-spectateurs-dune-saison-a-lautre</link>
-      <pubDate>Wed, 08 Jul 2026 16:48:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3173871_de-beef-a-one-piece-pourquoi-netflix-narrive-plus-a-garder-ses-spectateurs-dune-saison-a-lautre</guid>
-      <description>
-Netflix cartonne avec les premi&#232;res saisons de ses s&#233;ries, puis regarde une bonne partie de son public d&#233;serter la deuxi&#232;me. Le probl&#232;me est assez s&#233;rieux pour que la plateforme lance ses propres enqu&#234;tes internes.
-</description>
-    </item>
-    <item>
-      <title>Faut-il d&#233;j&#224; oublier l&#8217;iPhone pliante ? Pourquoi l&#8217;iPhone 18 Pro s&#8217;annonce bien plus impressionnant</title>
-      <link>https://www.frandroid.com/marques/apple/3173863_faut-il-deja-oublier-liphone-pliante-pourquoi-liphone-18-pro-sannonce-bien-plus-impressionnant</link>
-      <pubDate>Wed, 08 Jul 2026 16:39:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3173863_faut-il-deja-oublier-liphone-pliante-pourquoi-liphone-18-pro-sannonce-bien-plus-impressionnant</guid>
-      <description>
-Alors que les rumeurs s'excitent autour d'un potentiel mod&#232;le pliant chez Apple, les v&#233;ritables innovations technologiques de la rentr&#233;e 2026 pourraient bien se concentrer sur l'iPhone 18 Pro. Entre un appareil photo repens&#233; et des composants grav&#233;s d'une finesse in&#233;dite, la future vedette de la marque &#224; la pomme se d&#233;voile en avance.
-</description>
-    </item>
-    <item>
-      <title>Meilleures batteries plug and play pour panneaux solaires : comment bien choisir et les mod&#232;les qu&#8217;on recommande</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-dachat-maison-connectee/3149071_batterie-solaire-plug-and-play</link>
-      <pubDate>Wed, 08 Jul 2026 16:33:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-dachat-maison-connectee/3149071_batterie-solaire-plug-and-play</guid>
-      <description>
-Vos panneaux solaires produisent en pleine journ&#233;e, quand personne n'est &#224; la maison, et tout ce surplus part gratuitement chez EDF&#160;? Une batterie solaire le r&#233;cup&#232;re pour vous le rendre le soir. Plug and play, pos&#233;e sur une simple prise, elle est devenue le moyen le plus simple de rentabiliser ses panneaux solaires. Voici comment bien la choisir, et les mod&#232;les qu'on recommande apr&#232;s les avoir test&#233;s.
-...</description>
-    </item>
-    <item>
-      <title>Amazon is reportedly working on a more powerful agentic Alexa assistant</title>
-      <link>https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/</link>
-      <pubDate>Wed, 08 Jul 2026 16:33:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/</guid>
-      <description>Amazon is working on a project codenamed 'Moonraker' that would enable the AI assistant to handle multi-step tasks more effectively.</description>
-    </item>
-    <item>
-      <title>Anker's Laptop Power Bank can charge all your devices at once (yes, even your laptop) &#8212; and it's just got a big summer price cut, so you can even keep working on the beach</title>
-      <link>https://www.techradar.com/pro/ankers-laptop-power-bank-can-charge-all-your-devices-at-once-yes-even-your-laptop-and-its-just-got-a-big-summer-price-cut-so-you-can-even-keep-working-on-the-beach</link>
-      <pubDate>Wed, 08 Jul 2026 16:30:18 +0000</pubDate>
-      <guid isPermaLink="false">mzv3nSNRJmxAzpZnNEdUBM</guid>
-      <description>You&#8217;ll never need to carry a separate cable again.</description>
-    </item>
-    <item>
-      <title>Crypto VC firm Paradigm raises $1.2B to invest in &#8216;technical frontier&#8217; startups</title>
-      <link>https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/</link>
-      <pubDate>Wed, 08 Jul 2026 16:29:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140106</guid>
-      <description>For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.</description>
-    </item>
-    <item>
-      <title>Prime Intellect raises $130M Series A to help enterprises build their own AI agents</title>
-      <link>https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/</link>
-      <pubDate>Wed, 08 Jul 2026 16:22:38 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140126</guid>
-      <description>Founded in 2024, Prime Intellect&#8217;s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.</description>
-    </item>
-    <item>
-      <title>Another massive data breach exposed millions of driver&#8217;s license numbers</title>
-      <link>https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/</link>
-      <pubDate>Wed, 08 Jul 2026 16:14:49 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140082</guid>
-      <description>The cyberattack targeting a U.S. insurance giant is the largest known breach of driver's license numbers so far in 2026.</description>
-    </item>
-    <item>
-      <title>Official renders for Samsung's Galaxy Z Flip 8, Watch 9, Watch 2 Ultra and Z Fold 8 leak</title>
-      <link>https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/</link>
-      <pubDate>Wed, 08 Jul 2026 16:12:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/</guid>
-      <description>Renders of multiple new Samsung devices have arrived a few weeks before the company's next Unpacked event.</description>
-    </item>
-    <item>
-      <title>Le patron de Sony vend 56 % de ses actions deux jours apr&#232;s l&#8217;annonce de la fin des jeux PlayStation physiques</title>
-      <link>https://www.frandroid.com/marques/sony/3173845_le-patron-de-sony-vend-56-de-ses-actions-deux-jours-apres-lannonce-de-la-fin-des-jeux-playstation-physiques</link>
-      <pubDate>Wed, 08 Jul 2026 16:12:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3173845_le-patron-de-sony-vend-56-de-ses-actions-deux-jours-apres-lannonce-de-la-fin-des-jeux-playstation-physiques</guid>
-      <description>
-Deux jours apr&#232;s avoir act&#233; la fin des jeux PlayStation sur disque, le patron de Sony a vendu plus de la moiti&#233; de ses actions. Le timing tombe mal.
-</description>
-    </item>
-    <item>
-      <title>5 things to expect at Samsung Galaxy Unpacked &#8212; from foldable phones to Samsung&#8217;s first smart glasses</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/5-things-to-expect-at-samsung-galaxy-unpacked-from-foldable-phones-to-samsungs-first-smart-glasses</link>
-      <pubDate>Wed, 08 Jul 2026 16:12:05 +0000</pubDate>
-      <guid isPermaLink="false">QbqVt9vwukppi45mtR6fRK</guid>
-      <description>Samsung is holding an event on July 22, where we're expecting to see loads of new phones and wearables.</description>
-    </item>
-    <item>
-      <title>Gemini d&#233;barque sur la cl&#233; b.tv de Bouygues Telecom&#160;: ce qui change pour votre t&#233;l&#233;viseur</title>
-      <link>https://www.frandroid.com/produits-android/3173847_gemini-debarque-sur-la-cle-b-tv-de-bouygues-telecom-ce-qui-change-pour-votre-televiseur</link>
-      <pubDate>Wed, 08 Jul 2026 16:11:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3173847_gemini-debarque-sur-la-cle-b-tv-de-bouygues-telecom-ce-qui-change-pour-votre-televiseur</guid>
-      <description>
-Bouygues Telecom d&#233;ploie l'assistant Gemini de Google sur sa cl&#233; b.tv. Un bouton micro sur la t&#233;l&#233;commande, et l'IA r&#233;pond &#224; vos questions sur grand &#233;cran.
-</description>
-    </item>
-    <item>
-      <title>How Polymarket plans to win back America&#8217;s trust after 4 years in exile</title>
-      <link>https://www.fastcompany.com/91570591/how-polymarket-plans-win-back-americas-trust-after-4-years-exile</link>
-      <pubDate>2026-07-08T16:10:49</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91570591/how-polymarket-plans-win-back-americas-trust-after-4-years-exile</guid>
-      <description>The prediction market platform is launching a campaign with the help of social media influencers. 
-After four years in exile, the prediction market platform Polymarket has begun a well-funded campaign to sell a new version of itself to the American public.To do so, the company is trying to convince policymakers, regulators, the public and prospective customers that the business it is building onshore is a more disciplined operation than the freewheeling offshore exchange that has at times been the subject of unfavorable headlines.Polymarket has hired social media influencers to produce viral m...</description>
-    </item>
-    <item>
-      <title>La Steam Machine peut faire tourner Windows 11, mais vous ne devriez pas l&#8217;installer</title>
-      <link>https://www.01net.com/actualites/la-steam-machine-peut-faire-tourner-windows-11-mais-vous-ne-devriez-pas-linstaller.html</link>
-      <pubDate>Wed, 08 Jul 2026 16:02:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1358777</guid>
-      <description>Valve publie les pilotes Windows officiels pour sa Steam Machine. Utiliser Windows sur le petit cube de salon, c'est d&#233;sormais possible. Mais &#231;a vous co&#251;tera l'int&#233;gralit&#233; de SteamOS, sans possibilit&#233; de garder les deux pour l'instant.</description>
-    </item>
-    <item>
-      <title>Test de la batterie Jackery SolarVault 3 Pro Max : installation plug and play et raccordement solaire</title>
-      <link>https://www.frandroid.com/test/3119687_test-batterie-jackery-solarvault-3-pro-max</link>
-      <pubDate>Wed, 08 Jul 2026 16:01:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/test/3119687_test-batterie-jackery-solarvault-3-pro-max</guid>
-      <description>
-Connu pour ses batteries portables, Jackery se lance dans la batterie de maison avec la gamme SolarVault 3. Le mod&#232;le Pro Max se branche soi-m&#234;me, sans installateur, et accepte jusqu'&#224; 4 000 W de panneaux en direct. On l'a test&#233;e !
-</description>
-    </item>
-    <item>
-      <title>Sonos is finally improving its app &#8212; but it's not moving fast enough, so people are building new alternatives to solve big gripes about home theater setups and more customizable sound</title>
-      <link>https://www.techradar.com/televisions/home-theater/sonos-is-finally-improving-its-app-but-its-not-moving-fast-enough-so-people-are-building-new-alternatives-to-solve-big-gripes-about-home-theater-setups-and-more-customizable-sound</link>
-      <pubDate>Wed, 08 Jul 2026 15:53:42 +0000</pubDate>
-      <guid isPermaLink="false">kAcc36j3J6sGd7QLRrcLDJ</guid>
-      <description>Sonos users are making their own alternatives to the official app and sharing them on the Sonos subreddit</description>
-    </item>
-    <item>
-      <title>Steam aurait d&#233;pass&#233; les 200 millions de joueurs, loin devant PlayStation</title>
-      <link>https://www.frandroid.com/marques/valve/3173527_steam-aurait-depasse-les-200-millions-de-joueurs-loin-devant-playstation</link>
-      <pubDate>Wed, 08 Jul 2026 15:46:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3173527_steam-aurait-depasse-les-200-millions-de-joueurs-loin-devant-playstation</guid>
-      <description>
-Valve ne communique pas sur le nombre d'utilisateurs actifs de Steam mais un calcul d'analyste nous permet d'estimer &#224; quel point la plateforme domine le march&#233; face aux consoles.
-</description>
-    </item>
-    <item>
-      <title>The Sony ULT Field 7 party speaker finally got a steep discount post-Prime Day</title>
-      <link>https://mashable.com/tech/july-8-sony-ult-field-7-speaker-deal</link>
-      <pubDate>Wed, 08 Jul 2026 15:45:09 +0000</pubDate>
-      <guid isPermaLink="false">05KI7EcmHFKUg10NEBD45VG</guid>
-      <description>The Sony ULT Field 7 party speaker is on sale at Amazon for just $348 instead of the usual $499.99. But act fast, as stock is running low.</description>
-    </item>
-    <item>
-      <title>These AI startups are growing  revenue at faster and faster rates</title>
-      <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
-      <pubDate>Wed, 08 Jul 2026 15:41:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139890</guid>
-      <description>There are a lot of fast-growing AI startups, but some are growing even faster, they say.</description>
+      <title>Connor Storries first Emmy nomination has Heated Rivalry fans celebrating</title>
+      <link>https://mashable.com/life/connor-storrie-emmy-nomination-snl-fan-reactions</link>
+      <pubDate>Wed, 08 Jul 2026 17:41:22 +0000</pubDate>
+      <guid isPermaLink="false">01YSXtMne8P7F4LBalDn1LF</guid>
+      <description>Connor Storrie earned his first Emmy nod for hosting 'Saturday Night Live,' but fans see it as long-overdue recognition for the breakout star of 'Heated Rivalry.'</description>
     </item>
   </channel>
 </rss>
