@@ -3,15 +3,101 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 10 Jul 2026 20:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:08:45 GMT</lastBuildDate>
+    <item>
+      <title>Quote of the day by Netscape founder Marc Andreessen: 'We believe any deceleration of AI will cost lives' &#8212; a full-throated defense of the AI buildout</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-netscape-founder-marc-andreessen-we-believe-any-deceleration-of-ai-will-cost-lives-a-full-throated-defense-of-the-ai-buildout</link>
+      <pubDate>Fri, 10 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">PQEzmgqiyvPVkUVwNmpNSM</guid>
+      <description>A man who's deeply embedded in the technology ecosystem sees no other way forward than going full speed ahead on the AI buildout</description>
+    </item>
+    <item>
+      <title>Bluesky&#8217;s interim CEO, Toni Schneider, drops the &#8216;interim&#8217;</title>
+      <link>https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/</link>
+      <pubDate>Fri, 10 Jul 2026 21:51:55 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141307</guid>
+      <description>Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is "all in" on the unconventional social media platform.</description>
+    </item>
+    <item>
+      <title>Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit</title>
+      <link>https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/</link>
+      <pubDate>Fri, 10 Jul 2026 21:39:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/</guid>
+      <description>The lawsuit also names io Products, the hardware company led by Jony Ive.</description>
+    </item>
+    <item>
+      <title>Apple sues OpenAI for allegedly stealing hardware secrets</title>
+      <link>https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets</link>
+      <pubDate>2026-07-10T17:36:51-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=964350</guid>
+      <description>Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets "for the benefit of OpenAI." In its complaint, Apple alleges that it has uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple," and it names IO Products [&#8230;]</description>
+    </item>
+    <item>
+      <title>AMD abandons HBM for inferior LPDDR5x as AI monster devours precious high-bandwidth memory</title>
+      <link>https://www.techradar.com/pro/amd-abandons-hbm-for-inferior-lpddr5x-as-ai-monster-devours-precious-high-bandwidth-memory</link>
+      <pubDate>Fri, 10 Jul 2026 21:10:00 +0000</pubDate>
+      <guid isPermaLink="false">bjDnNYFqs2x3GtdHhmdEia</guid>
+      <description>AMD is moving away from HBM to LPDDR5x for its SoCs as AI hyperscalers continue to snap up all available wafers of the former.</description>
+    </item>
+    <item>
+      <title>Mamdani announces new Click-to-Cancel rule for New York City</title>
+      <link>https://www.engadget.com/2212741/mamdani-announces-new-click-to-cancel-rule-for-new-york-city/</link>
+      <pubDate>Fri, 10 Jul 2026 21:04:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2212741/mamdani-announces-new-click-to-cancel-rule-for-new-york-city/</guid>
+      <description>The rule revives a proposed FTC protection that was abandoned last year.</description>
+    </item>
+    <item>
+      <title>Apple sues OpenAI over alleged trade secret theft</title>
+      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
+      <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141179</guid>
+      <description>Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.</description>
+    </item>
+    <item>
+      <title>&#8216;Christ almighty, this is so bad&#8217;: ChatGPT&#8217;s big app update brings huge changes to your workflows &#8212; and users seem to hate it</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/christ-almighty-this-is-so-bad-chatgpts-big-app-update-brings-huge-changes-to-your-workflows-and-users-seem-to-hate-it</link>
+      <pubDate>Fri, 10 Jul 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rCjgzZKX45D89yZ8LVtaHX</guid>
+      <description>OpenAI has merged the ChatGPT app with Codex, but many users feel disappointed with the change.</description>
+    </item>
+    <item>
+      <title>57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?</title>
+      <link>https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one</link>
+      <pubDate>Fri, 10 Jul 2026 20:58:32 GMT</pubDate>
+      <guid isPermaLink="false">69iNnTw1Ke7ljd2o1PpUjL</guid>
+      <description>An enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retrieval system never pulled. The model did not fail. The context it was given did.In the past six months, 57% of enterprises traced a confident but wrong AI agent answer to missing or inconsistent business context, and 31% said it happened more than once, according to a VB Pulse June 2026 survey of 101 qualified enterprises with more than 100 employees.The reason is not hard to find. Retrieval over documents is the defaul...</description>
+    </item>
+    <item>
+      <title>Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets</title>
+      <link>https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/</link>
+      <pubDate>Fri, 10 Jul 2026 20:44:05 +0000</pubDate>
+      <guid isPermaLink="false">6a513813fe29fe1ff1b6de45</guid>
+      <description>The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.</description>
+    </item>
+    <item>
+      <title>Un smartphone, une montre, des &#233;couteurs et un socle : le pack Pixel 10 &#224; prix cass&#233;</title>
+      <link>https://www.frandroid.com/marques/google/3177519_un-smartphone-une-montre-des-ecouteurs-et-un-socle-le-pack-pixel-10-a-prix-casse</link>
+      <pubDate>Fri, 10 Jul 2026 20:31:03 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3177519_un-smartphone-une-montre-des-ecouteurs-et-un-socle-le-pack-pixel-10-a-prix-casse</guid>
+      <description>
+Le Google Pixel 10, flagship photo de Google anim&#233; par la puce Tensor G5, est propos&#233; en pack chez Boulanger avec le bracelet Fitbit Air, les &#233;couteurs Pixel Buds 2a et le socle magn&#233;tique Pixelsnap. Le tout revient &#224; 549 euros apr&#232;s une offre de remboursement de 100 euros.
+</description>
+    </item>
     <item>
       <title>Sous les 400 euros, la Nintendo Switch 2 devient bien plus tentante sur Joybuy</title>
-      <link>https://www.frandroid.com/actualites-generales/3177513_sous-les-400-euros-la-nintendo-switch-2-devient-bien-plus-tentante-sur-joybuy</link>
+      <link>https://www.frandroid.com/marques/nintendo/3177513_sous-les-400-euros-la-nintendo-switch-2-devient-bien-plus-tentante-sur-joybuy</link>
       <pubDate>Fri, 10 Jul 2026 20:25:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3177513_sous-les-400-euros-la-nintendo-switch-2-devient-bien-plus-tentante-sur-joybuy</guid>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nintendo/3177513_sous-les-400-euros-la-nintendo-switch-2-devient-bien-plus-tentante-sur-joybuy</guid>
       <description>
 La Nintendo Switch 2, console hybride de Nintendo sortie en juin 2025, est disponible pour 399 euros sur Joybuy en cochant le coupon sur la page du produit. Une belle occasion de craquer pour la nouvelle g&#233;n&#233;ration de la console la plus populaire du moment.
 </description>
+    </item>
+    <item>
+      <title>OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars</title>
+      <link>https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars</link>
+      <pubDate>Fri, 10 Jul 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">4sAvfTuVoWmBj97P7Oj3C6</guid>
+      <description>OpenAI on Thursday launched ChatGPT Work, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform capable of executing complex, multi-step tasks across users' email, calendars, code repositories, and messaging apps.The product is powered by OpenAI's latest flagship model, GPT-5.6, and is designed to go far beyond generating text. ChatGPT Work can gather context from connected apps, files, and workflows to produce finished documents, spreadsheets, presentations, reports, and websites. The agent takes a s...</description>
     </item>
     <item>
       <title>OpenAI's browser isn't dead, it just moved to the ChatGPT app</title>
@@ -19,100 +105,6 @@ La Nintendo Switch 2, console hybride de Nintendo sortie en juin 2025, est dispo
       <pubDate>Fri, 10 Jul 2026 20:11:13 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2212701/openai-browser-isnt-dead/</guid>
       <description>Let's be real, OpenAI isn't giving up on the browser market, it is just changing its strategy.</description>
-    </item>
-    <item>
-      <title>Xiaomi has a NAS device, sitting alongside a supercar, a rice cooker, a nose hair trimmer, and smartphones, of course</title>
-      <link>https://www.techradar.com/pro/xiaomi-has-a-nas-device-sitting-alongside-a-supercar-a-rice-cooker-a-nose-hair-trimmer-and-smartphones-of-course</link>
-      <pubDate>Fri, 10 Jul 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">BC7tHknkqpzc857N6upfBB</guid>
-      <description>Xiaomi's latest product to turn heads may not be a smartphone or an automobile, but rather network-attached storage for its domestic market</description>
-    </item>
-    <item>
-      <title>A decade later, Pok&#233;mon Go finally made good on its original promise</title>
-      <link>https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026</link>
-      <pubDate>2026-07-10T15:51:10-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=964022</guid>
-      <description>When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 players (many of [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Meta Glasses backlash is changing how (or if) people use them</title>
-      <link>https://www.engadget.com/2212604/the-meta-glasses-backlash-is-changing-how-or-if-people-use-them/</link>
-      <pubDate>Fri, 10 Jul 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2212604/the-meta-glasses-backlash-is-changing-how-or-if-people-use-them/</guid>
-      <description>Backlash online is changing how (or if) people wear Meta's smart glasses.</description>
-    </item>
-    <item>
-      <title>Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less</title>
-      <link>https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less</link>
-      <pubDate>Fri, 10 Jul 2026 19:29:07 GMT</pubDate>
-      <guid isPermaLink="false">472TgTDW2k70DLdsDiYfai</guid>
-      <description>Enterprise companies are running AI agents ahead of the controls needed to manage them &#8212; and they deployed that way knowingly. That is the central finding from VentureBeat Research's June survey of 573 technical leaders at companies with 100 or more employees, fielded across five parallel surveys of the agentic stack.&#160;Enterprises are now retrofitting to catch up with their own standards, and they are budgeting for it: Roughly six in 10 enterprises plan to switch or add vendors in each of five control layers within the next 12 months, and roughly a third &#8212; depending on the layer &#8212; plan to move ...</description>
-    </item>
-    <item>
-      <title>StubHub CEO is helping fund mass scalpers on his own platform</title>
-      <link>https://www.engadget.com/2212625/stubhub-ceo-is-helping-fund-mass-scalpers-on-his-own-platform/</link>
-      <pubDate>Fri, 10 Jul 2026 19:27:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2212625/stubhub-ceo-is-helping-fund-mass-scalpers-on-his-own-platform/</guid>
-      <description>Stubhub CEO Eric Baker is pouring millions of dollars into the ticket-scalping market, CBC reports.</description>
-    </item>
-    <item>
-      <title>ICE is threatening to deport witnesses of its latest shooting</title>
-      <link>https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo</link>
-      <pubDate>2026-07-10T15:20:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=964294</guid>
-      <description>Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren't wearing body cameras because of the lengthy [&#8230;]</description>
-    </item>
-    <item>
-      <title>FCC grants approval for sun-reflecting space mirror that's been widely criticized by astronomers</title>
-      <link>https://www.engadget.com/2212600/fcc-grants-approval-for-sun-reflecting-space-mirror/</link>
-      <pubDate>Fri, 10 Jul 2026 19:08:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2212600/fcc-grants-approval-for-sun-reflecting-space-mirror/</guid>
-      <description>Reflect Orbital wants to direct sunlight at night with a network of satellites.</description>
-    </item>
-    <item>
-      <title>On commence &#224; voir un myst&#233;rieux fond diffus &#233;mit par les supernovae de l'Univers</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/cosmologie-on-commence-voir-mysterieux-fond-diffus-emit-supernovae-univers-136084/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 10 Jul 2026 21:07:00 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/cosmologie-on-commence-voir-mysterieux-fond-diffus-emit-supernovae-univers-136084/#xtor%3DRSS-8</guid>
-      <description>Une analyse portant sur&#160;environ 5 000 jours de donn&#233;es d'observation fournies par un d&#233;tecteur g&#233;ant au Japon laisse penser que l'on commencerait &#224; observer un autre fond diffus cosmique que le rayonnement fossile et produit depuis des milliards d'ann&#233;es par toutes les explosions d'&#233;toiles en...</description>
-    </item>
-    <item>
-      <title>Ransomware attacks against education sector rise 16% in one year becoming the new favorite target &#8212; and reckless GenAI use could be to blame</title>
-      <link>https://www.techradar.com/pro/security/ransomware-attacks-against-education-sector-rise-16-percent-in-one-year-becoming-the-new-favorite-target-and-reckless-genai-use-could-be-to-blame</link>
-      <pubDate>Fri, 10 Jul 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">AnUWAn7r2cjThe5L2zRgdF</guid>
-      <description>Most of the attacks took place in Latin America, while Africa experienced a decrease.</description>
-    </item>
-    <item>
-      <title>This 1-pound drone killer is the size of a Subway sandwich &#8212; but it can outrun a Black Hawk</title>
-      <link>https://www.techradar.com/pro/this-1-pound-drone-killer-is-the-size-of-a-subway-sandwich-and-outruns-a-black-hawk</link>
-      <pubDate>Fri, 10 Jul 2026 18:40:00 +0000</pubDate>
-      <guid isPermaLink="false">fRioVbF8DLW7E4tdzTujcP</guid>
-      <description>Nordic Air Defense&#8217;s K100XR is a foot-long carbon fiber drone that can exceed 220 mph and uses AI to intercept and destroy enemy aircraft.</description>
-    </item>
-    <item>
-      <title>Metal balls from space are popping up on Australia's beaches</title>
-      <link>https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/</link>
-      <pubDate>Fri, 10 Jul 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/</guid>
-      <description>Sadly, we don't think aliens were involved in this particular space balls incident.</description>
-    </item>
-    <item>
-      <title>A key federal election agency suddenly has no commissioners. Here&#8217;s why that matters.</title>
-      <link>https://www.fastcompany.com/91571922/a-key-federal-election-agency-suddenly-has-no-commissioners-heres-why-that-matters</link>
-      <pubDate>2026-07-10T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91571922/a-key-federal-election-agency-suddenly-has-no-commissioners-heres-why-that-matters</guid>
-      <description>The White House removed the commission&#8217;s remaining members, leaving future appointments subject to Senate confirmation.
-The Trump administration gutted a bipartisan federal agency that oversees elections on Thursday, a worrying decision with midterms just around the corner.</description>
-    </item>
-    <item>
-      <title>V&#233;los &#233;lectriques Angell : l&#8217;interminable bras de fer &#224; plusieurs millions d&#8217;euros qui paralyse des milliers de clients</title>
-      <link>https://www.frandroid.com/survoltes/3173773_velos-electriques-angell-linterminable-bras-de-fer-a-plusieurs-millions-deuros-qui-paralyse-des-milliers-de-clients</link>
-      <pubDate>Fri, 10 Jul 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3173773_velos-electriques-angell-linterminable-bras-de-fer-a-plusieurs-millions-deuros-qui-paralyse-des-milliers-de-clients</guid>
-      <description>
-Repris par Rebirth &#224; l&#8217;&#233;t&#233; 2025, Angell reste suspendu &#224; une bataille de responsabilit&#233;s entre SEB, Kickmaker et les diff&#233;rents acteurs de sa cha&#238;ne industrielle. Tandis que le repreneur affirme pousser pour une solution de remplacement, de nombreux clients r&#233;clament surtout un remboursement et d&#233;noncent une attente devenue interminable. Entre v&#233;los immobilis&#233;s, probl&#232;mes de connectivit&#233; et avenir incertain de la marque, le dossier Angell demeure enlis&#233; dans un bras de fer o&#249; chacun attend de savoir qui paiera.
-...</description>
     </item>
   </channel>
 </rss>
