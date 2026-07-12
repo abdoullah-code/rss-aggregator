@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 12 Jul 2026 22:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:59:23 GMT</lastBuildDate>
+    <item>
+      <title>Quordle hints and answers for Monday, July 13 (game #1631)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-13-july-2026</link>
+      <pubDate>Sun, 12 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NnGmzkRohCXWo5eUAMnxNm</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Monday, July 13 (game #1128)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-13-july-2026</link>
+      <pubDate>Sun, 12 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZpKC6byeEfKE4K5cxLcrnF</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Monday, July 13 (game #862)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-13-july-2026</link>
+      <pubDate>Sun, 12 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5C3twJjpTo2rYVijfin7Vf</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>Quote of the day by Sun Microsystems CEO Scott McNealy: 'You have zero privacy anyway. Get over it' &#8212; an early declaration foreshadowing the modern era</title>
       <link>https://www.techradar.com/pro/quote-of-the-day-by-sun-microsystems-ceo-scott-mcnealy-you-have-zero-privacy-anyway-get-over-it-an-early-declaration-foreshadowing-the-modern-era</link>
@@ -17,13 +38,6 @@
       <pubDate>Sun, 12 Jul 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">vcQT575TBc2xxtMyfZuQMU</guid>
       <description>Here's how to watch the Love Island USA S8 final online, the clear favourites being Bryce Dettloff &amp; Trinity Tatum, aka Brinity.</description>
-    </item>
-    <item>
-      <title>Summer Games Done Quick once again raises over $2 million for Doctors Without Borders</title>
-      <link>https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/</link>
-      <pubDate>Sun, 12 Jul 2026 21:25:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/</guid>
-      <description>The annual speedrunning marathon event ran from July 5-11.</description>
     </item>
   </channel>
 </rss>
