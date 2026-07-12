@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 12 Jul 2026 20:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:55:53 GMT</lastBuildDate>
+    <item>
+      <title>Summer Games Done Quick once again raises over $2 million for Doctors Without Borders</title>
+      <link>https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/</link>
+      <pubDate>Sun, 12 Jul 2026 21:25:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/</guid>
+      <description>The annual speedrunning marathon event ran from July 5-11.</description>
+    </item>
     <item>
       <title>Last chance to score 135+ handpicked Prime Day deals in Australia before the sale ends tonight &#8212; up to 76% off Bose, Dyson, Shark, Ninja &amp; more</title>
       <link>https://www.techradar.com/live/news/prime-day-2026-australia-last-chance</link>
@@ -38,34 +45,6 @@
       <pubDate>Sun, 12 Jul 2026 19:58:35 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2213137/pentagon-releases-ufo-files-china-tianwen-2-asteroid-science-news/</guid>
       <description>Catch up on the most interesting science news from the last week.</description>
-    </item>
-    <item>
-      <title>Uber&#8217;s Autonomous Vehicle Strategy: Slow Their Adoption</title>
-      <link>https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/</link>
-      <pubDate>Sun, 12 Jul 2026 19:55:37 +0000</pubDate>
-      <guid isPermaLink="false">6a52d7f670bc400c5705e8d8</guid>
-      <description>In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it&#8217;s fighting monopolies.</description>
-    </item>
-    <item>
-      <title>Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful</title>
-      <link>https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review</link>
-      <pubDate>2026-07-12T15:40:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=964532</guid>
-      <description>Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music genres, he's also putting out records [&#8230;]</description>
-    </item>
-    <item>
-      <title>US bought 2000 F-Drones F10 attack UAVs from Ukraine as the Pentagon moves to the next phase of the billion-dollar 'drone dominance' program, with the legacy US military-industrial complex cautiously looking</title>
-      <link>https://www.techradar.com/pro/us-bought-2000-f-drones-f10-attack-uavs-from-ukraine-as-the-pentagon-moves-to-the-next-phase-of-the-billion-dollar-drone-dominance-program-with-the-legacy-us-military-industrial-complex-cautiously-looking</link>
-      <pubDate>Sun, 12 Jul 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">yTEKQrQcDWBHXjZkmduQE5</guid>
-      <description>Ukraine exported 2,000 F10 attack drones to the United States after securing approval through its existing export control framework and Pentagon contract.</description>
-    </item>
-    <item>
-      <title>Meta withdraws its controversial AI image feature</title>
-      <link>https://mashable.com/tech/meta-withdraws-controversial-ai-feature-that-allowed-images-to-be-sourced</link>
-      <pubDate>Sun, 12 Jul 2026 19:05:07 +0000</pubDate>
-      <guid isPermaLink="false">03hVPYmS1vOJXD4c5qxkljr</guid>
-      <description>Called "Muse Image," this proposed tool would have allowed users to use public-facing Instagram photos as references for generative AI.</description>
     </item>
   </channel>
 </rss>
