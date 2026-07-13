@@ -3,13 +3,80 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 13 Jul 2026 20:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:03:43 GMT</lastBuildDate>
+    <item>
+      <title>Quote of the day by Steve Jobs: 'The only problem with Microsoft is they just have no taste' &#8212; a potshot at a bitter rival</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-steve-jobs-the-only-problem-with-microsoft-is-they-just-have-no-taste-a-potshot-at-a-bitter-rival</link>
+      <pubDate>Mon, 13 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">GpLqF5FbbbyiAoK63yjtfP</guid>
+      <description>Apple and Microsoft's rivalry stretches back decades, with the Apple co-founder repeatedly undermining Bill Gates' company</description>
+    </item>
+    <item>
+      <title>Microsoft tests Windows Search without all the ads and fluff</title>
+      <link>https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads</link>
+      <pubDate>2026-07-13T17:53:20-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=965090</guid>
+      <description>Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. [&#8230;]</description>
+    </item>
+    <item>
+      <title>OnePlus is reportedly bailing on the US</title>
+      <link>https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe</link>
+      <pubDate>2026-07-13T17:48:43-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=965084</guid>
+      <description>OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors about the future of OnePlus. Android Headlines said [&#8230;]</description>
+    </item>
+    <item>
+      <title>Siri AI Is Becoming Apple&#8217;s Everything Tool</title>
+      <link>https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/</link>
+      <pubDate>Mon, 13 Jul 2026 21:39:09 +0000</pubDate>
+      <guid isPermaLink="false">6a55202581091f2d40d7c7da</guid>
+      <description>Apple&#8217;s revamped Siri is more than a voice assistant; it&#8217;s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.</description>
+    </item>
+    <item>
+      <title>Grok Build&#160;: l&#8217;outil de SpaceXAI envoyait des d&#233;p&#244;ts de code entiers sur le cloud &#224; l&#8217;insu des d&#233;veloppeurs</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3179313_grok-build-loutil-de-spacexai-envoyait-des-depots-de-code-entiers-sur-le-cloud-a-linsu-des-developpeurs</link>
+      <pubDate>Mon, 13 Jul 2026 21:25:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3179313_grok-build-loutil-de-spacexai-envoyait-des-depots-de-code-entiers-sur-le-cloud-a-linsu-des-developpeurs</guid>
+      <description>
+Grok Build, l'outil de codage de xAI pass&#233; sous la banni&#232;re SpaceX, exp&#233;diait des d&#233;p&#244;ts de code entiers vers le cloud &#224; l'insu des d&#233;veloppeurs. La parade propos&#233;e par la maison Musk&#160;: une commande de confidentialit&#233; &#224; taper soi-m&#234;me.
+</description>
+    </item>
+    <item>
+      <title>Apple lance les b&#234;tas publiques d&#8217;iOS 27, iPadOS 27 et macOS 27 : comment les installer d&#232;s maintenant</title>
+      <link>https://www.frandroid.com/marques/apple/3179311_apple-lance-les-betas-publiques-dios-27-ipados-27-et-macos-27-comment-les-installer-des-maintenant</link>
+      <pubDate>Mon, 13 Jul 2026 21:22:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3179311_apple-lance-les-betas-publiques-dios-27-ipados-27-et-macos-27-comment-les-installer-des-maintenant</guid>
+      <description>
+Apple ouvre &#224; tous les b&#234;tas publiques d'iOS 27, d'iPadOS 27 et de macOS 27. On vous explique comment les installer, et pourquoi le nouveau Siri restera absent des iPhone en France.
+</description>
+    </item>
+    <item>
+      <title>Microsoft is making the Windows Search Box more streamlined and useful</title>
+      <link>https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/</link>
+      <pubDate>Mon, 13 Jul 2026 21:12:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/</guid>
+      <description>Bit by bit, Windows 11 is healing.</description>
+    </item>
+    <item>
+      <title>Like Google&#8217;s Project Loon, but for missiles: Ukraine is weaponizing stratospheric balloons to boost strike range</title>
+      <link>https://www.techradar.com/pro/like-googles-project-loon-but-for-missiles-ukraine-is-weaponizing-stratospheric-balloons-to-boost-strike-range</link>
+      <pubDate>Mon, 13 Jul 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">QAiP9EJyEWJUpnUvcRUcwm</guid>
+      <description>Ukraine's DART leverages stratospheric balloons with a missile that goes deliberately deaf mid-fall, making Russian jammers ineffective.</description>
+    </item>
+    <item>
+      <title>A two-pack of DJI&amp;#8217;s most capable wireless mics just got its first price cut</title>
+      <link>https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale</link>
+      <pubDate>2026-07-13T17:03:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=964914</guid>
+      <description>Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you&#8217;re the only one talking, or if you&#8217;re getting audio from multiple people. The DJI Mic 3 [&#8230;]</description>
+    </item>
     <item>
       <title>Satya Nadella has issued a shocking warning to companies using AI</title>
       <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
       <pubDate>Mon, 13 Jul 2026 20:59:00 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3141632</guid>
-      <description>In a surprising blog post on Monday, Microsoft CEO is warning enterprises of the dangers of using proprietary models like Anthropic's and OpenAI's.</description>
+      <description>Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley &#8212; that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.</description>
     </item>
     <item>
       <title>The Shokz OpenRun Pro are the cheapest they&#8217;ve been since January</title>
@@ -88,80 +155,6 @@ Brace yourself for higher water bills&#8212;and soon.</description>
       <pubDate>Mon, 13 Jul 2026 20:05:00 +0000</pubDate>
       <guid isPermaLink="false">tAKu3TCmnWbVUygUYpaxfj</guid>
       <description>Electromagnetic warfare is now mobile, and Space Force has the capability to cripple enemy satellites.</description>
-    </item>
-    <item>
-      <title>Los Angeles law enforcement will stop using Flock cameras</title>
-      <link>https://www.engadget.com/2214135/los-angeles-law-enforcement-will-stop-using-flock-cameras/</link>
-      <pubDate>Mon, 13 Jul 2026 20:02:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2214135/los-angeles-law-enforcement-will-stop-using-flock-cameras/</guid>
-      <description>The Los Angeles police department did not renew its contract with Flock due to data privacy concerns.</description>
-    </item>
-    <item>
-      <title>Apple says former employee exploited &#8216;rare&#8217; bug to download confidential files after leaving for OpenAI</title>
-      <link>https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/</link>
-      <pubDate>Mon, 13 Jul 2026 20:00:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141708</guid>
-      <description>Apple would not comment on the "security breach," which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.</description>
-    </item>
-    <item>
-      <title>Chipotle&#8217;s COO looks for four key traits when promoting leaders</title>
-      <link>https://www.fastcompany.com/91572746/chipotles-coo-looks-for-four-key-traits-when-promoting-leaders</link>
-      <pubDate>2026-07-13T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91572746/chipotles-coo-looks-for-four-key-traits-when-promoting-leaders</guid>
-      <description>Jason Kidd visits several Chipotle stores a week and has dinners with regional managers to identify potential candidates for internal promotions, Business Insider reports.
-Last year, 23,000 Chipotle employees were promoted to various leadership roles.</description>
-    </item>
-    <item>
-      <title>The Problem With VAR at the 2026 World Cup Isn&#8217;t the Technology&#8212;It&#8217;s Who Interprets It</title>
-      <link>https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/</link>
-      <pubDate>Mon, 13 Jul 2026 19:55:12 +0000</pubDate>
-      <guid isPermaLink="false">6a511606c5b8345af0aeca30</guid>
-      <description>The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here&#8217;s why.</description>
-    </item>
-    <item>
-      <title>A ransomware negotiator who colluded with attackers to scam victims was sentenced to 70 months in prison</title>
-      <link>https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/</link>
-      <pubDate>Mon, 13 Jul 2026 19:53:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/</guid>
-      <description>Angelo Martino helped scam ransomware victims out of over $75 million, officials said.</description>
-    </item>
-    <item>
-      <title>People think Mitch McConnell&#8217;s hospital photo is AI&#8212;and AI isn&#8217;t helping</title>
-      <link>https://www.fastcompany.com/91572692/mitch-mcconnell-hospital-photo-called-ai-chatbots-conspiracies</link>
-      <pubDate>2026-07-13T19:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91572692/mitch-mcconnell-hospital-photo-called-ai-chatbots-conspiracies</guid>
-      <description>As photographic evidence loses its power to convince, some social media users are turning to chatbots for answers. Are they making the conspiracies worse?
-From bunnies jumping on a trampoline at night to Norwegian soccer player Erling Haaland getting scared of his own reflection, the more that AI-generated content makes its way into our social feeds, the harder it becomes to tell what&#8217;s false from reality. ...</description>
-    </item>
-    <item>
-      <title>Health equity is a social justice issue</title>
-      <link>https://www.fastcompany.com/91571536/health-equity-is-a-social-justice-issue</link>
-      <pubDate>2026-07-13T19:25:55</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91571536/health-equity-is-a-social-justice-issue</guid>
-      <description>Organizations can&#8217;t sit it out.
-Health equity can sometimes be discussed in terms of access, but at its core, it is a social justice issue. It reflects who has been systematically excluded from the conditions that make health possible: safe housing, stable income, reliable employment, clean environments, and freedom from targeted harm.</description>
-    </item>
-    <item>
-      <title>This AI-powered shape-shifting wing could make aircraft tails obsolete &#8212; and slash travel costs</title>
-      <link>https://www.techradar.com/pro/this-ai-powered-shape-shifting-wing-could-make-aircraft-tails-obsolete-and-slash-travel-costs</link>
-      <pubDate>Mon, 13 Jul 2026 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">nDF7uEqnNxQpX9EEQCX5Bh</guid>
-      <description>The German Aerospace Center is developing a 1 million Euro project exploring the use of morphing wings, redefining how we think of airplanes.</description>
-    </item>
-    <item>
-      <title>Here&#8217;s how America builds again</title>
-      <link>https://www.fastcompany.com/91572025/heres-how-america-builds-again</link>
-      <pubDate>2026-07-13T19:12:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91572025/heres-how-america-builds-again</guid>
-      <description>We need new blueprints to scale production, workforce capability, and industrial competitiveness simultaneously. 
-For anyone in manufacturing or fulfillment, the current topic of conversation is Factory 5.0, also called Industry 5.0.</description>
-    </item>
-    <item>
-      <title>Un nouveau lien myst&#233;rieux entre la th&#233;orie de la chaleur et les trous noirs !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-nouveau-lien-mysterieux-theorie-chaleur-trous-noirs-136159/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 13 Jul 2026 21:07:48 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-nouveau-lien-mysterieux-theorie-chaleur-trous-noirs-136159/#xtor%3DRSS-8</guid>
-      <description>Il y a environ 50 ans, Stephen Hawking et son coll&#232;gue Jacob Bekenstein &#233;tablissaient un lien profond entre la thermodynamique, qui gouverne l'Univers des &#233;toiles aux r&#233;actions chimiques de la vie, et les trous noirs, ces manifestations spectaculaires de la courbure de l'espace-temps d'Einstein....</description>
     </item>
   </channel>
 </rss>
