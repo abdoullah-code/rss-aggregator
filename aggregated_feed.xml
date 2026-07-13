@@ -3,119 +3,347 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 13 Jul 2026 07:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:16:40 GMT</lastBuildDate>
     <item>
-      <title>La cam&#233;ra dans la voiture devient obligatoire en Europe&#160;: faut-il s&#8217;inqui&#233;ter&#160;?</title>
-      <link>https://www.01net.com/actualites/big-brother-dans-voiture-faut-il-sinquieter-nouvelle-camera-obligatoire.html</link>
-      <pubDate>Mon, 13 Jul 2026 07:04:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359226</guid>
-      <description>Les voitures neuves vendues en Europe re&#231;oivent deux &#233;quipements de s&#233;curit&#233; obligatoires. Le premier est le freinage d&#8217;urgence automatique avec d&#233;tection des usagers vuln&#233;rables. Plus pol&#233;mique, le second est une cam&#233;ra scrutant votre attitude au volant.</description>
+      <title>iGarden Swim Jet X Pro 10 Review: Endless Pool</title>
+      <link>https://www.wired.com/review/igarden-swim-jet-x-pro-10/</link>
+      <pubDate>Mon, 13 Jul 2026 11:08:00 +0000</pubDate>
+      <guid isPermaLink="false">6a4ea0dcdf070edc7bda72fd</guid>
+      <description>Swimming against the iGarden Swim Jet X Pro 10&#8217;s artificial current is a real workout, even if it doesn&#8217;t quite replace a full-size lap pool.</description>
     </item>
     <item>
-      <title>Apple abandonnerait les puces M6 Pro et Max pour passer au M7</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3178037_apple-abandonnerait-les-puces-m6-pro-et-max-pour-passer-au-m7</link>
-      <pubDate>Mon, 13 Jul 2026 06:40:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3178037_apple-abandonnerait-les-puces-m6-pro-et-max-pour-passer-au-m7</guid>
+      <title>I watched the highly anticipated Evil Dead Burn but the horror movie relies too heavily on gore and neglects the lore</title>
+      <link>https://www.techradar.com/streaming/entertainment/evil-dead-burn-review</link>
+      <pubDate>Mon, 13 Jul 2026 11:05:22 +0000</pubDate>
+      <guid isPermaLink="false">cGsHNokYxUwXsbeHZh2w28</guid>
+      <description>Evil Dead Burn left me with more questions than answers, and ultimately, it's the weakest in the franchise for me.</description>
+    </item>
+    <item>
+      <title>Europe takes step toward social media ban for kids</title>
+      <link>https://www.engadget.com/2213336/europe-takes-step-toward-social-media-ban-for-kids/</link>
+      <pubDate>Mon, 13 Jul 2026 11:05:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2213336/europe-takes-step-toward-social-media-ban-for-kids/</guid>
+      <description>Following a worrying new report, Europe is taking steps toward barring children from using social media.</description>
+    </item>
+    <item>
+      <title>OpenAI shuts down its Atlas browser after not even a year</title>
+      <link>https://www.techradar.com/pro/openai-shuts-down-its-atlas-browser-after-not-even-a-year</link>
+      <pubDate>Mon, 13 Jul 2026 11:05:00 +0000</pubDate>
+      <guid isPermaLink="false">4WXRJEFF9bs9McXeRxgGEj</guid>
+      <description>OpenAI sunsets its Atlas browser, but the latest version of ChatGPT for desktop could just be that hotly anticipated 'superapp'.</description>
+    </item>
+    <item>
+      <title>From typos to deepfakes: the new AI cybersecurity battleground</title>
+      <link>https://www.techradar.com/pro/from-typos-to-deepfakes-the-new-ai-cybersecurity-battleground</link>
+      <pubDate>Mon, 13 Jul 2026 11:03:19 +0000</pubDate>
+      <guid isPermaLink="false">zzKJL8eAD3PjFYngR4GdNZ</guid>
+      <description>Generative AI makes prepping sophisticated attack flows available with just a few keystrokes.</description>
+    </item>
+    <item>
+      <title>It&#8217;s the perfect time of year for grabbing a cheap radio for the garden, and they don&#8217;t come much cuter, more packed with features or wallet-friendly than this</title>
+      <link>https://www.techradar.com/audio/its-the-perfect-time-of-year-for-grabbing-a-cheap-radio-for-the-garden-and-they-dont-come-much-cuter-more-packed-with-features-or-wallet-friendly-than-this</link>
+      <pubDate>Mon, 13 Jul 2026 11:01:25 +0000</pubDate>
+      <guid isPermaLink="false">Piuep7tkXY4cuRi43shGha</guid>
+      <description>The Majority Mini Shelford is a compact, cheap, portable radio with screen that goes on sale in August.</description>
+    </item>
+    <item>
+      <title>Python Is So Slow. Can Julia Solve the Two-Language Problem?</title>
+      <link>https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/</link>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a4e847330e84950e0e54168</guid>
+      <description>By some benchmarks, Julia code can run 10X to 1,000X faster than Python&#8212;but there&#8217;s a reason it&#8217;s not a very popular programming language.</description>
+    </item>
+    <item>
+      <title>Express AI review</title>
+      <link>https://www.techradar.com/pro/express-ai-review</link>
+      <pubDate>Mon, 13 Jul 2026 10:53:03 +0000</pubDate>
+      <guid isPermaLink="false">2iRaNsAwHFDSQtizufEDK6</guid>
+      <description>Express AI is a private AI chat platform built by ExpressVPN, offering five models, end-to-end encryption, and zero data retention for Pro subscribers.</description>
+    </item>
+    <item>
+      <title>Tesla perd son pactole des cr&#233;dits carbone : le b&#233;n&#233;fice par voiture s&#8217;effondre &#224; 2 140 $</title>
+      <link>https://www.frandroid.com/marques/tesla/3178565_tesla-perd-son-pactole-des-credits-carbone-le-benefice-par-voiture-seffondre-a-2-140</link>
+      <pubDate>Mon, 13 Jul 2026 10:50:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3178565_tesla-perd-son-pactole-des-credits-carbone-le-benefice-par-voiture-seffondre-a-2-140</guid>
       <description>
-Apple s'appr&#234;te &#224; sauter les puces M6 haut de gamme pour passer directement au M7. La raison tient en deux lettres&#160;: l'IA.
+Tesla reste l'un des constructeurs g&#233;n&#233;raliste qui gagne le plus par voiture vendue, mais l&#8217;&#233;cart avec Toyota fond &#224; vue d&#8217;&#339;il. En cause&#160;: la fin d&#8217;un business ultra-rentable adoss&#233; aux normes CO2 europ&#233;ennes.
 </description>
     </item>
     <item>
-      <title>&#171;&#8201;Cette fonctionnalit&#233; n&#8217;a pas fait pas l&#8217;unanimit&#233;&#8201;&#187;&#160;: Meta d&#233;sactive son usine &#224; deepfake juste apr&#232;s l&#8217;avoir lanc&#233;</title>
-      <link>https://www.frandroid.com/marques/meta/3178065_cette-fonctionnalite-na-pas-fait-pas-lunanimite-meta-desactive-son-usine-a-deepfake-juste-apres-lavoir-lance</link>
-      <pubDate>Mon, 13 Jul 2026 06:34:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3178065_cette-fonctionnalite-na-pas-fait-pas-lunanimite-meta-desactive-son-usine-a-deepfake-juste-apres-lavoir-lance</guid>
+      <title>Anthropic a une bonne nouvelle pour les abonn&#233;s Claude</title>
+      <link>https://www.01net.com/actualites/anthropic-bonne-nouvelle-abonnes-claude.html</link>
+      <pubDate>Mon, 13 Jul 2026 10:45:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1359269</guid>
+      <description>Anthropic prolonge une nouvelle fois l&#8217;acc&#232;s gratuit &#224; son mod&#232;le haut de gamme Fable 5 pour les offres payantes. Les abonn&#233;s pourront l&#8217;utiliser sans surco&#251;t jusqu&#8217;au 19 juillet 2026.  C'est d&#233;j&#224; la troisi&#232;me fois que la start-up prolonge cette p&#233;riode promotionnelle.</description>
+    </item>
+    <item>
+      <title>Lumo AI review</title>
+      <link>https://www.techradar.com/pro/lumo-ai-review</link>
+      <pubDate>Mon, 13 Jul 2026 10:38:27 +0000</pubDate>
+      <guid isPermaLink="false">5mxrnj35vSNCL3oeAm2Ynn</guid>
+      <description>Lumo is Proton's privacy-first AI assistant with zero-access encryption, no data logging, and open-source models at a price below ChatGPT Plus.</description>
+    </item>
+    <item>
+      <title>I tested Meta's new AI image generator against ChatGPT and Nano Banana 2 using the same 5 prompts &#8212; and the winner surprised me</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/i-tested-metas-new-ai-image-generator-against-chatgpt-and-nano-banana-2-using-the-same-5-prompts-and-the-winner-surprised-me</link>
+      <pubDate>Mon, 13 Jul 2026 10:38:21 +0000</pubDate>
+      <guid isPermaLink="false">GbX2EeFnaveuAmJhAaPXZQ</guid>
+      <description>In my battle of image generators, some models understood the assignment better than others.</description>
+    </item>
+    <item>
+      <title>La plainte d&#8217;Apple tombe &#224; un tr&#232;s mauvais moment pour OpenAI</title>
+      <link>https://www.frandroid.com/marques/openai/3178413_la-plainte-dapple-tombe-a-un-tres-mauvais-moment-pour-openai</link>
+      <pubDate>Mon, 13 Jul 2026 10:34:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/openai/3178413_la-plainte-dapple-tombe-a-un-tres-mauvais-moment-pour-openai</guid>
       <description>
-Sous le feu des critiques apr&#232;s avoir annonc&#233; une fonctionnalit&#233; permettant de cr&#233;er des fausses images &#224; tout va, Meta a d&#233;branch&#233; son outil quelques jours &#224; peine apr&#232;s l&#8217;avoir annonc&#233;.
+OpenAI vise l'une des plus grosses entr&#233;es en Bourse de l'histoire de la tech. La plainte d'Apple pour vol de secrets tombe ainsi au pire moment.
 </description>
     </item>
     <item>
-      <title>Cette batterie externe toute fine compatible MagSafe (Qi2 15W) peut recharger trois appareils et chute sous les 50 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3177085_cette-batterie-externe-toute-fine-compatible-magsafe-qi2-15w-peut-recharger-trois-appareils-et-chute-sous-les-50-e</link>
-      <pubDate>Mon, 13 Jul 2026 06:31:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3177085_cette-batterie-externe-toute-fine-compatible-magsafe-qi2-15w-peut-recharger-trois-appareils-et-chute-sous-les-50-e</guid>
+      <title>Why your security stack might be guarding the wrong door</title>
+      <link>https://www.techradar.com/pro/why-your-security-stack-might-be-guarding-the-wrong-door</link>
+      <pubDate>Mon, 13 Jul 2026 10:31:24 +0000</pubDate>
+      <guid isPermaLink="false">TRK3eEnzgXQTzFag77GtSH</guid>
+      <description>Organizations must shift security into the browser itself, taking the focus from access to action.</description>
+    </item>
+    <item>
+      <title>Can't find a fan? Don't panic &#8212; as a home tech expert, I've tracked down 7 premium models that are still in stock from Dyson, Shark, and Meaco for delivery this week</title>
+      <link>https://www.techradar.com/home/air-quality/cant-find-a-fan-dont-panic-as-a-home-tech-expert-ive-tracked-down-7-premium-models-that-are-still-in-stock-from-dyson-shark-and-meaco-for-delivery-this-week</link>
+      <pubDate>Mon, 13 Jul 2026 10:30:04 +0000</pubDate>
+      <guid isPermaLink="false">BJPRMe37F82rvgQR6BvYLm</guid>
+      <description>The summer heat shows no sign of letting up, but there are still fans in stock from big names like Dyson, Shark, and Meaco &#8212; if you know where to look.</description>
+    </item>
+    <item>
+      <title>White Supremacists Love Armie Hammer&#8217;s New Movie</title>
+      <link>https://www.wired.com/story/a-bunch-of-white-supremacists-love-armie-hammers-new-movie/</link>
+      <pubDate>Mon, 13 Jul 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a5002df1202c5592ea3f7e5</guid>
+      <description>Described as the &#8220;feel-good movie of white-boy summer&#8221; by one extremist, the movie Citizen Vigilante has been hailed by the far-right as a way to convert moderates to their cause.</description>
+    </item>
+    <item>
+      <title>The hidden cybersecurity risk sitting in every SMB office</title>
+      <link>https://www.techradar.com/pro/the-hidden-cybersecurity-risk-sitting-in-every-smb-office</link>
+      <pubDate>Mon, 13 Jul 2026 10:27:57 +0000</pubDate>
+      <guid isPermaLink="false">UsV7SjvYQQDEVd7PfGzDCN</guid>
+      <description>Printers remain cybersecurity&#8217;s overlooked weak link, putting sensitive SMB data at risk.</description>
+    </item>
+    <item>
+      <title>Doctolib veut utiliser vos donn&#233;es pour son IA, mais vous pouvez refuser</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3178193_doctolib-veut-utiliser-vos-donnees-pour-son-ia-mais-vous-pouvez-refuser</link>
+      <pubDate>Mon, 13 Jul 2026 10:21:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3178193_doctolib-veut-utiliser-vos-donnees-pour-son-ia-mais-vous-pouvez-refuser</guid>
       <description>
-Tr&#232;s mince, compatible avec la charge sans fil Qi2 jusqu&#8217;&#224; 15 W et pouvant recharger trois appareils simultan&#233;ment, la batterie externe Ugreen MagFlow Air Qi2 est tr&#232;s bien sold&#233;e. Amazon la propose en effet &#224; 49,99 euros au lieu de 69,99 euros. 
+Doctolib, le service de r&#233;servation de rendez-vous m&#233;dicaux, souhaite utiliser les donn&#233;es personnelles de ses utilisateurs pour alimenter un projet de recherche fond&#233; sur l'intelligence artificielle. Il est possible de s'y opposer, &#224; condition d'effectuer soi-m&#234;me la d&#233;marche.
 </description>
     </item>
     <item>
-      <title>Instagram&#160;: Meta n&#8217;autorisera finalement pas tout le monde &#224; utiliser vos contenus publics avec l&#8217;IA</title>
-      <link>https://www.01net.com/actualites/instagram-meta-nautorisera-finalement-pas-tout-le-monde-a-utiliser-vos-contenus-publics-avec-lia.html</link>
-      <pubDate>Mon, 13 Jul 2026 06:30:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359233</guid>
-      <description>Le d&#233;ploiement du nouveau mod&#232;le de g&#233;n&#233;ration d&#8217;images de Meta AI devait permettre &#224; tout le monde d&#8217;utiliser les photos et vid&#233;os des comptes Instagram publics pour les modifier avec l&#8217;IA. Mais devant le toll&#233; cr&#233;&#233; par cette nouvelle fonction, Meta a fait marche arri&#232;re.</description>
-    </item>
-    <item>
-      <title>Before you drop AU$999 on the new Dyson Airwrap Co-anda 2x, I'd strongly suggest checking out this Prime Day deal on the original</title>
-      <link>https://www.techradar.com/home/hair-care/before-you-drop-aud999-on-the-new-dyson-airwrap-co-anda-2x-id-strongly-suggest-checking-out-this-prime-day-deal-on-the-original</link>
-      <pubDate>Mon, 13 Jul 2026 06:24:11 +0000</pubDate>
-      <guid isPermaLink="false">jAd67eBDdHvDbZVE2cd96h</guid>
-      <description>Amazon Prime Day is wrapping up tonight, and there&#8217;s still some time to grab this Dyson hair care tool for 39% off &#8212; and you don&#8217;t need to be a Prime member to get it, either.</description>
-    </item>
-    <item>
-      <title>La nouvelle Renault M&#233;gane &#233;lectrique est l&#224; et son prix ne fait pas r&#234;ver</title>
-      <link>https://www.01net.com/actualites/37-500-e-renault-megane-premier-prix-est-ce-bien-raisonnable.html</link>
-      <pubDate>Mon, 13 Jul 2026 06:15:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359160</guid>
-      <description>Fra&#238;chement d&#233;voil&#233;e, la Renault M&#233;gane restyl&#233;e r&#233;v&#232;le aujourd&#8217;hui ses prix. Avec un tarif de base fix&#233; &#224; 37 500 &#8364;, la compacte &#233;lectrique n&#8217;est toujours pas donn&#233;e. Sa dotation enrichie peut-elle compenser ?</description>
-    </item>
-    <item>
-      <title>Partir loin en voiture &#233;lectrique&#160;: qui a encore peur&#160;?</title>
-      <link>https://www.01net.com/actualites/partir-loin-voiture-electrique-ne-vous-fait-visiblement-plus-peur-du-tout.html</link>
-      <pubDate>Mon, 13 Jul 2026 06:01:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359140</guid>
-      <description>La peur des longs trajets en v&#233;hicule &#233;lectrique semble faire partie du pass&#233;. C&#8217;est du moins le bilan dress&#233; par Ionity, qui estime que 82,4 % des conducteurs de voitures &#233;lectriques envisagent un long trajet cet &#233;t&#233;. Vraiment ?</description>
-    </item>
-    <item>
-      <title>P&#233;nurie d&#8217;h&#233;lium : pourquoi la d&#233;cision de la Chine menace de faire grimper le prix de la m&#233;moire PC</title>
-      <link>https://www.frandroid.com/culture-tech/economie/3178027_penurie-dhelium-pourquoi-la-decision-de-la-chine-menace-de-faire-grimper-le-prix-de-la-memoire-pc</link>
-      <pubDate>Mon, 13 Jul 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/economie/3178027_penurie-dhelium-pourquoi-la-decision-de-la-chine-menace-de-faire-grimper-le-prix-de-la-memoire-pc</guid>
+      <title>L&#8217;&#233;chec cuisant des surtaxes : les voitures &#233;lectriques chinoises sont toujours 21 % moins ch&#232;res en Europe</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3178287_lechec-cuisant-des-surtaxes-les-voitures-electriques-chinoises-sont-toujours-21-moins-cheres-en-europe</link>
+      <pubDate>Mon, 13 Jul 2026 10:18:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3178287_lechec-cuisant-des-surtaxes-les-voitures-electriques-chinoises-sont-toujours-21-moins-cheres-en-europe</guid>
       <description>
-Depuis le 10 juillet, plus un m&#232;tre cube d'h&#233;lium ne sort de Chine. Sans ce gaz, aucune puce ne quitte l'usine, et la note pourrait bien finir sur le prix de votre prochain PC ou smartphone.
+Deux ans apr&#232;s leur mise en place, les surtaxes europ&#233;ennes sur les voitures &#233;lectriques chinoises ont bien frein&#233; quelque chose. Mais un rapport de T&amp;E montre que les mod&#232;les chinois restent 21&#160;% moins chers, et que le vrai frein est peut-&#234;tre ailleurs.
 </description>
     </item>
     <item>
-      <title>&#201;crans 480 Hz vs 60 Hz : +38 % de pr&#233;cision en jeu, mais le gain plafonne &#224; 240 Hz</title>
-      <link>https://www.frandroid.com/produits-android/ordinateurs/ecran-pc/3177873_ecrans-480-hz-vs-60-hz-38-de-precision-en-jeu-mais-le-gain-plafonne-a-240-hz</link>
-      <pubDate>Mon, 13 Jul 2026 05:54:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/ecran-pc/3177873_ecrans-480-hz-vs-60-hz-38-de-precision-en-jeu-mais-le-gain-plafonne-a-240-hz</guid>
+      <title>Comment transformer votre TV en syst&#232;me home cin&#233;ma avec deux Google Home Speaker</title>
+      <link>https://www.frandroid.com/marques/google/3178427_comment-transformer-votre-televiseur-en-systeme-home-cinema-avec-deux-google-home-speaker</link>
+      <pubDate>Mon, 13 Jul 2026 10:17:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3178427_comment-transformer-votre-televiseur-en-systeme-home-cinema-avec-deux-google-home-speaker</guid>
       <description>
-LG Display a fait jouer 31 personnes sur des dalles OLED de 60 &#224; 480&#160;Hz. Sa conclusion&#160;: passer au 480&#160;Hz ferait grimper la pr&#233;cision de 38&#160;% face au 60&#160;Hz. LG a pay&#233; l'&#233;tude.
+Google propose d&#233;sormais une int&#233;gration native entre ses enceintes connect&#233;es et son bo&#238;tier TV, permettant de profiter d&#8217;une configuration que l&#8217;on peut comparer &#224; une barre de son. Voici comment faire, et ce que vaut vraiment cette configuration.
 </description>
     </item>
     <item>
-      <title>En pleine crise de la m&#233;moire, Apple pr&#233;parerait un Mac avec 1,5&#160;To de RAM</title>
-      <link>https://www.frandroid.com/marques/apple/3178045_en-pleine-crise-de-la-memoire-apple-preparerait-un-mac-avec-15-to-de-ram</link>
-      <pubDate>Mon, 13 Jul 2026 05:34:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3178045_en-pleine-crise-de-la-memoire-apple-preparerait-un-mac-avec-15-to-de-ram</guid>
+      <title>Le Samsung Galaxy Book 5 Pro chute &#224; 880 &#8364; au lieu de 1 410 &#8364;, l&#8217;affaire des soldes pour un ultrabook encore premium</title>
+      <link>https://www.frandroid.com/bons-plans/3178203_le-samsung-galaxy-book-5-pro-chute-a-880-e-au-lieu-de-1-410-e-laffaire-des-soldes-pour-un-ultrabook-encore-premium</link>
+      <pubDate>Mon, 13 Jul 2026 10:17:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3178203_le-samsung-galaxy-book-5-pro-chute-a-880-e-au-lieu-de-1-410-e-laffaire-des-soldes-pour-un-ultrabook-encore-premium</guid>
       <description>
-Pas exactement connu pour ses ordinateurs bon march&#233;, Apple pourrait passer un cap l&#8217;ann&#233;e prochaine en proposant une machine capable d&#8217;embarquer jusqu&#8217;&#224; 1,5&#160;To de RAM.
+Fin, l&#233;ger et puissant gr&#226;ce &#224; son Intel Core Ultra 7, le Samsung Galaxy Book 5 Pro reste un excellent ultrabook. La bonne nouvelle, c'est que depuis l'arriv&#233;e de son successeur, son prix a fondu : pendant les soldes, Darty et Rakuten le proposent &#224; 879,99 euros au lieu de 1 409,99 euros.
 </description>
     </item>
     <item>
-      <title>Cet excellent vid&#233;oprojecteur laser 4K not&#233; 9/10 et sold&#233; &#224; -1 100 &#8364; remplace facilement un TV avec une image de 300&#8243;</title>
-      <link>https://www.frandroid.com/bons-plans/3175211_cet-excellent-videoprojecteur-laser-4k-note-9-10-et-solde-a-1-100-e-remplace-facilement-un-tv-avec-une-image-de-300</link>
-      <pubDate>Mon, 13 Jul 2026 05:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3175211_cet-excellent-videoprojecteur-laser-4k-note-9-10-et-solde-a-1-100-e-remplace-facilement-un-tv-avec-une-image-de-300</guid>
+      <title>Duck.ai by DuckDuckGo review</title>
+      <link>https://www.techradar.com/pro/duck-ai-review</link>
+      <pubDate>Mon, 13 Jul 2026 10:16:54 +0000</pubDate>
+      <guid isPermaLink="false">TyoGkegGPEK2d7zpWiu76n</guid>
+      <description>Duck.ai offers private, no-login AI chat through DuckDuckGo, with six free models and paid tiers that unlock GPT-5.4, Claude Opus 4.7, and more.</description>
+    </item>
+    <item>
+      <title>Lidl customers across Europe hit in suspected data breach - here's what we know</title>
+      <link>https://www.techradar.com/pro/security/lidl-customers-across-europe-hit-in-suspected-data-breach-heres-what-we-know</link>
+      <pubDate>Mon, 13 Jul 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="false">KMsx6Xf64MS7G3HiiDoPWR</guid>
+      <description>Lidl customers in three countries have had some of their data stolen - but so far, it hasn't surfaced anywhere.</description>
+    </item>
+    <item>
+      <title>On a vu la borne Clelia, une &#233;tonnante solution pour recharger son v&#233;lo &#233;lectrique sans craindre le vol</title>
+      <link>https://www.frandroid.com/survoltes/velo-electrique/3178317_on-a-vu-la-borne-clelia-une-etonnante-solution-pour-recharger-son-velo-electrique-sans-craindre-le-volrecharger-son-velo-electrique-sans-craindre-le-vol-on-a-vu-letonnante-borne-clelia</link>
+      <pubDate>Mon, 13 Jul 2026 10:14:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3178317_on-a-vu-la-borne-clelia-une-etonnante-solution-pour-recharger-son-velo-electrique-sans-craindre-le-volrecharger-son-velo-electrique-sans-craindre-le-vol-on-a-vu-letonnante-borne-clelia</guid>
       <description>
-Ce vid&#233;oprojecteur, c'est le Valerion VisionMaster Pro 2, un mod&#232;le laser tr&#232;s lumineux avec Google TV pour une image de 300 pouces &#224; 240 Hz en Full HD, 60 Hz en 4K, sold&#233; &#224; 1 899,05 euros au lieu de 2 999 euros sur Amazon.
+Solution de stationnement s&#233;curis&#233; &#224; destination des commerces, collectivit&#233;s ou des entreprises, la borne Clelia veut renforcer la s&#233;r&#233;nit&#233; des cyclistes, et leur permettre de recharger la batterie de leur v&#233;lo. On a pu la voir de pr&#232;s.
 </description>
     </item>
     <item>
-      <title>Le robot NEO s&#8217;offre de nouvelles mains presque humaines, et &#231;a change tout</title>
-      <link>https://www.01net.com/actualites/robot-neo-mains-bardees-tendons-comme-les-votres.html</link>
-      <pubDate>Mon, 13 Jul 2026 05:30:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359153</guid>
-      <description>Attraper un &#339;uf sans le casser : la robotique bute dessus depuis soixante ans. 1X affirme avoir trouv&#233; la parade avec des mains &#224; 25 articulations, tir&#233;es par des tendons artificiels, greff&#233;es sur son robot NEO.</description>
+      <title>Why AI infrastructure costs keep surprising IT leaders</title>
+      <link>https://www.techradar.com/pro/why-ai-infrastructure-costs-keep-surprising-it-leaders</link>
+      <pubDate>Mon, 13 Jul 2026 10:01:48 +0000</pubDate>
+      <guid isPermaLink="false">ZLthxCNKSpweAvdMunZ3ai</guid>
+      <description>Production AI changes infrastructure economics in ways most teams underestimate.</description>
     </item>
     <item>
-      <title>Apple contre OpenAI : le r&#233;cap complet d&#8217;un week-end d&#8217;espionnage industriel</title>
-      <link>https://www.frandroid.com/marques/apple/3177783_apple-contre-openai-le-recap-complet-dun-week-end-despionnage-industriel</link>
-      <pubDate>Mon, 13 Jul 2026 05:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3177783_apple-contre-openai-le-recap-complet-dun-week-end-despionnage-industriel</guid>
+      <title>Pixel 11 Pro Fold&#160;: une fuite d&#233;voile l&#8217;une des versions avant l&#8217;annonce de Google</title>
+      <link>https://www.01net.com/actualites/pixel-11-pro-fold-une-fuite-devoile-lune-des-versions-avant-lannonce-de-google.html</link>
+      <pubDate>Mon, 13 Jul 2026 10:01:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1359249</guid>
+      <description>Le Pixel 11 Pro Fold sera d&#233;voil&#233; dans un mois, mais nous avons d&#233;j&#224; un aper&#231;u du nouveau t&#233;l&#233;phone pliant de Google, et plus pr&#233;cis&#233;ment du mod&#232;le &#171; Pine &#187;. Pas de r&#233;volution annonc&#233;e au niveau du design, mais une nouvelle couleur vert sapin et un flash particuli&#232;rement volumineux qui pourrait int&#233;grer la fonction Pixel Glow.</description>
+    </item>
+    <item>
+      <title>A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance</title>
+      <link>https://www.wired.com/story/sfpd-drone-video-leak-surveillance/</link>
+      <pubDate>Mon, 13 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a3ae5154f9749be536e0513</guid>
+      <description>The SFPD&#8217;s exposure of hours of videos from drone platform Skydio reveals how broadly it&#8217;s watching the city from above&#8212;and how the results can spill online.</description>
+    </item>
+    <item>
+      <title>This free Mac app reveals the truth about your mystery USB-C cables</title>
+      <link>https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac</link>
+      <pubDate>2026-07-13T06:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=963759</guid>
+      <description>Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've never found anything as intuitive or inexpensive since. But if you've got a Mac with Apple Silicon chips, you can simply [&#8230;]</description>
+    </item>
+    <item>
+      <title>Break out of the Spotify echo chamber with these music discovery gold mines</title>
+      <link>https://www.fastcompany.com/91559138/spotify-alternatives</link>
+      <pubDate>2026-07-13T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91559138/spotify-alternatives</guid>
+      <description>Listen up: These completely free websites will refresh your playlists&#8212;and refresh your mind.
+If there&#8217;s one thing that gets me as giddy as gadgets, it&#8217;s music.</description>
+    </item>
+    <item>
+      <title>How an army of digital sleuths are using AI to fix America&#8217;s crumbling sidewalks</title>
+      <link>https://www.fastcompany.com/91567414/how-an-army-of-digital-sleuths-are-using-ai-to-fix-americas-crumbling-sidewalks</link>
+      <pubDate>2026-07-13T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91567414/how-an-army-of-digital-sleuths-are-using-ai-to-fix-americas-crumbling-sidewalks</guid>
+      <description>Project Sidewalk pairs machine learning and community engagement to map&#8212;and improve&#8212;sidewalk accessibility.
+I&#8217;m on a tree-lined street in Lincoln Park, a city in Metro Detroit, studying a curb ramp&#8212;the part of the sidewalk that slopes down to meet the street at an intersection so that someone using a wheelchair can safely cross. I mark the ramp &#8220;good&#8221; and move on....</description>
+    </item>
+    <item>
+      <title>This new AI model thinks in images, not just words</title>
+      <link>https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words</link>
+      <pubDate>2026-07-13T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words</guid>
+      <description>Elorian, founded by the ex-Google Brain and DeepMind researcher Andrew Dai, believes that learning from, and reasoning about, images is fundamental to rapid intelligence gains.&#160;
+For almost a decade, AI researchers have been obsessed with one kind of artificial intelligence&#8212;large language models (LLMs), which they train to write, talk, and reason using words. The tech industry is making an enormous bet that making such models bigger and smarter is the path to&#160;superintelligence.&#160;...</description>
+    </item>
+    <item>
+      <title>Design history, as told through 125 objects</title>
+      <link>https://www.fastcompany.com/91571436/cooper-hewitt-permanent-collection-galleries-design-across-time</link>
+      <pubDate>2026-07-13T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91571436/cooper-hewitt-permanent-collection-galleries-design-across-time</guid>
+      <description>Cooper Hewitt&#8217;s new permanent collection exhibition is meant to be a conversation starter. 
+From the pillow that determines whether a night is restful or not, to the mug that keeps the coffee from burning your hands, the streets and transit systems that get you to work, and the city you inhabit&#8212;everything is design. And no one understands that more than the Cooper Hewitt....</description>
+    </item>
+    <item>
+      <title>On a vu le MG Cyber Concept : bient&#244;t un SUV &#233;lectrique MG au look de Ferrari pour une fraction du prix</title>
+      <link>https://www.frandroid.com/marques/mg/3177467_on-a-vu-le-mg-cyber-concept-bientot-un-suv-electrique-mg-au-look-de-ferrari-pour-une-fraction-du-prix</link>
+      <pubDate>Mon, 13 Jul 2026 09:56:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/mg/3177467_on-a-vu-le-mg-cyber-concept-bientot-un-suv-electrique-mg-au-look-de-ferrari-pour-une-fraction-du-prix</guid>
       <description>
-Plainte f&#233;d&#233;rale d&#233;pos&#233;e vendredi, r&#233;v&#233;lations en cascade tout le week-end&#160;: Apple accuse OpenAI d'avoir organis&#233; le pillage de ses secrets industriels pour b&#226;tir son premier appareil. Personnages, accusations, enjeux&#160;: le point complet pour attaquer la semaine.
+MG vient de d&#233;voiler un concept-car pr&#233;figurant un futur SUV &#233;lectrique haut de gamme : voici le MG Cyber Concept, aux lignes inspir&#233;es du Ferrari Purosangue ou du Xiaomi YU7. Nous sommes partis &#224; sa d&#233;couverte.
+</description>
+    </item>
+    <item>
+      <title>DeepSeek AI review</title>
+      <link>https://www.techradar.com/pro/deepseek-ai-review</link>
+      <pubDate>Mon, 13 Jul 2026 09:54:26 +0000</pubDate>
+      <guid isPermaLink="false">N6a5CA4gvVBd4UxHydSQ2B</guid>
+      <description>DeepSeek delivers frontier-class AI performance at a fraction of competitor prices, but serious privacy concerns make it a complicated choice for businesses.</description>
+    </item>
+    <item>
+      <title>Microsoft admits its carbon emissions grew 25 percent in 2025, including a rise in fossil fuel use</title>
+      <link>https://www.techradar.com/pro/microsoft-admits-its-carbon-emissions-grew-25-percent-in-2025-including-a-rise-in-fossil-fuel-use</link>
+      <pubDate>Mon, 13 Jul 2026 09:50:00 +0000</pubDate>
+      <guid isPermaLink="false">AKt95th4HdKMGQWyqx2BRE</guid>
+      <description>Microsoft is the latest hyperscaler to blame AI for rising emissions, at 25%, following similar rises from Google (25%) and Amazon (16%).</description>
+    </item>
+    <item>
+      <title>Fin du disque : PlayStation va priver des dizaines de pays de jeux vid&#233;o</title>
+      <link>https://www.frandroid.com/produits-android/3178385_fin-du-disque-playstation-va-priver-des-dizaines-de-pays-de-jeux-video</link>
+      <pubDate>Mon, 13 Jul 2026 09:43:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3178385_fin-du-disque-playstation-va-priver-des-dizaines-de-pays-de-jeux-video</guid>
+      <description>
+Sony arr&#234;te la production de disques pour ses nouveaux jeux PlayStation en janvier 2028. Une cons&#233;quence m&#233;connue en France : le PlayStation Network n'existe que dans une petite moiti&#233; des pays du monde, ce qui laisse des dizaines de nations sans porte d'entr&#233;e l&#233;gale.
+</description>
+    </item>
+    <item>
+      <title>The DJI Mini 3 is back on sale at Amazon &#8212; act fast to save $180 on this beginner-friendly bundle</title>
+      <link>https://mashable.com/tech/july-13-dji-mini-3-fly-more-combo-deal</link>
+      <pubDate>Mon, 13 Jul 2026 09:31:58 +0000</pubDate>
+      <guid isPermaLink="false">06Dq6ry1OYwxasVxhtndvPa</guid>
+      <description>Find the best DJI drone deal. Save 25% on the DJI Mini 3 Fly More Combo at Amazon.</description>
+    </item>
+    <item>
+      <title>Best Kitchen Composters and Food Recyclers (2026)</title>
+      <link>https://www.wired.com/story/home-composters-buying-guide/</link>
+      <pubDate>Mon, 13 Jul 2026 09:31:00 +0000</pubDate>
+      <guid isPermaLink="false">623e42969298b92bd5393130</guid>
+      <description>Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.</description>
+    </item>
+    <item>
+      <title>AI has a constraint problem</title>
+      <link>https://www.fastcompany.com/91570976/ai-has-a-constraint-problem</link>
+      <pubDate>2026-07-13T09:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91570976/ai-has-a-constraint-problem</guid>
+      <description>Let&#8217;s get back to what we as designers have always known: Limits don&#8217;t rein in possibility, they enable it. 
+March 2026 was a rocky month for big tech. On March 18, Meta decided to wind down support for Horizon Worlds, the last bastion of its five-year, $70 billion-plus virtual reality bet and the flagship project of its rebrand from Facebook. Eight days later, OpenAI announced it was shuttering Sora, its AI video platform, at a much smaller loss (most estimates put it at a mere $1 billion)....</description>
+    </item>
+    <item>
+      <title>The Magic: The Gathering Marvel Super Heroes Draft Night Box hits record-low price on Amazon &#8212; save over $20</title>
+      <link>https://mashable.com/life/july-13-magic-the-gathering-marvel-super-heroes-draft-night-box</link>
+      <pubDate>Mon, 13 Jul 2026 09:27:27 +0000</pubDate>
+      <guid isPermaLink="false">00RdIk30BUbTxNzI1II3ysM</guid>
+      <description>Save $21 on the Magic: The Gathering Marvel Super Heroes Draft Night box at Amazon, now at its lowest price yet.</description>
+    </item>
+    <item>
+      <title>Social media limits are coming for teens across Europe</title>
+      <link>https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules</link>
+      <pubDate>2026-07-13T05:22:52-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=964565</guid>
+      <description>The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission President Ursula von der Leyen said [&#8230;]...</description>
+    </item>
+    <item>
+      <title>AI can read your legacy systems. Modernization is still the hard part</title>
+      <link>https://www.techradar.com/pro/ai-can-read-your-legacy-systems-modernization-is-still-the-hard-part</link>
+      <pubDate>Mon, 13 Jul 2026 09:21:55 +0000</pubDate>
+      <guid isPermaLink="false">6M9M5FZz7nzZLMnTQrR7QK</guid>
+      <description>As AI makes legacy estates easier to understand, the challenge shifts to sequencing change without disrupting critical operations.</description>
+    </item>
+    <item>
+      <title>The Pok&#233;mon TCG Chaos Rising Elite Trainer Box has dropped to a new record-low price on Amazon &#8212; save over $40</title>
+      <link>https://mashable.com/life/july-13-pokemon-tcg-chaos-rising-elite-trainer-box-deal</link>
+      <pubDate>Mon, 13 Jul 2026 09:20:38 +0000</pubDate>
+      <guid isPermaLink="false">07wELhwWZo2TZiwHeDazkjm</guid>
+      <description>Save $40.99 on the Pok&#233;mon TCG Chaos Rising Elite Trainer Box at Amazon, now at its lowest price ever.</description>
+    </item>
+    <item>
+      <title>Pourquoi votre vrai IBAN apparait dans cette vaste arnaque au faux abonnement Delta Sky Club</title>
+      <link>https://www.frandroid.com/culture-tech/securite-applications/3178223_pourquoi-votre-vrai-iban-apparait-dans-cette-vaste-arnaque-au-faux-abonnement-delta-sky-club</link>
+      <pubDate>Mon, 13 Jul 2026 09:17:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/securite-applications/3178223_pourquoi-votre-vrai-iban-apparait-dans-cette-vaste-arnaque-au-faux-abonnement-delta-sky-club</guid>
+      <description>
+Une campagne d'arnaque exploite vicieusement les nombreux IBAN vol&#233;s en France pour pr&#233;cipiter les victimes dans leur pi&#232;ge. Voici ce qu'il faut savoir.
+</description>
+    </item>
+    <item>
+      <title>Assassin&#8217;s Creed Black Flag Resynced : si le jeu est flou avec votre carte graphique Nvidia, voici la solution (en attendant un patch)</title>
+      <link>https://www.frandroid.com/produits-android/console/3178277_assassins-creed-black-flag-resynced-si-le-jeu-est-flou-avec-votre-carte-graphique-nvidia-voici-la-solution-en-attendant-un-patch</link>
+      <pubDate>Mon, 13 Jul 2026 09:17:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3178277_assassins-creed-black-flag-resynced-si-le-jeu-est-flou-avec-votre-carte-graphique-nvidia-voici-la-solution-en-attendant-un-patch</guid>
+      <description>
+Les possesseurs de cartes graphiques Nvidia souffrent de deux bugs f&#226;cheux lors de l'activation du DLSS dans Assassin's Creed Black Flag Resynced. Voici comment les corriger en attendant une mise &#224; jour du jeu par Ubisoft.
 </description>
     </item>
   </channel>
