@@ -3,7 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 14 Jul 2026 19:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:03:21 GMT</lastBuildDate>
+    <item>
+      <title>Three publishers challenge Google over AI copyright infringement</title>
+      <link>https://www.engadget.com/2215206/three-publishers-challenge-google-over-ai-copyright-infringement/</link>
+      <pubDate>Tue, 14 Jul 2026 20:28:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2215206/three-publishers-challenge-google-over-ai-copyright-infringement/</guid>
+      <description>It's the latest in a barrage of efforts to win compensation from AI companies over training materials.</description>
+    </item>
+    <item>
+      <title>The next wave of emoji could help you evoke beauty and existential dread</title>
+      <link>https://www.engadget.com/2215190/the-next-wave-of-emoji-could-help-you-evoke-beauty-and-existential-dread/</link>
+      <pubDate>Tue, 14 Jul 2026 20:15:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2215190/the-next-wave-of-emoji-could-help-you-evoke-beauty-and-existential-dread/</guid>
+      <description>Who has two thumbs and is broken inside?</description>
+    </item>
+    <item>
+      <title>245.76TB Micron 6600 Ion SSD has a staggering 16GB RAM with a $100,000+ price tag, and is 'the one to beat in its class', reviewer says</title>
+      <link>https://www.techradar.com/pro/245-76tb-micron-6600-ion-ssd-has-a-staggering-16gb-ram-with-a-usd100-000-price-tag-and-is-the-one-to-beat-in-its-class-reviewer-says</link>
+      <pubDate>Tue, 14 Jul 2026 20:15:00 +0000</pubDate>
+      <guid isPermaLink="false">qbNNmRhHE5pZPySbByb37E</guid>
+      <description>Micron's 245.76 TB enterprise SSD combines massive onboard memory with strong benchmark performance, although verified pricing remains unavailable.</description>
+    </item>
+    <item>
+      <title>How to watch MLB All-Star Game 2026 &#8212; watch baseball online from anywhere</title>
+      <link>https://www.techradar.com/how-to-watch/baseball/mlb-all-star-game-2026</link>
+      <pubDate>Tue, 14 Jul 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">itme365CszLKWw5VMrwdqK</guid>
+      <description>All the ways to watch MLB All-Star Game 2026 live streams online and from anywhere as the National League eyes back-to-back wins against the American League.</description>
+    </item>
+    <item>
+      <title>Apple opens its new Siri AI to everyone with the iOS 27 public beta</title>
+      <link>https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/</link>
+      <pubDate>Tue, 14 Jul 2026 19:42:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142256</guid>
+      <description>If you&#8217;ve been waiting to try Apple&#8217;s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software&#8217;s official launch this fall.</description>
+    </item>
+    <item>
+      <title>Anthropic&#8217;s newest ad is creeping people out</title>
+      <link>https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/</link>
+      <pubDate>Tue, 14 Jul 2026 19:41:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142178</guid>
+      <description>Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt &#8212; which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries &#8212; would appear to be more of the same.</description>
+    </item>
+    <item>
+      <title>The founder of Hinge raised $18M to build a new AI dating service, Overtone</title>
+      <link>https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/</link>
+      <pubDate>Tue, 14 Jul 2026 19:39:39 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142228</guid>
+      <description>Overtone describes itself as "a voice- and audio-forward service, enabled by AI, that provides highly curated introductions."</description>
+    </item>
+    <item>
+      <title>SpaceXAI&amp;#8217;s Grok programming tool was uploading its users&amp;#8217; entire codebase to cloud storage</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload</link>
+      <pubDate>2026-07-14T15:25:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=965600</guid>
+      <description>SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, "including files it was told not to open [&#8230;]</description>
+    </item>
     <item>
       <title>PlayStation FlexStrike wireless fight stick delayed without a firm release date</title>
       <link>https://www.engadget.com/2215072/playstation-flexstrike-wireless-fight-stick-delayed-without-a-firm-release-date/</link>
@@ -17,127 +73,6 @@
       <pubDate>Tue, 14 Jul 2026 19:05:00 +0000</pubDate>
       <guid isPermaLink="false">WjrHE7EzVtBuERrczgefcR</guid>
       <description>The RayNeo X3 Pro is the most technically accomplished pair of AR smart glasses available today, pairing a genuinely stunning dual-eye MicroLED display with Qualcomm's Snapdragon AR1 platform, Google Gemini 2.5 AI, and a 12MP Sony camera.</description>
-    </item>
-    <item>
-      <title>Samsung's slower version of the 990 Pro SSD costs way more than the original</title>
-      <link>https://www.engadget.com/2215064/samsungs-slower-version-of-the-990-pro-ssd-costs-way-more-than-the-original/</link>
-      <pubDate>Tue, 14 Jul 2026 18:58:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2215064/samsungs-slower-version-of-the-990-pro-ssd-costs-way-more-than-the-original/</guid>
-      <description>Because it's 2026, Samsung's new 990 Pro SSD is both more expensive and slower than the original.</description>
-    </item>
-    <item>
-      <title>Big Boogies fake $5M scholarship claim is going viral again</title>
-      <link>https://mashable.com/life/big-boogie-turnt-it-down-lie-viral-again</link>
-      <pubDate>Tue, 14 Jul 2026 18:48:02 +0000</pubDate>
-      <guid isPermaLink="false">05JQIoxY11qvdmsqiJeymwU</guid>
-      <description>Big Boogie's 2023 lie about a $5 million drum major scholarship is back and funnier than ever.</description>
-    </item>
-    <item>
-      <title>Lucid Motors denies report it&#8217;s considering bankruptcy</title>
-      <link>https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/</link>
-      <pubDate>Tue, 14 Jul 2026 18:47:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142223</guid>
-      <description>The company said the "rumors are completely false" after its stock sank more than 50% on a report that it was weighing the option.</description>
-    </item>
-    <item>
-      <title>Google faces another AI training lawsuit from major publishers</title>
-      <link>https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</link>
-      <pubDate>Tue, 14 Jul 2026 18:33:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142189</guid>
-      <description>Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.</description>
-    </item>
-    <item>
-      <title>What can you do with a Roku TV without internet access?</title>
-      <link>https://www.engadget.com/2211321/how-to-use-roku-without-internet/</link>
-      <pubDate>Tue, 14 Jul 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2211321/how-to-use-roku-without-internet/</guid>
-      <description>Your Roku can do more than stream online content. Let's get you prepared for the next internet outage.</description>
-    </item>
-    <item>
-      <title>Bosgame&#8217;s P6 Ryzen 9 mini PC deal undercuts 8-core rivals as a powerful $520 desktop replacement</title>
-      <link>https://www.techradar.com/pro/bosgames-p6-ryzen-9-mini-pc-deal-undercuts-8-core-rivals-as-a-powerful-usd520-desktop-replacement</link>
-      <pubDate>Tue, 14 Jul 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="false">4oR6UniKHB9MDah9F7fzC9</guid>
-      <description>AMD Ryzen 9 6900HX (8-core/16-thread), 24GB LPDDR5X RAM, 1TB PCIe 4.0 SSD, dual Gigabit LAN, and triple 4K display support</description>
-    </item>
-    <item>
-      <title>How to watch the 2026 FIFA World Cup online for free</title>
-      <link>https://mashable.com/article/fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Tue, 14 Jul 2026 18:10:25 +0000</pubDate>
-      <guid isPermaLink="false">077oUvXQjziKbbL6ypkXdaa</guid>
-      <description>How to watch World Cup for free. Live stream the 2026 FIFA World Cup for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>How to watch France vs. Spain online for free</title>
-      <link>https://mashable.com/entertainment/france-spain-fifa-world-cup-2026-live-stream-for-free</link>
-      <pubDate>Tue, 14 Jul 2026 18:10:12 +0000</pubDate>
-      <guid isPermaLink="false">00OLUvUWopdhKYwWh9yX15o</guid>
-      <description>How to watch World Cup for free. Live stream France vs. Spain in the 2026 FIFA World Cup for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>Meta says it will spend an extra $40 billion on its nearly 4,000-acre data center campus in Louisiana in its quest for more compute power</title>
-      <link>https://www.techradar.com/pro/meta-says-it-will-spend-an-extra-usd40-billion-on-its-nearly-4-000-acre-data-center-campus-in-louisiana-in-its-quest-for-more-compute-power</link>
-      <pubDate>Tue, 14 Jul 2026 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">8LSVy2a5gQPtEPa8JkNfv4</guid>
-      <description>Meta mega campus covers 4,000 acres and will require 10 methane-burning gas turbine plants to power the data center, which is set to use three times more electricity than New Orleans.</description>
-    </item>
-    <item>
-      <title>J&#8217;ai test&#233; le DJI Lito 1 : le drone qui red&#233;finit l&#8217;entr&#233;e de gamme</title>
-      <link>https://www.frandroid.com/marques/dji/3169347_jai-teste-le-dji-lito-1-le-drone-qui-redefinit-lentree-de-gamme</link>
-      <pubDate>Tue, 14 Jul 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/dji/3169347_jai-teste-le-dji-lito-1-le-drone-qui-redefinit-lentree-de-gamme</guid>
-      <description>
-Avec le Lito 1, DJI renouvelle enfin son entr&#233;e de gamme. Pour seulement 339 euros, ce drone reprend la plateforme technique des derniers mod&#232;les de la marque, avec une transmission radio de nouvelle g&#233;n&#233;ration, une excellente autonomie et des automatismes tr&#232;s aboutis.
-</description>
-    </item>
-    <item>
-      <title>CEO of big memory chip maker says 2027 could be the 'worst year in the industry's history' &#8212; and other RAM crisis rumblings back up that dire prediction</title>
-      <link>https://www.techradar.com/computing/memory/ceo-of-big-memory-chip-maker-says-2027-could-be-the-worst-year-in-the-industrys-history-and-other-ram-crisis-rumblings-back-up-that-dire-prediction</link>
-      <pubDate>Tue, 14 Jul 2026 17:59:32 +0000</pubDate>
-      <guid isPermaLink="false">VW5MZUY2pe3XkQDSV3tnM5</guid>
-      <description>Fresh RAM misery, including a seriously gloomy forecast from the boss of a big chip maker, intensifies fears that this crisis is here to stay.</description>
-    </item>
-    <item>
-      <title>X wants to re-prioritize your friends and make replies less of a battleground</title>
-      <link>https://mashable.com/tech/x-wants-to-prioritize-your-friends</link>
-      <pubDate>Tue, 14 Jul 2026 17:47:02 +0000</pubDate>
-      <guid isPermaLink="false">06jsFLcH248RpKiFC1XwuC7</guid>
-      <description>X is adjusting its algorithm to boost the visibility of replies from users' mutuals, according to product head Nikita Bier.</description>
-    </item>
-    <item>
-      <title>DeepMind CEO calls for an independent standards body to regulate frontier AI</title>
-      <link>https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/</link>
-      <pubDate>Tue, 14 Jul 2026 17:45:55 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142153</guid>
-      <description>DeepMind CEO Demis Hassabis is proposing an AI "standards body" modeled after FINRA, to test frontier models and develop best practices for their release.</description>
-    </item>
-    <item>
-      <title>'I've been waiting for this for ages!': The Sonos app's new navigation, volume controls and speaker ordering are finally rolling out &#8212; though you might not get them right away</title>
-      <link>https://www.techradar.com/audio/ive-been-waiting-for-this-for-ages-the-sonos-apps-new-navigation-volume-controls-and-speaker-ordering-are-finally-rolling-out-though-you-might-not-get-them-right-away</link>
-      <pubDate>Tue, 14 Jul 2026 17:45:40 +0000</pubDate>
-      <guid isPermaLink="false">tzB5B9o5g8oNRrfCW3cnLi</guid>
-      <description>Sonos has announced a key update to its app, and it's rolling out to everybody over the next two weeks</description>
-    </item>
-    <item>
-      <title>Leaked Google Pixel 11 Amazon listings reveal starting price increases and new colors</title>
-      <link>https://mashable.com/tech/google-pixel-11-leak-price-colors</link>
-      <pubDate>Tue, 14 Jul 2026 17:39:50 +0000</pubDate>
-      <guid isPermaLink="false">03Bf8VT9qlPN5dr0XuvKYas</guid>
-      <description>Ahead of August's Pixel 11 launch, Amazon may have accidentally spilled the beans on the whole lineup's price, colors, and specs.</description>
-    </item>
-    <item>
-      <title>Bambu Lab A2L review: This 3D printer makes large-format printing look easy</title>
-      <link>https://www.techradar.com/pro/bambu-lab-a2l-3d-printer-review</link>
-      <pubDate>Tue, 14 Jul 2026 17:39:42 +0000</pubDate>
-      <guid isPermaLink="false">s5B4ANjTYypfFSMDqQf6A4</guid>
-      <description>Finally, this is the larger version of the highly popular Bambu Lab A1. The machine is essentially very similar, with a few technology upgrades, but ultimately it is just an oversized version of the old machine, with a solid belt that ensures superb-quality multi-filament printing that will suit the vast majority of hobby and enthusiast printing with basic filament such as PLA....</description>
-    </item>
-    <item>
-      <title>Philips Hue&amp;#8217;s budget-friendly Essential starter kit has hit a new low price</title>
-      <link>https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale</link>
-      <pubDate>2026-07-14T13:36:05-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=965476</guid>
-      <description>Although most of Prime Day&#8217;s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue&#8217;s Essential starter kit. Right now, you can buy a bundle containing four [&#8230;]</description>
     </item>
   </channel>
 </rss>
