@@ -3,277 +3,154 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 15 Jul 2026 18:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:13:29 GMT</lastBuildDate>
     <item>
-      <title>SpaceX slips below its $135 IPO price ahead of Starship launch</title>
-      <link>https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/</link>
-      <pubDate>Wed, 15 Jul 2026 18:06:05 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135290</guid>
-      <description>The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.</description>
+      <title>Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets</title>
+      <link>https://www.techradar.com/pro/security/top-ai-tools-such-as-openclaw-and-github-copilot-can-be-hijacked-to-create-new-massive-botnets</link>
+      <pubDate>Wed, 15 Jul 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">geq8RjQ5NGBjeyMAGt3KiB</guid>
+      <description>Researchers find nine of the most popular AI platforms are susceptible to a new attack that exploits hallucinations to set up a botnet.</description>
     </item>
     <item>
-      <title>Thinking Machines Lab Drops Its First Model</title>
-      <link>https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/</link>
-      <pubDate>Wed, 15 Jul 2026 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">6a56aa5fbd6f051dce815702</guid>
-      <description>Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.</description>
+      <title>Roblox is shutting down its video chat service</title>
+      <link>https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down</link>
+      <pubDate>2026-07-15T16:02:26-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966181</guid>
+      <description>Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people on the call in a shared virtual [&#8230;]</description>
     </item>
     <item>
-      <title>Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling</title>
-      <link>https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</link>
-      <pubDate>Wed, 15 Jul 2026 18:04:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142329</guid>
-      <description>It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.</description>
+      <title>AI slop movies are the new direct-to-video cash grabs</title>
+      <link>https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood</link>
+      <pubDate>2026-07-15T16:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=965616</guid>
+      <description>This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]</description>
     </item>
     <item>
-      <title>Apple is reportedly shopping for AI chip companies</title>
-      <link>https://www.engadget.com/2215912/apple-is-reportedly-shopping-for-ai-chip-companies/</link>
-      <pubDate>Wed, 15 Jul 2026 18:00:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2215912/apple-is-reportedly-shopping-for-ai-chip-companies/</guid>
-      <description>Apple's current M2 Ultra-powered servers don't seem to be cutting it, so the company is shopping around for more power.</description>
-    </item>
-    <item>
-      <title>Phone maker OnePlus reportedly plans to wind down US and Europe operations</title>
-      <link>https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/</link>
-      <pubDate>Wed, 15 Jul 2026 17:53:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142827</guid>
-      <description>OnePlus could also wind down its operations in India by 2027</description>
-    </item>
-    <item>
-      <title>Suno snatched millions of songs from YouTube, Genius, and Deezer</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</link>
-      <pubDate>2026-07-15T13:48:01-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966072</guid>
-      <description>Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google&#8217;s biggest clean power project is 40 miles north of xAI&#8217;s unpermitted gas power plant</title>
-      <link>https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/</link>
-      <pubDate>Wed, 15 Jul 2026 17:39:54 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142810</guid>
-      <description>Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.</description>
-    </item>
-    <item>
-      <title>&#8216;A candidate who was hostile from day one never produces that baseline&#8217;: Nation states spies applying for legit jobs are hard to spot</title>
-      <link>https://www.techradar.com/pro/security/a-candidate-who-was-hostile-from-day-one-never-produces-that-baseline-nation-states-spies-applying-for-legit-jobs-are-hard-to-spot</link>
-      <pubDate>Wed, 15 Jul 2026 17:35:00 +0000</pubDate>
-      <guid isPermaLink="false">4Rtu5w3gmuokG2QJknZ7AQ</guid>
-      <description>Nation state spies are using AI to create fake identities and realistic job applications, infiltrating organizations to steal intelligence.</description>
-    </item>
-    <item>
-      <title>VPN deal of the week: After a year of testing it, this is the VPN I'll be using to stream England vs Argentina</title>
-      <link>https://www.techradar.com/vpn/vpn-services/vpn-deal-of-the-week-after-a-year-of-testing-it-this-is-the-vpn-ill-be-using-to-stream-england-vs-argentina</link>
-      <pubDate>Wed, 15 Jul 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">9cgvbhqzRaPK7MVenzxhPJ</guid>
-      <description>Make sure football comes home securely with this top VPN</description>
-    </item>
-    <item>
-      <title>Lucid&#8217;s bankruptcy rumor is a bad sign for the EV future</title>
-      <link>https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future</link>
-      <pubDate>2026-07-15T13:17:56-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=965924</guid>
-      <description>Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it "completely false" and pointing to its available free cash flow as evidence that it has enough runway to operate into next year. But despite [&#8230;]</description>
-    </item>
-    <item>
-      <title>Apple est heureux : ses AirPods et Apple Watch esquivent la loi europ&#233;enne sur les batteries rempla&#231;ables</title>
-      <link>https://www.frandroid.com/marques/apple/3181413_apple-est-heureux-ses-airpods-et-apple-watch-esquivent-la-loi-europeenne-sur-les-batteries-remplacables</link>
-      <pubDate>Wed, 15 Jul 2026 17:13:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3181413_apple-est-heureux-ses-airpods-et-apple-watch-esquivent-la-loi-europeenne-sur-les-batteries-remplacables</guid>
+      <title>Placer deux ventilateurs face &#224; face pour rafra&#238;chir sa maison : l&#8217;astuce fonctionne vraiment</title>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/ventilateurs/3181489_placer-deux-ventilateurs-face-a-face-pour-rafraichir-sa-maison-lastuce-fonctionne-vraiment</link>
+      <pubDate>Wed, 15 Jul 2026 19:57:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/ventilateurs/3181489_placer-deux-ventilateurs-face-a-face-pour-rafraichir-sa-maison-lastuce-fonctionne-vraiment</guid>
       <description>
-L'Apple Watch et les AirPods viennent d'obtenir un laissez-passer de Bruxelles&#160;: la loi europ&#233;enne pour des batteries facilement rempla&#231;ables ne s'applique pas &#224; ces produits. Voici pourquoi.
+La technique des deux ventilateurs crois&#233;s promet de faire baisser la temp&#233;rature de la maison de 5&#160;&#176;C sans allumer la climatisation. Elle marche vraiment, mais &#224; des conditions pr&#233;cises que personne ne rappelle jamais.
 </description>
     </item>
     <item>
-      <title>Experts flag new scam targeting fans seeking tickets for Celine Dion concerts</title>
-      <link>https://www.techradar.com/pro/security/experts-flag-new-scam-targeting-fans-seeking-tickets-for-celine-dion-concerts</link>
-      <pubDate>Wed, 15 Jul 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">wubbooKqvDht9F8jtExLaa</guid>
-      <description>Multiple scams targeting Celine Dion fans have already surfaced - it looks like this scam will go on (and on).</description>
+      <title>Daniel Ek&#8217;s body-scanning startup Neko Health raises another $700M</title>
+      <link>https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/</link>
+      <pubDate>Wed, 15 Jul 2026 19:46:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142974</guid>
+      <description>Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.</description>
     </item>
     <item>
-      <title>Samsung is making Amazon Music pre-installed bloatware on Galaxy phones</title>
-      <link>https://www.engadget.com/2215840/samsung-is-making-amazon-music-pre-installed-bloatware-on-galaxy-phones/</link>
-      <pubDate>Wed, 15 Jul 2026 17:03:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2215840/samsung-is-making-amazon-music-pre-installed-bloatware-on-galaxy-phones/</guid>
-      <description>Don't use Amazon Music? Too bad, Samsung is installing it for you anyway.</description>
-    </item>
-    <item>
-      <title>Pr&#233;sidentielle 2027 : Elon Musk affiche son soutien &#224; Marine Le Pen</title>
-      <link>https://www.frandroid.com/culture-tech/politique/3181425_presidentielle-2027-elon-musk-affiche-son-soutien-a-marine-le-pen</link>
-      <pubDate>Wed, 15 Jul 2026 17:01:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/politique/3181425_presidentielle-2027-elon-musk-affiche-son-soutien-a-marine-le-pen</guid>
+      <title>L&#8217;&#233;mulateur KytyPS5 r&#233;ussit &#224; lancer la version PS5 de GTA V sur PC</title>
+      <link>https://www.frandroid.com/marques/sony/3181477_lemulateur-kytyps5-reussit-a-lancer-la-version-ps5-de-gta-v-sur-pc</link>
+      <pubDate>Wed, 15 Jul 2026 19:42:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3181477_lemulateur-kytyps5-reussit-a-lancer-la-version-ps5-de-gta-v-sur-pc</guid>
       <description>
-Le milliardaire Elon Musk a affich&#233; son soutien public &#224; Marine Le Pen, candidate &#224; l'&#233;lection pr&#233;sidentielle de 2027 en France.
+Un &#233;mulateur fait d&#233;marrer la version PS5 de GTA V sur un PC Windows. On est encore tr&#232;s loin d'y jouer, mais l'&#233;mulation PS5 avance &#224; toute vitesse.
 </description>
     </item>
     <item>
-      <title>Hack suggests AI music generator Suno scraped YouTube for training data</title>
-      <link>https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</link>
-      <pubDate>Wed, 15 Jul 2026 17:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142768</guid>
-      <description>The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.</description>
+      <title>Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex</title>
+      <link>https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/</link>
+      <pubDate>Wed, 15 Jul 2026 19:41:38 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142831</guid>
+      <description>OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.</description>
     </item>
     <item>
-      <title>Whatnot acquires Shaped to power real-time live shopping recommendations</title>
-      <link>https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/</link>
-      <pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142373</guid>
-      <description>Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot&#8217;s personalization and discovery features as it expands into new product categories.</description>
-    </item>
-    <item>
-      <title>I spent 10 hours comparing two fantastic premium compact cameras, the Lumix L10 and Fujifilm X100VI &#8212; here&#8217;s which one I&#8217;d buy with my own money</title>
-      <link>https://www.techradar.com/cameras/compact-cameras/i-spent-10-hours-comparing-two-fantastic-premium-compact-cameras-the-lumix-l10-and-fujifilm-x100vi-heres-which-one-id-buy-with-my-own-money</link>
-      <pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pEn7cJjeQQxeeApZEf4Cvc</guid>
-      <description>The Panasonic Lumix L10 is billed as a versatile alternative to the viral Fujifilm X100VI, but how do the two cameras compare when using them side by side? I tested them together and have a clear favorite</description>
-    </item>
-    <item>
-      <title>England vs Argentina LIVE: Free Streams, TV Guide &amp; How to watch from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/live/england-vs-argentina-live-free-streams</link>
-      <pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">vZtPZ3YyD7fU6AbgRAJ65U</guid>
-      <description>All the ways you can stream England vs Argentina from anywhere in the world with live updates from the World Cup semi-final.</description>
-    </item>
-    <item>
-      <title>Viltrox unveils a miraculously small 'pancake' lens with bright f/2.8 aperture for Sony and Nikon cameras &#8212; and it has an innovative feature I love</title>
-      <link>https://www.techradar.com/cameras/camera-lenses/viltrox-unveils-a-miraculously-small-pancake-lens-with-bright-f-2-8-aperture-for-sony-and-nikon-cameras-and-it-has-an-innovative-feature-i-love</link>
-      <pubDate>Wed, 15 Jul 2026 16:56:45 +0000</pubDate>
-      <guid isPermaLink="false">wMAN955xeq5D7G5mCqvmJ7</guid>
-      <description>Viltrox has revealed its new AF 26mm F2.8 EVO lens, which comes in Sony E and Nikon Z-mount versions, measures 23.8mm thick and weighs just 130g.</description>
-    </item>
-    <item>
-      <title>The GMKtec G10 mini PC is 'a terrific little system' &#8212; and now our top budget machine gets a big discount</title>
-      <link>https://www.techradar.com/pro/the-gmktec-g10-mini-pc-is-a-terrific-little-system-and-now-our-top-budget-machine-gets-a-big-discount</link>
-      <pubDate>Wed, 15 Jul 2026 16:56:39 +0000</pubDate>
-      <guid isPermaLink="false">SyjzxsohysPsyNAYexdrwQ</guid>
-      <description>This compact desktop is ideal for general productivity and day-to-day work.</description>
-    </item>
-    <item>
-      <title>&lt;b&gt;Agricultural&lt;/b&gt; technologies of future: automation of &lt;b&gt;agriculture&lt;/b&gt; in Global South | KBC Digital</title>
-      <link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.kbc.co.ke/agricultural-technologies-of-future-automation-of-agriculture-in-global-south/&amp;ct=ga&amp;cd=CAIyGzA4ZDkxYzY5ODJkMjYxZTE6Y2E6ZnI6Q0E6TA&amp;usg=AOvVaw07jj3yl1RjhRHj1_gpXpgc</link>
-      <pubDate>2026-07-15T16:46:15Z</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8192484845353912248</guid>
-      <description>... agricultural sector. &#8220;Internet of Things (IoT) systems and sensors enable more precise control over the use of water and fertilisers, which&#160;...</description>
-    </item>
-    <item>
-      <title>Netflix tries to recapture Stranger Things magic with nostalgic re-release</title>
-      <link>https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix</link>
-      <pubDate>2026-07-15T12:37:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=965980</guid>
-      <description>Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release, Netflix has released a new version of the show's first season. The episodes have all been [&#8230;]</description>
-    </item>
-    <item>
-      <title>Not&#233;e 8/10, cette excellente barre de son Dolby Atmos sign&#233;e Samsung perd pr&#232;s de 20 % pour la fin des soldes</title>
-      <link>https://www.frandroid.com/bons-plans/3181181_notee-8-10-cette-excellente-barre-de-son-dolby-atmos-signee-samsung-perd-pres-de-20-pour-la-fin-des-soldes</link>
-      <pubDate>Wed, 15 Jul 2026 16:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3181181_notee-8-10-cette-excellente-barre-de-son-dolby-atmos-signee-samsung-perd-pres-de-20-pour-la-fin-des-soldes</guid>
+      <title>Apple augmente discr&#232;tement le prix d&#8217;AppleCare+ pour Mac et iPad</title>
+      <link>https://www.frandroid.com/marques/apple/3181471_apple-augmente-discretement-le-prix-dapplecare-pour-mac-et-ipad</link>
+      <pubDate>Wed, 15 Jul 2026 19:37:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3181471_apple-augmente-discretement-le-prix-dapplecare-pour-mac-et-ipad</guid>
       <description>
-Gr&#226;ce &#224; l'application SmartThings, la Samsung HW-QS90H peut se calibrer automatiquement en fonction de n'importe quelle pi&#232;ce. Ainsi, cette barre de son s'adapte &#224; tous les int&#233;rieurs et elle est &#224; d&#233;couvrir &#224; prix r&#233;duit gr&#226;ce &#224; une offre d'Amazon.
+Apple rel&#232;ve encore ses prix, cette fois sur l'extension de garantie AppleCare+ pour Mac et iPad. La hausse est modeste, et pour l'instant limit&#233;e aux &#201;tats-Unis.
 </description>
     </item>
     <item>
-      <title>Steam fan finds 'cheap SSDs' to make retro 'game cartridges' system &#8212; the only problem is 2026 is the worst year in history to do it</title>
-      <link>https://www.techradar.com/gaming/pc-gaming/steam-fan-finds-cheap-ssds-to-make-retro-game-cartridges-system-the-only-problem-is-2026-is-the-worst-year-in-history-to-do-it</link>
-      <pubDate>Wed, 15 Jul 2026 16:30:08 +0000</pubDate>
-      <guid isPermaLink="false">wiNmDGSdkwy4NrBFiHEwmn</guid>
-      <description>PC physical copies could be a thing again, after this Steam gamer found a unique but expensive way to do it.</description>
+      <title>You could win $2 million playing Monopoly&#8212;but not the way you think</title>
+      <link>https://www.fastcompany.com/91574310/you-could-win-2-million-playing-monopoly-but-not-the-way-you-think</link>
+      <pubDate>2026-07-15T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91574310/you-could-win-2-million-playing-monopoly-but-not-the-way-you-think</guid>
+      <description>Fans of Monopoly can now apply to compete in Netflix&#8217;s newest reality series, which promises high-stakes gameplay inspired by the classic board game.
+For generations, Monopoly has let players dream of becoming real estate tycoons. Now, Netflix is turning that fantasy into a $2 million reality competition.</description>
     </item>
     <item>
-      <title>Lionel Messi&#8217;s Final World Cup&#8212;and the Death of Early Retirement</title>
-      <link>https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/</link>
-      <pubDate>Wed, 15 Jul 2026 16:28:43 +0000</pubDate>
-      <guid isPermaLink="false">6a579be480197b930314be8a</guid>
-      <description>Argentina&#8217;s Lionel Messi was supposed to be done years ago. Now, sports science is helping soccer&#8217;s biggest stars rewrite the rules of aging.</description>
+      <title>This software team will charge you $10,000 a week to remove all AI-generated code from your systems &#8212; and use AI to do it</title>
+      <link>https://www.techradar.com/pro/this-software-team-will-charge-you-usd10-000-a-week-to-remove-all-ai-generated-code-from-your-systems-and-use-ai-to-do-it</link>
+      <pubDate>Wed, 15 Jul 2026 19:20:00 +0000</pubDate>
+      <guid isPermaLink="false">WdxP8rpdSFiMMe7HfsRQtM</guid>
+      <description>For $10,000 a week, a three-man team will use AI coding agents to find lengthy AI generated codebases within your system&#8217;s internal applications, and trim fat.</description>
     </item>
     <item>
-      <title>The Batman Part II's release date has been pushed back to early 2028 &#8212; and its latest delay is going to have a major impact on James Gunn's DC Universe</title>
-      <link>https://www.techradar.com/streaming/entertainment/the-batman-part-iis-release-date-has-been-pushed-back-to-early-2028-and-its-latest-delay-is-going-to-have-a-major-impact-on-james-gunns-dc-universe</link>
-      <pubDate>Wed, 15 Jul 2026 16:28:21 +0000</pubDate>
-      <guid isPermaLink="false">ijnKAWrRQtPcAdQz2xGFzW</guid>
-      <description>The Robert Pattinson-starring sequel's latest launch delay means we'll have to wait another four months for its arrival.</description>
+      <title>Warren Buffett calls Bill Gates&#8217;s Epstein ties &#8216;distasteful,&#8217; but not behind Gates Foundation cuts</title>
+      <link>https://www.fastcompany.com/91574448/warren-buffett-bill-gates-epstein-berkshire-hathaway</link>
+      <pubDate>2026-07-15T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91574448/warren-buffett-bill-gates-epstein-berkshire-hathaway</guid>
+      <description>Buffett said in 2024 that&#160;he planned to cut off donations to the Gates Foundation after he died&#160;and let his three children decide how to distribute the rest of his fortune.
+Billionaire&#160;Warren Buffett&#160;said Wednesday that&#160;his decision to cut the Gates Foundation&#160;out of his charitable giving is more about believing his three kids are ready to handle giving away his entire fortune than it is about&#160;Bill Gates&#8217;s ties to convicted sex offender&#160;Jeffrey Epstein....</description>
     </item>
     <item>
-      <title>You'll soon be able to play the biggest football game on your iPhone thanks to an upcoming Apple Arcade release with zero microtransactions</title>
-      <link>https://www.techradar.com/gaming/mobile-gaming/youll-soon-be-able-to-play-the-biggest-football-game-on-your-iphone-thanks-to-an-upcoming-apple-arcade-release-with-zero-microtransactions</link>
-      <pubDate>Wed, 15 Jul 2026 16:28:02 +0000</pubDate>
-      <guid isPermaLink="false">foxvXtpQqWAiqVnbVtHYGe</guid>
-      <description>Apple Arcade subscribers are about to get their own version of Madden NFL 27.</description>
+      <title>Microsoft patches bug in video game Age of Empires II</title>
+      <link>https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/</link>
+      <pubDate>Wed, 15 Jul 2026 18:47:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142935</guid>
+      <description>The vulnerability in the decades-old game could have allowed hackers to take over victims&#8217; computers with a malicious game invite.</description>
     </item>
     <item>
-      <title>My favorite clitoral suction toy is finally back on the market (and its $40 off)</title>
-      <link>https://mashable.com/life/july-15-namii-2-suction-toy-deal</link>
-      <pubDate>Wed, 15 Jul 2026 16:27:47 +0000</pubDate>
-      <guid isPermaLink="false">05Inbe1j9IFDRvvTLbh4ur3</guid>
-      <description>Biird Namii 2, a popular clitoral suction toy, is back on the market and on sale</description>
+      <title>Enshittification</title>
+      <link>https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell</link>
+      <pubDate>2026-07-15T14:40:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966111</guid>
+      <description>Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. "It's no joke about the explosive diarrhea," Bryan, who asked that his last name [&#8230;]</description>
     </item>
     <item>
-      <title>Valve appears to be discontinuing self-repair parts for the LCD Steam Deck at iFixit</title>
-      <link>https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/</link>
-      <pubDate>Wed, 15 Jul 2026 16:25:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/</guid>
-      <description>An iFixit staffer told a Steam Deck user that the company had no plans to stock replacement OEM batteries.</description>
+      <title>OpenAI launches a physical keypad for controlling agents</title>
+      <link>https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/</link>
+      <pubDate>Wed, 15 Jul 2026 18:31:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/</guid>
+      <description>OpenAI's collaboration with keyboard maker Work Louder is available to order today.</description>
     </item>
     <item>
-      <title>Anker's compact Solix S2000 home backup battery is 50% off and can run your fridge for 35 hours</title>
-      <link>https://www.techradar.com/pro/ankers-compact-solix-s2000-home-backup-battery-is-50-percent-off-and-can-run-your-fridge-for-35-hours</link>
-      <pubDate>Wed, 15 Jul 2026 16:24:03 +0000</pubDate>
-      <guid isPermaLink="false">KRdEYRBTnaQBtyKjR5S7Eo</guid>
-      <description>This 2KWh portable power station is a delightfully svelte home backup solution.</description>
+      <title>AI Isn&#8217;t Smarter Than a Baby&#8212;Yet</title>
+      <link>https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/</link>
+      <pubDate>Wed, 15 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a565da8a92aca21543aef6e</guid>
+      <description>Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.</description>
     </item>
     <item>
-      <title>Score: Erling Haalands go-to headphones are on sale for up to 51% off</title>
-      <link>https://mashable.com/tech/july-15-erling-haaland-beats-headphones-deals</link>
-      <pubDate>Wed, 15 Jul 2026 16:23:01 +0000</pubDate>
-      <guid isPermaLink="false">04wHpN5dI6sSvf3lFPqtEep</guid>
-      <description>Two pairs of Beats headphones worn by Norwegian World Cup star Erling Haaland are currently on sale for up to 51% off.</description>
+      <title>Apple quietly hid a big change coming for CarPlay with iOS 27</title>
+      <link>https://www.engadget.com/2211714/apple-reveal-carplay-video-playback-ios-27/</link>
+      <pubDate>Wed, 15 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2211714/apple-reveal-carplay-video-playback-ios-27/</guid>
+      <description>Apple announced the new CarPlay feature not long after Google announced a similar update for Android Auto.</description>
     </item>
     <item>
-      <title>Microsoft patches record number of security vulnerabilities, citing its use of AI</title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</link>
-      <pubDate>Wed, 15 Jul 2026 16:20:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142791</guid>
-      <description>Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.</description>
+      <title>Something&amp;#8217;s glowing on the Pixel 11&amp;#8217;s camera bar</title>
+      <link>https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser</link>
+      <pubDate>2026-07-15T14:24:22-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966120</guid>
+      <description>A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of the camera bar. The store [&#8230;]</description>
     </item>
     <item>
-      <title>Quand Volkswagen se met au v&#233;lo &#233;lectrique : cockpit avec cam&#233;ra de recul, casques et lunettes connect&#233;s au menu</title>
-      <link>https://www.frandroid.com/marques/volkswagen/3180849_quand-volkswagen-se-met-au-velo-electrique-cockpit-avec-camera-de-recul-casques-et-lunettes-connectes-au-menu</link>
-      <pubDate>Wed, 15 Jul 2026 16:19:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3180849_quand-volkswagen-se-met-au-velo-electrique-cockpit-avec-camera-de-recul-casques-et-lunettes-connectes-au-menu</guid>
-      <description>
-Malgr&#233; une activit&#233; automobile en berne, le groupe Volkswagen mise sur la mobilit&#233; douce via deux nouveaux v&#233;los &#233;lectriques Crossover et Sport eBike, con&#231;us avec n+.
-</description>
+      <title>Apple bans home services from its upcoming Maps ads</title>
+      <link>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</link>
+      <pubDate>Wed, 15 Jul 2026 18:21:22 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142829</guid>
+      <description>Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google&#8217;s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads....</description>
     </item>
     <item>
-      <title>Nintendo Switch : un guide officiel vous montre les 13 &#233;tapes pour remplacer la batterie des nouveaux Joy-Con</title>
-      <link>https://www.frandroid.com/marques/nintendo/3181347_nintendo-switch-un-guide-officiel-vous-montre-les-13-etapes-pour-remplacer-la-batterie-des-nouveaux-joy-con</link>
-      <pubDate>Wed, 15 Jul 2026 16:15:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nintendo/3181347_nintendo-switch-un-guide-officiel-vous-montre-les-13-etapes-pour-remplacer-la-batterie-des-nouveaux-joy-con</guid>
-      <description>
-Nintendo a publi&#233; sa documentation officielle pour vous montrer comment remplacer la batterie des nouveaux Joy-Con europ&#233;ens de la premi&#232;re Nintendo Switch.
-</description>
+      <title>Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026</title>
+      <link>https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack</link>
+      <pubDate>Wed, 15 Jul 2026 18:21:02 GMT</pubDate>
+      <guid isPermaLink="false">5dAkXGY1UkWMpIbP1LxTdz</guid>
+      <description>Hundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for VB Transform 2026, the year's preeminent conference on using generative AI agents to drive business outcomes. Rachad Alao, vice president of product engineering at the rising Canadian enterprise AI startup Cohere, joined VentureBeat CEO and editor-in-chief Matt Marshall for a fireside chat about building agentic systems without surrendering sensitive data, infrastructure control, or the ability to change vendors.Alao, who previously led responsible AI and trust a...</description>
     </item>
     <item>
-      <title>Fin de OnePlus en Europe : restructuration, suivi client&#232;le&#8230; tout ce qu&#8217;il faut savoir</title>
-      <link>https://www.frandroid.com/produits-android/3071113_fin-de-oneplus-en-europe-restructuration-suivi-clientele-tout-ce-quil-faut-savoir</link>
-      <pubDate>Wed, 15 Jul 2026 16:15:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3071113_fin-de-oneplus-en-europe-restructuration-suivi-clientele-tout-ce-quil-faut-savoir</guid>
-      <description>
-La marque OnePlus en Europe conna&#238;t de nouvelles turbulences avec un futur incertain. Les informations que nous avons re&#231;ues &#233;voquent une restructuration et une disparition du march&#233; europ&#233;en. Voici notre r&#233;capitulatif complet de la situation du constructeur chinois.
-</description>
-    </item>
-    <item>
-      <title>A hacker accessed Suno source code that reportedly details how the company scraped millions of songs</title>
-      <link>https://www.engadget.com/2215772/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/</link>
-      <pubDate>Wed, 15 Jul 2026 16:13:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2215772/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/</guid>
-      <description>Suno says it was breached in November and "no sensitive personal information was compromised."</description>
-    </item>
-    <item>
-      <title>Get a free sub from Firehouse Subs when MLB games go into extra innings. Heres how.</title>
-      <link>https://mashable.com/life/mlb-firehouse-subs-partnership-free-subs</link>
-      <pubDate>Wed, 15 Jul 2026 16:12:02 +0000</pubDate>
-      <guid isPermaLink="false">00cgxGEAETzjiLgRLVydFD7</guid>
-      <description>Firehouse Subs and MLB announced a new partnership and promotion. Starting July 17, buy a sub and get a sub for free. Here's how.</description>
+      <title>Cheaper than an iPhone: Price of record-breaking Ukraine AI FPV drone slashed to $500 as range increases sixfold to 68 miles</title>
+      <link>https://www.techradar.com/pro/cheaper-than-an-iphone-price-of-record-breaking-ukraine-ai-fpv-drone-slashed-to-usd500-as-range-increases-sixfold-to-68-miles</link>
+      <pubDate>Wed, 15 Jul 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">7b69NuxHRgimVYWuze9eGJ</guid>
+      <description>The Vyriy 15 FPV is a $500-class Ukrainian drone that incorporates AI terminal guidance and reportedly hit Russian logistics 110 km away.</description>
     </item>
   </channel>
 </rss>
