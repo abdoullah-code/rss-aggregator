@@ -3,364 +3,205 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 16 Jul 2026 17:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:18:09 GMT</lastBuildDate>
+    <item>
+      <title>The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs</title>
+      <link>https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs</link>
+      <pubDate>Thu, 16 Jul 2026 19:16:48 GMT</pubDate>
+      <guid isPermaLink="false">3RCeHS5ENXpygHO6HPhX6f</guid>
+      <description>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price &#8212; which is fortunate, because most enterprises cannot yet see their unit economics clearly: GPUs sit at half utilizati...</description>
+    </item>
+    <item>
+      <title>Microsoft accused of unfair labor practices by US and Canadian video game unions</title>
+      <link>https://www.engadget.com/2216937/microsoft-accused-unfair-labor-practices-by-us-canadian-video-game-unions/</link>
+      <pubDate>Thu, 16 Jul 2026 19:13:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2216937/microsoft-accused-unfair-labor-practices-by-us-canadian-video-game-unions/</guid>
+      <description>Charges filed with the NLRB accuse Xbox of bad faith bargaining.</description>
+    </item>
+    <item>
+      <title>Un espace-temps &#224; 5 dimensions est-il la cl&#233; des &#233;nigmes de la mati&#232;re noire ?</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-espace-temps-5-dimensions-il-cle-enigmes-matiere-noire-136217/#xtor%3DRSS-8</link>
+      <pubDate>Thu, 16 Jul 2026 21:07:10 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-espace-temps-5-dimensions-il-cle-enigmes-matiere-noire-136217/#xtor%3DRSS-8</guid>
+      <description>La th&#233;orie de la mati&#232;re noire a fait des pr&#233;dictions couronn&#233;es de succ&#232;s et d'autres moins. Plusieurs th&#233;ories sont possibles, donnant aux particules de mati&#232;re noire des caract&#233;ristiques diff&#233;rentes, comme leur&#160;masse&#160;ou leur capacit&#233; &#224; entrer tout de m&#234;me en interaction autrement que par la...</description>
+    </item>
+    <item>
+      <title>AI-powered software could recover 300GW of hidden capacity for the US power grid, enough to power thousands of AI data centers</title>
+      <link>https://www.techradar.com/pro/ai-powered-software-could-recover-300gw-of-hidden-capacity-for-the-us-power-grid-enough-to-power-thousands-of-ai-data-centers</link>
+      <pubDate>Thu, 16 Jul 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">zbp6uWzPsFzkQCyq5huLTL</guid>
+      <description>GridCARE claims its software can unlock 300 GW of hidden transmission capacity, easing rising electricity demand without expanding infrastructure.</description>
+    </item>
+    <item>
+      <title>The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</title>
+      <link>https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</link>
+      <pubDate>Thu, 16 Jul 2026 19:02:38 GMT</pubDate>
+      <guid isPermaLink="false">guLr7ih5ILpsMnOOTAHLN</guid>
+      <description>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe...</description>
+    </item>
+    <item>
+      <title>NTSB investigators confirm Tesla driver overrode Full Self-Driving system in fatal crash</title>
+      <link>https://www.engadget.com/2216921/ntsb-investigators-confirm-tesla-driver-overrode-full-self-driving-system-in-fatal-crash/</link>
+      <pubDate>Thu, 16 Jul 2026 19:01:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2216921/ntsb-investigators-confirm-tesla-driver-overrode-full-self-driving-system-in-fatal-crash/</guid>
+      <description>The National Highway Traffic Safety Administration is also investigating the crash</description>
+    </item>
+    <item>
+      <title>No sleep score, no steps: this Signal smart ring from an ex-Google head is focused on cracking cuffless, calibration-less blood pressure readings</title>
+      <link>https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings</link>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6mCFEDvXR6sGBGSGvPuMS6</guid>
+      <description>The Signal Ring has been created by an ex-Google head and "a very smart group of multidisciplined people focused on a single problem" &#8212; blood pressure.</description>
+    </item>
+    <item>
+      <title>China beats Elon Musk&#8217;s Neuralink to the world&#8217;s first commercial brain-computer interface implant &#8212; car crash victim given coin-sized chip that turns neural signals into hand movements</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/china-beats-elon-musks-neuralink-to-the-worlds-first-commercial-brain-computer-interface-implant-car-crash-victim-given-coin-sized-chip-that-turns-neural-signals-into-hand-movements</link>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">mTmCnrtovGE5sCE8NEMteS</guid>
+      <description>Regulatory approval of brain implants in China mean they can now be fixed to the brains of anyone who wants to try them.</description>
+    </item>
+    <item>
+      <title>The AMD Ryzen 7 7700X3D chip is now available for $329</title>
+      <link>https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329/</link>
+      <pubDate>Thu, 16 Jul 2026 18:44:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329/</guid>
+      <description>Reasonable specs for a reasonable price.</description>
+    </item>
+    <item>
+      <title>Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading</title>
+      <link>https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation</link>
+      <pubDate>2026-07-16T14:43:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966676</guid>
+      <description>Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside information to make bets on Kalshi, a major prediction market platform that allows users [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Everyone Thinks They Have the Diarrhea Parasite</title>
+      <link>https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/</link>
+      <pubDate>Thu, 16 Jul 2026 18:36:19 +0000</pubDate>
+      <guid isPermaLink="false">6a58ec8b589ef12506ae2ca0</guid>
+      <description>Cyclosporiasis isn&#8217;t the only thing spreading across the US. So is anxiety about getting hit with it.</description>
+    </item>
+    <item>
+      <title>Here&#8217;s Why Anthropic Is Pushing States to Regulate AI Faster</title>
+      <link>https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/</link>
+      <pubDate>Thu, 16 Jul 2026 18:35:18 +0000</pubDate>
+      <guid isPermaLink="false">6a4bf6ed23cb60de6e4638a4</guid>
+      <description>The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.</description>
+    </item>
+    <item>
+      <title>Google Vids now lets you star in your own AI videos</title>
+      <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
+      <pubDate>Thu, 16 Jul 2026 18:32:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143447</guid>
+      <description>Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.</description>
+    </item>
+    <item>
+      <title>Don't lose sleep over reports of 260 Starlink satellites deorbiting</title>
+      <link>https://www.engadget.com/2212810/spacex-starlink-satellites-deorbit-reports/</link>
+      <pubDate>Thu, 16 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2212810/spacex-starlink-satellites-deorbit-reports/</guid>
+      <description>SpaceX deorbiting satellites isn't a cause for worry, but scientists are still looking into the environmental impacts of frequent satellite deorbits.</description>
+    </item>
+    <item>
+      <title>Roblox launches an AI-powered game creation feature in its mobile app</title>
+      <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
+      <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143441</guid>
+      <description>Roblox's new "Build" feature lets users generate basic games using a single text prompt.</description>
+    </item>
+    <item>
+      <title>Russia to launch Rassvet Starlink rival within days with 318-strong satellite constellation expected by 2028</title>
+      <link>https://www.techradar.com/pro/russia-to-launch-rassvet-starlink-rival-within-days-with-318-strong-satellite-constellation-expected-by-2028</link>
+      <pubDate>Thu, 16 Jul 2026 18:20:00 +0000</pubDate>
+      <guid isPermaLink="false">MXFGrXApyYwMgkWqMRaL4J</guid>
+      <description>Russia appears ready to launch more Rassvet satellites, advancing plans for a 318-satellite communications constellation expected by 2028.</description>
+    </item>
+    <item>
+      <title>L&#8217;Odyss&#233;e de Christopher Nolan : o&#249; et comment le voir dans la meilleure version possible ?</title>
+      <link>https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3182967_lodyssee-de-christopher-nolan-ou-et-comment-le-voir-dans-la-meilleure-version-possible</link>
+      <pubDate>Thu, 16 Jul 2026 18:08:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3182967_lodyssee-de-christopher-nolan-ou-et-comment-le-voir-dans-la-meilleure-version-possible</guid>
+      <description>
+Premier long-m&#233;trage de fiction enti&#232;rement tourn&#233; avec des cam&#233;ras IMAX film, L'Odyss&#233;e n'est visible dans sa version la plus fid&#232;le &#224; la vision de Christopher Nolan que dans une poign&#233;e de salles &#224; travers le monde. Choisir le bon cin&#233;ma et le bon format devient donc un vrai casse-t&#234;te. On vous explique o&#249; aller, et pourquoi.
+</description>
+    </item>
+    <item>
+      <title>The Odyssey IMAX 70mm screening prep causes confusion as projectors loaded into theaters spark new fan outrage &#8212; as some dub Christopher Nolan's filming choice 'anti-art'</title>
+      <link>https://www.techradar.com/streaming/entertainment/the-odyssey-imax-70mm-screening-choice-fan-reaction</link>
+      <pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">XnKiLs7ZEYukttzZyczSuB</guid>
+      <description>The Odyssey IMAX 70mm screenings can only happen in 40 theaters worldwide &#8212; but why do we suddenly think that IMAX is lying about creating new projectors?</description>
+    </item>
+    <item>
+      <title>Firefox vs Edge: fresh shots fired in browser wars as Mozilla report accuses Microsoft of using 'harmful design' to undermine choice in Windows 11</title>
+      <link>https://www.techradar.com/computing/browsers/firefox-vs-edge-fresh-shots-fired-in-browser-wars-as-mozilla-report-accuses-microsoft-of-using-harmful-design-to-undermine-choice-in-windows-11</link>
+      <pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Pnazs8wP7SqRHnZFS9WwvH</guid>
+      <description>'Microsoft continues to deploy harmful design to undermine people's browser choice': Mozilla report concludes that Windows still isn't a level playing field.</description>
+    </item>
+    <item>
+      <title>Suno trained its AI on millions of songs from YouTube Music, Deezer and other sites, new hack reveals &#8212; and critics have branded it 'staggering theft'</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/suno-trained-its-ai-on-millions-of-songs-from-youtube-music-deezer-and-other-sites-new-hack-reveals-and-critics-have-branded-it-staggering-theft</link>
+      <pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">wHNAxh6yvjihaCRet3sfra</guid>
+      <description>Suno has previously faced criticism for building an AI song creator on copyrighted works, and here's more evidence.</description>
+    </item>
+    <item>
+      <title>New York governor says she&amp;#8217;s using AI to analyze &amp;#8216;every single rule&amp;#8217; in the state</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies</link>
+      <pubDate>2026-07-16T13:58:37-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966647</guid>
+      <description>New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using "AI to analyze every single rule, regulation, [and] policy" to check for outdated [&#8230;]</description>
+    </item>
+    <item>
+      <title>Ecovacs&amp;#8217; self-cleaning Deebot X11 has hit a new low price</title>
+      <link>https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale</link>
+      <pubDate>2026-07-16T13:57:15-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966651</guid>
+      <description>Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#8230;]</description>
+    </item>
+    <item>
+      <title>Sonos brings tab navigation, speaker sorting and more to its app</title>
+      <link>https://www.engadget.com/2216827/sonos-app-update-tab-navigation-speaker-sorting-and-more/</link>
+      <pubDate>Thu, 16 Jul 2026 17:42:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2216827/sonos-app-update-tab-navigation-speaker-sorting-and-more/</guid>
+      <description>Sonos has added some handy quality-of-life updates to its mobile app.</description>
+    </item>
+    <item>
+      <title>Oil giant BP shutters its corporate venture arm after 20 years</title>
+      <link>https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/</link>
+      <pubDate>Thu, 16 Jul 2026 17:37:03 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143377</guid>
+      <description>BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.</description>
+    </item>
+    <item>
+      <title>BookTok creators share the reading essentials they actually use</title>
+      <link>https://mashable.com/life/booktok-creators-reveal-reading-essentials</link>
+      <pubDate>Thu, 16 Jul 2026 17:33:37 +0000</pubDate>
+      <guid isPermaLink="false">01CwDGYSZmT30mT1iAsEF2B</guid>
+      <description>Mashable spoke with BookTokkers and book lovers at VidCon 2026 about the reading tools and accessories they love.</description>
+    </item>
+    <item>
+      <title>&#8216;Dirty Jobs&#8217; host just revealed the lucrative salary Gen Z electricians make from AI data centers&#8212;the number is eye-popping</title>
+      <link>https://www.fastcompany.com/91574285/gen-z-electrician-salary-pay-income-ai-data-centers-lucrative-blue-collar-jobs</link>
+      <pubDate>2026-07-16T17:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91574285/gen-z-electrician-salary-pay-income-ai-data-centers-lucrative-blue-collar-jobs</guid>
+      <description>There&#8217;s a new demand for blue collar jobs, with incomes rising well into the six figures.
+&#8220;Dirty Jobs&#8221; founder and TV host Mike Rowe recently said that at a time when many companies are laying off white-collar workers, there is a skilled labor shortage threatening AI&#8217;s current $10 trillion infrastructure boom&#8212;and solving that gap is key to ensuring the future health of the U.S. economy....</description>
+    </item>
+    <item>
+      <title>The Ninja Crispi Microwave automatically air fries reheated food. Your leftover game is about to change.</title>
+      <link>https://mashable.com/life/ninja-crispi-microwave-launch</link>
+      <pubDate>Thu, 16 Jul 2026 17:29:43 +0000</pubDate>
+      <guid isPermaLink="false">05C3uJ4mtZLrfUmWNTxczmd</guid>
+      <description>Released on July 16, the Ninja Crispi Microwave combines crispy air frying with the speedy reheating and defrosting of a regular microwave.</description>
+    </item>
     <item>
       <title>12 actually useful desk upgrades that are all under $100 &#8212; I review work gear for a living, and these practical gadgets are more than just office eye-candy</title>
       <link>https://www.techradar.com/pro/12-actually-useful-desk-upgrades-that-are-all-under-usd100-i-review-work-gear-for-a-living-and-these-practical-gadgets-are-more-than-just-office-eye-candy</link>
       <pubDate>Thu, 16 Jul 2026 17:19:56 +0000</pubDate>
       <guid isPermaLink="false">R2ZsRrJ6ioE6pr9Aw76qDa</guid>
       <description>This is the actually useful desk gear I recommend for the home, office, or dorm room.</description>
-    </item>
-    <item>
-      <title>Uber&#8217;s $14.8B Delivery Hero deal would nearly double its global footprint</title>
-      <link>https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/</link>
-      <pubDate>Thu, 16 Jul 2026 17:12:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143362</guid>
-      <description>Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company&#8217;s global footprint and create one of the world&#8217;s largest food delivery platforms outside China.</description>
-    </item>
-    <item>
-      <title>Ce serait une premi&#232;re chez Apple : un iPad mini avec &#233;cran OLED arriverait d&#232;s cet automne</title>
-      <link>https://www.frandroid.com/marques/apple/3182823_ce-serait-une-premiere-chez-apple-un-ipad-mini-avec-ecran-oled-arriverait-des-cet-automne</link>
-      <pubDate>Thu, 16 Jul 2026 17:11:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3182823_ce-serait-une-premiere-chez-apple-un-ipad-mini-avec-ecran-oled-arriverait-des-cet-automne</guid>
-      <description>
-Apple s'appr&#234;terait &#224; int&#233;grer un &#233;cran OLED dans son futur iPad mini. Ce serait une premi&#232;re pour la petite tablette, dont le lancement pourrait avoir lieu d&#232;s cet automne.
-</description>
-    </item>
-    <item>
-      <title>Zero trust must now move at agent speed</title>
-      <link>https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed</link>
-      <pubDate>Thu, 16 Jul 2026 17:10:15 GMT</pubDate>
-      <guid isPermaLink="false">6KFrjesOQhps0OnJxWxlfS</guid>
-      <description>Presented by Ping Identity Enterprises need to treat zero trust security architecture as an immediate requirement for AI agents rather than a long-term goal, says Andre Durand, CEO and founder of Ping Identity. Zero trust, the security model built on the assumption that no user, device, or system should be automatically trusted, requires continuous verification before every action rather than a single check at login. Agentic AI has profoundly compressed the risk timeline enterprises must manage, demanding that permission decisions be evaluated in real time.type: embedded-entry-inline id: 1Ieiy...</description>
-    </item>
-    <item>
-      <title>The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem &#8212; and most are still building the fix</title>
-      <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
-      <pubDate>Thu, 16 Jul 2026 17:06:08 GMT</pubDate>
-      <guid isPermaLink="false">2Jg9kvtAsPN9IxCbC6KaEt</guid>
-      <description>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category &#8212; yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider...</description>
-    </item>
-    <item>
-      <title>Microsoft nemesis returns with another zero-day PoC &#8212; but is 'LegacyHive' as nasty as expected?</title>
-      <link>https://www.techradar.com/pro/security/microsoft-nemesis-returns-with-another-zero-day-poc-but-is-legacyhive-as-nasty-as-expected</link>
-      <pubDate>Thu, 16 Jul 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">437WE24R6f5RrojuCvuFfS</guid>
-      <description>Chaotic Eclipse is back with a new Windows 11 zero-day called LegacyHive.</description>
-    </item>
-    <item>
-      <title>Xpeng L03 &#233;lectrique : pourquoi la France est priv&#233;e de sa version record &#224; 1 000 km &#224; prolongateur d&#8217;autonomie</title>
-      <link>https://www.frandroid.com/marques/xpeng/3182837_xpeng-l03-electrique-pourquoi-la-france-est-privee-de-sa-version-record-a-1-000-km-a-prolongateur-dautonomie</link>
-      <pubDate>Thu, 16 Jul 2026 17:04:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xpeng/3182837_xpeng-l03-electrique-pourquoi-la-france-est-privee-de-sa-version-record-a-1-000-km-a-prolongateur-dautonomie</guid>
-      <description>
-Xpeng lance son SUV coup&#233; &#233;lectrique L03 en France &#224; partir de 34 990 euros. Mais la version &#224; prolongateur d'autonomie, celle qui vise les 1 000 km, restera &#224; la fronti&#232;re&#160;: en cause, le malus.
-</description>
-    </item>
-    <item>
-      <title>Newsletter platform Beehiiv&#8217;s now lets subscribers chat with each other, adds AI</title>
-      <link>https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai/</link>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143197</guid>
-      <description>Beehiiv is launching an AI Copilot to help publishers with user growth and analytics</description>
-    </item>
-    <item>
-      <title>Google is better at playing the EU regulations game</title>
-      <link>https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai</link>
-      <pubDate>2026-07-16T12:55:54-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966588</guid>
-      <description>Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory [&#8230;]</description>
-    </item>
-    <item>
-      <title>TobenONE UDS060 review: This compact 11-in-1 USB-C dock is one of the smallest I've ever tested</title>
-      <link>https://www.techradar.com/pro/tobenone-uds060-11-in-1-usb-c-docking-station-review</link>
-      <pubDate>Thu, 16 Jul 2026 16:48:06 +0000</pubDate>
-      <guid isPermaLink="false">t2mFuEkzjjBKsPFGK5at8o</guid>
-      <description>TobenONE UDS060 11-in-1 USB-C Docking Station is a basic USB Dock, but also a customizable controller.</description>
-    </item>
-    <item>
-      <title>Roblox will let people use AI to make games on their phone</title>
-      <link>https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games</link>
-      <pubDate>2026-07-16T12:45:29-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966589</guid>
-      <description>Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project [&#8230;]</description>
-    </item>
-    <item>
-      <title>&#8216;It wasn't a decision made in a rush&#8217;: OnePlus explains why it&#8217;s just quit the US and Europe &#8212; and answers our 5 biggest questions about what it means</title>
-      <link>https://www.techradar.com/phones/oneplus-phones/it-wasnt-a-decision-made-in-a-rush-oneplus-explains-why-its-just-quit-the-us-and-europe-and-answers-our-5-biggest-questions-about-what-it-means</link>
-      <pubDate>Thu, 16 Jul 2026 16:42:04 +0000</pubDate>
-      <guid isPermaLink="false">dToto7TkdmsrMpKWJwcS7n</guid>
-      <description>OnePlus is officially quitting the US and Europe, but what exactly does that mean for current users and the future? We asked OnePlus and Oppo to find out.</description>
-    </item>
-    <item>
-      <title>47 requests, zero answers &#8212; How Proton VPN keeps saying no to data demands</title>
-      <link>https://www.techradar.com/vpn/vpn-services/47-requests-zero-answers-how-proton-vpn-keeps-saying-no-to-data-demands</link>
-      <pubDate>Thu, 16 Jul 2026 16:41:30 +0000</pubDate>
-      <guid isPermaLink="false">byRprrNjVKi6uL6CeVX7v9</guid>
-      <description>Proton VPN's updated transparency report shows 47 data requests in the first half of 2026. These were all rejected because its audited no-logs policy leaves nothing to hand over.</description>
-    </item>
-    <item>
-      <title>The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem &#8212; and most are shipping to production anyway</title>
-      <link>https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway</link>
-      <pubDate>Thu, 16 Jul 2026 16:40:48 GMT</pubDate>
-      <guid isPermaLink="false">6G1thpG74idpHRWrKUSYQ9</guid>
-      <description>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone &#8212; with no human in the loop. The result is an evaluation gap &#8212; ...</description>
-    </item>
-    <item>
-      <title>X cracks down on creators who steal content</title>
-      <link>https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/</link>
-      <pubDate>Thu, 16 Jul 2026 16:40:36 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143347</guid>
-      <description>X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.</description>
-    </item>
-    <item>
-      <title>Pourquoi ce laptop gamer Asus sous RTX 5070 et Core 7 avec 550 &#8364; de moins est la meilleure affaire de cette fin de soldes&#160;?</title>
-      <link>https://www.frandroid.com/produits-android/3182699_pourquoi-ce-laptop-gamer-asus-sous-rtx-5070-et-core-7-avec-550-e-de-moins-est-la-meilleure-affaire-de-cette-fin-de-soldes</link>
-      <pubDate>Thu, 16 Jul 2026 16:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3182699_pourquoi-ce-laptop-gamer-asus-sous-rtx-5070-et-core-7-avec-550-e-de-moins-est-la-meilleure-affaire-de-cette-fin-de-soldes</guid>
-      <description>
-L'Asus Gaming V16 (V3607) associe un processeur Intel Core 7 240H et une carte graphique RTX 5070 dans un ch&#226;ssis de 1,95 kg. Ce laptop gamer 16 pouces passe de 1999 euros &#224; 1449 euros directement sur la boutique Asus, soit 550 euros de remise.
-</description>
-    </item>
-    <item>
-      <title>Pour d&#233;fier Tesla et Ionity, Xpeng va lancer des bornes de recharge record &#224; 1 000 kW en Europe cette ann&#233;e</title>
-      <link>https://www.frandroid.com/marques/xpeng/3182767_pour-defier-tesla-et-ionity-xpeng-va-lancer-des-bornes-de-recharge-record-a-1-000-kw-en-europe-cette-annee</link>
-      <pubDate>Thu, 16 Jul 2026 16:30:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xpeng/3182767_pour-defier-tesla-et-ionity-xpeng-va-lancer-des-bornes-de-recharge-record-a-1-000-kw-en-europe-cette-annee</guid>
-      <description>
-Xpeng ne veut plus d&#233;pendre uniquement des op&#233;rateurs tiers pour recharger ses voitures en Europe : le constructeur chinois va y installer son propre r&#233;seau de bornes ultra-rapides, annonc&#233;es jusqu'&#224; 1&#160;000&#160;kW.
-</description>
-    </item>
-    <item>
-      <title>Former PlayStation boss says Sony needs 'more games for more people' to justify a $1,000 PS6</title>
-      <link>https://www.techradar.com/gaming/former-playstation-boss-says-sony-needs-more-games-for-more-people-to-justify-a-usd1-000-ps6</link>
-      <pubDate>Thu, 16 Jul 2026 16:28:52 +0000</pubDate>
-      <guid isPermaLink="false">cTCze6EXsvpCLfRiGPQbG7</guid>
-      <description>Former PlayStation boss Shawn Layden thinks studios need to start investing in unique games that entice a wider audience to justify the cost of next-gen.</description>
-    </item>
-    <item>
-      <title>Google AI Mode now integrates with Canva, YouTube Music and Instacart</title>
-      <link>https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/</link>
-      <pubDate>Thu, 16 Jul 2026 16:28:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/</guid>
-      <description>You can now make playlists, design flyers and compile shopping lists using AI in Search.</description>
-    </item>
-    <item>
-      <title>Seagate IronWolf Pro and WD Red Pro NAS drives are all discounted &#8212; here's why I'd buy the most expensive model</title>
-      <link>https://www.techradar.com/pro/seagate-ironwolf-pro-and-wd-red-pro-nas-drives-are-all-discounted-heres-why-id-buy-the-most-expensive-model</link>
-      <pubDate>Thu, 16 Jul 2026 16:21:15 +0000</pubDate>
-      <guid isPermaLink="false">BPjvgDX4guCkkrBKvk7S43</guid>
-      <description>Seagate and WD NAS drives are all on sale, but one surprising choice offers by far the best long-term value.</description>
-    </item>
-    <item>
-      <title>An OLED iPad mini could finally arrive this year</title>
-      <link>https://www.engadget.com/2216688/an-oled-ipad-mini-could-finally-arrive-this-year/</link>
-      <pubDate>Thu, 16 Jul 2026 16:18:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2216688/an-oled-ipad-mini-could-finally-arrive-this-year/</guid>
-      <description>Apple will reportedly refresh the iPad mini this fall and the rest of its iPad lineup in the first half of 2027.</description>
-    </item>
-    <item>
-      <title>$100 billion will go to U.S. chip manufacturing in TSMC&#8217;s latest pledge</title>
-      <link>https://www.fastcompany.com/91574876/100-billion-will-go-u-s-chip-manufacturing-tsmcs-latest-pledge</link>
-      <pubDate>2026-07-16T16:08:56</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91574876/100-billion-will-go-u-s-chip-manufacturing-tsmcs-latest-pledge</guid>
-      <description>This latest investment seems to bring TSMC&#8217;s total pledges for U.S. chipmaking to $265 billion.
-Major Taiwan computer chipmaker TSMC said Thursday it plans to spend another $100 billion on expanding its manufacturing capacity in the United States.The latest commitment appears to bring the company&#8217;s total pledges for investment in U.S. chipmaking to $265 billion. It also raised its annual revenue forecast after booking record high profits thanks to runaway demand from the boom in artificial intelligence.The world&#8217;s largest contract chip manufacturing and one of the world&#8217;s most valuable compani...</description>
-    </item>
-    <item>
-      <title>AI-powered travel agency Fora hits unicorn status, raises $60M</title>
-      <link>https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/</link>
-      <pubDate>Thu, 16 Jul 2026 16:08:40 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143354</guid>
-      <description>Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.</description>
-    </item>
-    <item>
-      <title>Russian hacker turns Gemini CLI into a hacking agent, creates small-scale botnet</title>
-      <link>https://www.techradar.com/pro/security/russian-hacker-turns-gemini-cli-into-a-hacking-agent-creates-small-scale-botnet</link>
-      <pubDate>Thu, 16 Jul 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">2aLD452X3VLZeF4n8MnsB</guid>
-      <description>The hacker told the AI he was an authorized pentester - and the AI believed him.</description>
-    </item>
-    <item>
-      <title>Les soldes d&#8217;&#233;t&#233; touchent &#224; leur fin : voici les ultimes offres de la derni&#232;re d&#233;marque</title>
-      <link>https://www.frandroid.com/bons-plans/3153165_les-soldes-dete-touchent-a-leur-fin-voici-les-ultimes-offres-de-la-derniere-demarque</link>
-      <pubDate>Thu, 16 Jul 2026 16:03:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3153165_les-soldes-dete-touchent-a-leur-fin-voici-les-ultimes-offres-de-la-derniere-demarque</guid>
-      <description>
-Les soldes d&#8217;&#233;t&#233; touchent &#224; leur fin : c&#8217;est l&#8217;ultime occasion de faire de bonnes affaires avant la fin ! Il vous reste moins d'une semaine pour en profiter et renouveler votre &#233;quipement (smartphones, TV, PC portables, tablettes, objets connect&#233;s&#8230;). On continue de faire le tri pour vous proposer en temps r&#233;el les meilleures p&#233;pites Tech que l'on voit passer.
-...</description>
-    </item>
-    <item>
-      <title>Google is renaming NotebookLM to Gemini Notebook</title>
-      <link>https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm</link>
-      <pubDate>2026-07-16T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966112</guid>
-      <description>Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]</description>
-    </item>
-    <item>
-      <title>Google&#8217;s AI Mode now lets you link and interact with select apps</title>
-      <link>https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/</link>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143234</guid>
-      <description>With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.</description>
-    </item>
-    <item>
-      <title>Google continues its renaming streak by turning NotebookLM to Gemini Notebook</title>
-      <link>https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/</link>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143252</guid>
-      <description>Google said users can soon access their notebooks through AI Mode in Search.</description>
-    </item>
-    <item>
-      <title>Mike Flanagan's Carrie series has a first look &#8212; and the Prime Video horror series has the potential to be the best adaptation of the book yet</title>
-      <link>https://www.techradar.com/streaming/amazon-prime-video/mike-flanagans-carrie-series-has-a-first-look-and-the-prime-video-horror-series-has-the-potential-to-be-the-best-adaptation-of-the-book-yet</link>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">buN8qT8EqmfhsCgU5J6DSJ</guid>
-      <description>Mike Flanagan has become the king of horror TV shows, and I'm definitely feeling confident about his adaptation of Stephen King's Carrie.</description>
-    </item>
-    <item>
-      <title>Google's NotebookLM is now Gemini Notebook</title>
-      <link>https://www.engadget.com/2216473/google-notebooklm-is-now-gemini-notebook/</link>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2216473/google-notebooklm-is-now-gemini-notebook/</guid>
-      <description>Google already baked NotebookLM into Gemini, now it's changing the name to reflect the tighter integration</description>
-    </item>
-    <item>
-      <title>Satya Nadella makes the case for AI independence</title>
-      <link>https://www.fastcompany.com/91574526/satya-nadella-makes-the-case-for-ai-independence</link>
-      <pubDate>2026-07-16T16:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91574526/satya-nadella-makes-the-case-for-ai-independence</guid>
-      <description>The Microsoft CEO argues that businesses should control more of the data, models, and infrastructure that make AI useful.
-Welcome to AI Decoded, Fast Company&#8217;s weekly newsletter breaking down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company covering emerging technology, AI, and tech policy.</description>
-    </item>
-    <item>
-      <title>Soldes d&#8217;&#233;t&#233; : Amazon a gard&#233; le meilleur pour la fin avec ces ultimes promos Tech</title>
-      <link>https://www.frandroid.com/bons-plans/3160829_soldes-dete-amazon-a-garde-le-meilleur-pour-la-fin-avec-ces-ultimes-promos-tech</link>
-      <pubDate>Thu, 16 Jul 2026 15:56:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3160829_soldes-dete-amazon-a-garde-le-meilleur-pour-la-fin-avec-ces-ultimes-promos-tech</guid>
-      <description>
-Les soldes d&#8217;&#233;t&#233; touchent &#224; leur fin dans quelques jours, mais Amazon a gard&#233; ses meilleures cartouches pour la derni&#232;re ligne droite. Le g&#233;ant du e-commerce vide ses stocks et multiplie les offres sur la Tech : voici notre s&#233;lection des meilleures offres &#224; saisir avant qu'il ne soit trop tard.
-</description>
-    </item>
-    <item>
-      <title>Comparatif autonomie : quel casque Bluetooth avec une bonne batterie choisir en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-audio/2578265_casques-audio-meilleure-autonomie</link>
-      <pubDate>Thu, 16 Jul 2026 15:52:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-audio/2578265_casques-audio-meilleure-autonomie</guid>
-      <description>
-Vous recherchez avant tout une excellente autonomie pour votre futur casque audio sans fil ? La r&#233;daction de Frandroid a s&#233;lectionn&#233; pour vous les mod&#232;les les plus endurants, avec ou sans r&#233;duction active de bruit.
-</description>
-    </item>
-    <item>
-      <title>Support de t&#233;l&#233;phone pour v&#233;lo : notre s&#233;lection des meilleurs mod&#232;les</title>
-      <link>https://www.frandroid.com/guide-dachat/1791813_support-de-telephone-pour-velo-notre-selection-des-meilleurs-modeles</link>
-      <pubDate>Thu, 16 Jul 2026 15:50:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1791813_support-de-telephone-pour-velo-notre-selection-des-meilleurs-modeles</guid>
-      <description>
-Vous avez besoin d'utiliser votre t&#233;l&#233;phone &#224; v&#233;lo ? Il vous faut donc un bon support d&#233;di&#233;, fiable et simple &#224; fixer. C'est pour vous aider que nous avons rassembl&#233; les meilleurs supports de smartphones pour v&#233;lo selon nous.
-</description>
-    </item>
-    <item>
-      <title>The Google Pixel 11 will be available to preorder on August 12 and the brand is already teasing an 'exclusive offer' &#8212; here's what we think it is</title>
-      <link>https://www.techradar.com/phones/google-pixel-phones/the-google-pixel-11-will-be-available-to-preorder-on-august-12-and-the-brand-is-already-teasing-an-exclusive-offer-heres-what-we-think-it-is</link>
-      <pubDate>Thu, 16 Jul 2026 15:48:18 +0000</pubDate>
-      <guid isPermaLink="false">YozEevREFP2Q4bwCzyh2Ym</guid>
-      <description>It's official: the Google Pixel 11 series will be available to preorder next month &#8212; and there's already a rather cryptic deal on offer.</description>
-    </item>
-    <item>
-      <title>TV Sony Bravia 7 II avec True RGB Mini LED : l&#8217;alternative plus lumineuse &#224; l&#8217;OLED est disponible avec des offres chez Boulanger [Sponso]</title>
-      <link>https://www.frandroid.com/produits-android/tv-connectee-produits/3181161_tv-sony-bravia-7-ii-avec-true-rgb-mini-led-lalternative-plus-lumineuse-a-loled-est-disponible-avec-des-offres-chez-boulanger</link>
-      <pubDate>Thu, 16 Jul 2026 15:47:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/tv-connectee-produits/3181161_tv-sony-bravia-7-ii-avec-true-rgb-mini-led-lalternative-plus-lumineuse-a-loled-est-disponible-avec-des-offres-chez-boulanger</guid>
-      <description>
-Sony vient de d&#233;voiler sa toute nouvelle technologie d'affichage True RGB Mini LED, que l'on retrouve notamment sur le t&#233;l&#233;viseur Sony Bravia 7 II &#224; partir de 1 999 euros. D&#233;couvrez le fonctionnement de cette solide alternative &#224; l'OLED. 
-</description>
-    </item>
-    <item>
-      <title>Time&#8217;s running out to save $10 on Splatoon Raiders physical preorders</title>
-      <link>https://www.theverge.com/gadgets/966478/splatoon-raiders-preorder-the-sopranos-4k-bluray-deal-sale</link>
-      <pubDate>2026-07-16T11:42:07-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966478</guid>
-      <description>Splatoon Raiders&#8217; July 23rd launch day is almost here, so your window to preorder the physical version at a $10 discount is about to close. The digital version is $49.99, and so is the game on cartridge if you preorder at Walmart. Amazon previously honored the preorder discount, but it&#8217;s selling the game at full [&#8230;]</description>
-    </item>
-    <item>
-      <title>Tesla driver in fatal Texas crash overrode FSD by pressing accelerator &amp;#8216;100 percent,&amp;#8217; investigators confirm</title>
-      <link>https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation</link>
-      <pubDate>2026-07-16T11:41:09-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966563</guid>
-      <description>The Tesla driver who fatally struck a woman after crashing into her home "manually overrode" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB) confirmed in a preliminary report on Wednesday. After examining the car's electronic data, investigators found that the Tesla Model 3 [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Yes, you can now order DoorDash from the command line</title>
-      <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
-      <pubDate>Thu, 16 Jul 2026 15:38:55 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143273</guid>
-      <description>DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.</description>
-    </item>
-    <item>
-      <title>Moins de 13 000 &#8364; et batterie semi-solide : j&#8217;ai conduit le MG 4X, le redoutable h&#233;ritier de la MG 4 en Chine</title>
-      <link>https://www.frandroid.com/marques/mg/3135421_moins-de-13-000-e-et-batterie-semi-solide-jai-conduit-le-mg-4x-le-redoutable-heritier-de-la-mg-4-en-chine</link>
-      <pubDate>Thu, 16 Jul 2026 15:38:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/mg/3135421_moins-de-13-000-e-et-batterie-semi-solide-jai-conduit-le-mg-4x-le-redoutable-heritier-de-la-mg-4-en-chine</guid>
-      <description>
-MG revient d&#8217;une p&#233;riode de ventes tr&#232;s difficile en Chine pour l'ann&#233;e&#160;2025. Heureusement sa berline compacte &#233;lectrique MG4 lui a ouvert un nouveau chemin gr&#226;ce &#224; une tarification agressive.&#160;&#160;Son nouveau SUV compact &#233;lectrique, le MG 4X, &#224; batterie liquide-solide &#224; moins de 13 000 &#8364; en Chine a maintenant pour vocation de s&#8217;imposer sur une cat&#233;gorie tr&#232;s disput&#233;e. On a pu la conduire, voici notre avis.
-...</description>
-    </item>
-    <item>
-      <title>UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group</title>
-      <link>https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/</link>
-      <pubDate>Thu, 16 Jul 2026 15:37:47 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143280</guid>
-      <description>Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London&#8217;s metropolitan transit system.</description>
-    </item>
-    <item>
-      <title>La plus populaire des IA musicales a &#233;t&#233; entra&#238;n&#233;e sur des millions de titres vol&#233;s, quelle surprise&#160;!</title>
-      <link>https://www.01net.com/actualites/la-plus-populaire-des-ia-musicales-a-ete-entrainee-sur-des-millions-de-titres-voles-quelle-surprise.html</link>
-      <pubDate>Thu, 16 Jul 2026 15:37:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359847</guid>
-      <description>On savait Suno gourmande en musique d'autrui. Un piratage vient de transformer les soup&#231;ons en inventaire d&#233;taill&#233; : des millions de titres aspir&#233;s sur YouTube, Deezer et Genius pour entra&#238;ner l'IA. &#192; quinze jours d'un verdict d&#233;cisif en Allemagne.</description>
-    </item>
-    <item>
-      <title>Swatch&#8217;s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch</title>
-      <link>https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/</link>
-      <pubDate>Thu, 16 Jul 2026 15:37:09 +0000</pubDate>
-      <guid isPermaLink="false">6a58e25c77c50ea15f75ed67</guid>
-      <description>Swatch&#8217;s latest MoonSwatch is the Mission to the Moon 1969, a limited-edition model with components crafted from Omega&#8217;s 18K Moonshine Gold. To get one, you'll have to join a lottery.</description>
-    </item>
-    <item>
-      <title>Period tracker Stardust shares users&#8217; health data with analytics firm, says Mozilla research</title>
-      <link>https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/</link>
-      <pubDate>Thu, 16 Jul 2026 15:33:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143294</guid>
-      <description>One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.</description>
-    </item>
-    <item>
-      <title>Why is OpenAI selling a ChatGPT basketball?</title>
-      <link>https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/</link>
-      <pubDate>Thu, 16 Jul 2026 15:31:09 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143216</guid>
-      <description>You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.</description>
-    </item>
-    <item>
-      <title>Shark upgrades its acclaimed CryoGlow blemish-busting LED face mask &#8211; it costs a little more but it delivers better coverage around the crows' feet area and its battery life is better too</title>
-      <link>https://www.techradar.com/home/shark-upgrades-its-acclaimed-cryoglow-blemish-busting-led-face-mask-it-costs-a-little-more-but-it-delivers-better-coverage-around-the-crows-feet-area-and-its-battery-life-is-better-too</link>
-      <pubDate>Thu, 16 Jul 2026 15:27:22 +0000</pubDate>
-      <guid isPermaLink="false">9gp6smtYaXLU8iZgeusN5n</guid>
-      <description>Shark's CryoGlow Plus promises 120% better coverage plus the brand's InstaChill Cold technology to help soothe and de-puff</description>
-    </item>
-    <item>
-      <title>This 77-inch Samsung OLED TV is $1,700 cheaper than when it debuted in 2025</title>
-      <link>https://mashable.com/tech/july-16-samsung-s85f-oled-tv-deal</link>
-      <pubDate>Thu, 16 Jul 2026 15:25:56 +0000</pubDate>
-      <guid isPermaLink="false">06w6ggMqyqURqmiK3Kmz38O</guid>
-      <description>The Samsung 77-inch S85F OLED 4K TV has dropped to a new record-low price of $1,299.99 at Amazon, Best Buy, and Samsung.</description>
-    </item>
-    <item>
-      <title>Dragon's Dogma 2 producer says Capcom is improving performance on PS5 and Xbox ahead of Dark Arisen's launch and that the Switch 2 version is 'exceeding' expectations</title>
-      <link>https://www.techradar.com/gaming/dragons-dogma-2-producer-says-capcom-is-improving-performance-on-ps5-and-xbox-ahead-of-dark-arisens-launch-and-that-the-switch-2-version-is-exceeding-expectations</link>
-      <pubDate>Thu, 16 Jul 2026 15:24:07 +0000</pubDate>
-      <guid isPermaLink="false">KJXWTympv88gegqkqPzES6</guid>
-      <description>Dragon's Dogma 2 will see performance improvements with the arrival of Dark Arisen and the Nintendo Switch 2 version.</description>
     </item>
   </channel>
 </rss>
