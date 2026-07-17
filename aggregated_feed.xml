@@ -3,7 +3,108 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 17 Jul 2026 20:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:57:05 GMT</lastBuildDate>
+    <item>
+      <title>The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;</title>
+      <link>https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/</link>
+      <pubDate>Fri, 17 Jul 2026 21:20:47 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143936</guid>
+      <description>If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?</description>
+    </item>
+    <item>
+      <title>'My soul left my body': customers see bills in the billions after AWS billing system goes haywire &#8212; but don't go emptying your bank accounts</title>
+      <link>https://www.techradar.com/computing/cloud-computing/my-soul-left-my-body-customers-see-bills-in-the-billions-after-aws-billing-system-goes-haywire-but-dont-go-emptying-your-bank-accounts</link>
+      <pubDate>Fri, 17 Jul 2026 21:18:17 +0000</pubDate>
+      <guid isPermaLink="false">Wwxb8YuRgVY9aX7vLiEBnA</guid>
+      <description>An Amazon AWS billing system accidentally told some customers they owed billions of dollars, but a fix is on the way.</description>
+    </item>
+    <item>
+      <title>'You're giving ballistic &#8288;missiles to individuals with Mythos': JPMorgan CEO Jamie Dimon says Anthropic's AI model poses some serious risks</title>
+      <link>https://www.techradar.com/pro/youre-giving-ballistic-missiles-to-individuals-with-mythos-jpmorgan-ceo-jamie-dimon-says-anthropics-ai-model-poses-some-serious-risks</link>
+      <pubDate>Fri, 17 Jul 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">A8CaD6HFsE4EaCwPFME4in</guid>
+      <description>Restricting Mythos to vetted organizations and keeping it out of the hands of the public seems to be the safest option for Anthropic, with JPMorgan CEO describing its risks as a &#8220;real issue.&#8221;</description>
+    </item>
+    <item>
+      <title>'Superb for most home uses in an emergency': Jackery HomePower 3000 combines a huge 3,072Wh battery with enough power to run almost every appliance &#8212; and it's on sale right now</title>
+      <link>https://www.techradar.com/pro/superb-for-most-home-uses-in-an-emergency-jackery-homepower-3000-combines-a-huge-3-072wh-battery-with-enough-power-to-run-almost-every-appliance-and-its-on-sale-right-now</link>
+      <pubDate>Fri, 17 Jul 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZbTtzweRo2JPiauuQ49hen</guid>
+      <description>It combines a powerful 3,600W output with fast charging and solar compatibility.</description>
+    </item>
+    <item>
+      <title>Nvidia RTX 5000 Super GPUs rumored to be ready &#8212; but they're on hold, and the reason why makes me nervous about pricing</title>
+      <link>https://www.techradar.com/computing/gpu/nvidia-rtx-5000-super-gpus-rumored-to-be-ready-but-theyre-on-hold-and-the-reason-why-makes-me-nervous-about-pricing</link>
+      <pubDate>Fri, 17 Jul 2026 20:56:28 +0000</pubDate>
+      <guid isPermaLink="false">xnU8m6ng7ABG9ChNBuXm9j</guid>
+      <description>These Super refreshes are still coming, by all accounts, but they could make quite the dent in your bank balance.</description>
+    </item>
+    <item>
+      <title>Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do</title>
+      <link>https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do</link>
+      <pubDate>Fri, 17 Jul 2026 20:51:30 GMT</pubDate>
+      <guid isPermaLink="false">7lSvlcZNy8zSumukpEdyoQ</guid>
+      <description>Capital One on Thursday released VulnHunter, an open-source, agentic AI security tool that scans source code for exploitable vulnerabilities, maps out how an attacker would reach them, and proposes targeted fixes &#8212; all before a single line ships to production. The tool, built internally and now available on GitHub under an Apache 2.0 license, is one of the most ambitious attempts by a major financial institution to turn offensive AI capabilities into a public defensive resource.The move marks a striking philosophical turn for a company still defined, in many boardrooms, by a 2019 data breach t...</description>
+    </item>
+    <item>
+      <title>Meta is reportedly considering a multibillion-dollar data center deal with Anthropic</title>
+      <link>https://www.engadget.com/2217904/meta-is-reportedly-considering-a-multibillion-dollar-data-center-deal-with-anthropic/</link>
+      <pubDate>Fri, 17 Jul 2026 20:51:05 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2217904/meta-is-reportedly-considering-a-multibillion-dollar-data-center-deal-with-anthropic/</guid>
+      <description>It would open up a completely new business for the Facebook and Instagram maker.</description>
+    </item>
+    <item>
+      <title>Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path</title>
+      <link>https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path</link>
+      <pubDate>Fri, 17 Jul 2026 20:46:55 GMT</pubDate>
+      <guid isPermaLink="false">4GfRYjPG1gboz5Q5SXKYqa</guid>
+      <description>Intuit was an early pioneer in the usage of agentic AI, but its path to success has hardly been a straight line.At VB Transform 2026, Intuit VP of AI Nhung Ho described how the company rebuilt its agent architecture twice in the span of about four months, first moving from a fleet of specialist agents to a central orchestration layer, then abandoning that layer for a skills and tools based system once the orchestrator itself started failing under its own complexity. The full second rebuild took 60 days, with a first working version in under 20.The failure mode that forced the second rewrite wa...</description>
+    </item>
+    <item>
+      <title>Meta&#8217;s AI bots drain publisher pockets with 9 billion Q2 2026 requests at host expense while returning ZERO traffic &#8212; as ChatGPT claims 88% of AI referrals</title>
+      <link>https://www.techradar.com/pro/metas-ai-bots-drain-publisher-pockets-with-9-billion-q2-2026-requests-at-host-expense-while-returning-zero-traffic-as-chatgpt-claims-88-percent-of-ai-referrals</link>
+      <pubDate>Fri, 17 Jul 2026 20:20:00 +0000</pubDate>
+      <guid isPermaLink="false">xkqFmaC6t7YUftdCNnqzq</guid>
+      <description>While ChatGPT remains the leader in AI traffic referrals, Meta AI bot activity has grown considerably, and now dominates.</description>
+    </item>
+    <item>
+      <title>Agility Robotics plants its flag in Tesla&#8217;s backyard</title>
+      <link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link>
+      <pubDate>Fri, 17 Jul 2026 20:19:49 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143772</guid>
+      <description>Agility is opening a new training center for its Digit robots in Fremont, California.</description>
+    </item>
+    <item>
+      <title>Apple Music augmente ses prix en France : jusqu&#8217;&#224; 3 euros de plus par mois selon les formules</title>
+      <link>https://www.frandroid.com/services/3184639_apple-music-augmente-ses-prix-en-france-jusqua-3-euros-de-plus-par-mois-selon-les-formules</link>
+      <pubDate>Fri, 17 Jul 2026 20:19:23 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/3184639_apple-music-augmente-ses-prix-en-france-jusqua-3-euros-de-plus-par-mois-selon-les-formules</guid>
+      <description>
+Les services Apple sont aussi touch&#233;s par l'inflation g&#233;n&#233;rale &#224; Cupertino. Quelques semaines apr&#232;s les Macbook et iPad, c'est au tour d'Apple Music et Apple One de voir leur grille tarifaire changer. 
+</description>
+    </item>
+    <item>
+      <title>Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price</title>
+      <link>https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale</link>
+      <pubDate>2026-07-17T16:15:54-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=967512</guid>
+      <description>Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can [&#8230;]</description>
+    </item>
+    <item>
+      <title>The viral watermelon ice cream hack looks like magic. Does it actually work?</title>
+      <link>https://www.fastcompany.com/91575749/the-viral-watermelon-ice-cream-hack-looks-like-magic-does-it-actually-work</link>
+      <pubDate>2026-07-17T20:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91575749/the-viral-watermelon-ice-cream-hack-looks-like-magic-does-it-actually-work</guid>
+      <description>All you need is a watermelon, milk or cream and about five minutes of scraping to try the frozen dessert filling up social media feeds.
+For anyone looking to cool off this summer, a new viral recipe is transforming one of the season&#8217;s most iconic fruits into a creamy frozen dessert, no ice cream maker required.</description>
+    </item>
+    <item>
+      <title>AI-driven memory crunch jolts India&#8217;s smartphone market</title>
+      <link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
+      <pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143715</guid>
+      <description>India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.</description>
+    </item>
     <item>
       <title>The Samsung S99H is one of the best OLED TVs I've ever tested, even if it does feature a controversial design</title>
       <link>https://www.techradar.com/televisions/samsung-s99h-review</link>
@@ -19,161 +120,11 @@
       <description>Samsung's latest flagship OLED TV, the S95H, delivers on picture and performance, but features a controversial design change.</description>
     </item>
     <item>
-      <title>AWS Billing Glitch Hits Customers With Billion-Dollar Fees</title>
-      <link>https://www.wired.com/story/amazon-web-services-glitch-oh-no/</link>
-      <pubDate>Fri, 17 Jul 2026 19:50:38 +0000</pubDate>
-      <guid isPermaLink="false">6a5a6642573ebecb668f5bb3</guid>
-      <description>An error with the cloud computing giant&#8217;s billing operation caused some customers&#8217; monthly bills to rise from a few cents to billions of dollars.</description>
-    </item>
-    <item>
-      <title>Apple and Google ordered to purge &#8216;nudify&#8217; apps from App Stores</title>
-      <link>https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</link>
-      <pubDate>Fri, 17 Jul 2026 19:49:53 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143849</guid>
-      <description>In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.</description>
-    </item>
-    <item>
-      <title>TikTok is testing an AI likeness detection tool</title>
-      <link>https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool</link>
-      <pubDate>2026-07-17T15:34:30-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967486</guid>
-      <description>TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with "some" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]</description>
-    </item>
-    <item>
-      <title>Hackers breached DHS after alarms were twice ruled 'false positives'</title>
-      <link>https://www.techradar.com/pro/security/hackers-breached-dhs-after-alarms-were-twice-ruled-false-positives</link>
-      <pubDate>Fri, 17 Jul 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">S7qHKNnZwz8rdwVVzTB3Ub</guid>
-      <description>DHS analysts twice ruled intrusion alerts on its HSIN network "false positives", allowing hackers to have weeks of unintended access on the platform.</description>
-    </item>
-    <item>
-      <title>Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation</title>
-      <link>https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/</link>
-      <pubDate>Fri, 17 Jul 2026 19:22:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143710</guid>
-      <description>The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.</description>
-    </item>
-    <item>
-      <title>What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke</title>
-      <link>https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/</link>
-      <pubDate>Fri, 17 Jul 2026 19:17:46 +0000</pubDate>
-      <guid isPermaLink="false">6a5a41004b54be8a5a7b9aca</guid>
-      <description>The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.</description>
-    </item>
-    <item>
-      <title>Pebble founder Eric Migicovsky says his 30-day warranty is all about trust</title>
-      <link>https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview</link>
-      <pubDate>2026-07-17T15:14:42-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967471</guid>
-      <description>Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. "I think the most important thing is trust," Migicovsky told me in an interview this week. "Do people trust the product [&#8230;]</description>
-    </item>
-    <item>
-      <title>Zoox issues software recall because its robotaxis may be confused by smoke</title>
-      <link>https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/</link>
-      <pubDate>Fri, 17 Jul 2026 19:10:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/</guid>
-      <description>The NHTSA recently called for autonomous vehicle companies to improve how cars respond in emergency situations.</description>
-    </item>
-    <item>
-      <title>This super-bright Xgimi Horizon smart projector packs built-in Harman Kardon audio &#8212; and it&#8217;s $370 off</title>
-      <link>https://www.techradar.com/pro/this-super-bright-xgimi-horizon-smart-projector-packs-built-in-harman-kardon-audio-and-its-usd370-off</link>
-      <pubDate>Fri, 17 Jul 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">GbmpquC3BMir6Jt2wcVBYV</guid>
-      <description>Skip the 4K tax with this 1080p Android TV projector featuring 2200 ANSI lumens and Harman Kardon speakers for under $530.</description>
-    </item>
-    <item>
-      <title>Healthier recipes for your Ninja Creami &#8212; how I eliminated artificial sweeteners and still made the richest, creamiest ice cream of the summer</title>
-      <link>https://www.techradar.com/home/coffee-machines/healthier-ninja-creami-recipes-no-artificial-sweeteners</link>
-      <pubDate>Fri, 17 Jul 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2ve92iRb4AUDixXiHHS6mE</guid>
-      <description>The main reason to buy a Ninja Creami is so that you can make frozen treats that are healthier than what you can buy in a store.</description>
-    </item>
-    <item>
-      <title>Nike nearly ended an investigation into its DEI practices&#8212;until Trump took office</title>
-      <link>https://www.fastcompany.com/91575296/nike-nearly-ended-an-investigation-into-its-dei-practices-until-trump-took-office</link>
-      <pubDate>2026-07-17T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91575296/nike-nearly-ended-an-investigation-into-its-dei-practices-until-trump-took-office</guid>
-      <description>A New York Times report revealed that the EEOC chose not to settle with Nike&#8212;a decision that could have major consequences for diversity programs in the workplace.&#160;
-When the Equal Employment Opportunity Commission opened an investigation into Nike&#8217;s diversity practices, it was unusual for a number of reasons. The federal agency&#8217;s mission has long been to enforce anti-discrimination laws, which involved pursuing claims brought by workers who had faced bias over their race or gender or other aspects of their identity. The Nike case&#8212;which suggested the company had discriminated against white empl...</description>
-    </item>
-    <item>
-      <title>The Odyssey in IMAX is worth a long journey of your own</title>
-      <link>https://www.engadget.com/2217775/the-odyssey-in-imax-is-worth-a-long-journey-of-your-own/</link>
-      <pubDate>Fri, 17 Jul 2026 18:54:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217775/the-odyssey-in-imax-is-worth-a-long-journey-of-your-own/</guid>
-      <description>The Odyssey in IMAX is worth a long journey of your own.</description>
-    </item>
-    <item>
-      <title>Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026</title>
-      <link>https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026</link>
-      <pubDate>Fri, 17 Jul 2026 18:48:18 GMT</pubDate>
-      <guid isPermaLink="false">2j9X1jrf7U2riUE3H553p3</guid>
-      <description>Legacy infrastructure, not the models themselves, is what's actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders &#8212; from LinkedIn, Walmart, and Zendesk &#8212; at VB Transform 2026.The panel brought together Animesh Singh, senior director of AI platform and infrastructure at LinkedIn, Desiree Gosby, SVP of corporate technology services and technology strategy at Walmart, and Sami Ghoche, VP of applied AI at Zendesk, each describing what actually broke when they moved agents from pilot to production. Each arrived at the same conclusion from a different starti...</description>
-    </item>
-    <item>
-      <title>How an old meme is giving Claire&#8217;s some much-needed attention</title>
-      <link>https://www.fastcompany.com/91575767/how-an-old-meme-is-giving-claires-some-much-needed-attention</link>
-      <pubDate>2026-07-17T18:48:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91575767/how-an-old-meme-is-giving-claires-some-much-needed-attention</guid>
-      <description>No, you can&#8217;t actually get a lobotomy there, but the long-suffering jewelry and accessories retailer is having fun with the idea anyway. And why not?
-A staple of the millennial mall experience, Claire&#8217;s is known as the place where teenagers can score whimsical jewelry and get pierced. But on social media, the accessory retailer is also a dentist office, a surgical procedure room, and a go-to stop for any medical needs....</description>
-    </item>
-    <item>
-      <title>What&#8217;s next in Apple&#8217;s legal battle with OpenAI</title>
-      <link>https://mashable.com/tech/whats-next-in-apples-legal-battle-with-openai</link>
-      <pubDate>Fri, 17 Jul 2026 18:36:48 +0000</pubDate>
-      <guid isPermaLink="false">00ihkPhqiaz8CwdgUlnFrD0</guid>
-      <description>Apple's lawsuit against OpenAI is just getting started. Here's what could happen next and what it means for OpenAI's hardware ambitions.</description>
-    </item>
-    <item>
-      <title>Apple Music and Apple One prices rise for the first time in years</title>
-      <link>https://www.engadget.com/2217745/apple-music-and-apple-one-new-price-increase/</link>
-      <pubDate>Fri, 17 Jul 2026 18:35:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217745/apple-music-and-apple-one-new-price-increase/</guid>
-      <description>Apple is blaming an Apple Music price hike on "rising licensing costs."</description>
-    </item>
-    <item>
-      <title>Polymarket&#8217;s Corporate Structure Is a Mystery&#8212;Even to Some of Its Former Employees</title>
-      <link>https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/</link>
-      <pubDate>Fri, 17 Jul 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">6a46b3209afb0a40c197e56a</guid>
-      <description>The prediction market&#8217;s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.</description>
-    </item>
-    <item>
-      <title>Is the Apple TV 4K still worth buying after the price hike?</title>
-      <link>https://www.engadget.com/2212812/is-apple-tv-4k-worth-after-price-hike/</link>
-      <pubDate>Fri, 17 Jul 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2212812/is-apple-tv-4k-worth-after-price-hike/</guid>
-      <description>Apple's streaming box is now much more expensive than comparable alternatives. Should you opt for a Fire TV or Roku instead?</description>
-    </item>
-    <item>
-      <title>What Zelensky risks by firing Ukraine&#8217;s tech-minded defense minister</title>
-      <link>https://www.fastcompany.com/91575216/what-zelensky-risks-by-firing-ukraines-tech-minded-defense-minister</link>
-      <pubDate>2026-07-17T18:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91575216/what-zelensky-risks-by-firing-ukraines-tech-minded-defense-minister</guid>
-      <description>Mykhailo Fedorov helped turn drones, software, and faster procurement into military advantages. His removal could slow the reforms Ukraine needs to compete with Russia.
-On July 15, Ukrainian President Volodymyr Zelensky dismissed Defense Minister Mykhailo Fedorov, the official most closely identified with Ukraine&#8217;s much-lauded effort to turn drones, software, and commercial technology into military advantage. The move could have implications not just for Kyiv, but also for Washington....</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Z Fold 8 Ultra appears online with Messis face and a $13,000 price tag</title>
-      <link>https://mashable.com/tech/galaxy-z-fold-8-ultra-caviar-lionel-messi-design</link>
-      <pubDate>Fri, 17 Jul 2026 18:22:30 +0000</pubDate>
-      <guid isPermaLink="false">03CTEV3HeYrvSdoRuZP9ppo</guid>
-      <description>A week before its expected launch, a company called Caviar has listed the Galaxy Z Fold 8 Ultra for sale online, with a twist.</description>
-    </item>
-    <item>
-      <title>Apple Music is getting a price hike</title>
-      <link>https://www.theverge.com/tech/967379/apple-music-price-increase</link>
-      <pubDate>2026-07-17T14:14:26-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967379</guid>
-      <description>Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230;]</description>
-    </item>
-    <item>
-      <title>Here are the Samsung Galaxy Z Flip 8 and Z Fold 8 camera and battery specs, apparently</title>
-      <link>https://www.engadget.com/2217717/here-are-the-samsung-galaxy-z-flip-8-and-z-fold-8-camera-and-battery-specs/</link>
-      <pubDate>Fri, 17 Jul 2026 18:11:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217717/here-are-the-samsung-galaxy-z-flip-8-and-z-fold-8-camera-and-battery-specs/</guid>
-      <description>Camera upgrades in the Z Flip 8, Fold 8 and Fold 8 Ultra appear to be slim.</description>
+      <title>Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA.</title>
+      <link>https://mashable.com/tech/google-gemini-3-5-pro-delay</link>
+      <pubDate>Fri, 17 Jul 2026 20:00:26 +0000</pubDate>
+      <guid isPermaLink="false">02HNX4RCPp31ZCG4L6SyEsk</guid>
+      <description>Google didn't launch Gemini 3.5 Pro at Google I/O. Now, the company has blown past its promised launch date.</description>
     </item>
   </channel>
 </rss>
