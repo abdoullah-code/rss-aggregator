@@ -3,7 +3,168 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 17 Jul 2026 16:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:08:37 GMT</lastBuildDate>
+    <item>
+      <title>I replaced my space heater and ceiling fan with one Dyson appliance</title>
+      <link>https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/</link>
+      <pubDate>Fri, 17 Jul 2026 18:00:17 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143761</guid>
+      <description>Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.</description>
+    </item>
+    <item>
+      <title>Brex built its AI agent policy by watching what agents actually do, not by writing rules first</title>
+      <link>https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first</link>
+      <pubDate>Fri, 17 Jul 2026 17:49:19 GMT</pubDate>
+      <guid isPermaLink="false">5bTMfInDiDCOZBjNMR007E</guid>
+      <description>OpenClaw has become one of the most widely adopted agentic frameworks, but it has yet to prove itself at enterprise scale. Agents need real credentials &#8212; API keys, OAuth tokens, service accounts &#8212; to work effectively, and Brex found that traditional guardrails couldn't contain what those agents were doing with them.Brex set out to overcome these limitations by building an internal platform it calls CrabTrap. The open-source HTTP/HTTPS proxy intercepts all network traffic, examines policy rules, and uses a LLM-as-a-judge to decide whether agent requests should be approved or denied.&#160;&#8220;What we no...</description>
+    </item>
+    <item>
+      <title>ICE Is Using Data Broker Tools to &#8216;Identify Unaccompanied Minors&#8217; and &#8216;Fraud&#8217;</title>
+      <link>https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/</link>
+      <pubDate>Fri, 17 Jul 2026 17:47:05 +0000</pubDate>
+      <guid isPermaLink="false">6a579ba161950444ce12a3cc</guid>
+      <description>A newly renewed, $25 million-per-year contract with a subsidiary of Thompson Reuters further expands the power of ICE under the Trump administration.</description>
+    </item>
+    <item>
+      <title>How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans</title>
+      <link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
+      <pubDate>Fri, 17 Jul 2026 17:45:46 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3143835</guid>
+      <description>Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Apple&#8217;s plot to crush OpenAI</title>
+      <link>https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast</link>
+      <pubDate>2026-07-17T13:41:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=967244</guid>
+      <description>Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]</description>
+    </item>
+    <item>
+      <title>&#8216;The Odyssey&#8217; Backlash Failed Tremendously</title>
+      <link>https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/</link>
+      <pubDate>Fri, 17 Jul 2026 17:09:13 +0000</pubDate>
+      <guid isPermaLink="false">6a54f78a050c79c218520f97</guid>
+      <description>For all the hysteria over &#8220;woke&#8221; casting and ahistorical choices, Christopher Nolan&#8217;s epic is on track to make $200 million globally during its opening weekend.</description>
+    </item>
+    <item>
+      <title>A bug in AWS has caused some customers' bills to spike from a few cents to billions of dollars</title>
+      <link>https://www.engadget.com/2217648/a-bug-in-aws-has-caused-some-customer-bills-to-spike-from-a-few-cents-to-billions-of-dollars/</link>
+      <pubDate>Fri, 17 Jul 2026 17:07:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2217648/a-bug-in-aws-has-caused-some-customer-bills-to-spike-from-a-few-cents-to-billions-of-dollars/</guid>
+      <description>"The displayed billing estimates do not reflect actual usage and charges," Amazon said.</description>
+    </item>
+    <item>
+      <title>Apple sends legal letters to dozens of OpenAI defectors, report says</title>
+      <link>https://mashable.com/tech/apple-sends-legal-letters-to-dozens-of-former-employees-now-at-openai</link>
+      <pubDate>Fri, 17 Jul 2026 17:00:27 +0000</pubDate>
+      <guid isPermaLink="false">07vVjBR4WmEoyIPKbEolt5C</guid>
+      <description>Apple appears to believe that additional former employees have shared company information with OpenAI.</description>
+    </item>
+    <item>
+      <title>Bethesda details what's next for Fallout and its other franchises amid Xbox cuts</title>
+      <link>https://www.engadget.com/2217631/bethesda-details-whats-next-for-fallout-and-its-other-franchises-amid-xbox-cuts/</link>
+      <pubDate>Fri, 17 Jul 2026 16:58:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2217631/bethesda-details-whats-next-for-fallout-and-its-other-franchises-amid-xbox-cuts/</guid>
+      <description>Obsidian is working on a new Fallout game, while Fallout 3 and New Vegas remasters are on the way.</description>
+    </item>
+    <item>
+      <title>'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs &#8212; and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws</title>
+      <link>https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt</link>
+      <pubDate>Fri, 17 Jul 2026 16:54:44 +0000</pubDate>
+      <guid isPermaLink="false">QKbEfmcLA3czPYHn2xJquR</guid>
+      <description>LG's terms and conditions say you need to get consent from visitors because its TVs can listen to you.</description>
+    </item>
+    <item>
+      <title>A planet with an Earth-like atmosphere has been found</title>
+      <link>https://mashable.com/science/exoplanet-earth-like-atmosphere-potential-for-life</link>
+      <pubDate>Fri, 17 Jul 2026 16:52:31 +0000</pubDate>
+      <guid isPermaLink="false">02DU0jeGj5bYiXnN5ojjUG1</guid>
+      <description>A new study in Science indicates a nearby exoplanet may have an atmosphere like ours, moving us closer to finding life-sustaining worlds.</description>
+    </item>
+    <item>
+      <title>Too hot to cook? Save on delivery with DoorDash e-gift cards and unlock $20 in free food.</title>
+      <link>https://mashable.com/life/july-17-doordash-gift-card-deal</link>
+      <pubDate>Fri, 17 Jul 2026 16:49:32 +0000</pubDate>
+      <guid isPermaLink="false">04cztFqkDQzwD4eqdUCsqDL</guid>
+      <description>DoorDash gift cards of $50, $100, and $200 values are on sale at Best Buy as of July 17.</description>
+    </item>
+    <item>
+      <title>Asus&#8217; top-end 4K QD-OLED gaming monitor is $400 off</title>
+      <link>https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale</link>
+      <pubDate>2026-07-17T12:47:13-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966907</guid>
+      <description>The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what&#8217;s possible on an LCD screen. Amazon, Best Buy, and B&amp;H Photo have this model on sale for $899.99 (usually $1,299.99). [&#8230;]</description>
+    </item>
+    <item>
+      <title>Cadences World Cup travel pods show team spirit without being cringe &#8212;&#160;on sale now</title>
+      <link>https://mashable.com/travel/cadence-world-cup-capsules</link>
+      <pubDate>Fri, 17 Jul 2026 16:38:42 +0000</pubDate>
+      <guid isPermaLink="false">02StkLhNXAgFl539dWV00iD</guid>
+      <description>Cadence dropped limited-edition, team-inspired magnetic travel capsules just in time for the World Cup final this weekend.</description>
+    </item>
+    <item>
+      <title>Soldes : Boulanger propose un &#233;cran PC gamer Full HD de 27&#8243; et 240 Hz &#224; petit prix</title>
+      <link>https://www.frandroid.com/bons-plans/3183621_soldes-boulanger-propose-un-ecran-pc-gamer-full-hd-de-27-et-240-hz-a-petit-prix</link>
+      <pubDate>Fri, 17 Jul 2026 16:38:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3183621_soldes-boulanger-propose-un-ecran-pc-gamer-full-hd-de-27-et-240-hz-a-petit-prix</guid>
+      <description>
+L'Iiyama G-Master Red Eagle 27" est un &#233;cran qui prouve qu'il n'y a pas besoin de d&#233;penser des fortunes pour se faire plaisir. Surtout qu'il est sold&#233; &#224; 139,95 euros au lieu de 159,99 euros sur Boulanger.
+</description>
+    </item>
+    <item>
+      <title>Musk&#8217;s SpaceX Starship launch suddenly aborted in what would have been it&#8217;s 13th flight</title>
+      <link>https://www.fastcompany.com/91575579/musks-spacex-starship-launch-suddenly-aborted-would-have-13th-flight</link>
+      <pubDate>2026-07-17T16:20:27</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91575579/musks-spacex-starship-launch-suddenly-aborted-would-have-13th-flight</guid>
+      <description>The world&#8217;s biggest rocket was seconds away from blast off.
+SpaceX&#8217;s mega Starship rocket came within a second or so from blasting off on a test flight Thursday, but some of the engines failed to ignite, triggering a launch abort amid billowing clouds of smoke and vapor.Elon Musk, the company&#8217;s founder and CEO, said two engines will be replaced &#8220;to be confident of a good flight&#8221; before sending Starship from Texas on a space-skimming journey halfway around the world. It will be the 13th flight for Starship, which at 407 feet (124 meters) tall with 33 main engines is the world&#8217;s biggest and most...</description>
+    </item>
+    <item>
+      <title>Kodak's new point-and-shoot 35mm film camera comes in 7 vibrant colors, costs just $35, and brings back one of my favorite pieces of camera design</title>
+      <link>https://www.techradar.com/cameras/compact-cameras/kodaks-new-point-and-shoot-35mm-film-camera-comes-in-7-vibrant-colors-costs-just-usd35-and-brings-back-one-of-my-favorite-pieces-of-camera-design</link>
+      <pubDate>Fri, 17 Jul 2026 16:19:54 +0000</pubDate>
+      <guid isPermaLink="false">vstjAzwww8sHwDuWHNbWga</guid>
+      <description>Reminiscent of the classic Olympus Mju, the new 35mm film camera costs just $35.</description>
+    </item>
+    <item>
+      <title>Le Nubia Z70 Ultra retir&#233; du march&#233; fran&#231;ais par l&#8217;ANFR &#224; cause d&#8217;un DAS trop &#233;lev&#233;</title>
+      <link>https://www.frandroid.com/produits-android/3184573_le-nubia-z70-ultra-retire-du-marche-francais-par-lanfr-a-cause-dun-das-trop-eleve</link>
+      <pubDate>Fri, 17 Jul 2026 16:18:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3184573_le-nubia-z70-ultra-retire-du-marche-francais-par-lanfr-a-cause-dun-das-trop-eleve</guid>
+      <description>
+L'ANFR vient de d'indiquer le retrait du march&#233; fran&#231;ais et le rappel du Nubia Z70 Ultra. Le smartphone haut de gamme d&#233;passe le DAS limite des autorit&#233;s sanitaires europ&#233;ennes. Si vous en poss&#233;dez un, voici ce que cela change.
+</description>
+    </item>
+    <item>
+      <title>FBI arrests man accused of using Steam games to drain victims&#8217; crypto wallets</title>
+      <link>https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/</link>
+      <pubDate>Fri, 17 Jul 2026 16:18:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143763</guid>
+      <description>Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.</description>
+    </item>
+    <item>
+      <title>Moonshot reveals new AI model, and it's a big surprise &#8212; here's why Kimi K3 is a threat to the likes of OpenAI</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/moonshot-reveals-new-ai-model-and-its-a-big-surprise-heres-why-kimi-k3-is-a-threat-to-the-likes-of-openai</link>
+      <pubDate>Fri, 17 Jul 2026 16:17:32 +0000</pubDate>
+      <guid isPermaLink="false">2zmcL4iNjmbC26SGrHQQTP</guid>
+      <description>Kimi K3 model is a threat to the likes of OpenAI for two key reasons: its open nature, and apparently sterling coding skills.</description>
+    </item>
+    <item>
+      <title>Nearly 736,000 Pillsbury bread rolls recalled over possible glass contamination</title>
+      <link>https://www.fastcompany.com/91575685/nearly-736000-pillsbury-bread-rolls-recalled-over-possible-glass-contamination</link>
+      <pubDate>2026-07-17T16:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91575685/nearly-736000-pillsbury-bread-rolls-recalled-over-possible-glass-contamination</guid>
+      <description>If your restaurant, cafeteria, or kitchen serves Pillsbury frozen rolls, check your inventory now after a major FDA recall.
+General Mills is issuing a major recall for some of its Pillsbury roll products. At present, at least 736,000 Pillsbury bread rolls have been pulled from shelves due to possible glass contamination. </description>
+    </item>
+    <item>
+      <title>Cyclospora outbreak map: Don&#8217;t eat shredded lettuce at Taco Bell in these states, CDC warns</title>
+      <link>https://www.fastcompany.com/91575727/cyclospora-parasite-outbreak-map-taco-bell-taylor-farms-lettuce-cdc-warning</link>
+      <pubDate>2026-07-17T16:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91575727/cyclospora-parasite-outbreak-map-taco-bell-taylor-farms-lettuce-cdc-warning</guid>
+      <description>A new update and interactive map from the agency traces the ongoing outbreak of cyclosporiasis, which is caused by a food parasite, to a Taco Bell ingredient.
+There&#8217;s been a new update from the Centers for Disease Control and Prevention (CDC) on the ongoing Cyclospora outbreak affecting people in five states. Now, the agency is warning people to avoid a specific ingredient in Taco Bell products in those states. Here&#8217;s what you need to know....</description>
+    </item>
     <item>
       <title>Parents want safer phones for kids. These companies are answering the call.</title>
       <link>https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</link>
@@ -24,292 +185,6 @@
       <pubDate>Fri, 17 Jul 2026 16:10:00 +0000</pubDate>
       <guid isPermaLink="false">Z5yw4Na2FuqgzTHLbV62yY</guid>
       <description>PlayStation fans angry with Sony's decision to end physical discs have descended on the latest Marvel's Wolverine to make their thoughts known.</description>
-    </item>
-    <item>
-      <title>'macOS users may face real, sophisticated threats that require neither exploits nor any elevated access to succeed': ClickLock Stealer tries to trick Apple users into revealing their passwords</title>
-      <link>https://www.techradar.com/pro/security/macos-users-may-face-real-sophisticated-threats-that-require-neither-exploits-nor-any-elevated-access-to-succeed-clicklock-stealer-tries-to-trick-apple-users-into-revealing-their-passwords</link>
-      <pubDate>Fri, 17 Jul 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">rTfuMcJQcWwgFKNJxEtbqi</guid>
-      <description>ClickLock bores its victims into complying and then steals all sorts of data.</description>
-    </item>
-    <item>
-      <title>L&#8217;action SpaceX a perdu 40 % de valeur en Bourse un mois et c&#8217;&#233;tait quasiment pr&#233;visible</title>
-      <link>https://www.frandroid.com/culture-tech/3184391_laction-spacex-a-perdu-40-de-valeur-en-bourse-un-mois-et-cetait-quasiment-previsible-a-une-exception</link>
-      <pubDate>Fri, 17 Jul 2026 16:02:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/3184391_laction-spacex-a-perdu-40-de-valeur-en-bourse-un-mois-et-cetait-quasiment-previsible-a-une-exception</guid>
-      <description>
-Un mois apr&#232;s l&#8217;entr&#233;e en bourse la plus ch&#232;re de l&#8217;histoire, l&#8217;action SpaceX est d&#233;j&#224; repass&#233;e sous son prix d&#8217;introduction. Une correction brutale, mais pr&#233;visible, apr&#232;s un d&#233;marrage euphorique, &#224; l'exception d'un &#233;v&#233;nement inattendu.
-</description>
-    </item>
-    <item>
-      <title>AI is turning the Smithsonian into an illuminated fever dream</title>
-      <link>https://www.fastcompany.com/91574979/refik-anadol-installation-smithsonian</link>
-      <pubDate>2026-07-17T16:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91574979/refik-anadol-installation-smithsonian</guid>
-      <description>Do museums dream of artistic sheep? An AI installation by Refik Anadol proposes an answer.
-The National Mall has become a hot spot for festivities this summer as the U.S. commemorates its 250th anniversary, hosting the (sparsely attended) Great American State Fair as well as a massive FIFA fan zone for the World Cup. The latest celebration arriving at the capital&#8217;s famous park is set to illuminate the red sandstone facade of the Smithsonian.For the immersive public installation titled Smithsonian Dreams, the artist Refik Anadol will project images from the museum&#8217;s collection, as well as abstr...</description>
-    </item>
-    <item>
-      <title>Voici la spectaculaire explosion de la fus&#233;e New Glenn de Jeff Bezos lors d'un test au sol en Floride</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/blue-origin-voici-spectaculaire-explosion-fusee-new-glenn-jeff-bezos-lors-test-sol-floride-k2m6-136188/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 17 Jul 2026 18:00:00 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/blue-origin-voici-spectaculaire-explosion-fusee-new-glenn-jeff-bezos-lors-test-sol-floride-k2m6-136188/#xtor%3DRSS-8</guid>
-      <description>Une boule de feu gigantesque au-dessus de la c&#244;te floridienne, un pas de tir d&#233;vast&#233;, et le plus grand revers de l'histoire de Blue Origin. En pleine ascension, l'entreprise de Jeff Bezos vient de perdre une fus&#233;e New Glenn lors d'un essai. Un coup dur aux r&#233;percussions jusque sur les projets...</description>
-    </item>
-    <item>
-      <title>Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked</title>
-      <link>https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak</link>
-      <pubDate>2026-07-17T11:52:50-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967198</guid>
-      <description>Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcomm [&#8230;]</description>
-    </item>
-    <item>
-      <title>Cette enceinte connect&#233;e au look r&#233;trofuturiste est brad&#233;e avec une r&#233;duction de presque 90 %</title>
-      <link>https://www.frandroid.com/bons-plans/3184369_cette-enceinte-connectee-au-look-retrofuturiste-est-bradee-avec-une-reduction-de-presque-90</link>
-      <pubDate>Fri, 17 Jul 2026 15:52:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3184369_cette-enceinte-connectee-au-look-retrofuturiste-est-bradee-avec-une-reduction-de-presque-90</guid>
-      <description>
-Avec son autonomie de huit heures, l'Elipson Lenny peut animer une petite soir&#233;e entre amis &#224; prix r&#233;duit puisqu'elle est actuellement disponible pour 49 euros au lieu de 299 euros.
-</description>
-    </item>
-    <item>
-      <title>Is America ready for this quirky Jeep-looking EV that can park itself?</title>
-      <link>https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price</link>
-      <pubDate>2026-07-17T11:48:39-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=966498</guid>
-      <description>Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own built-in fan base. While microcar sales in the US are still as tiny as the vehicles themselves, there are [&#8230;]</description>
-    </item>
-    <item>
-      <title>Galaxy Z Fold 8, Z Flip 8 et Z Fold 8 Ultra : les visuels marketing ont fuit&#233; avant l&#8217;Unpacked</title>
-      <link>https://www.frandroid.com/marques/samsung/3184477_galaxy-z-fold-8-z-flip-8-et-z-fold-8-ultra-les-visuels-marketing-ont-fuite-avant-lunpacked</link>
-      <pubDate>Fri, 17 Jul 2026 15:40:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3184477_galaxy-z-fold-8-z-flip-8-et-z-fold-8-ultra-les-visuels-marketing-ont-fuite-avant-lunpacked</guid>
-      <description>
-&#192; quelques jours de la conf&#233;rence, Evleaks a diffus&#233; les &#233;l&#233;ments promotionnels des trois pliables de Samsung. On y d&#233;couvre surtout les configurations photo de chaque mod&#232;le, ainsi que le format &#233;largi retenu pour le Galaxy Z Fold 8.
-</description>
-    </item>
-    <item>
-      <title>RugOne Xlink 7 review: A sophisticated rugged 4G walkie-talkie for populated wilderness, but not truly remote regions</title>
-      <link>https://www.techradar.com/pro/phone-communications/rugone-xlink-7-rugged-walkie-talkie-review</link>
-      <pubDate>Fri, 17 Jul 2026 15:40:06 +0000</pubDate>
-      <guid isPermaLink="false">U9VCi6LVeejshcVHHEbHxk</guid>
-      <description>The RugOne Xlink 7 is a compact device that uses mobile phone technology and bends it to provide a sophisticated walkie-talkie.</description>
-    </item>
-    <item>
-      <title>Quelles sont les meilleures TV Philips Ambilight en 2026 ? La s&#233;lection</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-tv/1182289_les-meilleures-tv-philips-ambilight-en-2022</link>
-      <pubDate>Fri, 17 Jul 2026 15:40:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-tv/1182289_les-meilleures-tv-philips-ambilight-en-2022</guid>
-      <description>
-Envie d'une immersion lumineuse totale ? On ne fait pas vraiment mieux que Philips et sa technologie dynamique Ambilight pour se plonger au c&#339;ur de l'action. Nous avons s&#233;lectionn&#233; pour vous les meilleures TV Philips.
-</description>
-    </item>
-    <item>
-      <title>Fallout 3 and New Vegas are getting remastered, and Bethesda just promised more Starfield support</title>
-      <link>https://www.techradar.com/gaming/gaming-industry/fallout-3-and-new-vegas-are-getting-remastered-and-bethesda-just-promised-more-starfield-support</link>
-      <pubDate>Fri, 17 Jul 2026 15:37:34 +0000</pubDate>
-      <guid isPermaLink="false">FjdJJAAP22XsvW7HgAGgjA</guid>
-      <description>Bethesda has revealed a new roadmap detailing upcoming games and more.</description>
-    </item>
-    <item>
-      <title>Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware</title>
-      <link>https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest</link>
-      <pubDate>2026-07-17T11:34:35-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967174</guid>
-      <description>Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Microsoft will straight up give you a free pair of Sony XM6 headphones right now</title>
-      <link>https://mashable.com/tech/july-17-surface-sony-headphone-deal</link>
-      <pubDate>Fri, 17 Jul 2026 15:29:51 +0000</pubDate>
-      <guid isPermaLink="false">05hJQ6CDX1mt3GLYrc1oh9M</guid>
-      <description>Score a free pair of Sony WH-1000XM6 headphones (worth $459.99) when you buy an eligible Surface laptop or tablet before July 31.</description>
-    </item>
-    <item>
-      <title>Amazon fixing bug that billed some AWS customers billions of dollars</title>
-      <link>https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/</link>
-      <pubDate>Fri, 17 Jul 2026 15:29:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143717</guid>
-      <description>Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.</description>
-    </item>
-    <item>
-      <title>Galaxy S25 : cette nouvelle fonction IA va vous permettre de recadrer vos vid&#233;os apr&#232;s coup</title>
-      <link>https://www.frandroid.com/marques/samsung/3184449_galaxy-s25-cette-nouvelle-fonction-ia-va-vous-permettre-de-recadrer-vos-videos-apres-coup</link>
-      <pubDate>Fri, 17 Jul 2026 15:26:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3184449_galaxy-s25-cette-nouvelle-fonction-ia-va-vous-permettre-de-recadrer-vos-videos-apres-coup</guid>
-      <description>
-Des captures d'un build interne de One UI 9 ont fuit&#233;, et elles d&#233;voilent une fonction cam&#233;ra in&#233;dite baptis&#233;e My FanCam. De quoi donner un avant-go&#251;t de ce qui attend les Galaxy S25.
-</description>
-    </item>
-    <item>
-      <title>HP's 20-core Elite Mini 800 G9 is a heavy-duty desktop replacement &#8212; and it&#8217;s $700 off at Amazon</title>
-      <link>https://www.techradar.com/pro/hps-20-core-elite-mini-800-g9-is-a-heavy-duty-desktop-replacement-and-its-usd700-off-at-amazon</link>
-      <pubDate>Fri, 17 Jul 2026 15:23:12 +0000</pubDate>
-      <guid isPermaLink="false">Bu8fwHH28xRbrHjFpwwHNE</guid>
-      <description>HP's Elite Mini 800 G9 is a 20-core business-grade desktop replacement.</description>
-    </item>
-    <item>
-      <title>Patreon stops asking AI bots not to scrape &#8212; and starts blocking them</title>
-      <link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
-      <pubDate>Fri, 17 Jul 2026 15:21:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143704</guid>
-      <description>Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators&#8217; content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.</description>
-    </item>
-    <item>
-      <title>The Bose headphones I recommend to everyone are now $130 off</title>
-      <link>https://mashable.com/tech/july-17-bose-quietcomfort-headphones</link>
-      <pubDate>Fri, 17 Jul 2026 15:21:05 +0000</pubDate>
-      <guid isPermaLink="false">00ZT4wEESwbiPkgJFqEaxSQ</guid>
-      <description>My favorite headphones are the Bose QuietComfort headphones, and right now, they're on sale for $229, saving you $130 off.</description>
-    </item>
-    <item>
-      <title>Dangerous new GoSerpent malware is apparently on the hunt for government secrets</title>
-      <link>https://www.techradar.com/pro/security/dangerous-new-goserpent-malware-is-apparently-on-the-hunt-for-government-secrets</link>
-      <pubDate>Fri, 17 Jul 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">vjht9Nb5f4HTL3RNE3U26G</guid>
-      <description>The malware has been hiding in plain sight for half a decade, stealing all sorts of valuable secrets.</description>
-    </item>
-    <item>
-      <title>Plusieurs jours d&#8217;autonomie sans perte de puissance : le tour de force du processeur Snapdragon X2 pour PC [Sponso]</title>
-      <link>https://www.frandroid.com/produits-android/ordinateurs/processeurs/3109867_plusieurs-jours-dautonomie-sans-perte-de-puissance-le-tour-de-force-du-processeur-snapdragon-x2-pour-pc</link>
-      <pubDate>Fri, 17 Jul 2026 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/processeurs/3109867_plusieurs-jours-dautonomie-sans-perte-de-puissance-le-tour-de-force-du-processeur-snapdragon-x2-pour-pc</guid>
-      <description>
-Des performances remarquables, une consommation &#233;lectrique ma&#238;tris&#233;e et des possibilit&#233;s IA loin devant la concurrence : les puces Snapdragon X2 entendent bien r&#233;volutionner la mani&#232;re dont on utilise nos PC portables.
-</description>
-    </item>
-    <item>
-      <title>New Audible deal just dropped: Get 3 months of Standard for 99 cents per month</title>
-      <link>https://mashable.com/entertainment/july-17-audible-standard-deal</link>
-      <pubDate>Fri, 17 Jul 2026 15:01:45 +0000</pubDate>
-      <guid isPermaLink="false">06tz3FpPkIRGVQyQCnJc65c</guid>
-      <description>A new Audible deal has arrived: Get three months of the Standard plan for just 99 cents per month through July 30.</description>
-    </item>
-    <item>
-      <title>La France annonce le blocage de Polymarket, le site de paris crypto qui fait un carton</title>
-      <link>https://www.01net.com/actualites/france-annonce-blocage-polymarket-site-paris-crypto-carton.html</link>
-      <pubDate>Fri, 17 Jul 2026 15:00:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1360028</guid>
-      <description>L'Autorit&#233; nationale des jeux a ordonn&#233; le blocage complet de Polymarket en France. On vous explique pourquoi l'autorit&#233; a d&#233;cid&#233; de serrer le vis, deux ans apr&#232;s avoir interdit les paris aux Fran&#231;ais. La plateforme attire plus de 200 000 visiteurs uniques fran&#231;ais chaque mois.</description>
-    </item>
-    <item>
-      <title>Lyft&#8217;s CEO Says, &#8216;We&#8217;re the Good Uber&#8217;</title>
-      <link>https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/</link>
-      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a581406b8ba40f6f6a08de4</guid>
-      <description>David Risher insists that Lyft has lowered its prices and that customers who only check his competitor&#8217;s app are &#8220;leaving money on the table.&#8221;</description>
-    </item>
-    <item>
-      <title>Samsung's Freestyle+ projector is now available for $1,200</title>
-      <link>https://www.engadget.com/2217299/samsung-freestyle-plus-projector/</link>
-      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217299/samsung-freestyle-plus-projector/</guid>
-      <description>Samsung's Freestyle+ projector is a tiny unit which can play movies on the most uneven of surfaces.</description>
-    </item>
-    <item>
-      <title>Caviar is selling a ridiculous Lionel Messi-themed Galaxy Z Fold 8 Ultra a week before its official unveiling</title>
-      <link>https://www.engadget.com/2217484/caviar-lionel-messi-samsung-galaxy-z-fold-8-ultra/</link>
-      <pubDate>Fri, 17 Jul 2026 14:58:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217484/caviar-lionel-messi-samsung-galaxy-z-fold-8-ultra/</guid>
-      <description>And if you want one, you better save up, because it costs a cool $13,130.</description>
-    </item>
-    <item>
-      <title>The Best New Camping Gear at REI (2026): Tents, Coolers, Bikes, More</title>
-      <link>https://www.wired.com/story/the-best-new-camping-gear-at-rei-2026/</link>
-      <pubDate>Fri, 17 Jul 2026 14:55:29 +0000</pubDate>
-      <guid isPermaLink="false">6a58f213589ef12506ae2caf</guid>
-      <description>I tested REI&#8217;s best new and revamped outdoor gear of 2026. Here&#8217;s what&#8217;s worth buying, from tents and sleeping bags to coolers and bikes.</description>
-    </item>
-    <item>
-      <title>Kick off your weekend with a BOGO deal on a dozen glazed donuts at Krispy Kreme</title>
-      <link>https://mashable.com/life/july-17-krispy-kreme-bogo-deal</link>
-      <pubDate>Fri, 17 Jul 2026 14:55:18 +0000</pubDate>
-      <guid isPermaLink="false">04ukET0NNTHVcZf7W9RSYQU</guid>
-      <description>In honor of its birthday, Krispy Kreme is offering a BOGO deal on a dozen glazed donuts with the purchase of any dozen donuts. Here are details on how to get this offer.</description>
-    </item>
-    <item>
-      <title>reMarkable&#8217;s new Paper Pure is good. That&#8217;s why I wrote this review on it.</title>
-      <link>https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/</link>
-      <pubDate>Fri, 17 Jul 2026 14:47:27 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139500</guid>
-      <description>Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.</description>
-    </item>
-    <item>
-      <title>Kalshi hands over Trump&#8217;s teleprompter operator to the feds. Here&#8217;s why</title>
-      <link>https://www.fastcompany.com/91575615/kalshi-hands-over-trumps-teleprompter-operator-feds-heres-why</link>
-      <pubDate>2026-07-17T14:46:34</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91575615/kalshi-hands-over-trumps-teleprompter-operator-feds-heres-why</guid>
-      <description>The operator, who has been working for Trump since 2016, is now on unpaid leave.
-President Donald Trump&#8217;s teleprompter operator is on unpaid leave after reports that he used his inside knowledge to make bets about the president&#8217;s speeches on the online prediction market Kalshi, the White House said Thursday.The firm&#8217;s enforcement chief said Kalshi contacted federal regulators about bets allegedly made about what the president would say in public addresses.White House press secretary Karoline Leavitt said the president is aware of the situation, which she described as &#8220;unfortunate&#8221; and &#8220;a disgr...</description>
-    </item>
-    <item>
-      <title>Soldes d&#8217;&#233;t&#233; : Amazon a gard&#233; le meilleur pour la fin avec ces 13 ultimes promos Tech</title>
-      <link>https://www.frandroid.com/bons-plans/3160829_soldes-dete-amazon-a-garde-le-meilleur-pour-la-fin-avec-ces-ultimes-promos-tech</link>
-      <pubDate>Fri, 17 Jul 2026 14:45:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3160829_soldes-dete-amazon-a-garde-le-meilleur-pour-la-fin-avec-ces-ultimes-promos-tech</guid>
-      <description>
-Les soldes d&#8217;&#233;t&#233; touchent &#224; leur fin dans quelques jours, mais Amazon a gard&#233; ses meilleures cartouches pour la derni&#232;re ligne droite. Le g&#233;ant du e-commerce vide ses stocks et multiplie les offres sur la Tech : voici notre s&#233;lection des meilleures offres &#224; saisir avant qu'il ne soit trop tard.
-</description>
-    </item>
-    <item>
-      <title>US sanctions on rogue VPN accidentally break Telegram's short links worldwide</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/us-sanctions-on-rogue-vpn-accidentally-break-telegrams-short-links-worldwide</link>
-      <pubDate>Fri, 17 Jul 2026 14:43:57 +0000</pubDate>
-      <guid isPermaLink="false">4P42CJuXVG9W8YZrgU7CEJ</guid>
-      <description>Telegram&#8217;s t.me domain was swept up in a global outage following US Treasury sanctions against First VPN services, causing millions of web links to break worldwide.</description>
-    </item>
-    <item>
-      <title>Dreo 318S : on a test&#233; le climatiseur mobile compact qui promet le froid sans drainage</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3181163_dreo-318s-on-a-teste-le-climatiseur-mobile-compact-qui-promet-le-froid-sans-drainage</link>
-      <pubDate>Fri, 17 Jul 2026 14:43:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3181163_dreo-318s-on-a-teste-le-climatiseur-mobile-compact-qui-promet-le-froid-sans-drainage</guid>
-      <description>
-Alors que les canicules s&#8217;encha&#238;nent, le seul ventilateur ne suffit plus. Le march&#233; des climatiseurs s&#8217;emballe, et Dreo d&#233;barque donc au bon moment, pour la marque comme pour nous. Avec ses 7 500 BTU, le Dreo 318S veut proposer un produit compact, pens&#233; pour les pi&#232;ces interm&#233;diaires et au rapport qualit&#233;-prix int&#233;ressant. Autant de promesses qu&#8217;il nous fallait v&#233;rifier, surtout en pleine journ&#233;e &#224; 30 &#176;C.
-...</description>
-    </item>
-    <item>
-      <title>Breathe easier with these deals on air purifiers from Levoit, Blueair, and Shark</title>
-      <link>https://mashable.com/tech/july-17-air-purifier-deals</link>
-      <pubDate>Fri, 17 Jul 2026 14:37:32 +0000</pubDate>
-      <guid isPermaLink="false">07dqu4aVTQZl6TkoGOe6vYv</guid>
-      <description>With wildfire smoke impacting air quality, an air purifier can protect your and your home. We rounded up the best air purifier deals from Shark, Levoit, and Blueair.</description>
-    </item>
-    <item>
-      <title>Ex-MBDA engineer builds $1,100, 40g AI micro-drone using AMD phased-array sonar for YC-backed startup Tornyol to eradicate mosquitoes, currently restricted to 3-minute flights</title>
-      <link>https://www.techradar.com/pro/ex-mbda-engineer-builds-usd1-100-40g-ai-micro-drone-using-amd-phased-array-sonar-for-yc-backed-startup-tornyol-to-eradicate-mosquitoes-currently-restricted-to-3-minute-flights</link>
-      <pubDate>Fri, 17 Jul 2026 14:36:56 +0000</pubDate>
-      <guid isPermaLink="false">8rG2PrDPChjaRYP5BFsGcW</guid>
-      <description>Former MBDA engineer Alex Toussaint creates an AI mosquito-hunting drone using sonar, though battery limits restrict current operations.</description>
-    </item>
-    <item>
-      <title>No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling</title>
-      <link>https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/</link>
-      <pubDate>Fri, 17 Jul 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140364</guid>
-      <description>It&#8217;s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage.&#160;We&#8217;ve covered the trend in detail, and at this year&#8217;s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage [&#8230;]</description>
-    </item>
-    <item>
-      <title>Europe&#8217;s tech reset gives the UK a chance to lead on security and sovereignty</title>
-      <link>https://www.techradar.com/pro/europes-tech-reset-gives-the-uk-a-chance-to-lead-on-security-and-sovereignty</link>
-      <pubDate>Fri, 17 Jul 2026 14:26:59 +0000</pubDate>
-      <guid isPermaLink="false">X4NFAykiUYZKgHPbDk2wQ</guid>
-      <description>The UK has a profound opportunity to become a trusted partner for secure, resilient digital infrastructure.</description>
-    </item>
-    <item>
-      <title>iPhone 18 Pro Max : l&#8217;appareil photo fuite, avec une tr&#232;s bonne nouvelle et une autre d&#233;cevante</title>
-      <link>https://www.frandroid.com/marques/apple/3184097_iphone-18-pro-max-lappareil-photo-fuite-avec-une-tres-bonne-nouvelle-et-une-autre-decevante</link>
-      <pubDate>Fri, 17 Jul 2026 14:25:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3184097_iphone-18-pro-max-lappareil-photo-fuite-avec-une-tres-bonne-nouvelle-et-une-autre-decevante</guid>
-      <description>
-Un document issu du piratage de Tata Electronics r&#233;v&#232;le ce que proposeront les capteurs photo de l'iPhone 18 Pro Max. Il y a bien une nouveaut&#233;, mais c'est en majorit&#233; du r&#233;chauff&#233;.
-</description>
-    </item>
-    <item>
-      <title>Robot lawn mower deal: This coupon knocks $700 off the Hookii Neomow X at Amazon</title>
-      <link>https://mashable.com/tech/july-17-hookii-neomow-x-robot-lawn-mower-deal</link>
-      <pubDate>Fri, 17 Jul 2026 14:23:55 +0000</pubDate>
-      <guid isPermaLink="false">04T2pbUKvj25sFy0Eg2LLVa</guid>
-      <description>The Hookii Neomow X robot lawn mower is on sale at Amazon for $700 off, thanks to an on-page coupon. That's its best price ever.</description>
     </item>
   </channel>
 </rss>
