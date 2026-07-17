@@ -3,183 +3,401 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 17 Jul 2026 08:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:50:13 GMT</lastBuildDate>
     <item>
-      <title>Roblox Build : vous pourrez bient&#244;t cr&#233;er un jeu vid&#233;o sur smartphone avec une simple phrase</title>
-      <link>https://www.frandroid.com/android/3183367_roblox-build-vous-pourrez-bientot-creer-un-jeu-video-sur-smartphone-avec-une-simple-phrase</link>
-      <pubDate>Fri, 17 Jul 2026 08:14:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/3183367_roblox-build-vous-pourrez-bientot-creer-un-jeu-video-sur-smartphone-avec-une-simple-phrase</guid>
+      <title>You can't deny it any more: physical music is back in a big way with new sales figures proving it... and no, this time it's not vinyl</title>
+      <link>https://www.techradar.com/audio/you-cant-deny-it-any-more-physical-music-is-back-in-a-big-way-with-new-sales-figures-proving-it-and-no-this-time-its-not-vinyl</link>
+      <pubDate>Fri, 17 Jul 2026 10:47:56 +0000</pubDate>
+      <guid isPermaLink="false">nwMgdfnQhsknLQVcuf7gmf</guid>
+      <description>Stats prove that nostalgic CD-buying is even bigger than nostalgic vinyl-buying, which could prompt a sea change for some music lovers.</description>
+    </item>
+    <item>
+      <title>Google Agenda pourrait bient&#244;t corriger un oubli majeur sur nos smartphones</title>
+      <link>https://www.01net.com/actualites/google-agenda-pourrait-bientot-corriger-oubli-majeur-sur-smartphones.html</link>
+      <pubDate>Fri, 17 Jul 2026 10:41:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1359945</guid>
+      <description>Google Agenda va enfin permettre de cr&#233;er des sessions de &#171; temps de concentration &#187; directement depuis votre smartphone.</description>
+    </item>
+    <item>
+      <title>Signal is testing the ability to add an Android phone or tablet as a secondary device</title>
+      <link>https://www.engadget.com/2217286/signal-android-phone-tablet-secondary-device/</link>
+      <pubDate>Fri, 17 Jul 2026 10:39:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2217286/signal-android-phone-tablet-secondary-device/</guid>
+      <description>Signal's latest beta comes with a feature that will make it easier to use the app on multiple devices.</description>
+    </item>
+    <item>
+      <title>La fin des soldes approche ? Boulanger prend d&#233;j&#224; la rel&#232;ve et lance une grande braderie</title>
+      <link>https://www.frandroid.com/bons-plans/3178497_la-fin-des-soldes-approche-boulanger-prend-deja-la-releve-et-lance-une-grande-braderie</link>
+      <pubDate>Fri, 17 Jul 2026 10:35:23 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3178497_la-fin-des-soldes-approche-boulanger-prend-deja-la-releve-et-lance-une-grande-braderie</guid>
       <description>
-Roblox veut que n'importe qui puisse fabriquer un jeu directement depuis son t&#233;l&#233;phone en tapant une simple phrase. L'outil s'appelle Build et &#231;a commence le 28 juillet.
+Alors que les soldes se terminent d'ici quelques jours, Boulanger prend d&#233;j&#224; la rel&#232;ve ! L'enseigne encha&#238;ne directement avec une grande braderie et casse les prix sur une large s&#233;lection Tech (smartphones, TV, audio&#8230;) jusqu'au 11 ao&#251;t. Pas de temps mort pour les bonnes affaires : d&#233;couvrez notre s&#233;lection ultime avant l'&#233;puisement des stocks ! 
 </description>
     </item>
     <item>
-      <title>Environ 300&#160;titres Netflix ont eu recours &#224; l&#8217;IA g&#233;n&#233;rative pour fournir &#171;&#8201;des r&#233;sultats de meilleure qualit&#233; &#224; moindres co&#251;ts&#8201;&#187;</title>
-      <link>https://www.frandroid.com/services/svod/3183291_environ-300-titres-netflix-ont-eu-recours-a-lia-generative-pour-fournir-des-resultats-de-meilleure-qualite-a-moindres-couts</link>
-      <pubDate>Fri, 17 Jul 2026 08:12:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3183291_environ-300-titres-netflix-ont-eu-recours-a-lia-generative-pour-fournir-des-resultats-de-meilleure-qualite-a-moindres-couts</guid>
+      <title>Windows 10 still powers one in six PCs around today &#8212; and that could be a major security issue very soon</title>
+      <link>https://www.techradar.com/pro/windows-10-still-powers-one-in-six-pcs-around-today-and-that-could-be-a-major-security-issue-very-soon</link>
+      <pubDate>Fri, 17 Jul 2026 10:35:00 +0000</pubDate>
+      <guid isPermaLink="false">eF6pAVMWyFJMSwjFqv3K5h</guid>
+      <description>The average Windows 10 device has around 3x as many active CVEs as a Windows 11 device, and migration is slowing down.</description>
+    </item>
+    <item>
+      <title>Panasonic Japanese Microwave Review (2026): True 1-Button Cooking</title>
+      <link>https://www.wired.com/review/panasonic-japanese-microwave/</link>
+      <pubDate>Fri, 17 Jul 2026 10:34:00 +0000</pubDate>
+      <guid isPermaLink="false">6a4fb1d8fc02327fac766775</guid>
+      <description>The Japanese Microwave measures food temperature directly, and stops cooking when food&#8217;s hot. It&#8217;s kinda terrific.</description>
+    </item>
+    <item>
+      <title>23 Best Gifts for Cooks (2026): Vitamix, Frying Pans, Air Fryers</title>
+      <link>https://www.wired.com/gallery/gift-for-the-home-chef-2026/</link>
+      <pubDate>Fri, 17 Jul 2026 10:34:00 +0000</pubDate>
+      <guid isPermaLink="false">618149631c2f944a21fd2e93</guid>
+      <description>From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away.</description>
+    </item>
+    <item>
+      <title>How to watch Ann Droid online from anywhere &#8211; it's *FREE*</title>
+      <link>https://www.techradar.com/how-to-watch/ann-droid-from-anywhere-its-free</link>
+      <pubDate>Fri, 17 Jul 2026 10:33:29 +0000</pubDate>
+      <guid isPermaLink="false">fVdvgzszNxfMp8UN4ArTsC</guid>
+      <description>Here's how to watch Ann Droid, a new British comedy series starring Diane Morgan, online from anywhere in the world, completely FREE.</description>
+    </item>
+    <item>
+      <title>'The first week of pre-orders brought in $180 million' &#8212; Analysts report that GTA 6 has 'the strongest pre-order campaign ever recorded'</title>
+      <link>https://www.techradar.com/gaming/the-first-week-of-pre-orders-brought-in-usd180-million-analysts-report-that-gta-6-has-the-strongest-pre-order-campaign-ever-recorded</link>
+      <pubDate>Fri, 17 Jul 2026 10:32:22 +0000</pubDate>
+      <guid isPermaLink="false">jCghdbqwWnFRPtgBvd76T6</guid>
+      <description>Grand Theft Auto 6 reportedly achieved the strongest pre-order period ever and is on track to earn over $5 billion by the end of its launch week.</description>
+    </item>
+    <item>
+      <title>A $10K Bounty Aims to Make Sony&#8217;s PlayStation 5 a Computer Again</title>
+      <link>https://www.wired.com/story/a-10k-bounty-aims-to-make-the-ps5-a-computer-again/</link>
+      <pubDate>Fri, 17 Jul 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a590614bec1b4f6b71ed60f</guid>
+      <description>Nice PlayStation you got. Bet it could probably run Linux too.</description>
+    </item>
+    <item>
+      <title>Nothing Phone (3) gets another price cut at Amazon &#8212; is this under-rated phone now a better buy than the Pixel 10, Galaxy S25, or iPhone 17?</title>
+      <link>https://www.techradar.com/phones/nothing-phone-3-gets-another-price-cut-at-amazon-is-this-under-rated-phone-now-a-better-buy-than-the-pixel-10-galaxy-s25-or-iphone-17</link>
+      <pubDate>Fri, 17 Jul 2026 10:27:18 +0000</pubDate>
+      <guid isPermaLink="false">uRattRX8RiSPsUP9Ah6Wmd</guid>
+      <description>We're big fans of the Nothing Phone (3) at TechRadar &#8212; especially when it's going this cheap at Amazon.</description>
+    </item>
+    <item>
+      <title>Who decides what runs on your website?</title>
+      <link>https://www.techradar.com/pro/who-decides-what-runs-on-your-website</link>
+      <pubDate>Fri, 17 Jul 2026 10:25:15 +0000</pubDate>
+      <guid isPermaLink="false">RKgjeCs3darDHGVeALyHF8</guid>
+      <description>AI in hosting works best when customers choose the on-switch.</description>
+    </item>
+    <item>
+      <title>Samsung casse le prix de son TV Micro RGB de 65 pouces : 1 311 &#8364; au lieu de 2 399 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3183465_samsung-casse-le-prix-de-son-tv-micro-rgb-de-65-pouces-1-311-e-au-lieu-de-2-399-e</link>
+      <pubDate>Fri, 17 Jul 2026 10:21:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3183465_samsung-casse-le-prix-de-son-tv-micro-rgb-de-65-pouces-1-311-e-au-lieu-de-2-399-e</guid>
       <description>
-C&#8217;est un exercice de transparence int&#233;ressant auquel s&#8217;est pli&#233; Netflix. Lors de la pr&#233;sentation de ses r&#233;sultats trimestriels, la plateforme de streaming a expliqu&#233; que pr&#232;s de 300 de ses films et s&#233;ries ont utilis&#233; l&#8217;IA g&#233;n&#233;rative &#224; une &#233;tape ou une autre de leur production.
+Le Samsung TMR65R85H est l'un des premiers t&#233;l&#233;viseurs Micro RGB du march&#233;, une technologie qui promet un bond en qualit&#233; d'image par rapport aux Neo QLED. Ce mod&#232;le 65 pouces est affich&#233; &#224; 2 399 euros, mais gr&#226;ce &#224; une ODR et un code promo, il tombe &#224; 1 311 euros sur Ubaldi.
 </description>
     </item>
     <item>
-      <title>Qualcomm modernise enfin le design de son Snapdragon Control Panel : voil&#224; ce qui change</title>
-      <link>https://www.frandroid.com/marques/qualcomm/3183199_qualcomm-modernise-enfin-le-design-de-son-snapdragon-control-panel-voila-ce-qui-change</link>
-      <pubDate>Fri, 17 Jul 2026 08:07:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/qualcomm/3183199_qualcomm-modernise-enfin-le-design-de-son-snapdragon-control-panel-voila-ce-qui-change</guid>
+      <title>A unified front against fraud: Securing the UK's payments future</title>
+      <link>https://www.techradar.com/pro/a-unified-front-against-fraud-securing-the-uks-payments-future</link>
+      <pubDate>Fri, 17 Jul 2026 10:16:04 +0000</pubDate>
+      <guid isPermaLink="false">sNMzuwf5FhhwcyiHd3GYvf</guid>
+      <description>As sophisticated scams escalate, can a unified front finally secure the UK&#8217;s payments?</description>
+    </item>
+    <item>
+      <title>Google ajoute un espace pour vos propres infos dans Google Contacts</title>
+      <link>https://www.frandroid.com/marques/google/3183193_google-ajoute-un-espace-pour-vos-propres-infos-dans-google-contacts</link>
+      <pubDate>Fri, 17 Jul 2026 10:15:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3183193_google-ajoute-un-espace-pour-vos-propres-infos-dans-google-contacts</guid>
       <description>
-En toute discr&#233;tion, Qualcomm a d&#233;ploy&#233; une nouvelle version du Snapdragon Control Panel : son centre de distribution de pilotes. Proche de la Nvidia App dans son concept, cette plateforme profite maintenant d'un design am&#233;lior&#233;.
+Fini les trous de m&#233;moire et autres recherches interminables pour retrouver son num&#233;ro de t&#233;l&#233;phone. Google commence enfin &#224; d&#233;ployer la section &#171; Vos informations &#187; dans son application Contacts, un moyen simple de retrouver et g&#233;rer ses coordonn&#233;es personnelles.
 </description>
     </item>
     <item>
-      <title>Microsoft explique le retrait surprise de Tony Hawk&#8217;s Pro Skater 1+2 des sorties Game Pass</title>
-      <link>https://www.frandroid.com/produits-android/3183403_microsoft-explique-le-retrait-surprise-de-tony-hawks-pro-skater-12-des-sorties-game-pass</link>
-      <pubDate>Fri, 17 Jul 2026 08:02:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3183403_microsoft-explique-le-retrait-surprise-de-tony-hawks-pro-skater-12-des-sorties-game-pass</guid>
+      <title>God Of War TV series is recasting Kratos</title>
+      <link>https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast</link>
+      <pubDate>2026-07-17T06:14:04-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=966995</guid>
+      <description>Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst was originally cast for the role in January, with Deadline reporting that four episodes of the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Fnac et Darty vident leurs stocks pour la fin des soldes, voici les bons plans Tech &#224; ne pas rater</title>
+      <link>https://www.frandroid.com/bons-plans/3152689_fnac-et-darty-vident-leurs-stocks-pour-la-fin-des-soldes-voici-les-bons-plans-tech-a-ne-pas-rater</link>
+      <pubDate>Fri, 17 Jul 2026 10:08:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3152689_fnac-et-darty-vident-leurs-stocks-pour-la-fin-des-soldes-voici-les-bons-plans-tech-a-ne-pas-rater</guid>
       <description>
-Tony Hawk's Pro Skater 1+2 devait arriver sur le Xbox Game Pass le 21 juillet. Microsoft l'a retir&#233; du programme sans pr&#233;venir, et l'explique d&#233;sormais par la raison la plus pr&#233;visible.
+Les soldes d&#8217;&#233;t&#233; touchent &#224; leur fin ! Il ne reste plus que quelques jours pour profiter des d&#233;stockages massifs chez la Fnac et Darty. C&#8217;est le moment ou jamais de d&#233;nicher des produits Tech &#224; prix cass&#233;s avant la fermeture des rayons promos. Pour vous &#233;viter de chercher des heures, nous avons s&#233;lectionn&#233; les derni&#232;res p&#233;pites qui valent vraiment le coup.
+...</description>
+    </item>
+    <item>
+      <title>San Francisco Demands Apple and Google Delete AI &#8216;Nudify&#8217; Apps From App Stores</title>
+      <link>https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/</link>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a56456618e4a2cdefe3c023</guid>
+      <description>The City Attorney&#8217;s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 &#8220;face-swap&#8221; apps that are overwhelmingly used to target women and girls.</description>
+    </item>
+    <item>
+      <title>Sous la pression des joueurs, Microsoft rend son compte vieux de 25 ans &#224; un streamer pirat&#233;</title>
+      <link>https://www.frandroid.com/culture-tech/3183755_sous-la-pression-des-joueurs-microsoft-rend-son-compte-vieux-de-25-ans-a-un-streamer-pirate</link>
+      <pubDate>Fri, 17 Jul 2026 09:47:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/3183755_sous-la-pression-des-joueurs-microsoft-rend-son-compte-vieux-de-25-ans-a-un-streamer-pirate</guid>
+      <description>
+Un streamer n&#233;erlandais a vu son compte Microsoft de 25 ans dispara&#238;tre apr&#232;s un piratage, avant de tout r&#233;cup&#233;rer. Une affaire qui rappelle &#224; quel point une biblioth&#232;que de jeux d&#233;mat&#233;rialis&#233;e tient &#224; peu de choses.
 </description>
     </item>
     <item>
-      <title>Pourquoi les montres connect&#233;es &#233;chapperont &#224; l&#8217;obligation de batterie rempla&#231;able en Europe</title>
-      <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3183361_pourquoi-les-montres-connectees-echapperont-a-lobligation-de-batterie-remplacable-en-europe</link>
-      <pubDate>Fri, 17 Jul 2026 08:02:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3183361_pourquoi-les-montres-connectees-echapperont-a-lobligation-de-batterie-remplacable-en-europe</guid>
+      <title>HP hit with massive 1.4 billion rupees fine for running 'cartel' of ink cartridges, toner, PCs in India</title>
+      <link>https://www.techradar.com/pro/hp-hit-with-massive-1-4-billion-rupees-fine-for-running-cartel-of-ink-cartridges-toner-pcs-in-india</link>
+      <pubDate>Fri, 17 Jul 2026 09:45:49 +0000</pubDate>
+      <guid isPermaLink="false">wBJpy6ifQNDe8H4X2UbAs9</guid>
+      <description>HP found guilty of manipulating Indian government tenders to secure major contracts, received 1.42 billion rupees in fines.</description>
+    </item>
+    <item>
+      <title>Enterprise AI has a trust problem, and guarantees are how we fix it</title>
+      <link>https://www.techradar.com/pro/enterprise-ai-has-a-trust-problem-and-guarantees-are-how-we-fix-it</link>
+      <pubDate>Fri, 17 Jul 2026 09:45:04 +0000</pubDate>
+      <guid isPermaLink="false">s92F5fhmrwH2DBt49qSnpJ</guid>
+      <description>Why enterprise AI vendors must back their outputs with contractual accountability to earn trust.</description>
+    </item>
+    <item>
+      <title>Not&#233;e 9/10, l&#8217;enceinte portable star de Sony voit son prix chuter pour l&#8217;&#233;t&#233; [Sponso]</title>
+      <link>https://www.frandroid.com/produits-android/audio/enceinte-bluetooth/3172053_notee-9-10-lenceinte-portable-star-de-sony-voit-son-prix-chuter-pour-lete</link>
+      <pubDate>Fri, 17 Jul 2026 09:40:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/audio/enceinte-bluetooth/3172053_notee-9-10-lenceinte-portable-star-de-sony-voit-son-prix-chuter-pour-lete</guid>
       <description>
-La Commission europ&#233;enne a exempt&#233; six cat&#233;gories de produits de sa future obligation de batterie rempla&#231;able par l'utilisateur. Montres connect&#233;es, bracelets d'activit&#233; et jouets &#233;lectriques &#233;chappent &#224; la r&#232;gle, arguments techniques &#224; l'appui.
+La toute derni&#232;re enceinte Bluetooth portable de Sony, la ULT FIELD 5, voit son prix chuter de 70 euros pour ce d&#233;but d'&#233;t&#233;. L'occasion de s'offrir de l'excellent son &#224; prix doux. 
 </description>
     </item>
     <item>
-      <title>Google Vids vous permet de cr&#233;er un avatar vid&#233;o &#224; partir d&#8217;un simple selfie</title>
-      <link>https://www.frandroid.com/marques/google/3183075_google-vids-vous-permet-de-creer-un-avatar-video-a-partir-dun-simple-selfie</link>
-      <pubDate>Fri, 17 Jul 2026 08:02:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3183075_google-vids-vous-permet-de-creer-un-avatar-video-a-partir-dun-simple-selfie</guid>
+      <title>J&#8217;ouvre ma porte de garage via mon smartphone gr&#226;ce &#224; l&#8217;IA et &#231;a m&#8217;a co&#251;t&#233; 20 &#8364;</title>
+      <link>https://www.frandroid.com/produits-android/3177701_jouvre-ma-porte-de-garage-via-mon-smartphone-grace-a-lia-et-ca-ma-coute-20-e</link>
+      <pubDate>Fri, 17 Jul 2026 09:35:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3177701_jouvre-ma-porte-de-garage-via-mon-smartphone-grace-a-lia-et-ca-ma-coute-20-e</guid>
       <description>
-En int&#233;grant Gemini Omni &#224; son outil de cr&#233;ation vid&#233;o Vids, Google introduit de nouvelles fonctionnalit&#233;s permettant de g&#233;n&#233;rer des avatars capables de reproduire aussi bien vos gestes que votre voix.
+Ma porte de garage H&#246;rmann n'avait aucune connectivit&#233;&#160;: t&#233;l&#233;commande radio propri&#233;taire, pas d'application, rien. Avec un module Wi-Fi &#224; 15&#160;&#8364; et deux heures de dialogue avec Claude, elle se pilote maintenant depuis mon smartphone, sans que j'aie lu la notice de 44&#160;pages.
 </description>
     </item>
     <item>
-      <title>Avis aux sportifs, cette ceinture cardio Garmin de r&#233;f&#233;rence est en promo &#224; -30 % sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-en-promo-a-moins-30-pourcents-sur-amazon</link>
-      <pubDate>Fri, 17 Jul 2026 07:59:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-en-promo-a-moins-30-pourcents-sur-amazon</guid>
+      <title>WhatsApp commence &#224; activer sa fonction de noms d&#8217;utilisateurs</title>
+      <link>https://www.01net.com/actualites/whatsapp-commence-a-activer-sa-fonction-de-noms-dutilisateurs.html</link>
+      <pubDate>Fri, 17 Jul 2026 09:32:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1359938</guid>
+      <description>La messagerie instantan&#233;e est en train de d&#233;ployer progressivement sa fonction permettant d&#8217;utiliser des noms d&#8217;utilisateurs &#224; la place d&#8217;un num&#233;ro de t&#233;l&#233;phone pour communiquer.</description>
+    </item>
+    <item>
+      <title>Xiaomi Smart Band 10 Pro : ce nouveau bracelet hybride qui fait (presque) tout est d&#233;j&#224; moins cher</title>
+      <link>https://www.frandroid.com/bons-plans/3183373_xiaomi-smart-band-10-pro-ce-nouveau-bracelet-hybride-qui-fait-presque-tout-est-deja-moins-cher</link>
+      <pubDate>Fri, 17 Jul 2026 09:31:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3183373_xiaomi-smart-band-10-pro-ce-nouveau-bracelet-hybride-qui-fait-presque-tout-est-deja-moins-cher</guid>
       <description>
-La Garmin HRM 200 est une ceinture cardio int&#233;ressante gr&#226;ce &#224; son module amovible pour facilement changer la sangle si besoin. En ce moment, elle est affich&#233;e &#224; 64,99 euros au lieu de 89,99 euros sur Amazon.
+Le Xiaomi Smart Band 10 Pro est la derni&#232;re version disponible sur le march&#233;, avec des fonctions hybrides qui, pour 71,99 euros au lieu de 79,99 euros, sont tr&#232;s int&#233;ressantes.
 </description>
     </item>
     <item>
-      <title>NotebookLM devient Gemini Notebook&#160;: qu&#8217;est-ce que &#231;a change&#160;?</title>
-      <link>https://www.frandroid.com/marques/google/3183027_notebooklm-devient-gemini-notebook-quest-ce-que-ca-change</link>
-      <pubDate>Fri, 17 Jul 2026 07:58:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3183027_notebooklm-devient-gemini-notebook-quest-ce-que-ca-change</guid>
+      <title>The Group Behind &#8216;2000 Mules&#8217; Is Back With Another Election Conspiracy Film</title>
+      <link>https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/</link>
+      <pubDate>Fri, 17 Jul 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a579f99bab6ca5458ec0eba</guid>
+      <description>True the Vote is working with a Detroit pastor to produce a new documentary called Trap, based on claims that have already been thrown out in court.</description>
+    </item>
+    <item>
+      <title>Vacances d&#8217;&#233;t&#233; : les indispensables tech &#224; glisser dans votre valise</title>
+      <link>https://www.frandroid.com/guide-dachat/2657817_les-meilleurs-accessoires-tech-a-emmener-en-vacances-cet-ete</link>
+      <pubDate>Fri, 17 Jul 2026 09:17:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/2657817_les-meilleurs-accessoires-tech-a-emmener-en-vacances-cet-ete</guid>
       <description>
-NotebookLM, l'outil de recherche et de prise de notes par IA de Google, devient Gemini Notebook. Un changement de nom qui vise avant tout &#224; mieux int&#233;grer le service &#224; l'&#233;cosyst&#232;me Gemini, sans en bouleverser le fonctionnement, m&#234;me si Google en profite pour ajouter une vraie nouveaut&#233; : l'ex&#233;cution de code.
+Les vacances d&#8217;&#233;t&#233; sont enfin l&#224;. Que vous partiez &#224; l'assaut des plages ou en road-trip improvis&#233;, certains gadgets tech pourraient bien transformer votre s&#233;jour. De l'accessoire sympa au compagnon de voyage carr&#233;ment indispensable, voici ce qu'il faut mettre dans votre valise.
 </description>
     </item>
     <item>
-      <title>Denza Z : la supercar &#233;lectrique de BYD co&#251;te moins cher en France qu&#8217;une Taycan Turbo GT</title>
-      <link>https://www.frandroid.com/marques/denza/3183289_denza-z-la-supercar-electrique-de-byd-coute-moins-cher-en-france-quune-taycan-turbo-gt</link>
-      <pubDate>Fri, 17 Jul 2026 07:53:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/denza/3183289_denza-z-la-supercar-electrique-de-byd-coute-moins-cher-en-france-quune-taycan-turbo-gt</guid>
+      <title>Tesla lance (enfin) son premier deux-roues : une draisienne pour enfants &#224; 225 $</title>
+      <link>https://www.frandroid.com/marques/tesla/3183297_tesla-lance-enfin-son-premier-deux-roues-une-draisienne-pour-enfants-a-225</link>
+      <pubDate>Fri, 17 Jul 2026 09:15:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3183297_tesla-lance-enfin-son-premier-deux-roues-une-draisienne-pour-enfants-a-225</guid>
       <description>
-Denza, la marque premium du chinois BYD, affiche les prix fran&#231;ais de sa supercar &#233;lectrique Z&#160;: de 156&#160;300 &#224; 189&#160;600&#160;euros, avec des premi&#232;res livraisons attendues avant la fin de l'ann&#233;e. Trois moteurs, 1&#160;604&#160;chevaux et un tarif qui vient chatouiller Porsche et Tesla.
+Si Tesla avait toujours refus&#233; de le faire, voil&#224; que la firme am&#233;ricaine lance finalement son premier deux-roues. Mais attention, car il s'agit d'un v&#233;lo pour enfant.
 </description>
     </item>
     <item>
-      <title>400 ing&#233;nieurs d&#233;bauch&#233;s et un pillage de secrets industriels : Apple attaque OpenAI en justice, notre d&#233;cryptage vid&#233;o</title>
-      <link>https://www.frandroid.com/marques/apple/3183395_400-ingenieurs-debauches-et-un-pillage-de-secrets-industriels-apple-attaque-openai-en-justice-notre-decryptage-video</link>
-      <pubDate>Fri, 17 Jul 2026 07:47:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3183395_400-ingenieurs-debauches-et-un-pillage-de-secrets-industriels-apple-attaque-openai-en-justice-notre-decryptage-video</guid>
+      <title>Pas encore annonc&#233;, le Galaxy Z Fold 8 Ultra se d&#233;cline dans une version luxe&#8230; &#224; plus de 13&#160;000 dollars&#160;!</title>
+      <link>https://www.01net.com/actualites/samsung-pas-encore-devoile-galaxy-z-fold-8-ultra-droit-version-luxe-13-130.html</link>
+      <pubDate>Fri, 17 Jul 2026 09:15:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1359900</guid>
+      <description>Alors que Samsung ne l&#8217;a m&#234;me pas encore d&#233;voil&#233;, la marque de luxe Caviar pr&#233;sente d&#233;j&#224; un Galaxy Z Fold 8 Ultra en l&#8217;honneur de Lionel Messi. Le smartphone pliant arbore un placage en or 24 carats et sera commercialis&#233; en seulement 19 exemplaires &#224; travers le monde. Son prix de d&#233;part ? 13 130 dollars.</description>
+    </item>
+    <item>
+      <title>The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year</title>
+      <link>https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/</link>
+      <pubDate>Fri, 17 Jul 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">6a5945d2f4f5048d46b3fb4c</guid>
+      <description>&#8220;Based on simple math, these outbreak responses&#8212;which require rapid, timely responses&#8212;are going to be greatly diminished,&#8221; the former CDC lab director tells WIRED.</description>
+    </item>
+    <item>
+      <title>8,2 kWh/100 km et record Guinness : Geely lance un moteur &#233;lectrique 16-en-1 ultra-sobre</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3183467_82-kwh-100-km-et-record-guinness-geely-lance-un-moteur-electrique-16-en-1-ultra-sobre</link>
+      <pubDate>Fri, 17 Jul 2026 09:02:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3183467_82-kwh-100-km-et-record-guinness-geely-lance-un-moteur-electrique-16-en-1-ultra-sobre</guid>
       <description>
-Apple accuse OpenAI d'avoir organis&#233; un pillage de ses secrets industriels pour concevoir un smartphone concurrent. Entre espionnage, ing&#233;nieurs d&#233;bauch&#233;s et prototypes sortis des labos, les coulisses de ce proc&#232;s historique s'annoncent explosives. Voici notre d&#233;cryptage en vid&#233;o. 
+Le constructeur chinois Geely vient de lever le voile sur son tout nouveau moteur destin&#233; &#224; ses prochaines voitures &#233;lectriques. Baptis&#233; &#171;&#160;Thunder&#160;&#187;, il affiche un rendement et une consommation record, ainsi qu&#8217;une r&#233;activit&#233; particuli&#232;rement &#233;lev&#233;e.
 </description>
     </item>
     <item>
-      <title>Leapmotor met le 800 volts dans des &#233;lectriques &#224; 13 000 &#8364; : bient&#244;t en Europe gr&#226;ce &#224; Stellantis</title>
-      <link>https://www.frandroid.com/marques/leapmotor/3183211_leapmotor-met-le-800-volts-dans-des-electriques-a-13-000-e-bientot-en-europe-grace-a-stellantis</link>
-      <pubDate>Fri, 17 Jul 2026 07:40:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/leapmotor/3183211_leapmotor-met-le-800-volts-dans-des-electriques-a-13-000-e-bientot-en-europe-grace-a-stellantis</guid>
+      <title>Une plan&#232;te rocheuse en zone habitable aurait une atmosph&#232;re : un verrou vient de sauter</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/exoplanete-planete-rocheuse-zone-habitable-aurait-atmosphere-verrou-vient-sauter-136254/#xtor%3DRSS-8</link>
+      <pubDate>Fri, 17 Jul 2026 11:01:34 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/exoplanete-planete-rocheuse-zone-habitable-aurait-atmosphere-verrou-vient-sauter-136254/#xtor%3DRSS-8</guid>
+      <description>Apr&#232;s des ann&#233;es de recherches souvent infructueuses, des astronomes ont obtenu la preuve la plus convaincante &#224; ce jour qu'une plan&#232;te rocheuse situ&#233;e dans la zone habitable de son &#233;toile poss&#232;de une atmosph&#232;re. Une &#233;tape cruciale qui ouvre la voie &#224; l'&#233;tude d&#233;taill&#233;e de ces mondes et,...</description>
+    </item>
+    <item>
+      <title>Comment installer carte d&#8217;identit&#233; num&#233;rique, permis de conduire, carte Vitale et carte grise sur votre smartphone</title>
+      <link>https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-smartphones/2574151_comment-installer-carte-didentite-numerique-permis-de-conduire-carte-vitale-et-carte-grise-sur-votre-smartphone</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-smartphones/2574151_comment-installer-carte-didentite-numerique-permis-de-conduire-carte-vitale-et-carte-grise-sur-votre-smartphone</guid>
       <description>
-La firme chinoise Leapmotor r&#233;volutionne la recharge de deux de ses voitures &#233;lectriques accessibles, en leur offrant une architecture 800 volts. Une technologie normalement uniquement pr&#233;sente sur les mod&#232;les les plus chers qui devrait arriver en Europe gr&#226;ce &#224; Stellantis.
+Carte d&#8217;identit&#233;, permis, carte Vitale, carte grise... D&#233;sormais, votre smartphone peut contenir ces documents officiels. D&#233;couvrez comment les installer simplement.
 </description>
     </item>
     <item>
-      <title>On a test&#233; la nouvelle Xiaomi SU7 en vid&#233;o : 900 km d&#8217;autonomie et une recharge fulgurante en Chine</title>
-      <link>https://www.frandroid.com/marques/xiaomi/3183365_on-a-teste-la-nouvelle-xiaomi-su7-en-video-900-km-dautonomie-et-une-recharge-fulgurante-en-chine</link>
-      <pubDate>Fri, 17 Jul 2026 07:39:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3183365_on-a-teste-la-nouvelle-xiaomi-su7-en-video-900-km-dautonomie-et-une-recharge-fulgurante-en-chine</guid>
+      <title>The best budget smartphones of 2026 so far</title>
+      <link>https://mashable.com/tech/best-budget-smartphones-2026-so-far</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:33 +0000</pubDate>
+      <guid isPermaLink="false">045NMCmo78xLkvzhe0bXTiI</guid>
+      <description>Apple, Samsung, Google, Nothing, and OnePlus have all released solid budget handsets in the past six months.</description>
+    </item>
+    <item>
+      <title>The Cuisinart FastFreeze ice cream maker cant compete with the Ninja Creami</title>
+      <link>https://mashable.com/life/cuisinart-fastfreeze-ice-cream-maker-review</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:28 +0000</pubDate>
+      <guid isPermaLink="false">06Bk5NHNUcSILRC5R9kVzM9</guid>
+      <description>Can the Cuisinart FastFreeze ice cream maker compete with the Ninja Creami? We tried the cheaper, more compact ice cream maker from Cuisinart, but were disappointed in the results.</description>
+    </item>
+    <item>
+      <title>A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War</title>
+      <link>https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a397760ab43403c23d015b2</guid>
+      <description>The CEO of Foundation Future Industries, which counts the president&#8217;s son as its chief strategy adviser, tells WIRED it&#8217;s exploring some &#8220;kinetic things.&#8221;</description>
+    </item>
+    <item>
+      <title>Loonen and the rise of consumer safety as status symbol</title>
+      <link>https://www.fastcompany.com/91565959/loonen-and-the-rise-of-consumer-safety-as-status-symbol</link>
+      <pubDate>2026-07-17T09:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91565959/loonen-and-the-rise-of-consumer-safety-as-status-symbol</guid>
+      <description>With environmental regulation in retreat, startup brands are finding they can profit by selling clean water, clean air, and more to the rich.
+Clara Sieg found inspiration in birds. A venture capitalist with a history of backing consumer-facing brands, Sieg had been increasingly concerned with the consequences of drinking polluted water. So last year she founded a &#8220;perfectly pure&#8221; bottled water brand&#8212;one that draws water from a spring; purifies it to filter out microplastics, forever chemicals, lead, pesticides, and other contaminants; and sells it in slim glass bottles that are entirely polyme...</description>
+    </item>
+    <item>
+      <title>8 ways you definitely shouldn&#8217;t use AI</title>
+      <link>https://www.fastcompany.com/91573804/how-not-to-use-ai</link>
+      <pubDate>2026-07-17T09:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91573804/how-not-to-use-ai</guid>
+      <description>The more you use AI, the more crucial it is to avoid its privacy, accuracy, and social snafus. Here&#8217;s how.
+If you&#8217;ve spent any amount of time using ChatGPT, Claude, or other AI assistants, you&#8217;ve witnessed some of the ways it can go wrong.</description>
+    </item>
+    <item>
+      <title>What Canva&#8217;s cofounder really thinks about the SaaSpocalypse</title>
+      <link>https://www.fastcompany.com/91574590/what-canvas-co-founder-really-thinks-about-the-saaspocalypse</link>
+      <pubDate>2026-07-17T09:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91574590/what-canvas-co-founder-really-thinks-about-the-saaspocalypse</guid>
+      <description>Cameron Adams on how how Canva shifted from a design company to an AI company.
+Like many companies navigating this new era of artificial intelligence, Canva has had an &#8220;interesting&#8221; year. Looking back at the last six months, Cameron Adams, cofounder and chief product officer of the Sydney-based company, explains why the so-called SaaSpocalypse never kept him up at night, how Canva shifted from a design company to an AI company without losing what made it great, and why being only 1% of the way there is actually the most exciting place to be.&#160;...</description>
+    </item>
+    <item>
+      <title>When is the World Cup halftime show? How to watch Justin Bieber, BTS, Madonna, and Shakira live.</title>
+      <link>https://mashable.com/life/fifa-world-cup-2026-halftime-show-start-time</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05c5dQjSbPjGEc5IWHj8Iex</guid>
+      <description>Justin Bieber, BTS, Madonna, and Shakira are performing during the World Cup final. Here&#8217;s when and where to watch.</description>
+    </item>
+    <item>
+      <title>Why is Jennifer Hudson singing the U.S. anthem at the World Cup final?</title>
+      <link>https://mashable.com/life/jennifer-hudson-national-anthem-world-cup-final</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">046prkePZLM0uzf0sJUnLWY</guid>
+      <description>Jennifer Hudson will sing the U.S. national anthem before Spain faces Argentina in the World Cup final. Here&#8217;s why.</description>
+    </item>
+    <item>
+      <title>Webb telescope found the missing architect of another star system</title>
+      <link>https://mashable.com/science/james-webb-space-telescope-exoplanet-discovered-by-spectrum</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">01MbMpJxewiYiMuijV9eGsI</guid>
+      <description>NASA's James Webb Space Telescope finds a long-hypothesized exoplanet using a new chemistry-based approach in the Beta Pictoris system.</description>
+    </item>
+    <item>
+      <title>The Odysseys ending makes it a stealth Oppenheimer sequel</title>
+      <link>https://mashable.com/entertainment/the-odyssey-ending-oppenheimer</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06VVKOcvY9RMHTLI9IcaPNb</guid>
+      <description>Christopher Nolan's "The Odyssey" functions not just as an astounding epic, but as the perfect companion piece to "Oppenheimer."</description>
+    </item>
+    <item>
+      <title>Get a Microsoft Office 2021 lifetime license for just $30 this weekend</title>
+      <link>https://mashable.com/tech/july-17-microsoft-office-professional-2021-for-windows-lifetime-license</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">02gZAwTPu8ztzojrqbAm8Sp</guid>
+      <description>Get Microsoft Office Professional 2021 for Windows for just $29.97 through July 19 and save $190 on a lifetime license with no subscription required.</description>
+    </item>
+    <item>
+      <title>Upgrade your home WiFi with this versatile $167 ASUS router</title>
+      <link>https://mashable.com/tech/july-17-asus-rt-be92u-be9700-tri-band-wi-fi-7-router</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04caYr9fUjCdh3JEE8vUI87</guid>
+      <description>Improve your connectivity with the ASUS Wi-Fi 7 router for $166.99 and get faster speeds, 10G networking, and advanced home security.</description>
+    </item>
+    <item>
+      <title>Im watching the Belgian GP for free this weekend &#8212; how to live stream F1 for free</title>
+      <link>https://mashable.com/entertainment/belgium-gp-f1-live-stream-for-free</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03svIXWGNQzZCnn6dLjlqQl</guid>
+      <description>How to watch F1 for free. Live stream the Belgian GP in the 2026 F1 season for free from anywhere in the world.</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy Unpacked is almost here: Everything we expect from the July 22 event</title>
+      <link>https://mashable.com/tech/samsung-galaxy-unpacked-july-22-preview-z-series-foldables</link>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07rD1DxN2H5CfRcXl7qc3Ws</guid>
+      <description>Samsung has a new batch of foldable phones and smartwatches coming July 22 at a Galaxy Unpacked event.</description>
+    </item>
+    <item>
+      <title>Un des meilleurs outils de Google change de nom</title>
+      <link>https://www.01net.com/actualites/adieu-notebooklm-bonjour-gemini-notebook.html</link>
+      <pubDate>Fri, 17 Jul 2026 08:59:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1359907</guid>
+      <description>Lanc&#233; comme un simple projet exp&#233;rimental en 2023, NotebookLM tire sa r&#233;v&#233;rence et devient officiellement Gemini Notebook.</description>
+    </item>
+    <item>
+      <title>Il fabrique des cartouches de jeu physiques pour sa biblioth&#232;que Steam avec de vieux SSD &#224; 7 euros</title>
+      <link>https://www.frandroid.com/produits-android/3183527_il-fabrique-des-cartouches-de-jeu-physiques-pour-sa-bibliotheque-steam-avec-de-vieux-ssd-a-7-euros</link>
+      <pubDate>Fri, 17 Jul 2026 08:59:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3183527_il-fabrique-des-cartouches-de-jeu-physiques-pour-sa-bibliotheque-steam-avec-de-vieux-ssd-a-7-euros</guid>
       <description>
-Seulement deux ans apr&#232;s son arriv&#233;e sur le march&#233; automobile, la Xiaomi SU7 s'offre d&#233;j&#224; une mise &#224; jour d'envergure. On a pu prendre le volant de cette nouvelle berline &#233;lectrique &#224; P&#233;kin pour &#233;valuer ses nouveaut&#233;s techniques.
+Un joueur a transform&#233; de vieux SSD achet&#233;s pour une poign&#233;e d'euros en cartouches de jeu pour sa biblioth&#232;que Steam. Un bricolage qui tombe pile au moment o&#249; le jeu physique dispara&#238;t.
 </description>
     </item>
     <item>
-      <title>Arnaques par SMS&#160;: les &#201;tats-Unis saisissent 30&#160;000 cartes SIM dans des fermes criminelles</title>
-      <link>https://www.01net.com/actualites/arnaques-par-sms-etats-unis-saisissent-30-000-cartes-sim-fermes-criminelles.html</link>
-      <pubDate>Fri, 17 Jul 2026 07:33:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359886</guid>
-      <description>Plus de 30 000 cartes SIM, utilis&#233;es par des criminels pour lancer des campagnes massives d'arnaques par SMS, ont &#233;t&#233; saisies par les services secrets am&#233;ricains. Lors d'une op&#233;ration d'envergure, les autorit&#233;s ont d&#233;mantel&#233; une s&#233;rie de fermes &#224; travers les &#201;tats-Unis.</description>
-    </item>
-    <item>
-      <title>Caviar vend un Galaxy Z Fold 8 Ultra en or &#224; l&#8217;effigie de Lionel Messi avant son lancement</title>
-      <link>https://www.frandroid.com/produits-android/3183217_caviar-vend-un-galaxy-z-fold-8-ultra-en-or-a-leffigie-de-lionel-messi-avant-son-lancement</link>
-      <pubDate>Fri, 17 Jul 2026 07:25:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3183217_caviar-vend-un-galaxy-z-fold-8-ultra-en-or-a-leffigie-de-lionel-messi-avant-son-lancement</guid>
+      <title>Google Health se met &#224; jour&#160;: les siestes et les aliments personnalis&#233;s arrivent enfin</title>
+      <link>https://www.frandroid.com/marques/google/3183479_google-health-se-met-a-jour-les-siestes-et-les-aliments-personnalises-arrivent-enfin</link>
+      <pubDate>Fri, 17 Jul 2026 08:55:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3183479_google-health-se-met-a-jour-les-siestes-et-les-aliments-personnalises-arrivent-enfin</guid>
       <description>
-Le fabricant russe Caviar vend d&#233;j&#224; un Galaxy Z Fold 8 Ultra en plaqu&#233; or &#224; l&#8217;effigie de Messi alors que le t&#233;l&#233;phone n'est pas encore officialis&#233;.
+Google d&#233;ploie la version 5.04 de son application Google Health sur Android et iOS. Au programme&#160;: la cr&#233;ation d&#8217;aliments personnalis&#233;s, l&#8217;ajout rapide de calories et les siestes qui comptent enfin dans le sommeil.
 </description>
     </item>
     <item>
-      <title>Coca-Cola's dairy company fairlife hit with a ransomware attack</title>
-      <link>https://www.engadget.com/2217258/coca-cola-dairy-company-fairlife-ransomware-attack/</link>
-      <pubDate>Fri, 17 Jul 2026 07:25:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2217258/coca-cola-dairy-company-fairlife-ransomware-attack/</guid>
-      <description>Coca-Cola halts the US operations of its dairy company fairlife due to a ransomware attack.</description>
+      <title>Why brokers need clean data to execute in the age of AI</title>
+      <link>https://www.techradar.com/pro/why-brokers-need-clean-data-to-execute-in-the-age-of-ai</link>
+      <pubDate>Fri, 17 Jul 2026 08:51:33 +0000</pubDate>
+      <guid isPermaLink="false">5P5wKNKvsq6sY66nwf4teg</guid>
+      <description>The right data makes the difference when it comes to AI output</description>
     </item>
     <item>
-      <title>1 194 ch et recharge en 5 minutes : BYD d&#233;voile sa surpuissante berline Denza Z9S</title>
-      <link>https://www.frandroid.com/marques/denza/3183161_1-194-ch-et-recharge-en-5-minutes-byd-devoile-sa-surpuissante-berline-denza-z9s</link>
-      <pubDate>Fri, 17 Jul 2026 07:11:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/denza/3183161_1-194-ch-et-recharge-en-5-minutes-byd-devoile-sa-surpuissante-berline-denza-z9s</guid>
-      <description>
-Denza, filiale haut de gamme de BYD vient de lever le voile sur sa derni&#232;re voiture &#233;lectrique en date. Il s&#8217;agit de la nouvelle Z9S, qui d&#233;passe la barre des 1 000 chevaux dans sa version la plus puissante.
-</description>
-    </item>
-    <item>
-      <title>Meilleures enceintes Bluetooth : quel mod&#232;le portable &#233;tanche choisir en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guide-audio/722626_guide-meilleures-enceintes-portables</link>
-      <pubDate>Fri, 17 Jul 2026 07:05:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-audio/722626_guide-meilleures-enceintes-portables</guid>
-      <description>
-Compactes et nomades, les enceintes Bluetooth s'invitent partout : du salon &#224; la plage, elles sont devenues indispensables. Bienvenue dans la s&#233;lection des meilleures enceintes Bluetooth &#233;tanches test&#233;es par nos soins.
-</description>
-    </item>
-    <item>
-      <title>Heartstopper Forever is the best farewell that fans could have hoped for as new Netflix movie makes Nick and Charlies the most vulnerable &#8212; and adult &#8212; they've ever been</title>
-      <link>https://www.techradar.com/streaming/netflix/heartstopper-forever-review</link>
-      <pubDate>Fri, 17 Jul 2026 07:01:00 +0000</pubDate>
-      <guid isPermaLink="false">SBPFhoXL32obvtfnMii2VE</guid>
-      <description>Nobody wanted Nick and Charlie's love story to end, but new Netflix movie Heartstopper Forever does a more poignant job at saying goodbye than a season 4 ever could.</description>
-    </item>
-    <item>
-      <title>Heartstopper Forever ending explained: are Nick and Charlie still together, who breaks up, Easter eggs you might have missed and where the gang will end up next</title>
-      <link>https://www.techradar.com/streaming/netflix/heartstopper-forever-ending-explained</link>
-      <pubDate>Fri, 17 Jul 2026 07:01:00 +0000</pubDate>
-      <guid isPermaLink="false">ctEPKsapyMvBn7TZt8redJ</guid>
-      <description>Nick and Charlie's love story has finally been brought to a close in new Netflix movie Heartstopper Forever. Here's the answer to every question you're going to want answered.</description>
-    </item>
-    <item>
-      <title>iPad mini&#160;: Apple pr&#233;parerait une mise &#224; jour historique d&#232;s cet automne</title>
-      <link>https://www.01net.com/actualites/ipad-mini-apple-preparerait-mise-a-jour-historique-des-cet-automne.html</link>
-      <pubDate>Fri, 17 Jul 2026 06:51:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359881</guid>
-      <description>Apple s'appr&#234;terait &#224; lancer un nouvel iPad mini &#233;quip&#233; d'un &#233;cran OLED d&#232;s le mois d'octobre. Une &#233;volution majeure qui pourrait creuser l'&#233;cart avec le march&#233; des petites tablettes Android, o&#249; l'offre haut de gamme reste rare.</description>
-    </item>
-    <item>
-      <title>Windows 11 24H2&#160;: il ne vous reste plus que 3 mois pour mettre &#224; jour votre PC</title>
-      <link>https://www.01net.com/actualites/windows-11-24h2-il-ne-vous-reste-plus-que-3-mois-pour-mettre-a-jour-votre-pc.html</link>
-      <pubDate>Fri, 17 Jul 2026 06:35:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1359882</guid>
-      <description>Microsoft vient de publier un rappel utile &#224; tous les utilisateurs de Windows 11 version 24H2. Dans trois mois, leur PC ne recevra plus aucune mise &#224; jour, &#224; moins qu&#8217;ils ne fassent la mise &#224; niveau vers 25H2.</description>
+      <title>Verizon Fios boosts its fastest plan to 5Gbps</title>
+      <link>https://www.engadget.com/2217268/verizon-fios-boosts-its-fastest-plan-to-5gbps/</link>
+      <pubDate>Fri, 17 Jul 2026 08:50:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2217268/verizon-fios-boosts-its-fastest-plan-to-5gbps/</guid>
+      <description>Verizon Fios just introduced a new 5Gbps home plan that's more than twice as fast as its previous flagship 2Gbps plan.</description>
     </item>
   </channel>
 </rss>
