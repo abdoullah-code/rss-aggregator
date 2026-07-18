@@ -3,41 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 18 Jul 2026 20:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:54:49 GMT</lastBuildDate>
+    <item>
+      <title>Dave Eggers told OpenAI staff  that ChatGPT was &#8216;silencing an entire generation&#8217;</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation</link>
+      <pubDate>2026-07-18T16:54:42-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=967630</guid>
+      <description>Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]...</description>
+    </item>
     <item>
       <title>USAF's Autonomous AI fighter drone just fired a 'real' AMRAAM air-to-air missile in a world first</title>
       <link>https://www.techradar.com/pro/usafs-autonomous-ai-fighter-drone-just-fired-a-real-amraam-air-to-air-missile-in-a-world-first</link>
       <pubDate>Sat, 18 Jul 2026 20:05:00 +0000</pubDate>
       <guid isPermaLink="false">ETQzbedyMmzH63kAuRu6MJ</guid>
       <description>The US Air Force tested an autonomous drone firing an AMRAAM missile, advancing plans for future human-controlled combat aircraft.</description>
-    </item>
-    <item>
-      <title>France doubles down on restricting access to Polymarket</title>
-      <link>https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/</link>
-      <pubDate>Sat, 18 Jul 2026 19:41:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/</guid>
-      <description>The country's gambling authority ordered ISPs to block access to the prediction market's website.</description>
-    </item>
-    <item>
-      <title>Waymo says San Francisco service has resumed after one-hour pause</title>
-      <link>https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/</link>
-      <pubDate>Sat, 18 Jul 2026 19:30:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144073</guid>
-      <description>This isn&#8217;t the first time power outages have caused issues for Waymo.</description>
-    </item>
-    <item>
-      <title>I replayed Firewatch a decade on &#8212; and its storytelling is still some of the best I&#8217;ve ever experienced</title>
-      <link>https://www.techradar.com/gaming/i-replayed-firewatch-a-decade-on-and-its-storytelling-is-still-some-of-the-best-ive-ever-experienced</link>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">QXYaLUe9iuZKVfuqs9siqn</guid>
-      <description>We come back to the emotional storytelling of Firewatch a decade after release.</description>
-    </item>
-    <item>
-      <title>I breathed new life into my vinyl with Fluance's RT87 turntable and while setup was finicky, it's well worth it for seasoned record collectors</title>
-      <link>https://www.techradar.com/audio/turntables/fluance-rt87-turntable-review</link>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RrCDfHFc2mCSmyxTne5PdN</guid>
-      <description>The Fluance RT87 sounds as great as it is finicky to set up &#8212; but then again, if you're a seasoned hi-fi tinkerer, you may actually enjoy the process&#8230;</description>
     </item>
   </channel>
 </rss>
