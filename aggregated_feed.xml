@@ -3,20 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 18 Jul 2026 21:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:54:28 GMT</lastBuildDate>
+    <item>
+      <title>Ukraine set to get its own 'Starlink' satellite constellation with SpaceX starting in 2027 as $1bn project powers on despite CEO death</title>
+      <link>https://www.techradar.com/pro/ukraine-set-to-get-its-own-starlink-satellite-constellation-with-spacex-starting-in-2027-as-usd1bn-project-powers-on-despite-ceo-death</link>
+      <pubDate>Sat, 18 Jul 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">NsxvfY98u5zfRw6rGAYsnK</guid>
+      <description>Ukraine&#8217;s Stetman plans a 360-satellite constellation by 2027, using SpaceX launches and European partnerships despite leadership changes.</description>
+    </item>
+    <item>
+      <title>Quote of the day by Steve Jobs: 'I'm willing to go thermonuclear war on this' &#8212; giving a bitter rival both barrels</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-steve-jobs-im-willing-to-go-thermonuclear-war-on-this-giving-a-bitter-rival-both-barrels</link>
+      <pubDate>Sat, 18 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LxJLTzduMu2MdWAHWu47ve</guid>
+      <description>The late Apple co-founder was furious with Google's work developing Android, claiming it was a stolen product</description>
+    </item>
     <item>
       <title>Dave Eggers told OpenAI staff  that ChatGPT was &#8216;silencing an entire generation&#8217;</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation</link>
       <pubDate>2026-07-18T16:54:42-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=967630</guid>
       <description>Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]...</description>
-    </item>
-    <item>
-      <title>USAF's Autonomous AI fighter drone just fired a 'real' AMRAAM air-to-air missile in a world first</title>
-      <link>https://www.techradar.com/pro/usafs-autonomous-ai-fighter-drone-just-fired-a-real-amraam-air-to-air-missile-in-a-world-first</link>
-      <pubDate>Sat, 18 Jul 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ETQzbedyMmzH63kAuRu6MJ</guid>
-      <description>The US Air Force tested an autonomous drone firing an AMRAAM missile, advancing plans for future human-controlled combat aircraft.</description>
     </item>
   </channel>
 </rss>
