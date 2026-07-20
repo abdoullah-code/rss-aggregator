@@ -3,331 +3,137 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 20 Jul 2026 16:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 18:55:11 GMT</lastBuildDate>
     <item>
-      <title>The cleanup trap: Stop asking RAG to fix bad data</title>
-      <link>https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data</link>
-      <pubDate>Mon, 20 Jul 2026 16:19:45 GMT</pubDate>
-      <guid isPermaLink="false">206DhPmdkdr9uHQqOD2n3W</guid>
-      <description>The enterprise technology ecosystem is caught in a costly cycle. Over the past two years, millions of dollars have been funneled into generative AI pilots, yet many of these initiatives stall out before ever reaching a live production environment.When a project fails, the immediate instinct of technical leadership is often to blame the model: The context window was too restrictive, the latency was too high, or the reasoning capabilities simply were not there.But as data engineers building the scaffolding for these systems, we often see a different reality: The model receives the blame, but the...</description>
+      <title>Everything to know before putting a car key on your iPhone</title>
+      <link>https://www.engadget.com/2217119/how-to-store-car-keys-on-iphone/</link>
+      <pubDate>Mon, 20 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2217119/how-to-store-car-keys-on-iphone/</guid>
+      <description>Do you need to be in your car to set up your digital car key?</description>
     </item>
     <item>
-      <title>LG&#8217;s monitors come with an unwanted addition for Windows: McAfee pop-up ads</title>
-      <link>https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus</link>
-      <pubDate>2026-07-20T12:14:58-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967983</guid>
-      <description>A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as a permission pop-up or notification. The app doesn't appear to include special controls [&#8230;]</description>
+      <title>A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026</title>
+      <link>https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026</link>
+      <pubDate>Mon, 20 Jul 2026 18:24:33 GMT</pubDate>
+      <guid isPermaLink="false">50IWctrYPh806vyQpklgmi</guid>
+      <description>A single AI agent conversation can look flawless scored on its own and still point to a broken product. That gap is driving a shift in how enterprises evaluate agents, away from scoring individual traces and toward comparing cohorts of users against a baseline.At VB Transform 2026, Harrison Chase, CEO of LangChain; Hui Zhang, CTO and co-founder of Conviva; and Emmanuel Turlay, director of engineering at CoreWeave, described that shift, along with a parallel move toward cheaper, narrower judge models.Agent-as-judge &#8212; judging one AI agent's output with another &#8212; hasn't replaced LLM-as-judge, whi...</description>
     </item>
     <item>
-      <title>I&#8217;ve been using the Asus ROG Strix Scar 18 (2026), and this is the best (and biggest) gaming laptop you can buy right now</title>
-      <link>https://www.techradar.com/computing/gaming-laptops/asus-rog-strix-scar-18-g835</link>
-      <pubDate>Mon, 20 Jul 2026 16:11:33 +0000</pubDate>
-      <guid isPermaLink="false">XRhq8C6DoQuxmnaaBJUBfK</guid>
-      <description>If you have a few thousand burning a hole in your pocket and a gym membership to help you carry it, the Asus ROG Strix SCAR 18 is the most powerful gaming laptop money can buy.</description>
+      <title>New report claims working late really could help you get promoted - so much for the 'right to switch off'</title>
+      <link>https://www.techradar.com/pro/new-report-claims-working-late-really-could-help-you-get-promoted-so-much-for-the-right-to-switch-off</link>
+      <pubDate>Mon, 20 Jul 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">jNZnprtz9PchkmWN7qN4Hm</guid>
+      <description>Research into the emailing and messaging habits of employees reveals that breaking the work-life balance could get you a promotion</description>
     </item>
     <item>
-      <title>'This one was different from anything we had handled before': Hugging Face confirms it was hit by cyberattack powered by an AI agent</title>
-      <link>https://www.techradar.com/pro/security/this-one-was-different-from-anything-we-had-handled-before-hugging-face-confirms-it-was-hit-by-cyberattack-powered-by-an-ai-agent</link>
-      <pubDate>Mon, 20 Jul 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">YGS9VwWfcoup7Aym62fv9a</guid>
-      <description>There's a new twist to the old code injection attack, and this one comes with AI seasoning.</description>
+      <title>Adobe crams multiple AI tools into its experimental camera app</title>
+      <link>https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/</link>
+      <pubDate>Mon, 20 Jul 2026 18:04:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/</guid>
+      <description>Adobe's Project Indigo app will have new features like removing distractions and offering immediate photo feedback.</description>
     </item>
     <item>
-      <title>Attention si vous utilisez 7-Zip&#160;: une faille permet de prendre le contr&#244;le de votre ordinateur</title>
-      <link>https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html</link>
-      <pubDate>Mon, 20 Jul 2026 16:01:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1360238</guid>
-      <description>Une faille de s&#233;curit&#233; dans 7-Zip permet l&#8217;ex&#233;cution de code &#224; distance lorsqu&#8217;une archive malveillante est t&#233;l&#233;charg&#233;e puis extraite. Les utilisateurs doivent installer la version 26.02 pour corriger cette vuln&#233;rabilit&#233;.</description>
+      <title>Judge pauses the controversial Paramount-Warner Bros. merger for two weeks</title>
+      <link>https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/</link>
+      <pubDate>Mon, 20 Jul 2026 18:02:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/</guid>
+      <description>A judge has paused the Paramount / Warner Bros. deal to review a multi-state lawsuit.</description>
     </item>
     <item>
-      <title>Sleepy Hollow is getting a reboot from Sony &#8212; and an unexpected Euphoria star is reportedly leading the cast</title>
-      <link>https://www.techradar.com/streaming/entertainment/sleepy-hollow-is-getting-a-reboot-from-sony-and-an-unexpected-euphoria-star-is-reportedly-leading-the-cast</link>
-      <pubDate>Mon, 20 Jul 2026 16:00:02 +0000</pubDate>
-      <guid isPermaLink="false">LaEuuDyFRewVeTYzngueFR</guid>
-      <description>Sydney Sweeney is reportedly going to lead the cast of a new Sleepy Hollow reimagining. Here's what we know so far.</description>
+      <title>Judge pauses&#160;$110B Paramount-Warner Bros merger</title>
+      <link>https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/</link>
+      <pubDate>Mon, 20 Jul 2026 17:58:50 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144311</guid>
+      <description>The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.</description>
     </item>
     <item>
-      <title>Adobe&#8217;s &#8216;natural look&#8217; camera app embraces generative AI</title>
-      <link>https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update</link>
-      <pubDate>2026-07-20T12:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967791</guid>
-      <description>Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a "more natural (SLR-like) look" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [&#8230;]</description>
+      <title>Scientists say one everyday habit may be quietly shrinking your brain</title>
+      <link>https://www.fastcompany.com/91576578/scientists-say-one-everyday-habit-may-be-quietly-shrinking-your-brain</link>
+      <pubDate>2026-07-20T17:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91576578/scientists-say-one-everyday-habit-may-be-quietly-shrinking-your-brain</guid>
+      <description>Adults who frequently watched television in midlife later showed brain changes associated with memory loss, stroke risk, and dementia.
+Winding down looks different for everyone, but it often involves some sort of sitting&#8212;it might be sitting back to read a novel or lounging while watching one&#8217;s favorite show. But a new study suggests that, despite it being a similar physical task, &#8220;not all sitting is created equal.&#8221;...</description>
     </item>
     <item>
-      <title>'Update your app' &#8212; Private Internet Access finally breaks its silence with a wave of network upgrades</title>
-      <link>https://www.techradar.com/vpn/vpn-services/update-your-app-private-internet-access-finally-breaks-its-silence-with-a-wave-of-network-upgrades</link>
-      <pubDate>Mon, 20 Jul 2026 15:59:50 +0000</pubDate>
-      <guid isPermaLink="false">xRX8kDMjKsEzFjfEH8sgaX</guid>
-      <description>Private Internet Access (PIA) is rolling out network infrastructure updates to improve routing, reconnections, and reduce CAPTCHAs. Here's what's changing and why you should update.</description>
+      <title>Will the Gulf Coast tropical depression turn into storm Bertha? Here&#8217;s the forecast from NOAA&#8217;s hurricane tracker</title>
+      <link>https://www.fastcompany.com/91576579/tropical-storm-bertha-2026-depression-forecast-nhc-noaa-hurricane-tracker-map</link>
+      <pubDate>2026-07-20T17:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91576579/tropical-storm-bertha-2026-depression-forecast-nhc-noaa-hurricane-tracker-map</guid>
+      <description>States from Texas to Florida can expect high winds and heavy rains, with agencies issuing weather warnings in the region.
+Summer 2026 has been filled with one extreme weather event after the other, from massive heatwaves and Canadian wildfires to flooding. Now, brace yourself for hurricane season.</description>
     </item>
     <item>
-      <title>'A well-balanced and genuinely impressive home and office mini PC': The Geekom A5 Pro with Ryzen 5 gets a big price cut</title>
-      <link>https://www.techradar.com/pro/a-well-balanced-and-genuinely-impressive-home-and-office-mini-pc-the-geekom-a5-pro-with-ryzen-5-gets-a-big-price-cut</link>
-      <pubDate>Mon, 20 Jul 2026 15:50:55 +0000</pubDate>
-      <guid isPermaLink="false">rxFhHQi7iD6ce3xkbRsdwC</guid>
-      <description>The diminutive desktop, with an AMD Ryzen 5 processor, 16GB of RAM and a 1TB SSD gets big price cut at Amazon.</description>
+      <title>Judge pauses Paramount&#8217;s attempt to buy Warner Bros. Discovery</title>
+      <link>https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro</link>
+      <pubDate>2026-07-20T13:37:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=968055</guid>
+      <description>A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Mart&#237;nez-Olgu&#237;n said that based on the new company's market share, "the Court is persuaded that it can presume [&#8230;]</description>
     </item>
     <item>
-      <title>Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems</title>
-      <link>https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems</link>
-      <pubDate>Mon, 20 Jul 2026 15:49:20 GMT</pubDate>
-      <guid isPermaLink="false">2mVeCjVtvcNKVzvsGMLN1J</guid>
-      <description>Hugging Face&#8217;s incident response team first turned to frontier AI models to analyze a breach of the company&#8217;s production infrastructure, and the models refused to help. Commercial safety guardrails built to stop attackers blocked every forensic query because they treated the IR team&#8217;s real exploit data the same way they would treat a live attack.The attacker, an autonomous AI agent running the campaign end to end, moved laterally across the Hugging Face infrastructure for a weekend, undetected and unstopped.Security leaders are quick to recognize the pattern and diagnose what went wrong. &#8220;I&#8217;ve...</description>
+      <title>Netflix shows its love for AI once again &#8212; the platform has acquired Ben Affleck&#8217;s firm InterPositive for $587 million, and it&#8217;s just given me another reason to cancel my subscription</title>
+      <link>https://www.techradar.com/streaming/netflix/netflix-shows-its-love-for-ai-once-again-the-platform-has-acquired-ben-afflecks-firm-interpositive-for-usd587-million-and-its-just-given-me-another-reason-to-cancel-my-subscription</link>
+      <pubDate>Mon, 20 Jul 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">jYLNuR6Mkyo8AEExHkD5FG</guid>
+      <description>Netflix revealed that it bought AI firm InterPositive for $587 million, and subscribers are concerned for future movies and shows.</description>
     </item>
     <item>
-      <title>Fin des soldes : c&#8217;est le moment d&#8217;acheter votre v&#233;lo ou trottinette &#233;lectrique avant la rentr&#233;e</title>
-      <link>https://www.frandroid.com/bons-plans/3161243_fin-des-soldes-cest-le-moment-dacheter-votre-velo-ou-trottinette-electrique-avant-la-rentree</link>
-      <pubDate>Mon, 20 Jul 2026 15:49:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3161243_fin-des-soldes-cest-le-moment-dacheter-votre-velo-ou-trottinette-electrique-avant-la-rentree</guid>
-      <description>
-Si trouver un v&#233;lo &#233;lectrique endurant ou une trottinette s&#233;curisante sans y laisser un demi-salaire rel&#232;ve souvent du d&#233;fi, la fin de l'&#233;v&#233;nement r&#233;serve encore d'excellentes surprises. Avec les soldes qui se terminent demain, c'est donc l'ultime opportunit&#233; de vous &#233;quiper &#224; moindre co&#251;t avant la rentr&#233;e. D&#233;couvrez notre s&#233;lection des meilleures offres &#224; saisir in extremis !
-...</description>
+      <title>70% of Americans don&#8217;t want data centers built nearby, but the government is seizing private property to force construction to start</title>
+      <link>https://www.techradar.com/pro/70-percent-of-americans-dont-want-data-centers-built-nearby-but-the-government-is-seizing-private-property-to-force-construction-to-start</link>
+      <pubDate>Mon, 20 Jul 2026 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">U4M6drUDT8SuBStmv9q9ZB</guid>
+      <description>'Eminent domain' is being used to force landowners to sell their personal property to help build infrastructure for data centers.</description>
     </item>
     <item>
-      <title>Adobe camera app&#8217;s new feature will critique your photos using AI</title>
-      <link>https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/</link>
-      <pubDate>Mon, 20 Jul 2026 15:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144118</guid>
-      <description>Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app</description>
+      <title>Somebody paid nearly $1 million for Nvidia CEO Jensen Huang&#8217;s leather jacket. Is it the new Steve Jobs black turtleneck?</title>
+      <link>https://www.fastcompany.com/91576571/nvidia-ceo-jensen-huang-leather-jacket-sothebys-auction-new-steve-jobs-black-turtleneck</link>
+      <pubDate>2026-07-20T17:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91576571/nvidia-ceo-jensen-huang-leather-jacket-sothebys-auction-new-steve-jobs-black-turtleneck</guid>
+      <description>Huang has joined the list of tech moguls whose hand-me-downs go for thousands of dollars at auction.
+At nearly $10,000 a pop, Tom Ford leather jackets are already pricey. But put one on a tech CEO, and its value will soar even higher&#8212;almost a million dollars higher, apparently.</description>
     </item>
     <item>
-      <title>Pourquoi cette batterie externe Ugreen de 10 000 mAh et 55 W &#224; -40 % va plaire &#224; tout le monde cet &#233;t&#233; ?</title>
-      <link>https://www.frandroid.com/bons-plans/3115693_pourquoi-cette-batterie-externe-ugreen-de-10-000-mah-et-55-w-a-moins-40-pourcents-va-plaire-a-tout-le-monde-cet-ete</link>
-      <pubDate>Mon, 20 Jul 2026 15:41:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3115693_pourquoi-cette-batterie-externe-ugreen-de-10-000-mah-et-55-w-a-moins-40-pourcents-va-plaire-a-tout-le-monde-cet-ete</guid>
-      <description>
-Avec son c&#226;ble USB-C et ses deux ports de charge, cette Ugreen Nexode Pro de 55 W est un objet qui plaira &#224; tout le monde. En ce moment, elle chute &#224; 35,98 euros au lieu de 59,99 euros sur Amazon.
-</description>
+      <title>The Eufy E25 2-in-1 robot vacuum is $400 off at Amazon right now</title>
+      <link>https://mashable.com/life/july-20-eufy-e25-deal</link>
+      <pubDate>Mon, 20 Jul 2026 17:14:01 +0000</pubDate>
+      <guid isPermaLink="false">01ofaLEQb1EEa5upSL6g1H5</guid>
+      <description>As of July 20, you can get the Eufy E25 robot vacuum-mop combo for $599.99, down from $999.99, at Amazon.</description>
     </item>
     <item>
-      <title>I loved this portable DIY 35mm film scanner with built-in light, and it could save me a lot of money &#8212; but it&#8217;s not as simple as it sounds</title>
-      <link>https://www.techradar.com/cameras/photography/i-loved-this-portable-diy-35mm-film-scanner-with-built-in-light-and-it-could-save-me-a-lot-of-money-but-its-not-as-simple-as-it-sounds</link>
-      <pubDate>Mon, 20 Jul 2026 15:41:36 +0000</pubDate>
-      <guid isPermaLink="false">UyLSuNUfg5JFMFECdH8rr9</guid>
-      <description>I have fallen in love with this scanner, but its equipment requirements mean it's not for everyone.</description>
+      <title>Jimothy the raccoon merch is taking over Etsy and Amazon</title>
+      <link>https://www.fastcompany.com/91576506/jimothy-the-raccoon-shirts-mugs-stickers-merch-etsy-amazon</link>
+      <pubDate>2026-07-20T17:05:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91576506/jimothy-the-raccoon-shirts-mugs-stickers-merch-etsy-amazon</guid>
+      <description>Seattle&#8217;s own &#8220;Raider of Trash Cans&#8221; is joining the ranks of viral animals from Moo Deng to Punch the monkey.
+Last week, Seattle resident Kiana Hall spotted an oddly bedraggled-looking raccoon running across her backyard. She took a video, posted it on Instagram, and named the creature &#8220;Jimothy&#8221; in her caption. </description>
     </item>
     <item>
-      <title>ShinyHunters hit medial giant Abbott, disrupting cancer drug research and more</title>
-      <link>https://www.techradar.com/pro/security/shinyhunters-hit-medial-giant-abbott-disrupting-cancer-drug-research-and-more</link>
-      <pubDate>Mon, 20 Jul 2026 15:40:00 +0000</pubDate>
-      <guid isPermaLink="false">5GpGC7KvaSMddANDJHbqDY</guid>
-      <description>Abbott suffers two attacks in the same week, and at least one is demanding a ransom payment.</description>
+      <title>I tested Sony's new entry-level turntable and, though it sounds decent enough, you deserve so much more than a brand logo for this money</title>
+      <link>https://www.techradar.com/audio/turntables/sony-ps-lx3bt-review</link>
+      <pubDate>Mon, 20 Jul 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Kozr9gRNwE2VerZoawEET7</guid>
+      <description>The Sony PS-LX3BT is a competent performer of an entry-level turntable, let down by a cheap chassis and high asking price</description>
     </item>
     <item>
-      <title>Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk</title>
-      <link>https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/</link>
-      <pubDate>Mon, 20 Jul 2026 15:35:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144249</guid>
-      <description>Two critical security flaws in WordPress&#8217; software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.</description>
+      <title>68 major housing markets where home prices are falling</title>
+      <link>https://www.fastcompany.com/91576583/housing-market-68-major-markets-where-home-prices-are-falling</link>
+      <pubDate>2026-07-20T17:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91576583/housing-market-68-major-markets-where-home-prices-are-falling</guid>
+      <description>After a burst of softening, the count of major metros seeing year-over-year home price declines has stabilized over the past 12 months. But it&#8217;s still a soft nationally aggregated market.
+Want more housing market stories from Lance Lambert&#8217;s ResiClub in your inbox? Subscribe to the ResiClub newsletter.</description>
     </item>
     <item>
-      <title>Google repousse la sortie de sa plus puissante IA&#160;: ce gros d&#233;faut qui bloque tout en interne</title>
-      <link>https://www.01net.com/actualites/google-repousse-la-sortie-de-sa-plus-puissante-ia-ce-gros-defaut-qui-bloque-tout-en-interne.html</link>
-      <pubDate>Mon, 20 Jul 2026 15:33:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1360202</guid>
-      <description>Attendu pour juin 2026, le surpuissant mod&#232;le d'intelligence artificielle Gemini 3.5 Pro de Google accuse un s&#233;rieux retard. En interne, ses lacunes en programmation informatique inqui&#232;tent.</description>
+      <title>Ofcom promises 'faster Wi-Fi and better mobile performance' in the UK thanks to pioneering 6GHz plan that uses 'air traffic control' wizardry for Wi-Fi and 6G</title>
+      <link>https://www.techradar.com/computing/wi-fi-broadband/ofcom-promises-faster-wi-fi-and-better-mobile-performance-in-the-uk-thanks-to-pioneering-6ghz-plan-that-uses-air-traffic-control-wizardry-for-wi-fi-and-6g</link>
+      <pubDate>Mon, 20 Jul 2026 16:57:26 +0000</pubDate>
+      <guid isPermaLink="false">Xm6zkTQpPJrY7DWiGvQbkM</guid>
+      <description>Ofcom's moving forward with its 6GHz plan that works like air traffic control for wireless signals.</description>
     </item>
     <item>
-      <title>Soldes d&#8217;&#233;t&#233; 2026 : les meilleures offres casques, &#233;couteurs et enceintes avant la fin de la derni&#232;re d&#233;marque</title>
-      <link>https://www.frandroid.com/bons-plans/3182251_casques-ecouteurs-et-enceintes-saffichent-a-prix-casse-pour-la-fin-des-soldes-les-10-offres-a-glisser-durgence-dans-votre-valise</link>
-      <pubDate>Mon, 20 Jul 2026 15:31:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3182251_casques-ecouteurs-et-enceintes-saffichent-a-prix-casse-pour-la-fin-des-soldes-les-10-offres-a-glisser-durgence-dans-votre-valise</guid>
-      <description>
-Plus que quelques jours pour profiter des soldes d'&#233;t&#233; et refaire votre &#233;quipement audio &#224; moindre co&#251;t ! Casques de r&#233;f&#233;rence, &#233;couteurs True Wireless et enceintes nomades affichent d'excellents prix pour la derni&#232;re d&#233;marque. 
-</description>
-    </item>
-    <item>
-      <title>How long is a new iPhone actually supposed to last?</title>
-      <link>https://www.engadget.com/2216276/how-long-new-iphone-last-lifespan/</link>
-      <pubDate>Mon, 20 Jul 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2216276/how-long-new-iphone-last-lifespan/</guid>
-      <description>Apple devices tend to be pretty durable, and the average lifespan of a new iPhone seems to be fairly consistent.</description>
-    </item>
-    <item>
-      <title>The new, wide Galaxy Z Fold 8 revealed by BTS member J-Hope</title>
-      <link>https://mashable.com/tech/samsung-galaxy-wide-fold-8-revealed-by-bts</link>
-      <pubDate>Mon, 20 Jul 2026 15:28:47 +0000</pubDate>
-      <guid isPermaLink="false">06O2iW6DTrwmG8tcUkyur5g</guid>
-      <description>BTS's J-Hope was filmed using Samsung's unreleased Galaxy Z Fold 8 Wide on tour, offering an early look at the unreleased foldable.</description>
-    </item>
-    <item>
-      <title>Save $640 on Samsungs 870 EVO 2TB internal SSD</title>
-      <link>https://mashable.com/tech/july-20-samsung-870-evo-ssd-deal</link>
-      <pubDate>Mon, 20 Jul 2026 15:24:44 +0000</pubDate>
-      <guid isPermaLink="false">07BOyvv1oU4qq8vHkKpMhyr</guid>
-      <description>Upgrade your PC storage with a 2TB Samsung 870 EVO internal SSD, currently on sale for $399.99 at Amazon.</description>
-    </item>
-    <item>
-      <title>YouTube clarifies policies around AI slop and upsetting videos</title>
-      <link>https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/</link>
-      <pubDate>Mon, 20 Jul 2026 15:23:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144190</guid>
-      <description>YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can&#8217;t earn ad revenue.</description>
-    </item>
-    <item>
-      <title>This new, Beijing-based AI model is causing such a stir that subscriptions are now on hold</title>
-      <link>https://www.fastcompany.com/91576459/this-new-beijing-based-ai-model-causing-such-stir-subscriptions-are-now-on-hold</link>
-      <pubDate>2026-07-20T15:19:14</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91576459/this-new-beijing-based-ai-model-causing-such-stir-subscriptions-are-now-on-hold</guid>
-      <description>Chinese startup Moonshot AI says new subscriptions have been temporarily suspended due to overwhelming demand.
-The new, powerful Chinese artificial intelligence model Kimi K3, which has caused a stir in the U.S. tech industry, has suspended new subscriptions after a flood in demand overwhelmed capacity within days of the launch.The development highlighted challenges faced by Chinese AI models in serving a growing user base at home and abroad at a time the U.S.-China tech race is heating up.Chinese open-source, lower-cost advanced AI models, including DeepSeek&#8217;s latest V4, have been moving fast...</description>
-    </item>
-    <item>
-      <title>Little House on the Prairie star teases first details of season 2's On the Banks of Plum Creek adaptation as production begins &#8212; 'It's going to be very exciting'</title>
-      <link>https://www.techradar.com/streaming/netflix/little-house-on-the-prairie-season-2-update</link>
-      <pubDate>Mon, 20 Jul 2026 15:18:57 +0000</pubDate>
-      <guid isPermaLink="false">4w9wHLoGdXs7a62iEZPRBF</guid>
-      <description>Little House on the Prairie season 2 was renewed before we even saw season 1 &#8212; and now that production is underway, one star has hinted what's to come in new episodes.</description>
-    </item>
-    <item>
-      <title>Soldes d&#8217;&#233;t&#233; : voici les 8 ultimes bons plans gaming &#224; saisir avant demain</title>
-      <link>https://www.frandroid.com/bons-plans/3171635_soldes-dete-voici-les-8-ultimes-bons-plans-gaming-a-saisir-avant-demain</link>
-      <pubDate>Mon, 20 Jul 2026 15:15:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3171635_soldes-dete-voici-les-8-ultimes-bons-plans-gaming-a-saisir-avant-demain</guid>
-      <description>
-Avis aux joueuses et aux joueurs : les soldes d'&#233;t&#233; touchent &#224; leur fin ! Mais avant le clap de fin d&#233;finitif, il reste encore de tr&#232;s belles opportunit&#233;s &#224; saisir au rayon gaming. Des consoles de jeux incontournables aux PC portables taill&#233;s pour les jeux AAA, sans oublier les manettes. D&#233;couvrez toutes les offres pour vous &#233;quiper au meilleur prix avant qu'il ne soit trop tard !
-...</description>
-    </item>
-    <item>
-      <title>Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers</title>
-      <link>https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/</link>
-      <pubDate>Mon, 20 Jul 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144195</guid>
-      <description>AI&#160;infrastructure company Infinity&#160;announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and&#160;researchers&#160;from companies&#160;such as OpenAI and Anthropic.</description>
-    </item>
-    <item>
-      <title>Avengers: Doomsday finally has a real trailer</title>
-      <link>https://www.engadget.com/2218652/avengers-doomsday-finally-has-a-real-trailer/</link>
-      <pubDate>Mon, 20 Jul 2026 15:14:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2218652/avengers-doomsday-finally-has-a-real-trailer/</guid>
-      <description>After too many weird teasers, Avengers: Doomsday finally has a real trailer.</description>
-    </item>
-    <item>
-      <title>'A high-performing endurance watch that operates wonderfully' &#8212; the Garmin Epix Pro (2nd Gen) crashes to $549.99 at Best Buy</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/a-high-performing-endurance-watch-that-operates-wonderfully-the-garmin-epix-pro-2nd-gen-crashes-to-usd549-99-at-best-buy</link>
-      <pubDate>Mon, 20 Jul 2026 15:09:55 +0000</pubDate>
-      <guid isPermaLink="false">DyAjznP52EK96ULTam9uPa</guid>
-      <description>If you're looking for a highly-rated sports watch, then the Garmin Epix Pro (2nd Gen) for $549.99 at Best Buy is an absolute steal.</description>
-    </item>
-    <item>
-      <title>Samsung fait entrer 34 nouvelles &#339;uvres du Louvre, dont la Joconde, sur ses t&#233;l&#233;viseurs</title>
-      <link>https://www.frandroid.com/marques/samsung/3185905_samsung-fait-entrer-34-nouvelles-oeuvres-du-louvre-dont-la-joconde-sur-ses-televiseurs</link>
-      <pubDate>Mon, 20 Jul 2026 15:06:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3185905_samsung-fait-entrer-34-nouvelles-oeuvres-du-louvre-dont-la-joconde-sur-ses-televiseurs</guid>
-      <description>
-Samsung Electronics annonce l'arriv&#233;e de 34 nouvelles &#339;uvres issues du mus&#233;e du Louvre sur l'Art Store, portant &#224; 51 le nombre total d'&#339;uvres du Louvre d&#233;sormais accessibles dans le monde entier.
-</description>
-    </item>
-    <item>
-      <title>LibreOffice says Microsoft 'lock-in' with Office files is hurting users around the globe</title>
-      <link>https://www.techradar.com/pro/libreoffice-says-microsoft-lock-in-with-office-files-is-hurting-users-around-the-globe</link>
-      <pubDate>Mon, 20 Jul 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">YAecWNov26zmuxEXYU5xtR</guid>
-      <description>Enterprises and agencies looking to adopt open source software alternative are struggling to ditch XML formats.</description>
-    </item>
-    <item>
-      <title>Apr&#232;s le scandale Siri, Apple glisse un micro au Genius Bar</title>
-      <link>https://www.01net.com/actualites/apres-le-scandale-siri-apple-glisse-un-micro-au-genius-bar.html</link>
-      <pubDate>Mon, 20 Jul 2026 15:04:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1360212</guid>
-      <description>Apple testerait dans quelques Apple Store un syst&#232;me d'IA baptis&#233; Live Notes, capable d'enregistrer et de r&#233;sumer vos &#233;changes avec les techniciens. Les garanties annonc&#233;es sont nombreuses. Les zones d'ombre, aussi.</description>
-    </item>
-    <item>
-      <title>Jusqu&#8217;&#224; 850 &#8364; d&#8217;&#233;conomie : la TVA sur les climatiseurs r&#233;versibles chute enfin &#224; 5,5 %</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3185763_jusqua-850-e-deconomie-la-tva-sur-les-climatiseurs-reversibles-chute-enfin-a-55</link>
-      <pubDate>Mon, 20 Jul 2026 15:04:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3185763_jusqua-850-e-deconomie-la-tva-sur-les-climatiseurs-reversibles-chute-enfin-a-55</guid>
-      <description>
-L'installation d&#8217;un climatiseur (pompe &#224; chaleur r&#233;versible) co&#251;te d&#233;sormais beaucoup moins cher. Depuis le 18 juillet dernier, ces &#233;quipements b&#233;n&#233;ficient d'un taux de TVA r&#233;duit &#224; 5,5 % au lieu de 20 %. Une mesure qui permet de r&#233;aliser des &#233;conomies significatives, &#224; condition toutefois de choisir un mod&#232;le &#233;ligible.
-</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Watch Ultra 2 leaks, see the sleek new wearable</title>
-      <link>https://mashable.com/life/samsung-galaxy-watch-ultra-2-leak-photos-renders</link>
-      <pubDate>Mon, 20 Jul 2026 15:03:05 +0000</pubDate>
-      <guid isPermaLink="false">003Q4dlLI51vyYs38sT3x8H</guid>
-      <description>Samsung's new high-end smartwatch feels more real than ever thanks to some leaked renders.</description>
-    </item>
-    <item>
-      <title>Hackers stole &#8216;significant&#8217; amount of data from tech firm relied on by thousands of US hospitals and pharmacies</title>
-      <link>https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/</link>
-      <pubDate>Mon, 20 Jul 2026 15:01:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144192</guid>
-      <description>Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.</description>
-    </item>
-    <item>
-      <title>Dr. Jill Lepore on why AI backlash is vital for the future</title>
-      <link>https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk</link>
-      <pubDate>2026-07-20T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967884</guid>
-      <description>Today, I&#8217;m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25. Jill is one of the best writers there is at identifying institutional patterns in history, and Decoder is a show about systems, so [&#8230;]</description>
-    </item>
-    <item>
-      <title>Avatar Aang: The Last Airbender should be released in IMAX rather than on Paramount+ &#8212; the jaw-dropping animation is easily the best part of the hero's return</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/avatar-aang-the-last-airbender-review</link>
-      <pubDate>Mon, 20 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Cx8y5e8TZ7D7ygMyTfqZmg</guid>
-      <description>13 years after the Fire Nation's defeat, the gang is back together. But when the best part of Avatar Aang: The Last Airbender is its animation, Paramount+ isn't getting the best out of it.</description>
-    </item>
-    <item>
-      <title>Un pare-soleil qui produit de l&#8217;&#233;lectricit&#233; : le surprenant accessoire d&#8217;EcoFlow pour Tesla</title>
-      <link>https://www.frandroid.com/marques/tesla/3185819_un-pare-soleil-qui-produit-de-lelectricite-le-surprenant-accessoire-decoflow-pour-tesla</link>
-      <pubDate>Mon, 20 Jul 2026 14:51:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3185819_un-pare-soleil-qui-produit-de-lelectricite-le-surprenant-accessoire-decoflow-pour-tesla</guid>
-      <description>
-EcoFlow lance HeatGuard, un film solaire &#224; coller sur le toit vitr&#233; des Tesla Model 3 et Y, annonc&#233; aux alentours de 683&#160;&#8364; pour la version Model Y. Le panneau recharge une batterie solaire portable de la marque, et non la batterie de la voiture.
-</description>
-    </item>
-    <item>
-      <title>Les TV OLED, QLED et m&#234;me RGB Mini LED sont &#224; prix cass&#233;s pour la fin des soldes d&#8217;&#233;t&#233;</title>
-      <link>https://www.frandroid.com/bons-plans/3152463_les-tv-oled-qled-et-meme-rgb-mini-led-sont-a-prix-casses-pour-la-fin-des-soldes-dete</link>
-      <pubDate>Mon, 20 Jul 2026 14:49:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3152463_les-tv-oled-qled-et-meme-rgb-mini-led-sont-a-prix-casses-pour-la-fin-des-soldes-dete</guid>
-      <description>
-Les TV 4K sont &#224; l'honneur pour la fin des soldes d'&#233;t&#233; ! OLED aux noirs infinis, RGB Mini-LED ultra-lumineux, &#233;crans g&#233;ants ou mod&#232;les pas chers : il y en a absolument pour tous les go&#251;ts et tous les budgets. Voici notre s&#233;lection des 10 meilleures offres !
-</description>
-    </item>
-    <item>
-      <title>I wore the Samsung Galaxy XR headset for a whole work week, and it&#8217;s so close to greatness &#8212; but the head strap lets it down</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/i-wore-the-samsung-galaxy-xr-headset-for-a-whole-work-week-and-its-so-close-to-greatness-but-the-head-strap-lets-it-down</link>
-      <pubDate>Mon, 20 Jul 2026 14:42:53 +0000</pubDate>
-      <guid isPermaLink="false">nYBS6d58moxciQ7RAjArnD</guid>
-      <description>One extreme week with the Samsung Galaxy XR &#8212; it&#8217;s so close to greatness, but I need a better head strap.</description>
-    </item>
-    <item>
-      <title>The AirPods Max 2 are down to their second-best price</title>
-      <link>https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale</link>
-      <pubDate>2026-07-20T10:41:29-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=967822</guid>
-      <description>There are a ton of deals available to shop today thanks to Best Buy&#8217;s &#8220;Black Friday in July&#8221; sale lasting all week. The sale typically aligns closely with Prime Day each year, but of course, Amazon&#8217;s shopping holiday happened much earlier than we expected. So it&#8217;s nice to have some deals in July. One of [&#8230;]</description>
-    </item>
-    <item>
-      <title>I've found the 45 top tech deals in the Best Buy Black Friday in July sale &#8212; get up to 50% off Apple, LG, Nintendo, Garmin, and more</title>
-      <link>https://www.techradar.com/seasonal-sales/ive-found-the-45-top-tech-deals-in-the-best-buy-black-friday-in-july-sale-get-up-to-50-percent-off-apple-lg-nintendo-garmin-and-more</link>
-      <pubDate>Mon, 20 Jul 2026 14:38:32 +0000</pubDate>
-      <guid isPermaLink="false">UUPmukwajPbK7ZkMbkbhJL</guid>
-      <description>The Best Buy Black Friday in July sale is now live, so I've picked the best deals across TVs, appliances, laptops, headphones, wearables, and more.</description>
-    </item>
-    <item>
-      <title>Its hot outside. Train indoors on the Peloton Tread while its $400 off.</title>
-      <link>https://mashable.com/life/july-20-peloton-tread-deal</link>
-      <pubDate>Mon, 20 Jul 2026 14:31:13 +0000</pubDate>
-      <guid isPermaLink="false">05RPWJht52jrmm6HfFXwGym</guid>
-      <description>The Peloton Tread is on sale at Amazon for $2,895, down from the list price of $3,295. That's a 12% discount.</description>
-    </item>
-    <item>
-      <title>Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/</link>
-      <pubDate>Mon, 20 Jul 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143067</guid>
-      <description>Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That&#8217;s&#160;why we&#8217;re&#160;bringing Flock&#8217;s founder and CEO Garrett Langley&#160;to the stage to speak about those very issues.</description>
-    </item>
-    <item>
-      <title>Daisy&#8217;s first headphones sold out fast &#8212; here&#8217;s why everyone&#8217;s talking about them</title>
-      <link>https://mashable.com/tech/daisy-one-headphones-restock</link>
-      <pubDate>Mon, 20 Jul 2026 14:27:02 +0000</pubDate>
-      <guid isPermaLink="false">03ZSSIBXLGVT23XTTcOdyHp</guid>
-      <description>A new headphone brand just sold out its first run. Here&#8217;s why Daisy One is catching the attention of audio fans.</description>
+      <title>Today only: The Ecovacs Goat A2000 LiDAR Pro robot lawn mower is on sale for over $500 off</title>
+      <link>https://mashable.com/life/july-20-ecovacs-goat-a2000-lidar-pro-deal</link>
+      <pubDate>Mon, 20 Jul 2026 16:56:27 +0000</pubDate>
+      <guid isPermaLink="false">02onjzmr6gP4UVIppvQtO9j</guid>
+      <description>The Ecovacs Goat A2000 LiDAR Pro Robot Lawn Mower is on sale at Amazon for $1,498, down from the list price of $1,999.99. That's a 25$ discount.</description>
     </item>
   </channel>
 </rss>
