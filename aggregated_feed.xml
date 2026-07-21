@@ -3,106 +3,108 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 21 Jul 2026 22:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:57:20 GMT</lastBuildDate>
+    <item>
+      <title>Meta is testing an AI bedtime story app for people with no imagination</title>
+      <link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
+      <pubDate>Tue, 21 Jul 2026 23:55:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145004</guid>
+      <description>Meta's StoryKit app is only available in certain regions while the company tests how parents react to it.</description>
+    </item>
+    <item>
+      <title>This 24-foot inflatable drone can fly for 10 hours, covering 500 miles one way, and can probably fit in your car</title>
+      <link>https://www.techradar.com/pro/this-24-foot-inflatable-drone-can-fly-for-10-hours-covering-500-miles-one-way-and-can-probably-fit-in-your-car</link>
+      <pubDate>Tue, 21 Jul 2026 23:20:00 +0000</pubDate>
+      <guid isPermaLink="false">9QJTgsdwjNihbN6zUnVrcP</guid>
+      <description>French startup Celeste Ecoflyers is developing an inflatable drone capable of 10-hour flights, a 500-mile range, and compact transport inside cars.</description>
+    </item>
+    <item>
+      <title>Is the All-New Range Rover GT Stepping on Jaguar&#8217;s Tail?</title>
+      <link>https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/</link>
+      <pubDate>Tue, 21 Jul 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="false">6a5decaec7ce70962d184fd8</guid>
+      <description>It&#8217;s &#8220;the most car-like Range Rover ever created,&#8221; but will this all-electric grand tourer spoil Jaguar&#8217;s Type 01 party?</description>
+    </item>
+    <item>
+      <title>Range Rover d&#233;voile enfin son GT &#233;lectrique et l&#8217;int&#233;rieur va faire jaser</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3187531_range-rover-devoile-enfin-son-gt-electrique-et-linterieur-va-faire-jaser</link>
+      <pubDate>Tue, 21 Jul 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3187531_range-rover-devoile-enfin-son-gt-electrique-et-linterieur-va-faire-jaser</guid>
+      <description>
+Range Rover ajoute un cinqui&#232;me mod&#232;le &#224; sa famille, le Range Rover GT, un grand tourer 100&#160;% &#233;lectrique. Pour l&#8217;instant, la marque montre surtout un habitacle et des prototypes camoufl&#233;s&#160;: ni prix, ni autonomie, ni date pr&#233;cise.
+</description>
+    </item>
+    <item>
+      <title>On est mont&#233; &#224; bord du Range Rover GT, la surprise &#233;lectrique de la marque</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3186769_on-est-monte-a-bord-du-range-rover-gt-la-surprise-electrique-de-la-marque</link>
+      <pubDate>Tue, 21 Jul 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3186769_on-est-monte-a-bord-du-range-rover-gt-la-surprise-electrique-de-la-marque</guid>
+      <description>
+C'est peut-&#234;tre le mod&#232;le le plus secret du moment. Range Rover agrandit la famille avec l'in&#233;dit Range Rover GT. J'ai eu la chance de voir et me glisser &#224; bord de ce Grand Tourer &#233;lectrique qui casse compl&#232;tement les codes de la marque britannique. Pr&#234;t pour une visite guid&#233;e priv&#233;e en infiltr&#233; ?
+</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Wednesday, July 22 (game #1137)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-22-july-2026</link>
+      <pubDate>Tue, 21 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yarXsrbeiKLyKebLTMxbg4</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Wednesday, July 22 (game #871)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-22-july-2026</link>
+      <pubDate>Tue, 21 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">mvufk7fhtarAicdHMmdS24</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Wednesday, July 22 (game #1640)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-22-july-2026</link>
+      <pubDate>Tue, 21 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">KGSxF6fBHRbW33dsqKcKM3</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>Trump administration to spend $1 billion on new border surveillance system</title>
+      <link>https://mashable.com/tech/us-mexico-border-surveillance-towers</link>
+      <pubDate>Tue, 21 Jul 2026 22:52:45 +0000</pubDate>
+      <guid isPermaLink="false">02mB0QvDMHteQIApT8AA7oH</guid>
+      <description>Homeland Security's plans for an AI-powered border security system are still moving forward, according to a recent budget assessment.</description>
+    </item>
+    <item>
+      <title>OpenAI Models Escaped Containment and Hacked Hugging Face</title>
+      <link>https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/</link>
+      <pubDate>Tue, 21 Jul 2026 22:50:01 +0000</pubDate>
+      <guid isPermaLink="false">6a5fe022f95e7d91469f8f38</guid>
+      <description>The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.</description>
+    </item>
+    <item>
+      <title>Leaving Apple, Intel, and Nvidia in the dust? Huawei could join Samsung as the only tech firms producing its own CPUs, SSDs, and DRAM</title>
+      <link>https://www.techradar.com/pro/leaving-apple-intel-and-nvidia-in-the-dust-huawei-could-join-samsung-as-the-only-tech-firms-producing-its-own-cpus-ssds-and-dram</link>
+      <pubDate>Tue, 21 Jul 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">uerfxg2v3hRnRuhrouJTfb</guid>
+      <description>Only Samsung currently makes its own CPUs, SSDs, and DRAM, but Huawei may be quietly building its own alternative.</description>
+    </item>
+    <item>
+      <title>Neill Blomkamp&#8217;s new zombie AI &#8216;film&#8217; is just slop warmed over</title>
+      <link>https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance</link>
+      <pubDate>2026-07-21T18:06:43-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=968703</guid>
+      <description>On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Disclosure Day is now available to watch on digital. When will it be streaming?</title>
+      <link>https://mashable.com/entertainment/how-to-watch-disclosure-day</link>
+      <pubDate>Tue, 21 Jul 2026 22:05:05 +0000</pubDate>
+      <guid isPermaLink="false">07tDGdqBPvqJYaYlLwKyP8y</guid>
+      <description>Find out how to watch Steven Spielberg's 'Disclosure Day' at home, including when and where it will be streaming.</description>
+    </item>
     <item>
       <title>'Either you betray your values, or you become irrelevant': Quote of the day by Anthropic CEO Dario Amodei on the emerging AI industry</title>
       <link>https://www.techradar.com/pro/either-you-betray-your-values-or-you-become-irrelevant-quote-of-the-day-by-anthropic-ceo-dario-amodei-on-the-emerging-ai-industry</link>
       <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">45LNXmrDQboF5s83GVbUmR</guid>
       <description>Amodei was OpenAI's vice president of research before leaving in 2021 to start his own company, Anthropic</description>
-    </item>
-    <item>
-      <title>Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size</title>
-      <link>https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size</link>
-      <pubDate>Tue, 21 Jul 2026 21:49:43 GMT</pubDate>
-      <guid isPermaLink="false">tQ9SbLfILrlJDmQMbB7rB</guid>
-      <description>Poolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable model to date on Tuesday &#8212; and made an unusually aggressive bet that radical transparency, not raw scale, is how a smaller lab competes at the frontier.The model, Laguna S 2.1, is a 118-billion-parameter Mixture-of-Experts (MoE) system that activates only 8 billion parameters per token, supports a context window of up to 1 million tokens, and &#8212; according to benchmarks published by the company &#8212; matches or beats open mode...</description>
-    </item>
-    <item>
-      <title>OpenAI says it accidentally hacked Hugging Face with a new AI system</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai</link>
-      <pubDate>2026-07-21T17:48:54-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=968988</guid>
-      <description>OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-release model" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>France will ban social media for children under 15</title>
-      <link>https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15/</link>
-      <pubDate>Tue, 21 Jul 2026 21:43:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15/</guid>
-      <description>The country's new law also bans the use of mobile phones in schools.</description>
-    </item>
-    <item>
-      <title>US Navy plans for 'Air Wing of the Future' with next-generation, pilotless carrier-based 1,150-mile-range drones to fly alongside manned aircraft</title>
-      <link>https://www.techradar.com/pro/u-s-navy-plans-for-air-wing-of-the-future-with-next-generation-pilotless-carrier-based-1-150-mile-range-drones-to-fly-alongside-manned-aircraft</link>
-      <pubDate>Tue, 21 Jul 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">MQSjbaxhdSXGYKdA5424gZ</guid>
-      <description>The US Navy wants autonomous carrier drones capable of eight missions, 1,150-mile ranges, and operations alongside advanced manned aircraft.</description>
-    </item>
-    <item>
-      <title>Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens</title>
-      <link>https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens</link>
-      <pubDate>Tue, 21 Jul 2026 21:19:00 GMT</pubDate>
-      <guid isPermaLink="false">1n4evrnlhhVragZn2ui5nv</guid>
-      <description>GPU memory is the most expensive resource in production AI, and it's also the one running out fastest. Long context windows and multi-turn conversations force AI models to repeatedly recompute information they've already processed, consuming GPU memory and compute that could otherwise serve additional users or generate new responses.Instead of treating GPU memory as the limiting resource,  why not extend it with much cheaper storage technologies? Weka, for one, believes that cheap flash storage can close that gap. The company's NeuralMesh 6 software platform, launching alongside its first self...</description>
-    </item>
-    <item>
-      <title>Judge approves Anthropics $1.5 billion settlement with authors</title>
-      <link>https://mashable.com/tech/judge-approves-1-5-billion-anthropic-copyright-settlement</link>
-      <pubDate>Tue, 21 Jul 2026 21:06:15 +0000</pubDate>
-      <guid isPermaLink="false">05LIyNoVPuzTKv2IXyWPLTn</guid>
-      <description>Anthropic's $1.5B settlement with authors over pirated books gets court approval</description>
-    </item>
-    <item>
-      <title>These are the countries moving to ban social media for children</title>
-      <link>https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/</link>
-      <pubDate>Tue, 21 Jul 2026 20:57:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3092894</guid>
-      <description>Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.</description>
-    </item>
-    <item>
-      <title>OpenAI says Hugging Face was breached by its own pre-release models</title>
-      <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/</link>
-      <pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144991</guid>
-      <description>OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.</description>
-    </item>
-    <item>
-      <title>2026 LG OLED evo TVs are getting a new Creator Original picture mode</title>
-      <link>https://www.engadget.com/2220242/2026-lg-oled-evo-tvs-are-getting-a-new-creator-original-picture-mode/</link>
-      <pubDate>Tue, 21 Jul 2026 20:52:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2220242/2026-lg-oled-evo-tvs-are-getting-a-new-creator-original-picture-mode/</guid>
-      <description>The elevated streaming experience is happening in collaboration with Prime Video.</description>
-    </item>
-    <item>
-      <title>This beautiful data visualization shows how Spain obliterated Argentina in the World Cup final</title>
-      <link>https://www.fastcompany.com/91577156/world-cup-soccer-visualization-data</link>
-      <pubDate>2026-07-21T20:49:51</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91577156/world-cup-soccer-visualization-data</guid>
-      <description>The 1-0 score doesn&#8217;t reflect the overwhelming domination that Spain had over Messi and his cohorts.
-Spain dominated the ball and occupied the entire pitch at MetLife Stadium during the World Cup final against Argentina. It didn&#8217;t matter that Messi&#8217;s teammates fouled, elbowed, and used every trick to slow the Spaniards down and force the game to penalties. La Roja was so overwhelmingly better that they outshot Argentina, 20 to 2, across the full 120 minutes; Argentina became the first finalist in World Cup history to fail to register a single shot in regulation time....</description>
-    </item>
-    <item>
-      <title>Shop Best Buy&#8217;s Black Friday in July Sale 2026 Before Fall Chaos</title>
-      <link>https://www.wired.com/story/best-buy-black-friday-in-july-2026/</link>
-      <pubDate>Tue, 21 Jul 2026 20:39:06 +0000</pubDate>
-      <guid isPermaLink="false">6a5f7b264265ce8d61ecfa12</guid>
-      <description>The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.</description>
-    </item>
-    <item>
-      <title>Gen Z&#8217;s viral advice to a first-time 9-to-5 worker is an indictment of office culture&#8212;but also surprisingly practical</title>
-      <link>https://www.fastcompany.com/91577153/gen-z-viral-advice-9-to-5-worker-is-a-grim-picture-office-culture</link>
-      <pubDate>2026-07-21T20:25:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91577153/gen-z-viral-advice-9-to-5-worker-is-a-grim-picture-office-culture</guid>
-      <description>A TikTok user asked for advice about a first corporate job and received thousands of comments. Taken together, they paint a sober portrait.
-At work, there&#8217;s good days and bad days. But if you were to ask users on TikTok, every day at a 9-to-5 is a battleground.</description>
-    </item>
-    <item>
-      <title>Forget traditional shipbuilding: Saronic&#8217;s new $3.2 billion 'Port Alpha' autonomous navy drone shipyard will be bigger than every 2026 World Cup stadium combined</title>
-      <link>https://www.techradar.com/pro/forget-traditional-shipbuilding-saronics-new-usd3-2b-port-alpha-autonomous-navy-drone-shipyard-will-be-bigger-than-every-2026-world-cup-stadium-combined</link>
-      <pubDate>Tue, 21 Jul 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">6PFnjUPorWnegx3MszEwbB</guid>
-      <description>$3.2 billion 'Port Alpha' autonomous shipyard will boost drone production in the US.</description>
     </item>
   </channel>
 </rss>
