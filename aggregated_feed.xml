@@ -3,111 +3,106 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 21 Jul 2026 20:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:06:01 GMT</lastBuildDate>
+    <item>
+      <title>'Either you betray your values, or you become irrelevant': Quote of the day by Anthropic CEO Dario Amodei on the emerging AI industry</title>
+      <link>https://www.techradar.com/pro/either-you-betray-your-values-or-you-become-irrelevant-quote-of-the-day-by-anthropic-ceo-dario-amodei-on-the-emerging-ai-industry</link>
+      <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">45LNXmrDQboF5s83GVbUmR</guid>
+      <description>Amodei was OpenAI's vice president of research before leaving in 2021 to start his own company, Anthropic</description>
+    </item>
+    <item>
+      <title>Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size</title>
+      <link>https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size</link>
+      <pubDate>Tue, 21 Jul 2026 21:49:43 GMT</pubDate>
+      <guid isPermaLink="false">tQ9SbLfILrlJDmQMbB7rB</guid>
+      <description>Poolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable model to date on Tuesday &#8212; and made an unusually aggressive bet that radical transparency, not raw scale, is how a smaller lab competes at the frontier.The model, Laguna S 2.1, is a 118-billion-parameter Mixture-of-Experts (MoE) system that activates only 8 billion parameters per token, supports a context window of up to 1 million tokens, and &#8212; according to benchmarks published by the company &#8212; matches or beats open mode...</description>
+    </item>
+    <item>
+      <title>OpenAI says it accidentally hacked Hugging Face with a new AI system</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai</link>
+      <pubDate>2026-07-21T17:48:54-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=968988</guid>
+      <description>OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-release model" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]...</description>
+    </item>
+    <item>
+      <title>France will ban social media for children under 15</title>
+      <link>https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15/</link>
+      <pubDate>Tue, 21 Jul 2026 21:43:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15/</guid>
+      <description>The country's new law also bans the use of mobile phones in schools.</description>
+    </item>
+    <item>
+      <title>US Navy plans for 'Air Wing of the Future' with next-generation, pilotless carrier-based 1,150-mile-range drones to fly alongside manned aircraft</title>
+      <link>https://www.techradar.com/pro/u-s-navy-plans-for-air-wing-of-the-future-with-next-generation-pilotless-carrier-based-1-150-mile-range-drones-to-fly-alongside-manned-aircraft</link>
+      <pubDate>Tue, 21 Jul 2026 21:20:00 +0000</pubDate>
+      <guid isPermaLink="false">MQSjbaxhdSXGYKdA5424gZ</guid>
+      <description>The US Navy wants autonomous carrier drones capable of eight missions, 1,150-mile ranges, and operations alongside advanced manned aircraft.</description>
+    </item>
+    <item>
+      <title>Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens</title>
+      <link>https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens</link>
+      <pubDate>Tue, 21 Jul 2026 21:19:00 GMT</pubDate>
+      <guid isPermaLink="false">1n4evrnlhhVragZn2ui5nv</guid>
+      <description>GPU memory is the most expensive resource in production AI, and it's also the one running out fastest. Long context windows and multi-turn conversations force AI models to repeatedly recompute information they've already processed, consuming GPU memory and compute that could otherwise serve additional users or generate new responses.Instead of treating GPU memory as the limiting resource,  why not extend it with much cheaper storage technologies? Weka, for one, believes that cheap flash storage can close that gap. The company's NeuralMesh 6 software platform, launching alongside its first self...</description>
+    </item>
+    <item>
+      <title>Judge approves Anthropics $1.5 billion settlement with authors</title>
+      <link>https://mashable.com/tech/judge-approves-1-5-billion-anthropic-copyright-settlement</link>
+      <pubDate>Tue, 21 Jul 2026 21:06:15 +0000</pubDate>
+      <guid isPermaLink="false">05LIyNoVPuzTKv2IXyWPLTn</guid>
+      <description>Anthropic's $1.5B settlement with authors over pirated books gets court approval</description>
+    </item>
+    <item>
+      <title>These are the countries moving to ban social media for children</title>
+      <link>https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/</link>
+      <pubDate>Tue, 21 Jul 2026 20:57:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3092894</guid>
+      <description>Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.</description>
+    </item>
+    <item>
+      <title>OpenAI says Hugging Face was breached by its own pre-release models</title>
+      <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/</link>
+      <pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144991</guid>
+      <description>OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.</description>
+    </item>
+    <item>
+      <title>2026 LG OLED evo TVs are getting a new Creator Original picture mode</title>
+      <link>https://www.engadget.com/2220242/2026-lg-oled-evo-tvs-are-getting-a-new-creator-original-picture-mode/</link>
+      <pubDate>Tue, 21 Jul 2026 20:52:04 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2220242/2026-lg-oled-evo-tvs-are-getting-a-new-creator-original-picture-mode/</guid>
+      <description>The elevated streaming experience is happening in collaboration with Prime Video.</description>
+    </item>
+    <item>
+      <title>This beautiful data visualization shows how Spain obliterated Argentina in the World Cup final</title>
+      <link>https://www.fastcompany.com/91577156/world-cup-soccer-visualization-data</link>
+      <pubDate>2026-07-21T20:49:51</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91577156/world-cup-soccer-visualization-data</guid>
+      <description>The 1-0 score doesn&#8217;t reflect the overwhelming domination that Spain had over Messi and his cohorts.
+Spain dominated the ball and occupied the entire pitch at MetLife Stadium during the World Cup final against Argentina. It didn&#8217;t matter that Messi&#8217;s teammates fouled, elbowed, and used every trick to slow the Spaniards down and force the game to penalties. La Roja was so overwhelmingly better that they outshot Argentina, 20 to 2, across the full 120 minutes; Argentina became the first finalist in World Cup history to fail to register a single shot in regulation time....</description>
+    </item>
+    <item>
+      <title>Shop Best Buy&#8217;s Black Friday in July Sale 2026 Before Fall Chaos</title>
+      <link>https://www.wired.com/story/best-buy-black-friday-in-july-2026/</link>
+      <pubDate>Tue, 21 Jul 2026 20:39:06 +0000</pubDate>
+      <guid isPermaLink="false">6a5f7b264265ce8d61ecfa12</guid>
+      <description>The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.</description>
+    </item>
+    <item>
+      <title>Gen Z&#8217;s viral advice to a first-time 9-to-5 worker is an indictment of office culture&#8212;but also surprisingly practical</title>
+      <link>https://www.fastcompany.com/91577153/gen-z-viral-advice-9-to-5-worker-is-a-grim-picture-office-culture</link>
+      <pubDate>2026-07-21T20:25:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91577153/gen-z-viral-advice-9-to-5-worker-is-a-grim-picture-office-culture</guid>
+      <description>A TikTok user asked for advice about a first corporate job and received thousands of comments. Taken together, they paint a sober portrait.
+At work, there&#8217;s good days and bad days. But if you were to ask users on TikTok, every day at a 9-to-5 is a battleground.</description>
+    </item>
     <item>
       <title>Forget traditional shipbuilding: Saronic&#8217;s new $3.2 billion 'Port Alpha' autonomous navy drone shipyard will be bigger than every 2026 World Cup stadium combined</title>
       <link>https://www.techradar.com/pro/forget-traditional-shipbuilding-saronics-new-usd3-2b-port-alpha-autonomous-navy-drone-shipyard-will-be-bigger-than-every-2026-world-cup-stadium-combined</link>
       <pubDate>Tue, 21 Jul 2026 20:10:00 +0000</pubDate>
       <guid isPermaLink="false">6PFnjUPorWnegx3MszEwbB</guid>
       <description>$3.2 billion 'Port Alpha' autonomous shipyard will boost drone production in the US.</description>
-    </item>
-    <item>
-      <title>Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks &#8212;and 3.5 Pro is on the way</title>
-      <link>https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way</link>
-      <pubDate>Tue, 21 Jul 2026 19:59:58 GMT</pubDate>
-      <guid isPermaLink="false">2QPH7LLVPqMvPbDe4IKPXR</guid>
-      <description>Google DeepMind today released three new proprietary AI models it says are among its most token-efficient yet: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber. The models aim to make AI agents faster, smarter, and cheaper at scale. Google is pricing Gemini 3.6 Flash at $1.50 per one million input tokens and $7.50 per one million output tokens through its application programming interface (API), while Gemini 3.5 Flash-Lite costs a staggeringly cheap $0.30/$2.50 per million tokens in/out. Compare that to the $1.50/$9.00 per 1M tokens for Gemini 3.5 Flash, and the $2/$12 for G...</description>
-    </item>
-    <item>
-      <title>Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents</title>
-      <link>https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/</link>
-      <pubDate>Tue, 21 Jul 2026 19:43:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144907</guid>
-      <description>Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.</description>
-    </item>
-    <item>
-      <title>AI and the rise of the universal entertainment app</title>
-      <link>https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/</link>
-      <pubDate>Tue, 21 Jul 2026 19:39:30 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144827</guid>
-      <description>Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.</description>
-    </item>
-    <item>
-      <title>Bucking EV slowdown, Sila raises $300M to expand battery materials factory</title>
-      <link>https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/</link>
-      <pubDate>Tue, 21 Jul 2026 19:36:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144956</guid>
-      <description>Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.</description>
-    </item>
-    <item>
-      <title>Substack adds an AI detector to help spot blogs written by no one</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool</link>
-      <pubDate>2026-07-21T15:22:28-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=968855</guid>
-      <description>Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]</description>
-    </item>
-    <item>
-      <title>Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak</title>
-      <link>https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/</link>
-      <pubDate>Tue, 21 Jul 2026 19:10:35 +0000</pubDate>
-      <guid isPermaLink="false">6a5e8125c1c4607c1bb76707</guid>
-      <description>The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.</description>
-    </item>
-    <item>
-      <title>This Former Intel CEO Wants to Jumpstart Moore&#8217;s Law With Light</title>
-      <link>https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/</link>
-      <pubDate>Tue, 21 Jul 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">6a5652f8673dbd0c790cfa7b</guid>
-      <description>Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.</description>
-    </item>
-    <item>
-      <title>The 8-Hour challenge: SK On says solid-state robot batteries must justify a 4x manufacturing cost jump to replace 'inferior' lithium-ion</title>
-      <link>https://www.techradar.com/pro/the-8-hour-challenge-sk-on-says-solid-state-robot-batteries-must-justify-a-4x-manufacturing-cost-jump-to-replace-inferior-lithium-ion</link>
-      <pubDate>Tue, 21 Jul 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">RYnQvdrZGXg3SWRAA7wD5R</guid>
-      <description>SK On says solid-state batteries can close the gap, but only if the math holds for companies.</description>
-    </item>
-    <item>
-      <title>Des poussi&#232;res tomb&#233;es sur nos toits r&#233;v&#232;lent un ast&#233;ro&#239;de que personne n&#8217;a jamais identifi&#233;</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/meteorite-poussieres-tombees-nos-toits-revelent-asteroide-personne-na-jamais-identifie-136160/#xtor%3DRSS-8</link>
-      <pubDate>Tue, 21 Jul 2026 21:03:32 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/meteorite-poussieres-tombees-nos-toits-revelent-asteroide-personne-na-jamais-identifie-136160/#xtor%3DRSS-8</guid>
-      <description>Chaque jour, des dizaines de tonnes de poussi&#232;res extraterrestres tombent sur la Terre. En &#233;tudiant un nouveau type de microm&#233;t&#233;orites, des chercheurs ont mis en &#233;vidence la signature d'un corps parent jusqu'ici inconnu, probablement un ast&#233;ro&#239;de primitif. Une d&#233;couverte qui sugg&#232;re que certains...</description>
-    </item>
-    <item>
-      <title>Substack is adding an AI detection feature</title>
-      <link>https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/</link>
-      <pubDate>Tue, 21 Jul 2026 18:54:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/</guid>
-      <description>Substack is partnering with Pangram to add an AI detection feature.</description>
-    </item>
-    <item>
-      <title>Apple has reportedly fixed its Hide My Email vulnerability</title>
-      <link>https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/</link>
-      <pubDate>Tue, 21 Jul 2026 18:51:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/</guid>
-      <description>Apple reportedly fixed the Hide My Email vulnerability that left iCloud+ users' emails not especially hidden.</description>
-    </item>
-    <item>
-      <title>Einride bets $38M on EV charging as it scales electric trucking</title>
-      <link>https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/</link>
-      <pubDate>Tue, 21 Jul 2026 18:48:38 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144804</guid>
-      <description>The acquisition &#8212; Einride's first as a publicly traded company &#8212; will expand its EV-charging ecosystem as it works to scale its electric trucking business.</description>
-    </item>
-    <item>
-      <title>Playstation Plus is saying goodbye to these games in August 2026</title>
-      <link>https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/</link>
-      <pubDate>Tue, 21 Jul 2026 18:37:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/</guid>
-      <description>Dead Island 2, Harold Halibut and seven others will be gone soon.</description>
-    </item>
-    <item>
-      <title>We tested dozens of free CarPlay apps, here are the best ones</title>
-      <link>https://www.engadget.com/2214992/free-apple-carplay-apps-tested/</link>
-      <pubDate>Tue, 21 Jul 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2214992/free-apple-carplay-apps-tested/</guid>
-      <description>After using CarPlay for years and testing dozens of apps, we've narrowed down the list of CarPlay apps you really need.</description>
     </item>
   </channel>
 </rss>
