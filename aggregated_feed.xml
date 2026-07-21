@@ -3,164 +3,111 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 21 Jul 2026 18:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:19:49 GMT</lastBuildDate>
     <item>
-      <title>Evals are the new PRD, Expedia&#8217;s AI chief tells VB Transform 2026</title>
-      <link>https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026</link>
-      <pubDate>Tue, 21 Jul 2026 18:15:46 GMT</pubDate>
-      <guid isPermaLink="false">3hojlxdSYKeuRlD8DGIvSe</guid>
-      <description>&#8220;The new PRD are the evals,&#8221; Xavi Amatriain, Expedia Group&#8217;s first chief AI and data officer, told the VB Transform 2026 audience last week in Menlo Park. &#8220;So basically, you encode what you want the product to do through your evals, which might include red teaming evals and all kinds of other things, which already have a bunch of security requirements. So, you already embed that into the PRD and the product design document before you even start coding.&#8221;He pushed it further. &#8220;With AI-assisted or AI-generated code, that&#8217;s gonna be the future. It&#8217;s like all your thinking is gonna go into the eval...</description>
+      <title>Forget traditional shipbuilding: Saronic&#8217;s new $3.2 billion 'Port Alpha' autonomous navy drone shipyard will be bigger than every 2026 World Cup stadium combined</title>
+      <link>https://www.techradar.com/pro/forget-traditional-shipbuilding-saronics-new-usd3-2b-port-alpha-autonomous-navy-drone-shipyard-will-be-bigger-than-every-2026-world-cup-stadium-combined</link>
+      <pubDate>Tue, 21 Jul 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">6PFnjUPorWnegx3MszEwbB</guid>
+      <description>$3.2 billion 'Port Alpha' autonomous shipyard will boost drone production in the US.</description>
     </item>
     <item>
-      <title>Trump&#8217;s head of AI safety agency just resigned, but he was only on the job for three months</title>
-      <link>https://www.techradar.com/pro/trumps-head-of-ai-safety-agency-just-resigned-but-he-was-only-on-the-job-for-three-months</link>
-      <pubDate>Tue, 21 Jul 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="false">nfCv6GRySEpTTJDuJ9VkBW</guid>
-      <description>Chris Fall was only in the job for three months before resigning, and no reason has been provided for his departure.</description>
+      <title>Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks &#8212;and 3.5 Pro is on the way</title>
+      <link>https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way</link>
+      <pubDate>Tue, 21 Jul 2026 19:59:58 GMT</pubDate>
+      <guid isPermaLink="false">2QPH7LLVPqMvPbDe4IKPXR</guid>
+      <description>Google DeepMind today released three new proprietary AI models it says are among its most token-efficient yet: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber. The models aim to make AI agents faster, smarter, and cheaper at scale. Google is pricing Gemini 3.6 Flash at $1.50 per one million input tokens and $7.50 per one million output tokens through its application programming interface (API), while Gemini 3.5 Flash-Lite costs a staggeringly cheap $0.30/$2.50 per million tokens in/out. Compare that to the $1.50/$9.00 per 1M tokens for Gemini 3.5 Flash, and the $2/$12 for G...</description>
     </item>
     <item>
-      <title>Data centers expected to use 4x more electricity by 2035</title>
-      <link>https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/</link>
-      <pubDate>Tue, 21 Jul 2026 18:06:38 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144833</guid>
-      <description>New data centers built through 2033 could consume as much electricity as India uses today.</description>
+      <title>Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents</title>
+      <link>https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/</link>
+      <pubDate>Tue, 21 Jul 2026 19:43:41 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144907</guid>
+      <description>Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.</description>
     </item>
     <item>
-      <title>Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings</title>
-      <link>https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/</link>
-      <pubDate>Tue, 21 Jul 2026 18:05:10 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144883</guid>
-      <description>The company didn't say how many are in each city, and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.</description>
+      <title>AI and the rise of the universal entertainment app</title>
+      <link>https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/</link>
+      <pubDate>Tue, 21 Jul 2026 19:39:30 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144827</guid>
+      <description>Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.</description>
     </item>
     <item>
-      <title>The Xteink X4 Pro is a tiny ereader with more features than you might expect</title>
-      <link>https://www.engadget.com/2219947/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/</link>
-      <pubDate>Tue, 21 Jul 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2219947/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/</guid>
-      <description>The Xteink X4 Pro is a tiny ereader for DRM-free books.</description>
+      <title>Bucking EV slowdown, Sila raises $300M to expand battery materials factory</title>
+      <link>https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/</link>
+      <pubDate>Tue, 21 Jul 2026 19:36:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144956</guid>
+      <description>Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.</description>
     </item>
     <item>
-      <title>UK government says plug-in solar panels will be legal from August 27 &#8212; opening the door for Amazon, Lidl, Currys and more to help save you &#163;110 a year</title>
-      <link>https://www.techradar.com/home/uk-government-says-plug-in-solar-panels-will-be-legal-from-august-27-opening-the-door-for-amazon-lidl-currys-and-more-to-help-save-you-gbp110-a-year</link>
-      <pubDate>Tue, 21 Jul 2026 17:45:57 +0000</pubDate>
-      <guid isPermaLink="false">PmRvyDDgK8HQ2d9kpTuVxc</guid>
-      <description>The UK government has quietly revealed when plug-in solar panels will become legal in the country &#8212;here's what that means.</description>
+      <title>Substack adds an AI detector to help spot blogs written by no one</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool</link>
+      <pubDate>2026-07-21T15:22:28-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=968855</guid>
+      <description>Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]</description>
     </item>
     <item>
-      <title>Apple may unveil a new device subscription service as soon as next week</title>
-      <link>https://www.engadget.com/2219945/apple-may-unveil-a-new-device-subscription-service-as-soon-as-next-week/</link>
-      <pubDate>Tue, 21 Jul 2026 17:41:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2219945/apple-may-unveil-a-new-device-subscription-service-as-soon-as-next-week/</guid>
-      <description>Apple may unveil a new device subscription service, reportedly in partnership with Klarna, as soon as next week.</description>
+      <title>Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak</title>
+      <link>https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/</link>
+      <pubDate>Tue, 21 Jul 2026 19:10:35 +0000</pubDate>
+      <guid isPermaLink="false">6a5e8125c1c4607c1bb76707</guid>
+      <description>The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.</description>
     </item>
     <item>
-      <title>Amazon is making a Robocop TV show with the showrunner from Lodge 49</title>
-      <link>https://www.engadget.com/2219930/amazon-is-making-a-robocop-tv-show-with-the-showrunner-from-lodge-49/</link>
-      <pubDate>Tue, 21 Jul 2026 17:34:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2219930/amazon-is-making-a-robocop-tv-show-with-the-showrunner-from-lodge-49/</guid>
-      <description>Amazon greenlit a Robocop pilot. Now it has committed to a full TV show.</description>
+      <title>This Former Intel CEO Wants to Jumpstart Moore&#8217;s Law With Light</title>
+      <link>https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/</link>
+      <pubDate>Tue, 21 Jul 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">6a5652f8673dbd0c790cfa7b</guid>
+      <description>Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.</description>
     </item>
     <item>
-      <title>Here's what that trash can with an X icon means on your electronics</title>
-      <link>https://www.engadget.com/2219805/what-trash-can-with-x-marking-means-on-electronics/</link>
-      <pubDate>Tue, 21 Jul 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2219805/what-trash-can-with-x-marking-means-on-electronics/</guid>
-      <description>It's the official marking of the EU's Waste Electrical and Electronic Equipment Directive.</description>
+      <title>The 8-Hour challenge: SK On says solid-state robot batteries must justify a 4x manufacturing cost jump to replace 'inferior' lithium-ion</title>
+      <link>https://www.techradar.com/pro/the-8-hour-challenge-sk-on-says-solid-state-robot-batteries-must-justify-a-4x-manufacturing-cost-jump-to-replace-inferior-lithium-ion</link>
+      <pubDate>Tue, 21 Jul 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">RYnQvdrZGXg3SWRAA7wD5R</guid>
+      <description>SK On says solid-state batteries can close the gap, but only if the math holds for companies.</description>
     </item>
     <item>
-      <title>Google releases three new Gemini models &#8212; but no 3.5 Pro</title>
-      <link>https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/</link>
-      <pubDate>Tue, 21 Jul 2026 17:11:50 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144838</guid>
-      <description>Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.</description>
+      <title>Des poussi&#232;res tomb&#233;es sur nos toits r&#233;v&#232;lent un ast&#233;ro&#239;de que personne n&#8217;a jamais identifi&#233;</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/meteorite-poussieres-tombees-nos-toits-revelent-asteroide-personne-na-jamais-identifie-136160/#xtor%3DRSS-8</link>
+      <pubDate>Tue, 21 Jul 2026 21:03:32 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/meteorite-poussieres-tombees-nos-toits-revelent-asteroide-personne-na-jamais-identifie-136160/#xtor%3DRSS-8</guid>
+      <description>Chaque jour, des dizaines de tonnes de poussi&#232;res extraterrestres tombent sur la Terre. En &#233;tudiant un nouveau type de microm&#233;t&#233;orites, des chercheurs ont mis en &#233;vidence la signature d'un corps parent jusqu'ici inconnu, probablement un ast&#233;ro&#239;de primitif. Une d&#233;couverte qui sugg&#232;re que certains...</description>
     </item>
     <item>
-      <title>Experts warn hackers could shut down entire power grids by hijacking cloud accounts</title>
-      <link>https://www.techradar.com/pro/security/experts-warn-hackers-could-shut-down-entire-power-grids-by-hijacking-cloud-accounts</link>
-      <pubDate>Tue, 21 Jul 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">qWzmUhTiFCkRQP6HRGFqFg</guid>
-      <description>AI training can create spikes in energy consumption, and these can cause all sorts of harm to a power grid.</description>
+      <title>Substack is adding an AI detection feature</title>
+      <link>https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/</link>
+      <pubDate>Tue, 21 Jul 2026 18:54:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/</guid>
+      <description>Substack is partnering with Pangram to add an AI detection feature.</description>
     </item>
     <item>
-      <title>Stay powered up in any storm with 42% off the Jackery HomePower 3600 Plus</title>
-      <link>https://mashable.com/tech/july-21-jackery-homepower-3600-plus-deal</link>
-      <pubDate>Tue, 21 Jul 2026 17:03:58 +0000</pubDate>
-      <guid isPermaLink="false">00UFl3E3L0TtheG9zJ4wMVf</guid>
-      <description>As of July 21, save 42% on the Jackery HomePower 3600 Plus at Amazon.</description>
+      <title>Apple has reportedly fixed its Hide My Email vulnerability</title>
+      <link>https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/</link>
+      <pubDate>Tue, 21 Jul 2026 18:51:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/</guid>
+      <description>Apple reportedly fixed the Hide My Email vulnerability that left iCloud+ users' emails not especially hidden.</description>
     </item>
     <item>
-      <title>'Can't fault the HEDDphone D1 in any meaningful way': HEDD's progeny are emphatically excellent wired headphones at a not-unreasonable price</title>
-      <link>https://www.techradar.com/audio/headphones/hedd-heddphone-d1-review</link>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Ny2HXaRoWcRAhnjKKpnDd6</guid>
-      <description>The HEDDphone D1 headphones are a stunning pair of mid-budget over-ears, with a proprietary driver design that kills audiophile-grade options three times the price</description>
+      <title>Einride bets $38M on EV charging as it scales electric trucking</title>
+      <link>https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/</link>
+      <pubDate>Tue, 21 Jul 2026 18:48:38 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144804</guid>
+      <description>The acquisition &#8212; Einride's first as a publicly traded company &#8212; will expand its EV-charging ecosystem as it works to scale its electric trucking business.</description>
     </item>
     <item>
-      <title>Amazon has Dreame beauty devices on sale for some of the best prices weve ever seen</title>
-      <link>https://mashable.com/tech/july-21-dreame-beauty-deals</link>
-      <pubDate>Tue, 21 Jul 2026 16:52:15 +0000</pubDate>
-      <guid isPermaLink="false">07ANQq01PsJ3UsjBUfalIME</guid>
-      <description>Amazon has Dreame beauty devices on sale for up to 20% off including the Dreame Chrona Photon LED mask and IPL mask.</description>
+      <title>Playstation Plus is saying goodbye to these games in August 2026</title>
+      <link>https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/</link>
+      <pubDate>Tue, 21 Jul 2026 18:37:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/</guid>
+      <description>Dead Island 2, Harold Halibut and seven others will be gone soon.</description>
     </item>
     <item>
-      <title>Pornhub traffic tanked in Spain and Argentina during World Cup final</title>
-      <link>https://mashable.com/life/pornhub-world-cup-traffic-tanked-in-spain-and-argentina</link>
-      <pubDate>Tue, 21 Jul 2026 16:50:46 +0000</pubDate>
-      <guid isPermaLink="false">03QNgi7KB57AnGMo0Vq7FPB</guid>
-      <description>Pornhub measured traffic during the World Cup final in several countries, including Spain and Argentina.</description>
-    </item>
-    <item>
-      <title>This popular simulator game has thousands of positive Steam reviews &#8212; and it drops on consoles later this month</title>
-      <link>https://www.techradar.com/gaming/this-popular-simulator-game-has-thousands-of-positive-steam-reviews-and-it-drops-on-consoles-later-this-month</link>
-      <pubDate>Tue, 21 Jul 2026 16:39:11 +0000</pubDate>
-      <guid isPermaLink="false">BBd4mvDrZPihvWXwEmrBgK</guid>
-      <description>This viral waterpark simulator game is coming to consoles soon.</description>
-    </item>
-    <item>
-      <title>'I can't say anything officially, but it doesn't feel like a crazy bet' &#8212; Assassin's Creed Black Flag Resynced director can't confirm post-launch content, but hopes fans continue playing even after GTA 6 comes out</title>
-      <link>https://www.techradar.com/gaming/i-cant-say-anything-officially-but-it-doesnt-feel-like-a-crazy-bet-assassins-creed-black-flag-resynced-director-cant-confirm-post-launch-content-but-hopes-fans-continue-playing-even-after-gta-6-comes-out</link>
-      <pubDate>Tue, 21 Jul 2026 16:37:50 +0000</pubDate>
-      <guid isPermaLink="false">brcf5nxeWgS7xJzypMCKbM</guid>
-      <description>Assassin's Creed Black Flag Resynced game director Richard Knight hopes players will continue playing the game after Grand Theft Auto 6 releases.</description>
-    </item>
-    <item>
-      <title>Le Pass Ulys T&#233;l&#233;page ne vous co&#251;tera rien pendant 1 an gr&#226;ce &#224; cette offre qui tombe &#224; pic pour les d&#233;parts en vacances</title>
-      <link>https://www.frandroid.com/bons-plans/3187447_le-pass-ulys-telepage-ne-vous-coutera-rien-pendant-1-an-grace-a-cette-offre-qui-tombe-a-pic-pour-les-departs-en-vacances</link>
-      <pubDate>Tue, 21 Jul 2026 16:37:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3187447_le-pass-ulys-telepage-ne-vous-coutera-rien-pendant-1-an-grace-a-cette-offre-qui-tombe-a-pic-pour-les-departs-en-vacances</guid>
-      <description>
-Si vous ne voulez plus perdre de temps aux p&#233;ages sur la route des vacances, un badge de t&#233;l&#233;p&#233;age est indispensable. Bonne nouvelle, Ulys offre actuellement 12 mois d'abonnement &#224; son pass T&#233;l&#233;p&#233;age.
-</description>
-    </item>
-    <item>
-      <title>Oh thank goodness: the ATSC has updated its rules on TV advertising volume limits to include streaming ads</title>
-      <link>https://www.techradar.com/televisions/oh-thank-goodness-the-atsc-has-updated-its-rules-on-tv-advertising-volume-limits-to-include-streaming-ads</link>
-      <pubDate>Tue, 21 Jul 2026 16:34:03 +0000</pubDate>
-      <guid isPermaLink="false">8R9fAvEww8eKQV2ktUuLGa</guid>
-      <description>The broadcast standards association the ATSC has published revised guidance that sets out loudness levels for streaming as well as broadcast ads</description>
-    </item>
-    <item>
-      <title>The best Apple deals this week include up to $500 off an M5 MacBook Pro or M3 iPad Air</title>
-      <link>https://mashable.com/tech/july-21-best-apple-deals-this-week</link>
-      <pubDate>Tue, 21 Jul 2026 16:30:44 +0000</pubDate>
-      <guid isPermaLink="false">021S9a2b4J6s01Ohqy520Dy</guid>
-      <description>As of July 21, we rounded up the best deals on Apple products. We found all the best savings on iPads, iPhones, MacBooks, and more.</description>
-    </item>
-    <item>
-      <title>How to connect your Ring doorbell camera to your smart TV</title>
-      <link>https://www.engadget.com/2219802/how-to-connect-ring-doorbell-to-tv/</link>
-      <pubDate>Tue, 21 Jul 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2219802/how-to-connect-ring-doorbell-to-tv/</guid>
-      <description>It's easy to see who's at the door without grabbing your phone.</description>
-    </item>
-    <item>
-      <title>Test de l&#8217;&#233;cran Nothing Projector Matte White : la toile blanche mate pour une image plus lumineuse mais moins contrast&#233;e</title>
-      <link>https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3186245_test-de-lecran-nothing-projector-matte-white-la-toile-blanche-mate-pour-une-image-plus-lumineuse-mais-moins-contrastee</link>
-      <pubDate>Tue, 21 Jul 2026 16:22:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3186245_test-de-lecran-nothing-projector-matte-white-la-toile-blanche-mate-pour-une-image-plus-lumineuse-mais-moins-contrastee</guid>
-      <description>
-L'&#233;cran Nothing Projector Matte White, motoris&#233; &#224; mont&#233;e depuis le sol, propose une approche radicalement diff&#233;rente des toiles ALR habituellement associ&#233;es aux vid&#233;oprojecteurs ultra courte focale. Nous l'avons test&#233;.
-</description>
+      <title>We tested dozens of free CarPlay apps, here are the best ones</title>
+      <link>https://www.engadget.com/2214992/free-apple-carplay-apps-tested/</link>
+      <pubDate>Tue, 21 Jul 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2214992/free-apple-carplay-apps-tested/</guid>
+      <description>After using CarPlay for years and testing dozens of apps, we've narrowed down the list of CarPlay apps you really need.</description>
     </item>
   </channel>
 </rss>
