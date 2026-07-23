@@ -3,140 +3,76 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 22 Jul 2026 22:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:02:55 GMT</lastBuildDate>
+    <item>
+      <title>After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe</title>
+      <link>https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/</link>
+      <pubDate>Wed, 22 Jul 2026 23:47:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145616</guid>
+      <description>After IBM's stock crashed last week on warnings of a poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.</description>
+    </item>
+    <item>
+      <title>Now that's one way to block annoying online ads &#8212;  developer uses a $5 dongle to squeeze in 537,000 domains into just 4MB of flash memory</title>
+      <link>https://www.techradar.com/pro/now-thats-one-way-to-block-annoying-online-ads-developer-uses-a-usd5-dongle-to-squeeze-in-537-000-domains-into-just-4mb-of-flash-memory</link>
+      <pubDate>Wed, 22 Jul 2026 23:20:00 +0000</pubDate>
+      <guid isPermaLink="false">hgJXQmy92jRPLYskBp4HPF</guid>
+      <description>Egyptian developer ZedAxis has demonstrated his $5 ad-blocking dongle in a YouTube video, with the device said to be capable of blocking over 500,000 domains</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Thursday, July 23 (game #1641)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-23-july-2026</link>
+      <pubDate>Wed, 22 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QiDEDbtUhdWr9gJU9xZUhF</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Thursday, July 23 (game #1138)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-23-july-2026</link>
+      <pubDate>Wed, 22 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jsY3kLRNQZWveG9Pn5n86H</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Thursday, July 23 (game #872)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-23-july-2026</link>
+      <pubDate>Wed, 22 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Q8mfPHqUd2axPdC98fJeMG</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Split in half from space: satellite images confirm Ukraine's 800km drone strike destroyed an irreplaceable Russian Tu-95 bomber</title>
+      <link>https://www.techradar.com/pro/split-in-half-from-space-satellite-images-confirm-ukraines-800km-drone-strike-destroyed-an-irreplaceable-russian-tu-95-bomber</link>
+      <pubDate>Wed, 22 Jul 2026 22:45:00 +0000</pubDate>
+      <guid isPermaLink="false">w8ETwni45xtnQgmPMjPQDG</guid>
+      <description>Russia painted fake Tu-95s on the tarmac and built 17 shelters to protect the real ones. Ukraine's drones flew 800km and split an actual bomber in half anyway.</description>
+    </item>
+    <item>
+      <title>The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now</title>
+      <link>https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now</link>
+      <pubDate>Wed, 22 Jul 2026 22:12:14 GMT</pubDate>
+      <guid isPermaLink="false">2mrHbXNC3yKfjhkKTELsYw</guid>
+      <description>When Hugging Face got hit last week, co-founder Clement Delangue suspected a frontier lab, given the agent's sophistication. He was right. Delangue said on X that after a day working with OpenAI he strongly believed there was no malicious intent and that it was mind-blowing the whole thing had happened autonomously.The two OpenAI models that broke into Hugging Face last week did not breach it through malice or superintelligence. They breached it through credentials and permissions they should never have been able to reach, a non-human identity failure that is the oldest problem in security rat...</description>
+    </item>
+    <item>
+      <title>Check out this nifty 3D Playdate game demo</title>
+      <link>https://www.engadget.com/2221371/check-out-this-nifty-3d-playdate-game-demo/</link>
+      <pubDate>Wed, 22 Jul 2026 22:07:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2221371/check-out-this-nifty-3d-playdate-game-demo/</guid>
+      <description>Adding new dimensions to the device.</description>
+    </item>
+    <item>
+      <title>Meta won&#8217;t have to face the next planned social media addiction trial</title>
+      <link>https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped</link>
+      <pubDate>2026-07-22T18:03:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=969644</guid>
+      <description>Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of bellwether trials meant to test legal arguments [&#8230;]</description>
+    </item>
     <item>
       <title>Steam adds handy gifting and wishlist updates</title>
       <link>https://www.engadget.com/2221369/steam-adds-handy-gifting-and-wishlist-updates/</link>
       <pubDate>Wed, 22 Jul 2026 22:03:52 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2221369/steam-adds-handy-gifting-and-wishlist-updates/</guid>
       <description>You can now gift games without a Steam account and sort your wishlist into categories.</description>
-    </item>
-    <item>
-      <title>Google justifies its massive AI spending with a booming cloud business</title>
-      <link>https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/</link>
-      <pubDate>Wed, 22 Jul 2026 22:01:52 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145503</guid>
-      <description>Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.</description>
-    </item>
-    <item>
-      <title>I&#8217;ve been gaming with 8BitDo's Xbox mobile controller grip and I&#8217;ve never used my Game Pass subscription more</title>
-      <link>https://www.techradar.com/gaming/8bitdo-ultimate-mobile-gaming-controller-xbox-edition-review</link>
-      <pubDate>Wed, 22 Jul 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">WkUVs8o8LSJuVmdH5tMMFP</guid>
-      <description>The 8BitDo Ultimate Mobile Gaming Controller - Xbox Edition nails the cloud gaming experience but falls short in a few basic areas</description>
-    </item>
-    <item>
-      <title>Did you know you can use an AirPod to make an 'over-engineered frisbee stat tracker' that calculates spin and speed? No, of course you didn't &#8212; but someone's done it, and it works really well</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/did-you-know-you-can-use-an-airpod-to-make-an-over-engineered-frisbee-stat-tracker-that-calculates-spin-and-speed-no-of-course-you-didnt-but-someones-done-it-and-it-works-really-well</link>
-      <pubDate>Wed, 22 Jul 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">aGXSaYMR2c7vGatmc38KEL</guid>
-      <description>Paul Tracer has created a smart Frisbee that records performance via an attached AirPod</description>
-    </item>
-    <item>
-      <title>'There is no reason for any individual to have a computer in his home': Quote of the day by Digital Equipment Corporation co-founder Ken Olsen on the future of smart homes</title>
-      <link>https://www.techradar.com/pro/there-is-no-reason-for-any-individual-to-have-a-computer-in-his-home-quote-of-the-day-by-digital-equipment-corporation-co-founder-ken-olsen-on-the-future-of-smart-homes</link>
-      <pubDate>Wed, 22 Jul 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Taqqd9FhdPfSH6T2fQBJp</guid>
-      <description>The technology executive from yesteryear issues a seemingly stunning miscalculation regarding the proliferation of consumer-grade computing devices</description>
-    </item>
-    <item>
-      <title>Why Lettuce Is Always Making People Sick</title>
-      <link>https://www.wired.com/story/why-lettuce-always-making-people-sick/</link>
-      <pubDate>Wed, 22 Jul 2026 21:41:29 +0000</pubDate>
-      <guid isPermaLink="false">6a5f946e7fd88f48c7789a41</guid>
-      <description>The cyclospora diarrhea outbreak isn&#8217;t an isolated incident. It&#8217;s part of a pattern of leafy greens wreaking digestive havoc.</description>
-    </item>
-    <item>
-      <title>$50,000 T800 robot decapitates fellow android in world's first robotics MMA fight</title>
-      <link>https://www.techradar.com/pro/usd50-000-t800-robot-decapitates-fellow-android-in-worlds-first-robotics-mma-fight</link>
-      <pubDate>Wed, 22 Jul 2026 21:10:00 +0000</pubDate>
-      <guid isPermaLink="false">fgTJRShTA7Zq8fbVtCobJb</guid>
-      <description>A $50,000 T800 robot lost its head during Shenzhen's first humanoid robot fighting tournament, but continued fighting using its remaining systems.</description>
-    </item>
-    <item>
-      <title>The White House Is Trying to Figure Out What to Do About Chinese AI</title>
-      <link>https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/</link>
-      <pubDate>Wed, 22 Jul 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a5f810cc9ff99b16219be4a</guid>
-      <description>There&#8217;s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.</description>
-    </item>
-    <item>
-      <title>Exclusive: It wasn't at this year's Unpacked, but a top Samsung exec hints that a new Galaxy Ring 'will definitely form part of our future portfolio of wearables'</title>
-      <link>https://www.techradar.com/health-fitness/exclusive-even-though-it-wasnt-in-this-years-unpacked-a-top-samsung-exec-hints-a-new-galaxy-ring-will-definitely-form-part-of-our-future-portfolio-of-wearables</link>
-      <pubDate>Wed, 22 Jul 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">seCYa4YYwdy7BgaRigXHkR</guid>
-      <description>Annika Bizon, VP of Product and Marketing for Samsung Mobile Experience, told us &#8212; well, very little, but she all but confirmed that anther Galaxy Ring is on the way.</description>
-    </item>
-    <item>
-      <title>US outlines its $5 billion Genesis Mission to boost science with AI</title>
-      <link>https://www.engadget.com/2221309/us-outlines-its-5-billion-genesis-mission-to-boost-science-with-ai/</link>
-      <pubDate>Wed, 22 Jul 2026 20:54:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2221309/us-outlines-its-5-billion-genesis-mission-to-boost-science-with-ai/</guid>
-      <description>Several federal agencies are contributing toward the interdisciplinary research efforts.</description>
-    </item>
-    <item>
-      <title>Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable</title>
-      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
-      <pubDate>Wed, 22 Jul 2026 20:49:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145517</guid>
-      <description>Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.</description>
-    </item>
-    <item>
-      <title>Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips</title>
-      <link>https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/</link>
-      <pubDate>Wed, 22 Jul 2026 20:43:38 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145498</guid>
-      <description>Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.</description>
-    </item>
-    <item>
-      <title>Top Red-Light Therapy Deals at Nordstrom&#8217;s Anniversary Sale (2026)</title>
-      <link>https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/</link>
-      <pubDate>Wed, 22 Jul 2026 20:40:12 +0000</pubDate>
-      <guid isPermaLink="false">6a60e578262e397baf377789</guid>
-      <description>Save on WIRED-tested LED therapy devices from TheraFace, HigherDose, and more.</description>
-    </item>
-    <item>
-      <title>Social media addiction lawsuit against Meta is dropped</title>
-      <link>https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/</link>
-      <pubDate>Wed, 22 Jul 2026 20:36:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145505</guid>
-      <description>A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.</description>
-    </item>
-    <item>
-      <title>Andruil unveils autonomous attack rotorcraft - could Thunder be the future of warfare as we know it?</title>
-      <link>https://www.techradar.com/pro/andruil-unveils-autonomous-attack-rotorcraft-could-thunder-be-the-future-of-warfare-as-we-know-it</link>
-      <pubDate>Wed, 22 Jul 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">nDR9iNXDtmdSZw6qZkc67k</guid>
-      <description>Anduril's new Thunder autonomous attack helicopter is built to fly as an escort for the Apache.</description>
-    </item>
-    <item>
-      <title>This $2 low-tech upgrade just made Russia's cheap 'cardboard-and-plywood' drone almost unjammable</title>
-      <link>https://www.techradar.com/pro/usd2-low-tech-upgrade-just-made-russias-cheap-cardboard-and-plywood-drone-almost-unjammable</link>
-      <pubDate>Wed, 22 Jul 2026 20:25:00 +0000</pubDate>
-      <guid isPermaLink="false">DVEMaCQiEuToP3EEhrudNG</guid>
-      <description>Russia has reportedly added magnetic compasses to cheap Molniya drones, helping maintain direction when electronic warfare disrupts GPS and GLONASS signals.</description>
-    </item>
-    <item>
-      <title>D&#233;pendance aux m&#233;dias sociaux | Un adolescent renonce &#224; un proc&#232;s contre Meta</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-07-22/dependance-aux-medias-sociaux/un-adolescent-renonce-a-un-proces-contre-meta.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 22 Jul 2026 16:19:57 -0400</pubDate>
-      <guid isPermaLink="false">3f30fbef1d29349c9b04b7b975b51d58</guid>
-      <description>Un adolescent a renonc&#233; au proc&#232;s tr&#232;s attendu qui devait l&#8217;opposer, &#224; partir de lundi &#224; Los&#160;Angeles, &#224; Meta, accus&#233; d&#8217;avoir contribu&#233; &#224; ses troubles psychologiques, ont indiqu&#233; mercredi ses avocats &#224; l&#8217;AFP.</description>
-    </item>
-    <item>
-      <title>Tesla&#8217;s revenues are bouncing back, but profits are still weak</title>
-      <link>https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales</link>
-      <pubDate>2026-07-22T16:17:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=969311</guid>
-      <description>After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the company released its earnings for the second quarter of 2026 - giving us the latest glimpse at the EV company [&#8230;]</description>
-    </item>
-    <item>
-      <title>Nobody knows how bad corporate AI emissions really are. This startup has a way to estimate them</title>
-      <link>https://www.fastcompany.com/91577940/how-bad-corporate-ai-emissions-startup-estimate-them</link>
-      <pubDate>2026-07-22T20:10:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91577940/how-bad-corporate-ai-emissions-startup-estimate-them</guid>
-      <description>Investors, auditors, and regulators are asking companies about their AI emissions, but precisely measuring them is a challenge. 
-More and more companies are implementing artificial intelligence into both their internal workflows and their external products, and that AI use comes with an environmental impact. Already, AI data centers are driving a surge in electricity demand that is outpacing supply....</description>
     </item>
   </channel>
 </rss>
