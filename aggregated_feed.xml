@@ -3,159 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 23 Jul 2026 21:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:00:04 GMT</lastBuildDate>
+    <item>
+      <title>Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics</title>
+      <link>https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/</link>
+      <pubDate>Thu, 23 Jul 2026 22:40:08 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146068</guid>
+      <description>Shashua has been invited to take the chairman of the board seat.</description>
+    </item>
+    <item>
+      <title>Scientists develop handheld device for measuring when your body is burning fat</title>
+      <link>https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/</link>
+      <pubDate>Thu, 23 Jul 2026 22:39:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/</guid>
+      <description>The breathalyzer identifies the amount of acetone in your breath to determine if your body is in ketosis.</description>
+    </item>
+    <item>
+      <title>My favorite music streaming site just got a big update that makes me even happier I quit Spotify six months ago</title>
+      <link>https://www.techradar.com/audio/audio-streaming/my-favorite-music-streaming-site-just-got-a-big-update-that-makes-me-even-happier-i-quit-spotify-six-months-ago</link>
+      <pubDate>Thu, 23 Jul 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">mGVPrBNLwVdkJ5R6UwRY6S</guid>
+      <description>The high-res audio streaming service Qobuz has got an app upgrade that makes it much easier to use. Here's what's changed.</description>
+    </item>
+    <item>
+      <title>Quote of the day by former Intel CEO Andy Grove: 'Success breeds complacency' &#8212; accidental foreshadowing of his company's own decline</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-former-intel-ceo-andy-grove-success-breeds-complacency-accidental-foreshadowing-of-his-companys-own-decline</link>
+      <pubDate>Thu, 23 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c2wQuAG2ocD8w5Wiav46cZ</guid>
+      <description>Intel has endured its ups and downs over the last few decades</description>
+    </item>
+    <item>
+      <title>Cutting through the noise &#8212; researchers may have cracked a key issue with developing next-gen 6G networks</title>
+      <link>https://www.techradar.com/pro/cutting-through-the-noise-researchers-may-have-cracked-a-key-issue-with-developing-next-gen-6g-networks</link>
+      <pubDate>Thu, 23 Jul 2026 21:20:00 +0000</pubDate>
+      <guid isPermaLink="false">ZtNcRYKPBiHDC25PLunGMa</guid>
+      <description>Reconfigurable intelligent surfaces (RIS) are a potential new solution to the electromagnetic interference that has hampered development of 6G development so far</description>
+    </item>
+    <item>
+      <title>Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop</title>
+      <link>https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop</link>
+      <pubDate>Thu, 23 Jul 2026 21:17:00 GMT</pubDate>
+      <guid isPermaLink="false">6vdl1xVT8AqHbtY9AbK3Bi</guid>
+      <description>Two weeks after debuting its more naturalistic GPT-Live audio AI model with full-duplex capabilities (listening and speaking at the same time), OpenAI is bringing it directly into developer workflows. The company announced that GPT-Live now powers the ChatGPT desktop application on macOS and Windows, integrating directly with agentic systems like Codex and ChatGPT Work (which are separate experiences available in the ChatGPT desktop app). When OpenAI initially launched GPT-Live on July 8, 2026, it introduced a continuous audio model capable of listening and speaking simultaneously&#8212;eliminating ...</description>
+    </item>
+    <item>
+      <title>Alexa Plus is getting an AI update to handle more complicated instructions</title>
+      <link>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</link>
+      <pubDate>2026-07-23T17:15:06-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=970399</guid>
+      <description>Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]</description>
+    </item>
     <item>
       <title>Peacock is finally profitable, thanks to the World Cup and Love Island</title>
       <link>https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/</link>
       <pubDate>Thu, 23 Jul 2026 21:00:35 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/</guid>
       <description>Gooooooooooool!</description>
-    </item>
-    <item>
-      <title>Patreon is laying off 20 percent of its staff</title>
-      <link>https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/</link>
-      <pubDate>Thu, 23 Jul 2026 20:47:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/</guid>
-      <description>While the company is trying to protect creators from AI, it still thinks the technology is changing how it does business.</description>
-    </item>
-    <item>
-      <title>Meta's pro-AI ad campaign is conspicuously light on AI</title>
-      <link>https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/</link>
-      <pubDate>Thu, 23 Jul 2026 20:37:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/</guid>
-      <description>The company wants people to be anti-doomer, but doesn't say why.</description>
-    </item>
-    <item>
-      <title>The Echo Show 21 is a great smart home hub that&#8217;s $80 off</title>
-      <link>https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale</link>
-      <pubDate>2026-07-23T16:36:40-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=970254</guid>
-      <description>Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon&#8217;s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;]</description>
-    </item>
-    <item>
-      <title>AMD takes on Nvidia with its Helios AI rack scale system</title>
-      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
-      <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145851</guid>
-      <description>AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.</description>
-    </item>
-    <item>
-      <title>Patreon lays off 20% of its workforce</title>
-      <link>https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/</link>
-      <pubDate>Thu, 23 Jul 2026 20:30:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145963</guid>
-      <description>In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.</description>
-    </item>
-    <item>
-      <title>Temu Tomahawk shows Ukraine is rapidly turning into China for the US Military, and that's a good thing</title>
-      <link>https://www.techradar.com/pro/temu-tomahawk-shows-ukraine-is-rapidly-turning-into-china-for-the-us-military-and-thats-a-good-thing</link>
-      <pubDate>Thu, 23 Jul 2026 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">xFRxgpWgjoeAQzyyWxnxrM</guid>
-      <description>Ukraine's affordable missile production is challenging Western defense economics while creating industrial partnerships that could reshape future military manufacturing.</description>
-    </item>
-    <item>
-      <title>'Subprime data center crisis' could threaten the global economy in a way similar to the 2008 subprime mortgage debacle</title>
-      <link>https://www.techradar.com/pro/subprime-data-center-crisis-could-threaten-the-global-economy-in-a-way-similar-to-the-2008-subprime-mortgage-debacle</link>
-      <pubDate>Thu, 23 Jul 2026 20:15:00 +0000</pubDate>
-      <guid isPermaLink="false">toYtjJDnmFuLFqEXvYCMmf</guid>
-      <description>Analysts warn that hidden AI data center debt increasingly resembles financial structures that contributed to the 2008 global mortgage crisis collapse.</description>
-    </item>
-    <item>
-      <title>Did Coca-Cola take the &#8216;fridge cigarette&#8217; too far?</title>
-      <link>https://www.fastcompany.com/91578834/coca-cola-rebranding</link>
-      <pubDate>2026-07-23T20:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91578834/coca-cola-rebranding</guid>
-      <description>The 140-year-old brand debuted a new visual identity this week.
-For any brand, a major redesign is a make or break moment. But for legacy companies with decades of clout behind them, the stakes are even higher. </description>
-    </item>
-    <item>
-      <title>Insurance startup Corgi reportedly raised more money at $4B &#8212; its third round in 8 weeks</title>
-      <link>https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/</link>
-      <pubDate>Thu, 23 Jul 2026 20:13:24 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145880</guid>
-      <description>In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations &#8212; but even by those standards, Corgi stands out.</description>
-    </item>
-    <item>
-      <title>Tesla&#8217;s door handles may spur new US safety rules</title>
-      <link>https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/</link>
-      <pubDate>Thu, 23 Jul 2026 20:06:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145927</guid>
-      <description>The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.</description>
-    </item>
-    <item>
-      <title>Disney layoffs hit Pixar employees, even after the success of &#8216;Toy Story 5&#8217;</title>
-      <link>https://www.fastcompany.com/91578810/disney-layoffs-hit-pixar-employees-even-after-the-success-of-toy-story-5</link>
-      <pubDate>2026-07-23T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91578810/disney-layoffs-hit-pixar-employees-even-after-the-success-of-toy-story-5</guid>
-      <description>Job cuts have hit multiple divisions at Disney, with Pixar taking the brunt of the layoffs despite a recent box office hit.
-Several hundreds employees were laid off Tuesday across multiple Disney divisions including&#160; ESPN, National Geographic, Disney Entertainment Television and Disney Studios.&#160;</description>
-    </item>
-    <item>
-      <title>Layoffs just hit a 57-year low. So why does the job market feel so tough?</title>
-      <link>https://www.fastcompany.com/91578691/layoffs-just-hit-a-57-year-low-so-why-does-the-job-market-feel-so-tough</link>
-      <pubDate>2026-07-23T19:49:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91578691/layoffs-just-hit-a-57-year-low-so-why-does-the-job-market-feel-so-tough</guid>
-      <description>New unemployment claims haven&#8217;t been this low since 1969, but a slowdown in hiring is creating an unusual divide in the U.S. labor market.
-Apart from billionaires, no one seems to feel good about the economy right now &#8211; but by one key measure, Americans are doing better than ever.</description>
-    </item>
-    <item>
-      <title>FCC Chairman Brendan Carr&#8217;s war on the First Amendment</title>
-      <link>https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment</link>
-      <pubDate>2026-07-23T15:46:11-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=970284</guid>
-      <description>As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation&#8217;s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about the president. He was even able to [&#8230;]</description>
-    </item>
-    <item>
-      <title>Oil prices just hit $100 a barrel again. Here&#8217;s what that could mean for consumers</title>
-      <link>https://www.fastcompany.com/91578783/oil-gas-prices-100-what-it-means-for-consumers-inflation-interest-rates-fed-federal-reserve</link>
-      <pubDate>2026-07-23T19:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91578783/oil-gas-prices-100-what-it-means-for-consumers-inflation-interest-rates-fed-federal-reserve</guid>
-      <description>Beyond paying higher prices at the gas pump, consumers may need to brace for higher inflation and a potential Fed rate hike.
-Brent crude oil prices hit $100 a barrel on Thursday for the first time since May, after reports that Yemen&#8217;s Iran-backed Houthis&#160;struck&#160;two Saudi oil tankers in the Red Sea located near the Strait of Hormuz, per CNN. West Texas Intermediate futures, a benchmark for U.S. oil prices, also broke the $90 per barrel threshold, hitting $92.25 at the time of this writing....</description>
-    </item>
-    <item>
-      <title>Meta drops out of a major clean energy pact as its natural gas buildout accelerates</title>
-      <link>https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/</link>
-      <pubDate>Thu, 23 Jul 2026 19:41:54 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145936</guid>
-      <description>Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.</description>
-    </item>
-    <item>
-      <title>The problem with AI becoming our easiest colleague to talk to</title>
-      <link>https://www.fastcompany.com/91578055/the-problem-with-ai-becoming-our-easiest-colleague-to-talk-to</link>
-      <pubDate>2026-07-23T19:32:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91578055/the-problem-with-ai-becoming-our-easiest-colleague-to-talk-to</guid>
-      <description>The loneliness epidemic may be getting worse with AI in the workplace, but there is a solution.
-When I speak with leaders across all industries about AI, there is always talk about efficiency&#8212;how much time we save and how productive we are.Workday&#8217;s new Human Connection Workplace Index confirms that AI is making employees feel more productive, more confident, and less burned out. But we wanted to dig deeper: What happens to our company culture when AI becomes the easiest &#8220;colleague&#8221; to talk to?...</description>
-    </item>
-    <item>
-      <title>OpenAI once again makes the case for giving ChatGPT your health records</title>
-      <link>https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/</link>
-      <pubDate>Thu, 23 Jul 2026 19:20:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/</guid>
-      <description>ChatGPT Health is rolling out to users in the US who are 18 years or older.</description>
-    </item>
-    <item>
-      <title>Stay visible in the era of AI search</title>
-      <link>https://www.fastcompany.com/91577614/stay-visible-in-the-era-of-ai-search</link>
-      <pubDate>2026-07-23T19:15:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91577614/stay-visible-in-the-era-of-ai-search</guid>
-      <description>As search evolves from rankings to recommendations, brands must build the credibility signals that AI trusts.
-It used to be &#8220;I&#8217;ll Google it.&#8221; Now, many people just ask their LLM of choice.</description>
-    </item>
-    <item>
-      <title>The federal government is erasing bike lanes &#8212; from its websites</title>
-      <link>https://mashable.com/life/bike-lanes-trump-climate-denial</link>
-      <pubDate>Thu, 23 Jul 2026 19:14:55 +0000</pubDate>
-      <guid isPermaLink="false">05RBqtfxOxJcwMfMt8qRn9A</guid>
-      <description>A government official declared the changes reject "the Left's belief that everyone should ride a bike to their shoebox-sized apartment to eat crickets."</description>
-    </item>
-    <item>
-      <title>Universal secures rights for film adaptations of 10 Atari games</title>
-      <link>https://www.engadget.com/2222033/universal-secures-rights-for-film-adaptation-of-10-atari-games/</link>
-      <pubDate>Thu, 23 Jul 2026 19:10:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2222033/universal-secures-rights-for-film-adaptation-of-10-atari-games/</guid>
-      <description>Gear up for the Atari Cinematic Universe.</description>
     </item>
   </channel>
 </rss>
