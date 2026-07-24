@@ -3,7 +3,56 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 23 Jul 2026 23:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:07:20 GMT</lastBuildDate>
+    <item>
+      <title>Meet the judges who will crown Australia&#8217;s next breakout startup</title>
+      <link>https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/</link>
+      <pubDate>Fri, 24 Jul 2026 00:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145581</guid>
+      <description>TechCrunch Startup Battlefield is coming to Australia &#8212; and we're partnering with Stripe to find the country's most exciting early-stage startups.</description>
+    </item>
+    <item>
+      <title>An FDA Panel Just Endorsed These Unproven Peptides</title>
+      <link>https://www.wired.com/story/fda-panel-endorses-unproven-peptides/</link>
+      <pubDate>Thu, 23 Jul 2026 23:45:12 +0000</pubDate>
+      <guid isPermaLink="false">6a5fbbc0f1768585876832b0</guid>
+      <description>Outside experts&#8212;some with a vested interest in peptides&#8212;recommended adding a number of the amino acids to the FDA's bulk list, including the &#8220;Wolverine stack&#8221; touted by Joe Rogan and other influencers.</description>
+    </item>
+    <item>
+      <title>Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI</title>
+      <link>https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai</link>
+      <pubDate>Thu, 23 Jul 2026 23:37:05 GMT</pubDate>
+      <guid isPermaLink="false">2GnXy6jBrKjztwcfU2nQGd</guid>
+      <description>Microsoft AI released two new in-house models into public preview on Wednesday &#8212; MAI-Image-2.5-Pro, its highest-fidelity image generator to date, and MAI-Voice-2-Flash, a speech model built for high-volume enterprise workloads &#8212; while publishing production data that amounts to the company's most aggressive argument yet that it can power its own products without leaning on OpenAI's frontier models.The announcement, made by Microsoft AI's Superintelligence team, lands roughly a year after the company committed to building purpose-built models internally, and it arrives with an unusual level of s...</description>
+    </item>
+    <item>
+      <title>Nvidia's latest trick for cooling its data center hardware is... hot water? 'Hot liquid cooling' is warmer than a hot tub, but apparently does the job pretty well</title>
+      <link>https://www.techradar.com/pro/nvidias-latest-trick-for-cooling-its-data-center-hardware-is-hot-water-hot-liquid-cooling-is-warmer-than-a-hot-tub-but-apparently-does-the-job-pretty-well</link>
+      <pubDate>Thu, 23 Jul 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">MXxcSnvEwqGaFXmJPdqZpN</guid>
+      <description>Nvidia's newest AI servers are cooled by water hotter than a hot tub: 45&#176;C going in, 55&#176;C coming out, while skipping out on fans altogether</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Friday, July 24 (game #1139)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-july-2026</link>
+      <pubDate>Thu, 23 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">MJsLNiJp89MKzZuiWHpwAN</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Friday, July 24 (game #873)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-24-july-2026</link>
+      <pubDate>Thu, 23 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">V3x8M2mV8pUrTe6HTv2HPQ</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Friday, July 24 (game #1642)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-24-july-2026</link>
+      <pubDate>Thu, 23 Jul 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">XcJuXstrgfX4oD5vCret9S</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
     <item>
       <title>Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics</title>
       <link>https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/</link>
@@ -24,41 +73,6 @@
       <pubDate>Thu, 23 Jul 2026 22:30:00 +0000</pubDate>
       <guid isPermaLink="false">mGVPrBNLwVdkJ5R6UwRY6S</guid>
       <description>The high-res audio streaming service Qobuz has got an app upgrade that makes it much easier to use. Here's what's changed.</description>
-    </item>
-    <item>
-      <title>Quote of the day by former Intel CEO Andy Grove: 'Success breeds complacency' &#8212; accidental foreshadowing of his company's own decline</title>
-      <link>https://www.techradar.com/pro/quote-of-the-day-by-former-intel-ceo-andy-grove-success-breeds-complacency-accidental-foreshadowing-of-his-companys-own-decline</link>
-      <pubDate>Thu, 23 Jul 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">c2wQuAG2ocD8w5Wiav46cZ</guid>
-      <description>Intel has endured its ups and downs over the last few decades</description>
-    </item>
-    <item>
-      <title>Cutting through the noise &#8212; researchers may have cracked a key issue with developing next-gen 6G networks</title>
-      <link>https://www.techradar.com/pro/cutting-through-the-noise-researchers-may-have-cracked-a-key-issue-with-developing-next-gen-6g-networks</link>
-      <pubDate>Thu, 23 Jul 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">ZtNcRYKPBiHDC25PLunGMa</guid>
-      <description>Reconfigurable intelligent surfaces (RIS) are a potential new solution to the electromagnetic interference that has hampered development of 6G development so far</description>
-    </item>
-    <item>
-      <title>Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop</title>
-      <link>https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop</link>
-      <pubDate>Thu, 23 Jul 2026 21:17:00 GMT</pubDate>
-      <guid isPermaLink="false">6vdl1xVT8AqHbtY9AbK3Bi</guid>
-      <description>Two weeks after debuting its more naturalistic GPT-Live audio AI model with full-duplex capabilities (listening and speaking at the same time), OpenAI is bringing it directly into developer workflows. The company announced that GPT-Live now powers the ChatGPT desktop application on macOS and Windows, integrating directly with agentic systems like Codex and ChatGPT Work (which are separate experiences available in the ChatGPT desktop app). When OpenAI initially launched GPT-Live on July 8, 2026, it introduced a continuous audio model capable of listening and speaking simultaneously&#8212;eliminating ...</description>
-    </item>
-    <item>
-      <title>Alexa Plus is getting an AI update to handle more complicated instructions</title>
-      <link>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</link>
-      <pubDate>2026-07-23T17:15:06-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=970399</guid>
-      <description>Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]</description>
-    </item>
-    <item>
-      <title>Peacock is finally profitable, thanks to the World Cup and Love Island</title>
-      <link>https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/</link>
-      <pubDate>Thu, 23 Jul 2026 21:00:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/</guid>
-      <description>Gooooooooooool!</description>
     </item>
   </channel>
 </rss>
