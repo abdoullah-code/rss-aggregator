@@ -3,154 +3,350 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 28 Jul 2026 08:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:21:14 GMT</lastBuildDate>
     <item>
-      <title>Amazon fait baisser le prix du MacBook Neo de fa&#231;on in&#233;dite : moins cher qu&#8217;au lancement et malgr&#233; la r&#233;cente augmentation</title>
-      <link>https://www.frandroid.com/bons-plans/3132387_amazon-fait-baisser-le-prix-du-macbook-neo-de-facon-inedite-moins-cher-quau-lancement-et-malgre-la-recente-augmentation</link>
-      <pubDate>Tue, 28 Jul 2026 08:38:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3132387_amazon-fait-baisser-le-prix-du-macbook-neo-de-facon-inedite-moins-cher-quau-lancement-et-malgre-la-recente-augmentation</guid>
+      <title>"Vibe-coding a landing page from scratch is completely pointless": How will vibe coding really impact the future of website building?</title>
+      <link>https://www.techradar.com/pro/vibe-coding-a-landing-page-from-scratch-is-completely-pointless-how-will-vibe-coding-really-impact-the-future-of-website-building</link>
+      <pubDate>Tue, 28 Jul 2026 11:01:47 +0000</pubDate>
+      <guid isPermaLink="false">ShtpKCtLKrcTZtTnwJniDb</guid>
+      <description>Is vibe-coding really the answer to all your website-building needs?</description>
+    </item>
+    <item>
+      <title>A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life</title>
+      <link>https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/</link>
+      <pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a61e93c07c746392b7d13ba</guid>
+      <description>Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.</description>
+    </item>
+    <item>
+      <title>How far has iPhone photography come in 10 years? I compared the iPhone 7 and iPhone Air &#8212; and the results speak for themselves</title>
+      <link>https://www.techradar.com/phones/iphone/how-far-has-iphone-photography-come-in-10-years-i-compared-the-iphone-7-and-iphone-air-and-the-results-speak-for-themselves</link>
+      <pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Ak2YynbRRXvFw7NffNSaGf</guid>
+      <description>I took the iPhone 7 and iPhone Air on a photo walk to see how far Apple's photography hardware has come in 10 years.</description>
+    </item>
+    <item>
+      <title>Neri Oxman wants to grow the colors on your clothes</title>
+      <link>https://www.fastcompany.com/91575161/neri-oxman-wants-to-grow-the-colors-on-your-clothes</link>
+      <pubDate>2026-07-28T11:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91575161/neri-oxman-wants-to-grow-the-colors-on-your-clothes</guid>
+      <description>At Oxman&#8217;s NYC studio, engineered E. coli bacteria grows pigments onto knitted fabric, resulting in no two garments that look alike.
+At Oxman, a New York design studio, you&#8217;ll find four capes. They hang off a mannequin in soft folds, each knitted from a single piece of silk. Their color is uneven. Deep indigo collects in the ridges of the material, black shades in the valleys, blues appear in slightly crooked lines. The pigment is streaked and faded, so no two sections look the same. A commercial dye house would call this a defect and throw it out. But here, the inconsistency is the point....</description>
+    </item>
+    <item>
+      <title>Exclusive: Yelp&#8217;s AI phone service for restaurants can now take food orders, too</title>
+      <link>https://www.fastcompany.com/91580249/exclusive-yelps-ai-phone-service-for-restaurants-can-can-now-take-food-orders-too</link>
+      <pubDate>2026-07-28T11:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91580249/exclusive-yelps-ai-phone-service-for-restaurants-can-can-now-take-food-orders-too</guid>
+      <description>Once feared for its customer reviews, Yelp is pivoting to business software, using tools like the AI-powered Yelp Host to help restaurants manage calls, reservations, and even orders.
+When Alyssa Gangeri was running restaurants in New York more than a decade ago, Yelp was the bane of her existence, she says. She would regularly go down a rabbit hole, reading her restaurant&#8217;s reviews and scouring them for clues about when the diners had visited or who had served them....</description>
+    </item>
+    <item>
+      <title>New research reveals what happens to your brain when you stress about money</title>
+      <link>https://www.fastcompany.com/91580347/neuroscience-research-what-happens-to-your-brain-when-you-stress-about-money-cognitive-aging</link>
+      <pubDate>2026-07-28T11:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91580347/neuroscience-research-what-happens-to-your-brain-when-you-stress-about-money-cognitive-aging</guid>
+      <description>Neuroscientists looked into how long-term finances affect cognitive aging. What they found is fascinating.
+As if you didn&#8217;t have enough to worry about: Now, it turns out, stressing about money could have a long-term effect on your brain.</description>
+    </item>
+    <item>
+      <title>A turning point for Saas: Not SaaSpocalypse, but an opportunity to differentiate</title>
+      <link>https://www.techradar.com/pro/a-turning-point-for-saas-not-saaspocalypse-but-an-opportunity-to-differentiate</link>
+      <pubDate>Tue, 28 Jul 2026 10:37:20 +0000</pubDate>
+      <guid isPermaLink="false">5VGepEer9z3dox2hQNqGbg</guid>
+      <description>AI elevates SaaS capabilities via specialization and better customer outcomes.</description>
+    </item>
+    <item>
+      <title>Des camions de pompiers bloqu&#233;s par l&#8217;AdBlue en plein incendie en France : comment l&#8217;Allemagne a r&#233;gl&#233; ce probl&#232;me depuis 2018</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3196157_des-camions-de-pompiers-bloques-par-ladblue-en-plein-incendie-en-france-comment-lallemagne-a-regle-ce-probleme-depuis-2018</link>
+      <pubDate>Tue, 28 Jul 2026 10:36:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3196157_des-camions-de-pompiers-bloques-par-ladblue-en-plein-incendie-en-france-comment-lallemagne-a-regle-ce-probleme-depuis-2018</guid>
       <description>
-Apple a r&#233;cemment augment&#233; de 100 euros le prix de son MacBook Neo, passant le prix de base de 699 euros &#224; 799 euros. La hausse s'est d&#233;j&#224; r&#233;percut&#233;e chez la majorit&#233; des revendeurs, mais Amazon le propose en ce moment &#224; seulement 619 euros. 
+En Gironde, des camions de pompiers doivent quitter le front d'un incendie pour refaire le plein d'AdBlue, et une vid&#233;o en a fait une pol&#233;mique nationale contre &#171;&#160;l'&#233;cologie punitive&#160;&#187;. Sauf que le liquide n'est qu'un sympt&#244;me, et que l'Allemagne a r&#233;gl&#233; le fond du probl&#232;me d&#232;s 2018 sans rien retirer &#224; la d&#233;pollution.
 </description>
     </item>
     <item>
-      <title>Galaxy S27 Ultra&#160;: Samsung pr&#233;parerait enfin la mise &#224; jour qu&#8217;on attendait</title>
-      <link>https://www.01net.com/actualites/galaxy-s27-ultra-samsung-preparerait-enfin-mise-a-jour-batterie-on-attendait.html</link>
-      <pubDate>Tue, 28 Jul 2026 08:37:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361339</guid>
-      <description>Apr&#232;s des ann&#233;es de stagnation, Samsung s'appr&#234;terait enfin &#224; revoir &#224; la hausse la capacit&#233; de batterie de ses futurs Galaxy S27 Ultra et le S27 Pro.</description>
+      <title>Apr&#232;s Starlink, Amazon veut &#224; son tour connecter les smartphones depuis l&#8217;espace</title>
+      <link>https://www.01net.com/actualites/apres-starlink-amazon-veut-a-son-tour-connecter-les-smartphones-depuis-lespace.html</link>
+      <pubDate>Tue, 28 Jul 2026 10:33:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1361359</guid>
+      <description>Amazon vise &#224; connecter les appareils mobiles depuis l'espace, gr&#226;ce &#224; une nouvelle constellation de 5 105 satellites. L&#8217;objectif du g&#233;ant du e-commerce : permettre une connectivit&#233; m&#234;me dans les zones recul&#233;es.</description>
     </item>
     <item>
-      <title>Wero : Lidl devient le premier distributeur alimentaire &#224; accepter la solution europ&#233;enne pour les achats en ligne</title>
-      <link>https://www.frandroid.com/marques/lidl/3195845_wero-lidl-devient-le-premier-distributeur-alimentaire-a-accepter-la-solution-europeenne-pour-les-achats-en-ligne</link>
-      <pubDate>Tue, 28 Jul 2026 08:35:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/lidl/3195845_wero-lidl-devient-le-premier-distributeur-alimentaire-a-accepter-la-solution-europeenne-pour-les-achats-en-ligne</guid>
+      <title>Derni&#232;res heures pour les soldes : Boulanger encha&#238;ne avec une grande braderie Tech</title>
+      <link>https://www.frandroid.com/bons-plans/3178497_dernieres-heures-pour-les-soldes-boulanger-enchaine-avec-une-grande-braderie-tech</link>
+      <pubDate>Tue, 28 Jul 2026 10:31:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3178497_dernieres-heures-pour-les-soldes-boulanger-enchaine-avec-une-grande-braderie-tech</guid>
       <description>
-Wero est d&#233;sormais actif dans l'e-commerce, avec plusieurs grandes enseignes qui proposent cette solution de paiement pr&#233;sent&#233;e comme souveraine. En plus de Decathlon, l'enseigne de grande distribution Lidl propose &#233;galement Wero pour r&#233;gler ses achats en ligne, mais seulement en Allemagne.
-</description>
-    </item>
-    <item>
-      <title>Un &#171;&#160;rappel des enjeux&#160;&#187; : Sam Altman revient sur la cyberattaque provoqu&#233;e par une IA d&#8217;OpenAI</title>
-      <link>https://www.01net.com/actualites/rappel-enjeux-sam-altman-revient-cyberattaque-provoquee-par-ia-dopenai.html</link>
-      <pubDate>Tue, 28 Jul 2026 08:29:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361334</guid>
-      <description>Plusieurs jours apr&#232;s la fuite de deux mod&#232;les d&#8217;IA d&#8217;OpenAI et le piratage de Hugging Face, Sam Altman s'est pour la premi&#232;re fois exprim&#233; sur l'incident. Le PDG d&#8217;OpenAI qualifie l&#8217;incident de &#171; v&#233;ritable rappel des enjeux &#187; et estime que quiconque n&#8217;en est pas terrifi&#233; &#171; ne prend pas cela suffisamment au s&#233;rieux &#187;. L'entrepreneur plaide contre un monopole de l'IA&#8230; alors m&#234;me qu&#8217;OpenAI reste &#224; l&#8217;&#233;cart de l&#8217;alliance open source n&#233;e du scandale d&#233;coulant de l'incident....</description>
-    </item>
-    <item>
-      <title>1 000 km d&#8217;autonomie et charge en 5 min : BYD s&#8217;attaque &#224; Mercedes avec la Da Han</title>
-      <link>https://www.frandroid.com/marques/byd/3195769_1-000-km-dautonomie-et-charge-en-5-min-byd-sattaque-a-mercedes-avec-la-da-han</link>
-      <pubDate>Tue, 28 Jul 2026 08:18:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/byd/3195769_1-000-km-dautonomie-et-charge-en-5-min-byd-sattaque-a-mercedes-avec-la-da-han</guid>
-      <description>
-Le constructeur chinois l&#232;ve le voile sur sa derni&#232;re cr&#233;ation en date, la nouvelle berline Da Han. Dot&#233;e d&#8217;une grande batterie, la voiture &#233;lectrique est capable de parcourir plus de 1 000 kilom&#232;tres en une seule charge.
-</description>
-    </item>
-    <item>
-      <title>Incendies en Gironde et dans les Landes : Bouygues T&#233;l&#233;com et Orange offrent de l&#8217;Internet mobile &#224; leurs clients</title>
-      <link>https://www.frandroid.com/marques/orange/3195819_incendies-en-gironde-et-dans-les-landes-bouygues-telecom-et-orange-offrent-de-linternet-mobile-a-leurs-clients</link>
-      <pubDate>Tue, 28 Jul 2026 08:17:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/orange/3195819_incendies-en-gironde-et-dans-les-landes-bouygues-telecom-et-orange-offrent-de-linternet-mobile-a-leurs-clients</guid>
-      <description>
-La France est touch&#233;e par de violents incendies, en particulier en Gironde et dans les Landes. Les op&#233;rateurs fran&#231;ais se mobilisent &#224; leur tour pour aider leurs clients d&#233;plac&#233;s avec de la data gratuite.
-</description>
-    </item>
-    <item>
-      <title>Dacia va lancer une voiture &#233;lectrique &#224; moins de 15 000 &#8364; : un brevet en fuite d&#233;voile son design d&#233;finitif</title>
-      <link>https://www.frandroid.com/marques/dacia/3195735_dacia-va-lancer-une-voiture-electrique-a-moins-de-15-000-e-un-brevet-en-fuite-devoile-son-design-definitif</link>
-      <pubDate>Tue, 28 Jul 2026 08:15:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/dacia/3195735_dacia-va-lancer-une-voiture-electrique-a-moins-de-15-000-e-un-brevet-en-fuite-devoile-son-design-definitif</guid>
-      <description>
-D&#233;voil&#233; en 2025, le concept Dacia Hipster devrait bel et bien &#234;tre d&#233;clin&#233; en une voiture &#233;lectrique de s&#233;rie. C&#8217;est ce que semble confirmer un brevet d&#233;pos&#233; r&#233;cemment par le constructeur.
-</description>
-    </item>
-    <item>
-      <title>Elon Musk lance X Money, un service bancaire avec un taux d&#8217;int&#233;r&#234;t incroyablement &#233;lev&#233;</title>
-      <link>https://www.frandroid.com/services/banque-en-ligne/3195751_elon-musk-lance-x-money-un-service-bancaire-avec-un-taux-dinteret-incroyablement-eleve</link>
-      <pubDate>Tue, 28 Jul 2026 08:03:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3195751_elon-musk-lance-x-money-un-service-bancaire-avec-un-taux-dinteret-incroyablement-eleve</guid>
-      <description>
-Test&#233; en b&#234;ta depuis le 25 juin 2026, X Money est d&#233;sormais disponible &#224; grande &#233;chelle outre-Atlantique. Le service bancaire et financier de X, le r&#233;seau social d'Elon Musk, est accessible aux abonn&#233;s Premium et Premium+ de l'application.
-</description>
-    </item>
-    <item>
-      <title>Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins</title>
-      <link>https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/</link>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147199</guid>
-      <description>Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.</description>
-    </item>
-    <item>
-      <title>Amazon brade d&#233;j&#224; la toute nouvelle montre connect&#233;e de Xiaomi, la Redmi Watch 6</title>
-      <link>https://www.frandroid.com/bons-plans/3186591_amazon-brade-deja-la-toute-nouvelle-montre-connectee-de-xiaomi-la-redmi-watch-6</link>
-      <pubDate>Tue, 28 Jul 2026 07:59:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3186591_amazon-brade-deja-la-toute-nouvelle-montre-connectee-de-xiaomi-la-redmi-watch-6</guid>
-      <description>
-La Xiaomi Redmi Watch 6 est la derni&#232;re montre connect&#233;e de la marque qui mise sur un &#233;cran Amoled lumineux, une bonne autonomie et un GPS pour suivre vos activit&#233;s. La voil&#224; d&#233;j&#224; en promotion &#224; 84,99 euros au lieu de 119,99 euros sur Amazon.
-</description>
-    </item>
-    <item>
-      <title>Il promettait d&#8217;&#233;galer le Tesla Model Y : le test r&#233;el d&#8217;autonomie du Rivian R2 prouve tout le contraire</title>
-      <link>https://www.frandroid.com/marques/rivian/3195501_il-promettait-degaler-le-tesla-model-y-le-test-reel-dautonomie-du-rivian-r2-prouve-tout-le-contraire</link>
-      <pubDate>Tue, 28 Jul 2026 07:49:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/rivian/3195501_il-promettait-degaler-le-tesla-model-y-le-test-reel-dautonomie-du-rivian-r2-prouve-tout-le-contraire</guid>
-      <description>
-Rivian assure depuis le lancement du R2 que son SUV &#233;lectrique consomme aussi peu qu'un Tesla Model Y. Les chiffres homologu&#233;s par l'agence am&#233;ricaine de protection de l'environnement (EPA) donnaient d'ailleurs raison au constructeur. Mais un essai comparatif men&#233; par la cha&#238;ne YouTube "Out of Spec Reviews" raconte une toute autre histoire, avec un &#233;cart de consommation allant jusqu'&#224; 26 % en d&#233;faveur du R2.
+Apr&#232;s quelques jours de prolongation, c'est aujourd'hui le tout dernier jour des soldes d'&#233;t&#233; ! Mais pas question de lever le pied sur les bonnes affaires. Boulanger prend le relais en lan&#231;ant une grande braderie sur son site jusqu'au 11 ao&#251;t. Smartphones, TV, objets connect&#233;s&#8230; de nombreuses r&#233;f&#233;rences Tech voient leurs prix chuter. Nous avons s&#233;lectionn&#233; les meilleures offres de l'&#233;v&#233;nement.
 ...</description>
     </item>
     <item>
-      <title>Avec iOS 26.6, Apple corrige pr&#232;s de 90 failles de s&#233;curit&#233;, mettez &#224; jour votre iPhone&#160;!</title>
-      <link>https://www.01net.com/actualites/ios-26-6-apple-corrige-pres-90-failles-securite-mettez-jour-iphone.html</link>
-      <pubDate>Tue, 28 Jul 2026 07:45:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361318</guid>
-      <description>Apple vient de d&#233;ployer iOS 26.6 sur iPhone et iPad. Cette mise &#224; jour interm&#233;diaire corrige un impressionnant total de 87 failles de s&#233;curit&#233; dans le code d'iOS, y compris dans le noyau du syst&#232;me d'exploitation.</description>
+      <title>Can the New York Times Save Journalism From Our AI Overlords?</title>
+      <link>https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/</link>
+      <pubDate>Tue, 28 Jul 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a62391cd98c3c0f7d1d44ff</guid>
+      <description>In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They&#8217;ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.</description>
     </item>
     <item>
-      <title>Le premier robot humano&#239;de de BYD, c&#8217;est imminent</title>
-      <link>https://www.frandroid.com/marques/byd/3195797_le-premier-robot-humanoide-de-byd-cest-imminent</link>
-      <pubDate>Tue, 28 Jul 2026 07:19:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/byd/3195797_le-premier-robot-humanoide-de-byd-cest-imminent</guid>
+      <title>Si vous poss&#233;dez ces jeux Ubisoft sur Xbox, vous pouvez maintenant y jouer gratuitement sur PC</title>
+      <link>https://www.frandroid.com/marques/microsoft/3196311_si-vous-possedez-ces-jeux-ubisoft-sur-xbox-vous-pouvez-maintenant-y-jouer-gratuitement-sur-pc</link>
+      <pubDate>Tue, 28 Jul 2026 10:28:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3196311_si-vous-possedez-ces-jeux-ubisoft-sur-xbox-vous-pouvez-maintenant-y-jouer-gratuitement-sur-pc</guid>
       <description>
-Le constructeur automobile chinois BYD a confirm&#233; qu'il pr&#233;senterait son premier robot humano&#239;de au mois d'ao&#251;t, dans son espace Di Space &#224; Zhengzhou. Une premi&#232;re apparition publique qui devrait porter sur un prototype physique, et non sur un simple concept.
+Ubisoft et Xbox renforcent leur partenariat en permettant aux joueurs console d'obtenir certains de leurs jeux Xbox gratuitement sur PC.
 </description>
     </item>
     <item>
-      <title>Ce picoprojecteur Full HD sous Google TV voit son prix passer sous la barre des 300 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3195397_ce-picoprojecteur-full-hd-sous-google-tv-voit-son-prix-passer-sous-la-barre-des-300-e</link>
-      <pubDate>Tue, 28 Jul 2026 07:16:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3195397_ce-picoprojecteur-full-hd-sous-google-tv-voit-son-prix-passer-sous-la-barre-des-300-e</guid>
+      <title>From apprehension to AI agency: the leadership shift no one can outsource</title>
+      <link>https://www.techradar.com/pro/from-apprehension-to-ai-agency-the-leadership-shift-no-one-can-outsource</link>
+      <pubDate>Tue, 28 Jul 2026 10:28:35 +0000</pubDate>
+      <guid isPermaLink="false">6CCCYYvyeXMcXivnpmHoDh</guid>
+      <description>Turning AI skepticism into confident, outcome-driven workforce adoption.</description>
+    </item>
+    <item>
+      <title>Man rolls downhill in giant water balloon in glorious slow motion</title>
+      <link>https://mashable.com/life/slow-mo-guys-downhill-giant-water-balloon</link>
+      <pubDate>Tue, 28 Jul 2026 10:23:15 +0000</pubDate>
+      <guid isPermaLink="false">01gz4Of9X24PNIz9NadjeEl</guid>
+      <description>YouTube duo The Slow Mo Guys have released a video of Dan rolling down a ramp while inside a giant water balloon.</description>
+    </item>
+    <item>
+      <title>La RED box 5G chute sous les 25 euros par mois, une premi&#232;re sur ce segment</title>
+      <link>https://www.frandroid.com/bons-plans/3195945_la-red-box-5g-chute-sous-les-25-euros-par-mois-une-premiere-sur-ce-segment</link>
+      <pubDate>Tue, 28 Jul 2026 10:23:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3195945_la-red-box-5g-chute-sous-les-25-euros-par-mois-une-premiere-sur-ce-segment</guid>
       <description>
-L'Aurzen Boom Mini est un vid&#233;oprojecteur compact, facile &#224; d&#233;placer et capable d'offrir des images Full HD lumineuses. Actuellement, Amazon l'affiche &#224; 270,74 euros au lieu de 369,99 euros.
+La RED box 5G perd 1 euro et passe &#224; 24,99 euros par mois, sans engagement. Une baisse qui la place parmi les box 5G les moins ch&#232;res du march&#233;.
 </description>
     </item>
     <item>
-      <title>iOS 26.6 est disponible, voici les principales nouveaut&#233;s</title>
-      <link>https://www.01net.com/actualites/ios-26-6-est-disponible-voici-les-principales-nouveautes.html</link>
-      <pubDate>Tue, 28 Jul 2026 07:15:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361323</guid>
-      <description>Apple vient de d&#233;ployer une nouvelle mise &#224; jour d&#8217;iOS 26 pour l&#8217;iPhone. Outre la correction d&#8217;importantes failles de s&#233;curit&#233;, iOS 26.6 introduit plusieurs nouveaut&#233;s et pr&#233;pare le terrain pour l&#8217;arriv&#233;e d&#8217;iOS 27.</description>
+      <title>How Large Action Models are reshaping CX</title>
+      <link>https://www.techradar.com/pro/how-large-action-models-are-reshaping-cx</link>
+      <pubDate>Tue, 28 Jul 2026 10:06:27 +0000</pubDate>
+      <guid isPermaLink="false">yHhHYVRqyCx8po4DsNfMHg</guid>
+      <description>Organizations start to realize that LAM models take conversational AI a step further.</description>
     </item>
     <item>
-      <title>Specialized&#160;: Turbo Levo R Ultralight, un VTT &#233;lectrique ultra-l&#233;ger mais &#224; un prix d&#233;lirant</title>
-      <link>https://www.01net.com/actualites/specialized-turbo-levo-r-ultralight-un-vtt-electrique-ultra-leger-mais-a-un-prix-delirant.html</link>
-      <pubDate>Tue, 28 Jul 2026 07:03:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361142</guid>
-      <description>Specialized lance le S-Works Turbo Levo R Ultralight, un VTT &#233;lectrique ultra-l&#233;ger de moins de 19 kg mais avec un prix, qui lui, grimpe &#224; 13 999 &#8364;.</description>
-    </item>
-    <item>
-      <title>16 products keeping my kids entertained whilst I work from home this summer &#8211; and half are less than &#163;20</title>
-      <link>https://www.techradar.com/collection/pro/16-products-keeping-my-kids-entertained-whilst-i-work-from-home-this-summer-and-half-are-less-than-gbp20</link>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">tpA7mRsRwTsUPZvfsxRvQK</guid>
-      <description>My shopping list for a calmer work environment during the summer holidays</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Watch Ultra 2 : fausse baroudeuse ou reine des montres connect&#233;es sportives ? Notre test en vid&#233;o</title>
-      <link>https://www.frandroid.com/marques/samsung/3195757_samsung-galaxy-watch-ultra-2-fausse-baroudeuse-ou-reine-des-montres-connectees-sportives-notre-test-en-video</link>
-      <pubDate>Tue, 28 Jul 2026 06:46:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3195757_samsung-galaxy-watch-ultra-2-fausse-baroudeuse-ou-reine-des-montres-connectees-sportives-notre-test-en-video</guid>
+      <title>iOS 26.6 est disponible : cette mise &#224; jour pr&#233;pare d&#233;j&#224; votre iPhone pour iOS 27</title>
+      <link>https://www.frandroid.com/marques/apple/3196339_ios-26-6-est-disponible-cette-mise-a-jour-prepare-deja-votre-iphone-pour-ios-27</link>
+      <pubDate>Tue, 28 Jul 2026 10:05:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3196339_ios-26-6-est-disponible-cette-mise-a-jour-prepare-deja-votre-iphone-pour-ios-27</guid>
       <description>
-La Samsung Galaxy Watch Ultra 2 a pour ambition de bousculer le monde des montres connect&#233;es sportives. On l'a test&#233;e pendant plus d'une semaine pour voir si elle m&#233;rite vraiment son &#233;tiquette de baroudeuse extr&#234;me.
+Apple a publi&#233; iOS 26.6, une mise &#224; jour pour corriger quelques bugs sur iPhone et iPad, et surtout les pr&#233;parer &#224; iOS 27.
 </description>
+    </item>
+    <item>
+      <title>Lyft and Baidu start testing robotaxis in London</title>
+      <link>https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/</link>
+      <pubDate>Tue, 28 Jul 2026 10:04:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/</guid>
+      <description>As it promised last year, Baidu has started testing its robotaxis in London along with partners Lyft and Freenow.</description>
+    </item>
+    <item>
+      <title>Silicon Valley&#8217;s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them</title>
+      <link>https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/</link>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a5fbde4383cab8a0391b22f</guid>
+      <description>Anthropic and OpenAI employees are expected to give generously after their companies go public. &#8220;It&#8217;s going to be a wild ride,&#8221; says one nonprofit leader.</description>
+    </item>
+    <item>
+      <title>This hotel-inspired hospital is designed to make high-risk pregnancies feel less scary</title>
+      <link>https://www.fastcompany.com/91576751/hospital-high-risk-pregnancy-nemours-childrens-health</link>
+      <pubDate>2026-07-28T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91576751/hospital-high-risk-pregnancy-nemours-childrens-health</guid>
+      <description>The Advanced Delivery Unit at Nemours Children&#8217;s Health in Wilmington, Delaware, takes cues from hospitality projects to ensure expectant mothers have a comfortable stay.
+Squint and you might see what looks like a hotel room inside Nemours Children&#8217;s Health, a pediatric hospital in Wilmington, Delaware. The hospital&#8217;s new Advanced Delivery Unit&#8212;which treats patients during the complicated, long, and fearful process of going through a high-risk pregnancy&#8212;is much more akin to a guest-centric boutique hotel than a sterile labor and delivery ward. For a hospital, it offers an uncommon, but much-ne...</description>
+    </item>
+    <item>
+      <title>Meet the new robot dog patrolling LaGuardia Airport</title>
+      <link>https://www.fastcompany.com/91579636/meet-the-new-robot-dog-patrolling-laguardia-airport</link>
+      <pubDate>2026-07-28T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91579636/meet-the-new-robot-dog-patrolling-laguardia-airport</guid>
+      <description>A wheeled bot that monitors air quality is joining robotic vacuums and scrubbers in Terminal B.
+Inside the slick new Terminal B at New York&#8217;s LaGuardia Airport, a headless robotic &#8220;dog&#8221; is beginning to patrol the floors. As bemused airport travelers watch from close by, the four-wheeled device rolls around baggage claim, where it&#8217;s been deployed for a demonstration. Its job: sniffing. Well, sort of. The robot is armed with air quality detectors that the airport team says help monitor the terminal for pollutants.&#160;...</description>
+    </item>
+    <item>
+      <title>This simple UI fix made verifying early voting signatures faster in Arizona</title>
+      <link>https://www.fastcompany.com/91580185/arizona-early-voting-ballot-signatures</link>
+      <pubDate>2026-07-28T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91580185/arizona-early-voting-ballot-signatures</guid>
+      <description>Instead of scrolling down to compare signatures, election officials can now see them side by side.
+To cut down on the time it takes to verify signatures for early ballots, election officials in Arizona&#8217;s largest county made a simple UI change. All it took was less scrolling.</description>
+    </item>
+    <item>
+      <title>Would you work harder if you knew your boss was anti-union?</title>
+      <link>https://www.fastcompany.com/91580353/would-you-work-harder-if-you-knew-your-boss-was-anti-union</link>
+      <pubDate>2026-07-28T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91580353/would-you-work-harder-if-you-knew-your-boss-was-anti-union</guid>
+      <description>New research from Cornell University finds that a company&#8217;s stance on unions can have a measurable impact on its workforce and shape worker productivity.
+Unions have grown more popular in recent years, with 16.5 million workers represented by a union in 2025&#8212;the highest share of the overall workforce in 16 years. As workers have mounted high-profile union campaigns at companies like Starbucks and Amazon, some employers have openly pushed back on those efforts, in turn becoming increasingly vocal about their opposition to unions.&#160;&#160;...</description>
+    </item>
+    <item>
+      <title>Hisense XR10 : le plus luxueux des vid&#233;oprojecteur Hisense est en pr&#233;commande avec 1 098 &#8364; d&#8217;avantages [Sponso]</title>
+      <link>https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3186531_hisense-xr10-le-plus-luxueux-des-videoprojecteur-hisense-est-en-precommande-avec-1-098-e-davantages</link>
+      <pubDate>Tue, 28 Jul 2026 09:57:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3186531_hisense-xr10-le-plus-luxueux-des-videoprojecteur-hisense-est-en-precommande-avec-1-098-e-davantages</guid>
+      <description>
+D&#233;j&#224; bien install&#233; sur le march&#233; de la vid&#233;oprojection, Hisense s'appr&#234;te &#224; commercialiser son mod&#232;le le plus haut de gamme et le plus ambitieux : le Hisense XR10. 
+</description>
+    </item>
+    <item>
+      <title>What is the release date for Stuart Fails to Save the Universe episode 2 on HBO Max?</title>
+      <link>https://www.techradar.com/streaming/hbo-max/hbo-max/stuart-fails-to-save-the-universe-episode-2-release-date-time</link>
+      <pubDate>Tue, 28 Jul 2026 09:52:54 +0000</pubDate>
+      <guid isPermaLink="false">ow3NSeF4ScskxoywxxJiVM</guid>
+      <description>Last week's debut was an absolute rollercoaster, but it was just the beginning. So, when does Stuart Fails to Save the Universe episode 2 hit HBO Max?</description>
+    </item>
+    <item>
+      <title>The greatest mistake in AI transformation: automating what you should eliminate</title>
+      <link>https://www.fastcompany.com/91570920/the-greatest-mistake-in-ai-transformation-automating-what-you-should-eliminate-ai-transformation-mistakes</link>
+      <pubDate>2026-07-28T09:50:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91570920/the-greatest-mistake-in-ai-transformation-automating-what-you-should-eliminate-ai-transformation-mistakes</guid>
+      <description>The result is faster versions of legacy processes rather than truly transformed operations.
+Leaders love quick wins. When AI lands in their organization, the instinct is immediate: find repetitive tasks and automate them. Speed up invoice processing. Summarize customer emails. Route support tickets. As a result, metrics improve. Time savings appear. Progress feels real....</description>
+    </item>
+    <item>
+      <title>En promo &#224; 399 &#8364;, le Motorola Edge 70 ultrafin co&#251;te moiti&#233; moins que l&#8217;iPhone Air et le Galaxy S25 Edge</title>
+      <link>https://www.frandroid.com/bons-plans/3195891_en-promo-a-399-e-le-motorola-edge-70-ultrafin-coute-moitie-moins-que-liphone-air-et-le-galaxy-s25-edge</link>
+      <pubDate>Tue, 28 Jul 2026 09:49:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3195891_en-promo-a-399-e-le-motorola-edge-70-ultrafin-coute-moitie-moins-que-liphone-air-et-le-galaxy-s25-edge</guid>
+      <description>
+Le Motorola Edge 70 est un smartphone ultrafin, tout comme l'iPhone Air et le Samsung Galaxy S25 Edge. Mais il est actuellement le moins cher du trio : Lenovo le propose en effet &#224; 399 euros au lieu de 799 euros.
+</description>
+    </item>
+    <item>
+      <title>Quelles enceintes pour PC choisir en 2026 ?</title>
+      <link>https://www.frandroid.com/guide-dachat/guide-audio/681759_quelles-enceintes-pc-choisir-notre-selection</link>
+      <pubDate>Tue, 28 Jul 2026 09:47:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guide-audio/681759_quelles-enceintes-pc-choisir-notre-selection</guid>
+      <description>
+Les moniteurs PC ne poss&#232;dent pas de haut-parleurs int&#233;gr&#233;s : des enceintes vous seront donc indispensables pour profiter de l'audio. Voici donc notre comparatif des meilleures enceintes pour votre PC, que cela soit pour jouer ou regarder des vid&#233;os sans vous couper du monde.
+</description>
+    </item>
+    <item>
+      <title>Honor lance son premier bracelet connect&#233; avec GPS int&#233;gr&#233;, le Band 11 Pro GPS</title>
+      <link>https://www.frandroid.com/produits-android/3196073_honor-lance-son-premier-bracelet-connecte-avec-gps-integre-le-band-11-pro-gps</link>
+      <pubDate>Tue, 28 Jul 2026 09:44:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3196073_honor-lance-son-premier-bracelet-connecte-avec-gps-integre-le-band-11-pro-gps</guid>
+      <description>
+Honor vient d'ouvrir en Chine les pr&#233;commandes de sa gamme Band 11, avec pour la premi&#232;re fois un bracelet capable de suivre vos parcours sans smartphone.
+</description>
+    </item>
+    <item>
+      <title>Seth Meyers gleefully reacts to Trumps White House Correspondents Dinner roast</title>
+      <link>https://mashable.com/entertainment/seth-meyers-trump-white-house-correspondents-dinner</link>
+      <pubDate>Tue, 28 Jul 2026 09:42:45 +0000</pubDate>
+      <guid isPermaLink="false">01xpSQAWE9eYbh1lwv7R2iu</guid>
+      <description>Seth Meyers reacted to Donald Trump's White House Correspondents' Dinner speech being met with silence on "Late Night".</description>
+    </item>
+    <item>
+      <title>Upgrade to an 85-inch Mini-LED 4K TV for under $1,700 with this huge Hisense deal</title>
+      <link>https://mashable.com/tech/july-28-hisense-tv-deal</link>
+      <pubDate>Tue, 28 Jul 2026 09:40:38 +0000</pubDate>
+      <guid isPermaLink="false">031UDGa39NioOdcOq41hswa</guid>
+      <description>As of July 28, the Hisense 85-inch U7 Mini-LED ULED 4K TV is marked down to $1,698 at Amazon, 32% off its list price of $2,499.99.</description>
+    </item>
+    <item>
+      <title>China's up to 100x cost advantage is reshaping the AI race</title>
+      <link>https://www.techradar.com/pro/chinas-up-to-100x-cost-advantage-is-reshaping-the-ai-race</link>
+      <pubDate>Tue, 28 Jul 2026 09:40:10 +0000</pubDate>
+      <guid isPermaLink="false">8XCyxn4XZswU8wr4v4D5zf</guid>
+      <description>China is catching up to the West when it comes to AI - what will this mean for the market?</description>
+    </item>
+    <item>
+      <title>Trouv&#233; au bord de la route, le Surface Laptop Ultra d&#233;voile les performances de la puce Nvidia RTX Spark</title>
+      <link>https://www.frandroid.com/marques/nvidia/3195867_trouve-au-bord-de-la-route-le-surface-laptop-ultra-devoile-les-performances-de-la-puce-nvidia-rtx-spark</link>
+      <pubDate>Tue, 28 Jul 2026 09:39:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3195867_trouve-au-bord-de-la-route-le-surface-laptop-ultra-devoile-les-performances-de-la-puce-nvidia-rtx-spark</guid>
+      <description>
+Un utilisateur bien connu des forums de TechPowerUp a mis la main sur le tout nouveau Surface Laptop Ultra, plusieurs mois avant son lancement. Voici donc une premi&#232;re salve d'impressions et de mesures sur ce mod&#232;le Nvidia RTX Spark.
+</description>
+    </item>
+    <item>
+      <title>Microsoft Teams&#160;: sans mise &#224; jour de l&#8217;appli mobile, vous perdrez cette fonction cruciale</title>
+      <link>https://www.01net.com/actualites/microsoft-teams-sans-mise-a-jour-de-lappli-mobile-vous-perdrez-cette-fonction-cruciale.html</link>
+      <pubDate>Tue, 28 Jul 2026 09:38:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1361364</guid>
+      <description>Microsoft vient d&#8217;envoyer un avertissement aux utilisateurs de son application Teams sur iOS et Android : en l&#8217;absence de mise &#224; jour avant fin octobre, ils perdront l&#8217;acc&#232;s &#224; une fonction pourtant indispensable.</description>
+    </item>
+    <item>
+      <title>La climatisation du voisin souffle de l&#8217;air chaud sur votre balcon : ce que dit la loi et comment r&#233;agir</title>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3194723_la-climatisation-du-voisin-souffle-de-lair-chaud-sur-votre-balcon-ce-que-dit-la-loi-et-comment-reagir</link>
+      <pubDate>Tue, 28 Jul 2026 09:38:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3194723_la-climatisation-du-voisin-souffle-de-lair-chaud-sur-votre-balcon-ce-que-dit-la-loi-et-comment-reagir</guid>
+      <description>
+Le voisin a branch&#233; son climatiseur mobile et le tuyau crache son air br&#251;lant pile sur votre balcon. Non, il n'en a pas le droit&#160;: voici les leviers pour faire cesser la nuisance.
+</description>
+    </item>
+    <item>
+      <title>Lego is giving away a Star Wars Darksaber, and its surprisingly easy to get</title>
+      <link>https://mashable.com/entertainment/july-28-lego-free-star-wars-darksaber-deal</link>
+      <pubDate>Tue, 28 Jul 2026 09:37:34 +0000</pubDate>
+      <guid isPermaLink="false">00rZ3pzvijyGxhsIPqSQqSr</guid>
+      <description>Buy Lego's Mandalorian N-1 Starfighter set and get The Darksaber set free, a $29.99 value, from July 24 to July 31 at Lego while supplies last.</description>
+    </item>
+    <item>
+      <title>Quantum is coming: What every board needs to do now</title>
+      <link>https://www.techradar.com/pro/quantum-is-coming-what-every-board-needs-to-do-now</link>
+      <pubDate>Tue, 28 Jul 2026 09:35:59 +0000</pubDate>
+      <guid isPermaLink="false">DjYbPkz7KRYjA684YDPNoF</guid>
+      <description>Every new prediction reignites debate about when Q-Day will finally arrive, but what&#8217;s more pressing is the preparation window it gives businesses.</description>
+    </item>
+    <item>
+      <title>28 % du march&#233; d&#233;j&#224; pris : l&#8217;appel d&#8217;urgence de Volkswagen &#224; Bruxelles face aux hybrides chinoises</title>
+      <link>https://www.frandroid.com/marques/volkswagen/3195881_28-du-marche-deja-pris-lappel-durgence-de-volkswagen-a-bruxelles-face-aux-hybrides-chinoises</link>
+      <pubDate>Tue, 28 Jul 2026 09:35:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3195881_28-du-marche-deja-pris-lappel-durgence-de-volkswagen-a-bruxelles-face-aux-hybrides-chinoises</guid>
+      <description>
+Les constructeurs chinois veulent d&#233;sormais miser sur les hybrides rechargeables pour contourner les droits de douane. Ce qui ne pla&#238;t pas du tout au patron du groupe Volkswagen, qui demande &#224; l&#8217;Europe de serrer rapidement la vis.
+</description>
+    </item>
+    <item>
+      <title>Nvidia augmente le prix de ses cartes graphiques pour la troisi&#232;me fois cette ann&#233;e</title>
+      <link>https://www.frandroid.com/marques/nvidia/3196183_nvidia-augmente-le-prix-de-ses-cartes-graphiques-pour-la-troisieme-fois-cette-annee</link>
+      <pubDate>Tue, 28 Jul 2026 09:32:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3196183_nvidia-augmente-le-prix-de-ses-cartes-graphiques-pour-la-troisieme-fois-cette-annee</guid>
+      <description>
+Nvidia augmente le prix de ses cartes graphiques pour la troisi&#232;me fois cette ann&#233;e, avec la crise de la RAM en toile de fond.
+</description>
+    </item>
+    <item>
+      <title>Incendies : Starlink &#171; se tient pr&#234;t &#187; &#224; aider, si l&#8217;&#201;tat l&#8217;autorise</title>
+      <link>https://www.frandroid.com/marques/spacex/starlink/3195963_incendies-starlink-se-tient-pret-a-aider-si-letat-lautorise</link>
+      <pubDate>Tue, 28 Jul 2026 09:32:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/spacex/starlink/3195963_incendies-starlink-se-tient-pret-a-aider-si-letat-lautorise</guid>
+      <description>
+Apr&#232;s Orange et Bouygues Telecom, le fournisseur Starlink se dit &#233;galement pr&#234;t &#224; aider sur le terrain des incendies, mais souligne le besoin d'une autorisation de l'&#201;tat. Vraie proposition ou lobbying un peu cynique ?
+</description>
+    </item>
+    <item>
+      <title>Dyson V16 Piston Animal Submarine Review: Powerful but Pricey</title>
+      <link>https://www.wired.com/review/dyson-v16-piston-animal-submarine/</link>
+      <pubDate>Tue, 28 Jul 2026 09:31:00 +0000</pubDate>
+      <guid isPermaLink="false">6a513a85707d6333827faebf</guid>
+      <description>Dyson&#8217;s new stick vacuum can vacuum and mop in a single cordless device&#8212;if you&#8217;re willing to really splurge.</description>
+    </item>
+    <item>
+      <title>7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban</title>
+      <link>https://www.wired.com/story/7-oh-users-brace-for-dea-ban/</link>
+      <pubDate>Tue, 28 Jul 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a55003547ff4a3e93d8d088</guid>
+      <description>The opioid-like compound, which is found in kratom, can cause brutal withdrawal symptoms and will soon be a controlled substance. Some users tell WIRED it has relieved their pain and anxiety.</description>
+    </item>
+    <item>
+      <title>Dont fall in love with this Samsung heart-shaped phone. Its an AI fake.</title>
+      <link>https://mashable.com/tech/samsung-heart-phone-rumor-ai-fake-debunked</link>
+      <pubDate>Tue, 28 Jul 2026 09:25:02 +0000</pubDate>
+      <guid isPermaLink="false">068EiPhPqH5YEZg8xlHcLps</guid>
+      <description>An AI-generated heart-shaped Samsung phone is going viral, with video of the fake device racking up thousands of likes and shares.</description>
+    </item>
+    <item>
+      <title>The best sex and dating apps for hooking up</title>
+      <link>https://mashable.com/uk/roundup/best-hookup-apps-uk</link>
+      <pubDate>Tue, 28 Jul 2026 09:23:13 +0000</pubDate>
+      <guid isPermaLink="false">032PDBUNHFvBoerJxJZRCEd</guid>
+      <description>Looking for no strings attached sex? We've lined up a selection of sex apps for finding something casual.</description>
     </item>
   </channel>
 </rss>
