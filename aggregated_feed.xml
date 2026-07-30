@@ -3,193 +3,268 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 30 Jul 2026 12:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:14:00 GMT</lastBuildDate>
     <item>
-      <title>Fin de Bloctel le 11 ao&#251;t 2026 : comment emp&#234;cher le d&#233;marchage t&#233;l&#233;phonique avec une application fran&#231;aise et gratuite</title>
-      <link>https://www.frandroid.com/android/applications/3199375_fin-de-bloctel-le-11-aout-2026-comment-empecher-le-demarchage-telephonique-avec-une-application-francaise-et-gratuite</link>
-      <pubDate>Thu, 30 Jul 2026 12:36:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3199375_fin-de-bloctel-le-11-aout-2026-comment-empecher-le-demarchage-telephonique-avec-une-application-francaise-et-gratuite</guid>
+      <title>Xiaomi&#8217;s SkyNomad N90 Max is an extended-range EV with a transforming interior</title>
+      <link>https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv</link>
+      <pubDate>2026-07-30T11:05:09-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973053</guid>
+      <description>The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition. One of the big features of the N90 is its highly [&#8230;]</description>
+    </item>
+    <item>
+      <title>Gemini Robotics 2 Brings Google's AI Into the Physical World</title>
+      <link>https://www.wired.com/story/google-gemini-can-control-humanoid-robots/</link>
+      <pubDate>Thu, 30 Jul 2026 15:04:22 +0000</pubDate>
+      <guid isPermaLink="false">6a6910b2d6280302b8a22224</guid>
+      <description>The latest version of Google DeepMind's AI model includes a significant jump into &#8220;physical AGI.&#8221; But plopping AI into the real world comes with risks.</description>
+    </item>
+    <item>
+      <title>Razer Huntsman V3 HE Review: Jumping on the Bandwagon</title>
+      <link>https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/</link>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a691a82c0b4bb67fe8a664c</guid>
+      <description>Razer has finally caved and made its first Hall Effect gaming keyboard. I dug into its switches, features, and gaming performance to see if it was worth the wait.</description>
+    </item>
+    <item>
+      <title>Razer&#8217;s new keyboards drop the price on powerful gaming features</title>
+      <link>https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions</link>
+      <pubDate>2026-07-30T11:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973027</guid>
+      <description>Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. The $120 Razer Huntsman V3 HE Magnetic Mini and $140 Huntsman V3 HE Magnetic Tenkeyless, both [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Forward-deployed engineers are the AI industry&#8217;s latest talent obsession</title>
+      <link>https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/</link>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147978</guid>
+      <description>A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.</description>
+    </item>
+    <item>
+      <title>'Curling irons can be just as healthy as air styling' &#8212; I chatted to a major haircare brand founder about the styling mistakes we're all making</title>
+      <link>https://www.techradar.com/home/hair-care/curling-irons-can-be-just-as-healthy-as-air-styling-i-chatted-to-a-major-haircare-brand-founder-about-the-styling-mistakes-were-all-making</link>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ieVzMfk4A3PDFPLVHdaVw</guid>
+      <description>We're all after healthier locks, but we're going the wrong way about it, says T3's co-founder.</description>
+    </item>
+    <item>
+      <title>The biggest data leaker is probably not who you think it is</title>
+      <link>https://www.techradar.com/pro/security/the-biggest-data-leaker-is-probably-not-who-you-think-it-is</link>
+      <pubDate>Thu, 30 Jul 2026 14:52:25 +0000</pubDate>
+      <guid isPermaLink="false">ZEaUzEDWCNHxPq3Gbuanhh</guid>
+      <description>Even with persistent cybersecurity risks, human mistakes continue to be the number one cause of data leaks, with misconfigured databases exposing millions of sensitive records.</description>
+    </item>
+    <item>
+      <title>In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast &#8212; but not unstoppable</title>
+      <link>https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/</link>
+      <pubDate>Thu, 30 Jul 2026 14:48:32 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148205</guid>
+      <description>Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.</description>
+    </item>
+    <item>
+      <title>Can Big Tech's 2030 climate goals survive the AI boom?</title>
+      <link>https://www.techradar.com/pro/can-big-techs-2030-climate-goals-survive-the-ai-boom</link>
+      <pubDate>Thu, 30 Jul 2026 14:46:04 +0000</pubDate>
+      <guid isPermaLink="false">g65tqRCbaLyadU7aKnZQMn</guid>
+      <description>Cracks are starting to show in Big Tech 2030 climate goals &#8211; is 2030 still a realistic deadline, or is it just a test?</description>
+    </item>
+    <item>
+      <title>What&#8217;s your &#8216;AI Type&#8217;?</title>
+      <link>https://www.fastcompany.com/91579495/whats-your-ai-type</link>
+      <pubDate>2026-07-30T14:43:03</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91579495/whats-your-ai-type</guid>
+      <description>Whether you love or hate it, here&#8217;s how to make AI work for you as a solopreneur
+Like many people, I tried ChatGPT shortly after it was released. After marveling at its ability to write silly poems, I quickly moved on. The output was bland, annoying, and, in my opinion, useless.</description>
+    </item>
+    <item>
+      <title>I tested the 7 best AEO tools &amp; here&#8217;s the one I'll use every day in 2026</title>
+      <link>https://www.techradar.com/pro/i-tested-the-7-best-aeo-tools</link>
+      <pubDate>Thu, 30 Jul 2026 14:38:55 +0000</pubDate>
+      <guid isPermaLink="false">iDzMxzuL6RAW4u4XiicpcS</guid>
+      <description>The best tools to bring your business to AI search</description>
+    </item>
+    <item>
+      <title>Ces &#233;couteurs Xiaomi avec pr&#232;s de 40 heures d&#8217;autonomie tombent &#224; un prix d&#233;risoire sur Amazon</title>
+      <link>https://www.frandroid.com/bons-plans/3167601_ces-ecouteurs-xiaomi-avec-pres-de-40-heures-dautonomie-tombent-a-un-prix-derisoire-sur-amazon</link>
+      <pubDate>Thu, 30 Jul 2026 14:37:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3167601_ces-ecouteurs-xiaomi-avec-pres-de-40-heures-dautonomie-tombent-a-un-prix-derisoire-sur-amazon</guid>
       <description>
-L'&#201;tat met fin au syst&#232;me Bloctel le 11 ao&#251;t 2026. D&#233;sormais, la logique s'inverse et le d&#233;marchage t&#233;l&#233;phonique devient l'exception. Face au d&#233;marchage et aux arnaques, l'application Saracroche reste indispensable.
+Avec les Redmi Buds 8 Active, Xiaomi va &#224; l'essentiel pour offrir une solution audio ultra-&#233;conomique et pratique au quotidien. Bonne nouvelle : leur prix d&#233;j&#224; abordable chute encore sur Amazon, passant de 24 euros &#224; seulement 16 euros.
 </description>
     </item>
     <item>
-      <title>&#201;cran 3K 144 Hz, Snapdragon 8 Gen 3 : cette puissante tablette Lenovo perd 400 &#8364; sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/2591535_ecran-3k-144-hz-snapdragon-8-gen-3-cette-puissante-tablette-lenovo-perd-400-sur-amazon</link>
-      <pubDate>Thu, 30 Jul 2026 12:31:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2591535_ecran-3k-144-hz-snapdragon-8-gen-3-cette-puissante-tablette-lenovo-perd-400-sur-amazon</guid>
+      <title>Zoox can now charge for rides in its steering-wheel-free robotaxis</title>
+      <link>https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval</link>
+      <pubDate>2026-07-30T10:35:43-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973099</guid>
+      <description>Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported earlier by Reuters. The NHTSA's decision exempts [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Windows 11&#160;: Microsoft pr&#233;pare une refonte majeure du menu contextuel du clic droit</title>
+      <link>https://www.01net.com/actualites/windows-11-microsoft-prepare-une-refonte-majeure-du-menu-contextuel-du-clic-droit.html</link>
+      <pubDate>Thu, 30 Jul 2026 14:24:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1361835</guid>
+      <description>Microsoft va revoir le menu contextuel du clic droit de Windows 11 de fond en comble. La firme de Redmond entend bien r&#233;soudre les probl&#232;mes de lenteur et de saturation actuels, avec un nouveau design, mais surtout une plus grande fluidit&#233;.</description>
+    </item>
+    <item>
+      <title>Quel est le meilleur casque VR en 2026 ? Notre guide d&#8217;achat complet</title>
+      <link>https://www.frandroid.com/guide-dachat/guides-dachat-gaming/472513_guide-dachat-quel-casque-vr-choisir-en-2017</link>
+      <pubDate>Thu, 30 Jul 2026 14:22:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-gaming/472513_guide-dachat-quel-casque-vr-choisir-en-2017</guid>
       <description>
-On a d&#233;got&#233; le bon plan parfait du c&#244;t&#233; des tablettes : la Lenovo Yoga Tab Plus associe un bel &#233;cran 3K rafra&#238;chi &#224; 144 Hz et la toute-puissance d'une puce Snapdragon 8 Gen 3. Une vraie foudre de guerre qui ne co&#251;te m&#234;me plus 899 euros gr&#226;ce &#224; cette offre Amazon, mais 499 euros. 
+Auparavant secteur de niche, la r&#233;alit&#233; virtuelle et d&#233;sormais la r&#233;alit&#233; mixte sont devenues de plus en plus accessibles. Alors comment choisir le meilleur casque VR adapt&#233; &#224; votre usage ? Que vous cherchiez un casque VR pour PC ou un mod&#232;le autonome, suivez notre guide complet pour trouver le meilleur casque de r&#233;alit&#233; virtuelle en 2026.
 </description>
     </item>
     <item>
-      <title>Amazon&#8217;s short story collections are one of the best reasons to own a Kindle</title>
-      <link>https://www.theverge.com/tech/972612/amazons-kindle-short-stories</link>
-      <pubDate>2026-07-30T08:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=972612</guid>
-      <description>Over the last few years, I've gradually shifted away from ebooks. It's been part of a general return to physical media, an attempt to create a deeper sense of ownership over the art I love and collect. A Kindle is obviously more convenient than a paperback: It's tiny, holds a huge library, and you can [&#8230;]</description>
+      <title>Microsoft&#8217;s latest Surface Laptop is hundreds off at Best Buy</title>
+      <link>https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale</link>
+      <pubDate>2026-07-30T10:22:20-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973056</guid>
+      <description>If you&#8217;re keen on getting a laptop that looks fantastic, feels great to use, and doesn&#8217;t cost too much, well, pickings are slim right due to RAMageddon. However, there&#8217;s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft&#8217;s Arm-based, 13.8-inch Surface Laptop that has the 10-core Snapdragon X2 Plus chipset. Originally [&#8230;]</description>
     </item>
     <item>
-      <title>Maingear introduces a new lineup of hidden-cable 'Zero' pre-built PCs</title>
-      <link>https://www.engadget.com/2225859/maingear-introduces-new-lineup-of-hidden-cable-zero-pre-built-pcs/</link>
-      <pubDate>Thu, 30 Jul 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2225859/maingear-introduces-new-lineup-of-hidden-cable-zero-pre-built-pcs/</guid>
-      <description>If you're looking for a high-performance PC with that clean 'zero-cable' look, Maingear's new pre-built lineup that may suit you.</description>
+      <title>Data center operators must take local populations seriously to succeed</title>
+      <link>https://www.techradar.com/pro/data-center-operators-must-take-local-populations-seriously-to-succeed</link>
+      <pubDate>Thu, 30 Jul 2026 14:17:05 +0000</pubDate>
+      <guid isPermaLink="false">3ChrhReDXnPtE4jZGDrbYH</guid>
+      <description>How local populations can influence the success of data center developments.</description>
     </item>
     <item>
-      <title>Nano Banana image generation comes to Google Earth</title>
-      <link>https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/</link>
-      <pubDate>Thu, 30 Jul 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/</guid>
-      <description>Google Earth users can "visualize the past" via AI-created pictures.</description>
+      <title>Victorian Psycho trailer is a brilliant, bloody nightmare</title>
+      <link>https://mashable.com/entertainment/victorian-psycho-trailer</link>
+      <pubDate>Thu, 30 Jul 2026 14:15:01 +0000</pubDate>
+      <guid isPermaLink="false">02wOEiTtGXS93PbOkroenJG</guid>
+      <description>Maika Monroe stars as Winifred Notty, "the sanest person she's ever met," in "Victorian Psycho." Watch the trailer.</description>
     </item>
     <item>
-      <title>Autonomie des Galaxy Z Fold 8&#160;: nos tests labo valident les gros progr&#232;s de Samsung</title>
-      <link>https://www.01net.com/actualites/autonomie-des-galaxy-z-fold-8-nos-tests-labo-valident-les-gros-progres-de-samsung.html</link>
-      <pubDate>Thu, 30 Jul 2026 12:29:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361698</guid>
-      <description>Les Galaxy Z Fold 8 et Z Fold 8 Ultra affichent une batterie et une puissance de charge am&#233;lior&#233;es par rapport au Z Fold 7. Mais cela se traduit-t-il par une am&#233;lioration concr&#232;te &#224; l'usage ? On vous r&#233;pond gr&#226;ce &#224; nos tests labo.</description>
-    </item>
-    <item>
-      <title>Best Vacuum Cleaners (2026): Cordless Vacuums, Robot Vacuums, Dysons</title>
-      <link>https://www.wired.com/gallery/the-best-vacuum-cleaner/</link>
-      <pubDate>Thu, 30 Jul 2026 12:01:00 +0000</pubDate>
-      <guid isPermaLink="false">68fba640b2eee709c9674317</guid>
-      <description>Looking for all our top recommended vacuums? Here are our favorites in every category, from cordless models to robot vacs.</description>
-    </item>
-    <item>
-      <title>A second lens makes DJI&#8217;s Osmo Pocket 4P my new favorite video camera</title>
-      <link>https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review</link>
-      <pubDate>2026-07-30T08:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=972456</guid>
-      <description>DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular Pocket 4? And how does it compare to the only rival on the market, Insta360's dual-lens Luna Ultra? It [&#8230;]</description>
-    </item>
-    <item>
-      <title>I tested the DJI Osmo Pocket 4P for a whole month &#8212; here&#8217;s why adding a second portrait lens to a vlogging camera is as big of a game changer as it was for phones</title>
-      <link>https://www.techradar.com/cameras/video-cameras/dji-osmo-pocket-4p-review</link>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">qKuYRN6ZRgp5zcg3MxtzQE</guid>
-      <description>The Pocket 4P is DJI's first dual-lens compact vlogging camera, adding a 3x telephoto lens to what is otherwise the same product as the polished Pocket 4. It's pricier, but much more versatile.</description>
-    </item>
-    <item>
-      <title>DJI Osmo Pocket 4P review: The best gimbal camera money can't buy</title>
-      <link>https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/</link>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/</guid>
-      <description>The OG gimbal camera goes "pro" with two lenses, class-leading dynamic range and optical zoom.</description>
-    </item>
-    <item>
-      <title>The South&#8217;s rise is closing fast</title>
-      <link>https://www.fastcompany.com/91581023/the-souths-rise-is-closing-fast</link>
-      <pubDate>2026-07-30T12:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91581023/the-souths-rise-is-closing-fast</guid>
-      <description>How population shifts are reshaping American business, politics, and policy.
-When JPMorgan Chase &amp; Co. opened a 6,500-person campus outside Dallas in 2017, it wasn&#8217;t chasing cheap rent. The 1 million-square-foot facility allowed the banking giant to consolidate regional offices and unify half of its North Texas workforce under one roof, while capitalizing on the area&#8217;s explosive economic and population growth, leveraging significant tax incentives. The bank now employs nearly 30,000 people in Texas, more than in New York State, where its headquarters still sits. The Park Avenue tower isn&#8217;t mov...</description>
-    </item>
-    <item>
-      <title>CMOs must become AI orchestration leaders</title>
-      <link>https://www.fastcompany.com/91581026/cmos-must-become-ai-orchestration-leaders</link>
-      <pubDate>2026-07-30T12:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91581026/cmos-must-become-ai-orchestration-leaders</guid>
-      <description>Winning in the AI era won&#8217;t come from chasing the best tool&#8212;it will come from CMOs who orchestrate teams, not chase solo heroics.
-A few months ago, I wrote about how AI problems are human orchestration problems. Given how quickly tools are evolving, looking at you, Fable 5, leadership that prioritizes the orchestration of modern work and is acutely attuned to how people leverage AI tools and agentic workflows are the ones that will keep pace and eventually win....</description>
-    </item>
-    <item>
-      <title>Osmo Pocket 4P : la premi&#232;re cam&#233;ra DJI &#224; deux objectifs arrive en France &#224; 599 euros</title>
-      <link>https://www.frandroid.com/produits-android/3192931_osmo-pocket-4p-la-premiere-camera-dji-a-deux-objectifs-arrive-en-france-a-599-euros</link>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3192931_osmo-pocket-4p-la-premiere-camera-dji-a-deux-objectifs-arrive-en-france-a-599-euros</guid>
+      <title>Test de la Steam Machine : une adorable petite console plomb&#233;e par son prix</title>
+      <link>https://www.frandroid.com/marques/valve/3198051_test-de-la-steam-machine-une-adorable-petite-console-plombee-par-son-prix</link>
+      <pubDate>Thu, 30 Jul 2026 14:11:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3198051_test-de-la-steam-machine-une-adorable-petite-console-plombee-par-son-prix</guid>
       <description>
-Apr&#232;s des mois de teasing et un lancement d'abord r&#233;serv&#233; &#224; la Chine, DJI commercialise enfin en France l'Osmo Pocket 4P, sa premi&#232;re cam&#233;ra de poche &#224; deux objectifs, &#224; partir de 599&#160;euros.
+Valve r&#233;investit votre bureau ET votre salon avec sa nouvelle Steam Machine, un hybride entre console et PC boost&#233; par SteamOS, mais tr&#232;s s&#233;rieusement puni par le contexte &#233;conomique actuel. Notre test complet.
 </description>
     </item>
     <item>
-      <title>I asked ChatGPT to stop me buying things I don&#8217;t need, and it was brutally helpful &#8212; I just wish I'd thought of it sooner</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-to-stop-me-buying-things-i-dont-need-and-it-was-brutally-helpful-i-just-wish-id-thought-of-it-sooner</link>
-      <pubDate>Thu, 30 Jul 2026 11:47:11 +0000</pubDate>
-      <guid isPermaLink="false">DjVmWsWTRfNCyEBzHxfh4T</guid>
-      <description>The best way ChatGPT can save you money is by talking you out of making rash buying decisions.</description>
+      <title>Prepare for power outages: Save $200 on ABOK&#8217;s massive Ark3600 power station at Amazon</title>
+      <link>https://mashable.com/tech/july-30-abok-ark-3600-power-station-deal</link>
+      <pubDate>Thu, 30 Jul 2026 14:08:15 +0000</pubDate>
+      <guid isPermaLink="false">02h3faC4LnZkbpEW7wKlc5q</guid>
+      <description>The ABOK Ark3600 portable power station is on sale for $1,099 at Amazon, down from the normal price of $1,299. The Ark3600 extra battery is on sale for $934.15, down from the normal price of $1,099.</description>
     </item>
     <item>
-      <title>Une &#171;&#160;famille d&#8217;appareils&#160;&#187; ChatGPT&#160;: OpenAI &#233;voque l&#8217;avenir de son intelligence artificielle</title>
-      <link>https://www.01net.com/actualites/famille-appareils-chatgpt-openai-evoque-avenir-intelligence-artificielle.html</link>
-      <pubDate>Thu, 30 Jul 2026 11:45:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361752</guid>
-      <description>OpenAI pr&#233;pare un nouvel appareil qui pourrait changer notre mani&#232;re d&#8217;utiliser ChatGPT. Tr&#232;s ambitieuse, la start-up planche m&#234;me sur une famille compl&#232;te d'appareils qui permettront de communiquer avec l'IA. Cette &#171; famille d'appareils &#187; repr&#233;sente l'avenir de ChatGPT, estime OpenAI.</description>
+      <title>Fire your barista: Amazon just knocked $50 off Nespresso&#8217;s sleekest Vertuo maker</title>
+      <link>https://mashable.com/life/july-30-nespresso-vertuo-next-deal</link>
+      <pubDate>Thu, 30 Jul 2026 14:02:32 +0000</pubDate>
+      <guid isPermaLink="false">03dEtYc6kPptlMuMjUFCTZ9</guid>
+      <description>The Nespresso Vertuo Next coffee and espresso machine is on sale at Amazon for over 30%. Grab it for just $125.</description>
     </item>
     <item>
-      <title>Medicare Part D subsidy program: Why Trump is ending it and what it could mean for prescription drug costs</title>
-      <link>https://www.fastcompany.com/91581948/medicare-part-d-subsidy-program-why-trump-is-ending-it-and-what-it-could-mean-for-prescription-drug-costs</link>
-      <pubDate>2026-07-30T11:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91581948/medicare-part-d-subsidy-program-why-trump-is-ending-it-and-what-it-could-mean-for-prescription-drug-costs</guid>
-      <description>A Biden-era program meant to help seniors save money on prescription premiums is ending in 2027. Here&#8217;s what we know.
-To get prescription drugs in America, you often have to spend an egregious amount for each refill, especially if you don&#8217;t have health insurance. Medicare Part D, also known as Medicare drug coverage, aimed to help solve that issue.&#160;...</description>
+      <title>'Maybe laziness is the best way to improve the technology' &#8212; I chatted to a lawnbot exec about the tech and trends taking robot mowers mainstream</title>
+      <link>https://www.techradar.com/home/smart-home/maybe-laziness-is-the-best-way-to-improve-the-technology-i-chatted-to-a-lawnbot-exec-about-the-tech-and-trends-taking-robot-mowers-mainstream</link>
+      <pubDate>Thu, 30 Jul 2026 14:00:31 +0000</pubDate>
+      <guid isPermaLink="false">NXCZSTqH76S7DTjWzJDWCg</guid>
+      <description>Thanks to big leaps in technology over the past couple of years, robot lawn mowers are on the march.</description>
     </item>
     <item>
-      <title>7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved</title>
-      <link>https://www.wired.com/gallery/best-shower-water-filters/</link>
-      <pubDate>Thu, 30 Jul 2026 11:33:00 +0000</pubDate>
-      <guid isPermaLink="false">66edd8e0cbe0cd5446304fd5</guid>
-      <description>I tested leading filtered showerheads to see how well they remove total chlorine from your water.</description>
+      <title>TechCrunch Disrupt 2026&#8217;s biggest stage features leaders from Amazon,&#160;Replit, Tether, with much&#160;more to come</title>
+      <link>https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/</link>
+      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147661</guid>
+      <description>The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.</description>
     </item>
     <item>
-      <title>The spacecraft NASA sent to rescue the falling Swift observatory is in trouble</title>
-      <link>https://www.engadget.com/2226863/nasa-swift-rescue-link-probe-in-trouble/</link>
-      <pubDate>Thu, 30 Jul 2026 11:31:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226863/nasa-swift-rescue-link-probe-in-trouble/</guid>
-      <description>NASA sent a spacecraft called LINK to rescue a falling telescope, but it's now unclear if it can accomplish its mission.</description>
+      <title>Samsung reports billions in record profit for Q2 thanks to AI boom</title>
+      <link>https://www.fastcompany.com/91582493/samsung-reports-billions-record-profit-q2-thanks-ai-boom</link>
+      <pubDate>2026-07-30T13:58:09</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91582493/samsung-reports-billions-record-profit-q2-thanks-ai-boom</guid>
+      <description>The chip giant announced $62 billion in earnings for the April&#8211;June period.
+South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won ($62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as the world&#8217;s two largest memory chipmakers continue to ride the global artificial intelligence boom.Despite their soaring profits, the companies&#8217; shares have fallen sharply this week in South Korea&#8217;s volatile stock market, where retail investors often drive sharp swings in share prices, as conc...</description>
     </item>
     <item>
-      <title>Le smartphone pliable &#224; clapet 2025 de Motorola est toujours aussi bon et son prix chute de 500 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3198823_le-smartphone-pliable-a-clapet-2025-de-motorola-est-toujours-aussi-bon-et-son-prix-chute-de-500-e</link>
-      <pubDate>Thu, 30 Jul 2026 11:15:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3198823_le-smartphone-pliable-a-clapet-2025-de-motorola-est-toujours-aussi-bon-et-son-prix-chute-de-500-e</guid>
+      <title>GPT s&#8217;&#233;chappe et pirate le plus grand hub d&#8217;IA : on sait enfin ce qui s&#8217;est pass&#233;, et c&#8217;est digne d&#8217;un film de SF</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel</link>
+      <pubDate>Thu, 30 Jul 2026 13:56:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel</guid>
       <description>
-Le Motorola Razr 60 Ultra fait partie des pliables &#224; clapet que la marque a lanc&#233;s l'an dernier. Et malgr&#233; la sortie de son successeur, on le recommande encore facilement, surtout quand il est affich&#233; &#224; 799 euros au lieu de 1 299 euros chez Lenovo.
+Les mod&#232;les d'intelligence artificielle les plus puissants commencent &#224; &#233;chapper des mains de leurs cr&#233;ateurs. C'est ce qui s'est pass&#233; du 9 au 13 juillet avec deux mod&#232;les d'OpenAI, dont GPT-5.6 Sol et un second mod&#232;le plus puissant non encore publi&#233;. Sans qu'on lui demande, le mod&#232;le en question a hack&#233; l'un des plus grands hubs d'IA au monde.
 </description>
     </item>
     <item>
-      <title>The great scramble to build AI compute you can actually own</title>
-      <link>https://www.fastcompany.com/91577984/the-great-scramble-to-build-ai-compute-you-can-actually-own</link>
-      <pubDate>2026-07-30T11:08:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91577984/the-great-scramble-to-build-ai-compute-you-can-actually-own</guid>
-      <description>As AI gives compute a physical address, companies and governments are discovering that where a model runs&#8212;and who can legally reach it&#8212;is now a strategic decision.
-In May 2025, Karim Khan, chief prosecutor of the International Criminal Court, opened his laptop in The Hague and found himself locked out of his Microsoft email account. According to The Associated Press, the Trump administration had sanctioned Khan over the court&#8217;s arrest warrants for Israeli officials. Microsoft, a U.S. company subject to U.S. law, was caught in the middle. The company president, Brad Smith, later denied that Mic...</description>
+      <title>Voici &#224; quoi ressemblerait Paris avec des climatiseurs et des dragons : Google int&#232;gre Nano Banana &#224; Google Earth</title>
+      <link>https://www.frandroid.com/marques/google/3199507_voici-a-quoi-ressemblerait-paris-avec-des-climatiseurs-et-des-dragons-google-integre-nano-banana-a-google-earth</link>
+      <pubDate>Thu, 30 Jul 2026 13:49:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3199507_voici-a-quoi-ressemblerait-paris-avec-des-climatiseurs-et-des-dragons-google-integre-nano-banana-a-google-earth</guid>
+      <description>
+Google annonce l'ajout de son syst&#232;me de g&#233;n&#233;ration d'image Nano Banana 2 &#224; Google Earth. Vous pouvez transformer n'importe quel endroit sur Terre par l'IA.
+</description>
     </item>
     <item>
-      <title>4 Best Budget Smartwatch Models for Less Than $250 (2026)</title>
-      <link>https://www.wired.com/story/best-budget-smartwatch/</link>
-      <pubDate>Thu, 30 Jul 2026 11:01:00 +0000</pubDate>
-      <guid isPermaLink="false">6a5e3f4324a82b3dbcc3b8c8</guid>
-      <description>From fitness tracking to notifications, the best budget smartwatch can do a lot without costing a fortune.</description>
+      <title>Why access to power will determine the winners and losers in the AI race</title>
+      <link>https://www.techradar.com/pro/why-access-to-power-will-determine-the-winners-and-losers-in-the-ai-race</link>
+      <pubDate>Thu, 30 Jul 2026 13:36:21 +0000</pubDate>
+      <guid isPermaLink="false">d6rFeipYewSjEsDiFe7kMD</guid>
+      <description>As AI demand surges, electricity availability becomes a critical factor shaping data center growth worldwide.</description>
     </item>
     <item>
-      <title>&#8216;Spider-Man: Brand New Day&#8217; Is a Superhero Movie for Yearners</title>
-      <link>https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/</link>
-      <pubDate>Thu, 30 Jul 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a6a29ac2e3faf0c91c7a0f5</guid>
-      <description>Peter Parker&#8217;s isolation lands especially hard in the age of AI, a loneliness crisis, and endless scrolling.</description>
+      <title>People are paying $59 to make their phones worse. The reason speaks volumes about the tech world right now</title>
+      <link>https://www.fastcompany.com/91574113/people-paying-59-make-phones-worse-reason-speaks-volumes-about-tech-world-right-now</link>
+      <pubDate>2026-07-30T13:35:32</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91574113/people-paying-59-make-phones-worse-reason-speaks-volumes-about-tech-world-right-now</guid>
+      <description>The industry spent decades engineering effort out of everything. Now a wave of premium products is putting it back.
+In late 2023, two computer science graduates in Germantown, Wisconsin, started&#160;selling a gray square&#160;about the size of a teabag. Called the Brick, it was 3D-printed in a basement. Tap your phone against it, and the apps you&#8217;ve chosen become blocked until you tap it again. The product works because of where you leave it. Stick the Brick to your fridge, and opening Instagram now involves standing up, walking to the kitchen, and holding your phone against the device&#8212;by which point y...</description>
     </item>
     <item>
-      <title>&#8216;Identifying vulnerabilities is no longer enough&#8217;: Companies need to focus on fixing exploitable vulnerabilities, not discovering as many as possible, says Checkmarx CEO</title>
-      <link>https://www.techradar.com/pro/security/identifying-vulnerabilities-is-no-longer-enough-companies-need-to-focus-on-fixing-exploitable-vulnerabilities-not-discovering-as-many-as-possible-says-checkmarx-ceo</link>
-      <pubDate>Thu, 30 Jul 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">iqVLAKgozi5Uzrq4xGTGiA</guid>
-      <description>AppSec must shift from finding every single vulnerability to prioritizing exploitable risks, and human expertise is in hot demand.</description>
+      <title>FTC sues Hims &amp; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap</title>
+      <link>https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/</link>
+      <pubDate>Thu, 30 Jul 2026 13:30:52 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148113</guid>
+      <description>The U.S. federal consumer watchdog said Hims &amp; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.</description>
     </item>
     <item>
-      <title>Three takeaways - why operational intelligence is now part of the capacity conversation</title>
-      <link>https://www.techradar.com/pro/three-takeaways-why-operational-intelligence-is-now-part-of-the-capacity-conversation</link>
-      <pubDate>Thu, 30 Jul 2026 10:55:41 +0000</pubDate>
-      <guid isPermaLink="false">KrSTgT5vMnWQ9RoRKT3Ycj</guid>
-      <description>Why data center capacity depends on operational intelligence, not just power, land and build speed.</description>
+      <title>How to use screen mirroring on Roku with your Android phone</title>
+      <link>https://www.engadget.com/2222918/how-to-screen-mirror-roku-android-phone/</link>
+      <pubDate>Thu, 30 Jul 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2222918/how-to-screen-mirror-roku-android-phone/</guid>
+      <description>Your Roku can probably display what's on your phone screen, if you have Android.</description>
     </item>
     <item>
-      <title>Panne en orbite&#160;: le satellite cens&#233; sauver un t&#233;lescope de la NASA est en danger</title>
-      <link>https://www.01net.com/actualites/satellite-cense-empecher-telescope-nasa-retomber-terre-difficulte.html</link>
-      <pubDate>Thu, 30 Jul 2026 10:53:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361733</guid>
-      <description>Le v&#233;hicule spatial LINK, charg&#233; de sauver le t&#233;lescope Swift de la NASA, rencontre de s&#233;rieux probl&#232;mes. L&#8217;&#233;quipe charg&#233;e de mener &#224; bien la mission devra revoir ses plans si la situation est reprise en main.</description>
+      <title>&#171;&#160;Se connecter avec ChatGPT&#160;&#187; : OpenAI lance une alternative &#224; la cr&#233;ation de comptes avec Apple, Google, et Facebook</title>
+      <link>https://www.01net.com/actualites/connecter-chatgpt-openai-lance-alternative-creation-comptes-apple-google-facebook.html</link>
+      <pubDate>Thu, 30 Jul 2026 13:29:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1361815</guid>
+      <description>OpenAI introduit l'option &#171; Se connecter avec ChatGPT &#187; pour simplifier la cr&#233;ation de comptes en ligne. Cette fonctionnalit&#233; est, pour l'instant, r&#233;serv&#233;e &#224; certains de ses partenaires, comme GitLab et Notion. Peu &#224; peu, un compte ChatGPT devient une carte d'identit&#233; num&#233;rique.</description>
+    </item>
+    <item>
+      <title>Climatiseur mobile : quand vider l&#8217;eau, quand laisser le bouchon ferm&#233;, et pourquoi &#231;a change tout</title>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3198817_climatiseur-mobile-quand-vider-leau-quand-laisser-le-bouchon-ferme-et-pourquoi-ca-change-tout</link>
+      <pubDate>Thu, 30 Jul 2026 13:24:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3198817_climatiseur-mobile-quand-vider-leau-quand-laisser-le-bouchon-ferme-et-pourquoi-ca-change-tout</guid>
+      <description>
+Sur les climatiseurs mobiles r&#233;cents, le bac &#224; eau &#224; vider en pleine nuit appartient presque au pass&#233;. Mais selon le mode que vous utilisez, ce fameux bouchon doit rester ferm&#233;, s'ouvrir, ou servir &#224; tout vidanger.
+</description>
+    </item>
+    <item>
+      <title>Netflix pays $500 million to share 'The Walking Dead' streaming rights with AMC+</title>
+      <link>https://www.engadget.com/2226910/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc-plus/</link>
+      <pubDate>Thu, 30 Jul 2026 13:22:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2226910/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc-plus/</guid>
+      <description>Netflix has ponied up a half billion dollars to extend its streaming rights to The Walking Dead and the show's six spinoffs.</description>
+    </item>
+    <item>
+      <title>DOGE Veterans Are Landing Big Jobs at Prediction Markets</title>
+      <link>https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/</link>
+      <pubDate>Thu, 30 Jul 2026 13:20:16 +0000</pubDate>
+      <guid isPermaLink="false">6a6a35547141b0b192812d7e</guid>
+      <description>Polymarket and Novig have both recently brought ex-DOGE affiliates onboard as scrutiny of the industry intensifies.</description>
+    </item>
+    <item>
+      <title>Ce forfait 250 Go combine un mois gratuit et une protection anti-cyberharc&#232;lement</title>
+      <link>https://www.frandroid.com/bons-plans/3199355_ce-forfait-250-go-combine-un-mois-gratuit-et-une-protection-anti-cyberharcelement</link>
+      <pubDate>Thu, 30 Jul 2026 13:18:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3199355_ce-forfait-250-go-combine-un-mois-gratuit-et-une-protection-anti-cyberharcelement</guid>
+      <description>
+&#192; 13,99 euros par mois, le forfait 250 Go de La Poste Mobile r&#233;unit plusieurs arguments. Un mois de forfait offert avec le code WEB1MOIS, la protection anti-cyberharc&#232;lement SafeBear incluse, et une large enveloppe de data en 5G.
+</description>
     </item>
   </channel>
 </rss>
