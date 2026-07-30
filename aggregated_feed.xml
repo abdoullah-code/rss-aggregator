@@ -3,268 +3,283 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 30 Jul 2026 15:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 17:39:29 GMT</lastBuildDate>
     <item>
-      <title>Xiaomi&#8217;s SkyNomad N90 Max is an extended-range EV with a transforming interior</title>
-      <link>https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv</link>
-      <pubDate>2026-07-30T11:05:09-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=973053</guid>
-      <description>The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition. One of the big features of the N90 is its highly [&#8230;]</description>
+      <title>D&#233;sign&#233; terroriste en Russie | Le patron de Telegram dit qu&#8217;il est vis&#233; pour avoir refus&#233; l&#8217;ing&#233;rence de Moscou</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-07-30/designe-terroriste-en-russie/le-patron-de-telegram-dit-qu-il-est-vise-pour-avoir-refuse-l-ingerence-de-moscou.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Thu, 30 Jul 2026 13:38:46 -0400</pubDate>
+      <guid isPermaLink="false">d4dbe207d14234c99632cc555eabea65</guid>
+      <description>Le patron de Telegram, Pavel Durov, a expliqu&#233; jeudi qu&#8217;il a &#233;t&#233; plac&#233; sur une liste des autorit&#233;s russes recensant les personnes d&#233;sign&#233;es &#171;&#160;terroristes&#160;&#187; parce qu&#8217;il a refus&#233; de se plier aux exigences de Moscou en mati&#232;re de &#171;&#160;surveillance de masse&#160;&#187; et de &#171;&#160;censure&#160;&#187; sur sa plateforme de messagerie.</description>
     </item>
     <item>
-      <title>Gemini Robotics 2 Brings Google's AI Into the Physical World</title>
-      <link>https://www.wired.com/story/google-gemini-can-control-humanoid-robots/</link>
-      <pubDate>Thu, 30 Jul 2026 15:04:22 +0000</pubDate>
-      <guid isPermaLink="false">6a6910b2d6280302b8a22224</guid>
-      <description>The latest version of Google DeepMind's AI model includes a significant jump into &#8220;physical AGI.&#8221; But plopping AI into the real world comes with risks.</description>
-    </item>
-    <item>
-      <title>Razer Huntsman V3 HE Review: Jumping on the Bandwagon</title>
-      <link>https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/</link>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a691a82c0b4bb67fe8a664c</guid>
-      <description>Razer has finally caved and made its first Hall Effect gaming keyboard. I dug into its switches, features, and gaming performance to see if it was worth the wait.</description>
-    </item>
-    <item>
-      <title>Razer&#8217;s new keyboards drop the price on powerful gaming features</title>
-      <link>https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions</link>
-      <pubDate>2026-07-30T11:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=973027</guid>
-      <description>Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. The $120 Razer Huntsman V3 HE Magnetic Mini and $140 Huntsman V3 HE Magnetic Tenkeyless, both [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Forward-deployed engineers are the AI industry&#8217;s latest talent obsession</title>
-      <link>https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/</link>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147978</guid>
-      <description>A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.</description>
-    </item>
-    <item>
-      <title>'Curling irons can be just as healthy as air styling' &#8212; I chatted to a major haircare brand founder about the styling mistakes we're all making</title>
-      <link>https://www.techradar.com/home/hair-care/curling-irons-can-be-just-as-healthy-as-air-styling-i-chatted-to-a-major-haircare-brand-founder-about-the-styling-mistakes-were-all-making</link>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ieVzMfk4A3PDFPLVHdaVw</guid>
-      <description>We're all after healthier locks, but we're going the wrong way about it, says T3's co-founder.</description>
-    </item>
-    <item>
-      <title>The biggest data leaker is probably not who you think it is</title>
-      <link>https://www.techradar.com/pro/security/the-biggest-data-leaker-is-probably-not-who-you-think-it-is</link>
-      <pubDate>Thu, 30 Jul 2026 14:52:25 +0000</pubDate>
-      <guid isPermaLink="false">ZEaUzEDWCNHxPq3Gbuanhh</guid>
-      <description>Even with persistent cybersecurity risks, human mistakes continue to be the number one cause of data leaks, with misconfigured databases exposing millions of sensitive records.</description>
-    </item>
-    <item>
-      <title>In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast &#8212; but not unstoppable</title>
-      <link>https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/</link>
-      <pubDate>Thu, 30 Jul 2026 14:48:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148205</guid>
-      <description>Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.</description>
-    </item>
-    <item>
-      <title>Can Big Tech's 2030 climate goals survive the AI boom?</title>
-      <link>https://www.techradar.com/pro/can-big-techs-2030-climate-goals-survive-the-ai-boom</link>
-      <pubDate>Thu, 30 Jul 2026 14:46:04 +0000</pubDate>
-      <guid isPermaLink="false">g65tqRCbaLyadU7aKnZQMn</guid>
-      <description>Cracks are starting to show in Big Tech 2030 climate goals &#8211; is 2030 still a realistic deadline, or is it just a test?</description>
-    </item>
-    <item>
-      <title>What&#8217;s your &#8216;AI Type&#8217;?</title>
-      <link>https://www.fastcompany.com/91579495/whats-your-ai-type</link>
-      <pubDate>2026-07-30T14:43:03</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91579495/whats-your-ai-type</guid>
-      <description>Whether you love or hate it, here&#8217;s how to make AI work for you as a solopreneur
-Like many people, I tried ChatGPT shortly after it was released. After marveling at its ability to write silly poems, I quickly moved on. The output was bland, annoying, and, in my opinion, useless.</description>
-    </item>
-    <item>
-      <title>I tested the 7 best AEO tools &amp; here&#8217;s the one I'll use every day in 2026</title>
-      <link>https://www.techradar.com/pro/i-tested-the-7-best-aeo-tools</link>
-      <pubDate>Thu, 30 Jul 2026 14:38:55 +0000</pubDate>
-      <guid isPermaLink="false">iDzMxzuL6RAW4u4XiicpcS</guid>
-      <description>The best tools to bring your business to AI search</description>
-    </item>
-    <item>
-      <title>Ces &#233;couteurs Xiaomi avec pr&#232;s de 40 heures d&#8217;autonomie tombent &#224; un prix d&#233;risoire sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3167601_ces-ecouteurs-xiaomi-avec-pres-de-40-heures-dautonomie-tombent-a-un-prix-derisoire-sur-amazon</link>
-      <pubDate>Thu, 30 Jul 2026 14:37:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3167601_ces-ecouteurs-xiaomi-avec-pres-de-40-heures-dautonomie-tombent-a-un-prix-derisoire-sur-amazon</guid>
+      <title>J&#8217;ai test&#233; la Galaxy Watch 9 : la montre de Samsung fr&#244;le l&#8217;excellence, &#224; un d&#233;tail pr&#232;s</title>
+      <link>https://www.frandroid.com/marques/samsung/3190505_jai-teste-la-galaxy-watch-9-la-montre-de-samsung-frole-lexcellence-a-un-detail-pres</link>
+      <pubDate>Thu, 30 Jul 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3190505_jai-teste-la-galaxy-watch-9-la-montre-de-samsung-frole-lexcellence-a-un-detail-pres</guid>
       <description>
-Avec les Redmi Buds 8 Active, Xiaomi va &#224; l'essentiel pour offrir une solution audio ultra-&#233;conomique et pratique au quotidien. Bonne nouvelle : leur prix d&#233;j&#224; abordable chute encore sur Amazon, passant de 24 euros &#224; seulement 16 euros.
+Dans l'ombre de l'Ultra 2, la Samsung Galaxy Watch 9 joue la carte de la continuit&#233;. Sous un design sans surprise, elle cache une puce Snapdragon in&#233;dite et un GPS double-fr&#233;quence. De quoi justifier cette nouvelle g&#233;n&#233;ration ? Voici notre test complet de la Galaxy Watch 9.
 </description>
     </item>
     <item>
-      <title>Zoox can now charge for rides in its steering-wheel-free robotaxis</title>
-      <link>https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval</link>
-      <pubDate>2026-07-30T10:35:43-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=973099</guid>
-      <description>Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported earlier by Reuters. The NHTSA's decision exempts [&#8230;]...</description>
+      <title>NASA&#8217;s Curiosity rover found a &#8216;sea of polygons&#8217; on Mars</title>
+      <link>https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons</link>
+      <pubDate>2026-07-30T13:20:06-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973314</guid>
+      <description>The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previously only found them in small patches, [&#8230;]...</description>
     </item>
     <item>
-      <title>Windows 11&#160;: Microsoft pr&#233;pare une refonte majeure du menu contextuel du clic droit</title>
-      <link>https://www.01net.com/actualites/windows-11-microsoft-prepare-une-refonte-majeure-du-menu-contextuel-du-clic-droit.html</link>
-      <pubDate>Thu, 30 Jul 2026 14:24:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361835</guid>
-      <description>Microsoft va revoir le menu contextuel du clic droit de Windows 11 de fond en comble. La firme de Redmond entend bien r&#233;soudre les probl&#232;mes de lenteur et de saturation actuels, avec un nouveau design, mais surtout une plus grande fluidit&#233;.</description>
+      <title>Google DeepMind&#8217;s new AI model can control a robot&#8217;s entire body</title>
+      <link>https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body</link>
+      <pubDate>2026-07-30T13:18:45-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973276</guid>
+      <description>Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports "whole-body motions" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]...</description>
     </item>
     <item>
-      <title>Quel est le meilleur casque VR en 2026 ? Notre guide d&#8217;achat complet</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-gaming/472513_guide-dachat-quel-casque-vr-choisir-en-2017</link>
-      <pubDate>Thu, 30 Jul 2026 14:22:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-gaming/472513_guide-dachat-quel-casque-vr-choisir-en-2017</guid>
+      <title>ABC demands FCC drop its &#8216;punitive&#8217; early license renewal of its stations</title>
+      <link>https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition</link>
+      <pubDate>2026-07-30T13:08:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973289</guid>
+      <description>ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country. In a new filing with the FCC, ABC charges that the agency's willingness to pursue the early [&#8230;]</description>
+    </item>
+    <item>
+      <title>For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</title>
+      <link>https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/</link>
+      <pubDate>Thu, 30 Jul 2026 17:06:13 +0000</pubDate>
+      <guid isPermaLink="false">6a6b6d98d4aa4e047aba05fa</guid>
+      <description>The temporary exemption from federal safety standards will let Amazon&#8217;s Zoox launch a real, paid robotaxi service in Las Vegas.</description>
+    </item>
+    <item>
+      <title>I think the Secretlab Atlas is a brilliant office chair &#8212; precisely because it&#8217;s a terrible gaming chair</title>
+      <link>https://www.techradar.com/pro/i-think-the-secretlab-atlas-is-a-brilliant-office-chair-precisely-because-its-a-terrible-gaming-chair</link>
+      <pubDate>Thu, 30 Jul 2026 17:05:00 +0000</pubDate>
+      <guid isPermaLink="false">j3Wtk7cKizsMeP5bvYKADS</guid>
+      <description>Why Secretlab's first true office chair strips away everything gamers love, but succeeds for desk workers.</description>
+    </item>
+    <item>
+      <title>LinkedIn is testing a 'seems like AI slop' reporting tool</title>
+      <link>https://www.engadget.com/2227188/linkedin-testing-seems-like-ai-slop-reporting-tool/</link>
+      <pubDate>Thu, 30 Jul 2026 17:02:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2227188/linkedin-testing-seems-like-ai-slop-reporting-tool/</guid>
+      <description>The company is also removing some of its own AI-writing features.</description>
+    </item>
+    <item>
+      <title>&#8216;I just got hacked&#8217; &#8212; What Play Store reviews reveal about people's VPN expectations</title>
+      <link>https://www.techradar.com/vpn/vpn-services/i-just-got-hacked-what-play-store-reviews-reveal-about-peoples-vpn-expectations</link>
+      <pubDate>Thu, 30 Jul 2026 17:01:59 +0000</pubDate>
+      <guid isPermaLink="false">7EXsRcxMzCKZcKgbF6gteR</guid>
+      <description>Exclusive analysis of nearly 30,000 Google Play Store reviews exposes common VPN myths and misconceptions</description>
+    </item>
+    <item>
+      <title>Citi is giving cardholders access to Fashion Week, Formula 1, and award-winning chefs. Tickets start at $100</title>
+      <link>https://www.fastcompany.com/91582144/citi-strata-elite-benefits-new-fashion-week-formula-1-chefs-access</link>
+      <pubDate>2026-07-30T17:01:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91582144/citi-strata-elite-benefits-new-fashion-week-formula-1-chefs-access</guid>
+      <description>Eligible Strata Elite cardmembers can buy tickets to exclusive events in New York, Austin, and Miami as Citi expands its Curated Table series.
+For years, premium credit card issuers competed with increasingly generous welcome bonuses, airport lounge access, and travel credits.</description>
+    </item>
+    <item>
+      <title>Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting</title>
+      <link>https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/</link>
+      <pubDate>Thu, 30 Jul 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a6a3c3e41202f6513ad2e4f</guid>
+      <description>The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.</description>
+    </item>
+    <item>
+      <title>Google is working on Chrome updates that don&#8217;t require restarts</title>
+      <link>https://www.theverge.com/tech/973174/google-chrome-update-no-restart</link>
+      <pubDate>2026-07-30T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973174</guid>
+      <description>Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by "investing in 'dynamic patching' that will eliminate the need for [&#8230;]</description>
+    </item>
+    <item>
+      <title>Pixel 11 Pro Fold design leaks ahead of Google launch event</title>
+      <link>https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event</link>
+      <pubDate>2026-07-30T12:57:39-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973249</guid>
+      <description>Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new foldable will look fairly similar to last year's model - it has a tall [&#8230;]</description>
+    </item>
+    <item>
+      <title>Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.</title>
+      <link>https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying</link>
+      <pubDate>Thu, 30 Jul 2026 16:57:14 GMT</pubDate>
+      <guid isPermaLink="false">6b0GFSuEcifGEiFANxBBdH</guid>
+      <description>Every time a Mastercard gets tapped, the network has less than a tenth of a second to judge how likely the purchase is to be fraudulent. It made that call across 175 billion transactions last year. Now the buyer on the other side of that judgment is starting to change, and Greg Ulrich, the company's chief AI and data officer, spelled out the consequence for the VB Transform 2026 audience in Menlo Park on July 14. "We've built a bunch of risk rules over time that were intended to stop a bot from transacting," Ulrich said. "Now we need to enable the bot to  transact, so that requires a change to...</description>
+    </item>
+    <item>
+      <title>Friend re-launches its AI pendant with a speaker that talks to you, for twice the price</title>
+      <link>https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price</link>
+      <pubDate>2026-07-30T12:33:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973163</guid>
+      <description>Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launched a new ad showing two [&#8230;]</description>
+    </item>
+    <item>
+      <title>How the AI industry forgot two of its best ideas</title>
+      <link>https://www.fastcompany.com/91577826/how-ai-industry-forgot-two-best-ideas</link>
+      <pubDate>2026-07-30T16:33:21</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91577826/how-ai-industry-forgot-two-best-ideas</guid>
+      <description>And what it can learn from Roman concrete.
+Technological progress is usually told as a story of accumulation. We imagine each generation inheriting everything the previous one learned and adding something new.</description>
+    </item>
+    <item>
+      <title>Expensive phone cases: When and why it's worth paying more</title>
+      <link>https://www.engadget.com/2222921/expensive-phone-case-when-why-pay-more/</link>
+      <pubDate>Thu, 30 Jul 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2222921/expensive-phone-case-when-why-pay-more/</guid>
+      <description>Phone cases vary dramatically when it comes to pricing, but it's not always as simple as "you get what you pay for."</description>
+    </item>
+    <item>
+      <title>Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread</title>
+      <link>https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread</link>
+      <pubDate>Thu, 30 Jul 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="false">4uh9CDtvwRUlviacD5B9vc</guid>
+      <description>Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has fundamentally changed.The company, which earlier this week announced a $30 million Series A round led by returning investors Battery Ventures and YL Ventures with Akamai Technologies joining as a strategic investor, argues that organizations are rapidly moving beyond experimenting with generative AI assistants and into deploying autonomous software agents that require an entirely different security model. While the ...</description>
+    </item>
+    <item>
+      <title>Panique &#224; la Nasa avec sa mission sp&#233;ciale de sauvetage : le robot qui doit capturer le satellite est devenu incontr&#244;lable !</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/telescope-spatial-panique-nasa-mission-speciale-sauvetage-robot-doit-capturer-satellite-devenu-incontrolable-136639/#xtor%3DRSS-8</link>
+      <pubDate>Thu, 30 Jul 2026 18:27:55 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/telescope-spatial-panique-nasa-mission-speciale-sauvetage-robot-doit-capturer-satellite-devenu-incontrolable-136639/#xtor%3DRSS-8</guid>
+      <description>Qui va sauver le robot de sauvetage&#160;? Lanc&#233; il y a plusieurs semaines, le robot Link devait attraper le t&#233;lescope spatial Swift et le remettre en orbite, prolongeant ainsi sa vie. Il s&#8217;agit de la premi&#232;re mission de ce genre. Malheureusement, &#224; la suite de d&#233;faillances techniques, l&#8217;engin s&#8217;est...</description>
+    </item>
+    <item>
+      <title>Accus&#233;e d&#8217;&#234;tre sans &#226;me, la premi&#232;re Ferrari Luce &#233;lectrique affiche d&#233;j&#224; complet</title>
+      <link>https://www.frandroid.com/marques/ferrari/3199719_accusee-detre-sans-ame-la-premiere-ferrari-luce-electrique-affiche-deja-complet</link>
+      <pubDate>Thu, 30 Jul 2026 16:26:38 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/ferrari/3199719_accusee-detre-sans-ame-la-premiere-ferrari-luce-electrique-affiche-deja-complet</guid>
       <description>
-Auparavant secteur de niche, la r&#233;alit&#233; virtuelle et d&#233;sormais la r&#233;alit&#233; mixte sont devenues de plus en plus accessibles. Alors comment choisir le meilleur casque VR adapt&#233; &#224; votre usage ? Que vous cherchiez un casque VR pour PC ou un mod&#232;le autonome, suivez notre guide complet pour trouver le meilleur casque de r&#233;alit&#233; virtuelle en 2026.
+La premi&#232;re Ferrari &#233;lectrique affiche d&#233;j&#224; complet pour 2026, et les nouvelles commandes chinoises glissent d&#233;sormais vers 2027. Visiblement, tous les march&#233;s n'ont pas accueilli cette Ferrari Luce de la m&#234;me mani&#232;re.
 </description>
     </item>
     <item>
-      <title>Microsoft&#8217;s latest Surface Laptop is hundreds off at Best Buy</title>
-      <link>https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale</link>
-      <pubDate>2026-07-30T10:22:20-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=973056</guid>
-      <description>If you&#8217;re keen on getting a laptop that looks fantastic, feels great to use, and doesn&#8217;t cost too much, well, pickings are slim right due to RAMageddon. However, there&#8217;s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft&#8217;s Arm-based, 13.8-inch Surface Laptop that has the 10-core Snapdragon X2 Plus chipset. Originally [&#8230;]</description>
+      <title>&#8216;It&#8217;s without a doubt one of the least detrimental privacy-focused solutions to your mobile experience&#8217;: I spent a month testing GrapheneOS &#8212; and it almost made me ditch my Android phone entirely</title>
+      <link>https://www.techradar.com/phones/android/its-without-a-doubt-one-of-the-least-detrimental-privacy-focused-solutions-to-your-mobile-experience-i-spent-a-month-testing-grapheneos-and-it-almost-made-me-ditch-my-android-phone-entirely</link>
+      <pubDate>Thu, 30 Jul 2026 16:26:35 +0000</pubDate>
+      <guid isPermaLink="false">LnHjoYdPAkCNS3CozXvJSJ</guid>
+      <description>I spent a month testing the privacy-focused GrapheneOS, and it left me torn about its security solutions.</description>
     </item>
     <item>
-      <title>Data center operators must take local populations seriously to succeed</title>
-      <link>https://www.techradar.com/pro/data-center-operators-must-take-local-populations-seriously-to-succeed</link>
-      <pubDate>Thu, 30 Jul 2026 14:17:05 +0000</pubDate>
-      <guid isPermaLink="false">3ChrhReDXnPtE4jZGDrbYH</guid>
-      <description>How local populations can influence the success of data center developments.</description>
-    </item>
-    <item>
-      <title>Victorian Psycho trailer is a brilliant, bloody nightmare</title>
-      <link>https://mashable.com/entertainment/victorian-psycho-trailer</link>
-      <pubDate>Thu, 30 Jul 2026 14:15:01 +0000</pubDate>
-      <guid isPermaLink="false">02wOEiTtGXS93PbOkroenJG</guid>
-      <description>Maika Monroe stars as Winifred Notty, "the sanest person she's ever met," in "Victorian Psycho." Watch the trailer.</description>
-    </item>
-    <item>
-      <title>Test de la Steam Machine : une adorable petite console plomb&#233;e par son prix</title>
-      <link>https://www.frandroid.com/marques/valve/3198051_test-de-la-steam-machine-une-adorable-petite-console-plombee-par-son-prix</link>
-      <pubDate>Thu, 30 Jul 2026 14:11:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3198051_test-de-la-steam-machine-une-adorable-petite-console-plombee-par-son-prix</guid>
+      <title>Facture d&#8217;&#233;lectricit&#233; : la somme exacte que vous allez payer en plus d&#232;s le 1er ao&#251;t</title>
+      <link>https://www.frandroid.com/survoltes/energie/3199347_facture-delectricite-la-somme-exacte-que-vous-allez-payer-en-plus-des-le-1er-aout</link>
+      <pubDate>Thu, 30 Jul 2026 16:19:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3199347_facture-delectricite-la-somme-exacte-que-vous-allez-payer-en-plus-des-le-1er-aout</guid>
       <description>
-Valve r&#233;investit votre bureau ET votre salon avec sa nouvelle Steam Machine, un hybride entre console et PC boost&#233; par SteamOS, mais tr&#232;s s&#233;rieusement puni par le contexte &#233;conomique actuel. Notre test complet.
+Les m&#233;nages verront tr&#232;s bient&#244;t augmenter leurs factures d&#8217;&#233;lectricit&#233;. Le transport et l&#8217;acheminement du courant co&#251;tent d&#233;sormais plus cher. D&#8217;ici quelques jours, le prix du kilowattheure augmentera ainsi de pr&#232;s de 0,6 centime d&#8217;euro.
 </description>
     </item>
     <item>
-      <title>Prepare for power outages: Save $200 on ABOK&#8217;s massive Ark3600 power station at Amazon</title>
-      <link>https://mashable.com/tech/july-30-abok-ark-3600-power-station-deal</link>
-      <pubDate>Thu, 30 Jul 2026 14:08:15 +0000</pubDate>
-      <guid isPermaLink="false">02h3faC4LnZkbpEW7wKlc5q</guid>
-      <description>The ABOK Ark3600 portable power station is on sale for $1,099 at Amazon, down from the normal price of $1,299. The Ark3600 extra battery is on sale for $934.15, down from the normal price of $1,099.</description>
+      <title>Okta buys AI security startup Permiso; source says for about $200M</title>
+      <link>https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/</link>
+      <pubDate>Thu, 30 Jul 2026 16:09:42 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148308</guid>
+      <description>The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.</description>
     </item>
     <item>
-      <title>Fire your barista: Amazon just knocked $50 off Nespresso&#8217;s sleekest Vertuo maker</title>
-      <link>https://mashable.com/life/july-30-nespresso-vertuo-next-deal</link>
-      <pubDate>Thu, 30 Jul 2026 14:02:32 +0000</pubDate>
-      <guid isPermaLink="false">03dEtYc6kPptlMuMjUFCTZ9</guid>
-      <description>The Nespresso Vertuo Next coffee and espresso machine is on sale at Amazon for over 30%. Grab it for just $125.</description>
+      <title>What is the Shared Responsibility Model in cloud security?</title>
+      <link>https://www.techradar.com/pro/security/what-is-the-shared-responsibility-model-in-cloud-security</link>
+      <pubDate>Thu, 30 Jul 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">e7eS2kHAq8WnVNg5UEJJmP</guid>
+      <description>Although cloud providers such as AWS or Microsoft deliver strong infrastructure security, there's still a big misconception that the data is automatically safe just because it's in the cloud, which is where the Shared Responsibility Model comes in.</description>
     </item>
     <item>
-      <title>'Maybe laziness is the best way to improve the technology' &#8212; I chatted to a lawnbot exec about the tech and trends taking robot mowers mainstream</title>
-      <link>https://www.techradar.com/home/smart-home/maybe-laziness-is-the-best-way-to-improve-the-technology-i-chatted-to-a-lawnbot-exec-about-the-tech-and-trends-taking-robot-mowers-mainstream</link>
-      <pubDate>Thu, 30 Jul 2026 14:00:31 +0000</pubDate>
-      <guid isPermaLink="false">NXCZSTqH76S7DTjWzJDWCg</guid>
-      <description>Thanks to big leaps in technology over the past couple of years, robot lawn mowers are on the march.</description>
+      <title>Google says it has fixed a Pixel battery drain issue, but some users disagree</title>
+      <link>https://www.engadget.com/2227094/google-says-it-has-fixed-a-pixel-battery-drain-issue-but-some-users-disagree/</link>
+      <pubDate>Thu, 30 Jul 2026 16:02:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2227094/google-says-it-has-fixed-a-pixel-battery-drain-issue-but-some-users-disagree/</guid>
+      <description>Google said a July update resolves the problem on recent devices, with Pixel 9a and 8a getting a fix in September.</description>
     </item>
     <item>
-      <title>TechCrunch Disrupt 2026&#8217;s biggest stage features leaders from Amazon,&#160;Replit, Tether, with much&#160;more to come</title>
-      <link>https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/</link>
-      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147661</guid>
-      <description>The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.</description>
+      <title>&#8216;OLED better watch its back&#8217;: LG&#8217;s C6 OLED TV is one of the best I&#8217;ve tested this year, but when I put it side-by-side with the Sony Bravia 7 II RGB TV, the close battle shocked me</title>
+      <link>https://www.techradar.com/televisions/lgs-c6-oled-tv-vs-sony-bravia-7-ii-rgb-tv-the-close-battle-shocked-me</link>
+      <pubDate>Thu, 30 Jul 2026 16:02:56 +0000</pubDate>
+      <guid isPermaLink="false">kdyQNumNBd6HnJ8S38fzif</guid>
+      <description>As RGB LED takes the fight to OLED in 2026, I compared the LG C6 next to Sony's more affordable RGB TV, the Bravia 7 II.</description>
     </item>
     <item>
-      <title>Samsung reports billions in record profit for Q2 thanks to AI boom</title>
-      <link>https://www.fastcompany.com/91582493/samsung-reports-billions-record-profit-q2-thanks-ai-boom</link>
-      <pubDate>2026-07-30T13:58:09</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91582493/samsung-reports-billions-record-profit-q2-thanks-ai-boom</guid>
-      <description>The chip giant announced $62 billion in earnings for the April&#8211;June period.
-South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won ($62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as the world&#8217;s two largest memory chipmakers continue to ride the global artificial intelligence boom.Despite their soaring profits, the companies&#8217; shares have fallen sharply this week in South Korea&#8217;s volatile stock market, where retail investors often drive sharp swings in share prices, as conc...</description>
+      <title>Trump visits General Motors plant, touting &#8216;amazing&#8217; tariffs, but even some of this supporters are worried</title>
+      <link>https://www.fastcompany.com/91582484/trump-visits-general-motors-plant-touting-amazing-tariffs-but-even-some-of-this-supporters-worried</link>
+      <pubDate>2026-07-30T16:00:39</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91582484/trump-visits-general-motors-plant-touting-amazing-tariffs-but-even-some-of-this-supporters-worried</guid>
+      <description>Metrics show that Trump&#8217;s tariffs have cost businesses in Michigan billions of dollars.
+Flying to a rally at General Motors this week, President Donald Trump declared that &#8220;car companies are doing better than they&#8217;ve ever done&#8221; thanks to his tariffs.&#8220;All because of Trump,&#8221; he said.It was a message the Republican president repeated while touring a collection of new vehicles, predicting that &#8220;it&#8217;s amazing what tariffs will do for General Motors&#8221; before autographing a white Corvette commemorating America&#8217;s 250th anniversary. He later told a crowd of cheering supporters that &#8220;Michigan is thriving....</description>
     </item>
     <item>
-      <title>GPT s&#8217;&#233;chappe et pirate le plus grand hub d&#8217;IA : on sait enfin ce qui s&#8217;est pass&#233;, et c&#8217;est digne d&#8217;un film de SF</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel</link>
-      <pubDate>Thu, 30 Jul 2026 13:56:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel</guid>
+      <title>Boulanger brade les Samsung Galaxy Buds 3 FE, des &#233;couteurs avec ANC et Galaxy AI, sous la barre des 50 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/2776531_boulanger-brade-les-samsung-galaxy-buds-3-fe-des-ecouteurs-avec-anc-et-galaxy-ai-sous-la-barre-des-50</link>
+      <pubDate>Thu, 30 Jul 2026 16:00:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2776531_boulanger-brade-les-samsung-galaxy-buds-3-fe-des-ecouteurs-avec-anc-et-galaxy-ai-sous-la-barre-des-50</guid>
       <description>
-Les mod&#232;les d'intelligence artificielle les plus puissants commencent &#224; &#233;chapper des mains de leurs cr&#233;ateurs. C'est ce qui s'est pass&#233; du 9 au 13 juillet avec deux mod&#232;les d'OpenAI, dont GPT-5.6 Sol et un second mod&#232;le plus puissant non encore publi&#233;. Sans qu'on lui demande, le mod&#232;le en question a hack&#233; l'un des plus grands hubs d'IA au monde.
+Sortis en 2025, les Samsung Galaxy Buds 3 FE se sont rapidement impos&#233;s comme une r&#233;f&#233;rence incontournable pour les petits budgets qui cherchent des &#233;couteurs sans fil avec AN). C'est le moment parfait pour s'&#233;quiper : gr&#226;ce &#224; cette offre chez Boulanger, ils reviennent &#224; seulement 49 euros au lieu de 149 euros de base. 
 </description>
     </item>
     <item>
-      <title>Voici &#224; quoi ressemblerait Paris avec des climatiseurs et des dragons : Google int&#232;gre Nano Banana &#224; Google Earth</title>
-      <link>https://www.frandroid.com/marques/google/3199507_voici-a-quoi-ressemblerait-paris-avec-des-climatiseurs-et-des-dragons-google-integre-nano-banana-a-google-earth</link>
-      <pubDate>Thu, 30 Jul 2026 13:49:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3199507_voici-a-quoi-ressemblerait-paris-avec-des-climatiseurs-et-des-dragons-google-integre-nano-banana-a-google-earth</guid>
+      <title>Tesla made its 10 millionth EV</title>
+      <link>https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/</link>
+      <pubDate>Thu, 30 Jul 2026 16:00:25 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148225</guid>
+      <description>The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.</description>
+    </item>
+    <item>
+      <title>The New Friend AI Pendant Can Now Talk Back to You</title>
+      <link>https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/</link>
+      <pubDate>Thu, 30 Jul 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a6a2a20b706be75bfb3a10f</guid>
+      <description>Avi Schiffmann has a new version of his controversial AI companion. It&#8217;s more expensive, and you can&#8217;t change its personality.</description>
+    </item>
+    <item>
+      <title>The AI industry is rallying around open models. Is it more than talk?</title>
+      <link>https://www.fastcompany.com/91581867/the-ai-industry-is-rallying-around-open-models-is-it-more-than-talk</link>
+      <pubDate>2026-07-30T16:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91581867/the-ai-industry-is-rallying-around-open-models-is-it-more-than-talk</guid>
+      <description>Transparent open-weight models may be great for safety and security, but very problematic for making money and paying off investors.&#160;
+Welcome to AI Decoded, Fast Company&#8217;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.</description>
+    </item>
+    <item>
+      <title>Pas de Flex Mode sur le Galaxy Z Fold 8 : voici notre solution pour y rem&#233;dier</title>
+      <link>https://www.frandroid.com/marques/samsung/3199717_pas-de-flex-mode-sur-le-galaxy-z-fold-8-voici-notre-solution-pour-y-remedier</link>
+      <pubDate>Thu, 30 Jul 2026 15:56:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3199717_pas-de-flex-mode-sur-le-galaxy-z-fold-8-voici-notre-solution-pour-y-remedier</guid>
       <description>
-Google annonce l'ajout de son syst&#232;me de g&#233;n&#233;ration d'image Nano Banana 2 &#224; Google Earth. Vous pouvez transformer n'importe quel endroit sur Terre par l'IA.
+Le Flex Mode n'est pas disponible sur le nouveau Galaxy Z Fold 8 de Samsung. Mais nous avons une petite astuce &#224; vous partager pour y rem&#233;dier (un peu).
 </description>
     </item>
     <item>
-      <title>Why access to power will determine the winners and losers in the AI race</title>
-      <link>https://www.techradar.com/pro/why-access-to-power-will-determine-the-winners-and-losers-in-the-ai-race</link>
-      <pubDate>Thu, 30 Jul 2026 13:36:21 +0000</pubDate>
-      <guid isPermaLink="false">d6rFeipYewSjEsDiFe7kMD</guid>
-      <description>As AI demand surges, electricity availability becomes a critical factor shaping data center growth worldwide.</description>
-    </item>
-    <item>
-      <title>People are paying $59 to make their phones worse. The reason speaks volumes about the tech world right now</title>
-      <link>https://www.fastcompany.com/91574113/people-paying-59-make-phones-worse-reason-speaks-volumes-about-tech-world-right-now</link>
-      <pubDate>2026-07-30T13:35:32</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91574113/people-paying-59-make-phones-worse-reason-speaks-volumes-about-tech-world-right-now</guid>
-      <description>The industry spent decades engineering effort out of everything. Now a wave of premium products is putting it back.
-In late 2023, two computer science graduates in Germantown, Wisconsin, started&#160;selling a gray square&#160;about the size of a teabag. Called the Brick, it was 3D-printed in a basement. Tap your phone against it, and the apps you&#8217;ve chosen become blocked until you tap it again. The product works because of where you leave it. Stick the Brick to your fridge, and opening Instagram now involves standing up, walking to the kitchen, and holding your phone against the device&#8212;by which point y...</description>
-    </item>
-    <item>
-      <title>FTC sues Hims &amp; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap</title>
-      <link>https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/</link>
-      <pubDate>Thu, 30 Jul 2026 13:30:52 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148113</guid>
-      <description>The U.S. federal consumer watchdog said Hims &amp; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.</description>
-    </item>
-    <item>
-      <title>How to use screen mirroring on Roku with your Android phone</title>
-      <link>https://www.engadget.com/2222918/how-to-screen-mirror-roku-android-phone/</link>
-      <pubDate>Thu, 30 Jul 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2222918/how-to-screen-mirror-roku-android-phone/</guid>
-      <description>Your Roku can probably display what's on your phone screen, if you have Android.</description>
-    </item>
-    <item>
-      <title>&#171;&#160;Se connecter avec ChatGPT&#160;&#187; : OpenAI lance une alternative &#224; la cr&#233;ation de comptes avec Apple, Google, et Facebook</title>
-      <link>https://www.01net.com/actualites/connecter-chatgpt-openai-lance-alternative-creation-comptes-apple-google-facebook.html</link>
-      <pubDate>Thu, 30 Jul 2026 13:29:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361815</guid>
-      <description>OpenAI introduit l'option &#171; Se connecter avec ChatGPT &#187; pour simplifier la cr&#233;ation de comptes en ligne. Cette fonctionnalit&#233; est, pour l'instant, r&#233;serv&#233;e &#224; certains de ses partenaires, comme GitLab et Notion. Peu &#224; peu, un compte ChatGPT devient une carte d'identit&#233; num&#233;rique.</description>
-    </item>
-    <item>
-      <title>Climatiseur mobile : quand vider l&#8217;eau, quand laisser le bouchon ferm&#233;, et pourquoi &#231;a change tout</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3198817_climatiseur-mobile-quand-vider-leau-quand-laisser-le-bouchon-ferme-et-pourquoi-ca-change-tout</link>
-      <pubDate>Thu, 30 Jul 2026 13:24:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3198817_climatiseur-mobile-quand-vider-leau-quand-laisser-le-bouchon-ferme-et-pourquoi-ca-change-tout</guid>
+      <title>Meilleure TV Hisense 2026 : quel t&#233;l&#233;viseur Hisense choisir ?</title>
+      <link>https://www.frandroid.com/guide-dachat/2829731_meilleur-tv-hisense-quel-modele-choisir</link>
+      <pubDate>Thu, 30 Jul 2026 15:53:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/2829731_meilleur-tv-hisense-quel-modele-choisir</guid>
       <description>
-Sur les climatiseurs mobiles r&#233;cents, le bac &#224; eau &#224; vider en pleine nuit appartient presque au pass&#233;. Mais selon le mode que vous utilisez, ce fameux bouchon doit rester ferm&#233;, s'ouvrir, ou servir &#224; tout vidanger.
+Hisense s'est impos&#233; comme l'un des meilleurs fabricants de t&#233;l&#233;viseurs en 2026, tout particuli&#232;rement sur des produits &#224; co&#251;t avantageux face aux mastodontes LG et Samsung. Que vous cherchiez la meilleure TV Hisense pour le cin&#233;ma, le gaming ou un usage polyvalent, on fait le point ici sur les mod&#232;les les plus int&#233;ressants &#224; choisir dans le catalogue de la marque.
+...</description>
+    </item>
+    <item>
+      <title>1 700 km d&#8217;autonomie pour 33 500 &#8364; : les SUV hybrides coup de poing de Xiaomi s&#8217;appellent SkyNomad N70 et N90</title>
+      <link>https://www.frandroid.com/marques/xiaomi/3199635_1-700-km-dautonomie-pour-33-500-e-les-suv-hybrides-coup-de-poing-de-xiaomi-sappellent-skynomad-n70-et-n90</link>
+      <pubDate>Thu, 30 Jul 2026 15:52:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/xiaomi/3199635_1-700-km-dautonomie-pour-33-500-e-les-suv-hybrides-coup-de-poing-de-xiaomi-sappellent-skynomad-n70-et-n90</guid>
+      <description>
+Xiaomi ouvre les pr&#233;commandes de ses deux premiers SUV hybrides (&#233;lectrique &#224; prolongateur d'autonomie) Sky Nomad en Chine, &#224; partir de l'&#233;quivalent de 33 500 &#8364;, avant des livraisons pr&#233;vues pour septembre. En Europe, il faudra attendre plus longtemps, et pour de bonnes raisons.
 </description>
     </item>
     <item>
-      <title>Netflix pays $500 million to share 'The Walking Dead' streaming rights with AMC+</title>
-      <link>https://www.engadget.com/2226910/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc-plus/</link>
-      <pubDate>Thu, 30 Jul 2026 13:22:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226910/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc-plus/</guid>
-      <description>Netflix has ponied up a half billion dollars to extend its streaming rights to The Walking Dead and the show's six spinoffs.</description>
+      <title>Best Buy is selling an RTX 5080 for more than the RTX 5090&#8217;s MSRP</title>
+      <link>https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy</link>
+      <pubDate>2026-07-30T11:48:10-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=973173</guid>
+      <description>Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs 40 percent more than its [&#8230;]</description>
     </item>
     <item>
-      <title>DOGE Veterans Are Landing Big Jobs at Prediction Markets</title>
-      <link>https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/</link>
-      <pubDate>Thu, 30 Jul 2026 13:20:16 +0000</pubDate>
-      <guid isPermaLink="false">6a6a35547141b0b192812d7e</guid>
-      <description>Polymarket and Novig have both recently brought ex-DOGE affiliates onboard as scrutiny of the industry intensifies.</description>
+      <title>When will fusion power startup Commonwealth Fusion Systems go public?</title>
+      <link>https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/</link>
+      <pubDate>Thu, 30 Jul 2026 15:45:36 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148224</guid>
+      <description>There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.</description>
     </item>
     <item>
-      <title>Ce forfait 250 Go combine un mois gratuit et une protection anti-cyberharc&#232;lement</title>
-      <link>https://www.frandroid.com/bons-plans/3199355_ce-forfait-250-go-combine-un-mois-gratuit-et-une-protection-anti-cyberharcelement</link>
-      <pubDate>Thu, 30 Jul 2026 13:18:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3199355_ce-forfait-250-go-combine-un-mois-gratuit-et-une-protection-anti-cyberharcelement</guid>
-      <description>
-&#192; 13,99 euros par mois, le forfait 250 Go de La Poste Mobile r&#233;unit plusieurs arguments. Un mois de forfait offert avec le code WEB1MOIS, la protection anti-cyberharc&#232;lement SafeBear incluse, et une large enveloppe de data en 5G.
-</description>
+      <title>Meta says AI is making it easier to build new apps &#8212; and more are coming</title>
+      <link>https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/</link>
+      <pubDate>Thu, 30 Jul 2026 15:41:16 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148216</guid>
+      <description>Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.</description>
     </item>
   </channel>
 </rss>
