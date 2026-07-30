@@ -3,93 +3,243 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 30 Jul 2026 07:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:28:37 GMT</lastBuildDate>
     <item>
-      <title>The FCC bans all robot vacuums made outside the U.S.</title>
-      <link>https://mashable.com/tech/us-robot-vacuum-ban-fcc-foreign</link>
-      <pubDate>Thu, 30 Jul 2026 07:26:24 +0000</pubDate>
-      <guid isPermaLink="false">00et3QIRk6vJVi4v25aymVM</guid>
-      <description>The FCC has banned all foreign-made mobile robots from the U.S., including robot vacuums from brands such as Roborock and Ecovacs.</description>
-    </item>
-    <item>
-      <title>Fini les saccades sur Steam Deck ? Ce correctif AMD promet de changer la donne sur Linux</title>
-      <link>https://www.frandroid.com/produits-android/console/3198567_fini-les-saccades-sur-steam-deck-ce-correctif-amd-promet-de-changer-la-donne-sur-linux</link>
-      <pubDate>Thu, 30 Jul 2026 07:26:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/console/3198567_fini-les-saccades-sur-steam-deck-ce-correctif-amd-promet-de-changer-la-donne-sur-linux</guid>
+      <title>Payer sa voiture &#233;lectrique sur son salaire brut : l&#8217;id&#233;e de Volkswagen pour r&#233;duire la note de 50 % en Allemagne</title>
+      <link>https://www.frandroid.com/marques/volkswagen/3198695_payer-sa-voiture-electrique-sur-son-salaire-brut-lidee-de-volkswagen-pour-reduire-la-note-de-50-en-allemagne</link>
+      <pubDate>Thu, 30 Jul 2026 10:25:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3198695_payer-sa-voiture-electrique-sur-son-salaire-brut-lidee-de-volkswagen-pour-reduire-la-note-de-50-en-allemagne</guid>
       <description>
-Une s&#233;rie de mises &#224; jour pour les pilotes de processeur AMD sur Linux pourrait am&#233;liorer sensiblement la stabilit&#233; de certains jeux sur Steam Deck.
+Chez nos voisins allemands, le groupe Volkswagen propose un tout nouveau dispositif pour ses clients. Il est d&#233;sormais possible de rouler en voiture &#233;lectrique gr&#226;ce &#224; un pr&#233;l&#232;vement directement sur le salaire. Le tout avec de belles &#233;conomies &#224; la cl&#233;.
 </description>
     </item>
     <item>
-      <title>En restructuration, la branche Xbox fait un trou dans les finances de Microsoft</title>
-      <link>https://www.frandroid.com/marques/microsoft/3198565_en-restructuration-la-branche-xbox-fait-un-trou-dans-les-finances-de-microsoft</link>
-      <pubDate>Thu, 30 Jul 2026 07:21:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3198565_en-restructuration-la-branche-xbox-fait-un-trou-dans-les-finances-de-microsoft</guid>
+      <title>Ce mini vid&#233;oprojecteur Full HD livr&#233; avec une toile passe de 199 &#224; 79 &#8364;&#160;seulement</title>
+      <link>https://www.frandroid.com/bons-plans/3198627_ce-mini-videoprojecteur-full-hd-livre-avec-une-toile-passe-de-199-a-79-e-seulement</link>
+      <pubDate>Thu, 30 Jul 2026 10:24:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3198627_ce-mini-videoprojecteur-full-hd-livre-avec-une-toile-passe-de-199-a-79-e-seulement</guid>
       <description>
-Aller mal avant d'aller mieux ? Difficile &#224; dire, mais la s&#233;v&#232;re restructuration appliqu&#233;e &#224; la branche Xbox cause pour l'instant des remous pr&#233;visibles dans le dernier bilan financier de Microsoft. Voici ce que l'on apprend.
+Le Yaber L1 Pro est un vid&#233;oprojecteur Full HD livr&#233; avec une toile de projection de 100 pouces, &#224; retrouver pour 79 euros au lieu de 199 euros sur Joybuy. 
 </description>
     </item>
     <item>
-      <title>Revolut inclut ChatGPT Go dans ses abonnements Premium, Metal et Ultra</title>
-      <link>https://www.frandroid.com/services/banque-en-ligne/3198583_revolut-inclut-chatgpt-go-dans-ses-abonnements-premium-metal-et-ultra</link>
-      <pubDate>Thu, 30 Jul 2026 07:21:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3198583_revolut-inclut-chatgpt-go-dans-ses-abonnements-premium-metal-et-ultra</guid>
+      <title>How silicon photonics lights the way for data centers</title>
+      <link>https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers</link>
+      <pubDate>Thu, 30 Jul 2026 10:20:56 +0000</pubDate>
+      <guid isPermaLink="false">xdZcYnGUBVsHFkRTyK6iWX</guid>
+      <description>As AI strains data center infrastructure, silicon photonics looks to provide faster, more energy-efficient computing.</description>
+    </item>
+    <item>
+      <title>LinkedIn Won&#8217;t Be Expanding Its Data Centers in the Next Year</title>
+      <link>https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/</link>
+      <pubDate>Thu, 30 Jul 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="false">6a553636b3a9c23272f2246a</guid>
+      <description>Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it&#8217;s challenging engineers to make every GPU count.</description>
+    </item>
+    <item>
+      <title>&#171; Pr&#232;s d&#8217;un milliard de personnes utilisent ChatGPT chaque semaine &#187; d&#8217;apr&#232;s OpenAI</title>
+      <link>https://www.frandroid.com/marques/openai/3198781_pres-dun-milliard-de-personnes-utilisent-chatgpt-chaque-semaine-dapres-openai</link>
+      <pubDate>Thu, 30 Jul 2026 10:12:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/openai/3198781_pres-dun-milliard-de-personnes-utilisent-chatgpt-chaque-semaine-dapres-openai</guid>
       <description>
-La banque Revolut continue d'&#233;toffer son offre pour int&#233;grer plus de services. Les clients Premium, Metal et Ultra peuvent d&#233;sormais b&#233;n&#233;ficier d'un abonnement &#224; ChatGPT Go.
+En annon&#231;ant son partenariat avec Revolut, OpenAI a gliss&#233; la confirmation du succ&#232;s de ChatGPT. L'outil est utilis&#233; par pr&#232;s d'un milliard d'utilisateurs par semaine.
 </description>
     </item>
     <item>
-      <title>iOS 27 pourra enfin cacher ce bouton que vous activez accidentellement dans Messages</title>
-      <link>https://www.01net.com/actualites/ios-27-pourra-enfin-cacher-ce-bouton-que-vous-activez-accidentellement-dans-messages.html</link>
-      <pubDate>Thu, 30 Jul 2026 07:16:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361683</guid>
-      <description>La prochaine mise &#224; jour majeure d&#8217;iOS va introduire un nouveau param&#232;tre pour cacher le bouton d'enregistrement de message vocal sur lequel vous appuyez sans le vouloir dans l&#8217;application Messages.</description>
+      <title>Des anneaux g&#233;ants dans l&#8217;atmosph&#232;re de V&#233;nus pourraient trahir un ph&#233;nom&#232;ne bien connu sur Terre</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-anneaux-geants-atmosphere-venus-pourraient-trahir-phenomene-bien-connu-terre-136605/#xtor%3DRSS-8</link>
+      <pubDate>Thu, 30 Jul 2026 12:05:34 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-anneaux-geants-atmosphere-venus-pourraient-trahir-phenomene-bien-connu-terre-136605/#xtor%3DRSS-8</guid>
+      <description>Regarder un astre &#224; diff&#233;rentes longueurs d'onde livre des secrets selon ces derni&#232;res :&#160;le ciel, par exemple, n'&#233;tant&#160;pas le m&#234;me en rayons X, qui d&#233;voilent l'activit&#233; des disques de mati&#232;re chauds autour des trous noirs, ou en infrarouge, qui r&#233;v&#232;le la naissance des &#233;toiles dans des nuages...</description>
     </item>
     <item>
-      <title>Half of Gen Z catch themselves performing during solo sex</title>
-      <link>https://mashable.com/life/pleasure-census-hud-gen-z-performing-during-solo-pleasure</link>
-      <pubDate>Thu, 30 Jul 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">05r8ugYJxr7OfYiTIPTXAID</guid>
-      <description>The HUD app and Girls Get Off partnered on a survey all about sex and pleasure. See the results here.</description>
+      <title>Surprise: The global oil crisis is pushing people toward buying electrified cars</title>
+      <link>https://www.engadget.com/2226837/electric-vehicle-sales-spike-in-wake-of-oil-crisis/</link>
+      <pubDate>Thu, 30 Jul 2026 10:03:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2226837/electric-vehicle-sales-spike-in-wake-of-oil-crisis/</guid>
+      <description>lectrified vehicle sales hit new highs around the world as 50 countries saw quarterly records in Q2 of 2026.</description>
     </item>
     <item>
-      <title>&#201;cran 18&#8243; Mini LED 240 Hz, RTX 5090, 64 Go de RAM : ce laptop gamer surpuissant en met plein la vue et profite (heureusement) d&#8217;une remise de 350 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3198199_ecran-18-mini-led-240-hz-rtx-5090-64-go-de-ram-ce-laptop-gamer-surpuissant-en-met-plein-la-vue-et-profite-heureusement-dune-remise-de-350-e</link>
-      <pubDate>Thu, 30 Jul 2026 06:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3198199_ecran-18-mini-led-240-hz-rtx-5090-64-go-de-ram-ce-laptop-gamer-surpuissant-en-met-plein-la-vue-et-profite-heureusement-dune-remise-de-350-e</guid>
+      <title>A Civilian Plane Crashed in New Mexico. Was the Military&#8217;s Tech to Blame?</title>
+      <link>https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</link>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a57af504de2a00b6b98bb1c</guid>
+      <description>Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.</description>
+    </item>
+    <item>
+      <title>TCL Tab A1 Plus Review (2026): Cheap Tablet That Doesn&#8217;t Feel It</title>
+      <link>https://www.wired.com/review/tcl-tab-a1-plus-tablet/</link>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a67844566ce5d724c07eebb</guid>
+      <description>For most people, the Tab A1 Plus checks all the boxes and is the best budget tablet you can buy, but don&#8217;t expect power or long-term Android support.</description>
+    </item>
+    <item>
+      <title>&#8216;You'll notice I do not call it AI music, because I don't think it's music&#8217;: Qobuz&#8217;s Managing Director Dan Mackta on music streaming&#8217;s biggest problem, and how he hopes to tackle it</title>
+      <link>https://www.techradar.com/audio/audio-streaming/youll-notice-i-do-not-call-it-ai-music-because-i-dont-think-its-music-qobuzs-managing-director-dan-mackta-on-music-streamings-biggest-problem-and-how-he-hopes-to-tackle-it</link>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">kZAiMUzEJd6Sz4uDJiNxn5</guid>
+      <description>&#8216;The whole thing is just a really, really big bummer&#8217; &#8212; Qobuz&#8217;s Managing Director on the scourge of AI-generated audio in streaming, and why he still refuses to call it music</description>
+    </item>
+    <item>
+      <title>What is the release date for Lioness season 3 episode 1 on Paramount+?</title>
+      <link>https://www.techradar.com/streaming/paramount-plus/lioness-season-3-episode-1-release-date-time</link>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5XUn9VD6kzHP9kVQ4CpkNT</guid>
+      <description>Poor Joe... she's never going to have an easy day at work. But, when does Lioness season 3 episode 1 land on Paramount+?</description>
+    </item>
+    <item>
+      <title>Revenge SEO: How a fired contractor erased 90% of our traffic</title>
+      <link>https://www.techradar.com/pro/revenge-seo-how-a-fired-contractor-erased-90-percent-of-our-traffic</link>
+      <pubDate>Thu, 30 Jul 2026 09:49:31 +0000</pubDate>
+      <guid isPermaLink="false">ZuL9eRgmCCFvrBqhPoV8fn</guid>
+      <description>Learning the hard way that marketing is both a growth engine and an attack surface.</description>
+    </item>
+    <item>
+      <title>Ce petit ventilateur connect&#233; et ultra-silencieux de Xiaomi chute sous les 60 euros</title>
+      <link>https://www.frandroid.com/bons-plans/3198849_ce-petit-ventilateur-connecte-et-ultra-silencieux-de-xiaomi-chute-sous-les-60-euros</link>
+      <pubDate>Thu, 30 Jul 2026 09:48:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3198849_ce-petit-ventilateur-connecte-et-ultra-silencieux-de-xiaomi-chute-sous-les-60-euros</guid>
       <description>
-Avec son &#233;cran Mini LED de 18 pouces rafra&#238;chi &#224; 240 Hz, son GPU RTX 5090 et ses 64 Go de RAM, le PC portable Gigabyte Aorus Master 18, est, sans surprise, tr&#232;s, tr&#232;s cher. Heureusement, il b&#233;n&#233;ficie d'une petite promotion chez Grosbill : son prix passe de 5 499,90 euros &#224; 5 149,90 euros.
+Le Xiaomi Smart Desktop Air Circulation Fan est un ventilateur de bureau connect&#233; qui mise sur la discr&#233;tion sonore et l'oscillation 3D automatique. Il est disponible pour 59,99 euros au lieu de 64,99 euros sur la boutique officielle du fabricant.
 </description>
     </item>
     <item>
-      <title>En pleine crise de la RAM, Samsung enregistre ses premi&#232;res pertes financi&#232;res historiques</title>
-      <link>https://www.frandroid.com/marques/samsung/3198547_en-pleine-crise-de-la-ram-samsung-enregistre-ses-premieres-pertes-financieres-historiques</link>
-      <pubDate>Thu, 30 Jul 2026 06:22:12 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3198547_en-pleine-crise-de-la-ram-samsung-enregistre-ses-premieres-pertes-financieres-historiques</guid>
+      <title>Z&#233;ro accident en 42 millions de km : Tesla d&#233;fend son FSD, toujours bloqu&#233; en France</title>
+      <link>https://www.frandroid.com/marques/tesla/3198603_zero-accident-en-42-millions-de-km-tesla-defend-son-fsd-toujours-bloque-en-france</link>
+      <pubDate>Thu, 30 Jul 2026 09:44:16 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/tesla/3198603_zero-accident-en-42-millions-de-km-tesla-defend-son-fsd-toujours-bloque-en-france</guid>
       <description>
-Samsung vient de battre son record de profits, mais sa division smartphone a bascul&#233; dans le rouge. En cause&#160;: le prix des puces m&#233;moire, que le groupe cor&#233;en fabrique lui-m&#234;me.
+Alors que la France vient de dire non &#224; la conduite autonome FSD de Tesla, le constructeur d&#233;voile des chiffres tr&#232;s rassurants. Le risque de collision serait environ 5 fois inf&#233;rieur gr&#226;ce &#224; cette technologie, sur le papier.
 </description>
     </item>
     <item>
-      <title>Google Agenda s&#8217;offre de nouvelles options pour les grands &#233;crans</title>
-      <link>https://www.01net.com/actualites/google-agenda-soffre-de-nouvelles-options-pour-les-grands-ecrans.html</link>
-      <pubDate>Thu, 30 Jul 2026 06:14:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361656</guid>
-      <description>Le calendrier de Google va profiter de nouvelles options d&#8217;affichage. Vous pourrez d&#233;sormais le configurer pour qu&#8217;il exploite toute la surface de votre grand &#233;cran.</description>
+      <title>Google Chrome se refait une beaut&#233; sur Android : d&#233;couvrez les options du nouveau menu &#171; Apparence &#187;</title>
+      <link>https://www.frandroid.com/marques/google/3198865_google-chrome-se-refait-une-beaute-sur-android-decouvrez-les-options-du-nouveau-menu-apparence</link>
+      <pubDate>Thu, 30 Jul 2026 09:40:05 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3198865_google-chrome-se-refait-une-beaute-sur-android-decouvrez-les-options-du-nouveau-menu-apparence</guid>
+      <description>
+Chrome pour Android d&#233;ploie un menu &#171;&#160;Apparence&#160;&#187; qui rassemble les r&#233;glages visuels du navigateur au m&#234;me endroit. De quoi personnaliser plus vite le th&#232;me et la page de nouvel onglet.
+</description>
     </item>
     <item>
-      <title>It's not just you - report finds almost 1 in 3 workers scroll their phone in meetings, and that's only the tip of the bad habits iceberg</title>
-      <link>https://www.techradar.com/pro/its-not-just-you-report-finds-almost-1-in-3-workers-scroll-their-phone-in-meetings-and-thats-only-the-tip-of-the-bad-habits-iceberg</link>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ZwVn6n5bSvw5cBNGigp2ze</guid>
-      <description>New survey reveals a shocking lack of attention in team meetings, and an epidemic of directors running late.</description>
+      <title>AI Scammers Are Better at Building Trust Than Humans</title>
+      <link>https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/</link>
+      <pubDate>Thu, 30 Jul 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a61037e306be2a30dae9218</guid>
+      <description>Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating &#8220;exploitable trust&#8221; with others.</description>
     </item>
     <item>
-      <title>Une &#233;tude vient de d&#233;truire le plus grand mythe sur la dur&#233;e de vie des batteries des voitures &#233;lectriques</title>
-      <link>https://www.01net.com/actualites/fin-mythe-duree-vie-batteries-voitures-electriques.html</link>
-      <pubDate>Thu, 30 Jul 2026 05:45:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361448</guid>
-      <description>Les batteries de nos voitures &#233;lectriques ne plient pas sous la fatigue. En r&#233;alit&#233;, elles sont carr&#233;ment plus robustes que pr&#233;vu avec des dur&#233;es de vie qui risquent bien de vous surprendre. De quoi remettre pl&#233;thore de d&#233;bats sur la table&#8230;</description>
+      <title>Le MacBook Air 13 M5 revient enfin &#224; son prix de lancement apr&#232;s une hausse de 200 &#8364; due &#224; la crise de la RAM</title>
+      <link>https://www.frandroid.com/bons-plans/3198641_le-macbook-air-13-m5-revient-enfin-a-son-prix-de-lancement-apres-une-hausse-de-200-e-due-a-la-crise-de-la-ram</link>
+      <pubDate>Thu, 30 Jul 2026 09:18:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3198641_le-macbook-air-13-m5-revient-enfin-a-son-prix-de-lancement-apres-une-hausse-de-200-e-due-a-la-crise-de-la-ram</guid>
+      <description>
+En juin dernier, Apple a augment&#233; le prix de son MacBook Air 13 M5, d&#233;sormais affich&#233; &#224; 1 399 euros, pour faire face &#224; la crise de la m&#233;moire. Mais en ce moment, Amazon le propose &#224; 1 199 euros, soit son prix de lancement.
+</description>
+    </item>
+    <item>
+      <title>Se connecter au Wi-Fi de l&#8217;h&#244;tel peut suffire &#224; vous faire pirater votre compte Microsoft 365</title>
+      <link>https://www.frandroid.com/culture-tech/securite-applications/3198777_se-connecter-au-wi-fi-de-lhotel-peut-suffire-a-vous-faire-pirater-votre-compte-microsoft-365</link>
+      <pubDate>Thu, 30 Jul 2026 09:13:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/securite-applications/3198777_se-connecter-au-wi-fi-de-lhotel-peut-suffire-a-vous-faire-pirater-votre-compte-microsoft-365</guid>
+      <description>
+Se connecter au Wi-Fi d'un h&#244;tel peut suffire &#224; exposer son compte Microsoft 365. La victime n'a m&#234;me pas besoin de cliquer sur un lien pi&#233;g&#233;, le r&#233;seau lui-m&#234;me fait le travail.
+</description>
+    </item>
+    <item>
+      <title>IPTV pirate : la France adopte le blocage automatique des matchs en direct, et &#231;a pose un vrai probl&#232;me</title>
+      <link>https://www.frandroid.com/services/svod/3198737_iptv-pirate-la-france-adopte-le-blocage-automatique-des-matchs-en-direct-et-ca-pose-un-vrai-probleme</link>
+      <pubDate>Thu, 30 Jul 2026 09:02:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3198737_iptv-pirate-la-france-adopte-le-blocage-automatique-des-matchs-en-direct-et-ca-pose-un-vrai-probleme</guid>
+      <description>
+Le Parlement a valid&#233; le 21 juillet un blocage automatique des flux IPTV pirates, en plein direct. Un dispositif redoutable sur le papier, mais qui inqui&#232;te pour une raison simple. On coupe d'abord et on v&#233;rifie ensuite.
+</description>
+    </item>
+    <item>
+      <title>Why your AI strategy has a trust problem and speed won't fix it</title>
+      <link>https://www.techradar.com/pro/why-your-ai-strategy-has-a-trust-problem-and-speed-wont-fix-it</link>
+      <pubDate>Thu, 30 Jul 2026 09:02:27 +0000</pubDate>
+      <guid isPermaLink="false">3SnUh6TsuZrP77CHFRghFg</guid>
+      <description>Faster AI alone won't build customer trust, sustainable adoption, or long-term business value.</description>
+    </item>
+    <item>
+      <title>I Got a Free Meal From a Private Chef&#8212;Who Filmed It All to Train Robots</title>
+      <link>https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/</link>
+      <pubDate>Thu, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a68f31c809ec7017dbc1e4e</guid>
+      <description>A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.</description>
+    </item>
+    <item>
+      <title>ChatGPT and Roblox will reportedly be subject to tighter rules in the EU</title>
+      <link>https://www.engadget.com/2226821/chatgpt-roblox-vlop-eu-scrutiny/</link>
+      <pubDate>Thu, 30 Jul 2026 08:59:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2226821/chatgpt-roblox-vlop-eu-scrutiny/</guid>
+      <description>Bloomberg says ChatGPT and Roblox will soon be added to the EU's 'very large online platform' list, which subjects them to stricter rules.</description>
+    </item>
+    <item>
+      <title>Garmin signe un trimestre record et d&#233;voile ses plans : Cirqa, Connect+ et Fenix 9 en approche</title>
+      <link>https://www.frandroid.com/produits-android/3198747_garmin-signe-un-trimestre-record-et-devoile-ses-plans-cirqa-connect-et-fenix-9-en-approche</link>
+      <pubDate>Thu, 30 Jul 2026 08:58:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3198747_garmin-signe-un-trimestre-record-et-devoile-ses-plans-cirqa-connect-et-fenix-9-en-approche</guid>
+      <description>
+Garmin a d&#233;voil&#233; des r&#233;sultats trimestriels record et profit&#233; de son appel aux investisseurs pour teaser ses prochains produits. Bracelet Cirqa, abonnement Connect+, montres outdoor en approche&#160;: voici ce qu'il faut retenir.
+</description>
+    </item>
+    <item>
+      <title>The best Apple deals of the week: Up to $500 off a MacBook Pro? Say less.</title>
+      <link>https://mashable.com/tech/july-30-best-apple-deals-this-week</link>
+      <pubDate>Thu, 30 Jul 2026 08:55:15 +0000</pubDate>
+      <guid isPermaLink="false">02JYzHPgfIVkqr1mph6TeuK</guid>
+      <description>The best Apple deals for the week of July 30, 2026 include a $500 discount on a MacBook Pro and $200 off an iPad Pro.</description>
+    </item>
+    <item>
+      <title>Context, not correlation, will define successful AI implementation</title>
+      <link>https://www.techradar.com/pro/context-not-correlation-will-define-successful-ai-implementation</link>
+      <pubDate>Thu, 30 Jul 2026 08:54:22 +0000</pubDate>
+      <guid isPermaLink="false">iHTgWevFckSUr3GqPVazK3</guid>
+      <description>Discover why context, trusted data and governance matter more than AI models alone.</description>
+    </item>
+    <item>
+      <title>Et si les meilleurs pilotes AMD pour Windows venaient de&#8230; Linux ? Le pari fou de Valve se montre d&#233;j&#224; sur CS2</title>
+      <link>https://www.frandroid.com/marques/valve/3198613_et-si-les-meilleurs-pilotes-amd-pour-windows-venaient-de-linux-le-pari-fou-de-valve-se-montre-deja-sur-cs2</link>
+      <pubDate>Thu, 30 Jul 2026 08:50:26 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/valve/3198613_et-si-les-meilleurs-pilotes-amd-pour-windows-venaient-de-linux-le-pari-fou-de-valve-se-montre-deja-sur-cs2</guid>
+      <description>
+Valve finance d&#233;sormais les efforts de Collabora dans le d&#233;veloppement de son pilote open source RADV Vulkan d&#233;di&#233; &#224; Windows. Un portage qui porte d'ores et d&#233;j&#224; ses fruits sur Counter-Strike 2.
+</description>
+    </item>
+    <item>
+      <title>La France menace d&#8217;interdire 31 nouveaux sites pornos</title>
+      <link>https://www.01net.com/actualites/la-france-menace-dinterdire-31-nouveaux-sites-pornos.html</link>
+      <pubDate>Thu, 30 Jul 2026 08:38:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1361697</guid>
+      <description>L'Arcom a plac&#233; dans son viseur 31 nouveaux sites pornographiques pour absence de v&#233;rification de l'&#226;ge. 13 de ces sites disposent de 48 heures pour se conformer &#224; la d&#233;cision, tandis que 13 autres, h&#233;berg&#233;s &#224; l&#8217;&#233;tranger, ont &#233;t&#233; plac&#233;s sous la surveillance europ&#233;enne.</description>
+    </item>
+    <item>
+      <title>Le kit solaire EcoFlow Stream Ultra X et ses 4 panneaux 500 W perd 150 &#8364; sur Amazon</title>
+      <link>https://www.frandroid.com/bons-plans/3198735_le-kit-solaire-ecoflow-stream-ultra-x-et-ses-4-panneaux-500-w-perd-150-e-sur-amazon</link>
+      <pubDate>Thu, 30 Jul 2026 08:35:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3198735_le-kit-solaire-ecoflow-stream-ultra-x-et-ses-4-panneaux-500-w-perd-150-e-sur-amazon</guid>
+      <description>
+L'EcoFlow Stream Ultra X, kit solaire complet avec batterie LFP de 3,84 kWh, onduleur int&#233;gr&#233; et 4 panneaux de 500 W, est disponible pour 1 799 euros au lieu de 1 949 euros sur Amazon. Une solution plug and play pens&#233;e pour l'autoconsommation, sans travaux d'installation.
+</description>
+    </item>
+    <item>
+      <title>Apr&#232;s les poign&#233;es affleurantes, la Chine s&#8217;attaque aux feux bleus des voitures autonomes</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3198579_apres-les-poignees-affleurantes-la-chine-sattaque-aux-feux-bleus-des-voitures-autonomes</link>
+      <pubDate>Thu, 30 Jul 2026 08:33:40 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3198579_apres-les-poignees-affleurantes-la-chine-sattaque-aux-feux-bleus-des-voitures-autonomes</guid>
+      <description>
+Apr&#232;s s&#8217;&#234;tre attaqu&#233; aux poign&#233;es affleurantes, le gouvernement chinois s&#8217;en prend d&#233;sormais aux lumi&#232;res bleues sur les voitures autonomes. P&#233;kin vient d&#8217;interdire cet &#233;l&#233;ment, qui ne sera pas conforme &#224; la r&#233;glementation.
+</description>
+    </item>
+    <item>
+      <title>French climate lawsuit over corporate emissions signals the next global legal&#160;fight</title>
+      <link>https://www.fastcompany.com/91581095/french-climate-lawsuit-corporate-emissions-next-global-legal-fight</link>
+      <pubDate>2026-07-30T08:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91581095/french-climate-lawsuit-corporate-emissions-next-global-legal-fight</guid>
+      <description>In addition to having repercussions in the U.S., the court&#8217;s ruling could add weight to lawsuits against companies in Belgium, Italy, and Switzerland.
+A recent decision by a French court requires a major European oil and gas company to report not only its own climate-warming emissions and those of its contractors but also those of its customers, who burn the oil and petroleum products the company sells....</description>
     </item>
   </channel>
 </rss>
