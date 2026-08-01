@@ -3,101 +3,80 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 01 Aug 2026 19:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:58:11 GMT</lastBuildDate>
+    <item>
+      <title>Judge denies xAI&#8217;s request to block Minnesota ban on &#8216;nudify&#8217; apps</title>
+      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
+      <pubDate>Sat, 01 Aug 2026 20:26:04 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
+      <description>Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to &#8220;nudify&#8221; images can move forward.</description>
+    </item>
+    <item>
+      <title>Angela Nissel faces down grief with a laugh</title>
+      <link>https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead</link>
+      <pubDate>2026-08-01T16:15:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=974226</guid>
+      <description>Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of [&#8230;]</description>
+    </item>
+    <item>
+      <title>iPhone 17 Pro Max &#224; 1 260 &#8364; : le prix le plus bas jamais vu sur ce mod&#232;le</title>
+      <link>https://www.frandroid.com/marques/apple/3201285_iphone-17-pro-max-a-1-260-e-le-prix-le-plus-bas-jamais-vu-sur-ce-modele</link>
+      <pubDate>Sat, 01 Aug 2026 20:02:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3201285_iphone-17-pro-max-a-1-260-e-le-prix-le-plus-bas-jamais-vu-sur-ce-modele</guid>
+      <description>
+L'iPhone 17 Pro Max 256 Go en coloris Bleu Intense est disponible pour 1 260 euros sur Joybuy. Un tarif particuli&#232;rement agressif pour le haut de gamme d'Apple, alors que les iPhone 18 se profilent avec des prix en hausse annonc&#233;e.
+</description>
+    </item>
+    <item>
+      <title>Envie d&#8217;un iPhone Pro sans attendre les 18 ? Amazon casse le prix du 17 Pro</title>
+      <link>https://www.frandroid.com/produits-android/3201283_envie-dun-iphone-pro-sans-attendre-les-18-amazon-casse-le-prix-du-17-pro</link>
+      <pubDate>Sat, 01 Aug 2026 19:58:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3201283_envie-dun-iphone-pro-sans-attendre-les-18-amazon-casse-le-prix-du-17-pro</guid>
+      <description>
+L'iPhone 17 Pro, smartphone haut de gamme compact d'Apple avec sa puce A19 Pro et son triple capteur 48 m&#233;gapixels, est disponible &#224; 1 129 euros au lieu de 1 329 euros sur Amazon. Une remise de 200 euros qui tombe &#224; pic avant l'arriv&#233;e probable des iPhone 18 en septembre.
+</description>
+    </item>
+    <item>
+      <title>YouTuber Hank Green says his AI usage is &#8216;not healthy&#8217;</title>
+      <link>https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/</link>
+      <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149017</guid>
+      <description>Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."</description>
+    </item>
+    <item>
+      <title>A cultural crime against humanity? AI firms are destroying ultra-rare books so nobody else can read them</title>
+      <link>https://www.techradar.com/pro/a-cultural-crime-against-humanity-ai-firms-are-destroying-ultra-rare-books-so-nobody-else-can-read-them</link>
+      <pubDate>Sat, 01 Aug 2026 19:45:00 +0000</pubDate>
+      <guid isPermaLink="false">fqxxZqn9fpfAnFxQzQbd8m</guid>
+      <description>AI firms buy and destroy rare pre-2022 books to create clean training data, concealing purchases through NDAs while courts approve the practice.</description>
+    </item>
+    <item>
+      <title>The Ultimate Guide to Apple Arcade</title>
+      <link>https://www.techradar.com/gaming/ultimate-guide-to-apple-arcade</link>
+      <pubDate>Sat, 01 Aug 2026 19:31:48 +0000</pubDate>
+      <guid isPermaLink="false">oQe9rxdaKmqtYGmxZE2KLG</guid>
+      <description>Our definitive guide to the Apple Arcade service with everything that you need to know.</description>
+    </item>
+    <item>
+      <title>Apple Arcade is packed with console-quality games, but you'll need a compatible controller to get the best from them. Here are my recommendations</title>
+      <link>https://www.techradar.com/collection/gaming/mobile-gaming/the-apple-arcade-controllers-ive-tested-and-recommend</link>
+      <pubDate>Sat, 01 Aug 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ThozMa8p4CpZrfY7gRmPp3</guid>
+      <description>These are the controllers I've been using to test Apple Arcade throughout the week.</description>
+    </item>
+    <item>
+      <title>Expert warns this dangerous Microsoft Word worm can burrow into Copilot and cause havoc &#8212; here's what we know</title>
+      <link>https://www.techradar.com/pro/security/expert-warns-this-dangerous-microsoft-word-worm-can-burrow-into-copilot-and-cause-havoc-heres-what-we-know</link>
+      <pubDate>Sat, 01 Aug 2026 19:20:00 +0000</pubDate>
+      <guid isPermaLink="false">R2UNGhXYXgyh4sP63s4pja</guid>
+      <description>Hidden white text in a Word document can make Copilot rewrite your figures and copy itself into the finished file.</description>
+    </item>
     <item>
       <title>What kind of iPhone gamer are you? Find out in our quiz and get some hand-picked Apple Arcade recommendations</title>
       <link>https://www.techradar.com/gaming/mobile-gaming/what-kind-of-iphone-gamer-are-you</link>
       <pubDate>Sat, 01 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">xXUy6Hv6vgR7xXTdLVRohV</guid>
       <description>Find out what kind of gamer you are, and get some bespoke Apple Arcade game recommendations, with our quiz.</description>
-    </item>
-    <item>
-      <title>Should you still buy your next smartphone &#8212; or subscribe to it instead?</title>
-      <link>https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/</link>
-      <pubDate>Sat, 01 Aug 2026 18:47:27 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149003</guid>
-      <description>Apple's new Upgrade program is the latest sign that smartphone ownership is changing.</description>
-    </item>
-    <item>
-      <title>I played all 279 Apple Arcade games &#8212; here are the eight best, from genius quick puzzlers to addictive life sims</title>
-      <link>https://www.techradar.com/gaming/the-best-apple-arcade-games</link>
-      <pubDate>Sat, 01 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">f3FqQnJJYFdUEUgsDBq98T</guid>
-      <description>The eight best Apple Arcade games right now.</description>
-    </item>
-    <item>
-      <title>What Is USB Tethering And How Do You Enable It For Mobile Hotspot?</title>
-      <link>https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/</link>
-      <pubDate>Sat, 01 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/</guid>
-      <description>There are times when a physical connection will perform better than a Wi-Fi hotspot. Here's when you want to use USB tethering, and how.</description>
-    </item>
-    <item>
-      <title>Is this Billboard Hot 100 hit AI slop?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop</link>
-      <pubDate>2026-08-01T14:20:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=974209</guid>
-      <description>Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Blank spaces could hold danger - Kaspersky report warns of the dangers of 'parked domains' and empty pages where hackers could be lurking</title>
-      <link>https://www.techradar.com/pro/security/blank-spaces-could-hold-danger-kaspersky-report-warns-of-the-dangers-of-parked-domains-and-empty-pages-where-hackers-could-be-lurking</link>
-      <pubDate>Sat, 01 Aug 2026 18:20:00 +0000</pubDate>
-      <guid isPermaLink="false">ie4yymrrmDLjXE6gxWMQED</guid>
-      <description>That "Domain for Sale" page you closed without reading may have fingerprinted your device on the way in.</description>
-    </item>
-    <item>
-      <title>Meta, TikTok, Snap and Google face wrongful death lawsuit from four US families</title>
-      <link>https://www.engadget.com/2228490/meta-tiktok-snap-google-wrongful-death-lawsuit-us/</link>
-      <pubDate>Sat, 01 Aug 2026 18:14:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2228490/meta-tiktok-snap-google-wrongful-death-lawsuit-us/</guid>
-      <description>The Social Media Victims Law Center accused the companies of creating addictive and dangerous platforms.</description>
-    </item>
-    <item>
-      <title>L&#8217;impact de la clim en bouchon, l&#8217;AdBlue chez les pompiers, le solaire sur les rails et Rebirth au bord du gouffre &#8211; le R&#233;cap&#8217; Survolt&#233;s de la semaine</title>
-      <link>https://www.frandroid.com/survoltes/3201097_limpact-de-la-clim-en-bouchon-ladblue-chez-les-pompiers-le-solaire-sur-les-rails-et-rebirth-au-bord-du-gouffre-le-recap-survoltes-de-la-semaine</link>
-      <pubDate>Sat, 01 Aug 2026 18:02:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3201097_limpact-de-la-clim-en-bouchon-ladblue-chez-les-pompiers-le-solaire-sur-les-rails-et-rebirth-au-bord-du-gouffre-le-recap-survoltes-de-la-semaine</guid>
-      <description>
-Cette semaine, on a mesur&#233; combien de temps une voiture &#233;lectrique tient vraiment dans un bouchon estival, d&#233;couvert pourquoi l'AdBlue peut immobiliser des camions de pompiers en pleine intervention, regard&#233; de pr&#232;s l'id&#233;e de la SNCF de poser des panneaux solaires entre les rails, et suivi le feuilleton Rebirth, le groupe derri&#232;re Solex et Cowboy, menac&#233; d'expulsion de son usine normande.
-...</description>
-    </item>
-    <item>
-      <title>After three weeks wearing the Meta Ray-Ban Scriber Optics I couldn't be more in love &#8212; I just wish smart glasses weren&#8217;t so controversial</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/after-three-weeks-wearing-the-meta-ray-ban-scriber-optics-i-couldnt-be-more-in-love-i-just-wish-smart-glasses-werent-so-controversial</link>
-      <pubDate>Sat, 01 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">5QrBQsaNmJH8RR4zaCD9AX</guid>
-      <description>Smart glasses need to get their act together &#8212; the Meta Ray-Ban Scriber Optics are my favorite tech of 2026 so far but I&#8217;m scared to wear them.</description>
-    </item>
-    <item>
-      <title>Apple Arcade is a joyful reminder of when mobile gaming was about fun, not emptying your wallet</title>
-      <link>https://www.techradar.com/gaming/mobile-gaming/apple-arcade-is-a-joyful-reminder-of-when-mobile-gaming-was-about-fun</link>
-      <pubDate>Sat, 01 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pGFrLZyz95XUqUSVngVGMP</guid>
-      <description>Browsing Apple Arcade feels like going back in time to the early App Store in the best possible way.</description>
-    </item>
-    <item>
-      <title>'A disk in a planet-scale computer': Meta has so many expensive GPUs that it's buying SSDs to kill idle time</title>
-      <link>https://www.techradar.com/pro/a-disk-in-a-planet-scale-computer-meta-has-so-many-expensive-gpus-that-its-buying-ssds-to-kill-idle-time</link>
-      <pubDate>Sat, 01 Aug 2026 17:35:00 +0000</pubDate>
-      <guid isPermaLink="false">TCxG85P6cKE2LjkeRKuv8H</guid>
-      <description>Meta redesigned its storage architecture with SSD caching and faster metadata access, dramatically reducing AI loading times while improving GPU utilisation.</description>
-    </item>
-    <item>
-      <title>How to create and delete stickers on your iPhone</title>
-      <link>https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/</link>
-      <pubDate>Sat, 01 Aug 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/</guid>
-      <description>iPhone stickers are a clever way to make conversations more personal and fun, but a good sticker library requires creating new and deleting old, overused ones.</description>
-    </item>
-    <item>
-      <title>Un &#233;cran PC gamer 27&#8243; rafra&#238;chi &#224; 240 Hz et propos&#233; &#224; moins de 140 &#8364; ? C&#8217;est possible, en voici la preuve</title>
-      <link>https://www.frandroid.com/bons-plans/3197869_un-ecran-pc-gamer-27-rafraichi-a-240-hz-et-propose-a-moins-de-140-e-cest-possible-en-voici-la-preuve</link>
-      <pubDate>Sat, 01 Aug 2026 17:28:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3197869_un-ecran-pc-gamer-27-rafraichi-a-240-hz-et-propose-a-moins-de-140-e-cest-possible-en-voici-la-preuve</guid>
-      <description>
-Pens&#233; pour les joueurs exigeants, l'&#233;cran PC gamer Iiyama G-Master Red Eagle mise sur une grande fluidit&#233; d'affichage et une bonne r&#233;activit&#233;. Il est en prime propos&#233; &#224; un prix contenu : Boulanger l'affiche en effet &#224; 139,95 euros au lieu de 159,99 euros.
-</description>
     </item>
   </channel>
 </rss>
