@@ -3,106 +3,128 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 02 Aug 2026 09:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:18:52 GMT</lastBuildDate>
+    <item>
+      <title>The James Webb Telescope Is Changing Astronomers&#8217; Understanding of the Ancient Cosmos</title>
+      <link>https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/</link>
+      <pubDate>Sun, 02 Aug 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a6a7cd140acee2ccd995428</guid>
+      <description>From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore&#8212;and theories to build out.</description>
+    </item>
+    <item>
+      <title>Is your home safe this summer? Security tech expert Chris Price shows how to expand a single camera into a budget-friendly home defence setup for when you're away on vacation</title>
+      <link>https://www.techradar.com/home/home-security/is-your-home-safe-this-summer-security-tech-expert-chris-price-shows-how-to-expand-a-single-camera-into-a-budget-friendly-home-defence-setup-for-when-youre-away-on-vacation</link>
+      <pubDate>Sun, 02 Aug 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ofsHuERoiLNXygRYF5Mkk9</guid>
+      <description>Sunscreen, beach towel... security camera? Make sure your home is properly protected and enjoy peace of mind when you're sipping cocktails on the beach.</description>
+    </item>
+    <item>
+      <title>Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips</title>
+      <link>https://www.wired.com/story/best-car-vacuums/</link>
+      <pubDate>Sun, 02 Aug 2026 10:35:00 +0000</pubDate>
+      <guid isPermaLink="false">6a6a6b7d41202f6513ad3832</guid>
+      <description>These portable vacuums make quick work of snack crumbs, tracked-in dirt, pet hair, and the mysterious debris beneath your seats.</description>
+    </item>
+    <item>
+      <title>There Are 2 Eclipses This August. Here&#8217;s How to See Them</title>
+      <link>https://www.wired.com/story/two-eclipses-august-how-to-see-them/</link>
+      <pubDate>Sun, 02 Aug 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a6cc80346e03cf1beb7ee30</guid>
+      <description>Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.</description>
+    </item>
+    <item>
+      <title>Malgr&#233; la crise et la concurrence, Tesla vient de franchir un record historique</title>
+      <link>https://www.01net.com/actualites/malgre-crise-concurrence-tesla-produit-10-millions-vehicules.html</link>
+      <pubDate>Sun, 02 Aug 2026 10:06:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1362109</guid>
+      <description>Tesla passe un cap historique, celui des 10 millions de v&#233;hicules produits. Ce n&#8217;&#233;tait pourtant pas gagn&#233; vu la situation de la marque ces derni&#232;res ann&#233;es. Combinez &#224; cela une concurrence qui s&#8217;est bigrement intensifi&#233;e, et vous prendrez la mesure de l&#8217;exploit.</description>
+    </item>
+    <item>
+      <title>UK tests robot boat that can fly its own wired drone even in 14ft waves and stay at sea for weeks</title>
+      <link>https://www.techradar.com/pro/uk-tests-robot-boat-that-can-fly-its-own-wired-drone-even-in-14ft-waves-and-stay-at-sea-for-weeks</link>
+      <pubDate>Sun, 02 Aug 2026 10:05:00 +0000</pubDate>
+      <guid isPermaLink="false">czjuqAYkVbr6H577nKi9RD</guid>
+      <description>The Royal Navy tested a robotic boat launching a tethered drone in rough seas, demonstrating autonomous maritime surveillance capabilities.</description>
+    </item>
+    <item>
+      <title>Ce malware utilise l&#8217;IA pour choisir les ordinateurs Windows qu&#8217;il va pirater</title>
+      <link>https://www.01net.com/actualites/malware-utilise-ia-choisir-ordinateurs-windows-pirater.html</link>
+      <pubDate>Sun, 02 Aug 2026 10:04:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1361210</guid>
+      <description>Un nouveau malware Windows truff&#233; de fonctions IA vient de faire surface dans le monde des cybercriminels. Ce logiciel malveillant est capable de classer automatiquement les victimes selon leur potentiel de rentabilit&#233;. Il permet ainsi aux pirates de mieux choisir leurs victimes.</description>
+    </item>
+    <item>
+      <title>The Best Kids&#8217; Backpacks for the 2026 School Year</title>
+      <link>https://www.wired.com/gallery/best-kids-backpacks-2026/</link>
+      <pubDate>Sun, 02 Aug 2026 10:01:00 +0000</pubDate>
+      <guid isPermaLink="false">6893965c364ab0784deb8926</guid>
+      <description>Your kid&#8217;s little lunch hauler takes a brutal beating every day. These are the backbacks our own kids have tried and loved.</description>
+    </item>
+    <item>
+      <title>Is It Possible to Make Smart Glasses That Aren&#8217;t Creepy?</title>
+      <link>https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/</link>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a6cc4f6646eaa7c6568216c</guid>
+      <description>As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder.</description>
+    </item>
     <item>
       <title>Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives</title>
       <link>https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/</link>
-      <pubDate>Sun, 02 Aug 2026 09:08:43 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">6a6b75f90d0030afd61c18e6</guid>
       <description>New EU rules stipulate that people must be told when they&#8217;re interacting with AI or looking at AI-generated or -edited content, leading to fear of &#8220;disclosure fatigue.&#8221;</description>
     </item>
     <item>
-      <title>La s&#233;lection des smartphones avec la meilleure autonomie en 2026 : notre comparatif complet</title>
-      <link>https://www.frandroid.com/guide-dachat/smartphones/346702_guide-dachat-smartphones-meilleure-autonomie-moment</link>
-      <pubDate>Sun, 02 Aug 2026 09:00:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/smartphones/346702_guide-dachat-smartphones-meilleure-autonomie-moment</guid>
+      <title>How to watch Naked and Afraid: Shipwrecked &#8211; stream survival show all-star spin-off</title>
+      <link>https://www.techradar.com/how-to-watch/tv-shows/naked-and-afraid-shipwrecked</link>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bYTi3UvgotiNdwsgE95Syg</guid>
+      <description>12 N&amp;A all-stars, dropped into the ocean in the dead of night must find a way to survive on a remote Philippine island. Here's how to watch Naked and Afraid: Shipwrecked online from anywhere.</description>
+    </item>
+    <item>
+      <title>'You can literally fix anything if you watch enough YouTube': I met with tech repair experts and campaigners to learn how to fix my broken gadgets &#8212; and why it's so important</title>
+      <link>https://www.techradar.com/audio/you-can-literally-fix-anything-if-you-watch-enough-youtube-i-met-with-tech-repair-experts-and-campaigners-to-learn-how-to-fix-my-broken-gadgets-and-why-its-so-important</link>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Pz5sRpynuPAkLtxRJv8ZPb</guid>
+      <description>Is fixing your tech easy? I spoke to green gadget companies, volunteer repairers and campaigners to understand your right to repair your possessions</description>
+    </item>
+    <item>
+      <title>Palantir earnings will test the real shape of enterprise AI</title>
+      <link>https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai</link>
+      <pubDate>2026-08-02T10:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai</guid>
+      <description>The company&#8217;s growth suggests enterprise AI is moving beyond pilot projects. It also raises a harder question about whether customers are buying software they can deploy, or infrastructure they can&#8217;t easily replace.
+Everyone has a statistic about enterprise AI. Depending on the survey you come across, 70% to 90% of projects never make it past the pilot stage. For the last two years, &#8220;pilot purgatory&#8221; has been enterprise AI&#8217;s defining narrative....</description>
+    </item>
+    <item>
+      <title>Survey says: Here are the Apple products readers still expect this year</title>
+      <link>https://mashable.com/tech/mashable-big-guessing-game-apple-round-2-answers</link>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">07k3HFherIqvht2FQqVg8iD</guid>
+      <description>The latest results of Mashable's Big Guessing Game, Apple edition, are in. See what our readers still expect Apple to release in 2026.</description>
+    </item>
+    <item>
+      <title>Feux de for&#234;t, GrapheneOS et SpaceX : les actus tech qui ont marqu&#233; la semaine</title>
+      <link>https://www.frandroid.com/actualites-generales/3199983_feux-de-foret-vie-privee-et-spacex-les-actus-tech-qui-ont-marque-la-semaine</link>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3199983_feux-de-foret-vie-privee-et-spacex-les-actus-tech-qui-ont-marque-la-semaine</guid>
       <description>
-L'endurance de la batterie est un crit&#232;re primordial lors de l'achat d'un smartphone. Pour vous aider &#224; choisir le smartphone avec la meilleure autonomie, nous avons test&#233; les mod&#232;les actuels et &#233;tabli une s&#233;lection pr&#233;cise. C'est parti !
+Le m&#233;ga-feu girondin a monopolis&#233; l'actualit&#233; tech cette semaine avec de nombreux enjeux tech autour de ce drame. Pendant ce temps, un Am&#233;ricain risque la prison pour avoir effac&#233; son propre t&#233;l&#233;phone, et l'entr&#233;e en Bourse record de SpaceX tourne au fiasco.
 </description>
     </item>
     <item>
-      <title>YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline</title>
-      <link>https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/</link>
-      <pubDate>Sun, 02 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a6cc5c0178eb66245519a2c</guid>
-      <description>AboFlah talks about his new goals, streaming for charity, and when it&#8217;s time to log off.</description>
+      <title>Google pulling Nano Banana from Google Earth after one day shows how bad our AI misinformation problem has got</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/google-pulling-nano-banana-from-google-earth-after-one-day-shows-how-bad-our-ai-misinformation-problem-has-got</link>
+      <pubDate>Sun, 02 Aug 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">MYK7tPgdE5rpUkazcGDaz8</guid>
+      <description>Google rolled out its AI image editing trickery to Google Earth on the web, but it didn't take long before it was misused.</description>
     </item>
     <item>
-      <title>ChatGPT n&#8217;&#233;crit plus &#224; la mani&#232;re de vos auteurs pr&#233;f&#233;r&#233;s</title>
-      <link>https://www.01net.com/actualites/chatgpt-necrit-plus-a-la-maniere-de-vos-auteurs-preferes.html</link>
-      <pubDate>Sun, 02 Aug 2026 08:58:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361610</guid>
-      <description>Demandez du Stephen King &#224; ChatGPT : il d&#233;cline poliment et propose &#171; une ambiance similaire &#187;. Une pudeur toute neuve pour une entreprise qui a englouti des biblioth&#232;ques enti&#232;res sans demander l'avis des int&#233;ress&#233;s.</description>
-    </item>
-    <item>
-      <title>As a human D&amp;D Dungeon Master, AI will never replace me &#8212; but I wanted to see whether ChatGPT or Gemini were getting close</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/as-a-human-d-and-d-dungeon-master-ai-will-never-replace-me-but-i-wanted-to-see-whether-chatgpt-or-gemini-were-getting-close</link>
-      <pubDate>Sun, 02 Aug 2026 08:45:00 +0000</pubDate>
-      <guid isPermaLink="false">kFPKN2ZuvGjKCCajg3FmpV</guid>
-      <description>I've been a Dungeons &amp; Dragons DM for 12 years &#8212; and I'm judging whether ChatGPT or Gemini is the better virtual Dungeon Master.</description>
-    </item>
-    <item>
-      <title>Wero : tout savoir sur la solution de paiement qui veut remplacer PayPal et Apple Pay en Europe</title>
-      <link>https://www.frandroid.com/services/banque-en-ligne/2972437_wero-tout-savoir-sur-le-service-de-paiement-instantane-a-la-conquete-de-leurope</link>
-      <pubDate>Sun, 02 Aug 2026 08:30:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/2972437_wero-tout-savoir-sur-le-service-de-paiement-instantane-a-la-conquete-de-leurope</guid>
-      <description>
-C'est un service relativement jeune encore, mais on le consid&#232;re comme le successeur de Paylib. Wero est une solution de paiement instantan&#233; mobile qui fait parler d'elle et qui s'invite aupr&#232;s de nombreuses banques en France et en Europe. Voici tout ce qu'il faut savoir &#224; son sujet.
-</description>
-    </item>
-    <item>
-      <title>Pixel 11 : coloris, zoom x30 et Gemini d&#233;voil&#233;s par une fuite avant l&#8217;annonce</title>
-      <link>https://www.frandroid.com/marques/google/3201191_pixel-11-coloris-zoom-x30-et-gemini-devoiles-par-une-fuite-avant-lannonce</link>
-      <pubDate>Sun, 02 Aug 2026 08:04:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3201191_pixel-11-coloris-zoom-x30-et-gemini-devoiles-par-une-fuite-avant-lannonce</guid>
-      <description>
-Le leaker Evleaks a mis en ligne les visuels marketing du futur Pixel 11 de Google. Coloris, zoom x30, Gemini&#160;: presque tout a fuit&#233; avant la pr&#233;sentation officielle du 12 ao&#251;t.
-</description>
-    </item>
-    <item>
-      <title>Pourquoi l&#8217;IA de Google Earth a &#233;t&#233; d&#233;sactiv&#233;e d&#8217;urgence</title>
-      <link>https://www.01net.com/actualites/pourquoi-lia-de-google-earth-a-ete-desactivee-durgence.html</link>
-      <pubDate>Sun, 02 Aug 2026 08:02:41 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1362126</guid>
-      <description>Google a eu la main lourde avec l'intelligence artificielle g&#233;n&#233;rative. &#192; peine int&#233;gr&#233; &#224; Google Earth, l'outil Nano Banana 2 a permis &#224; n'importe quel internaute de fabriquer de fausses images satellite susceptibles de propager des fake news. La fonctionnalit&#233; a rapidement &#233;chapp&#233; &#224; tout contr&#244;le. Face &#224; la pol&#233;mique, Google a fait marche arri&#232;re en moins de 24 heures, retirant l'outil le temps de renforcer ses garde-fous....</description>
-    </item>
-    <item>
-      <title>Half of adults admit they would publish work created mainly by AI and not say so &#8212; despite believing other people should do just that</title>
-      <link>https://www.techradar.com/pro/half-of-adults-admit-they-would-publish-work-created-mainly-by-ai-and-not-say-so-despite-believing-other-people-should-do-just-that</link>
-      <pubDate>Sun, 02 Aug 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Q4gcHsWessrSiiNQ3Pa6Ac</guid>
-      <description>Survey reveals people expect AI-created work to be labeled as such, but aren&#8217;t so keen on doing the labeling when they&#8217;ve worked on the prompt themselves.</description>
-    </item>
-    <item>
-      <title>5 ways AI could save our democracy</title>
-      <link>https://www.fastcompany.com/91578212/ai-could-save-democracy</link>
-      <pubDate>2026-08-02T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91578212/ai-could-save-democracy</guid>
-      <description>What if we treat democratic dysfunction the way we treat cancer or carbon emissions?
-Below, Beth Simone Noveck shares five key insights from her new book,&#160;Reboot: AI and the Race to Save Democracy.</description>
-    </item>
-    <item>
-      <title>Oubliez le riz&#160;: cette pochette aspire l&#8217;eau de votre smartphone noy&#233;</title>
-      <link>https://www.01net.com/actualites/oubliez-le-riz-cette-pochette-aspire-leau-de-votre-smartphone-noye.html</link>
-      <pubDate>Sun, 02 Aug 2026 07:30:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1361425</guid>
-      <description>Le sac de riz peut retourner &#224; la cuisine. UAG lance des pochettes r&#233;utilisables qui aspirent l'humidit&#233; des appareils noy&#233;s, du smartphone au PC portable. Comptez une trentaine d'euros pour tenter le sauvetage.</description>
-    </item>
-    <item>
-      <title>Moins de 550 &#8364; pour un TV Mini LED 144 Hz ? C&#8217;est le super deal du jour sign&#233; Hisense</title>
-      <link>https://www.frandroid.com/bons-plans/3199209_moins-de-550-e-pour-un-tv-mini-led-144-hz-cest-le-super-deal-du-jour-signe-hisense</link>
-      <pubDate>Sun, 02 Aug 2026 07:28:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3199209_moins-de-550-e-pour-un-tv-mini-led-144-hz-cest-le-super-deal-du-jour-signe-hisense</guid>
-      <description>
-Avec sa dalle Hi-QLED Mini LED rafra&#238;chie &#224; 144 Hz, ses multiples compatibilit&#233;s et ses fonctionnalit&#233;s gaming, le TV Hisense 55E8S a de quoi convaincre les cin&#233;philes et les joueurs exigeants. Et la bonne nouvelle, c'est que son prix passe de 699,99 euros &#224; 549,99 euros chez Carrefour, mais aussi chez &#201;lectro D&#233;p&#244;t. 
-</description>
-    </item>
-    <item>
-      <title>I found the Apple Watch feature every busy pro needs &#8212; and I use it every workout</title>
-      <link>https://www.techradar.com/pro/i-found-the-apple-watch-feature-every-busy-pro-needs-and-i-use-it-every-workout</link>
-      <pubDate>Sun, 02 Aug 2026 07:25:00 +0000</pubDate>
-      <guid isPermaLink="false">LD2tcbxaS9uZoyUcxFfszh</guid>
-      <description>By pairing an Apple Watch with AirPods Pro, I unlocked a quiet dual-sensor trick that gives busy professionals chest-strap health accuracy with zero extra setup.</description>
+      <title>I tested the top MacBook alternatives: See which Windows PCs actually beat Apple</title>
+      <link>https://mashable.com/tech/best-macbook-alternatives-tested</link>
+      <pubDate>Sun, 02 Aug 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">07i4ylOYY93X1vTLff34HqX</guid>
+      <description>Our top tested MacBook alternatives for 2026 include the Asus Zenbook A14, the Dell XPS 14, and the HP OmniBook Ultra 14.</description>
     </item>
   </channel>
 </rss>
