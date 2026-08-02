@@ -3,80 +3,94 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 02 Aug 2026 17:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:16:21 GMT</lastBuildDate>
     <item>
-      <title>I've spent a bunch of time with the SteelSeries Stratus+, and it&#8217;s OK on PC but struggles on Android</title>
-      <link>https://www.techradar.com/gaming/steelseries-stratus-plus-review</link>
-      <pubDate>Sun, 02 Aug 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8zrXHBkz6kY2YyUTTGJ3KA</guid>
-      <description>The SteelSeries Stratus+ is a hybrid wireless controller designed for mobile gaming and PC play. When heavily discounted, it's a passable budget PC pad, but a disappointing mobile controller at any price.</description>
+      <title>Xbox consoles are now much more expensive in the EU and UK</title>
+      <link>https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/</link>
+      <pubDate>Sun, 02 Aug 2026 19:04:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/</guid>
+      <description>The entry-level price for an Xbox now starts at 499.99&#8364;/&#163;429.99.</description>
     </item>
     <item>
-      <title>How to sideload Android APKs on your Chromebook</title>
-      <link>https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/</link>
-      <pubDate>Sun, 02 Aug 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/</guid>
-      <description>Chromebooks aren't limited to only apps you can get on the Play Store.</description>
+      <title>I've used the Dyson V15 Detect for two years, and although it's not perfect, I'd still recommend it over a Shark &#8212; here's why</title>
+      <link>https://www.techradar.com/home/vacuums/ive-used-the-dyson-v15-detect-for-two-years-and-although-its-not-perfect-id-still-recommend-it-over-a-shark-heres-why</link>
+      <pubDate>Sun, 02 Aug 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">yiscoutWqCwGmJXrySFL8U</guid>
+      <description>Want to know how Dyson's pricey dust-sucker fares with long-term use? Here's my two-year review.</description>
     </item>
     <item>
-      <title>Des lunes de Neptune seraient n&#233;es de catastrophes cosmiques !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/neptune-lunes-neptune-seraient-nees-catastrophes-cosmiques-136654/#xtor%3DRSS-8</link>
-      <pubDate>Sun, 02 Aug 2026 18:23:00 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/neptune-lunes-neptune-seraient-nees-catastrophes-cosmiques-136654/#xtor%3DRSS-8</guid>
-      <description>Certaines des caract&#233;ristiques du Syst&#232;me solaire, &#224; commencer par l'origine de la Lune, s'expliquent par des &#233;v&#233;nements et des sc&#233;narios violents. Que faut-il en penser dans le cas de certaines des lunes de Neptune depuis que le t&#233;lescope James-Webb a pris le relais de Hubble&#160;?</description>
+      <title>Stop graphing everything: When GraphRAG actually beats vector RAG</title>
+      <link>https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag</link>
+      <pubDate>Sun, 02 Aug 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">5ciWQzBxzafmTvDWn7LGjC</guid>
+      <description>If you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them, retrieve the top few that look similar to the question, and hand them to the model. For &#8220;What was our Q3 refund policy?&#8221; This works beautifully. For &#8220;What are the recurring themes across two years of customer complaints?&#8221; it falls flat &#8212; because no single chunk contains the answer.The fashionable fix is GraphRAG: Instead of feeding the model isolated snippets, you first build a knowledge graph of the entities and re...</description>
     </item>
     <item>
-      <title>Xbox prices are increasing by up to &#8364;200 or &#163;170</title>
-      <link>https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros</link>
-      <pubDate>2026-08-02T12:14:20-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=974253</guid>
-      <description>When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [&#8230;]</description>
+      <title>How long can you expect a PlayStation 5 to last?</title>
+      <link>https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/</link>
+      <pubDate>Sun, 02 Aug 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/</guid>
+      <description>And will Sony continue to support the PS5 once the PS6 is released?</description>
     </item>
     <item>
-      <title>TechCrunch Mobility: Two roads diverged &#8212; for robotaxis</title>
-      <link>https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/</link>
-      <pubDate>Sun, 02 Aug 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148962</guid>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
+      <title>Startup backed by the world's largest battery maker just launched a supercheap mini PC that competes with Nvidia's $5000 AI DGX Spark PC</title>
+      <link>https://www.techradar.com/pro/startup-backed-by-the-worlds-largest-battery-maker-just-launched-a-supercheap-mini-pc-that-competes-with-nvidias-usd5000-ai-dgx-spark-pc</link>
+      <pubDate>Sun, 02 Aug 2026 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">WBjiymoypxG6BVqXXhVuMF</guid>
+      <description>Acrab introduced Agent Box, a compact AI computer claiming powerful local language model performance, lower costs, efficient processing, and autonomous capabilities.</description>
     </item>
     <item>
-      <title>I nearly melted my laptop so you don&#8217;t have to &#8212; after testing cooling pads for chilling your laptop during a heatwave, I&#8217;ve got serious data to drop on the coolest and quietest products you can buy</title>
-      <link>https://www.techradar.com/computing/peripherals-accessories/i-nearly-melted-my-laptop-so-you-dont-have-to-after-testing-cooling-pads-for-chilling-your-laptop-during-a-heatwave-ive-got-serious-data-to-drop-on-the-coolest-and-quietest-products-you-can-buy</link>
-      <pubDate>Sun, 02 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">BmkZe6FfGRqkSqTKkuXCcE</guid>
-      <description>I&#8217;ve spent a week in a boiling hot lab so I can dish up hard science on the best cooling pad for chilling your laptop during a heatwave.</description>
+      <title>How to watch Leeds vs Liverpool for FREE: pre-season friendly live streams from anywhere</title>
+      <link>https://www.techradar.com/how-to-watch/football/leeds-vs-liverpool-free-streams</link>
+      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2umhkc5U2Kur6MDSbkdW3b</guid>
+      <description>Here's how to watch Leeds vs Liverpool live streams for free from anywhere in the world, as Andoni Iraola eyes three wins out of three on the Reds' US tour.</description>
     </item>
     <item>
-      <title>Xiaomi POCO X8 Pro Max vs Realme 16 Pro&#160;: comment choisir le meilleur smartphone&#160;?</title>
-      <link>https://www.frandroid.com/versus/3197641_xiaomi-poco-x8-pro-max-vs-realme-16-pro-comment-choisir-le-meilleur-smartphone</link>
-      <pubDate>Sun, 02 Aug 2026 15:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/versus/3197641_xiaomi-poco-x8-pro-max-vs-realme-16-pro-comment-choisir-le-meilleur-smartphone</guid>
+      <title>Samsung claims the Galaxy Z Fold 8's wider shape is &#8216;the new standard for viewing content&#8217; &#8212; but is it really better than the Z Fold 8 Ultra? I tested Netflix, YouTube, and Instagram on both phones to find out</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/samsung-claims-the-galaxy-z-fold-8s-wider-shape-is-the-new-standard-for-viewing-content-but-is-it-really-better-than-the-z-fold-8-ultra-i-tested-netflix-youtube-and-instagram-on-both-phones-to-find-out</link>
+      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">pfQaFq7LuH58sDRWXKfV28</guid>
+      <description>I compared the video-watching experience on the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra to find out which is best.</description>
+    </item>
+    <item>
+      <title>Nous avons test&#233; l&#8217;Oral-B iO Series 6 : la r&#233;f&#233;rence des brosses &#224; dents connect&#233;es</title>
+      <link>https://www.frandroid.com/actualites-generales/3191025_nous-avons-teste-loral-b-io-series-6-la-reference-des-brosses-a-dents-connectees</link>
+      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3191025_nous-avons-teste-loral-b-io-series-6-la-reference-des-brosses-a-dents-connectees</guid>
       <description>
-Le Xiaomi POCO X8 Pro Max s'est vite impos&#233; comme un coup de c&#339;ur sur le milieu de gamme au premier semestre. Plus r&#233;cent, le Realme 16 Pro peut-il renverser la table en sa faveur&#160;? D&#233;couvrons-le tout de suite dans ce nouveau comparatif&#160;!
+Apr&#232;s avoir test&#233; la Laifen Wave Pro, me voil&#224; &#233;quip&#233;e de l&#8217;Oral-B iO 6. Ce mod&#232;le haut de gamme promet de prendre soin de notre sant&#233; bucco-dentaire au quotidien. Alors, le cador du secteur fait-il mieux que le petit nouveau ? Voici mon retour d'exp&#233;rience.&#160;
 </description>
     </item>
     <item>
-      <title>Ugreen ne fait pas que des batteries : on trouve aussi des &#233;couteurs sans fil taill&#233;s pour le sport en promo &#224; moins de 30 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3200963_ugreen-ne-fait-pas-que-des-batteries-on-trouve-aussi-des-ecouteurs-sans-fil-tailles-pour-le-sport-en-promo-a-moins-de-30-e</link>
-      <pubDate>Sun, 02 Aug 2026 15:32:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3200963_ugreen-ne-fait-pas-que-des-batteries-on-trouve-aussi-des-ecouteurs-sans-fil-tailles-pour-le-sport-en-promo-a-moins-de-30-e</guid>
+      <title>Snapchat is the latest platform to turn against AI slop</title>
+      <link>https://mashable.com/life/snapchat-ai-slop-spotlight-videos</link>
+      <pubDate>Sun, 02 Aug 2026 17:42:58 +0000</pubDate>
+      <guid isPermaLink="false">02ofMiTg0ZmkfqrfIySZnsY</guid>
+      <description>Snapchat will stop recommending fully AI-generated Spotlight videos as more platforms crack down on low-quality AI content.</description>
+    </item>
+    <item>
+      <title>Here's where you want to be to see the 2026 solar eclipse</title>
+      <link>https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/</link>
+      <pubDate>Sun, 02 Aug 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/</guid>
+      <description>If you want the best view of the 2026 solar eclipse, you'll need to travel to Spain or Iceland.</description>
+    </item>
+    <item>
+      <title>Is Myspace coming back? Owners confirm relaunch plans</title>
+      <link>https://mashable.com/life/myspace-comeback-owners-relaunch-plans</link>
+      <pubDate>Sun, 02 Aug 2026 17:26:42 +0000</pubDate>
+      <guid isPermaLink="false">01ie8XzTAMY43iayKFOs7Gz</guid>
+      <description>Myspace owners Chris and Tim Vanderhook plan to relaunch the platform, but no launch date or product details are available.</description>
+    </item>
+    <item>
+      <title>Boulanger casse le prix de la Samsung Galaxy Tab S11 et offre en prime une paire de Galaxy Buds 4</title>
+      <link>https://www.frandroid.com/bons-plans/3200431_boulanger-casse-le-prix-de-la-samsung-galaxy-tab-s11-et-offre-en-prime-une-paire-de-galaxy-buds-4</link>
+      <pubDate>Sun, 02 Aug 2026 17:23:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3200431_boulanger-casse-le-prix-de-la-samsung-galaxy-tab-s11-et-offre-en-prime-une-paire-de-galaxy-buds-4</guid>
       <description>
-Les Ugreen FitBuds sont des &#233;couteurs sans fil en forme de crochets pens&#233;s pour les sportifs et auditeurs en qu&#234;te d'oreillettes l&#233;g&#232;res et confortables. Leur gros atout, c'est &#233;videmment leur prix : Amazon les propose &#224; 28,59 euros au lieu de 39,99 euros.
+Compacte, r&#233;sistante et proposant les fonctionnalit&#233;s Galaxy AI, la Samsung Galaxy Tab S11 est une tablette premium bien compl&#232;te. En ce moment, on la retrouve dans un pack, avec son clavier, affich&#233; &#224; 879 euros au lieu de 1 079,99 euros chez Boulanger. Et surprise, les r&#233;cents &#233;couteurs sans fil Samsung Galaxy Buds 4 sont offerts avec.
 </description>
-    </item>
-    <item>
-      <title>Which USB adapters should you actually keep in 2026?</title>
-      <link>https://www.engadget.com/2225779/which-usb-adapter-to-keep/</link>
-      <pubDate>Sun, 02 Aug 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2225779/which-usb-adapter-to-keep/</guid>
-      <description>As USB-C becomes the standard across most devices, it's time to go through that drawer full of USB adapters and toss those you no longer need.</description>
-    </item>
-    <item>
-      <title>These App Store hidden gems prove there&#8217;s still room for great software in the AI era</title>
-      <link>https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/</link>
-      <pubDate>Sun, 02 Aug 2026 15:23:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146922</guid>
-      <description>Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.</description>
     </item>
   </channel>
 </rss>
