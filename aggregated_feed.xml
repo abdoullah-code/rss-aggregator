@@ -3,7 +3,44 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 02 Aug 2026 19:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 20:59:50 GMT</lastBuildDate>
+    <item>
+      <title>Sam Altman and AI&#8217;s decel debate</title>
+      <link>https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/</link>
+      <pubDate>Sun, 02 Aug 2026 20:54:22 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149056</guid>
+      <description>On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."</description>
+    </item>
+    <item>
+      <title>Un mini PC capable de faire tourner de l&#8217;IA en local en promotion, c&#8217;est possible</title>
+      <link>https://www.frandroid.com/bons-plans/bons-plans-hardware/3201303_un-mini-pc-capable-de-faire-tourner-de-lia-en-local-pour-moins-de-2-100-e-cest-possible</link>
+      <pubDate>Sun, 02 Aug 2026 20:38:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/bons-plans-hardware/3201303_un-mini-pc-capable-de-faire-tourner-de-lia-en-local-pour-moins-de-2-100-e-cest-possible</guid>
+      <description>
+Le GMKtec EVO-X2 AI est l'un des mini PC les plus puissants du march&#233;, arm&#233; d'un AMD Ryzen AI Max+ 395 et de 64 Go de m&#233;moire unifi&#233;e. Il est actuellement propos&#233; &#224; 2 079 euros au lieu de 2 365,46 euros sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>US confirms it will leverage Ukraine's expertise in military drones before competing to 'be the world champions'</title>
+      <link>https://www.techradar.com/pro/us-confirms-that-it-will-leverage-ukraines-expertise-in-military-drones-before-competing-to-be-the-world-champions</link>
+      <pubDate>Sun, 02 Aug 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">7nnhAMKvWPwbK9Vmfnv7qc</guid>
+      <description>The Pentagon is adopting Ukrainian drone expertise while expanding domestic manufacturing to reduce America's significant production gap and strengthen capabilities.</description>
+    </item>
+    <item>
+      <title>Fender&#8217;s CEO seems to think your bandmates are just analog AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music</link>
+      <pubDate>2026-08-02T15:36:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=974265</guid>
+      <description>Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]</description>
+    </item>
+    <item>
+      <title>Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models</title>
+      <link>https://www.techradar.com/pro/palantir-debuts-war-data-center-in-a-container-full-of-nvidias-b300-ai-accelerators-and-open-weight-models</link>
+      <pubDate>Sun, 02 Aug 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">cwau8Rq79denHLBKtE8Gd5</guid>
+      <description>Palantir and Armada developed containerized AI data centers using Nvidia B300 accelerators, enabling battlefield processing without continuous cloud connectivity requirements.</description>
+    </item>
     <item>
       <title>Xbox consoles are now much more expensive in the EU and UK</title>
       <link>https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/</link>
@@ -17,80 +54,6 @@
       <pubDate>Sun, 02 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">yiscoutWqCwGmJXrySFL8U</guid>
       <description>Want to know how Dyson's pricey dust-sucker fares with long-term use? Here's my two-year review.</description>
-    </item>
-    <item>
-      <title>Stop graphing everything: When GraphRAG actually beats vector RAG</title>
-      <link>https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag</link>
-      <pubDate>Sun, 02 Aug 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5ciWQzBxzafmTvDWn7LGjC</guid>
-      <description>If you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them, retrieve the top few that look similar to the question, and hand them to the model. For &#8220;What was our Q3 refund policy?&#8221; This works beautifully. For &#8220;What are the recurring themes across two years of customer complaints?&#8221; it falls flat &#8212; because no single chunk contains the answer.The fashionable fix is GraphRAG: Instead of feeding the model isolated snippets, you first build a knowledge graph of the entities and re...</description>
-    </item>
-    <item>
-      <title>How long can you expect a PlayStation 5 to last?</title>
-      <link>https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/</link>
-      <pubDate>Sun, 02 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/</guid>
-      <description>And will Sony continue to support the PS5 once the PS6 is released?</description>
-    </item>
-    <item>
-      <title>Startup backed by the world's largest battery maker just launched a supercheap mini PC that competes with Nvidia's $5000 AI DGX Spark PC</title>
-      <link>https://www.techradar.com/pro/startup-backed-by-the-worlds-largest-battery-maker-just-launched-a-supercheap-mini-pc-that-competes-with-nvidias-usd5000-ai-dgx-spark-pc</link>
-      <pubDate>Sun, 02 Aug 2026 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">WBjiymoypxG6BVqXXhVuMF</guid>
-      <description>Acrab introduced Agent Box, a compact AI computer claiming powerful local language model performance, lower costs, efficient processing, and autonomous capabilities.</description>
-    </item>
-    <item>
-      <title>How to watch Leeds vs Liverpool for FREE: pre-season friendly live streams from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/football/leeds-vs-liverpool-free-streams</link>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2umhkc5U2Kur6MDSbkdW3b</guid>
-      <description>Here's how to watch Leeds vs Liverpool live streams for free from anywhere in the world, as Andoni Iraola eyes three wins out of three on the Reds' US tour.</description>
-    </item>
-    <item>
-      <title>Samsung claims the Galaxy Z Fold 8's wider shape is &#8216;the new standard for viewing content&#8217; &#8212; but is it really better than the Z Fold 8 Ultra? I tested Netflix, YouTube, and Instagram on both phones to find out</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/samsung-claims-the-galaxy-z-fold-8s-wider-shape-is-the-new-standard-for-viewing-content-but-is-it-really-better-than-the-z-fold-8-ultra-i-tested-netflix-youtube-and-instagram-on-both-phones-to-find-out</link>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pfQaFq7LuH58sDRWXKfV28</guid>
-      <description>I compared the video-watching experience on the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra to find out which is best.</description>
-    </item>
-    <item>
-      <title>Nous avons test&#233; l&#8217;Oral-B iO Series 6 : la r&#233;f&#233;rence des brosses &#224; dents connect&#233;es</title>
-      <link>https://www.frandroid.com/actualites-generales/3191025_nous-avons-teste-loral-b-io-series-6-la-reference-des-brosses-a-dents-connectees</link>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3191025_nous-avons-teste-loral-b-io-series-6-la-reference-des-brosses-a-dents-connectees</guid>
-      <description>
-Apr&#232;s avoir test&#233; la Laifen Wave Pro, me voil&#224; &#233;quip&#233;e de l&#8217;Oral-B iO 6. Ce mod&#232;le haut de gamme promet de prendre soin de notre sant&#233; bucco-dentaire au quotidien. Alors, le cador du secteur fait-il mieux que le petit nouveau ? Voici mon retour d'exp&#233;rience.&#160;
-</description>
-    </item>
-    <item>
-      <title>Snapchat is the latest platform to turn against AI slop</title>
-      <link>https://mashable.com/life/snapchat-ai-slop-spotlight-videos</link>
-      <pubDate>Sun, 02 Aug 2026 17:42:58 +0000</pubDate>
-      <guid isPermaLink="false">02ofMiTg0ZmkfqrfIySZnsY</guid>
-      <description>Snapchat will stop recommending fully AI-generated Spotlight videos as more platforms crack down on low-quality AI content.</description>
-    </item>
-    <item>
-      <title>Here's where you want to be to see the 2026 solar eclipse</title>
-      <link>https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/</link>
-      <pubDate>Sun, 02 Aug 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/</guid>
-      <description>If you want the best view of the 2026 solar eclipse, you'll need to travel to Spain or Iceland.</description>
-    </item>
-    <item>
-      <title>Is Myspace coming back? Owners confirm relaunch plans</title>
-      <link>https://mashable.com/life/myspace-comeback-owners-relaunch-plans</link>
-      <pubDate>Sun, 02 Aug 2026 17:26:42 +0000</pubDate>
-      <guid isPermaLink="false">01ie8XzTAMY43iayKFOs7Gz</guid>
-      <description>Myspace owners Chris and Tim Vanderhook plan to relaunch the platform, but no launch date or product details are available.</description>
-    </item>
-    <item>
-      <title>Boulanger casse le prix de la Samsung Galaxy Tab S11 et offre en prime une paire de Galaxy Buds 4</title>
-      <link>https://www.frandroid.com/bons-plans/3200431_boulanger-casse-le-prix-de-la-samsung-galaxy-tab-s11-et-offre-en-prime-une-paire-de-galaxy-buds-4</link>
-      <pubDate>Sun, 02 Aug 2026 17:23:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3200431_boulanger-casse-le-prix-de-la-samsung-galaxy-tab-s11-et-offre-en-prime-une-paire-de-galaxy-buds-4</guid>
-      <description>
-Compacte, r&#233;sistante et proposant les fonctionnalit&#233;s Galaxy AI, la Samsung Galaxy Tab S11 est une tablette premium bien compl&#232;te. En ce moment, on la retrouve dans un pack, avec son clavier, affich&#233; &#224; 879 euros au lieu de 1 079,99 euros chez Boulanger. Et surprise, les r&#233;cents &#233;couteurs sans fil Samsung Galaxy Buds 4 sont offerts avec.
-</description>
     </item>
   </channel>
 </rss>
