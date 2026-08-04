@@ -3,13 +3,148 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 04 Aug 2026 20:27:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:15:59 GMT</lastBuildDate>
+    <item>
+      <title>Telegram CEO says 'takedown extortionist' was responsible for the app being briefly delisted by Apple</title>
+      <link>https://www.engadget.com/2230482/telegram-ceo-says-takedown-extortionist-was-responsible-for-the-app-being-briefly-delisted-by-apple/</link>
+      <pubDate>Tue, 04 Aug 2026 22:08:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2230482/telegram-ceo-says-takedown-extortionist-was-responsible-for-the-app-being-briefly-delisted-by-apple/</guid>
+      <description>Pavel Durov claims there's "a potential systemic risk" for platforms with user-generated content.</description>
+    </item>
+    <item>
+      <title>The White House Is Keeping Its AI Cybersecurity Framework Secret</title>
+      <link>https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/</link>
+      <pubDate>Tue, 04 Aug 2026 22:06:07 +0000</pubDate>
+      <guid isPermaLink="false">6a713452f4ac0ca4079ed130</guid>
+      <description>The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.</description>
+    </item>
+    <item>
+      <title>Now you can securely link multiple phones to one Signal account</title>
+      <link>https://www.theverge.com/tech/975407/signal-linked-devices-sync</link>
+      <pubDate>2026-08-04T18:02:46-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=975407</guid>
+      <description>You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#8230;]</description>
+    </item>
+    <item>
+      <title>'Tools don't have independent values &#8212; their values are human values': Quote of the day by Stanford professor Fei-Fei Li on building ethical AI</title>
+      <link>https://www.techradar.com/pro/tools-dont-have-independent-values-their-values-are-human-values-quote-of-the-day-by-stanford-professor-fei-fei-li-on-building-ethical-ai</link>
+      <pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8yZUKJL96evEp7CwYMdnXo</guid>
+      <description>Developing AI as a tool means recognizing that its values are reflected in the values of those who build and deploy it</description>
+    </item>
+    <item>
+      <title>Steam survey shows GPUs with 16GB are now the most popular graphics cards &#8212; and that really doesn't bode well for gamers' wallets</title>
+      <link>https://www.techradar.com/computing/gpu/steam-survey-shows-gpus-with-16gb-are-now-the-most-popular-graphics-cards-and-that-really-doesnt-bode-well-for-gamers-wallets</link>
+      <pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4Z9PukvpFFhW6zGANzodpU</guid>
+      <description>With more GPU price hikes apparently inbound, gamers are going to struggle to get the VRAM they crave.</description>
+    </item>
+    <item>
+      <title>Perplexity has successfully overturned Amazon's injunction on its AI shopping bot</title>
+      <link>https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/</link>
+      <pubDate>Tue, 04 Aug 2026 21:58:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/</guid>
+      <description>Amazon's public fight with Perplexity over online shopping started in November 2025.</description>
+    </item>
+    <item>
+      <title>We just got our first real look at how small X's ad business is</title>
+      <link>https://www.engadget.com/2230464/we-just-got-our-first-real-look-at-how-small-x-ad-business-is/</link>
+      <pubDate>Tue, 04 Aug 2026 21:49:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2230464/we-just-got-our-first-real-look-at-how-small-x-ad-business-is/</guid>
+      <description>Advertisers seem to be spending a whole lot less than they used to on the platform.</description>
+    </item>
+    <item>
+      <title>SpaceX's first public earnings statement shows the financials of an AI company in 2026</title>
+      <link>https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/</link>
+      <pubDate>Tue, 04 Aug 2026 21:42:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/</guid>
+      <description>That's a lot of capital expenditure.</description>
+    </item>
+    <item>
+      <title>Beelink EQi Wildcat Lake review: Ultra-fast networking makes this mini PC a great office machine</title>
+      <link>https://www.techradar.com/pro/beelink-eqi-wildcat-lake-mini-pc-review</link>
+      <pubDate>Tue, 04 Aug 2026 21:10:00 +0000</pubDate>
+      <guid isPermaLink="false">VCgmPV3A93w3A52mckDbcV</guid>
+      <description>The Beelink EQi is a compact Windows 11 Pro mini PC aimed at those looking for an office machine with decent network connection and fast connectivity.</description>
+    </item>
+    <item>
+      <title>SpaceX has bought $329M worth of Tesla Megapacks so far this year</title>
+      <link>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</link>
+      <pubDate>Tue, 04 Aug 2026 21:07:26 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149877</guid>
+      <description>The purchase illustrates just how interconnected Elon Musk's universe of companies are.</description>
+    </item>
+    <item>
+      <title>SpaceX rocket set to crash into the moon at seven times the speed of sound &#8212; but the 5,400 mph impact is entirely expected, and might even prove useful for NASA</title>
+      <link>https://www.techradar.com/pro/spacex-rocket-set-to-crash-into-the-moon-at-seven-times-the-speed-of-sound-but-the-5-400-mph-impact-is-entirely-expected-and-might-even-prove-useful-for-nasa</link>
+      <pubDate>Tue, 04 Aug 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">7eQyPUf99BrSKE5P4qxMVP</guid>
+      <description>A dead SpaceX upper stage is set to hit the Moon at 5,400 mph. Nobody planned it; everybody saw it coming, and two orbiters will be watching.</description>
+    </item>
+    <item>
+      <title>CMF's first clip-style open earbuds are here with a tempting price tag and, thankfully, none of Nothing's flagship surveillance tech</title>
+      <link>https://www.techradar.com/audio/earbuds-airpods/cmfs-first-clip-style-open-earbuds-are-here-with-a-tempting-price-tag-and-thankfully-none-of-nothings-flagship-surveillance-tech</link>
+      <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Lp9RbK28MNMv2yipQovJZA</guid>
+      <description>If the Nothing sub-brand's inaugural clip-style open earbuds can ace the &#8216;three point fit&#8217; idea, I predict a class-leading set of LDAC-toting buds &#8212;especially for this crazy low price</description>
+    </item>
+    <item>
+      <title>AMD&amp;#8217;s datacenter business is booming while gaming takes a backseat</title>
+      <link>https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen</link>
+      <pubDate>2026-08-04T16:57:49-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=975381</guid>
+      <description>Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gaming revenue fell 31 [&#8230;]</description>
+    </item>
+    <item>
+      <title>SpaceX posts strong revenue in first earnings report since IPO</title>
+      <link>https://www.fastcompany.com/91585188/musk-spacex-tesla-earnings-merger</link>
+      <pubDate>2026-08-04T20:48:40</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91585188/musk-spacex-tesla-earnings-merger</guid>
+      <description>Revenue jumped to $7.8 billion, up more than 90% from the year-earlier period.
+SpaceX reported it lost more than half a billion dollars in its first quarterly report as a public company, but the loss was less than Wall Street expected and revenue soared.</description>
+    </item>
+    <item>
+      <title>SpaceX made more revenue as an AI company than a space company</title>
+      <link>https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud</link>
+      <pubDate>2026-08-04T16:47:55-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=975335</guid>
+      <description>SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]</description>
+    </item>
+    <item>
+      <title>Stripe CEO says his &#8216;urgency&#8217; to drop out of MIT &#8216;was a bit unnecessary&#8217;</title>
+      <link>https://www.fastcompany.com/91585037/stripe-ceo-says-his-urgency-to-drop-out-of-mit-was-a-bit-unnecessary</link>
+      <pubDate>2026-08-04T20:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91585037/stripe-ceo-says-his-urgency-to-drop-out-of-mit-was-a-bit-unnecessary</guid>
+      <description>&#8220;In hindsight, I think that was a poor intuition,&#8221; Patrick Collison said during a Y Combinator interview. &#8220;It&#8217;s been pretty robustly and reliably the case over many decades that Silicon Valley has a surfeit of opportunities.&#8221;
+Patrick Collison dropped out of MIT twice before going on to become the cofounder and CEO of Stripe. In an interview at Y Combinator&#8217;s Startup School, Collison imparted some of his wisdom to the Gen Z founders in the crowd, including the advice to not feel pressured to make the same choice he made....</description>
+    </item>
+    <item>
+      <title>SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth</title>
+      <link>https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/</link>
+      <pubDate>Tue, 04 Aug 2026 20:36:30 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149811</guid>
+      <description>SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.</description>
+    </item>
+    <item>
+      <title>Texas, yes Texas, puts limits on data centers</title>
+      <link>https://mashable.com/tech/greg-abbott-texas-data-center-audit</link>
+      <pubDate>Tue, 04 Aug 2026 20:36:06 +0000</pubDate>
+      <guid isPermaLink="false">05qrHLxhxfwcc5P0Bk5rerL</guid>
+      <description>Texas governor Greg Abbott announced new restrictions for new data center projects, requiring comprehensive state utility audits before they can proceed.</description>
+    </item>
+    <item>
+      <title>Whoop joins fellow premium screenless wearable company Oura in partnering with the Natural Cycles women's health tracking app</title>
+      <link>https://www.techradar.com/health-fitness/fitness-trackers/whoop-joins-fellow-premium-screenless-wearable-company-oura-in-partnering-with-the-natural-cycles-womens-health-tracking-app</link>
+      <pubDate>Tue, 04 Aug 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">Lr5X5ohTEDf4bSbxZF3doF</guid>
+      <description>Whoop is partnering with the women's health tracking app to sync the tracker's data with its insights</description>
+    </item>
     <item>
       <title>Android app developers may be unwittingly sharing their users&#8217; location data with advertisers</title>
       <link>https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/</link>
       <pubDate>Tue, 04 Aug 2026 20:26:53 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3149282</guid>
-      <description>Developers may not realize they are sharing their users' location data with advertisers, per new research.</description>
+      <description>New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.</description>
     </item>
     <item>
       <title>EA is now a private company</title>
@@ -17,181 +152,6 @@
       <pubDate>2026-08-04T16:18:14-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=974736</guid>
       <description>Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 [&#8230;]</description>
-    </item>
-    <item>
-      <title>Open-weight AI models are catching up to the frontier. The safety gap remains.</title>
-      <link>https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</link>
-      <pubDate>Tue, 04 Aug 2026 20:05:26 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149807</guid>
-      <description>A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.</description>
-    </item>
-    <item>
-      <title>Budget Meta Ray-Ban alternatives are selling out in stores &#8212; but please don&#8217;t buy them</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/budget-meta-ray-ban-alternatives-are-selling-out-in-stores-but-please-dont-buy-them</link>
-      <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">MG9tu5vbQgWJkqQSrP4tZK</guid>
-      <description>There are too many reasons you shouldn&#8217;t buy cheap Meta Ray-Ban alternatives.</description>
-    </item>
-    <item>
-      <title>Anthropic signs $10B deal with AI cloud startup Volta</title>
-      <link>https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/</link>
-      <pubDate>Tue, 04 Aug 2026 19:48:40 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149770</guid>
-      <description>Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.</description>
-    </item>
-    <item>
-      <title>Xbox's free 25th anniversary gifts include a dynamic theme and avatars</title>
-      <link>https://www.engadget.com/2230343/xboxs-free-25th-anniversary-gifts-include-a-dynamic-theme-and-avatars/</link>
-      <pubDate>Tue, 04 Aug 2026 19:47:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230343/xboxs-free-25th-anniversary-gifts-include-a-dynamic-theme-and-avatars/</guid>
-      <description>Xbox's free 25th anniversary gifts include a dynamic theme and avatars.</description>
-    </item>
-    <item>
-      <title>Amazon admits it accidentally shelled out $1.8 million for Claude to finish its menial coding tasks</title>
-      <link>https://www.techradar.com/pro/amazon-admits-it-accidentally-shelled-out-usd1-8-million-for-claude-to-finish-menial-coding-tasks</link>
-      <pubDate>Tue, 04 Aug 2026 19:35:00 +0000</pubDate>
-      <guid isPermaLink="false">pWh4rQqLc7azqcpNKRW4i9</guid>
-      <description>Amazon's Claude Sonnet deployment cost $1.8 million, 860% over budget, exposing broader AI spending issues despite the company's continued experimentation defense.</description>
-    </item>
-    <item>
-      <title>Meet Wrinkles, an app that uncovers the hidden stories of the places around you</title>
-      <link>https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/</link>
-      <pubDate>Tue, 04 Aug 2026 19:34:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149087</guid>
-      <description>Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.</description>
-    </item>
-    <item>
-      <title>Fin de panne rapide pour Netflix : les films et s&#233;ries sont &#224; nouveau accessibles</title>
-      <link>https://www.frandroid.com/services/svod/3203519_panne-netflix-de-nombreuses-personnes-nont-pas-acces-a-leurs-films-et-series</link>
-      <pubDate>Tue, 04 Aug 2026 19:30:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3203519_panne-netflix-de-nombreuses-personnes-nont-pas-acces-a-leurs-films-et-series</guid>
-      <description>
-Netflix &#233;tait en panne pendant quelques instants dans la soir&#233;e du 4 ao&#251;t, plusieurs utilisateurs ne pouvaient plus lancer leurs films et s&#233;ries.
-</description>
-    </item>
-    <item>
-      <title>Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress</title>
-      <link>https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/</link>
-      <pubDate>Tue, 04 Aug 2026 19:28:49 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149725</guid>
-      <description>The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.</description>
-    </item>
-    <item>
-      <title>Netflix rencontre une panne, des centaines de signalements en quelques minutes [MAJ]</title>
-      <link>https://www.01net.com/actualites/netflix-rencontre-une-panne-des-centaines-de-signalements-en-quelques-minutes.html</link>
-      <pubDate>Tue, 04 Aug 2026 19:28:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1362557</guid>
-      <description>Netflix rencontre des difficult&#233;s d'acc&#232;s depuis moins d'une heure. De nombreux signalements sont recens&#233;s sur Downdector et les r&#233;seaux sociaux, un peu partout dans le monde.</description>
-    </item>
-    <item>
-      <title>&#8216;A football playground built for you and your friends&#8217;: The Grounds in FC 27 is EA&#8217;s answer to NBA 2K&#8217;s The City &#8212; and it could be just what the franchise needs</title>
-      <link>https://www.techradar.com/gaming/a-football-playground-built-for-you-and-your-friends-the-grounds-in-fc-27-is-eas-answer-to-nba-2ks-the-city-and-it-could-be-just-what-the-franchise-needs</link>
-      <pubDate>Tue, 04 Aug 2026 19:21:55 +0000</pubDate>
-      <guid isPermaLink="false">n9NUztdaVxG3dmRR5WP2rU</guid>
-      <description>EA Sports has officially confirmed its new open-world mode, The Grounds, in FC 27.</description>
-    </item>
-    <item>
-      <title>DOJ extracts $3.2 million from OpenAI over hiring discrimination allegations</title>
-      <link>https://www.engadget.com/2230316/doj-extracts-dollar32-million-from-openai-over-hiring-discrimination-allegations/</link>
-      <pubDate>Tue, 04 Aug 2026 19:19:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230316/doj-extracts-dollar32-million-from-openai-over-hiring-discrimination-allegations/</guid>
-      <description>DOJ extracts $3.2 million from OpenAI over hiring discrimination allegations.</description>
-    </item>
-    <item>
-      <title>Panne Discord : impossible d&#8217;envoyer certains messages</title>
-      <link>https://www.frandroid.com/culture-tech/3203507_panne-discord-impossible-denvoyer-certains-messages</link>
-      <pubDate>Tue, 04 Aug 2026 19:16:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/3203507_panne-discord-impossible-denvoyer-certains-messages</guid>
-      <description>
-Discord le confirme : le service est actuellement en panne. Les messages priv&#233;s ne fonctionnent plus. 
-</description>
-    </item>
-    <item>
-      <title>Fanxiang PS2000W review: A solid portable SSD that's another victim of the rising memory prices</title>
-      <link>https://www.techradar.com/pro/fanxiang-ps2000w-portable-ssd-review</link>
-      <pubDate>Tue, 04 Aug 2026 19:15:00 +0000</pubDate>
-      <guid isPermaLink="false">7JDGRZqGRqs3WLNSBHTCti</guid>
-      <description>The Fanxiang PS2000W portable SSD offers up to 2000MB/s file transfers with a suitable USB port.</description>
-    </item>
-    <item>
-      <title>Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store</title>
-      <link>https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov</link>
-      <pubDate>2026-08-04T15:11:05-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=975300</guid>
-      <description>Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. "Apple removed Telegram from the App Store before contacting us," Durov says in a post on X. "This creates a potential systemic risk for [&#8230;]</description>
-    </item>
-    <item>
-      <title>Can MS Paint run Doom? (Yes)</title>
-      <link>https://www.engadget.com/2230268/can-ms-paint-run-doom-yes/</link>
-      <pubDate>Tue, 04 Aug 2026 18:51:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230268/can-ms-paint-run-doom-yes/</guid>
-      <description>Can MS Paint run Doom? (Yes)</description>
-    </item>
-    <item>
-      <title>OpenAI vs Apple text messages reveal something about Apple, but probably not what you&#8217;re thinking</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/openai-vs-apple-text-messages-reveal-something-about-apple-but-probably-not-what-youre-thinking</link>
-      <pubDate>Tue, 04 Aug 2026 18:45:34 +0000</pubDate>
-      <guid isPermaLink="false">KBt6utXDM9yeHbS5zbXMRn</guid>
-      <description>In the ongoing lawsuit between Apple and OpenAI, the ChatGPT parent just released messages and emails that paint a picture of something far more mundane than corporate espionage.</description>
-    </item>
-    <item>
-      <title>Why Capital One says it really closed more than 300 Trump accounts</title>
-      <link>https://www.fastcompany.com/91584925/why-capital-one-says-it-really-closed-more-than-300-trump-accounts</link>
-      <pubDate>2026-08-04T18:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91584925/why-capital-one-says-it-really-closed-more-than-300-trump-accounts</guid>
-      <description>A new court filing says months of anti-money laundering analysis&#8212;not political pressure&#8212;led to the closure of more than 300 accounts.
-Trump&#8217;s family organization saw hundreds of accounts closed after a major bank found it was moving money around in a suspicious way.</description>
-    </item>
-    <item>
-      <title>Influencers are being dragged for indulging in a luxury New York nature retreat on OpenAI&#8217;s dime</title>
-      <link>https://www.fastcompany.com/91584927/openai-chatgpt-brand-trip-influencers-dragged-for-indulging-in-luxury-new-york-nature-retreat</link>
-      <pubDate>2026-08-04T18:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91584927/openai-chatgpt-brand-trip-influencers-dragged-for-indulging-in-luxury-new-york-nature-retreat</guid>
-      <description>Nature retreats and pro-AI messaging simply don&#8217;t mix&#8212;and some attendees of OpenAI&#8217;s first-ever brand trip are learning that the hard way.
-When you think ChatGPT, do you think of lush forests, relaxing retreats, and community bonding? Probably not&#8212;but with its first-ever brand trip, OpenAI seemingly aimed to change that perception.</description>
-    </item>
-    <item>
-      <title>Apple caps bug bounty program due to deluge of AI submissions</title>
-      <link>https://www.engadget.com/2230256/apple-caps-bug-bounty-program-due-to-deluge-of-ai-submissions/</link>
-      <pubDate>Tue, 04 Aug 2026 18:43:40 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230256/apple-caps-bug-bounty-program-due-to-deluge-of-ai-submissions/</guid>
-      <description>Apple caps bug bounty program due to deluge of AI submissions.</description>
-    </item>
-    <item>
-      <title>NJ antitrust suit accuses Amazon of unlawfully wielding power over delivery contractors</title>
-      <link>https://www.engadget.com/2230253/nj-antitrust-suit-accuses-amazon-of-unlawfully-wielding-power-over-delivery-contractors/</link>
-      <pubDate>Tue, 04 Aug 2026 18:37:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230253/nj-antitrust-suit-accuses-amazon-of-unlawfully-wielding-power-over-delivery-contractors/</guid>
-      <description>NJ antitrust suit accuses Amazon of unlawfully wielding power over delivery contractors .</description>
-    </item>
-    <item>
-      <title>Get Mashable push notifications today</title>
-      <link>https://mashable.com/life/how-to-set-up-mashable-push-notifications</link>
-      <pubDate>Tue, 04 Aug 2026 18:33:41 +0000</pubDate>
-      <guid isPermaLink="false">04EFXA4zdnxXVfW5KHbJ60S</guid>
-      <description>Here&#8217;s how to turn on Mashable push notifications in Chrome, Firefox, Safari, and Edge.</description>
-    </item>
-    <item>
-      <title>Fender&#8217;s CEO compared cover bands to AI. Now he&#8217;s walking it back</title>
-      <link>https://www.fastcompany.com/91584253/fenders-ceo-compared-cover-bands-to-ai-now-hes-walking-it-back</link>
-      <pubDate>2026-08-04T18:33:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91584253/fenders-ceo-compared-cover-bands-to-ai-now-hes-walking-it-back</guid>
-      <description>The backlash shows how fraught the debate over artificial intelligence has become for musicians and fans alike.
-The CEO of the world&#8217;s biggest guitar brand has drawn the ire of musicians after comparing cover bands to chatbots, seemingly dismissing both as fundamentally uncreative. He now wants to set the record straight.&#160;</description>
-    </item>
-    <item>
-      <title>Don't use your car's USB ports to charge your laptop &#8212; Do this instead</title>
-      <link>https://www.engadget.com/2228918/dont-use-car-usb-ports-to-charge-laptop-do-this-instead/</link>
-      <pubDate>Tue, 04 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2228918/dont-use-car-usb-ports-to-charge-laptop-do-this-instead/</guid>
-      <description>The USB port in your car is likely not powerful enough to charge your laptop, but there are other options.</description>
-    </item>
-    <item>
-      <title>Un &#233;tage de fus&#233;e SpaceX va s&#8217;&#233;craser sur la Lune demain matin</title>
-      <link>https://www.01net.com/actualites/un-etage-de-fusee-spacex-va-secraser-sur-la-lune-ce-mercredi-matin.html</link>
-      <pubDate>Tue, 04 Aug 2026 18:28:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1362544</guid>
-      <description>Un &#233;tage de fus&#233;e Falcon 9, rest&#233; en orbite depuis un lancement lunaire en janvier 2025, doit s'&#233;craser sur la Lune ce mercredi 5 ao&#251;t vers 8h35, heure de Paris. L'impact, sans danger pour la Terre, doit permettre d'observer en direct la formation d'un crat&#232;re lunaire.</description>
     </item>
   </channel>
 </rss>
