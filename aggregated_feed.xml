@@ -3,155 +3,111 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 04 Aug 2026 22:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:07:36 GMT</lastBuildDate>
+    <item>
+      <title>Don&#8217;t screw this up, Marvel</title>
+      <link>https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday</link>
+      <pubDate>2026-08-04T19:20:56-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=975297</guid>
+      <description>In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a [&#8230;]</description>
+    </item>
+    <item>
+      <title>Watch out &#8212; Microsoft login pages are being abused as hackers try and lure in unlucky victims, here's what to look out for</title>
+      <link>https://www.techradar.com/pro/security/watch-out-microsoft-login-pages-are-being-abused-as-hackers-try-and-lure-in-unlucky-victims-heres-what-to-look-out-for</link>
+      <pubDate>Tue, 04 Aug 2026 23:15:00 +0000</pubDate>
+      <guid isPermaLink="false">Lu4b4UqXtFycpKHsTi3Xkh</guid>
+      <description>No passwords were stolen, and MFA never came into it; they walked away with access to mail, files, Teams, SharePoint, and calendars across around 120 organizations.</description>
+    </item>
+    <item>
+      <title>OK, Well, Rogue AI Agents Are Hacking Again</title>
+      <link>https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/</link>
+      <pubDate>Tue, 04 Aug 2026 23:11:31 +0000</pubDate>
+      <guid isPermaLink="false">6a72593a9008189a91ab2a85</guid>
+      <description>Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software&#8212;and leaving instructions for future bad behavior.</description>
+    </item>
+    <item>
+      <title>The 9 best e-readers weve ever tested</title>
+      <link>https://mashable.com/roundup/best-e-readers-2026-expert-tested</link>
+      <pubDate>Tue, 04 Aug 2026 23:00:37 +0000</pubDate>
+      <guid isPermaLink="false">06WovVm85HUg7WHtZ2S7Ujl</guid>
+      <description>See the best e-readers we've tested, with options from Kindle, Kobo, and the tablet world. Grab an e-reader and hit your reading goals.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Wednesday, August 5 (game #1654)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-5-august-2026</link>
+      <pubDate>Tue, 04 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">WLHzcMyyJ8DLu6uCKho4yS</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Wednesday, August 5 (game #1151)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-5-august-2026</link>
+      <pubDate>Tue, 04 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">puDuKny4pzCRxHAvuoJRtU</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Wednesday, August 5 (game #885)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-5-august-2026</link>
+      <pubDate>Tue, 04 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">CyjhNSXiqgg9VdG5u4jbuT</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>How to watch every Spider-Man movie for *FREE* &#8211; stream all 10 feature films from anywhere</title>
+      <link>https://www.techradar.com/how-to-watch/every-spider-man-movie-free</link>
+      <pubDate>Tue, 04 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gemnWeqLkZCYsdzW8NeMmf</guid>
+      <description>How to watch every Spider-Man movie for free from anywhere, from Tobey Maguire, Andrew Garfield and Tom Holland's Peter Parker to Shameik Moore's Miles Morales.</description>
+    </item>
+    <item>
+      <title>Texas governor orders audit of new data centers after realizing over 400 gigawatts of power is a lot</title>
+      <link>https://www.engadget.com/2230511/texas-governor-orders-audit-of-new-data-centers-after-realizing-over-400-gigawatts-of-power-is-a-lot/</link>
+      <pubDate>Tue, 04 Aug 2026 22:48:48 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2230511/texas-governor-orders-audit-of-new-data-centers-after-realizing-over-400-gigawatts-of-power-is-a-lot/</guid>
+      <description>The state already hosts more than 500 data centers.</description>
+    </item>
+    <item>
+      <title>Cybercrime is costing the world trillions every year - new report says victims lose an average of nearly $10,000 in every hit</title>
+      <link>https://www.techradar.com/pro/security/cybercrime-is-costing-the-world-trillions-every-year-new-report-says-victims-lose-an-average-of-nearly-usd10-000-in-every-hit</link>
+      <pubDate>Tue, 04 Aug 2026 22:35:00 +0000</pubDate>
+      <guid isPermaLink="false">3Sr9bYgxviKgxk7JhGdFPP</guid>
+      <description>An increasingly expensive situation at a global scale</description>
+    </item>
+    <item>
+      <title>Elon Musk repeatedly one-upped his execs on SpaceX&#8217;s first earnings call</title>
+      <link>https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/</link>
+      <pubDate>Tue, 04 Aug 2026 22:30:58 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149906</guid>
+      <description>Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.</description>
+    </item>
+    <item>
+      <title>Lucid&#8217;s turnaround plan hinges on $1.4B in cash savings, robotaxis</title>
+      <link>https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/</link>
+      <pubDate>Tue, 04 Aug 2026 22:24:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149894</guid>
+      <description>Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.</description>
+    </item>
+    <item>
+      <title>How to get the best hotel deals for TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/</link>
+      <pubDate>Tue, 04 Aug 2026 22:18:30 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149899</guid>
+      <description>We&#8217;ve&#160;partnered with hotels around Moscone West&#160;during&#160;Disrupt, taking place&#160;October 13 to 15,&#160;to&#160;secure&#160;the best&#160;prices available for attendees.</description>
+    </item>
+    <item>
+      <title>The Saudi-led $55 billion takeover of EA has closed</title>
+      <link>https://www.engadget.com/2230492/the-saudi-led-55-billion-takeover-of-ea-has-closed/</link>
+      <pubDate>Tue, 04 Aug 2026 22:17:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2230492/the-saudi-led-55-billion-takeover-of-ea-has-closed/</guid>
+      <description>Electronic Arts is once again a privately held company, but it's saddled with $20 billion in new debt.</description>
+    </item>
     <item>
       <title>Telegram CEO says 'takedown extortionist' was responsible for the app being briefly delisted by Apple</title>
       <link>https://www.engadget.com/2230482/telegram-ceo-says-takedown-extortionist-was-responsible-for-the-app-being-briefly-delisted-by-apple/</link>
       <pubDate>Tue, 04 Aug 2026 22:08:11 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2230482/telegram-ceo-says-takedown-extortionist-was-responsible-for-the-app-being-briefly-delisted-by-apple/</guid>
       <description>Pavel Durov claims there's "a potential systemic risk" for platforms with user-generated content.</description>
-    </item>
-    <item>
-      <title>The White House Is Keeping Its AI Cybersecurity Framework Secret</title>
-      <link>https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/</link>
-      <pubDate>Tue, 04 Aug 2026 22:06:07 +0000</pubDate>
-      <guid isPermaLink="false">6a713452f4ac0ca4079ed130</guid>
-      <description>The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.</description>
-    </item>
-    <item>
-      <title>Now you can securely link multiple phones to one Signal account</title>
-      <link>https://www.theverge.com/tech/975407/signal-linked-devices-sync</link>
-      <pubDate>2026-08-04T18:02:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=975407</guid>
-      <description>You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#8230;]</description>
-    </item>
-    <item>
-      <title>'Tools don't have independent values &#8212; their values are human values': Quote of the day by Stanford professor Fei-Fei Li on building ethical AI</title>
-      <link>https://www.techradar.com/pro/tools-dont-have-independent-values-their-values-are-human-values-quote-of-the-day-by-stanford-professor-fei-fei-li-on-building-ethical-ai</link>
-      <pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8yZUKJL96evEp7CwYMdnXo</guid>
-      <description>Developing AI as a tool means recognizing that its values are reflected in the values of those who build and deploy it</description>
-    </item>
-    <item>
-      <title>Steam survey shows GPUs with 16GB are now the most popular graphics cards &#8212; and that really doesn't bode well for gamers' wallets</title>
-      <link>https://www.techradar.com/computing/gpu/steam-survey-shows-gpus-with-16gb-are-now-the-most-popular-graphics-cards-and-that-really-doesnt-bode-well-for-gamers-wallets</link>
-      <pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4Z9PukvpFFhW6zGANzodpU</guid>
-      <description>With more GPU price hikes apparently inbound, gamers are going to struggle to get the VRAM they crave.</description>
-    </item>
-    <item>
-      <title>Perplexity has successfully overturned Amazon's injunction on its AI shopping bot</title>
-      <link>https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/</link>
-      <pubDate>Tue, 04 Aug 2026 21:58:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/</guid>
-      <description>Amazon's public fight with Perplexity over online shopping started in November 2025.</description>
-    </item>
-    <item>
-      <title>We just got our first real look at how small X's ad business is</title>
-      <link>https://www.engadget.com/2230464/we-just-got-our-first-real-look-at-how-small-x-ad-business-is/</link>
-      <pubDate>Tue, 04 Aug 2026 21:49:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230464/we-just-got-our-first-real-look-at-how-small-x-ad-business-is/</guid>
-      <description>Advertisers seem to be spending a whole lot less than they used to on the platform.</description>
-    </item>
-    <item>
-      <title>SpaceX's first public earnings statement shows the financials of an AI company in 2026</title>
-      <link>https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/</link>
-      <pubDate>Tue, 04 Aug 2026 21:42:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/</guid>
-      <description>That's a lot of capital expenditure.</description>
-    </item>
-    <item>
-      <title>Beelink EQi Wildcat Lake review: Ultra-fast networking makes this mini PC a great office machine</title>
-      <link>https://www.techradar.com/pro/beelink-eqi-wildcat-lake-mini-pc-review</link>
-      <pubDate>Tue, 04 Aug 2026 21:10:00 +0000</pubDate>
-      <guid isPermaLink="false">VCgmPV3A93w3A52mckDbcV</guid>
-      <description>The Beelink EQi is a compact Windows 11 Pro mini PC aimed at those looking for an office machine with decent network connection and fast connectivity.</description>
-    </item>
-    <item>
-      <title>SpaceX has bought $329M worth of Tesla Megapacks so far this year</title>
-      <link>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</link>
-      <pubDate>Tue, 04 Aug 2026 21:07:26 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149877</guid>
-      <description>The purchase illustrates just how interconnected Elon Musk's universe of companies are.</description>
-    </item>
-    <item>
-      <title>SpaceX rocket set to crash into the moon at seven times the speed of sound &#8212; but the 5,400 mph impact is entirely expected, and might even prove useful for NASA</title>
-      <link>https://www.techradar.com/pro/spacex-rocket-set-to-crash-into-the-moon-at-seven-times-the-speed-of-sound-but-the-5-400-mph-impact-is-entirely-expected-and-might-even-prove-useful-for-nasa</link>
-      <pubDate>Tue, 04 Aug 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">7eQyPUf99BrSKE5P4qxMVP</guid>
-      <description>A dead SpaceX upper stage is set to hit the Moon at 5,400 mph. Nobody planned it; everybody saw it coming, and two orbiters will be watching.</description>
-    </item>
-    <item>
-      <title>CMF's first clip-style open earbuds are here with a tempting price tag and, thankfully, none of Nothing's flagship surveillance tech</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/cmfs-first-clip-style-open-earbuds-are-here-with-a-tempting-price-tag-and-thankfully-none-of-nothings-flagship-surveillance-tech</link>
-      <pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Lp9RbK28MNMv2yipQovJZA</guid>
-      <description>If the Nothing sub-brand's inaugural clip-style open earbuds can ace the &#8216;three point fit&#8217; idea, I predict a class-leading set of LDAC-toting buds &#8212;especially for this crazy low price</description>
-    </item>
-    <item>
-      <title>AMD&amp;#8217;s datacenter business is booming while gaming takes a backseat</title>
-      <link>https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen</link>
-      <pubDate>2026-08-04T16:57:49-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=975381</guid>
-      <description>Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gaming revenue fell 31 [&#8230;]</description>
-    </item>
-    <item>
-      <title>SpaceX posts strong revenue in first earnings report since IPO</title>
-      <link>https://www.fastcompany.com/91585188/musk-spacex-tesla-earnings-merger</link>
-      <pubDate>2026-08-04T20:48:40</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91585188/musk-spacex-tesla-earnings-merger</guid>
-      <description>Revenue jumped to $7.8 billion, up more than 90% from the year-earlier period.
-SpaceX reported it lost more than half a billion dollars in its first quarterly report as a public company, but the loss was less than Wall Street expected and revenue soared.</description>
-    </item>
-    <item>
-      <title>SpaceX made more revenue as an AI company than a space company</title>
-      <link>https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud</link>
-      <pubDate>2026-08-04T16:47:55-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=975335</guid>
-      <description>SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]</description>
-    </item>
-    <item>
-      <title>Stripe CEO says his &#8216;urgency&#8217; to drop out of MIT &#8216;was a bit unnecessary&#8217;</title>
-      <link>https://www.fastcompany.com/91585037/stripe-ceo-says-his-urgency-to-drop-out-of-mit-was-a-bit-unnecessary</link>
-      <pubDate>2026-08-04T20:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91585037/stripe-ceo-says-his-urgency-to-drop-out-of-mit-was-a-bit-unnecessary</guid>
-      <description>&#8220;In hindsight, I think that was a poor intuition,&#8221; Patrick Collison said during a Y Combinator interview. &#8220;It&#8217;s been pretty robustly and reliably the case over many decades that Silicon Valley has a surfeit of opportunities.&#8221;
-Patrick Collison dropped out of MIT twice before going on to become the cofounder and CEO of Stripe. In an interview at Y Combinator&#8217;s Startup School, Collison imparted some of his wisdom to the Gen Z founders in the crowd, including the advice to not feel pressured to make the same choice he made....</description>
-    </item>
-    <item>
-      <title>SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth</title>
-      <link>https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/</link>
-      <pubDate>Tue, 04 Aug 2026 20:36:30 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149811</guid>
-      <description>SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.</description>
-    </item>
-    <item>
-      <title>Texas, yes Texas, puts limits on data centers</title>
-      <link>https://mashable.com/tech/greg-abbott-texas-data-center-audit</link>
-      <pubDate>Tue, 04 Aug 2026 20:36:06 +0000</pubDate>
-      <guid isPermaLink="false">05qrHLxhxfwcc5P0Bk5rerL</guid>
-      <description>Texas governor Greg Abbott announced new restrictions for new data center projects, requiring comprehensive state utility audits before they can proceed.</description>
-    </item>
-    <item>
-      <title>Whoop joins fellow premium screenless wearable company Oura in partnering with the Natural Cycles women's health tracking app</title>
-      <link>https://www.techradar.com/health-fitness/fitness-trackers/whoop-joins-fellow-premium-screenless-wearable-company-oura-in-partnering-with-the-natural-cycles-womens-health-tracking-app</link>
-      <pubDate>Tue, 04 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">Lr5X5ohTEDf4bSbxZF3doF</guid>
-      <description>Whoop is partnering with the women's health tracking app to sync the tracker's data with its insights</description>
-    </item>
-    <item>
-      <title>Android app developers may be unwittingly sharing their users&#8217; location data with advertisers</title>
-      <link>https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/</link>
-      <pubDate>Tue, 04 Aug 2026 20:26:53 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149282</guid>
-      <description>New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.</description>
-    </item>
-    <item>
-      <title>EA is now a private company</title>
-      <link>https://www.theverge.com/games/974736/ea-private-company-deal-closed</link>
-      <pubDate>2026-08-04T16:18:14-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=974736</guid>
-      <description>Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 [&#8230;]</description>
     </item>
   </channel>
 </rss>
