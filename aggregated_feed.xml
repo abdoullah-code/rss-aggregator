@@ -3,7 +3,35 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 07 Aug 2026 21:42:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:39:56 GMT</lastBuildDate>
+    <item>
+      <title>The gaming site sponsored by Walmart lays off its editorial staff</title>
+      <link>https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs</link>
+      <pubDate>2026-08-07T18:05:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=977056</guid>
+      <description>Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its "entire editorial team," according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Quote of the day by US President Dwight D Eisenhower: 'Public policy could itself become the captive of a scientific-technological elite' &#8212; foreshadowing Silicon Valley's global domination</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-us-president-dwight-d-eisenhower-public-policy-could-itself-become-the-captive-of-a-scientific-technological-elite-foreshadowing-silicon-valleys-global-domination</link>
+      <pubDate>Fri, 07 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">XXsJXpNNooS5Uar3QVLg6C</guid>
+      <description>The internet boom gave rise to a cabal of technology companies that have grown to dominate how much of the world runs</description>
+    </item>
+    <item>
+      <title>I've rounded up the best Samsung Galaxy Z Fold 8 cases to keep your passport-shaped foldable safe from scrapes and drops</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/ive-rounded-up-the-best-samsung-galaxy-z-fold-8-cases-to-keep-your-passport-shaped-foldable-safe-from-scrapes-and-drops</link>
+      <pubDate>Fri, 07 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RsKcgMcVRdgzPqKfMAYqj5</guid>
+      <description>Stylish and functional cases to keep your new foldable phone looking good as new.</description>
+    </item>
+    <item>
+      <title>Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks</title>
+      <link>https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks</link>
+      <pubDate>Fri, 07 Aug 2026 21:45:39 GMT</pubDate>
+      <guid isPermaLink="false">5L7g4QdH9FdpIEisb0Ghl1</guid>
+      <description>As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are not designed for agents to coordinate among themselves mid-task and in real time.To solve this, researchers at Coral AI Labs and multiple universities introduced AgentRadio, an asynchronous message-passing layer that allows agents to communicate between their execution steps without interrupting the...</description>
+    </item>
     <item>
       <title>After Rippling blew millions on AI in months, it built an employee ROI tool</title>
       <link>https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/</link>
@@ -53,27 +81,6 @@
       <guid isPermaLink="false">https://www.fastcompany.com/91587387/the-fight-over-trumps-white-house-ballroom-just-took-a-dramatic-turn</guid>
       <description>A federal appeals court halted construction while the administration prepares its next legal move
 Trump&#8217;s controversial plan to build an enormous ballroom adjacent to &#8211; and larger than &#8211; the White House just ground to a halt.</description>
-    </item>
-    <item>
-      <title>Our top-rated business PC is a multitasking powerhouse &#8212; save $530 on the Dell Tower Plus with Core Ultra 7</title>
-      <link>https://www.techradar.com/pro/dell-tower-plus-desktop-ebt2250-deal</link>
-      <pubDate>Fri, 07 Aug 2026 20:35:43 +0000</pubDate>
-      <guid isPermaLink="false">rJCwvo6BVnpd3HrzuKZGzj</guid>
-      <description>Our top-rated desktop computer for professionals comes with Intel Core Ultra 7 265, Nvidia RTX 5060 Ti, 32GB DDR5 RAM, and a 1TB NVMe SSD.</description>
-    </item>
-    <item>
-      <title>Hivemind AI software carries out first on-water 'swarming test' in Taiwan mission</title>
-      <link>https://www.techradar.com/pro/hivemind-ai-software-carries-out-first-on-water-swarming-test-in-taiwan-mission</link>
-      <pubDate>Fri, 07 Aug 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">HAH8VT3EaEQYq6qx5jK8SS</guid>
-      <description>Hivemind autonomously directed Thunder Tiger drone boats through Taiwan's first coordinated maritime swarming exercise, expanding autonomous defence capabilities at sea.</description>
-    </item>
-    <item>
-      <title>Fenix Flexin isn&#8217;t even denying using AI to make &#8216;Rubberz&#8217; anymore</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo</link>
-      <pubDate>2026-08-07T16:01:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=976801</guid>
-      <description>It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]</description>
     </item>
   </channel>
 </rss>
