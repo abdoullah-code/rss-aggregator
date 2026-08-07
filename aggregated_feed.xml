@@ -3,7 +3,56 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 07 Aug 2026 19:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:45:35 GMT</lastBuildDate>
+    <item>
+      <title>Our top-rated business PC is a multitasking powerhouse &#8212; save $530 on the Dell Tower Plus with Core Ultra 7</title>
+      <link>https://www.techradar.com/pro/dell-tower-plus-desktop-ebt2250-deal</link>
+      <pubDate>Fri, 07 Aug 2026 20:35:43 +0000</pubDate>
+      <guid isPermaLink="false">rJCwvo6BVnpd3HrzuKZGzj</guid>
+      <description>Our top-rated desktop computer for professionals comes with Intel Core Ultra 7 265, Nvidia RTX 5060 Ti, 32GB DDR5 RAM, and a 1TB NVMe SSD.</description>
+    </item>
+    <item>
+      <title>Hivemind AI software carries out first on-water 'swarming test' in Taiwan mission</title>
+      <link>https://www.techradar.com/pro/hivemind-ai-software-carries-out-first-on-water-swarming-test-in-taiwan-mission</link>
+      <pubDate>Fri, 07 Aug 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">HAH8VT3EaEQYq6qx5jK8SS</guid>
+      <description>Hivemind autonomously directed Thunder Tiger drone boats through Taiwan's first coordinated maritime swarming exercise, expanding autonomous defence capabilities at sea.</description>
+    </item>
+    <item>
+      <title>Fenix Flexin isn&#8217;t even denying using AI to make &#8216;Rubberz&#8217; anymore</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo</link>
+      <pubDate>2026-08-07T16:01:51-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=976801</guid>
+      <description>It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]</description>
+    </item>
+    <item>
+      <title>We called the GMKtec K8 Plus an 'understated mini PC that delivers far more power than you'd expect for the price' &#8212; and now it's $130 off</title>
+      <link>https://www.techradar.com/pro/gmktec-k8-plus-mini-pc-deal</link>
+      <pubDate>Fri, 07 Aug 2026 19:38:06 +0000</pubDate>
+      <guid isPermaLink="false">nbiuPBcA7Rw3k8N6E2uNQJ</guid>
+      <description>This GMKtec mini PC with Ryzen 7 chip and 32GB DDR5 proved to be a great all rounder for office tasks, creative workloads, and even gaming in our tests.</description>
+    </item>
+    <item>
+      <title>The next age of LLMs? Dev gets a small LLM running at 10 tokens a second locally on a $10 microcontroller</title>
+      <link>https://www.techradar.com/pro/the-next-age-of-llms-dev-gets-a-small-llm-running-at-10-tokens-a-second-locally-on-a-usd10-microcontroller</link>
+      <pubDate>Fri, 07 Aug 2026 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">Xo2aPQ7Jf3A7ZzdEp37HUN</guid>
+      <description>A 28.9M-parameter model runs on a microcontroller costing less than $10 at 9.88 tokens a second because 25M of those parameters never leave flash storage</description>
+    </item>
+    <item>
+      <title>Meta ordered to pay $567 million in New Mexico case</title>
+      <link>https://mashable.com/tech/meta-trial-new-mexico-harms-penalty</link>
+      <pubDate>Fri, 07 Aug 2026 19:27:43 +0000</pubDate>
+      <guid isPermaLink="false">045R3kTUBfXnumAJC7FjexT</guid>
+      <description>Meta must fund youth mental health treatment in New Mexico.</description>
+    </item>
+    <item>
+      <title>The SanDisk Extreme 1TB is one of our favorite portable rugged SSDs ever &#8212; fast, sleek, and now with a $60 discount</title>
+      <link>https://www.techradar.com/computing/storage-backup/the-sandisk-extreme-1tb-is-one-of-our-favorite-portable-rugged-ssds-ever-fast-sleek-and-now-with-a-usd60-discount</link>
+      <pubDate>Fri, 07 Aug 2026 19:19:31 +0000</pubDate>
+      <guid isPermaLink="false">vGCbtBrQgErGgu7oifsbD4</guid>
+      <description>There's a lot we love here, including USB-C, up to 2000MB/s read and write speeds, IP65 water and dust resistance.</description>
+    </item>
     <item>
       <title>4 new 4K Blu-rays from July 2026 to add to your collection</title>
       <link>https://www.techradar.com/televisions/blu-ray/3-new-4k-blu-rays-from-july-2026-to-add-to-your-collection</link>
@@ -24,153 +73,6 @@
       <pubDate>Fri, 07 Aug 2026 18:54:04 +0000</pubDate>
       <guid isPermaLink="false">6a737f692d86c5682fc4860c</guid>
       <description>Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US&#8212;and quickly turned her into a political Rorschach test.</description>
-    </item>
-    <item>
-      <title>OpenAI puts the brakes on a new model because it&amp;#8217;s supposedly too powerful</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities</link>
-      <pubDate>2026-08-07T14:40:34-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=976948</guid>
-      <description>OpenAI says it is pausing "internal activities" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Framework customer information was accessed as part of a data breach</title>
-      <link>https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/</link>
-      <pubDate>Fri, 07 Aug 2026 18:37:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/</guid>
-      <description>Framework's customer database was accessed, but no payment info was released.</description>
-    </item>
-    <item>
-      <title>One of NASA's Mars rovers could find itself promised to the moon instead</title>
-      <link>https://www.engadget.com/2230972/nasa-mars-rover-promise-lunar-mission/</link>
-      <pubDate>Fri, 07 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230972/nasa-mars-rover-promise-lunar-mission/</guid>
-      <description>NASA is planning to use elements of existing tech to learn more about all sides of the moon.</description>
-    </item>
-    <item>
-      <title>Lumineux et performant, le Honor 600 Pro perd 80 euros et il n&#8217;arrive pas seul : un vid&#233;oprojecteur est offert</title>
-      <link>https://www.frandroid.com/bons-plans/3206143_lumineux-et-performant-le-honor-600-pro-perd-80-euros-et-il-narrive-pas-seul-un-videoprojecteur-est-offert</link>
-      <pubDate>Fri, 07 Aug 2026 18:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3206143_lumineux-et-performant-le-honor-600-pro-perd-80-euros-et-il-narrive-pas-seul-un-videoprojecteur-est-offert</guid>
-      <description>
-Le Honor 600 Pro est l'un des derniers smartphones haut de gamme de la marque. Solide, puissant et dot&#233; d'un &#233;cran vraiment lumineux, il figure parmi les r&#233;f&#233;rences les plus int&#233;ressantes du moment. En ce moment, vous pouvez le trouver &#224; 719,91 euros au lieu de 799,90 euros, avec un Projector Air Pro offert.  
-</description>
-    </item>
-    <item>
-      <title>Sony might be rebooting its 2020 flagship headphones</title>
-      <link>https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/</link>
-      <pubDate>Fri, 07 Aug 2026 18:24:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/</guid>
-      <description>Sony might turn back the clock and revive an older model to save potential buyers some cash.</description>
-    </item>
-    <item>
-      <title>Static Hour challenges you to be the arbiter of truth and fear</title>
-      <link>https://www.engadget.com/2232681/static-hour-challenges-you-to-be-the-arbiter-of-truth-and-fear/</link>
-      <pubDate>Fri, 07 Aug 2026 18:19:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232681/static-hour-challenges-you-to-be-the-arbiter-of-truth-and-fear/</guid>
-      <description>If only being a nighttime news editor was this thrilling all the time.</description>
-    </item>
-    <item>
-      <title>We thought we wouldn't write about Overwatch characters anymore but D.Mon looks too sick not to</title>
-      <link>https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-dmon-looks-too-sick-not-to/</link>
-      <pubDate>Fri, 07 Aug 2026 18:11:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-dmon-looks-too-sick-not-to/</guid>
-      <description>The new Overwatch hero is part-D.Va, part-Reinhardt and 100 percent cool as heck.</description>
-    </item>
-    <item>
-      <title>Shock horror &#8212; AI-generated security patches fall short of actually solving all the problems they were meant to fix</title>
-      <link>https://www.techradar.com/pro/security/shock-horror-ai-generated-security-patches-fall-short-of-actually-solving-all-the-problems-they-were-meant-to-fix</link>
-      <pubDate>Fri, 07 Aug 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="false">KEUZhw4xPqSsSA8SKwp5Ro</guid>
-      <description>AI without oversight creates patches that rarely fix the issue entirely and sometimes just create new problems.</description>
-    </item>
-    <item>
-      <title>Trump administration spends another $1.2 billion to kill offshore wind farm projects</title>
-      <link>https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/</link>
-      <pubDate>Fri, 07 Aug 2026 18:04:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/</guid>
-      <description>This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.</description>
-    </item>
-    <item>
-      <title>The only instant cameras worth your money</title>
-      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
-      <pubDate>2026-08-07T14:04:08-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
-      <description>There&#8217;s something magical about using instant cameras that smartphones can&#8217;t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won&#8217;t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed [&#8230;]</description>
-    </item>
-    <item>
-      <title>Disney Plus tries a new AI-powered search</title>
-      <link>https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search</link>
-      <pubDate>2026-08-07T13:53:44-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=976881</guid>
-      <description>Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new [&#8230;]</description>
-    </item>
-    <item>
-      <title>Microsoft Edge is about to lock out older ad blockers, just like Chrome did</title>
-      <link>https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3</link>
-      <pubDate>2026-08-07T13:43:34-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=976880</guid>
-      <description>Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store "with any meaningful usage" that still use MV2, and only three [&#8230;]</description>
-    </item>
-    <item>
-      <title>Petit format et prix r&#233;duit pour cette batterie externe de 45 W compatible avec les smartphones et les consoles portables</title>
-      <link>https://www.frandroid.com/bons-plans/3206709_petit-format-et-prix-reduit-pour-cette-batterie-externe-de-45-w-compatible-avec-les-smartphones-et-les-consoles-portables</link>
-      <pubDate>Fri, 07 Aug 2026 17:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3206709_petit-format-et-prix-reduit-pour-cette-batterie-externe-de-45-w-compatible-avec-les-smartphones-et-les-consoles-portables</guid>
-      <description>
-La batterie externe 45 W d'Iniu embarque un c&#226;ble USB-C int&#233;gr&#233; et une capacit&#233; de 10 000 mAh. Gr&#226;ce &#224; une offre Amazon, elle passe juste au-dessus de 25 euros.
-</description>
-    </item>
-    <item>
-      <title>Employee happiness is climbing back from all-time lows, survey suggests</title>
-      <link>https://www.fastcompany.com/91586518/employee-happiness-is-climbing-back-from-all-time-lows-survey-suggests</link>
-      <pubDate>2026-08-07T17:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91586518/employee-happiness-is-climbing-back-from-all-time-lows-survey-suggests</guid>
-      <description>According to BambooHR&#8217;s recent Employee Happiness Index, the happiest companies lose 46% fewer employees than their counterparts with more negative scores.
-A new survey shows employee morale is on the rise after hitting all-time lows.</description>
-    </item>
-    <item>
-      <title>Some adults use AI for financial advice, but trust is still low, Gallup poll finds</title>
-      <link>https://www.fastcompany.com/91587156/artificial-intelligence-financial-planning-money</link>
-      <pubDate>2026-08-07T17:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587156/artificial-intelligence-financial-planning-money</guid>
-      <description>As the use of AI increases, financial experts say consumers should be cautious about fully trusting these tools.
-Some U.S. adults are using artificial intelligence for financial guidance, but it&#8217;s far from the most trusted source of advice, according to&#160;a new Gallup survey&#160;conducted in partnership with Edward Jones, a financial services firm.</description>
-    </item>
-    <item>
-      <title>Korean lunar orbiter snaps first pics of the SpaceX Falcon 9 crash site on the moon</title>
-      <link>https://www.engadget.com/2232601/korean-lunar-orbiter-snaps-first-pics-of-the-spacex-falcon-9-crash-site-on-the-moon/</link>
-      <pubDate>Fri, 07 Aug 2026 17:29:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232601/korean-lunar-orbiter-snaps-first-pics-of-the-spacex-falcon-9-crash-site-on-the-moon/</guid>
-      <description>NASA believes the crater left by the rocket is around 60 feet wide.</description>
-    </item>
-    <item>
-      <title>25 ans, une bascule : comment deux satellites ont rendu la fonte des glaces et la mont&#233;e des eaux visibles pour tous</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/observation-terre-25-ans-bascule-deux-satellites-ont-rendu-fonte-glaces-montee-eaux-visibles-tous-135946/#xtor%3DRSS-8</link>
-      <pubDate>Fri, 07 Aug 2026 19:28:40 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/observation-terre-25-ans-bascule-deux-satellites-ont-rendu-fonte-glaces-montee-eaux-visibles-tous-135946/#xtor%3DRSS-8</guid>
-      <description>Depuis vingt-cinq ans, Futura raconte les grandes avanc&#233;es scientifiques qui changent notre compr&#233;hension du monde. Parmi elles, une mission spatiale discr&#232;te a profond&#233;ment transform&#233; les sciences de la Terre. En &#171; pesant &#187; notre Plan&#232;te depuis l'espace, les satellites Grace ont apport&#233; d&#232;s...</description>
-    </item>
-    <item>
-      <title>Don&#8217;t eat this pistachio nut butter sold at Walmart. It could make you very sick</title>
-      <link>https://www.fastcompany.com/91586960/walmart-pistachio-nut-butter-recall-bettergoods-salmonella-fears</link>
-      <pubDate>2026-08-07T17:23:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91586960/walmart-pistachio-nut-butter-recall-bettergoods-salmonella-fears</guid>
-      <description>According to a notice posted by the FDA, a product sold under Walmart&#8217;s Bettergoods private label is being recalled. Here&#8217;s what to know. 
-There has been no shortage of recalls linked to possible Salmonella contamination recently, and, unfortunately, consumers need to be aware of yet another one. </description>
-    </item>
-    <item>
-      <title>Stanford is running 37,000 AI agents as a virtual biotech &#8212; and one of its drug designs got independently confirmed by Merck</title>
-      <link>https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck</link>
-      <pubDate>Fri, 07 Aug 2026 17:05:52 GMT</pubDate>
-      <guid isPermaLink="false">5Wy2ki1M0vRPmgWeY78MsQ</guid>
-      <description>For developers, the operating assumption has been one engineer, one agent &#8212; the model Claude Code and similar tools. At VB Transform 2026, James Zou, associate professor of biomedical data science at Stanford University, argued that assumption is about to break: the next frontier isn't a single, more capable agent, it's tens of thousands of them collaborating.For developers and product builders, the most critical takeaway from Zou&#8217;s presentation is how these massive systems are orchestrated. His team's research offers a practical blueprint for connecting legacy databases to AI orchestration la...</description>
-    </item>
-    <item>
-      <title>Experts warn malicious AI skills are hitting more victims than ever &#8212; with one family amassing 1.7 million downloads</title>
-      <link>https://www.techradar.com/pro/security/experts-warn-malicious-ai-skills-are-hitting-more-victims-than-ever-with-one-family-amassing-1-7-million-downloads</link>
-      <pubDate>Fri, 07 Aug 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ycPinqAGfEcztsGjWSXKcD</guid>
-      <description>What if your AI agent suddenly turned rogue and sent all your passwords to a hacker?</description>
     </item>
   </channel>
 </rss>
