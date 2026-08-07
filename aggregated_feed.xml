@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 07 Aug 2026 22:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:36:39 GMT</lastBuildDate>
+    <item>
+      <title>Texas | Amazon fait construire une immense centrale &#224; gaz pour ses centres de donn&#233;es</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-08-07/texas/amazon-fait-construire-une-immense-centrale-a-gaz-pour-ses-centres-de-donnees.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Fri, 07 Aug 2026 19:33:42 -0400</pubDate>
+      <guid isPermaLink="false">0e16c02c05aa30e5820a71ebf8def764</guid>
+      <description>Amazon fait construire au Texas une immense centrale &#224; gaz qui pourrait devenir la plus importante source d&#8217;&#233;mission de gaz &#224; effet de serre des &#201;tats-Unis, a confirm&#233; vendredi le g&#233;ant technologique am&#233;ricain.</description>
+    </item>
+    <item>
+      <title>Pentagon signs $500 million deal for unmanned counter-drone missile systems promising 'decisive advantage'</title>
+      <link>https://www.techradar.com/pro/pentagon-signs-usd500-million-deal-for-unmanned-counter-drone-missile-systems-promising-decisive-advantage</link>
+      <pubDate>Fri, 07 Aug 2026 23:20:00 +0000</pubDate>
+      <guid isPermaLink="false">67PsK3CfntRVZQ2uJGdM5V</guid>
+      <description>CACI received a $500 million Pentagon contract to expand SkyValor counter-drone system deployment across military operations.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Saturday, August 8 (game #1657)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-8-august-2026</link>
+      <pubDate>Fri, 07 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a6sYfGGsSz9N6cAxZ43LXD</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Saturday, August 8 (game #1154)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-8-august-2026</link>
+      <pubDate>Fri, 07 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">SWrQFi3bnqFKyRnx6c4gQF</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Saturday, August 8 (game #888)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-8-august-2026</link>
+      <pubDate>Fri, 07 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ENvYmevhsDBEFiyLVxdHRE</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>OpenAI says it slowed Astra model development over security concerns</title>
+      <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
+      <pubDate>Fri, 07 Aug 2026 22:48:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151331</guid>
+      <description>OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.</description>
+    </item>
     <item>
       <title>The gaming site sponsored by Walmart lays off its editorial staff</title>
       <link>https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs</link>
@@ -24,63 +66,6 @@
       <pubDate>Fri, 07 Aug 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">RsKcgMcVRdgzPqKfMAYqj5</guid>
       <description>Stylish and functional cases to keep your new foldable phone looking good as new.</description>
-    </item>
-    <item>
-      <title>Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks</title>
-      <link>https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks</link>
-      <pubDate>Fri, 07 Aug 2026 21:45:39 GMT</pubDate>
-      <guid isPermaLink="false">5L7g4QdH9FdpIEisb0Ghl1</guid>
-      <description>As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are not designed for agents to coordinate among themselves mid-task and in real time.To solve this, researchers at Coral AI Labs and multiple universities introduced AgentRadio, an asynchronous message-passing layer that allows agents to communicate between their execution steps without interrupting the...</description>
-    </item>
-    <item>
-      <title>After Rippling blew millions on AI in months, it built an employee ROI tool</title>
-      <link>https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/</link>
-      <pubDate>Fri, 07 Aug 2026 21:30:11 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151218</guid>
-      <description>After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.</description>
-    </item>
-    <item>
-      <title>Wacom&#8217;s Movinkpad 11 is a fun and mid-priced entry point for digital artists</title>
-      <link>https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/</link>
-      <pubDate>Fri, 07 Aug 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149296</guid>
-      <description>The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.</description>
-    </item>
-    <item>
-      <title>Could this be the end of BIOS-locked laptops? AI tweaker deploys Claude to unlock and change settings for good</title>
-      <link>https://www.techradar.com/pro/could-this-be-the-end-of-bios-locked-laptops-ai-tweaker-deploys-claude-to-unlock-and-change-settings-for-good</link>
-      <pubDate>Fri, 07 Aug 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">vbUGaRk74UX2BcD59GMAui</guid>
-      <description>AI helps patch a signature check to always say "yes" on a specific HP laptop using a hardware flasher.</description>
-    </item>
-    <item>
-      <title>Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks</title>
-      <link>https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/</link>
-      <pubDate>Fri, 07 Aug 2026 21:00:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151288</guid>
-      <description>Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.</description>
-    </item>
-    <item>
-      <title>WhatsApp scam costs Hong Kong man $1.27 million after criminals used AI voice notes to impersonate his father &#8212; experts say secret codewords are the best way to stay safe</title>
-      <link>https://www.techradar.com/computing/cybercrime/whatsapp-scam-costs-hong-kong-man-usd1-27-million-after-criminals-used-ai-voice-notes-to-impersonate-his-father-experts-say-secret-codewords-are-the-best-way-to-stay-safe</link>
-      <pubDate>Fri, 07 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Nk2apuRFNZu9gsP8Li3R5Y</guid>
-      <description>Scammers used AI to steal $1.27 million from a Hong Kong man as experts say a secret codeword can keep you safe.</description>
-    </item>
-    <item>
-      <title>'I wasn&#8217;t driving. I had Autopilot on': Tesla&#8217;s Full Self-Driving system is getting drivers speeding tickets, and owners aren&#8217;t happy</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/i-wasnt-driving-i-had-autopilot-on-teslas-full-self-driving-system-is-getting-drivers-speeding-tickets-and-owners-arent-happy</link>
-      <pubDate>Fri, 07 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">D2wBBpYEV3PNu3BebtoyQk</guid>
-      <description>Tesla's autonomous driving systems are getting drivers speeding tickets &#8212; but the law is having none of it.</description>
-    </item>
-    <item>
-      <title>The fight over Trump&#8217;s White House ballroom just took a dramatic turn</title>
-      <link>https://www.fastcompany.com/91587387/the-fight-over-trumps-white-house-ballroom-just-took-a-dramatic-turn</link>
-      <pubDate>2026-08-07T20:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587387/the-fight-over-trumps-white-house-ballroom-just-took-a-dramatic-turn</guid>
-      <description>A federal appeals court halted construction while the administration prepares its next legal move
-Trump&#8217;s controversial plan to build an enormous ballroom adjacent to &#8211; and larger than &#8211; the White House just ground to a halt.</description>
     </item>
   </channel>
 </rss>
