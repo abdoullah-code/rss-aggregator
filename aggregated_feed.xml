@@ -3,7 +3,28 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 08 Aug 2026 22:33:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 23:32:31 GMT</lastBuildDate>
+    <item>
+      <title>NYT Connections hints and answers for Sunday, August 9 (game #1155)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-9-august-2026</link>
+      <pubDate>Sat, 08 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5cotJZTJ74WtyUXL5pKCoP</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Sunday, August 9 (game #1658)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-9-august-2026</link>
+      <pubDate>Sat, 08 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xLy28h2xhSZ3gsH2ewfaiM</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Sunday, August 9 (game #889)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-9-august-2026</link>
+      <pubDate>Sat, 08 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">qB3zUEHuiqojuaxVc7ZskN</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
     <item>
       <title>Quote of the day by Julian Assange: 'If you want a vision of the future, imagine Washington-backed Google Glasses strapped onto vacant human faces &#8212; forever'</title>
       <link>https://www.techradar.com/pro/quote-of-the-day-by-julian-assange-if-you-want-a-vision-of-the-future-imagine-washington-backed-google-glasses-strapped-onto-vacant-human-faces-forever</link>
@@ -17,27 +38,6 @@
       <pubDate>Sat, 08 Aug 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">03upo9j4nZF5gHA7xMsRrWw</guid>
       <description>Write, research, edit, and refine up to 300K words with YouBooks AI with this $37 YouBooks AI lifetime subscription.</description>
-    </item>
-    <item>
-      <title>Verizon voice services are down for some &#8212; here's what we know so far</title>
-      <link>https://www.techradar.com/news/live/verizon-voice-services-down-outage-august-8-2026</link>
-      <pubDate>Sat, 08 Aug 2026 21:28:48 +0000</pubDate>
-      <guid isPermaLink="false">R328PLyYcx2mbxUkAF6wo6</guid>
-      <description>Is Verizon down? The carrier confirms as an active issue as folks can't make calls &#8212; follow here for live updates</description>
-    </item>
-    <item>
-      <title>Planned Amazon data center could become the biggest climate polluter in the U.S.</title>
-      <link>https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/</link>
-      <pubDate>Sat, 08 Aug 2026 21:24:02 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151379</guid>
-      <description>As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.</description>
-    </item>
-    <item>
-      <title>X replaces its revenue-sharing program with &#8216;Original Content Rewards&#8217;</title>
-      <link>https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards</link>
-      <pubDate>2026-08-08T17:15:12-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977143</guid>
-      <description>X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in [&#8230;]...</description>
     </item>
   </channel>
 </rss>
