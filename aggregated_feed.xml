@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 08 Aug 2026 21:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:33:05 GMT</lastBuildDate>
+    <item>
+      <title>Quote of the day by Julian Assange: 'If you want a vision of the future, imagine Washington-backed Google Glasses strapped onto vacant human faces &#8212; forever'</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-julian-assange-if-you-want-a-vision-of-the-future-imagine-washington-backed-google-glasses-strapped-onto-vacant-human-faces-forever</link>
+      <pubDate>Sat, 08 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">vRXXtSSyNWece8zvYPZZtJ</guid>
+      <description>Smart glasses are becoming more in vogue today, but the industry is still haunted by the failure of Google Glass</description>
+    </item>
+    <item>
+      <title>Write your next 300K manuscript with AI for just $37</title>
+      <link>https://mashable.com/life/aug-8-youbooks-ai-non-fiction-book-generator-fan-plan-lifetime-subscriptions</link>
+      <pubDate>Sat, 08 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">03upo9j4nZF5gHA7xMsRrWw</guid>
+      <description>Write, research, edit, and refine up to 300K words with YouBooks AI with this $37 YouBooks AI lifetime subscription.</description>
+    </item>
     <item>
       <title>Verizon voice services are down for some &#8212; here's what we know so far</title>
       <link>https://www.techradar.com/news/live/verizon-voice-services-down-outage-august-8-2026</link>
@@ -24,20 +38,6 @@
       <pubDate>2026-08-08T17:15:12-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=977143</guid>
       <description>X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in [&#8230;]...</description>
-    </item>
-    <item>
-      <title>New drone system which could spot wildfires before they get out of control completes its first test &#8212; but is it too late for the summer blazes plaguing Europe?</title>
-      <link>https://www.techradar.com/pro/new-drone-system-which-could-spot-wildfires-before-they-get-out-of-control-completes-its-first-test-but-is-it-too-late-for-the-summer-blazes-plaguing-europe</link>
-      <pubDate>Sat, 08 Aug 2026 20:10:00 +0000</pubDate>
-      <guid isPermaLink="false">sJaXZXQaijMn9sYnAN9XUR</guid>
-      <description>Israel tests AI wildfire-detection drone, although additional evaluations mean Europe will not benefit from it during this year's fire season.</description>
-    </item>
-    <item>
-      <title>OpenAI acquires presentation startup NextSlide</title>
-      <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
-      <pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151377</guid>
-      <description>NextSlide says its team members are now working on ChatGPT.</description>
     </item>
   </channel>
 </rss>
