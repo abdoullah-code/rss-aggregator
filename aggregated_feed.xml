@@ -3,27 +3,48 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 09 Aug 2026 22:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:34:38 GMT</lastBuildDate>
+    <item>
+      <title>Experts find AI agents can be tricked into 'remembering' fake facts for months &#8212; so how do we stop it?</title>
+      <link>https://www.techradar.com/pro/security/experts-find-ai-agents-can-be-tricked-into-remembering-fake-facts-for-months-so-how-do-we-stop-it</link>
+      <pubDate>Sun, 09 Aug 2026 23:05:00 +0000</pubDate>
+      <guid isPermaLink="false">ZtynXaFNJGLGPbMhDaiXAW</guid>
+      <description>Hidden text on a webpage can become a fact your AI assistant "remembers" and acts on weeks later.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Monday, August 10 (game #890)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-10-august-2026</link>
+      <pubDate>Sun, 09 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NHaYTEHrCoZQsMWCW4CK8X</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Monday, August 10 (game #1156)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-10-august-2026</link>
+      <pubDate>Sun, 09 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Sgw4dqCBBMLU23F5QzUZaU</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Monday, August 10 (game #1659)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-10-august-2026</link>
+      <pubDate>Sun, 09 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">qiWj7xVwgFZgZGtY3U6L5c</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>The world's first diamond-powered portable quantum computer works at room temperature and can even be plugged into a regular wall outlet</title>
+      <link>https://www.techradar.com/pro/the-worlds-first-diamond-powered-portable-quantum-computer-works-at-room-temperature-and-can-even-be-plugged-into-a-regular-wall-outlet</link>
+      <pubDate>Sun, 09 Aug 2026 22:45:00 +0000</pubDate>
+      <guid isPermaLink="false">JDb3pZsGvj5REMDfzcdHuC</guid>
+      <description>Saxon Q built a room-temperature diamond quantum computer using sulfur-stabilized qubits, though scaling and independent verification remain unresolved.</description>
+    </item>
     <item>
       <title>Quote of the day by venture capitalist John Doerr on the Segway: 'It'll be bigger than the internet' &#8212; a wild miscalculation about the future of mobility</title>
       <link>https://www.techradar.com/pro/quote-of-the-day-by-venture-capitalist-john-doerr-on-the-segway-itll-be-bigger-than-the-internet-a-wild-miscalculation-about-the-future-of-mobility</link>
       <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">hthVMEdCnSSsecZaDxyGgd</guid>
       <description>Dozens of projects throughout history have suffered from unnecessary hype before failing to capture public attention</description>
-    </item>
-    <item>
-      <title>Samsung wants to bring a floating data center to Texas &#8212; huge waterborne facility could offer 50MW of capacity and even cool itself</title>
-      <link>https://www.techradar.com/pro/samsung-wants-to-bring-a-floating-data-center-to-texas-a-huge-waterborne-facility-could-offer-50mw-of-capacity-and-even-cool-itself</link>
-      <pubDate>Sun, 09 Aug 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">hjQB4pDmCpRLxwTC23Hk5c</guid>
-      <description>Samsung and Mousterian advanced Texas floating data center plans while regulatory scrutiny over ERCOT grid connections continues to increase statewide.</description>
-    </item>
-    <item>
-      <title>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</title>
-      <link>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</link>
-      <pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151435</guid>
-      <description>The AI-focused hedge fund is still making some big bets.</description>
     </item>
   </channel>
 </rss>
