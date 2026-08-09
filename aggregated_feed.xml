@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 09 Aug 2026 20:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 21:36:03 GMT</lastBuildDate>
+    <item>
+      <title>Samsung wants to bring a floating data center to Texas &#8212; huge waterborne facility could offer 50MW of capacity and even cool itself</title>
+      <link>https://www.techradar.com/pro/samsung-wants-to-bring-a-floating-data-center-to-texas-a-huge-waterborne-facility-could-offer-50mw-of-capacity-and-even-cool-itself</link>
+      <pubDate>Sun, 09 Aug 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">hjQB4pDmCpRLxwTC23Hk5c</guid>
+      <description>Samsung and Mousterian advanced Texas floating data center plans while regulatory scrutiny over ERCOT grid connections continues to increase statewide.</description>
+    </item>
     <item>
       <title>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</title>
       <link>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</link>
@@ -24,41 +31,6 @@
       <pubDate>Sun, 09 Aug 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">B2kp5tPqDwFRgRmQnugoRo</guid>
       <description>Synology launches four DiskStation neo+ NAS models offering lower entry pricing, expandable hardware, unchanged DSM software, and worldwide availability without pricing.</description>
-    </item>
-    <item>
-      <title>Anthropic is turning Claude Code&#8217;s auto mode on by default</title>
-      <link>https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</link>
-      <pubDate>Sun, 09 Aug 2026 19:20:32 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151431</guid>
-      <description>Programming with Claude Code will soon require even less human oversight.</description>
-    </item>
-    <item>
-      <title>I went down a privacy rabbit hole and came out with a whole new digital setup &#8212; here's which security tools I recommend so you can do the same</title>
-      <link>https://www.techradar.com/phones/i-went-down-a-privacy-rabbit-hole-and-came-out-with-a-whole-new-digital-setup-heres-which-security-tools-i-recommend-so-you-can-do-the-same</link>
-      <pubDate>Sun, 09 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">DPq6FFHmPnkRW6tMgnxgTX</guid>
-      <description>Staying private and secure on your phone and online is becoming increasingly challenging, but there are plenty of tools to help.</description>
-    </item>
-    <item>
-      <title>I test 4K Blu-ray for a living, and these are the 4 new discs from August 2026 I'm most looking forward to trying out</title>
-      <link>https://www.techradar.com/televisions/blu-ray/i-test-4k-blu-ray-for-a-living-and-these-are-the-4-new-discs-from-august-2026-im-most-looking-forward-to-trying-out</link>
-      <pubDate>Sun, 09 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Q6AL8wtzmst7sBDdBnJmZk</guid>
-      <description>As TechRadar's 4K Blu-ray tester, I've picked new titles from August 2026 that I'm keen to try out as part of the Blu-ray Bounty.</description>
-    </item>
-    <item>
-      <title>DeepSeek to get a significant price hike soon</title>
-      <link>https://mashable.com/tech/deepseek-price-increase-ai-model</link>
-      <pubDate>Sun, 09 Aug 2026 18:47:53 +0000</pubDate>
-      <guid isPermaLink="false">056wkaxRBJclSyLSdfDQKFP</guid>
-      <description>DeepSeek, famous for its cheap AI services, is about to become less cheap.</description>
-    </item>
-    <item>
-      <title>Letterboxd is down, company says its working on a fix</title>
-      <link>https://mashable.com/life/letterboxd-down-company-seeking-fix-soon</link>
-      <pubDate>Sun, 09 Aug 2026 18:44:56 +0000</pubDate>
-      <guid isPermaLink="false">069xwrYGwnT87VXiVhUlWyu</guid>
-      <description>Letterboxd is down for many users Sunday; the company says it's working to fix login and app issues as they arise.</description>
     </item>
   </channel>
 </rss>
