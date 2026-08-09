@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 09 Aug 2026 21:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:35:18 GMT</lastBuildDate>
+    <item>
+      <title>Quote of the day by venture capitalist John Doerr on the Segway: 'It'll be bigger than the internet' &#8212; a wild miscalculation about the future of mobility</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-venture-capitalist-john-doerr-on-the-segway-itll-be-bigger-than-the-internet-a-wild-miscalculation-about-the-future-of-mobility</link>
+      <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hthVMEdCnSSsecZaDxyGgd</guid>
+      <description>Dozens of projects throughout history have suffered from unnecessary hype before failing to capture public attention</description>
+    </item>
     <item>
       <title>Samsung wants to bring a floating data center to Texas &#8212; huge waterborne facility could offer 50MW of capacity and even cool itself</title>
       <link>https://www.techradar.com/pro/samsung-wants-to-bring-a-floating-data-center-to-texas-a-huge-waterborne-facility-could-offer-50mw-of-capacity-and-even-cool-itself</link>
@@ -17,20 +24,6 @@
       <pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3151435</guid>
       <description>The AI-focused hedge fund is still making some big bets.</description>
-    </item>
-    <item>
-      <title>No Dogs in Space is a music history podcast for true obsessives</title>
-      <link>https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast</link>
-      <pubDate>2026-08-09T16:28:31-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977190</guid>
-      <description>Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a [&#8230;]</description>
-    </item>
-    <item>
-      <title>Synology reveals a host of new NAS devices it says can balance budget and power requirements for all users</title>
-      <link>https://www.techradar.com/pro/synology-reveals-a-host-of-new-nas-devices-it-says-can-balance-budget-and-power-requirements-for-all-users</link>
-      <pubDate>Sun, 09 Aug 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">B2kp5tPqDwFRgRmQnugoRo</guid>
-      <description>Synology launches four DiskStation neo+ NAS models offering lower entry pricing, expandable hardware, unchanged DSM software, and worldwide availability without pricing.</description>
     </item>
   </channel>
 </rss>
