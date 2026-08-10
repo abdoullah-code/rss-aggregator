@@ -3,13 +3,63 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 10 Aug 2026 22:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:38:25 GMT</lastBuildDate>
     <item>
-      <title>Now Rippling is counter suing tiny startup Runlayer</title>
+      <title>Virginia cracks down on electricity firms hiking prices for AI data centers &#8212; move could save &#8216;hundreds of millions of dollars&#8217; for everyday users</title>
+      <link>https://www.techradar.com/pro/virginia-cracks-down-on-electricity-firms-hiking-prices-for-ai-data-centers-move-could-save-hundreds-of-millions-of-dollars-for-everyday-users</link>
+      <pubDate>Mon, 10 Aug 2026 23:25:00 +0000</pubDate>
+      <guid isPermaLink="false">PVtV3wJZvvZ5WMz9FFXgyj</guid>
+      <description>Virginia now requires data centers to fund their own dedicated power infrastructure, aiming to shield ordinary residents from rising electricity costs.</description>
+    </item>
+    <item>
+      <title>Jeff Bezos might finally get his hands on a sports team</title>
+      <link>https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/</link>
+      <pubDate>Mon, 10 Aug 2026 23:16:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151689</guid>
+      <description>Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.</description>
+    </item>
+    <item>
+      <title>NYT Connections hints and answers for Tuesday, August 11 (game #1157)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-11-august-2026</link>
+      <pubDate>Mon, 10 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">FbtKDwfxyUvoZwM4ChY9QV</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
+    </item>
+    <item>
+      <title>Quordle hints and answers for Tuesday, August 11 (game #1660)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-11-august-2026</link>
+      <pubDate>Mon, 10 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">V3bFWdKz2bvAH68MyGM4KT</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
+    </item>
+    <item>
+      <title>NYT Strands hints and answers for Tuesday, August 11 (game #891)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-11-august-2026</link>
+      <pubDate>Mon, 10 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QSxQNDpNZDRmZxLaC2zERU</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
+    </item>
+    <item>
+      <title>Why are brands suddenly all about wicker on social media?</title>
+      <link>https://www.fastcompany.com/91587965/wicker-movie-ikea-sephora-social-media</link>
+      <pubDate>2026-08-10T23:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91587965/wicker-movie-ikea-sephora-social-media</guid>
+      <description>The trailer for the forthcoming movie &#8216;Wicker&#8217; has brands leaning into social media users&#8217; newfound prurient interest in the material.
+It&#8217;s never been a better time to be in the wicker business. Brands are leaning into the woven art form as a forthcoming movie has people asking &#8220;What if a basket could be a sexy man?&#8221;</description>
+    </item>
+    <item>
+      <title>3D-printed drones built on a US Navy ship for the first time, potentially opening a whole new world of possibilities for future warfare</title>
+      <link>https://www.techradar.com/pro/3d-printed-drones-built-on-a-us-navy-ship-for-the-first-time-potentially-opening-a-whole-new-world-of-possibilities-for-future-warfare</link>
+      <pubDate>Mon, 10 Aug 2026 22:40:00 +0000</pubDate>
+      <guid isPermaLink="false">fBLQgca9zZawyiPmZTooDL</guid>
+      <description>Firestorm Labs manufactured 12 drones aboard USS Essex using a containerized 3D-printing factory during its voyage toward RIMPAC 2026.</description>
+    </item>
+    <item>
+      <title>Now Rippling is counter-suing tiny startup Runlayer</title>
       <link>https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</link>
       <pubDate>Mon, 10 Aug 2026 22:26:54 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3151661</guid>
-      <description>This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller and buyer-beware market warning.</description>
+      <description>This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.</description>
     </item>
     <item>
       <title>Mark Zuckerberg doesn&#8217;t understand how to live</title>
@@ -31,56 +81,6 @@
       <pubDate>Mon, 10 Aug 2026 21:48:44 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2234108/apple-may-introduce-a-photo-authentication-tool-in-ios-27/</guid>
       <description>Reference Image could be a new way to prove provenance in the wake of generative AI.</description>
-    </item>
-    <item>
-      <title>I asked Gemini if my chicken salad was still good: it saved itself and my stomach</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/gemini/i-asked-gemini-if-my-chicken-salad-was-still-good-it-saved-itself-and-my-stomach</link>
-      <pubDate>Mon, 10 Aug 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">4VRR7Nswe4CVqgo8GwoiB6</guid>
-      <description>A simple question about the freshness of chicken salad turned into a broader learning experience about AI's own safety nets.</description>
-    </item>
-    <item>
-      <title>Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax</title>
-      <link>https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/</link>
-      <pubDate>Mon, 10 Aug 2026 21:20:04 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151622</guid>
-      <description>California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.</description>
-    </item>
-    <item>
-      <title>Anker&amp;#8217;s travel charger works in almost any country and is down to $20</title>
-      <link>https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale</link>
-      <pubDate>2026-08-10T17:18:15-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977626</guid>
-      <description>If you&#8217;ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker&#8217;s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it&#8217;s small enough [&#8230;]</description>
-    </item>
-    <item>
-      <title>The US government wants to make it easier to build and launch floating nuclear reactors, 'unleashing American energy dominance'</title>
-      <link>https://www.techradar.com/pro/the-us-government-wants-to-make-it-easier-to-build-and-launch-floating-nuclear-reactors-unleashing-american-energy-dominance</link>
-      <pubDate>Mon, 10 Aug 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">EPVyMR37nRdK8NxNTG7aPP</guid>
-      <description>The United States is backing international laws for floating nuclear reactors, while companies prepare for a potential maritime energy market.</description>
-    </item>
-    <item>
-      <title>What you need to know about your hearing health and wired earbuds, and why this Kickstarter campaign emphatically gets my backing as someone who tests IEMs</title>
-      <link>https://www.techradar.com/audio/what-you-need-to-know-about-your-hearing-health-and-wired-earbuds-and-why-this-kickstarter-campaign-emphatically-gets-my-backing</link>
-      <pubDate>Mon, 10 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">wthYoK2orwSBgnKLDGNa8g</guid>
-      <description>A popular Kickstarter campaign promises in-ear monitors that protect your hearing, and they're also remarkably light and good-looking</description>
-    </item>
-    <item>
-      <title>&#8216;Get a job, eat ramen like the rest of us&#8217;: A viral $20 burrito is sparking conservative debate over food prices</title>
-      <link>https://www.fastcompany.com/91587828/viral-burrito-sparks-conservative-debate-over-food-prices</link>
-      <pubDate>2026-08-10T21:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587828/viral-burrito-sparks-conservative-debate-over-food-prices</guid>
-      <description>On social media, the GOP is divided over the affordability crisis.
-A viral $20 burrito is sparking a debate over food prices, and the affordability crisis, among conservatives and members of the GOP on social media.</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI</title>
-      <link>https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/</link>
-      <pubDate>Mon, 10 Aug 2026 20:53:02 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151570</guid>
-      <description>On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building.</description>
     </item>
   </channel>
 </rss>
