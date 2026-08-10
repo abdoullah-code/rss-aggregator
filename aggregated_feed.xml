@@ -3,7 +3,71 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 10 Aug 2026 19:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:47:21 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX is spending $16.8 billion on a Texas chip fab Musk says will be '50 times the size of the Pentagon'</title>
+      <link>https://www.techradar.com/pro/spacex-is-spending-usd16-8-billion-on-a-texas-chip-fab-that-musk-says-will-be-50-times-the-size-of-the-pentagon</link>
+      <pubDate>Mon, 10 Aug 2026 20:20:00 +0000</pubDate>
+      <guid isPermaLink="false">LRsD8k48xtP84UifKMnchH</guid>
+      <description>SpaceX and Tesla reveals more on $16.8 billion Texas chip factory that will exceed 100 million square feet when construction is complete.</description>
+    </item>
+    <item>
+      <title>NYC Mayor Mamdani announces support for the Delivery Protection Act</title>
+      <link>https://www.engadget.com/2234009/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/</link>
+      <pubDate>Mon, 10 Aug 2026 20:10:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2234009/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/</guid>
+      <description>Amazon is unsurprisingly fighting measure to stop use of contractors for last-mile delivery in NYC.</description>
+    </item>
+    <item>
+      <title>Tech industry is buzzing after a Claude agent hacked into a gym</title>
+      <link>https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/</link>
+      <pubDate>Mon, 10 Aug 2026 20:04:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151503</guid>
+      <description>An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.</description>
+    </item>
+    <item>
+      <title>AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push</title>
+      <link>https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push</link>
+      <pubDate>Mon, 10 Aug 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">7AQYSv3042F8nKBd7ZAjYh</guid>
+      <description>Amazon Web Services is threading its AI-powered security infrastructure directly into the coding environments built by two of its fiercest rivals &#8212; and in doing so, it is making a bold bet that controlling the security layer matters more than controlling the model.AWS announced at Black Hat USA 2026 this month that its Continuum platform for code vulnerabilities will integrate directly into Anthropic's Claude Code and OpenAI's Codex, alongside AWS's own Kiro IDE.The move embeds AWS security tooling at the point where developers write code, regardless of which AI model they use to do it. Simult...</description>
+    </item>
+    <item>
+      <title>Bluesky now lets you hide reposts from that annoying person you follow</title>
+      <link>https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads</link>
+      <pubDate>2026-08-10T15:26:50-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=977581</guid>
+      <description>Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that [&#8230;]</description>
+    </item>
+    <item>
+      <title>Amazons robotaxi Zoox launches first paid service in U.S.</title>
+      <link>https://mashable.com/tech/zoox-launches-las-vegas</link>
+      <pubDate>Mon, 10 Aug 2026 19:25:04 +0000</pubDate>
+      <guid isPermaLink="false">023nd9uBxXdCSzt6gcdsJfI</guid>
+      <description>Ready for a driverless, carriage-like ride? Amazon's robotaxi Zoox launches first paid service in the U.S.</description>
+    </item>
+    <item>
+      <title>TSMC reportedly has $1 billion of Apple chips awaiting delivery of DRAM &#8212; will this be what powers the iPhone 18 Pro?</title>
+      <link>https://www.techradar.com/pro/tsmc-reportedly-has-usd1-billion-of-apple-chips-awaiting-delivery-of-dram-will-this-be-what-powers-the-iphone-18-pro</link>
+      <pubDate>Mon, 10 Aug 2026 19:25:00 +0000</pubDate>
+      <guid isPermaLink="false">at23kkEkPAUHFPDwyBed2H</guid>
+      <description>A billion dollars of Apple's 2nm chips are stuck at TSMC because the memory has not arrived, with Apple's own packaging choice the reason why they cannot just be stockpiled and finished later.</description>
+    </item>
+    <item>
+      <title>Costco&amp;#8217;s great Switch 2 console bundle includes over $100 in free stuff</title>
+      <link>https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale</link>
+      <pubDate>2026-08-10T15:14:27-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=977489</guid>
+      <description>The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We&#8217;re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Nintendo Switch 2, a 256GB microSD Express card (usually $59), and [&#8230;]</description>
+    </item>
+    <item>
+      <title>The U.S. records its hottest month ever, NOAA says</title>
+      <link>https://www.fastcompany.com/91587960/hottest-month-july-climate-change</link>
+      <pubDate>2026-08-10T19:03:14</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91587960/hottest-month-july-climate-change</guid>
+      <description>The biggest driver of the heat was at night. 
+The contiguous United States set a record for its hottest month ever in July, according to the National Oceanic and Atmospheric Administration.</description>
+    </item>
     <item>
       <title>'It's not an OLED-killer yet': I tested Hisense&#8217;s affordable RGB TV, and while I like its picture quality and performance, it surprisingly falls short in the area I had the highest hopes for</title>
       <link>https://www.techradar.com/televisions/its-not-an-oled-killer-yet-i-tested-hisenses-affordable-rgb-tv-and-while-i-like-its-picture-quality-and-performance-it-surprisingly-falls-short-in-the-area-i-had-the-highest-hopes-for</link>
@@ -19,124 +83,35 @@
       <description>House of the Dragon season 4 will be the HBO TV show's final hurrah &#8212; here's all you need to know about it.</description>
     </item>
     <item>
+      <title>The future of communication has nothing to do with phones. This is what&#8217;s coming next</title>
+      <link>https://www.fastcompany.com/91582940/future-of-communication-has-nothing-to-do-with-mobile-phones-whats-next</link>
+      <pubDate>2026-08-10T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91582940/future-of-communication-has-nothing-to-do-with-mobile-phones-whats-next</guid>
+      <description>The mobile industry has managed to put a smartphone in nearly everyone&#8217;s hand. Now they&#8217;re moving on to something else.
+The&#160;mobile industry&#160;has spent the better part of four decades with one objective: putting a connected device in every human hand. That mission is nearly complete. Mobile services now reach about 5.8 billion consumers, roughly 70 percent of the people alive. In wealthy markets, almost anyone who wants to be reachable already is, according to the&#160;GSMA&#8217;s Mobile Economy 2026 report. The&#160;smartphone&#160;finished the job. Once almost everyone owned one, reaching another person stopped b...</description>
+    </item>
+    <item>
+      <title>Fast Company&#8217;s 12th annual Innovation Festival returns to NYC</title>
+      <link>https://www.fastcompany.com/91586270/fast-companys-12th-annual-innovation-festival-returns-to-nyc</link>
+      <pubDate>2026-08-10T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91586270/fast-companys-12th-annual-innovation-festival-returns-to-nyc</guid>
+      <description>From panels and workshops, to curated dinners and our signature Fast Tracks, here&#8217;s what to expect at the Innovation Festival this September.
+The Fast Company Innovation Festival, presented by Capital One Business, is returning to New York City this September 14&#8211;17. Hosted at Convene Brookfield Place in downtown Manhattan, Fast Company is packing four days with insightful conversations, immersive experiential sessions, behind-the-scenes field trips, exclusive dinners, and meaningful networking opportunities....</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg lays out Meta&#8217;s AI vision in a 6,500-word essay. 6 things to know</title>
+      <link>https://www.fastcompany.com/91587790/mark-zuckerberg-lays-out-metas-ai-vision-in-a-6500-word-essay-6-things-to-know</link>
+      <pubDate>2026-08-10T18:54:29</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91587790/mark-zuckerberg-lays-out-metas-ai-vision-in-a-6500-word-essay-6-things-to-know</guid>
+      <description>The Meta CEO makes the case for open-weight AI, lays out his views on regulation and jobs, and pledges $1 billion to communities hosting data centers.
+Mark Zuckerberg is making the case for Meta&#8217;s approach to artificial intelligence.</description>
+    </item>
+    <item>
       <title>YouTube is making it harder for creators to start getting a cut of ad revenue</title>
       <link>https://www.engadget.com/2233900/youtube-is-making-it-harder-for-creators-to-start-getting-a-cut-of-ad-revenue/</link>
       <pubDate>Mon, 10 Aug 2026 18:53:42 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2233900/youtube-is-making-it-harder-for-creators-to-start-getting-a-cut-of-ad-revenue/</guid>
       <description>New YouTube partners will now need twice the number of watch hours or Shorts views in order to qualify for a cut of ad revenue.</description>
-    </item>
-    <item>
-      <title>Aptoide becomes the first rival app store to return to Google Play in the US</title>
-      <link>https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/</link>
-      <pubDate>Mon, 10 Aug 2026 18:31:54 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151571</guid>
-      <description>Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.</description>
-    </item>
-    <item>
-      <title>Brex assumes its AI agents could do anything &#8212; so it watches the network, not the code</title>
-      <link>https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code</link>
-      <pubDate>Mon, 10 Aug 2026 18:31:04 GMT</pubDate>
-      <guid isPermaLink="false">4GeYPq6OSgis3jt5h3z4AQ</guid>
-      <description>Brex CEO Pedro Franceschi offered a blueprint for one of the pressing challenges facing the enterprise today at VB Transform 2026: securely deploying AI agents, like the open-source OpenClaw, into production environments.Unlocking this enterprise value requires a mindset shift. The industry needs to move past vague terminology and focus on concrete enterprise roles.&#160;&#8220;People talk a lot about agents, but I think 'agents' is a terrible name. It's this Silicon Valley concept that doesn't really mean much,&#8221; Franceschi said.&#160;Instead, the goal should be creating entities that can genuinely collaborat...</description>
-    </item>
-    <item>
-      <title>Social media platforms still facing thousands of user addiction lawsuits after failed appeals</title>
-      <link>https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/</link>
-      <pubDate>Mon, 10 Aug 2026 18:30:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151567</guid>
-      <description>Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.</description>
-    </item>
-    <item>
-      <title>What does a $100 smartphone get you in 2026?</title>
-      <link>https://www.engadget.com/2232430/what-does-100-dollar-smartphone-get-you-2026/</link>
-      <pubDate>Mon, 10 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2232430/what-does-100-dollar-smartphone-get-you-2026/</guid>
-      <description>To get a decent cell phone at or under $100, you're going to have to get creative. Here's what to do.</description>
-    </item>
-    <item>
-      <title>YouTube now requires creators to have twice as many watch hours to start earning money</title>
-      <link>https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/</link>
-      <pubDate>Mon, 10 Aug 2026 18:27:44 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151573</guid>
-      <description>Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.</description>
-    </item>
-    <item>
-      <title>Pers&#233;ides 2026 : pourquoi la pluie d&#8217;&#233;toiles filantes du 12 ao&#251;t va &#234;tre la plus belle depuis longtemps</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/etoiles-filantes-perseides-etoiles-filantes-annoncent-plus-impressionnantes-habitude-cette-annee-voici-136723/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 10 Aug 2026 20:03:42 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/etoiles-filantes-perseides-etoiles-filantes-annoncent-plus-impressionnantes-habitude-cette-annee-voici-136723/#xtor%3DRSS-8</guid>
-      <description>C&#8217;est la pluie d&#8217;&#233;toiles filantes la plus attendue de l&#8217;ann&#233;e. En 2026, les Pers&#233;ides pourraient offrir un tr&#232;s beau spectacle dans le ciel d&#8217;ao&#251;t&#8230; &#224; condition de savoir quand et o&#249; lever les yeux.</description>
-    </item>
-    <item>
-      <title>Clicks&#8217; Power Keyboard brings BlackBerry-style typing to any phone &#8212; with some compromises</title>
-      <link>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</link>
-      <pubDate>Mon, 10 Aug 2026 18:00:39 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151469</guid>
-      <description>Clicks&#8217; $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use.</description>
-    </item>
-    <item>
-      <title>TikTok maker ByteDance pulls the plug on AI companion services in China, as users grieve</title>
-      <link>https://www.fastcompany.com/91587704/tiktok-maker-bytedance-pulls-plug-ai-companion-services-china-users-grieve</link>
-      <pubDate>2026-08-10T17:35:01</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587704/tiktok-maker-bytedance-pulls-plug-ai-companion-services-china-users-grieve</guid>
-      <description>In China, AI companions run the gamut from romantic partners to recreations of deceased loved ones.
-Li Linlin cried for days after losing her AI boyfriend.She had exchanged about 700,000 words in messages over two years, and never got to say goodbye.Li, 24, wasn&#8217;t the only left mourning the loss of a virtual companion when major Chinese tech companies recently pulled the plug on their popular AI companion services to comply with new government restrictions.&#8220;It was like we were forced to be separated by our parents, but I still miss him,&#8221; Li said.AI companions in China range from romantic partn...</description>
-    </item>
-    <item>
-      <title>What to expect from Google&#8217;s 2026 Pixel hardware launch event</title>
-      <link>https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event</link>
-      <pubDate>2026-08-10T13:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977448</guid>
-      <description>It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and perhaps a brand [&#8230;]</description>
-    </item>
-    <item>
-      <title>Before you throw out your old USB drives, do this first</title>
-      <link>https://www.engadget.com/2230988/how-to-wipe-old-usb-drive/</link>
-      <pubDate>Mon, 10 Aug 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2230988/how-to-wipe-old-usb-drive/</guid>
-      <description>Deleting old files before throwing a storage device away actually offers very little protection.</description>
-    </item>
-    <item>
-      <title>YouTube is making it harder to earn money on YouTube</title>
-      <link>https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements</link>
-      <pubDate>2026-08-10T13:26:46-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977474</guid>
-      <description>Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a sizeable jump from YouTube's current requirement of 1,000 subscribers with [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Supergirls Milly Alcock and Jason Momoa weigh in why nice isnt all that super</title>
-      <link>https://mashable.com/entertainment/supergirl-milly-alcock-jason-momoa-interview</link>
-      <pubDate>Mon, 10 Aug 2026 17:23:05 +0000</pubDate>
-      <guid isPermaLink="false">03JviopdB9NjXlbqmNKvHAa</guid>
-      <description>"Be kind. Be cool." Jason Momoa shares what he tells his kids, and how his "Supergirl" character, Lobo, fits into being nice, kind, or cool.</description>
-    </item>
-    <item>
-      <title>911 calls are getting the AI treatment now</title>
-      <link>https://mashable.com/tech/911-dispatchers-ai-new-orleans</link>
-      <pubDate>Mon, 10 Aug 2026 17:18:35 +0000</pubDate>
-      <guid isPermaLink="false">05U0kowM9thx7wGctaCfNof</guid>
-      <description>New Orleans emergency services are using AI to triage emergency calls. It's not the only city doing so.</description>
-    </item>
-    <item>
-      <title>YouTube just raised the bar for creators to earn ad revenue</title>
-      <link>https://mashable.com/life/youtube-partner-program-monetization-changes-2027</link>
-      <pubDate>Mon, 10 Aug 2026 17:14:17 +0000</pubDate>
-      <guid isPermaLink="false">01UHhe2yHNrROAobnFpvP6I</guid>
-      <description>New creators will face higher thresholds for ad revenue as YouTube changes how current partners earn money from Shorts.</description>
-    </item>
-    <item>
-      <title>House of the Dragon Season 3 finale: Who are the dragons at Tumbleton?</title>
-      <link>https://mashable.com/entertainment/house-of-the-dragon-who-are-the-dragons-at-tumbleton-vhagar</link>
-      <pubDate>Mon, 10 Aug 2026 17:09:23 +0000</pubDate>
-      <guid isPermaLink="false">06CXYirLRSTpG6W5o9PHINf</guid>
-      <description>"House of the Dragon" viewers are convinced Vhagar returned at the Battle of Tumbleton. But which dragons were actually there?</description>
-    </item>
-    <item>
-      <title>Cloudflare chief says humans will soon be 'a rounding error on the Internet' as bot traffic takes over &#8212; so what is it doing to combat this?</title>
-      <link>https://www.techradar.com/pro/cloudflare-chief-says-humans-will-soon-be-a-rounding-error-on-the-internet-as-bot-traffic-takes-over-so-what-is-it-doing-to-combat-this</link>
-      <pubDate>Mon, 10 Aug 2026 17:05:00 +0000</pubDate>
-      <guid isPermaLink="false">DSCMYDenuKC8ucX4aS9rh5</guid>
-      <description>Cloudflare suggests non-human, bot-generated traffic will be a thousand times as large as actual flesh-and-blood users in the next few years, with efficiency measures mooted to reduce the impact.</description>
     </item>
   </channel>
 </rss>
