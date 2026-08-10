@@ -3,6 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 10 Aug 2026 02:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 04:41:13 GMT</lastBuildDate>
+    <item>
+      <title>I've always disliked running, but here's how Gemini and Garmin made me actually enjoy it for the first time</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/ive-always-disliked-running-but-heres-how-gemini-and-garmin-made-me-actually-enjoy-it-for-the-first-time</link>
+      <pubDate>Mon, 10 Aug 2026 03:49:50 +0000</pubDate>
+      <guid isPermaLink="false">K9EMEs4PcMxQ5UvCSoEKc7</guid>
+      <description>Google Gemini helped make my training more sustainable, while Garmin&#8217;s Forerunner 170 Music let me leave my phone at home during runs.</description>
+    </item>
   </channel>
 </rss>
