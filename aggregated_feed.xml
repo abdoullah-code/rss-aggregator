@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 10 Aug 2026 20:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:45:31 GMT</lastBuildDate>
+    <item>
+      <title>I asked Gemini if my chicken salad was still good: it saved itself and my stomach</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/gemini/i-asked-gemini-if-my-chicken-salad-was-still-good-it-saved-itself-and-my-stomach</link>
+      <pubDate>Mon, 10 Aug 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">4VRR7Nswe4CVqgo8GwoiB6</guid>
+      <description>A simple question about the freshness of chicken salad turned into a broader learning experience about AI's own safety nets.</description>
+    </item>
+    <item>
+      <title>Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax</title>
+      <link>https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/</link>
+      <pubDate>Mon, 10 Aug 2026 21:20:04 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151622</guid>
+      <description>California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.</description>
+    </item>
+    <item>
+      <title>Anker&amp;#8217;s travel charger works in almost any country and is down to $20</title>
+      <link>https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale</link>
+      <pubDate>2026-08-10T17:18:15-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=977626</guid>
+      <description>If you&#8217;ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker&#8217;s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it&#8217;s small enough [&#8230;]</description>
+    </item>
+    <item>
+      <title>The US government wants to make it easier to build and launch floating nuclear reactors, 'unleashing American energy dominance'</title>
+      <link>https://www.techradar.com/pro/the-us-government-wants-to-make-it-easier-to-build-and-launch-floating-nuclear-reactors-unleashing-american-energy-dominance</link>
+      <pubDate>Mon, 10 Aug 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">EPVyMR37nRdK8NxNTG7aPP</guid>
+      <description>The United States is backing international laws for floating nuclear reactors, while companies prepare for a potential maritime energy market.</description>
+    </item>
+    <item>
+      <title>What you need to know about your hearing health and wired earbuds, and why this Kickstarter campaign emphatically gets my backing as someone who tests IEMs</title>
+      <link>https://www.techradar.com/audio/what-you-need-to-know-about-your-hearing-health-and-wired-earbuds-and-why-this-kickstarter-campaign-emphatically-gets-my-backing</link>
+      <pubDate>Mon, 10 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">wthYoK2orwSBgnKLDGNa8g</guid>
+      <description>A popular Kickstarter campaign promises in-ear monitors that protect your hearing, and they're also remarkably light and good-looking</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI</title>
+      <link>https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/</link>
+      <pubDate>Mon, 10 Aug 2026 20:53:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151570</guid>
+      <description>On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building.</description>
+    </item>
     <item>
       <title>SpaceX is spending $16.8 billion on a Texas chip fab Musk says will be '50 times the size of the Pentagon'</title>
       <link>https://www.techradar.com/pro/spacex-is-spending-usd16-8-billion-on-a-texas-chip-fab-that-musk-says-will-be-50-times-the-size-of-the-pentagon</link>
@@ -24,94 +66,6 @@
       <pubDate>Mon, 10 Aug 2026 20:04:24 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3151503</guid>
       <description>An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.</description>
-    </item>
-    <item>
-      <title>AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push</title>
-      <link>https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push</link>
-      <pubDate>Mon, 10 Aug 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">7AQYSv3042F8nKBd7ZAjYh</guid>
-      <description>Amazon Web Services is threading its AI-powered security infrastructure directly into the coding environments built by two of its fiercest rivals &#8212; and in doing so, it is making a bold bet that controlling the security layer matters more than controlling the model.AWS announced at Black Hat USA 2026 this month that its Continuum platform for code vulnerabilities will integrate directly into Anthropic's Claude Code and OpenAI's Codex, alongside AWS's own Kiro IDE.The move embeds AWS security tooling at the point where developers write code, regardless of which AI model they use to do it. Simult...</description>
-    </item>
-    <item>
-      <title>Bluesky now lets you hide reposts from that annoying person you follow</title>
-      <link>https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads</link>
-      <pubDate>2026-08-10T15:26:50-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977581</guid>
-      <description>Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that [&#8230;]</description>
-    </item>
-    <item>
-      <title>Amazons robotaxi Zoox launches first paid service in U.S.</title>
-      <link>https://mashable.com/tech/zoox-launches-las-vegas</link>
-      <pubDate>Mon, 10 Aug 2026 19:25:04 +0000</pubDate>
-      <guid isPermaLink="false">023nd9uBxXdCSzt6gcdsJfI</guid>
-      <description>Ready for a driverless, carriage-like ride? Amazon's robotaxi Zoox launches first paid service in the U.S.</description>
-    </item>
-    <item>
-      <title>TSMC reportedly has $1 billion of Apple chips awaiting delivery of DRAM &#8212; will this be what powers the iPhone 18 Pro?</title>
-      <link>https://www.techradar.com/pro/tsmc-reportedly-has-usd1-billion-of-apple-chips-awaiting-delivery-of-dram-will-this-be-what-powers-the-iphone-18-pro</link>
-      <pubDate>Mon, 10 Aug 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">at23kkEkPAUHFPDwyBed2H</guid>
-      <description>A billion dollars of Apple's 2nm chips are stuck at TSMC because the memory has not arrived, with Apple's own packaging choice the reason why they cannot just be stockpiled and finished later.</description>
-    </item>
-    <item>
-      <title>Costco&amp;#8217;s great Switch 2 console bundle includes over $100 in free stuff</title>
-      <link>https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale</link>
-      <pubDate>2026-08-10T15:14:27-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=977489</guid>
-      <description>The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We&#8217;re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Nintendo Switch 2, a 256GB microSD Express card (usually $59), and [&#8230;]</description>
-    </item>
-    <item>
-      <title>The U.S. records its hottest month ever, NOAA says</title>
-      <link>https://www.fastcompany.com/91587960/hottest-month-july-climate-change</link>
-      <pubDate>2026-08-10T19:03:14</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587960/hottest-month-july-climate-change</guid>
-      <description>The biggest driver of the heat was at night. 
-The contiguous United States set a record for its hottest month ever in July, according to the National Oceanic and Atmospheric Administration.</description>
-    </item>
-    <item>
-      <title>'It's not an OLED-killer yet': I tested Hisense&#8217;s affordable RGB TV, and while I like its picture quality and performance, it surprisingly falls short in the area I had the highest hopes for</title>
-      <link>https://www.techradar.com/televisions/its-not-an-oled-killer-yet-i-tested-hisenses-affordable-rgb-tv-and-while-i-like-its-picture-quality-and-performance-it-surprisingly-falls-short-in-the-area-i-had-the-highest-hopes-for</link>
-      <pubDate>Mon, 10 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">GkypYmrr5mjcuUbcS2CsKF</guid>
-      <description>The Hisense UR8 is one of the first affordable RGB mini-LED models available, but while it improves over mini-LED in a few ways, it struggles to impress in one key area.</description>
-    </item>
-    <item>
-      <title>House of the Dragon season 4: release window, possible cast, story predictions, and more on the HBO Max show's final chapter</title>
-      <link>https://www.techradar.com/streaming/hbo-max/house-of-the-dragon-season-4-hub</link>
-      <pubDate>Mon, 10 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Mo7qaLvgj5FYMkXtFjLkTd</guid>
-      <description>House of the Dragon season 4 will be the HBO TV show's final hurrah &#8212; here's all you need to know about it.</description>
-    </item>
-    <item>
-      <title>The future of communication has nothing to do with phones. This is what&#8217;s coming next</title>
-      <link>https://www.fastcompany.com/91582940/future-of-communication-has-nothing-to-do-with-mobile-phones-whats-next</link>
-      <pubDate>2026-08-10T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91582940/future-of-communication-has-nothing-to-do-with-mobile-phones-whats-next</guid>
-      <description>The mobile industry has managed to put a smartphone in nearly everyone&#8217;s hand. Now they&#8217;re moving on to something else.
-The&#160;mobile industry&#160;has spent the better part of four decades with one objective: putting a connected device in every human hand. That mission is nearly complete. Mobile services now reach about 5.8 billion consumers, roughly 70 percent of the people alive. In wealthy markets, almost anyone who wants to be reachable already is, according to the&#160;GSMA&#8217;s Mobile Economy 2026 report. The&#160;smartphone&#160;finished the job. Once almost everyone owned one, reaching another person stopped b...</description>
-    </item>
-    <item>
-      <title>Fast Company&#8217;s 12th annual Innovation Festival returns to NYC</title>
-      <link>https://www.fastcompany.com/91586270/fast-companys-12th-annual-innovation-festival-returns-to-nyc</link>
-      <pubDate>2026-08-10T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91586270/fast-companys-12th-annual-innovation-festival-returns-to-nyc</guid>
-      <description>From panels and workshops, to curated dinners and our signature Fast Tracks, here&#8217;s what to expect at the Innovation Festival this September.
-The Fast Company Innovation Festival, presented by Capital One Business, is returning to New York City this September 14&#8211;17. Hosted at Convene Brookfield Place in downtown Manhattan, Fast Company is packing four days with insightful conversations, immersive experiential sessions, behind-the-scenes field trips, exclusive dinners, and meaningful networking opportunities....</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg lays out Meta&#8217;s AI vision in a 6,500-word essay. 6 things to know</title>
-      <link>https://www.fastcompany.com/91587790/mark-zuckerberg-lays-out-metas-ai-vision-in-a-6500-word-essay-6-things-to-know</link>
-      <pubDate>2026-08-10T18:54:29</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587790/mark-zuckerberg-lays-out-metas-ai-vision-in-a-6500-word-essay-6-things-to-know</guid>
-      <description>The Meta CEO makes the case for open-weight AI, lays out his views on regulation and jobs, and pledges $1 billion to communities hosting data centers.
-Mark Zuckerberg is making the case for Meta&#8217;s approach to artificial intelligence.</description>
-    </item>
-    <item>
-      <title>YouTube is making it harder for creators to start getting a cut of ad revenue</title>
-      <link>https://www.engadget.com/2233900/youtube-is-making-it-harder-for-creators-to-start-getting-a-cut-of-ad-revenue/</link>
-      <pubDate>Mon, 10 Aug 2026 18:53:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2233900/youtube-is-making-it-harder-for-creators-to-start-getting-a-cut-of-ad-revenue/</guid>
-      <description>New YouTube partners will now need twice the number of watch hours or Shorts views in order to qualify for a cut of ad revenue.</description>
     </item>
   </channel>
 </rss>
