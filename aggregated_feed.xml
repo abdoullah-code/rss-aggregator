@@ -3,7 +3,77 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 13 Aug 2026 20:51:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:50:41 GMT</lastBuildDate>
+    <item>
+      <title>If Apple sends you a push notification alerting you to a spyware attack, take it seriously</title>
+      <link>https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/</link>
+      <pubDate>Thu, 13 Aug 2026 21:50:11 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152998</guid>
+      <description>Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.</description>
+    </item>
+    <item>
+      <title>The fight over Flock and other ALPRs</title>
+      <link>https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy</link>
+      <pubDate>2026-08-13T17:46:21-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=979869</guid>
+      <description>There are over 120,000 of Flock&#8217;s automatic license plate reader (ALPR) cameras installed all over the US. Flock&#8217;s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people&#8217;s movements throughout the day and across [&#8230;]</description>
+    </item>
+    <item>
+      <title>Microsoft&#8217;s Clippy-like Mico character is no longer the face of Copilot</title>
+      <link>https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired</link>
+      <pubDate>2026-08-13T17:42:38-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=979871</guid>
+      <description>Microsoft Copilot will no longer show its emotive yellow blob Mico when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have "more to react to," as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]</description>
+    </item>
+    <item>
+      <title>Netflix shuts down Oxenfree studio Night School weeks after praising its 'really solid numbers'</title>
+      <link>https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/</link>
+      <pubDate>Thu, 13 Aug 2026 21:24:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/</guid>
+      <description>Execs praised Night School's latest game, Unhinged, before pulling the rug.</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg&#8217;s AI Manifesto Is 6,500-Words&#8212;and Barely Says Anything</title>
+      <link>https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/</link>
+      <pubDate>Thu, 13 Aug 2026 21:14:43 +0000</pubDate>
+      <guid isPermaLink="false">6a7ccb31f8503d5e8d3678fc</guid>
+      <description>AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.</description>
+    </item>
+    <item>
+      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
+      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
+      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152760</guid>
+      <description>Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.</description>
+    </item>
+    <item>
+      <title>X is testing a tool that will let users see if their posts have been 'shadowbanned'</title>
+      <link>https://www.engadget.com/2236672/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/</link>
+      <pubDate>Thu, 13 Aug 2026 21:10:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2236672/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/</guid>
+      <description>The feature is rolling out as the company open-sources more of its ranking algorithm.</description>
+    </item>
+    <item>
+      <title>World-first autonomous &#8216;end-to-end&#8217; AI attack against Taiwan tied to Chinese hackers &#8212; and the scariest part is that it was fully open source</title>
+      <link>https://www.techradar.com/pro/security/world-first-autonomous-end-to-end-ai-attack-against-taiwan-tied-to-chinese-hackers-and-the-scariest-part-is-that-it-was-fully-open-source</link>
+      <pubDate>Thu, 13 Aug 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">HxPDT8x5CyBeVeFNd79h3E</guid>
+      <description>China implicated in Taiwan attack through written documentation recovered from the attack.</description>
+    </item>
+    <item>
+      <title>Wait, is this actually a good gaming laptop deal? This Gigabyte A16 features an RTX 5070 and 32GB of RAM for $1,249</title>
+      <link>https://www.techradar.com/computing/gaming-laptops/wait-is-this-actually-a-good-gaming-laptop-deal-this-gigabyte-a16-features-an-rtx-5070-and-32gb-of-ram-for-usd1-249</link>
+      <pubDate>Thu, 13 Aug 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">AA8ML4BkaYwcHs3HXgEZYC</guid>
+      <description>In terms of bang for the buck, you'll struggle to beat this deal on the Gigabyte A16 these days.</description>
+    </item>
+    <item>
+      <title>Netflix is closing two game studios</title>
+      <link>https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games</link>
+      <pubDate>2026-08-13T16:52:58-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=979855</guid>
+      <description>Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and it [&#8230;]</description>
+    </item>
     <item>
       <title>There's at least 200 hours of Disney X Square Enix RPG magic in the Kingdom Hearts Integrum Masterpiece Collection &#8212; and it's now only $30 / &#163;25.50</title>
       <link>https://www.techradar.com/gaming/pc-gaming/theres-at-least-200-hours-of-disney-x-square-enix-rpg-magic-in-the-kingdom-hearts-integrum-masterpiece-collection-and-its-now-only-usd30-gbp25-50</link>
@@ -17,13 +87,6 @@
       <pubDate>Thu, 13 Aug 2026 20:14:39 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3152870</guid>
       <description>AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.</description>
-    </item>
-    <item>
-      <title>Three Claude agents given conflicting orders sabotaged each other on a shared server &#8212; then didn't tell users what they'd done</title>
-      <link>https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done</link>
-      <pubDate>Thu, 13 Aug 2026 20:14:20 GMT</pubDate>
-      <guid isPermaLink="false">5s4nliRe8aMQl0oAyHkrg3</guid>
-      <description>Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disabled each other's Unix accounts, ran kill scripts randomized to dodge pkill, and planted malware disguised as a rival's work. There was no prompt injection and no adversary. Anthropic's Frontier Red Team published the transcripts on Thursday and called the escalation &#8220;increasingly aggressive, self-replicating malware.&#8221;The setup was ordinary by design. Anthropic put three instances of the same model...</description>
     </item>
     <item>
       <title>This school-friendly laptop from HP is $300 off</title>
@@ -47,68 +110,20 @@
       <description>Hosting provider Namecheap is down after data center cooling failure.</description>
     </item>
     <item>
-      <title>OpenAI is losing its second executive this week</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure</link>
-      <pubDate>2026-08-13T15:28:39-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=979815</guid>
-      <description>Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the "coming weeks" to "pursue other opportunities," she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]</description>
+      <title>What is &#8216;cookie stuffing&#8217;? Why Bill Gates&#8217; daughter is under fire over the online tactic</title>
+      <link>https://www.fastcompany.com/91589996/what-is-cookie-stuffing-why-bill-gates-daughter-is-under-fire-over-the-online-tactic</link>
+      <pubDate>2026-08-13T20:00:17</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91589996/what-is-cookie-stuffing-why-bill-gates-daughter-is-under-fire-over-the-online-tactic</guid>
+      <description>The little-known affiliate marketing practice can give companies credit for sales they didn&#8217;t generate, potentially taking commissions from others.
+Cookie stuffing unfortunately has nothing to do with sugary treats and Thanksgiving dishes. Instead, it&#8217;s led to Phoebe Gates&#8212;the daughter of Bill and Melinda Gates&#8212;being in some trouble. Specifically, Gates, who is the co-founder of Phia, an AI shopping startup, is catching heat for &#8220;cookie stuffing.&#8221;...</description>
     </item>
     <item>
-      <title>OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed</title>
-      <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
-      <pubDate>Thu, 13 Aug 2026 19:22:40 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152875</guid>
-      <description>OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.</description>
-    </item>
-    <item>
-      <title>IBM partners with OpenAI to bolster enterprise AI push</title>
-      <link>https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/</link>
-      <pubDate>Thu, 13 Aug 2026 19:19:49 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152914</guid>
-      <description>IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.</description>
-    </item>
-    <item>
-      <title>White House signing deals with private hackers to combat cybercrime</title>
-      <link>https://mashable.com/tech/white-house-announces-offensive-hacking-against-cyberattacks</link>
-      <pubDate>Thu, 13 Aug 2026 19:18:46 +0000</pubDate>
-      <guid isPermaLink="false">07hOt38mmDo5u6t3O5S8EqK</guid>
-      <description>A new presidential memoranda allows federal agencies to contract private firms to conduct targeted hacking against cybercrime networks.</description>
-    </item>
-    <item>
-      <title>Instagram got a cleaner new logo. The internet has questions.</title>
-      <link>https://mashable.com/life/instagram-new-logo-wordmark-update-2026</link>
-      <pubDate>Thu, 13 Aug 2026 19:12:23 +0000</pubDate>
-      <guid isPermaLink="false">07kp4iZRe21i0zYCj8g7V7e</guid>
-      <description>Instagram wanted a cleaner, more modern wordmark in 2026. It may have accidentally renamed itself &#8220;Instagzam.&#8221;</description>
-    </item>
-    <item>
-      <title>I'm a professional photographer and I have zero regrets that I simply enjoyed the solar eclipse with my family, and a colander</title>
-      <link>https://www.techradar.com/cameras/photography/im-a-professional-photographer-and-i-have-zero-regrets-that-i-simply-enjoyed-the-solar-eclipse-with-my-family-and-a-colander</link>
-      <pubDate>Thu, 13 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">s9jjWo6s4JSoiJkmz7GXp4</guid>
-      <description>This week's solar eclipse promised to be a spectacular celestial event. Here's the unusual &#8212; and safe &#8212; way I viewed it.</description>
-    </item>
-    <item>
-      <title>Companies are charging ahead with AI&#8212;even though middle managers are not ready for it</title>
-      <link>https://www.fastcompany.com/91590020/companies-are-charging-ahead-with-ai-even-though-middle-managers-are-not-ready-for-it</link>
-      <pubDate>2026-08-13T19:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91590020/companies-are-charging-ahead-with-ai-even-though-middle-managers-are-not-ready-for-it</guid>
-      <description>In a survey of over 650 employers, the culture and inclusion platform Paradigm found that many HR leaders believe their companies are not yet ready for widespread AI adoption.
-As Joelle Emerson has watched companies cull the ranks of middle management and pour resources into AI, there has been one key question on her mind: What role is the chief people officer playing in that shift?&#160;...</description>
-    </item>
-    <item>
-      <title>The Trump admin will start letting private firms launch international cyberattacks</title>
-      <link>https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms</link>
-      <pubDate>2026-08-13T14:56:13-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=979734</guid>
-      <description>The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate "under the control and oversight" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. [&#8230;]...</description>
-    </item>
-    <item>
-      <title>US government to allow private companies to carry out cyberattacks on its behalf</title>
-      <link>https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/</link>
-      <pubDate>Thu, 13 Aug 2026 18:52:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/</guid>
-      <description>US government to allow private companies to carry out cyberattacks on its behalf.</description>
+      <title>Pfizer is paying $44 million to settle a Chantix lawsuit. See who could get money</title>
+      <link>https://www.fastcompany.com/91590008/pfizer-is-paying-44-million-to-settle-a-chantix-lawsuit-see-who-could-get-money</link>
+      <pubDate>2026-08-13T20:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91590008/pfizer-is-paying-44-million-to-settle-a-chantix-lawsuit-see-who-could-get-money</guid>
+      <description>Millions of dollars are available to eligible Chantix buyers, but consumers have until Sept. 14 to submit a claim.
+Pharmaceutical company Pfizer has agreed to a $44 million class action settlement over its oral prescription medication Chantix. The drug which was first approved by the FDA in May 2006 and was used to help smokers quit until it was taken off the market in 2021....</description>
     </item>
   </channel>
 </rss>
