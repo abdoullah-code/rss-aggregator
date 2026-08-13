@@ -3,7 +3,49 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 13 Aug 2026 19:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:51:32 GMT</lastBuildDate>
+    <item>
+      <title>There's at least 200 hours of Disney X Square Enix RPG magic in the Kingdom Hearts Integrum Masterpiece Collection &#8212; and it's now only $30 / &#163;25.50</title>
+      <link>https://www.techradar.com/gaming/pc-gaming/theres-at-least-200-hours-of-disney-x-square-enix-rpg-magic-in-the-kingdom-hearts-integrum-masterpiece-collection-and-its-now-only-usd30-gbp25-50</link>
+      <pubDate>Thu, 13 Aug 2026 20:25:00 +0000</pubDate>
+      <guid isPermaLink="false">38JjXXwMd3uhF5BtArNco6</guid>
+      <description>There's a massive 70% off the Kingdom Hearts Integrum Masterpiece Collection on Steam, making this the cheapest and easiest way to play the whole series so far ahead of Kingdom Hearts 4.</description>
+    </item>
+    <item>
+      <title>Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.</title>
+      <link>https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/</link>
+      <pubDate>Thu, 13 Aug 2026 20:14:39 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152870</guid>
+      <description>AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.</description>
+    </item>
+    <item>
+      <title>Three Claude agents given conflicting orders sabotaged each other on a shared server &#8212; then didn't tell users what they'd done</title>
+      <link>https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done</link>
+      <pubDate>Thu, 13 Aug 2026 20:14:20 GMT</pubDate>
+      <guid isPermaLink="false">5s4nliRe8aMQl0oAyHkrg3</guid>
+      <description>Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disabled each other's Unix accounts, ran kill scripts randomized to dodge pkill, and planted malware disguised as a rival's work. There was no prompt injection and no adversary. Anthropic's Frontier Red Team published the transcripts on Thursday and called the escalation &#8220;increasingly aggressive, self-replicating malware.&#8221;The setup was ordinary by design. Anthropic put three instances of the same model...</description>
+    </item>
+    <item>
+      <title>This school-friendly laptop from HP is $300 off</title>
+      <link>https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale</link>
+      <pubDate>2026-08-13T16:07:53-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=979699</guid>
+      <description>With memory prices still high and showing no signs of dropping, we&#8217;re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost down to $699.99. This model is equipped with an Intel Core Ultra [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Pentagon has unveiled an improved online store to buy counter-drone kits, but you probably won't ever be able to see it</title>
+      <link>https://www.techradar.com/pro/the-pentagon-has-unveiled-an-improved-online-store-to-buy-counter-drone-kits-but-you-probably-wont-ever-be-able-to-see-it</link>
+      <pubDate>Thu, 13 Aug 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">SctaZiSo7QHeyT6ctHhXea</guid>
+      <description>The Pentagon has a limited-access 'Amazon' for counter-drone weapons, with Anduril and DroneShield listing products and an AI that recommends purchases.</description>
+    </item>
+    <item>
+      <title>Hosting provider Namecheap is down after data center cooling failure</title>
+      <link>https://www.engadget.com/2236616/hosting-provider-namecheap-is-down-after-data-center-cooling-failure/</link>
+      <pubDate>Thu, 13 Aug 2026 20:01:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2236616/hosting-provider-namecheap-is-down-after-data-center-cooling-failure/</guid>
+      <description>Hosting provider Namecheap is down after data center cooling failure.</description>
+    </item>
     <item>
       <title>OpenAI is losing its second executive this week</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure</link>
@@ -24,6 +66,20 @@
       <pubDate>Thu, 13 Aug 2026 19:19:49 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3152914</guid>
       <description>IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.</description>
+    </item>
+    <item>
+      <title>White House signing deals with private hackers to combat cybercrime</title>
+      <link>https://mashable.com/tech/white-house-announces-offensive-hacking-against-cyberattacks</link>
+      <pubDate>Thu, 13 Aug 2026 19:18:46 +0000</pubDate>
+      <guid isPermaLink="false">07hOt38mmDo5u6t3O5S8EqK</guid>
+      <description>A new presidential memoranda allows federal agencies to contract private firms to conduct targeted hacking against cybercrime networks.</description>
+    </item>
+    <item>
+      <title>Instagram got a cleaner new logo. The internet has questions.</title>
+      <link>https://mashable.com/life/instagram-new-logo-wordmark-update-2026</link>
+      <pubDate>Thu, 13 Aug 2026 19:12:23 +0000</pubDate>
+      <guid isPermaLink="false">07kp4iZRe21i0zYCj8g7V7e</guid>
+      <description>Instagram wanted a cleaner, more modern wordmark in 2026. It may have accidentally renamed itself &#8220;Instagzam.&#8221;</description>
     </item>
     <item>
       <title>I'm a professional photographer and I have zero regrets that I simply enjoyed the solar eclipse with my family, and a colander</title>
@@ -53,102 +109,6 @@ As Joelle Emerson has watched companies cull the ranks of middle management and 
       <pubDate>Thu, 13 Aug 2026 18:52:06 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/</guid>
       <description>US government to allow private companies to carry out cyberattacks on its behalf.</description>
-    </item>
-    <item>
-      <title>Linus Torvalds says 'huge' Linux kernel updates are now the status quo &#8212; and it's all thanks to AI</title>
-      <link>https://www.techradar.com/pro/linus-torvalds-says-huge-linux-kernel-updates-are-now-the-status-quo-and-its-all-thanks-to-ai</link>
-      <pubDate>Thu, 13 Aug 2026 18:50:00 +0000</pubDate>
-      <guid isPermaLink="false">QGxomAMr4banCnLrZ3MsgZ</guid>
-      <description>Linux release candidates are supposed to get smaller, but Torvalds says AI review tools have made oversized the new normal.</description>
-    </item>
-    <item>
-      <title>Trump&#8217;s $100,000-a-month Truth Social perk just triggered a lawsuit</title>
-      <link>https://www.fastcompany.com/91590055/trumps-100000-a-month-truth-social-perk-just-triggered-a-lawsuit</link>
-      <pubDate>2026-08-13T18:42:13</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91590055/trumps-100000-a-month-truth-social-perk-just-triggered-a-lawsuit</guid>
-      <description>A new service gives paying customers early access to the president&#8217;s posts, including potentially market-moving policy announcements. Now, critics want a federal judge to shut it down.
-President Trump has an unprecedented array of income streams pouring right into the Oval Office, but a lucrative new scheme may run afoul of the Constitution.</description>
-    </item>
-    <item>
-      <title>I finally found a robot lawnmower I&#8217;d trust with my yard</title>
-      <link>https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame</link>
-      <pubDate>2026-08-13T14:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=978664</guid>
-      <description>Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they&#8217;re still not set-it-and-forget-it machines. If you don&#8217;t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors&#8217; yard, you&#8217;re still going to need to keep an eye on them. But [&#8230;]</description>
-    </item>
-    <item>
-      <title>The best Spotify alternatives to ease your conscience</title>
-      <link>https://www.engadget.com/2234678/best-spotify-alternatives-2026/</link>
-      <pubDate>Thu, 13 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2234678/best-spotify-alternatives-2026/</guid>
-      <description>There are loads of options for getting new music into your ears if you're fed up with Spotify.</description>
-    </item>
-    <item>
-      <title>Pixel 11 Pro vs Pixel 10 Pro : les diff&#233;rences importantes &#224; retenir</title>
-      <link>https://www.frandroid.com/marques/google/3211643_pixel-11-pro-vs-pixel-10-pro-les-differences-importantes-a-retenir</link>
-      <pubDate>Thu, 13 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3211643_pixel-11-pro-vs-pixel-10-pro-les-differences-importantes-a-retenir</guid>
-      <description>
-Google a officialis&#233; le Pixel 11 Pro le 12&#160;ao&#251;t pendant la Made by Google. Nouvelle puce, &#233;volution photo, meilleur &#233;cran et charge sans fil optimis&#233;e. Voici les diff&#233;rences avec son pr&#233;d&#233;cesseur, le Pixel 10 Pro.
-</description>
-    </item>
-    <item>
-      <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
-      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
-      <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152849</guid>
-      <description>Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today&#8217;s safety tests capture the risks of multi-agent systems.</description>
-    </item>
-    <item>
-      <title>5 lessons to scale warehouse automation</title>
-      <link>https://www.fastcompany.com/91588910/5-lessons-to-scale-warehouse-automation</link>
-      <pubDate>2026-08-13T18:08:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91588910/5-lessons-to-scale-warehouse-automation</guid>
-      <description>When rolling out automation technology across multiple sites, follow these steps to reap the benefits.
-The constant drumbeat of increasing consumer expectations has created an economy where warehouse automation is now a must-have. Accenture found that while the median autonomy maturity across supply chain activities is 16%, it&#8217;s expected to reach 42% within the next five to 10 years....</description>
-    </item>
-    <item>
-      <title>Google&#8217;s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut</title>
-      <link>https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut</link>
-      <pubDate>Thu, 13 Aug 2026 18:02:54 GMT</pubDate>
-      <guid isPermaLink="false">017W5EU8WmUPzADxzKpTLI</guid>
-      <description>Google is rolling out Gemini 3.7 Flash, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade &#8212; while temporarily cutting API prices in half.The release arrives just three weeks after the release of Gemini 3.6 Flash, an unusually short turnaround that Google attributes to developer feedback and algorithmic improvements. For enterprise developers, the more consequential story may be the combination of those intelligence gains with lower inference costs: through the end of 2026, Gemini 3.7 Flash costs $0.75 per million input t...</description>
-    </item>
-    <item>
-      <title>You can now just point at a mess and this robot vacuum will suck it up</title>
-      <link>https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review</link>
-      <pubDate>2026-08-13T14:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=979516</guid>
-      <description>Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]</description>
-    </item>
-    <item>
-      <title>How to watch NFL Pre-Season Games 2026 for FREE: TV channels, live streams and schedule</title>
-      <link>https://www.techradar.com/how-to-watch/american-football/nfl-pre-season-games-2026-free</link>
-      <pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pwyWzy55hkNc5QRFiqyLmT</guid>
-      <description>All 32 teams are in action over three weeks of 2026's NFL Pre-Season Games. Here's how you can watch every match for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>Dutton Ranch season 2 confirms Taylor Sheridan will have a 'bigger writers room presence' as more behind-the-scenes 'drama' leaks &#8212; but it's the new showrunner I'm the most worried about</title>
-      <link>https://www.techradar.com/streaming/paramount-plus/dutton-ranch-season-2-taylor-sheridan-new-showrunner</link>
-      <pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">kxJQjKECZEuZiDT3ugh7aW</guid>
-      <description>As Dutton Ranch season 2 hits the writers room, an outpouring of alleged drama has leaked &#8212; but there's some good news for Taylor Sheridan traditionalists.</description>
-    </item>
-    <item>
-      <title>The RAMpocalypse is suffocating Apple's MacBook Air supply, with delivery delays up to a month &#8212; here's what to buy instead</title>
-      <link>https://www.techradar.com/computing/macbooks/the-rampocalypse-is-suffocating-apples-macbook-air-supply-with-delivery-delays-up-to-a-month-heres-what-to-buy-instead</link>
-      <pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">aPY8X7NBjYEqeUG7fqhRkD</guid>
-      <description>The RAM crisis isn't getting any better, and Apple's MacBook Air shipment estimates are direct evidence of that.</description>
-    </item>
-    <item>
-      <title>Amazon is removing humans form HR</title>
-      <link>https://www.fastcompany.com/91589321/amazon-is-removing-humans-form-hr</link>
-      <pubDate>2026-08-13T18:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91589321/amazon-is-removing-humans-form-hr</guid>
-      <description>Warehouses aren&#8217;t the only place robots are taking over at Amazon. The company is removing humans from its Human Resources. Employees are stuck in endless loops interacting with apps or kiosks instead of people and sometimes getting hurt while waiting for a human to help.
-Warehouses aren&#8217;t the only place robots are taking over at Amazon. The company is removing humans from its Human Resources. Employees are stuck in endless loops interacting with apps or kiosks instead of people and sometimes getting hurt while waiting for a human to help....</description>
     </item>
   </channel>
 </rss>
