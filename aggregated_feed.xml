@@ -3,7 +3,86 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 14 Aug 2026 15:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:57:28 GMT</lastBuildDate>
+    <item>
+      <title>Mark Zuckerberg has an Instagzam</title>
+      <link>https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast</link>
+      <pubDate>2026-08-14T12:54:16-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=980367</guid>
+      <description>Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]</description>
+    </item>
+    <item>
+      <title>You can now turn off Google Gemini&amp;#8217;s visible watermarks</title>
+      <link>https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal</link>
+      <pubDate>2026-08-14T12:39:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=980416</guid>
+      <description>Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new "Media watermark" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the "sparkle" watermark that appears in the bottom-right corner of [&#8230;]</description>
+    </item>
+    <item>
+      <title>Your car's dash cam might be illegal in some states &#8212; Here's how to check</title>
+      <link>https://www.engadget.com/2234237/how-to-check-car-dash-cam-legal-usa/</link>
+      <pubDate>Fri, 14 Aug 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2234237/how-to-check-car-dash-cam-legal-usa/</guid>
+      <description>Dash cam laws vary from one state to the next. Check the laws of states you'll be driving through.</description>
+    </item>
+    <item>
+      <title>Hundreds of fake Chrome VPN extensions impersonating NordVPN, Proton, and more caught hijacking your traffic</title>
+      <link>https://www.techradar.com/vpn/vpn-services/hundreds-of-fake-chrome-vpn-extensions-impersonating-nordvpn-proton-and-more-caught-hijacking-your-traffic</link>
+      <pubDate>Fri, 14 Aug 2026 16:23:01 +0000</pubDate>
+      <guid isPermaLink="false">8MLogZ68m4QzZc2nM4Hy2o</guid>
+      <description>Socket's Threat Research Team uncovered 737 fake Chrome VPN extensions impersonating major brands and rerouting browser traffic through their own proxies.</description>
+    </item>
+    <item>
+      <title>Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze</title>
+      <link>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</link>
+      <pubDate>Fri, 14 Aug 2026 16:21:04 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153119</guid>
+      <description>Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore &#8212; or accidentally dismiss.</description>
+    </item>
+    <item>
+      <title>SSD gaming rapide et endurant : le SanDisk Optimus GX 7100 1 To est en promo</title>
+      <link>https://www.frandroid.com/produits-android/3212841_ssd-gaming-rapide-et-endurant-le-sandisk-optimus-gx-7100-1-to-est-en-promo</link>
+      <pubDate>Fri, 14 Aug 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3212841_ssd-gaming-rapide-et-endurant-le-sandisk-optimus-gx-7100-1-to-est-en-promo</guid>
+      <description>
+Le SanDisk Optimus GX 7100 fait partie de la nouvelle gamme de SSD NVMe de la marque, pens&#233;e pour le gaming et les usages cr&#233;atifs. En version 1 To au format M.2 2280, il est disponible pour 221,51 euros au lieu de 237,99 euros sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>Google will now allow users to remove visible watermark from its AI generations</title>
+      <link>https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/</link>
+      <pubDate>Fri, 14 Aug 2026 16:13:40 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153145</guid>
+      <description>Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.</description>
+    </item>
+    <item>
+      <title>Pour concurrencer Apple et Sony, Samsung pr&#233;parerait un casque audio Galaxy</title>
+      <link>https://www.01net.com/actualites/pour-concurrencer-apple-et-sony-samsung-preparerait-un-casque-audio-galaxy.html</link>
+      <pubDate>Fri, 14 Aug 2026 16:09:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1364259</guid>
+      <description>Samsung pr&#233;parerait un casque audio haut de gamme sous la marque Galaxy. Des ic&#244;nes rep&#233;r&#233;es dans le code de l&#8217;application Galaxy Wearable nous donne m&#234;me un petit aper&#231;u du produit.</description>
+    </item>
+    <item>
+      <title>'This one just needs a script': Researchers find ultimate Windows kill switch which can disable antivirus with almost no user interaction</title>
+      <link>https://www.techradar.com/pro/security/this-one-just-needs-a-script-researchers-find-ultimate-windows-kill-switch-which-can-disable-antivirus-with-almost-no-user-interaction</link>
+      <pubDate>Fri, 14 Aug 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">D5GiErt8bYeqUgE82r6EtQ</guid>
+      <description>Microsoft fixed it as part of the April Patch Tuesday cumulative update, but there are other fixes and mitigations available, too.</description>
+    </item>
+    <item>
+      <title>Epson EcoTank ET-8550 is a 5-star photo printer that's tailor-made for photographers and creators &#8212; and it's up to 20% off at Amazon right now</title>
+      <link>https://www.techradar.com/pro/epson-ecotank-et-8550-photo-printer-deal</link>
+      <pubDate>Fri, 14 Aug 2026 16:03:01 +0000</pubDate>
+      <guid isPermaLink="false">vQ44GsnLEqR7QSnUcjgXNk</guid>
+      <description>Our top-pick printer for photography, Epson's EcoTank ET-8550 combines six-color wide-format photo printing with low-cost refillable ink tanks.</description>
+    </item>
+    <item>
+      <title>Lanterns review: Kyle Chandler and Aaron Pierre's new HBO Max show is a shining example of a DC comic book adaptation that oh-so-nearly gets everything right</title>
+      <link>https://www.techradar.com/streaming/hbo-max/lanterns-review</link>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">PCQWyeCFnqdYhUQ6KgyH6h</guid>
+      <description>Kyle Chandler and Aaron Pierre's Green Lantern TV show is a dazzling return to form for DC Studios after its blackest night.</description>
+    </item>
     <item>
       <title>France's top court strikes down social media ban for children under 15</title>
       <link>https://www.engadget.com/2237141/frances-top-court-strikes-down-social-media-ban-for-children-under-15/</link>
@@ -42,6 +121,13 @@ Epic Games confirme travailler sur une version native de son Epic Games Store po
       <description>The EU is introducing official security standards for all VPNs sold in Europe. Backed by industry heavyweights like NordVPN and Surfshark, this new regulatory framework aims to keep your digital life safer.</description>
     </item>
     <item>
+      <title>Samsung reportedly set to ditch this potential Galaxy S27 camera feature</title>
+      <link>https://mashable.com/tech/samsung-galaxy-s27-variable-aperture-camera</link>
+      <pubDate>Fri, 14 Aug 2026 15:36:16 +0000</pubDate>
+      <guid isPermaLink="false">057mdKtAxMXdZMCCBBExgFB</guid>
+      <description>Samsung apparently wanted to reintroduce variable aperture to the Galaxy S27 camera, but that may not happen now.</description>
+    </item>
+    <item>
       <title>The X-Men don't exist in Marvel's Wolverine since mutants aren't safe in this world, Insomniac says &#8212; 'We wanted to remind people that existence for a mutant is not safe. It's hard. It's scary'</title>
       <link>https://www.techradar.com/gaming/the-x-men-dont-exist-in-marvels-wolverine-since-mutants-arent-safe-in-this-world-insomniac-says-we-wanted-to-remind-people-that-existence-for-a-mutant-is-not-safe-its-hard-its-scary</link>
       <pubDate>Fri, 14 Aug 2026 15:30:16 +0000</pubDate>
@@ -54,6 +140,13 @@ Epic Games confirme travailler sur une version native de son Epic Games Store po
       <pubDate>Fri, 14 Aug 2026 15:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2235787/best-battery-life-for-macbook-settings/</guid>
       <description>Laptop batteries don't last forever, but there are some things that you can do today that may affect the lifespan of your MacBook's battery.</description>
+    </item>
+    <item>
+      <title>Rare Pok&#233;mon TCG deal: Get Perfect Order booster packs for $8 each at Amazon</title>
+      <link>https://mashable.com/life/aug-14-pokemon-tcg-mega-evolutions-perfect-order-pack</link>
+      <pubDate>Fri, 14 Aug 2026 15:26:57 +0000</pubDate>
+      <guid isPermaLink="false">06MABES2cRsc7l4ofLul3tJ</guid>
+      <description>As of Aug. 14, save $4 on the Pokemon TCG: Mega Evolutions Perfect Order 3-pack and take 13% off its $29.99 list price.</description>
     </item>
     <item>
       <title>E-bike injuries in kids are surging in the U.S. These jurisdictions want parents to be held liable</title>
@@ -78,6 +171,13 @@ Les grandes comp&#233;titions sportives peuvent &#234;tre une bonne excuse pour 
       <pubDate>Fri, 14 Aug 2026 15:15:00 +0000</pubDate>
       <guid isPermaLink="false">u7cEBFyhxgwb3nwswX5ieS</guid>
       <description>Would you recognize a fake notification if it came directly from Shopify? Some scammers are betting you wouldn't.</description>
+    </item>
+    <item>
+      <title>The best TV deals this weekend: Shop our top budget TV of 2026 and the best OLED for most people</title>
+      <link>https://mashable.com/tech/aug-14-best-tv-deals-this-weekend</link>
+      <pubDate>Fri, 14 Aug 2026 15:05:19 +0000</pubDate>
+      <guid isPermaLink="false">06lVrorm4RIE63GbCd6t0Sk</guid>
+      <description>Shop the best TV deals this weekend, which include the Hisense U6 Pro Mini LED, the LG C6 OLED, and Samsung S90H OLED models.</description>
     </item>
     <item>
       <title>What is Wildberries? &#8216;Russia&#8217;s Amazon&#8217; in the spotlight as Ukraine targets e-commerce giant&#8217;s warehouses</title>
@@ -123,121 +223,6 @@ Compacte, discr&#232;te et riche en fonctionnalit&#233;s intelligentes, la Blink
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">zuTYBX2egPuusfK8QsTKD</guid>
       <description>Green audio kit is really having a moment, but the color is far from the weirdest thing about this planter-sized speaker &#8216;with terrain, weather, a society that inhabits it, and its own rhythms and narratives&#8217;</description>
-    </item>
-    <item>
-      <title>Apple proposes to take a 15% cut of purchases made outside the App Store</title>
-      <link>https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/</link>
-      <pubDate>Fri, 14 Aug 2026 14:54:48 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153110</guid>
-      <description>Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.</description>
-    </item>
-    <item>
-      <title>2025 GOTY Clair Obscur: Expedition 33 is down to $33</title>
-      <link>https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale</link>
-      <pubDate>2026-08-14T10:50:25-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980261</guid>
-      <description>For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but I really like that Sandfall Interactive&#8217;s breakout hit isn&#8217;t overly long compared to RPGs it was inspired by. It&#8217;s worth [&#8230;]</description>
-    </item>
-    <item>
-      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153090</guid>
-      <description>The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.</description>
-    </item>
-    <item>
-      <title>The operational gap in R&amp;D Tax: Where good claims break down</title>
-      <link>https://www.techradar.com/pro/the-operational-gap-in-r-and-d-tax-where-good-claims-break-down</link>
-      <pubDate>Fri, 14 Aug 2026 14:45:36 +0000</pubDate>
-      <guid isPermaLink="false">rWfFkQ7XMbVz9MZTj7BVeC</guid>
-      <description>The global stage of innovation is once again shifting, and where Silicon Valley once dominated over all, other equally powerful regions are rising up to challenge it.</description>
-    </item>
-    <item>
-      <title>Bad buzz pour Xiaomi&#160;: ce smartphone a-t-il vraiment trich&#233; en photographiant l&#8217;&#233;clipse&#160;?</title>
-      <link>https://www.01net.com/actualites/bad-buzz-pour-xiaomi-ce-smartphone-a-t-il-vraiment-triche-en-photographiant-leclipse.html</link>
-      <pubDate>Fri, 14 Aug 2026 14:44:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1364271</guid>
-      <description>Pendant l'&#233;clipse solaire du 12 ao&#251;t, le Xiaomi 17 Ultra a livr&#233; un clich&#233; pour le moins surprenant : un Soleil recouvert de crat&#232;res, comme si l'appareil avait photographi&#233; la Lune. Ce rat&#233; n'est pas un cas isol&#233; : plusieurs utilisateurs ont rapport&#233; le m&#234;me ph&#233;nom&#232;ne sur les r&#233;seaux sociaux. On vous explique le m&#233;canisme derri&#232;re cette confusion, r&#233;v&#233;lateur de la fa&#231;on dont l'IA de nos smartphones retouche nos photos sans qu'on s'en rende toujours compte....</description>
-    </item>
-    <item>
-      <title>Samsung One UI 9.5 : voici les premi&#232;res images de la surcouche Android</title>
-      <link>https://www.frandroid.com/marques/samsung/3212473_samsung-one-ui-9-5-voici-les-premieres-images-de-la-surcouche-android</link>
-      <pubDate>Fri, 14 Aug 2026 14:21:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3212473_samsung-one-ui-9-5-voici-les-premieres-images-de-la-surcouche-android</guid>
-      <description>
-One UI 9.0 n'est pas encore d&#233;ploy&#233; sur tous les smartphones Samsung compatibles, et on aper&#231;oit d&#233;j&#224; &#224; quoi ressemblera la mise &#224; jour One UI 9.5. Des changements de design seraient au programme.
-</description>
-    </item>
-    <item>
-      <title>Why we love to hate Flock</title>
-      <link>https://www.fastcompany.com/91590083/why-we-love-to-hate-flock</link>
-      <pubDate>2026-08-14T14:19:59</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91590083/why-we-love-to-hate-flock</guid>
-      <description>The license plate reader company has become a lightning rod for surveillance concerns. But getting rid of Flock doesn&#8217;t necessarily get rid of the surveillance.
-The surveillance state has crept up around us, but in at least one instance, its integration into society has prompted a backlash. Flock Safety has managed to make automated license plate readers (ALPRs), cameras that record the license plate and other characteristics of every vehicle that passes them, a hot-button issue across the United States....</description>
-    </item>
-    <item>
-      <title>This U.S. university just launched a major in content creation, as critics question the &#8216;influencer&#8217; degree</title>
-      <link>https://www.fastcompany.com/91590429/u-s-university-just-launched-major-content-creation-critics-question-influencer-degree</link>
-      <pubDate>2026-08-14T14:19:31</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91590429/u-s-university-just-launched-major-content-creation-critics-question-influencer-degree</guid>
-      <description>The content creation program at Arizona State University isn&#8217;t the first of its kind.
-Ask a teen what they want to be when they grow up, and there&#8217;s a fair chance being an influencer is on their list.Digital media and the people who star in it have been cultural mainstays for teens&#8217; entire lives, so creating social media, video or podcast content seems a natural, albeit nontraditional, career path. And now they can earn a college degree in that very field.Arizona State University recently launched a new bachelor&#8217;s degree in content creation, offered through its Walter Cronkite School of Journa...</description>
-    </item>
-    <item>
-      <title>Nvidia GeForce Now se met &#224; jour : la version Linux sort de b&#234;ta et le DLSS s&#8217;am&#233;liore</title>
-      <link>https://www.frandroid.com/marques/nvidia/3212395_nvidia-geforce-now-se-met-a-jour-la-version-linux-sort-de-beta-et-le-dlss-sameliore</link>
-      <pubDate>Fri, 14 Aug 2026 14:17:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3212395_nvidia-geforce-now-se-met-a-jour-la-version-linux-sort-de-beta-et-le-dlss-sameliore</guid>
-      <description>
-Nvidia met &#224; jour GeForce Now, son service de cloud gaming, pour la deuxi&#232;me fois en ao&#251;t 2026. Les nouveaut&#233;s sont notables, &#224; commencer par la fin de la b&#234;ta pour la version Linux de l'application.
-</description>
-    </item>
-    <item>
-      <title>Le ChatGPT le plus intelligent peut maintenant r&#233;pondre 14 fois plus vite&#160;: &#224; quoi &#231;a sert&#160;?</title>
-      <link>https://www.01net.com/actualites/le-chatgpt-le-plus-intelligent-peut-maintenant-repondre-14-fois-plus-vite-a-quoi-ca-sert.html</link>
-      <pubDate>Fri, 14 Aug 2026 14:15:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1364064</guid>
-      <description>Le mod&#232;le le plus intelligent d'OpenAI vient de gagner un mode turbo. Sauf qu'il n'arrivera pas dans ChatGPT, qu'aucun tarif n'a &#233;t&#233; annonc&#233;, et qu'une poign&#233;e d'entreprises seulement y ont acc&#232;s.</description>
-    </item>
-    <item>
-      <title>Synology lance la gamme neo+ : des NAS moins chers, &#224; cause de la RAM</title>
-      <link>https://www.frandroid.com/produits-android/hardware/nas/3212601_synology-lance-la-gamme-neo-des-nas-moins-chers-a-cause-de-la-ram</link>
-      <pubDate>Fri, 14 Aug 2026 14:11:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/nas/3212601_synology-lance-la-gamme-neo-des-nas-moins-chers-a-cause-de-la-ram</guid>
-      <description>
-Synology &#233;largit sa gamme de serveurs de stockage avec une s&#233;rie neo+, pr&#233;sent&#233;e comme plus abordable que sa gamme Plus. Des NAS avec moins de m&#233;moire vive, sur fond de flamb&#233;e des prix de la RAM.
-</description>
-    </item>
-    <item>
-      <title>Hyperscalers might regret embracing natural gas if new forecast proves correct</title>
-      <link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/</link>
-      <pubDate>Fri, 14 Aug 2026 14:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152944</guid>
-      <description>Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.</description>
-    </item>
-    <item>
-      <title>TechRadar's weekly crossword &#8212; puzzle #3, Friday, August 14</title>
-      <link>https://www.techradar.com/tech/techradars-weekly-crossword-puzzle-3-friday-august-14</link>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7wRaPMyKoMXZ7Jua3cXBwU</guid>
-      <description>This week's TechRadar Crossword puzzle is here, so come test your tech and general knowledge and see where you place on the leaderboard.</description>
-    </item>
-    <item>
-      <title>7 new movies and TV shows to watch on Netflix, Prime Video, HBO Max, and more this weekend (August 14)</title>
-      <link>https://www.techradar.com/streaming/7-new-movies-and-tv-shows-to-watch-on-netflix-prime-video-hbo-max-and-more-this-weekend-august-14</link>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4f9qcGcZxExbdqhacgohCL</guid>
-      <description>From Reacher's return to the debut of DC Studios' Green Lantern TV show, here's what you'll want to watch this weekend.</description>
-    </item>
-    <item>
-      <title>On a trouv&#233; le drone parfait pour vos vacances : le DJI Lito 1 qui filme en 4K est en promotion sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3196243_on-a-trouve-le-drone-parfait-pour-vos-vacances-le-dji-lito-1-qui-filme-en-4k-est-en-promotion-sur-amazon</link>
-      <pubDate>Fri, 14 Aug 2026 13:56:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3196243_on-a-trouve-le-drone-parfait-pour-vos-vacances-le-dji-lito-1-qui-filme-en-4k-est-en-promotion-sur-amazon</guid>
-      <description>
-Le DJI Lito 1, nouveau drone compact du constructeur chinois pens&#233; pour les d&#233;butants, est propos&#233; &#224; 288 euros au lieu de 339 euros sur Amazon. 
-</description>
     </item>
   </channel>
 </rss>
