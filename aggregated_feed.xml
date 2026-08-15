@@ -3,7 +3,65 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 15 Aug 2026 12:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:32:55 GMT</lastBuildDate>
+    <item>
+      <title>What happens when a hybrid battery dies and what to do about it</title>
+      <link>https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/</link>
+      <pubDate>Sat, 15 Aug 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/</guid>
+      <description>Don't wait to have your car checked out if its traction battery is having problems.</description>
+    </item>
+    <item>
+      <title>Every fusion startup that has raised over $100M</title>
+      <link>https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/</link>
+      <pubDate>Sat, 15 Aug 2026 13:15:20 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=2878248</guid>
+      <description>Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.</description>
+    </item>
+    <item>
+      <title>Pour moins de 200 &#8364;, quelle est la meilleure affaire entre le nouveau Xiaomi Redmi 17 et le Samsung Galaxy A17 ?</title>
+      <link>https://www.frandroid.com/bons-plans/3208943_pour-moins-de-200-e-quelle-est-la-meilleure-affaire-entre-le-nouveau-xiaomi-redmi-17-et-le-samsung-galaxy-a17</link>
+      <pubDate>Sat, 15 Aug 2026 13:11:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3208943_pour-moins-de-200-e-quelle-est-la-meilleure-affaire-entre-le-nouveau-xiaomi-redmi-17-et-le-samsung-galaxy-a17</guid>
+      <description>
+On trouve aujourd'hui de tr&#232;s bons smartphones &#224; moins de 200 euros, et c'est exactement le cas du nouveau Redmi 17 de Xiaomi et du Samsung Galaxy A17 4G. Deux mod&#232;les particuli&#232;rement solides pour vous accompagner au quotidien, mais lequel est vraiment fait pour vous ?
+</description>
+    </item>
+    <item>
+      <title>Xteink&#8217;s tiny e-readers are getting access to free books through Libby</title>
+      <link>https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader</link>
+      <pubDate>2026-08-15T09:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=976390</guid>
+      <description>One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's about to change, as the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Why was there an 'evil&#8217; Delta airlines Wi-Fi network? The experts weigh in</title>
+      <link>https://www.techradar.com/pro/security/why-was-there-an-evil-delta-airlines-wi-fi-network-the-experts-weigh-in</link>
+      <pubDate>Sat, 15 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ZAjHb9bTEpdhjJqTyEPWfb</guid>
+      <description>A passenger set up an evil Wi-Fi network on a post-DEF CON Delta flight - we find out what the experts think.</description>
+    </item>
+    <item>
+      <title>TMR vs Hall Effect: which magnetic tech is best for your gaming keyboards and controllers? It's not just about better accuracy and faster response times</title>
+      <link>https://www.techradar.com/computing/keyboards/hall-effect-vs-tmr</link>
+      <pubDate>Sat, 15 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fSYQ5vNkgyZTz94CRA23XB</guid>
+      <description>TMR and Hall Effect sensors and switches are becoming more widely adopted for keyboards and controllers, but what do they mean, and which is best?</description>
+    </item>
+    <item>
+      <title>USB4 Vs USB-C: What's the difference between them?</title>
+      <link>https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/</link>
+      <pubDate>Sat, 15 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/</guid>
+      <description>There's a pretty major difference between USB-C and USB4. We'll dive into the details and how to tell them apart.</description>
+    </item>
+    <item>
+      <title>SpaceX has officially acquired AI coding startup Cursor</title>
+      <link>https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/</link>
+      <pubDate>Sat, 15 Aug 2026 12:51:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/</guid>
+      <description>The $60 billion acquisition has been finalized.</description>
+    </item>
     <item>
       <title>The latest Google Health update lets you hide the AI Coach &#8212; and I'll be glad to take a break from its advice</title>
       <link>https://www.techradar.com/health-fitness/fitness-apps/the-latest-google-health-update-lets-you-hide-the-ai-coach-and-ill-be-glad-to-take-a-break-from-its-advice</link>
@@ -84,49 +142,6 @@ L'id&#233;e de recharger sa voiture &#233;lectrique &#224; l'&#233;nergie solair
       <description>
 iRobot fait son retour sur le march&#233; des robots-aspirateurs avec le Roomba 115 Combo, un mod&#232;le d'entr&#233;e de gamme qui combine aspiration et lavage. Ce 2-en-1 avec navigation LiDAR est aujourd'hui remis&#233; &#224; 189 euros au lieu de 349 euros sur Amazon. 
 </description>
-    </item>
-    <item>
-      <title>I watched two returning horror franchises and played a creepy indie game in August &#8212; and I was surprised by which one let me down the most</title>
-      <link>https://www.techradar.com/streaming/entertainment/i-watched-two-returning-horror-franchises-and-played-a-creepy-indie-game-in-august-and-i-was-surprised-by-which-one-let-me-down-the-most</link>
-      <pubDate>Sat, 15 Aug 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">8wwK9ZmRNunQu4VbKcvAKc</guid>
-      <description>August saw the return of two franchises as well as the arrival of an indie game demo. But which ones are worth your time?</description>
-    </item>
-    <item>
-      <title>This Beautifully Weird Necklace Is Secretly a USB Drive</title>
-      <link>https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/</link>
-      <pubDate>Sat, 15 Aug 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a7b3f3b327f770305481703</guid>
-      <description>Noware&#8217;s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.</description>
-    </item>
-    <item>
-      <title>Retrospec Joe Rev 2 Review (2026): Putting the &#8216;Joy&#8217; in Joyride</title>
-      <link>https://www.wired.com/review/retrospec-joe-rev-2/</link>
-      <pubDate>Sat, 15 Aug 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a7a0b04929c1cd02c9472a3</guid>
-      <description>This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.</description>
-    </item>
-    <item>
-      <title>When housing is unaffordable, this artist&#8217;s device makes pedaling harder</title>
-      <link>https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal</link>
-      <pubDate>2026-08-15T07:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980359</guid>
-      <description>Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he was [&#8230;]</description>
-    </item>
-    <item>
-      <title>'We were five years ahead': the Nokia 9000 Communicator launched 30 years ago today &#8212; and squandering its smartphone lead will forever haunt Nokia's former CEO</title>
-      <link>https://www.techradar.com/phones/nokia-phones/we-were-five-years-ahead-the-nokia-9000-communicator-launched-30-years-ago-today-and-squandering-its-smartphone-lead-will-forever-haunt-nokias-former-ceo</link>
-      <pubDate>Sat, 15 Aug 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2EJBLXRhKcfjbyixgfSBgL</guid>
-      <description>The Nokia 9000 Communicator was a device ahead of its time, and we're exactly now three decades on from its debut. Here's how the world reacted, before Apple stole its crown.</description>
-    </item>
-    <item>
-      <title>How &#8216;Trump accounts&#8217; for kids could widen the wealth gap</title>
-      <link>https://www.fastcompany.com/91589527/how-the-trump-accounts-for-kids-could-widen-the-wealth-gap</link>
-      <pubDate>2026-08-15T11:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91589527/how-the-trump-accounts-for-kids-could-widen-the-wealth-gap</guid>
-      <description>A new proposal would allow parents to contribute up to $2,500 per year in pretax income to their children&#8217;s 530A accounts. 
-So far, 530A tax-advantaged investment accounts for kids, also known as &#8220;Trump accounts,&#8221; have had a successful debut.</description>
     </item>
   </channel>
 </rss>
