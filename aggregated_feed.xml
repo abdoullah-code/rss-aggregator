@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 15 Aug 2026 20:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:24:39 GMT</lastBuildDate>
+    <item>
+      <title>The US Navy finally has a carrier with a built-in center for drones and other unmanned aircraft</title>
+      <link>https://www.techradar.com/pro/the-us-navy-finally-has-a-carrier-with-a-built-in-center-for-drones-and-other-unmanned-aircraft</link>
+      <pubDate>Sat, 15 Aug 2026 21:05:00 +0000</pubDate>
+      <guid isPermaLink="false">kp4MtWLW9wPVYwNr3FdhWT</guid>
+      <description>The USS Theodore Roosevelt becomes the first carrier ready for MQ-25 operations as another carrier prepares its own unmanned aviation center.</description>
+    </item>
+    <item>
+      <title>Have a laugh at AI&#8217;s expense by roleplaying as a chatbot</title>
+      <link>https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot</link>
+      <pubDate>2026-08-15T16:45:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=980502</guid>
+      <description>Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]</description>
+    </item>
     <item>
       <title>Finished watching My Brilliant Career on Netflix? Stream this 'wild' and 'bonkers' period drama on Prime Video next &#8212; it's an even better double bill than Bridgerton</title>
       <link>https://www.techradar.com/streaming/netflix/finished-watching-my-brilliant-career-on-netflix-stream-this-wild-and-bonkers-period-drama-on-prime-video-next-its-an-even-better-double-bill-than-bridgerton</link>
@@ -31,34 +45,6 @@
       <pubDate>Sat, 15 Aug 2026 19:45:00 +0000</pubDate>
       <guid isPermaLink="false">48GVuiPMNMETtKMiEPmWKL</guid>
       <description>Who is Starburst, and why is Lando Norris so interested in them?</description>
-    </item>
-    <item>
-      <title>I&#8217;ve played 1,500 hours of Battlefield &#8212; here&#8217;s why Battlefield 4 is still the most essential entry in the series</title>
-      <link>https://www.techradar.com/gaming/ive-played-1-500-hours-of-battlefield-heres-why-battlefield-4-is-still-the-most-essential-entry-in-the-series</link>
-      <pubDate>Sat, 15 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NsjfUMPzwXRsPmpK5rXfS7</guid>
-      <description>Battlefield 6 Season 3 is a love letter to the series' roots &#8211; I went back to Battlefield 4 to see if it still holds up.</description>
-    </item>
-    <item>
-      <title>Anthropic shares more details about how Claude&#8217;s new watermarks will work</title>
-      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
-      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153310</guid>
-      <description>How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?</description>
-    </item>
-    <item>
-      <title>OVH Cloud tells users to expect 87% price rise &#8212; with gaming servers hit particularly hard</title>
-      <link>https://www.techradar.com/pro/ovh-cloud-tells-users-to-expect-87-percent-price-rise-with-gaming-servers-hit-particularly-hard</link>
-      <pubDate>Sat, 15 Aug 2026 18:35:00 +0000</pubDate>
-      <guid isPermaLink="false">GNHszMX4ZBF5cJjvkxyMBF</guid>
-      <description>OVHcloud's cheapest gaming server goes from &#8364;336 a month to nearly double that, as it cites memory costs that are six times what they were a year ago.</description>
-    </item>
-    <item>
-      <title>Why are RAM prices so high right now?</title>
-      <link>https://www.engadget.com/2236799/why-ram-prices-so-high/</link>
-      <pubDate>Sat, 15 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2236799/why-ram-prices-so-high/</guid>
-      <description>When will the price of RAM come back down again?</description>
     </item>
   </channel>
 </rss>
