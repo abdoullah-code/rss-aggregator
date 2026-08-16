@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 16 Aug 2026 16:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:22:28 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic CEO says AI backlash is &#8216;fundamentally a crisis of trust&#8217;</title>
+      <link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/</link>
+      <pubDate>Sun, 16 Aug 2026 16:53:51 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153318</guid>
+      <description>Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.</description>
+    </item>
+    <item>
+      <title>How to lease an iPhone instead of buying one</title>
+      <link>https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/</link>
+      <pubDate>Sun, 16 Aug 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/</guid>
+      <description>The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.</description>
+    </item>
     <item>
       <title>Russia's accelerating Starlink rival development means that war in space is not just probable; it's inevitable</title>
       <link>https://www.techradar.com/pro/russias-accelerating-starlink-rival-development-means-that-war-in-space-is-not-just-probable-its-inevitable</link>
@@ -49,27 +63,6 @@ Tr&#232;s complet mais accessible, le Mova E40 Ultra est un aspirateur robot lav
       <pubDate>Sun, 16 Aug 2026 15:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/</guid>
       <description>Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.</description>
-    </item>
-    <item>
-      <title>What DisplayHDR True Black 1400 means for the future of gaming and productivity monitors</title>
-      <link>https://www.techradar.com/computing/monitors/what-displayhdr-true-black-1400-means-for-the-future-of-gaming-and-productivity-displays</link>
-      <pubDate>Sun, 16 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6JssuYGD4EHFLiczjdMqxN</guid>
-      <description>The latest DisplayHDR True Black 1400 standard brings 1,400 nits peak brightness to OLED displays, a level that was previously only possible with niche and heavy backlit panels. As tandem OLED gets cheaper, here's how things could change for the better.</description>
-    </item>
-    <item>
-      <title>ChatGPT&#8217;s Computer History tracks your clicks and keystrokes</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes</link>
-      <pubDate>2026-08-16T10:56:40-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980742</guid>
-      <description>ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]</description>
-    </item>
-    <item>
-      <title>Is the MacBook Pro M5 still worth buying after the price hike?</title>
-      <link>https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/</link>
-      <pubDate>Sun, 16 Aug 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/</guid>
-      <description>It could be wise to wait, or settle for a cheaper model.</description>
     </item>
   </channel>
 </rss>
