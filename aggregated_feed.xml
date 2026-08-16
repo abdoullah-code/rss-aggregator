@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 16 Aug 2026 04:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 05:31:29 GMT</lastBuildDate>
+    <item>
+      <title>&#8216;Never get blindsided by an empty battery&#8217;: I was pleased with the OnePlus Nord CE5's performance and camera, but its battery life is the part that truly impressed me in real-world testing</title>
+      <link>https://www.techradar.com/phones/oneplus-phones/never-get-blindsided-by-an-empty-battery-i-was-pleased-with-the-oneplus-nord-ce5s-performance-and-camera-but-its-battery-life-can-outlast-many-flagships-on-the-market</link>
+      <pubDate>Sun, 16 Aug 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8qHG3EFsKCHNvXUaRB5XbG</guid>
+      <description>The Nord CE5 outperforms some rival affordable phones in terms of performance and photography &#8212; but it's the battery life that really sets it apart.</description>
+    </item>
     <item>
       <title>I'm an Apple Watch die-hard &#8212; here are my picks for the 10 best Apple Watch faces of 2026 so far</title>
       <link>https://www.techradar.com/health-fitness/smartwatches/im-an-apple-watch-die-hard-here-are-my-picks-for-the-10-best-apple-watch-faces-of-2026-so-far</link>
@@ -45,20 +52,6 @@
       <pubDate>Sun, 16 Aug 2026 04:00:00 +0000</pubDate>
       <guid isPermaLink="false">00X1dsqpkHpfTPYDjBYlF5f</guid>
       <description>Stuff Your Kindle is live on Aug. 15-16. Fantasy and Sci-Fi Worlds, hosted by Book Below, is offering free sci-fi and fantasy books.</description>
-    </item>
-    <item>
-      <title>Polaroid&#8217;s tiny instant camera is $72 and includes a free pack of film</title>
-      <link>https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale</link>
-      <pubDate>2026-08-15T23:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980448</guid>
-      <description>Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you&#8217;re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That&#8217;s the lowest price we&#8217;ve seen for the bundle, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Xenoblade Chronicles 2's Nintendo Switch 2 edition could have been perfection &#8212; but unending menus left me burning with rage like Pyra</title>
-      <link>https://www.techradar.com/gaming/nintendo-switch/xenoblade-chronicles-2s-nintendo-switch-2-edition-could-have-been-perfection-but-unending-menus-left-me-burning-with-rage-like-pyra</link>
-      <pubDate>Sun, 16 Aug 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">fog5aYYrixxDNKWWsJ9nRV</guid>
-      <description>Xenoblade Chronicles 2 on the Nintendo Switch 2 should be the perfect way to play the game. It isn't.</description>
     </item>
   </channel>
 </rss>
