@@ -3,34 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 16 Aug 2026 20:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:23:42 GMT</lastBuildDate>
+    <item>
+      <title>The Last House review: this tedious thriller is the worst Netflix movie of the year, and it's nothing like the trailer promised</title>
+      <link>https://www.techradar.com/streaming/netflix/the-last-house-review-this-tedious-thriller-is-the-worst-netflix-movie-of-the-year-and-its-nothing-like-the-trailer-promised</link>
+      <pubDate>Sun, 16 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">VWhuD7etwhtMMxbMLBC8qE</guid>
+      <description>The Last House had all the ingredients for an effective thriller movie but the result was nothing like I'd expected.</description>
+    </item>
+    <item>
+      <title>Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</title>
+      <link>https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</link>
+      <pubDate>Sun, 16 Aug 2026 20:57:04 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153332</guid>
+      <description>OpenRouter's CEO recently described the startup as Stripe for AI.</description>
+    </item>
+    <item>
+      <title>Cutting RAG inference costs 6x starts with deciding what never reaches the LLM</title>
+      <link>https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm</link>
+      <pubDate>Sun, 16 Aug 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="false">2l9E2PbTL1ON7PGJM32oiE</guid>
+      <description>Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo. It falls apart the moment the system has to survive an audit, a regulator, or a compliance officer asking why a specific decision was made six months ago.I have spent the last year building RAG based classification systems in regulated enterprise settings, where the cost of a wrong answer is not a bad chatbot reply. A decision has to ho...</description>
+    </item>
+    <item>
+      <title>Why people aren&#8217;t buying Mark Zuckerberg&#8217;s AI future</title>
+      <link>https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/</link>
+      <pubDate>Sun, 16 Aug 2026 20:32:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153329</guid>
+      <description>On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg&#8217;s vision.</description>
+    </item>
+    <item>
+      <title>Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece</title>
+      <link>https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review</link>
+      <pubDate>2026-08-16T16:31:37-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=980799</guid>
+      <description>"Breakups are&#8230; tough." It's the opening lines of an interlude towards the end of DOOMED! Called "It Happens in Every Universe." It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Pentagon's next big project is hypersonic scramjet cruise missiles able to evade enemy interceptors</title>
+      <link>https://www.techradar.com/pro/the-pentagons-next-big-project-is-hypersonic-scramjet-cruise-missiles-able-to-evade-enemy-interceptors</link>
+      <pubDate>Sun, 16 Aug 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">8hNB4RERsVDjWNrjAf5NPQ</guid>
+      <description>DARPA is seeking a survivable hypersonic scramjet missile capable of confronting sophisticated air defenses while covering missions reaching 2,000 nautical miles.</description>
+    </item>
+    <item>
+      <title>Is buying a OnePlus phone in 2026 still a good idea?</title>
+      <link>https://www.engadget.com/2236810/is-buying-oneplus-phone-still-good-idea-in-2026/</link>
+      <pubDate>Sun, 16 Aug 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2236810/is-buying-oneplus-phone-still-good-idea-in-2026/</guid>
+      <description>If you really want a OnePlus phone, you can still make it work.</description>
+    </item>
     <item>
       <title>Do you really need an antivirus app on your Android?</title>
       <link>https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/</link>
       <pubDate>Sun, 16 Aug 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/</guid>
       <description>You probably don't need antivirus software on your Android phone, but there are some exceptions.</description>
-    </item>
-    <item>
-      <title>Kioxia showcases the world&#8217;s fastest SSD with mind-blowing 10M IOPS and a staggering 50 DWPD endurance</title>
-      <link>https://www.techradar.com/pro/kioxia-showcases-the-worlds-fastest-ssd-with-mind-blowing-10m-iops-and-a-staggering-50-dwpd-endurance</link>
-      <pubDate>Sun, 16 Aug 2026 19:05:00 +0000</pubDate>
-      <guid isPermaLink="false">6y5M62jdLwwiE2i5W6RBmZ</guid>
-      <description>Kioxia's GP1 reaches 10 million IOPS with PCIe 6.0, targeting AI workloads while future versions aim for 100 million.</description>
-    </item>
-    <item>
-      <title>4 of the most detailed and sonically stellar elite hi-fi speakers I heard Audio at Audio Advice Live</title>
-      <link>https://www.techradar.com/audio/speakers/4-of-the-most-detailed-and-sonically-stellar-elite-hi-fi-speakers-i-heard-audio-at-audio-advice-live</link>
-      <pubDate>Sun, 16 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">etpXQbnvoMvMVuR4fLE7fe</guid>
-      <description>This year's Audio Advice Live has brought with it some of the best new stereo speakers from Bowers &amp; Wilkins, Focal, Klipsch, and JBL, redefining what a great HiFi speaker is.</description>
-    </item>
-    <item>
-      <title>Here's why retro games look better on old CRT TVs</title>
-      <link>https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/</link>
-      <pubDate>Sun, 16 Aug 2026 18:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/</guid>
-      <description>A Super Nintendo or PlayStation looked better on retro TVs than today's ultra-sharp displays, but why is there such a difference?</description>
     </item>
   </channel>
 </rss>
