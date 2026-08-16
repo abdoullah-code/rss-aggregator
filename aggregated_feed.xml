@@ -3,7 +3,21 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 16 Aug 2026 22:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:23:01 GMT</lastBuildDate>
+    <item>
+      <title>Russian body, Desi brain: How India is turning the Su-30MKI into a lethal stealth hunter</title>
+      <link>https://www.techradar.com/pro/russian-body-desi-brain-how-india-is-turning-the-su-30mki-into-a-lethal-stealth-hunter</link>
+      <pubDate>Sun, 16 Aug 2026 22:50:00 +0000</pubDate>
+      <guid isPermaLink="false">FvtvY4LfzhViqyRd7Qk8TH</guid>
+      <description>India is developing the Virupaksha radar for its Su-30MKI fleet, potentially giving the Russian-designed fighter much stronger long-range detection capabilities.</description>
+    </item>
+    <item>
+      <title>US Air Force wants AI help to keep its Minuteman III nukes ticking until they're 66, or maybe 80</title>
+      <link>https://www.techradar.com/pro/us-air-force-wants-ai-help-to-keep-its-minuteman-iii-nukes-ticking-until-theyre-66-or-maybe-80</link>
+      <pubDate>Sun, 16 Aug 2026 22:40:00 +0000</pubDate>
+      <guid isPermaLink="false">FvWvRE8zLSufyrzyoM7h6C</guid>
+      <description>The US Air Force wants AI to unify Minuteman III data as Sentinel delays could extend missile service toward 80 years.</description>
+    </item>
     <item>
       <title>Quote of the day by Elon Musk: '[The Tesla Bot] has the potential to be a generalized substitute for human labor over time' &#8212; a bold prediction on the future of work</title>
       <link>https://www.techradar.com/pro/quote-of-the-day-by-elon-musk-the-tesla-bot-has-the-potential-to-be-a-generalized-substitute-for-human-labor-over-time-a-bold-prediction-on-the-future-of-work</link>
@@ -31,48 +45,6 @@
       <pubDate>Sun, 16 Aug 2026 21:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/</guid>
       <description>Google has added some smart theft-detection features to Android in recent years.</description>
-    </item>
-    <item>
-      <title>The Last House review: this tedious thriller is the worst Netflix movie of the year, and it's nothing like the trailer promised</title>
-      <link>https://www.techradar.com/streaming/netflix/the-last-house-review-this-tedious-thriller-is-the-worst-netflix-movie-of-the-year-and-its-nothing-like-the-trailer-promised</link>
-      <pubDate>Sun, 16 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">VWhuD7etwhtMMxbMLBC8qE</guid>
-      <description>The Last House had all the ingredients for an effective thriller movie but the result was nothing like I'd expected.</description>
-    </item>
-    <item>
-      <title>Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</title>
-      <link>https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</link>
-      <pubDate>Sun, 16 Aug 2026 20:57:04 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153332</guid>
-      <description>OpenRouter's CEO recently described the startup as Stripe for AI.</description>
-    </item>
-    <item>
-      <title>Why people aren&#8217;t buying Mark Zuckerberg&#8217;s AI future</title>
-      <link>https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/</link>
-      <pubDate>Sun, 16 Aug 2026 20:32:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153329</guid>
-      <description>On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg&#8217;s vision.</description>
-    </item>
-    <item>
-      <title>Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece</title>
-      <link>https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review</link>
-      <pubDate>2026-08-16T16:31:37-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980799</guid>
-      <description>"Breakups are&#8230; tough." It's the opening lines of an interlude towards the end of DOOMED! Called "It Happens in Every Universe." It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Pentagon's next big project is hypersonic scramjet cruise missiles able to evade enemy interceptors</title>
-      <link>https://www.techradar.com/pro/the-pentagons-next-big-project-is-hypersonic-scramjet-cruise-missiles-able-to-evade-enemy-interceptors</link>
-      <pubDate>Sun, 16 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">8hNB4RERsVDjWNrjAf5NPQ</guid>
-      <description>DARPA is seeking a survivable hypersonic scramjet missile capable of confronting sophisticated air defenses while covering missions reaching 2,000 nautical miles.</description>
-    </item>
-    <item>
-      <title>Is buying a OnePlus phone in 2026 still a good idea?</title>
-      <link>https://www.engadget.com/2236810/is-buying-oneplus-phone-still-good-idea-in-2026/</link>
-      <pubDate>Sun, 16 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2236810/is-buying-oneplus-phone-still-good-idea-in-2026/</guid>
-      <description>If you really want a OnePlus phone, you can still make it work.</description>
     </item>
   </channel>
 </rss>
