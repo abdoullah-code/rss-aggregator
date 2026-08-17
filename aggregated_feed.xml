@@ -3,20 +3,46 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 17 Aug 2026 04:46:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:37:22 GMT</lastBuildDate>
+    <item>
+      <title>Apple corrigerait le seul vrai d&#233;faut du MacBook Neo, un an apr&#232;s</title>
+      <link>https://www.01net.com/actualites/apple-corrigerait-le-seul-vrai-defaut-du-macbook-neo-un-an-apres.html</link>
+      <pubDate>Mon, 17 Aug 2026 05:36:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1364249</guid>
+      <description>Le Mac le moins cher d'Apple a s&#233;duit par son tarif et d&#233;&#231;u par sa m&#233;moire. Son successeur r&#233;glerait justement ce point, ce qui laisse les acheteurs du printemps avec une dr&#244;le d'impression.</description>
+    </item>
+    <item>
+      <title>App Lock&#160;: Android va enfin vous permettre de bloquer l&#8217;acc&#232;s &#224; certaines applications</title>
+      <link>https://www.frandroid.com/marques/google/3213263_app-lock-android-va-enfin-vous-permettre-de-bloquer-lacces-a-certaines-applications</link>
+      <pubDate>Mon, 17 Aug 2026 05:29:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3213263_app-lock-android-va-enfin-vous-permettre-de-bloquer-lacces-a-certaines-applications</guid>
+      <description>
+S&#8217;il vous arrive de pr&#234;ter votre t&#233;l&#233;phone &#224; des yeux un peu trop indiscrets, sachez que Google va bient&#244;t proposer une fonctionnalit&#233; permettant d&#8217;exiger un code ou une empreinte biom&#233;trique au moment de l&#8217;ouverture d&#8217;une app.
+</description>
+    </item>
+    <item>
+      <title>Le prix de la Nintendo Switch 2 va augmenter en septembre, mais vous pouvez actuellement la trouver &#224; moins de 370 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3212763_le-prix-de-la-nintendo-switch-2-va-augmenter-en-septembre-mais-vous-pouvez-actuellement-la-trouver-a-moins-de-370-e</link>
+      <pubDate>Mon, 17 Aug 2026 05:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3212763_le-prix-de-la-nintendo-switch-2-va-augmenter-en-septembre-mais-vous-pouvez-actuellement-la-trouver-a-moins-de-370-e</guid>
+      <description>
+La Nintendo Switch 2 va &#234;tre plus ch&#232;re d&#232;s le mois de septembre. Mais &#224; partir de ce lundi, la console hybride de Nintendo sera affich&#233;e &#224; 367,79 euros au lieu de 469,99 euros sur AliExpress. 
+</description>
+    </item>
+    <item>
+      <title>What to do when your new team expects to be micromanaged</title>
+      <link>https://www.fastcompany.com/91589844/what-to-do-when-your-new-team-expects-to-be-micromanaged</link>
+      <pubDate>2026-08-17T05:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91589844/what-to-do-when-your-new-team-expects-to-be-micromanaged</guid>
+      <description>Three steps to get them back on the road to independence.
+Emily stepped into the VP of Finance role ready to implement new financial and billing systems that would change how her company does business.&#160;</description>
+    </item>
     <item>
       <title>NYT Pips hints, answers for August 17, 2026</title>
       <link>https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-17-2026</link>
       <pubDate>Mon, 17 Aug 2026 03:43:14 +0000</pubDate>
       <guid isPermaLink="false">05SLUpvWVIPbolBl621UBsV</guid>
       <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
-    </item>
-    <item>
-      <title>NYT Connections Sports Edition today: Hints and answers for August 17, 2026</title>
-      <link>https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-august-17-2026</link>
-      <pubDate>Mon, 17 Aug 2026 03:31:25 +0000</pubDate>
-      <guid isPermaLink="false">07p3HTyRqysDllL4tZIbif7</guid>
-      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
     </item>
   </channel>
 </rss>
