@@ -3,7 +3,123 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 17 Aug 2026 16:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:29:38 GMT</lastBuildDate>
+    <item>
+      <title>Apple is reportedly expanding Apple Wallet IDs to four more states</title>
+      <link>https://www.engadget.com/2238436/apple-is-reportedly-expanding-apple-wallet-id-to-four-more-states/</link>
+      <pubDate>Mon, 17 Aug 2026 17:22:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2238436/apple-is-reportedly-expanding-apple-wallet-id-to-four-more-states/</guid>
+      <description>North Carolina's DMV has confirmed plans for a mobile ID program that'll eventually support Apple Wallet.</description>
+    </item>
+    <item>
+      <title>Tatouage de Claude, Gemini et GPT : on a v&#233;rifi&#233; le code cens&#233; casser la protection, voici ce qu&#8217;on a trouv&#233;</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3213909_tatouage-de-claude-gemini-et-gpt-on-a-verifie-le-code-cense-casser-la-protection-voici-ce-quon-a-trouve</link>
+      <pubDate>Mon, 17 Aug 2026 17:16:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3213909_tatouage-de-claude-gemini-et-gpt-on-a-verifie-le-code-cense-casser-la-protection-voici-ce-quon-a-trouve</guid>
+      <description>
+Depuis quelques jours, X et Reddit r&#233;p&#232;tent qu'Anthropic va &#171;&#160;tatouer&#160;&#187; les textes de Claude pour savoir qu'ils ont &#233;t&#233; &#233;crits par une IA et qu'un d&#233;veloppeur aurait d&#233;j&#224; cass&#233; la protection. On a fait lire son code... &#224; Claude. Ligne par ligne&#160;: c'est faux, et le vrai fonctionnement est bien plus surprenant.
+</description>
+    </item>
+    <item>
+      <title>One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers</title>
+      <link>https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers</link>
+      <pubDate>Mon, 17 Aug 2026 17:14:46 GMT</pubDate>
+      <guid isPermaLink="false">4nI4fvd5mLP8PxO3dmgwOc</guid>
+      <description>A retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader module can learn a shortcut: instead of relying on retrieved evidence, it starts answering from its own internal memory &#8212; while the system's overall accuracy keeps climbing. This is the hidden challenge of "role drift," a failure mode in compound AI systems where individual modules learn to bypass their assigned tasks even as end-to-end performance improves.To address this, researchers at MIT and Harvard introduce Role ...</description>
+    </item>
+    <item>
+      <title>YouTube is changing how it counts views to give the numbers a boost</title>
+      <link>https://www.theverge.com/streaming/981105/youtube-video-view-counting-update</link>
+      <pubDate>2026-08-17T13:13:03-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=981105</guid>
+      <description>YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, "which means creators will likely see their total view counts increase faster moving forward," the platform says. Instagram and [&#8230;]</description>
+    </item>
+    <item>
+      <title>Feedly attributes weeklong slowdown to bug, not its AI pivot</title>
+      <link>https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/</link>
+      <pubDate>Mon, 17 Aug 2026 17:10:59 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153433</guid>
+      <description>Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.</description>
+    </item>
+    <item>
+      <title>I spent two weeks with the Motorola Razr 2026, and while it's still the best mid-range flip phone, it left me wanting more</title>
+      <link>https://www.techradar.com/phones/motorola-phones/motorola-razr-2026-review</link>
+      <pubDate>Mon, 17 Aug 2026 17:07:20 +0000</pubDate>
+      <guid isPermaLink="false">3KVijkgKKdFAEVqYzmm8nA</guid>
+      <description>Motorola&#8217;s latest &#8216;affordable&#8217; flip phone wants to dominate the clamshell space, but does it do enough to fight off Samsung?</description>
+    </item>
+    <item>
+      <title>AYN Thor : la console &#224; double &#233;cran AMOLED et Snapdragon 8 Gen 2 passe &#224; 400 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3213869_ayn-thor-la-console-a-double-ecran-amoled-et-snapdragon-8-gen-2-passe-a-400-e</link>
+      <pubDate>Mon, 17 Aug 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3213869_ayn-thor-la-console-a-double-ecran-amoled-et-snapdragon-8-gen-2-passe-a-400-e</guid>
+      <description>
+L'AYN Thor est une console portable au format clapet &#224; double &#233;cran AMOLED, propuls&#233;e par un Snapdragon 8 Gen 2. Elle est disponible pour 400 euros sur Aliexpress dans sa version 8 Go de RAM et 128 Go de stockage.
+</description>
+    </item>
+    <item>
+      <title>Samsung might be making a new foldable that's even wider than the Galaxy Z Fold 8</title>
+      <link>https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/</link>
+      <pubDate>Mon, 17 Aug 2026 16:50:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/</guid>
+      <description>Samsung may have as many as five different foldable phones next year.</description>
+    </item>
+    <item>
+      <title>The Arzopa Z3FC is our top-rated portable monitor &#8212; it's the perfect second screen for work and gaming and Amazon just dropped the price</title>
+      <link>https://www.techradar.com/pro/the-arzopa-z3fc-is-our-top-rated-portable-monitor-its-the-perfect-second-screen-for-work-and-gaming-and-amazon-just-dropped-the-price</link>
+      <pubDate>Mon, 17 Aug 2026 16:49:44 +0000</pubDate>
+      <guid isPermaLink="false">cw9Xzwo7nCp76JiF2AcQdD</guid>
+      <description>Our hardware editor uses this 16.1-inch 2560x1440 portable display every day for working (and playing) and still loves it.</description>
+    </item>
+    <item>
+      <title>Forget Facebook Marketplace &#8212; IKEA's new tool for buying and selling second-hand furniture will launch in the UK 'later this year'</title>
+      <link>https://www.techradar.com/home/forget-facebook-marketplace-ikeas-new-tool-for-buying-and-selling-second-hand-furniture-will-launch-in-the-uk-later-this-year</link>
+      <pubDate>Mon, 17 Aug 2026 16:48:46 +0000</pubDate>
+      <guid isPermaLink="false">sd3vCeav5GwwBW23bnkLG9</guid>
+      <description>IKEA is launching a second-hand marketplace for buying and selling its products in the UK later this year. Here's what we know about its rival to Facebook Marketplace, Vinted and eBay.</description>
+    </item>
+    <item>
+      <title>The Analogue Pocket gets a Supreme makeover in red or gold</title>
+      <link>https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection</link>
+      <pubDate>2026-08-17T12:40:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=981054</guid>
+      <description>Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system. Unibody aluminum with 24K Gold-plated and custom red glossy finishes. They also have a Supreme logo [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Amazon, which started off selling books, is destroying rare texts to train AI</title>
+      <link>https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/</link>
+      <pubDate>Mon, 17 Aug 2026 16:38:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153430</guid>
+      <description>Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.</description>
+    </item>
+    <item>
+      <title>Sonos finally added Live Activities controls for your iPhone lockscreen</title>
+      <link>https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities</link>
+      <pubDate>2026-08-17T12:38:35-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=981008</guid>
+      <description>Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a "much requested, anticipated, and needed feature," according to a post Sonos shared to Reddit today that was spotted by 9to5Mac. While some features [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The DJI Mini 3 is $100 off right now</title>
+      <link>https://mashable.com/tech/aug-17-dji-mini-3-deal</link>
+      <pubDate>Mon, 17 Aug 2026 16:36:19 +0000</pubDate>
+      <guid isPermaLink="false">06Nam8Z8qiICYNClXEZOMES</guid>
+      <description>As of Aug. 17, you can get the DJI Mini 3 for $319, down from $419, at Amazon. That's a 24% discount, or $100 in savings.</description>
+    </item>
+    <item>
+      <title>ByteDance agrees to reel in its AI models to protect Hollywood IPs</title>
+      <link>https://www.engadget.com/2238384/bytedance-agrees-to-reel-in-its-ai-models-to-protect-hollywood-ip/</link>
+      <pubDate>Mon, 17 Aug 2026 16:35:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2238384/bytedance-agrees-to-reel-in-its-ai-models-to-protect-hollywood-ip/</guid>
+      <description>TikTok's parent company signed a memorandum of understanding with The Motion Picture Association.</description>
+    </item>
+    <item>
+      <title>The Samsung T9 is our favorite portable SSD ever &#8212; and it's down to $240 at Amazon</title>
+      <link>https://www.techradar.com/pro/the-samsung-t9-is-our-favorite-portable-ssd-ever-and-its-down-to-usd240-at-amazon</link>
+      <pubDate>Mon, 17 Aug 2026 16:34:06 +0000</pubDate>
+      <guid isPermaLink="false">THc33XghstYhLy8pDgtNn4</guid>
+      <description>Our top-rated portable SSD features 2TB capacity, up to 2,000MB/s read and write, USB 3.2 Gen 2x2, XTS-AES 256-bit encryption, and even 3m drop resistance.</description>
+    </item>
     <item>
       <title>Trump&#8217;s dumb border wall</title>
       <link>https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit</link>
@@ -17,6 +133,13 @@
       <pubDate>Mon, 17 Aug 2026 16:30:00 +0000</pubDate>
       <guid isPermaLink="false">2prXfoTys8HBEGJwae7e3L</guid>
       <description>All the ways to watch Cardiff vs Wrexham live streams online and from anywhere, as the two sides start their EFL Championship campaigns.</description>
+    </item>
+    <item>
+      <title>If you're ignoring iPhone focus modes, you're missing out on Apple's best productivity tool</title>
+      <link>https://www.engadget.com/2237551/iphone-focus-modes-better-productivity/</link>
+      <pubDate>Mon, 17 Aug 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2237551/iphone-focus-modes-better-productivity/</guid>
+      <description>Go beyond Do Not Disturb: control what alerts you get and when instead of being overwhelmed with pings all the time.</description>
     </item>
     <item>
       <title>&#171;&#160;Ce n&#8217;&#233;tait que le d&#233;but&#160;&#187; : les hackers du fisc affirment avoir d&#233;j&#224; revendu les donn&#233;es de 678&#160;000 Fran&#231;ais</title>
@@ -54,11 +177,11 @@
       <description>Proton VPN Free has seen a 600% surge in Omani sign-ups as users scramble to bypass a suspected nationwide ban on TikTok. Here is everything we know so far.</description>
     </item>
     <item>
-      <title>Enterprises with AI context layers report agent failures at more than twice the rate of those without one</title>
-      <link>https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one</link>
-      <pubDate>Mon, 17 Aug 2026 16:11:44 GMT</pubDate>
-      <guid isPermaLink="false">4SAhFZrUBptZZDf5KuFHEU</guid>
-      <description>A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening &#8212; not less.In the past six months, 68% of enterprises have traced a confident but wrong AI agent answer to missing or inconsistent business context. Thirty-seven percent say it happened more than once, ahead of the 32% who saw it happen only once. The figures come from a VB Pulse July 2026 survey of 101 qualified enterprises with more than 100 employees. That's up from 57% in a VB Pu...</description>
+      <title>Lowes new 15-foot Halloween animatronic makes the Home Depots Skelly look petite</title>
+      <link>https://mashable.com/life/lowes-halloween-2026-animatronics</link>
+      <pubDate>Mon, 17 Aug 2026 16:07:28 +0000</pubDate>
+      <guid isPermaLink="false">04CDCchHZpxFWhJGCn27EvP</guid>
+      <description>Lowe's 2026 Halloween collection includes a new $429 Skeleton Watcher that stands taller than the Home Depot's 12-foot Skelly.</description>
     </item>
     <item>
       <title>From a moving Pixar Lamp to a mini animatronic from the Tiki Room, Disney Store just dropped special edition D23 reveals</title>
@@ -75,12 +198,26 @@
       <description>Mozilla n'a rien annonc&#233;, mais la version 154 de son navigateur planque une fonction que tout le monde r&#233;clamait. Petit d&#233;tail savoureux : sur les pages de recherche de Google, sponsor historique de la fondation, les publicit&#233;s passent entre les gouttes.</description>
     </item>
     <item>
+      <title>Have you been Flocked? This website lets you find out</title>
+      <link>https://mashable.com/tech/have-i-been-flocked-license-plate-search</link>
+      <pubDate>Mon, 17 Aug 2026 16:02:57 +0000</pubDate>
+      <guid isPermaLink="false">04zG1vXKwdBfwQ50pOo6dNW</guid>
+      <description>Have I Been Flocked? lets drivers check public records to see whether someone searched their license plate through Flock.</description>
+    </item>
+    <item>
       <title>How this massive online retailer, Russia&#8217;s version of Amazon, is in the Ukraine&#8217;s crosshairs</title>
       <link>https://www.fastcompany.com/91591250/how-massive-online-retailer-russias-version-amazon-now-target-war-ukraine</link>
       <pubDate>2026-08-17T16:01:18</pubDate>
       <guid isPermaLink="false">https://www.fastcompany.com/91591250/how-massive-online-retailer-russias-version-amazon-now-target-war-ukraine</guid>
       <description>The Ukraine is attacking Russia&#8217;s economy with drone strikes on a retail giant&#8217;s  warehouses.
 The attacks began on a July weekend and have continued for a month, stretching from Moscow and St. Petersburg, to cities in the south, and eastward to the Ural Mountains. The targets weren&#8217;t oil refineries, maritime hubs or arms plants hit by other Ukrainian strikes, but warehouses that bring the convenience of online shopping across the breadth of Russia.Ukraine&#8217;s drones have pummeled the giant depots belonging to Wildberries, Russia&#8217;s biggest online retailer, burning billions of dollars&#8217; worth of me...</description>
+    </item>
+    <item>
+      <title>What is the release date for Ted Lasso season 4 episode 3 on Apple TV?</title>
+      <link>https://www.techradar.com/streaming/apple-tv-plus/what-is-the-release-date-for-ted-lasso-season-4-episode-3-on-apple-tv</link>
+      <pubDate>Mon, 17 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">nj7gS5hdoyy3RhYmGJqEUg</guid>
+      <description>Here's when you'll be able to stream the next episode of Ted Lasso's fourth season.</description>
     </item>
     <item>
       <title>How to watch Celebrity MasterChef online from anywhere &#8211; it's *FREE*</title>
@@ -90,11 +227,11 @@ The attacks began on a July weekend and have continued for a month, stretching f
       <description>Here's how to watch Celebrity MasterChef season 21 online for free from anywhere in the world.</description>
     </item>
     <item>
-      <title>What is the release date for Ted Lasso season 4 episode 3 on Apple TV?</title>
-      <link>https://www.techradar.com/streaming/apple-tv-plus/what-is-the-release-date-for-ted-lasso-season-4-episode-3-on-apple-tv</link>
+      <title>How Steve Way became Furiouss funniest scene-stealer</title>
+      <link>https://mashable.com/entertainment/furious-steve-way</link>
       <pubDate>Mon, 17 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">nj7gS5hdoyy3RhYmGJqEUg</guid>
-      <description>Here's when you'll be able to stream the next episode of Ted Lasso's fourth season.</description>
+      <guid isPermaLink="false">054LDCMuzvgtVTo1IZZGCIU</guid>
+      <description>Showrunner Elizabeth Meriwether and star Lola Petticrew share their insights on Steve Way, Alden, and another murder allegation for the "Furious" serial killer.</description>
     </item>
     <item>
       <title>AirPods Pro 3 : les meilleurs true wireless d&#8217;Apple sont enfin de retour &#224; moins de 200 &#8364;</title>
@@ -106,11 +243,32 @@ Qualit&#233; audio pr&#233;cise, ANC bluffante, suivi de fr&#233;quence cardiaqu
 </description>
     </item>
     <item>
+      <title>What Claudes AI text watermark actually does</title>
+      <link>https://mashable.com/tech/what-claude-ai-text-watermark-actually-does</link>
+      <pubDate>Mon, 17 Aug 2026 15:59:09 +0000</pubDate>
+      <guid isPermaLink="false">03P5NubsyardVxjgeQ2QYn7</guid>
+      <description>Anthropic explains how Claude's new text watermarking works, why it's rolling out, and what it can and can't prove.</description>
+    </item>
+    <item>
       <title>31 top deals from the Best Buy 60th Anniversary sale &#8212; I've found the biggest savings on laptops, TVs, Apple, appliances, headphones, and more</title>
       <link>https://www.techradar.com/seasonal-sales/31-top-deals-from-the-best-buy-60th-anniversary-sale-ive-found-the-biggest-savings-on-laptops-tvs-apple-appliances-headphones-and-more</link>
       <pubDate>Mon, 17 Aug 2026 15:53:04 +0000</pubDate>
       <guid isPermaLink="false">uweT5TRB7mGWsjy6he6kQD</guid>
       <description>Best Buy is celebrating its 60th anniversary with a massive week-long tech sale, so I've looked through it and picked out the 31 best deals on laptops, TVs, Apple, appliances, headphones, and more.</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy phones could soon get a popular Apple feature</title>
+      <link>https://mashable.com/tech/samsung-one-ui-9-5-app-mirroring</link>
+      <pubDate>Mon, 17 Aug 2026 15:51:12 +0000</pubDate>
+      <guid isPermaLink="false">06Grom5vFIYZdwxVhtVV8QB</guid>
+      <description>Apple phones and laptops have been able to interface with each other for years, and Samsung devices could do the same soon.</description>
+    </item>
+    <item>
+      <title>Update your Mac: Screen Share vulnerability gives attackers full control of your computer</title>
+      <link>https://mashable.com/tech/apple-mac-macbook-screen-share-vulnerability</link>
+      <pubDate>Mon, 17 Aug 2026 15:44:57 +0000</pubDate>
+      <guid isPermaLink="false">04IQF3LF9FZ6AG00ieDk56a</guid>
+      <description>Apple has released a critical security update for macOS that patches a Screen Share-related vulnerability.</description>
     </item>
     <item>
       <title>&#8216;Once the right balance between cloud and local AI is found, organisations will find the sweet spot between cost, performance and security&#8217;: The future of AI strategy and how businesses can get the best results</title>
@@ -148,215 +306,6 @@ Vebo, la start-up fran&#231;aise qui souhaitait transformer n'importe quel v&#23
       <pubDate>Mon, 17 Aug 2026 15:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2235557/iphone-15-still-worth-money-in-2026/</guid>
       <description>Buying an older iPhone is a great way to save money while taking advantage of Apple's long support. But is the iPhone 15 too old to be worth it now?</description>
-    </item>
-    <item>
-      <title>That Apple Screen Sharing bug has now been seen in the wild, so please update macOS</title>
-      <link>https://www.engadget.com/2238240/apple-screen-sharing-bug-has-been-seen-in-the-wild-please-update-macos/</link>
-      <pubDate>Mon, 17 Aug 2026 15:25:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2238240/apple-screen-sharing-bug-has-been-seen-in-the-wild-please-update-macos/</guid>
-      <description>A bug in macOS screen sharing lets attackers view your screen, open files and do just about anything else they want.</description>
-    </item>
-    <item>
-      <title>TP-Link BE6300 Dual-Band Wi-Fi 7 Range Extender (RE403BE): a fast and easy-to-use device for boosting your Wi-Fi range</title>
-      <link>https://www.techradar.com/computing/wi-fi-broadband/tp-link-be6300-dual-band-wi-fi-7-range-extender-re403be</link>
-      <pubDate>Mon, 17 Aug 2026 15:23:44 +0000</pubDate>
-      <guid isPermaLink="false">bgotLb9FXjC9hshSeXeH4e</guid>
-      <description>The TP-Link BE6300 is a great Wi-Fi 7 extender that can boost your home network's coverage without costing you a fortune. However, some of the compromises made to keep the price down might be too much for power users, such as gamers.</description>
-    </item>
-    <item>
-      <title>GitHub has been down for most of the morning</title>
-      <link>https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/</link>
-      <pubDate>Mon, 17 Aug 2026 15:22:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/</guid>
-      <description>If you hear lots of grumbling in coffee shops this morning, GitHub's outage may be why.</description>
-    </item>
-    <item>
-      <title>Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project</title>
-      <link>https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/</link>
-      <pubDate>Mon, 17 Aug 2026 15:16:24 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153419</guid>
-      <description>Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.</description>
-    </item>
-    <item>
-      <title>4TB Seagate IronWolf hard drive is a versatile storage upgrade that's especially well suited to NAS systems and it's 33% off right now</title>
-      <link>https://www.techradar.com/computing/storage-backup/4tb-seagate-ironwolf-hard-drive-is-a-versatile-storage-upgrade-thats-especially-well-suited-to-nas-systems-and-its-33-percent-off-right-now</link>
-      <pubDate>Mon, 17 Aug 2026 15:15:15 +0000</pubDate>
-      <guid isPermaLink="false">w6JnT9A3bVc8tD6zGLgjg8</guid>
-      <description>4TB Seagate IronWolf HDD is a versatile storage upgrade that's especially well suited to NAS systems and it's 33% cheaper at the moment.</description>
-    </item>
-    <item>
-      <title>The upcoming California trial against Meta seeks financial damages that could soar to $1.4 trillion</title>
-      <link>https://www.fastcompany.com/91591243/upcoming-california-trial-against-meta-seeks-financial-damages-could-soar-1-4-trillion</link>
-      <pubDate>2026-08-17T15:12:29</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91591243/upcoming-california-trial-against-meta-seeks-financial-damages-could-soar-1-4-trillion</guid>
-      <description>The landmark trial, which begins this week, could ultimately change the way Facebook and Instagram operate.
-Of the thousands of lawsuits Meta faces over child safety on its platforms, none may be more consequential than one going to trial this week in California.States are seeking extensive financial damages that could, in theory, total as much as $1.4 trillion, plus changes to how the company operates Facebook and Instagram.The lawsuit accuses the social media giant of contributing to the youth mental health crisis by knowingly and deliberately designing features that get children addicted to...</description>
-    </item>
-    <item>
-      <title>Non, NordVPN ne vide pas votre batterie, selon une &#233;tude qu&#8217;il a lui-m&#234;me command&#233;e</title>
-      <link>https://www.frandroid.com/produits-android/smartphone/3213741_non-nordvpn-ne-vide-pas-votre-batterie-selon-une-etude-quil-a-lui-meme-commandee</link>
-      <pubDate>Mon, 17 Aug 2026 15:12:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/smartphone/3213741_non-nordvpn-ne-vide-pas-votre-batterie-selon-une-etude-quil-a-lui-meme-commandee</guid>
-      <description>
-Les applications VPN mobiles ont la r&#233;putation de drainer la batterie des smartphones. En prenant l'exemple de NordVPN, un laboratoire montre que c'est une l&#233;gende urbaine.
-</description>
-    </item>
-    <item>
-      <title>Apple ordered to stop scaring iPhone and iPad users away from third-party apps</title>
-      <link>https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany</link>
-      <pubDate>2026-08-17T11:10:25-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980977</guid>
-      <description>Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Terra Industries closes $52M seed round to build defense infrastructure for the Global South</title>
-      <link>https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/</link>
-      <pubDate>Mon, 17 Aug 2026 15:06:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153373</guid>
-      <description>African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.</description>
-    </item>
-    <item>
-      <title>MacOS users warned to beware screen-sharing bug which can turn Macs into cryptomining slaves</title>
-      <link>https://www.techradar.com/pro/security/macos-users-warned-to-beware-screen-sharing-bug-which-can-turn-macs-into-cryptomining-slaves</link>
-      <pubDate>Mon, 17 Aug 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">GNymd9yeKgRVNJ8phk4pgn</guid>
-      <description>Apple patched a critical-severity flaw in Screen Sharing which allowed crooks unabated access to vulnerable devices.</description>
-    </item>
-    <item>
-      <title>Grocery Outlet store closures: See a list of locations that have shuttered across 6 states in 2026</title>
-      <link>https://www.fastcompany.com/91591192/grocery-outlet-closing-stores-2026-list-of-shuttered-locations</link>
-      <pubDate>2026-08-17T15:05:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91591192/grocery-outlet-closing-stores-2026-list-of-shuttered-locations</guid>
-      <description>The bargain supermarket chain has closed at least 40 locations this year, with states including California, Maryland, and Ohio being the hardest hit.
-Back in March, discount grocery chain Grocery Outlet Bargain Market announced plans to close 36 underperforming locations. The store closures are part of a broader restructuring aimed at strengthening its long-term profitability and optimizing its existing store footprint.&#160;...</description>
-    </item>
-    <item>
-      <title>Gear up with the Bluetti Elite 100 V2 portable power station and a 100W solar panel for under $630</title>
-      <link>https://mashable.com/tech/aug-17-bluetti-elite-100-v2-100w-solar-panel-deal</link>
-      <pubDate>Mon, 17 Aug 2026 15:04:30 +0000</pubDate>
-      <guid isPermaLink="false">04JY7bosrBci5yNmplc74WS</guid>
-      <description>The Bluetti Elite 100 V2 portable power station with a 100W solar panel is on sale for $629 at Amazon, down from the list price of $1,099. That's a 43% discount.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Z Fold 8, Z Fold 8 Ultra et Flip 8 : combien co&#251;te la r&#233;paration d&#8217;un &#233;cran bris&#233; ?</title>
-      <link>https://www.frandroid.com/marques/samsung/3213777_samsung-galaxy-z-fold-8-z-fold-8-ultra-et-flip-8-combien-coute-la-reparation-dun-ecran-brise</link>
-      <pubDate>Mon, 17 Aug 2026 15:02:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3213777_samsung-galaxy-z-fold-8-z-fold-8-ultra-et-flip-8-combien-coute-la-reparation-dun-ecran-brise</guid>
-      <description>
-Samsung vient d'officialiser les prix moyens pour le changement d'un &#233;cran cass&#233; sur sa derni&#232;re gamme de smartphones pliables. Mieux vaut &#233;viter la casse.
-</description>
-    </item>
-    <item>
-      <title>&#171;&#160;ChatGPT m&#8217;a g&#226;ch&#233; mon voyage&#160;&#187; : le cauchemar des touristes qui font aveugl&#233;ment confiance &#224; l&#8217;IA</title>
-      <link>https://www.01net.com/actualites/chatgpt-ma-gache-mon-voyage-le-cauchemar-des-touristes-qui-font-aveuglement-confiance-a-lia.html</link>
-      <pubDate>Mon, 17 Aug 2026 15:02:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1364491</guid>
-      <description>Restaurants fant&#244;mes, visas oubli&#233;s et itin&#233;raires de randonn&#233;e dangereux : utiliser l'intelligence artificielle pour organiser ses vacances peut &#234;tre un pari tr&#232;s risqu&#233;.</description>
-    </item>
-    <item>
-      <title>PC gamers are asking 'what's next?' as RAM crisis sparks further rumors of GPU price hikes, and gaming monitors could get more expensive</title>
-      <link>https://www.techradar.com/computing/gpu/pc-gamers-are-asking-whats-next-as-ram-crisis-sparks-further-rumors-of-gpu-price-hikes-and-gaming-monitors-could-get-more-expensive</link>
-      <pubDate>Mon, 17 Aug 2026 15:02:24 +0000</pubDate>
-      <guid isPermaLink="false">drdzso52EPJUbkUApfNsun</guid>
-      <description>Graphics card maker warns that GPUs are due 'substantial' price hikes, and I'd buy now rather than wait &#8212; the same might be true of gaming monitors.</description>
-    </item>
-    <item>
-      <title>This AI startup is using self-driving car technology to bring 3D video to live sports</title>
-      <link>https://www.fastcompany.com/91589495/this-ai-startup-is-using-self-driving-car-technology-to-bring-3d-video-to-live-sports</link>
-      <pubDate>2026-08-17T15:01:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91589495/this-ai-startup-is-using-self-driving-car-technology-to-bring-3d-video-to-live-sports</guid>
-      <description>Toronto-based Peripheral Labs is bringing spatial intelligence to live sports media, letting viewers watch games from every conceivable angle.
-If you&#8217;ve ever played a sports video game&#8212;such as an entry in the long-running Madden NFL series, or one of the annual releases focused on the NHL, NBA, or MLB&#8212;you&#8217;re likely familiar with the ability to follow the action from every conceivable angle. It&#8217;s something that can&#8217;t quite be matched in an arena setting, even in buildings packed with cameras....</description>
-    </item>
-    <item>
-      <title>I gave ChatGPT my Google Drive &#8216;digital junk drawer&#8217; &#8212; it dug up things I&#8217;d forgotten about years ago</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/chatgpt/i-gave-chatgpt-my-google-drive-digital-junk-drawer-it-dug-up-things-id-forgotten-about-years-ago</link>
-      <pubDate>Mon, 17 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8Ns7Cgu2V8S6UV4xHByD9K</guid>
-      <description>ChatGPT can now treat your Google Drive as part of its library, unlocking huge potential for organizing your digital mess.</description>
-    </item>
-    <item>
-      <title>La 5G+ avec bande d&#233;di&#233;e sur un forfait, c&#8217;est rare, et Orange le propose &#224; 24,99 euros</title>
-      <link>https://www.frandroid.com/bons-plans/3213787_la-5g-avec-bande-dediee-sur-un-forfait-cest-rare-et-orange-le-propose-a-2499-euros</link>
-      <pubDate>Mon, 17 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3213787_la-5g-avec-bande-dediee-sur-un-forfait-cest-rare-et-orange-le-propose-a-2499-euros</guid>
-      <description>
-Orange d&#233;gaine un forfait 250 Go en 5G+ &#224; 24,99 euros par mois, pens&#233; pour ceux qui bougent. La data suit presque partout, en Europe comme dans 78 destinations.
-</description>
-    </item>
-    <item>
-      <title>What is the release date for Outer Banks season 5 on Netflix?</title>
-      <link>https://www.techradar.com/streaming/netflix/outer-banks-season-5-release-date-time</link>
-      <pubDate>Mon, 17 Aug 2026 14:56:10 +0000</pubDate>
-      <guid isPermaLink="false">bbipvJeXvzK7tkR57RK5Fb</guid>
-      <description>It stings, but the final ever episodes of the teen action drama are here &#8212; so, when does Outer Banks season 5 arrive on Netflix?</description>
-    </item>
-    <item>
-      <title>WordPress.com targets the next generation of web creators with a free student plan</title>
-      <link>https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/</link>
-      <pubDate>Mon, 17 Aug 2026 14:56:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153372</guid>
-      <description>WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.</description>
-    </item>
-    <item>
-      <title>Cette application transforme vos sorties v&#233;lo en v&#233;ritable jeu de conqu&#234;te de territoire &#224; la Pixel War</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3213785_cette-application-transforme-vos-sorties-velo-en-veritable-jeu-de-conquete-de-territoire-a-la-pixel-war</link>
-      <pubDate>Mon, 17 Aug 2026 14:55:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3213785_cette-application-transforme-vos-sorties-velo-en-veritable-jeu-de-conquete-de-territoire-a-la-pixel-war</guid>
-      <description>
-L&#8217;application mobile INTVL propose de fa&#231;on ludique aux cyclistes (et coureurs) de conqu&#233;rir des zones lors de leurs trajets partout dans le monde. Des zones que l&#8217;on peut perdre &#224; tout moment, et que l'on peut d&#233;fendre aussi.
-</description>
-    </item>
-    <item>
-      <title>Summer isnt over, but Starbucks doesnt care: The Pumpkin Spice Latte returns Aug. 25</title>
-      <link>https://mashable.com/life/starbucks-releases-pumpkin-spice-latte</link>
-      <pubDate>Mon, 17 Aug 2026 14:55:32 +0000</pubDate>
-      <guid isPermaLink="false">04qEAXZpexahe1zeHpKIIlE</guid>
-      <description>Starbucks' Pumpkin Spice Latte returns on Aug. 25. Here's the full 2026 fall menu, plus answers to price, calories, and ingredients.</description>
-    </item>
-    <item>
-      <title>Insta360 Luna Ultra review: This 8K gimbal camera is a challenge to DJIs dominance</title>
-      <link>https://mashable.com/tech/insta360-luna-ultra-review-gimbal-camera</link>
-      <pubDate>Mon, 17 Aug 2026 14:49:23 +0000</pubDate>
-      <guid isPermaLink="false">010GcinusfUH8eeUxX4e3sI</guid>
-      <description>Mashable reviewed the Insta360 Luna Ultra, an 8K dual lens gimbal camera that's a serious competitor to the DJI Osmo Pocket 4P.</description>
-    </item>
-    <item>
-      <title>The MacBook Neo now comes with a free $25 Starbucks gift card at Best Buy</title>
-      <link>https://mashable.com/tech/aug-17-macbook-neo-starbucks-deal</link>
-      <pubDate>Mon, 17 Aug 2026 14:42:44 +0000</pubDate>
-      <guid isPermaLink="false">03bUNcGQmQ47WMKgCUhLL9T</guid>
-      <description>Buy the MacBook Neo from Best Buy and get a free $25 Starbucks gift card.</description>
-    </item>
-    <item>
-      <title>Meilleur airfryer en 2026 : notre comparatif des friteuses sans huile, toutes test&#233;es</title>
-      <link>https://www.frandroid.com/guide-dachat/3162243_friteuses-sans-huile-les-meilleurs-air-fryers-a-acheter</link>
-      <pubDate>Mon, 17 Aug 2026 14:42:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/3162243_friteuses-sans-huile-les-meilleurs-air-fryers-a-acheter</guid>
-      <description>
-Cela fait quelques ann&#233;es maintenant que les air fryers, aussi appel&#233;es friteuses sans huile, ont colonis&#233; nos cuisines. Il en existe de tr&#232;s nombreux mod&#232;les avec diff&#233;rentes fonctionnalit&#233;s : comment bien choisir ? Voici nos recommandations.
-</description>
-    </item>
-    <item>
-      <title>'I honestly thought Highguard looked pretty good' &#8212; Gears of War creator laments internet culture in which it's 'cool to hate' new games</title>
-      <link>https://www.techradar.com/gaming/gaming-industry/i-honestly-thought-highguard-looked-pretty-good-gears-of-war-creator-laments-internet-culture-where-its-cool-to-hate-new-games</link>
-      <pubDate>Mon, 17 Aug 2026 14:38:19 +0000</pubDate>
-      <guid isPermaLink="false">GbUbp2i7ZQRAyVDwTXDspf</guid>
-      <description>The creator of Gears of War has taken to social media to post about the negative culture surrounding new live-service games.</description>
-    </item>
-    <item>
-      <title>As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer</title>
-      <link>https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer</link>
-      <pubDate>Mon, 17 Aug 2026 14:37:08 GMT</pubDate>
-      <guid isPermaLink="false">5qvzuHXsG1vMec64sNtG75</guid>
-      <description>Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.Gartner estimates that the average global Fortune 500 company will have more than 150,000 AI agents in use by 2028, up from fewer than 15 in 2025. Yet only 13% of organizations believe they currently have the right AI agent governance in place, according to the research firm.That widening gap is creating a market for infrastructure that sits above individual models and agents &#8212; handling execution, permissions, observability, memory, access to enterprise syste...</description>
-    </item>
-    <item>
-      <title>WiiM&#8217;s capable HomePod-esque smart speaker is almost $50 off</title>
-      <link>https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale</link>
-      <pubDate>2026-08-17T10:35:25-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980916</guid>
-      <description>The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM&#8217;s powerful 100W Sound smart speaker is an attractive alternative because it&#8217;s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, [&#8230;]</description>
     </item>
   </channel>
 </rss>
