@@ -3,6 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 17 Aug 2026 03:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:46:52 GMT</lastBuildDate>
+    <item>
+      <title>NYT Pips hints, answers for August 17, 2026</title>
+      <link>https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-17-2026</link>
+      <pubDate>Mon, 17 Aug 2026 03:43:14 +0000</pubDate>
+      <guid isPermaLink="false">05SLUpvWVIPbolBl621UBsV</guid>
+      <description>The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.</description>
+    </item>
+    <item>
+      <title>NYT Connections Sports Edition today: Hints and answers for August 17, 2026</title>
+      <link>https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-august-17-2026</link>
+      <pubDate>Mon, 17 Aug 2026 03:31:25 +0000</pubDate>
+      <guid isPermaLink="false">07p3HTyRqysDllL4tZIbif7</guid>
+      <description>Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.</description>
+    </item>
   </channel>
 </rss>
