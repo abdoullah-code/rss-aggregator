@@ -3,13 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 19 Aug 2026 22:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:26:00 GMT</lastBuildDate>
+    <item>
+      <title>The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19</title>
+      <link>https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/</link>
+      <pubDate>Wed, 19 Aug 2026 23:10:21 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/</guid>
+      <description>There's nothing else going on that day, right?</description>
+    </item>
+    <item>
+      <title>Ukraine drone maker launches self-driving wagon capable of lugging 210kg across bumpy terrain &#8212;  could this be its next secret weapon to turning the tide of war?</title>
+      <link>https://www.techradar.com/pro/ukraine-drone-maker-launches-self-driving-wagon-capable-of-lugging-210kg-across-bumpy-terrain-could-this-be-its-next-secret-weapon-to-turning-the-tide-of-war</link>
+      <pubDate>Wed, 19 Aug 2026 23:10:00 +0000</pubDate>
+      <guid isPermaLink="false">boPHp28SX3Bvm9ZFQjm5Qa</guid>
+      <description>Temerland&#8217;s Gnom L2 carries 210 kilograms across rough terrain, using remote control, larger batteries and mixed wheels and tracks.</description>
+    </item>
+    <item>
+      <title>Elon Musk Is Expected to Point His Money Machine at Texas</title>
+      <link>https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/</link>
+      <pubDate>Wed, 19 Aug 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a84bea777341ff2b3810ce0</guid>
+      <description>Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who&#8217;s struggled to raise cash.</description>
+    </item>
+    <item>
+      <title>Does giving a camera wings dodge the FCC&#8217;s drone ban?</title>
+      <link>https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo</link>
+      <pubDate>2026-08-19T18:35:20-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=981834</guid>
+      <description>HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&#8230;]</description>
+    </item>
     <item>
       <title>Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities</title>
       <link>https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/</link>
       <pubDate>Wed, 19 Aug 2026 22:25:01 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3154552</guid>
-      <description>The next-generation robotaxi called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.</description>
+      <description>The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.</description>
     </item>
     <item>
       <title>Alabama town left powerless against massive new Bitcoin mining data center after developer finds loophole in state zoning laws</title>
@@ -33,6 +61,14 @@
       <description>Despite a public backlash against the tech, Flock's business is continuing to expand beyond license plate readers.</description>
     </item>
     <item>
+      <title>Gwyneth Paltrow is rumored to be throwing a party for AI mogul Sam Altman. People don&#8217;t love the optics</title>
+      <link>https://www.fastcompany.com/91592424/gwyneth-paltrow-sam-altman-ai-party-not-going-over-well-is-it-real</link>
+      <pubDate>2026-08-19T21:55:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91592424/gwyneth-paltrow-sam-altman-ai-party-not-going-over-well-is-it-real</guid>
+      <description>ChatGPT could not have hallucinated a stranger pairing.
+Gwyneth Paltrow has once again found herself at the center of online discourse, but this time she&#8217;s being criticized for allegedly throwing a party.</description>
+    </item>
+    <item>
       <title>Cognition CEO denies report that SpaceX tried to acquire the startup</title>
       <link>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</link>
       <pubDate>Wed, 19 Aug 2026 21:51:23 +0000</pubDate>
@@ -45,48 +81,6 @@
       <pubDate>Wed, 19 Aug 2026 21:48:24 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3154186</guid>
       <description>After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.</description>
-    </item>
-    <item>
-      <title>Japanese ecommerce giant Rakuten teams up with German startup to build military drones</title>
-      <link>https://www.techradar.com/pro/japanese-ecommerce-giant-rakuten-teams-up-with-german-startup-to-build-military-drones</link>
-      <pubDate>Wed, 19 Aug 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">CgthTx43oU8bAshNUMpbxN</guid>
-      <description>Rakuten is helping German defence startup Helsing introduce its HX-2 strike drone to Japan's military through ongoing field trials.</description>
-    </item>
-    <item>
-      <title>Valve Steam Frame videos show how to wear the headset, perfect the fit and sign in</title>
-      <link>https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/</link>
-      <pubDate>Wed, 19 Aug 2026 21:14:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/</guid>
-      <description>Eight leaked Steam Frame videos are informative and kinda silly.</description>
-    </item>
-    <item>
-      <title>Waymo Ojai vans are now available for all riders in three cities</title>
-      <link>https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/</link>
-      <pubDate>Wed, 19 Aug 2026 21:07:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/</guid>
-      <description>It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.</description>
-    </item>
-    <item>
-      <title>6 brilliant, budget-friendly headphones for students &#8212; including 5-star earbuds, and Sony cans that deliver 'flagship-level features' for an astoundingly low price</title>
-      <link>https://www.techradar.com/audio/wireless-headphones/6-brilliant-budget-friendly-headphones-for-students-including-five-star-earbuds-and-sony-cans-that-deliver-flagship-level-features-for-an-astoundingly-low-price</link>
-      <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">9C5nmuqdhs8AmJnQLbHxwn</guid>
-      <description>You don't have to spend big for great sound &#8212; these tried-and-tested headphones start from just $20.</description>
-    </item>
-    <item>
-      <title>Blockbuster is making an unlikely comeback &#8212; neighborhood 'Free Blockbuster' boxes are multiplying for DVD and Blu-ray fans, as new website turns Netflix into a 3D video store</title>
-      <link>https://www.techradar.com/streaming/blockbuster-is-making-an-unlikely-comeback-neighborhood-free-blockbuster-boxes-are-multiplying-for-dvd-and-blu-ray-fans-as-new-website-turns-netflix-into-a-3d-video-store</link>
-      <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pkrwGN9RP3SoTPX3NESkGU</guid>
-      <description>The Blockbuster brand is now dormant, but its aesthetics are back for both physical media and streaming.</description>
-    </item>
-    <item>
-      <title>Public TV channel sues Iron Mountain data center after its cloud storage vendor goes out of business, losing over 70 years of archival materials and programming</title>
-      <link>https://www.techradar.com/pro/public-tv-channel-sues-iron-mountain-data-center-after-its-cloud-storage-vendor-goes-out-of-business-losing-over-70-years-of-archival-materials-and-programming</link>
-      <pubDate>Wed, 19 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">ZskTenh6JnrqHNT43BmRtJ</guid>
-      <description>A St. Louis PBS station bought cloud storage from a vendor that has now gone defunct and is now in a legal battle with its landlord for access to its own data</description>
     </item>
   </channel>
 </rss>
