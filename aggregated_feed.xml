@@ -3,34 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 19 Aug 2026 03:00:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:40:20 GMT</lastBuildDate>
     <item>
-      <title>Think you know your Tom Cruise from your Alan Ritchson? Take this ultimate Jack Reacher quiz before the Prime Video series ends &#8212; I bet you can't score more than 70%</title>
-      <link>https://www.techradar.com/streaming/amazon-prime-video/think-you-know-your-tom-cruise-from-your-alan-ritchson-take-this-ultimate-jack-reacher-quiz-before-the-prime-video-series-ends-i-bet-you-cant-score-more-than-70-percent</link>
-      <pubDate>Wed, 19 Aug 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">mfg7oZn4APNxMWoa9oBzXT</guid>
-      <description>With Reacher season 4 currently streaming on Prime Video, there's never been a better time to put your Jack Reacher knowledge to the test. But can you hack this quiz?</description>
+      <title>Sorry, Samsung &#8212; Google says its latest AI smartphone camera tool can measure bodies better than the Galaxy Watch's bioelectric sensors</title>
+      <link>https://www.techradar.com/health-fitness/sorry-samsung-google-says-its-latest-ai-smartphone-camera-tool-can-measure-bodies-better-than-the-galaxy-watchs-bioelectric-sensors</link>
+      <pubDate>Wed, 19 Aug 2026 03:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ag22nhMkB7swpMn7MJBHHM</guid>
+      <description>In the midst of a health wearables arms race, Google's been quietly developing health scanning tools for your smartphone's camera instead.</description>
     </item>
     <item>
-      <title>GLM-5.3 hits the API at $1.4/$4.4 per million tokens</title>
-      <link>https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens</link>
-      <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="false">6TKv8ZtUA2tSZ8JCTJav06</guid>
-      <description>After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has now hit the application programming interface (API) &#8212; allowing developers the ability to build atop it and plug it into their agents and applications. Developers who previously subscribed to a GLM Coding Plan are currently limited to the OpenAI Chat Completions-compatible protocol. Z.ai said it plans to make the model's weights openly available, but a precise date and licen...</description>
-    </item>
-    <item>
-      <title>I'm a home appliances expert, and these are the air fryers I'd recommend for students &#8212; plus my top tips on how to choose</title>
-      <link>https://www.techradar.com/home/air-fryers/im-a-home-appliances-expert-and-these-are-the-air-fryers-id-recommend-for-students-plus-my-top-tips-on-how-to-choose</link>
-      <pubDate>Wed, 19 Aug 2026 01:30:00 +0000</pubDate>
-      <guid isPermaLink="false">7ufEyNEdLiQtEWvYt9cx4m</guid>
-      <description>Student-friendly friers &#8212; including an ingenious design that uses the same container for cooking, serving and storing, to minimize washing up.</description>
-    </item>
-    <item>
-      <title>Rent a supernode by the hour - Alibaba brings frontier-scale AI compute to the public cloud, but only if you live in this remote Chinese province</title>
-      <link>https://www.techradar.com/pro/rent-a-supernode-by-the-hour-alibaba-brings-frontier-scale-ai-compute-to-the-public-cloud-in-china</link>
-      <pubDate>Wed, 19 Aug 2026 01:20:00 +0000</pubDate>
-      <guid isPermaLink="false">5oTNDZandYCDUizQQnjRNQ</guid>
-      <description>Alibaba's new AI supernode is rentable by the hour, built entirely on Chinese silicon, and smaller than every rival it's compared to.</description>
+      <title>Leaker claims Nintendo Switch 2 version of Diablo 4 will finally arrive two days after BlizzCon and include two expansions</title>
+      <link>https://www.techradar.com/gaming/leaker-claims-nintendo-switch-2-version-of-diablo-4-will-finally-arrive-two-days-after-blizzcon-and-include-two-expansions</link>
+      <pubDate>Wed, 19 Aug 2026 03:01:29 +0000</pubDate>
+      <guid isPermaLink="false">arNaFvZvF7MbkFtUT3zsKA</guid>
+      <description>The long-rumored Nintendo Switch 2 port of Diablo 4 could reportedly launch very soon after BlizzCon 2026.</description>
     </item>
   </channel>
 </rss>
