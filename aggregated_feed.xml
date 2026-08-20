@@ -3,12 +3,127 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 20 Aug 2026 12:55:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:50:16 GMT</lastBuildDate>
+    <item>
+      <title>What AI usage is really telling us about enterprise adoption</title>
+      <link>https://www.techradar.com/pro/what-ai-usage-is-really-telling-us-about-enterprise-adoption</link>
+      <pubDate>Thu, 20 Aug 2026 13:45:46 +0000</pubDate>
+      <guid isPermaLink="false">V4ikHWDw972eEdQ2Ydgj68</guid>
+      <description>New AI Gateway data reveals why businesses are prioritizing smarter AI deployment over model rankings and hype.</description>
+    </item>
+    <item>
+      <title>Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part</title>
+      <link>https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/</link>
+      <pubDate>Thu, 20 Aug 2026 13:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154377</guid>
+      <description>Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.</description>
+    </item>
+    <item>
+      <title>Un institut fran&#231;ais victime d&#8217;une cyberattaque&#160;: les donn&#233;es de 7&#160;500 personnes compromises</title>
+      <link>https://www.01net.com/actualites/institut-francais-victime-cyberattaque-donnees-7500-personnes-compromises.html</link>
+      <pubDate>Thu, 20 Aug 2026 13:31:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1365065</guid>
+      <description>L'Institut de recherche pour le d&#233;veloppement (IRD) a subi une cyberattaque exposant les donn&#233;es personnelles de 7 500 personnes. Les informations compromises comprennent notamment : nom, num&#233;ro de S&#233;curit&#233; sociale, adresse postale ou encore adresse mail. L&#8217;IRD appelle les personnes concern&#233;es &#224; la vigilance.</description>
+    </item>
+    <item>
+      <title>DJI Osmo fans are breaking the shackles of its closed-source camera app</title>
+      <link>https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement</link>
+      <pubDate>2026-08-20T09:30:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=981852</guid>
+      <description>Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's footage on the go. Osmosis, a free open-source app built by DJI watcher Konrad Iturbe (with [&#8230;]</description>
+    </item>
+    <item>
+      <title>Piratage des imp&#244;ts : comment bloquer les pr&#233;l&#232;vements SEPA frauduleux pour se prot&#233;ger des IBAN vol&#233;s ?</title>
+      <link>https://www.frandroid.com/culture-tech/securite-applications/2983017_piratage-dgfip-ficoba-comment-bloquer-les-prelevements-sepa-frauduleux-apres-la-fuite-12-million-diban</link>
+      <pubDate>Thu, 20 Aug 2026 13:25:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/securite-applications/2983017_piratage-dgfip-ficoba-comment-bloquer-les-prelevements-sepa-frauduleux-apres-la-fuite-12-million-diban</guid>
+      <description>
+Avec autant d'IBAN vol&#233;s suite &#224; plusieurs piratages, ce n'est qu'une question de temps avant que quelqu'un constate un pr&#233;l&#232;vement qu'il ne reconna&#238;t pas sur son compte en banque.
+</description>
+    </item>
+    <item>
+      <title>La Coros Pace 4, une montre de sport ultra-l&#233;g&#232;re not&#233;e 9/10, chute sous les 200 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3217343_la-coros-pace-4-une-montre-de-sport-ultra-legere-notee-9-10-chute-sous-les-200-e</link>
+      <pubDate>Thu, 20 Aug 2026 13:22:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3217343_la-coros-pace-4-une-montre-de-sport-ultra-legere-notee-9-10-chute-sous-les-200-e</guid>
+      <description>
+L&#233;g&#232;re, pr&#233;cise et not&#233;e 9/10 dans notre test, la Coros Pace 4 est une montre de sport convaincante. Sortie au prix de 269 euros, elle passe aujourd'hui &#224; 193,98 euros sur AliExpress.
+</description>
+    </item>
+    <item>
+      <title>Canal+ : mauvaise nouvelle pour l&#8217;offre de base, un service majeur dispara&#238;t</title>
+      <link>https://www.frandroid.com/services/svod/3217355_canal-mauvaise-nouvelle-pour-loffre-de-base-un-service-majeur-disparait</link>
+      <pubDate>Thu, 20 Aug 2026 13:07:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/svod/3217355_canal-mauvaise-nouvelle-pour-loffre-de-base-un-service-majeur-disparait</guid>
+      <description>
+Les futurs abonn&#233;s &#224; Canal+ ne pourront pas acc&#233;der &#224; Apple TV+ avec l'offre la moins ch&#232;re, comme c'&#233;tait le cas avant. Le service de streaming d'Apple est d&#233;sormais inclus dans deux offres sup&#233;rieures.
+</description>
+    </item>
+    <item>
+      <title>NASA gives up on trying to rescue the Swift telescope</title>
+      <link>https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update</link>
+      <pubDate>2026-08-20T09:04:37-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=982661</guid>
+      <description>Plans to rescue NASA's Swift Observatory satellite from falling into Earth's atmosphere are seemingly dead in the water. The agency and Katalyst Space announced yesterday that the Link spacecraft will no longer capture or boost the Swift telescope to a higher altitude due to an ongoing "attitude control issue," but will instead conduct rendezvous and [&#8230;]...</description>
+    </item>
+    <item>
+      <title>La NASA abandonne le sauvetage du t&#233;lescope Swift, condamn&#233; &#224; se d&#233;sint&#233;grer</title>
+      <link>https://www.01net.com/actualites/la-nasa-abandonne-le-sauvetage-du-telescope-swift-condamne-a-se-desintegrer.html</link>
+      <pubDate>Thu, 20 Aug 2026 13:02:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1365043</guid>
+      <description>La NASA et la start-up Katalyst Space Technologies ont annonc&#233; l'&#233;chec de leur mission de sauvetage du t&#233;lescope Swift, en orbite depuis 2004. Une panne de propulseurs et un manque de carburant ont emp&#234;ch&#233; le vaisseau LINK de capturer le t&#233;lescope pour le repousser vers une orbite plus &#233;lev&#233;e. Sans intervention, Swift devrait se d&#233;sint&#233;grer dans l'atmosph&#232;re terrestre d'ici la fin de l'ann&#233;e 2026....</description>
+    </item>
+    <item>
+      <title>AI data giant Alation confirms cyberattack</title>
+      <link>https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/</link>
+      <pubDate>Thu, 20 Aug 2026 13:01:24 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154777</guid>
+      <description>The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.</description>
+    </item>
+    <item>
+      <title>Comptabilit&#233;, paies, IBAN : 999 Go de donn&#233;es d&#233;rob&#233;s chez Experts Entreprendre</title>
+      <link>https://www.frandroid.com/culture-tech/securite-applications/3217369_comptabilite-paies-iban-999-go-de-donnees-derobes-chez-experts-entreprendre</link>
+      <pubDate>Thu, 20 Aug 2026 13:01:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/securite-applications/3217369_comptabilite-paies-iban-999-go-de-donnees-derobes-chez-experts-entreprendre</guid>
+      <description>
+Le cabinet d'expertise comptable parisien Experts Entreprendre vient d'atterrir sur la liste des victimes du groupe de ran&#231;ongiciel Everest. Les pirates revendiquent 999 Go de donn&#233;es vol&#233;es&#160;: un chiffre encore inv&#233;rifiable, mais qui inqui&#232;te vu ce qu'un comptable garde sous la main.
+</description>
+    </item>
+    <item>
+      <title>I bought DJI&#8217;s banned camera &#8212; it was cheap and easy</title>
+      <link>https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market</link>
+      <pubDate>2026-08-20T09:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=981669</guid>
+      <description>As a kid, I always imagined the "black market" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone. They're on Temu, AliExpress, eBay, Mercari - even [&#8230;]</description>
+    </item>
+    <item>
+      <title>For a16z, AI gives foreign founders an advantage</title>
+      <link>https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/</link>
+      <pubDate>Thu, 20 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154333</guid>
+      <description>a16z&#8217;s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley," is an advantage, the firm believes.</description>
+    </item>
+    <item>
+      <title>Adobe Firefly just added three new AI audio tools for creators and marketers &#8212; I tested them all to see if they're any good</title>
+      <link>https://www.techradar.com/pro/adobe-firefly-just-added-3-ai-audio-tools-for-creators-and-marketers-i-tested-them-all-to-see-if-theyre-any-good</link>
+      <pubDate>Thu, 20 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">JRgTBcJnkr3g4A3dSm4qSP</guid>
+      <description>Adobe Firefly's Generate Music, Speech, and Sound Effects go on general release today, but one AI tool stole the show during my testing.</description>
+    </item>
+    <item>
+      <title>&#192; moins de 25 euros, CMF by Nothing lance ses nouveaux &#233;couteurs</title>
+      <link>https://www.frandroid.com/marques/cmf/3217441_cmf-buds-neo-la-sous-marque-de-nothing-lance-officiellement-ses-ecouteurs-a-moins-de-25-euros</link>
+      <pubDate>Thu, 20 Aug 2026 12:58:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/cmf/3217441_cmf-buds-neo-la-sous-marque-de-nothing-lance-officiellement-ses-ecouteurs-a-moins-de-25-euros</guid>
+      <description>
+CMF, la sous-marque de Nothing, lance en Inde les Buds Neo, ses &#233;couteurs sans fil les plus accessibles &#224; ce jour, affich&#233;s &#224; 1999 roupies avec r&#233;duction de bruit active et 52 heures d'autonomie.
+</description>
+    </item>
     <item>
       <title>On a test&#233; le Beatbot Sora 70 : le robot de piscine sans fil qui fait (presque) tout</title>
-      <link>https://www.frandroid.com/produits-android/3205689_on-a-teste-le-beatbot-sora-70-le-robot-de-piscine-sans-fil-qui-fait-presque-tout</link>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/robots-piscine/3205689_on-a-teste-le-beatbot-sora-70-le-robot-de-piscine-sans-fil-qui-fait-presque-tout</link>
       <pubDate>Thu, 20 Aug 2026 12:55:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3205689_on-a-teste-le-beatbot-sora-70-le-robot-de-piscine-sans-fil-qui-fait-presque-tout</guid>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/robots-piscine/3205689_on-a-teste-le-beatbot-sora-70-le-robot-de-piscine-sans-fil-qui-fait-presque-tout</guid>
       <description>
 Beatbot fait passer son robot de piscine sans fil haut de gamme sous la barre des 1 500&#160;&#8364;, moiti&#233; moins que son mod&#232;le vitrine. J'ai pass&#233; plusieurs semaines de l'&#233;t&#233; avec le Sora 70 dans mon bassin&#160;: le compromis tient la route, avec un caillou dans la chaussure.
 </description>
@@ -28,6 +143,14 @@ On l'attendait, Renault Allemagne vient de le confirmer : pour la rentr&#233;e, 
       <pubDate>Thu, 20 Aug 2026 12:43:19 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3154767</guid>
       <description>Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.</description>
+    </item>
+    <item>
+      <title>Walmart tariff refunds update: Will customers get reimbursed directly?</title>
+      <link>https://www.fastcompany.com/91592915/walmart-tariff-refunds-update-can-i-get-reimbursed-directly</link>
+      <pubDate>2026-08-20T12:43:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91592915/walmart-tariff-refunds-update-can-i-get-reimbursed-directly</guid>
+      <description>The retail chain, which reported earnings on Thursday, indicated that it will use the refunds to keep prices low and reinvest in its customer experience.
+Walmart has received almost $2.9 billion in federal tariff refunds.</description>
     </item>
     <item>
       <title>Face &#224; la hausse des prix, ce SSD NVMe avec dissipateur thermique et 1 To de stockage devient une affaire une or</title>
@@ -88,6 +211,13 @@ Alors que la hausse constante des prix frappe de plein fouet les SSD internes po
       <description>Whoop&#8217;s Advanced Labs blood-testing service no longer requires a Whoop membership, opening access to Apple and Garmin users.</description>
     </item>
     <item>
+      <title>Keep your food dry and cold: Score $30 off Ninja&#8217;s FrostVault cooler on Amazon</title>
+      <link>https://mashable.com/life/aug-20-ninja-frostvault-30qt-cooler-deal</link>
+      <pubDate>Thu, 20 Aug 2026 12:04:28 +0000</pubDate>
+      <guid isPermaLink="false">002SFnyGBKsr5u7hkRRnLS7</guid>
+      <description>As of Aug. 20, the 30qt Ninja FrostVault cooler in cloud white is on sale for $169.99 at Amazon, 15% off its list price of $199.99.</description>
+    </item>
+    <item>
       <title>Roblox vows to make changes after Australian regulator found yet more child safety lapses</title>
       <link>https://www.engadget.com/2240638/roblox-pledges-change-after-australia-finds-yet-more-child-safety-lapses/</link>
       <pubDate>Thu, 20 Aug 2026 12:03:29 +0000</pubDate>
@@ -109,6 +239,22 @@ Alors que la hausse constante des prix frappe de plein fouet les SSD internes po
       <description>Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. "With Slack Code, when you have [&#8230;]...</description>
     </item>
     <item>
+      <title>The business advantage of unfiltered founder vulnerability</title>
+      <link>https://www.fastcompany.com/91591710/the-business-advantage-of-unfiltered-founder-vulnerability</link>
+      <pubDate>2026-08-20T12:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91591710/the-business-advantage-of-unfiltered-founder-vulnerability</guid>
+      <description>Why lived experience is your greatest asset
+An unwritten rule has long governed the business world: never let them see you sweat. Leaders are expected to operate as perfectly polished corporate avatars, keeping their personal lives at a safe, academic distance.</description>
+    </item>
+    <item>
+      <title>Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?</title>
+      <link>https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up</link>
+      <pubDate>2026-08-20T11:57:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up</guid>
+      <description>Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news. 
+The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </description>
+    </item>
+    <item>
       <title>LG's new OLED manufacturing tech can make panels bigger and brighter</title>
       <link>https://www.engadget.com/2240635/lg-flipp-oled-manufacturing-bigger-brighter-displays/</link>
       <pubDate>Thu, 20 Aug 2026 11:56:46 +0000</pubDate>
@@ -123,69 +269,11 @@ Alors que la hausse constante des prix frappe de plein fouet les SSD internes po
       <description>US and UK streaming schedules for the opening weekend of the Premier League</description>
     </item>
     <item>
-      <title>Intersport retire 200 &#8364; sur son v&#233;lo &#233;lectrique endurant taill&#233; pour les familles</title>
-      <link>https://www.frandroid.com/bons-plans/3217021_intersport-retire-200-e-sur-son-velo-electrique-endurant-taille-pour-les-familles</link>
-      <pubDate>Thu, 20 Aug 2026 11:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3217021_intersport-retire-200-e-sur-son-velo-electrique-endurant-taille-pour-les-familles</guid>
-      <description>
-Avec son porte-bagage pouvant supporter jusqu&#8217;&#224; 60 kg de charge et con&#231;u pour recevoir des accessoires familiaux comme un porte-b&#233;b&#233;, le Nakamura Crosscity V2 est un v&#233;lo clairement pens&#233; pour les balades en famille ou entre amis, en ville ou &#224; la campagne. Actuellement, Intersport l'affiche &#224; 1 099,99 euros au lieu de 1 299,99 euros.
-</description>
-    </item>
-    <item>
-      <title>I ruined my cats&#8217; toilet time with a motion-activated neon litter box sign</title>
-      <link>https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign</link>
-      <pubDate>2026-08-20T07:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=978782</guid>
-      <description>My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to the [&#8230;]</description>
-    </item>
-    <item>
-      <title>Weird Al Yankovics Tiny Desk Concert is an absolute treat</title>
-      <link>https://mashable.com/entertainment/weird-al-yankovic-tiny-desk-concert</link>
-      <pubDate>Thu, 20 Aug 2026 11:15:17 +0000</pubDate>
-      <guid isPermaLink="false">04RK2rKZjEnIxfXbZry9mzi</guid>
-      <description>'Weird Al' Yankovic on Tiny Desk Concert? It happened. Again.</description>
-    </item>
-    <item>
-      <title>Meta filme, Apple analyse&#160;: comment les futurs AirPods &#224; cam&#233;ra pourraient tuer l&#8217;id&#233;e m&#234;me des lunettes connect&#233;es</title>
-      <link>https://www.01net.com/actualites/apple-airpods-camera-2027.html</link>
-      <pubDate>Thu, 20 Aug 2026 11:13:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1365036</guid>
-      <description>Apple pr&#233;voirait de lancer des AirPods avec cam&#233;ra, mais pas avant 2027. Ces AirPods viseraient &#224; concurrencer les lunettes connect&#233;es tout en pr&#233;servant la confidentialit&#233; des utilisateurs.</description>
-    </item>
-    <item>
-      <title>Over 9 million facial recognition images leaked in major breach at reverse image search and identity verification service</title>
-      <link>https://www.techradar.com/pro/security/over-9-million-facial-recognition-images-leaked-in-major-breach-at-reverse-image-search-and-identity-verification-service</link>
-      <pubDate>Thu, 20 Aug 2026 11:05:00 +0000</pubDate>
-      <guid isPermaLink="false">62yugNeibkwi9EAvzkKbvV</guid>
-      <description>ClarityCheck locks down huge database after being notified about the spill.</description>
-    </item>
-    <item>
-      <title>Poolease X1 Pool Robot Review: How Bad Can It Be?</title>
-      <link>https://www.wired.com/review/poolease-x1-pool-robot/</link>
-      <pubDate>Thu, 20 Aug 2026 11:02:00 +0000</pubDate>
-      <guid isPermaLink="false">6a831e24748834cab9043864</guid>
-      <description>The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.</description>
-    </item>
-    <item>
-      <title>Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead</title>
-      <link>https://www.wired.com/story/bumble-women-first-rule-change/</link>
-      <pubDate>Thu, 20 Aug 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a8493cf93d172f1c7ab4a99</guid>
-      <description>The app now allows men to make the first move, suggesting its women-first positioning was limiting growth. It joins other dating apps now throwing everything at the wall in a bid to stay relevant.</description>
-    </item>
-    <item>
-      <title>The piano that taught my cat to play for her supper</title>
-      <link>https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder</link>
-      <pubDate>2026-08-20T07:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=980552</guid>
-      <description>The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Audi S6 Sportback E-tron proves that sedans still matter</title>
-      <link>https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review</link>
-      <pubDate>2026-08-20T07:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=982464</guid>
-      <description>Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment. Even so, what it's [&#8230;]</description>
+      <title>Record-low deal: Get $200 off Amazons 50-inch Omni QLED 4K TV</title>
+      <link>https://mashable.com/tech/aug-20-amazon-fire-tv-omni-qled-4k-tv-deal</link>
+      <pubDate>Thu, 20 Aug 2026 11:51:18 +0000</pubDate>
+      <guid isPermaLink="false">02iVrLVQsojspfkfOXAAspS</guid>
+      <description>As of Aug. 20, the Amazon Fire TV 50-inch Omni QLED 4K TV has been discounted from $469.99 to $269.99 at Amazon, making for 43% in savings.</description>
     </item>
   </channel>
 </rss>
