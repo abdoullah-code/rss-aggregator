@@ -3,34 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 20 Aug 2026 01:25:59 GMT</lastBuildDate>
-    <item>
-      <title>US Space Force and Japan launch new satellites to boost surveillance across the Pacific and further beyond</title>
-      <link>https://www.techradar.com/pro/us-space-force-and-japan-launch-new-satellites-to-boost-surveillance-across-the-pacific-and-further-beyond</link>
-      <pubDate>Thu, 20 Aug 2026 00:05:00 +0000</pubDate>
-      <guid isPermaLink="false">nY9aokDqFv95vyEZUDXXBX</guid>
-      <description>US and Japan complete second hosted military payload launch, expanding American orbital surveillance across the Indo-Pacific and geosynchronous orbit.</description>
-    </item>
-    <item>
-      <title>Apple TV 4K fans are begging for these 3 upgrades from the leaked Siri Remote &#8212; but one is already possible today</title>
-      <link>https://www.techradar.com/televisions/apple-tv-4k-fans-are-begging-for-these-3-upgrades-from-the-leaked-siri-remote-but-one-is-already-possible-today</link>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">BMaUzgvokjnPtNwxq86fGJ</guid>
-      <description>What we'd like to see in the 2026 Apple TV remote &#8212; and the Apple TV tip you can try today.</description>
-    </item>
-    <item>
-      <title>TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents</title>
-      <link>https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents</link>
-      <pubDate>Wed, 19 Aug 2026 23:50:00 GMT</pubDate>
-      <guid isPermaLink="false">6P7y6z4gX2Wesbgs7V4xCS</guid>
-      <description>Another day, another new AI agent harness is released.Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. TrueFoundry, a San Francisco B2B machine learning startup co-founded in 2021 by former Meta engineers, has released its own custom TrueForge harness under the permissive MIT License on Github. Thus, it can be used with any of a developer (or their parent enterprise's) preferred AI models, forked, modified, self-hosted and incorporated into commercial products. The com...</description>
-    </item>
-    <item>
-      <title>Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;</title>
-      <link>https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/</link>
-      <pubDate>Wed, 19 Aug 2026 23:32:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154600</guid>
-      <description>What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason.</description>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 02:59:57 GMT</lastBuildDate>
   </channel>
 </rss>
