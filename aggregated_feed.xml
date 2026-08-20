@@ -3,13 +3,55 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 20 Aug 2026 17:32:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:44:53 GMT</lastBuildDate>
+    <item>
+      <title>Chinese video platform Bilibili is going global</title>
+      <link>https://www.engadget.com/2241074/chinese-video-platform-bilibili-is-going-global/</link>
+      <pubDate>Thu, 20 Aug 2026 18:31:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2241074/chinese-video-platform-bilibili-is-going-global/</guid>
+      <description>The platform is expanding with a new international app and an English version of its website.</description>
+    </item>
+    <item>
+      <title>Linkdaze&#8217;s smart calendar is built to run a household, not just track a schedule</title>
+      <link>https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
+      <pubDate>Thu, 20 Aug 2026 18:20:35 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155017</guid>
+      <description>Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.</description>
+    </item>
+    <item>
+      <title>First plug-in solar kits get regulatory green light in the UK ahead of legal lift-off on August 27 &#8212; and they'll start at &#163;699</title>
+      <link>https://www.techradar.com/home/smart-home/first-plug-in-solar-kits-get-regulatory-green-light-in-the-uk-ahead-of-legal-lift-off-on-august-27-and-theyll-start-at-gbp699</link>
+      <pubDate>Thu, 20 Aug 2026 18:07:40 +0000</pubDate>
+      <guid isPermaLink="false">7FWHMAXcn9YRXUGRcp98bC</guid>
+      <description>'Safety, quality and after-sales support need to matter': UKSOL's ground mount plug-in solar panels are on sale in a week.</description>
+    </item>
+    <item>
+      <title>Australia says Roblox hasn&amp;#8217;t fixed its child predator problem</title>
+      <link>https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety</link>
+      <pubDate>2026-08-20T13:42:34-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=982885</guid>
+      <description>Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including "allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16." While [&#8230;]...</description>
+    </item>
+    <item>
+      <title>FCC officially decides gigabit speeds are too good for you</title>
+      <link>https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal</link>
+      <pubDate>2026-08-20T13:38:30-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=982863</guid>
+      <description>Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download [&#8230;]...</description>
+    </item>
+    <item>
+      <title>A recent Windows 11 update is causing game crashes and all kinds of other problems</title>
+      <link>https://www.engadget.com/2240999/recent-windows-11-update-causing-game-crashes-and-other-problems/</link>
+      <pubDate>Thu, 20 Aug 2026 17:32:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2240999/recent-windows-11-update-causing-game-crashes-and-other-problems/</guid>
+      <description>The company has launched an investigation.</description>
+    </item>
     <item>
       <title>Grok keeps sending gibberish responses to users</title>
       <link>https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/</link>
       <pubDate>Thu, 20 Aug 2026 17:32:16 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3154977</guid>
-      <description>Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.</description>
+      <description>Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.</description>
     </item>
     <item>
       <title>Dyson's popular bladeless tower fan delivers cool, clean air  &#8212; and it just dropped to its lowest price yet at Amazon</title>
@@ -26,14 +68,7 @@
       <description>Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.</description>
     </item>
     <item>
-      <title>NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message</title>
-      <link>https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message</link>
-      <pubDate>Thu, 20 Aug 2026 17:25:44 GMT</pubDate>
-      <guid isPermaLink="false">34fgNqp4safoW5QJMmkgwD</guid>
-      <description>Adding an AI agent to Slack sounds appealing to many enterprises &#8212; but, as VentureBeat has experienced ourselves first hand &#8212; the reality is often far more complex and clunkier than it first seems.Now NanoCo., the company behind the hit open source, enterprise-friendly, autonomous AI agent harness NanoClaw (a more sandboxed, lower code version of OpenClaw), is hoping to make it just as easy as typing a Slack message. To go one step further: the company's new NanoClaw Slack integration lets human users spin up entire teams of agents with their own specialized skills, workflows, and even custom ...</description>
-    </item>
-    <item>
-      <title>A third of webpages published since ChatGPT&#8217;s launch show signs of AI authorship, study finds</title>
+      <title>A third of web pages published since ChatGPT&#8217;s launch show signs of AI authorship, study finds</title>
       <link>https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/</link>
       <pubDate>Thu, 20 Aug 2026 17:18:58 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3154941</guid>
@@ -54,11 +89,35 @@
       <description>The attackers are exploiting internet-facing Siemens S7 Series programmable logic controllers to scout for potential targets.</description>
     </item>
     <item>
+      <title>This everyday product in your medicine cabinet is wreaking havoc on people&#8217;s livers</title>
+      <link>https://www.fastcompany.com/91591901/liver-injury-spike-being-driven-by-common-medicine-cabinet-product</link>
+      <pubDate>2026-08-20T17:10:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91591901/liver-injury-spike-being-driven-by-common-medicine-cabinet-product</guid>
+      <description>Liver injuries linked to medications and substances are up 400%, according to a UVA study. Alcohol isn&#8217;t the biggest driver. 
+A new study showed a 400% increase in liver injuries linked to medication and substances over the past 25 years.</description>
+    </item>
+    <item>
+      <title>5 small-business ideas that can replace your 9-to-5 in a year</title>
+      <link>https://www.fastcompany.com/91584137/5-small-business-ideas-replace-9-5-year</link>
+      <pubDate>2026-08-20T17:08:16</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91584137/5-small-business-ideas-replace-9-5-year</guid>
+      <description>From online enterprises to service startups, these small businesses can quickly become your full-time focus.
+Not every business becomes a full-time endeavor right out of the gate. In fact, many founders hang on to their 9-to-5 after they&#8217;ve found a small-business idea they want to pursue. (That&#8217;s a strategy several successful entrepreneurs, including&#160;Shark Tank&#8217;s Daymond John, recommend, as it ensures you continue to have income and health insurance while you build the business.) But the goal, for most founders, is to drop the day job and focus fully on their new venture....</description>
+    </item>
+    <item>
       <title>Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner</title>
       <link>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</link>
       <pubDate>Thu, 20 Aug 2026 17:04:53 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3154902</guid>
       <description>At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.</description>
+    </item>
+    <item>
+      <title>The Champagne region in France is having its earliest grape harvest ever. Here&#8217;s why</title>
+      <link>https://www.fastcompany.com/91592943/champagne-record-early-harvest-heat-drought</link>
+      <pubDate>2026-08-20T17:00:41</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91592943/champagne-record-early-harvest-heat-drought</guid>
+      <description>Climate change has narrowed the window for harvesting.
+Champagne producers are racing to pick their grapes as the region&#8217;s earliest harvest on record gets underway, after&#160;extreme heat and drought&#160;accelerated ripening, leaving growers a narrow window to preserve the quality of the region&#8217;s world-famous sparkling wine.</description>
     </item>
     <item>
       <title>Have you been paying attention to Hulu's new thriller The Shards? Prove it with this tricky trivia quiz</title>
@@ -89,203 +148,12 @@
       <description>Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.</description>
     </item>
     <item>
-      <title>A trailer for the Golden Axe animated series is full of self-referencing jokes</title>
-      <link>https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/</link>
-      <pubDate>Thu, 20 Aug 2026 16:35:23 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/</guid>
-      <description>The adaptation of Sega's classic games hits Paramount+ on September 16.</description>
-    </item>
-    <item>
-      <title>The Google Pixel 11 Pro Fold is the best folding Pixel yet &#8212; but it doesn't beat Samsung's best</title>
-      <link>https://www.techradar.com/phones/google-pixel-phones/google-pixel-11-pro-fold-review</link>
-      <pubDate>Thu, 20 Aug 2026 16:29:29 +0000</pubDate>
-      <guid isPermaLink="false">E2agzeMwJFcUZvw6fZUdJh</guid>
-      <description>Google's latest foldable is an impressive device with key refinements over its predecessor, but it doesn't do enough to match Samsung's best.</description>
-    </item>
-    <item>
-      <title>Senators demand answers from TikTok over experiment that disabled safeguards</title>
-      <link>https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/</link>
-      <pubDate>Thu, 20 Aug 2026 16:22:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154888</guid>
-      <description>The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.</description>
-    </item>
-    <item>
-      <title>The KYY K3 portable monitor is 'cheap but remarkably cheerful' &#8212; now our favorite budget display drops to under $60</title>
-      <link>https://www.techradar.com/pro/the-kyy-k3-portable-monitor-is-cheap-but-remarkably-cheerful-now-our-favorite-budget-display-drops-to-under-usd60</link>
-      <pubDate>Thu, 20 Aug 2026 16:20:04 +0000</pubDate>
-      <guid isPermaLink="false">jj9yf6S5BnTfoBCkRJqFRE</guid>
-      <description>For the price, we found this lightweight display with magnetic smart cover 'does everything a basic 1080p portable monitor should do.'</description>
-    </item>
-    <item>
-      <title>Voici la liste des produits d&#233;clar&#233;s qui ne recevront pas de mise &#224; jour Apple en 2026</title>
-      <link>https://www.frandroid.com/culture-tech/3217717_voici-la-liste-des-produits-declares-qui-ne-recevront-pas-de-mise-a-jour-apple-en-2026</link>
-      <pubDate>Thu, 20 Aug 2026 16:17:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/3217717_voici-la-liste-des-produits-declares-qui-ne-recevront-pas-de-mise-a-jour-apple-en-2026</guid>
-      <description>
-Chaque ann&#233;e, Apple met fin au support de certaines g&#233;n&#233;rations de ses produits. Et comme il n'y a pas que les iPhone dans la vie, voici la liste de tous les produits Apple d&#233;clar&#233;s obsol&#232;tes par la marque. Cela ne veut pas dire pour autant qu'ils deviennent inutiles. 
-</description>
-    </item>
-    <item>
-      <title>The DJI Flip drone is on sale for $349 at Amazon &#8212; save almost $100</title>
-      <link>https://mashable.com/tech/aug-20-dji-flip-drone-deal</link>
-      <pubDate>Thu, 20 Aug 2026 16:14:34 +0000</pubDate>
-      <guid isPermaLink="false">07eELZsizzYfjUV7iPe7VmA</guid>
-      <description>The DJI Flip drone is on sale at Amazon for $349, down from the list price of $439. That's a 21% discount.</description>
-    </item>
-    <item>
-      <title>Google Pixel phones are getting emoji size settings</title>
-      <link>https://mashable.com/tech/google-pixel-gboard-emoji-size-settings</link>
-      <pubDate>Thu, 20 Aug 2026 16:13:28 +0000</pubDate>
-      <guid isPermaLink="false">04zgljUflnyuZ1OHuCs1UQv</guid>
-      <description>Gboard users will soon be able to scale emojis up and down to their liking.</description>
-    </item>
-    <item>
-      <title>ChatGPT mysteriously stops citing Reddit in many responses to users</title>
-      <link>https://mashable.com/tech/reddit-citations-by-chatgpt-plunge</link>
-      <pubDate>Thu, 20 Aug 2026 16:10:51 +0000</pubDate>
-      <guid isPermaLink="false">06TSokGBGgc9KdTBmz7ycPK</guid>
-      <description>Reddit citations by ChatGPT have took a sudden nosedive this month. What's going on?</description>
-    </item>
-    <item>
-      <title>Meta brings Pocket, an app that lets you vibe-code and share games, to US users</title>
-      <link>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</link>
-      <pubDate>Thu, 20 Aug 2026 16:07:26 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154881</guid>
-      <description>Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.</description>
-    </item>
-    <item>
-      <title>Voici la meilleure offre pour s&#8217;offrir un t&#233;l&#233;viseur Samsung OLED &#224; prix cass&#233; juste avant la rentr&#233;e</title>
-      <link>https://www.frandroid.com/bons-plans/3214637_voici-la-meilleure-offre-pour-soffrir-un-televiseur-samsung-oled-a-prix-casse-juste-avant-la-rentree</link>
-      <pubDate>Thu, 20 Aug 2026 16:04:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3214637_voici-la-meilleure-offre-pour-soffrir-un-televiseur-samsung-oled-a-prix-casse-juste-avant-la-rentree</guid>
-      <description>
-Passer &#224; l'OLED sans faire exploser son budget ? C'est d&#233;sormais possible. Habituellement affich&#233; au-dessus des 900 euros chez la concurrence, le t&#233;l&#233;viseur Samsung TQ55S90F tombe &#224; 799 euros chez Joybuy. C'est tout simplement la meilleure offre du moment pour s'offrir l'incomparable qualit&#233; d'image OLED de Samsung sans se ruiner.
-</description>
-    </item>
-    <item>
-      <title>Samsung's Galaxy Book4 Edge is 'a zippy Copilot+ Windows 11 laptop' that's now &#163;399 at Currys &#8212; half its usual price for a Snapdragon-powered ultraportable business machine</title>
-      <link>https://www.techradar.com/pro/samsungs-galaxy-book4-edge-is-a-zippy-copilot-windows-11-laptop-thats-now-gbp399-at-currys-half-its-usual-price-for-a-snapdragon-powered-ultraportable-business-machine</link>
-      <pubDate>Thu, 20 Aug 2026 16:02:38 +0000</pubDate>
-      <guid isPermaLink="false">xQXF6jvUJm4FPMTDMRF5cF</guid>
-      <description>We found this vibrant 15.6-inch laptop delivered 'provides plenty of runway for productivity and personal tasks.'</description>
-    </item>
-    <item>
-      <title>The 2026 Startup Battlefield 200 is here &#8212; see who made the cut</title>
-      <link>https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/</link>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151854</guid>
-      <description>We&#8217;re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.</description>
-    </item>
-    <item>
-      <title>Patreon launches 30 new creator features, including short-form Clips and revamped discovery</title>
-      <link>https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/</link>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154849</guid>
-      <description>Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.</description>
-    </item>
-    <item>
-      <title>Inertia Enterprises finds a way to make its fusion fuel fast</title>
-      <link>https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/</link>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154855</guid>
-      <description>Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.</description>
-    </item>
-    <item>
-      <title>US Army is phasing out its futuristic drone and robot assault battalion, as part of a 'back-to-basics' approach</title>
-      <link>https://www.techradar.com/pro/us-army-is-phasing-out-its-futuristic-drone-and-robot-assault-battalion-as-part-of-a-back-to-basics-approach</link>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">J8h5qfswLeCGBCoK76fimF</guid>
-      <description>Gen. Christopher LaNeve wants the US Army to go "back-to-basics", and that means the drone battalion will be phased out.</description>
-    </item>
-    <item>
-      <title>Google now allows you to add your favorite new sources to Search</title>
-      <link>https://www.engadget.com/2240719/google-now-allows-you-to-add-your-favorite-news-sources-to-search/</link>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240719/google-now-allows-you-to-add-your-favorite-news-sources-to-search/</guid>
-      <description>Google is adding more options to customize your search and Discover experiences.</description>
-    </item>
-    <item>
-      <title>What to make of OpenAI&#8217;s pause on its march toward superintelligence</title>
-      <link>https://www.fastcompany.com/91592419/what-to-make-of-openais-pause-on-its-march-toward-superintelligence</link>
-      <pubDate>2026-08-20T16:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91592419/what-to-make-of-openais-pause-on-its-march-toward-superintelligence</guid>
-      <description>A new model called Astra may have crossed a dangerous cybersecurity line, so OpenAI hit the brakes on training runs.&#160;
-Welcome to AI Decoded, Fast Company&#8216;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.</description>
-    </item>
-    <item>
-      <title>LAIKAs stop-motion Wildwood featurette is the perfect antidote for AI slop</title>
-      <link>https://mashable.com/entertainment/laika-wildwood-stop-motion-featurette</link>
-      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03cVB0LliU8brSq63S0D0rO</guid>
-      <description>LAIKA lead armaturist Matt Cole breaks down how he brings the horses of stop-motion film "Wildwood" to life.</description>
-    </item>
-    <item>
-      <title>Kinda chic is everywhere. Heres what it means.</title>
-      <link>https://mashable.com/life/kinda-chic-tiktok-instagram-trend-explained</link>
-      <pubDate>Thu, 20 Aug 2026 15:59:16 +0000</pubDate>
-      <guid isPermaLink="false">07yJcBoqJH8grUMrxphzxHO</guid>
-      <description>The 'kinda chic' trend has taken over TikTok and Instagram. Here&#8217;s what it means and why users are already tired of it.</description>
-    </item>
-    <item>
-      <title>There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket</title>
-      <link>https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/</link>
-      <pubDate>Thu, 20 Aug 2026 15:53:49 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153590</guid>
-      <description>If you&#8217;ve been circling around Disrupt, then now&#8217;s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!</description>
-    </item>
-    <item>
-      <title>Tesla's Robotaxi fleet might finally be driving around Austin unsupervised</title>
-      <link>https://www.engadget.com/2240859/tesla-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/</link>
-      <pubDate>Thu, 20 Aug 2026 15:50:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240859/tesla-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/</guid>
-      <description>It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.</description>
-    </item>
-    <item>
-      <title>The Geekom A5 delivers a 'thoughtful design' that handles office work better than most budget mini PCs we've tested &#8212; and it's now $449 at Amazon</title>
-      <link>https://www.techradar.com/pro/the-geekom-a5-delivers-a-thoughtful-design-that-handles-office-work-better-than-most-budget-mini-pcs-weve-tested-and-its-now-usd449-at-amazon</link>
-      <pubDate>Thu, 20 Aug 2026 15:46:29 +0000</pubDate>
-      <guid isPermaLink="false">9NMj6njwC9WLEKqCnceTeV</guid>
-      <description>Geekom's 4-star A5 mini PC is a top pick for office work and general computing, and comes with AMD Ryzen 5 7430U, upgradeable 16GB DDR4 RAM, and 1TB NVMe SSD.</description>
-    </item>
-    <item>
-      <title>On a test&#233; la Marstek Venus-D : la batterie solaire la plus &#233;quip&#233;e du march&#233; &#224; ce tarif</title>
-      <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3217557_on-a-teste-la-marstek-venus-d-la-batterie-solaire-la-plus-equipee-du-marche-a-ce-tarif</link>
-      <pubDate>Thu, 20 Aug 2026 15:45:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3217557_on-a-teste-la-marstek-venus-d-la-batterie-solaire-la-plus-equipee-du-marche-a-ce-tarif</guid>
-      <description>
-La Marstek Venus-D empile jusqu'&#224; 15,36 kWh de batterie, avale 4 kW de panneaux solaires et se recharge aussi bien au soleil que sur le r&#233;seau. Son mat&#233;riel tient la route, son logiciel un peu moins, et c'est pr&#233;cis&#233;ment ce qui d&#233;cide &#224; qui elle s'adresse.
-</description>
-    </item>
-    <item>
-      <title>It&#8217;s Greg Brockman&#8217;s OpenAI now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion</link>
-      <pubDate>2026-08-20T11:45:55-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=982774</guid>
-      <description>OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]</description>
-    </item>
-    <item>
-      <title>Can AI solve the energy problem it created?</title>
-      <link>https://www.fastcompany.com/91581106/can-ai-solve-the-energy-problem-it-created-ai-data-centers-technology-energy</link>
-      <pubDate>2026-08-20T15:43:48</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91581106/can-ai-solve-the-energy-problem-it-created-ai-data-centers-technology-energy</guid>
-      <description>We have all the electricity we need to power AI&#8217;s data center demand&#8212;and AI can unlock it for next to nothing.
-It costs about $5 and takes roughly 15 minutes to train an AI model that can help determine where America&#8217;s next data centers should be built.</description>
-    </item>
-    <item>
-      <title>40&#160;000 km d&#8217;affil&#233;e sans toucher le volant&#160;: Tesla pousse-t-il ses conducteurs &#224; l&#8217;irresponsabilit&#233; totale&#160;?</title>
-      <link>https://www.01net.com/actualites/40-000-km-sans-toucher-volant-tesla-pousse-conducteurs-irresponsabilite-totale.html</link>
-      <pubDate>Thu, 20 Aug 2026 15:43:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1365051</guid>
-      <description>Un homme a parcouru pr&#232;s de 40 000 km d&#8217;une seule traite avec le FSD Tesla. Il s&#8217;est vu r&#233;compens&#233; par le syst&#232;me, qui encourage vivement un usage intensif de la conduite autonome, quels que soient les risques.</description>
-    </item>
-    <item>
-      <title>Garmin Fenix 8 Solar : la meilleure montre GPS des sportifs devient enfin recommandable avec 250 &#8364; de remise</title>
-      <link>https://www.frandroid.com/bons-plans/3115775_garmin-fenix-8-solar-la-meilleure-montre-gps-des-sportifs-devient-enfin-recommandable-avec-250-de-remise</link>
-      <pubDate>Thu, 20 Aug 2026 15:33:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3115775_garmin-fenix-8-solar-la-meilleure-montre-gps-des-sportifs-devient-enfin-recommandable-avec-250-de-remise</guid>
-      <description>
-Excellente sur le papier, la Garmin Fenix 8 Solar tra&#238;nait jusqu'ici un gros point noir : un tarif de lancement au-del&#224; des 1 000 euros qui la rendait bien difficile &#224; recommander. Heureusement, sa facture s'all&#232;ge enfin chez I-Run o&#249; elle passe &#224; 849 euros.
-</description>
+      <title>Nearly 40,000 bottles of eye drops recalled nationwide. FDA warns of &#8216;heightened risk of harm&#8217;</title>
+      <link>https://www.fastcompany.com/91593026/nearly-40000-bottles-of-eye-drops-recalled-nationwide-fda-warns-of-heightened-risk-of-harm</link>
+      <pubDate>2026-08-20T16:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91593026/nearly-40000-bottles-of-eye-drops-recalled-nationwide-fda-warns-of-heightened-risk-of-harm</guid>
+      <description>Clear Eyes Maximum Itchy Eye Relief is being recalled over sterility concerns. The FDA says contaminated eye drops can lead to infections and even vision loss.
+Prestige Brands Holdings, a Tarrytown, New York-based company, has voluntarily recalled 39,060 15 milliliter bottles of its Clear Eyes Maximum Itch Eye Relief drops. According to the FDA&#8217;s recall report, the product could contain harmful contaminants. The FDA lists the reason for the recall as &#8220;lack of assurance of sterility.&#8221;...</description>
     </item>
   </channel>
 </rss>
