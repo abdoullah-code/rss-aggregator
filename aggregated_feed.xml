@@ -3,7 +3,42 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 21 Aug 2026 22:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:27:22 GMT</lastBuildDate>
+    <item>
+      <title>Tesla&#8217;s Door Handles Lead to Its Biggest Recall Yet</title>
+      <link>https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/</link>
+      <pubDate>Fri, 21 Aug 2026 23:10:00 +0000</pubDate>
+      <guid isPermaLink="false">6a88c0bfe5d3c9c921b3d827</guid>
+      <description>A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates&#8212;but they will also require physical warning stickers and camera-related updates.</description>
+    </item>
+    <item>
+      <title>Anthropic&#8217;s Opus 4.6 is a smut-machine</title>
+      <link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
+      <pubDate>Fri, 21 Aug 2026 23:07:25 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155131</guid>
+      <description>Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.</description>
+    </item>
+    <item>
+      <title>$16,000 Quad AI Geekom mini PC cluster gets DeepSeek V4 Flash treatment with 512GB RAM &#8212; reaches 14.61 tokens per second</title>
+      <link>https://www.techradar.com/pro/usd16-000-quad-ai-geekom-mini-pc-cluster-gets-deepseek-v4-flash-treatment-with-512gb-ram-reaches-14-61-tokens-per-second</link>
+      <pubDate>Fri, 21 Aug 2026 22:45:00 +0000</pubDate>
+      <guid isPermaLink="false">pMC5gyGXASHMN5Pn8nZZ3b</guid>
+      <description>GEEKOM links four A9 Mega mini PCs via USB4 to run DeepSeek V4 Flash locally, targeting enterprise AI without cloud reliance.</description>
+    </item>
+    <item>
+      <title>Nvidia partners with data center developer Cloverleaf</title>
+      <link>https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/</link>
+      <pubDate>Fri, 21 Aug 2026 22:37:38 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155585</guid>
+      <description>Nvidia continues to pour money into data center development &#8212; just as AI data centers bring lots of money into Nvidia.</description>
+    </item>
+    <item>
+      <title>Walmart Tap to Pay: Contactless Apple Pay is finally coming to Walmart</title>
+      <link>https://mashable.com/life/walmart-sams-club-tap-to-pay</link>
+      <pubDate>Fri, 21 Aug 2026 22:32:11 +0000</pubDate>
+      <guid isPermaLink="false">02dzCdH51Xq4rgykmIDgdZg</guid>
+      <description>Walmart and Sam's Club stores will soon accept contactless "Tap to Pay" payment methods, including Apple Pay.</description>
+    </item>
     <item>
       <title>HoverAir&#8217;s transforming modular drone has already been halted in the US</title>
       <link>https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo</link>
@@ -19,11 +54,11 @@
       <description>The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts [&#8230;]...</description>
     </item>
     <item>
-      <title>How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours</title>
+      <title>How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours</title>
       <link>https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/</link>
       <pubDate>Fri, 21 Aug 2026 22:10:01 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3155673</guid>
-      <description>Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.</description>
+      <description>Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.</description>
     </item>
     <item>
       <title>&#8216;Better move would be to ban it&#8217;: Apple Music steps up plan for AI-generated song labels, but some users think it doesn&#8217;t go far enough</title>
@@ -33,75 +68,20 @@
       <description>Apple Music will require artists to label their AI-generated music so users know what they&#8217;re getting.</description>
     </item>
     <item>
-      <title>Over 1 million people have clicked LinkedIn&#8217;s AI slop button</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message</link>
-      <pubDate>2026-08-21T17:25:50-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983502</guid>
-      <description>LinkedIn actually announced a "Seems like AI slop" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, "over a million people" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]</description>
+      <title>This Chinese movie&#8217;s terrible animation is an unwitting beacon of the anti-AI movement</title>
+      <link>https://www.fastcompany.com/91593948/niu-lai-animation-quality-anti-ai</link>
+      <pubDate>2026-08-21T22:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91593948/niu-lai-animation-quality-anti-ai</guid>
+      <description>The success of &#8216;Niu Lai&#8217; shows that in the age of AI slop, viewers still yearn for content made by humans&#8212;even if it sucks.
+Moviegoers will often flock to the cinemas for one of two reasons: in response to viral clips on social media, like in the case of Obsession, or because of the draw of a star-studded cast and director, like for Christopher Nolan&#8217;s The Odyssey. But as summer comes to a close, Chinese animated film Niu Lai has become an unexpected hit for bringing people to theaters for another reason: its terrible quality....</description>
     </item>
     <item>
-      <title>Experts warn expired credit cards can be brought back from the dead to make contactless payments</title>
-      <link>https://www.techradar.com/pro/security/experts-warn-expired-credit-cards-can-be-brought-back-from-the-dead-to-make-contactless-payments</link>
-      <pubDate>Fri, 21 Aug 2026 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">AGitkeYqa8AFsN6u8TZBRg</guid>
-      <description>That expired card in your drawer might not be nearly as dead as you think: researchers made one pay $100 for a grocery run.</description>
-    </item>
-    <item>
-      <title>TikTok will pay $400 million to settle Justice Department lawsuit over child privacy</title>
-      <link>https://www.engadget.com/2241964/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/</link>
-      <pubDate>Fri, 21 Aug 2026 21:13:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2241964/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/</guid>
-      <description>The DoJ said the app has made significant strides in privacy protections since the 2024 suit.</description>
-    </item>
-    <item>
-      <title>This 9-in-1 USB dock with a Blu-ray drive just smashed its Kickstarter goal by 300x&#8212;as backers succumb to dongle fatigue and physical media nostalgia</title>
-      <link>https://www.techradar.com/televisions/this-9-in-1-usb-dock-with-a-blu-ray-drive-just-smashed-its-kickstarter-goal-by-300x-as-backers-succumb-to-dongle-fatigue-and-physical-media-nostalgia</link>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">3uoDdemmCfdBETwichAuzR</guid>
-      <description>The BluHub is a USB 3 hub with an integrated BD/DVD/CD writer &#8212; and despite its early Kickstarter success, some are warning of red flags.</description>
-    </item>
-    <item>
-      <title>Insidious: Out of the Further review &#8212; the new horror movie is the franchise's scariest yet, but that doesn't mean it's good</title>
-      <link>https://www.techradar.com/streaming/entertainment/insidious-out-of-the-further-review-the-new-horror-movie-is-the-franchises-scariest-yet-but-that-doesnt-mean-its-good</link>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">scYS2PFCKgftEfyDt5mJmJ</guid>
-      <description>Insidious: Out of the Further is now playing in theaters worldwide, but it's a disappointing entry into the horror franchise.</description>
-    </item>
-    <item>
-      <title>'Took me months to work this out': Redditor explains how Windows 11 can end up stripping out the GPU driver on your gaming laptop</title>
-      <link>https://www.techradar.com/computing/windows/took-me-months-to-work-this-out-redditor-explains-how-windows-11-can-end-up-stripping-out-the-gpu-driver-on-your-gaming-laptop</link>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">heu2VceydhVutdLCffzc87</guid>
-      <description>Windows 11 removed the driver for an Nvidia RTX 5070 Ti laptop graphics card, and you can blame Eco mode.</description>
-    </item>
-    <item>
-      <title>Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams</title>
-      <link>https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/</link>
-      <pubDate>Fri, 21 Aug 2026 20:58:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155622</guid>
-      <description>Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.</description>
-    </item>
-    <item>
-      <title>Take-Two subpoenas Discord and Microsoft in hunt for GTA VI leaker</title>
-      <link>https://www.engadget.com/2241941/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/</link>
-      <pubDate>Fri, 21 Aug 2026 20:47:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2241941/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/</guid>
-      <description>The company is searching for leakers ahead of GTA's November release.</description>
-    </item>
-    <item>
-      <title>China&#8217;s worst animated movie has become an anti-AI box-office hit</title>
-      <link>https://mashable.com/life/niu-lai-chinese-animated-movie-viral-ai</link>
-      <pubDate>Fri, 21 Aug 2026 20:46:38 +0000</pubDate>
-      <guid isPermaLink="false">072qjpKGLFfgfpRV80lnxhS</guid>
-      <description>'Niu Lai' went viral for its crude animation before becoming a Chinese box-office hit celebrated as a handmade alternative to AI slop.</description>
-    </item>
-    <item>
-      <title>Ground beef prices are soaring. Trump&#8217;s fix has U.S. ranchers worried</title>
-      <link>https://www.fastcompany.com/91593778/ground-beef-could-get-25-cheaper-american-ranchers-say-trumps-plan-comes-at-their-expense</link>
-      <pubDate>2026-08-21T20:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593778/ground-beef-could-get-25-cheaper-american-ranchers-say-trumps-plan-comes-at-their-expense</guid>
-      <description>A 90-day tariff break could bring cheaper imported beef to U.S. shoppers, while cattle producers warn it could undermine America&#8217;s struggling beef industry.
-With most Americans still feeling the pinch of persistent inflation, President Trump wants to make one pricey grocery staple cheaper.</description>
+      <title>Why a GoFundMe campaign for Lindsay Clancy&#8217;s family has raised over $1 million</title>
+      <link>https://www.fastcompany.com/91593814/lindsay-clancy-family-gofundme-reveals-support-during-murder-trial</link>
+      <pubDate>2026-08-21T21:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91593814/lindsay-clancy-family-gofundme-reveals-support-during-murder-trial</guid>
+      <description>The site prohibits fundraising for the legal defense of people accused of violent crimes. In this case, the accused is not the intended beneficiary.
+A fundraiser for the family of Lindsay Clancy, the Massachusetts mom and former nurse who is on trial for the 2023 strangulation death of her three children inside their home, has raised over $1 million as of Friday. &#160;...</description>
     </item>
   </channel>
 </rss>
