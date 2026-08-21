@@ -3,7 +3,154 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 21 Aug 2026 15:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:38:30 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia finds that simple linear math can replace costly AI model handoffs</title>
+      <link>https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs</link>
+      <pubDate>Fri, 21 Aug 2026 16:33:56 GMT</pubDate>
+      <guid isPermaLink="false">7AqGcMB9hCd7buI4KLhDZV</guid>
+      <description>When an agentic AI system hands a task from a small model to a larger one &#8212; or back down again &#8212; it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises building long-horizon, multi-LLM workflows.To solve this challenge, researchers at Nvidia have introduced a cross-model KV cache transfer technique that directly maps the prefilled KV cache from a source model into the target model. This technique aligns with real-world agentic applications where large contexts accumulate ac...</description>
+    </item>
+    <item>
+      <title>Pixel 11 gets in on the digicam trend</title>
+      <link>https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend</link>
+      <pubDate>2026-08-21T12:27:05-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=983288</guid>
+      <description>I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be changing, though. [&#8230;]</description>
+    </item>
+    <item>
+      <title>Ce r&#233;cent TV QLED 55&#8243; Philips The One 144 Hz avec Ambilight ne d&#233;passe pas les 800 &#8364; gr&#226;ce &#224; cette offre</title>
+      <link>https://www.frandroid.com/bons-plans/3219051_ce-recent-tv-qled-55-philips-the-one-144-hz-avec-ambilight-ne-depasse-pas-les-800-e-grace-a-cette-offre</link>
+      <pubDate>Fri, 21 Aug 2026 16:26:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3219051_ce-recent-tv-qled-55-philips-the-one-144-hz-avec-ambilight-ne-depasse-pas-les-800-e-grace-a-cette-offre</guid>
+      <description>
+Le TV Philips The One 55PQS9001 est l'un des nouveaux mod&#232;les Ambilight de la marque. Dalle QLED, taux de rafra&#238;chissement de 144 Hz, fonctions gaming : cette r&#233;f&#233;rence multiplie les bons arguments. La bonne nouvelle, c'est que Boulanger l'affiche &#224; 779 euros au lieu de 899 euros.
+</description>
+    </item>
+    <item>
+      <title>A new Gemini for Home update is rolling out, but users are slamming Google for not fixing &#8216;missing and broken features&#8217; despite the voice upgrades</title>
+      <link>https://www.techradar.com/home/smart-home-hubs/a-new-gemini-for-home-update-is-rolling-out-but-users-are-slamming-google-for-not-fixing-missing-and-broken-features-despite-the-voice-upgrades</link>
+      <pubDate>Fri, 21 Aug 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="false">8Eemdp6KRE9wYziitmxs2K</guid>
+      <description>Gemini for Home is getting some new upgrades, but users are still waiting for Google to fix the real problems.</description>
+    </item>
+    <item>
+      <title>How to watch Arsenal vs Coventry: Live streams and TV channels for the Premier League 2026/27 game</title>
+      <link>https://www.techradar.com/how-to-watch/football/arsenal-vs-coventry-premier-league-2026-27</link>
+      <pubDate>Fri, 21 Aug 2026 16:10:49 +0000</pubDate>
+      <guid isPermaLink="false">kGSLrNws779rvuTUkzJrT6</guid>
+      <description>All the ways to watch Arsenal vs Coventry live streams, as the Premier League champions and new boys get the 2026/27 season underway at Emirates Stadium.</description>
+    </item>
+    <item>
+      <title>Insta d&#233;voile la Luna Pro la cam&#233;ra plus abordable pour encore d&#233;fier DJI</title>
+      <link>https://www.frandroid.com/marques/insta360/3218987_insta-devoile-la-luna-pro-la-camera-plus-abordable-pour-encore-defier-dji</link>
+      <pubDate>Fri, 21 Aug 2026 16:10:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/insta360/3218987_insta-devoile-la-luna-pro-la-camera-plus-abordable-pour-encore-defier-dji</guid>
+      <description>
+Quelques semaines apr&#232;s la Luna Ultra, Insta360 d&#233;voile la Luna Pro, une cam&#233;ra avec l'objectif assum&#233; de concurrencer DJI et ses Osmo Pocket 3 et 4.
+</description>
+    </item>
+    <item>
+      <title>Target may have suffered another damaging data leak as hackers claim 8.6GB haul</title>
+      <link>https://www.techradar.com/pro/security/target-may-have-suffered-another-damaging-data-leak-as-hackers-claim-8-6gb-haul</link>
+      <pubDate>Fri, 21 Aug 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">qH8uTStXvBsfgjfPXrzpqX</guid>
+      <description>The claims came from a threat actor with a questionable track record.</description>
+    </item>
+    <item>
+      <title>Charge en 3 minutes, 60 000 cycles et garantie sans explosion, cette batterie coche toutes les cases</title>
+      <link>https://www.frandroid.com/produits-android/3219153_charge-en-3-minutes-60-000-cycles-et-garantie-sans-explosion-cette-batterie-coche-toutes-les-cases</link>
+      <pubDate>Fri, 21 Aug 2026 16:04:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3219153_charge-en-3-minutes-60-000-cycles-et-garantie-sans-explosion-cette-batterie-coche-toutes-les-cases</guid>
+      <description>
+Des chercheurs australiens annoncent une batterie qui encaisse 60&#160;000 cycles de charge et ne peut pas prendre feu. Une prouesse bien r&#233;elle, mais qui ne finira pas dans votre smartphone.
+</description>
+    </item>
+    <item>
+      <title>Cyberattaque chez un prestataire de Suez&#160;: des donn&#233;es sensibles d&#233;rob&#233;es et mises en ligne</title>
+      <link>https://www.01net.com/actualites/cyberattaque-chez-un-prestataire-de-suez-des-donnees-sensibles-derobees-et-mises-en-ligne.html</link>
+      <pubDate>Fri, 21 Aug 2026 16:02:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1365270</guid>
+      <description>Un prestataire de Suez Eau France a &#233;t&#233; victime d&#8217;une cyberattaque. Une partie des donn&#233;es a &#233;t&#233; exfiltr&#233;e et mise en ligne sur Internet. Si le fournisseur d&#8217;eau ne peut pas encore d&#233;terminer l&#8217;ampleur de l&#8217;attaque, certaines donn&#233;es confidentielles, comme des coordonn&#233;es bancaires et des num&#233;ros de contrat, ont potentiellement &#233;t&#233; expos&#233;es.</description>
+    </item>
+    <item>
+      <title>US government lab is probing Chinese lidar for security vulnerabilities</title>
+      <link>https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/</link>
+      <pubDate>Fri, 21 Aug 2026 16:01:54 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155072</guid>
+      <description>The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.</description>
+    </item>
+    <item>
+      <title>We have more details on Apple's camera-equipped AirPods and they are pretty dang weird</title>
+      <link>https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/</link>
+      <pubDate>Fri, 21 Aug 2026 16:00:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/</guid>
+      <description>Each earbud takes its own image, which is then synchronized for use by Visual Intelligence.</description>
+    </item>
+    <item>
+      <title>The JBL Live Beam 4 are my favorite wireless earbuds of 2026 after weeks of testing &#8212; and I swear it&#8217;s not just because of their awesome touchscreen charging case</title>
+      <link>https://www.techradar.com/audio/earbuds-airpods/jbl-live-beam-4-review</link>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QHim5LQc5d2y2qoydzxWbh</guid>
+      <description>These JBL earbuds have a touchscreen-fitted charging case, and they might just be my favorite model of 2026 &#8212; here&#8217;s why.</description>
+    </item>
+    <item>
+      <title>What is the release date and launch time for Lanterns episode 2 on HBO Max?</title>
+      <link>https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-2-on-hbo-max</link>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urbbthYmXXTKQaPZQoFCWb</guid>
+      <description>Lanterns' second episode comes to a streaming platform near you very soon &#8212; here's when and where you can watch it.</description>
+    </item>
+    <item>
+      <title>Vous nous avez alert&#233;s : Sosh briderait-il volontairement les d&#233;bits de sa Livebox 7 SE ?</title>
+      <link>https://www.frandroid.com/marques/orange/3218649_vous-nous-avez-alertes-sosh-briderait-il-volontairement-les-debits-de-sa-livebox-7-se</link>
+      <pubDate>Fri, 21 Aug 2026 15:58:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/orange/3218649_vous-nous-avez-alertes-sosh-briderait-il-volontairement-les-debits-de-sa-livebox-7-se</guid>
+      <description>
+Un lecteur abonn&#233; au forfait Sosh Boost Fibre nous a inform&#233; d'un bridage des d&#233;bits de sa box internet une semaine apr&#232;s la souscription. Une pratique qui pourrait &#234;tre jug&#233;e trompeuse pour le consommateur.
+</description>
+    </item>
+    <item>
+      <title>R&#233;alit&#233; virtuelle&#160;: vague de licenciement chez Apple et r&#233;orientation de la strat&#233;gie</title>
+      <link>https://www.frandroid.com/marques/apple/3219173_realite-virtuelle-vague-de-licenciement-chez-apple-et-reorientation-de-la-strategie</link>
+      <pubDate>Fri, 21 Aug 2026 15:49:04 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3219173_realite-virtuelle-vague-de-licenciement-chez-apple-et-reorientation-de-la-strategie</guid>
+      <description>
+Apple aurait supprim&#233; au moins 60 postes au sein de son &#233;quipe d&#233;di&#233;e &#224; la r&#233;alit&#233; virtuelle, co&#239;ncidant avec la mise en pause de la cat&#233;gorie casque par le futur CEO John Ternus, qui privil&#233;gie d&#233;sormais les lunettes connect&#233;es.
+</description>
+    </item>
+    <item>
+      <title>Motorola et GrapheneOS : le smartphone anti-Google veut d&#233;fier les Pixel</title>
+      <link>https://www.frandroid.com/marques/motorola/3219095_motorola-et-grapheneos-le-smartphone-anti-google-veut-defier-les-pixel</link>
+      <pubDate>Fri, 21 Aug 2026 15:44:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/motorola/3219095_motorola-et-grapheneos-le-smartphone-anti-google-veut-defier-les-pixel</guid>
+      <description>
+Motorola et GrapheneOS pr&#233;parent un smartphone taill&#233; pour la vie priv&#233;e, attendu en 2027. L&#8217;&#233;quipe derri&#232;re l&#8217;OS commence &#224; en d&#233;voiler les contours.
+</description>
+    </item>
+    <item>
+      <title>Boulanger casse le prix du Xiaomi 17T Pro avec montre connect&#233;e et coque offertes, le pack ultime de la rentr&#233;e</title>
+      <link>https://www.frandroid.com/bons-plans/3124139_boulanger-casse-le-prix-du-xiaomi-17t-pro-avec-montre-connectee-et-coque-offertes-le-pack-ultime-de-la-rentree</link>
+      <pubDate>Fri, 21 Aug 2026 15:41:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3124139_boulanger-casse-le-prix-du-xiaomi-17t-pro-avec-montre-connectee-et-coque-offertes-le-pack-ultime-de-la-rentree</guid>
+      <description>
+Not&#233; 8/10 dans nos colonnes gr&#226;ce &#224; sa batterie infatigable et son puissant t&#233;l&#233;objectif, le Xiaomi 17T Pro passe &#224; seulement 799 euros. Pour ce prix, vous repartez avec un pack complet incluant une montre connect&#233;e et une coque de protection offertes. Un ensemble id&#233;al pour &#234;tre parfaitement &#233;quip&#233; &#224; la rentr&#233;e.
+</description>
+    </item>
+    <item>
+      <title>'There was never really any big plan that these two games would both release next to each other' &#8212; FromSoftware president suggests a return to single-player games after Nightreign and The Duskbloods</title>
+      <link>https://www.techradar.com/gaming/there-was-never-really-any-big-plan-that-these-two-games-would-both-release-next-to-each-other-fromsoftware-president-suggests-a-return-to-single-player-games-after-nightreign-and-the-duskbloods</link>
+      <pubDate>Fri, 21 Aug 2026 15:40:09 +0000</pubDate>
+      <guid isPermaLink="false">EyiM5N6yp2uvRMWWugqLM5</guid>
+      <description>FromSoftware president Hidetaka Miyazaki has suggested the studio could return to making single-player games after Elden Ring: Nightreign and The Duskbloods.</description>
+    </item>
+    <item>
+      <title>Walmart will finally accept tap to pay in stores by the end of 2026</title>
+      <link>https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/</link>
+      <pubDate>Fri, 21 Aug 2026 15:40:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/</guid>
+      <description>Sam's Club will soon let you pay with your phone or smartwatch too.</description>
+    </item>
     <item>
       <title>Samsung Galaxy Tab S12 Ultra : un design familier et une puce Dimensity 9500 &#224; venir</title>
       <link>https://www.frandroid.com/marques/samsung/3219105_samsung-galaxy-tab-s12-ultra-un-design-familier-et-une-puce-dimensity-9500-a-venir</link>
@@ -33,6 +180,14 @@ Selon plusieurs fuites r&#233;centes, la future tablette haut de gamme de Samsun
       <pubDate>Fri, 21 Aug 2026 15:25:06 +0000</pubDate>
       <guid isPermaLink="false">ST2pssRnztotuE4z5JG8FJ</guid>
       <description>Mullvad is testing a redesigned multi-hop feature for its Android app, along with an interactive server globe and smarter location search, all currently in beta.</description>
+    </item>
+    <item>
+      <title>GNC has closed hundreds of stores in the last 3 years: See a list of locations that have lost the most</title>
+      <link>https://www.fastcompany.com/91593275/gnc-stores-closing-2026-list-locations-states-biggest-declines</link>
+      <pubDate>2026-08-21T15:21:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91593275/gnc-stores-closing-2026-list-locations-states-biggest-declines</guid>
+      <description>The nutrition and wellness retailer has continued to shrink its U.S. footprint since being acquired out of bankruptcy six years ago.
+Years ago, stocking up on protein powder and herbal supplements meant stopping by your local GNC store, but that option is quickly disappearing for local communities around the country.&#160;</description>
     </item>
     <item>
       <title>Are Meta smart glasses doomed to fail like Google Glass? Have your say on what fate is most likely for wearable cameras</title>
@@ -79,6 +234,14 @@ Toujours pas taill&#233; pour battre des records de puissance brute, le photopho
 </description>
     </item>
     <item>
+      <title>Pro-Trump board at Kennedy Center makes moves to return the president&#8217;s name to the facade</title>
+      <link>https://www.fastcompany.com/91593581/pro-trump-board-kennedy-center-makes-moves-return-presidents-name-facade</link>
+      <pubDate>2026-08-21T14:56:35</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91593581/pro-trump-board-kennedy-center-makes-moves-return-presidents-name-facade</guid>
+      <description>An Ohio democrat is seeking to block the engraving with an emergency request to a federal court.
+Rep. Joyce Beatty made an emergency request on Thursday that a federal court block the Kennedy Center from returning President Donald Trump&#8217;s name to the building.The Trump-aligned board at the Kennedy Center voted earlier this month to inscribe the president&#8217;s name on the venue&#8217;s facade so it would read &#8220;The John F. Kennedy Center for the Performing Arts Restored and Renovated By President Donald J. Trump.&#8221; If the Trump Kennedy Center Fund reached $100 million, another inscription would be added r...</description>
+    </item>
+    <item>
       <title>Why does it seem like food recalls are out of control this year?</title>
       <link>https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control</link>
       <pubDate>2026-08-21T10:45:00-04:00</pubDate>
@@ -86,146 +249,18 @@ Toujours pas taill&#233; pour battre des records de puissance brute, le photopho
       <description>Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come from Midwest Poultry Services, were distributed to Kroger and smaller grocery stores across the South and Southwest [&#8230;]...</description>
     </item>
     <item>
+      <title>Saatvas Labor Day sale takes up to $625 off luxury mattresses &#8212; shop the Saatva Classic, Rx, and more</title>
+      <link>https://mashable.com/life/saatva-labor-day-sale-2026-deals</link>
+      <pubDate>Fri, 21 Aug 2026 14:43:16 +0000</pubDate>
+      <guid isPermaLink="false">00E8OovZNgBWEaTaPUFhSg6</guid>
+      <description>Saatva's Labor Day sale takes up to $625 off luxury mattresses, pillows, bed frames, and adjustable bases, including the Saatva Classic and Saatva Rx.</description>
+    </item>
+    <item>
       <title>Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy</title>
       <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
       <pubDate>Fri, 21 Aug 2026 14:39:24 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3155420</guid>
       <description>The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.</description>
-    </item>
-    <item>
-      <title>Ce puissant VTT &#233;lectrique Nakamura, id&#233;al pour les longues balades en for&#234;t, perd 600 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/2882753_ce-puissant-vtt-electrique-nakamura-ideal-pour-les-longues-balades-en-foret-perd-600</link>
-      <pubDate>Fri, 21 Aug 2026 14:35:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2882753_ce-puissant-vtt-electrique-nakamura-ideal-pour-les-longues-balades-en-foret-perd-600</guid>
-      <description>
-Envie d'un VTT &#233;lectrique puissant, confortable et suffisamment endurant pour partir en balade en for&#234;t toute la journ&#233;e ? Le Nakamura E-Summit 940 LTD est le compagnon id&#233;al. &#192; l'aise sur tous les sentiers comme lors de vos trajets quotidiens, ce VTTAE polyvalent passe de 1 899 euros &#224; seulement 1 299 euros.
-</description>
-    </item>
-    <item>
-      <title>Google&#8217;s Pixel 10A is a great deal at 15 percent off</title>
-      <link>https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale</link>
-      <pubDate>2026-08-21T10:35:22-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983171</guid>
-      <description>This week, all of Google&#8217;s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold. They&#8217;re good phones, but if you don&#8217;t mind missing out on their new, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Walmart to finally start accepting Apple Pay and Google Pay</title>
-      <link>https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/</link>
-      <pubDate>Fri, 21 Aug 2026 14:30:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155422</guid>
-      <description>Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.</description>
-    </item>
-    <item>
-      <title>TechRadar's weekly crossword &#8212; puzzle #4, Friday, August 21</title>
-      <link>https://www.techradar.com/tech/techradars-weekly-crossword-puzzle-4-friday-august-21</link>
-      <pubDate>Fri, 21 Aug 2026 14:26:57 +0000</pubDate>
-      <guid isPermaLink="false">ELum9pqHNbq4iTHqtpAayi</guid>
-      <description>This week's TechRadar Crossword puzzle is here, so come test your general tech knowledge and see where you place on the leaderboard.</description>
-    </item>
-    <item>
-      <title>Beats leak reveals the name of its next headphones plus most of its specs &#8212; but there could be one disappointing omission</title>
-      <link>https://www.techradar.com/audio/beats-leak-reveals-the-name-of-its-next-headphones-plus-most-of-its-specs-but-there-could-be-one-disappointing-omission</link>
-      <pubDate>Fri, 21 Aug 2026 14:25:13 +0000</pubDate>
-      <guid isPermaLink="false">7AG4xRDbaVsKWaGzGVbkb5</guid>
-      <description>Apparently, the headphones Beats teased at the 2026 World Cup will be called the Beats 360, implying spatial audio chops.</description>
-    </item>
-    <item>
-      <title>La Chine rappelle plus de 7 millions de voitures, dont 3 millions de Tesla, &#224; cause de leurs poign&#233;es de porte</title>
-      <link>https://www.frandroid.com/survoltes/voitures-electriques/3218887_la-chine-rappelle-plus-de-7-millions-de-voitures-dont-3-millions-de-tesla-a-cause-de-leurs-poignees-de-porte</link>
-      <pubDate>Fri, 21 Aug 2026 14:24:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3218887_la-chine-rappelle-plus-de-7-millions-de-voitures-dont-3-millions-de-tesla-a-cause-de-leurs-poignees-de-porte</guid>
-      <description>
-La Chine vient d'annoncer un immense rappel concernant plus de 7 millions de voitures circulant sur son territoire. Tesla, Xiaomi, Leapmotor, Xpeng et bien d'autres marques sont touch&#233;es. Le motif : le d&#233;verrouillage manuel des poign&#233;es de portes &#233;lectroniques, jug&#233; trop difficile &#224; identifier et manipuler. Du jamais-vu.
-</description>
-    </item>
-    <item>
-      <title>Leaker claims the Xbox Series X25 Limited Edition will launch in November for an estimated $899.99</title>
-      <link>https://www.techradar.com/gaming/leaker-claims-the-xbox-series-x25-limited-edition-will-launch-in-november-for-an-estimated-usd899-99</link>
-      <pubDate>Fri, 21 Aug 2026 14:21:26 +0000</pubDate>
-      <guid isPermaLink="false">ZAMpVrMs2aGRRuUWSeazLL</guid>
-      <description>The price and release date for Microsoft's 25th anniversary Xbox Series X limited edition console have reportedly leaked.</description>
-    </item>
-    <item>
-      <title>Une faille dans un logiciel de la NASA permettait de prendre le contr&#244;le d&#8217;engins spatiaux</title>
-      <link>https://www.frandroid.com/marques/nasa/3218769_une-faille-dans-un-logiciel-de-la-nasa-permettait-de-prendre-le-controle-dengins-spatiaux</link>
-      <pubDate>Fri, 21 Aug 2026 14:14:19 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nasa/3218769_une-faille-dans-un-logiciel-de-la-nasa-permettait-de-prendre-le-controle-dengins-spatiaux</guid>
-      <description>
-Une chercheuse en cybers&#233;curit&#233; a d&#233;couvert une vuln&#233;rabilit&#233; dans un logiciel open source utilis&#233; par la NASA pour le contr&#244;le au sol. En l'exploitant, un pirate pouvait prendre les commandes des engins spatiaux.
-</description>
-    </item>
-    <item>
-      <title>Workplace surveillance is on the rise. Here&#8217;s how to protect your personal data from your employer</title>
-      <link>https://www.fastcompany.com/91593584/workplace-surveillance-rise-how-protect-your-personal-data-your-employer</link>
-      <pubDate>2026-08-21T14:08:09</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593584/workplace-surveillance-rise-how-protect-your-personal-data-your-employer</guid>
-      <description>Technology that was widely adopted during the pandemic is still being used by thousands of employers to keep tabs on workers.
-College administrators read an adjunct professor&#8217;s comments to students on personal essays. Managers told a pharmacist to spend less time with patients after tracking the number and length of her appointments. Scanners on a warehouse conveyor belt monitored the pace of workers to ensure they inspected hundreds of items per hour.Thousands of employers are keeping tabs on the whereabouts, productivity and communications of workers with technology that was adopted widely d...</description>
-    </item>
-    <item>
-      <title>Samsung met &#224; jour deux smartphones vieux de 9 ans avec un correctif bien myst&#233;rieux</title>
-      <link>https://www.frandroid.com/marques/samsung/3218871_samsung-met-a-jour-deux-smartphones-vieux-de-9-ans-avec-un-correctif-bien-mysterieux</link>
-      <pubDate>Fri, 21 Aug 2026 14:04:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3218871_samsung-met-a-jour-deux-smartphones-vieux-de-9-ans-avec-un-correctif-bien-mysterieux</guid>
-      <description>
-Samsung a d&#233;ploy&#233; une mise &#224; jour logicielle sur deux smartphones de 2017 pourtant abandonn&#233;s depuis longtemps. La mise &#224; jour surprise des Galaxy S8 et Note 8, d&#8217;abord r&#233;serv&#233;e aux &#201;tats-Unis, arrive maintenant dans le reste du monde.
-</description>
-    </item>
-    <item>
-      <title>Starcloud raises $250 million for orbital data centers as launch options dry up</title>
-      <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
-      <description>There's about to be a big fight to secure access to space.</description>
-    </item>
-    <item>
-      <title>7 new movies and TV shows to watch on Netflix, Prime Video, HBO Max, and more this weekend (August 21)</title>
-      <link>https://www.techradar.com/streaming/7-new-movies-and-tv-shows-to-watch-on-netflix-prime-video-hbo-max-and-more-this-weekend-august-21</link>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">4xtQHiWY2sioEy7i7owrMN</guid>
-      <description>From Outer Banks' final season to Anne Hathaway's recent A24 film, here's what you'll want to be seated for this weekend.</description>
-    </item>
-    <item>
-      <title>Pixel Watch 5 review: A fantastic watch that's missing features at launch</title>
-      <link>https://www.engadget.com/2241496/google-pixel-watch-5-review/</link>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2241496/google-pixel-watch-5-review/</guid>
-      <description>Our thoughts on Google's new smartwatch as it currently stands.</description>
-    </item>
-    <item>
-      <title>Proton VPN on Linux gets a huge accessibility boost with 20 new languages</title>
-      <link>https://www.techradar.com/vpn/vpn-services/proton-vpn-on-linux-gets-a-huge-accessibility-boost-with-20-new-languages</link>
-      <pubDate>Fri, 21 Aug 2026 13:59:58 +0000</pubDate>
-      <guid isPermaLink="false">C768PTNRYjQ5wcTZz3bNMF</guid>
-      <description>Proton VPN&#8217;s Linux application is about to get a lot more accessible, as the privacy provider announces automatic localization support for 20 different languages arriving in the next major update.</description>
-    </item>
-    <item>
-      <title>This TeamGroup 16GB DDR5-6000 RAM kit drops to $215 in a memory market where prices have tripled since last year</title>
-      <link>https://www.techradar.com/pro/this-teamgroup-16gb-ddr5-6000-ram-kit-drops-to-usd215-in-a-memory-market-where-prices-have-tripled-since-last-year</link>
-      <pubDate>Fri, 21 Aug 2026 13:54:24 +0000</pubDate>
-      <guid isPermaLink="false">nW3zi6cwyzC7oZTq3vMppf</guid>
-      <description>We can't stop the memory price hikes, but this discount on TeamGroup's 16GB DDR5-6000 with CL38 timings helps save a few dollars in the RAMpocalypse.</description>
-    </item>
-    <item>
-      <title>Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles</title>
-      <link>https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/</link>
-      <pubDate>Fri, 21 Aug 2026 13:48:26 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155389</guid>
-      <description>Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.</description>
-    </item>
-    <item>
-      <title>Digital camera sales are up, and Fujifilm just leapfrogged Nikon &#8212; here's what the numbers tell us</title>
-      <link>https://www.techradar.com/cameras/digital-camera-sales-are-up-and-fujifilm-just-leapfrogged-nikon-heres-what-the-numbers-tell-us</link>
-      <pubDate>Fri, 21 Aug 2026 13:45:52 +0000</pubDate>
-      <guid isPermaLink="false">wrAx8wNTeYXLaDHnAHAsC5</guid>
-      <description>A new Nikkei report is encouraging reading for the camera industry, particularly Canon and Nikon &#8212;here's what we can learn from the data.</description>
-    </item>
-    <item>
-      <title>Major YouTube creators are facing backlash for accepting AI money</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash</link>
-      <pubDate>2026-08-21T09:37:52-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983181</guid>
-      <description>Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam "Kold" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]...</description>
     </item>
   </channel>
 </rss>
