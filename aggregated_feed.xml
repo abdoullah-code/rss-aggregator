@@ -3,13 +3,41 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 21 Aug 2026 16:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:32:09 GMT</lastBuildDate>
     <item>
-      <title>Nvidia finds that simple linear math can replace costly AI model handoffs</title>
-      <link>https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs</link>
-      <pubDate>Fri, 21 Aug 2026 16:33:56 GMT</pubDate>
-      <guid isPermaLink="false">7AqGcMB9hCd7buI4KLhDZV</guid>
-      <description>When an agentic AI system hands a task from a small model to a larger one &#8212; or back down again &#8212; it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises building long-horizon, multi-LLM workflows.To solve this challenge, researchers at Nvidia have introduced a cross-model KV cache transfer technique that directly maps the prefilled KV cache from a source model into the target model. This technique aligns with real-world agentic applications where large contexts accumulate ac...</description>
+      <title>Walmart is finally adding Apple Pay and Google Pay</title>
+      <link>https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch</link>
+      <pubDate>2026-08-21T13:01:59-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=983336</guid>
+      <description>Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to "select" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations [&#8230;]</description>
+    </item>
+    <item>
+      <title>Why is the DOJ investigating Andreessen Horowitz&#8217;s board seats?</title>
+      <link>https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/</link>
+      <pubDate>Fri, 21 Aug 2026 16:53:39 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3155423</guid>
+      <description>Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Microsoft and Discord subpoenaed over GTA VI gameplay leaks</title>
+      <link>https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed</link>
+      <pubDate>2026-08-21T12:52:56-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=983323</guid>
+      <description>Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that "infringes copyrights" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted material includes "audiovisual content, artwork, images, dialogue, or other creative elements" and it is looking to identify "alleged [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Huawei d&#233;voile un smartphone qui ressemble &#224; un pliant&#8230; mais qui ne se plie pas</title>
+      <link>https://www.01net.com/actualites/huawei-devoile-pura-x-view-smartphone-format-tres-original.html</link>
+      <pubDate>Fri, 21 Aug 2026 16:45:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1365228</guid>
+      <description>Huawei a d&#233;voil&#233; le Pura X View, un smartphone au format passeport qui ne se plie pas. Le constructeur chinois veut proposer un appareil dot&#233; d&#8217;un large &#233;cran, sans les contraintes techniques du t&#233;l&#233;phone pliant ni le tarif exorbitant qui va avec.</description>
+    </item>
+    <item>
+      <title>Aldi just brought out a &#163;60 stick vac &#8212; as a vacuum reviewer, these are the cheap alternatives I'd buy instead</title>
+      <link>https://www.techradar.com/home/vacuums/aldi-just-brought-out-a-gbp60-stick-vac-as-a-vacuum-reviewer-these-are-the-cheap-alternatives-id-buy-instead</link>
+      <pubDate>Fri, 21 Aug 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false">JVkSaS5U8suF6GNV3N2Ma8</guid>
+      <description>Don't fall into the middle aisle trap &#8212; these are the affordable vacuums that won't leave you disappointed.</description>
     </item>
     <item>
       <title>Pixel 11 gets in on the digicam trend</title>
@@ -150,117 +178,6 @@ Not&#233; 8/10 dans nos colonnes gr&#226;ce &#224; sa batterie infatigable et so
       <pubDate>Fri, 21 Aug 2026 15:40:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/</guid>
       <description>Sam's Club will soon let you pay with your phone or smartwatch too.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Tab S12 Ultra : un design familier et une puce Dimensity 9500 &#224; venir</title>
-      <link>https://www.frandroid.com/marques/samsung/3219105_samsung-galaxy-tab-s12-ultra-un-design-familier-et-une-puce-dimensity-9500-a-venir</link>
-      <pubDate>Fri, 21 Aug 2026 15:30:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3219105_samsung-galaxy-tab-s12-ultra-un-design-familier-et-une-puce-dimensity-9500-a-venir</guid>
-      <description>
-Selon plusieurs fuites r&#233;centes, la future tablette haut de gamme de Samsung reprendrait largement l'esth&#233;tique de sa pr&#233;d&#233;cesseure. Seule la puce interne changerait vraiment, avec l'arriv&#233;e du SoC MediaTek Dimensity 9500.
-</description>
-    </item>
-    <item>
-      <title>Can you use a satellite dish as a free TV antenna? It depends where you live</title>
-      <link>https://www.engadget.com/2240106/can-you-use-satellite-dish-as-free-tv-antenna/</link>
-      <pubDate>Fri, 21 Aug 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240106/can-you-use-satellite-dish-as-free-tv-antenna/</guid>
-      <description>A satellite dish left by previous owners may yet have something to offer today. Here's what it can and can't do.</description>
-    </item>
-    <item>
-      <title>Smaller than a PS5 and our Best-in-Class gaming mini PC, the Asus ROG NUC drops to $3499 &#8212; but it's still an absolute fortune</title>
-      <link>https://www.techradar.com/pro/smaller-than-a-ps5-and-our-best-in-class-gaming-mini-pc-the-asus-rog-nuc-drops-to-usd3499-but-its-still-an-absolute-fortune</link>
-      <pubDate>Fri, 21 Aug 2026 15:29:30 +0000</pubDate>
-      <guid isPermaLink="false">V33ahFzt77srW8r3KJjYeJ</guid>
-      <description>Earning a Best-in-Class badge from our tests, this wildly expensive gaming machine packs in Intel Core Ultra 9 275HX, Nvidia RTX 5080 Laptop GPU, and 32GB DDR5.</description>
-    </item>
-    <item>
-      <title>Mullvad VPN is testing smarter multi-hop and a spinnable server globe on Android</title>
-      <link>https://www.techradar.com/vpn/vpn-services/mullvad-vpn-is-testing-smarter-multi-hop-and-a-spinnable-server-globe-on-android</link>
-      <pubDate>Fri, 21 Aug 2026 15:25:06 +0000</pubDate>
-      <guid isPermaLink="false">ST2pssRnztotuE4z5JG8FJ</guid>
-      <description>Mullvad is testing a redesigned multi-hop feature for its Android app, along with an interactive server globe and smarter location search, all currently in beta.</description>
-    </item>
-    <item>
-      <title>GNC has closed hundreds of stores in the last 3 years: See a list of locations that have lost the most</title>
-      <link>https://www.fastcompany.com/91593275/gnc-stores-closing-2026-list-locations-states-biggest-declines</link>
-      <pubDate>2026-08-21T15:21:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593275/gnc-stores-closing-2026-list-locations-states-biggest-declines</guid>
-      <description>The nutrition and wellness retailer has continued to shrink its U.S. footprint since being acquired out of bankruptcy six years ago.
-Years ago, stocking up on protein powder and herbal supplements meant stopping by your local GNC store, but that option is quickly disappearing for local communities around the country.&#160;</description>
-    </item>
-    <item>
-      <title>Are Meta smart glasses doomed to fail like Google Glass? Have your say on what fate is most likely for wearable cameras</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/are-meta-smart-glasses-doomed-to-fail-like-google-glass-have-your-say-on-what-fate-is-most-likely-for-wearable-cameras</link>
-      <pubDate>Fri, 21 Aug 2026 15:19:48 +0000</pubDate>
-      <guid isPermaLink="false">KAGVqsyWcwGV2SqDPQAD8F</guid>
-      <description>There couldn't be a worse time for Meta and Samsung to release new smart glasses, but what could they do instead?</description>
-    </item>
-    <item>
-      <title>Outer Banks 'gets the Yellowstone treatment' as new prequel goes ahead at Netflix &#8212; and fans are more open to it after divisive season 5 ending</title>
-      <link>https://www.techradar.com/streaming/netflix/outer-banks-season-5-ending-prequel</link>
-      <pubDate>Fri, 21 Aug 2026 15:05:48 +0000</pubDate>
-      <guid isPermaLink="false">8onqYRv8XGcdxp2gTGorPL</guid>
-      <description>Whether you loved or loathed the Outer Banks season 5 ending, don't panic. A prequel is coming at Netflix &#8212;  and it could finally flesh out one overlooked storyline.</description>
-    </item>
-    <item>
-      <title>This new malware can use Google passkeys even after a victim resets their password</title>
-      <link>https://www.techradar.com/pro/security/this-new-malware-can-use-google-passkeys-even-after-a-victim-resets-their-password</link>
-      <pubDate>Fri, 21 Aug 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">XL5nrccyjA7YTcv5HwxC9C</guid>
-      <description>A newly discovered toolkit can deeply compromise Gmail, Microsoft, Apple, and LinkedIn accounts</description>
-    </item>
-    <item>
-      <title>Meta&#8217;s Big Reckoning Is Here</title>
-      <link>https://www.wired.com/story/metas-big-reckoning-is-here/</link>
-      <pubDate>Fri, 21 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a873e2f6e93e6c337fd96d5</guid>
-      <description>Meta is in court again over child safety, and this time it&#8217;s a landmark case that could force significant changes to core features of Facebook and Instagram.</description>
-    </item>
-    <item>
-      <title>How to watch Premier League 2026-27 for *FREE*</title>
-      <link>https://www.techradar.com/how-to-watch/football/premier-league-2026-27-for-free</link>
-      <pubDate>Fri, 21 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8zE7vGVUV7ukjfDHYw6pYa</guid>
-      <description>Here's how you can watch the Premier League for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>Mon test du Google Pixel 11 Pro : plus intelligent, plus lumineux, mais toujours pas une foudre de guerre</title>
-      <link>https://www.frandroid.com/marques/google/3217657_mon-test-du-google-pixel-11-pro-plus-intelligent-plus-lumineux-mais-toujours-pas-une-foudre-de-guerre</link>
-      <pubDate>Fri, 21 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3217657_mon-test-du-google-pixel-11-pro-plus-intelligent-plus-lumineux-mais-toujours-pas-une-foudre-de-guerre</guid>
-      <description>
-Toujours pas taill&#233; pour battre des records de puissance brute, le photophone am&#233;ricain mise sur l'exp&#233;rience globale, un &#233;cran ultra-lumineux et l'arriv&#233;e d'Android 17 avec une bonne dose d'IA localis&#233;e. Apr&#232;s quelques jours en sa compagnie, voici nos premi&#232;res impressions.
-</description>
-    </item>
-    <item>
-      <title>Pro-Trump board at Kennedy Center makes moves to return the president&#8217;s name to the facade</title>
-      <link>https://www.fastcompany.com/91593581/pro-trump-board-kennedy-center-makes-moves-return-presidents-name-facade</link>
-      <pubDate>2026-08-21T14:56:35</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593581/pro-trump-board-kennedy-center-makes-moves-return-presidents-name-facade</guid>
-      <description>An Ohio democrat is seeking to block the engraving with an emergency request to a federal court.
-Rep. Joyce Beatty made an emergency request on Thursday that a federal court block the Kennedy Center from returning President Donald Trump&#8217;s name to the building.The Trump-aligned board at the Kennedy Center voted earlier this month to inscribe the president&#8217;s name on the venue&#8217;s facade so it would read &#8220;The John F. Kennedy Center for the Performing Arts Restored and Renovated By President Donald J. Trump.&#8221; If the Trump Kennedy Center Fund reached $100 million, another inscription would be added r...</description>
-    </item>
-    <item>
-      <title>Why does it seem like food recalls are out of control this year?</title>
-      <link>https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control</link>
-      <pubDate>2026-08-21T10:45:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983241</guid>
-      <description>Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come from Midwest Poultry Services, were distributed to Kroger and smaller grocery stores across the South and Southwest [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Saatvas Labor Day sale takes up to $625 off luxury mattresses &#8212; shop the Saatva Classic, Rx, and more</title>
-      <link>https://mashable.com/life/saatva-labor-day-sale-2026-deals</link>
-      <pubDate>Fri, 21 Aug 2026 14:43:16 +0000</pubDate>
-      <guid isPermaLink="false">00E8OovZNgBWEaTaPUFhSg6</guid>
-      <description>Saatva's Labor Day sale takes up to $625 off luxury mattresses, pillows, bed frames, and adjustable bases, including the Saatva Classic and Saatva Rx.</description>
-    </item>
-    <item>
-      <title>Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy</title>
-      <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
-      <pubDate>Fri, 21 Aug 2026 14:39:24 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155420</guid>
-      <description>The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.</description>
     </item>
   </channel>
 </rss>
