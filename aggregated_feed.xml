@@ -3,9 +3,37 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 21 Aug 2026 21:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:28:29 GMT</lastBuildDate>
     <item>
-      <title>Over one million people have clicked LinkedIn&#8217;s AI slop button</title>
+      <title>HoverAir&#8217;s transforming modular drone has already been halted in the US</title>
+      <link>https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo</link>
+      <pubDate>2026-08-21T18:14:11-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=983500</guid>
+      <description>I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [&#8230;]</description>
+    </item>
+    <item>
+      <title>TikTok will pay $400 million to settle DOJ child privacy lawsuit</title>
+      <link>https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa</link>
+      <pubDate>2026-08-21T18:13:34-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=983531</guid>
+      <description>The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts [&#8230;]...</description>
+    </item>
+    <item>
+      <title>How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours</title>
+      <link>https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/</link>
+      <pubDate>Fri, 21 Aug 2026 22:10:01 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155673</guid>
+      <description>Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.</description>
+    </item>
+    <item>
+      <title>&#8216;Better move would be to ban it&#8217;: Apple Music steps up plan for AI-generated song labels, but some users think it doesn&#8217;t go far enough</title>
+      <link>https://www.techradar.com/audio/apple-music/better-move-would-be-to-ban-it-apple-music-steps-up-plan-for-ai-generated-song-labels-but-some-users-think-it-doesnt-go-far-enough</link>
+      <pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Jeg36oJD8v2DDsbfqDvZgP</guid>
+      <description>Apple Music will require artists to label their AI-generated music so users know what they&#8217;re getting.</description>
+    </item>
+    <item>
+      <title>Over 1 million people have clicked LinkedIn&#8217;s AI slop button</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message</link>
       <pubDate>2026-08-21T17:25:50-04:00</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=983502</guid>
@@ -26,18 +54,18 @@
       <description>The DoJ said the app has made significant strides in privacy protections since the 2024 suit.</description>
     </item>
     <item>
-      <title>Insidious: Out of the Further review &#8212; the new horror movie is the franchise's scariest yet, but that doesn't mean it's good</title>
-      <link>https://www.techradar.com/streaming/entertainment/insidious-out-of-the-further-review-the-new-horror-movie-is-the-franchises-scariest-yet-but-that-doesnt-mean-its-good</link>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">scYS2PFCKgftEfyDt5mJmJ</guid>
-      <description>Insidious: Out of the Further is now playing in theaters worldwide, but it's a disappointing entry into the horror franchise.</description>
-    </item>
-    <item>
       <title>This 9-in-1 USB dock with a Blu-ray drive just smashed its Kickstarter goal by 300x&#8212;as backers succumb to dongle fatigue and physical media nostalgia</title>
       <link>https://www.techradar.com/televisions/this-9-in-1-usb-dock-with-a-blu-ray-drive-just-smashed-its-kickstarter-goal-by-300x-as-backers-succumb-to-dongle-fatigue-and-physical-media-nostalgia</link>
       <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">3uoDdemmCfdBETwichAuzR</guid>
       <description>The BluHub is a USB 3 hub with an integrated BD/DVD/CD writer &#8212; and despite its early Kickstarter success, some are warning of red flags.</description>
+    </item>
+    <item>
+      <title>Insidious: Out of the Further review &#8212; the new horror movie is the franchise's scariest yet, but that doesn't mean it's good</title>
+      <link>https://www.techradar.com/streaming/entertainment/insidious-out-of-the-further-review-the-new-horror-movie-is-the-franchises-scariest-yet-but-that-doesnt-mean-its-good</link>
+      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">scYS2PFCKgftEfyDt5mJmJ</guid>
+      <description>Insidious: Out of the Further is now playing in theaters worldwide, but it's a disappointing entry into the horror franchise.</description>
     </item>
     <item>
       <title>'Took me months to work this out': Redditor explains how Windows 11 can end up stripping out the GPU driver on your gaming laptop</title>
@@ -68,85 +96,12 @@
       <description>'Niu Lai' went viral for its crude animation before becoming a Chinese box-office hit celebrated as a handmade alternative to AI slop.</description>
     </item>
     <item>
-      <title>TikTok reaches $400M settlement over children&#8217;s privacy lawsuit</title>
-      <link>https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/</link>
-      <pubDate>Fri, 21 Aug 2026 20:25:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155645</guid>
-      <description>Two years after the U.S. Department of Justice alleged that TikTok violated the Children&#8217;s Online Privacy Protection Act, it has reached a $400 million settlement.</description>
-    </item>
-    <item>
-      <title>'We're offering gamers not just two more headsets, but two different ways to experience their games' &#8212; Audio specialist beyerdynamic announces two new, affordable wireless headsets, the MMX 100 and MMX 130</title>
-      <link>https://www.techradar.com/gaming/were-offering-gamers-not-just-two-more-headsets-but-two-different-ways-to-experience-their-games-audio-specialist-beyerdynamic-announces-two-new-affordable-wireless-headsets-the-mmx-100-and-mmx-130</link>
-      <pubDate>Fri, 21 Aug 2026 20:15:07 +0000</pubDate>
-      <guid isPermaLink="false">agNkUtaUTLMbXPagm3KD9L</guid>
-      <description>German audio specialist beyerdynamic has announced two new wireless headsets, the closed-back MMX 100 wireless and the open-back MMX 130 wireless.</description>
-    </item>
-    <item>
-      <title>Dont miss a record deal on this ASUS ROG 4K monitor &#8212; next level gaming with $100 savings</title>
-      <link>https://mashable.com/tech/aug-21-asus-rog-gaming-monitor-deal</link>
-      <pubDate>Fri, 21 Aug 2026 20:12:06 +0000</pubDate>
-      <guid isPermaLink="false">0602WfQmRr5VrNGLGdMT8Bp</guid>
-      <description>The ASUS ROG OLED 4K gaming monitor is on sale at Amazon for $699, down from the list price of $799. That's a 13% discount.</description>
-    </item>
-    <item>
-      <title>No driver, no problem &#8212; devs use Claude AI to craft native macOS tool for an 'obscure' Windows-only printer</title>
-      <link>https://www.techradar.com/pro/no-driver-no-problem-devs-use-claude-ai-to-craft-native-macos-tool-for-an-obscure-windows-only-printer</link>
-      <pubDate>Fri, 21 Aug 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">xv5Eoqv8F5X5c8d7biKqzi</guid>
-      <description>Developer uses Claude Code to create driver for the HP Laser 1008a, a 2023 printer that has Windows and Linux drivers, but no macOS driver &#8211; until now.</description>
-    </item>
-    <item>
-      <title>CRSHMARKET goes viral: You can now bet on what happens next in a livestream. Social media thinks that&#8217;s a nightmare</title>
-      <link>https://www.fastcompany.com/91593742/crshmarket-goes-viral-bet-on-what-happens-next-in-livestream-prediction-markets</link>
-      <pubDate>2026-08-21T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593742/crshmarket-goes-viral-bet-on-what-happens-next-in-livestream-prediction-markets</guid>
-      <description>A new prediction market that mashes up Twitch and Kalshi launched earlier this summer, and its latest ad caught the internet&#8217;s attention.
-Prediction markets already get a bad rap online from some social media users, and now a new app that blends livestreaming and live betting is unleashing a new wave of social media outrage.</description>
-    </item>
-    <item>
-      <title>The $225 Pebble Time 2 is a refreshingly fun smartwatch</title>
-      <link>https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/</link>
-      <pubDate>Fri, 21 Aug 2026 19:57:46 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155447</guid>
-      <description>The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.</description>
-    </item>
-    <item>
-      <title>Apple is laying off staffers working on the Vision Pro and Siri</title>
-      <link>https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri</link>
-      <pubDate>2026-08-21T15:44:55-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983451</guid>
-      <description>Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include "largely shutting down" a Vision Pro gaming team and "reducing the size" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to [&#8230;]</description>
-    </item>
-    <item>
-      <title>Nvidia just showed that the harness, not the AI model, is now the real hero</title>
-      <link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
-      <pubDate>Fri, 21 Aug 2026 19:43:39 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155284</guid>
-      <description>Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.</description>
-    </item>
-    <item>
-      <title>Fast cash isn&#8217;t always smart cash</title>
-      <link>https://www.fastcompany.com/91592558/fast-cash-isnt-always-smart-cash</link>
-      <pubDate>2026-08-21T19:36:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91592558/fast-cash-isnt-always-smart-cash</guid>
-      <description>As alternative lenders promise same-day funding, small business owners&#8212;especially women entrepreneurs&#8212;must weigh speed against long-term cost and support.
-For a long time, the biggest hurdle for a small business was simply finding capital. Today, the challenge is choosing the right kind.</description>
-    </item>
-    <item>
-      <title>Why social media algorithms feed you posts you dislike</title>
-      <link>https://www.fastcompany.com/91593207/social-media-algorithms-send-you-posts-you-dont-like</link>
-      <pubDate>2026-08-21T19:33:40</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593207/social-media-algorithms-send-you-posts-you-dont-like</guid>
-      <description>The algorithms supplying your feeds may be designed to prioritize content that clashes with your values.
-Do your social media accounts feed you content that reflects your core beliefs and guiding principles? Our new research published in the Proceedings of the National Academy of Sciences shows that the algorithms supplying your feeds may be prioritizing content that clashes with your values. That&#8217;s because the algorithms heavily weigh online posts that you reply to, and more often social media users tend to comment on content they take issue with than on content they agree with....</description>
-    </item>
-    <item>
-      <title>How the yellow school bus became an iconic symbol in America</title>
-      <link>https://www.fastcompany.com/91593855/school-bus-yellow-blue-bird-albert-luce</link>
-      <pubDate>2026-08-21T19:28:31</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91593855/school-bus-yellow-blue-bird-albert-luce</guid>
-      <description>The yellow school bus got its start in rural America.
-They arrived in a kaleidoscope of colors, but one won. For decades, the American school bus has maintained such a standard look that &#8220;school bus yellow&#8221; is national shorthand for its deep, glossy hue.</description>
+      <title>Ground beef prices are soaring. Trump&#8217;s fix has U.S. ranchers worried</title>
+      <link>https://www.fastcompany.com/91593778/ground-beef-could-get-25-cheaper-american-ranchers-say-trumps-plan-comes-at-their-expense</link>
+      <pubDate>2026-08-21T20:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91593778/ground-beef-could-get-25-cheaper-american-ranchers-say-trumps-plan-comes-at-their-expense</guid>
+      <description>A 90-day tariff break could bring cheaper imported beef to U.S. shoppers, while cattle producers warn it could undermine America&#8217;s struggling beef industry.
+With most Americans still feeling the pinch of persistent inflation, President Trump wants to make one pricey grocery staple cheaper.</description>
     </item>
   </channel>
 </rss>
