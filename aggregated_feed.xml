@@ -3,34 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 22 Aug 2026 01:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 02:57:05 GMT</lastBuildDate>
+    <item>
+      <title>Protection de la vie priv&#233;e des enfants | TikTok conclut un accord de 400&#160;millions US</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-08-21/protection-de-la-vie-privee-des-enfants/tiktok-conclut-un-accord-de-400-millions-us.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Fri, 21 Aug 2026 22:15:58 -0400</pubDate>
+      <guid isPermaLink="false">c252c40cf4823754918b37083619d9bb</guid>
+      <description>TikTok a conclu un accord &#224; l&#8217;amiable de 400&#160;millions US avec le d&#233;partement am&#233;ricain de la Justice, mettant ainsi fin &#224; une action en justice engag&#233;e en 2024 qui reprochait &#224; l&#8217;entreprise d&#8217;avoir enfreint les lois f&#233;d&#233;rales relatives &#224; la protection de la vie priv&#233;e des mineurs.</description>
+    </item>
+    <item>
+      <title>Michael Polansky is training an AI model on skin that&#8217;s still alive</title>
+      <link>https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/</link>
+      <pubDate>Sat, 22 Aug 2026 01:31:04 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155800</guid>
+      <description>Michael Polansky &#8212; better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker &#8212; has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.</description>
+    </item>
     <item>
       <title>Japanese space tech startup Letara expands beyond satellite thrusters with $16M</title>
       <link>https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/</link>
       <pubDate>Sat, 22 Aug 2026 01:03:06 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3155738</guid>
       <description>Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising &#165;2.6 billion ($16 million).</description>
-    </item>
-    <item>
-      <title>350-Ton Longking ZL230E electric mining rig packs colossal 1,400 kWh battery, claims 10-90% charge in just 25 minutes</title>
-      <link>https://www.techradar.com/pro/350-ton-longking-zl230e-electric-mining-rig-packs-colossal-1-400-kwh-battery-claims-10-90-charge-in-just-25-minutes-clone</link>
-      <pubDate>Sat, 22 Aug 2026 00:25:00 +0000</pubDate>
-      <guid isPermaLink="false">B9iWHouTeaCogTRsPrE4mN</guid>
-      <description>Zijin Longking launches ZL230E, a 350-ton electric mining truck with a 1,400-kWh battery and 25-minute fast charging.</description>
-    </item>
-    <item>
-      <title>Taiwan taps US startup Vatn for modular S12 undersea drones &#8211; Washington&#8217;s ally turns to cheaper underwater systems</title>
-      <link>https://www.techradar.com/pro/taiwan-taps-us-startup-vatn-for-modular-s12-undersea-drones-washingtons-ally-turns-to-cheaper-underwater-systems</link>
-      <pubDate>Fri, 21 Aug 2026 23:30:00 +0000</pubDate>
-      <guid isPermaLink="false">hU2C2SQZScSR7ycFFAJErQ</guid>
-      <description>Vatn Systems and Taiwan's NCSIST sign memorandum to jointly develop autonomous undersea drones, though funding timeline details remain undisclosed.</description>
-    </item>
-    <item>
-      <title>The Unlikely Place at the Center of China&#8217;s AI Boom</title>
-      <link>https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/</link>
-      <pubDate>Fri, 21 Aug 2026 23:25:32 +0000</pubDate>
-      <guid isPermaLink="false">6a85df6ad0110f6d404e4794</guid>
-      <description>Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.</description>
     </item>
   </channel>
 </rss>
