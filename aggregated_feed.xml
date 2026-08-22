@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 22 Aug 2026 22:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:24:07 GMT</lastBuildDate>
     <item>
       <title>Quote of the day by Palantir co-founder Peter Thiel: 'Anyone that has a monopoly will pretend that they're in incredible competition' &#8212; exposing how tech titans bend the market in their favour</title>
       <link>https://www.techradar.com/pro/quote-of-the-day-by-palantir-co-founder-peter-thiel-anyone-that-has-a-monopoly-will-pretend-that-theyre-in-incredible-competition-exposing-how-tech-titans-bend-the-market-in-their-favour</link>
@@ -38,27 +38,6 @@
       <pubDate>Sat, 22 Aug 2026 21:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/</guid>
       <description>We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.</description>
-    </item>
-    <item>
-      <title>Enterprises winning with AI agents are limiting how much the agents can do alone</title>
-      <link>https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone</link>
-      <pubDate>Sat, 22 Aug 2026 21:30:00 GMT</pubDate>
-      <guid isPermaLink="false">6y4lGj2ZoY6guqwCLwvG6e</guid>
-      <description>For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested at scale, in real production environments &#8212; and in a lot of deployments it's failing. The companies that end up benefiting from agentic AI won't necessarily be the ones that have given their agents the most flexibility. They're the ones who create AI agents with specific responsibilities and make sure they operate withi...</description>
-    </item>
-    <item>
-      <title>Floating 10 MW nuclear reactor proposed for California: barge-mounted SMR aims to power 15,000 homes</title>
-      <link>https://www.techradar.com/pro/floating-10-mw-nuclear-reactor-proposed-for-california-barge-mounted-smr-aims-to-power-15-000-homes</link>
-      <pubDate>Sat, 22 Aug 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="false">jeo8UzFmUuEuQ6imY5gmtT</guid>
-      <description>Bluecore Energy proposes floating small modular reactor at Long Beach, aiming to power 15,000 homes despite regulatory hurdles.</description>
-    </item>
-    <item>
-      <title>How to limit Instagram from using your data for AI and ads</title>
-      <link>https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/</link>
-      <pubDate>Sat, 22 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/</guid>
-      <description>You can keep Instagram from using your activity outside the app to influence the ads you get.</description>
     </item>
   </channel>
 </rss>
