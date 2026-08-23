@@ -3,7 +3,14 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 23 Aug 2026 21:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:26:10 GMT</lastBuildDate>
+    <item>
+      <title>What is a VESA mount and how to know what type your TV has</title>
+      <link>https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/</link>
+      <pubDate>Sun, 23 Aug 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/</guid>
+      <description>Those 200 &#215; 200 and 400 &#215; 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware.</description>
+    </item>
     <item>
       <title>China is shifting its new data centers to rural Eastern locations as it looks for extra AI power</title>
       <link>https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power</link>
@@ -24,41 +31,6 @@
       <pubDate>Sun, 23 Aug 2026 20:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/</guid>
       <description>While these two names sound like they'd refer to the same product, there are major differences between them.</description>
-    </item>
-    <item>
-      <title>Ukrainian drone giant Brave1 will now let military customers order custom-built drones</title>
-      <link>https://www.techradar.com/pro/title-1-ukrainian-drone-giant-brave1-will-now-let-military-customers-order-custom-built-drones</link>
-      <pubDate>Sun, 23 Aug 2026 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">jQh3xBxXQbz37YrDrdcUi7</guid>
-      <description>Brave1 launched a new marketplace letting Ukrainian military units order custom-built drones with automatic bidding, transparent pricing, and digital tracking.</description>
-    </item>
-    <item>
-      <title>Who&#8217;s behind the new &#8216;stealth model&#8217; Ox Alpha?</title>
-      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
-      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155879</guid>
-      <description>A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.</description>
-    </item>
-    <item>
-      <title>The Garmin Venu 3 is a 'near-perfect balance of smartwatch and health tracker' &#8212; and it just dropped to its lowest price yet</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/the-garmin-venu-3-is-a-near-perfect-balance-of-smartwatch-and-health-tracker-and-it-just-dropped-to-its-lowest-price-yet</link>
-      <pubDate>Sun, 23 Aug 2026 20:01:13 +0000</pubDate>
-      <guid isPermaLink="false">3t7WwpWXx35A9tbxYugXi7</guid>
-      <description>In our Garmin Venu 3 review, we said it was a 'near-perfect balance of smartwatch and health tracker ', and it's currently on sale at Amazon for its lowest price yet.</description>
-    </item>
-    <item>
-      <title>How to stop Siri from interrupting while you're using CarPlay</title>
-      <link>https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/</link>
-      <pubDate>Sun, 23 Aug 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/</guid>
-      <description>Don't let Siri become a hassle instead of an assistant; keep it quiet in the car to reduce distractions.</description>
-    </item>
-    <item>
-      <title>Uber faces fine of nearly $1B over automated driver suspensions</title>
-      <link>https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/</link>
-      <pubDate>Sun, 23 Aug 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155874</guid>
-      <description>The Dutch Data Protection Authority is fining Uber &#8364;825 million in the second largest penalty issued under Europe&#8217;s GDPR.</description>
     </item>
   </channel>
 </rss>
