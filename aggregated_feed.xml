@@ -3,34 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 23 Aug 2026 22:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:24:48 GMT</lastBuildDate>
+    <item>
+      <title>Enterprise AI agents are only as reliable as the messiest documents behind them</title>
+      <link>https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them</link>
+      <pubDate>Sun, 23 Aug 2026 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2znePv9XlFXwfla86XQI2g</guid>
+      <description>Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.As organizations deploy more AI applications and agents, this model begins to break down. Different teams process the same documents, maintain separate embeddings and indexes, and create inconsistent represent...</description>
+    </item>
     <item>
       <title>What is a VESA mount and how to know what type your TV has</title>
       <link>https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/</link>
       <pubDate>Sun, 23 Aug 2026 21:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/</guid>
       <description>Those 200 &#215; 200 and 400 &#215; 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware.</description>
-    </item>
-    <item>
-      <title>China is shifting its new data centers to rural Eastern locations as it looks for extra AI power</title>
-      <link>https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power</link>
-      <pubDate>Sun, 23 Aug 2026 21:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ArajepRhJuAjUs2EYS6aGC</guid>
-      <description>China is expanding rural AI data centers for climate and land advantages, though local wage growth has lagged behind investment.</description>
-    </item>
-    <item>
-      <title>The Razer Soma Chroma has a silly name, silly price tag, and sillily requires you bring your own battery to light the thing up</title>
-      <link>https://www.techradar.com/gaming/razer-soma-chroma-review</link>
-      <pubDate>Sun, 23 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">fxoU6XjvgZNfduNdzDsTxc</guid>
-      <description>The Soma Chroma is seriously comfortable. It's good at being a chair, but it's just a bit "meh" at everything else.</description>
-    </item>
-    <item>
-      <title>How is Android Auto different from Android Automotive?</title>
-      <link>https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/</link>
-      <pubDate>Sun, 23 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/</guid>
-      <description>While these two names sound like they'd refer to the same product, there are major differences between them.</description>
     </item>
   </channel>
 </rss>
