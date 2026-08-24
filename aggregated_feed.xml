@@ -3,20 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 23 Aug 2026 23:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 01:37:19 GMT</lastBuildDate>
     <item>
-      <title>Enterprise AI agents are only as reliable as the messiest documents behind them</title>
-      <link>https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them</link>
-      <pubDate>Sun, 23 Aug 2026 23:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2znePv9XlFXwfla86XQI2g</guid>
-      <description>Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.As organizations deploy more AI applications and agents, this model begins to break down. Different teams process the same documents, maintain separate embeddings and indexes, and create inconsistent represent...</description>
+      <title>President Trump wants the US to carry out more than 1,000 space launches a year by 2030 &#8212; and speed up sending robots and humans to Mars</title>
+      <link>https://www.techradar.com/pro/president-trump-wants-the-us-to-carry-out-more-than-1-000-space-launches-a-year-by-2030-and-speed-up-sending-robots-and-humans-to-mars</link>
+      <pubDate>Mon, 24 Aug 2026 01:05:00 +0000</pubDate>
+      <guid isPermaLink="false">nB27XZnJr3M2TEic4ufjLF</guid>
+      <description>Trump signs memo pushing America toward 1,000 annual space launches by 2030, boosting access to land and NASA's moon plans.</description>
     </item>
     <item>
-      <title>What is a VESA mount and how to know what type your TV has</title>
-      <link>https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/</link>
-      <pubDate>Sun, 23 Aug 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/</guid>
-      <description>Those 200 &#215; 200 and 400 &#215; 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware.</description>
+      <title>The US is now home to 15 of the world's 20 biggest AI data centers &#8212; with one state housing 12 on its own</title>
+      <link>https://www.techradar.com/pro/the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers-with-one-state-housing-12-on-its-own</link>
+      <pubDate>Sun, 23 Aug 2026 23:45:00 +0000</pubDate>
+      <guid isPermaLink="false">4a6q6HfCrX9ZrqMVMBUgVj</guid>
+      <description>The US dominates global hyperscale infrastructure, while Texas and emerging markets gain importance as operators seek locations supporting continued AI expansion.</description>
     </item>
   </channel>
 </rss>
