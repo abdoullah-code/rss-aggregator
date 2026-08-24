@@ -3,7 +3,56 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 24 Aug 2026 20:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:33:07 GMT</lastBuildDate>
+    <item>
+      <title>This company wants to stop underwater drones and even submarines with a whole new form of sonar technology</title>
+      <link>https://www.techradar.com/pro/this-company-wants-to-stop-underwater-drones-and-even-submarines-with-a-whole-new-form-of-sonar-technology</link>
+      <pubDate>Mon, 24 Aug 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ipgM4ityzoWScy5C7q75PZ</guid>
+      <description>A sensor that listens silently, then calls in a second one to ping the target, could be a key pairing that helps the US Navy track underwater drones before they reach the pier.</description>
+    </item>
+    <item>
+      <title>Trump bought SpaceX shares two weeks after blockbuster IPO</title>
+      <link>https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/</link>
+      <pubDate>Mon, 24 Aug 2026 21:24:17 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156185</guid>
+      <description>The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.</description>
+    </item>
+    <item>
+      <title>Bitdefender VPN Review: Fast and Affordable Privacy</title>
+      <link>https://www.wired.com/review/bitdefender-vpn/</link>
+      <pubDate>Mon, 24 Aug 2026 21:08:00 +0000</pubDate>
+      <guid isPermaLink="false">6a4298acb44703875b61e821</guid>
+      <description>Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.</description>
+    </item>
+    <item>
+      <title>Sandisk's huge new SSDs are set up specifically for NAS devices, with the largest offering a frankly ridiculous 7.68TB</title>
+      <link>https://www.techradar.com/pro/sandisks-huge-new-ssds-are-set-up-specifically-for-nas-devices-with-the-largest-offering-a-frankly-ridiculous-7-68tb</link>
+      <pubDate>Mon, 24 Aug 2026 20:50:00 +0000</pubDate>
+      <guid isPermaLink="false">mvDMUkCUCESdX8YGtf63Bh</guid>
+      <description>Sandisk introduces NAS-focused SSDs spanning 500GB to 7.68TB, combining SATA and PCIe 5.0 interfaces with high endurance ratings.</description>
+    </item>
+    <item>
+      <title>Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It</title>
+      <link>https://www.wired.com/story/sous-vide-salmonella-eggs/</link>
+      <pubDate>Mon, 24 Aug 2026 20:45:52 +0000</pubDate>
+      <guid isPermaLink="false">6a8871f1d0dd1ffae141197c</guid>
+      <description>With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.</description>
+    </item>
+    <item>
+      <title>Zillow and Redfin settle FTC antitrust case</title>
+      <link>https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/</link>
+      <pubDate>Mon, 24 Aug 2026 20:45:33 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156155</guid>
+      <description>Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.</description>
+    </item>
+    <item>
+      <title>How to use Samsung's new My FanCam feature to make yourself the main character in your videos</title>
+      <link>https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/</link>
+      <pubDate>Mon, 24 Aug 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/</guid>
+      <description>Zooming in on your kid's performance in the school play is about to get a whole lot easier. It's going to look better, too.</description>
+    </item>
     <item>
       <title>The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe</title>
       <link>https://www.wired.com/story/food-safety-gear-salmonella/</link>
@@ -30,10 +79,10 @@
       <link>https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/</link>
       <pubDate>Mon, 24 Aug 2026 19:58:17 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3156112</guid>
-      <description>Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama&#8217;s Attorney General announced an investigation into the incident.</description>
+      <description>Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama&#8217;s attorney general announced an investigation into the incident.</description>
     </item>
     <item>
-      <title>Amazon hikes hardware prices by 60 percent, blaming memory shortage</title>
+      <title>Amazon hikes hardware prices by 60%, blaming memory shortage</title>
       <link>https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/</link>
       <pubDate>Mon, 24 Aug 2026 19:54:50 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3156059</guid>
@@ -59,34 +108,6 @@
       <pubDate>Mon, 24 Aug 2026 19:44:13 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3137144</guid>
       <description>Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.</description>
-    </item>
-    <item>
-      <title>'Same compute, fewer resources - More compute, same energy': AMD says it is on track to make AI four times more energy efficient</title>
-      <link>https://www.techradar.com/pro/same-compute-fewer-resources-more-compute-same-energy-amd-says-it-is-on-track-to-make-ai-four-times-more-energy-efficient</link>
-      <pubDate>Mon, 24 Aug 2026 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">g4VU8TmcxzcZ2F5fDGMztf</guid>
-      <description>AMD says two of its 2030 racks will match 570 from 2024 using twenty times less power and reducing carbon intensity by twenty-eight times.</description>
-    </item>
-    <item>
-      <title>Surprise sur la Lune : ces r&#233;gions pourraient r&#233;v&#233;ler de la vie apport&#233;e depuis la Terre !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/lune-surprise-lune-ces-regions-pourraient-reveler-vie-apportee-depuis-terre-137227/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 24 Aug 2026 21:07:05 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/lune-surprise-lune-ces-regions-pourraient-reveler-vie-apportee-depuis-terre-137227/#xtor%3DRSS-8</guid>
-      <description>Certaines formes de vie terrestres pourraient vivre sur la Lune, et ce malgr&#233; les conditions environnementales extr&#234;mement hostiles. Le p&#244;le sud de notre satellite serait ainsi une des zones les plus &#171; hospitali&#232;res &#187; m&#234;me si cela ne concerne qu'un nombre restreint de microbes.</description>
-    </item>
-    <item>
-      <title>I bought this $20 gadget to track my child's backpack this school year and give me peace of mind</title>
-      <link>https://www.techradar.com/seasonal-sales/i-bought-this-usd20-gadget-to-track-my-childs-backpack-this-school-year-and-give-me-peace-of-mind</link>
-      <pubDate>Mon, 24 Aug 2026 19:05:19 +0000</pubDate>
-      <guid isPermaLink="false">WcC8yDcrDD5r7p38AKDypV</guid>
-      <description>The Apple AirTag lets you track your child&#8217;s backpack all school year and enjoy peace of mind, and it's on sale for a record-low price of just $20.</description>
-    </item>
-    <item>
-      <title>Even connected car head units are being targeted by hackers now &#8212; experts warn in-car systems are at risk of being hijacked into a botnet</title>
-      <link>https://www.techradar.com/pro/security/even-connected-car-head-units-are-being-targeted-by-hackers-now-experts-warn-in-car-systems-are-at-risk-of-being-hijacked-into-a-botnet</link>
-      <pubDate>Mon, 24 Aug 2026 18:35:00 +0000</pubDate>
-      <guid isPermaLink="false">m2NVLV93FhaPCF5tsL4x7Z</guid>
-      <description>Kaspersky discovers Android malware targeting car head units through compromised updates.</description>
     </item>
   </channel>
 </rss>
