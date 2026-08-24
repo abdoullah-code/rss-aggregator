@@ -3,13 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 24 Aug 2026 21:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:30:09 GMT</lastBuildDate>
+    <item>
+      <title>'Unlicensed, unrestricted AI training could destroy the ecosystem for books' &#8212; quote of the day by the Authors Guild on the sourcing of training data</title>
+      <link>https://www.techradar.com/pro/unlicensed-unrestricted-ai-training-could-destroy-the-ecosystem-for-books-quote-of-the-day-by-the-authors-guild-on-the-sourcing-of-training-data</link>
+      <pubDate>Mon, 24 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">VXEGHp2Zn9wE4tkynmbYPf</guid>
+      <description>Many of today's widely used AI systems have been trained on material sourced from books</description>
+    </item>
     <item>
       <title>This company wants to stop underwater drones and even submarines with a whole new form of sonar technology</title>
       <link>https://www.techradar.com/pro/this-company-wants-to-stop-underwater-drones-and-even-submarines-with-a-whole-new-form-of-sonar-technology</link>
       <pubDate>Mon, 24 Aug 2026 21:30:00 +0000</pubDate>
       <guid isPermaLink="false">ipgM4ityzoWScy5C7q75PZ</guid>
       <description>A sensor that listens silently, then calls in a second one to ping the target, could be a key pairing that helps the US Navy track underwater drones before they reach the pier.</description>
+    </item>
+    <item>
+      <title>How does converting a video to 4K actually work?</title>
+      <link>https://www.engadget.com/2240352/how-converting-video-to-4k-works/</link>
+      <pubDate>Mon, 24 Aug 2026 21:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2240352/how-converting-video-to-4k-works/</guid>
+      <description>Upscaling software is getting better all the time, but there are still some caveats to be aware of.</description>
     </item>
     <item>
       <title>Trump bought SpaceX shares two weeks after blockbuster IPO</title>
@@ -45,69 +59,6 @@
       <pubDate>Mon, 24 Aug 2026 20:45:33 +0000</pubDate>
       <guid isPermaLink="false">https://techcrunch.com/?p=3156155</guid>
       <description>Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.</description>
-    </item>
-    <item>
-      <title>How to use Samsung's new My FanCam feature to make yourself the main character in your videos</title>
-      <link>https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/</link>
-      <pubDate>Mon, 24 Aug 2026 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/</guid>
-      <description>Zooming in on your kid's performance in the school play is about to get a whole lot easier. It's going to look better, too.</description>
-    </item>
-    <item>
-      <title>The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe</title>
-      <link>https://www.wired.com/story/food-safety-gear-salmonella/</link>
-      <pubDate>Mon, 24 Aug 2026 20:22:35 +0000</pubDate>
-      <guid isPermaLink="false">6a8852d05460fa5f837c4bcb</guid>
-      <description>Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.</description>
-    </item>
-    <item>
-      <title>Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there&#8217;s still space</title>
-      <link>https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/</link>
-      <pubDate>Mon, 24 Aug 2026 20:16:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150489</guid>
-      <description>Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.</description>
-    </item>
-    <item>
-      <title>Threads is testing a podcast transcription feature</title>
-      <link>https://www.engadget.com/2243126/threads-is-testing-a-podcast-transcription-feature/</link>
-      <pubDate>Mon, 24 Aug 2026 20:07:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2243126/threads-is-testing-a-podcast-transcription-feature/</guid>
-      <description>Meta keeps trying to entice audio content creators to Threads.</description>
-    </item>
-    <item>
-      <title>Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face</title>
-      <link>https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/</link>
-      <pubDate>Mon, 24 Aug 2026 19:58:17 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156112</guid>
-      <description>Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama&#8217;s attorney general announced an investigation into the incident.</description>
-    </item>
-    <item>
-      <title>Amazon hikes hardware prices by 60%, blaming memory shortage</title>
-      <link>https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/</link>
-      <pubDate>Mon, 24 Aug 2026 19:54:50 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156059</guid>
-      <description>As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.</description>
-    </item>
-    <item>
-      <title>Amjad Masad,&#160;CEO&#160;and co-founder&#160;of&#160;Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/</link>
-      <pubDate>Mon, 24 Aug 2026 19:54:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156061</guid>
-      <description>At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.</description>
-    </item>
-    <item>
-      <title>The cat-and-mouse game over 3D-printed guns has begun</title>
-      <link>https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</link>
-      <pubDate>2026-08-24T15:50:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983244</guid>
-      <description>The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody [&#8230;]</description>
-    </item>
-    <item>
-      <title>Apply now to host a Side Event at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/</link>
-      <pubDate>Mon, 24 Aug 2026 19:44:13 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137144</guid>
-      <description>Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.</description>
     </item>
   </channel>
 </rss>
