@@ -3,13 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 25 Aug 2026 03:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:41:55 GMT</lastBuildDate>
     <item>
-      <title>The 'world's first audiophile soundbar' is getting expanded with wireless Dolby Atmos surround support, as if this bonkers speaker wasn't immersive enough</title>
-      <link>https://www.techradar.com/televisions/soundbars/the-worlds-first-audiophile-soundbar-is-getting-expanded-with-wireless-dolby-atmos-surround-support-as-if-this-bonkers-speaker-wasnt-immersive-enough</link>
-      <pubDate>Tue, 25 Aug 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">QkJmx5ZHNCseLca6DTSupb</guid>
-      <description>Canvas has expanded its Canvas L soundbar with Dolby Surround and Atmos support via a new control box</description>
+      <title>Data Centers Are Driving an Alarming Gas Power Expansion in the US</title>
+      <link>https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/</link>
+      <pubDate>Tue, 25 Aug 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="false">6a8c4b08828378c23fc90694</guid>
+      <description>There&#8217;s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.</description>
+    </item>
+    <item>
+      <title>How to watch the Nancy Grace Roman Space Telescope's launch</title>
+      <link>https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/</link>
+      <pubDate>Tue, 25 Aug 2026 03:48:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/</guid>
+      <description>NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30.</description>
+    </item>
+    <item>
+      <title>India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones</title>
+      <link>https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/</link>
+      <pubDate>Tue, 25 Aug 2026 03:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156022</guid>
+      <description>Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.</description>
     </item>
   </channel>
 </rss>
