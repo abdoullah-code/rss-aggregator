@@ -3,7 +3,229 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 26 Aug 2026 14:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:20:51 GMT</lastBuildDate>
+    <item>
+      <title>The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it</title>
+      <link>https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it</link>
+      <pubDate>Wed, 26 Aug 2026 16:13:50 GMT</pubDate>
+      <guid isPermaLink="false">4MqpGZw3o3NwsG49wOjU6h</guid>
+      <description>A security agent read a Cloudflare log, found an attacker&#8217;s prompt-injection payload sitting inside it, and rewrote the company&#8217;s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.That chain is GhostJacking, which Tenet Security demonstrated on the DEF CON 34 main stage on August 9. A request hits Cloudflare&#8217;s managed ruleset, gets blocked, and is stored byte for byte with its poisoned User-Agent header. An AI coding agent reviewing those blocked events reads the attacker's text as an instruction &#8212; with no way to tell it apart from one the compan...</description>
+    </item>
+    <item>
+      <title>Apple promet &#171; un jour nouveau &#187; pour sa keynote : voici la date d&#8217;annonce de l&#8217;iPhone Ultra (et des iPhone 18 Pro)</title>
+      <link>https://www.frandroid.com/marques/3223095_apple-promet-un-jour-nouveau-voici-la-date-dannonce-de-liphone-ultra-et-des-iphone-18-pro</link>
+      <pubDate>Wed, 26 Aug 2026 16:11:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3223095_apple-promet-un-jour-nouveau-voici-la-date-dannonce-de-liphone-ultra-et-des-iphone-18-pro</guid>
+      <description>
+La keynote de rentr&#233;e d'Apple aura lieu le 9 septembre. C'est &#224; cette occasion que la marque va pr&#233;senter les iPhone 18 Pro, mais aussi son premier smartphone pliable a priori nomm&#233; iPhone Ultra.
+</description>
+    </item>
+    <item>
+      <title>Apple announces September 9 date for 'Surprise and shine' iPhone event</title>
+      <link>https://www.engadget.com/2244696/apple-announces-september-9-surprise-and-shine-iphone-event/</link>
+      <pubDate>Wed, 26 Aug 2026 16:07:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244696/apple-announces-september-9-surprise-and-shine-iphone-event/</guid>
+      <description>Is it finally time to see the foldable iPhone?</description>
+    </item>
+    <item>
+      <title>China&#8217;s data centres will reportedly use more power than South Korea by 2030</title>
+      <link>https://www.techradar.com/pro/chinas-data-centres-will-reportedly-use-more-power-than-south-korea-by-2030</link>
+      <pubDate>Wed, 26 Aug 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">Li6VeMhG6ETn7pMGUmRLTM</guid>
+      <description>In 2025, Chinese data centers were expected to use 479 TWh/year by 2030. Now, they're expected to use 774 TWh/year by 2030.</description>
+    </item>
+    <item>
+      <title>Apple announces September iPhone launch event</title>
+      <link>https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date</link>
+      <pubDate>2026-08-26T12:03:49-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=983407</guid>
+      <description>Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a "Surprise and shine" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream. September's show could be a big [&#8230;]</description>
+    </item>
+    <item>
+      <title>Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states</title>
+      <link>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</link>
+      <pubDate>Wed, 26 Aug 2026 16:03:14 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157081</guid>
+      <description>One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.</description>
+    </item>
+    <item>
+      <title>Les meilleurs robots piscine en 2026 : quel mod&#232;le choisir ?</title>
+      <link>https://www.frandroid.com/guide-dachat/1715897_les-meilleurs-robots-piscine-avec-ou-sans-fil-notre-selection</link>
+      <pubDate>Wed, 26 Aug 2026 16:03:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1715897_les-meilleurs-robots-piscine-avec-ou-sans-fil-notre-selection</guid>
+      <description>
+Votre piscine doit &#234;tre nettoy&#233;e et entretenue r&#233;guli&#232;rement, en &#233;t&#233; comme hors saison : pour cela, le robot piscine est indispensable. Bienvenue sur notre s&#233;lection des meilleurs robots piscine.
+</description>
+    </item>
+    <item>
+      <title>Le MacBook Neo d&#8217;Apple, en version 512 Go avec Touch ID, revient avec une belle promo pour la rentr&#233;e</title>
+      <link>https://www.frandroid.com/bons-plans/3223049_le-macbook-neo-dapple-en-version-512-go-avec-touch-id-revient-avec-une-belle-promo-pour-la-rentree</link>
+      <pubDate>Wed, 26 Aug 2026 16:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3223049_le-macbook-neo-dapple-en-version-512-go-avec-touch-id-revient-avec-une-belle-promo-pour-la-rentree</guid>
+      <description>
+Le MacBook Neo est le portable le plus abordable d'Apple, et cette version 512 Go avec Touch ID tombe &#224; 779 euros au lieu de 899 euros sur Joybuy.
+</description>
+    </item>
+    <item>
+      <title>The new Apple Mac mini is already $100/&#163;100 off for students and teachers &#8212; unfortunately, not for journalists like myself</title>
+      <link>https://www.techradar.com/computing/macs/the-new-apple-mac-mini-is-already-usd100-gbp100-off-for-students-and-teachers-unfortunately-not-for-journalists-like-myself</link>
+      <pubDate>Wed, 26 Aug 2026 16:02:21 +0000</pubDate>
+      <guid isPermaLink="false">x6kkWC4UvrRanFXy9ZLeQH</guid>
+      <description>The new Mac mini M6 looks like a great value  &#8212; especially with this Apple Education Store discount.</description>
+    </item>
+    <item>
+      <title>Amazon has a Garmin watch end-of-summer sale &#8212; save up to $250 on top-rated watches for running, swimming, and hiking</title>
+      <link>https://www.techradar.com/tech/amazon-has-a-garmin-watch-end-of-summer-sale-save-up-to-usd250-on-top-rated-watches-for-running-swimming-and-hiking</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:01 +0000</pubDate>
+      <guid isPermaLink="false">3TTDVCFc6NFgFSXBBHmXHL</guid>
+      <description>Amazon has an end-of-summer Garmin Watch sale, and I've found the top deals, including up to $250 off Garmin's top-rated watches for running, swimming, and hiking.</description>
+    </item>
+    <item>
+      <title>What&#8217;s&#160;driving Sweden&#8217;s startup boom, from Lovable to&#160;Legora</title>
+      <link>https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3157150</guid>
+      <description>Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn&#8217;t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately &#8212; legal AI company&#160;Legora&#160;and health tech startup&#160;Neko Health&#160;are right there with it.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast,&#160;Dominic-Madori Davis is joined by&#160;Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe&#8217;s startup [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Resonance: A Plague Tale's action-adventure focus feels a bit safe compared to the franchise's previous entries, but it still offers an infectious combination of combat, puzzle-solving, and exploration that's hard to put down</title>
+      <link>https://www.techradar.com/gaming/resonance-a-plague-tale-review</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5zENzCKuTapPseWSmVHhxM</guid>
+      <description>This A Plague Tale prequel pivots to action-adventure formula, forgoing plague rats and oppressive atmosphere for a lighter, swashbuckling romp.</description>
+    </item>
+    <item>
+      <title>Radar makes podcasts searchable &#8212; and usable by AI agents</title>
+      <link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
+      <pubDate>Wed, 26 Aug 2026 15:47:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157086</guid>
+      <description>Particle&#8217;s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.</description>
+    </item>
+    <item>
+      <title>Rockstar calls GTA 6 leaks 'heartbreaking for our team' and says the game is nearly finished</title>
+      <link>https://www.engadget.com/2244659/rockstar-calls-gta-6-leaks-heartbreaking-says-game-is-nearly-finished/</link>
+      <pubDate>Wed, 26 Aug 2026 15:40:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244659/rockstar-calls-gta-6-leaks-heartbreaking-says-game-is-nearly-finished/</guid>
+      <description>Ahead of the extended look at GTA 6 on Netflix, Rockstar has addressed leaked gameplay videos in a statement.</description>
+    </item>
+    <item>
+      <title>41 home appliance bargains from the Argos Big Red sale &#8212; up to 50% off Dyson, KitchenAid, Ninja and more</title>
+      <link>https://www.techradar.com/home/juicers-blenders/41-home-appliance-bargains-from-the-argos-big-red-sale-up-to-50-percent-off-dyson-kitchenaid-ninja-and-more</link>
+      <pubDate>Wed, 26 Aug 2026 15:30:39 +0000</pubDate>
+      <guid isPermaLink="false">NQcX9dCbr7wEkvJtPavUYJ</guid>
+      <description>I've hand-picked the best deals, including big price cuts on the Ninja Slushi, Dyson V10 stick vac, and KitchenAid stand mixer.</description>
+    </item>
+    <item>
+      <title>What's the difference between WAN and LAN?</title>
+      <link>https://www.engadget.com/2240983/wan-vs-lan-port-difference-between-explained/</link>
+      <pubDate>Wed, 26 Aug 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2240983/wan-vs-lan-port-difference-between-explained/</guid>
+      <description>Two identical ports, two different purposes.</description>
+    </item>
+    <item>
+      <title>Volvo&#8217;s cars will warn one another about hazards in the road</title>
+      <link>https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist</link>
+      <pubDate>2026-08-26T11:28:14-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=985070</guid>
+      <description>Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools like Google Maps and Waze. The [&#8230;]</description>
+    </item>
+    <item>
+      <title>Changer de contrat d&#8217;&#233;nergie &#224; la rentr&#233;e : ENGIE offre jusqu&#8217;&#224; 120 &#8364; aux nouveaux clients [Sponso]</title>
+      <link>https://www.frandroid.com/survoltes/3220915_changer-de-contrat-denergie-a-la-rentree-engie-offre-jusqua-120-e-aux-nouveaux-clients</link>
+      <pubDate>Wed, 26 Aug 2026 15:28:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3220915_changer-de-contrat-denergie-a-la-rentree-engie-offre-jusqua-120-e-aux-nouveaux-clients</guid>
+      <description>
+Pour la rentr&#233;e, ENGIE propose une offre de remboursement allant jusqu'&#224; 120 &#8364; sur ses contrats d'&#233;lectricit&#233; et de gaz. Remises diff&#233;r&#233;es, bonus de parrainage et souscription simplifi&#233;e : on vous explique comment en profiter pour all&#233;ger votre budget &#233;nergie.
+</description>
+    </item>
+    <item>
+      <title>Bluesky now supports 10-minute videos</title>
+      <link>https://www.engadget.com/2244638/bluesky-now-supports-10-minute-videos-larger-file-sizes/</link>
+      <pubDate>Wed, 26 Aug 2026 15:23:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244638/bluesky-now-supports-10-minute-videos-larger-file-sizes/</guid>
+      <description>File sizes have also been increased and uploads should be faster.</description>
+    </item>
+    <item>
+      <title>Fin des jeux physiques&#160;: Xbox r&#233;pond &#224; Sony avec une id&#233;e vieille de 13 ans</title>
+      <link>https://www.01net.com/actualites/fin-des-jeux-physiques-xbox-repond-a-lannonce-polemique-de-sony-avec-une-idee-vieille-de-13-ans.html</link>
+      <pubDate>Wed, 26 Aug 2026 15:22:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1366187</guid>
+      <description>Lier vos disques &#224; votre compte Xbox valait une r&#233;volte en 2013. Treize ans plus tard, Microsoft en fait un service de &#171; pr&#233;servation &#187;, licence r&#233;vocable comprise (c'est &#233;crit tout en bas, en petit).</description>
+    </item>
+    <item>
+      <title>Le r&#233;cent casque Bluetooth abordable, mais styl&#233;, de Nothing est d&#233;j&#224; &#224; prix cass&#233; sur Amazon</title>
+      <link>https://www.frandroid.com/bons-plans/3221241_le-recent-casque-bluetooth-abordable-mais-style-de-nothing-est-deja-a-prix-casse-sur-amazon</link>
+      <pubDate>Wed, 26 Aug 2026 15:19:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3221241_le-recent-casque-bluetooth-abordable-mais-style-de-nothing-est-deja-a-prix-casse-sur-amazon</guid>
+      <description>
+Quelques mois apr&#232;s sa sortie, le Nothing Headphone (a) s'est d&#233;j&#224; impos&#233; comme un incontournable sur le march&#233; des casques de milieu de gamme. Il faut dire que ce produit coche de nombreuses cases avec son design atypique, sa proposition sonore r&#233;ussie et son prix pass&#233; &#224; 117,70 euros sur Amazon.
+</description>
+    </item>
+    <item>
+      <title>Xbox officialise son syst&#232;me pour convertir les jeux sur disque en licences num&#233;riques</title>
+      <link>https://www.frandroid.com/produits-android/3223011_xbox-officialise-son-systeme-pour-convertir-les-jeux-sur-disque-en-licences-numeriques</link>
+      <pubDate>Wed, 26 Aug 2026 15:17:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3223011_xbox-officialise-son-systeme-pour-convertir-les-jeux-sur-disque-en-licences-numeriques</guid>
+      <description>
+Le disque physique agonise, et Microsoft ne fait plus semblant de l'ignorer. Xbox officialise un syst&#232;me qui transforme les jeux en disque en copies d&#233;mat&#233;rialis&#233;es, rattach&#233;es au compte du joueur.
+</description>
+    </item>
+    <item>
+      <title>Droits de douane et droits r&#233;ciproques | Des produits technologiques plus co&#251;teux</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-08-26/droits-de-douane-et-droits-reciproques/des-produits-technologiques-plus-couteux.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Wed, 26 Aug 2026 11:15:35 -0400</pubDate>
+      <guid isPermaLink="false">2b1ee300696b3f228e6f9f3e0dd190a9</guid>
+      <description>Les droits de douane de 50&#160;% impos&#233;s par Donald Trump sur certains produits canadiens toucheront les composants et les produits &#233;lectroniques&#8230; mais pas tous. Si le gouvernement Carney r&#233;plique comme pr&#233;vu avec des droits similaires, cela fera monter des deux c&#244;t&#233;s de la fronti&#232;re le prix de certaines technologies, mais l&#224; non plus, l&#8217;impact r&#233;el n&#8217;est pas facile &#224; d&#233;terminer....</description>
+    </item>
+    <item>
+      <title>Anthropic staff told to work from home due to risk of possible security strikes</title>
+      <link>https://www.techradar.com/pro/anthropic-staff-told-to-work-from-home-due-to-risk-of-possible-security-strikes</link>
+      <pubDate>Wed, 26 Aug 2026 15:05:00 +0000</pubDate>
+      <guid isPermaLink="false">R98aek9K4ZcsdAxRnhgwtG</guid>
+      <description>Anthropic's security contractors were reportedly preparing to strike, forcing the AI company to prioritize worker safety.</description>
+    </item>
+    <item>
+      <title>iPhone 18 Pro&#160;: Apple donne un aper&#231;u de la puissance de la puce A20 Pro</title>
+      <link>https://www.01net.com/actualites/iphone-18-pro-apple-donne-un-apercu-de-la-puissance-de-la-puce-a20-pro.html</link>
+      <pubDate>Wed, 26 Aug 2026 15:00:03 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1366114</guid>
+      <description>Apple a pr&#233;sent&#233; le M6 &#224; quelques semaines de l'iPhone 18 Pro. Ses c&#339;urs, son moteur graphique et son double Neural Engine en disent long sur l'A20 Pro qui arrive. Projection, avec les pr&#233;cautions d'usage.</description>
+    </item>
+    <item>
+      <title>Ex-Meta scientists want to bring visual AI to the factory floor</title>
+      <link>https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/</link>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139375</guid>
+      <description>Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.</description>
+    </item>
+    <item>
+      <title>After playing The Duskbloods network test, I was stunned by &#8212; and couldn&#8217;t get enough of &#8212; its breakneck pacing</title>
+      <link>https://www.techradar.com/gaming/the-duskbloods-network-test-preview</link>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">FgwCGvZM38Ad6oPudq5Z6k</guid>
+      <description>The Duskbloods feels like FromSoftware&#8217;s unique multiplayer philosophy at its best, but its time limits can be alarmingly demanding.</description>
+    </item>
+    <item>
+      <title>The new Secretlab Titan Evo Marvel gaming chair collab is the most gorgeous alternate design yet, and a must-have for any Spider-Man fan</title>
+      <link>https://www.techradar.com/gaming/the-new-secretlab-titan-evo-marvel-gaming-chair-collab-is-the-most-gorgeous-alternate-design-yet-and-a-must-have-for-any-spider-man-fan</link>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NAzxdaQEJK9fNWgtj4ZZZJ</guid>
+      <description>Secretlab has announced a collaboration with Marvel: a new Titan Evo gaming chair inspired by your friendly neighborhood Spider-Man.</description>
+    </item>
+    <item>
+      <title>Apple should make a Mac Neo to fill the void left by the more expensive Mac mini</title>
+      <link>https://www.engadget.com/2244605/apple-should-make-a-mac-neo/</link>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244605/apple-should-make-a-mac-neo/</guid>
+      <description>A modest proposal for Apple to add a lower-cost option to its Mac lineup.</description>
+    </item>
+    <item>
+      <title>How to watch Adults season 2 - stream Gen Z sitcom</title>
+      <link>https://www.techradar.com/how-to-watch/tv-shows/adults-season-2</link>
+      <pubDate>Wed, 26 Aug 2026 14:57:52 +0000</pubDate>
+      <guid isPermaLink="false">pyyZLCvWXxWweuBEUdUhRR</guid>
+      <description>The gang are back, navigating their twenties from their base in Queens, NY and tackling a new set of real-wold dilemmas. Here's how to watch Adults season 2 online from anywhere</description>
+    </item>
     <item>
       <title>IKEA and Xbox have fully unveiled their new furniture collection at Gamescom</title>
       <link>https://www.engadget.com/2244597/ikea-and-xbox-have-fully-unveiled-new-furniture-collection-at-gamescom/</link>
@@ -65,13 +287,6 @@ Faire des &#233;conomies tout en pr&#233;servant un peu la plan&#232;te, c'est l
       <description>Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively revealed last month, is part of work that Microsoft is doing for game preservation and in preparation for the next generation of Xbox consoles. "Most Xbox One and [&#8230;]...</description>
     </item>
     <item>
-      <title>Orchestration is the new challenge for CX in the age of AI agents</title>
-      <link>https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</link>
-      <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="false">7mB2i7HWrsGgSUa5qmwuYz</guid>
-      <description>Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications."In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems," Anand says. "As a result, while many enterprises have adopted digital tools, very few have platforms that are truly i...</description>
-    </item>
-    <item>
       <title>La r&#233;cente Amazfit Active 3 Premium va r&#233;galer les sportifs un peu fauch&#233;s gr&#226;ce &#224; cette offre Amazon</title>
       <link>https://www.frandroid.com/bons-plans/3170175_la-recente-amazfit-active-3-premium-va-regaler-les-sportifs-un-peu-fauches-grace-a-cette-offre-amazon</link>
       <pubDate>Wed, 26 Aug 2026 14:29:29 +0000</pubDate>
@@ -100,7 +315,7 @@ Lanc&#233;e en d&#233;but d'ann&#233;e, l'Amazfit Active 3 Premium est une montr
       <pubDate>Wed, 26 Aug 2026 14:25:17 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3222919_addiction-des-ados-a-instagram-et-facebook-meta-va-payer-16-milliards-de-dollars-pour-se-debarrasser-du-proces</guid>
       <description>
-Meta accepte de payer plus de 16 milliards de dollars pour clore aux &#201;tats-Unis un proc&#232;s qui l'accusait de rendre Facebook et Instagram addictifs pour les plus jeunes. En &#233;change, l'entreprise doit aussi installer de nouveaux garde-fous sur les comptes adolescents.
+Meta a accept&#233; de payer plus de 16 milliards de dollars pour clore  un proc&#232;s aux &#201;tats-Unis qui l'accusait de rendre Facebook et Instagram addictifs pour les plus jeunes. En &#233;change, l'entreprise doit aussi installer de nouveaux garde-fous sur les comptes des adolescents.
 </description>
     </item>
     <item>
@@ -123,364 +338,6 @@ Meta accepte de payer plus de 16 milliards de dollars pour clore aux &#201;tats-
       <pubDate>Wed, 26 Aug 2026 14:21:20 +0000</pubDate>
       <guid isPermaLink="false">i9LoLryNDgpimxBMs3oyKF</guid>
       <description>IKEA and Xbox have unveiled a fun and functional nine-piece collection at Gamescom, and after seeing it in person, I can see why these products will be popular with a range of people.</description>
-    </item>
-    <item>
-      <title>Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model</title>
-      <link>https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/</link>
-      <pubDate>Wed, 26 Aug 2026 14:19:29 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157083</guid>
-      <description>Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.</description>
-    </item>
-    <item>
-      <title>Govern AI agents before they go rogue</title>
-      <link>https://www.techradar.com/pro/govern-ai-agents-before-they-go-rogue</link>
-      <pubDate>Wed, 26 Aug 2026 14:18:51 +0000</pubDate>
-      <guid isPermaLink="false">gheLFHZNxtAvWikinxqKzU</guid>
-      <description>Enterprises must carefully govern agents as capabilities accelerate.</description>
-    </item>
-    <item>
-      <title>How to watch Al-Ahli vs. Auckland online for free</title>
-      <link>https://mashable.com/entertainment/al-ahli-auckland-fifa-intercontinental-cup-2026-live-stream-for-free</link>
-      <pubDate>Wed, 26 Aug 2026 14:13:34 +0000</pubDate>
-      <guid isPermaLink="false">029XJ4JwTFOnw6pIlT2s2Xv</guid>
-      <description>How to watch the FIFA Intercontinental Cup for free. Live steam Al-Ahli vs. Auckland in the FIFA Intercontinental Cup for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>How to watch Real Madrid vs. Real Sociedad online for free</title>
-      <link>https://mashable.com/entertainment/real-madrid-real-sociedad-la-liga-2026-live-stream-for-free</link>
-      <pubDate>Wed, 26 Aug 2026 14:13:16 +0000</pubDate>
-      <guid isPermaLink="false">04SNdaksbGa4YLwJTh27Obf</guid>
-      <description>How to watch La Liga for free. Live steam Real Madrid vs. Real Sociedad in La Liga for free from anywhere in the world.</description>
-    </item>
-    <item>
-      <title>Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case&#8212;and That&#8217;s Not All</title>
-      <link>https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/</link>
-      <pubDate>Wed, 26 Aug 2026 14:08:37 +0000</pubDate>
-      <guid isPermaLink="false">6a8eeb93b4c434acf91e1f77</guid>
-      <description>In addition to sending billions of dollars to states, Meta will make substantive changes to its platforms as part of a landmark settlement.</description>
-    </item>
-    <item>
-      <title>Cette image r&#233;v&#232;le B&#233;telgeuse dans des d&#233;tails in&#233;dits : une surface bouillonnante et une anomalie qui d&#233;fie les astronomes</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/betelgeuse-cette-image-revele-betelgeuse-details-inedits-surface-bouillonnante-anomalie-defie-astronomes-137319/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 26 Aug 2026 16:07:48 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/betelgeuse-cette-image-revele-betelgeuse-details-inedits-surface-bouillonnante-anomalie-defie-astronomes-137319/#xtor%3DRSS-8</guid>
-      <description>La superg&#233;ante rouge B&#233;telgeuse a souvent &#233;t&#233; sur le devant de la sc&#232;ne ces derni&#232;res ann&#233;es, car on craignait notamment qu&#8217;elle n&#8217;explose en donnant une supernova &#224; seulement quelques centaines d&#8217;ann&#233;es-lumi&#232;re de la Terre. Mais l&#8217;&#233;toile est int&#233;ressante en elle-m&#234;me et,&#160;aujourd&#8217;hui, sa surface...</description>
-    </item>
-    <item>
-      <title>Microsoft&#8217;s 25th anniversary Xbox will cost $899</title>
-      <link>https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price</link>
-      <pubDate>2026-08-26T10:05:38-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=985003</guid>
-      <description>The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says "some of XBOX's most dedicated fans" will receive early access preorder emails starting today. The console will launch on November 13th, alongside a matching controller with the same "OG [&#8230;]...</description>
-    </item>
-    <item>
-      <title>IKEA and Xbox have collaborated on a gaming furniture collection: Launch date, price, lineup</title>
-      <link>https://mashable.com/life/ikea-xbox-yxstaby-gaming-collection</link>
-      <pubDate>Wed, 26 Aug 2026 14:01:50 +0000</pubDate>
-      <guid isPermaLink="false">03LW7miPDRYLhFktDHyPptY</guid>
-      <description>IKEA and Xbox unveiled Yxstaby, a nine-piece gaming furniture collection with a rolling TV stand, a thumbstick-shaped stool, and a controller-inspired cushion, arriving Oct. 1.</description>
-    </item>
-    <item>
-      <title>GTA 6 Cyberleek update: Everything leaked so far, what might be next</title>
-      <link>https://mashable.com/entertainment/grand-theft-auto-6-cyberleek-leaks-everything-posted-so-far</link>
-      <pubDate>Wed, 26 Aug 2026 14:01:33 +0000</pubDate>
-      <guid isPermaLink="false">03r92U1Znb6WpQSInMKIVdy</guid>
-      <description>An anonymous leaker calling themselves Cyberleek has been posting daily gameplay videos of the unreleased 'Grand Theft Auto VI.'</description>
-    </item>
-    <item>
-      <title>ROG Xbox Ally X20&#160;: Asus d&#233;voile les prix fous de sa nouvelle console portable</title>
-      <link>https://www.01net.com/actualites/rog-xbox-ally-x20-asus-devoile-les-prix-completement-fous-de-sa-nouvelle-console-portable.html</link>
-      <pubDate>Wed, 26 Aug 2026 14:00:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1366117</guid>
-      <description>La ROG Xbox Ally X20 sera vendue en France &#224; partir du 15 octobre prochain au prix de 1 399,99 euros. Une &#233;dition sp&#233;ciale, vendue encore plus ch&#232;re, sera par ailleurs commercialis&#233;e dans la foul&#233;e. Mais comment expliquer des tarifs aussi &#233;lev&#233;s ?</description>
-    </item>
-    <item>
-      <title>Ring light : quels sont les meilleurs anneaux lumineux &#224; choisir en 2026 ?</title>
-      <link>https://www.frandroid.com/guide-dachat/guides-dachat-photo-et-video/1155461_guide-achat-comparatif-light-ring-anneau-lumiere</link>
-      <pubDate>Wed, 26 Aug 2026 14:00:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-photo-et-video/1155461_guide-achat-comparatif-light-ring-anneau-lumiere</guid>
-      <description>
-Autrefois r&#233;serv&#233;s aux photographes, les ring lights sont d&#233;sormais utilis&#233;s par les cr&#233;ateurs de contenus. D&#233;couvrez notre s&#233;lection d&#8217;anneaux lumineux afin d&#8217;exploiter une lumi&#232;re de qualit&#233; pour vos clich&#233;s et vos vid&#233;os TikTok et Instagram.
-</description>
-    </item>
-    <item>
-      <title>Elden Ring on the Switch 2 isn&amp;#8217;t tarnished</title>
-      <link>https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review</link>
-      <pubDate>2026-08-26T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983307</guid>
-      <description>FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But before that, Switch 2 owners have a chance to experience the studio's biggest hit for the first time thanks to a port [&#8230;]</description>
-    </item>
-    <item>
-      <title>You can now buy music on SoundCloud</title>
-      <link>https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch</link>
-      <pubDate>2026-08-26T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=984926</guid>
-      <description>SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The feature aims to give listeners a better way to support the musicians behind their favorite songs, because SoundCloud isn't [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Your Oura Ring can&amp;#8217;t measure what&amp;#8217;s going on in your skull</title>
-      <link>https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables</link>
-      <pubDate>2026-08-26T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=984991</guid>
-      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Oura's getting sued. A recently filed class-action complaint against the smart ring maker alleges that the company has duped customers [&#8230;]...</description>
-    </item>
-    <item>
-      <title>I wasn't convinced by Elden Ring Tarnished Edition until I played it on Nintendo Switch 2 &#8212; now I think it's one of the system's most impressive ports yet</title>
-      <link>https://www.techradar.com/gaming/elden-ring-tarnished-edition-switch-2-review</link>
-      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">BYbEN46LR4VjUMHi6RxDEL</guid>
-      <description>I was skeptical at first, but Elden Ring Tarnished Edition is simply a delight on Nintendo Switch 2.</description>
-    </item>
-    <item>
-      <title>Only Murders in the Building season 6 long-awaited release date confirmed &#8212; but I already think one drastic change is going to wear thin very quickly</title>
-      <link>https://www.techradar.com/streaming/hulu/only-murders-in-the-building-season-6-confirms-long-awaited-release-date-but-i-already-think-one-drastic-change-is-going-to-wear-thin-very-quickly</link>
-      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Mh8YqZQQ6shvkKMmeNwxG9</guid>
-      <description>We finally know when Only Murders in the Building season 6 will be landing on Hulu and Disney+ &#8212; but I wish it hadn't made one unnecessary change.</description>
-    </item>
-    <item>
-      <title>SoundCloud will let you buy music directly from artists</title>
-      <link>https://www.engadget.com/2243984/soundcloud-will-let-you-buy-music-directly-from-artists/</link>
-      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2243984/soundcloud-will-let-you-buy-music-directly-from-artists/</guid>
-      <description>SoundCloud will let you buy music directly from artists.</description>
-    </item>
-    <item>
-      <title>&#8216;The most stunning launch footage I've ever seen&#8217;: Watch the DJI Osmo Action 6&#8217;s incredible 4K footage of a Chinese rocket&#8217;s return trip to earth through 500C heat</title>
-      <link>https://www.techradar.com/cameras/action-cameras/the-most-stunning-launch-footage-ive-ever-seen-watch-the-dji-osmo-action-6s-incredible-4k-footage-of-a-chinese-rockets-return-trip-to-earth-through-500c-heat</link>
-      <pubDate>Wed, 26 Aug 2026 13:51:26 +0000</pubDate>
-      <guid isPermaLink="false">v6WJnXA9w8dtErpgRuJLJG</guid>
-      <description>DJI fixed twelve Osmo Action 6s to a LandSpace&#8217;s Zhuque-3 reusable rocket, recording POV footage of China's first successful land-based orbital launch and recovery. There were no special modifications to the cameras.</description>
-    </item>
-    <item>
-      <title>La Xbox Series X25 fait le plein d&#8217;accessoires translucides</title>
-      <link>https://www.frandroid.com/marques/microsoft/3222763_la-xbox-series-x25-fait-le-plein-daccessoires-translucides</link>
-      <pubDate>Wed, 26 Aug 2026 13:48:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3222763_la-xbox-series-x25-fait-le-plein-daccessoires-translucides</guid>
-      <description>
-Pour aller avec le plastique vert transparent de la Xbox Series X &#233;dition sp&#233;ciale 25 ans de la console, rien de mieux qu'une souris, un clavier ou encore des &#233;couteurs sans fil tout aussi translucides.
-</description>
-    </item>
-    <item>
-      <title>Raspberry Pi shares how to build your own 'cyberdeck' computer inside a waterproof briefcase &#8212; and it'll only cost you $250</title>
-      <link>https://www.techradar.com/computing/raspberry-pi/raspberry-pi-shares-how-to-build-your-own-cyberdeck-computer-inside-a-waterproof-briefcase-and-itll-only-cost-you-usd250</link>
-      <pubDate>Wed, 26 Aug 2026 13:47:18 +0000</pubDate>
-      <guid isPermaLink="false">oqaueVa6cL2MDXJP8XNEZn</guid>
-      <description>A guide to putting together a fully working Pi computer you can pick up and take anywhere.</description>
-    </item>
-    <item>
-      <title>Microsoft just gave PowerToys a nifty new feature &#8212; and I think it's high time some of these goodies came to Windows 11</title>
-      <link>https://www.techradar.com/computing/windows/microsoft-just-gave-powertoys-a-nifty-new-feature-and-i-think-its-high-time-some-of-these-goodies-came-to-windows-11</link>
-      <pubDate>Wed, 26 Aug 2026 13:45:02 +0000</pubDate>
-      <guid isPermaLink="false">E5s5Dfb33q8XPyx43isCQP</guid>
-      <description>Microsoft is busy improving Windows 11, and there's an obvious easy win it's missing: porting over smart PowerToys features.</description>
-    </item>
-    <item>
-      <title>Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children</title>
-      <link>https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/</link>
-      <pubDate>Wed, 26 Aug 2026 13:43:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157070</guid>
-      <description>The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.</description>
-    </item>
-    <item>
-      <title>This AI-powered 3D printer is heavily discounted on Amazon &#8212; save $170 on the Creality K1 Max 3D Printer</title>
-      <link>https://mashable.com/tech/aug-26-crealty-k1-max-3d-printer-deal</link>
-      <pubDate>Wed, 26 Aug 2026 13:40:43 +0000</pubDate>
-      <guid isPermaLink="false">07jld4rAtIMbQOShndILthR</guid>
-      <description>The Creality K1 Max 3D Printer is on sale at Amazon for $548.99, down from the list price of $719. That's a 24% discount.</description>
-    </item>
-    <item>
-      <title>Google Photos pourrait supprimer vos photos plus vite que pr&#233;vu</title>
-      <link>https://www.frandroid.com/marques/google/3222495_google-photos-pourrait-supprimer-vos-photos-plus-vite-que-prevu</link>
-      <pubDate>Wed, 26 Aug 2026 13:38:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3222495_google-photos-pourrait-supprimer-vos-photos-plus-vite-que-prevu</guid>
-      <description>
-Google Photos pourrait bient&#244;t r&#233;duire de moiti&#233; le d&#233;lai laiss&#233; aux utilisateurs pour r&#233;cup&#233;rer leurs photos et vid&#233;os supprim&#233;es. Un changement qui viendrait uniformiser les r&#232;gles de Google Photos.
-</description>
-    </item>
-    <item>
-      <title>Galaxy Tab A11 : la tablette abordable de Samsung voit son prix chuter sous les 90 &#8364; pour la rentr&#233;e</title>
-      <link>https://www.frandroid.com/produits-android/3222823_galaxy-tab-a11-la-tablette-abordable-de-samsung-voit-son-prix-chuter-sous-les-90-e-pour-la-rentree</link>
-      <pubDate>Wed, 26 Aug 2026 13:32:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3222823_galaxy-tab-a11-la-tablette-abordable-de-samsung-voit-son-prix-chuter-sous-les-90-e-pour-la-rentree</guid>
-      <description>
-La Samsung Galaxy Tab A11 est une petite tablette Android taill&#233;e pour un usage nomade et quotidien, &#224; retrouver pour 87,74 euros au lieu de 179,90 euros sur AliExpress.
-</description>
-    </item>
-    <item>
-      <title>Meta agrees to heavy restrictions on teen users in major lawsuit settlement</title>
-      <link>https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement</link>
-      <pubDate>2026-08-26T09:31:32-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=985032</guid>
-      <description>Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, which resolves claims by a larger group of 47 states and several districts and territories, [&#8230;]</description>
-    </item>
-    <item>
-      <title>Robot brain builders are pushing out of their GPT-2 era</title>
-      <link>https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/</link>
-      <pubDate>Wed, 26 Aug 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155979</guid>
-      <description>Robot bodies are waiting for their AI brains to catch up.</description>
-    </item>
-    <item>
-      <title>Rockstar breaks silence on heartbreaking GTA VI leaks</title>
-      <link>https://mashable.com/entertainment/grand-theft-auto-vi-leaks-rockstar-statement</link>
-      <pubDate>Wed, 26 Aug 2026 13:26:53 +0000</pubDate>
-      <guid isPermaLink="false">059EpQrl4Z2soRlVU4joEFR</guid>
-      <description>Rockstar Games has issued a rare public statement confirming the authenticity of all the leaked 'GTA VI' gameplay footage.</description>
-    </item>
-    <item>
-      <title>How to watch Dolly Parton: Here I Am &#8212; it's *FREE* on BBC</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-dolly-parton-here-i-am-its-free</link>
-      <pubDate>Wed, 26 Aug 2026 13:25:21 +0000</pubDate>
-      <guid isPermaLink="false">xyY7TtEnWfx4etBoiVrzrU</guid>
-      <description>Here's our guide on how to watch Dolly Parton: Here I Am for free from anywhere in the world as the world mourns the iconic country singer.</description>
-    </item>
-    <item>
-      <title>Cyndi Lauper on Table Manners is an instant classic episode</title>
-      <link>https://mashable.com/entertainment/table-manners-cyndi-lauper-jessie-lennie-ware</link>
-      <pubDate>Wed, 26 Aug 2026 13:21:37 +0000</pubDate>
-      <guid isPermaLink="false">03bYkR7vul9jBCYx3ISjtgz</guid>
-      <description>Music icon Cyndi Lauper is this week's guest on "Table Manners with Jessie and Lennie Ware" and it's a feast to remember.</description>
-    </item>
-    <item>
-      <title>GTA 6&#160;: les fuites &#171; nous ont bris&#233; le c&#339;ur &#187;, Rockstar sort du silence et pr&#233;sente des excuses in&#233;dites</title>
-      <link>https://www.frandroid.com/produits-android/3222799_gta-6-les-fuites-nous-ont-brise-le-coeur-rockstar-sort-du-silence-et-presente-des-excuses-inedites</link>
-      <pubDate>Wed, 26 Aug 2026 13:19:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3222799_gta-6-les-fuites-nous-ont-brise-le-coeur-rockstar-sort-du-silence-et-presente-des-excuses-inedites</guid>
-      <description>
-Rockstar Games ne communique presque jamais. Apr&#232;s une semaine de fuites sur GTA 6, le studio a publi&#233; un long message d'excuses au ton inhabituel, qui en dit long sur la pression accumul&#233;e.
-</description>
-    </item>
-    <item>
-      <title>GTA 6&#160;: Rockstar prend enfin la parole apr&#232;s les fuites &#224; r&#233;p&#233;tition, c&#8217;est &#171;&#160;d&#233;chirant pour notre &#233;quipe&#160;&#187;</title>
-      <link>https://www.01net.com/actualites/gta-6-rockstar-prend-enfin-la-parole-apres-les-fuites-a-repetition-cest-dechirant-pour-notre-equipe.html</link>
-      <pubDate>Wed, 26 Aug 2026 13:17:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1366127</guid>
-      <description>Alors que le leaker Cyberleek continue de diffuser des s&#233;quences de gameplay de GTA 6, Rockstar a pris la parole. Dans un communiqu&#233;, le studio de jeux vid&#233;o fait part de sa profonde peine face &#224; la situation.</description>
-    </item>
-    <item>
-      <title>Ces box savent &#224; quelle heure vous vous levez et peuvent le raconter &#224; la police</title>
-      <link>https://www.frandroid.com/telecom/3222563_ces-box-savent-a-quelle-heure-vous-vous-levez-et-peuvent-le-raconter-a-la-police</link>
-      <pubDate>Wed, 26 Aug 2026 13:15:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/3222563_ces-box-savent-a-quelle-heure-vous-vous-levez-et-peuvent-le-raconter-a-la-police</guid>
-      <description>
-Les routeurs de l'op&#233;rateur am&#233;ricain Comcast peuvent d&#233;sormais rep&#233;rer les mouvements dans un logement, sans cam&#233;ra ni capteur d&#233;di&#233;. La fonctionnalit&#233; est gratuite et facultative, mais elle produit un journal horodat&#233; que l'entreprise peut transmettre aux autorit&#233;s sans en avertir ses abonn&#233;s.
-</description>
-    </item>
-    <item>
-      <title>Bluesky now lets you upload 10-minute long videos</title>
-      <link>https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/</link>
-      <pubDate>Wed, 26 Aug 2026 13:12:36 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156948</guid>
-      <description>Bluesky's new 10-minute video support includes faster upload speeds, too.</description>
-    </item>
-    <item>
-      <title>7 bad leadership patterns that drive good employees away, and how to fix them</title>
-      <link>https://www.fastcompany.com/91585342/7-bad-leadership-patterns-drive-good-employees-away-how-fix-them</link>
-      <pubDate>2026-08-26T13:08:27</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91585342/7-bad-leadership-patterns-drive-good-employees-away-how-fix-them</guid>
-      <description>These patterns need to be changed before they lead to a turnover crisis.
-Managers&#160;rarely wake up intending to drive away talented employees. Yet every week, employees quietly decide they&#8217;ve had enough&#8212;not because of one terrible&#160;meeting&#160;or one bad day, but because they&#8217;ve experienced the same behaviors and conduct over and over again.</description>
-    </item>
-    <item>
-      <title>Why inclusive design makes smarter technology for all</title>
-      <link>https://www.techradar.com/pro/why-inclusive-design-makes-smarter-technology-for-all</link>
-      <pubDate>Wed, 26 Aug 2026 13:01:35 +0000</pubDate>
-      <guid isPermaLink="false">Tv4Q5qmnEjQwj5YCHJh6eB</guid>
-      <description>Inclusive design puts real human needs at the heart of meaningful technology innovation.</description>
-    </item>
-    <item>
-      <title>PeopleFinders&#8217; New Website Runs Background Checks on Your Dates</title>
-      <link>https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a8745746362fe6e0c8e2d33</guid>
-      <description>The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It&#8217;s fueled by the same public data as PeopleFinders.com&#8212;and comes with many of the same concerns.</description>
-    </item>
-    <item>
-      <title>QueryStory wants you to believe what AI is telling you</title>
-      <link>https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156754</guid>
-      <description>The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.</description>
-    </item>
-    <item>
-      <title>Bit Reactor's Star Wars Zero Company is an immensely rewarding experience that combines satisfying turn-based tactics gameplay reminiscent of XCOM and rich storytelling against the backdrop of the Clone Wars</title>
-      <link>https://www.techradar.com/gaming/star-wars-zero-company-review</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">kdwsMzLHNqfZu9wBjEtdGM</guid>
-      <description>With immensely rewarding turn-based tactics gameplay, an authentic Star Wars atmosphere, and rich storytelling, Bit Reactor's Star Wars Zero Company delivers.</description>
-    </item>
-    <item>
-      <title>Amnezia VPN improves anti-censorship protocol as Russia escalates anti-VPN regime</title>
-      <link>https://www.techradar.com/vpn/vpn-privacy-security/amnezia-vpn-improves-anti-censorship-protocol-as-russia-escalates-anti-vpn-regime</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">f8Lp7s7WpN3u4NNa5VbaQP</guid>
-      <description>Amnezia has launched AmneziaWG 3.0 as part of its relentless fight against Russia's increasing crackdown on VPNs.</description>
-    </item>
-    <item>
-      <title>New 'AnonyMous' phishing campaign targets iPhone users with fake AI Apple support calls</title>
-      <link>https://www.techradar.com/pro/security/new-anonymous-phishing-campaign-targets-iphone-users-with-fake-ai-apple-support-calls</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">77R4e8gyF58t9LSJGH9CjW</guid>
-      <description>Crooks are automating fake support calls to get users to remotely unlock stolen phones.</description>
-    </item>
-    <item>
-      <title>I tested GoPro's intriguing Mission 1 interchangeable lens camera with Micro Four Thirds glass &#8212; and the experience is the opposite of what you expect from GoPro</title>
-      <link>https://www.techradar.com/cameras/gopros/gopro-mission-1-pro-ils-review</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">TtRdD2mQey8fzhmKgyCbjX</guid>
-      <description>I spent a week testing GoPro's first mirrorless camera, which swaps a fixed lens for a Micro Four Thirds mount, unlocking real creative flexibility at the cost of waterproofing, autofocus and everyday ease of use.</description>
-    </item>
-    <item>
-      <title>GoPro Mission 1 Pro ILS review: Interchangeable lenses make this a GoPro like no other</title>
-      <link>https://www.engadget.com/2244078/gopro-mission-1-pro-ils-review/</link>
-      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244078/gopro-mission-1-pro-ils-review/</guid>
-      <description>The Mission 1 ILS is a camera with great potential and a learning curve.</description>
-    </item>
-    <item>
-      <title>Arc&#8217;teryx is redesigning every product it makes to be fully recyclable</title>
-      <link>https://www.fastcompany.com/91587958/arcteryx-system-0-sperro-sv-jacket</link>
-      <pubDate>2026-08-26T13:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587958/arcteryx-system-0-sperro-sv-jacket</guid>
-      <description>Starting with its most complex hard shell jacket, Arc&#8217;teryx is unveiling a multiyear program to promote circularity.
-A decade ago, the best way to sell a product was to say it was sustainable. A new crop of startups promised a greener future through merino wool sneakers, dresses made from deadstock, and rain jackets without a trace of virgin plastic in them....</description>
-    </item>
-    <item>
-      <title>DoorDash is giving away a free Dodge Charger, a house, and so much more this College Football Season</title>
-      <link>https://mashable.com/life/doordash-streaks-college-football-2026-free-car-promo</link>
-      <pubDate>Wed, 26 Aug 2026 12:59:53 +0000</pubDate>
-      <guid isPermaLink="false">052mMQr3Oxz91i1Tlyffan0</guid>
-      <description>DoorDash's Streaks program returns for the 2026 college football season, offering $250 in credit for game-day orders, a free Student DashPass, and a shot at winning a Dodge Charger SRT Hellcat.</description>
-    </item>
-    <item>
-      <title>Today is &#8216;Pay What You Can&#8217; day: See a list of restaurants that participate</title>
-      <link>https://www.fastcompany.com/91596263/pay-what-you-can-day-expands-2026-list-of-restaurants</link>
-      <pubDate>2026-08-26T12:59:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91596263/pay-what-you-can-day-expands-2026-list-of-restaurants</guid>
-      <description>The initiative began small in Mexico City. This year, it expanded to more than 100 restaurants in Mexico, the U.S., and other countries, offering menu prices based on your ability to pay.
-Here&#8217;s a wholesome story for your heart and belly: Today (August 26, 2026), restaurants from around the world are participating in a pay-what-you-can initiative.&#160;</description>
-    </item>
-    <item>
-      <title>Sophie Adenot a r&#233;ussi une mission inachev&#233;e une semaine plus t&#244;t, suspendue dans le vide spatial</title>
-      <link>https://www.01net.com/actualites/sophie-adenot-a-reussi-une-mission-inachevee-une-semaine-plus-tot-suspendue-dans-le-vide-spatial.html</link>
-      <pubDate>Wed, 26 Aug 2026 12:58:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1366110</guid>
-      <description>Sophie Adenot a r&#233;alis&#233; avec succ&#232;s sa deuxi&#232;me sortie extrav&#233;hiculaire le 25 ao&#251;t 2026, terminant le remplacement d'une antenne de l'ISS apr&#232;s un premier &#233;chec le 18 ao&#251;t.</description>
-    </item>
-    <item>
-      <title>Ring says its new encryption limits what it can give police</title>
-      <link>https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement</link>
-      <pubDate>2026-08-26T08:55:45-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=984838</guid>
-      <description>Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional end-to-end encryption. TAKE limits when and why Amazon's cloud can access those videos, while still providing features like smart alerts for [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Arga Labs is building a better way to train enterprise AI agents</title>
-      <link>https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/</link>
-      <pubDate>Wed, 26 Aug 2026 12:55:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157018</guid>
-      <description>Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.</description>
     </item>
   </channel>
 </rss>
