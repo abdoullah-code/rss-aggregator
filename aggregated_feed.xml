@@ -3,341 +3,181 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 26 Aug 2026 16:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:05:59 GMT</lastBuildDate>
     <item>
-      <title>The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it</title>
-      <link>https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it</link>
-      <pubDate>Wed, 26 Aug 2026 16:13:50 GMT</pubDate>
-      <guid isPermaLink="false">4MqpGZw3o3NwsG49wOjU6h</guid>
-      <description>A security agent read a Cloudflare log, found an attacker&#8217;s prompt-injection payload sitting inside it, and rewrote the company&#8217;s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.That chain is GhostJacking, which Tenet Security demonstrated on the DEF CON 34 main stage on August 9. A request hits Cloudflare&#8217;s managed ruleset, gets blocked, and is stored byte for byte with its poisoned User-Agent header. An AI coding agent reviewing those blocked events reads the attacker's text as an instruction &#8212; with no way to tell it apart from one the compan...</description>
+      <title>OpenAI releases its official report on the Hugging Face breach</title>
+      <link>https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/</link>
+      <pubDate>Wed, 26 Aug 2026 19:05:22 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157343</guid>
+      <description>The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.</description>
     </item>
     <item>
-      <title>Apple promet &#171; un jour nouveau &#187; pour sa keynote : voici la date d&#8217;annonce de l&#8217;iPhone Ultra (et des iPhone 18 Pro)</title>
-      <link>https://www.frandroid.com/marques/3223095_apple-promet-un-jour-nouveau-voici-la-date-dannonce-de-liphone-ultra-et-des-iphone-18-pro</link>
-      <pubDate>Wed, 26 Aug 2026 16:11:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3223095_apple-promet-un-jour-nouveau-voici-la-date-dannonce-de-liphone-ultra-et-des-iphone-18-pro</guid>
-      <description>
-La keynote de rentr&#233;e d'Apple aura lieu le 9 septembre. C'est &#224; cette occasion que la marque va pr&#233;senter les iPhone 18 Pro, mais aussi son premier smartphone pliable a priori nomm&#233; iPhone Ultra.
-</description>
+      <title>Samsung leak reveals Galaxy Aero smartwatch-lite &#8212; and it could right the wrongs of Samsung&#8217;s disappointing Apple Watch SE rival</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/samsung-leak-reveals-galaxy-aero-smartwatch-lite-and-it-could-right-the-wrongs-of-samsungs-disappointing-apple-watch-se-rival</link>
+      <pubDate>Wed, 26 Aug 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6vZJat5WuqtoPHDqiVrNki</guid>
+      <description>A leak has revealed hints pointing towards a low-cost Samsung Galaxy Aero smartwatch.</description>
     </item>
     <item>
-      <title>Apple announces September 9 date for 'Surprise and shine' iPhone event</title>
-      <link>https://www.engadget.com/2244696/apple-announces-september-9-surprise-and-shine-iphone-event/</link>
-      <pubDate>Wed, 26 Aug 2026 16:07:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244696/apple-announces-september-9-surprise-and-shine-iphone-event/</guid>
-      <description>Is it finally time to see the foldable iPhone?</description>
+      <title>1666&#160;: Amsterdam | Fin d&#8217;une longue bataille &#171;&#160;tr&#232;s personnelle&#160;&#187; pour le p&#232;re d&#8217;Assassin&#8217;s Creed</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-08-26/1666-amsterdam/fin-d-une-longue-bataille-tres-personnelle-pour-le-pere-d-assassin-s-creed.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Wed, 26 Aug 2026 14:59:40 -0400</pubDate>
+      <guid isPermaLink="false">3d873f9286003bbcbcf6fe2edab16b7f</guid>
+      <description>&#192; 52&#160;ans, le cr&#233;ateur de la saga Assassin&#8217;s Creed lance 1666&#160;: Amsterdam, un projet qui a surv&#233;cu &#224; la faillite de son premier &#233;diteur et &#224; une bataille judiciaire avec son ancien employeur, Ubisoft.</description>
     </item>
     <item>
-      <title>China&#8217;s data centres will reportedly use more power than South Korea by 2030</title>
-      <link>https://www.techradar.com/pro/chinas-data-centres-will-reportedly-use-more-power-than-south-korea-by-2030</link>
-      <pubDate>Wed, 26 Aug 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">Li6VeMhG6ETn7pMGUmRLTM</guid>
-      <description>In 2025, Chinese data centers were expected to use 479 TWh/year by 2030. Now, they're expected to use 774 TWh/year by 2030.</description>
+      <title>Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6</title>
+      <link>https://www.engadget.com/2244925/devolver-digital-squares-up-to-rockstar-with-a-mascot-platformer-out-the-same-day-as-gta-6/</link>
+      <pubDate>Wed, 26 Aug 2026 18:59:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244925/devolver-digital-squares-up-to-rockstar-with-a-mascot-platformer-out-the-same-day-as-gta-6/</guid>
+      <description>Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6.</description>
     </item>
     <item>
-      <title>Apple announces September iPhone launch event</title>
-      <link>https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date</link>
-      <pubDate>2026-08-26T12:03:49-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=983407</guid>
-      <description>Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a "Surprise and shine" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream. September's show could be a big [&#8230;]</description>
+      <title>Ring introduces better default encryption standards to address privacy concerns</title>
+      <link>https://www.engadget.com/2244922/ring-introduces-better-default-encryption-standards-to-address-privacy-concerns/</link>
+      <pubDate>Wed, 26 Aug 2026 18:56:52 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244922/ring-introduces-better-default-encryption-standards-to-address-privacy-concerns/</guid>
+      <description>Ring data still gets sent to the cloud, but it'll be deleted after being used to power smart home controls.</description>
     </item>
     <item>
-      <title>Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states</title>
-      <link>https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/</link>
-      <pubDate>Wed, 26 Aug 2026 16:03:14 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157081</guid>
-      <description>One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.</description>
+      <title>ASUS introduces new Ace esports-focused gaming monitors</title>
+      <link>https://www.engadget.com/2244910/asus-introduces-new-ace-esports-focused-gaming-monitors/</link>
+      <pubDate>Wed, 26 Aug 2026 18:42:16 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244910/asus-introduces-new-ace-esports-focused-gaming-monitors/</guid>
+      <description>The latest ASUS gaming monitors all feature 24.5-inch, high-refresh rate OLED panels.</description>
     </item>
     <item>
-      <title>Les meilleurs robots piscine en 2026 : quel mod&#232;le choisir ?</title>
-      <link>https://www.frandroid.com/guide-dachat/1715897_les-meilleurs-robots-piscine-avec-ou-sans-fil-notre-selection</link>
-      <pubDate>Wed, 26 Aug 2026 16:03:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/1715897_les-meilleurs-robots-piscine-avec-ou-sans-fil-notre-selection</guid>
-      <description>
-Votre piscine doit &#234;tre nettoy&#233;e et entretenue r&#233;guli&#232;rement, en &#233;t&#233; comme hors saison : pour cela, le robot piscine est indispensable. Bienvenue sur notre s&#233;lection des meilleurs robots piscine.
-</description>
+      <title>Flipboard acquires Graze, the feed builder working to monetize the open social web</title>
+      <link>https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/</link>
+      <pubDate>Wed, 26 Aug 2026 18:35:40 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157226</guid>
+      <description>Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard&#8217;s growing open social web ecosystem.</description>
     </item>
     <item>
-      <title>Le MacBook Neo d&#8217;Apple, en version 512 Go avec Touch ID, revient avec une belle promo pour la rentr&#233;e</title>
-      <link>https://www.frandroid.com/bons-plans/3223049_le-macbook-neo-dapple-en-version-512-go-avec-touch-id-revient-avec-une-belle-promo-pour-la-rentree</link>
-      <pubDate>Wed, 26 Aug 2026 16:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3223049_le-macbook-neo-dapple-en-version-512-go-avec-touch-id-revient-avec-une-belle-promo-pour-la-rentree</guid>
-      <description>
-Le MacBook Neo est le portable le plus abordable d'Apple, et cette version 512 Go avec Touch ID tombe &#224; 779 euros au lieu de 899 euros sur Joybuy.
-</description>
+      <title>There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up</title>
+      <link>https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/</link>
+      <pubDate>Wed, 26 Aug 2026 18:24:22 +0000</pubDate>
+      <guid isPermaLink="false">6a8efbf8964e441e5970ed7a</guid>
+      <description>As culture warriors continue to stoke the flames of a gender panic in professional sports, wild conspiracy theories are coming into play.</description>
     </item>
     <item>
-      <title>The new Apple Mac mini is already $100/&#163;100 off for students and teachers &#8212; unfortunately, not for journalists like myself</title>
-      <link>https://www.techradar.com/computing/macs/the-new-apple-mac-mini-is-already-usd100-gbp100-off-for-students-and-teachers-unfortunately-not-for-journalists-like-myself</link>
-      <pubDate>Wed, 26 Aug 2026 16:02:21 +0000</pubDate>
-      <guid isPermaLink="false">x6kkWC4UvrRanFXy9ZLeQH</guid>
-      <description>The new Mac mini M6 looks like a great value  &#8212; especially with this Apple Education Store discount.</description>
+      <title>Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations</title>
+      <link>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</link>
+      <pubDate>Wed, 26 Aug 2026 18:23:09 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157313</guid>
+      <description>The company won't say if medical devices are affected or if any customer data was exfiltrated.</description>
     </item>
     <item>
-      <title>Amazon has a Garmin watch end-of-summer sale &#8212; save up to $250 on top-rated watches for running, swimming, and hiking</title>
-      <link>https://www.techradar.com/tech/amazon-has-a-garmin-watch-end-of-summer-sale-save-up-to-usd250-on-top-rated-watches-for-running-swimming-and-hiking</link>
-      <pubDate>Wed, 26 Aug 2026 16:00:01 +0000</pubDate>
-      <guid isPermaLink="false">3TTDVCFc6NFgFSXBBHmXHL</guid>
-      <description>Amazon has an end-of-summer Garmin Watch sale, and I've found the top deals, including up to $250 off Garmin's top-rated watches for running, swimming, and hiking.</description>
+      <title>Security expert hijacks Apple's Find My network to share data with a Linux device</title>
+      <link>https://www.techradar.com/pro/security/security-expert-hijacks-apples-find-my-network-to-share-data-with-a-linux-device</link>
+      <pubDate>Wed, 26 Aug 2026 18:20:00 +0000</pubDate>
+      <guid isPermaLink="false">7TM6znSKzek3xXArrwGW4S</guid>
+      <description>Researcher tricks Apple's Find My into feeding live location data to a Linux box, with no Mac or iPhone required.</description>
     </item>
     <item>
-      <title>What&#8217;s&#160;driving Sweden&#8217;s startup boom, from Lovable to&#160;Legora</title>
-      <link>https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/</link>
-      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3157150</guid>
-      <description>Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn&#8217;t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately &#8212; legal AI company&#160;Legora&#160;and health tech startup&#160;Neko Health&#160;are right there with it.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast,&#160;Dominic-Madori Davis is joined by&#160;Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe&#8217;s startup [&#8230;]...</description>
+      <title>The Humanoids at China&#8217;s Robot Games Were Faster Than Usain Bolt&#8212;but I&#8217;m More Impressed by Their Tweezer Mastery</title>
+      <link>https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/</link>
+      <pubDate>Wed, 26 Aug 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">6a8c88203e6cf87b84dc78d5</guid>
+      <description>Beijing&#8217;s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid&#8217;s brain, not its brawn.</description>
     </item>
     <item>
-      <title>Resonance: A Plague Tale's action-adventure focus feels a bit safe compared to the franchise's previous entries, but it still offers an infectious combination of combat, puzzle-solving, and exploration that's hard to put down</title>
-      <link>https://www.techradar.com/gaming/resonance-a-plague-tale-review</link>
-      <pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">5zENzCKuTapPseWSmVHhxM</guid>
-      <description>This A Plague Tale prequel pivots to action-adventure formula, forgoing plague rats and oppressive atmosphere for a lighter, swashbuckling romp.</description>
+      <title>Being a mom is hard &#8212; the heat is making it harder</title>
+      <link>https://www.theverge.com/news/985225/heat-stress-children-climate-change-study</link>
+      <pubDate>2026-08-26T14:14:08-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=985225</guid>
+      <description>It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. "How was the botanic garden?" I ask him. "It was okay. It was just too hot," he tells me. I didn't expect us to spend so much of [&#8230;]</description>
     </item>
     <item>
-      <title>Radar makes podcasts searchable &#8212; and usable by AI agents</title>
-      <link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
-      <pubDate>Wed, 26 Aug 2026 15:47:28 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157086</guid>
-      <description>Particle&#8217;s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.</description>
+      <title>&#171; Elle &#233;tait presque invisible &#187; : cette com&#232;te a soudain multipli&#233; son &#233;clat par 20 000 et fascine les astronomes !</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-elle-etait-presque-invisible-cette-comete-soudain-multiplie-son-eclat-20-000-fascine-astronomes-137308/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 26 Aug 2026 20:03:50 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-elle-etait-presque-invisible-cette-comete-soudain-multiplie-son-eclat-20-000-fascine-astronomes-137308/#xtor%3DRSS-8</guid>
+      <description>Plusieurs com&#232;tes passent r&#233;guli&#232;rement dans le Syst&#232;me solaire interne, en de&#231;&#224; de Jupiter, mais elles passent inaper&#231;ues pour l'amateur qui n'est pas &#233;quip&#233; d'une lunette astronomique ou d'un petit t&#233;lescope. Les autres ont parfois la chance d'observer des comportements inattendus de ces...</description>
     </item>
     <item>
-      <title>Rockstar calls GTA 6 leaks 'heartbreaking for our team' and says the game is nearly finished</title>
-      <link>https://www.engadget.com/2244659/rockstar-calls-gta-6-leaks-heartbreaking-says-game-is-nearly-finished/</link>
-      <pubDate>Wed, 26 Aug 2026 15:40:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244659/rockstar-calls-gta-6-leaks-heartbreaking-says-game-is-nearly-finished/</guid>
-      <description>Ahead of the extended look at GTA 6 on Netflix, Rockstar has addressed leaked gameplay videos in a statement.</description>
+      <title>The Switch 2&#8217;s $50 price increase is happening next week</title>
+      <link>https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa</link>
+      <pubDate>2026-08-26T14:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=984331</guid>
+      <description>This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That&#8217;s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announced two bundles [&#8230;]</description>
     </item>
     <item>
-      <title>41 home appliance bargains from the Argos Big Red sale &#8212; up to 50% off Dyson, KitchenAid, Ninja and more</title>
-      <link>https://www.techradar.com/home/juicers-blenders/41-home-appliance-bargains-from-the-argos-big-red-sale-up-to-50-percent-off-dyson-kitchenaid-ninja-and-more</link>
-      <pubDate>Wed, 26 Aug 2026 15:30:39 +0000</pubDate>
-      <guid isPermaLink="false">NQcX9dCbr7wEkvJtPavUYJ</guid>
-      <description>I've hand-picked the best deals, including big price cuts on the Ninja Slushi, Dyson V10 stick vac, and KitchenAid stand mixer.</description>
+      <title>FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure</title>
+      <link>https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/</link>
+      <pubDate>Wed, 26 Aug 2026 17:57:06 +0000</pubDate>
+      <guid isPermaLink="false">6a8f03a4964e441e5970f094</guid>
+      <description>China&#8217;s hacking campaign targeted NASA, the Federal Reserve, the US Senate, the Justice Department, and more, according to the DOJ.</description>
     </item>
     <item>
-      <title>What's the difference between WAN and LAN?</title>
-      <link>https://www.engadget.com/2240983/wan-vs-lan-port-difference-between-explained/</link>
-      <pubDate>Wed, 26 Aug 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2240983/wan-vs-lan-port-difference-between-explained/</guid>
-      <description>Two identical ports, two different purposes.</description>
+      <title>Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands</title>
+      <link>https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/</link>
+      <pubDate>Wed, 26 Aug 2026 17:36:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/</guid>
+      <description>The problem with Meta's AI restructuring plan is the AI wasn't good enough.</description>
     </item>
     <item>
-      <title>Volvo&#8217;s cars will warn one another about hazards in the road</title>
-      <link>https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist</link>
-      <pubDate>2026-08-26T11:28:14-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=985070</guid>
-      <description>Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools like Google Maps and Waze. The [&#8230;]</description>
+      <title>Apple Maps has ads now</title>
+      <link>https://www.theverge.com/tech/985249/apple-maps-iphone-ads</link>
+      <pubDate>2026-08-26T13:34:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=985249</guid>
+      <description>Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the "suggested places" section in search, but Apple says they'll also show up at the top of search results. According to 9to5Mac, the [&#8230;]</description>
     </item>
     <item>
-      <title>Changer de contrat d&#8217;&#233;nergie &#224; la rentr&#233;e : ENGIE offre jusqu&#8217;&#224; 120 &#8364; aux nouveaux clients [Sponso]</title>
-      <link>https://www.frandroid.com/survoltes/3220915_changer-de-contrat-denergie-a-la-rentree-engie-offre-jusqua-120-e-aux-nouveaux-clients</link>
-      <pubDate>Wed, 26 Aug 2026 15:28:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3220915_changer-de-contrat-denergie-a-la-rentree-engie-offre-jusqua-120-e-aux-nouveaux-clients</guid>
-      <description>
-Pour la rentr&#233;e, ENGIE propose une offre de remboursement allant jusqu'&#224; 120 &#8364; sur ses contrats d'&#233;lectricit&#233; et de gaz. Remises diff&#233;r&#233;es, bonus de parrainage et souscription simplifi&#233;e : on vous explique comment en profiter pour all&#233;ger votre budget &#233;nergie.
-</description>
+      <title>GTA VI Cyberleek update: Everything leaked Wednesday and earlier this week</title>
+      <link>https://mashable.com/entertainment/grand-theft-auto-vi-cyberleek-leaks-august-26</link>
+      <pubDate>Wed, 26 Aug 2026 17:32:50 +0000</pubDate>
+      <guid isPermaLink="false">06oxFgw5g1gJJxgOkQ6O2wT</guid>
+      <description>The 'Grand Theft Auto VI' leaks are starting to resemble a river at this point.</description>
     </item>
     <item>
-      <title>Bluesky now supports 10-minute videos</title>
-      <link>https://www.engadget.com/2244638/bluesky-now-supports-10-minute-videos-larger-file-sizes/</link>
-      <pubDate>Wed, 26 Aug 2026 15:23:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244638/bluesky-now-supports-10-minute-videos-larger-file-sizes/</guid>
-      <description>File sizes have also been increased and uploads should be faster.</description>
+      <title>Google says its latest Gemini transcription model can turn your ramblings into structured text</title>
+      <link>https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/</link>
+      <pubDate>Wed, 26 Aug 2026 17:25:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/</guid>
+      <description>Google says Gemini 3.5 Transcribe will soon let you use speech-to-text in any web field in Chrome.</description>
     </item>
     <item>
-      <title>Fin des jeux physiques&#160;: Xbox r&#233;pond &#224; Sony avec une id&#233;e vieille de 13 ans</title>
-      <link>https://www.01net.com/actualites/fin-des-jeux-physiques-xbox-repond-a-lannonce-polemique-de-sony-avec-une-idee-vieille-de-13-ans.html</link>
-      <pubDate>Wed, 26 Aug 2026 15:22:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1366187</guid>
-      <description>Lier vos disques &#224; votre compte Xbox valait une r&#233;volte en 2013. Treize ans plus tard, Microsoft en fait un service de &#171; pr&#233;servation &#187;, licence r&#233;vocable comprise (c'est &#233;crit tout en bas, en petit).</description>
+      <title>Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety</title>
+      <link>https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/</link>
+      <pubDate>Wed, 26 Aug 2026 17:13:37 +0000</pubDate>
+      <guid isPermaLink="false">6a8c4b9ba3cdd449f15937cd</guid>
+      <description>More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. &#8220;We&#8217;ve got to get this right,&#8221; says Senate candidate Dan Osborn of Nebraska.</description>
     </item>
     <item>
-      <title>Le r&#233;cent casque Bluetooth abordable, mais styl&#233;, de Nothing est d&#233;j&#224; &#224; prix cass&#233; sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3221241_le-recent-casque-bluetooth-abordable-mais-style-de-nothing-est-deja-a-prix-casse-sur-amazon</link>
-      <pubDate>Wed, 26 Aug 2026 15:19:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3221241_le-recent-casque-bluetooth-abordable-mais-style-de-nothing-est-deja-a-prix-casse-sur-amazon</guid>
-      <description>
-Quelques mois apr&#232;s sa sortie, le Nothing Headphone (a) s'est d&#233;j&#224; impos&#233; comme un incontournable sur le march&#233; des casques de milieu de gamme. Il faut dire que ce produit coche de nombreuses cases avec son design atypique, sa proposition sonore r&#233;ussie et son prix pass&#233; &#224; 117,70 euros sur Amazon.
-</description>
+      <title>Apple officially announces September iPhone launch event: Surprise and shine</title>
+      <link>https://mashable.com/tech/apple-announces-september-iphone-event-sept-9</link>
+      <pubDate>Wed, 26 Aug 2026 17:11:51 +0000</pubDate>
+      <guid isPermaLink="false">00qbt9q0MmPP4hvFKWBikYy</guid>
+      <description>On Aug. 26, Apple finally confirmed the exact date and time of its annual September iPhone launch event.</description>
     </item>
     <item>
-      <title>Xbox officialise son syst&#232;me pour convertir les jeux sur disque en licences num&#233;riques</title>
-      <link>https://www.frandroid.com/produits-android/3223011_xbox-officialise-son-systeme-pour-convertir-les-jeux-sur-disque-en-licences-numeriques</link>
-      <pubDate>Wed, 26 Aug 2026 15:17:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3223011_xbox-officialise-son-systeme-pour-convertir-les-jeux-sur-disque-en-licences-numeriques</guid>
-      <description>
-Le disque physique agonise, et Microsoft ne fait plus semblant de l'ignorer. Xbox officialise un syst&#232;me qui transforme les jeux en disque en copies d&#233;mat&#233;rialis&#233;es, rattach&#233;es au compte du joueur.
-</description>
+      <title>The long-lasting Nothing Headphone (a) have never been this cheap before &#8212; save 45% for one day only</title>
+      <link>https://mashable.com/tech/aug-26-nothing-headphone-a-deal-of-the-day</link>
+      <pubDate>Wed, 26 Aug 2026 17:11:30 +0000</pubDate>
+      <guid isPermaLink="false">06HuyE2kW686X3lBLwSMcl8</guid>
+      <description>The black Nothing Headphone (a) are on sale for just $109 at Amazon and Best Buy today (Aug. 26) &#8212;&#160;an unprecedented 45% savings.</description>
     </item>
     <item>
-      <title>Droits de douane et droits r&#233;ciproques | Des produits technologiques plus co&#251;teux</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-08-26/droits-de-douane-et-droits-reciproques/des-produits-technologiques-plus-couteux.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 26 Aug 2026 11:15:35 -0400</pubDate>
-      <guid isPermaLink="false">2b1ee300696b3f228e6f9f3e0dd190a9</guid>
-      <description>Les droits de douane de 50&#160;% impos&#233;s par Donald Trump sur certains produits canadiens toucheront les composants et les produits &#233;lectroniques&#8230; mais pas tous. Si le gouvernement Carney r&#233;plique comme pr&#233;vu avec des droits similaires, cela fera monter des deux c&#244;t&#233;s de la fronti&#232;re le prix de certaines technologies, mais l&#224; non plus, l&#8217;impact r&#233;el n&#8217;est pas facile &#224; d&#233;terminer....</description>
+      <title>ShinyHunters hackers claim to have hit data center provider used by Microsoft and Meta</title>
+      <link>https://www.techradar.com/pro/security/shinyhunters-hackers-claim-to-have-hit-data-center-provider-used-by-microsoft-and-meta</link>
+      <pubDate>Wed, 26 Aug 2026 17:10:00 +0000</pubDate>
+      <guid isPermaLink="false">u3auMsAGhmsh4DqfC4rwmj</guid>
+      <description>The hackers are asking for $13 million from CyrusOne, and have given the company a four-day deadline to comply.</description>
     </item>
     <item>
-      <title>Anthropic staff told to work from home due to risk of possible security strikes</title>
-      <link>https://www.techradar.com/pro/anthropic-staff-told-to-work-from-home-due-to-risk-of-possible-security-strikes</link>
-      <pubDate>Wed, 26 Aug 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">R98aek9K4ZcsdAxRnhgwtG</guid>
-      <description>Anthropic's security contractors were reportedly preparing to strike, forcing the AI company to prioritize worker safety.</description>
+      <title>Intelligence artificielle | Bill Gates propose de r&#233;server des emplois aux humains et d&#8217;instaurer une taxe</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-08-26/intelligence-artificielle/bill-gates-propose-de-reserver-des-emplois-aux-humains-et-d-instaurer-une-taxe.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Wed, 26 Aug 2026 13:08:26 -0400</pubDate>
+      <guid isPermaLink="false">25f40ed2ec84398ebecfbf48376cacdd</guid>
+      <description>L&#8217;ancien patron de Microsoft Bill Gates a appel&#233; mercredi &#224; un accompagnement du changement induit par l&#8217;intelligence artificielle (IA), proposant une taxe sur l&#8217;IA, la cr&#233;ation d&#8217;une instance internationale et la d&#233;signation d&#8217;emplois r&#233;serv&#233;s aux humains.</description>
     </item>
     <item>
-      <title>iPhone 18 Pro&#160;: Apple donne un aper&#231;u de la puissance de la puce A20 Pro</title>
-      <link>https://www.01net.com/actualites/iphone-18-pro-apple-donne-un-apercu-de-la-puissance-de-la-puce-a20-pro.html</link>
-      <pubDate>Wed, 26 Aug 2026 15:00:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1366114</guid>
-      <description>Apple a pr&#233;sent&#233; le M6 &#224; quelques semaines de l'iPhone 18 Pro. Ses c&#339;urs, son moteur graphique et son double Neural Engine en disent long sur l'A20 Pro qui arrive. Projection, avec les pr&#233;cautions d'usage.</description>
-    </item>
-    <item>
-      <title>Ex-Meta scientists want to bring visual AI to the factory floor</title>
-      <link>https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/</link>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139375</guid>
-      <description>Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.</description>
-    </item>
-    <item>
-      <title>After playing The Duskbloods network test, I was stunned by &#8212; and couldn&#8217;t get enough of &#8212; its breakneck pacing</title>
-      <link>https://www.techradar.com/gaming/the-duskbloods-network-test-preview</link>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">FgwCGvZM38Ad6oPudq5Z6k</guid>
-      <description>The Duskbloods feels like FromSoftware&#8217;s unique multiplayer philosophy at its best, but its time limits can be alarmingly demanding.</description>
-    </item>
-    <item>
-      <title>The new Secretlab Titan Evo Marvel gaming chair collab is the most gorgeous alternate design yet, and a must-have for any Spider-Man fan</title>
-      <link>https://www.techradar.com/gaming/the-new-secretlab-titan-evo-marvel-gaming-chair-collab-is-the-most-gorgeous-alternate-design-yet-and-a-must-have-for-any-spider-man-fan</link>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NAzxdaQEJK9fNWgtj4ZZZJ</guid>
-      <description>Secretlab has announced a collaboration with Marvel: a new Titan Evo gaming chair inspired by your friendly neighborhood Spider-Man.</description>
-    </item>
-    <item>
-      <title>Apple should make a Mac Neo to fill the void left by the more expensive Mac mini</title>
-      <link>https://www.engadget.com/2244605/apple-should-make-a-mac-neo/</link>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244605/apple-should-make-a-mac-neo/</guid>
-      <description>A modest proposal for Apple to add a lower-cost option to its Mac lineup.</description>
-    </item>
-    <item>
-      <title>How to watch Adults season 2 - stream Gen Z sitcom</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/adults-season-2</link>
-      <pubDate>Wed, 26 Aug 2026 14:57:52 +0000</pubDate>
-      <guid isPermaLink="false">pyyZLCvWXxWweuBEUdUhRR</guid>
-      <description>The gang are back, navigating their twenties from their base in Queens, NY and tackling a new set of real-wold dilemmas. Here's how to watch Adults season 2 online from anywhere</description>
-    </item>
-    <item>
-      <title>IKEA and Xbox have fully unveiled their new furniture collection at Gamescom</title>
-      <link>https://www.engadget.com/2244597/ikea-and-xbox-have-fully-unveiled-new-furniture-collection-at-gamescom/</link>
-      <pubDate>Wed, 26 Aug 2026 14:44:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244597/ikea-and-xbox-have-fully-unveiled-new-furniture-collection-at-gamescom/</guid>
-      <description>Who hasn't dreamt of sitting on a green stool modeled like a thumbstick?</description>
-    </item>
-    <item>
-      <title>Ring introduces a new encryption standard, makes it the default for cloud features</title>
-      <link>https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/</link>
-      <pubDate>Wed, 26 Aug 2026 14:44:33 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157073</guid>
-      <description>Ring says  users can still opt for end-to-end encryption.</description>
-    </item>
-    <item>
-      <title>Tabouret joystick, coussin D-pad et meuble TV : Ikea et Xbox lancent YXSTABY</title>
-      <link>https://www.frandroid.com/marques/ikea/3222909_tabouret-joystick-coussin-d-pad-et-meuble-tv-ikea-et-xbox-lancent-yxstaby</link>
-      <pubDate>Wed, 26 Aug 2026 14:42:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/ikea/3222909_tabouret-joystick-coussin-d-pad-et-meuble-tv-ikea-et-xbox-lancent-yxstaby</guid>
-      <description>
-Microsoft et Ikea annoncent une collection de produits YXSTABY reprenant les codes et couleurs de Xbox, les licenciements en moins.
-</description>
-    </item>
-    <item>
-      <title>Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI</title>
-      <link>https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/</link>
-      <pubDate>Wed, 26 Aug 2026 14:37:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157087</guid>
-      <description>Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.</description>
-    </item>
-    <item>
-      <title>Wanted: Token spend control and governance without slowing down agentic AI innovation</title>
-      <link>https://www.techradar.com/pro/wanted-token-spend-control-and-governance-without-slowing-down-agentic-ai-innovation</link>
-      <pubDate>Wed, 26 Aug 2026 14:32:28 +0000</pubDate>
-      <guid isPermaLink="false">LsPTFC5UjPygytsYGEtx5E</guid>
-      <description>Agentic AI is accelerating, but organizations need stronger governance to control costs, security and access.</description>
-    </item>
-    <item>
-      <title>CISA confirms hackers targeted over 100 US water systems during July</title>
-      <link>https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/</link>
-      <pubDate>Wed, 26 Aug 2026 14:31:05 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157096</guid>
-      <description>The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.</description>
-    </item>
-    <item>
-      <title>Quels sont les meilleurs smartphones reconditionn&#233;s en 2026 ? Notre guide d&#8217;achat par prix</title>
-      <link>https://www.frandroid.com/guide-dachat/smartphones/1233493_selection-des-meilleurs-smartphones-reconditionnes</link>
-      <pubDate>Wed, 26 Aug 2026 14:30:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/smartphones/1233493_selection-des-meilleurs-smartphones-reconditionnes</guid>
-      <description>
-Faire des &#233;conomies tout en pr&#233;servant un peu la plan&#232;te, c'est la promesse du smartphone reconditionn&#233;. Choisir un t&#233;l&#233;phone remis &#224; neuf permet de profiter de technologies r&#233;centes &#224; prix cass&#233;, sans le co&#251;t &#233;cologique du neuf. D&#233;couvrez notre guide d'achat des meilleurs smartphones reconditionn&#233;s &#224; acheter.
-</description>
-    </item>
-    <item>
-      <title>Xbox announces disc-to-digital feature that digitizes your physical games</title>
-      <link>https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official</link>
-      <pubDate>2026-08-26T10:30:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=984936</guid>
-      <description>Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively revealed last month, is part of work that Microsoft is doing for game preservation and in preparation for the next generation of Xbox consoles. "Most Xbox One and [&#8230;]...</description>
-    </item>
-    <item>
-      <title>La r&#233;cente Amazfit Active 3 Premium va r&#233;galer les sportifs un peu fauch&#233;s gr&#226;ce &#224; cette offre Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3170175_la-recente-amazfit-active-3-premium-va-regaler-les-sportifs-un-peu-fauches-grace-a-cette-offre-amazon</link>
-      <pubDate>Wed, 26 Aug 2026 14:29:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3170175_la-recente-amazfit-active-3-premium-va-regaler-les-sportifs-un-peu-fauches-grace-a-cette-offre-amazon</guid>
-      <description>
-Lanc&#233;e en d&#233;but d'ann&#233;e, l'Amazfit Active 3 Premium est une montre connect&#233;e de sport bien plus accessible que nombre de ses concurrentes. En ce moment, on peut la trouver &#224; 134,90 euros au lieu de 169,90 euros sur Amazon. 
-</description>
-    </item>
-    <item>
-      <title>Meta will pay up to $18 billion to settle states' lawsuit alleging harms to young users</title>
-      <link>https://www.engadget.com/2244582/meta-settles-states-lawsuit-alleging-harms-young-users/</link>
-      <pubDate>Wed, 26 Aug 2026 14:29:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2244582/meta-settles-states-lawsuit-alleging-harms-young-users/</guid>
-      <description>The company called on YouTube and TikTok to join it in setting time limits for teens.</description>
-    </item>
-    <item>
-      <title>Say 'hello' to this retro Macintosh dock deal &#8212; give your Apple Mac mini a classic makeover with a 5-inch screen, NVMe storage, and loads more ports</title>
-      <link>https://www.techradar.com/computing/macs/say-hello-to-this-retro-macintosh-dock-deal-give-your-apple-mac-mini-a-classic-makeover-with-a-5-inch-screen-nvme-storage-and-loads-more-ports</link>
-      <pubDate>Wed, 26 Aug 2026 14:25:54 +0000</pubDate>
-      <guid isPermaLink="false">vHHAQDVrVXCSFr8uqjifga</guid>
-      <description>We couldn't love the Apple Mac mini more, but this clever vintage-style dock adds a 5-inch display, NVMe enclosure, and plenty of extra connectivity.</description>
-    </item>
-    <item>
-      <title>Addiction des ados &#224; Instagram et Facebook : Meta va payer 16 milliards de dollars pour se d&#233;barrasser du proc&#232;s</title>
-      <link>https://www.frandroid.com/marques/meta/3222919_addiction-des-ados-a-instagram-et-facebook-meta-va-payer-16-milliards-de-dollars-pour-se-debarrasser-du-proces</link>
-      <pubDate>Wed, 26 Aug 2026 14:25:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3222919_addiction-des-ados-a-instagram-et-facebook-meta-va-payer-16-milliards-de-dollars-pour-se-debarrasser-du-proces</guid>
-      <description>
-Meta a accept&#233; de payer plus de 16 milliards de dollars pour clore  un proc&#232;s aux &#201;tats-Unis qui l'accusait de rendre Facebook et Instagram addictifs pour les plus jeunes. En &#233;change, l'entreprise doit aussi installer de nouveaux garde-fous sur les comptes des adolescents.
-</description>
-    </item>
-    <item>
-      <title>The Magic: The Gathering Marvel Super Heroes Jumpstart Booster Box is 28% off at Amazon</title>
-      <link>https://mashable.com/entertainment/aug-26-mtg-marvel-super-heroes-booster-box</link>
-      <pubDate>Wed, 26 Aug 2026 14:25:04 +0000</pubDate>
-      <guid isPermaLink="false">052Wtnxo36c9MIe5mKrmaQy</guid>
-      <description>The Magic: The Gathering Marvel Super Heroes Jumpstart Booster Box is on sale for $119.99 at Amazon.</description>
-    </item>
-    <item>
-      <title>Are employees to blame for rise in insider access threats? This new study claims so</title>
-      <link>https://www.techradar.com/pro/security/are-employees-to-blame-for-rise-in-insider-access-threats-this-new-study-claims-so</link>
-      <pubDate>Wed, 26 Aug 2026 14:25:00 +0000</pubDate>
-      <guid isPermaLink="false">ExiWJgxyBHoykEGxmkKNT4</guid>
-      <description>Every day, someone is selling access on the dark web, and hackers are buying.</description>
-    </item>
-    <item>
-      <title>I've seen the IKEA x Xbox collection at Gamescom, and among some goofier products, there's one handy item I want right now</title>
-      <link>https://www.techradar.com/gaming/ive-seen-the-ikea-x-xbox-collection-at-gamescom-and-among-some-goofier-products-theres-one-handy-item-i-want-right-now</link>
-      <pubDate>Wed, 26 Aug 2026 14:21:20 +0000</pubDate>
-      <guid isPermaLink="false">i9LoLryNDgpimxBMs3oyKF</guid>
-      <description>IKEA and Xbox have unveiled a fun and functional nine-piece collection at Gamescom, and after seeing it in person, I can see why these products will be popular with a range of people.</description>
+      <title>Bill Gates proposes a token tax on AI to protect human workers</title>
+      <link>https://mashable.com/tech/bill-gates-ai-tax-proposal-to-protect-human-workers</link>
+      <pubDate>Wed, 26 Aug 2026 17:08:16 +0000</pubDate>
+      <guid isPermaLink="false">07ixWII2MRrrsdStXkp4myC</guid>
+      <description>Former Microsoft head Bill Gates has a few ideas on how to deal with AI replacing human workers.</description>
     </item>
   </channel>
 </rss>
