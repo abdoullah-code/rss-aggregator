@@ -3,105 +3,13 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 26 Aug 2026 22:55:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:26:05 GMT</lastBuildDate>
     <item>
-      <title>Meta&#8217;s $18B child-safety deal hinges on age verification tech that doesn&#8217;t work well</title>
-      <link>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</link>
-      <pubDate>Wed, 26 Aug 2026 22:47:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157338</guid>
-      <description>The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.</description>
-    </item>
-    <item>
-      <title>How Rising Temperatures Likely Contributed to Nepal&#8217;s Deadly Flood</title>
-      <link>https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/</link>
-      <pubDate>Wed, 26 Aug 2026 22:19:44 +0000</pubDate>
-      <guid isPermaLink="false">6a8f1422fb2894bbff0c4b07</guid>
-      <description>Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.</description>
-    </item>
-    <item>
-      <title>Quote of the day by PsiQuantum CEO Jeremy O&#8217;Brien: 'If you think the goal is to get to the top of the Empire State Building, you build longer ladders' &#8212; a challenge to incremental hardware progress in quantum computing</title>
-      <link>https://www.techradar.com/pro/quote-of-the-day-by-psiquantum-ceo-jeremy-obrien-if-you-think-the-goal-is-to-get-to-the-top-of-the-empire-state-building-you-build-longer-ladders-a-challenge-to-incremental-hardware-progress-in-quantum-computing</link>
-      <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6c3M9ZrfP5hqJL7wFMMt9k</guid>
-      <description>The race to build a useful quantum computer is heating up</description>
-    </item>
-    <item>
-      <title>iPod nostalgia is at an all-time high, so meet two new cheap, adorable tiny hi-res music players that invoke the best of the music-player era (bring your own white wired earbuds)</title>
-      <link>https://www.techradar.com/audio/portable-media-players/ipod-nostalgia-is-at-an-all-time-high-so-meet-two-new-cheap-adorable-tiny-hi-res-music-players-that-invoke-the-best-of-the-music-player-era-bring-your-own-white-wired-earbuds</link>
-      <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">iRFWUtsLDqGWbVh4Q34ow4</guid>
-      <description>Fiio and Shanling release iPod doppelg&#228;ngers with perks Apple's music players didn't have, perfect for the wired headphones revival.</description>
-    </item>
-    <item>
-      <title>Panic is refunding tariff fees paid by Playdate owners</title>
-      <link>https://www.engadget.com/2245122/panic-is-refunding-tariff-fees-paid-by-playdate-owners/</link>
-      <pubDate>Wed, 26 Aug 2026 21:57:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2245122/panic-is-refunding-tariff-fees-paid-by-playdate-owners/</guid>
-      <description>The console was subject to added fees under the Trump administration's original tariff regime.</description>
-    </item>
-    <item>
-      <title>OpenAI details the failures that led to Hugging Face breach in official report</title>
-      <link>https://www.engadget.com/2245119/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/</link>
-      <pubDate>Wed, 26 Aug 2026 21:54:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2245119/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/</guid>
-      <description>Transparency from the company is good, but real trust in its people would be better.</description>
-    </item>
-    <item>
-      <title>Nvidia is about to be a hundred-billion-dollar-a-quarter company</title>
-      <link>https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue</link>
-      <pubDate>2026-08-26T17:40:53-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=985387</guid>
-      <description>Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]</description>
-    </item>
-    <item>
-      <title>Ukraine flags that Russia could have a secret fleet of autonomous military vessels stalking the seas</title>
-      <link>https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon-clone-clone</link>
-      <pubDate>Wed, 26 Aug 2026 21:40:00 +0000</pubDate>
-      <guid isPermaLink="false">NG5oABEpqrVeQgfPzojNG6</guid>
-      <description>Ukraine warns Russia now fields increasingly advanced unmanned naval drones that can strike far offshore without detection for long periods.</description>
-    </item>
-    <item>
-      <title>Anthropic continues compute-gobbling streak in $45 billion deal with Nscale</title>
-      <link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
-      <pubDate>Wed, 26 Aug 2026 21:37:39 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157364</guid>
-      <description>The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.</description>
-    </item>
-    <item>
-      <title>OpenAI&#8217;s rogue AI model incident was worse than we thought</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr</link>
-      <pubDate>2026-08-26T17:36:06-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=985385</guid>
-      <description>In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret "message board," and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]</description>
-    </item>
-    <item>
-      <title>Meta settles its alleged social media harm case for $18B and agrees to massive changes that may be almost impossible to enforce</title>
-      <link>https://www.techradar.com/computing/instagram/meta-settles-its-alleged-social-media-harm-case-for-usd18b-and-agrees-to-massive-changes-that-may-be-almost-impossible-to-enforce</link>
-      <pubDate>Wed, 26 Aug 2026 21:27:31 +0000</pubDate>
-      <guid isPermaLink="false">3MxGuYvUfqMQs3ff22HgCE</guid>
-      <description>Meta just settled the huge multi-state case against it, alleging that the social media giant's products harm teens. It's paying $18B, but are the promised product changes enough to transform the services and truly protect teens?</description>
-    </item>
-    <item>
-      <title>Nvidia&#8217;s Q2 revenue tops $96.2 billion on strong AI chip demand</title>
-      <link>https://www.fastcompany.com/91596922/nvidia-artificial-intelligence-earnings</link>
-      <pubDate>2026-08-26T21:06:47</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91596922/nvidia-artificial-intelligence-earnings</guid>
-      <description>Nvidia&#8216;s latest quarterly results once again blew past Wall Street&#8217;s expectations as revenue for the computer chip company&#8217;s high-end artificial intelligence chips soared, the latest sign that AI infrastructure spending remains strong. The company reported on Wednesday net income of $59.69 billion, or $2.46 per share, for the May-July period. That compares to net income [&#8230;]
-Nvidia&#8216;s latest quarterly results once again blew past Wall Street&#8217;s expectations as revenue for the computer chip company&#8217;s high-end artificial intelligence chips soared, the latest sign that AI infrastructure spending rem...</description>
-    </item>
-    <item>
-      <title>Democrats Just Might Win the Senate</title>
-      <link>https://www.wired.com/story/democrats-just-might-win-the-senate/</link>
-      <pubDate>Wed, 26 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a8c943b736a67213b246f41</guid>
-      <description>Strategists in both parties have long thought that everything would need to go right for Democrats to take over Congress this fall. Their map, though, is becoming more forgiving.</description>
-    </item>
-    <item>
-      <title>The Meta Settlement Will Put Limits on Instagram for Teens. They&#8217;re Still Vulnerable</title>
-      <link>https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/</link>
-      <pubDate>Wed, 26 Aug 2026 20:55:46 +0000</pubDate>
-      <guid isPermaLink="false">6a8f18bce2c69332983b638c</guid>
-      <description>Child safety groups and former Meta employees welcome proposed changes to how the company&#8217;s platforms will work for teens. They also think states should have demanded more.</description>
+      <title>United&#8217;s new A321XLR is packed with tech, and it&#8217;s about to take on new transatlantic routes</title>
+      <link>https://www.techradar.com/tech/uniteds-new-a321xlr-is-packed-with-tech-and-its-about-to-take-on-new-transatlantic-routes</link>
+      <pubDate>Thu, 27 Aug 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Gfiu8KMeNWqRiv4FwboJvM</guid>
+      <description>I toured United&#8217;s new high-tech A321XLR, checking out its new Polaris and Premium Plus cabins, 4K OLED screens, Starlink Wi-Fi, and a clever twist on Economy Plus seats.</description>
     </item>
   </channel>
 </rss>
