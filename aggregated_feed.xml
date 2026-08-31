@@ -3,20 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 30 Aug 2026 22:32:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:13:54 GMT</lastBuildDate>
     <item>
-      <title>Amazon is buying 2 million Nvidia GPUs for AWS data center expansion</title>
-      <link>https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion</link>
-      <pubDate>Sun, 30 Aug 2026 22:10:00 +0000</pubDate>
-      <guid isPermaLink="false">oRtySs7XMWJkSQPYoAgmMT</guid>
-      <description>AWS plans to deploy two million additional Nvidia GPUs by 2028, expanding AI infrastructure across cloud, government, analytics, and robotics workloads.</description>
+      <title>'If you&#8217;re looking for a cheap mechanical keyboard, you can&#8217;t do much better': I tested a budget clacker that's impressive for gaming or home working &#8212; but its cutbacks are evident</title>
+      <link>https://www.techradar.com/computing/keyboards/mechlands-vibe99-review</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3bMS5PA9LyHehtw7QmPM6H</guid>
+      <description>How well does this retro-looking mechanical keyboard perform by modern standards?</description>
     </item>
     <item>
-      <title>Professor Murder Rides the Subway is a forgotten slice of dance punk perfection</title>
-      <link>https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review</link>
-      <pubDate>2026-08-30T17:18:59-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=986564</guid>
-      <description>I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you [&#8230;]</description>
+      <title>&#8216;Makes up for its predecessor&#8217;s fumbles, rather than actually keeping pace with competitors&#8217; &#8212; I like this Epson projector&#8217;s Google TV OS and boosted HDMI ports but these quality of life upgrades are too little too late</title>
+      <link>https://www.techradar.com/televisions/projectors/makes-up-for-its-predecessors-fumbles-rather-than-actually-keeping-pace-with-competitors-i-like-this-epson-projectors-google-tv-os-and-boosted-hdmi-ports-but-these-quality-of-life-upgrades-are-too-little-too-late</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">FYLi6cXjCGFuNt2TciTBTX</guid>
+      <description>The LifeStudio Grand is a refresh of Epson&#8217;s earlier LS650 projector, and while it has some good-to-see improvements, it&#8217;s not a major upgrade.</description>
+    </item>
+    <item>
+      <title>The MacBook Neo may no longer be 'affordable', but a small discount sees it drop to a three-figure price</title>
+      <link>https://www.techradar.com/computing/macbooks/the-macbook-neo-may-no-longer-be-affordable-but-a-small-discount-sees-it-drop-to-a-three-figure-price</link>
+      <pubDate>Sun, 30 Aug 2026 23:58:07 +0000</pubDate>
+      <guid isPermaLink="false">QfNoM5NyKGjeoh4mW3Xy8Z</guid>
+      <description>Initially launching at a rock-bottom AU$899 price earlier this year, the MacBook Neo isn&#8217;t quite the budget darling anymore after a sizeable price hike &#8212; but for AU$997, this deal is hard to pass up.</description>
     </item>
   </channel>
 </rss>
