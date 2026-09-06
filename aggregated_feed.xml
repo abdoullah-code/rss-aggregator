@@ -3,43 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 06 Sep 2026 21:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:37:44 GMT</lastBuildDate>
     <item>
-      <title>An Amazon cargo plane crashed at Miami International Airport</title>
-      <link>https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami</link>
-      <pubDate>2026-09-06T16:56:38-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=990918</guid>
-      <description>A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]</description>
+      <title>Seattle Times and Newsday sue OpenAI and Microsoft for infringement</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft</link>
+      <pubDate>2026-09-06T19:36:04-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=990932</guid>
+      <description>The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]</description>
     </item>
     <item>
-      <title>Authors push back as publishers and agents seek share of Anthropic settlement</title>
-      <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
-      <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161058</guid>
-      <description>Authors say publishers seem to be claiming more than their fair share of settlement payments.</description>
+      <title>The pros and cons of using wireless Android Auto</title>
+      <link>https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/</link>
+      <pubDate>Sun, 06 Sep 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/</guid>
+      <description>Wireless Android Auto delivers on the promise of making your life easier most of the time, but ditching the cable can come with a number of tradeoffs.</description>
     </item>
     <item>
-      <title>How To Send High-Quality Images And Videos From Android To iPhone</title>
-      <link>https://www.engadget.com/2248718/how-to-send-high-quality-images-videos-android-to-iphone/</link>
-      <pubDate>Sun, 06 Sep 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2248718/how-to-send-high-quality-images-videos-android-to-iphone/</guid>
-      <description>It can be tough to preserve the quality of your images when sending them from Android to iPhone, but these tried-and-true methods keep them crystal clear.</description>
+      <title>10 Smart Gadgets That Could Instantly Upgrade Your Backyard</title>
+      <link>https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/</link>
+      <pubDate>Sun, 06 Sep 2026 23:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/</guid>
+      <description>Smart outdoor tech is changing how people use their backyards, and this handful of clever upgrades can make your space more useful and enjoyable.</description>
     </item>
     <item>
-      <title>OpenAI says it reached its goal of creating an automated research intern</title>
-      <link>https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/</link>
-      <pubDate>Sun, 06 Sep 2026 19:26:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/</guid>
-      <description>The company hopes to have an even better "automated AI researcher" by March 2028.</description>
+      <title>How to use your MacBook's built-in backup tool instead of paying for cloud storage</title>
+      <link>https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/</link>
+      <pubDate>Sun, 06 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/</guid>
+      <description>If you're searching for a backup option and don't need to access your files from the cloud, you won't need to look beyond what Apple's macOS has to offer.</description>
     </item>
     <item>
-      <title>Asus ProArt GR1X&#160;: ce mini-PC profite de RTX Spark pour faire tourner vos agents IA en local 24h/24</title>
-      <link>https://www.frandroid.com/marques/asus/3235153_asus-proart-gr1x-ce-mini-pc-profite-de-rtx-spark-pour-faire-tourner-vos-agents-ia-en-local-24h-24</link>
-      <pubDate>Sun, 06 Sep 2026 19:13:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/asus/3235153_asus-proart-gr1x-ce-mini-pc-profite-de-rtx-spark-pour-faire-tourner-vos-agents-ia-en-local-24h-24</guid>
-      <description>
-&#192; l'IFA 2026, Asus a pr&#233;sent&#233; le ProArt GR1X, un mini-PC gros comme la main pens&#233; pour faire tourner un agent IA en local, 24 heures sur 24. Son argument phare : l'int&#233;gration de la puce RTX Spark de Nvidia avec, cette fois-ci, Windows 11 aux manettes.
-</description>
+      <title>Common problems with Apple Wallet and how to fix them</title>
+      <link>https://www.engadget.com/2248762/how-to-fix-common-apple-wallet-problems/</link>
+      <pubDate>Sun, 06 Sep 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2248762/how-to-fix-common-apple-wallet-problems/</guid>
+      <description>Apple Wallet and Apple Pay are great, but only if they're working properly. There are some basic troubleshooting steps when payments won't go through.</description>
+    </item>
+    <item>
+      <title>The Slate Truck is great, but this one problem may stop a lot of folks from buying it</title>
+      <link>https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/</link>
+      <pubDate>Sun, 06 Sep 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/</guid>
+      <description>Slate's build-a-truck model aims to keep costs low by only including features you'll use. But it won't be popular outside the U.S.</description>
+    </item>
+    <item>
+      <title>Get 20TB of lifetime cloud storage for $350</title>
+      <link>https://mashable.com/tech/sept-6-scramble-cloud-cloud-storage-lifetime-subscription-20tb</link>
+      <pubDate>Sun, 06 Sep 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">030vopEtoJstlNPpFlWT4mb</guid>
+      <description>Get 20TB of Scramble lifetime cloud storage for $349.95 (reg. $1,440), with end-to-end encryption, unlimited sharing and WebDAV integration.</description>
+    </item>
+    <item>
+      <title>Phil Schiller&#8217;s App Store exit reportedly driven by wariness over future plans</title>
+      <link>https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/</link>
+      <pubDate>Sun, 06 Sep 2026 21:41:06 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161062</guid>
+      <description>Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.</description>
     </item>
   </channel>
 </rss>
