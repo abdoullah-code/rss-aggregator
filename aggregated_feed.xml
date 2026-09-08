@@ -3,365 +3,134 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:55:19 GMT</lastBuildDate>
     <item>
-      <title>Zelda Ocarina of Time Switch 2 est officiel : voici o&#249; pr&#233;commander la Switch 2, le jeu et la manette</title>
-      <link>https://www.frandroid.com/bons-plans/3239259_zelda-ocarina-of-time-switch-2-est-officiel-voici-comment-le-precommander-au-meilleur-prix</link>
-      <pubDate>Tue, 08 Sep 2026 17:01:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3239259_zelda-ocarina-of-time-switch-2-est-officiel-voici-comment-le-precommander-au-meilleur-prix</guid>
+      <title>Drama swirls around OpenAI&#8217;s legendary mathematical milestone</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution</link>
+      <pubDate>2026-09-08T16:53:52-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=991710</guid>
+      <description>OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]</description>
+    </item>
+    <item>
+      <title>The Exploration Company nabs $450 million to challenge SpaceX</title>
+      <link>https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/</link>
+      <pubDate>Tue, 08 Sep 2026 20:47:34 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161299</guid>
+      <description>The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as &#8220;the largest-ever Series C by a European space company.&#8221;</description>
+    </item>
+    <item>
+      <title>Rivian apologizes for delays in shipping futuristic Also e-bikes</title>
+      <link>https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology</link>
+      <pubDate>2026-09-08T16:46:56-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=991707</guid>
+      <description>Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire system, the TM-B set itself apart with a totally unique approach to electric [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Massive data breach sees 220 million traveler records exposed &#8212; nine years of airline info leaked including passenger and passport details</title>
+      <link>https://www.techradar.com/pro/security/massive-data-breach-sees-220-million-traveler-records-exposed-nine-years-of-airline-info-leaked-including-passenger-and-passport-details</link>
+      <pubDate>Tue, 08 Sep 2026 20:40:00 +0000</pubDate>
+      <guid isPermaLink="false">8uHcVN224Fk6zmJ3KTpaSE</guid>
+      <description>A series of misconfigurations allowed researchers to access a treasure trove of sensitive data - the archive has since been locked down.</description>
+    </item>
+    <item>
+      <title>Razer&#8217;s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off</title>
+      <link>https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale</link>
+      <pubDate>2026-09-08T16:39:49-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=991653</guid>
+      <description>It&#8217;s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we&#8217;re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version is the best choice because it also supports PlayStation, PC, Nintendo [&#8230;]</description>
+    </item>
+    <item>
+      <title>ChatGPT Sketch turns your bad drawings into detailed AI images</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch</link>
+      <pubDate>2026-09-08T16:16:09-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=991727</guid>
+      <description>OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]</description>
+    </item>
+    <item>
+      <title>Muse, Meta's New Personal AI Agent, Needs You to Trust It</title>
+      <link>https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/</link>
+      <pubDate>Tue, 08 Sep 2026 20:12:51 +0000</pubDate>
+      <guid isPermaLink="false">6a9b2b6de2d6587d5e6b3c23</guid>
+      <description>Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.</description>
+    </item>
+    <item>
+      <title>South Korea, US agree on $22 billion deal for 6.3 GW Texas gas power plant &#8212; Encinal facility to feed AI data centers under Washington and Seoul's $350 billion pact</title>
+      <link>https://www.techradar.com/pro/south-korea-us-agree-on-usd22-billion-deal-for-6-3-gw-texas-gas-power-plant-encinal-facility-to-feed-ai-data-centers-under-washington-and-seouls-usd350-billion-pact</link>
+      <pubDate>Tue, 08 Sep 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Eq5cMMYKkX8MWp36S5dJFf</guid>
+      <description>South Korea reportedly plans $22.3 billion for a 6.3 GW Texas gas plant, though officials say negotiations remain unresolved</description>
+    </item>
+    <item>
+      <title>What is Roku's secret menu and how do you unlock it?</title>
+      <link>https://www.engadget.com/2251017/roku-secret-menu-how-to-unlock/</link>
+      <pubDate>Tue, 08 Sep 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2251017/roku-secret-menu-how-to-unlock/</guid>
+      <description>Roku has multiple secret menus that will allow you to make changes to how it behaves and even adjust your ad preferences.</description>
+    </item>
+    <item>
+      <title>Logitech MX Keypad : 9 touches programmables pour concurrencer le Stream Deck</title>
+      <link>https://www.frandroid.com/marques/logitech/3238921_logitech-mx-keypad-9-touches-programmables-pour-concurrencer-le-stream-deck</link>
+      <pubDate>Tue, 08 Sep 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/logitech/3238921_logitech-mx-keypad-9-touches-programmables-pour-concurrencer-le-stream-deck</guid>
       <description>
-Pour les 40 ans de la franchise The Legend of Zelda, Nintendo pr&#233;pare un remake de son &#233;pisode le plus fameux : Ocarina of Time. Apr&#232;s avoir d&#233;voil&#233; le gameplay du jeu, celui-ci est d'ores et d&#233;j&#224; disponible &#224; la pr&#233;commande.
+Vous trouvez que les Stream Deck d'Elgato n'ont pas encore assez de concurrence ? Logitech non plus, visiblement : le fabricant suisse lance le MX Keypad, un bloc de neuf touches programmables vendu 99,99 euros.
 </description>
     </item>
     <item>
-      <title>Creative Assembly says Total War: Warhammer 40,000 is designed for both newcomers and hardcore fans and teaches mechanics on a 'step-by-step basis' &#8212; 'I view the tutorial for an experienced player as kind of like an appetizer'</title>
-      <link>https://www.techradar.com/gaming/creative-assembly-says-total-war-warhammer-40-000-is-designed-for-both-newcomers-and-hardcore-fans-and-teaches-mechanics-on-a-step-by-step-basis-i-view-the-tutorial-for-an-experienced-player-as-kind-of-like-an-appetizer</link>
-      <pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NwQ3QP4QXn6ojzTCCLUCc6</guid>
-      <description>Creative Assembly has confirmed that Total War: Warhammer 40,000 will be accessible to experienced fans and first-time Total War players.</description>
+      <title>Google will 'degrade' Search in Europe to avoid EU fines</title>
+      <link>https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/</link>
+      <pubDate>Tue, 08 Sep 2026 19:40:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/</guid>
+      <description>EU users are welcome to look up the definition of "malicious compliance" on, say, DuckDuckGo.</description>
     </item>
     <item>
-      <title>L&#8217;agent IA Muse de Meta peut g&#233;rer vos mails, votre agenda et votre compte en banque pour vous</title>
-      <link>https://www.frandroid.com/marques/3238985_lagent-ia-muse-de-meta-peut-gerer-vos-mails-votre-agenda-et-votre-compte-en-banque-pour-vous</link>
-      <pubDate>Tue, 08 Sep 2026 16:59:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3238985_lagent-ia-muse-de-meta-peut-gerer-vos-mails-votre-agenda-et-votre-compte-en-banque-pour-vous</guid>
-      <description>
-Muse de Meta, l'agent IA autonome, entre en phase de b&#234;ta ferm&#233;e. L'occasion de voir ce qu'il est capable de faire, du moins en se fiant &#224; ce qui est annonc&#233;.
-</description>
+      <title>US Army drilled by senators over &#8216;deep concerns&#8217; surrounding shutdown of cutting-edge drone battalion &#8212; and the wars in Ukraine and Iran show that &#8216;back to basics&#8217; might not be a smart move</title>
+      <link>https://www.techradar.com/pro/us-army-drilled-by-senators-over-deep-concerns-surrounding-shutdown-of-cutting-edge-drone-battalion-and-the-wars-in-ukraine-and-iran-show-that-back-to-basics-might-not-be-a-smart-move</link>
+      <pubDate>Tue, 08 Sep 2026 19:25:00 +0000</pubDate>
+      <guid isPermaLink="false">6VCH5YUUuiM4K7VMf9BVFX</guid>
+      <description>Lessons from the battlefields of Ukraine may be missed if the US army disbands drone battalion, senators say.</description>
     </item>
     <item>
-      <title>It looks like Apple will finally support four HomePods in Dolby Atmos surround sound with Apple TV 4K &#8212; and it'd be a pretty good price compared to Sony's equivalent system</title>
-      <link>https://www.techradar.com/televisions/home-theater/it-looks-like-apple-will-finally-support-four-homepods-in-dolby-atmos-surround-sound-with-apple-tv-4k-and-itd-be-a-pretty-good-price-compared-to-sonys-equivalent-system</link>
-      <pubDate>Tue, 08 Sep 2026 16:56:36 +0000</pubDate>
-      <guid isPermaLink="false">a9ShksR7AVXWGZZwjGjjcX</guid>
-      <description>Apple's audioOS code reveals support for four-speaker HomePod audio, which isn't currently available in any of Apple's products</description>
+      <title>Vernal Core3 review: A rock-solid standing desk for triple-monitor setups</title>
+      <link>https://www.techradar.com/pro/vernal-core3-standing-desk-review</link>
+      <pubDate>Tue, 08 Sep 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">SP8Tdwkb3EmHwCM9UPSyXN</guid>
+      <description>The Vernal Core3 Standing Desk has smooth height adjustment, great build quality, and some great customization options</description>
     </item>
     <item>
-      <title>Voici la future puce 2nm la plus puissante d&#8217;Android : premi&#232;res images du Snapdragon 8 Gen 6 Extreme Edition de Qualcomm</title>
-      <link>https://www.frandroid.com/marques/qualcomm/3238207_voici-la-future-puce-2nm-la-plus-puissante-dandroid-premieres-images-du-snapdragon-8-gen-6-extreme-edition-de-qualcomm</link>
-      <pubDate>Tue, 08 Sep 2026 16:56:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/qualcomm/3238207_voici-la-future-puce-2nm-la-plus-puissante-dandroid-premieres-images-du-snapdragon-8-gen-6-extreme-edition-de-qualcomm</guid>
-      <description>
-Qualcomm d&#233;voilera ses nouveaux Snapdragon 8 Elite Gen 6 fin septembre, mais les fuites n'attendent pas : un leaker a partag&#233; en ligne le 6 septembre plusieurs photos de ce qui semble &#234;tre le Snapdragon 8 Gen 6 Extreme Edition.
-</description>
+      <title>Don't panic, but there's a Playdate Update Showcase tomorrow</title>
+      <link>https://www.engadget.com/2253170/dont-panic-but-theres-a-playdate-update-showcase-tomorrow/</link>
+      <pubDate>Tue, 08 Sep 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2253170/dont-panic-but-theres-a-playdate-update-showcase-tomorrow/</guid>
+      <description>A new season of Playdate games is coming, to be announced tomorrow.</description>
     </item>
     <item>
-      <title>OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul</title>
-      <link>https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/</link>
-      <pubDate>Tue, 08 Sep 2026 16:42:05 +0000</pubDate>
-      <guid isPermaLink="false">6aa019df196e8ca64468263f</guid>
-      <description>A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.</description>
+      <title>Meta bets on AI agent Muse to catch up in AI race</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race</link>
+      <pubDate>2026-09-08T15:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=991216</guid>
+      <description>Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up [&#8230;]</description>
     </item>
     <item>
-      <title>Sick of Sony killing physical games? Relive the glory days with a PlayStation 3 emulator that can play discs through your PC</title>
-      <link>https://www.techradar.com/gaming/ps3/sick-of-sony-killing-physical-games-relive-the-glory-days-with-a-playstation-3-emulator-that-can-play-discs-through-your-pc</link>
-      <pubDate>Tue, 08 Sep 2026 16:31:39 +0000</pubDate>
-      <guid isPermaLink="false">dGV3sGg56c3hGnJ63Ri2ie</guid>
-      <description>While Sony kills physical games, these modders will help you play PS3 game discs on almost any PC &#8212; or a Linux PS5 if you have one.</description>
+      <title>Meta debuts its Muse AI agent. Will consumers trust it?</title>
+      <link>https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/</link>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161372</guid>
+      <description>Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more &#8212; making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.</description>
     </item>
     <item>
-      <title>What is the purpose of LiDAR on your iPhone and how do you use it?</title>
-      <link>https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use/</link>
-      <pubDate>Tue, 08 Sep 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use/</guid>
-      <description>Some iPhone models are equipped with a LiDAR sensor, which helps the camera better interpret information about what's around you.</description>
+      <title>Meta reveals its AI agent that can shop, send emails and plan trips on your behalf</title>
+      <link>https://www.engadget.com/2253133/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/</link>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2253133/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/</guid>
+      <description>Muse, Meta's newly revealed AI agent, can perform tasks autonomously, if you trust it to do that.</description>
     </item>
     <item>
-      <title>Un moniteur OLED Samsung de 27&#8243; &#224; seulement 279 &#8364;, c&#8217;est la super offre des French Days</title>
-      <link>https://www.frandroid.com/bons-plans/3239163_un-moniteur-oled-samsung-de-27-a-seulement-279-e-cest-la-super-offre-des-french-days</link>
-      <pubDate>Tue, 08 Sep 2026 16:29:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3239163_un-moniteur-oled-samsung-de-27-a-seulement-279-e-cest-la-super-offre-des-french-days</guid>
-      <description>
-Le Samsung Odyssey OLED G5 se pr&#233;sente avec une dalle de 27 pouces, compatible avec l'AMD FreeSync et le NVIDIA G-Sync. Il poss&#232;de aussi un taux de rafra&#238;chissement de 180 Hz. Sur le site de la Fnac, il est disponible &#224; prix cass&#233; puisqu'il chute &#224; 279,99 euros.
-</description>
-    </item>
-    <item>
-      <title>How &#8216;Star Trek&#8217; helped invent the future</title>
-      <link>https://www.fastcompany.com/91603641/how-star-trek-helped-invent-the-future</link>
-      <pubDate>2026-09-08T16:22:33</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91603641/how-star-trek-helped-invent-the-future</guid>
-      <description>Sixty years after the show first aired, a number of its futuristic ideas are now part of everyday life.
-Star Trek first beamed into our lives at 8:30 p.m. on Sept. 8, 1966, and the science fiction world was never the same. The show, though canceled after just three seasons, went on to become a lasting pop culture phenomenon that has spawned an entertainment empire, with movies, spinoffs, merchandise, and a fan following that few intellectual properties can match....</description>
-    </item>
-    <item>
-      <title>Google Cloud races to catch up in the AI deployment wars with Accenture deal</title>
-      <link>https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/</link>
-      <pubDate>Tue, 08 Sep 2026 16:20:31 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161424</guid>
-      <description>Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.</description>
-    </item>
-    <item>
-      <title>Vinted en panne ce mardi : l&#8217;appli et le site affichent &#171;&#160;temporairement indisponible&#160;&#187;</title>
-      <link>https://www.frandroid.com/android/applications/3239559_vinted-en-panne-ce-mardi-lappli-et-le-site-affichent-temporairement-indisponible</link>
-      <pubDate>Tue, 08 Sep 2026 16:19:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3239559_vinted-en-panne-ce-mardi-lappli-et-le-site-affichent-temporairement-indisponible</guid>
-      <description>
-Vinted ne r&#233;pond plus depuis le milieu de l'apr&#232;s-midi ce mardi 8 septembre. Appli et site renvoient un &#233;cran &#171;&#160;temporairement indisponible&#160;&#187;, les colis attendent, et la plateforme n'a rien dit sur la cause.
-</description>
-    </item>
-    <item>
-      <title>How to watch this week's second Nintendo Direct</title>
-      <link>https://www.engadget.com/2252818/how-to-watch-this-weeks-second-nintendo-direct/</link>
-      <pubDate>Tue, 08 Sep 2026 16:18:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2252818/how-to-watch-this-weeks-second-nintendo-direct/</guid>
-      <description>After shining the spotlight on The Legend of Zelda, Nintendo will focus on other games in its second Direct for around 45 minutes.</description>
-    </item>
-    <item>
-      <title>Jeu vid&#233;o | La nouvelle version de&#160;The Legend of Zelda&#160;: Ocarina of Time sortira le 5&#160;novembre</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-09-08/jeu-video/la-nouvelle-version-de-the-legend-of-zelda-ocarina-of-time-sortira-le-5-novembre.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Tue, 08 Sep 2026 12:15:54 -0400</pubDate>
-      <guid isPermaLink="false">2073b4a7aedd3c9db6059e3f73faa388</guid>
-      <description>La tr&#232;s attendue nouvelle version du jeu vid&#233;o The Legend of Zelda&#160;: Ocarina of Time sortira le 5&#160;novembre sur Switch 2, soit deux semaines avant Grand Theft Auto&#160;VI, a annonc&#233; mardi Nintendo, &#224; l&#8217;occasion d&#8217;un direct c&#233;l&#233;brant les 40&#160;ans de la saga.</description>
-    </item>
-    <item>
-      <title>The physical edition of The Legend of Zelda: Ocarina of Time on Nintendo Switch 2 is getting limited-time 'textured foil packaging' &#8212; here's where to preorder now</title>
-      <link>https://www.techradar.com/gaming/nintendo-switch/the-physical-edition-of-the-legend-of-zelda-ocarina-of-time-on-nintendo-switch-2-is-getting-limited-textured-foil-packaging-heres-where-to-preorder-now</link>
-      <pubDate>Tue, 08 Sep 2026 16:13:15 +0000</pubDate>
-      <guid isPermaLink="false">nKUexXgHXkguywPf6y5JoQ</guid>
-      <description>Nintendo has announced that the first run of The Legend of Zelda: Ocarina of Time on Nintendo Switch 2 will ship with a special textured foil packaging &#8212; so here's where to preorder your copy if you want to add it to your collection.</description>
-    </item>
-    <item>
-      <title>Tesla Cybercab doesn&#8217;t have any manual controls &#8212; but it does have a virtual joystick</title>
-      <link>https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control</link>
-      <pubDate>2026-09-08T12:06:56-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=991400</guid>
-      <description>The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls [&#8230;]</description>
-    </item>
-    <item>
-      <title>IFA 2026&#160;: la Chine a d&#233;vor&#233; le plus grand salon tech d&#8217;Europe</title>
-      <link>https://www.01net.com/actualites/ifa-2026-la-chine-a-devore-le-plus-grand-salon-tech-deurope.html</link>
-      <pubDate>Tue, 08 Sep 2026 16:02:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1368262</guid>
-      <description>L'IFA 2026 s'ach&#232;ve sur un virage majeur : l'IA locale s'installe dans le mat&#233;riel et les constructeurs chinois s'imposent en force sur le march&#233; europ&#233;en.</description>
-    </item>
-    <item>
-      <title>The White House pulls its racist Tetris clone</title>
-      <link>https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone</link>
-      <pubDate>2026-09-08T12:00:51-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=991451</guid>
-      <description>The White House has taken down its racist Tetris ripoff days after launching a website dedicated to "arcade games," as spotted earlier by Kotaku. The Tetris clone, called "Build the Wall," involved stacking different-sized blocks to prevent a "zombie border siege." It's not clear why the White House removed the title, though the Tetris Company [&#8230;]</description>
-    </item>
-    <item>
-      <title>Here&#8217;s Samsung&#8217;s Advice for Apple and Its Upcoming Folding iPhone</title>
-      <link>https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/</link>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a99a3d36f7d62b638e2170a</guid>
-      <description>The competition is &#8220;absolutely welcome&#8221; by the pioneering Korean giant, but Samsung warns that the device&#8217;s &#8220;weight&#8221; is crucial.</description>
-    </item>
-    <item>
-      <title>How to watch Porto vs Man City: Live Streams &amp; TV Channels for Champions League 2026/27</title>
-      <link>https://www.techradar.com/how-to-watch/football/porto-vs-man-city-champions-league-2026-27</link>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">8bPNscBQFb4Bu3HTfHQMdK</guid>
-      <description>All the ways to watch Porto vs Man City live streams online, including free options, as Enzo Maresca's men aim to triumph on Matchday 1 of the Champions League.</description>
-    </item>
-    <item>
-      <title>How to watch Real Madrid vs Inter: Free Streams &amp; TV Channels for Champions League 2026/27</title>
-      <link>https://www.techradar.com/how-to-watch/football/real-madrid-vs-inter-milan-champions-league-2026-27-free</link>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">C3MPSaAPcMAnjsjqBWH8qF</guid>
-      <description>All the ways to watch Real Madrid vs Inter for free online, with Jude Bellingham and Kylian Mbappe set to star in the Champions League clash at Bernabeu.</description>
-    </item>
-    <item>
-      <title>Practical Magic 2 is truly the Hollywood sequel that shouldn't exist &#8212; there aren't enough midnight margaritas in the world to make me forget it immediately</title>
-      <link>https://www.techradar.com/streaming/entertainment/practical-magic-2-review</link>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">U5s4FWL6uSmyURAtcz7qMV</guid>
-      <description>Sandra Bullock and Nicole Kidman's return to Practical Magic 2 still can't save the sequel that's totally lost its magic &#8212; and they're far from its strongest part.</description>
-    </item>
-    <item>
-      <title>Chrome will now release updates every two weeks to better tackle security threats</title>
-      <link>https://www.engadget.com/2252455/google-chrome-updates-every-two-weeks-to-better-tackle-security-threats/</link>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2252455/google-chrome-updates-every-two-weeks-to-better-tackle-security-threats/</guid>
-      <description>Chrome will start releasing new versions of its stable browser more frequently.</description>
-    </item>
-    <item>
-      <title>What are the actual differences between cheap and expensive smart TVs?</title>
-      <link>https://www.engadget.com/2250637/cheap-vs-expensive-smart-tv-difference-between-explained/</link>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2250637/cheap-vs-expensive-smart-tv-difference-between-explained/</guid>
-      <description>Nearly any TV is suitable for 4K content, but spending more gets you a better viewing experience and several other advantages.</description>
-    </item>
-    <item>
-      <title>Analyse | Pourquoi les tribunaux peinent &#224; dompter les g&#233;ants technos</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-09-08/analyse/pourquoi-les-tribunaux-peinent-a-dompter-les-geants-technos.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">7c95c65cf304376eb922b8ea113ae723</guid>
-      <description>L&#8217;an dernier, les autorit&#233;s antitrust des &#201;tats-Unis semblaient avoir finalement pris le dessus dans leur longue campagne visant &#224; contr&#244;ler les g&#233;ants technologiques du pays.</description>
-    </item>
-    <item>
-      <title>C&#8217;est le top d&#233;part des French Days : voici les meilleures offres de cette rentr&#233;e 2026</title>
-      <link>https://www.frandroid.com/bons-plans/3235409_cest-le-top-depart-des-french-days-voici-les-meilleures-offres-de-cette-rentree-2026</link>
-      <pubDate>Tue, 08 Sep 2026 15:58:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3235409_cest-le-top-depart-des-french-days-voici-les-meilleures-offres-de-cette-rentree-2026</guid>
-      <description>
-Les French Days de la rentr&#233;e sont l&#224; ! C&#8217;est l'occasion id&#233;ale pour renouveler votre mat&#233;riel Tech si vous avez besoin d'un nouveau smartphone, d'un PC portable ou d'un t&#233;l&#233;viseur sans trop d&#233;penser. D&#233;couvrez les meilleures offres ci-dessous.
-</description>
-    </item>
-    <item>
-      <title>French Days 2026 : le top 10 des meilleurs bons plans sur les PC portables et les tablettes tactiles pour bien s&#8217;&#233;quiper &#224; la rentr&#233;e</title>
-      <link>https://www.frandroid.com/bons-plans/3236451_french-days-2026-les-9-meilleurs-bons-plans-pc-portables-et-tablettes-pour-bien-sequiper-a-la-rentree</link>
-      <pubDate>Tue, 08 Sep 2026 15:53:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3236451_french-days-2026-les-9-meilleurs-bons-plans-pc-portables-et-tablettes-pour-bien-sequiper-a-la-rentree</guid>
-      <description>
-D&#233;but septembre rime avec rentr&#233;e scolaire, mais aussi avec les French Days ! Pour s'&#233;quiper &#224; prix r&#233;duit, les sites de e-commerce redoublent de promotions sur les ordinateurs portables et les tablettes tactiles. Maintenant, voici notre s&#233;lection des meilleurs bons plans sur les laptops et les tablettes.
-</description>
-    </item>
-    <item>
-      <title>'Why does this look like it was run through DLSS 5?' &#8212; The Legend of Zelda: Ocarina of Time remake's new graphics and modernized controls are dividing fans</title>
-      <link>https://www.techradar.com/gaming/why-does-this-look-like-it-was-run-through-dlss-5-the-legend-of-zelda-ocarina-of-time-remakes-new-graphics-and-modernized-controls-are-dividing-fans</link>
-      <pubDate>Tue, 08 Sep 2026 15:47:55 +0000</pubDate>
-      <guid isPermaLink="false">MjkUbsrvAELAGVR6vBwVMk</guid>
-      <description>The first Legend of Zelda: Ocarina of Time Remake trailer, showcasing realistic graphics and modernized controls, has divided the fanbase.</description>
-    </item>
-    <item>
-      <title>Buy a cheap TV before prices rise &#8212; 9 outstanding-value 4K, Mini-LED and OLED TVs worth buying now</title>
-      <link>https://www.techradar.com/televisions/buy-a-cheap-tv-before-prices-rise-9-outstanding-value-4k-mini-led-and-oled-tvs-worth-buying-now</link>
-      <pubDate>Tue, 08 Sep 2026 15:47:17 +0000</pubDate>
-      <guid isPermaLink="false">vHGLNENMg3nPNv5EGt3m7M</guid>
-      <description>TV prices are expected to soar thanks to RAMageddon, so I've found 9 of today's best cheap TV deals on 4K, Mini-LED, and OLED TVs.</description>
-    </item>
-    <item>
-      <title>Apr&#232;s les accusations d&#8217;espionnage, LG nous explique ce que ses TV &#233;coutent vraiment</title>
-      <link>https://www.frandroid.com/marques/lg/3239473_apres-les-accusations-despionnage-lg-nous-explique-ce-que-ses-tv-ecoutent-vraiment</link>
-      <pubDate>Tue, 08 Sep 2026 15:46:52 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/lg/3239473_apres-les-accusations-despionnage-lg-nous-explique-ce-que-ses-tv-ecoutent-vraiment</guid>
-      <description>
-Apr&#232;s la publication de notre article sur l'enqu&#234;te de Gamers Nexus, LG nous a envoy&#233; par mail une d&#233;claration officielle. Le constructeur d&#233;ment tout enregistrement des conversations, mais ne dit pas un mot des failles de s&#233;curit&#233;.
-</description>
-    </item>
-    <item>
-      <title>The Atlas 1.0 Pioneer Edition is a $499 brain scanner that sits behind your ear to measure your stress, attention span and energy &#8212;and the first batch has just sold out</title>
-      <link>https://www.techradar.com/health-fitness/the-atlas-1-0-pioneer-edition-is-a-usd499-brain-scanner-that-sits-behind-your-ear-to-measure-your-stress-attention-span-and-energy-and-the-first-batch-has-just-sold-out</link>
-      <pubDate>Tue, 08 Sep 2026 15:45:27 +0000</pubDate>
-      <guid isPermaLink="false">s2B5wahhJix3wmCoZL9KKC</guid>
-      <description>The Atlas 1.0 Pioneer Edition promises research-grade brain monitoring, but pre-orders are already sold out.</description>
-    </item>
-    <item>
-      <title>Best of Gamescom 2026 &#8212; The 15 top devices and games we saw at this year&#8217;s show</title>
-      <link>https://www.techradar.com/gaming/techradar-gaming-best-of-gamescom-2026-awards</link>
-      <pubDate>Tue, 08 Sep 2026 15:45:14 +0000</pubDate>
-      <guid isPermaLink="false">jYKQuAMRV8j9cN9fnJXHgG</guid>
-      <description>The 15 biggest, most exciting, and most interesting games and hardware releases we saw at Gamescom 2026</description>
-    </item>
-    <item>
-      <title>Want a Chinese IP address? Proton VPN now offers one, unlike most rivals</title>
-      <link>https://www.techradar.com/vpn/vpn-services/want-a-chinese-ip-address-proton-vpn-now-offers-one-unlike-most-rivals</link>
-      <pubDate>Tue, 08 Sep 2026 15:43:02 +0000</pubDate>
-      <guid isPermaLink="false">rFBdkBAFVPqy2yADPxRQHf</guid>
-      <description>Proton VPN has added a China server via Smart Routing, offering a Chinese IP address, a feature only a handful of providers have. Here's what it means.</description>
-    </item>
-    <item>
-      <title>Bose QuietComfort Headphones (2e gen) : la toute nouvelle version du casque phare est d&#233;j&#224; en promo pour les French Days</title>
-      <link>https://www.frandroid.com/bons-plans/3238953_bose-quietcomfort-headphones-2e-gen-la-toute-nouvelle-version-du-casque-phare-est-deja-en-promo-pour-les-french-days</link>
-      <pubDate>Tue, 08 Sep 2026 15:42:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3238953_bose-quietcomfort-headphones-2e-gen-la-toute-nouvelle-version-du-casque-phare-est-deja-en-promo-pour-les-french-days</guid>
-      <description>
-&#192; peine sorti, d&#233;j&#224; en promotion ! Le Bose QuietComfort Headphones fait son grand retour avec une mise &#224; jour tr&#232;s attendue : support de l'audio sans perte en USB-C, audio spatial piqu&#233; au QuietComfort Ultra et finitions retravaill&#233;es. Alors qu'il vient de sortir &#224; 349,95 euros, les French Days permettent d&#233;j&#224; de faire tomber la facture &#224; 329 euros gr&#226;ce &#224; un simple code promo.
-...</description>
-    </item>
-    <item>
-      <title>Samsung OLED, Neo QLED, Mini LED et Micro RGB : les prix de ces 4 t&#233;l&#233;viseurs premium baissent, &#224; partir de 569 euros [Sponso]</title>
-      <link>https://www.frandroid.com/produits-android/tv-connectee-produits/3216117_samsung-oled-neo-qled-mini-led-et-micro-rgb-les-prix-de-ces-4-televiseurs-premium-baissent-a-partir-de-569-euros</link>
-      <pubDate>Tue, 08 Sep 2026 15:39:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/tv-connectee-produits/3216117_samsung-oled-neo-qled-mini-led-et-micro-rgb-les-prix-de-ces-4-televiseurs-premium-baissent-a-partir-de-569-euros</guid>
-      <description>
-T&#233;l&#233;viseurs Samsung OLED, Neo QLED, Mini LED et Micro RGB : Darty ne fait pas de diff&#233;rences lorsqu'il s'agit de baisser les prix pour la rentr&#233;e. 
-</description>
-    </item>
-    <item>
-      <title>'Great for homes and small businesses': We awarded Ugreen's elegant four-bay DH4300 Plus NAS a 4-star review, and now it's been reduced to just $374 at Amazon</title>
-      <link>https://www.techradar.com/pro/great-for-homes-and-small-businesses-we-awarded-ugreens-elegant-four-bay-dh4300-plus-nas-a-4-star-review-and-now-its-been-reduced-to-just-usd374-at-amazon</link>
-      <pubDate>Tue, 08 Sep 2026 15:36:37 +0000</pubDate>
-      <guid isPermaLink="false">SNMZXH3J82AAfrWJcHghyc</guid>
-      <description>We found this beginner-friendly NAS device perfect for home office and small businesses. Build your own private cloud with this Ugreen four-bay DH4300 Plus NAS.</description>
-    </item>
-    <item>
-      <title>Nouveau patron, iPhone Duo, Mac tactile : pourquoi cette keynote Apple compte</title>
-      <link>https://www.frandroid.com/marques/apple/3234903_nouveau-patron-iphone-pliable-pourquoi-cette-keynote-apple-compte</link>
-      <pubDate>Tue, 08 Sep 2026 15:36:02 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3234903_nouveau-patron-iphone-pliable-pourquoi-cette-keynote-apple-compte</guid>
-      <description>
-Apple tient sa keynote le 9 septembre &#224; 19 heures. Premier iPhone pliable, nouveau patron&#160;: cette &#233;dition compte vraiment.
-</description>
-    </item>
-    <item>
-      <title>Microsoft 365 users hit by two major threat campaigns - fake IT calls and phishing emails target users across the world</title>
-      <link>https://www.techradar.com/pro/security/microsoft-365-users-hit-by-two-major-threat-campaigns-fake-it-calls-and-phishing-emails-target-users-across-the-world</link>
-      <pubDate>Tue, 08 Sep 2026 15:35:00 +0000</pubDate>
-      <guid isPermaLink="false">C6BxVw2HaDLYXxNeeyT4HQ</guid>
-      <description>BigBear 2.0 and PREY-0058 are wreaking havoc across businesses as they scam employees into handing over login credentials and MFA codes.</description>
-    </item>
-    <item>
-      <title>Apple ach&#232;te Sonera, pourtant la start-up n&#8217;avait jamais sorti le moindre produit</title>
-      <link>https://www.frandroid.com/produits-android/accessoires-objets-connectes/3239453_apple-achete-sonera-pourtant-la-start-up-navait-jamais-sorti-le-moindre-produit</link>
-      <pubDate>Tue, 08 Sep 2026 15:31:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/accessoires-objets-connectes/3239453_apple-achete-sonera-pourtant-la-start-up-navait-jamais-sorti-le-moindre-produit</guid>
-      <description>
-Un avis publi&#233; par la Commission europ&#233;enne r&#233;v&#232;le qu'Apple a rachet&#233; Sonera plus t&#244;t cette ann&#233;e. Cette start-up californienne d&#233;veloppe une puce capable de lire l'activit&#233; des muscles et du cerveau via leurs champs magn&#233;tiques, sans &#233;lectrode coll&#233;e sur la peau.
-</description>
-    </item>
-    <item>
-      <title>Apple Watch GPS vs GPS + Cellular: What's the difference?</title>
-      <link>https://www.engadget.com/2250612/apple-watch-vs-gps-plus-cellular-difference-between/</link>
-      <pubDate>Tue, 08 Sep 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2250612/apple-watch-vs-gps-plus-cellular-difference-between/</guid>
-      <description>Some Apple Watch models give you the ability to stay connected even when you're away from your phone. But is it worth the cost?</description>
-    </item>
-    <item>
-      <title>Why quantum computing stocks are soaring today while the rest of the market falls</title>
-      <link>https://www.fastcompany.com/91603527/why-quantum-computing-stocks-are-soaring-today-while-the-rest-of-the-market-falls</link>
-      <pubDate>2026-09-08T15:30:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91603527/why-quantum-computing-stocks-are-soaring-today-while-the-rest-of-the-market-falls</guid>
-      <description>Rigetti, D-Wave, IonQ and other quantum stocks are jumping after the U.S. government finalized major investments in the emerging technology.
-Shares in the five most prominent quantum computing companies are rising today despite a larger market pullback. The stock price jump in the companies controlling the nascent technology comes after three of the companies secured hundreds of millions in funding from the US government. Here&#8217;s what you need to know....</description>
-    </item>
-    <item>
-      <title>Google&#8217;s revived nuclear power plant gets $1.9B loan from US government</title>
-      <link>https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/</link>
-      <pubDate>Tue, 08 Sep 2026 15:25:35 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161375</guid>
-      <description>Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.</description>
-    </item>
-    <item>
-      <title>Envie d&#8217;un nouveau TV 4K avant la sortie de GTA 6 ? Voici les meilleures offres des French Days</title>
-      <link>https://www.frandroid.com/bons-plans/3235817_envie-dun-nouveau-tv-4k-avant-la-sortie-de-gta-6-voici-les-meilleures-offres-des-french-days</link>
-      <pubDate>Tue, 08 Sep 2026 15:23:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3235817_envie-dun-nouveau-tv-4k-avant-la-sortie-de-gta-6-voici-les-meilleures-offres-des-french-days</guid>
-      <description>
-Plus que deux mois avant la sortie de GTA 6, la prochaine p&#233;pite vid&#233;oludique de Rockstar qui promet d'&#234;tre visuellement saisissante. Besoin de changer de TV pour un mod&#232;le qui en met plein les yeux pour cette occasion ? Pendant les French Days, les e-commer&#231;ants cassent les prix des &#233;crans les plus r&#233;cents.
-</description>
-    </item>
-    <item>
-      <title>The Alienware AW3926QW is a 5K2K 39-inch OLED beast... and probably the best gaming monitor I've ever experienced</title>
-      <link>https://www.techradar.com/computing/monitors/alienware-aw3926qw</link>
-      <pubDate>Tue, 08 Sep 2026 15:18:51 +0000</pubDate>
-      <guid isPermaLink="false">hxEtad6aHzE36cGBAhoJ6</guid>
-      <description>The 39-inch 5K2K Alienware AW3926QW is probably the best OLED gaming monitor yet, but it does have one pesky problem.</description>
-    </item>
-    <item>
-      <title>Proton VPN sign-ups soar in Vietnam as stringent new cyberlaw takes effect</title>
-      <link>https://www.techradar.com/vpn/vpn-services/proton-vpn-sign-ups-soar-in-vietnam-as-stringent-new-cyberlaw-takes-effect</link>
-      <pubDate>Tue, 08 Sep 2026 15:14:39 +0000</pubDate>
-      <guid isPermaLink="false">8x94qShnxs8MipwKPpguWE</guid>
-      <description>Following the rollout of a tough new cybersecurity law in Vietnam, Proton VPN has reported a massive 450% spike in user registrations. Here's why internet freedom in the country is under pressure.</description>
-    </item>
-    <item>
-      <title>Nintendo is releasing a 40th anniversary Legend of Zelda Switch 2 on October 29</title>
-      <link>https://www.engadget.com/2252681/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/</link>
-      <pubDate>Tue, 08 Sep 2026 15:10:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2252681/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/</guid>
-      <description>No, the Zelda anniversary edition Switch 2 doesn't come with a copy of Ocarina of Time.</description>
-    </item>
-    <item>
-      <title>FRITZ! r&#233;invente sa box apr&#232;s 40 ans, et vend enfin en direct en France</title>
-      <link>https://www.frandroid.com/produits-android/maison-connectee/routeur/3239111_fritz-reinvente-sa-box-apres-40-ans-et-vend-enfin-en-direct-en-france</link>
-      <pubDate>Tue, 08 Sep 2026 15:09:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/routeur/3239111_fritz-reinvente-sa-box-apres-40-ans-et-vend-enfin-en-direct-en-france</guid>
-      <description>
-FRITZ! pr&#233;sente &#224; l'IFA 2026 (du 4 au 8 septembre) sa nouvelle g&#233;n&#233;ration de FRITZ!Box, la DSL/Fiber 7-90, avec un bo&#238;tier repens&#233;, du Wi-Fi 7 tri-bande et la fibre GPON int&#233;gr&#233;e. En Allemagne, c'est un &#233;v&#233;nement national. En France, &#231;a reste un objet de niche, et la raison tient moins au produit qu'&#224; nos op&#233;rateurs.
-</description>
+      <title>Canada | Les dangers en ligne constituent d&#233;sormais la principale menace pour les enfants</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-09-08/canada/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Tue, 08 Sep 2026 14:59:56 -0400</pubDate>
+      <guid isPermaLink="false">4fcad3942a823e3aa1fb6a907a340b75</guid>
+      <description>Les dangers en ligne constituent d&#233;sormais la principale menace &#224; laquelle sont confront&#233;s les enfants au Canada, devant l&#8217;intimidation, la pauvret&#233; et la maltraitance, a d&#233;clar&#233; mardi l&#8217;organisation Les enfants d&#8217;abord Canada dans un nouveau rapport.</description>
     </item>
   </channel>
 </rss>
