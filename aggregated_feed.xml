@@ -3,103 +3,126 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 13 Sep 2026 15:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:39:09 GMT</lastBuildDate>
     <item>
-      <title>iPhone 18 Pro : un d&#233;marrage lent, quatre explications possibles</title>
-      <link>https://www.frandroid.com/marques/apple/3245867_iphone-18-pro-un-demarrage-lent-quatre-explications-possibles</link>
-      <pubDate>Sun, 13 Sep 2026 15:38:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3245867_iphone-18-pro-un-demarrage-lent-quatre-explications-possibles</guid>
+      <title>Apple is reportedly working on iPhone game controllers</title>
+      <link>https://www.theverge.com/tech/994426/apple-iphone-game-controllers</link>
+      <pubDate>2026-09-13T14:30:16-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=994426</guid>
+      <description>Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party [&#8230;]...</description>
+    </item>
+    <item>
+      <title>What's the difference between AppleCare+ and AppleCare One?</title>
+      <link>https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/</link>
+      <pubDate>Sun, 13 Sep 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/</guid>
+      <description>Should you get AppleCare+ or AppleCare One? We explain the difference in this post.</description>
+    </item>
+    <item>
+      <title>Ces com&#232;tes autour d&#8217;une jeune &#233;toile pourraient r&#233;v&#233;ler comment l&#8217;eau est arriv&#233;e sur Terre</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/espace-ces-cometes-autour-jeune-etoile-pourraient-reveler-eau-arrivee-terre-137591/#xtor%3DRSS-8</link>
+      <pubDate>Sun, 13 Sep 2026 20:07:17 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/espace-ces-cometes-autour-jeune-etoile-pourraient-reveler-eau-arrivee-terre-137591/#xtor%3DRSS-8</guid>
+      <description>&#192; seulement 370 ann&#233;es-lumi&#232;re, un jeune syst&#232;me stellaire pourrait offrir un aper&#231;u de ce qui s&#8217;est jou&#233; aux d&#233;buts de notre Syst&#232;me solaire. Des indices y trahissent peut-&#234;tre le passage de com&#232;tes qui plongent vers l&#8217;&#233;toile, potentiellement d&#233;vi&#233;es par ses plan&#232;tes g&#233;antes. Un sc&#233;nario qui...</description>
+    </item>
+    <item>
+      <title>Apple's rumored gaming controller for iPhone could feature Beats branding</title>
+      <link>https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/</link>
+      <pubDate>Sun, 13 Sep 2026 18:02:36 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/</guid>
+      <description>Bloomberg's Mark Gurman said there are two gaming controllers in the works.</description>
+    </item>
+    <item>
+      <title>What is the release date for Neagley on Prime Video?</title>
+      <link>https://www.techradar.com/streaming/amazon-prime-video/neagley-release-date-time</link>
+      <pubDate>Sun, 13 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">43uKWVxMD8NNtvLid6WCBY</guid>
+      <description>While Reacher season 4 ends, spin-off Neagley is set to take its place. So, when will it arrive on Prime Video?</description>
+    </item>
+    <item>
+      <title>Stop wasting your Wi-Fi router's USB port &#8212; try this instead</title>
+      <link>https://www.engadget.com/2252851/wifi-router-usb-port-explained/</link>
+      <pubDate>Sun, 13 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2252851/wifi-router-usb-port-explained/</guid>
+      <description>If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options.</description>
+    </item>
+    <item>
+      <title>Test de la Paperslate Pro : une tablette E-Ink prometteuse mais frein&#233;e par ses propres lenteurs</title>
+      <link>https://www.frandroid.com/test/3170433_test-de-la-paperslate-pro-une-tablette-e-ink-prometteuse-mais-freinee-par-ses-propres-lenteurs</link>
+      <pubDate>Sun, 13 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/test/3170433_test-de-la-paperslate-pro-une-tablette-e-ink-prometteuse-mais-freinee-par-ses-propres-lenteurs</guid>
       <description>
-Une heure apr&#232;s l'ouverture des pr&#233;commandes ce samedi 12 septembre, aucune configuration de l'iPhone 18 Pro n'affichait de d&#233;lai aux &#201;tats-Unis, et seuls quelques Pro Max glissaient vers octobre. Un d&#233;marrage inhabituel pour Apple, qui s'explique par au moins quatre facteurs, dont un iPhone Duo qui attend son tour.
+La Paperslate Pro est un bloc-notes num&#233;rique &#224; encre &#233;lectronique, pens&#233; pour remplacer le bon vieux carnet papier, sans les distractions d'une tablette classique. Nous l'avons mise &#224; l'&#233;preuve : que vaut cette proposition sur un march&#233; tr&#232;s concurrentiel ?
 </description>
     </item>
     <item>
-      <title>If your laptop trackpad is popping out, stop using it immediately</title>
-      <link>https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/</link>
-      <pubDate>Sun, 13 Sep 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/</guid>
-      <description>Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention.</description>
-    </item>
-    <item>
-      <title>Ce chargeur &#224; induction 2-en-1 est &#224; moiti&#233; prix sur &#224; Amazon pendant les French Days</title>
-      <link>https://www.frandroid.com/bons-plans/3245039_ce-chargeur-a-induction-2-en-1-est-a-moitie-prix-sur-a-amazon-pendant-les-french-days</link>
-      <pubDate>Sun, 13 Sep 2026 15:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3245039_ce-chargeur-a-induction-2-en-1-est-a-moitie-prix-sur-a-amazon-pendant-les-french-days</guid>
+      <title>Revolut confirme avoir transmis passeports, selfies et historiques bitcoin de clients &#224; des escrocs usurpant une agence gouvernementale</title>
+      <link>https://www.frandroid.com/services/banque-en-ligne/3245871_revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoin-de-clients-a-des-escrocs-usurpant-une-agence-gouvernementale</link>
+      <pubDate>Sun, 13 Sep 2026 17:56:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/services/banque-en-ligne/3245871_revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoin-de-clients-a-des-escrocs-usurpant-une-agence-gouvernementale</guid>
       <description>
-Avec son support inclinable, le BoostCharge de Belkin ne se contente pas d'&#234;tre un simple chargeur &#224; induction puisqu'il peut se transformer en support pour regarder des vid&#233;os. Sur Amazon, il devient tr&#232;s attractif puisqu'il passe sous les 25 euros.
+Revolut a remis passeports, selfies et historiques de transactions de certains clients &#224; un inconnu qui &#233;crivait depuis une vraie adresse gouvernementale.
 </description>
     </item>
     <item>
-      <title>Vous pensiez parler &#224; DeepSeek et Kimi, c&#8217;&#233;tait peut-&#234;tre Claude&#160;: les r&#233;v&#233;lations d&#8217;Anthropic</title>
-      <link>https://www.01net.com/actualites/vous-pensiez-parler-a-deepseek-et-kimi-cetait-peut-etre-claude-les-revelations-danthropic.html</link>
-      <pubDate>Sun, 13 Sep 2026 15:22:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1369105</guid>
-      <description>Sept labos chinois, pr&#232;s de 200 millions d'&#233;changes d&#233;tourn&#233;s, et des utilisateurs de Kimi ou de DeepSeek qui parlaient sans le savoir au mod&#232;le d'un concurrent am&#233;ricain. Le rapport d'Anthropic se lit comme un polar industriel, &#224; charge.</description>
+      <title>The Units&#8217; Digital Stimulation is synthpunk perfection</title>
+      <link>https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review</link>
+      <pubDate>2026-09-13T13:36:10-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=994415</guid>
+      <description>The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock [&#8230;]</description>
     </item>
     <item>
-      <title>Anthropic 'formalizes' Fermat's Last Theorem like never before using Claude &#8212; but it still took 11 days to write out</title>
-      <link>https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out</link>
-      <pubDate>Sun, 13 Sep 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">hE744EZj9fSLBCLj2CY9JP</guid>
-      <description>Anthropic says Claude formalized Andrew Wiles&#8217; proof of Fermat&#8217;s Last Theorem in 11 days, producing 13 million lines of Lean code.</description>
+      <title>Car manufacturers are ditching CarPlay in 2026: Here's why</title>
+      <link>https://www.engadget.com/2252850/why-car-manufacturers-ditching-carplay-explained/</link>
+      <pubDate>Sun, 13 Sep 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2252850/why-car-manufacturers-ditching-carplay-explained/</guid>
+      <description>CarPlay lets you bypass your car's lousy infotainment system, but some manufacturers have decided they don't want you doing that anymore.</description>
     </item>
     <item>
-      <title>Le jeune Soleil aurait peut-&#234;tre aval&#233; une plan&#232;te g&#233;ante : voici ce que les mod&#232;les sugg&#232;rent</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/soleil-jeune-soleil-aurait-peut-etre-avale-planete-geante-voici-ce-modeles-suggerent-137690/#xtor%3DRSS-8</link>
-      <pubDate>Sun, 13 Sep 2026 17:01:42 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/soleil-jeune-soleil-aurait-peut-etre-avale-planete-geante-voici-ce-modeles-suggerent-137690/#xtor%3DRSS-8</guid>
-      <description>Et si le Soleil conservait encore la trace d&#8217;une plan&#232;te disparue ? Une nouvelle &#233;tude sugg&#232;re qu&#8217;au tout d&#233;but de son histoire, notre &#233;toile aurait pu engloutir une super-Terre de plusieurs fois la masse de notre Plan&#232;te. Un &#233;v&#233;nement qui pourrait expliquer certaines anomalies observ&#233;es...</description>
+      <title>There's a sneaky way to watch US Open Men's Final for free &#8212; stream Zverev vs Shelton</title>
+      <link>https://www.techradar.com/how-to-watch/sneaky-way-to-watch-2026-us-open-men-final-free</link>
+      <pubDate>Sun, 13 Sep 2026 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">ZSjZMbsHzjiNJQtNhZSEyP</guid>
+      <description>We've found a sneaky way to stream the US Open men's final between Alexander Zverev and Ben Shelton for free from anywhere in the world.</description>
     </item>
     <item>
-      <title>How to watch Zverev vs Shelton: US Open 2026 Men's Final Live Streams for FREE, TV Channels</title>
-      <link>https://www.techradar.com/how-to-watch/tennis/zverev-vs-shelton-us-open-2026-mens-final-free</link>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">DEfMZU7yatV2bDMqHVnrDd</guid>
-      <description>All the ways to watch Zverev vs Shelton live streams online in the US Open 2026 men's final from anywhere in the world, including FREE options.</description>
+      <title>Anduril teams up with the Polish government to start work on an all-new cruise missile to combat Russian threats</title>
+      <link>https://www.techradar.com/pro/anduril-teams-up-with-the-polish-government-to-start-work-on-an-all-new-cruise-missile-to-combat-russian-threats</link>
+      <pubDate>Sun, 13 Sep 2026 17:05:00 +0000</pubDate>
+      <guid isPermaLink="false">c8ZkAhyjwat74sExpTyHuL</guid>
+      <description>Anduril and Poland's PGZ plan local Barracuda 500M production, while Fury and Thunder face separate discussions surrounding Poland's future aircraft fleets.</description>
     </item>
     <item>
-      <title>Even Realities G2 smart glasses show the limits of speaker- and camera-free frames</title>
-      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/even-realities-g2-review</link>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">bk8mXWsVMSfoVuZSKT3CNK</guid>
-      <description>In our increasingly privacy-focused tech culture, Even Realities G2 Smart Glasses get credit for not having a camera, but these frames don't bring enough to the table to justify their high price and lack of key features.</description>
-    </item>
-    <item>
-      <title>Are Apple's wired EarPods still worth buying?</title>
-      <link>https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/</link>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/</guid>
-      <description>Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price).</description>
-    </item>
-    <item>
-      <title>Here's what you can use instead of a docking station</title>
-      <link>https://www.engadget.com/2252831/what-use-instead-of-docking-station/</link>
-      <pubDate>Sun, 13 Sep 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2252831/what-use-instead-of-docking-station/</guid>
-      <description>If you only need ports for a few low-power peripherals or a single external monitor, you may not need a docking station at all.</description>
-    </item>
-    <item>
-      <title>Waymo pulls over, calls cops on riders with a ghost gun</title>
-      <link>https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun</link>
-      <pubDate>2026-09-13T10:28:12-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=994405</guid>
-      <description>Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the [&#8230;]</description>
-    </item>
-    <item>
-      <title>Elle ressemble &#224; une Porsche, co&#251;te 27 000 &#8364; et tourne sous Huawei : on a conduit l&#8217;Aistaland GT7 &#233;lectrique en Chine</title>
-      <link>https://www.frandroid.com/marques/huawei/3219313_elle-ressemble-a-une-porsche-coute-27-000-e-et-tourne-sous-huawei-on-a-conduit-laistaland-gt7-electrique-en-chine</link>
-      <pubDate>Sun, 13 Sep 2026 14:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/huawei/3219313_elle-ressemble-a-une-porsche-coute-27-000-e-et-tourne-sous-huawei-on-a-conduit-laistaland-gt7-electrique-en-chine</guid>
+      <title>Ce nouveau puissant robot-aspirateur de Roborock avec lavage &#224; 100 &#176;C perd 500 &#8364; lors des French Days</title>
+      <link>https://www.frandroid.com/bons-plans/3244843_ce-nouveau-puissant-robot-aspirateur-de-roborock-avec-lavage-a-100-c-perd-500-e-lors-des-french-days</link>
+      <pubDate>Sun, 13 Sep 2026 17:04:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3244843_ce-nouveau-puissant-robot-aspirateur-de-roborock-avec-lavage-a-100-c-perd-500-e-lors-des-french-days</guid>
       <description>
-Aistaland n&#8217;est pas une marque sortie de nulle part, d&#8217;abord d&#233;voil&#233;e sous le nom Qijing, cette nouvelle griffe est n&#233;e du rapprochement entre la Guangzhou Automobile Company et Huawei. Un nouveau joueur qui est donc support&#233; par deux g&#233;ants et dont le design du premier v&#233;hicule s&#8217;inspire largement d&#8217;un mod&#232;le du constructeur de Zuffenhausen
+Le Roborock Saros 20 Neo est un aspirateur-robot complet avec 36 000 Pa d'aspiration, deux serpilli&#232;res pour le lavage des sols et une station d'entretien. En ce moment, il est disponible pour moins de 800 euros.
 </description>
     </item>
     <item>
-      <title>How to set up HDMI-CEC on your Samsung TV</title>
-      <link>https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/</link>
-      <pubDate>Sun, 13 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/</guid>
-      <description>HDMI-CEC, or Anynet+ on Samsung TVs, lets you control all your devices with fewer remotes and button presses. It's well worth setting up properly.</description>
+      <title>Quelle imprimante 3D choisir pour d&#233;buter ? Notre s&#233;lection en 2026</title>
+      <link>https://www.frandroid.com/guide-dachat/2385364_quelle-imprimante-3d-choisir-pour-debuter-notre-selection</link>
+      <pubDate>Sun, 13 Sep 2026 17:00:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/2385364_quelle-imprimante-3d-choisir-pour-debuter-notre-selection</guid>
+      <description>
+L'impression 3D a longtemps &#233;t&#233; r&#233;serv&#233;e aux passionn&#233;s et aux d&#233;brouillards. Le march&#233; a pris le temps de m&#251;rir, pour enfin offrir des produits accessibles au plus grand nombre. Voici notre s&#233;lection des meilleures imprimantes 3D pour les d&#233;butants. 
+</description>
+    </item>
+    <item>
+      <title>I test 4K Blu-ray for a living and these are the 5 discs I'm most looking forward to in September 2026, including 'one of the most curious 4K releases I've seen'</title>
+      <link>https://www.techradar.com/televisions/blu-ray/i-test-4k-blu-ray-for-a-living-and-these-are-the-5-discs-im-most-looking-forward-to-in-september-2026-including-one-of-the-most-curious-4k-releases-ive-seen</link>
+      <pubDate>Sun, 13 Sep 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">VvbWrRb6nuVRbTFgPoRTLf</guid>
+      <description>September means new 4K Blu-rays, and I've picked my top 5 discs I'm most looking forward to testing.</description>
+    </item>
+    <item>
+      <title>The new AirPods 5 are available to preorder at Walmart &#8212; and you can save on older models starting at just $19</title>
+      <link>https://www.techradar.com/audio/earbuds-airpods/the-new-airpods-5-are-available-to-preorder-at-walmart-and-you-can-save-on-older-models-starting-at-just-usd19</link>
+      <pubDate>Sun, 13 Sep 2026 16:47:41 +0000</pubDate>
+      <guid isPermaLink="false">3nEBkBrwyUD3qfnxJyMup8</guid>
+      <description>Walmart has Apple's AirPods 5 available for preorder, and you can also find deals on older models, including AirPods 4, AirPods Pro 3, and Apple Earbuds, starting at $19.</description>
     </item>
   </channel>
 </rss>
