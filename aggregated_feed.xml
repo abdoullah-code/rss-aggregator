@@ -3,102 +3,126 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 21 Sep 2026 20:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:56:24 GMT</lastBuildDate>
     <item>
-      <title>Services num&#233;riques | Carney dit &#171;&#160;non&#160;&#187; au r&#233;tablissement de la taxe</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-09-21/services-numeriques/carney-dit-non-au-retablissement-de-la-taxe.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Mon, 21 Sep 2026 16:35:13 -0400</pubDate>
-      <guid isPermaLink="false">c262626187bf3285b17b730136424756</guid>
-      <description>Le gouvernement Carney &#233;carte l&#8217;id&#233;e de r&#233;tablir la taxe sur les services num&#233;riques, m&#234;me s&#8217;il entend conclure une &#171;&#160;alliance unique&#160;&#187; avec l&#8217;Union europ&#233;enne &#8211; un partenaire qui pr&#233;conise la ligne dure envers les g&#233;ants du web comme Meta, Google et Amazon.</description>
+      <title>A cut cable disrupted hundreds of flights across the US</title>
+      <link>https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us</link>
+      <pubDate>2026-09-21T19:48:56-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=998550</guid>
+      <description>Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing [&#8230;]...</description>
     </item>
     <item>
-      <title>California tightens rules on AI data center energy and water use</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
-      <pubDate>2026-09-21T16:29:45-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=998453</guid>
-      <description>California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&#8230;]...</description>
+      <title>The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping</title>
+      <link>https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/</link>
+      <pubDate>Mon, 21 Sep 2026 23:44:28 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167267</guid>
+      <description>Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.</description>
     </item>
     <item>
-      <title>OpenAI forms math advisory group as its AI resolves more than 100 open problems</title>
-      <link>https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/</link>
-      <pubDate>Mon, 21 Sep 2026 20:15:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167174</guid>
-      <description>The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.</description>
+      <title>These drones could cover up to 98 percent of the world's oceans by 2028</title>
+      <link>https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/</link>
+      <pubDate>Mon, 21 Sep 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/</guid>
+      <description>New ocean-sensing drones are being built to withstand the deepest depths of the ocean.</description>
     </item>
     <item>
-      <title>1.58-million-staff Amazon will soon have more Nvidia GPUs than employees &#8212; AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200</title>
-      <link>https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200</link>
-      <pubDate>Mon, 21 Sep 2026 20:15:00 +0000</pubDate>
-      <guid isPermaLink="false">tn7H9AUPJfCVUteKAz3yLP</guid>
-      <description>Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.</description>
+      <title>Researchers can make headphones leak audio through a wall, but the 30-meter claim has a few caveats</title>
+      <link>https://www.techradar.com/pro/security/researchers-can-make-headphones-leak-audio-through-a-wall-but-the-30-meter-claim-has-a-few-caveats</link>
+      <pubDate>Mon, 21 Sep 2026 23:20:00 +0000</pubDate>
+      <guid isPermaLink="false">C9VZczcuq5MFFvrjVaUUCf</guid>
+      <description>Encryption can't stop InjectEave because the audio leaks after it's been decoded, but it does have its limitations.</description>
     </item>
     <item>
-      <title>0 &#8364; de facture d&#8217;&#233;lectricit&#233; pendant 10 ans : l&#8217;incroyable projet d&#8217;Octopus Energy pr&#232;s de Rennes</title>
-      <link>https://www.frandroid.com/survoltes/energie/3254911_0-e-de-facture-delectricite-pendant-10-ans-lincroyable-projet-doctopus-energy-pres-de-rennes</link>
-      <pubDate>Mon, 21 Sep 2026 20:02:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3254911_0-e-de-facture-delectricite-pendant-10-ans-lincroyable-projet-doctopus-energy-pres-de-rennes</guid>
-      <description>
-&#199;a vous dirait de vivre dans une maison enti&#232;rement neuve et de ne pas payer un seul centime d'&#233;lectricit&#233; pour les 10 prochaines ann&#233;es ? Sachez que c'est possible, mais qu'il va falloir d&#233;m&#233;nager au sud de Rennes. Octopus Energy s'appr&#234;te &#224; construire 100 maisons qui n'auront pas de facture &#224; payer. 
-</description>
+      <title>Amazon wants to help the Colorado River, but we still don&#8217;t know how much water the company uses</title>
+      <link>https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river</link>
+      <pubDate>2026-09-21T19:15:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=998539</guid>
+      <description>Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water [&#8230;]</description>
     </item>
     <item>
-      <title>Does your iPhone's Safari browser privacy features actually make you safer?</title>
-      <link>https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe/</link>
-      <pubDate>Mon, 21 Sep 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe/</guid>
-      <description>Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything.</description>
+      <title>Quordle hints and answers for Tuesday, September 22 (game #1702)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-22-september-2026</link>
+      <pubDate>Mon, 21 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7ybxhnePM6Fw9a34a3XXta</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
     <item>
-      <title>Trump&#8217;s new &#8216;AI Force&#8217; comes at a pivotal moment for artificial intelligence</title>
-      <link>https://www.fastcompany.com/91610410/trumps-new-ai-force-comes-at-a-pivotal-moment-for-artificial-intelligence</link>
-      <pubDate>2026-09-21T20:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91610410/trumps-new-ai-force-comes-at-a-pivotal-moment-for-artificial-intelligence</guid>
-      <description>Trump says he&#8217;ll appoint an &#8220;AI tsar&#8221; and keep America&#8217;s AI industry moving quickly, but his announcement left key details unanswered.
-Executives began ringing alarm bells about possible doomsday scenarios this month, but until now, Trump wasn&#8217;t worried.</description>
+      <title>NYT Connections hints and answers for Tuesday, September 22 (game #1199)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-22-september-2026</link>
+      <pubDate>Mon, 21 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">SGVYQZScpZkw7vSRbn5E6g</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>The EU will force data centers to disclose their energy and water use</title>
-      <link>https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/</link>
-      <pubDate>Mon, 21 Sep 2026 19:53:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/</guid>
-      <description>The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards.</description>
+      <title>NYT Strands hints and answers for Tuesday, September 22 (game #933)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-22-september-2026</link>
+      <pubDate>Mon, 21 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fyrNNAxh9Zfr7q3CdowWid</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
-      <title>X now tells users when local laws have reduced their posts' visibility</title>
-      <link>https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/</link>
-      <pubDate>Mon, 21 Sep 2026 19:44:35 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/</guid>
-      <description>The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.</description>
+      <title>How to turn your old Windows PC into a Chromebook for free</title>
+      <link>https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free/</link>
+      <pubDate>Mon, 21 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free/</guid>
+      <description>Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was.</description>
     </item>
     <item>
-      <title>150 &#8364; &#224; l&#8217;achat, 300 &#8364; d&#8217;&#233;conomies par an : pourquoi le routeur solaire bat toutes les batteries</title>
-      <link>https://www.frandroid.com/survoltes/energie/3253557_50-e-a-lachat-300-e-deconomies-par-an-pourquoi-le-routeur-solaire-bat-toutes-les-batteries</link>
-      <pubDate>Mon, 21 Sep 2026 19:38:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3253557_50-e-a-lachat-300-e-deconomies-par-an-pourquoi-le-routeur-solaire-bat-toutes-les-batteries</guid>
-      <description>
-Quand on a des panneaux solaires, il n'y a rien de plus rageant que d'injecter gratuitement son surplus de production d'&#233;lectricit&#233; sur le r&#233;seau d'Enedis. Pour pallier cela, il existe une solution facile &#224; installer, et bien moins ch&#232;re qu'une batterie : le routeur solaire. 
-</description>
+      <title>The internet is arguing about Gen Zers bringing this  to job interviews</title>
+      <link>https://www.fastcompany.com/91610502/the-internet-is-arguing-about-gen-z-bringing-this-to-job-interviews</link>
+      <pubDate>2026-09-21T23:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91610502/the-internet-is-arguing-about-gen-z-bringing-this-to-job-interviews</guid>
+      <description>One social media recruiter talked about Gen Z applicants bringing an iced latte to an interview&#8212;now the internet is divided.
+Millennials got raked over the coals for their avocado toast. Now, Gen Z job seekers are being castigated by online recruiters and the rest of the internet for their iced lattes.</description>
     </item>
     <item>
-      <title>&#171; El Ni&#241;o nous surprend par sa force &#187; : ce que Sentinel-3 voit changer sur Terre depuis dix ans</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/#xtor%3DRSS-8</link>
-      <pubDate>Mon, 21 Sep 2026 21:27:32 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/#xtor%3DRSS-8</guid>
-      <description>Lanc&#233; le 15 septembre 2026 depuis le Centre spatial guyanais, Sentinel-3C vient consolider une mission d'observation lanc&#233;e il y a dix ans, en 2016, avec Sentinel-3A. Retour sur une d&#233;cennie de donn&#233;es climatiques et oc&#233;aniques, et aper&#231;u de la mission qui prendra sa suite, S3NGO, avec Milen...</description>
+      <title>Dropouts Game Changer finale: Sam Reich reveals the secrets of Last Talent Standing</title>
+      <link>https://mashable.com/entertainment/game-changer-sam-reich-finale-talent</link>
+      <pubDate>Mon, 21 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06a921JbGGxmZa8Dz23k1oM</guid>
+      <description>Plus, we asked how he wants to die. Cue Grim Reaperino!</description>
     </item>
     <item>
-      <title>Discover what&#8217;s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket</title>
-      <link>https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/</link>
-      <pubDate>Mon, 21 Sep 2026 19:25:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167098</guid>
-      <description>Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco&#8217;s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.</description>
+      <title>RatHat is a new Android malware that records your screen touches to steal passwords</title>
+      <link>https://mashable.com/tech/rathat-android-malware-records-screen-touches</link>
+      <pubDate>Mon, 21 Sep 2026 22:58:51 +0000</pubDate>
+      <guid isPermaLink="false">01NCEX5U7f1U5WofEMb9kYZ</guid>
+      <description>New malware called RatHat is targeting Android devices.</description>
     </item>
     <item>
-      <title>Meta&#8217;s Muse is outpacing ChatGPT&#8217;s early mobile launch</title>
-      <link>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</link>
-      <pubDate>Mon, 21 Sep 2026 19:19:21 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167075</guid>
-      <description>Meta&#8217;s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.</description>
+      <title>Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%</title>
+      <link>https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440</link>
+      <pubDate>Mon, 21 Sep 2026 22:40:00 +0000</pubDate>
+      <guid isPermaLink="false">gNXkUKVJiTppBLGVKms7AE</guid>
+      <description>Hackers are hiding malware instructions across public blockchains, while AI makes the technique easier to deploy and harder for defenders to disrupt.</description>
+    </item>
+    <item>
+      <title>Wired vs. wireless keyboards: Is there really a difference in performance?</title>
+      <link>https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained/</link>
+      <pubDate>Mon, 21 Sep 2026 22:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained/</guid>
+      <description>Wireless keyboards introduce convenience and portability, but they can't quite keep up with wired keyboards in some cases.</description>
+    </item>
+    <item>
+      <title>Huawei Ascend 960 SuperPoD aims to surpass Nvidia AI hardware in China &#8212; 960E with over 4,000 NPUs and an upgraded UnifiedBus Interconnect aims for 10 trillion parameters</title>
+      <link>https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters</link>
+      <pubDate>Mon, 21 Sep 2026 22:05:00 +0000</pubDate>
+      <guid isPermaLink="false">j9Ktznf6QA6QWCpiGJt4SX</guid>
+      <description>Huawei&#8217;s Ascend 960 roadmap combines massive processor counts, UnifiedBus and optical links to support increasingly demanding AI workloads.</description>
+    </item>
+    <item>
+      <title>How to turn off your Google location history</title>
+      <link>https://www.engadget.com/2261383/how-to-turn-off-google-location-history/</link>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2261383/how-to-turn-off-google-location-history/</guid>
+      <description>Google Maps' Timeline feature is great for looking back at your past travels, but it's also discomforting to see all that history in one place.</description>
+    </item>
+    <item>
+      <title>Pay just $17 and keep Microsoft Office 2019 on your PC</title>
+      <link>https://mashable.com/tech/sept-21-microsoft-office-professional-plus-2019-for-windows</link>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">05KuLuadFir3Agl5Ufzor6v</guid>
+      <description>Get Microsoft Office Professional Plus 2019 for Windows for $16.97 through Sept. 27, including Word, Excel, PowerPoint, Outlook, and more.</description>
     </item>
   </channel>
 </rss>
