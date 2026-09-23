@@ -3,152 +3,347 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 23 Sep 2026 05:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:07:20 GMT</lastBuildDate>
     <item>
-      <title>Motorola Signature&#160;27&#160;: le t&#233;l&#233;phone qui veut tout faire mieux que tout le monde</title>
-      <link>https://www.frandroid.com/marques/motorola/3256925_motorola-signature-27-le-telephone-qui-voulait-tout-faire-mieux-que-tout-le-monde</link>
-      <pubDate>Wed, 23 Sep 2026 05:35:06 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/motorola/3256925_motorola-signature-27-le-telephone-qui-voulait-tout-faire-mieux-que-tout-le-monde</guid>
+      <title>OpenAI nabs key Patreon execs ahead of upcoming announcement</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</link>
+      <pubDate>2026-09-23T07:02:39-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999249</guid>
+      <description>OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [&#8230;]...</description>
+    </item>
+    <item>
+      <title>After DSIT, Britain&#8217;s next AI test is sovereignty</title>
+      <link>https://www.techradar.com/pro/after-dsit-britains-next-ai-test-is-sovereignty</link>
+      <pubDate>Wed, 23 Sep 2026 11:01:40 +0000</pubDate>
+      <guid isPermaLink="false">VgFqKojbhQ7BrbUwP2jyvV</guid>
+      <description>DSIT is gone, but the case for sovereign AI in public services has strengthened.</description>
+    </item>
+    <item>
+      <title>Discord impose finalement la v&#233;rification d&#8217;&#226;ge, 7 mois apr&#232;s sa premi&#232;re tentative</title>
+      <link>https://www.01net.com/actualites/discord-impose-finalement-la-verification-dage-7-mois-apres-sa-premiere-tentative.html</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1370906</guid>
+      <description>Se faire jauger, voire scanner, pour discuter en ligne : l'id&#233;e avait soulev&#233; une bronca m&#233;morable cet hiver. Discord avait jur&#233; d'&#233;couter. La plateforme revient avec la m&#234;me exigence, habill&#233;e autrement, et cette fois pour le monde entier.</description>
+    </item>
+    <item>
+      <title>A Startup Wants to Power Data Centers With &#8216;Supercritical&#8217; Carbon Dioxide</title>
+      <link>https://www.wired.com/story/startup-power-data-centers-supercritical-co2/</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6ab1517e8f43ad86c75ae906</guid>
+      <description>The technology could strap onto existing gas turbines and make them more efficient&#8212;but it wouldn&#8217;t do away with their emissions entirely.</description>
+    </item>
+    <item>
+      <title>Eight Sleep&#8217;s new cooling hub is small enough to hide under your bed</title>
+      <link>https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking</link>
+      <pubDate>2026-09-23T07:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999018</guid>
+      <description>Eight Sleep announced the next version of its "intelligent sleep system" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its "most significant hardware launch to date," and it's centered around a redesigned cooling hub [&#8230;]</description>
+    </item>
+    <item>
+      <title>Getting an unusual amount of spam calls and messages? You&#8217;re not alone &#8212; Here&#8217;s what we know and what you can do</title>
+      <link>https://www.techradar.com/pro/getting-an-unusual-amount-of-spam-calls-and-messages-youre-not-alone-heres-what-we-know-and-what-you-can-do</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">uy4dCmFZV2qprZyvraUUWN</guid>
+      <description>UK spam calls are getting out of control, here's how to stay safe</description>
+    </item>
+    <item>
+      <title>Eight Sleep announces the Pod 6, its newest smart mattress cover</title>
+      <link>https://www.engadget.com/2264386/eight-sleep-announces-the-pod-6-its-newest-smart-mattress-cover/</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2264386/eight-sleep-announces-the-pod-6-its-newest-smart-mattress-cover/</guid>
+      <description>It's $2,000 and it doesn't even read you a bedtime story.</description>
+    </item>
+    <item>
+      <title>Volkswagen brings Tetris and other games to its infotainment displays</title>
+      <link>https://www.engadget.com/2262478/volkswagen-brings-tetris-and-other-games-to-its-infotainment-displays/</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2262478/volkswagen-brings-tetris-and-other-games-to-its-infotainment-displays/</guid>
+      <description>Pac-Man is doing sponcon... look how they've massacred my boy.</description>
+    </item>
+    <item>
+      <title>How to watch Meta unveil its new smart glasses at Connect 2026</title>
+      <link>https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/</link>
+      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/</guid>
+      <description>The company is expected to reveal its first-ever camera-free glasses.</description>
+    </item>
+    <item>
+      <title>Bo&#238;te de r&#233;ception | 30&#160;ans de Mastercard, en finir avec la carte SIM, comment r&#233;agir aux pourriels&#160;?</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-09-23/boite-de-reception/30-ans-de-mastercard-en-finir-avec-la-carte-sim-comment-reagir-aux-pourriels.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">36d64892464738a3a1d533a83af8185c</guid>
+      <description>Chaque mercredi, notre journaliste r&#233;pond &#224; vos questions en lien avec le num&#233;rique et les nouvelles technologies. Cette semaine, on s&#8217;interroge sur la long&#233;vit&#233; des num&#233;ros de carte de cr&#233;dit, on migre vers la technologie eSIM et on &#233;vite de r&#233;pondre &#224; des courriels frauduleux.</description>
+    </item>
+    <item>
+      <title>Neagley is superior in literally every way to Reacher season 4, according to fans</title>
+      <link>https://www.techradar.com/streaming/amazon-prime-video/neagley-reacher-season-4-fan-comment</link>
+      <pubDate>Wed, 23 Sep 2026 10:55:15 +0000</pubDate>
+      <guid isPermaLink="false">JSzSJebaMCoYn8EBWLCqxJ</guid>
+      <description>Neagley is "superior" in every way to Reacher season 4, viewers say &#8212; and, if Amazon needed a reason to green light a second season, they've just found it.</description>
+    </item>
+    <item>
+      <title>Windows 11 Copilot app is getting its own browser, but not everyone's happy</title>
+      <link>https://www.techradar.com/computing/windows/copilot-is-a-scourge-that-i-avoid-at-all-opportunities-microsoft-is-giving-the-copilot-app-its-own-browser-but-windows-11-users-remain-largely-unimpressed</link>
+      <pubDate>Wed, 23 Sep 2026 10:55:11 +0000</pubDate>
+      <guid isPermaLink="false">ZKf7eaQ5gEK75o9G85QqdN</guid>
+      <description>Windows 11's Copilot app is getting its own browser &#8212; a helpful move, or another way for Microsoft to push Edge?</description>
+    </item>
+    <item>
+      <title>Keychron V6 Max deal: 'The best office keyboard I&#8217;ve ever used'</title>
+      <link>https://www.techradar.com/pro/the-best-office-keyboard-ive-ever-used-we-rated-the-keychron-v6-max-wireless-mechanical-keyboard-5-stars-and-its-just-dropped-in-price</link>
+      <pubDate>Wed, 23 Sep 2026 10:49:25 +0000</pubDate>
+      <guid isPermaLink="false">gpZbBiLxSZKDUUTk5Gych6</guid>
+      <description>The Keychron V6 Max is our 5-star Editor's Choice mechanical keyboard for professionals. Now, this customizable wireless mechanical keyboard has a price cut.</description>
+    </item>
+    <item>
+      <title>This App Makes Your Laptop Screen Look Like Paper</title>
+      <link>https://www.wired.com/story/paperman-makes-your-laptop-screen-look-like-paper/</link>
+      <pubDate>Wed, 23 Sep 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="false">6aac4c8ee2c208e563f307bd</guid>
+      <description>The app Paperman gives your screen some added texture in an effort to make it easier on your eyes. It works best for reading, writing, or otherwise working with text.</description>
+    </item>
+    <item>
+      <title>SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer</title>
+      <link>https://www.wired.com/review/smartlabels-qr-code-organizing-system/</link>
+      <pubDate>Wed, 23 Sep 2026 10:39:00 +0000</pubDate>
+      <guid isPermaLink="false">6aad40f59918165b6604bab2</guid>
+      <description>SmartLabels can inventory everything in a photo, but I tested whether its AI could survive the chaos of my busy household.</description>
+    </item>
+    <item>
+      <title>The case for purpose-built generative AI in fraud prevention</title>
+      <link>https://www.techradar.com/pro/the-case-for-purpose-built-generative-ai-in-fraud-prevention</link>
+      <pubDate>Wed, 23 Sep 2026 10:30:29 +0000</pubDate>
+      <guid isPermaLink="false">dGF9MKCbpAXPvsthwaaee8</guid>
+      <description>Financial institutions must determine whether the AI they've deployed is built for today's and tomorrow's threat landscape.</description>
+    </item>
+    <item>
+      <title>Kate Tolo Says Her Quest to Be &#8216;the Female Bryan Johnson&#8217; Is &#8216;for Women&#8217;</title>
+      <link>https://www.wired.com/story/kate-tolo-says-her-quest-to-be-the-female-bryan-johnson-is-for-women/</link>
+      <pubDate>Wed, 23 Sep 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6a95b1283625f2ce0c3be37f</guid>
+      <description>Like her biohacking boyfriend, Tolo is undergoing a grueling regimen of tests&#8212;from tracking nighttime erections to subjecting herself to extreme heat on her period&#8212;in service of &#8220;half the population.&#8221;</description>
+    </item>
+    <item>
+      <title>Customize your AI generated website: A step-by-step guide</title>
+      <link>https://www.techradar.com/pro/customize-your-ai-generated-website-a-step-by-step-guide</link>
+      <pubDate>Wed, 23 Sep 2026 10:29:39 +0000</pubDate>
+      <guid isPermaLink="false">pDr2tE3bpPPyvMmTiq74QG</guid>
+      <description>AI builders get your website online fast, but the default results still need some work. Here's what to fix and why it matters.</description>
+    </item>
+    <item>
+      <title>Amazon casse le prix du Samsung Odyssey G40H, un &#233;cran PC &#224; 300 Hz sous les 150 &#8364;</title>
+      <link>https://www.frandroid.com/bons-plans/3257205_amazon-casse-le-prix-du-samsung-odyssey-g40h-un-ecran-pc-a-300-hz-sous-les-150-e</link>
+      <pubDate>Wed, 23 Sep 2026 10:28:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3257205_amazon-casse-le-prix-du-samsung-odyssey-g40h-un-ecran-pc-a-300-hz-sous-les-150-e</guid>
       <description>
-Si Motorola n&#8217;est plus l&#8217;entreprise immanquable qu&#8217;elle &#233;tait il y a de &#231;a quelques dizaines d&#8217;ann&#233;es, cela ne l&#8217;emp&#234;che pas de s&#8217;imposer sur le march&#233; du t&#233;l&#233;phone haut de gamme. La preuve avec son Signature&#160;27 tout juste d&#233;voil&#233;.
+Le Samsung Odyssey G40H est un &#233;cran PC gaming avec une dalle Fast IPS FHD en 300 Hz et 1 ms, pens&#233; pour les jeux nerveux. Il passe de 199 euros &#224; 149 euros sur Amazon.
 </description>
     </item>
     <item>
-      <title>Moins cher que l&#8217;AirTag d&#8217;Apple et tout aussi efficace : le lot de deux FineTrack Mini est &#224; moins de 18 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3255793_moins-cher-que-lairtag-dapple-et-tout-aussi-efficace-le-lot-de-deux-finetrack-mini-est-a-moins-de-18-e</link>
-      <pubDate>Wed, 23 Sep 2026 05:35:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3255793_moins-cher-que-lairtag-dapple-et-tout-aussi-efficace-le-lot-de-deux-finetrack-mini-est-a-moins-de-18-e</guid>
+      <title>Palantir CEO Alex Karp reckons OpenAI will never IPO &#8212; mainly due to the huge amount of liability it carries</title>
+      <link>https://www.techradar.com/pro/palantir-ceo-alex-karp-reckons-openai-will-never-ipo-mainly-due-to-the-huge-amount-of-liability-it-carries</link>
+      <pubDate>Wed, 23 Sep 2026 10:27:16 +0000</pubDate>
+      <guid isPermaLink="false">eHgpL37Pf4X5o4XvD9tGiM</guid>
+      <description>Karp thinks liability could push AI labs like OpenAI toward Washington rather than Wall Street, with their planned IPOs never materializing.</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy S27 series leak suggests the RAM and storage upgrades will be very limited</title>
+      <link>https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s27-series-could-be-another-victim-of-the-ram-crisis-full-storage-and-memory-configuration-details-have-supposedly-leaked-and-theyre-not-promising-if-you-hoped-for-an-upgrade</link>
+      <pubDate>Wed, 23 Sep 2026 10:24:36 +0000</pubDate>
+      <guid isPermaLink="false">XpekWLzVz9V2z8a4pw2cvd</guid>
+      <description>Full storage and RAM configuration details for the Samsung Galaxy S27 series have leaked, and they're not promising.</description>
+    </item>
+    <item>
+      <title>Voler &#224; deux fois la vitesse du son&#160;: le pari fou de la Chine pour r&#233;pondre &#224; la NASA</title>
+      <link>https://www.01net.com/actualites/voler-deux-fois-vitesse-du-son-pari-fou-chine-pour-repondre-nasa.html</link>
+      <pubDate>Wed, 23 Sep 2026 10:16:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1370935</guid>
+      <description>La Chine s'appr&#234;te &#224; tester d'ici la fin de l'ann&#233;e le TMS-10, un d&#233;monstrateur supersonique capable de voler &#224; Mach 2 tout en att&#233;nuant son bang sonique. L&#8217;objectif est de pr&#233;parer l'arriv&#233;e de petits avions de ligne ultra-rapides.</description>
+    </item>
+    <item>
+      <title>La mise &#224; jour Windows 11 KB5124010 provoque des crashs sur Battlefield 6 et Wardogs</title>
+      <link>https://www.frandroid.com/os/windows/3257247_la-mise-a-jour-windows-11-kb5124010-provoque-des-crashs-sur-battlefield-6-et-wardogs</link>
+      <pubDate>Wed, 23 Sep 2026 10:15:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/windows/3257247_la-mise-a-jour-windows-11-kb5124010-provoque-des-crashs-sur-battlefield-6-et-wardogs</guid>
       <description>
-Les UGREEN FineTrack Mini sont des traceurs Bluetooth compacts qui permettent de localiser vos objets depuis un iPhone, un iPad ou un Mac, que vous retrouvez en lot de 2 &#224; 17,54 euros au lieu de 26,99 euros sur Amazon.
+D&#233;sormais d&#233;ploy&#233;e &#224; grande &#233;chelle, la mise &#224; jour optionnelle Windows 11 KB5124010 g&#233;n&#232;re d'importants probl&#232;mes sur plusieurs jeux comp&#233;titifs exploitant des logiciels anti-triche, dont Battlefield 6 et Wardogs. Heureusement, une solution simple existe.
 </description>
     </item>
     <item>
-      <title>27,99 &#8364; pour la fibre et la TV 4K : SFR joue la carte de l&#8217;offre compl&#232;te &#224; petit prix [Sponso]</title>
-      <link>https://www.frandroid.com/telecom/box-internet/3255609_2799-e-pour-la-fibre-et-la-tv-4k-sfr-joue-la-carte-de-loffre-complete-a-petit-prix</link>
-      <pubDate>Wed, 23 Sep 2026 05:22:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/box-internet/3255609_2799-e-pour-la-fibre-et-la-tv-4k-sfr-joue-la-carte-de-loffre-complete-a-petit-prix</guid>
+      <title>AT&amp;T Is Automating Away Jobs&#8212;and Its Old Telecom Empire</title>
+      <link>https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/</link>
+      <pubDate>Wed, 23 Sep 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="false">6a985f6da50ff5eef82d5502</guid>
+      <description>The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.</description>
+    </item>
+    <item>
+      <title>Apple a discr&#232;tement mis fin au SSD modulaire et rempla&#231;able de son Mac mini</title>
+      <link>https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3256983_apple-a-discretement-mis-fin-au-ssd-modulaire-et-remplacable-de-son-mac-mini</link>
+      <pubDate>Wed, 23 Sep 2026 10:14:37 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3256983_apple-a-discretement-mis-fin-au-ssd-modulaire-et-remplacable-de-son-mac-mini</guid>
       <description>
-Avec son offre Fibre Starter, SFR r&#233;unit une connexion sym&#233;trique jusqu&#8217;&#224; 1 Gb/s et un d&#233;codeur TV 4K pour 27,99 euros par mois. De quoi couvrir les principaux usages sans faire exploser la facture. 
+Contrairement au Mac mini M4, les nouveaux Mac mini M5 Pro et M6 ne permettent plus le remplacement de leur module de stockage SSD. Sur cette nouvelle g&#233;n&#233;ration, Apple opte en effet pour des modules NAND soud&#233;s &#224; la carte m&#232;re. Une bien triste &#233;volution.
 </description>
     </item>
     <item>
-      <title>Vivo&#8217;s ultralight selfie screen could be the year&#8217;s standout mobile accessory</title>
-      <link>https://www.techradar.com/phones/vivos-ultralight-magnetic-touchscreen-monitor-is-a-godsend-for-vloggers-and-it-could-be-the-years-standout-mobile-accessory</link>
-      <pubDate>Wed, 23 Sep 2026 05:15:00 +0000</pubDate>
-      <guid isPermaLink="false">qHeCx7FkwsAc3mCFLeQ6WX</guid>
-      <description>Vivo's unveiled its flagship X500 series of phones, headed up by the Pro Max, and with it new accessories, including a particularly neat selfie screen which I tried &#8212;it's the best of its kind and a standout mobile accessory for 2026.</description>
+      <title>8 et 12 Go de VRAM bient&#244;t de l&#8217;histoire ancienne ? La GDDR7 vise beaucoup plus haut pour nos GPU</title>
+      <link>https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3257439_8-et-12-go-de-vram-bientot-de-lhistoire-ancienne-la-gddr7-vise-beaucoup-plus-haut-pour-nos-gpu</link>
+      <pubDate>Wed, 23 Sep 2026 10:07:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3257439_8-et-12-go-de-vram-bientot-de-lhistoire-ancienne-la-gddr7-vise-beaucoup-plus-haut-pour-nos-gpu</guid>
+      <description>
+Des puces m&#233;moire GDDR7 de 4 et 6 gigaoctets sont attendues pour 2027 ou 2028, selon une fuite. De quoi faire grimper la VRAM des cartes graphiques jusqu'&#224; 48 gigaoctets sans toucher &#224; leur architecture.
+</description>
     </item>
     <item>
-      <title>Nike Promo Codes and Discounts: 30% for September 2026</title>
-      <link>https://www.wired.com/story/nike-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6723f3d1fe9036abfe13c4d6</guid>
-      <description>Check out our deals for Nike this September 2026, including 15% off select purchases.</description>
+      <title>Gr&#226;ce &#224; 2 panneaux solaires, cette montre Amazfit promet une autonomie record</title>
+      <link>https://www.01net.com/actualites/grace-a-2-panneaux-solaires-cette-montre-amazfit-promet-une-autonomie-record.html</link>
+      <pubDate>Wed, 23 Sep 2026 10:00:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1370901</guid>
+      <description>Amazfit vient de d&#233;voiler la T-Rex Dual Solar, une montre connect&#233;e destin&#233;e aux aventuriers et &#233;quip&#233;e de deux panneaux solaires. Le constructeur annonce une autonomie record pour ce nouveau mod&#232;le.</description>
     </item>
     <item>
-      <title>Nomad Goods Promo Codes: Get 25% Off in September 2026</title>
-      <link>https://www.wired.com/story/nomad-discount-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">673d17683f0c60a2ac246f61</guid>
-      <description>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in September 2026.</description>
+      <title>She&#8217;s 28, Loves God and Her Family, and Might Be the Reason You Can&#8217;t Have Kids</title>
+      <link>https://www.wired.com/story/emma-waters-fertility-tech/</link>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6a59668cf3c9c064dcafdf42</guid>
+      <description>No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech&#8212;with her hot husband&#8217;s permission, of course.</description>
     </item>
     <item>
-      <title>Hotels.com Coupon Codes for September 2026</title>
-      <link>https://www.wired.com/story/hotels-com-coupon/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6733e9ae64178b40933a31fc</guid>
-      <description>Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!</description>
+      <title>PS5 : la superbe manette DualSense Sterling Silver s&#8217;affiche &#224; un prix imbattable chez E.Leclerc</title>
+      <link>https://www.frandroid.com/bons-plans/2617591_ps5-la-superbe-manette-dualsense-sterling-silver-saffiche-a-un-prix-imbattable-chez-e-leclerc</link>
+      <pubDate>Wed, 23 Sep 2026 09:54:28 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2617591_ps5-la-superbe-manette-dualsense-sterling-silver-saffiche-a-un-prix-imbattable-chez-e-leclerc</guid>
+      <description>
+Si vous cherchez une seconde manette pour compl&#233;ter votre setup et &#234;tre pr&#234;t pour le prochain FC27 ou Call of Duty Modern Warfare 4, c'est le moment parfait d'en profiter. La DualSense dans son magnifique coloris Sterling Silver passe &#224; seulement 63 euros au lieu de 79 euros chez E.Leclerc.
+</description>
     </item>
     <item>
-      <title>20% Off Sephora Promo Code | September 2026</title>
-      <link>https://www.wired.com/story/sephora-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6733e8b213c3c97440c1a112</guid>
-      <description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
+      <title>Priv&#233;s de radio FM au volant ? L&#8217;appel &#224; l&#8217;aide des stations de radio fran&#231;aises</title>
+      <link>https://www.frandroid.com/survoltes/voitures-electriques/3256819_prives-de-radio-fm-au-volant-lappel-a-laide-des-stations-de-radio-francaises</link>
+      <pubDate>Wed, 23 Sep 2026 09:49:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/voitures-electriques/3256819_prives-de-radio-fm-au-volant-lappel-a-laide-des-stations-de-radio-francaises</guid>
+      <description>
+Derri&#232;re l'appel commun des radios fran&#231;aises se cache une &#233;volution technique de fond : l'architecture des syst&#232;mes multim&#233;dias embarqu&#233;s s'&#233;loigne du hertzien au profit du streaming num&#233;rique. Explications.
+</description>
     </item>
     <item>
-      <title>LG Promo Codes and Coupons for September 2026</title>
-      <link>https://www.wired.com/story/lg-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67d879bf81a4d165ab8f1213</guid>
-      <description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+      <title>The Organization Fighting Ebola Has Never Been More Worried</title>
+      <link>https://www.wired.com/story/organization-fighting-ebola-never-more-worried/</link>
+      <pubDate>Wed, 23 Sep 2026 09:45:00 +0000</pubDate>
+      <guid isPermaLink="false">6ab191316596909b88d213d0</guid>
+      <description>The Ebola outbreak in the Democratic Republic of Congo is on track to be the largest ever.</description>
     </item>
     <item>
-      <title>Ray-Ban Promo Codes: Save 50% in September 2026</title>
-      <link>https://www.wired.com/story/ray-ban-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a67a4477121677383fc0ebc</guid>
-      <description>Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</description>
+      <title>AMD pr&#233;pare l&#8217;arriv&#233;e de la m&#233;moire GDDR7 pour ses futures cartes graphiques RDNA 5</title>
+      <link>https://www.frandroid.com/marques/amd/3257353_amd-prepare-larrivee-de-la-memoire-gddr7-pour-ses-futures-cartes-graphiques-rdna-5</link>
+      <pubDate>Wed, 23 Sep 2026 09:39:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/amd/3257353_amd-prepare-larrivee-de-la-memoire-gddr7-pour-ses-futures-cartes-graphiques-rdna-5</guid>
+      <description>
+Ce lundi 21 septembre 2026, AMD a gliss&#233; dans son pilote graphique open source pour Linux les premi&#232;res briques de la m&#233;moire GDDR7. Un indice de plus que sa prochaine g&#233;n&#233;ration de cartes Radeon, RDNA 5, tournerait enfin le dos au GDDR6.
+</description>
     </item>
     <item>
-      <title>Google Workspace Promo Codes: 14% Off for September 2026</title>
-      <link>https://www.wired.com/story/google-workspace-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6900e13d340cdaa92bb7d0c9</guid>
-      <description>Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.</description>
+      <title>Windows 11&#160;: l&#8217;appli Clipchamp peut upscaler vos vid&#233;os en 4K</title>
+      <link>https://www.01net.com/actualites/windows-11-lappli-clipchamp-peut-upscaler-vos-videos-en-4k.html</link>
+      <pubDate>Wed, 23 Sep 2026 09:38:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1370937</guid>
+      <description>L&#8217;application de montage de Microsoft, install&#233;e par d&#233;faut sur Windows 11, introduit une nouvelle fonction pour am&#233;liorer la qualit&#233; d&#8217;une vid&#233;o en basse r&#233;solution jusqu&#8217;en 4K.</description>
     </item>
     <item>
-      <title>Valvoline Coupons and Promo Codes for September 2026</title>
-      <link>https://www.wired.com/story/valvoline-coupons/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">69e797cacf619515a9f2476a</guid>
-      <description>We've gathered all the top Valvoline coupons and promo codes for September 2026, including deals on full synthetic oil changes and other essential maintenance.</description>
+      <title>Prix de l&#8217;&#233;lectricit&#233; : ce que dit vraiment le rapport pol&#233;mique de la CRE sur les renouvelables</title>
+      <link>https://www.frandroid.com/survoltes/energie/3255439_prix-de-lelectricite-ce-que-dit-vraiment-le-rapport-polemique-de-la-cre-sur-les-renouvelables</link>
+      <pubDate>Wed, 23 Sep 2026 09:37:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/3255439_prix-de-lelectricite-ce-que-dit-vraiment-le-rapport-polemique-de-la-cre-sur-les-renouvelables</guid>
+      <description>
+Le dernier rapport de la CRE sur le co&#251;t du syst&#232;me &#233;lectrique, qui n'en finit plus de faire parler, a-t-il &#233;t&#233; modifi&#233; &#224; la demande du gouvernement ? Des &#233;changes avec le minist&#232;re de l'&#201;nergie s&#232;ment le doute, m&#234;me si le r&#233;gulateur nie en bloc.  
+</description>
     </item>
     <item>
-      <title>Uber Eats Promo Codes: $15 Off &#9474;September 2026</title>
-      <link>https://www.wired.com/story/uber-eats-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a4fc19f310c3dfb19c4f4bd</guid>
-      <description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
+      <title>8 Best Space Heaters (2026): Tested, Measured, and Mistreated</title>
+      <link>https://www.wired.com/gallery/the-best-space-heaters/</link>
+      <pubDate>Wed, 23 Sep 2026 09:33:00 +0000</pubDate>
+      <guid isPermaLink="false">6765c821323d4215f6f1937e</guid>
+      <description>These portable heaters will heat a room quickly, quietly, and safely.</description>
     </item>
     <item>
-      <title>30% Off Canon Promo Codes | September 2026</title>
-      <link>https://www.wired.com/story/canon-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67252234563a280b6ad5ef8d</guid>
-      <description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this September 2026.</description>
+      <title>Kiwibit Bird Feeder 2 Pro Review: Premium but Paywalled</title>
+      <link>https://www.wired.com/review/kiwibit-bird-feeder-2-pro/</link>
+      <pubDate>Wed, 23 Sep 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6aaafa2481958d544b85403e</guid>
+      <description>The Kiwibit Feeder 2 Pro delivers action-camera-quality imagery, but too much of the experience is locked behind a subscription.</description>
     </item>
     <item>
-      <title>Hostinger Promo Code: 79% Off for September 2026</title>
-      <link>https://www.wired.com/story/hostinger-coupon-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a0635293f6b307a9138c8f4</guid>
-      <description>Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.</description>
+      <title>Avengers: Endgame Encore end credits scenes leak ahead of Marvel movie's release</title>
+      <link>https://www.techradar.com/streaming/entertainment/marvel-suffers-fresh-leak-as-avenger-endgame-encore-end-credits-scenes-descriptions-appear-online-ahead-of-september-25-release-heres-how-they-set-up-avengers-doomsday</link>
+      <pubDate>Wed, 23 Sep 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">kcaoBBk7qwUDVWJWYC9MVo</guid>
+      <description>Some Marvel fans have already seen the re-released version of Avengers: Endgame and the new pre-Doomsday footage it contains.</description>
     </item>
     <item>
-      <title>Squarespace Promo Codes: 20% Off in September 2026</title>
-      <link>https://www.wired.com/story/squarespace-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67180b58052c3d17e85f7da4</guid>
-      <description>Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.</description>
+      <title>AI floods security teams with findings. The advantage is in what happens next</title>
+      <link>https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next</link>
+      <pubDate>Wed, 23 Sep 2026 09:28:21 +0000</pubDate>
+      <guid isPermaLink="false">6VKQUihP8ctFbFMov75WZX</guid>
+      <description>AI is accelerating vulnerability discovery, but organizations must strengthen validation, prioritization and remediation to reduce risk.</description>
     </item>
     <item>
-      <title>AT&amp;T Promo Codes: $50 Off This September 2026</title>
-      <link>https://www.wired.com/story/att-promo-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">67bccc2de807ab74e8f0139a</guid>
-      <description>Whether you&#8217;re looking to upgrade your internet or get the latest phone, we&#8217;ve got you covered with our selection of AT&amp;T coupons and deals.</description>
+      <title>Cette photo de Mars brouille tous nos rep&#232;res : que s&#8217;est-il pass&#233; au p&#244;le Sud pour qu&#8217;elle apparaisse violette ?</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/mars-cette-photo-mars-brouille-tous-nos-reperes-il-passe-pole-sud-quelle-apparaisse-violette-137932/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 23 Sep 2026 11:25:53 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/mars-cette-photo-mars-brouille-tous-nos-reperes-il-passe-pole-sud-quelle-apparaisse-violette-137932/#xtor%3DRSS-8</guid>
+      <description>La Plan&#232;te rouge porte-t-elle bien son nom ? Une r&#233;gion martienne photographi&#233;e par Mars Express d&#233;voile un paysage &#233;tonnant pr&#232;s du p&#244;le Sud martien, o&#249; les falaises et les &#233;tendues glac&#233;es se parent de surprenantes teintes roses et violettes. Mais d&#8217;o&#249; vient cette &#233;trange palette de couleurs ?</description>
     </item>
     <item>
-      <title>HP Coupon Codes and Deals September 2026</title>
-      <link>https://www.wired.com/story/hp-coupon-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">68225b9544db1beca22d595d</guid>
-      <description>Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</description>
+      <title>Windows 11&#160;: la grosse mise &#224; jour d&#8217;octobre est d&#233;j&#224; l&#224;, voici les nouveaut&#233;s</title>
+      <link>https://www.frandroid.com/os/windows/3257339_windows-11-la-grosse-mise-a-jour-doctobre-est-deja-la-voici-les-nouveautes</link>
+      <pubDate>Wed, 23 Sep 2026 09:21:17 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/windows/3257339_windows-11-la-grosse-mise-a-jour-doctobre-est-deja-la-voici-les-nouveautes</guid>
+      <description>
+Microsoft d&#233;ploie depuis ce mardi 22 septembre 2026 la mise &#224; jour KB5124010 pour Windows 11. Cette version optionnelle permet enfin de reprogrammer la touche Copilot, r&#233;vise le Bluetooth et l'explorateur de fichiers, avant un d&#233;ploiement pour tous le 13 octobre.
+</description>
     </item>
     <item>
-      <title>PlayStation Discount Code: Save on PS5 Games September 2026</title>
-      <link>https://www.wired.com/story/playstation-discount-code/</link>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6a7a21db072e353167f7231c</guid>
-      <description>Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.</description>
+      <title>J&#8217;ai test&#233; le Mac mini M6 : toujours une r&#233;ussite malgr&#233; son prix</title>
+      <link>https://www.frandroid.com/marques/apple/3255721_test-de-lapple-mac-mini-m6-la-machine-parfaite-pour-tout-le-monde</link>
+      <pubDate>Wed, 23 Sep 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3255721_test-de-lapple-mac-mini-m6-la-machine-parfaite-pour-tout-le-monde</guid>
+      <description>
+Apr&#232;s un Mac mini M4 qui avait &#233;t&#233; pour nous l'une de nos recommandations de l'ann&#233;e 2024, Apple revient avec un mod&#232;le M6 encore plus puissant, que ce soit pour la cr&#233;ation ou l'IA.
+</description>
     </item>
     <item>
-      <title>&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI</title>
-      <link>https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/</link>
-      <pubDate>Wed, 23 Sep 2026 04:59:08 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167972</guid>
-      <description>Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.</description>
+      <title>Garmin s&#8217;int&#233;resse &#224; l&#8217;oxyg&#232;ne musculaire&#160;pour la musculation ou les sports d&#8217;endurance : &#224; quoi &#231;a sert et comment &#231;a marche</title>
+      <link>https://www.frandroid.com/marques/3257251_garmin-sinteresse-a-loxygene-musculaire-pour-la-musculation-ou-les-sports-dendurance-a-quoi-ca-sert-et-comment-ca-marche</link>
+      <pubDate>Wed, 23 Sep 2026 09:13:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3257251_garmin-sinteresse-a-loxygene-musculaire-pour-la-musculation-ou-les-sports-dendurance-a-quoi-ca-sert-et-comment-ca-marche</guid>
+      <description>
+Selon le site sp&#233;cialis&#233; the5krunner, Garmin aurait rachet&#233; Moxy Monitor, un fabricant de capteurs d'oxyg&#232;ne musculaire, une information d&#233;voil&#233;e ce mardi 22 septembre 2026 que ni l'un ni l'autre n'a confirm&#233;e.
+</description>
+    </item>
+    <item>
+      <title>Nothing ouvre temporairement la b&#234;ta d&#8217;Android 17 &#224; trois nouveaux smartphones</title>
+      <link>https://www.frandroid.com/marques/nothing/3257085_nothing-ouvre-temporairement-la-beta-dandroid-17-a-trois-nouveaux-smartphones</link>
+      <pubDate>Wed, 23 Sep 2026 09:13:13 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nothing/3257085_nothing-ouvre-temporairement-la-beta-dandroid-17-a-trois-nouveaux-smartphones</guid>
+      <description>
+Apr&#232;s avoir lanc&#233; la b&#234;ta de Nothing OS 5.0 sur une poign&#233;e de mod&#232;les, Nothing &#233;largit son programme de test &#224; trois nouveaux smartphones. Une semaine pour s&#8217;inscrire et d&#233;couvrir Android 17 en avant-premi&#232;re.
+</description>
+    </item>
+    <item>
+      <title>How to pick and set up a self-hosted app to run your own server</title>
+      <link>https://www.techradar.com/pro/how-to-pick-and-set-up-a-self-hosted-app-to-run-your-own-server</link>
+      <pubDate>Wed, 23 Sep 2026 09:12:23 +0000</pubDate>
+      <guid isPermaLink="false">beF2Y7Tg3rSGeBK3HDUF8o</guid>
+      <description>A practical guide to self-hosting apps in a containerized environment with Docker. We&#8217;ll cover setup using SSH, control panels like Plex and CyberPanel, and templates from popular hosting providers.</description>
+    </item>
+    <item>
+      <title>Intersport am&#233;liore son VTC &#233;lectrique le plus puissant et il co&#251;te d&#233;j&#224; 500 &#8364; de moins</title>
+      <link>https://www.frandroid.com/bons-plans/3257141_intersport-ameliore-son-vtc-electrique-le-plus-puissant-et-il-coute-deja-500-e-de-moins</link>
+      <pubDate>Wed, 23 Sep 2026 09:11:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3257141_intersport-ameliore-son-vtc-electrique-le-plus-puissant-et-il-coute-deja-500-e-de-moins</guid>
+      <description>
+Intersport a d&#233;voil&#233; son nouveau v&#233;lo &#233;lectrique au milieu du mois d'ao&#251;t avec la sortie du Nakamura Crossover XV LTD et, pour le mettre en avant, l'enseigne le propose pour 1 599,99 euros.
+</description>
     </item>
   </channel>
 </rss>
