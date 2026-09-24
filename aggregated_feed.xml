@@ -3,248 +3,280 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 24 Sep 2026 09:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:44:45 GMT</lastBuildDate>
     <item>
-      <title>Nikon's new Z5 IIC is a cheaper Z5 II without the electronic viewfinder</title>
-      <link>https://www.engadget.com/2267374/nikon-z5-iic-cheaper-version-z5ii/</link>
-      <pubDate>Thu, 24 Sep 2026 09:08:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2267374/nikon-z5-iic-cheaper-version-z5ii/</guid>
-      <description>Nikon's Z5 IIC is an inexpensive but powerful full-frame camera.</description>
+      <title>Lovable&#8217;s annualized revenue crosses $600M as vibe coding takes off</title>
+      <link>https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/</link>
+      <pubDate>Thu, 24 Sep 2026 14:43:25 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168031</guid>
+      <description>Lovable co-foudner Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.</description>
     </item>
     <item>
-      <title>Firefox peut surveiller les prix des produits &#224; votre place gr&#226;ce &#224; Smart Window</title>
-      <link>https://www.frandroid.com/culture-tech/web/3258931_firefox-peut-surveiller-les-prix-des-produits-a-votre-place-grace-a-smart-window</link>
-      <pubDate>Thu, 24 Sep 2026 09:06:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/web/3258931_firefox-peut-surveiller-les-prix-des-produits-a-votre-place-grace-a-smart-window</guid>
+      <title>Airbus se sert d&#8217;un Steam Deck pour piloter un rover &#224; destination de Mars</title>
+      <link>https://www.frandroid.com/actualites-generales/3259665_airbus-se-sert-dun-steam-deck-pour-piloter-un-rover-a-destination-de-mars</link>
+      <pubDate>Thu, 24 Sep 2026 14:36:32 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3259665_airbus-se-sert-dun-steam-deck-pour-piloter-un-rover-a-destination-de-mars</guid>
       <description>
-Firefox veut vous &#233;viter de passer des heures &#224; surveiller les prix sur Internet. Son mode de navigation dop&#233; &#224; l&#8217;IA, Smart Window, pourrait bient&#244;t suivre automatiquement le tarif de certains produits et vous pr&#233;venir d&#232;s qu&#8217;une offre plus int&#233;ressante se pr&#233;sente.
+Pour tester sur Terre les prototypes du rover martien de la mission europ&#233;enne ExoMars, les ing&#233;nieurs d'Airbus utilisent un simple Steam Deck, &#233;quip&#233; d'un logiciel maison. Le youtubeur Tom Scott a pu en prendre les commandes.
 </description>
     </item>
     <item>
-      <title>Apple Intelligence occupe jusqu&#8217;&#224; 30 Go sur Mac avec macOS 27, et impossible de r&#233;cup&#233;rer cet espace</title>
-      <link>https://www.frandroid.com/marques/apple/3259141_apple-intelligence-occupe-jusqua-30-go-sur-mac-avec-macos-27-et-impossible-de-recuperer-cet-espace</link>
-      <pubDate>Thu, 24 Sep 2026 09:04:55 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3259141_apple-intelligence-occupe-jusqua-30-go-sur-mac-avec-macos-27-et-impossible-de-recuperer-cet-espace</guid>
+      <title>Ando wants to take on Slack with a team messaging app that lets humans and agents work together</title>
+      <link>https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/</link>
+      <pubDate>Thu, 24 Sep 2026 14:31:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168786</guid>
+      <description>Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence.</description>
+    </item>
+    <item>
+      <title>Why can&#8217;t we just keep rogue AIs off the internet?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</link>
+      <pubDate>2026-09-24T10:30:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999881</guid>
+      <description>AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? "A strict air [&#8230;]...</description>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026: Cal AI&#8217;s Zach Yadegari on how to create viral growth and capitalize on it</title>
+      <link>https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/</link>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168701</guid>
+      <description>Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.</description>
+    </item>
+    <item>
+      <title>Hackers are targeting a critical WordPress flaw, so be on your guard</title>
+      <link>https://www.techradar.com/pro/security/hackers-are-targeting-a-critical-wordpress-flaw-so-be-on-your-guard</link>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="false">8GedEHDmpJs5EDPhg8NwgT</guid>
+      <description>Mitigations and a patch are already available but given the severity of the WordPress flaw, immediate patching is recommended.</description>
+    </item>
+    <item>
+      <title>289 &#8364; au lieu de 549 &#8364; : le Samsung Galaxy A57 est d&#233;j&#224; presque &#224; moiti&#233; prix</title>
+      <link>https://www.frandroid.com/bons-plans/3259803_289-e-au-lieu-de-549-e-le-samsung-galaxy-a57-est-deja-presque-a-moitie-prix</link>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3259803_289-e-au-lieu-de-549-e-le-samsung-galaxy-a57-est-deja-presque-a-moitie-prix</guid>
       <description>
-Apple Intelligence prend de la place, beaucoup de place, sur certains Mac. Depuis macOS 27, les mod&#232;les d'IA locaux d'Apple occupent plus de 30 Go sur certaines machines, sans possibilit&#233; de r&#233;cup&#233;rer cet espace.
+Sorti en avril pour succ&#233;der au Galaxy A56, le Samsung Galaxy A57 est d&#233;j&#224; propos&#233; presque &#224; moiti&#233; prix chez Joybuy : 289 euros (avec un coupon) au lieu de 549 euros lors de son lancement.
 </description>
     </item>
     <item>
-      <title>Gemini 4 is almost ready, says new Google DeepMind chief</title>
-      <link>https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu</link>
-      <pubDate>2026-09-24T05:04:18-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=999802</guid>
-      <description>Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [&#8230;]...</description>
-    </item>
-    <item>
-      <title>The Best Linux Laptops (2026): System76, Framework, and More</title>
-      <link>https://www.wired.com/story/best-linux-laptops/</link>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">64219b1b64e40a0099eeec65</guid>
-      <description>Whether you want a beast of a machine with dedicated graphics or a light, easy-to-upgrade PC, we have the perfect rig for you.</description>
-    </item>
-    <item>
-      <title>Scientists Detect Radio Signals from an Exoplanet for the First Time in History</title>
-      <link>https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/</link>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6ab40022af88206b2e298fb8</guid>
-      <description>No, it&#8217;s not aliens, but a phenomenon caused by magnetic activity that astronomers have never before been able to pin on a specific planet.</description>
-    </item>
-    <item>
-      <title>No wallet? No problem - Revolut's new till will let UK customers pay with a smile</title>
-      <link>https://www.techradar.com/pro/no-wallet-no-problem-revoluts-new-till-will-let-uk-customers-pay-with-a-smile</link>
-      <pubDate>Thu, 24 Sep 2026 08:59:21 +0000</pubDate>
-      <guid isPermaLink="false">jEGMdSsX5Mysvxv86ZBxdX</guid>
-      <description>Revolut looks to help UK small businesses accept more money with new verification options.</description>
-    </item>
-    <item>
-      <title>Xbox va lancer un &#233;quivalent du troph&#233;e Platine pour r&#233;compenser les jeux finis &#224; 100&#160;%</title>
-      <link>https://www.frandroid.com/marques/microsoft/3259163_xbox-va-lancer-un-equivalent-du-trophee-platine-pour-recompenser-les-jeux-finis-a-100</link>
-      <pubDate>Thu, 24 Sep 2026 08:51:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3259163_xbox-va-lancer-un-equivalent-du-trophee-platine-pour-recompenser-les-jeux-finis-a-100</guid>
+      <title>Tapez juste &#171; @ &#187; : cette nouvelle fonction cach&#233;e de Google Docs va compl&#232;tement r&#233;volutionner la r&#233;daction d&#8217;un document</title>
+      <link>https://www.frandroid.com/marques/google/3259599_tapez-juste-cette-nouvelle-fonction-cachee-de-google-docs-va-completement-revolutionner-la-redaction-dun-document</link>
+      <pubDate>Thu, 24 Sep 2026 14:28:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3259599_tapez-juste-cette-nouvelle-fonction-cachee-de-google-docs-va-completement-revolutionner-la-redaction-dun-document</guid>
       <description>
-Xbox pr&#233;pare un &#171;&#160;succ&#232;s Mythique&#160;&#187;. Cette r&#233;compense sera attribu&#233;e quand on aura d&#233;bloqu&#233; tous les succ&#232;s de base d'un jeu, comme le troph&#233;e Platine de PlayStation. Le site TrueAchievements a d&#233;taill&#233; son fonctionnement ce mercredi 23 septembre, mais Microsoft n'a encore rien confirm&#233;.
+Google fait le lien entre Docs et Gemini Notebook, l'outil de recherche et de prise de notes par IA. Vos &#171; notebooks &#187; peuvent maintenant servir de sources pour la r&#233;daction d'un document.
 </description>
     </item>
     <item>
-      <title>Adidas X Pok&#233;mon collab: can you tell which shoe goes with which Pok&#233;mon?</title>
-      <link>https://www.techradar.com/gaming/adidas-x-pokemon-collab-can-you-tell-which-shoe-goes-with-which-pokemon</link>
-      <pubDate>Thu, 24 Sep 2026 08:48:11 +0000</pubDate>
-      <guid isPermaLink="false">SznBLpNvpoyxPzMGtAp7TR</guid>
-      <description>Some are obvious &#8212; but some are fiendishly tricky.</description>
-    </item>
-    <item>
-      <title>Control Resonant at 5K2K resolution with path tracing? Yeah, it's a blast</title>
-      <link>https://www.techradar.com/gaming/pc-gaming/control-resonant-is-an-absolute-dream-at-5k2k-with-path-tracing-enabled-but-the-usd3-000-price-of-the-pc-setup-needed-for-it-is-a-real-nightmare</link>
-      <pubDate>Thu, 24 Sep 2026 08:47:04 +0000</pubDate>
-      <guid isPermaLink="false">GTmumcT3eSxENc8vvZGhvT</guid>
-      <description>Control Resonant at 5K2K using path tracing on an RTX 4080 Super is one of the best ways to experience Remedy's visual masterpiece.</description>
-    </item>
-    <item>
-      <title>Rachat de SFR&#160;: 5&#160;000 emplois menac&#233;s d&#8217;ici 2029, les salari&#233;s en gr&#232;ve ce jeudi</title>
-      <link>https://www.01net.com/actualites/rachat-de-sfr-5-000-emplois-menaces-dici-2029-les-salaries-en-greve-ce-jeudi.html</link>
-      <pubDate>Thu, 24 Sep 2026 08:46:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371177</guid>
-      <description>Alors que pr&#232;s de 5000 emplois sont menac&#233;s dans le rachat de SFR, les repr&#233;sentants syndicaux et les d&#233;l&#233;gu&#233;s du personnel organisent la riposte. Une gr&#232;ve et pr&#233;vue ce jeudi apr&#232;s-midi, et deux actions en justice sont en cours.</description>
-    </item>
-    <item>
-      <title>Xiaomi lance les Pad 9 et 9 Pro pour concurrencer les iPad avec de grands &#233;crans et de grosses batteries</title>
-      <link>https://www.frandroid.com/produits-android/3258999_xiaomi-lance-les-pad-9-et-9-pro-pour-concurrencer-les-ipad-avec-de-grands-ecrans-et-de-grosses-batteries</link>
-      <pubDate>Thu, 24 Sep 2026 08:41:33 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/3258999_xiaomi-lance-les-pad-9-et-9-pro-pour-concurrencer-les-ipad-avec-de-grands-ecrans-et-de-grosses-batteries</guid>
+      <title>Gemini 4 en post-entra&#238;nement : Google promet une sortie avant la fin 2026</title>
+      <link>https://www.frandroid.com/marques/3259813_gemini-4-en-post-entrainement-google-promet-une-sortie-avant-la-fin-2026</link>
+      <pubDate>Thu, 24 Sep 2026 14:21:05 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3259813_gemini-4-en-post-entrainement-google-promet-une-sortie-avant-la-fin-2026</guid>
       <description>
-En marge de sa s&#233;rie Xiaomi 18, le constructeur chinois l&#232;ve le voile sur ses nouvelles Pad 9 et Pad 9 Pro. La premi&#232;re est plut&#244;t sage alors que la seconde muscle nettement son jeu.
+Koray Kavukcuoglu, nouveau patron de Google DeepMind, a confirm&#233; cette semaine que Gemini 4 est entr&#233; en phase de post-entra&#238;nement et sortira &#171;&#160;bien avant la fin de l'ann&#233;e 2026&#160;&#187;. C'&#233;tait sa premi&#232;re prise de parole publique depuis sa nomination en ao&#251;t.
 </description>
     </item>
     <item>
-      <title>La r&#233;cente Amazfit Active 3 Premium est &#224; prix cass&#233; pour la French Week sur Amazon</title>
-      <link>https://www.frandroid.com/bons-plans/3170175_la-recente-amazfit-active-3-premium-est-deja-a-prix-casse-pour-la-french-week-sur-amazon</link>
-      <pubDate>Thu, 24 Sep 2026 08:39:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3170175_la-recente-amazfit-active-3-premium-est-deja-a-prix-casse-pour-la-french-week-sur-amazon</guid>
+      <title>Google is sending an AI satellite into space next week</title>
+      <link>https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher</link>
+      <pubDate>2026-09-24T10:15:17-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1000015</guid>
+      <description>Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]</description>
+    </item>
+    <item>
+      <title>The vibes are bad for Flock in Washington</title>
+      <link>https://www.theverge.com/policy/1000005/flock-senate-hearing</link>
+      <pubDate>2026-09-24T10:15:05-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1000005</guid>
+      <description>Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its "AI Surveillance Network" on Wednesday. "There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock," Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]</description>
+    </item>
+    <item>
+      <title>I have some questions for Mark Zuckerberg</title>
+      <link>https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</link>
+      <pubDate>2026-09-24T10:15:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999383</guid>
+      <description>It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it &#8212; it is surprisingly good.&#160; CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [&#8230;]</description>
+    </item>
+    <item>
+      <title>Forget to turn on your VPN? Opera's free browser VPN now does it for you on public Wi-Fi</title>
+      <link>https://www.techradar.com/vpn/vpn-services/forget-to-turn-on-your-vpn-operas-free-browser-vpn-now-does-it-for-you-on-public-wi-fi</link>
+      <pubDate>Thu, 24 Sep 2026 14:14:26 +0000</pubDate>
+      <guid isPermaLink="false">gvsphfigKdZ3wp6eFpZEG7</guid>
+      <description>Opera's free browser VPN can now turn on automatically on public or unsecured Wi-Fi. Here's what's new, why it matters, and how Free compares to Pro.</description>
+    </item>
+    <item>
+      <title>White House ordered to &#8216;immediately return, reinstate, and restore&#8217; access for 3 news outlets</title>
+      <link>https://www.fastcompany.com/91612468/white-house-ordered-immediately-return-reinstate-restore-access-3-news-outlets</link>
+      <pubDate>2026-09-24T14:03:38</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91612468/white-house-ordered-immediately-return-reinstate-restore-access-3-news-outlets</guid>
+      <description>U.S. District Judge Timothy Kelly temporarily blocked Trump&#8217;s media ban. 
+A federal judge temporarily blocked President Donald Trump&#8217;s ban of three news outlets from the White House grounds, ordering early Thursday that CNN, MS NOW and Politico must have their access restored.The ruling hands the outlets at least a temporary reprieve in what has been an extraordinary showdown between Trump and media outlets whose coverage he dislikes.Trump first announced he was banning the outlets Friday, assailing what he called &#8220;fake news,&#8221; and only later arguing that their reporting was a risk to national ...</description>
+    </item>
+    <item>
+      <title>2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass &#8212; reason 4 of 5 to attend</title>
+      <link>https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/</link>
+      <pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168643</guid>
+      <description>Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.</description>
+    </item>
+    <item>
+      <title>Meta Ray-Ban Gen 3 vs Meta Ray-Ban Gen 2: should you upgrade?</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-ray-ban-gen-3-vs-meta-ray-ban-gen-2-should-you-upgrade-to-the-new-smart-glasses</link>
+      <pubDate>Thu, 24 Sep 2026 13:54:19 +0000</pubDate>
+      <guid isPermaLink="false">GbXD6GSGf2WYHDC4YvGoG7</guid>
+      <description>Meta has a new pair of smart glasses for your consideration, and here are the upgrades they bring.</description>
+    </item>
+    <item>
+      <title>Waymo&#8217;s driverless cars continue to crash less often than people</title>
+      <link>https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver</link>
+      <pubDate>2026-09-24T09:53:01-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999891</guid>
+      <description>Waymo's latest batch of self-reported data continues to affirm the company's message that its driverless cars are safer than human drivers. As policymakers continue to debate the safety and economic impact of autonomous vehicles, Waymo is hoping that its own data will help bring more supporters to its side - even as some experts say [&#8230;]</description>
+    </item>
+    <item>
+      <title>How to watch Marble Hall Murders online from anywhere &#8211; it's *FREE*</title>
+      <link>https://www.techradar.com/how-to-watch/marble-hall-murders-free</link>
+      <pubDate>Thu, 24 Sep 2026 13:50:39 +0000</pubDate>
+      <guid isPermaLink="false">R8VLY9DNVMHxJfz8NbTgd3</guid>
+      <description>Here's how to watch Marble Hall Murders online for free from anywhere in the world.</description>
+    </item>
+    <item>
+      <title>Microsoft is reportedly no longer censoring 'Microslop' posts on Discord</title>
+      <link>https://www.techradar.com/computing/windows/microsoft-is-trying-to-forget-microslop-now-rather-than-censor-the-word-but-i-think-its-a-term-thatll-hang-around-the-firms-neck-for-the-rest-of-time</link>
+      <pubDate>Thu, 24 Sep 2026 13:46:52 +0000</pubDate>
+      <guid isPermaLink="false">2ggzrx4p3WnA2apYqcDQVW</guid>
+      <description>Microsoft is reportedly no longer censoring 'Microslop' posts &#8212; but if it's hopeful the term will die off now, it can think again.</description>
+    </item>
+    <item>
+      <title>As GPU prices rise, modders bring new features to older Nvidia hardware</title>
+      <link>https://www.techradar.com/computing/gpu/modders-do-what-nvidia-refuses-and-bring-new-features-to-older-gpus-and-its-time-team-green-admits-were-being-priced-out-of-new-graphics-cards</link>
+      <pubDate>Thu, 24 Sep 2026 13:42:48 +0000</pubDate>
+      <guid isPermaLink="false">hnzHuGvD86eexzqWB2mbke</guid>
+      <description>Someone got Nvidia's driver-level Frame Generation working on RTX 3000 series GPUs, via a mod, and maybe it's time for Nvidia to work up official implementations.</description>
+    </item>
+    <item>
+      <title>Starbucks store closures: List of doomed locations includes another 250 coffeehouses, 1 year after earlier cull</title>
+      <link>https://www.fastcompany.com/91612436/starbucks-stores-closing-list-doomed-locations-grow-250-cafes</link>
+      <pubDate>2026-09-24T13:41:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91612436/starbucks-stores-closing-list-doomed-locations-grow-250-cafes</guid>
+      <description>The coffee giant said it expects the closures to happen this week at locations where financial performance or the store experience didn&#8217;t meet expectations.
+Starbucks Coffee Company announced today that it will close approximately 250 North American stores later this week. </description>
+    </item>
+    <item>
+      <title>How small businesses can use NodeJS to save time and money</title>
+      <link>https://www.techradar.com/pro/how-small-businesses-can-use-nodejs-to-save-time-and-money</link>
+      <pubDate>Thu, 24 Sep 2026 13:36:42 +0000</pubDate>
+      <guid isPermaLink="false">TstPEtw9oL9zmFAspDi9f5</guid>
+      <description>Learn how NodeJS helps small businesses automate admin, connect apps, and cut hosting costs, plus the limitations and security risks to plan around.</description>
+    </item>
+    <item>
+      <title>Claude aurait d&#233;couvert un secret de l&#8217;ADN, et personne ne sait &#224; quoi il sert</title>
+      <link>https://www.01net.com/actualites/claude-aurait-decouvert-un-secret-de-ladn-et-personne-ne-sait-a-quoi-il-sert.html</link>
+      <pubDate>Thu, 24 Sep 2026 13:33:12 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1371232</guid>
+      <description>Des centaines d'agents l&#226;ch&#233;s sur des virus pendant 21 heures, une trouvaille g&#233;n&#233;tique in&#233;dite &#224; l'arriv&#233;e, et une question toujours sans r&#233;ponse : &#224; quoi sert-elle ? La premi&#232;re d&#233;couverte du labo de biologie d'Anthropic m&#233;rite l'attention, et des pincettes.</description>
+    </item>
+    <item>
+      <title>Meta&#8217;s Muse AI Charms can interact with each other</title>
+      <link>https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem</link>
+      <pubDate>2026-09-24T09:31:43-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999944</guid>
+      <description>Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on Wednesday. The Muse Charm houses the [&#8230;]</description>
+    </item>
+    <item>
+      <title>Everything is spying on you and there&amp;#8217;s no opting out</title>
+      <link>https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance</link>
+      <pubDate>2026-09-24T09:30:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=999889</guid>
+      <description>Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the features, especially in nonpublic spaces and states [&#8230;]</description>
+    </item>
+    <item>
+      <title>3 useful iOS 27 features that you may not know of in Apple&#8217;s latest update</title>
+      <link>https://www.fastcompany.com/91612461/3-useful-ios-27-features-you-may-not-know-apples-latest-update</link>
+      <pubDate>2026-09-24T13:29:14</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91612461/3-useful-ios-27-features-you-may-not-know-apples-latest-update</guid>
+      <description>Some of the more interesting features in the mobile update include Ask to Browse and Notify Me. 
+Apple&#8217;s latest mobile operating system update, iOS 27, rolled out last week, headlined by a more advanced version of its Siri assistant. But it also comes with a slew of other useful but less well known features for iPhone users.The software upgrade, which is available for devices dating back to the iPhone 11 from 2019, includes a number of refinements and improvements to make things run faster, such as apps loading more quickly.There are new features powered by Apple Intelligence, but they&#8217;re only...</description>
+    </item>
+    <item>
+      <title>Moon phase today: What the Moon will look like on September 24, 2026</title>
+      <link>https://mashable.com/science/moon-phase-today-sept-24-2026</link>
+      <pubDate>Thu, 24 Sep 2026 13:23:52 +0000</pubDate>
+      <guid isPermaLink="false">06qC2S5wlAWFVRByj09BuH2</guid>
+      <description>See the Moon phase expected for September 24, 2026 as well as when the next Full Moon is expected.</description>
+    </item>
+    <item>
+      <title>Avis aux sportifs, cette ceinture cardio Garmin de r&#233;f&#233;rence est brad&#233;e &#224; moins de 60 &#8364; sur Amazon</title>
+      <link>https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-moins-de-60-euros-sur-amazon</link>
+      <pubDate>Thu, 24 Sep 2026 13:21:59 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-moins-de-60-euros-sur-amazon</guid>
       <description>
-Lanc&#233;e en d&#233;but d'ann&#233;e, l'Amazfit Active 3 Premium est une montre connect&#233;e de sport bien plus accessible que nombre de ses concurrentes. En ce moment, on peut la trouver &#224; 133,66 euros au lieu de 169,90 euros gr&#226;ce &#224; un code promo sur Amazon. 
+La Garmin HRM 200 est une ceinture cardio int&#233;ressante gr&#226;ce &#224; son module amovible pour facilement changer la sangle si besoin. En ce moment, elle est affich&#233;e &#224; 59,99 euros au lieu de 89,99 euros sur Amazon gr&#226;ce &#224; un code promo r&#233;serv&#233; aux membres Prime.
 </description>
     </item>
     <item>
-      <title>Bentley Torcal : et si c&#8217;&#233;tait un Porsche Cayenne en smoking ?</title>
-      <link>https://www.frandroid.com/marques/porsche/3259137_bentley-torcal-et-si-cetait-un-porsche-cayenne-en-smoking</link>
-      <pubDate>Thu, 24 Sep 2026 08:36:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/porsche/3259137_bentley-torcal-et-si-cetait-un-porsche-cayenne-en-smoking</guid>
+      <title>Save $100 on an 11-inch iPad Air &#8212; our experts favorite early Prime Day iPad deal</title>
+      <link>https://mashable.com/tech/sept-24-apple-ipad-air-13-inch-deal</link>
+      <pubDate>Thu, 24 Sep 2026 13:16:02 +0000</pubDate>
+      <guid isPermaLink="false">064J3qkrHw3N99RTEmpMAbw</guid>
+      <description>Get the best Apple iPad deal at Amazon. Save $100 on the Apple iPad Air (M4) 11-inch at Amazon.</description>
+    </item>
+    <item>
+      <title>Blackpink&#8217;s Lisa gives Meta&#8217;s AI smart glasses a major high-fashion makeover &#8212; where to buy</title>
+      <link>https://mashable.com/tech/meta-glasses-lisa-where-to-buy</link>
+      <pubDate>Thu, 24 Sep 2026 13:12:39 +0000</pubDate>
+      <guid isPermaLink="false">04vqdD4LM2V52gM1I2ilQMW</guid>
+      <description>Meta launches special edition Meta Glasses by Lisa in Capri cat-eye and Adventurer styles for $399. They feature custom star details, pet charms, and Meta AI.</description>
+    </item>
+    <item>
+      <title>Logitech&#8217;s new haptics-based gaming mouse is a little better and $20 more</title>
+      <link>https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price</link>
+      <pubDate>2026-09-24T09:04:27-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=998266</guid>
+      <description>The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in [&#8230;]</description>
+    </item>
+    <item>
+      <title>Jenny Hoyos wants to be your internet best friend. YouTube wants to make that easier.</title>
+      <link>https://mashable.com/life/jenny-hoyos-youtube-community-features-creators</link>
+      <pubDate>Thu, 24 Sep 2026 13:03:09 +0000</pubDate>
+      <guid isPermaLink="false">04PMXbF8TqhNen6Mzz2RgFp</guid>
+      <description>As creator audiences grow, YouTube is building more ways to keep those relationships feeling personal &#8212; and to help creators make money.</description>
+    </item>
+    <item>
+      <title>Comment changer ses DNS sur Windows, Android, iPhone pour acc&#233;der &#224; un web plus rapide ?</title>
+      <link>https://www.frandroid.com/comment-faire/499707_dns-comment-avoir-acces-a-un-web-sans-censure-et-plus-rapide-sur-android</link>
+      <pubDate>Thu, 24 Sep 2026 13:00:41 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/comment-faire/499707_dns-comment-avoir-acces-a-un-web-sans-censure-et-plus-rapide-sur-android</guid>
       <description>
-Bentley a pr&#233;sent&#233; le 23 septembre 2026 &#224; Londres le Torcal, son tout premier v&#233;hicule 100 % &#233;lectrique&#160;: un SUV de 888 chevaux et jusqu'&#224; 600 km d'autonomie WLTP. La marque britannique d&#233;barque sur ce terrain plusieurs ann&#233;es apr&#232;s Rolls-Royce, Porsche et Mercedes.
+Le serveur DNS est le premier interm&#233;diaire entre nos appareils et le site web. Selon son fournisseur, cela peut poser des probl&#232;mes. Avec ce dossier, vous en saurez plus sur cet &#233;l&#233;ment cl&#233; du web, quel serveur choisir pour surfer plus vite et comment configurer son smartphone Android ou iOS ou son PC.
 </description>
     </item>
     <item>
-      <title>YouTube d&#233;ploie une fonction pour cr&#233;er plusieurs pages d&#8217;accueil selon vos envies</title>
-      <link>https://www.frandroid.com/marques/google/3258763_youtube-deploie-une-fonction-pour-creer-plusieurs-pages-daccueil-selon-vos-envies</link>
-      <pubDate>Thu, 24 Sep 2026 08:29:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3258763_youtube-deploie-une-fonction-pour-creer-plusieurs-pages-daccueil-selon-vos-envies</guid>
-      <description>
-YouTube veut donner davantage de contr&#244;le &#224; ses utilisateurs sur leur page d&#8217;accueil. La plateforme a annonc&#233; ce mercredi 23 septembre une fonctionnalit&#233; qui permet de cr&#233;er plusieurs fils de recommandations adapt&#233;s &#224; leurs envies, d'abord aux &#201;tats-Unis.&#160;
-</description>
+      <title>How to watch Presidents Cup 2026: Live Stream Team USA vs Team International, TV Channels, Full Preview</title>
+      <link>https://www.techradar.com/how-to-watch/tennis/presidents-cup-2026</link>
+      <pubDate>Thu, 24 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">aJ29eqcFda8CEQD84kNqhH</guid>
+      <description>All the ways to watch Presidents Cup 2026 live streams, at Medinah, as the Team International seek victory over Team USA for the first time since 1998.</description>
     </item>
     <item>
-      <title>Enterprise AI has a memory problem, but businesses have the answer</title>
-      <link>https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer</link>
-      <pubDate>Thu, 24 Sep 2026 08:21:05 +0000</pubDate>
-      <guid isPermaLink="false">YvkePMUxpi29b3ThKhni7h</guid>
-      <description>What if the secret to better AI memory isn&#8217;t better models, but better business knowledge?</description>
+      <title>Massive Chinese hack uses AI agents to steal over 600,000 credit cards and hit hundreds of sites with malware</title>
+      <link>https://www.techradar.com/pro/security/massive-chinese-hack-uses-ai-agents-to-steal-over-600-000-credit-cards-and-hit-hundreds-of-sites-with-malware</link>
+      <pubDate>Thu, 24 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9v8TpKaEhecTApM5ByfcoK</guid>
+      <description>Three AI frameworks operated almost entirely on their own.</description>
     </item>
     <item>
-      <title>GDDR7 : pourquoi ces nouveaux modules vont rendre les cartes graphiques abordables bien plus sexy</title>
-      <link>https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3258851_gddr7-pourquoi-ces-nouveaux-modules-vont-rendre-les-cartes-graphiques-abordables-bien-plus-sexy</link>
-      <pubDate>Thu, 24 Sep 2026 08:20:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3258851_gddr7-pourquoi-ces-nouveaux-modules-vont-rendre-les-cartes-graphiques-abordables-bien-plus-sexy</guid>
-      <description>
-Les premiers modules GDDR7 de 4 et 6 Go arriveraient sur le march&#233; &#224; l'horizon 2027-2028. Une excellente nouvelle pour les cartes graphiques d'entr&#233;e de gamme, qui pourraient ainsi embarquer beaucoup plus de m&#233;moire vid&#233;o... sans s'&#233;quiper de bus plus larges (qui feraient exploser leurs prix).
-</description>
+      <title>New app from former Tinder exec turns anyone into a matchmaker</title>
+      <link>https://mashable.com/life/rivet-dating-app-launch-from-former-tinder-match-exec</link>
+      <pubDate>Thu, 24 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04X9KKpyQmCLYWZI8lfqCFw</guid>
+      <description>Former Match and Tinder exec Taru Kapoor launches Rivet, an app where everyone matchmakes.</description>
     </item>
     <item>
-      <title>&#171;&#160;La radio n&#8217;est pas une option&#160;&#187; : pour &#233;viter sa disparition des voitures, les radios fran&#231;aises montent au cr&#233;neau</title>
-      <link>https://www.01net.com/actualites/radio-pas-une-option-pour-eviter-disparition-des-voitures-radios-francaises-montent-au-creneau.html</link>
-      <pubDate>Thu, 24 Sep 2026 08:20:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371157</guid>
-      <description>Radio France, l'Alliance de la radio et les radios associatives demandent au gouvernement que l'acc&#232;s &#224; la radio hertzienne reste garanti dans les v&#233;hicules neufs. Face &#224; la disparition programm&#233;e des r&#233;cepteurs FM et DAB+ sur certains mod&#232;les, des mesures concr&#232;tes sont demand&#233;es.</description>
-    </item>
-    <item>
-      <title>Microsoft renouvelle ses Surface Pro et Laptop compacts, mais les prix s&#8217;envolent au-dessus de 1 200 euros</title>
-      <link>https://www.frandroid.com/marques/microsoft/3259059_microsoft-renouvelle-ses-surface-pro-et-laptop-compacts-mais-les-prix-senvolent-au-dessus-de-1-200-euros</link>
-      <pubDate>Thu, 24 Sep 2026 08:19:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3259059_microsoft-renouvelle-ses-surface-pro-et-laptop-compacts-mais-les-prix-senvolent-au-dessus-de-1-200-euros</guid>
-      <description>
-Microsoft a pr&#233;sent&#233; ce mercredi 23 septembre les deuxi&#232;mes &#233;ditions de sa Surface Pro 12 pouces et de son Surface Laptop 13 pouces. Les deux machines sont &#233;quip&#233;es de la puce Snapdragon X2 Plus de Qualcomm et d&#233;marrent &#224; 1 259 et 1 319 euros. Les versions avec 8 Go de m&#233;moire vive ne sont pas reconduites.
-</description>
-    </item>
-    <item>
-      <title>10 &#224; 70&#160;% en 4 minutes&#160;: Geely met une petite claque &#224; son rival BYD sur la recharge des voitures &#233;lectriques</title>
-      <link>https://www.frandroid.com/marques/geely/3258915_10-a-70-en-4-minutes-geely-met-une-petite-claque-a-son-rival-byd-sur-la-recharge-des-voitures-electriques</link>
-      <pubDate>Thu, 24 Sep 2026 08:18:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/geely/3258915_10-a-70-en-4-minutes-geely-met-une-petite-claque-a-son-rival-byd-sur-la-recharge-des-voitures-electriques</guid>
-      <description>
-La firme chinoise Geely riposte face &#224; BYD et a d&#233;voil&#233; sa nouvelle technologie de charge ultra-rapide &#224; 2,25 MW. De quoi recharger une voiture &#233;lectrique de 10 &#224; 70 % en quatre minutes et demie, selon le constructeur.
-</description>
-    </item>
-    <item>
-      <title>Apr&#232;s les avoir install&#233;es de force sur votre PC, Microsoft abandonne ces 3 applications</title>
-      <link>https://www.01net.com/actualites/apres-les-avoir-installees-de-force-sur-votre-pc-microsoft-abandonne-ces-3-applications.html</link>
-      <pubDate>Thu, 24 Sep 2026 08:07:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371167</guid>
-      <description>Les applications compagnons de Microsoft 365 vont dispara&#238;tre. Moins d&#8217;un an apr&#232;s les avoir install&#233;es de force sur votre PC, Microsoft vient d&#8217;officialiser leur abandon.</description>
-    </item>
-    <item>
-      <title>An OpenAI agent hacked the Australian government</title>
-      <link>https://mashable.com/tech/openai-hack-australian-government-ai-agent</link>
-      <pubDate>Thu, 24 Sep 2026 08:04:57 +0000</pubDate>
-      <guid isPermaLink="false">07Ee6qkTnV9Vqw9ugJRok81</guid>
-      <description>An OpenAI agent hacked the Australian government's healthcare system, gaining access to non-public information and writing files to the server.</description>
-    </item>
-    <item>
-      <title>C&#8217;est quoi Muse ? L&#8217;ingr&#233;dient de Meta pour faire des lunettes plus intelligentes que jamais</title>
-      <link>https://www.frandroid.com/marques/meta/3258813_cest-quoi-muse-lingredient-de-meta-pour-faire-des-lunettes-plus-intelligentes-que-jamais</link>
-      <pubDate>Thu, 24 Sep 2026 08:04:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3258813_cest-quoi-muse-lingredient-de-meta-pour-faire-des-lunettes-plus-intelligentes-que-jamais</guid>
-      <description>
-Pendant la Meta Connect 2026, Meta a annonc&#233; que Muse, son agent IA, arrivera sur ses lunettes connect&#233;es dans les prochains mois, mais uniquement aux &#201;tats-Unis dans un premier temps.
-</description>
-    </item>
-    <item>
-      <title>Moins de 15 000 euros et de 10 &#224; 70 % en 8 minutes : ce nouveau SUV &#233;lectrique chinois d&#233;gaine de gros atouts</title>
-      <link>https://www.frandroid.com/marques/geely/3258857_moins-de-15-000-euros-et-de-10-a-70-en-8-minutes-ce-nouveau-suv-electrique-chinois-degaine-de-gros-atouts</link>
-      <pubDate>Thu, 24 Sep 2026 08:02:16 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/geely/3258857_moins-de-15-000-euros-et-de-10-a-70-en-8-minutes-ce-nouveau-suv-electrique-chinois-degaine-de-gros-atouts</guid>
-      <description>
-Le constructeur chinois Geely lance officiellement son nouvel EX5 en Chine. Version revue de la voiture &#233;lectrique d&#233;j&#224; vendue en Europe, elle passe &#224; la propulsion et accepte d&#233;sormais une charge jusqu&#8217;&#224; 460 kW.
-</description>
-    </item>
-    <item>
-      <title>5 ways to read the room like a pro</title>
-      <link>https://www.fastcompany.com/91610786/reading-a-room</link>
-      <pubDate>2026-09-24T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91610786/reading-a-room</guid>
-      <description>Decoding meeting dynamics isn&#8217;t an instinct&#8212;it&#8217;s a skill you can hone.
-Below, Pamela Meyer shares five key insights from her new book,&#160;How to Read the Room: The Art and Science of Social Observation.</description>
-    </item>
-    <item>
-      <title>&#8216;Hushed coping&#8217;: The quiet way women sabotage themselves at work</title>
-      <link>https://www.fastcompany.com/91611930/hushed-coping-the-quiet-way-women-sabotage-themselves-at-work</link>
-      <pubDate>2026-09-24T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91611930/hushed-coping-the-quiet-way-women-sabotage-themselves-at-work</guid>
-      <description>Women often hide their stress to avoid appearing emotional or unprofessional. But staying silent can come with its own career costs.
-If you&#8217;re often seeking out quiet places at work to hide, scream, let off steam, or even cry, only to emerge sometime later acting as if everything is fine, you may be prone to something called &#8220;hushed coping.&#8221; And it might be holding you back in your career, especially if you&#8217;re a woman.&#160;...</description>
-    </item>
-    <item>
-      <title>Dont wait for Lego deals: We found early Prime Day deals on Lego Star Wars, Lego Pok&#233;mon, and more</title>
-      <link>https://mashable.com/life/best-early-amazon-october-prime-day-lego-deals-2026</link>
-      <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03vUKp4sVEQuh94qv2BhpWh</guid>
-      <description>Tons of Lego sets are already on sale at Amazon ahead of its Prime Big Deal Days sale, including select Lego Botanicals builds, Lego Pok&#233;mon, and more.</description>
-    </item>
-    <item>
-      <title>Apple a d&#233;voil&#233; ses AirPods 5, mais les AirPods 4 avec ANC en promo &#224; seulement 125 &#8364; sont une excellente alternative</title>
-      <link>https://www.frandroid.com/bons-plans/3253789_apple-a-devoile-ses-airpods-5-mais-les-airpods-4-avec-anc-en-promo-a-seulement-125-euros-sont-une-excellente-alternative</link>
-      <pubDate>Thu, 24 Sep 2026 07:53:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3253789_apple-a-devoile-ses-airpods-5-mais-les-airpods-4-avec-anc-en-promo-a-seulement-125-euros-sont-une-excellente-alternative</guid>
-      <description>
-R&#233;duction de bruit active efficace malgr&#233; leur format ouvert, int&#233;gration parfaite &#224; l'&#233;cosyst&#232;me Apple... Les AirPods 4 sont encore nettement recommandables, et ce, malgr&#233; la r&#233;cente officialisation des AirPods 5. En plus, les anciens true wireless avec ANC de la marque n'ont jamais &#233;t&#233; aussi peu chers sur Cdiscount : ils y sont propos&#233;s &#224; 124,99 euros au lieu de 199 euros gr&#226;ce &#224; un code promo.
-...</description>
-    </item>
-    <item>
-      <title>Meta d&#233;voile Muse Charm son porte-cl&#233;s IA fa&#231;on Tamagotchi</title>
-      <link>https://www.frandroid.com/marques/meta/3258835_meta-devoile-muse-charm-son-porte-cles-ia-facon-tamagotchi</link>
-      <pubDate>Thu, 24 Sep 2026 07:53:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/meta/3258835_meta-devoile-muse-charm-son-porte-cles-ia-facon-tamagotchi</guid>
-      <description>
-Meta se lance &#224; son tour dans les gadgets IA &#224; garder sur soi. Avec Muse Charm, la firme transforme l&#8217;intelligence artificielle en Tamagotchi &#224; qui l&#8217;on peut donner un visage et une personnalit&#233;.
-</description>
-    </item>
-    <item>
-      <title>Snapdragon Sound Elite Gen 2 : Qualcomm veut transformer vos &#233;couteurs en v&#233;ritable assistant personnel</title>
-      <link>https://www.frandroid.com/produits-android/audio/3258939_snapdragon-sound-elite-gen-2-qualcomm-veut-transformer-vos-ecouteurs-en-veritable-assistant-personnel</link>
-      <pubDate>Thu, 24 Sep 2026 07:43:18 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/audio/3258939_snapdragon-sound-elite-gen-2-qualcomm-veut-transformer-vos-ecouteurs-en-veritable-assistant-personnel</guid>
-      <description>
-Qualcomm a pr&#233;sent&#233; au Snapdragon Summit de Maui sa nouvelle puce audio, Snapdragon Sound Elite Gen 2. Cette plateforme doit permettre aux &#233;couteurs, casques et lunettes connect&#233;es de faire tourner davantage d'IA et de se connecter seuls &#224; Internet en Wi-Fi, sans passer par le smartphone.
-</description>
+      <title>Australia to investigate if OpenAI hack of government health website broke the law</title>
+      <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</link>
+      <pubDate>Thu, 24 Sep 2026 12:54:19 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168743</guid>
+      <description>The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.</description>
     </item>
   </channel>
 </rss>
