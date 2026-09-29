@@ -3,350 +3,190 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 29 Sep 2026 15:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:33:34 GMT</lastBuildDate>
     <item>
-      <title>I splurged on Breville&#8217;s Barista Touch espresso maker, and it changed my mornings &#8212; it's now $200 off for National Coffee Day</title>
-      <link>https://www.techradar.com/home/coffee-machines/i-splurged-on-brevilles-barista-touch-espresso-maker-and-it-changed-my-mornings-its-now-usd200-off-for-national-coffee-day</link>
-      <pubDate>Tue, 29 Sep 2026 15:27:45 +0000</pubDate>
-      <guid isPermaLink="false">odWiw2ht22J8HNaH3WwUuC</guid>
-      <description>I splurged on the five-star-rated Breville Barista Touch espresso maker, and it changed my mornings, and it's now $200 off at Amazon for National Coffee Day.</description>
+      <title>Apple updates Final Cut Camera to support the iPhone 18 Pro's variable aperture</title>
+      <link>https://www.engadget.com/2272667/apple-updates-final-cut-camera-to-support-the-iphone-18-pro-s-variable-aperture/</link>
+      <pubDate>Tue, 29 Sep 2026 20:17:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2272667/apple-updates-final-cut-camera-to-support-the-iphone-18-pro-s-variable-aperture/</guid>
+      <description>The company is also rolling out new features across several of its Creator Studio apps.</description>
     </item>
     <item>
-      <title>On a trouv&#233; le v&#233;lo de route &#233;lectrique id&#233;al pour tous les cyclistes, et Decathlon lui retire 1 200 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/2960377_on-a-trouve-le-velo-de-route-electrique-ideal-pour-tous-les-cyclistes-et-decathlon-lui-retire-1-200</link>
-      <pubDate>Tue, 29 Sep 2026 15:23:43 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/2960377_on-a-trouve-le-velo-de-route-electrique-ideal-pour-tous-les-cyclistes-et-decathlon-lui-retire-1-200</guid>
+      <title>Mozilla deploys a new-look Firefox across desktop and mobile</title>
+      <link>https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/</link>
+      <pubDate>Tue, 29 Sep 2026 20:16:45 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/</guid>
+      <description>The redesigned browser brings back compact mode and adds a theme picker.</description>
+    </item>
+    <item>
+      <title>OpenAI&#8217;s latest features take direct aim at the app store model</title>
+      <link>https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/</link>
+      <pubDate>Tue, 29 Sep 2026 20:15:47 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171583</guid>
+      <description>OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.</description>
+    </item>
+    <item>
+      <title>Could Google kick out Russian apps from Android for good? A new developer verification system may be the first step towards a total ban for Moscow developers, almost 56 months since the start of the Ukraine war</title>
+      <link>https://www.techradar.com/pro/could-google-kick-out-russian-apps-from-android-for-good-a-new-developer-verification-system-may-be-the-first-step-towards-a-total-ban-for-moscow-developers-almost-56-months-since-the-start-of-the-ukraine-war</link>
+      <pubDate>Tue, 29 Sep 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">afpMuB4d4kXYKsfPkSkFdj</guid>
+      <description>Russia fears Google&#8217;s Android developer verification could make Russian applications harder to install.</description>
+    </item>
+    <item>
+      <title>Attention, Brick users: You can now personalize your phone lock with colorful cases</title>
+      <link>https://mashable.com/tech/brick-cases-phone-lock-device</link>
+      <pubDate>Tue, 29 Sep 2026 20:03:09 +0000</pubDate>
+      <guid isPermaLink="false">030vnjN06zuRJr4RV9znted</guid>
+      <description>Brick has launched color cases for its viral screen time phone lock device. They cost $39 each and come in four colors.</description>
+    </item>
+    <item>
+      <title>The biggest announcements from OpenAI DevDay: Dots, GPT-6.1 Sol, Ultrafast</title>
+      <link>https://mashable.com/tech/openai-devday-2026-biggest-announcements</link>
+      <pubDate>Tue, 29 Sep 2026 19:58:06 +0000</pubDate>
+      <guid isPermaLink="false">0323QdWWAgV3WVM0fpCS7ly</guid>
+      <description>OpenAI unveiled quite a few new products at DevDay 2026, including GPT-6.1 Sol and a new AI agent system called Dots.</description>
+    </item>
+    <item>
+      <title>OpenAI repotedly in talks to raise $30B round at $1.4T valuation</title>
+      <link>https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
+      <pubDate>Tue, 29 Sep 2026 19:52:37 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171634</guid>
+      <description>The new round is anticipated to be the company's last before its delayed 2027 public debut.</description>
+    </item>
+    <item>
+      <title>Google partners with known nerd Henry Cavill on a video game to showcase Googlebooks</title>
+      <link>https://www.engadget.com/2272594/google-henry-cavill-make-video-game-googlebook/</link>
+      <pubDate>Tue, 29 Sep 2026 19:49:27 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2272594/google-henry-cavill-make-video-game-googlebook/</guid>
+      <description>The final result will be published in November.</description>
+    </item>
+    <item>
+      <title>I found the best iPhone 18 Pro cases and grips to protect your new phone</title>
+      <link>https://mashable.com/tech/best-iphone-18-pro-max-cases-grips-otterbox-casetify-apple-popsockets</link>
+      <pubDate>Tue, 29 Sep 2026 19:43:53 +0000</pubDate>
+      <guid isPermaLink="false">06kExChH7iolcEbKbbfgUmN</guid>
+      <description>The newest iPhones are here. I went searching for the best iPhone 18 Pro and Pro Max cases from Otterbox, Apple, Popsockets, and more.</description>
+    </item>
+    <item>
+      <title>OpenAI&#8217;s new dots agent comes with a crew of friendly mascots</title>
+      <link>https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots</link>
+      <pubDate>2026-09-29T19:30:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots</guid>
+      <description>You&#8217;d trust a frog named Todd, right?
+OpenAI just announced a new suite of AI agents called &#8220;dots,&#8221; and they look like something you might find in an animated kids show.&#160;</description>
+    </item>
+    <item>
+      <title>Amazon is spending $20 million to support water conservation on the Colorado River &#8212; but still won't say how much water it uses</title>
+      <link>https://www.techradar.com/pro/amazon-is-spending-usd20-million-to-support-water-conservation-on-the-colorado-river-but-still-wont-say-how-much-water-it-uses</link>
+      <pubDate>Tue, 29 Sep 2026 19:20:00 +0000</pubDate>
+      <guid isPermaLink="false">idWffPZd9fy2W2mMSqTqg4</guid>
+      <description>Amazon is investing $20 million to save Colorado River water, but how much of that river it uses remains opaque at best.</description>
+    </item>
+    <item>
+      <title>OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026</title>
+      <link>https://mashable.com/tech/openai-dev-day-dots-ai-agents</link>
+      <pubDate>Tue, 29 Sep 2026 19:15:47 +0000</pubDate>
+      <guid isPermaLink="false">02yMvO9Ls0B7P5ZGkwZrLLy</guid>
+      <description>At OpenAI's annual developer conference, the company made 20 different announcements, but none bigger than the new AI agent, Dots.</description>
+    </item>
+    <item>
+      <title>Xbox just unveiled Mythic Achievements, which are basically PlayStation platinum trophies</title>
+      <link>https://www.engadget.com/2272478/xbox-mythic-achievements-are-here/</link>
+      <pubDate>Tue, 29 Sep 2026 19:05:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2272478/xbox-mythic-achievements-are-here/</guid>
+      <description>They signal to the world that someone has fully completed a game. And they apply retroactively to titles you've already finished.</description>
+    </item>
+    <item>
+      <title>OpenAI Gets Sued Over the Hugging Face Hack</title>
+      <link>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</link>
+      <pubDate>Tue, 29 Sep 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">6abbb69b2122500d82924ae7</guid>
+      <description>A nonprofit in California is doing what Hugging Face has not&#8212;attempting to hold OpenAI legally accountable for the actions of its agents.</description>
+    </item>
+    <item>
+      <title>A family almost let their dad sleep through a stroke, until ChatGPT told them to get help</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/we-almost-let-my-dad-sleep-through-a-stroke-chatgpt-is-the-reason-we-didnt-this-is-exactly-how-i-want-ai-health-advice-to-work</link>
+      <pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8d6kszZy5hgPhE53eUBQKX</guid>
+      <description>Some alarming ChatGPT stories show why AI may be most valuable in healthcare when it recognizes danger and tells you when to get human help</description>
+    </item>
+    <item>
+      <title>U.S. workers spend nearly $7,000 per year just to show up at the office</title>
+      <link>https://www.fastcompany.com/91614983/u-s-workers-spend-nearly-7000-per-year-just-to-show-up-at-the-office</link>
+      <pubDate>2026-09-29T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91614983/u-s-workers-spend-nearly-7000-per-year-just-to-show-up-at-the-office</guid>
+      <description>Surprisingly, the same study found that the &#8216;RTO Tax&#8217; is lowest in some of the country&#8217;s most expensive cities, including New York, Boston, and San Francisco, once salary is factored in. 
+American workers spend an average of $6,736 each year just to show up at the office, according to a recent study by resume-building platform Resume.io.</description>
+    </item>
+    <item>
+      <title>Meta&#8217;s new AI agent gave a stranger a user&#8217;s home address. Then he showed up</title>
+      <link>https://www.fastcompany.com/91614998/metas-new-ai-agent-gave-a-stranger-a-users-home-address-then-he-showed-up</link>
+      <pubDate>2026-09-29T19:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91614998/metas-new-ai-agent-gave-a-stranger-a-users-home-address-then-he-showed-up</guid>
+      <description>A Facebook Marketplace buyer arrived at a seller&#8217;s home after Meta&#8217;s Muse AI agent handled the deal and shared pickup information.
+Another day, another AI agent gone rogue.</description>
+    </item>
+    <item>
+      <title>24 heures apr&#232;s avoir annul&#233; Astra, OpenAI lance GPT-6.1 Sol, class&#233; &#171;&#160;critique&#160;&#187; en cybers&#233;curit&#233;</title>
+      <link>https://www.01net.com/actualites/24-heures-apres-avoir-annule-astra-openai-lance-gpt-6-1-sol-classe-critique-en-cybersecurite.html</link>
+      <pubDate>Tue, 29 Sep 2026 18:58:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1372075</guid>
+      <description>En vingt-quatre heures, OpenAI a rang&#233; au placard son prochain mod&#232;le de pointe pour exc&#232;s de risque, puis mis en vente une d&#233;clinaison presque aussi capable, cinq fois moins ch&#232;re, et officiellement class&#233;e &#171; critique &#187; en cybers&#233;curit&#233;.</description>
+    </item>
+    <item>
+      <title>Acemagic K5 mini PC review</title>
+      <link>https://www.techradar.com/pro/acemagic-k5-review-a-mini-pc-thats-both-exceptional-and-diabolical</link>
+      <pubDate>Tue, 29 Sep 2026 18:50:00 +0000</pubDate>
+      <guid isPermaLink="false">AHMAsRmFXJvgJah63BVY36</guid>
+      <description>The Acemagic K5 uses the new Intel Wild Lake processor that replaces the older N-series chips. but it's a case of new technology, same underlying limitations.</description>
+    </item>
+    <item>
+      <title>More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope</title>
+      <link>https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/</link>
+      <pubDate>Tue, 29 Sep 2026 18:48:03 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171404</guid>
+      <description>Disrupt doesn&#8217;t end when you leave Moscone West. &#128064;
+
+Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.
+
+See what&#8217;s happening, find your people, and start building your calendar.</description>
+    </item>
+    <item>
+      <title>Singapore pilots a government-built dating service</title>
+      <link>https://mashable.com/life/singapore-government-dating-app-first-date</link>
+      <pubDate>Tue, 29 Sep 2026 18:47:21 +0000</pubDate>
+      <guid isPermaLink="false">051r5ES36PSBuhqsMBRTDXK</guid>
+      <description>Singapore's GovTech is piloting FirstDate, a Singpass-verified matchmaking service for public officers amid record-low births.</description>
+    </item>
+    <item>
+      <title>Apple Pay set to launch in India with Axis Bank today, sources say</title>
+      <link>https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/</link>
+      <pubDate>Tue, 29 Sep 2026 18:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171477</guid>
+      <description>Some of India's largest banks are holding off on supporting Apple Pay initially.</description>
+    </item>
+    <item>
+      <title>There's now an official US government AI chatbot</title>
+      <link>https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/</link>
+      <pubDate>Tue, 29 Sep 2026 18:43:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/</guid>
+      <description>The administration wants America.gov to be the main portal for federal services.</description>
+    </item>
+    <item>
+      <title>&#171; Se connecter avec ChatGPT &#187; : votre abonnement OpenAI devient un moyen de d&#233;penser des tokens</title>
+      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3266397_se-connecter-avec-chatgpt-votre-abonnement-openai-devient-un-moyen-de-depenser-des-tokens</link>
+      <pubDate>Tue, 29 Sep 2026 18:41:02 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3266397_se-connecter-avec-chatgpt-votre-abonnement-openai-devient-un-moyen-de-depenser-des-tokens</guid>
       <description>
-Avis aux cyclistes, nous avons d&#233;nich&#232; le v&#233;lo de route &#233;lectrique id&#233;al ! Chez Decathlon, le Van Rysel E-EDR AF b&#233;n&#233;ficie d'une &#233;norme baisse de prix et passe &#224; 1 599 euros au lieu de 2 799 euros. L&#233;ger et performant, il peut d&#233;passer les 100 km d&#8217;autonomie.
+Avec &#171; Se connecter avec ChatGPT &#187;, OpenAI permet d'utiliser les tokens de son abonnement dans des applications tierces. Seize partenaires au lancement, et une facture IA qui ne se d&#233;double plus. Le quota, lui, va fondre plus vite.
 </description>
     </item>
     <item>
-      <title>Instinct founder said more than 50% of transactions on the platform are travel-related</title>
-      <link>https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/</link>
-      <pubDate>Tue, 29 Sep 2026 15:12:07 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171272</guid>
-      <description>Instinct founder said that the platform is growing 10% day-by-day</description>
-    </item>
-    <item>
-      <title>Firefox 157 active Nova, sa plus grosse refonte depuis 2021, et ressort le mode compact</title>
-      <link>https://www.frandroid.com/produits-android/ordinateurs/3265495_firefox-157-active-nova-sa-plus-grosse-refonte-depuis-2021-et-ressort-le-mode-compact</link>
-      <pubDate>Tue, 29 Sep 2026 15:07:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/3265495_firefox-157-active-nova-sa-plus-grosse-refonte-depuis-2021-et-ressort-le-mode-compact</guid>
-      <description>
-Mozilla d&#233;ploie depuis ce mardi 29 septembre Firefox 157, qui active par d&#233;faut Nova, sa nouvelle interface aux onglets arrondis, sur ordinateur et sur mobile. La mise &#224; jour fait aussi revenir le mode compact, une vieille option que les utilisateurs r&#233;clamaient.
-</description>
-    </item>
-    <item>
-      <title>Apple patches CoreGraphics zero-day used in 'extremely sophisticated' targeted attacks on iOS devices</title>
-      <link>https://www.techradar.com/pro/security/apple-patches-coregraphics-zero-day-used-in-extremely-sophisticated-targeted-attacks-on-ios-devices</link>
-      <pubDate>Tue, 29 Sep 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="false">Lv8NAq7BmJQD3iSEpepnTN</guid>
-      <description>iOS, iPadOS, and other operating systems affected, so patch now.</description>
-    </item>
-    <item>
-      <title>Apr&#232;s neuf ans d&#8217;attente, la Tesla Roadster report&#233;e &#224; cause de&#8230; la pluie</title>
-      <link>https://www.01net.com/actualites/apres-neuf-ans-dattente-la-tesla-roadster-reportee-a-cause-de-la-pluie.html</link>
-      <pubDate>Tue, 29 Sep 2026 15:02:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371918</guid>
-      <description>Tesla repousse au 15 octobre la pr&#233;sentation de sa Roadster, initialement pr&#233;vue le 1er, en raison d'un orage annonc&#233; au Texas. Voici ce que l'on sait du calendrier et du mod&#232;le.</description>
-    </item>
-    <item>
-      <title>OpenAI Dev Day 2026: Live updates on the latest ChatGPT and Codex announcements</title>
-      <link>https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/</link>
-      <pubDate>Tue, 29 Sep 2026 15:00:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/</guid>
-      <description>CEO Sam Altman is expected to take the stage today.</description>
-    </item>
-    <item>
-      <title>After losing his voice to cancer, this founder is building &#8220;glasses for voice&#8221;</title>
-      <link>https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/</link>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167664</guid>
-      <description>Uhura Bionics, a TechCrunch Disrupt 2026 Battlefield 200, wants to replace flat, robotics voice devices with one that carries emotions.</description>
-    </item>
-    <item>
-      <title>Fujifilm Instax Pal 2 review: the cutest &#8212; and priciest &#8212; toy camera around</title>
-      <link>https://www.techradar.com/cameras/instant-cameras/fujifilm-instax-pal-2-review</link>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">cytPpKWZnXDJzXHUEFBqBC</guid>
-      <description>The Instax Pal 2 is a cutesy 10MP digital camera with pocket-friendly dimensions, twin displays, multi-sensory controls and wireless image uploads &#8212; but it's not perfect.</description>
-    </item>
-    <item>
-      <title>Oura shelves its $2.2B IPO citing &#8216;uncertainty&#8217; in the market</title>
-      <link>https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/</link>
-      <pubDate>Tue, 29 Sep 2026 14:56:55 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171207</guid>
-      <description>The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.</description>
-    </item>
-    <item>
-      <title>Spotify down: What we know so far</title>
-      <link>https://mashable.com/tech/spotify-down-outage-updates-september-29-2026</link>
-      <pubDate>Tue, 29 Sep 2026 14:55:52 +0000</pubDate>
-      <guid isPermaLink="false">004pErzbT6McZyIkbtep4XW</guid>
-      <description>Spotify users reported search, playback, and login problems on Sept. 29. Here&#8217;s what we know about the outage.</description>
-    </item>
-    <item>
-      <title>Cat7 vs. Cat6 Ethernet cable: Which is better for your home network?</title>
-      <link>https://www.engadget.com/2270648/cat7-vs-cat6-ethernet-cable-which-better-home-network/</link>
-      <pubDate>Tue, 29 Sep 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2270648/cat7-vs-cat6-ethernet-cable-which-better-home-network/</guid>
-      <description>If you're deciding between a Cat6 and a Cat7 Ethernet cable, this is what you need to know about how it will affect your home internet.</description>
-    </item>
-    <item>
-      <title>Claude down: Why it says account temporarily unable to authenticate</title>
-      <link>https://mashable.com/tech/anthropic-claude-down-account-temporarily-unable-authenticate</link>
-      <pubDate>Tue, 29 Sep 2026 14:42:30 +0000</pubDate>
-      <guid isPermaLink="false">06iHh0tJAOtcPMp75sNvDaS</guid>
-      <description>Anthropic's Claude suffered an outage on Tuesday. What we know so far.</description>
-    </item>
-    <item>
-      <title>Ce PC portable Asus complet avec &#233;cran 144 Hz et Core 7 perd plus de 20 % de son prix gr&#226;ce &#224; ce code promo</title>
-      <link>https://www.frandroid.com/bons-plans/3265071_ce-pc-portable-asus-complet-avec-ecran-144-hz-et-core-7-perd-plus-de-20-de-son-prix-grace-a-ce-code-promo</link>
-      <pubDate>Tue, 29 Sep 2026 14:38:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3265071_ce-pc-portable-asus-complet-avec-ecran-144-hz-et-core-7-perd-plus-de-20-de-son-prix-grace-a-ce-code-promo</guid>
-      <description>
-L'Asus Vivobook S16 est un PC portable qui pourra se glisser facilement dans votre sac &#224; dos gr&#226;ce &#224; son format compact et son poids l&#233;ger. Pour le d&#233;couvrir &#224; prix r&#233;duit, direction Darty o&#249; il perd plus de 200 euros. 
-</description>
-    </item>
-    <item>
-      <title>OpenAI researchers voice concerns over GPT-6.1 Astra,  delaying the release of this latest model</title>
-      <link>https://www.fastcompany.com/91614930/openai-researchers-voice-concerns-over-gpt-6-1-astra-delaying-the-release-of-this-latest-model</link>
-      <pubDate>2026-09-29T14:35:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91614930/openai-researchers-voice-concerns-over-gpt-6-1-astra-delaying-the-release-of-this-latest-model</guid>
-      <description>OpenAI&#8217;s head of safety systems said the new model &#8216;didn&#8217;t quite meet the bar.&#8217;
-OpenAI said Monday it was delaying the release of a new artificial intelligence model out of security concerns voiced by its researchers, the latest in the company&#8217;s effort to decelerate the pace of the technology&#8217;s advance.OpenAI&#8217;s decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures can catch up. The announcement comes a day before AI executives are set to huddle with President Donald T...</description>
-    </item>
-    <item>
-      <title>Certains forfaits Orange vont augmenter automatiquement, voici comment refuser</title>
-      <link>https://www.01net.com/actualites/certains-forfaits-orange-vont-augmenter-automatiquement-voici-comment-refuser.html</link>
-      <pubDate>Tue, 29 Sep 2026 14:33:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1372014</guid>
-      <description>Des clients Orange ont re&#231;u un courrier annon&#231;ant une hausse de 2 euros par mois de leur forfait mobile, appliqu&#233;e d'office sauf refus aupr&#232;s du service client.</description>
-    </item>
-    <item>
-      <title>Claude is down for many &#8212; here's everything we know as Anthropic confirms an active issue</title>
-      <link>https://www.techradar.com/news/live/claude-down-september-29-2026</link>
-      <pubDate>Tue, 29 Sep 2026 14:32:33 +0000</pubDate>
-      <guid isPermaLink="false">EgdWTk2AXEACcJCdU7WRqE</guid>
-      <description>Claude is experiencing issues across its web, mobile, and desktop apps on September 29, 2026, with Anthropic investigating elevated error rates affecting Claude, Cowork, and Code.</description>
-    </item>
-    <item>
-      <title>Spotify is down for many right now &#8212;here's what we know about the outage</title>
-      <link>https://www.techradar.com/news/live/spotify-down-september-2026</link>
-      <pubDate>Tue, 29 Sep 2026 14:29:35 +0000</pubDate>
-      <guid isPermaLink="false">q9druvbchpwR5GbAa5NpvA</guid>
-      <description>Spotify is down for many users right now, with thousands reporting problems with the mobile app &#8212;here's what we know so far.</description>
-    </item>
-    <item>
-      <title>Spotify subit une panne, que se passe-t-il ?</title>
-      <link>https://www.frandroid.com/android/applications/3265499_spotify-subit-une-panne-que-se-passe-t-il</link>
-      <pubDate>Tue, 29 Sep 2026 14:29:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3265499_spotify-subit-une-panne-que-se-passe-t-il</guid>
-      <description>
-Spotify est touch&#233; par une panne ce mardi 29 septembre, avec pr&#232;s de 400 signalements relev&#233;s en quelques minutes sur DownDetector.
-</description>
-    </item>
-    <item>
-      <title>&#171; Temporarily unable to authenticate &#187; : Claude est en panne dans le monde entier</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3265481_temporarily-unable-to-authenticate-claude-est-en-panne</link>
-      <pubDate>Tue, 29 Sep 2026 14:27:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3265481_temporarily-unable-to-authenticate-claude-est-en-panne</guid>
-      <description>
-Le service Claude d'Anthropic accuse une panne g&#233;n&#233;rale. En cause, le syst&#232;me d'authentification du service qui entraine un probl&#232;me d'acc&#232;s &#224; l'IA.
-</description>
-    </item>
-    <item>
-      <title>HP OmniBook X 14 review: one of the longest-lasting laptops I&#8217;ve ever used</title>
-      <link>https://www.techradar.com/computing/laptops/hp-omnibook-x-14-review</link>
-      <pubDate>Tue, 29 Sep 2026 14:25:10 +0000</pubDate>
-      <guid isPermaLink="false">gwk3VNCFgjBgqjqQ6RdoiX</guid>
-      <description>The design of HP&#8217;s new OmniBook X 14-inch may be lean, but its performance is anything but.</description>
-    </item>
-    <item>
-      <title>Streaming made music disposable. This vinyl seller is finding new ways to make records collectible</title>
-      <link>https://www.fastcompany.com/91587914/blood-records-vinyl-pressing-behind-the-scenes</link>
-      <pubDate>2026-09-29T14:20:50</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91587914/blood-records-vinyl-pressing-behind-the-scenes</guid>
-      <description>With record sales soaring, Blood Records is putting a trendy spin on an old format to deliver for younger collectors.
-When English singer-songwriter Sienna Spiro released her highly anticipated debut album, Visitor, in July, it was available in a variety of formats: MP3, cassette, CD, and an array of colored vinyl records (red, gold, brown) that were exclusive to different retailers. But 3,000 fans received copies that look remarkably different: discs swirled with orange and black&#8212;deeply pigmented on some copies, nearly translucent on others....</description>
-    </item>
-    <item>
-      <title>Nvidia launches new AI safety program designed at stopping models escaping their sandboxes</title>
-      <link>https://www.techradar.com/pro/nvidia-launches-new-ai-safety-program-designed-at-stopping-models-escaping-their-sandboxes</link>
-      <pubDate>Tue, 29 Sep 2026 14:20:00 +0000</pubDate>
-      <guid isPermaLink="false">8DxQMExUrWYwqgpzdJfmL7</guid>
-      <description>Nvidia admits telling agents not to do something isn't enough &#8211; so it's implementing software and hardware safeguards.</description>
-    </item>
-    <item>
-      <title>Comma's self-driving kit for older cars faces federal probe after 5 crashes</title>
-      <link>https://www.techradar.com/vehicle-tech/self-driving-vehicles/commas-self-driving-car-kit-faces-federal-probe-nhtsa-links-5-crashes-to-hands-free-aftermarket-device-thats-in-over-30-000-vehicles</link>
-      <pubDate>Tue, 29 Sep 2026 14:16:00 +0000</pubDate>
-      <guid isPermaLink="false">6av4wsSKqFA3gtceQ6GqGV</guid>
-      <description>Comma promises to "make driving chill" but the NHTSA is investigating a number of crashes involving the aftermarket self-driving device</description>
-    </item>
-    <item>
-      <title>How the AI boom is redefining the global business map</title>
-      <link>https://www.fastcompany.com/91613275/ai-is-redrawing-the-map-of-global-business-technology-ai</link>
-      <pubDate>2026-09-29T14:13:26</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91613275/ai-is-redrawing-the-map-of-global-business-technology-ai</guid>
-      <description>AI is changing where companies choose to put down roots, kicking off a new global contest for business, talent, and capital. 
-The battle for global business and investment is entering a new arena. For decades, countries competed for multinationals with a familiar formula: lower taxes, skilled workers, predictable regulation, good infrastructure, and access to global markets.&#160;...</description>
-    </item>
-    <item>
-      <title>Leaked images reveal new colors for Amazon&#8217;s next entry-level Kindle</title>
-      <link>https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button</link>
-      <pubDate>2026-09-29T10:10:50-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1001905</guid>
-      <description>Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last upgrades to the basic Kindle model were limited to a brighter backlight, a new dark mode, and [&#8230;]</description>
-    </item>
-    <item>
-      <title>First discount: The new Bose QuietComfort 2nd Gen headphones are marked down by $40</title>
-      <link>https://mashable.com/tech/sept-29-bose-quietcomfort-2nd-gen-headphones-deal</link>
-      <pubDate>Tue, 29 Sep 2026 14:10:40 +0000</pubDate>
-      <guid isPermaLink="false">06THlYCdnk5N3XwLiusKBa1</guid>
-      <description>Get the best headphones deal at Amazon. Save $40 on the Bose QuietComfort 2nd gen headphones at Amazon.</description>
-    </item>
-    <item>
-      <title>Meta&amp;#8217;s Muse AI sent a YouTuber&#8217;s address to a stranger</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns</link>
-      <pubDate>2026-09-29T10:08:21-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1001886</guid>
-      <description>Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]</description>
-    </item>
-    <item>
-      <title>Casetify&#8217;s new Hello Kitty Y2K collection just launched: Where to buy exclusive collection</title>
-      <link>https://mashable.com/tech/casetify-hello-kitty-y2k-collection-where-to-buy</link>
-      <pubDate>Tue, 29 Sep 2026 14:05:59 +0000</pubDate>
-      <guid isPermaLink="false">058I6MKrszAz3czCxGEk6bU</guid>
-      <description>Casetify launched its new Hello Kitty collaboration today. The Y2K-inspired collection features customizable phone cases, leopard prints, and matching tech gear.</description>
-    </item>
-    <item>
-      <title>RugOne Xsnap 7 Pro rugged phone &amp; action cam review</title>
-      <link>https://www.techradar.com/pro/phone-communications/rugone-xsnap-7-pro-rugged-phone-and-action-cam-review</link>
-      <pubDate>Tue, 29 Sep 2026 14:05:00 +0000</pubDate>
-      <guid isPermaLink="false">ja8Ha9zDBfXmCa4mayrrdm</guid>
-      <description>The RugOne Xsnap 7 Pro is a rugged smartphone design that includes a detachable action cam. A curious mash-up, I was keen to see how it all fits together.</description>
-    </item>
-    <item>
-      <title>Technics d&#233;voile EAH-A1000, son nouveau casque audio haut de gamme</title>
-      <link>https://www.01net.com/actualites/technics-devoile-eah-a1000-son-nouveau-casque-audio-haut-de-gamme.html</link>
-      <pubDate>Tue, 29 Sep 2026 14:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371868</guid>
-      <description>Le fabricant japonais Technics vient de d&#233;voiler son nouveau casque audio : l&#8217;EAH-A1000. Celui-ci promet une conception pens&#233;e pour le confort et une qualit&#233; sonore haut de gamme, notamment gr&#226;ce &#224; un transducteur &#224; fluide magn&#233;tique.</description>
-    </item>
-    <item>
-      <title>The best early October Prime Day deals happening now</title>
-      <link>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</link>
-      <pubDate>2026-09-29T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=999447</guid>
-      <description>It&#8217;s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It&#8217;s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you&#8217;re on the East [&#8230;]</description>
-    </item>
-    <item>
-      <title>SteelSeries&#8217; new mice are super light, with ultra-wideband and swappable batteries</title>
-      <link>https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price</link>
-      <pubDate>2026-09-29T10:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1000245</guid>
-      <description>The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and they ship with two signature SteelSeries features found in its other product categories: [&#8230;]</description>
-    </item>
-    <item>
-      <title>Technics EAH-A1000 initial review: Technics' just updated its superb EAH-A800 headphones, and I got them in advance &#8212; here's my early verdict</title>
-      <link>https://www.techradar.com/audio/wireless-headphones/technics-excellent-eah-a800-headphones-just-got-a-new-gen-model-and-i-got-them-early-heres-my-initial-verdict-on-the-eah-a1000</link>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hRuBgdHd5SEyqm7HDbqURL</guid>
-      <description>'Super svelte, super comfy and gloriously expansive': Technics' new over-ear headphones are very good indeed &#8212; here's why the EAH-A1000 could become class-leaders.</description>
-    </item>
-    <item>
-      <title>Technics brings magnetic fluid drivers to new EAH-A1000 headphones</title>
-      <link>https://www.engadget.com/2271430/technics-brings-magnetic-fluid-drivers-to-new-eah-a1000-headphones/</link>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2271430/technics-brings-magnetic-fluid-drivers-to-new-eah-a1000-headphones/</guid>
-      <description>The tech should reduce audio distortion for these over-ear ANC cans.</description>
-    </item>
-    <item>
-      <title>Technics d&#233;voile le EAH-A1000, son premier casque &#224; fluide magn&#233;tique</title>
-      <link>https://www.frandroid.com/marques/technics/3259509_technics-devoile-le-eah-a1000-son-premier-casque-a-fluide-magnetique</link>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/technics/3259509_technics-devoile-le-eah-a1000-son-premier-casque-a-fluide-magnetique</guid>
-      <description>
-La marque japonaise vient d&#8217;annoncer la commercialisation d&#8217;un casque circum-aural dot&#233; d'un nouveau driver &#224; fluide magn&#233;tique de 40 mm. Ce successeur du EAH-A800 vise une reproduction sonore plus fid&#232;le, une r&#233;duction de bruit am&#233;lior&#233;e avec un design revu.
-</description>
-    </item>
-    <item>
-      <title>&#171; Batterie infinie &#187;, UWB et 8K : SteelSeries d&#233;voile des souris avec des promesses fortes</title>
-      <link>https://www.frandroid.com/marques/steelseries/3264189_batterie-infinie-uwb-et-8k-steelseries-devoile-des-souris-avec-des-promesses-fortes</link>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/steelseries/3264189_batterie-infinie-uwb-et-8k-steelseries-devoile-des-souris-avec-des-promesses-fortes</guid>
-      <description>
-Plus de quatre ans apr&#232;s les Aerox 5 et 9, SteelSeries revient sur le devant de la sc&#232;ne des souris premium avec les gammes Sensei Pro et Rival Pro.
-</description>
-    </item>
-    <item>
-      <title>J&#8217;ai test&#233; le casque Nothing Headphones (1) Pro : trois transducteurs, et &#231;a s&#8217;entend</title>
-      <link>https://www.frandroid.com/marques/nothing/3262757_jai-teste-le-casque-nothing-headphones-1-pro-trois-transducteurs-et-ca-sentend</link>
-      <pubDate>Tue, 29 Sep 2026 13:58:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nothing/3262757_jai-teste-le-casque-nothing-headphones-1-pro-trois-transducteurs-et-ca-sentend</guid>
-      <description>
-Apr&#232;s son premier casque hi-fi Bluetooth d&#233;velopp&#233; avec KEF, Nothing remet le couvert avec le Headphone (1) Pro. Au programme : trois transducteurs par oreillette, une r&#233;duction de bruit active annonc&#233;e plus performante et de nouveaux traitements audio d&#233;velopp&#233;s avec Metropolis Studios. Une d&#233;bauche de technologies qui s'entend ?
-</description>
-    </item>
-    <item>
-      <title>Google a fait planter des milliers d&#8217;applications iOS sans le vouloir</title>
-      <link>https://www.frandroid.com/actualites-generales/3264689_google-a-fait-planter-des-milliers-dapplications-ios-sans-le-vouloir</link>
-      <pubDate>Tue, 29 Sep 2026 13:56:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/actualites-generales/3264689_google-a-fait-planter-des-milliers-dapplications-ios-sans-le-vouloir</guid>
-      <description>
-Dire que des applications iOS ont cess&#233; de fonctionner &#224; cause de Google, &#231;a ressemble &#224; une mauvaise th&#233;orie du complot. L'explication est beaucoup plus terre &#224; terre.
-</description>
-    </item>
-    <item>
-      <title>With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox</title>
-      <link>https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/</link>
-      <pubDate>Tue, 29 Sep 2026 13:53:01 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171204</guid>
-      <description>The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.</description>
-    </item>
-    <item>
-      <title>Meta is expanding its AI agent Muse to small businesses</title>
-      <link>https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/</link>
-      <pubDate>Tue, 29 Sep 2026 13:47:30 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171208</guid>
-      <description>The tech giant says the agent can help owners run their business and find new customers.</description>
-    </item>
-    <item>
-      <title>Mozilla d&#233;voile Firefox 157 avec une nouvelle interface</title>
-      <link>https://www.01net.com/actualites/mozilla-devoile-firefox-157-avec-une-nouvelle-interface.html</link>
-      <pubDate>Tue, 29 Sep 2026 13:46:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1372016</guid>
-      <description>La Fondation Mozilla vient d&#8217;annoncer la disponibilit&#233; d&#8217;une mise &#224; jour majeure pour son navigateur Web. Firefox 157 inaugure une refonte visuelle compl&#232;te sur desktop et mobile.</description>
-    </item>
-    <item>
-      <title>How much VRAM should you look for in a graphics card?</title>
-      <link>https://www.engadget.com/2270642/how-much-vram-look-for-graphics-card/</link>
-      <pubDate>Tue, 29 Sep 2026 13:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2270642/how-much-vram-look-for-graphics-card/</guid>
-      <description>Graphics card prices are one of many victims of the memory shortage, but how much VRAM do you need to future-proof your setup?</description>
-    </item>
-    <item>
-      <title>A U.S. ban on nearly $1 billion worth of these Canadian goods is now in effect</title>
-      <link>https://www.fastcompany.com/91614903/u-s-ban-nearly-1-billion-worth-canadian-goods-now-effect</link>
-      <pubDate>2026-09-29T13:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91614903/u-s-ban-nearly-1-billion-worth-canadian-goods-now-effect</guid>
-      <description>The ban includes motorcycles, alcoholic beverages, and dairy products.
-U.S.-Canada relations, already tense, are likely to deteriorate further after the United States went ahead early Tuesday with a decision to ban nearly $1 billion worth of Canadian imports, including alcoholic beverages, dairy products and motorcycles.The ban amounts to barely a ripple in $880 billion worth of annual two-way trade between the two northern neighbors. But it marks another ratcheting up of President Donald Trump&#8217;s second-term trade war with America&#8217;s longtime ally and trading partner.The import ban &#8220;certainly w...</description>
-    </item>
-    <item>
-      <title>The best early Prime Day deals on Pok&#233;mon, including 30th Celebration trading cards for below market price</title>
-      <link>https://mashable.com/life/best-early-october-prime-day-pokemon-deals-2026</link>
-      <pubDate>Tue, 29 Sep 2026 13:41:16 +0000</pubDate>
-      <guid isPermaLink="false">03pBKfcf4OSUbciTHo1cp6t</guid>
-      <description>Early Prime Day Pok&#233;mon deals now include a sub-$90 ETB, cheaper booster bundles, Lego, Switch games, and books.</description>
-    </item>
-    <item>
-      <title>Le vol 14 de Starship cache une bascule beaucoup plus importante pour l&#8217;empire spatial d&#8217;Elon Musk</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/starship-vol-14-starship-cache-bascule-beaucoup-plus-importante-empire-spatial-elon-musk-138096/#xtor%3DRSS-8</link>
-      <pubDate>Tue, 29 Sep 2026 15:35:28 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/starship-vol-14-starship-cache-bascule-beaucoup-plus-importante-empire-spatial-elon-musk-138096/#xtor%3DRSS-8</guid>
-      <description>Le premier vol orbital de Starship a permis &#224; SpaceX de placer 26 satellites Starlink V3 en orbite. C&#8217;est une premi&#232;re pour le lanceur lourd et une prouesse qui dissimule un changement beaucoup plus discret : avec ces nouveaux satellites et sa gigantesque fus&#233;e, Elon Musk peut multiplier...</description>
+      <title>Here&#8217;s why OpenAI is absent from Nvidia&#8217;s industry-wide effort to end rogue AI agents</title>
+      <link>https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/</link>
+      <pubDate>Tue, 29 Sep 2026 18:35:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171020</guid>
+      <description>OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.</description>
     </item>
   </channel>
 </rss>
