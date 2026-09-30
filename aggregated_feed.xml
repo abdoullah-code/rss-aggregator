@@ -3,340 +3,136 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 30 Sep 2026 13:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:57:00 GMT</lastBuildDate>
     <item>
-      <title>There's a new Amazon Fire TV Stick that's faster to use, and a redesigned remote</title>
-      <link>https://www.techradar.com/televisions/streaming-devices/theres-a-new-amazon-fire-tv-stick-thats-faster-to-use-and-a-redesigned-remote-and-itll-have-a-huge-discount-for-amazons-big-prime-sale-coming-soon</link>
-      <pubDate>Wed, 30 Sep 2026 13:21:14 +0000</pubDate>
-      <guid isPermaLink="false">mcRkFjgVPAfXHn46QwMDDo</guid>
-      <description>Amazon unveils a new, faster Fire TV Stick 4K plus a new remote design and updates for Alexa+.</description>
+      <title>Moscow tightens regulation on SIM market to crack down on fraud and 'attackers' &#8212; Anti-Fraud 3.0 could see SIMs sold without money and a massive reduction in SIM card sellers</title>
+      <link>https://www.techradar.com/pro/moscow-tightens-regulation-on-sim-market-to-crack-down-on-fraud-and-attackers-anti-fraud-3-0-could-see-sims-sold-without-money-and-a-massive-reduction-in-sim-card-sellers</link>
+      <pubDate>Wed, 30 Sep 2026 18:50:00 +0000</pubDate>
+      <guid isPermaLink="false">a2NFeekjNX2PGNtqgdhaEB</guid>
+      <description>Russia&#8217;s Anti-Fraud 3.0 proposals could reduce SIM sellers, require zero-balance cards, and create stronger payment trails for fraud investigations nationwide.</description>
     </item>
     <item>
-      <title>Nintendo Switch 2 : les 5 r&#233;glages indispensables avant de jouer</title>
-      <link>https://www.frandroid.com/marques/nintendo/2638139_nintendo-switch-2-les-5-reglages-indispensables-avant-de-jouer</link>
-      <pubDate>Wed, 30 Sep 2026 13:20:07 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nintendo/2638139_nintendo-switch-2-les-5-reglages-indispensables-avant-de-jouer</guid>
+      <title>L&#8217;origine de l&#8217;ast&#233;ro&#239;de Bennu est plus &#233;trange qu&#8217;on ne le pensait : elle &#233;claire autrement les d&#233;buts du Syst&#232;me solaire</title>
+      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-origine-asteroide-bennu-plus-etrange-quon-ne-pensait-elle-eclaire-autrement-debuts-systeme-solaire-138049/#xtor%3DRSS-8</link>
+      <pubDate>Wed, 30 Sep 2026 20:41:15 +0200</pubDate>
+      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-origine-asteroide-bennu-plus-etrange-quon-ne-pensait-elle-eclaire-autrement-debuts-systeme-solaire-138049/#xtor%3DRSS-8</guid>
+      <description>Certains ast&#233;ro&#239;des et les m&#233;t&#233;orites qui en d&#233;coulent par fragmentation lors de collisions sont des capsules temporelles qui nous renseignent sur la formation du Syst&#232;me solaire et potentiellement sur l'origine de la vie. Mais le d&#233;cryptage de ces archives cosmiques r&#233;v&#232;le des surprises et des...</description>
+    </item>
+    <item>
+      <title>Breville's new $600 coffee machine makes pour-overs from scratch</title>
+      <link>https://www.engadget.com/2273802/brevilles-new-600-coffee-machine-makes-pour-overs-from-scratch/</link>
+      <pubDate>Wed, 30 Sep 2026 18:37:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2273802/brevilles-new-600-coffee-machine-makes-pour-overs-from-scratch/</guid>
+      <description>You do still have to buy the beans though.</description>
+    </item>
+    <item>
+      <title>AI voice startup ElevenLabs doubles valuation to $22B</title>
+      <link>https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/</link>
+      <pubDate>Wed, 30 Sep 2026 18:23:57 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172305</guid>
+      <description>The $300 million employee tender was co-led by Wellington and T. Rowe Price.</description>
+    </item>
+    <item>
+      <title>The AI Tamagotchis are coming</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</link>
+      <pubDate>2026-09-30T14:07:38-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1002779</guid>
+      <description>While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. "Hardware is [&#8230;]</description>
+    </item>
+    <item>
+      <title>Developers want to build this 1,300-acre AI data center so badly they offered every house in town $10,000</title>
+      <link>https://www.techradar.com/pro/developers-want-to-build-this-1-300-acre-ai-data-center-so-badly-they-offered-every-house-in-town-usd10-000</link>
+      <pubDate>Wed, 30 Sep 2026 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">jghmAMdgZJsZGkUgc64934</guid>
+      <description>Residents have called the payment a "bribe" designed to sow divide between the community.</description>
+    </item>
+    <item>
+      <title>Cond&#233; Nast, Hearst among 300 publishers pressuring Congress to ban bot scraping</title>
+      <link>https://mashable.com/tech/publishers-back-ai-bot-scraping-bill</link>
+      <pubDate>Wed, 30 Sep 2026 18:00:58 +0000</pubDate>
+      <guid isPermaLink="false">04liBXqvd95k8S0nKP3QAIf</guid>
+      <description>A cohort of news publishers are backing a recently introduced bill intent on stopping stealth bots scraping their content without paying content licensing fees.</description>
+    </item>
+    <item>
+      <title>Reddit imposes new restrictions on Old Reddit</title>
+      <link>https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/</link>
+      <pubDate>Wed, 30 Sep 2026 17:49:56 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/</guid>
+      <description>The Old Reddit is dying; the new Reddit struggles to avoid scraping.</description>
+    </item>
+    <item>
+      <title>Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots</title>
+      <link>https://www.theverge.com/tech/1002788/old-reddit-ai-scraping</link>
+      <pubDate>2026-09-30T13:45:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1002788</guid>
+      <description>Reddit is further limiting who can use the "Old Reddit" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the "next few months," the company says that you'll have to be logged in and have [&#8230;]</description>
+    </item>
+    <item>
+      <title>Reddit is killing RSS feeds and ending public API access because of AI bots</title>
+      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
+      <pubDate>Wed, 30 Sep 2026 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172243</guid>
+      <description>Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.</description>
+    </item>
+    <item>
+      <title>The ugly economics of consumer AI</title>
+      <link>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</link>
+      <pubDate>Wed, 30 Sep 2026 17:24:45 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172200</guid>
+      <description>There&#8217;s a reason frontier labs have gotten gun-shy about consumer AI &#8212; and it&#8217;s not because the tech isn&#8217;t good enough.</description>
+    </item>
+    <item>
+      <title>Amazon&amp;#8217;s delivery driver smart glasses will reportedly take photos &amp;#8216;almost constantly&amp;#8217;</title>
+      <link>https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy</link>
+      <pubDate>2026-09-30T13:21:29-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1002766</guid>
+      <description>Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take "several thousand captures in a single driver's typical shift," which Amazon plans to upload to its AI [&#8230;]</description>
+    </item>
+    <item>
+      <title>Here&amp;#8217;s what AI leaders are saying about Trump&#8217;s new safety plan</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</link>
+      <pubDate>2026-09-30T13:15:49-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1002636</guid>
+      <description>After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a "hoax" cooked up by Democrats no longer apply now that he's renamed the technology to "Super Intelligence." He [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Ce petit forfait sur le r&#233;seau d&#8217;Orange coche toutes les cases pour une seconde ligne</title>
+      <link>https://www.frandroid.com/bons-plans/3268027_ce-petit-forfait-sur-le-reseau-dorange-coche-toutes-les-cases-pour-une-seconde-ligne</link>
+      <pubDate>Wed, 30 Sep 2026 17:08:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3268027_ce-petit-forfait-sur-le-reseau-dorange-coche-toutes-les-cases-pour-une-seconde-ligne</guid>
       <description>
-Si vous venez de vous procurer une Nintendo Switch 2, on vous explique les 5 premiers r&#233;glages &#224; configurer avant de vous lancer en pleine partie.
+YouPrice propose un forfait de 30 Go sur le r&#233;seau d'Orange &#224; 7,99 euros par mois, sans engagement. Une formule bien calibr&#233;e pour une seconde ligne, un &#233;tudiant ou un proche qui veut l'essentiel.
 </description>
     </item>
     <item>
-      <title>Asus ROG Zephyrus Duo (2026) review: an unmatched dual-screen monster</title>
-      <link>https://www.techradar.com/computing/gaming-laptops/asus-rog-zephyrus-duo-2026-review</link>
-      <pubDate>Wed, 30 Sep 2026 13:19:15 +0000</pubDate>
-      <guid isPermaLink="false">oBfX5G7zTWpStrGrkfFKz6</guid>
-      <description>Fancy a gaming laptop with unbeatable performance and two 3K touchscreen OLED displays? The Asus ROG Zephyrus Duo is here to fulfill your needs.</description>
-    </item>
-    <item>
-      <title>The LG Gram Pro 16 might be the ultimate large screen portable Windows 11 laptop</title>
-      <link>https://www.techradar.com/computing/gaming-laptops/lg-gram-pro-16-2026</link>
-      <pubDate>Wed, 30 Sep 2026 13:16:52 +0000</pubDate>
-      <guid isPermaLink="false">MRdkShwHkvRQbuV8UH2vtB</guid>
-      <description>The LG Gram Pro 16 is light and thin, yet rocks a 16-inch screen and comes with enough power to tackle even demanding tasks. Unfortunately, the price tag is pretty high.</description>
-    </item>
-    <item>
-      <title>Le Sony Bravia 6, un r&#233;cent TV OLED accessible de la marque, profite d&#233;j&#224; d&#8217;une remise de 100 &#8364;</title>
-      <link>https://www.frandroid.com/bons-plans/3267405_le-sony-bravia-6-un-recent-tv-oled-accessible-de-la-marque-profite-deja-dune-remise-de-100-e</link>
-      <pubDate>Wed, 30 Sep 2026 13:11:05 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3267405_le-sony-bravia-6-un-recent-tv-oled-accessible-de-la-marque-profite-deja-dune-remise-de-100-e</guid>
+      <title>Asha Sharma promet qu&#8217;Xbox n&#8217;est pas &#224; vendre, apr&#232;s avoir supprim&#233; 20 % des effectifs</title>
+      <link>https://www.frandroid.com/marques/3268191_asha-sharma-promet-quxbox-nest-pas-a-vendre-apres-avoir-supprime-20-des-effectifs</link>
+      <pubDate>Wed, 30 Sep 2026 17:06:53 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3268191_asha-sharma-promet-quxbox-nest-pas-a-vendre-apres-avoir-supprime-20-des-effectifs</guid>
       <description>
-Officialis&#233;e en ao&#251;t dernier, la s&#233;rie Sony Bravia 6 comporte les TV OLED les plus abordables de la gamme Bravia cr&#233;&#233;e par la marque japonaise. Actuellement, le mod&#232;le de 55 pouces est propos&#233; &#224; 1 199 euros au lieu de 1 299 euros.
+&#171;&#160;Xbox n'est pas &#224; vendre&#160;&#187;, affirme Asha Sharma, CEO de la division jeux vid&#233;o de Microsoft, dans un portrait publi&#233; ce mercredi 30 septembre par le New York Times. Elle le dit apr&#232;s un &#233;t&#233; o&#249; Xbox a engag&#233; la suppression de 20 % de ses postes et s'est s&#233;par&#233; de plusieurs studios.
 </description>
     </item>
     <item>
-      <title>When's the best time to buy an Amazon Echo Show? Right now &#8212; here's why</title>
-      <link>https://www.techradar.com/home/smart-home-hubs/when-is-the-best-time-to-buy-an-amazon-echo-show-and-what-price-should-i-wait-for-heres-everything-you-need-to-know</link>
-      <pubDate>Wed, 30 Sep 2026 13:07:56 +0000</pubDate>
-      <guid isPermaLink="false">8atF88uNV3GsNQVtoVSPnZ</guid>
-      <description>If you're planning on buying an Echo Show on Prime Day, read this first.</description>
+      <title>Casio&#8217;s F-B100W smartwatch launches in the US after selling out in Japan</title>
+      <link>https://www.techradar.com/health-fitness/smartwatches/casios-f-b100w-retro-smartwatch-launches-in-the-us-usd65-tracker-lands-with-bluetooth-and-step-tracking-after-selling-out-in-japan</link>
+      <pubDate>Wed, 30 Sep 2026 17:04:30 +0000</pubDate>
+      <guid isPermaLink="false">aJUHXnUELBEzMroyNpHrME</guid>
+      <description>Casio&#8217;s F-B100W watch is now available in the US after going on sale in Japan in August.</description>
     </item>
     <item>
-      <title>Apr&#232;s le fiasco du Starliner, la Nasa redonne sa chance &#224; Boeing&#8230; et lui r&#233;serve une surprise !</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/starliner-apres-fiasco-starliner-nasa-redonne-chance-boeing-lui-reserve-surprise-138110/#xtor%3DRSS-8</link>
-      <pubDate>Wed, 30 Sep 2026 15:03:11 +0200</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/starliner-apres-fiasco-starliner-nasa-redonne-chance-boeing-lui-reserve-surprise-138110/#xtor%3DRSS-8</guid>
-      <description>Lundi soir, la Nasa et Boeing ont d&#233;voil&#233; leur plan pour un retour en vol prudent du Starliner. Le vaisseau effectuera d'abord une mission cargo sans &#233;quipage, Starliner-1, avant d'envisager le transport d'astronautes avec Starliner-2, &#171; d'ici 2028 &#187;, sans plus de pr&#233;cision. D&#233;tail notable...</description>
+      <title>This blog could help you poop better</title>
+      <link>https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health</link>
+      <pubDate>2026-09-30T13:00:00-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1002625</guid>
+      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. "I will explode your butthole with this poopmaxxer pesto," a calm Gen Z voice announced from my phone's speakers. "And [&#8230;]</description>
     </item>
     <item>
-      <title>iPhone Duo&#160;: Apple ferait face &#224; un choix difficile juste avant la sortie</title>
-      <link>https://www.01net.com/actualites/iphone-duo-apple-ferait-face-a-un-choix-difficile-juste-avant-la-sortie.html</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:34 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1372176</guid>
-      <description>&#192; environ trois semaines de sa commercialisation, l&#8217;iPhone Duo rencontrerait encore et toujours des probl&#232;mes de production. Les causes sont multiples. Apple pourrait &#234;tre contraint de faire un choix : la qualit&#233; ou la quantit&#233;.</description>
-    </item>
-    <item>
-      <title>Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV</title>
-      <link>https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power</link>
-      <pubDate>2026-09-30T09:00:16-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002597</guid>
-      <description>The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick [&#8230;]</description>
-    </item>
-    <item>
-      <title>The Sonos Ace Ultra are the headphones Sonos should have made the first time</title>
-      <link>https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review</link>
-      <pubDate>2026-09-30T09:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002122</guid>
-      <description>The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable, they weren't good Sonos headphones: Their flagship feature let you reroute audio from a Sonos soundbar [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Potato by air</title>
-      <link>https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery</link>
-      <pubDate>2026-09-30T09:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002172</guid>
-      <description>The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of about six miles. It is authorized by the FAA [&#8230;]</description>
-    </item>
-    <item>
-      <title>You&#8217;ll soon be able to order DoorDash by text message</title>
-      <link>https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability</link>
-      <pubDate>2026-09-30T09:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002545</guid>
-      <description>DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely. [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Charter Space raises $5M to bring insurance to the stars</title>
-      <link>https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171650</guid>
-      <description>As Charter explains on its website, a common experience for space companies is that regular insurers "heard a bunch of scary science words and freaked out."</description>
-    </item>
-    <item>
-      <title>Tinder adapts to a social, IRL dating future with &#8216;Group Hangouts&#8217; feature</title>
-      <link>https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171693</guid>
-      <description>As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which on Wednesday announced the launch of &#8220;Group Hangouts,&#8221; a new feature that lets groups of friends [&#8230;]</description>
-    </item>
-    <item>
-      <title>Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades</title>
-      <link>https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/</guid>
-      <description>The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.</description>
-    </item>
-    <item>
-      <title>Shure's MV6 Gen 2 microphone gives creators more control over their audio</title>
-      <link>https://www.engadget.com/2268112/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2268112/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/</guid>
-      <description>The USB microphone comes in a new color, has updated audio controls and can even work with an iPhone or iPad.</description>
-    </item>
-    <item>
-      <title>Amazon simplifies its Fire TV streaming device lineup</title>
-      <link>https://www.engadget.com/2272817/amazon-simplifies-its-fire-tv-streaming-device-lineup/</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2272817/amazon-simplifies-its-fire-tv-streaming-device-lineup/</guid>
-      <description>The days of picking between Select, Plus and Max are over.</description>
-    </item>
-    <item>
-      <title>Amazon unveils a thinner and faster Fire TV Stick 4K, plus a new remote</title>
-      <link>https://www.engadget.com/2272834/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/</link>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2272834/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/</guid>
-      <description>It will cost just $30 during the Prime Day deals event next week, and retail for $60 otherwise.</description>
-    </item>
-    <item>
-      <title>Vie num&#233;rique | L&#8217;&#232;re de l&#8217;&#171;&#160;IA ambiante&#160;&#187; prend forme devant vos yeux (litt&#233;ralement)</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-09-30/vie-numerique/l-ere-de-l-ia-ambiante-prend-forme-devant-vos-yeux-litteralement.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 30 Sep 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="false">811d2ed492b1356fbd2da1855e517224</guid>
-      <description>Ce n&#8217;est pas une &#233;ventuelle apocalypse provoqu&#233;e par l&#8217;IA qui va emp&#234;cher des fabricants de l&#8217;int&#233;grer dans le plus de produits possible. Les lunettes connect&#233;es, avec ou sans affichage, sont un de ces produits, et sont en train de cr&#233;er une nouvelle forme d&#8217;interface qu&#8217;on appelle d&#233;j&#224; &#171;&#160;l&#8217;IA ambiante&#160;&#187;.</description>
-    </item>
-    <item>
-      <title>Notorious Spectre CPU vulnerability returns hitting JIT engines via side channel attacks</title>
-      <link>https://www.techradar.com/pro/security/notorious-spectre-cpu-vulnerability-returns-hitting-jit-engines-via-side-channel-attacks</link>
-      <pubDate>Wed, 30 Sep 2026 12:55:00 +0000</pubDate>
-      <guid isPermaLink="false">f7Pwt8TGs5SDaZBAmeQGGB</guid>
-      <description>Branch Target Reuse is the latest application of the dreaded Spectre flaw.</description>
-    </item>
-    <item>
-      <title>Hub &#224; &#233;cran, HomePod mini, Apple TV : Apple relancera enfin sa maison connect&#233;e le 13 octobre</title>
-      <link>https://www.frandroid.com/marques/apple/3267539_hub-a-ecran-homepod-mini-apple-tv-apple-relancera-enfin-sa-maison-connectee-le-13-octobre</link>
-      <pubDate>Wed, 30 Sep 2026 12:53:04 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3267539_hub-a-ecran-homepod-mini-apple-tv-apple-relancera-enfin-sa-maison-connectee-le-13-octobre</guid>
-      <description>
-Apple pr&#233;sentera le mardi 13 octobre un hub domestique &#224; &#233;cran, un nouveau HomePod mini et une nouvelle Apple TV, selon Bloomberg. Ces appareils devaient sortir d&#232;s 2024, avant que les retards de Siri ne les bloquent.
-</description>
-    </item>
-    <item>
-      <title>VPN Deal of the Week: I've found the cheapest way to watch Celebrity Traitors if you're travelling outside the UK</title>
-      <link>https://www.techradar.com/vpn/vpn-services/vpn-deal-of-the-week-ive-found-the-cheapest-way-to-watch-celebrity-traitors-if-youre-travelling-outside-the-uk</link>
-      <pubDate>Wed, 30 Sep 2026 12:51:37 +0000</pubDate>
-      <guid isPermaLink="false">XsS7xtkyBCFM5XRSrfmQJK</guid>
-      <description>Remain faithful to your favorite show, wherever you are</description>
-    </item>
-    <item>
-      <title>Panne Bouygues Telecom : la 5G est indisponible ou tr&#232;s lente</title>
-      <link>https://www.frandroid.com/marques/bouygues-telecom/3267485_panne-bouygues-telecom-la-5g-est-indisponible-ou-tres-lente</link>
-      <pubDate>Wed, 30 Sep 2026 12:30:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/bouygues-telecom/3267485_panne-bouygues-telecom-la-5g-est-indisponible-ou-tres-lente</guid>
-      <description>
-Une panne touche le r&#233;seau mobile de Bouygues Telecom. La 5G ne fonctionne pas ou tr&#232;s mal.
-</description>
-    </item>
-    <item>
-      <title>Imp&#244;ts : attention &#224; ces erreurs si vous devez corriger votre d&#233;claration de revenus</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3266967_impots-attention-a-ces-erreurs-si-vous-devez-corriger-votre-declaration-de-revenus</link>
-      <pubDate>Wed, 30 Sep 2026 12:27:14 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3266967_impots-attention-a-ces-erreurs-si-vous-devez-corriger-votre-declaration-de-revenus</guid>
-      <description>
-Le service de correction en ligne des d&#233;clarations de revenus ferme le 30 novembre 2026. Pour rappel, en 2025, le fisc a r&#233;clam&#233; 17,1 milliards d'euros apr&#232;s contr&#244;le, un record. L'occasion de rappeler comment corriger sa d&#233;claration, et les oublis qui co&#251;tent le plus cher aux investisseurs.
-</description>
-    </item>
-    <item>
-      <title>Apple's smart home hub could arrive next month</title>
-      <link>https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/</link>
-      <pubDate>Wed, 30 Sep 2026 12:27:08 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/</guid>
-      <description>Apple's smart home hub with a six-inch display may finally be ready to go.</description>
-    </item>
-    <item>
-      <title>Samsung d&#233;voile le Galaxy SmartTag 3 : plus petit, compatible iPhone et 60 m&#232;tres de port&#233;e</title>
-      <link>https://www.frandroid.com/marques/3267473_samsung-devoile-le-galaxy-smarttag-3-plus-petit-compatible-iphone-et-60-metres-de-portee</link>
-      <pubDate>Wed, 30 Sep 2026 12:25:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3267473_samsung-devoile-le-galaxy-smarttag-3-plus-petit-compatible-iphone-et-60-metres-de-portee</guid>
-      <description>
-Samsung a pr&#233;sent&#233; ce mercredi 30 septembre le Galaxy SmartTag 3, un traceur Bluetooth 35 % plus petit que le pr&#233;c&#233;dent et, pour la premi&#232;re fois, compatible avec les iPhone.
-</description>
-    </item>
-    <item>
-      <title>Amazon casse encore plus le prix du Samsung Galaxy Z Fold 8 Ultra gr&#226;ce &#224; cette nouvelle offre</title>
-      <link>https://www.frandroid.com/bons-plans/3247757_amazon-casse-encore-plus-le-prix-du-samsung-galaxy-z-fold-8-ultra-grace-a-cette-nouvelle-offre</link>
-      <pubDate>Wed, 30 Sep 2026 12:24:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3247757_amazon-casse-encore-plus-le-prix-du-samsung-galaxy-z-fold-8-ultra-grace-a-cette-nouvelle-offre</guid>
-      <description>
-Le Samsung Galaxy Z Fold 8 Ultra est l'un des derniers pliables de la marque sud-cor&#233;enne, le plus fin de sa lign&#233;e, &#224; retrouver en ce moment pour 1 499 euros au lieu de 2 199 euros gr&#226;ce &#224; un coupon sur Amazon.
-</description>
-    </item>
-    <item>
-      <title>Here&#8217;s how tech leaders will self-police AI safety under Trump&#8217;s deal</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</link>
-      <pubDate>2026-09-30T08:24:32-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002584</guid>
-      <description>We now have the full details of the "morally binding" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment On Frontier Responsibilities, was shared online by tech founder and presidential advisor David Sacks, and has been signed by [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Singapore man faces 10 years in jail after making AI crocodile deepfake</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/singapore-man-faces-10-years-in-jail-for-ai-crocodile-picture-that-triggered-reservoir-closure-as-police-warn-against-communicating-falsehoods</link>
-      <pubDate>Wed, 30 Sep 2026 12:13:57 +0000</pubDate>
-      <guid isPermaLink="false">VGcQdXrqMMuie59uDNXL6m</guid>
-      <description>There's a lot you can do with today's AI apps, but be wary of sharing anything likely to cause panic.</description>
-    </item>
-    <item>
-      <title>Samsung lance les Galaxy Tab S12 Ultra et S12+&#160;: prix, autonomie, puissance&#8230; tout savoir sur les tablettes haut de gamme</title>
-      <link>https://www.01net.com/actualites/samsung-lance-les-galaxy-tab-s12-ultra-et-s12-prix-autonomie-puissance-tout-savoir-sur-les-tablettes-haut-de-gamme.html</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371581</guid>
-      <description>Samsung renouvelle son segment haut de gamme avec les Galaxy Tab S12+ et Tab S12 Ultra. Puces MediaTek, refonte majeure de DeX, fonctions contextuelles dop&#233;es &#224; l&#8217;IA et &#233;crans g&#233;ants jusqu&#8217;&#224; 14,6 pouces : le constructeur mise gros sur la productivit&#233; mobile. Fiche technique, nouveaut&#233;s logicielles, calendrier de sortie et tarifs d&#233;taill&#233;s, d&#233;couvrez tout ce qui change sur cette nouvelle g&#233;n&#233;ration....</description>
-    </item>
-    <item>
-      <title>Plus petit, port&#233;e tripl&#233;e&#160;: tout ce qui change avec le nouveau Samsung SmartTag 3</title>
-      <link>https://www.01net.com/actualites/plus-petit-portee-triplee-tout-ce-qui-change-avec-le-nouveau-samsung-smarttag-3.html</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:15 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1371606</guid>
-      <description>Plus compacts, plus endurants et d&#233;sormais compatibles avec l'&#233;cosyst&#232;me Apple : Samsung l&#232;ve le voile sur ses SmartTags 3. Entre refonte ergonomique, port&#233;e UWB &#233;tendue &#224; 60 m&#232;tres et autonomie record fr&#244;lant les 800 jours, la nouvelle balise connect&#233;e du g&#233;ant cor&#233;en compte bien bousculer les AirTags sur leur propre terrain d&#232;s la fin d'ann&#233;e.</description>
-    </item>
-    <item>
-      <title>Samsung gives its two-year-old Galaxy Tab S Plus an overhaul</title>
-      <link>https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price</link>
-      <pubDate>2026-09-30T08:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002533</guid>
-      <description>Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's Tab S11 Ultra, and a Plus variant that brings a bigger overhaul to the two-year-old [&#8230;]</description>
-    </item>
-    <item>
-      <title>Samsung&#8217;s new SmartTag is smaller, longer-lasting, and works with iPhones</title>
-      <link>https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features</link>
-      <pubDate>2026-09-30T08:00:00-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1002552</guid>
-      <description>Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cross-OS support intended to make it easier to share tracking information with friends and family. As revealed by leaks, the SmartTag 3 has adopted a squircle [&#8230;]...</description>
-    </item>
-    <item>
-      <title>Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for</title>
-      <link>https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171387</guid>
-      <description>BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.</description>
-    </item>
-    <item>
-      <title>Airbnb adds AI search, more social features</title>
-      <link>https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171925</guid>
-      <description>Airbnb is also launching new services such as meal delivery and laundry in select locations.</description>
-    </item>
-    <item>
-      <title>The new Samsung Galaxy Tab S12 Ultra is here &#8212; and we&#8217;ve used it</title>
-      <link>https://www.techradar.com/tablets/samsung-skips-the-galaxy-tab-s12-for-s12-ultra-and-s12-tablets-but-should-it-have-skipped-all-three</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6NwDQiAkKx4GFs8Syy3YNM</guid>
-      <description>I&#8217;ve spent two weeks with the Samsung Galaxy Tab S12 Ultra &#8212; it&#8217;s a solid tablet but a questionable S11 Ultra replacement.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Tab S12 Ultra review: The apex Android tablet</title>
-      <link>https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/</guid>
-      <description>Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that's the price you'll have to pay for the best Android tablet.</description>
-    </item>
-    <item>
-      <title>Airbnb is adding a personalized map and other discovery tools</title>
-      <link>https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/</guid>
-      <description>The rental service is getting more social and more AI.</description>
-    </item>
-    <item>
-      <title>The Samsung Galaxy SmartTag 3's special feature is being a pet activity monitor</title>
-      <link>https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/</guid>
-      <description>Not only can it keep tabs on your furball's location, it can monitor their motion and sleep too.</description>
-    </item>
-    <item>
-      <title>Think your AI chatbot is helping you? Researchers say there&#8217;s a risk users may not recognize</title>
-      <link>https://www.fastcompany.com/91615065/think-your-ai-chatbot-is-helping-you-researchers-say-theres-a-risk-users-may-not-recognize</link>
-      <pubDate>2026-09-30T12:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91615065/think-your-ai-chatbot-is-helping-you-researchers-say-theres-a-risk-users-may-not-recognize</guid>
-      <description>A new paper examines how seemingly supportive conversations with AI can potentially reinforce unhealthy thinking and emotional dependence.
-Despite repeated warnings about the risks of artificial intelligence, users have become increasingly reliant on AI chatbots&#8212;particularly those offering companionship. Yet despite chatbots&#8217; utility for tasks like answering quick queries or offering brief advice, their benefits might not be outweighing the costs....</description>
-    </item>
-    <item>
-      <title>Bo&#238;te de r&#233;ception | Une eSIM sans itin&#233;rance, nettoyer son iPhone, s&#8217;attaquer aux pourriels</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-09-30/boite-de-reception/une-esim-sans-itinerance-nettoyer-son-iphone-s-attaquer-aux-pourriels.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Wed, 30 Sep 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="false">c3b1673a45873340abf5b038997c4ad8</guid>
-      <description>Chaque mercredi, notre journaliste r&#233;pond &#224; vos questions en lien avec le num&#233;rique et les nouvelles technologies. Cette semaine, on magasine une eSIM pour mieux voyager, on nettoie gratuitement la m&#233;moire de son t&#233;l&#233;phone et on s&#8217;attaque aux pourriels incessants.</description>
-    </item>
-    <item>
-      <title>Samsung d&#233;voile les Galaxy Tab S12 Ultra et S12+, jusqu&#8217;&#224; 2 289 euros : on les a essay&#233;es</title>
-      <link>https://www.frandroid.com/marques/samsung/3266689_samsung-devoile-les-galaxy-tab-s12-ultra-et-s12-jusqua-2-289-euros-on-les-a-essayees</link>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3266689_samsung-devoile-les-galaxy-tab-s12-ultra-et-s12-jusqua-2-289-euros-on-les-a-essayees</guid>
-      <description>
-Samsung a pr&#233;sent&#233; ce mercredi 30 septembre les Galaxy Tab S12 Ultra et Galaxy Tab S12+, disponibles d&#232;s le 7 octobre &#224; partir de 1319&#160;euros. Les deux tablettes passent &#224; la puce MediaTek Dimensity 9500 et sont livr&#233;es avec le S Pen.
-</description>
-    </item>
-    <item>
-      <title>Quelles sont les meilleures voitures &#233;lectriques pas ch&#232;res disponibles (- 25 000 &#8364;) ?</title>
-      <link>https://www.frandroid.com/produits-android/839376_quelles-voitures-electriques-neuves-pour-moins-de-20-000-euros</link>
-      <pubDate>Wed, 30 Sep 2026 11:51:09 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/produits-android/839376_quelles-voitures-electriques-neuves-pour-moins-de-20-000-euros</guid>
-      <description>
-Vous &#234;tes &#224; la recherche d'une voiture &#233;lectrique pas ch&#232;re ? Gr&#226;ce &#224; la prime &#171; coup de pouce &#187;, qui remplace le bonus &#233;cologique, et &#224; nos essais, vous pourrez trouver une voiture &#233;lectrique neuve &#224; moins de 25 000 euros, aides d&#233;duites.
-</description>
-    </item>
-    <item>
-      <title>The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets</title>
-      <link>https://www.wired.com/story/gifts-for-book-lovers/</link>
-      <pubDate>Wed, 30 Sep 2026 11:36:00 +0000</pubDate>
-      <guid isPermaLink="false">65382ba574b5757f9c944315</guid>
-      <description>Any one of these gift ideas will make your favorite bookworm very happy, from e-readers and accessories to handy reading essentials.</description>
-    </item>
-    <item>
-      <title>OpenAI launches Dots, its always-on AI agents that are always watching</title>
-      <link>https://www.techradar.com/pro/openai-launches-dots-its-always-on-ai-agents-that-are-always-watching</link>
-      <pubDate>Wed, 30 Sep 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">7UCdFwKpaADk8U86NfNSKb</guid>
-      <description>Eligible ChatGPT users can now use Dots &#8211; individual, always-on agents that proactively work toward goals you set.</description>
+      <title>An Analogue Pocket restock is coming October 2</title>
+      <link>https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/</link>
+      <pubDate>Wed, 30 Sep 2026 16:59:39 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/</guid>
+      <description>It's sure to sell out fast again.</description>
     </item>
   </channel>
 </rss>
