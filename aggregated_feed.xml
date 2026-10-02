@@ -3,41 +3,86 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:10:56 GMT</lastBuildDate>
     <item>
-      <title>AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse</title>
-      <link>https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse</link>
-      <pubDate>Fri, 02 Oct 2026 01:05:00 +0000</pubDate>
-      <guid isPermaLink="false">akZjm5u4HhJr8sAobpsULh</guid>
-      <description>Researchers find AI chatbots are delivering the same answers repeatedly, providing a narrower selection of information than a traditional search engine, potentially reducing diversity of opinion, perspectives, and choice</description>
+      <title>La nouvelle IA de Microsoft transcrit vos paroles avant m&#234;me la fin de vos phrases</title>
+      <link>https://www.frandroid.com/marques/microsoft/3269975_la-nouvelle-ia-de-microsoft-transcrit-vos-paroles-avant-meme-la-fin-de-vos-phrases</link>
+      <pubDate>Fri, 02 Oct 2026 08:04:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3269975_la-nouvelle-ia-de-microsoft-transcrit-vos-paroles-avant-meme-la-fin-de-vos-phrases</guid>
+      <description>
+Microsoft a lanc&#233; ce jeudi 1er octobre MAI-Transcribe-2-Streaming, un mod&#232;le d'IA qui transcrit la parole en direct dans 60 langues, accompagn&#233; de deux nouveaux mod&#232;les de synth&#232;se vocale. Selon Microsoft, ce premier mod&#232;le de transcription en direct de l'entreprise se classe num&#233;ro un en pr&#233;cision sur le comparateur Artificial Analysis.
+</description>
     </item>
     <item>
-      <title>Robotaxi operators will face fines for blocking first responders</title>
-      <link>https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/</link>
-      <pubDate>Fri, 02 Oct 2026 00:57:57 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172720</guid>
-      <description>A new California law places new rules on autonomous vehicles operators</description>
+      <title>Amazon anticipe ses Jours Flash Prime : voici les meilleures offres Tech de l&#8217;avant-premi&#232;re &#224; saisir en DIRECT</title>
+      <link>https://www.frandroid.com/bons-plans/3266859_amazon-anticipe-ses-jours-flash-prime-voici-le-direct-des-meilleures-offres-en-avant-premiere</link>
+      <pubDate>Fri, 02 Oct 2026 07:58:42 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3266859_amazon-anticipe-ses-jours-flash-prime-voici-le-direct-des-meilleures-offres-en-avant-premiere</guid>
+      <description>
+Amazon pr&#233;pare ses Jours Flash Prime pour ses abonn&#233;s les 6 et 7 octobre 2026, mais les premi&#232;res bonnes affaires sont d&#233;j&#224; en ligne ! Dans cet article mis &#224; jour en direct, vous retrouverez notre s&#233;lection des meilleures offres Tech pour l'occasion. 
+</description>
     </item>
     <item>
-      <title>You don't need to splurge on tech &#8212; these 10 October Prime Day deals prove you can get quality for under AU$100</title>
-      <link>https://www.techradar.com/seasonal-sales/you-dont-need-to-splurge-on-tech-these-10-october-prime-day-deals-prove-you-can-get-quality-for-under-aud100</link>
-      <pubDate>Fri, 02 Oct 2026 00:54:39 +0000</pubDate>
-      <guid isPermaLink="false">wDaVk4xPgW3F6Zi6scA8t8</guid>
-      <description>We&#8217;ve rounded up the best Amazon Prime Big Deal Days deals under AU$100 we&#8217;d actually buy, and you can grab big discounts on favourites like speakers, power banks, fitness trackers and more.</description>
+      <title>AirPods 5 : Apple obtient sa meilleure note de r&#233;parabilit&#233; pour des &#233;couteurs&#8230; 2/10</title>
+      <link>https://www.frandroid.com/marques/apple/3269993_airpods-5-apple-obtient-sa-meilleure-note-de-reparabilite-pour-des-ecouteurs-2-10</link>
+      <pubDate>Fri, 02 Oct 2026 07:49:43 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3269993_airpods-5-apple-obtient-sa-meilleure-note-de-reparabilite-pour-des-ecouteurs-2-10</guid>
+      <description>
+Apr&#232;s dix ann&#233;es de 0/10, les AirPods d&#233;crochent enfin un score de r&#233;parabilit&#233; positif. Le laboratoire de d&#233;montage iFixit, a attribu&#233; aux AirPods 5 la note de 2 sur 10, gr&#226;ce &#224; une batterie d&#233;sormais accessible avec des outils du quotidien. Un progr&#232;s technique qui intervient deux mois apr&#232;s une d&#233;cision de Bruxelles allant dans le sens inverse.
+...</description>
     </item>
     <item>
-      <title>Chinese motherboard maker borrows cable tech from enterprise servers to eliminate graphic card slot pave way for more external GPUs &#8212; Maxsun uses MCIO to fast-track compact workstations</title>
-      <link>https://www.techradar.com/pro/chinese-motherboard-maker-borrows-cable-tech-from-enterprise-servers-to-eliminate-graphic-card-slot-pave-way-for-more-external-gpus-maxsun-uses-mcio-to-fast-track-compact-workstations</link>
-      <pubDate>Fri, 02 Oct 2026 00:25:00 +0000</pubDate>
-      <guid isPermaLink="false">KvHMUxBCGSQpHK88kgwx2J</guid>
-      <description>Maxsun demonstrates Z890 Mini-ITX workstation using MCIO cables to separate the graphics card from the motherboard inside a compact chassis.</description>
+      <title>Daylight saving starts this weekend &#8212; here are 8 products to help adjust to the time change seamlessly</title>
+      <link>https://www.techradar.com/health-fitness/sleep/daylight-saving-starts-this-weekend-here-are-8-products-to-help-adjust-to-the-time-change-seamlessly</link>
+      <pubDate>Fri, 02 Oct 2026 07:22:59 +0000</pubDate>
+      <guid isPermaLink="false">Cr22ynpTr9RmDrrYFxKo84</guid>
+      <description>From sleep trackers like smart rings and bands, eye masks, alarm clocks and cooling products, we&#8217;ve found a variety of discounted, DST-friendly items.</description>
     </item>
     <item>
-      <title>The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
-      <link>https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
-      <pubDate>Fri, 02 Oct 2026 00:03:23 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151020</guid>
-      <description>TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.</description>
+      <title>Amazon lance ses nouveaux Kindle et fait grimper les prix</title>
+      <link>https://www.01net.com/actualites/amazon-lance-ses-nouveaux-kindle-et-fait-grimper-les-prix.html</link>
+      <pubDate>Fri, 02 Oct 2026 07:18:33 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1372580</guid>
+      <description>Le g&#233;ant du commerce &#233;lectronique vient de pr&#233;senter sa nouvelle gamme de liseuses Kindle. Les Kindle Standard, Paperwhite et Colorsoft profitent d&#8217;un gros ravalement de fa&#231;ade, mais surtout d&#8217;une nouvelle grille tarifaire.</description>
+    </item>
+    <item>
+      <title>Amazon Prime Day hasn&#8217;t delivered on soundbar deals &#8212; thankfully, other Australian retailers have filled the void</title>
+      <link>https://www.techradar.com/televisions/soundbars/amazon-prime-day-hasnt-delivered-on-soundbar-deals-thankfully-other-australian-retailers-have-filled-the-void</link>
+      <pubDate>Fri, 02 Oct 2026 07:11:10 +0000</pubDate>
+      <guid isPermaLink="false">WCYnqyjD4TGm6aZtTJxKsj</guid>
+      <description>I had high hopes for some big discounts in the Prime Big Deal Days sale, but alas, no luck! Fortunately, there are some excellent bargains to be found elsewhere.</description>
+    </item>
+    <item>
+      <title>Early Prime Day steal: Clip this Amazon coupon to score $900 off the Dreame A3 AWD Pro 3500 robot lawn mower</title>
+      <link>https://mashable.com/tech/oct-1-early-prime-day-dreame-robot-lawn-mower-deal</link>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">06d17depyWm7fjxTvLbkB3L</guid>
+      <description>Get the best robot lawn mower deal at Amazon. Save $900 on the Dreame Robot Lawn Mower with an Amazon coupon.</description>
+    </item>
+    <item>
+      <title>Avec une nouvelle augmentation des prix, le Raspberry Pi n&#8217;a plus grand-chose d&#8217;un PC bon march&#233;</title>
+      <link>https://www.frandroid.com/produits-android/ordinateurs/3269925_avec-une-nouvelle-augmentation-des-prix-le-raspberry-pi-na-plus-grand-chose-dun-pc-bon-marche</link>
+      <pubDate>Fri, 02 Oct 2026 06:53:09 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/ordinateurs/3269925_avec-une-nouvelle-augmentation-des-prix-le-raspberry-pi-na-plus-grand-chose-dun-pc-bon-marche</guid>
+      <description>
+La crise de la RAM n&#8217;&#233;pargne personne. M&#234;me la fondation Raspberry Pi, connue pour ses &#171; nano ordinateurs &#187; peu on&#233;reux, est encore oblig&#233;e d&#8217;augmenter ses prix sur les versions 2&#160;Go de ses appareils.
+</description>
+    </item>
+    <item>
+      <title>Fuite de donn&#233;es chez OpenAI&#160;: le roi de l&#8217;IA licencie 3 employ&#233;s qui ont partag&#233; des &#171;&#160;informations sensibles&#160;&#187;</title>
+      <link>https://www.01net.com/actualites/fuite-donnees-openai-roi-ia-licencie-3-employes-partage-informations-sensibles.html</link>
+      <pubDate>Fri, 02 Oct 2026 06:41:51 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1372577</guid>
+      <description>OpenAI, la soci&#233;t&#233; &#224; l'origine de ChatGPT, a annonc&#233; le licenciement de trois employ&#233;s. La start-up leur reproche d&#8217;avoir partag&#233; des informations sensibles avec un organisme ext&#233;rieur, sp&#233;cialis&#233; dans l&#8217;analyse des IA.</description>
+    </item>
+    <item>
+      <title>L&#8217;Oppo A6 Pro 5G perd 20 euros et des &#233;couteurs connect&#233;s sont offerts gr&#226;ce &#224; Boulanger</title>
+      <link>https://www.frandroid.com/bons-plans/3268473_loppo-a6-pro-5g-perd-20-euros-et-des-ecouteurs-connectes-sont-offerts-grace-a-boulanger</link>
+      <pubDate>Fri, 02 Oct 2026 06:37:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3268473_loppo-a6-pro-5g-perd-20-euros-et-des-ecouteurs-connectes-sont-offerts-grace-a-boulanger</guid>
+      <description>
+L'Oppo A6 Pro 5G est un smartphone adapt&#233; &#224; ceux qui cherchent un appareil r&#233;sistant, endurant et capable de g&#233;rer les principales applications. Pour le d&#233;couvrir &#224; prix r&#233;duit, rendez-vous sur Boulanger o&#249; il passe sous les 250 euros. 
+</description>
     </item>
   </channel>
 </rss>
