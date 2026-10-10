@@ -3,104 +3,62 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Fri, 09 Oct 2026 20:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:36:28 GMT</lastBuildDate>
     <item>
-      <title>Tesla&#8217;s &#8216;Full Self-Driving&#8217; Becomes &#8216;Assisted Driving&#8217; in Europe</title>
-      <link>https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/</link>
-      <pubDate>Fri, 09 Oct 2026 20:18:15 +0000</pubDate>
-      <guid isPermaLink="false">6ac937717b0b9cc54f6b8e70</guid>
-      <description>The automaker has been criticized for misleading drivers with the feature&#8217;s name. Now it&#8217;s renaming it for European regulators.</description>
+      <title>Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead</title>
+      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+      <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176323</guid>
+      <description>Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.</description>
     </item>
     <item>
-      <title>The RAMpocalypse has led global PC shipments to drop 20 percent in just 12 months</title>
-      <link>https://www.techradar.com/pro/the-rampocalypse-has-led-global-pc-shipments-to-drop-20-percent-in-just-12-months</link>
-      <pubDate>Fri, 09 Oct 2026 20:05:00 +0000</pubDate>
-      <guid isPermaLink="false">hPzs8juDhqT3dKaq2UDnTQ</guid>
-      <description>PC sales are down 20-21% year-over-year and 9% in a quarter &#8211; and prices aren't really going to get any better.</description>
+      <title>AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment</title>
+      <link>https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment</link>
+      <pubDate>Sat, 10 Oct 2026 00:05:00 +0000</pubDate>
+      <guid isPermaLink="false">EtDMLVp7pwuqK7pSYzQhqN</guid>
+      <description>Quanta reportedly paused HP laptop production for a week in a price fight, betting its AI server boom could absorb the hit.</description>
     </item>
     <item>
-      <title>An Anthropic model submitted a false homicide tip to Philadelphia police</title>
-      <link>https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/</link>
-      <pubDate>Fri, 09 Oct 2026 20:00:30 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/</guid>
-      <description>Thankfully, it does not seem to have diverted police resources.</description>
+      <title>The Witcher 3: Wild Hunt &#8212; Remastered review: better graphics and boosted performance are just the beginning</title>
+      <link>https://www.techradar.com/gaming/the-witcher-3-remastered-review</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bddQxvgQTghMYDGT8vfvTm</guid>
+      <description>More than a mere remaster, Geralt's return is packed with welcome updates, improvements, and enhancements.</description>
     </item>
     <item>
-      <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
-      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
-      <pubDate>Fri, 09 Oct 2026 19:36:56 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176212</guid>
-      <description>Anthropic did not discover this behavior until over two months after its AI submitted the false tip.</description>
+      <title>Man jailed for using 1,000 bots to fraudulently make $8m from his AI music</title>
+      <link>https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hw86SmHtGa95uxw9Xb8R3j</guid>
+      <description>A man has been sentenced to prison for fraudulently making $8 million from streams of his AI music.</description>
     </item>
     <item>
-      <title>Book Publishers Are Quietly Using More AI. Staff Are Revolting</title>
-      <link>https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/</link>
-      <pubDate>Fri, 09 Oct 2026 19:28:49 +0000</pubDate>
-      <guid isPermaLink="false">6abe9c83d05dc665bd7e9be0</guid>
-      <description>Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</description>
+      <title>How to watch UCI Gravel World Championships 2026 for FREE: Live Streams &amp; TV Channels</title>
+      <link>https://www.techradar.com/how-to-watch/cycling/uci-gravel-world-championships-2026-free</link>
+      <pubDate>Fri, 09 Oct 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2gGrYSpnqVuCFwvnu9UTkj</guid>
+      <description>As grueling gravel tracks and crushing climbs await, see how to watch 2026 UCI Gravel World Championships cycling from anywhere and with free live streams.</description>
     </item>
     <item>
-      <title>MSI Pro Max Edge AI+ mini PC review</title>
-      <link>https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review</link>
-      <pubDate>Fri, 09 Oct 2026 19:11:42 +0000</pubDate>
-      <guid isPermaLink="false">U93ecr9ViAQGEu7r2G9cp6</guid>
-      <description>The MSI Pro Max Edge AI+ is a mini PC with a difference. Built for local AI, it features the AMD&#8217;s Ryzen AI Max+ 395, Radeon 8060s graphics and a 50-TOPS NPU.</description>
+      <title>NYT Connections hints and answers for Saturday, October 10 (game #1217)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-10-october-2026</link>
+      <pubDate>Fri, 09 Oct 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Fm5uRpunPGCdb6YXLuwyjM</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>Nvidia RTX Spark laptops start at $2,599 &#8212; pre-orders are live now</title>
-      <link>https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business</link>
-      <pubDate>Fri, 09 Oct 2026 19:00:45 +0000</pubDate>
-      <guid isPermaLink="false">VQ5eyYG8y2CFor7o6jF3hU</guid>
-      <description>Pre-orders are now live for Nvidia RTX Spark laptops, but these are the three Blackwell-powered machines I'd buy if you're a small business running local AI.</description>
+      <title>NYT Strands hints and answers for Saturday, October 10 (game #951)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-10-october-2026</link>
+      <pubDate>Fri, 09 Oct 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">w4TnS4kAyc7AZn7zBnFxJK</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
-      <title>Anker Soundcore AeroClip 2 review: a solid pair of ultra-compact, featherweight clip-on earbuds</title>
-      <link>https://www.techradar.com/audio/earbuds-airpods/anker-soundcore-aeroclip-2-review</link>
-      <pubDate>Fri, 09 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">dAkDiQuAR2XvpviLT97C46</guid>
-      <description>Anker&#8217;s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features &#8212; and they don&#8217;t sound half bad, either.</description>
-    </item>
-    <item>
-      <title>How to watch Boston Blue season 2 online for free &#8211; stream police drama from anywhere</title>
-      <link>https://www.techradar.com/how-to-watch/tv-shows/watch-boston-blue-season-2</link>
-      <pubDate>Fri, 09 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">CM5HpQtUWgfRruzbYxmXyB</guid>
-      <description>Here's how to watch Boston Blue season 2 online no matter where in the world you are.</description>
-    </item>
-    <item>
-      <title>Bill Murray says Rivian&#8217;s Ghostbusters Ecto-R1 is &#8220;perfect&#8221; &#8212; and I&#8217;ve seen it in action</title>
-      <link>https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/just-silly-enough-to-be-perfect-ive-seen-rivians-ghostbusters-ecto-r1-in-action</link>
-      <pubDate>Fri, 09 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Uv68Sx3wnL2g5DygX5Qyq5</guid>
-      <description>Rivian is bringing Ghostbusters to its electric vehicles with a Halloween software update, and I got to see Bill Murray with the custom Ecto-R1 in New York City and try the new features for myself.</description>
-    </item>
-    <item>
-      <title>Suit says dynamic AI prices at McDonald&#8217;s are &#8216;nickel-and-diming consumers&#8217;</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/mcdonalds-defends-its-dynamic-ai-pricing-as-new-lawsuit-says-its-nickel-and-diming-consumers-down-to-the-last-french-fry</link>
-      <pubDate>Fri, 09 Oct 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ahki6CrkQy3j7Tbwcu5XDb</guid>
-      <description>An antitrust lawsuit is being brought against McDonald&#8217;s alleging the chain is using dynamic AI pricing to rip off customers.</description>
-    </item>
-    <item>
-      <title>Batteries are now cheaper than natural gas turbines used at many data centers</title>
-      <link>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</link>
-      <pubDate>Fri, 09 Oct 2026 18:57:58 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176196</guid>
-      <description>Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026: Gamma&#8217;s Grant Lee, Engine&#8217;s Elia Wallen, and GV&#8217;s Crystal Huang on landing your first 1,000 customers</title>
-      <link>https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/</link>
-      <pubDate>Fri, 09 Oct 2026 18:57:06 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176012</guid>
-      <description>Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.</description>
-    </item>
-    <item>
-      <title>It looks like you're buying a Clippy desk accessory without getting caught in a Microsoft crypto scam. Would you like help?</title>
-      <link>https://www.techradar.com/pro/it-looks-like-youre-buying-a-clippy-desk-accessory-without-getting-caught-in-a-microsoft-crypto-scam-would-you-like-help</link>
-      <pubDate>Fri, 09 Oct 2026 18:52:49 +0000</pubDate>
-      <guid isPermaLink="false">nTm7XmyvUzBSHyv8BxMdtb</guid>
-      <description>It looks like you're buying a Clippy desk accessory without getting caught in a crypto scam. Would you like help? Oh yes, Microsoft's iconic mascot is back.</description>
+      <title>Quordle hints and answers for Saturday, October 10 (game #1720)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-10-october-2026</link>
+      <pubDate>Fri, 09 Oct 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QkCPbnyFxMDFo2FxXX9jaG</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
   </channel>
 </rss>
