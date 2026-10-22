@@ -3,155 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Wed, 21 Oct 2026 23:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:00:23 GMT</lastBuildDate>
     <item>
-      <title>SteelSeries Sensei Pro review: clever battery management meets high performance</title>
-      <link>https://www.techradar.com/computing/mice/steelseries-sensei-pro-review</link>
-      <pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hW48xKjYtQExPTDrg32b3d</guid>
-      <description>SteelSeries' new wireless gaming mouse ensures you&#8217;ll never need to go wired to charge &#8212; but how well does its unusual battery system actually work?</description>
+      <title>Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</title>
+      <link>https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/</link>
+      <pubDate>Thu, 22 Oct 2026 02:24:17 +0000</pubDate>
+      <guid isPermaLink="false">6ad955a28e3faf9869a11a20</guid>
+      <description>Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They&#8217;re now being &#8220;broadly exploited&#8221; across the internet.</description>
     </item>
     <item>
-      <title>Quordle hints and answers for Thursday, October 22 (game #1732)</title>
-      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-22-october-2026</link>
-      <pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">HR4WAcskiupjbTTg5HQojf</guid>
-      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
-    </item>
-    <item>
-      <title>NYT Connections hints and answers for Thursday, October 22 (game #1229)</title>
-      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-22-october-2026</link>
-      <pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ctFFG3LuwvNQCVVBMmQiPa</guid>
-      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
-    </item>
-    <item>
-      <title>NYT Strands hints and answers for Thursday, October 22 (game #963)</title>
-      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-22-october-2026</link>
-      <pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">E2GuUJjyCYnwJkkDPBsTNd</guid>
-      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
-    </item>
-    <item>
-      <title>Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown</title>
-      <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
-      <pubDate>Wed, 21 Oct 2026 22:51:22 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180358</guid>
-      <description>Blackstone&#8217;s AI head on why the PE giant isn't panicked by market jitters.</description>
-    </item>
-    <item>
-      <title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
-      <link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</link>
-      <pubDate>Wed, 21 Oct 2026 22:45:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180349</guid>
-      <description>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg Agrees to Stay in California Despite Billionaires&#8217; Tax Ballot Measure</title>
-      <link>https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/</link>
-      <pubDate>Wed, 21 Oct 2026 22:39:50 +0000</pubDate>
-      <guid isPermaLink="false">6ad92fb968bf72427a051c84</guid>
-      <description>Meta&#8217;s board feared that its CEO&#8217;s departure could disrupt the company&#8217;s AI ambitions. A new stock agreement gives him financial incentives to stay put.</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg says Meta is 'entering a new phase' with Muse</title>
-      <link>https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/</link>
-      <pubDate>Wed, 21 Oct 2026 22:36:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/</guid>
-      <description>Zuckerberg expects the agent will generate more revenue per user than the company's apps.</description>
-    </item>
-    <item>
-      <title>Data centers could erase decades of air quality gains</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
-      <pubDate>2026-10-21T18:33:44-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1015958</guid>
-      <description>A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]</description>
-    </item>
-    <item>
-      <title>'Data centers can be located in exhausted open pits': Russia eyes 300-meter-deep coal mines to shield server infrastructure from Ukrainian drones</title>
-      <link>https://www.techradar.com/pro/data-centers-can-be-located-in-exhausted-open-pits-russia-eyes-300-meter-deep-coal-mines-to-shield-server-infrastructure-from-ukrainian-drones</link>
-      <pubDate>Wed, 21 Oct 2026 22:20:00 +0000</pubDate>
-      <guid isPermaLink="false">TDMiKVTDa5AQoB7FKhGz35</guid>
-      <description>Russia is considering abandoned coal mines for data centers, citing potential security and cooling benefits amid drone attacks and infrastructure concerns.</description>
-    </item>
-    <item>
-      <title>Bose buys audio rival Skullcandy</title>
-      <link>https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/</link>
-      <pubDate>Wed, 21 Oct 2026 22:19:48 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/</guid>
-      <description>Bose sees the company as a way to reach a wider audience.</description>
-    </item>
-    <item>
-      <title>Airbnb limits chores for guests, sparking backlash from hosts</title>
-      <link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</link>
-      <pubDate>Wed, 21 Oct 2026 22:16:05 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180432</guid>
-      <description>Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.</description>
-    </item>
-    <item>
-      <title>Airbnb bans hosts from making you do the dishes</title>
-      <link>https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/</link>
-      <pubDate>Wed, 21 Oct 2026 22:04:32 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/</guid>
-      <description>Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.</description>
-    </item>
-    <item>
-      <title>12 days of nerd-friendly Advent calendars &#8212; from rubber ducks to Funko Pops</title>
-      <link>https://www.techradar.com/home/12-days-of-nerd-friendly-advent-calendars-from-rubber-ducks-to-funko-pops-these-countdown-calendars-do-things-a-little-differently</link>
-      <pubDate>Wed, 21 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">N4pwMghdtTXaCCWpd8PMN7</guid>
-      <description>Gloriously geeky countdown calendars with doors you'll actually be excited to open.</description>
-    </item>
-    <item>
-      <title>Half of this group of workers lies to take PTO</title>
-      <link>https://www.fastcompany.com/91627592/half-of-this-group-of-workers-lies-to-take-pto</link>
-      <pubDate>2026-10-21T22:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91627592/half-of-this-group-of-workers-lies-to-take-pto</guid>
-      <description>What cover stories for furry friends might reveal about culture problems at work.
-For pet owners with jobs, occasionally missing work to care for their animals is a matter of routine. So is lying about it.</description>
-    </item>
-    <item>
-      <title>U.S. housing market officially hits 4 years of historically low resale turnover</title>
-      <link>https://www.fastcompany.com/91627851/housing-market-officially-hits-4-years-of-historically-low-resale-turnover</link>
-      <pubDate>2026-10-21T22:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91627851/housing-market-officially-hits-4-years-of-historically-low-resale-turnover</guid>
-      <description>U.S. resale transactions have largely been bouncing along the &#8220;Ds of Housing&#8221; transaction floor for four years now.
-Want more housing market stories from Lance Lambert&#8217;s ResiClub in your inbox? Subscribe to the ResiClub newsletter.</description>
-    </item>
-    <item>
-      <title>Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores</title>
-      <link>https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/</link>
-      <pubDate>Wed, 21 Oct 2026 21:57:22 +0000</pubDate>
-      <guid isPermaLink="false">6ad8e1c780d41945f1690d6b</guid>
-      <description>Some hosts are threatening to strike, while others are plotting ways around Airbnb&#8217;s new restrictions. Guests, meanwhile, are celebrating.</description>
-    </item>
-    <item>
-      <title>Meta to create a new class of shares to fund AI push</title>
-      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
-      <pubDate>2026-10-21T17:30:02-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1015799</guid>
-      <description>Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. "The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]...</description>
-    </item>
-    <item>
-      <title>'Autonomously commanded from up to 70 miles away': The US military is testing self-flying cargo helicopters that navigate around sudden no-fly zones on their own</title>
-      <link>https://www.techradar.com/pro/autonomously-commanded-from-up-to-70-miles-away-the-u-s-military-is-testing-self-flying-cargo-helicopters-that-navigate-around-sudden-no-fly-zones-on-their-own</link>
-      <pubDate>Wed, 21 Oct 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">gZvrS3hU9C6axJ9ajQwvw</guid>
-      <description>Airbus demonstrates an autonomous cargo helicopter that reroutes around restricted airspace, using Hivemind for navigation and Starlink for remote commands.</description>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
-      <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
-      <pubDate>Wed, 21 Oct 2026 21:16:20 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168635</guid>
-      <description>TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.</description>
-    </item>
-    <item>
-      <title>Meta says Muse has over 10M users, with shopping a top activity</title>
-      <link>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</link>
-      <pubDate>Wed, 21 Oct 2026 21:14:19 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180391</guid>
-      <description>Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.</description>
+      <title>&#8216;Thanks again for your help!&#8217;: Rogue AI agents on Tencent Cloud tried to crack Alibaba&#8217;s Amap, then chatted politely with the team tracking them</title>
+      <link>https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them</link>
+      <pubDate>Thu, 22 Oct 2026 02:20:00 +0000</pubDate>
+      <guid isPermaLink="false">3JYMMtS6XwF5tTw4SV72w3</guid>
+      <description>AI agents made thousands of requests to Alibaba&#8217;s Amap, bypassed some restrictions, and prompted researchers to investigate their infrastructure and uncertain origins.</description>
     </item>
   </channel>
 </rss>
