@@ -3,73 +3,116 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 25 Oct 2026 09:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:10:41 GMT</lastBuildDate>
     <item>
-      <title>Les robots se heurtent &#224; la r&#233;alit&#233; : trop chers pour remplacer l&#8217;humain</title>
-      <link>https://www.01net.com/actualites/les-robots-se-heurtent-a-la-realite-trop-chers-pour-remplacer-lhumain.html</link>
-      <pubDate>Sun, 25 Oct 2026 09:00:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1376937</guid>
-      <description>Capables d'assurer un tiers des heures travaill&#233;es aux &#201;tats-Unis, les robots ne sont rentables que sur trois t&#226;ches sur mille. Une &#233;tude chiffre l'&#233;cart entre la d&#233;monstration technique et la feuille de paie, et il se compte en d&#233;cennies.</description>
+      <title>The hottest AI wearables and gadgets you should know about</title>
+      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
+      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3067743</guid>
+      <description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</description>
     </item>
     <item>
-      <title>We Linked 150 of Ikea&#8217;s $10 Speakers to Make a Wall of Sound</title>
-      <link>https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/</link>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6ad9f1bd8b89201a71ae24e7</guid>
-      <description>WIRED attempts what even the Swedish brand hasn&#8217;t: making a sonic monolith using scores of the cheapest Bluetooth speakers on the market. Can you have too much of a small thing?</description>
-    </item>
-    <item>
-      <title>Nvidia bride-t-il ses GeForce RTX 40 ? Un hack fait sauter le verrou</title>
-      <link>https://www.frandroid.com/marques/nvidia/3298403_nvidia-bride-t-il-ses-geforce-rtx-40-un-hack-fait-sauter-le-verrou</link>
-      <pubDate>Sun, 25 Oct 2026 08:36:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3298403_nvidia-bride-t-il-ses-geforce-rtx-40-un-hack-fait-sauter-le-verrou</guid>
+      <title>J&#8217;ai test&#233; la batterie solaire Anker Solix Solarbank Max AC de 73 kg : ma maison peut-elle vivre sans EDF ?</title>
+      <link>https://www.frandroid.com/marques/anker/3297455_jai-teste-lanker-solix-solarbank-max-ac-la-batterie-qui-se-branche-sur-une-prise-mesuree-au-wattheure-pres</link>
+      <pubDate>Sun, 25 Oct 2026 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/anker/3297455_jai-teste-lanker-solix-solarbank-max-ac-la-batterie-qui-se-branche-sur-une-prise-mesuree-au-wattheure-pres</guid>
       <description>
-Un post viral promet de doubler la puissance de toutes les RTX 40 sans flasher le BIOS. Le projet existe bien, mais il ne vise que deux cartes, ne tourne que sous Linux et ne double qu'un type de calcul tr&#232;s pr&#233;cis.
+Avec la Solarbank Max AC, Anker propose une batterie domestique de 7 kWh qui ne se relie pas aux panneaux solaires, mais &#224; une simple prise. Je l'ai utilis&#233;e pendant un mois dans mon garage et je l'ai pass&#233;e au banc. La batterie est tr&#232;s bien construite et son application fait partie des meilleures du march&#233;, mais son rendement chute dans certaines conditions.
+...</description>
+    </item>
+    <item>
+      <title>I tested TCL's mid-range mini-LED TV against LG's most affordable OLED TV in a head-to-head clash</title>
+      <link>https://www.techradar.com/televisions/tcls-mid-range-mini-led-against-lgs-most-affordable-oled</link>
+      <pubDate>Sun, 25 Oct 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">tMZEy8fLWbxJo5QSdV5L7</guid>
+      <description>Can TCL's affordable mini-LED match LG's entry-level OLED? I tested both TVs side-by-side using reference testing scenes to find out</description>
+    </item>
+    <item>
+      <title>Samsung probably isn't rebranding One UI as Galaxy OS</title>
+      <link>https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/</link>
+      <pubDate>Sun, 25 Oct 2026 13:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/</guid>
+      <description>A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.</description>
+    </item>
+    <item>
+      <title>Quantum computers can get colder than deep space &#8212; Here's how they stay running</title>
+      <link>https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/</link>
+      <pubDate>Sun, 25 Oct 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/</guid>
+      <description>Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.</description>
+    </item>
+    <item>
+      <title>r/opensource just banned AI, non-English speakers, and more</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+      <pubDate>2026-10-25T09:25:32-04:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1018217</guid>
+      <description>The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]</description>
+    </item>
+    <item>
+      <title>Ninja casse le prix de son barbecue connect&#233; Woodfire Pro Connect XL, qui fait aussi airfryer et fumoir</title>
+      <link>https://www.frandroid.com/bons-plans/3297185_ninja-casse-le-prix-de-son-barbecue-connecte-woodfire-pro-connect-xl-qui-fait-aussi-airfryer-et-fumoir</link>
+      <pubDate>Sun, 25 Oct 2026 13:20:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3297185_ninja-casse-le-prix-de-son-barbecue-connecte-woodfire-pro-connect-xl-qui-fait-aussi-airfryer-et-fumoir</guid>
+      <description>
+Barbecue &#233;lectrique, fumoir &#224; granul&#233;s et airfryer &#224; la fois, le Ninja Woodfire Pro Connect XL est un appareil complet. Not&#233; 9/10, nous le recommandons chaudement, surtout maintenant qu'il passe de 449,99 euros &#224; 283,99 euros sur le site officiel. 
 </description>
     </item>
     <item>
-      <title>eSIM pour voyager en Europe : ce n&#8217;est pas une si mauvaise id&#233;e, m&#234;me avec l&#8217;itin&#233;rance gratuite</title>
-      <link>https://www.frandroid.com/telecom/esim-voyage/3291269_esim-pour-voyager-en-europe-ce-nest-pas-une-si-mauvaise-idee-meme-avec-litinerance-gratuite</link>
-      <pubDate>Sun, 25 Oct 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/telecom/esim-voyage/3291269_esim-pour-voyager-en-europe-ce-nest-pas-une-si-mauvaise-idee-meme-avec-litinerance-gratuite</guid>
-      <description>
-Depuis la suppression des frais d'itin&#233;rance en 2017, les op&#233;rateurs mobiles sont dans l'obligation de pr&#233;voir une enveloppe de data &#224; consommer dans les pays europ&#233;ens. Une eSIM pour voyager en Europe peut donc sembler inutile, mais elle garde plusieurs avantages.
-</description>
+      <title>Don't throw away your old Chromebook (even if you're getting a Googlebook)</title>
+      <link>https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/</link>
+      <pubDate>Sun, 25 Oct 2026 13:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/</guid>
+      <description>There's plenty an old Chromebook can do, even if it's not your main computer.</description>
     </item>
     <item>
-      <title>Why quitting your job might be your best decision yet</title>
-      <link>https://www.fastcompany.com/91627787/why-quitting-your-job-might-be-your-best-decision-yet</link>
-      <pubDate>2026-10-25T08:00:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91627787/why-quitting-your-job-might-be-your-best-decision-yet</guid>
-      <description>Knowing when to walk away from a goal that no longer serves us can free up the time, energy, and opportunity we need to build something better.
-Below, Lindsay Crouse shares five key insights from her new book,&#160;The Case for Quitting: The Surprising Benefits of Opting Out.</description>
+      <title>How to turn your Canon camera's images into 3D objects and videos with Canon's free DP3D software</title>
+      <link>https://www.techradar.com/computing/creative-software/i-tried-canons-free-dp3d-software-to-make-3d-photos-and-videos-and-its-available-for-any-canon-camera-with-dual-pixel-autofocus</link>
+      <pubDate>Sun, 25 Oct 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9kni5477bP7kRhTvXbYyHG</guid>
+      <description>Canon has released Dual Pixel 3D software, which leverages 'depth and phase-detection data captured in a single shot via Dual Pixel CMOS AF' for a 3D imaging experience</description>
     </item>
     <item>
-      <title>Pour les 25 ans de l&#8217;iPod, Apple cache un iPod jouable sur Apple Music : voici comment y acc&#233;der</title>
-      <link>https://www.frandroid.com/marques/apple/3298231_ipod-apple-cache-un-baladeur-fonctionnel-sur-apple-music-pour-les-25-ans-du-produit</link>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3298231_ipod-apple-cache-un-baladeur-fonctionnel-sur-apple-music-pour-les-25-ans-du-produit</guid>
-      <description>
-Pour les 25 ans de l'iPod, Apple a gliss&#233; un baladeur virtuel sur la page 404 d'Apple Music. Il reprend la molette de l'original, propose des extraits de plus d'un millier de morceaux et cache m&#234;me un jeu.
-</description>
+      <title>When AI glasses could be a worthy headphones replacement</title>
+      <link>https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/</link>
+      <pubDate>Sun, 25 Oct 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/</guid>
+      <description>Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for.</description>
     </item>
     <item>
-      <title>iPhone Duo vraiment IP68 ? Ce test s&#232;me le doute</title>
-      <link>https://www.frandroid.com/marques/apple/3298405_iphone-duo-vraiment-ip68-ce-test-seme-le-doute</link>
-      <pubDate>Sun, 25 Oct 2026 07:48:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/apple/3298405_iphone-duo-vraiment-ip68-ce-test-seme-le-doute</guid>
-      <description>
-Apple vend son premier pliable 2&#160;339&#160;euros avec une certification IP68, cens&#233;e le rendre &#233;tanche &#224; la poussi&#232;re. Le test de JerryRigEverything montre une charni&#232;re bloqu&#233;e par quelques poign&#233;es de terre.
-</description>
+      <title>Wallhack M-001 Review: When Fun Overrides Specs</title>
+      <link>https://www.wired.com/review/wallhack-m-001/</link>
+      <pubDate>Sun, 25 Oct 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">6ada7a03ace4f27f64bac5a5</guid>
+      <description>With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.</description>
     </item>
     <item>
-      <title>Le Xiaomi Redmi Note 17 Pro prend son envol et s&#8217;all&#232;ge de 170 euros chez Boulanger avec des &#233;couteurs et une coque offerts</title>
-      <link>https://www.frandroid.com/bons-plans/3295683_le-xiaomi-redmi-note-17-pro-prend-son-envol-et-sallege-de-170-euros-chez-boulanger-avec-des-ecouteurs-et-une-coque-offerts</link>
-      <pubDate>Sun, 25 Oct 2026 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3295683_le-xiaomi-redmi-note-17-pro-prend-son-envol-et-sallege-de-170-euros-chez-boulanger-avec-des-ecouteurs-et-une-coque-offerts</guid>
-      <description>
-Le Xiaomi Redmi Note 17 Pro se d&#233;marque principalement par sa batterie de 8 340 mAh qui lui permet de tenir deux jours sans trembler. Sorti r&#233;cemment &#224; presque 500 euros, il voit son prix chuter chez Boulanger gr&#226;ce &#224; plusieurs r&#233;ductions. 
-</description>
+      <title>Don't throw away your old speakers &#8212; Use them for your TV instead</title>
+      <link>https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/</link>
+      <pubDate>Sun, 25 Oct 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/</guid>
+      <description>Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech.</description>
+    </item>
+    <item>
+      <title>Seagate One Touch 4TB external hard drive review</title>
+      <link>https://www.techradar.com/pro/seagate-one-touch-4tb-external-hdd-review</link>
+      <pubDate>Sun, 25 Oct 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">2KsFbNYyePwZJV5xZNaaUb</guid>
+      <description>The high-capacity 4TB portable HDD is just the start with this storage solution, as it comes with a suite of data backup software and password protection.</description>
+    </item>
+    <item>
+      <title>Smart bulbs are easy to install, but this smart home upgrade is more inclusive</title>
+      <link>https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/</link>
+      <pubDate>Sun, 25 Oct 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/</guid>
+      <description>Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead.</description>
+    </item>
+    <item>
+      <title>Look up tonight: October&#8217;s full moon is for hunters</title>
+      <link>https://www.fastcompany.com/91629265/hunters-moon-2026-meaning-best-view-time-october-full-moon</link>
+      <pubDate>2026-10-25T12:15:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91629265/hunters-moon-2026-meaning-best-view-time-october-full-moon</guid>
+      <description>The last full moon before Halloween will take place early Monday morning. Here&#8217;s the meaning behind the name and the best time to see it.
+This evening, the night sky is helping to set a spooky mood for the upcoming Halloween festivities later this week.</description>
     </item>
   </channel>
 </rss>
