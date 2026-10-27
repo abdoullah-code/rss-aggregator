@@ -3,127 +3,76 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:53:44 GMT</lastBuildDate>
     <item>
-      <title>A 16-year-old bug could be putting millions of routers at risk &#8212; despite Broadcom saying it patched the issue years ago</title>
-      <link>https://www.techradar.com/pro/security/a-16-year-old-bug-could-be-putting-millions-of-routers-at-risk-despite-broadcom-saying-it-patched-the-issue-years-ago</link>
-      <pubDate>Mon, 26 Oct 2026 22:05:00 +0000</pubDate>
-      <guid isPermaLink="false">DW9RBevofVQWdQ9tmkaVdK</guid>
-      <description>Broadcom says it fixed this 16-year-old Wi-Fi flaw in 2018, but the fix never reached the routers, and attackers in range need no password</description>
+      <title>What sorcery is this? Telstra actually has some excellent NBN deals</title>
+      <link>https://www.techradar.com/computing/wi-fi-broadband/what-sorcery-is-this-telstra-actually-has-some-excellent-nbn-deals</link>
+      <pubDate>Tue, 27 Oct 2026 01:42:06 +0000</pubDate>
+      <guid isPermaLink="false">rwuGAF8N5Poo9B75AnRUPa</guid>
+      <description>Telstra, Australia's biggest internet service provider by market share, has dropped some super-rare NBN deals, with savings of up to AU$240 for a limited time.</description>
     </item>
     <item>
-      <title>World's smallest wireless server is so tiny it comes with a keyring &#8212; Foldra is an $89 open source pocket cloud device with a touch OLED screen, a microSD slot, and a built-in battery</title>
-      <link>https://www.techradar.com/pro/worlds-smallest-wireless-server-is-so-tiny-it-comes-with-a-keyring-foldra-is-an-usd89-open-source-pocket-cloud-device-with-a-touch-oled-screen-a-microsd-slot-and-a-built-in-battery</link>
-      <pubDate>Mon, 26 Oct 2026 22:05:00 +0000</pubDate>
-      <guid isPermaLink="false">PkzWPw3qwG3AE4KN7dGafX</guid>
-      <description>Foldra is a small wireless storage device that lets users save files and access them from nearby devices without an internet connection.</description>
+      <title>71,207 drones broke world record in Texas using Chinese expertise and intriguing 'drone-in-a-box' concept &#8212; Shenzhen-based Damoda teamed with Sky Elements to bring 10000-strong dragon to life</title>
+      <link>https://www.techradar.com/pro/71-207-drones-broke-world-record-in-texas-using-chinese-expertise-and-intriguing-drone-in-a-box-concept-shenzhen-based-damoda-teamed-with-sky-elements-to-bring-10000-strong-dragon-to-life</link>
+      <pubDate>Tue, 27 Oct 2026 01:20:00 +0000</pubDate>
+      <guid isPermaLink="false">Ygk5hWitcsQc7GWxh2M7jD</guid>
+      <description>Sky Elements and Damoda used 71,207 drones in Texas to break two Guinness records, including one for a giant aerial dragon.</description>
     </item>
     <item>
-      <title>Databricks co-founder shares his secrets for winning big enterprises customers</title>
-      <link>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/</link>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180879</guid>
-      <description>Turns out selling to big companies isn&#8217;t about having the shiniest tech: it&#8217;s about hitching a ride on a giant&#8217;s sales team.</description>
+      <title>Cohere says Alibaba&#8217;s Qwen model tried to send a file to Beijing</title>
+      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
+      <pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181989</guid>
+      <description>An AI model said it wouldn&#8217;t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it&#8217;s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</description>
     </item>
     <item>
-      <title>Could Apple Music be resurrecting Cover Flow, after over a decade?</title>
-      <link>https://www.techradar.com/audio/apple-music/listeners-yearn-for-cover-flow-one-apple-music-user-claims-to-have-seen-the-future-of-apples-music-platform-but-fans-just-want-the-rolodex-style-visual-they-lost-back-in-2015</link>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">UGaNHqG7AkoMMxdViVNGRn</guid>
-      <description>Could Cover Flow be making a comeback? If it's true, it's going to make a lot of Apple Music subscribers very happy.</description>
+      <title>AI agents need limits on financial access</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/ai-agents-are-going-rogue-inside-bank-accounts-and-this-is-exactly-what-ive-been-worried-about</link>
+      <pubDate>Tue, 27 Oct 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">T8dq8h67twGorHvKGK3HNn</guid>
+      <description>AI agents are gaining access to bank accounts, raising serious concerns about security and whether the technology industry's obsession with automation is putting people's money at unnecessary risk.</description>
     </item>
     <item>
-      <title>The mistake iPhone Duo buyers can easily avoid</title>
-      <link>https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/</link>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/</guid>
-      <description>An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.</description>
+      <title>iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature</title>
+      <link>https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/</link>
+      <pubDate>Tue, 27 Oct 2026 00:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/</guid>
+      <description>Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.</description>
     </item>
     <item>
-      <title>Samsung&#8217;s Switch 2-ready MicroSD Express card is on sale for less than $50</title>
-      <link>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</link>
-      <pubDate>2026-10-26T17:56:36-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1018962</guid>
-      <description>Running out of space on your Nintendo Switch 2? Thankfully, Samsung&#8217;s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&amp;H Photo) and the 512GB version $99 (Amazon, B&amp;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and [&#8230;]</description>
+      <title>World's largest cargo drone packs a 50-foot wingspan and 4,000lb payload &#8212; but you'll never find a human pilot inside</title>
+      <link>https://www.techradar.com/pro/worlds-largest-cargo-drone-packs-a-50-foot-wingspan-and-4-000lb-payload-but-youll-never-find-a-human-pilot-inside</link>
+      <pubDate>Tue, 27 Oct 2026 00:20:00 +0000</pubDate>
+      <guid isPermaLink="false">oAdvFvjbViTZXqzR8DMMs6</guid>
+      <description>Poseidon Aerospace is developing Egret, a 50-foot autonomous cargo drone that carries 4,000 pounds but has no cockpit.</description>
     </item>
     <item>
-      <title>Maxxing named Dictionary.coms 2026 Word of the Year</title>
-      <link>https://mashable.com/life/dictionary-com-maxxing-word-of-the-year-2026</link>
-      <pubDate>Mon, 26 Oct 2026 21:48:14 +0000</pubDate>
-      <guid isPermaLink="false">06nXAIuhUvtoqRXttj4bGVK</guid>
-      <description>Dictionary.com named "maxxing" its 2026 Word of the Year. Here&#8217;s what it means, and its ties to looksmaxxing.</description>
+      <title>NYT Connections hints and answers for Tuesday, October 27 (game #1234)</title>
+      <link>https://www.techradar.com/gaming/nyt-connections-today-answers-hints-27-october-2026</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">vPNt4ksPSFyphssPgfmRqA</guid>
+      <description>Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.</description>
     </item>
     <item>
-      <title>Why French and Japanese users are beefing on X, explained</title>
-      <link>https://mashable.com/life/why-french-and-japanese-users-are-beefing-on-x-explained</link>
-      <pubDate>Mon, 26 Oct 2026 21:46:54 +0000</pubDate>
-      <guid isPermaLink="false">01mmyBc37CUHKEdyRHP7wzd</guid>
-      <description>French and Japanese X users are trading insults over One Piece flags at France&#8217;s protests. Here&#8217;s why.</description>
+      <title>NYT Strands hints and answers for Tuesday, October 27 (game #968)</title>
+      <link>https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-27-october-2026</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">r7ca5v4EAmFZL8hvtMxCdh</guid>
+      <description>Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.</description>
     </item>
     <item>
-      <title>Anthropic is burning gas to feed the AI boom</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
-      <pubDate>2026-10-26T17:45:31-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1018994</guid>
-      <description>As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" [&#8230;]...</description>
+      <title>Quordle hints and answers for Tuesday, October 27 (game #1737)</title>
+      <link>https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-october-2026</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">QKyfmJmM5zmJFBAWKkCzZW</guid>
+      <description>Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.</description>
     </item>
     <item>
-      <title>Apple iPhone Duo vs Samsung Galaxy Z Fold 8: a big battle of small differences</title>
-      <link>https://www.techradar.com/phones/samsung-galaxy-phones/apple-iphone-duo-vs-samsung-galaxy-z-fold-8-ive-tested-both-passport-style-foldables-and-i-still-cant-tell-you-which-i-prefer-but-thats-a-good-thing</link>
-      <pubDate>Mon, 26 Oct 2026 21:45:00 +0000</pubDate>
-      <guid isPermaLink="false">Td3MkU9sdMRLNf2Zt2FGrH</guid>
-      <description>Samsung was first &#8212; by a mile &#8212; with its Z Fold lineup, but is Apple's iPhone Duo now the best? The answer isn't so simple.</description>
-    </item>
-    <item>
-      <title>Why Anthropic&#8217;s IPO Prospectus Is Missing So Many Key Figures</title>
-      <link>https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/</link>
-      <pubDate>Mon, 26 Oct 2026 21:27:15 +0000</pubDate>
-      <guid isPermaLink="false">6adf7ed1ef12fa802abfb0e0</guid>
-      <description>Anthropic&#8217;s S-1 filing is hundreds of pages long&#8212;and it leaves out quite a few financial details. &#8220;Anthropic owes investors more information,&#8221; one analyst tells WIRED.</description>
-    </item>
-    <item>
-      <title>You can't currently order a Tinybox with Nvidia GPUs &#8212; and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier</title>
-      <link>https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier</link>
-      <pubDate>Mon, 26 Oct 2026 21:20:00 +0000</pubDate>
-      <guid isPermaLink="false">cz4jkTQVNreX3gvJzmg4XJ</guid>
-      <description>Less than two weeks after its $11,000 headline, the configurable deep learning workstation has dropped every Nvidia option and the tinybox pro, added two Radeon AI Pro R9700 builds, and raised their price.</description>
-    </item>
-    <item>
-      <title>Wendy&#8217;s store closures: Franchisee could close another 60 locations in Chapter 11 bankruptcy</title>
-      <link>https://www.fastcompany.com/91629791/wendys-closing-stores-list-shuttered-locations-likely-to-grow</link>
-      <pubDate>2026-10-26T21:10:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91629791/wendys-closing-stores-list-shuttered-locations-likely-to-grow</guid>
-      <description>Meratige Hospitality, which has already shuttered upwards of 90 Wendy&#8217;s restaurants, warned on Friday that more closures are likely.
-One of Wendy&#8217;s biggest franchisees is moving to potentially close as many as 60 restaurants, adding to the dozens of stores that it has already closed this year.</description>
-    </item>
-    <item>
-      <title>Watch out, YouTube &#8212; Instagram goes from short-form to 90-minute videos</title>
-      <link>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</link>
-      <pubDate>Mon, 26 Oct 2026 21:05:11 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181714</guid>
-      <description>After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.</description>
-    </item>
-    <item>
-      <title>Entrepreneurship might be the key to a longer life</title>
-      <link>https://www.fastcompany.com/91629305/entrepreneurship-might-be-the-key-to-a-longer-life</link>
-      <pubDate>2026-10-26T20:45:00</pubDate>
-      <guid isPermaLink="false">https://www.fastcompany.com/91629305/entrepreneurship-might-be-the-key-to-a-longer-life</guid>
-      <description>It often means more work, but a new study found that freedom and autonomy can do wonders for your health.
-If you thought entrepreneurship was too stressful a path to venture down, you might want to reassess. A new study found that there may be a surprising benefit to starting a business: longevity.&#160;</description>
-    </item>
-    <item>
-      <title>With hundreds dying in crashes, LA turns to speed cameras for change</title>
-      <link>https://mashable.com/tech/la-speed-cameras</link>
-      <pubDate>Mon, 26 Oct 2026 20:43:51 +0000</pubDate>
-      <guid isPermaLink="false">05WHXcKFYpMxHUfEUzDt2jA</guid>
-      <description>Will the cameras lead to changed behavior &#8212; and fewer deaths?</description>
-    </item>
-    <item>
-      <title>Best Dyson Vacuum Deals for Dyson Week 2026</title>
-      <link>https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/</link>
-      <pubDate>Mon, 26 Oct 2026 20:28:30 +0000</pubDate>
-      <guid isPermaLink="false">6adf7d6131eac9e54331b312</guid>
-      <description>The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.</description>
+      <title>Strava improves its mapping, route planning and strength training features</title>
+      <link>https://www.techradar.com/health-fitness/fitness-apps/stravas-latest-update-adds-improved-route-discovery-and-planning-to-help-you-get-going-in-the-great-outdoors</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">YjRj8aJVUREVey4neQ2dp5</guid>
+      <description>Strava&#8217;s newest update has improved its mapping, route planning and strength training features.</description>
     </item>
   </channel>
 </rss>
