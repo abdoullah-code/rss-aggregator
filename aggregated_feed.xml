@@ -3,118 +3,20 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Tue, 27 Oct 2026 23:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:53:16 GMT</lastBuildDate>
     <item>
-      <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
-      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
-      <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182387</guid>
-      <description>A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.</description>
+      <title>iOS 27.2 brings two new features to Apple's CarPlay</title>
+      <link>https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/</link>
+      <pubDate>Wed, 28 Oct 2026 03:51:54 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/</guid>
+      <description>iOS 27.2 comes with some changes for Apple CarPlay, too.</description>
     </item>
     <item>
-      <title>Watch out &#8212; that Microsoft Teams chat might be hackers impersonating your IT support</title>
-      <link>https://www.techradar.com/pro/security/watch-out-that-microsoft-teams-chat-might-be-hackers-impersonating-your-it-support</link>
-      <pubDate>Tue, 27 Oct 2026 23:05:00 +0000</pubDate>
-      <guid isPermaLink="false">mgsRMzGY4BAvd3hiPdaxMb</guid>
-      <description>Fake IT support pushes victims into granting hands-on access via remote management tools.</description>
-    </item>
-    <item>
-      <title>Discord public server messages may be soon searchable on Google, but you can opt out</title>
-      <link>https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/</link>
-      <pubDate>Tue, 27 Oct 2026 23:04:49 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/</guid>
-      <description>The platform's Discoverable Servers are about to get a lot more discoverable.</description>
-    </item>
-    <item>
-      <title>How to change and customize your Android Auto display</title>
-      <link>https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/</link>
-      <pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/</guid>
-      <description>Tailor your tech to fit your daily drive seamlessly.</description>
-    </item>
-    <item>
-      <title>The data center boom has an upside: innovation for the US grid</title>
-      <link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link>
-      <pubDate>Tue, 27 Oct 2026 22:55:41 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181301</guid>
-      <description>As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.</description>
-    </item>
-    <item>
-      <title>Here&#8217;s why the iPhone Duo&#8217;s hinge could be cracking the screen</title>
-      <link>https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge</link>
-      <pubDate>2026-10-27T18:55:05-04:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1020145</guid>
-      <description>Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]</description>
-    </item>
-    <item>
-      <title>The best ways to tell if someone is using AI glasses</title>
-      <link>https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/</link>
-      <pubDate>Tue, 27 Oct 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/</guid>
-      <description>While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.</description>
-    </item>
-    <item>
-      <title>Guidewire buys Hyperexponential for $1.7B in cash</title>
-      <link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</link>
-      <pubDate>Tue, 27 Oct 2026 22:26:03 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182363</guid>
-      <description>The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.</description>
-    </item>
-    <item>
-      <title>Ukraine spots Russia deploying a mystery new petrol-powered drone that could fly further than ever before</title>
-      <link>https://www.techradar.com/pro/ukraine-spots-russia-deploying-a-mystery-new-petrol-powered-drone-that-could-fly-further-than-ever-before</link>
-      <pubDate>Tue, 27 Oct 2026 22:20:00 +0000</pubDate>
-      <guid isPermaLink="false">hj7eeexcQ5jdRZ5ZqRgxYT</guid>
-      <description>Ukraine has identified an unfamiliar Russian gasoline-powered drone resembling the Lancet, although its manufacturer, operational range, and technical specifications remain undisclosed.</description>
-    </item>
-    <item>
-      <title>From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings</title>
-      <link>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/</link>
-      <pubDate>Tue, 27 Oct 2026 22:17:18 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181982</guid>
-      <description>A whole crop of venture capital firms  are raising significant new funds.</description>
-    </item>
-    <item>
-      <title>It's cheaper to buy the iPhone 18 Pro and new iPad mini than a single iPhone Duo &#8212; but the money misses the point</title>
-      <link>https://www.techradar.com/phones/iphone/you-can-buy-the-iphone-18-pro-and-new-oled-ipad-mini-for-less-than-the-price-of-the-iphone-duo-but-the-math-misses-the-point-of-apples-first-foldable</link>
-      <pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ondVXjgLp3NUx7FZk9edQZ</guid>
-      <description>I wish the iPhone Duo haters would stop telling me to buy an iPhone 18 Pro and iPad mini instead of Apple's first foldable &#8212; they are not the same experience.</description>
-    </item>
-    <item>
-      <title>What are wrong number text scams, and how can you avoid them?</title>
-      <link>https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/</link>
-      <pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/</guid>
-      <description>It's not an honest mistake; it's the start of an attack on your wallet.</description>
-    </item>
-    <item>
-      <title>Never mow your lawn again: Roborock&#8217;s RockMow X130H robot lawn mower is $500 off at Amazon</title>
-      <link>https://mashable.com/tech/oct-27-roborock-rockmow-x130h-robot-lawn-mower-deal</link>
-      <pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">019JsP5BqYtIfED6nCAONwa</guid>
-      <description>Tackle up to one acre with zero perimeter wires. Roborock&#8217;s 4WD RockMow X130H robot lawn mower is 20% off at Amazon, hitting an all-time best price of $1,999.98.</description>
-    </item>
-    <item>
-      <title>Your projects need a plan &#8212; Microsoft Project 2024 is on sale for just $49.97</title>
-      <link>https://mashable.com/tech/oct-27-microsoft-project-professional-2024-lifetime-license-for-windows</link>
-      <pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">03bqoxD7Iia905PWKn5YjZV</guid>
-      <description>Get Microsoft Project Professional 2024 for Windows for $49.97 through Nov. 1, with a lifetime license for one PC, scheduling tools, and built-in reports.</description>
-    </item>
-    <item>
-      <title>GM is embracing hybrids now</title>
-      <link>https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/</link>
-      <pubDate>Tue, 27 Oct 2026 21:47:02 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182259</guid>
-      <description>GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.</description>
-    </item>
-    <item>
-      <title>Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant</title>
-      <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
-      <pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182297</guid>
-      <description>The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.</description>
+      <title>Apple is making Creator Studio an even better deal with new AI features and creative tools</title>
+      <link>https://www.techradar.com/computing/websites-apps/apple-creator-studio-is-getting-even-better-with-new-ai-tools-and-a-big-final-cut-pro-upgrade</link>
+      <pubDate>Wed, 28 Oct 2026 03:30:00 +0000</pubDate>
+      <guid isPermaLink="false">j9i4uBXd4oR8LxsyS6WnA3</guid>
+      <description>Apple Creator Studio is getting a major update with new AI features and MotionVFX content for Final Cut Pro.</description>
     </item>
   </channel>
 </rss>
