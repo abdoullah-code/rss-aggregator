@@ -3,124 +3,134 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sun, 08 Nov 2026 16:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:59:19 GMT</lastBuildDate>
     <item>
-      <title>Bose Lifestyle Ultra Speakers : ces petites enceintes puissantes not&#233;es 8/10 perdent d&#233;j&#224; 70 &#8364; pour le Black Friday</title>
-      <link>https://www.frandroid.com/bons-plans/3310957_bose-lifestyle-ultra-speakers-ces-petites-enceintes-puissantes-notees-8-10-perdent-deja-70-e-pour-le-black-friday</link>
-      <pubDate>Sun, 08 Nov 2026 16:34:11 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3310957_bose-lifestyle-ultra-speakers-ces-petites-enceintes-puissantes-notees-8-10-perdent-deja-70-e-pour-le-black-friday</guid>
+      <title>Epic Games Launcher is coming to SteamOS</title>
+      <link>https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos</link>
+      <pubDate>2026-11-08T15:52:05-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1029557</guid>
+      <description>In October, Epic Games said that it was "investigating" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The safest way to store your laptop for a long period of time</title>
+      <link>https://www.engadget.com/2309615/safest-laptop-storage-long-term/</link>
+      <pubDate>Sun, 08 Nov 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309615/safest-laptop-storage-long-term/</guid>
+      <description>If you're storing a laptop for an extended period, there are a few things to consider.</description>
+    </item>
+    <item>
+      <title>Coordinated disturbances haunt grids worldwide. Here&#8217;s how researchers solved the mystery.</title>
+      <link>https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/</link>
+      <pubDate>Sun, 08 Nov 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185903</guid>
+      <description>Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.</description>
+    </item>
+    <item>
+      <title>Why your laptop fans spin up without any warning</title>
+      <link>https://www.engadget.com/2309612/laptop-fans-spin-without-warning-meaning/</link>
+      <pubDate>Sun, 08 Nov 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309612/laptop-fans-spin-without-warning-meaning/</guid>
+      <description>Your laptop shouldn't sound like it's preparing for takeoff every time you sit down to work. Here's what might be causing those sudden fan blasts.</description>
+    </item>
+    <item>
+      <title>Nvidia is investigating Jensen Huang&#8217;s relationship with a Chinese spy</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</link>
+      <pubDate>2026-11-08T15:22:39-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1029562</guid>
+      <description>Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]...</description>
+    </item>
+    <item>
+      <title>Don't throw away your old flip phone &#8211; do this instead</title>
+      <link>https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/</link>
+      <pubDate>Sun, 08 Nov 2026 20:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/</guid>
+      <description>With smartphones serving all purposes, an old flip phone, especially a SIM-less one, may feel useless. However, this couldn't be further from the truth.</description>
+    </item>
+    <item>
+      <title>This is the cheapest RTX 5090 PC we could find &#8212; and why we'd pick it over a similarly-powered laptop</title>
+      <link>https://www.techradar.com/pro/this-is-the-cheapest-rtx-5090-pc-i-could-find-rtx-5090-laptops-are-far-cheaper-but-they-are-not-the-real-deal</link>
+      <pubDate>Sun, 08 Nov 2026 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">Fq3YXM8kuxTUHLFXXPXuKU</guid>
+      <description>This CyberPowerPC desktop pairs an RTX 5090 with capable components, costing $70 less than Amazon's listed standalone ASUS card today.</description>
+    </item>
+    <item>
+      <title>The danger of charging your phone under your pillow isn't radiation</title>
+      <link>https://www.engadget.com/2309290/why-charging-phone-under-pillow-dangerous-explained/</link>
+      <pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309290/why-charging-phone-under-pillow-dangerous-explained/</guid>
+      <description>The old fear about cell phone radiation causing cancer is an overblown concern, but there are other dangers when you tuck a charging phone under your pillow.</description>
+    </item>
+    <item>
+      <title>Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board</title>
+      <link>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</link>
+      <pubDate>Sun, 08 Nov 2026 19:51:30 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186115</guid>
+      <description>A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.</description>
+    </item>
+    <item>
+      <title>Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU</title>
+      <link>https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/</link>
+      <pubDate>Sun, 08 Nov 2026 19:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/</guid>
+      <description>With the announcement of its M6, Apple is stepping into a new generation of its processors. Here's why it still can't compete with NVIDIA GPUs.</description>
+    </item>
+    <item>
+      <title>Suno AI music generator sued again for copyright infringement</title>
+      <link>https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/</link>
+      <pubDate>Sun, 08 Nov 2026 19:42:14 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/</guid>
+      <description>Groups that own the music rights to Elvis Presley and Eminem's tracks filed the latest lawsuits.</description>
+    </item>
+    <item>
+      <title>You can have a PlayStation arcade machine at home, but there's a huge caveat</title>
+      <link>https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/</link>
+      <pubDate>Sun, 08 Nov 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/</guid>
+      <description>The $1,000-plus price is only part of the problem.</description>
+    </item>
+    <item>
+      <title>Apple is racing to make Siri more agentic</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
+      <pubDate>2026-11-08T14:18:19-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1029552</guid>
+      <description>Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]</description>
+    </item>
+    <item>
+      <title>What does the Xbox Series X have that the Playstation 5 Pro doesn't?</title>
+      <link>https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/</link>
+      <pubDate>Sun, 08 Nov 2026 19:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/</guid>
+      <description>While the PlayStation 5 Pro is the most powerful games console, the Xbox Series X offers features like Smart Delivery and Quick Resume.</description>
+    </item>
+    <item>
+      <title>New report claims 'America hates data centers' as it finds 90% of public comments at local government meetings are negative</title>
+      <link>https://www.techradar.com/pro/new-report-claims-america-hates-data-centers-as-it-finds-90-of-public-comments-at-local-government-meetings-are-negative</link>
+      <pubDate>Sun, 08 Nov 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">GAU6dXsbr2G8V5B9eMN8VA</guid>
+      <description>New American database reveals overwhelming public opposition to data centers, with water consumption, electricity costs, and pollution driving community concerns.</description>
+    </item>
+    <item>
+      <title>How to watch Patriots vs Packers for FREE: live stream NFL Week 9 game online from anywhere</title>
+      <link>https://www.techradar.com/entertainment/american-football/patriots-vs-packers-free-nfl-week-9-game</link>
+      <pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6z9aFNBoU6x3RTknrJNrJ8</guid>
+      <description>All the ways to watch Patriots vs Packers for free online, with Drake Maye and Jordan Love set to star in the 2026 NFL Week 9 game at Gillette Stadium.</description>
+    </item>
+    <item>
+      <title>5 underrated PlayStation App features</title>
+      <link>https://www.engadget.com/2309256/underrated-playstation-app-features/</link>
+      <pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2309256/underrated-playstation-app-features/</guid>
+      <description>The PlayStation App offers its users certain features that will make their lives easier, especially if they really love playing on their console.</description>
+    </item>
+    <item>
+      <title>Test Sonos Beam Ultra : petit gabarit, sc&#232;ne sonore g&#233;ante et vraie r&#233;serve de puissance</title>
+      <link>https://www.frandroid.com/marques/sonos/3304483_test-sonos-beam-ultra-petit-gabarit-scene-sonore-geante-et-vraie-reserve-de-puissance</link>
+      <pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/sonos/3304483_test-sonos-beam-ultra-petit-gabarit-scene-sonore-geante-et-vraie-reserve-de-puissance</guid>
       <description>
-Malgr&#233; leur format assez compact, les Bose Lifestyle Ultra Speakers sont des enceintes puissantes compatibles avec le Dolby Atmos. Ainsi, elles seront parfaites pour des soir&#233;es cin&#233;ma. Autre bonne nouvelle : cette remise de 10 % propos&#233;e par Amazon.
-</description>
-    </item>
-    <item>
-      <title>AI music can be difficult to detect, but there are some telltale signs</title>
-      <link>https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/</link>
-      <pubDate>Sun, 08 Nov 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/</guid>
-      <description>AI-generated songs are filling Spotify and other platforms. These vocal, lyric and instrumental tells can help you catch them before you hit play.</description>
-    </item>
-    <item>
-      <title>Hubble et James-Webb d&#233;couvrent 27 mondes glac&#233;s aux confins du Syst&#232;me solaire : trois surprises attendent les chercheurs</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-hubble-james-webb-decouvrent-27-mondes-glaces-confins-systeme-solaire-trois-surprises-attendent-chercheurs-139064/#xtor%3DRSS-8</link>
-      <pubDate>Sun, 08 Nov 2026 17:07:57 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-hubble-james-webb-decouvrent-27-mondes-glaces-confins-systeme-solaire-trois-surprises-attendent-chercheurs-139064/#xtor%3DRSS-8</guid>
-      <description>&#171; Il y a plus de choses au Ciel et sur la Terre, Horatio, que n'en r&#234;ve votre philosophie. &#187; Il s'agit d'une d&#233;claration d'Hamlet, ou plut&#244;t celle que Shakespeare met dans la bouche de son c&#233;l&#232;bre personnage. Elle s'applique &#224; nouveau &#224; des observations fournies par les t&#233;lescopes Hubble et Webb...</description>
-    </item>
-    <item>
-      <title>Apple&#8217;s M5 MacBook Air is down to its lowest price since July</title>
-      <link>https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale</link>
-      <pubDate>2026-11-08T11:00:00-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1029019</guid>
-      <description>The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we&#8217;ve seen this $200 discount following the company&#8217;s hefty price increases over the summer. Although the base model &#8212; which features Apple&#8217;s M5 processor, 16GB of RAM, and 512GB of storage &#8212; often sold for around $950 to $1,000 shortly after [&#8230;]</description>
-    </item>
-    <item>
-      <title>How to watch WTA Finals 2026: FREE Live Streams &amp; TV Channels for Women's Tennis, Schedule &amp; Preview</title>
-      <link>https://www.techradar.com/entertainment/tennis/wta-finals-2026-free-live-streams</link>
-      <pubDate>Sun, 08 Nov 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">aqegWD2YE4VBtrLupsF4NP</guid>
-      <description>Watch free streams from the WTA Finals 2026 at Indian Wells as Elena Rybakina defends her season-ending title &#8211; tennis TV channels, broadcasters and streams.</description>
-    </item>
-    <item>
-      <title>You can attach your Fitbit Air to almost any old-school watch</title>
-      <link>https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/</link>
-      <pubDate>Sun, 08 Nov 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/</guid>
-      <description>There are a few ways to combine the screen-less FitBit Air with an existing analog watch.</description>
-    </item>
-    <item>
-      <title>Can PC coolant expire? Here's how long it can last</title>
-      <link>https://www.engadget.com/2307846/how-long-pc-coolant-lasts/</link>
-      <pubDate>Sun, 08 Nov 2026 15:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2307846/how-long-pc-coolant-lasts/</guid>
-      <description>A liquid-cooled PC can certainly look cool, but there are hurdles when mixing tech and water. Here's what you need to know to keep your rig running right.</description>
-    </item>
-    <item>
-      <title>These experimental EV batteries can eject themselves during a fire</title>
-      <link>https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire/</link>
-      <pubDate>Sun, 08 Nov 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire/</guid>
-      <description>EV battery fires are highly dangerous and difficult to extinguish, but is launching a battery pack out of the car a smart or realistic solution?</description>
-    </item>
-    <item>
-      <title>Pro Gamers typically don't use OLED monitors, but you most definitely can</title>
-      <link>https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/</link>
-      <pubDate>Sun, 08 Nov 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/</guid>
-      <description>Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We'll explain why normal gamers can and should embrace OLED displays.</description>
-    </item>
-    <item>
-      <title>"Thats Senator Talafreako": James Talarico crashes SNL</title>
-      <link>https://mashable.com/entertainment/snl-cold-open-james-talarico-trump-midterms</link>
-      <pubDate>Sun, 08 Nov 2026 15:13:05 +0000</pubDate>
-      <guid isPermaLink="false">008YT0jzrUVRHZvWrPMbs0X</guid>
-      <description>Texas senator-elect James Talarico made a surprise cameo in SNL's Nov. 7 cold open, poking fun at James Austin Johnson&#8217;s Trump and the show&#8217;s recurring freeze gag.</description>
-    </item>
-    <item>
-      <title>Black Friday audio : notre s&#233;lection de casques, enceintes et barres de son avec jusqu&#8217;&#224; -50&#160;%</title>
-      <link>https://www.frandroid.com/bons-plans/3302565_black-friday-des-enceintes-barres-de-son-et-casques-gamer-remises-jusqua-50</link>
-      <pubDate>Sun, 08 Nov 2026 15:12:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3302565_black-friday-des-enceintes-barres-de-son-et-casques-gamer-remises-jusqua-50</guid>
-      <description>
-Les produits de l'univers audio profitent eux aussi de belles promos durant ce d&#233;but de Black Friday : enceintes portables, barres de son, &#233;couteurs ou encore casques gamers, il y en a pour tous les go&#251;ts.
-</description>
-    </item>
-    <item>
-      <title>Une batterie solaire &#224; 2 000 &#8364;, est-ce vraiment rentable ? Ma r&#233;ponse chiffr&#233;e avec la Samduo Nex E6000</title>
-      <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3313697_jai-teste-la-samduo-nex-e6000-la-moitie-du-courant-achete-en-moins-mais-a-quel-prix</link>
-      <pubDate>Sun, 08 Nov 2026 15:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3313697_jai-teste-la-samduo-nex-e6000-la-moitie-du-courant-achete-en-moins-mais-a-quel-prix</guid>
-      <description>
-Avec la Nex E6000, Samduo propose une batterie solaire domestique de 6 kWh, &#233;paisse de 12 cm (l'une des plus fines au monde), qui se branche sur une prise et stocke le surplus de panneaux d&#233;j&#224; install&#233;s. Je l'ai mesur&#233; pendant 18 jours d'automne. Sur cette p&#233;riode, le courant pris au r&#233;seau a &#233;t&#233; divis&#233; par deux et elle consomme tr&#232;s peu au repos.
+Avec la Beam Ultra, Sonos franchit un cap : cacher sous un gabarit tr&#232;s modeste une sc&#232;ne sonore vaste, puissante et de v&#233;ritables canaux Atmos verticaux. Capable de diffuser de la musique sans compression en Wi-Fi et de basculer son flux vers le casque Ace Ultra, cette barre compacte offre une vraie pr&#233;sence acoustique, seule ou compl&#233;t&#233;e par des enceintes arri&#232;re.
 ...</description>
-    </item>
-    <item>
-      <title>Chatbots might be coming to Apple&#8217;s HomeView</title>
-      <link>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</link>
-      <pubDate>2026-11-08T10:00:30-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1029526</guid>
-      <description>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]</description>
-    </item>
-    <item>
-      <title>Ninja&#8217;s AutoBarista is impressively versatile, but one feature was a dealbreaker for me</title>
-      <link>https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/</link>
-      <pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185847</guid>
-      <description>The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.</description>
-    </item>
-    <item>
-      <title>How to set up Google Authenticator on a new phone</title>
-      <link>https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/</link>
-      <pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/</guid>
-      <description>How to setup Google Authenticator on a new phone without causing a headache.</description>
-    </item>
-    <item>
-      <title>Your digital game library is yours, until it's not</title>
-      <link>https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/</link>
-      <pubDate>Sun, 08 Nov 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/</guid>
-      <description>Digital games you "buy" can be taken away at any time, and there are fewer options than ever for true game ownership.</description>
     </item>
   </channel>
 </rss>
