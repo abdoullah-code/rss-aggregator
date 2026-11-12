@@ -3,209 +3,434 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Thu, 12 Nov 2026 09:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:59:47 GMT</lastBuildDate>
     <item>
-      <title>Ce nouvel &#233;clairage v&#233;lo magn&#233;tique se clipse et se retire sans outil en une seconde</title>
-      <link>https://www.frandroid.com/survoltes/velo-electrique/3319861_ce-nouvel-eclairage-velo-magnetique-se-clipse-et-se-retire-sans-outil-en-une-seconde</link>
-      <pubDate>Thu, 12 Nov 2026 09:25:56 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/velo-electrique/3319861_ce-nouvel-eclairage-velo-magnetique-se-clipse-et-se-retire-sans-outil-en-une-seconde</guid>
+      <title>Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense</title>
+      <link>https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/</link>
+      <pubDate>Thu, 12 Nov 2026 17:45:03 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/</guid>
+      <description>It comes three weeks after Ukraine's speeds were restored following the last throttling incident.</description>
+    </item>
+    <item>
+      <title>The Jensen Huang scandal is hardly over</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</link>
+      <pubDate>2026-11-12T12:44:33-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1032069</guid>
+      <description>I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]</description>
+    </item>
+    <item>
+      <title>Espionnage, liaison secr&#232;te et chute du patron de Nvidia : l&#8217;incroyable affaire Jensen Huang r&#233;sum&#233;e en vid&#233;o</title>
+      <link>https://www.frandroid.com/marques/nvidia/3321229_espionnage-liaison-secrete-et-chute-du-patron-de-nvidia-lincroyable-affaire-jensen-huang-resumee-en-video</link>
+      <pubDate>Thu, 12 Nov 2026 17:43:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3321229_espionnage-liaison-secrete-et-chute-du-patron-de-nvidia-lincroyable-affaire-jensen-huang-resumee-en-video</guid>
       <description>
-Fidlock a publi&#233; ce jeudi 12 novembre un nouveau communiqu&#233; sur le Pinclip Battery Light, un kit de feux avant et arri&#232;re pour v&#233;lo qui se fixe via un syst&#232;me magn&#233;tique, vendu 79,99 euros en Europe. C'est le premier &#233;clairage de la marque allemande, connue jusqu'ici pour ses porte-gourdes et ses sacoches magn&#233;tiques.
+Un feuilleton digne d'un film d'espionnage &#233;branle le g&#233;ant des puces graphiques Nvidia, m&#234;lant secrets d'&#201;tat, liaison extraconjugale et g&#233;opolitique entre Washington et P&#233;kin. Notre nouvelle vid&#233;o revient sur les dessous de cette affaire rocambolesque qui a co&#251;t&#233; sa place au patron le plus influent de la tech.
 </description>
     </item>
     <item>
-      <title>Encore une mauvaise nouvelle pour Volkswagen, qui abandonne son projet digne de Tesla pour baisser le prix de ses voitures &#233;lectriques</title>
-      <link>https://www.frandroid.com/marques/volkswagen/3319665_encore-une-mauvaise-nouvelle-pour-volkswagen-qui-abandonne-son-projet-digne-de-tesla-pour-baisser-le-prix-de-ses-voitures-electriques</link>
-      <pubDate>Thu, 12 Nov 2026 09:21:51 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3319665_encore-une-mauvaise-nouvelle-pour-volkswagen-qui-abandonne-son-projet-digne-de-tesla-pour-baisser-le-prix-de-ses-voitures-electriques</guid>
+      <title>Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang&#8217;s exit</title>
+      <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
+      <pubDate>Thu, 12 Nov 2026 17:36:40 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187922</guid>
+      <description>Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.</description>
+    </item>
+    <item>
+      <title>Microsoft is pulling free emails for schools, colleges, and universities</title>
+      <link>https://www.techradar.com/pro/the-next-chapter-is-shaped-by-what-education-leaders-are-asking-for-microsoft-is-pulling-free-emails-for-schools-colleges-and-universities-who-now-face-big-bills-to-keep-student-mailboxes</link>
+      <pubDate>Thu, 12 Nov 2026 17:35:00 +0000</pubDate>
+      <guid isPermaLink="false">mVrxdV8rpCM5vjAtvqwnbS</guid>
+      <description>Free as in not</description>
+    </item>
+    <item>
+      <title>A 2013 hack of a Russian cybercrime forum may have leaked the details of millions of users</title>
+      <link>https://www.techradar.com/pro/security/a-2013-hack-of-a-russian-cybercrime-forum-may-have-leaked-the-details-of-millions-of-users</link>
+      <pubDate>Thu, 12 Nov 2026 17:34:39 +0000</pubDate>
+      <guid isPermaLink="false">8B9LjHGeBdEtqv7hzeSTyF</guid>
+      <description>Details from the YouHack breach have re-emerged on the internet, exposing victims and criminals alike.</description>
+    </item>
+    <item>
+      <title>pCloud lifetime storage starts at $159 for Black Friday</title>
+      <link>https://www.techradar.com/pro/pclouds-black-friday-sale-cuts-lifetime-cloud-storage-prices-by-up-to-62-percent-with-plans-starting-at-usd159</link>
+      <pubDate>Thu, 12 Nov 2026 17:33:19 +0000</pubDate>
+      <guid isPermaLink="false">zXzgHVDfpvsAXVnUWs4fqW</guid>
+      <description>pCloud offers 500GB of lifetime cloud storage for $159 this Black Friday, with desktop and mobile apps included.</description>
+    </item>
+    <item>
+      <title>Nvidia sans Jensen Huang&#160;: qui pourrait remplacer l&#8217;illustre PDG&#160;?</title>
+      <link>https://www.01net.com/actualites/nvidia-sans-jensen-huang-qui-pourrait-remplacer-lillustre-pdg.html</link>
+      <pubDate>Thu, 12 Nov 2026 17:25:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1381198</guid>
+      <description>Alors que Jensen Huang vient de d&#233;missionner de son poste de pr&#233;sident de Nvidia, plusieurs personnalit&#233;s sont d&#233;j&#224; &#233;voqu&#233;es pour lui succ&#233;der. De Colette Kress &#224; Tim Cook, en passant par Lisa Su, voici les candidats potentiels et les diff&#233;rents sc&#233;narios envisag&#233;s. De son c&#244;t&#233;, Elon Musk semble &#234;tre pr&#234;t &#224; embaucher Jensen Huang.</description>
+    </item>
+    <item>
+      <title>Pour illuminer vos soir&#233;es, le JBL PartyLight Stick est &#224; -44 % pendant le Black Friday sur Amazon</title>
+      <link>https://www.frandroid.com/bons-plans/3321087_pour-illuminer-vos-soirees-le-jbl-partylight-stick-est-a-44-pendant-le-black-friday-sur-amazon</link>
+      <pubDate>Thu, 12 Nov 2026 17:23:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3321087_pour-illuminer-vos-soirees-le-jbl-partylight-stick-est-a-44-pendant-le-black-friday-sur-amazon</guid>
       <description>
-Apr&#232;s avoir mis en pause le d&#233;veloppement de son ID. Golf, Volkswagen annonce une autre mauvaise nouvelle. La firme abandonne son projet &#171;&#160;Gamechanger&#160;&#187; au sein de son usine de Wolfsburg, visant &#224; rendre ses voitures &#233;lectriques plus abordables.
+Le JBL PartyLight Stick accompagne les enceintes PartyBox avec des jeux de lumi&#232;re synchronis&#233;s, des couleurs RVB et une autonomie annonc&#233;e de 8 heures. Pour le Black Friday, cet accessoire lumineux est disponible &#224; 49,99 euros au lieu de 89,99 euros chez Amazon.
 </description>
     </item>
     <item>
-      <title>&#171; Ce serait un honneur &#187; : Elon Musk se dit pr&#234;t &#224; recruter Jensen Huang si Nvidia le vire</title>
-      <link>https://www.frandroid.com/marques/3319887_ce-serait-un-honneur-elon-musk-se-dit-pret-a-recruter-jensen-huang-si-nvidia-le-vire</link>
-      <pubDate>Thu, 12 Nov 2026 09:19:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3319887_ce-serait-un-honneur-elon-musk-se-dit-pret-a-recruter-jensen-huang-si-nvidia-le-vire</guid>
+      <title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</title>
+      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
+      <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187972</guid>
+      <description>The airline said it will not allow customers to use AI agents to book flights and manage reservations.</description>
+    </item>
+    <item>
+      <title>Can we please stop calling it a &#8216;honey trap&#8217;?</title>
+      <link>https://www.fastcompany.com/91640992/can-we-please-stop-calling-it-a-honey-trap</link>
+      <pubDate>2026-11-12T17:17:40</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91640992/can-we-please-stop-calling-it-a-honey-trap</guid>
+      <description>The term, ubiquitous in the Jensen Huang discussion, is loaded in sexist and racist ways.
+When Jensen Huang told Nvidia employees on November 8 that he had been &#8220;unfaithful&#8221; to his wife, there&#8217;s a phrase that quickly became omnipresent in the media: Huang had been the victim of a &#8220;honey trap&#8221;, laid by Alice Huang (no relation), a Singapore-based tech executive identified as a Chinese spy by U.S. intelligence agencies.&#8220;Honey trap,&#8221; seriously?The story behind the phrase is that a good, hardworking man was minding his own business when a serpent of a woman lured him off the righteous path by dish...</description>
+    </item>
+    <item>
+      <title>Meilleurs SSD M.2 NVMe en 2026 : notre s&#233;lection face &#224; la hausse des prix</title>
+      <link>https://www.frandroid.com/guide-dachat/guides-dachat-hardware/833340_ssd-m-2-nvme</link>
+      <pubDate>Thu, 12 Nov 2026 17:07:44 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/guide-dachat/guides-dachat-hardware/833340_ssd-m-2-nvme</guid>
       <description>
-Elon Musk a r&#233;pondu &#171;&#160;Ce serait un honneur&#160;&#187; &#224; un internaute qui lui demandait d'embaucher Jensen Huang, dans la nuit du 11 au 12 novembre 2026, pendant que le conseil d'administration de Nvidia se r&#233;unissait pour d&#233;cider s'il &#233;vin&#231;ait son patron.
+Les SSD M.2, compacts et ultra-rapides, transforment les performances de votre PC de bureau (ou de votre PS5). Bienvenue sur notre s&#233;lection des meilleurs mod&#232;les de SSD internes pour tirer le maximum de vitesse et de r&#233;activit&#233; de votre syst&#232;me.
 </description>
     </item>
     <item>
-      <title>TV LG OLED 2027 : le B7 certifi&#233; en Cor&#233;e avant le CES de Las Vegas</title>
-      <link>https://www.frandroid.com/marques/lg/3319839_tv-lg-oled-2027-le-b7-certifie-en-coree-avant-le-ces-de-las-vegas</link>
-      <pubDate>Thu, 12 Nov 2026 09:16:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/lg/3319839_tv-lg-oled-2027-le-b7-certifie-en-coree-avant-le-ces-de-las-vegas</guid>
-      <description>
-Plusieurs r&#233;f&#233;rences du futur LG OLED B7 figurent d&#233;sormais dans la base de certification sud-cor&#233;enne Safety Korea. LG n&#8217;a encore communiqu&#233; ni fiche technique ni tarif pour ce mod&#232;le d&#8217;entr&#233;e de gamme, attendu en 2027.
-</description>
-    </item>
-    <item>
-      <title>Black Friday smartphone : notre s&#233;lection des offres avec les Google Pixel 11 &#224; leur meilleur prix et le nouveau Oppo Find X10</title>
-      <link>https://www.frandroid.com/bons-plans/3304227_black-friday-smartphone-notre-selection-des-offres-avec-les-google-pixel-11-a-leur-meilleur-prix-et-le-nouveau-oppo-find-x10</link>
-      <pubDate>Thu, 12 Nov 2026 09:09:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3304227_black-friday-smartphone-notre-selection-des-offres-avec-les-google-pixel-11-a-leur-meilleur-prix-et-le-nouveau-oppo-find-x10</guid>
-      <description>
-Le Black Friday fait fondre le prix de nombreux smartphones, y compris sur les r&#233;f&#233;rences les plus r&#233;centes du march&#233;. Pour vous &#233;viter de vous perdre au milieu de toutes ces promotions, nous avons fouill&#233; les sites marchands et d&#233;nich&#233; les meilleures offres pour tous les budgets.
-</description>
+      <title>Peut-on encore refuser le Linky&#160;? Ce que change l&#8217;arr&#234;t europ&#233;en, et ce que &#231;a vous co&#251;te</title>
+      <link>https://www.01net.com/actualites/peut-on-encore-refuser-le-linky-ce-que-change-larret-europeen-et-ce-que-ca-vous-coute.html</link>
+      <pubDate>Thu, 12 Nov 2026 17:03:57 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1381185</guid>
+      <description>La Cour de justice de l'Union europ&#233;enne estime que le droit europ&#233;en ne garantit pas aux consommateurs de pouvoir conserver un ancien compteur &#233;lectrique. En France, o&#249; le d&#233;ploiement du Linky est d&#233;j&#224; obligatoire, cet arr&#234;t ferme une voie de recours aux opposants, qui s'exposent toujours &#224; des frais pouvant atteindre 65,70 euros HT par an</description>
     </item>
     <item>
       <title>Black Friday 2026 : c&#8217;est le grand d&#233;stockage chez Amazon &amp; Co, voici les meilleures offres en DIRECT</title>
       <link>https://www.frandroid.com/bons-plans/3303871_black-friday-2026-cest-le-grand-destockage-chez-amazon-co-voici-les-meilleures-offres-en-direct</link>
-      <pubDate>Thu, 12 Nov 2026 09:09:55 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 17:03:52 +0000</pubDate>
       <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3303871_black-friday-2026-cest-le-grand-destockage-chez-amazon-co-voici-les-meilleures-offres-en-direct</guid>
       <description>
 En ce jeudi 12 novembre, le Black Friday bat son plein et les bonnes affaires s'encha&#238;nent. Entre Amazon, la Fnac, Darty, Boulanger et Cdiscount, il y a un tas d'offres int&#233;ressantes en ce moment, mais difficile de s'y retrouver tant il y en a. Pour vous &#233;viter d'y passer des heures, on a fait le tri : voici, en temps r&#233;el, les meilleures p&#233;pites tech &#224; ne pas rater.
 ...</description>
     </item>
     <item>
-      <title>Windows&#160;: deux failles BitLocker permettent de lire les fichiers prot&#233;g&#233;s</title>
-      <link>https://www.01net.com/actualites/windows-deux-failles-bitlocker-permettent-de-lire-les-fichiers-proteges.html</link>
-      <pubDate>Thu, 12 Nov 2026 09:01:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1381008</guid>
-      <description>Microsoft vient de corriger deux failles de s&#233;curit&#233; dans BitLocker, l'outil qui chiffre le disque dur des PC sous Windows. En exploitant ces br&#232;ches, un pirate peut contourner le chiffrement et acc&#233;der aux donn&#233;es prot&#233;g&#233;es sur l'ordinateur.</description>
+      <title>SoftBank&#8217;s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions</title>
+      <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
+      <pubDate>Thu, 12 Nov 2026 17:00:52 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187955</guid>
+      <description>SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.</description>
     </item>
     <item>
-      <title>Jusqu'&#224; 150 &#233;toiles filantes par heure : les G&#233;minides 2026 culmineront mi-d&#233;cembre, presque sans Lune</title>
-      <link>https://www.futura-sciences.com/sciences/actualites/astronomie-jusqua-150-etoiles-filantes-heure-geminides-2026-culmineront-mi-decembre-presque-lune-k2m6-139226/#xtor%3DRSS-8</link>
-      <pubDate>Thu, 12 Nov 2026 10:00:00 +0100</pubDate>
-      <guid isPermaLink="false">https://www.futura-sciences.com/sciences/actualites/astronomie-jusqua-150-etoiles-filantes-heure-geminides-2026-culmineront-mi-decembre-presque-lune-k2m6-139226/#xtor%3DRSS-8</guid>
-      <description>Douze rendez-vous c&#233;lestes &#224; ne pas manquer entre cet automne 2026 et ao&#251;t 2027. Des G&#233;minides aux Pers&#233;ides, le ciel nocturne r&#233;serve des spectacles gratuits et accessibles &#224; tous. Encore faut-il savoir quand regarder vers le haut.</description>
+      <title>&#8216;The end of Tesla!&#8217;: Cybertruck diehards turn on Elon Musk after he pulls the plug</title>
+      <link>https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash</link>
+      <pubDate>2026-11-12T12:00:17-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1031991</guid>
+      <description>The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy [&#8230;]...</description>
     </item>
     <item>
-      <title>Google Wallet peut maintenant ouvrir la porte de votre maison, mais &#224; plusieurs conditions</title>
-      <link>https://www.01net.com/actualites/google-wallet-peut-maintenant-ouvrir-vos-serrures-connectees.html</link>
-      <pubDate>Thu, 12 Nov 2026 08:59:57 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1381064</guid>
-      <description>Google Wallet int&#232;gre d&#233;sormais les &#171; cl&#233;s de domicile num&#233;riques &#187; sous Android. Pratique pour ceux qui souhaitaient pouvoir ouvrir la porte de leur maison ou de leur appartement avec leur smartphone.</description>
+      <title>25 years later, Xbox is trying to reinvent itself again</title>
+      <link>https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad</link>
+      <pubDate>2026-11-12T12:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1031792</guid>
+      <description>Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach [&#8230;]</description>
     </item>
     <item>
-      <title>Le 11.11 (Singles&#8217; Day) continue de casser les prix de la Tech ce jeudi : voici les meilleures offres en DIRECT</title>
-      <link>https://www.frandroid.com/bons-plans/3318143_le-11-11-singles-day-continue-de-casser-les-prix-de-la-tech-ce-jeudi-voici-les-meilleures-offres-en-direct</link>
-      <pubDate>Thu, 12 Nov 2026 08:51:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3318143_le-11-11-singles-day-continue-de-casser-les-prix-de-la-tech-ce-jeudi-voici-les-meilleures-offres-en-direct</guid>
+      <title>AI chatbots are recommending fake retail websites, study finds</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</link>
+      <pubDate>2026-11-12T12:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1032020</guid>
+      <description>Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of [&#8230;]...</description>
+    </item>
+    <item>
+      <title>More game developers are starting to use generative AI</title>
+      <link>https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</link>
+      <pubDate>2026-11-12T12:00:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1032085</guid>
+      <description>More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it "as part of their job," an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]</description>
+    </item>
+    <item>
+      <title>Phota Labs uses AI to turn everyday photos into professional-looking shots</title>
+      <link>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/</link>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185934</guid>
+      <description>Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it&#8217;s easier for anyone to turn everyday moments into better photos.</description>
+    </item>
+    <item>
+      <title>How to watch Czechia vs Spain: FREE live streams, TV channels &amp; kick-off time for Nations League 2026/27 fixture</title>
+      <link>https://www.techradar.com/entertainment/football/watch-czechia-vs-spain-nations-league-2026-27-free</link>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RdrNnymsySuBQhiBMt46g8</guid>
+      <description>How you can watch Czechia vs Spain in the Nations League for free online from anywhere in the world with TV channels, kick-off time included.</description>
+    </item>
+    <item>
+      <title>Whoop launches Strava-like 'Humans' network for subscribers</title>
+      <link>https://www.techradar.com/health-fitness/fitness-apps/whoop-rolls-out-humans-upgrade-for-subscribers-strava-like-feature-promises-to-be-most-verifiably-human-social-network</link>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dntJ8emPadcgwdVwnq7cwf</guid>
+      <description>Whoop is going social with the introduction of Whoop Humans &#8212; here's everything you need to know.</description>
+    </item>
+    <item>
+      <title>Apple Sports adds live UFC updates</title>
+      <link>https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/</link>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/</guid>
+      <description>The app can deliver real-time stats for each fight on a UFC card.</description>
+    </item>
+    <item>
+      <title>Burnout is a workplace safety hazard. It&#8217;s time to start treating it like one</title>
+      <link>https://www.fastcompany.com/91640516/burnout-is-a-workplace-safety-hazard-its-time-to-start-treating-it-like-one</link>
+      <pubDate>2026-11-12T17:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91640516/burnout-is-a-workplace-safety-hazard-its-time-to-start-treating-it-like-one</guid>
+      <description>This is way above HR&#8217;s pay grade. It&#8217;s to do with the very nature of the organization&#8212;and regulators need to step in.
+Burnout is a huge workplace issue: the low engagement that comes with it costs every business affected a fortune. Worse yet, its effects on workers are deleterious to the point where it can literally lead to death.</description>
+    </item>
+    <item>
+      <title>Why Anthropic&#8217;s IPO could put OpenAI at a disadvantage</title>
+      <link>https://www.fastcompany.com/91640632/why-anthropics-ipo-could-put-openai-at-a-disadvantage</link>
+      <pubDate>2026-11-12T17:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91640632/why-anthropics-ipo-could-put-openai-at-a-disadvantage</guid>
+      <description>The two AI giants are racing to raise billions on Wall Street. But Anthropic&#8217;s expected head start could give it an edge in the battle for investor dollars.
+Welcome to AI Decoded, Fast Company&#8216;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy....</description>
+    </item>
+    <item>
+      <title>Soup&#231;ons d&#8217;espionnage, adult&#232;re&#8230; | Quoi retenir des nouveaux rebondissements dans le scandale Nvidia&#160;?</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-11-12/soupcons-d-espionnage-adultere/quoi-retenir-des-nouveaux-rebondissements-dans-le-scandale-nvidia.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">eab8676633d836ec92840da67fc934ab</guid>
+      <description>L&#8217;entreprise de semi-conducteurs Nvidia ne navigue pas en eaux tranquilles. Le patron, Jensen Huang, a remis sa d&#233;mission jeudi. Soup&#231;ons d&#8217;espionnage, adult&#232;re, difficult&#233; en Bourse&#8230; Voici les derniers rebondissements dans ce scandale qui secoue l&#8217;industrie technologique am&#233;ricaine.</description>
+    </item>
+    <item>
+      <title>GTA, Assassin&#8217;s Creed, Zelda&#8230; | Comment se portent vos franchises de jeux vid&#233;o pr&#233;f&#233;r&#233;es&#160;?</title>
+      <link>https://www.lapresse.ca/affaires/techno/2026-11-12/gta-assassin-s-creed-zelda/comment-se-portent-vos-franchises-de-jeux-video-preferees.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">70e78fae03753b27aae2657f201a6b2d</guid>
+      <description>L&#8217;industrie du jeu vid&#233;o compte plusieurs franchises populaires, comme Grand Theft Auto (GTA), dont le tr&#232;s attendu sixi&#232;me volet sort le 19&#160;novembre. Outre GTA, quelles franchises continuent de susciter l&#8217;int&#233;r&#234;t des consommateurs&#160;?</description>
+    </item>
+    <item>
+      <title>Google Wallet can finally unlock doors with digital home keys</title>
+      <link>https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout</link>
+      <pubDate>2026-11-12T11:56:33-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1032084</guid>
+      <description>Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone "over the coming weeks," according to Google's announcement. This was [&#8230;]</description>
+    </item>
+    <item>
+      <title>Amazon multiplie les bonnes affaires pour le Black Friday : le TOP 25 des offres</title>
+      <link>https://www.frandroid.com/bons-plans/3313729_amazon-multiplie-les-bonnes-affaires-pour-le-black-friday-le-top-22-des-offres</link>
+      <pubDate>Thu, 12 Nov 2026 16:55:29 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3313729_amazon-multiplie-les-bonnes-affaires-pour-le-black-friday-le-top-22-des-offres</guid>
       <description>
-Les promos du 11.11 sont un avant-go&#251;t du Black Friday, et &#231;a continue fort ce jeudi 12 novembre 2026. AliExpress d&#233;gaine de nouvelles offres et codes promo pour l'occasion. On fait le tri pour vous proposer uniquement les meilleures affaires dans cet article mis &#224; jour en temps r&#233;el.
+&#199;a y est, Amazon fait place au Black Friday ! Apr&#232;s avoir laiss&#233; la concurrence ouvrir le bal, le marchand passe &#224; l'offensive et casse d&#233;j&#224; les prix sur un tas de produits tech, dont la r&#233;cente Pixel Watch 5. Pour vous &#233;viter de fouiller pendant des heures, voici notre s&#233;lection des meilleurs bons plans &#224; saisir d&#232;s maintenant.
 </description>
     </item>
     <item>
-      <title>Microsoft veut vous laisser d&#233;sactiver les r&#233;ponses IA dans Bing</title>
-      <link>https://www.01net.com/actualites/microsoft-veut-vous-laisser-desactiver-les-reponses-ia-dans-bing.html</link>
-      <pubDate>Thu, 12 Nov 2026 08:49:46 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1381069</guid>
-      <description>La firme de Redmond estime que les utilisateurs devraient avoir le choix d&#8217;afficher ou non les r&#233;ponses g&#233;n&#233;r&#233;es par l&#8217;IA dans les r&#233;sultats de recherche de Bing. Elle va d&#233;ployer une extension pour vous permettre de les d&#233;sactiver.</description>
+      <title>Don&#8217;t let pigeons ruin your brand new solar panels &#8212; why day-one protection is essential</title>
+      <link>https://www.techradar.com/home/energy-saving/getting-solar-panels-pigeon-proof-them-right-away-before-acidic-droppings-ruin-your-investment-and-its-too-late-to-evict-them</link>
+      <pubDate>Thu, 12 Nov 2026 16:55:16 +0000</pubDate>
+      <guid isPermaLink="false">gUUWZh6JLmJ6ZnKBF9XGeW</guid>
+      <description>It's illegal to disturb an active bird's nest, so pigeon-proof your new panels immediately to avoid damage from their acidic droppings</description>
     </item>
     <item>
-      <title>Fitbit Air : vous pouvez enfin suivre votre tension dans Google Health, mais &#224; la main</title>
-      <link>https://www.frandroid.com/marques/google/3319637_fitbit-air-vous-pouvez-enfin-suivre-votre-tension-dans-google-health-mais-a-la-main</link>
-      <pubDate>Thu, 12 Nov 2026 08:46:03 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/google/3319637_fitbit-air-vous-pouvez-enfin-suivre-votre-tension-dans-google-health-mais-a-la-main</guid>
+      <title>How to watch England vs Croatia: FREE live streams, TV channels &amp; kick-off time for Nations League 2026/27 fixture</title>
+      <link>https://www.techradar.com/entertainment/football/england-vs-croatia-free-nations-league-2026-27</link>
+      <pubDate>Thu, 12 Nov 2026 16:50:00 +0000</pubDate>
+      <guid isPermaLink="false">WvariLe3vf7EFL7T5BX7sZ</guid>
+      <description>How you can watch England vs Croatia in the Nations League for free online from anywhere in the world with TV channels, kick-off time included.</description>
+    </item>
+    <item>
+      <title>I've been hunting for early Black Friday phone deals: these are the 22 best on the iPhone Duo, 18 Pro, Samsung Galaxy S26, Pixel 11, and more</title>
+      <link>https://www.techradar.com/phones/ive-been-hunting-for-early-black-friday-phone-deals-these-are-the-22-best-on-the-iphone-duo-18-pro-samsung-galaxy-s26-pixel-11-and-more</link>
+      <pubDate>Thu, 12 Nov 2026 16:45:54 +0000</pubDate>
+      <guid isPermaLink="false">afV6G2TmeXh7WctRchDAt7</guid>
+      <description>The early-bird Black Friday phone deals could save you thousands on a new phone &#8212; and get you a free pair of earbuds or a tablet, too.</description>
+    </item>
+    <item>
+      <title>Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go</title>
+      <link>https://mashable.com/tech/nvidia-stock-plunges-ceo-jensen-huang-resigns-how-low-did-it-go</link>
+      <pubDate>Thu, 12 Nov 2026 16:45:10 +0000</pubDate>
+      <guid isPermaLink="false">07pDM8oca74gJxEfpVzU3cq</guid>
+      <description>Nvidia stock dipped sharply on the news of Jensen Huang's resignation, which followed reports he engaged in multiple affairs.</description>
+    </item>
+    <item>
+      <title>When a Walmart disappears, here&#8217;s what happens to nearby stores. It&#8217;s not what you&#8217;d expect</title>
+      <link>https://www.fastcompany.com/91639420/when-walmart-closes-happens-nearby-stores-not-youd-expect</link>
+      <pubDate>2026-11-12T16:45:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91639420/when-walmart-closes-happens-nearby-stores-not-youd-expect</guid>
+      <description>Scholars studied the effects of 39 Walmart closures across 20 states from 2019 to 2026.
+Shoppers often greet the closure of a Walmart with dismay, while competitors find cause to celebrate.</description>
+    </item>
+    <item>
+      <title>All&#233;e, portail ou jardin : quelle cam&#233;ra Reolink en promotion choisir pendant le Black Friday ? [Sponso]</title>
+      <link>https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/3317913_allee-portail-ou-jardin-quelle-camera-reolink-en-promotion-choisir-pendant-le-black-friday</link>
+      <pubDate>Thu, 12 Nov 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/3317913_allee-portail-ou-jardin-quelle-camera-reolink-en-promotion-choisir-pendant-le-black-friday</guid>
       <description>
-Les propri&#233;taires du Fitbit Air peuvent d&#233;sormais enregistrer leurs relev&#233;s de tension art&#233;rielle dans l'application Google Health, d'apr&#232;s des utilisateurs cit&#233;s ce mercredi 11 novembre par Android Police. Le bracelet ne mesure toujours pas la tension lui-m&#234;me.
+Reolink prend de l&#8217;avance sur le Black Friday. De ce jeudi 12 novembre au mercredi 2 d&#233;cembre, ses cam&#233;ras de surveillance ext&#233;rieure sont en promotion avec des r&#233;ductions allant jusqu&#8217;&#224; 50 % sur une s&#233;lection de produits.
 </description>
     </item>
     <item>
-      <title>&#171;&#160;Sauvez Jensen&#160;&#187;&#160;: pour Tim Sweeney, virer le patron de Nvidia serait une connerie &#224; la Steve Jobs</title>
-      <link>https://www.frandroid.com/marques/nvidia/3319787_sauvez-jensen-pour-tim-sweeney-virer-le-patron-de-nvidia-serait-une-idiotie-a-la-steve-jobs</link>
-      <pubDate>Thu, 12 Nov 2026 08:42:27 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3319787_sauvez-jensen-pour-tim-sweeney-virer-le-patron-de-nvidia-serait-une-idiotie-a-la-steve-jobs</guid>
+      <title>Nvidia live updates: Jensen Huang is out as CEO</title>
+      <link>https://mashable.com/tech/nvidia-jensen-huang-affair-resignation-live-blog</link>
+      <pubDate>Thu, 12 Nov 2026 16:44:42 +0000</pubDate>
+      <guid isPermaLink="false">00Ux0Cjz3ig4lOzvCFuDvN9</guid>
+      <description>Jensen Huang has resigned as Nvidia CEO after reports of two affairs. Follow live updates on his departure and interim CEO Colette Kress.</description>
+    </item>
+    <item>
+      <title>Nvidia in a post-Jensen Huang world could be a disaster for PC gamers</title>
+      <link>https://www.techradar.com/computing/gpu/nvidia-is-now-in-a-post-jensen-huang-world-heres-why-that-could-be-a-disaster-for-pc-gamers</link>
+      <pubDate>Thu, 12 Nov 2026 16:42:50 +0000</pubDate>
+      <guid isPermaLink="false">fx4bEuGUUbxoe9P7J3wsAS</guid>
+      <description>The next CEO isn't likely to have GeForce graphics cards top of their priority list, let's put it that way.</description>
+    </item>
+    <item>
+      <title>Le Nothing Phone (3) est de retour &#224; presque moiti&#233; prix pendant le Black Friday</title>
+      <link>https://www.frandroid.com/bons-plans/3254535_le-nothing-phone-3-est-de-retour-a-presque-moitie-prix-pendant-le-black-friday</link>
+      <pubDate>Thu, 12 Nov 2026 16:42:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3254535_le-nothing-phone-3-est-de-retour-a-presque-moitie-prix-pendant-le-black-friday</guid>
       <description>
-Tim Sweeney, le patron d'Epic Games, compare un &#233;ventuel renvoi de Jensen Huang au d&#233;part forc&#233; de Steve Jobs chez Apple. L'argument tient pour le b&#226;tisseur, beaucoup moins pour un dossier qui d&#233;passe d&#233;sormais largement la vie sentimentale du PDG de Nvidia.
+Le Nothing Phone (3) est le premier smartphone haut de gamme de Nothing, celui que la marque pr&#233;sente comme son premier flagship. Il est aujourd'hui disponible pour 479 euros pendant le Black Friday chez Joybuy, contre 849 euros &#224; sa sortie.
 </description>
     </item>
     <item>
-      <title>LG OLED evo 97W7 : la dalle Tandem pourrait enfin arriver en 97 pouces</title>
-      <link>https://www.frandroid.com/marques/lg/3319729_lg-oled-evo-97w7-la-dalle-tandem-pourrait-enfin-arriver-en-97-pouces</link>
-      <pubDate>Thu, 12 Nov 2026 08:42:13 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/lg/3319729_lg-oled-evo-97w7-la-dalle-tandem-pourrait-enfin-arriver-en-97-pouces</guid>
+      <title>&#201;couteurs, enceintes, barres de son&#8230; le meilleur des promos sur l&#8217;audio pendant ce Black Friday</title>
+      <link>https://www.frandroid.com/bons-plans/3302565_le-meilleur-des-promos-audio-pendant-le-black-friday</link>
+      <pubDate>Thu, 12 Nov 2026 16:40:17 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3302565_le-meilleur-des-promos-audio-pendant-le-black-friday</guid>
       <description>
-LG s&#8217;appr&#234;te &#224; pr&#233;senter son plus grand t&#233;l&#233;viseur OLED. Le 97W7, d&#233;j&#224; r&#233;compens&#233; aux CES Innovation Awards 2027, affiche des caract&#233;ristiques qui laissent penser &#224; une dalle Primary RGB Tandem, jusqu&#8217;ici r&#233;serv&#233;e aux diagonales de 83 pouces au plus. LG ne l&#8217;a toutefois pas confirm&#233;, et le prix reste inconnu.
+Besoin d'un nouveau casque Bluetooth, d'une petite enceinte ou d'une barre de son pour votre t&#233;l&#233; ? Bonne nouvelle, les produits audio profitent d'un tas de r&#233;duction durant ce Black Month, jusqu'au Black Friday &#224; la fin du mois.
 </description>
     </item>
     <item>
-      <title>Abonnements automatiques, billets qui gonflent en file d&#8217;attente : ce que change le Digital Fairness Act pour les consommateurs europ&#233;ens</title>
-      <link>https://www.frandroid.com/culture-tech/politique/3319635_abonnements-automatiques-billets-qui-gonflent-en-file-dattente-ce-que-change-le-digital-fairness-act-pour-les-consommateurs-europeens</link>
-      <pubDate>Thu, 12 Nov 2026 08:29:21 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/politique/3319635_abonnements-automatiques-billets-qui-gonflent-en-file-dattente-ce-que-change-le-digital-fairness-act-pour-les-consommateurs-europeens</guid>
+      <title>AI books to blame after a new public library in India faces investigation</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/indias-first-ai-scam-ai-generated-books-to-blame-after-a-brand-new-public-library-in-india-faces-anti-corruption-investigation-just-days-after-opening</link>
+      <pubDate>Thu, 12 Nov 2026 16:37:28 +0000</pubDate>
+      <guid isPermaLink="false">zpu5HARbqF8xUAPxtBHrKi</guid>
+      <description>Books from unfamiliar authors filled with inaccuracies were spotted in a brand new library in India.</description>
+    </item>
+    <item>
+      <title>Jensen Huang agrees to testify before Congress</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
+      <pubDate>Thu, 12 Nov 2026 16:36:37 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187911</guid>
+      <description>Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.</description>
+    </item>
+    <item>
+      <title>Black Friday Apple : quand les promotions cassent les prix des MacBook, iPhone, AirPods&#8230;</title>
+      <link>https://www.frandroid.com/bons-plans/3310937_black-friday-apple-quand-les-promotions-cassent-les-prix-des-macbook-iphone-airpods</link>
+      <pubDate>Thu, 12 Nov 2026 16:34:19 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3310937_black-friday-apple-quand-les-promotions-cassent-les-prix-des-macbook-iphone-airpods</guid>
       <description>
-La Commission europ&#233;enne a pr&#233;sent&#233; ce mercredi 11 novembre son Digital Fairness Act, un nouveau r&#232;glement qui vise les essais gratuits transform&#233;s en abonnements, les monnaies virtuelles des jeux et les prix des billets de concerts. Bruxelles promet jusqu'&#224; 13,7 milliards d'euros d'&#233;conomies par an aux consommateurs.
+Le Black Friday bat son plein et les offres du c&#244;t&#233; d'Apple sont nombreuses. Entre les iPhone, les iPad, les Mac et les accessoires, les revendeurs multiplient les remises. Plut&#244;t que de vous laisser chercher la perle rare au milieu de toutes ces pages, voici notre s&#233;lection des vrais bons plans Apple du moment.
 </description>
     </item>
     <item>
-      <title>Volkswagen respire enfin en Chine, malgr&#233; le flop de ses voitures &#233;lectriques con&#231;ues avec Xpeng</title>
-      <link>https://www.frandroid.com/marques/volkswagen/3319613_volkswagen-respire-enfin-en-chine-malgre-le-flop-de-ses-voitures-electriques-concues-avec-xpeng</link>
-      <pubDate>Thu, 12 Nov 2026 08:21:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/volkswagen/3319613_volkswagen-respire-enfin-en-chine-malgre-le-flop-de-ses-voitures-electriques-concues-avec-xpeng</guid>
+      <title>Five ways Jensen Huang&#8217;s ouster from Nvidia could damage the AI industry</title>
+      <link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
+      <pubDate>Thu, 12 Nov 2026 16:32:33 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187523</guid>
+      <description>Nvidia's ousted CEO Jensen Huang's downfall isn&#8217;t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.</description>
+    </item>
+    <item>
+      <title>&#171;&#160;Un probl&#232;me au niveau d&#8217;iOS&#160;&#187; : Binance alerte sur une faille de l&#8217;iPhone qui menace tous les portefeuilles crypto</title>
+      <link>https://www.01net.com/actualites/un-probleme-au-niveau-dios-binance-alerte-sur-une-faille-de-liphone-qui-menace-tous-les-portefeuilles-crypto.html</link>
+      <pubDate>Thu, 12 Nov 2026 16:31:07 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1381126</guid>
+      <description>Binance met en garde les propri&#233;taires d'iPhone. Une faille, baptis&#233;e worse_query, vient d&#8217;&#234;tre d&#233;couverte dans le syst&#232;me d&#8217;exploitation iOS. Elle permet &#224; une application malveillante de lire les fichiers des autres applications, y compris les phrases de r&#233;cup&#233;ration des portefeuilles crypto. Selon les chercheurs, la br&#232;che n'a toujours pas &#233;t&#233; corrig&#233;e par Apple, ce qui met en danger les investisseurs qui utilisent un iPhone....</description>
+    </item>
+    <item>
+      <title>Jensen Huang is out. What did China want from him?</title>
+      <link>https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump</link>
+      <pubDate>2026-11-12T11:30:00-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1031260</guid>
+      <description>Today, we&#8217;re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]</description>
+    </item>
+    <item>
+      <title>How to watch Italy vs France: FREE live streams, TV channels &amp; kick-off time for Nations League 2026/27 fixture</title>
+      <link>https://www.techradar.com/entertainment/football/italy-vs-france-free-nations-league-2026-27</link>
+      <pubDate>Thu, 12 Nov 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">gryeQWsp6cCoUbp8BVtXmE</guid>
+      <description>How you can watch Italy vs France in the Nations League for free online from anywhere in the world with TV channels, kick-off time included.</description>
+    </item>
+    <item>
+      <title>Qui pour remplacer Jensen Huang &#224; la t&#234;te de Nvidia ? Voici les favoris pour lui succ&#233;der</title>
+      <link>https://www.frandroid.com/marques/nvidia/3320911_qui-pour-remplacer-jensen-huang-a-la-tete-de-nvidia-voici-les-favoris-pour-lui-succeder</link>
+      <pubDate>Thu, 12 Nov 2026 16:28:06 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/nvidia/3320911_qui-pour-remplacer-jensen-huang-a-la-tete-de-nvidia-voici-les-favoris-pour-lui-succeder</guid>
       <description>
-Si Volkswagen affiche de bons r&#233;sultats en Chine avec ses voitures &#233;lectriques et hybrides, ce n&#8217;est en revanche pas le cas pour certains mod&#232;les. Car les mod&#232;les issues de sa collaboration avec Xpeng peinent &#224; s&#233;duire...
+Jensen Huang a d&#233;missionn&#233; de la direction de Nvidia avec effet imm&#233;diat, a annonc&#233; le groupe ce jeudi 12 novembre 2026, et sa directrice financi&#232;re Colette Kress assure l'int&#233;rim. En 33 ans, l'entreprise n'a jamais d&#233;sign&#233; de successeur.
 </description>
     </item>
     <item>
-      <title>Boulanger brade l&#8217;iPad Air 13 M3 1 To &#224; -40 % pour le Black Friday</title>
-      <link>https://www.frandroid.com/bons-plans/3319141_boulanger-brade-lipad-air-13-m3-1-to-a-40-pour-le-black-friday</link>
-      <pubDate>Thu, 12 Nov 2026 08:17:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3319141_boulanger-brade-lipad-air-13-m3-1-to-a-40-pour-le-black-friday</guid>
+      <title>Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor</title>
+      <link>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/</link>
+      <pubDate>Thu, 12 Nov 2026 16:12:44 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187860</guid>
+      <description>In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.</description>
+    </item>
+    <item>
+      <title>We found 45 early Black Friday deals already live: Get $250 off MacBooks, 53% off Bose headphones</title>
+      <link>https://mashable.com/tech/best-early-black-friday-deals-2026</link>
+      <pubDate>Thu, 12 Nov 2026 16:12:24 +0000</pubDate>
+      <guid isPermaLink="false">05KQ4efP0LQlo7QFCwDRXxo</guid>
+      <description>The best early Black Friday deals are already here. We found $200 savings on MacBook Airs and 50% off Bose headphones, QLED TVs, and more.</description>
+    </item>
+    <item>
+      <title>Hbada E3 Ultra (Gen 5) ergonomic chair launches with $360 off for Black Friday</title>
+      <link>https://www.techradar.com/pro/hbadas-new-flagship-e3-ultra-gen-5-ergonomic-chair-arrives-with-a-150-degree-recline-8d-armrests-and-its-usd360-off-for-black-friday</link>
+      <pubDate>Thu, 12 Nov 2026 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">cDVxig4WTXmV8QY5uF3Kwm</guid>
+      <description>Hbada's E3 Ultra (Gen 5) chair launches with a $360 Black Friday discount, 150-degree recline, and adjustable lumbar support.</description>
+    </item>
+    <item>
+      <title>&#171;&#160;La prochaine version du smartphone&#160;&#187; : Sam Altman d&#233;voile sa vision du t&#233;l&#233;phone &#224; l&#8217;&#232;re de l&#8217;IA</title>
+      <link>https://www.01net.com/actualites/la-prochaine-version-du-smartphone-sam-altman-devoile-sa-vision-du-telephone-a-lere-de-lia.html</link>
+      <pubDate>Thu, 12 Nov 2026 16:02:49 +0000</pubDate>
+      <guid isPermaLink="false">https://www.01net.com/?p=1381123</guid>
+      <description>Sam Altman imagine un appareil discret, int&#233;grant pleinement l&#8217;IA et sans application. Il estime que ce type d'appareil sera &#171; la prochaine version du smartphone &#187;. Le dirigeant d&#8217;OpenAI annonce au passage vouloir collaborer avec Samsung.</description>
+    </item>
+    <item>
+      <title>Samsung brade ses meilleures r&#233;f&#233;rences durant le Black Friday : les 15 deals &#224; saisir</title>
+      <link>https://www.frandroid.com/bons-plans/3307191_samsung-brade-ses-meilleures-references-durant-le-black-friday-les-15-deals-a-saisir</link>
+      <pubDate>Thu, 12 Nov 2026 16:02:25 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3307191_samsung-brade-ses-meilleures-references-durant-le-black-friday-les-15-deals-a-saisir</guid>
       <description>
-L'iPad Air 13 M3 en version 1 To et 5G joue dans la cour des grands sans atteindre le tarif de l'iPad Pro. Chez Boulanger, elle passe &#224; 989 euros au lieu de 1 669 euros, soit 680 euros d'&#233;conomie, le tout pour le Black Friday.
+Un tas de produits Samsung sont en promo pendant ce Black Friday : smartphones, t&#233;l&#233;viseurs, PC portables, &#233;crans PC&#8230; tout y passe. Mais comme il n'est pas toujours simple de rep&#233;rer les vraies bonnes affaires au milieu de cette avalanche de r&#233;ductions, on a fait le m&#233;nage pour vous : voici celles qui valent vraiment le coup.
 </description>
     </item>
     <item>
-      <title>The Polar Vortex Is About to Make Weather Weird From the UK to the US</title>
-      <link>https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/</link>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">6ae9173b1c32373b69412ad2</guid>
-      <description>These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Ni&#241;o, the outcomes aren&#8217;t easy to predict.</description>
-    </item>
-    <item>
-      <title>Suunto Race 3S review: Competent and stylish, but overpriced</title>
-      <link>https://www.techradar.com/health-fitness/smartwatches/suunto-race-3s-review-competent-and-stylish-but-overpriced</link>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">zDXkja5MZ7AgsLuZiBaBC7</guid>
-      <description>The Suunto Race 3S is a technically competent smartwatch &#8212; just priced out of its bracket.</description>
-    </item>
-    <item>
-      <title>Nvidia s&#8217;appr&#234;terait &#224; licencier son PDG Jensen Huang suite &#224; une nouvelle r&#233;v&#233;lation</title>
-      <link>https://www.01net.com/actualites/nvidia-licencier-patron-jensen-huang-nouvelle-revelation.html</link>
-      <pubDate>Thu, 12 Nov 2026 07:57:59 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1381025</guid>
-      <description>Le conseil d'administration de Nvidia s'appr&#234;terait &#224; limoger son dirigeant, Jensen Huang. Cela fait suite &#224; la r&#233;v&#233;lation d'une seconde liaison extra-conjugale pr&#233;sum&#233;e, qui ne serait pas en lien avec l'affaire de la relation avec une femme qui serait une espionne chinoise.</description>
-    </item>
-    <item>
-      <title>650 km d&#8217;autonomie pour 50&#160;000&#160;&#8364; : Volvo s&#8217;attaque directement au roi Tesla Model Y avec ce futur SUV</title>
-      <link>https://www.01net.com/actualites/650-km-autonomie-50-000-euros-volvo-attaque-roi-tesla-model-y-futur-suv.html</link>
-      <pubDate>Thu, 12 Nov 2026 07:50:20 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1380993</guid>
-      <description>Volvo &#233;toffera bient&#244;t sa gamme avec l&#8217;EX50, un SUV interm&#233;diaire situ&#233; entre le prochain EX40 et le dernier EX60. Son prix devrait d&#233;buter aux alentours des 50 000 &#8364; pour rivaliser dignement avec le Tesla Model Y. Il ne manquera pas d&#8217;arguments pour s&#233;duire.</description>
-    </item>
-    <item>
-      <title>&lt;b&gt;Livestock&lt;/b&gt; Monitoring Market Forecast to Expand at 19.4% CAGR During 2026&#8211;2035</title>
-      <link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://media.market.us/livestock-monitoring-market-news/&amp;ct=ga&amp;cd=CAIyGzA4ZDkxYzY5ODJkMjYxZTE6Y2E6ZnI6Q0E6TA&amp;usg=AOvVaw1XiJbc71bU0z2xTF0HpPRs</link>
-      <pubDate>2026-11-12T07:42:42Z</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17526834344337777922</guid>
-      <description>Adoption of IoT-Based Livestock Solutions: Internet of Things (IoT) technology connects sensors, cameras, and monitoring devices to central platforms.</description>
-    </item>
-    <item>
-      <title>Disney+ revient avec une nouvelle offre qui baisse les prix de tous ses abonnements streaming, m&#234;me en 4K</title>
-      <link>https://www.frandroid.com/bons-plans/3318879_disney-revient-avec-une-nouvelle-offre-qui-baisse-les-prix-de-tous-ses-abonnements-streaming-meme-en-4k-2</link>
-      <pubDate>Thu, 12 Nov 2026 07:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3318879_disney-revient-avec-une-nouvelle-offre-qui-baisse-les-prix-de-tous-ses-abonnements-streaming-meme-en-4k-2</guid>
-      <description>Depuis ce mercredi 11 novembre et jusqu&#8217;au 24 novembre, Disney+ prend un peu d&#8217;avance sur le Black Friday (le 27 novembre) avec une nouvelle vague de promotions. La plateforme de streaming r&#233;duit temporairement les prix de ses trois formules, y compris son abonnement Premium qui donne notamment acc&#232;s &#224; la 4K Ultra HD sur les [&#8230;]</description>
-    </item>
-    <item>
-      <title>Anthropic offre un reset gratuit des limites de Claude &#224; ses abonn&#233;s, voici comment en profiter</title>
-      <link>https://www.01net.com/actualites/anthropic-offre-un-reset-gratuit-des-limites-de-claude-a-ses-abonnes-voici-comment-en-profiter.html</link>
-      <pubDate>Thu, 12 Nov 2026 07:32:37 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1380915</guid>
-      <description>Anthropic offre une r&#233;initialisation gratuite et compl&#232;te des limites d&#8217;utilisation &#224; tous les abonn&#233;s payants de Claude (Pro, Max, Ultra et Team). Cette op&#233;ration est disponible jusqu&#8217;au 10 d&#233;cembre et permet de recharger l&#8217;ensemble des quotas, y compris les limites hebdomadaires. Voici comment l'activer.</description>
-    </item>
-    <item>
-      <title>Pourquoi Nothing lance un bo&#238;tier IA sans &#233;cran alors que tout le monde s&#8217;y est cass&#233; les dents</title>
-      <link>https://www.frandroid.com/marques/nothing/3319597_pourquoi-nothing-lance-un-boitier-ia-sans-ecran-alors-que-tout-le-monde-sy-est-casse-les-dents</link>
-      <pubDate>Thu, 12 Nov 2026 07:31:54 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/nothing/3319597_pourquoi-nothing-lance-un-boitier-ia-sans-ecran-alors-que-tout-le-monde-sy-est-casse-les-dents</guid>
+      <title>Ce smartphone pliant &#224; clapet de Xiaomi n&#8217;est qu&#8217;&#224; 430 &#8364; pendant les promos du 11.11</title>
+      <link>https://www.frandroid.com/bons-plans/3320907_ce-smartphone-pliant-a-clapet-de-xiaomi-nest-qua-430-e-pendant-les-promos-du-11-11</link>
+      <pubDate>Thu, 12 Nov 2026 16:02:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3320907_ce-smartphone-pliant-a-clapet-de-xiaomi-nest-qua-430-e-pendant-les-promos-du-11-11</guid>
       <description>
-Carl Pei, CEO de Nothing, a publi&#233; ce mercredi 11 novembre sur X une courte vid&#233;o de l'appareil d'IA sans &#233;cran que la marque doit lancer en d&#233;cembre. Humane et Rabbit ont d&#233;j&#224; tent&#233; ce pari en 2024, et ils ont perdu face au smartphone.
+Le Xiaomi Mix Flip, premier smartphone pliant &#224; clapet de la marque, est propos&#233; &#224; 430,38 euros au lieu de 510,38 euros sur Aliexpress gr&#226;ce &#224; un code promo valable pendant les promos du 11.11.
 </description>
+    </item>
+    <item>
+      <title>Whoop just launched a social network</title>
+      <link>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</link>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187638</guid>
+      <description>Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.</description>
+    </item>
+    <item>
+      <title>The 12 best gifts for music lovers: headphones, earbuds, stocking fillers and more</title>
+      <link>https://www.techradar.com/audio/headphones/12-top-gift-ideas-for-the-music-lover-in-your-life-hand-picked-by-an-audio-expert-earbuds-starting-at-just-usd19-gbp19</link>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d7t9GgBdgyriwMg8Vncf7F</guid>
+      <description>Know a music-lover and looking for stocking fillers &#8212;or a bigger 'main' present? Whether they're into wired audio or the newest of the new wireless kit, here's my selection of the best audio gifts of 2026</description>
+    </item>
+    <item>
+      <title>Beyond data breaches, NordVPN's new tool promises to help you shrink your full digital footprint</title>
+      <link>https://www.techradar.com/vpn/vpn-services/beyond-data-breaches-nordvpns-new-tool-promises-to-help-you-shrink-your-full-digital-footprint</link>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LncPMbMg3dj7QNPe9vupy7</guid>
+      <description>A breach alert only tells you half the story. NordVPN's new scanner tracks the passive digital shadow you leave behind every day. Here's how.</description>
+    </item>
+    <item>
+      <title>How Jensen Huang&#8217;s personal brand boomeranged</title>
+      <link>https://www.fastcompany.com/91641153/how-jensen-huangs-personal-brand-boomeranged</link>
+      <pubDate>2026-11-12T16:00:00</pubDate>
+      <guid isPermaLink="false">https://www.fastcompany.com/91641153/how-jensen-huangs-personal-brand-boomeranged</guid>
+      <description>A&#160;potent public image didn&#8217;t help the now-resigned Nvidia CEO.
+Few CEOs have had as distinct a public image as Nvidia founder Jensen Huang. The leather jackets, the social media cameos resulting from his street-food enthusiasm, the theatrical optimism about an AI future powered in part by his company&#8217;s chips. For years, Huang&#8217;s personal brand has been effective and winning....</description>
     </item>
   </channel>
 </rss>
