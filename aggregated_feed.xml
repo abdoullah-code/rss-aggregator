@@ -3,163 +3,215 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Mon, 16 Nov 2026 09:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:07:00 GMT</lastBuildDate>
     <item>
-      <title>Land Rover voulait prouver que BYD copiait le Defender, le tribunal lui ordonne de d&#233;truire les preuves</title>
-      <link>https://www.frandroid.com/marques/byd/3323763_land-rover-voulait-prouver-que-byd-copiait-le-defender-le-tribunal-lui-ordonne-de-detruire-les-preuves</link>
-      <pubDate>Mon, 16 Nov 2026 09:08:17 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/byd/3323763_land-rover-voulait-prouver-que-byd-copiait-le-defender-le-tribunal-lui-ordonne-de-detruire-les-preuves</guid>
+      <title>Best Early Black Friday Espresso Machine Deals (2026)</title>
+      <link>https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/</link>
+      <pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">692076bc1d5cbe3df783222e</guid>
+      <description>Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.</description>
+    </item>
+    <item>
+      <title>Vari's 60-inch ComfortEdge standing desk is 20% off for Black Friday</title>
+      <link>https://www.techradar.com/pro/varis-60-inch-electric-standing-desk-with-comfortedge-drops-to-usd719-20-saving-you-nearly-usd180-in-the-black-friday-holiday-sale</link>
+      <pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">qDCb8gkmtNN5sWJ2mXYgLT</guid>
+      <description>Vari cuts nearly $180 off its Electric Standing Desk with ComfortEdge, bringing the 60-inch model down to under $720.</description>
+    </item>
+    <item>
+      <title>Uber says hackers stole information on close to 150,000 driver&#8217;s licenses during data breach</title>
+      <link>https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
+      <pubDate>Mon, 16 Nov 2026 19:53:00 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188333</guid>
+      <description>The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.</description>
+    </item>
+    <item>
+      <title>California sues OpenAI after that Hugging Face rogue hacking incident</title>
+      <link>https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/</link>
+      <pubDate>Mon, 16 Nov 2026 19:52:24 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/</guid>
+      <description>State AG Rob Bonta has accused the company of making AI agents "without the safeguards and monitoring necessary to adequately protect" users.</description>
+    </item>
+    <item>
+      <title>Hackers are using security cameras to break into corporate networks, then switching off the antivirus to mine crypto</title>
+      <link>https://www.techradar.com/pro/security/hackers-are-using-security-cameras-to-break-into-corporate-networks-then-switching-off-the-antivirus-to-mine-crypto</link>
+      <pubDate>Mon, 16 Nov 2026 19:35:00 +0000</pubDate>
+      <guid isPermaLink="false">2i6EpHpY8uXY4kRXHhPBpg</guid>
+      <description>Hackers exploited exposed GeoVision surveillance systems to infiltrate corporate networks, interfere with antivirus protections, and install cryptocurrency mining software on computers.</description>
+    </item>
+    <item>
+      <title>Which Google Pixel phone is most similar to the Galaxy S26+?</title>
+      <link>https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/</link>
+      <pubDate>Mon, 16 Nov 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/</guid>
+      <description>Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you.</description>
+    </item>
+    <item>
+      <title>Apple adds &#8216;face unlock&#8217; to the iPhone Duo, but it&#8217;s not Face ID</title>
+      <link>https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/</link>
+      <pubDate>Mon, 16 Nov 2026 19:26:55 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189094</guid>
+      <description>Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.</description>
+    </item>
+    <item>
+      <title>Apple is testing daily usage limits for more complex Siri AI interactions</title>
+      <link>https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription</link>
+      <pubDate>2026-11-16T14:24:40-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1034581</guid>
+      <description>Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]</description>
+    </item>
+    <item>
+      <title>OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
+      <link>https://www.theverge.com/policy/1034527/openai-csam-classifier</link>
+      <pubDate>2026-11-16T14:23:45-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1034527</guid>
+      <description>OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [&#8230;]</description>
+    </item>
+    <item>
+      <title>Google Maps' chatbot can find appointments and call to book them for you</title>
+      <link>https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/</link>
+      <pubDate>Mon, 16 Nov 2026 19:17:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/</guid>
+      <description>The Ask Maps chatbot is also expanding to more than 30 additional countries across Europe.</description>
+    </item>
+    <item>
+      <title>Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy did not threaten national security</title>
+      <link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
+      <pubDate>Mon, 16 Nov 2026 19:12:02 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189047</guid>
+      <description>Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.</description>
+    </item>
+    <item>
+      <title>Sansui's 32-inch 240Hz curved gaming monitor is just $259.99 at Amazon</title>
+      <link>https://www.techradar.com/pro/sansuis-32-inch-curved-creative-monitor-packs-a-240hz-refresh-rate-and-freesync-support-for-just-usd259-99</link>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Mvg75ZRZLyqvnfso9E5fB6</guid>
+      <description>Sansui's $259.99 curved monitor delivers a 240Hz refresh rate on a huge 32-inch screen.</description>
+    </item>
+    <item>
+      <title>How to watch I Am Helen online for FREE &#8212; stream latest installment of powerful anthology series from anywhere</title>
+      <link>https://www.techradar.com/entertainment/tv-shows/how-to-watch-i-am-helen-online-for-free-stream-latest-installment-of-powerful-anthology-series-from-anywhere</link>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">jfTmUK5jpYH2YodscxvXCm</guid>
+      <description>New installment in ground-breaking franchise stars Nicola McCoughlin as a woman trapped in a coercive and suffocating relationship. Here's how to watch I Am Helen online from anywhere.</description>
+    </item>
+    <item>
+      <title>Improve your Amazon Kindle experience by doing these simple things</title>
+      <link>https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/</link>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/</guid>
+      <description>If you love the convenience of a Kindle but miss the feel of having a physical book in your hands, we have some tips for you.</description>
+    </item>
+    <item>
+      <title>Apr&#232;s Android TV, Claude aide &#224; rendre le Monsieur Cuisine Connect de Lidl beaucoup plus fluide : voici comment on a fait</title>
+      <link>https://www.frandroid.com/marques/lidl/3324921_apres-android-tv-claude-aide-a-rendre-le-monsieur-cuisine-connect-de-lidl-beaucoup-plus-fluide-voici-comment-on-a-fait</link>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/lidl/3324921_apres-android-tv-claude-aide-a-rendre-le-monsieur-cuisine-connect-de-lidl-beaucoup-plus-fluide-voici-comment-on-a-fait</guid>
       <description>
-Accus&#233; par Land Rover d&#8217;avoir copi&#233; son mythique Defender, BYD vient de se voir donner raison par la justice. Le tribunal de La Haye ordonne &#224; son rival de faire d&#233;truire tous les documents saisis chez la firme chinoise. Mais le bras de fer n&#8217;est pas termin&#233;&#8230;
+Apr&#232;s Android TV, c&#8217;est au tour du Monsieur Cuisine Connect de Lidl de retrouver toute sa fluidit&#233;. Nous avons install&#233; Toque, une interface gratuite et open source que Claude Code ou Codex peuvent aider &#224; mettre en place : le gain de r&#233;activit&#233; est saisissant sur notre robot. Recettes Lidl, recherche intelligente, cuisine guid&#233;e, fonctionnement hors ligne&#8230; Voici ce qui change et comment l&#8217;installer sur Windows ou macOS.
+...</description>
+    </item>
+    <item>
+      <title>Island is a new screen-time app that turns staying off your phone into a game</title>
+      <link>https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/</link>
+      <pubDate>Mon, 16 Nov 2026 18:54:18 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188957</guid>
+      <description>YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.</description>
+    </item>
+    <item>
+      <title>How to watch The Model Trap: Exposing Jeffrey Epstein&#8217;s Network online for FREE &#8212; stream revealing documentary from anywhere</title>
+      <link>https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-model-trap-exposing-jeffrey-epsteins-network-online-for-free-stream-revealing-documentary-from-anywhere</link>
+      <pubDate>Mon, 16 Nov 2026 18:48:15 +0000</pubDate>
+      <guid isPermaLink="false">bN2K3siTkiM4zWpTdrXu8c</guid>
+      <description>New doc reveals how Jeffrey Epstein gained access to young women from around the world. Here's how to watch The Model Trap: Exposing Jeffrey Epstein&#8217;s Network online from anywhere.</description>
+    </item>
+    <item>
+      <title>Apple is adding face unlock to the iPhone Duo &#8212; without new hardware</title>
+      <link>https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta</link>
+      <pubDate>2026-11-16T13:44:16-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1034590</guid>
+      <description>Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a passcode, which [&#8230;]</description>
+    </item>
+    <item>
+      <title>Nvidia&#8217;s board is reportedly &#8216;not considering&#8217; hiring Jensen Huang back</title>
+      <link>https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back</link>
+      <pubDate>2026-11-16T13:43:35-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1034501</guid>
+      <description>Nvidia's board of directors "isn't considering" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board "is focused on an investigation into Huang, and is not in discussions to bring him back." Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, [&#8230;]</description>
+    </item>
+    <item>
+      <title>15 hotel guests were injured by chlorine poisoning due to Microsoft&#8217;s global email outage</title>
+      <link>https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning</link>
+      <pubDate>2026-11-16T13:29:55-05:00</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=1034538</guid>
+      <description>Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the [&#8230;]...</description>
+    </item>
+    <item>
+      <title>The iPhone Duo Is Getting a Limited Version of Face ID</title>
+      <link>https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/</link>
+      <pubDate>Mon, 16 Nov 2026 18:26:26 +0000</pubDate>
+      <guid isPermaLink="false">6af78f26e8e25780eca715a1</guid>
+      <description>Originally launching only with Touch ID, Apple&#8217;s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it&#8217;s likely not as secure as Face ID.</description>
+    </item>
+    <item>
+      <title>Stanleys Black Friday deals are live: Save up to 50% on Quencher tumblers, coolers, and more</title>
+      <link>https://mashable.com/life/stanley-black-friday-sale-2026-deals</link>
+      <pubDate>Mon, 16 Nov 2026 18:25:35 +0000</pubDate>
+      <guid isPermaLink="false">00hld5gDt9w4sLL2qSKhkKR</guid>
+      <description>Tons of Stanley products are up for grabs for under $50 ahead of the holidays.</description>
+    </item>
+    <item>
+      <title>What is vibe manufacturing? AI projects are leaving the chat</title>
+      <link>https://mashable.com/tech/what-is-vibe-manufacturing</link>
+      <pubDate>Mon, 16 Nov 2026 18:25:20 +0000</pubDate>
+      <guid isPermaLink="false">04d6LsBpvSoKGJ52ZGsDiq5</guid>
+      <description>Vibe manufacturing uses AI to help design physical products. Here's what people are making, how designs become objects, and where the limits are.</description>
+    </item>
+    <item>
+      <title>Tesla goes all-in on the Cybercab with upcoming &#8364;3B Berlin Gigafactory expansion</title>
+      <link>https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/</link>
+      <pubDate>Mon, 16 Nov 2026 18:21:14 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189007</guid>
+      <description>Tesla is putting Europe on its Cybercab roadmap with a &#8364;3 billion expansion of its Berlin Gigafactory.</description>
+    </item>
+    <item>
+      <title>Touch ID ne suffit pas sur l&#8217;iPhone Duo : Apple c&#232;de et ajoute une reconnaissance faciale au rabais dans iOS 27.3</title>
+      <link>https://www.frandroid.com/os/ios/3324667_touch-id-ne-suffit-pas-sur-liphone-duo-apple-cede-et-ajoute-une-reconnaissance-faciale-au-rabais-dans-ios-27-3</link>
+      <pubDate>Mon, 16 Nov 2026 18:20:17 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/os/ios/3324667_touch-id-ne-suffit-pas-sur-liphone-duo-apple-cede-et-ajoute-une-reconnaissance-faciale-au-rabais-dans-ios-27-3</guid>
+      <description>
+Sur un smartphone pliant &#224; 2&#160;339&#160;euros, le seul capteur d'empreintes Touch ID montre vite ses limites au quotidien. Avec la b&#234;ta d'iOS 27.3, Apple c&#232;de &#224; la grogne des utilisateurs de l'iPhone Duo en ajoutant le d&#233;verrouillage au visage, mais via une technologie 2D qu'elle reconna&#238;t elle-m&#234;me comme moins s&#251;re et qu'elle bride toutes les 45&#160;minutes.
+...</description>
+    </item>
+    <item>
+      <title>Uber data breach sees hackers steal license information on thousands of drivers</title>
+      <link>https://www.techradar.com/pro/security/uber-data-breach-sees-hackers-steal-license-information-on-thousands-of-drivers</link>
+      <pubDate>Mon, 16 Nov 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">gEHugin63GTAtq9wmWZCiM</guid>
+      <description>One of Uber's services was breached, and its data stolen.</description>
+    </item>
+    <item>
+      <title>You won't find Nothing phones at US carriers, but here's how you can still buy them</title>
+      <link>https://www.engadget.com/2314632/nothing-phones-not-available-us-carriers-how-still-buy/</link>
+      <pubDate>Mon, 16 Nov 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2314632/nothing-phones-not-available-us-carriers-how-still-buy/</guid>
+      <description>While you can't get one at an AT&amp;T or Verizon store, Nothing has partnered with Best Buy.</description>
+    </item>
+    <item>
+      <title>Comment suivre en direct lraffaire Jensen Huang&#160;: Nvidia, Washington, Trump et la Chine</title>
+      <link>https://www.frandroid.com/marques/3324713_en-direct-affaire-jensen-huang-nvidia-washington-et-la-chine-toutes-les-dernieres-infos</link>
+      <pubDate>Mon, 16 Nov 2026 18:14:58 +0000</pubDate>
+      <guid isPermaLink="false">https://www.frandroid.com/marques/3324713_en-direct-affaire-jensen-huang-nvidia-washington-et-la-chine-toutes-les-dernieres-infos</guid>
+      <description>
+Liaisons, soup&#231;ons d'espionnage, puces d'IA vendues &#224; la Chine et bataille politique &#224; Washington&#160;: l'affaire Jensen Huang secoue Nvidia et toute l'industrie de l'IA. Nous suivons en direct les derniers rebondissements.
 </description>
     </item>
     <item>
-      <title>Apr&#232;s l&#8217;iPhone Duo, Apple aurait un nouveau cheval de bataille qui va rythmer son ann&#233;e 2027</title>
-      <link>https://www.01net.com/actualites/apres-liphone-duo-apple-aurait-un-nouveau-cheval-de-bataille-qui-va-rythmer-son-annee-2027.html</link>
-      <pubDate>Mon, 16 Nov 2026 09:03:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1382021</guid>
-      <description>Pr&#233;sentation &#224; la WWDC de juin 2027, vente avant la fin de l'ann&#233;e : le calendrier des premi&#232;res lunettes connect&#233;es d'Apple se pr&#233;cise, et leur mode d'emploi aussi. Sans iPhone r&#233;cent dans la poche, elles ne serviront &#224; rien.</description>
-    </item>
-    <item>
-      <title>Philips 100PQS9001 : le premier TV Ambilight de 100 pouces est disponible en France et &#224; moins de 2000 euros</title>
-      <link>https://www.frandroid.com/marques/philips/3323871_philips-100pqs9001-le-premier-tv-ambilight-de-100-pouces-est-disponible-en-france-et-a-moins-de-2000-euros</link>
-      <pubDate>Mon, 16 Nov 2026 09:01:44 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/philips/3323871_philips-100pqs9001-le-premier-tv-ambilight-de-100-pouces-est-disponible-en-france-et-a-moins-de-2000-euros</guid>
-      <description>
-Philips ajoute &#224; sa gamme The One le 100PQS9001, un t&#233;l&#233;viseur QLED 4K de 100 pouces. C&#8217;est le plus grand mod&#232;le jamais commercialis&#233; par la marque et le premier Ambilight vendu dans cette diagonale. Ambilight sur trois c&#244;t&#233;s, AmbiScape et quatre ports HDMI 2.1, d&#233;j&#224; disponible pour moins de 2 000 &#8364; en France.
-</description>
-    </item>
-    <item>
-      <title>Early Black Friday deal: Play 1000s of retro games with this $90 console</title>
-      <link>https://mashable.com/tech/nov-16-kinhank-super-console-x2-pro-retro-gaming-emulator-streaming-console</link>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">07ggBRAoTRK4LOwTvTwPQml</guid>
-      <description>Save 47% on the Kinhank Super Console X2 Pro retro gaming console during this early Black Friday deal, bringing the price down to $84.97.</description>
-    </item>
-    <item>
-      <title>Finie la bu&#233;e sur les lunettes&#160;: Decathlon revoit sa cagoule de v&#233;lo &#224; moins de 20 euros</title>
-      <link>https://www.frandroid.com/marques/decathlon/3323859_finie-la-buee-sur-les-lunettes-decathlon-revoit-sa-cagoule-de-velo-a-moins-de-20-euros</link>
-      <pubDate>Mon, 16 Nov 2026 08:59:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/decathlon/3323859_finie-la-buee-sur-les-lunettes-decathlon-revoit-sa-cagoule-de-velo-a-moins-de-20-euros</guid>
-      <description>
-Decathlon vend sa nouvelle cagoule v&#233;lo 900 coupe-vent de sa marque Van Rysel &#224; 19,99 euros. Sa zone de respiration a &#233;t&#233; revue apr&#232;s les plaintes de clients dont les lunettes s'embuaient.
-</description>
-    </item>
-    <item>
-      <title>Apple needs your help to make health AI better</title>
-      <link>https://mashable.com/life/apple-health-ai-study</link>
-      <pubDate>Mon, 16 Nov 2026 08:52:29 +0000</pubDate>
-      <guid isPermaLink="false">07EN0POimom4rnnQB7ABxTP</guid>
-      <description>Apple is launching an app to evaluate health AI, and the company needs your help to do it.</description>
-    </item>
-    <item>
-      <title>Outlook et Teams en panne 38 heures : comment r&#233;cup&#233;rer jusqu&#8217;&#224; 50 % de votre abonnement</title>
-      <link>https://www.frandroid.com/marques/3323849_outlook-et-teams-en-panne-38-heures-comment-recuperer-jusqua-50-de-votre-abonnement</link>
-      <pubDate>Mon, 16 Nov 2026 08:44:36 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/3323849_outlook-et-teams-en-panne-38-heures-comment-recuperer-jusqua-50-de-votre-abonnement</guid>
-      <description>
-Les entreprises clientes de Microsoft 365 ont jusqu'au 31 d&#233;cembre 2026 pour r&#233;clamer le cr&#233;dit pr&#233;vu apr&#232;s la panne des 12 et 13 novembre, que Microsoft ne versera pas de lui-m&#234;me. Pour une &#233;quipe priv&#233;e d'Outlook du d&#233;but &#224; la fin, il atteint 50 % du prix d'Exchange Online sur le mois.
-</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S27 Ultra : design, photo, puce, fen&#234;tre de sortie, prix&#8230; Tout ce qu&#8217;on sait sur le futur smartphone</title>
-      <link>https://www.frandroid.com/marques/samsung/3270397_samsung-galaxy-s27-ultra-design-photo-puce-fenetre-de-sortie-prix-tout-ce-quon-sait-sur-le-futur-smartphone</link>
-      <pubDate>Mon, 16 Nov 2026 08:39:45 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/samsung/3270397_samsung-galaxy-s27-ultra-design-photo-puce-fenetre-de-sortie-prix-tout-ce-quon-sait-sur-le-futur-smartphone</guid>
-      <description>
-Le Samsung Galaxy S27 Ultra devrait conna&#238;tre plusieurs changements au niveau du design, de la photo et de la batterie pour ne citer que ces &#233;l&#233;ments. Voici tout ce qu'on sait sur le futur smartphone.
-</description>
-    </item>
-    <item>
-      <title>La r&#233;cente Insta360 X6, la premi&#232;re cam&#233;ra 360&#176; &#224; int&#233;grer nativement le Dolby Vision, est d&#233;j&#224; en promo pour le Black Friday</title>
-      <link>https://www.frandroid.com/bons-plans/3322955_la-recente-insta360-x6-la-premiere-camera-360-a-integrer-nativement-le-dolby-vision-est-deja-en-promo-pour-le-black-friday</link>
-      <pubDate>Mon, 16 Nov 2026 08:34:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3322955_la-recente-insta360-x6-la-premiere-camera-360-a-integrer-nativement-le-dolby-vision-est-deja-en-promo-pour-le-black-friday</guid>
-      <description>
-Officialis&#233;e cet &#233;t&#233;, l'Insta360 X6 embarque un capteur plus grand, peut filmer en 8K &#224; 50 fps et int&#232;gre surtout le Dolby Vision de fa&#231;on native. Une cam&#233;ra 360&#176; bien compl&#232;te que l'on trouve, dans sa version Standard, &#224; 629,99 euros au lieu de 699,99 euros chez Darty et &#224; la Fnac pendant le Black Friday.
-</description>
-    </item>
-    <item>
-      <title>Qui a besoin d&#8217;un PC Copilot+ ? Un bidouilleur fait tourner une IA locale sur une vieille PS4</title>
-      <link>https://www.frandroid.com/marques/sony/3323853_qui-a-besoin-dun-pc-copilot-un-bidouilleur-fait-tourner-une-ia-locale-sur-une-vieille-ps4</link>
-      <pubDate>Mon, 16 Nov 2026 08:30:28 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/sony/3323853_qui-a-besoin-dun-pc-copilot-un-bidouilleur-fait-tourner-une-ia-locale-sur-une-vieille-ps4</guid>
-      <description>
-Un d&#233;veloppeur ind&#233;pendant est parvenu &#224; faire tourner un mod&#232;le d'IA de 9&#160;milliards de param&#232;tres directement sur une PS4, sans connexion Internet ni PC en renfort. La d&#233;monstration prouve que l'IA locale n'exige plus une carte graphique hors de prix, m&#234;me si l'usage concret sur la console reste anecdotique.
-</description>
-    </item>
-    <item>
-      <title>Casque obligatoire &#224; v&#233;lo &#233;lectrique : ce pays europ&#233;en s&#8217;appr&#234;te &#224; franchir le pas pour les mineurs</title>
-      <link>https://www.frandroid.com/survoltes/3323813_casque-obligatoire-a-velo-electrique-ce-pays-europeen-sapprete-a-franchir-le-pas-pour-les-mineurs</link>
-      <pubDate>Mon, 16 Nov 2026 08:25:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/survoltes/3323813_casque-obligatoire-a-velo-electrique-ce-pays-europeen-sapprete-a-franchir-le-pas-pour-les-mineurs</guid>
-      <description>
-Le Conseil des ministres n&#233;erlandais a valid&#233; le vendredi 13 novembre 2026 le port du casque obligatoire pour tous les moins de 18 ans &#224; v&#233;lo &#233;lectrique, avec une entr&#233;e en vigueur vis&#233;e au 1er septembre 2027. Le texte doit maintenant passer devant le Parlement.
-</description>
-    </item>
-    <item>
-      <title>Qwen4-Max contre Claude et GPT : Alibaba mise tout sur le prix de son IA &#171;&#160;ferm&#233; &#187;</title>
-      <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3323807_qwen4-max-contre-claude-et-gpt-alibaba-mise-tout-sur-le-prix-de-son-ia-ferme</link>
-      <pubDate>Mon, 16 Nov 2026 08:08:25 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/culture-tech/intelligence-artificielle/3323807_qwen4-max-contre-claude-et-gpt-alibaba-mise-tout-sur-le-prix-de-son-ia-ferme</guid>
-      <description>
-Alibaba lance Qwen4-Max, un mod&#232;le d'IA ferm&#233; qui pr&#233;tend jouer dans la cour de Claude et GPT pour une fraction de leur prix. Pour les d&#233;veloppeurs qui paient leurs agents IA au token pr&#232;s, la facture peut fondre, &#224; condition de croire des chiffres que la marque a surtout mesur&#233;s elle-m&#234;me.
-</description>
-    </item>
-    <item>
-      <title>Google Messages : la nouvelle recherche avec aper&#231;us des photos, vid&#233;os et liens arrive en b&#234;ta</title>
-      <link>https://www.frandroid.com/android/applications/3323793_google-messages-la-nouvelle-recherche-avec-apercus-des-photos-videos-et-liens-arrive-en-beta</link>
-      <pubDate>Mon, 16 Nov 2026 08:05:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/android/applications/3323793_google-messages-la-nouvelle-recherche-avec-apercus-des-photos-videos-et-liens-arrive-en-beta</guid>
-      <description>
-Google d&#233;ploie aupr&#232;s de certains testeurs b&#234;ta une nouvelle interface de recherche dans Messages. Elle affiche des aper&#231;us visuels des m&#233;dias partag&#233;s, place la barre de saisie en bas de l&#8217;&#233;cran et donne un acc&#232;s direct &#224; la recherche dans une conversation.
-</description>
-    </item>
-    <item>
-      <title>Affaire Jensen Huang&#160;: une &#171;&#160;cellule de crise&#160;&#187; pousse pour le retour du patron de Nvidia</title>
-      <link>https://www.01net.com/actualites/affaire-jensen-huang-une-cellule-de-crise-pousse-pour-le-retour-du-patron-de-nvidia.html</link>
-      <pubDate>Mon, 16 Nov 2026 07:59:01 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1382006</guid>
-      <description>La Silicon Valley se mobilise pour remettre Jensen Huang au poste de dirigeant de Nvidia. Cela fait suite &#224; sa d&#233;mission li&#233;e &#224; des pol&#233;miques concernant ses relations extraconjugales.</description>
-    </item>
-    <item>
-      <title>AO3 is back up, sparking celebrations on and offline</title>
-      <link>https://mashable.com/life/ao3-back-up-reactions-outage-fanfic</link>
-      <pubDate>Mon, 16 Nov 2026 07:50:45 +0000</pubDate>
-      <guid isPermaLink="false">05mY9QYaXjvhF2V8Lg8RI9Y</guid>
-      <description>Archive of Our Own (AO3) is back up, ending the fanfiction website's lengthy multi-week outage. Social media users are celebrating.</description>
-    </item>
-    <item>
-      <title>Google corrige 83 nouvelles failles Chrome, dont 5 vuln&#233;rabilit&#233;s critiques</title>
-      <link>https://www.01net.com/actualites/google-corrige-83-nouvelles-failles-chrome-dont-5-vulnerabilites-critiques.html</link>
-      <pubDate>Mon, 16 Nov 2026 07:46:42 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1381907</guid>
-      <description>Google a d&#233;ploy&#233; une nouvelle mise &#224; jour de s&#233;curit&#233; pour Chrome. Elle corrige 83 failles, dont cinq br&#232;ches jug&#233;es critiques. On vous recommande d'installer la mise &#224; jour sans tarder. C'est d&#233;j&#224; la deuxi&#232;me mise &#224; jour de Chrome en une semaine.</description>
-    </item>
-    <item>
-      <title>Windows 11 sur l&#8217;iPhone Duo&#160;: ce responsable Google a fait une petite prouesse avec Gemini</title>
-      <link>https://www.01net.com/actualites/windows-11-sur-liphone-duo-ce-responsable-google-a-fait-une-petite-prouesse-avec-gemini.html</link>
-      <pubDate>Mon, 16 Nov 2026 07:32:38 +0000</pubDate>
-      <guid isPermaLink="false">https://www.01net.com/?p=1381724</guid>
-      <description>Un responsable de Google AI Studio fait tourner Windows 11 sur l'iPhone Duo, sans d&#233;bridage et avec l'aide de Gemini. La promesse d'une fluidit&#233; &#171; quasi native &#187; m&#233;rite pourtant qu'on lise la notice de montage.</description>
-    </item>
-    <item>
-      <title>Cdiscount mobile fait aussi son Black Friday : le forfait 5G de 100 Go est &#224; 10 &#8364;/mois avec un bon d&#8217;achat offert</title>
-      <link>https://www.frandroid.com/bons-plans/3322195_cdiscount-mobile-fait-aussi-son-black-friday-le-forfait-5g-de-100-go-est-a-10-e-mois-avec-un-bon-dachat-offert</link>
-      <pubDate>Mon, 16 Nov 2026 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/bons-plans/3322195_cdiscount-mobile-fait-aussi-son-black-friday-le-forfait-5g-de-100-go-est-a-10-e-mois-avec-un-bon-dachat-offert</guid>
-      <description>
-Cdiscount a d&#233;gain&#233; une offre tr&#232;s int&#233;ressante en ce pr&#233;-Black Friday : non seulement son forfait 5G de 100 Go co&#251;te 9,99 euros par mois, mais un bon d'achat de 50 euros est en prime offert pour toute souscription.
-</description>
-    </item>
-    <item>
-      <title>&#171;&#160;Une console qui sera aussi capable de jouer &#224; des jeux PC&#160;&#187;&#160;: Microsoft se livre sur la philosophie derri&#232;re la prochaine Xbox</title>
-      <link>https://www.frandroid.com/marques/microsoft/3323761_une-console-qui-sera-aussi-capable-de-jouer-a-des-jeux-pc-microsoft-se-livre-sur-la-philosophie-derriere-la-prochaine-xbox</link>
-      <pubDate>Mon, 16 Nov 2026 07:17:58 +0000</pubDate>
-      <guid isPermaLink="false">https://www.frandroid.com/marques/microsoft/3323761_une-console-qui-sera-aussi-capable-de-jouer-a-des-jeux-pc-microsoft-se-livre-sur-la-philosophie-derriere-la-prochaine-xbox</guid>
-      <description>
-&#192; l&#8217;occasion des 25&#160;ans de la Xbox, Microsoft a longuement glos&#233; sur sa prochaine g&#233;n&#233;ration de console de salon en expliquant notamment en quoi elle sera diff&#233;rente d&#8217;un simple PC gamer.
-</description>
+      <title>Sam Altman on Nvidia without Jensen Huang: the industry will be &#8216;fine&#8217;</title>
+      <link>https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/</link>
+      <pubDate>Mon, 16 Nov 2026 18:11:10 +0000</pubDate>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189053</guid>
+      <description>OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be &#8220;fine&#8221; without him at the helm.</description>
     </item>
   </channel>
 </rss>
