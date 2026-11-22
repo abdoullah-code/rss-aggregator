@@ -3,90 +3,27 @@
     <title>RSS Aggregator Feed</title>
     <link>https://abdoullah-code.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Technology-related news</description>
-    <lastBuildDate>Sat, 21 Nov 2026 22:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:54:37 GMT</lastBuildDate>
     <item>
-      <title>Why does your phone say no service even with a SIM card?</title>
-      <link>https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/</link>
-      <pubDate>Sat, 21 Nov 2026 22:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/</guid>
-      <description>Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.</description>
+      <title>'I leaked secrets': An AI agent confessed to its own data leak &#8212; but others got around corporate protections</title>
+      <link>https://www.techradar.com/pro/security/i-leaked-secrets-an-ai-agent-confessed-to-its-own-data-leak-but-others-got-around-corporate-protections</link>
+      <pubDate>Sun, 22 Nov 2026 02:10:00 +0000</pubDate>
+      <guid isPermaLink="false">7kQ2DiZ2nya8tMYjaDUgJe</guid>
+      <description>Two AI incidents exposed corporate security weaknesses after one assistant leaked confidential credentials while another bypassed restrictions through an alternative API connection.</description>
     </item>
     <item>
-      <title>iPad Air vs. iPad Pro: The features you're actually paying $450 extra for</title>
-      <link>https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/</link>
-      <pubDate>Sat, 21 Nov 2026 22:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/</guid>
-      <description>The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.</description>
+      <title>Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?</title>
+      <link>https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/</link>
+      <pubDate>Sun, 22 Nov 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/</guid>
+      <description>New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.</description>
     </item>
     <item>
-      <title>Le gendarme boursier am&#233;ricain va enqu&#234;ter sur les pratiques comptables de Nvidia</title>
-      <link>https://www.lapresse.ca/affaires/techno/2026-11-21/le-gendarme-boursier-americain-va-enqueter-sur-les-pratiques-comptables-de-nvidia.php?utm_source=rss&amp;utm_medium=fil&amp;utm_campaign=affaires&amp;utm_content=techno</link>
-      <pubDate>Sat, 21 Nov 2026 17:05:45 -0500</pubDate>
-      <guid isPermaLink="false">96273a561007367c9fc93f7beeea390d</guid>
-      <description>La SEC, le r&#233;gulateur boursier am&#233;ricain, a lanc&#233; une enqu&#234;te sur les pratiques comptables du g&#233;ant des puces Nvidia, &#233;branl&#233; par un scandale de possible contrebande qui a entra&#238;n&#233; le d&#233;part de son ex-patron Jensen Huang, ont rapport&#233; plusieurs m&#233;dias.</description>
-    </item>
-    <item>
-      <title>This built-in windows tool can tell if your DirectX has a problem</title>
-      <link>https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/</link>
-      <pubDate>Sat, 21 Nov 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/</guid>
-      <description>DxDiag is a handy and free resource for troubleshooting DirectX.</description>
-    </item>
-    <item>
-      <title>Amazon is complaining about NYC Council on shipping labels, too</title>
-      <link>https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label</link>
-      <pubDate>2026-11-21T16:59:31-05:00</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=1039564</guid>
-      <description>Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]</description>
-    </item>
-    <item>
-      <title>FBI and USDA were reportedly targeted in back-to-back cyberattacks</title>
-      <link>https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/</link>
-      <pubDate>Sat, 21 Nov 2026 21:51:29 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/</guid>
-      <description>It's still unclear who is responsible for the two incidents.</description>
-    </item>
-    <item>
-      <title>The free Raspberry Pi tool you should be using to access it remotely</title>
-      <link>https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/</link>
-      <pubDate>Sat, 21 Nov 2026 21:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/</guid>
-      <description>Avoid forwarding ports by using this handy tool.</description>
-    </item>
-    <item>
-      <title>Signal restricts mobile screenshots as it confronts &#8216;existential threat&#8217; of AI surveillance</title>
-      <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-      <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191147</guid>
-      <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
-    </item>
-    <item>
-      <title>How long can fiber optic cables be before they lose signal?</title>
-      <link>https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/</link>
-      <pubDate>Sat, 21 Nov 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/</guid>
-      <description>Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities.</description>
-    </item>
-    <item>
-      <title>How to easily factory reset your Fitbit</title>
-      <link>https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/</link>
-      <pubDate>Sat, 21 Nov 2026 21:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/</guid>
-      <description>There's a difference between restarting and factory resetting your Fitbit.</description>
-    </item>
-    <item>
-      <title>A tale of two Nvidias</title>
-      <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-      <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191145</guid>
-      <description>We got two very different pictures of Nvidia &#8212;  the company&#8217;s latest earnings report vs. the tech executives loudly calling for Jensen Huang&#8217;s return.</description>
-    </item>
-    <item>
-      <title>What's new with Apple's latest Siri Remote, and does your old Apple TV support it?</title>
-      <link>https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/</link>
-      <pubDate>Sat, 21 Nov 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/</guid>
-      <description>The 4th-gen Apple TV 4K comes with a new remote. Here's what you need to know about it.</description>
+      <title>Samsung vs. LG OLED TVs: What's the difference between them?</title>
+      <link>https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/</link>
+      <pubDate>Sun, 22 Nov 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/</guid>
+      <description>It's not simple to say that one is better than the other.</description>
     </item>
   </channel>
 </rss>
